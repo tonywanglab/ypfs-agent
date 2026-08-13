@@ -1,0 +1,1139 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 1 
+2024 
+Denmark: Andelskassen J.A.K. Slagelse Restructuring, 2015 Denmark: Andelskassen J.A.K. Slagelse Restructuring, 2015 
+Lakshimi Swaminathan 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Swaminathan, Lakshimi (2024) "Denmark: Andelskassen J.A.K. Slagelse Restructuring, 2015," Journal of 
+Financial Crises: Vol. 6 : Iss. 1, 150-176. 
+DOI: https://doi.org/10.17132/2693-3179.1534 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/6 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol6/iss1/6
+
+--- Page 3 ---
+Denmark: Andelskassen J.A.K.  
+Slagelse Restructuring, 20151 
+Lakshimi Swaminathan2 
+Yale Program on Financial Stability Case Study 
+March 28, 2024 
+Abstract 
+Andelskassen J.A.K. Slagelse  was a small Danish cooperative bank with fewer than 4 ,000 
+depositors in 2015. Late that year, o wing to years of corporate misgovernance and 
+concentrated exposures to large borrowers , Andelskassen found itself on the brink of 
+insolvency. On October 5, 2015, the Danish Financial Supervisory Authority (DFSA) notified 
+the country’s resolution authority, the Financial Stability Company (FSC), that Andelskassen 
+could not meet its solvency requirement and that its resolution was in the public interest. 
+Consequently, the FSC took over the bank, wrote down all relevant capital instruments  to 
+zero, imposed losses on uninsured depositors and other creditors, and injected capital into 
+a new bridge bank. Andelskassen was the first bank in Denmark to be resolved using 
+principles of the European Union’s Bank Recovery and Resolution Directive (BRRD) , which 
+went into effect in Denmark in June 2015 . The FSC's Depositor and Investor Guarantee 
+Scheme, through its Guarantee Fund, participated in losses to protect depositors . The 
+Guarantee Fund provided 74.9 million Danish kroner (DKK) to the bridge bank in the form 
+of an unfunded commitment on which it ultimately paid DKK 49 million. Creditors and 
+uninsured depositors experienced losses of DKK 21.6 million from the bail -in. Equit y 
+shareholders, with book value estimated at DKK 12 million, were wiped out. After the 
+proposed sale of Andelskassen to  Swedish financial services firm  Netfonds Holding AB fell 
+through, the FSC initiated liquidation of the bank in October 2016. The liquidation is ongoing 
+as of the writing of this case. The FSC still reported book value of equity of DKK 29.1 million 
+in the bank at the end of 2022, versus DKK 37.5 million initially invested.  
+Keywords: Andelskassen J.A.K., BRRD, Denmark, deposit guarantee, liquidation, resolution 
+  
+ 
+1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering bank resolutions and restructurings. A survey of all the cases in this series (McNamara et 
+al. 2024)    and the individual cases un derlying it are available from the Journal of Financial Crises  at 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/.  
+2 Research Associate, YPFS, Yale School of Management. 
+150
+
+--- Page 4 ---
+Overview 
+This module describes the resolution of J.A.K. 
+Andelskassen Slagelse. 
+Andelskassen was a small Danish cooperative 
+bank established in 1985 (Rasmussen and 
+Hansen 2016). Beginning in 2010, the Danish 
+Financial Supervisory Authority (DFSA) 
+regularly investigated the bank for 
+deficiencies caused by concentrated 
+exposures to large borrowers  (Høie 2015; 
+Olling 2016). This had caused issues in the 
+solvency ratios of Andelskassen (FSC 2015a; 
+Sehested 2015) . On March 2, 2015, an 
+inspection by the DFSA revealed that 
+Andelskassen had a solvency ratio of 17.3% 
+against the threshold requirement of 21.3%, 
+according to news reports  (Sehested 2015) . 
+The DFSA ordered Andelskassen to produce a 
+recovery plan and initiate steps to meet the 
+solvency requirement (Andelskassen 2016a; 
+FSC 2015a; Sehested 2015). 
+With Andelskassen still unable to meet its 
+solvency requirement, on October 2, 2015 , 
+the DFSA informed Andelskassen that it had 
+until October 4, 2015, to build capital by 8.25 
+million Danish kroner (DKK; USD 1.2 
+million).3 The DFSA rejected Andelskassen’s 
+request for an extension to October 10, and 
+Andelskassen was unable to meet the 
+October 4 deadline (Sixhøj 2015b). 
+Following the missed deadline, on October 5, 
+2015, the Financial Stability Company (FSC), 
+Denmark’s national resolution authority, 
+initiated measures to resolve Andelskassen 
+after being notified by the DFSA that 
+resolution was in the public interest  (Ritzau 
+2016; Sixhøj 2015b) . The FSC took over the 
+bank, wrote down creditors and uninsured 
+depositors for DKK 21.6 million, and 
+established a bridge bank to which it 
+ 
+3 According to FRED, USD 1 = DKK 6.66 on October 5, 2015. 
+Key Terms 
+Purpose: The DFSA determined that 
+Andelskassen’s attempts to meet the solvency 
+requirement set out in its recovery plan had failed 
+and notified the FSC to proceed with the resolution, 
+since it was in public interest and alternative 
+measures were not available  
+Size and Nature of 
+Institution 
+Small cooperative bank with 
+approx. 4,000 depositors 
+with total deposits of about 
+DKK 250 million as of 2015  
+Source of Failure Inadequate capital caused by 
+credit losses 
+Start Date October 5, 2015 
+End Date Ongoing at the time of 
+writing the case 
+Approach to 
+Resolution and 
+Restructuring 
+Ownership transferred to a 
+bridge bank, with official 
+capital injection, after writing 
+down relevant capital 
+instruments followed by 
+liquidation of troubled entity 
+Outcomes The Guarantee Fund 
+guaranteed DKK 74.9 million 
+and got back DKK 25.9 
+million, for a net loss of DKK 
+49 million before interest. As 
+of 2022, the book value of 
+equity held in FS Finans V 
+A/S amounted to DKK 29.1 
+million, compared to the 
+original DKK 37.5 million 
+held by the FSC 
+Notable Features Creditors and a small number 
+of uninsured depositors lost 
+DKK 21.6 million in the bail-in; 
+First bank to bail in uninsured 
+depositors and senior 
+creditors using BRRD in 
+Denmark; 
+All eligible depositors with 
+deposits up to EUR 100,000 
+(DKK 750,000; USD 113,000) 
+were protected from the bail-
+in  
+151
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 5 ---
+transferred ownership  of Andelskassen. The Resolution Fund, the national body that 
+coordinates with the FSC to fund resolutions of Danish banks, injected DKK  37.5 million of 
+capital into this bridge bank (FSC 2015a; FSC 2016g) . Andelskassen was the first bank in 
+Denmark to be resolved using the principles of the Bank Recovery and Resolution Directive 
+(BRRD), the framework for resolving banks adopted in the European Union (EU) following 
+the Global Financial Crisis of 2007–2009 (GFC) (World Bank 2016). The FSC's Depositor and 
+Investor Guarantee Scheme, through its Guarantee Fund, participated in losses to protect 
+depositors (IMF 2020). Figure 1 shows the timeline  of events pertinent to the resolution of 
+Andelskassen. 
+Figure 1: Timeline of Andelskassen’s Resolution 
+Date Event 
+March 2, 2015 DFSA orders Andelskassen to submit a recovery plan and to take necessary steps to meet 
+solvency requirements. 
+Oct. 2, 2015 DFSA notifies the FSC that Andelskassen is likely to fail. 
+Oct. 5, 2015 DFSA notifies the FSC that Andelskassen is insolvent and that there is no possibility of finding a 
+private solution. FSC announces the takeover of Andelskassen for resolution based on an 
+interim valuation report. FSC makes a capital injection of DKK 37.5 million into the bridge bank, 
+Broinstitut I A/S, as part of the resolution measures. 
+Jan.21, 2016 FSC initiates the sale process for Andelskassen and projects the sale to close in March 2016 . 
+March 18, 2016 FSC enters into a sale agreement with Netfonds Holding AB (Netfonds), subject to the approval 
+of the DFSA, with the transaction expected to be completed in Q2 2016. 
+April 27, 2016 PwC releases its valuation report for Andelskassen, identifying a DKK 96.4 million shortfall on 
+the bank’s balance sheet. 
+April 29, 2016 FSC announces that it will address the DKK 96.4 million shortfall through the DKK 21.6 million 
+write-down of creditors and DKK 74.9 million from the Guarantee Fund 
+Oct. 31, 2016 Because Netfonds does not obtain the DFSA’s approval by October 31, 2016, the sale falls 
+through and the FSC decides to liquidate Andelskassen. 
+May 31, 2017 Andelskassen loses its license and becomes a financial company with the name FS Finans V 
+A/S, from which settlement of the remaining loans will take place. 
+2023  Liquidation is ongoing at the time of writing the case. 
+Source: Author’s analysis. 
+Following an unsuccessful attempt by the FSC to sell Andelskassen off to Netfonds Holding 
+AB (Netfonds), a Swedish financial services firm, the FSC decided to liquidate Andelskassen 
+(FSC 2016c; FSC 2016e). The liquidation is ongoing as of the writing of this case (FSC 2023). 
+The FSC still had equity of DKK 29.1 million in the bank at the end of 2022, versus DKK 37.5 
+million initially invested, for a DKK 8.4 million loss before interest or dividends (FS Finans V 
+2023). The bridge bank paid the Guarantee Fund DKK 25.9 million in 2016, bringing the total 
+cost to the fund for guaranteeing the depositors to DKK 49 million (FSC 2017; FS Finans V 
+2018). 
+152
+Denmark: Andelskassen J.A.K. Slagelse Swaminathan
+
+--- Page 6 ---
+Summary Evaluation 
+A World Bank report describes the resolution of Andelskassen as a “successful and smooth 
+open bank bail -in including write -down of uninsured depositors ” (World Bank 2016, 28) . 
+The report states that the resolution ensured private loss absorption while ensu ring 
+continuity of services. The World Bank report also states that although Andelskassen 
+ultimately had to be liquidated, there would be little change in financial stability and sharing 
+of burdens, since private stakeholders had already absorbed the losse s through the bail -in 
+and Andelskassen was restored through the capital injection. Notwithstanding the logistical 
+difficulty connected to transferring deposits faced by depositors, the report finds the orderly 
+resolution process preferable to a bankruptcy (World Bank 2016). 
+However, scholars from the European Corporate Governance Institute have deemed the 
+outcome of the resolution unsuccessful despite the speed of the processes, since the 
+unsuccessful attempt to sell the bridge bank to a third party pushed the bridge bank into 
+liquidation. They assert that this uncertainty raised questions on factoring in risk of future 
+losses, thus challenging the notion that liquidation was a cheaper option to bankruptcy 
+(Ventoruzzo and Sandrelli 2019). 
+Members of Red Andelskassen, a group of private investors who attempted to purchase the 
+bank in an effort to find a private solution, criticized the DFSA for a lack of response to their 
+proposed takeover of Andelskassen in October 2015 (Lund-Hansen 2015d). 
+An investigative r eport produced by the law firm Kromann Reumert concludes that there 
+was no way Andelskassen could have avoided an insolvency at the time of its takeover, 
+because of the factors —loan exposure, credit risk, and the like —that drove the collapse 
+(Rasmussen and Hansen 2016). 
+ 
+  
+153
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 7 ---
+Context: Denmark, J.A.K. Andelskassen Slagelse, 2014–2015 
+Assets DKK 299.7 million as of Dec. 31, 2014 
+DKK 306 million as of Dec. 31, 2015 
+Liabilities DKK 299.7 million as of Dec. 31, 2014 
+DKK 306 million as of Dec. 31, 2015 
+Deposits DKK 260.3 million as of Dec. 31, 2014 
+DKK 205.9 million as of Dec. 31, 2015 
+Capital Ratio (Tier 1) No information 
+Nonperforming Loans No information 
+Market Share Less than 0.1% 
+Banking System, % of GDP 183.4% as of Dec. 31, 2014 
+180.0% as of Dec. 31, 2015 
+Sources: Andelskassen n.d. ; Bloomberg; PwC 2016 , World Bank Deposit Insurance 
+Dataset, World Bank Global Financial Development Database.  
+ 
+  
+154
+Denmark: Andelskassen J.A.K. Slagelse Swaminathan
+
+--- Page 8 ---
+Key Design Decisions 
+1. Purpose: When Andelskassen  could not come up with the additional capital 
+required to maintain solvency owing to years to corporate misgovernance and 
+concentrated loan exposures, the FSC assumed control of the institution to ensure 
+the continuation of all critical functions and to protect client funds and depositors. 
+On October 2, 2015, the DFSA informed the management of Andelskassen that it had until 
+October 4, 201 5, to boost the bank’s capital by DKK 8.25 million to meet the solvency 
+requirement and avoid resolution. However, efforts taken by director Wolmer Møller failed, 
+since all the private actors Møller approached either lacked capital or thought that 
+Andelskassen was beyond redemption. The latter belief was underscored by an annual 
+report from BankResearch , a Danish think tan k that analyzes the banking sector,  which 
+stated that Andelskassen was the riskiest Danish bank. Andelskassen requested a 
+postponement for finding a private solution until October 10, 2015. The DFSA denied the 
+requested extension, even though they did in fact move the final deadline from October 4 to 
+5, 2015 (Sixhøj 2015b). 
+On October 5, 2015, the DFSA informed the Financial Stability Company of J.A.K. 
+Andelskassen’s failure to secure the additional capital required to m eet solvency 
+requirements (FSC 2015a; Ritzau 2016; Sixhøj 2015b) . Further, DFSA advised the FSC that 
+no other solution could solve the bank's problems in a timely manner  (FSC 2015a; FSC 
+2016g). The FSC took control of Andelskassen  and initiated resolution measures in 
+accordance with the Danish Act on Restructuring and Resolution of Certain Financial 
+Enterprises, which in turn implemented Directive 2014/59/EU of the BRRD (FSC 2015a; FSC 
+2016g) (see Key Design Decision No. 3, Legal Authority).  
+Before the decision by the DFSA and FSC to place Andelskassen in resolution , on March 2, 
+2015, after an inspection by the DFSA revealed that Andelskassen had a solvency ratio of 
+17.3% against the threshold requirement of 21.3%, it ordered Andel skassen to produce a 
+recovery plan and initiate steps to meet the solvency requirement (FSC 2015a; Sehested 
+2015). The underlying cause of this was attributed to prolonged corporate misgovernance 
+and a concentrated loan exposure, as laid out in an investigation report prepared by the law 
+firm Kromann Reumert (Rasmussen and Hansen 2016).  
+A private investor, Jens Kindberg, attempted to intervene to purchase Andelskassen both 
+before and after the resolution (Sixhøj 2016a;  Sixhøj 2016c). In fact, the managemen t of 
+Andelskassen and Kindberg entered into an agreement on October 2, 2015, wherein 
+Kindberg agreed to purchase  loans worth DKK 1 million from Andelskassen so that a 
+successful sale of Andelskassen to Arbejdernes Landsbank could be completed (Lund-
+Hansen and Johannesson 2015; Sixhøj 2016a). However, once the DFSA became aware of the 
+deal, it imposed an additional requirement of establishing a holding company by October 5, 
+2015, which could not be completed (Lund-Hansen and Johannesson 2015) . Kindberg 
+alleged that the DFSA did not permit this arrangement to proceed and pressured the 
+management to ask him to withdraw the deal. The DFSA denied these allegations (Sixhøj 
+2016a). Denmark’s minister for business, Troels Lund P oulsen, ordered the DFSA and the 
+155
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 9 ---
+FSC t o produce due explanation against Kindberg’s allegations (Sixhøj 2016b) . Kindberg 
+attempted to takeover Andelskassen for DKK 17 million on October 26, 2015 , by 
+collaborating with the group Red Andelskassen, which was composed  of the erstwhile 
+shareholders of Andelskassen (Lund-Hansen 2015c; 2015b). The DFSA and the FSC said that 
+Kindberg’s proposed plans for the takeover of Andelskassen were not acceptable and opted 
+to proceed with Andelskassen’s resolution and eventual planned sale to Netfonds. Netfonds  
+owner Rolf Dammann’s stated intention was to transform Andelskassen into an investment 
+bank (Sixhøj 2016c). 
+The FSC determined that Andelskassen met the necessary preconditions for resolution; 
+namely, that (a) the enterprise w as failing or was likely to fail  (FOLTF), (b) alternative 
+measures had been exhausted, and ( c) a resolution was in the public interest. The FSC 
+decided to go ahead with the resolution of Andelskassen to ensure the continuation of critical 
+functions and to protect client funds and depositors , since liquidation would not have 
+ensured these objectives. The FSC determined that the principles for resolution would be 
+met, including:  
+• Loss-bearing by creditors  according to the order of priority used in bankruptcy 
+proceedings,  
+• Replacement of the bank’s board of directors and executive board,  
+• Equal treatment for equally ranking creditors unless otherwise provided in the Act, 
+and  
+• No loss-bearing by a creditor greater than what it would have had to bear in the 
+event of bankruptcy proceedings, although certain creditors did receive a small 
+amount of these payments (see Key Design Decision No. 9, Treatment of Creditors 
+and Equity Holders) (FSC 2015a). 
+Following BRRD principles, the FSC prepared an interim valuation rep ort that guided its 
+resolution decisions (FSC 2015a).  
+In October 2016, after the proposed sale of Andelskassen to Netfonds fell through when the 
+latter failed to secure approval from the DFSA, the FSC decided to liquidate Andelskassen 
+“based on the experience from the sale process and other circumstances about Andelskassen 
+J.A.K. Slagelse under control” (FSC 2017, 43). The assessment report prepared by HC Krogh 
+from PricewaterhouseCoopers (PwC) formed the basis for the final implementation of the 
+liquidation (FSC 2016c). 
+The initial valuation report, prepared by the FSC in October 2015 in the interest of time, 
+specified that all claims pertaining to the share capital, subordinated debt, claims of 
+unsecured creditors, and uninsured deposits not covered by th e Guarantee Fund would be 
+lost (FSC 2017; IMF 2020). The FSC came up with a negative value for equity (assets minus 
+liabilities) of DKK 556,000. 
+156
+Denmark: Andelskassen J.A.K. Slagelse Swaminathan
+
+--- Page 10 ---
+For the interim valuation of Andelskassen prepared by the FSC and reported by PwC, see 
+Figure 2.  
+Figure 2: FSC  Interim Valuation Report for Andelskassen as of October 5, 2015  
+(DKK thousands) 
+ASSETS LIABILITIES & EQUITY 
+Cash 792 Deposits 246,383 
+Receivables from 
+credit institutions 
+22,119 Debt to Credit institutions 6,259 
+Loans before write-
+downs 
+268,491 Subordinated debt 16,780  
+Write-downs (51,628) Other liabilities 4,452 
+Other assets 33,544   
+ Liabilities 273,874 
+Equity  (556) 
+ 273,318  273,318 
+Source: (PwC 2016). 
+Following BRRD principles, PwC later produced three valuations: Valuation 1 formed the 
+basis for determining whether rules for liquidation were met, including the FOLTF 
+assessment. Valuation 1 estimated the equity shortfall at DKK 37 million, based on writ ing 
+down DKK 85 million of nonperforming loans (PwC 2016).  
+Valuation 2 aimed to assess the economic value of assets and liabilities to ensure that losses 
+were recognized in full. Valuation 2 valued the equity shortfall at DKK 96.4 million, based on 
+writing down DKK 122.5 million of nonperforming loans (PwC 2016).  
+Valuation 3 aimed to ascertain the losses incurred by the members and creditors of 
+Andelskassen in the event of bankruptcy (gone-concern basis), so that these losses could be 
+compared with the losses incurred under resolution to conclude if resolution was preferred 
+to bankruptcy. Valuation 3 valued the equity shortfall at DKK 142.7 million, assuming further 
+write-downs of DKK 46 million due to lack of liquidity among customers. Thus, these 
+valuations implied that resolution was the preferred alternative to bankruptcy proceedings, 
+since creditors would have been worse off under bankruptcy proceedings (PwC 2016). 
+2. Part of a Package: Andelskassen was not subjected to additional interventions in 
+connection with its resolution.  
+The resolution of Andelskassen took place in accordance with the template established by 
+the BRRD that was transposed into Danish law with the passage of the Act on Restructuring 
+and Resolution of Certain Financial Enterprises  in 2015. The resolution entailed a capital 
+injection worth DKK 37.5 million (FSC 2017; World Bank 2016). See Key Design Decision No. 
+8, Approach to Resolution  and Restructuring  for an in -depth discussion of this capital 
+injection. 
+157
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 11 ---
+3. Legal Authority: The resolut ion of Andelskassen followed the procedures laid 
+down in the Act on Restructuring and Resolution of Certain Financial Enterprises 
+of 2015 and the Financial Business Act of 2008. 
+Since Denmark is a member of the European Union, it transposed the BRRD into n ational 
+law, with the passage of the Act on Restructuring and Resolution of Certain Financial 
+Enterprises on June 1, 2015 (Danish Government 2015; IMF 2020). It was this national law 
+that was relevant to Andelskassen’s resolution; in fact, Andelskassen was the first bank to be 
+resolved after the BRRD went into effect in Denmark (World Bank 2016). 
+Since Denmark is not a member of the EU Banking Union, the Single Resolution Mechanism 
+(SRM) is not applicable to Danish banks (IMF 2020).  
+The relevant sections from Denmark’s 2015 bank restructuring law appear in Figure 3 in the 
+order in which J.A.K. Andelskassen applied them. 
+Figure 3: Relevant Sections from Denmark’s Act on Restructuring and Resolution of 
+Certain Financial Enterprises of 2015 
+Section Description 
+Section 61 Requires the FSC to ensure financial stability in Denmark and empowers it to 
+carry out resolution measures pursuant to the act 
+Section 12(1) Empowers the FSC to choose the most appropriate resolution measure on a 
+case-by-case basis that helps achieve resolution objectives after the conditions 
+for resolution are met 
+Section 12(4) Requires the FSC to ensure that: losses follow the order of priority of creditors, 
+no creditors incur losses greater than under bankruptcy, creditors within the 
+same class are treated in an equitable manner, and covered deposits are 
+protected in full 
+Section 44 Allows the FSC to exercise its powers against the holders of instruments of 
+ownership to write down the instruments in accordance with Section 17 of the 
+act  
+Section 15(1) Permits the FSC to assume control of the entity in resolution by assuming the 
+powers conferred upon the shareholders and board of directors and take charge 
+of the entity and manage and divest the assets and property of that entity  
+Section 16 Permits the FSC to appoint a special manager to assume responsibility for 
+managing the entity under resolution  
+Section 18 States that the write-down of relevant capital instruments will be permanent 
+and no compensation shall be paid to the holders of these relevant capital 
+instruments by the entity under resolution, other than the amount they may be 
+entitled to following the definitive valuation pursuant to Section 7(3) of the act  
+Section 21 Enables the FSC to transfer the instruments of ownership of the entity under 
+resolution to a bridge institution without the consent of the shareholders. The 
+bridge institution shall be established for the exclusive purpose of resolving the 
+entity, and the funding is in accordance with sections 17, 24, and 59 of the act  
+158
+Denmark: Andelskassen J.A.K. Slagelse Swaminathan
+
+--- Page 12 ---
+Section 56(1) Requires a resolution financing arrangement known as the Resolution Fund 
+managed by the FSC to be established in connection with the resolution  
+Section 59(1) Permits the FSC to use the Resolution Fund to make capital injections to a 
+bridge institution  
+Section 21(5) Allows the FSC to grant a liquidity facility to the bridge institution to finance the 
+takeover of the assets and rights from the entity under resolution 
+Section 26(2)  States that the Resolution Fund can make a contribution only when not less 
+than 8% of the total liabilities has been written down at the time of resolution 
+and the contribution does not exceed 5% of the total liabilities measured at the 
+time of resolution 
+Section 22  Ensures that the bridge institution is managed with an objective to maintain 
+access to critical functions and sell the entity under resolution off to appropriate 
+purchasers through an open and transparent sale process initiated by the FSC 
+and also requires that the FSC cease operating the bridge institution as soon as 
+possible and not later than two years after the date of initial transfer of assets 
+and/or ownership. The same section further states that if the bridge institution 
+ceases its operation, it will be liquidated or subjected to bankruptcy 
+proceedings, depending on the circumstances  
+Section 24  Empowers the FSC to apply bail-in for loss absorption and recapitalization of the 
+entity under resolution based on a valuation done pursuant to Section 3 of the 
+act  
+Section 25  Requires that certain instruments be written down before being bailed-in; 
+covered deposits cannot be bailed-in  
+Section 46(1)  States that the bail-in will be immediately binding on the enterprise  
+Section 19  Empowers the FSC to sell the entity under resolution without the consent of the 
+shareholders 
+Section 20(1) States that the purchaser of the entity under resolution is required to gain 
+approval from the DFSA for the sale to go through 
+Source: (Danish Government 2015). 
+In addition to the act on restructuring of 2015, certain sections of the Financial Business Act 
+of 2008 were also used. Section 262 (1) of Part 17 of the Financial Business Act of 20 084 
+permits the DFSA and the FSC to assess whether ther e are impediments to resolvability , 
+while Section 264 empowers the DFSA to impose requirements on the institution to fulfill 
+certain conditions. Section 264 grants discretionary power to the DFSA on what 
+requirements it can impose and how it calculates tho se requirements (Danish Government 
+2019). Moreover, Part 16, which pertains to crisis management, states that if a bank fails to 
+meet its capital requirement, the DFSA can convene the ultimate authority at three days’ 
+notice to act on this deficiency (Danish Government 2019).  
+ 
+4 This act was amended in 2019 and is now referred to as Financial Business Act of 2019 (Danish Government 
+2019). 
+159
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 13 ---
+4. Administration: The DFSA and the FSC were responsible for the resolution of 
+Andelskassen. The FSC was responsible for the administration of Andelskassen 
+after assuming control. 
+The two designated resolution authorities in Denmark were the DFSA and the FSC (EC 2021; 
+IMF 2020).  
+On October 2, 2015, the DFSA notified the FS C that Andelskassen was likely to fail (FSC 
+2015a). On October 5, 2015, the FSC took over Andelskassen for resolution and  established 
+a new subsidiary, Broinstitut I A/ S, through which it assumed ownership and control of 
+Andelskassen (FSC 2015a; FSC 2016g) . The FSC was an independent public entity, as 
+designated in the Act on Restructuring and Resolution of Certain Financial Enterprises  
+(Danish Government 2015; IMF 2020) . The management board, appointed by the board of 
+directors of the FSC, was in charge of the day -to-day management of the FSC (Danish 
+Government 2015). The FSC appointed new members of the board of directors and executive 
+management of Andelskassen (FSC 2015a). 
+The FSC controlled the Guarantee Fund, which committed to provide up to DKK 74.9 million 
+to protect depositors who were covered by the Depositor and Investor Guarantee Scheme in 
+Denmark and hence were excluded from the bail-in (IMF 2020).  
+On May 31, 2017, Andelskassen surrendered its banking license to the DFSA, and the FSC 
+converted the bank to FS Finans V A/S to resolve the remaining loans of Andelskassen ( FSC 
+2018). FS Finans V A/S was owned by the FSC through Broinstitut I A/S, and the board of 
+directors and management were considered to be related parties of the FSC (FS Finans V 
+2019). 
+5. Governance: The FSC was an independent body, whereas the DFSA was organized 
+under the Ministry of Industry, Business and Financial Affairs. 
+The FSC had a preapproved EU State Aid scheme for banks with balance sheet assets worth 
+less than EUR 3 billion; thus, the FSC did not need to consult the EU each time it used the 
+Resolution Fund to resolve Andelskassen (IMF 2020). 
+The FSC was an independent public company that was tasked with preparation of resolution 
+plans and execution of such plans if a firm was insolvent. The Guarantee Fund has been a 
+part of the FSC since 2015, as p er the restructuring act (FSC n.d.a). The FSC has a board of 
+seven members, with the chairman and deputy chairman being appointed by the minister 
+for business and growth for a period of one year (FSC n.d.a; FSC n.d.b). The board appoints 
+the management of the FSC. The management represents FSC as the shareholder in its 
+subsidiaries (FSC n.d.b). As required by Section 50 of Part 8 of the act, the FSC was required 
+to duly disclose to the public any resolution measure it undertook (see Key Design Decision 
+No. 6, Communication and Disclosure) (Danish Government 2015). 
+160
+Denmark: Andelskassen J.A.K. Slagelse Swaminathan
+
+--- Page 14 ---
+6. Communication and Disclosure: On October 5, 2015, the FSC stated that the 
+inability of Andelskassen to find a private solution to meet its solvency ratio 
+necessitated resolution measures.  The FSC i ssued official statements pertaining 
+to the resolution of Andelskassen via press releases and annual reports. 
+Before the decision to resolve Andelskassen, the Danish press covered the DFSA’s firing of 
+then–Andelskassen director Wolmer Møller for the violation of a money-laundering law and 
+the financial indicators of Andelskassen that signaled trouble (Ritzau 2015; Sixhøj 2015a; 
+2015b). Articles in the press reported that a risk assessment report of Danish banks from 
+BankResearch, a Danish think tank, ranked Andelskassen at the bottom of the list, indicating 
+how risky the bank’s position was relative to other Danish banks (Sixhøj 2015b). 
+All communications pertaining to the resolution of Andelskassen  were disseminated to the 
+public through prompt official statements issued by the FSC, since Section 50 of Part 8 of the 
+resolution act required the FSC to publicly disclose information pertaining to measures 
+affecting creditors, customers, shareholders, a nd other parties involved (Danish 
+Government 2015).  
+On October 5, 2015, the FSC issued an official statement announcing to the public its decision 
+to initiate resolution for Andelskassen. This press release contained all the details of the 
+actions the FSC  would take—assuming control of Andelskassen, terminating the executive 
+board and board of directors and appointing a new board, continuation of provision of 
+services by the bank to the public, write-down of relevant capital instruments, guarantee of 
+deposits up to EUR 100,000 for insured depositors, and making decisions on behalf of all 
+members and shareholders (FSC 2015a). In a separate press release, also dated October 5, 
+the FSC announced the decision to establish a new subsidiary, Broinstitut I A/S, to  take 
+ownership of Andelskassen and initiation of final valuation to be carried out by 
+PricewaterhouseCoopers. It also publicly disclosed two statements—the first decision on the 
+resolution of Andelskassen and the second decision on the resolution of Andelskassen—that 
+detailed the reasons that justified decisions taken by the FSC on October 5, 2015 (see Key 
+Design Decision No. 1, Purpose) (FSC 2015a).  
+The FSC notified the public through press releases regarding the planned sale of 
+Andelskassen to Netfonds in March 2016 and the abandonment of the sale thereafter in 
+October 2016 (FSC 2016b; FSC 2016d). The other steps involved in the resolution process—
+liquidation of Andelskassen, suspension of its bank license, and conversion of Andelskassen 
+into a financial company—were also communicated to the public through official statements 
+from the FSC. One such statement even “encouraged” customers to find a new bank (FSC 
+2016f). 
+Although the resolution measures were disclosed in full to the public through these offic ial 
+statements, the FSC stayed silent on the nuances pertaining to many such measures. For 
+instance, the official statement from the FSC mentioned that the proposed sale of 
+Andelskassen to Netfonds fell through owing to the failure of the latter to secure approval 
+from the DFSA, though neither the FSC nor the DFSA publicly disclosed the reason for the 
+non-approval (FSC 2016d). Another noteworthy silence was the lack of a report or disclosure 
+161
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 15 ---
+from the DFSA or the FSC mentioning the takeover (which ultimately failed) initiated by Jens 
+Kindberg and Red Andelskassen as a private solution to solve Andelskassen’s capital 
+shortfall, even though this was covered by the Danish press (Finans 2015; Lund -Hansen 
+2015a; Lund-Hansen and Johannesson 2015) . Similarly, while the FSC informed the public 
+of its decision to inject DKK 37.5 million into the bridge institution to recapitalize 
+Andelskassen, it does not appear to have provided any additional information pertaining to 
+the nuances of this capital injection.  
+The FSC ha s disclosed information pertaining to the resolution of Andelskassen in annual 
+reports, as well as in the annual reports of FS Finans V A/S (FSC 2022; FS Finans V 2023) . 
+The annual reports of the FSC also extensively covered the details of the lawsuit it f iled 
+against the erstwhile management of Andelskassen (see Key Design Decision No. 12, 
+Treatment of Board and Management) (FSC 2020) . The information pertaining to the 
+resolution was published to Andelskassen’s website as well (Andelskassen 2016b). 
+7. Source and Size of Funding: The creditors and uninsured depositors shared a bail-
+in cost of DKK 21.6 million; the Guarantee Fund contributed DKK 74.9 million to 
+protect eligible depositors, while the Resolution Fund injected DKK 37.5 million 
+in equity into the bridge bank.  
+Resolution costs were partly borne by shareholders, subordinated debt holders, and senior 
+credit holders via a write -down of these instruments for loss absorption (IMF 2020). The 
+total write-down of creditors and uninsured depositors came to DKK 21.6 million; the write-
+down of equity was estimated at DKK 12 million. Eligible depositors had up to EUR 100,000 
+(DKK 750,000) exempted from the bail-in (FSC 2016g; IMF 2020). 
+The Guarantee Fund contributed DKK 74.9 million to protect insured deposits. The bank, in 
+its 2015 annual report following the government takeover, reported this amount as an asset 
+in the form of an unfunded government commitment. In 2016, the bank paid the DIS back 
+DKK 25.9 million, leaving the cost of protecting insured depositor s at DKK 49 million. The 
+bank paid all depositors in 2017, drawing in part upon this commitment from the DIS. T he 
+DIS fully funded the depositor payout from its own capital sources , based on levies paid by 
+banks and mortgage institutions (PwC 2016).  
+Section 1 of Article 56 of the resolution act requires a resolution financing arrangement with 
+the Resolution Fund managed by the FSC to be established in connection with the resolution 
+(Danish Government 2015) . This fund is financed by annual contributions (which are 
+determined by the FSC on a discretionary basis) from Danish enterprises (Danish 
+Government 2015).  
+The resolution included a capital injection of DKK 37.5 million into Broinstitut I A/S by the 
+Resolution Fund (FSC 2017; World Bank 2016). 
+162
+Denmark: Andelskassen J.A.K. Slagelse Swaminathan
+
+--- Page 16 ---
+8. Approach to Resolution and Restructuring: On October 5, 2015, the FSC resolved 
+Andelskassen J.A.K. Slagelse through the creation of a bridge bank, and all 
+shareholders and creditors except depositors covered by the Danish G uarantee 
+Fund were written down or bailed in. 
+On October 5, 2015, the FSC transferred the ownership of Andelskassen J.A.K. Slagelse to a 
+bridge bank, Broinstitut I A/S. Shareholders, unsecured creditors, and uninsured depositors 
+(greater than EUR 100,000) were written down or bailed in (Maddaloni and Scardozzi n.d.).  
+After the DFSA determined that Andelskassen was insolvent, it notified the FSC on October 
+5, 2015, that Andelskassen was FOLTF and that there were no other viable alternatives that 
+could prevent its failure. The FSC hired PwC to prepare a provisional valuation to determine 
+and confirm the extent of bail -in required to make Andelskassen solvent, the appropriate 
+transfer price in the event that Andelskassen was sold, and the valuation under a 
+hypothetical liquidation scenario (see Key Design Decision No. 1, Purpose) (World Bank 
+2016). 
+Acquisition by the FSC and Establishment of a Bridge Bank 
+Later on October 5, 2015, the FSC bailed in Andelskassen’s junior and senior unsecured 
+creditors, wrote shareholders down to zero, and injected DKK 37.5 million into Andelskassen 
+from the Resolution Fund (FSC 2015b; FSC 2017; World Bank 2016). Because Andelskassen’s 
+activities could not be taken over by an entity that did not possess a banking license, the FSC 
+established a bridge bank, Broinstitut I A/S, in accordance with the act. Broinstitut I A/S, 
+which was wholly owned by the FSC, became the sole shareholder of Andelskassen J.A.K. 
+Slagelse (FSC 2017). J.A.K. Andelskassen was open to the public for “most com mon banking 
+services” from October 6, 2015, and all the resolution decisions were made on October 5, 
+2015 (FSC 2015d; IMF 2020; Krigslund and Plesner 2015). 
+Write-down of Shareholders, Creditors, and Uninsured Depositors 
+According to the original announcem ent, shareholders, subordinated creditors, and 
+unsecured creditors would also be written down to zero, and they would be notified of the 
+write-down as soon as possible (FSC 2015c) . Depositors with up to DKK 750,000 (EUR 
+100,000) would be covered by the Dan ish Guarantee Fund (FSC 2015d). In summation, all 
+shareholders and junior creditors lost their capital while most senior creditors and 
+uninsured deposits above the limit incurred a 100% haircut (Ventoruzzo and Sandrelli 
+2019). 
+PwC carried out three valuati ons, of which the FSC used Valuation 2 to determine the size 
+and nature of private sector bail -in and DIS drawdowns (PwC 2016) . The balance sheet 
+shown in Figure 4 summarizes findings from Valuation 2 conducted by PwC. 
+  
+163
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 17 ---
+Figure 4: Balance Sheet of Andelska ssen as Prepared by PwC for 2014 and 2015  
+(DKK millions) 
+ 
+Note: The Guarantee Fund contributed DKK 74.9 million as an off-balance-sheet item. 
+Sources: Andelskassen 2016a; author’s analysis. 
+The FSC’s preliminary valuation in October 2015 estimated the loss to the Guarantee Fund 
+would be DKK 25 million, in accordance with the resolution arrangement established by the 
+Danish authorities (FSC 2016g; IMF 2020; Singh 2020) . In 2016, FSC’s commissi oned 
+auditor, PwC, revised the estimated loss to the Guarantee Fund to DKK 74.9 million (FSC 
+2017). The FSC lowered its estimate of the loss to the Guarantee Fund by DKK 25.9 million 
+in 2016. The FSC stated that it intended to sell Andelskassen by the firs t half of 2016 (FSC 
+2016g).  
+Prospective Sale to Netfonds  
+On January 21, 2016, the FSC initiated a roughly two -week sale process to divest 
+Andelskassen as a whole or separately divest customer activities with DKK 250 million in 
+loans and DKK 200 million in deposits (FSC 2016a; FSC 2016b; FSC 2016g). On March 18, the 
+FSC announced that Netfonds, a Swedish company, would purchase the shares of 
+Andelskassen, along with approximately 3,200 customers with deposits totaling DKK 175 
+million and loans totaling DKK 210 million subject to the approval of the DFSA (FSC 2016b; 
+FSC 2016e). However, in October 2016, Netfonds failed to receive approval from the DFSA. 
+On October 31, 2016, the FSC announced its decision to liquidate the bank (FSC 2016f). This 
+164
+Denmark: Andelskassen J.A.K. Slagelse Swaminathan
+
+--- Page 18 ---
+decision was m ade by FSC “based on the experience from the sale process and other 
+circumstances” (FSC 2017, 15).  
+On May 31, 2017, Andelskassen was converted into a finance company by the name of FS 
+Finans V A/S, through which the sale of the remaining loans would take place (FSC 2018). 
+The liquidation process is ongoing, at the time of writing this case. 
+9. Treatment of Creditors and Equity Holders: Creditors and equity holders were 
+written down to zero, while insured depositors were protected. 
+At the time of takeover in O ctober 2015, the FSC said that “subordinated creditors and 
+ordinary unsecured creditors have preliminarily been written down to zero” based on a 
+provisional valuation  (FSC 2016c , 1 ). Krogh from PwC provided the official Valuation 2 
+estimate in his April 20 16 report, which identified a DKK 96.4 million deficit between the 
+values of assets and liabilities. To meet that deficit, the FSC did write down some creditors 
+to zero. Specifically, it bailed in creditors for DKK 21.6 million, including DKK 16.8 million in 
+subordinated capital, DKK 2.8 million in uninsured deposits, and DKK 2 million in other 
+secured and unsecured debts (FSC 2016c). Debt secured by mortgages was not bailed in (see 
+Figure 5).  
+The remainder of the estimated DKK 96.4 million deficit, or DKK 74.9 million, was met by the 
+injection of an unfunded asset on the bank’s balance sheet that represented a commitment 
+from the Guarantee Fund to cover insured depositors (see Key Design Decision No. 10, 
+Treatment of Clients) (FSC 2016c). 
+The FSC’s October 2015 decision on Andelskassen’s resolution stated that creditors would 
+be prioritized according to bankruptcy proceedings: Equal ranking creditors would be 
+treated equally, and the loss borne by creditors would not exceed the loss they would bear 
+in the event of bankruptcy , following Section 12 (4) of the 2015 bank restructuring law, as 
+noted in Key Design Decision No. 3, Legal Authority (FSC 2015a) . The interim valuation 
+report prepared by the FSC contained a hypothetical liquidation value, f actoring in the no 
+creditor worse off than under liquidation (NCWOL) rule (World Bank 2016). 
+On October 5, 2015, the FSC announced the write-down of all equity, all subordinated 
+creditors, and a portion of senior credit ors and uninsured deposits  (Cardoso 2 020). The 
+resolution measures ensured that all eligible depositors would have their deposits up to EUR 
+100,000 (DKK 750,000) covered by the Guarantee Fund (Cardoso 2020; FSC 2015a) . An 
+official statement from the FSC stated that since the resolution measur es were effective 
+immediately (from October 5, 2015), depositors and creditors could not take actions to avoid 
+any losses (FSC 2015a) . None of the affected parties proceeded with litigation (Cardoso 
+2020). Figure 5 displays PwC’s plan to fill the gap of DKK 96.4 million. 
+  
+165
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 19 ---
+Figure 5: The PwC Plan to Fill the DKK 96.4 million Gap (DKK thousands) 
+Item Detail 
+ Balance sheet 
+relief 
+Guarantee from the Guarantee Fund  74,863 
+Bail-in of debt to credit 
+Institutions 
+Debt secured by 
+mortgages 
+ 
+0 
+Debt secured by  
+set-off 
+ 
+149 
+Due <7 days  0 
+Bail-in of uninsured deposits Deposits  2,805 
+Bail-in of other debt  1,817 
+Write-down of capital 
+instruments Subordinated debt 
+ 
+16,780 
+Total Creditor Bail-in and 
+Write-Downs  
+ 
+21,551 
+Total   96,414 
+Loss for equity 
+shareholders  
+ 
+12,068 
+Source: PwC 2016. 
+10. Treatment of Clients: Following the decision to liquidate Andelskassen, customers 
+were asked to find a new bank, as Andelskassen  would eventually terminate its 
+services to them. 
+An official statement of the FSC stated that Andelskassen would continue to provide basic 
+banking services to its customers from the morning of October 6, 2015 (FSC 2015a).  
+In March 2016, the FSC entered into an agreement to sell Andelskassen to Netfonds. As part 
+of that agreement, approximately 3,200 customers with deposits values at DKK 175 million 
+would be taken over by Netfonds (FSC 2016e) . However, after that sale fell through in 
+October 2016, the FSC took the decision to liquidate Andelskassen. On October 31, 2016, the 
+FSC announced that customers’ deposit accounts and related products would be closed and 
+that the FSC would assist customers in finding a new bank (FSC 2016d). 
+All deposit accounts were terminated, and other customers were advised to find a new bank 
+(FSC 2017). The first step taken in this regard was to terminate the agreements on payments 
+cards and services that customers had with Andelskassen, with effect from January 12, 2017. 
+Customers with deposits were sent a termination notification soon after, and customers with 
+loans had their interest rates and fees adjusted to the highest possible level on the market, 
+pursuant to their agreement with Andelskassen  (FSC 2016f) . The decision to incr ease 
+interest rates was made by the FSC, as it was felt that there were a lot of business 
+requirements to be met. Consequently, the interest rates were calculated on the basis of 
+national interest rate statistics (Henriksen et al. 2018). 
+166
+Denmark: Andelskassen J.A.K. Slagelse Swaminathan
+
+--- Page 20 ---
+Arbejdernes Landsb ank offered to take over customer relations from Andelskassen at no 
+cost to the existing customers of Andelskassen. The same announcement also mentioned that 
+if Arbejdernes Landsbank did not wish to take over Andelskassen’s liabilities (customer 
+loans, dep osits, and/or guarantees), these would remain in Andelskassen for settlement 
+purposes (FSC 2016f). Our research has not been able to ascertain whether this takeover by 
+Arbejdernes Landsbank transpired. 
+Following the suspension of its banking license on May  31, 2017, Andelskassen stopped 
+serving its customers and depositors (FSC 2018). 
+11. Treatment of Assets: The objective of Andelskassen’s liquidation was to maximize 
+recoveries from the sale of assets. 
+The primary objective of liquidating Andelskassen after its sale to Netfonds fell through was 
+to maximize recoveries from the sale of the assets (FSC 2016f). 
+12. Treatment of Board and Management: The FSC removed and replaced 
+Andelskassen’s board of directors on October 5, 2015. 
+On October 5, 2015, after the FSC took over Andelskassen for resolution, it terminated the 
+executive board and board of directors of Andelskassen and appointed Henrik Bjerre -
+Nielsen, Marianne Simonsen, and Lise Gronø as new members of the board of directors and 
+Jens Verner Andersen as  the new manager  (FSC 2015a) . Henrik Bjerre -Nielsen was the 
+director of the FSC at the time (Riisgaard 2015). This was in accordance with Sections 15 and 
+16 of the bank resolution act, which allowed the FSC to assume responsibi lities conferred 
+upon the management and appoint a special manager to manage the entity in resolution 
+(Danish Government 2015). The FSC also launched a preliminary investigation to determine 
+if the former management and auditors of Andelskassen could be held liable for any damages 
+(FSC 2016g). 
+In September 2015, the Norwegian Financial Supervisory Authority demanded that the 
+director of the bank, Wolmer Møller, be fired for breaking a money -laundering law (Sixhøj 
+2015a; TV2EAST 2015). Andelskassen was reported to the police for breaching the money -
+laundering law (Olling 2016). The DFSA fired Møller later that month. The DFSA in an official 
+statement noted that the director’s code of conduct led to his termination (Sixhøj 2015a). 
+In Dece mber 2016, the FSC initiated proceedings against the erstwhile management of 
+Andelskassen to recover some of the bank’s losses (FSC 2017). The FSC justified the liability 
+lawsuit by stating that it was the FSC’s social responsibility to claim damages caused by the 
+losses attributable to the management since bank management held fiduciary positions (FSC 
+2019). This lawsuit was filed on the b asis of the conclusions drawn by law firm Kromann 
+Reumert’s report, which held the management responsible for bad lending practices, poor 
+risk management, and failure to comply with Danish law (Rasmussen and Hansen 2016). 
+On November 15, 2019, the District Court of Glostrup ordered Møller to pay approximately 
+DKK 1.2 million in damages, of which DKK 200,000 was to be paid jointly and severally with 
+the former chairman of the board of directors. Møller appealed the case to the Eastern High 
+167
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 21 ---
+Court (FSC 2020). On July 6, 2021, the Eastern High Court upheld the decision of the Court 
+of Glostrup (FSC 2022). 
+13.  Cross-border Cooperation:  There was no cross -border cooperation involved in 
+the resolution of Andelskassen. 
+The resolution of Andelskassen did not involve any  cross-border cooperation, as all the 
+creditors and depositors were Danish citizens (World Bank 2016). 
+14. Other Conditions: There were no restrictions placed on Andelskassen.  
+The annual reports of the FSC and FS Finans V A/S as well as the official statements from the 
+FSC do not bear any information pertaining to any restrictions imposed on Andelskassen. 
+The DFSA required Andelskassen to keep meeting solvency requirements (FSC 2016g; FSC 
+2017; FSC 2018; FSC 2019; FSC 2020; FSC 2021; FSC 2022; FS Finans V 2023). 
+15.  Duration: The FSC intended to sell Andelskassen within six months of its 
+resolution. Following a failed sale attempt, the FSC decided to liquidate the bank 
+instead, which remains ongoing. 
+The FSC intended to sell Andelskassen in the first half of 2016 (within six months) (Lund-
+Hansen 2015a). However, although the FSC entered into an agreement to sell Andelskassen 
+to Netfonds in March 2016, the sale was abandoned in October 2016, after Netfonds failed to 
+receive approval from the DFSA. The FSC decided to  liquidate the bank owing to the failure 
+to find an appropriate seller in a timely manner. This represented a deviation from its initial 
+plan of selling Andelskassen off to an appropriate buyer through an open and transparent 
+sale process (FSC 2016e). 
+The liquidation of Andelskassen is ongoing at the time of writing this case. The FSC still had 
+equity of DKK 29.1 million in the bank at the end of 2022, as compared to the DKK 37.5 
+million initially invested (FS Finans V 2023). 
+  
+168
+Denmark: Andelskassen J.A.K. Slagelse Swaminathan
+
+--- Page 22 ---
+References and Key Program Documents 
+Summary of Program 
+(FSC n.d.a) Financial Stability Company (FSC). n.d.a. “About Us.” Accessed May 30, 2023. 
+Web page describing the role of the FSC in Denmark. 
+https://ypfs.som.yale.edu/node/23415 
+(FSC n.d.b) Financial Stability Company (FSC). n.d.b. “Management and Employees.” 
+Accessed June 7, 2023. 
+Web page outlining the roles and responsibilities of the management and employees of the 
+FSC (in Danish). 
+https://ypfs.som.yale.edu/node/23975/ 
+(FSC 2015a) Financial Stability Company (FSC). 2015a. “Notification to Relevant Entities in 
+Respect of the Resolution of Andelskassen J.A.K. Slagelse under Control,” October 5, 2015. 
+Letter and annexes containing FSC decisions on J.A.K. Slagelse’s resolution. 
+https://ypfs.som.yale.edu/node/23405 
+(FSC 2015b) Financial Stability Company (FSC). 2015b. “Second Decision by Finansiel 
+Stabilitet on the Resolution of Andelskassen J.A.K. Slagelse under Control,” October 5, 2015. 
+Second decision by the FSC on J.A.K. Slagelse’s resolution (unauthorized translation). 
+https://ypfs.som.yale.edu/node/23418 
+Implementation Documents 
+(PwC 2016) PricewaterhouseCoopers (PwC). 2016. “Valuation per 5 October 2015 of 
+Andelskassen J.A.K. Slagelse under Control in Accordance with the Restructuring Act and 
+Settlement of Certain Financial Companies,” April 27, 2016. 
+Valuation of J.A.K. Slagelse by PwC (in Danish). 
+https://ypfs.som.yale.edu/node/23434 
+Legal/Regulatory Guidance 
+(Danish Government 2015) Danish Government. 2015. “Danish Act on Restructuring and 
+Resolution of Certain Financial Enterprises,” March 31, 2015. 
+Unofficial translation of the act that transposed the BRRD into Danish national law (in 
+English). 
+https://ypfs.som.yale.edu/node/23402 
+(Danish Government 2019) Danish Government. 2019. “Financial Business Act,” April 24, 
+2019. 
+Unofficial translation of the act establishing rules pertaining to the establishment and 
+conduct of financial businesses in Denmark. 
+https://ypfs.som.yale.edu/node/23400 
+169
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 23 ---
+(EC 2021) European Commission (EC). 2021. State Aid SA.58478 (2020/N) – Denmark 
+Third Prolongation of the Winding-up Scheme for Small Banks. 
+EC document outlining the institutional structure for resolution of small banks in Denmark. 
+https://ypfs.som.yale.edu/node/23403 
+Media Stories 
+(Finans 2015) Finans. 2015. “New Criticism of the Danish Financial Supervisory Authority 
+in the case of the J.A.K. Andelskassen.” Finans, November 2, 2015. 
+Article on the disagreement between Jens Kindberg (the private investor who tried to rescue 
+Andelskassen) and the DFSA. 
+https://ypfs.som.yale.edu/node/23443 
+(Høie 2015) Høie, Thomas. 2015. “Facts: Andelskassen J.A.K.” Børsen, October 8, 2015. 
+News article sharing details on Andelskassen J.A.K. Slagelse’s statistics (machine translated to 
+English). 
+https://ypfs.som.yale.edu/node/23509 
+(Krigslund and Plesner 2015) Krigslund, Niklas, and Morten Plesner. 2015. “Andelskassen 
+J.A.K. Slagelse Is Taken over by Finansiel Stabilitet.” FinansWatch, October 5, 2015. 
+Article covering the takeover of Andelskassen by the FSC (machine translated to English). 
+https://ypfs.som.yale.edu/node/23483 
+(Lund-Hansen 2015a) Lund-Hansen, Christoffer. 2015a. “Financial Stability: J.A.K. Is Sold in 
+Half a Year.” Børsen, October 6, 2015. 
+News article detailing FSC’s decision to sell Andelskassen (machine translated to English). 
+https://ypfs.som.yale.edu/node/23517 
+(Lund-Hansen 2015b) Lund-Hansen, Christoffer. 2015b. “First Cooperative Members 
+Gather for Private J.A.K. Bid.” Børsen, October 28, 2015. 
+News article on the efforts taken by private groups to rescue Andelskassen (in Danish). 
+https://ypfs.som.yale.edu/node/23516 
+(Lund-Hansen 2015c) Lund-Hansen, Christoffer. 2015c. “Investor Is Seeking the Green 
+Light from the Danish Financial Supervisory Authority for Bank Purchases.” Børsen, 
+October 28, 2015. 
+Article on Jens Kindberg’s proposed takeover of Andelskassen (in Danish). 
+https://ypfs.som.yale.edu/node/23522 
+(Lund-Hansen 2015d) Lund-Hansen, Christoffer. 2015d. “Red Andelskassen Sends Threat 
+to the Danish Financial Supervisory Authority.” Børsen, November 5, 2015. 
+News article on the efforts taken by private groups to rescue Andelskassen (in Danish). 
+https://ypfs.som.yale.edu/node/23515 
+  
+170
+Denmark: Andelskassen J.A.K. Slagelse Swaminathan
+
+--- Page 24 ---
+(Lund-Hansen and Johannesson 2015) Lund-Hansen, Christoffer, and Tor Johannesson. 
+2015. “He Was Ready to Save the Pieces of the Now Broken Slagelse Bank.” Børsen, October 
+8, 2015. 
+Article on Jens Kindberg, the private investor who tried to save Andelskassen before it was 
+taken over by the resolution authorities (in Danish). 
+https://ypfs.som.yale.edu/node/23511 
+(Olling 2016) Olling, Jakob. 2016. “Former Management Will Save the Cooperative Fund.” 
+TV2 ØST, February 5, 2016. 
+News article on the private alternatives explored by the management of J.A.K. (in Danish). 
+https://ypfs.som.yale.edu/node/23477 
+(Riisgaard 2015) Riisgaard, Anders. 2015. “Losing up to DKK 40 Million on Death Knell to 
+the Co-Operative Fund.” TV2 ØST, October 7, 2015. 
+Article on the takeover of Andelskassen by the FSC (in Danish). 
+https://ypfs.som.yale.edu/node/23473 
+(Ritzau 2015) Ritzau Bureau (Ritzau). 2015. “Lokalbank Turns the Key.” Dagbladet 
+Information, October 5, 2015. 
+Article announcing the takeover of Andelskassen by the FSC (in Danish). 
+https://ypfs.som.yale.edu/node/23470 
+(Ritzau 2016) Ritzau Bureau (Ritzau). 2016. “Finansiel Stabilitet Terminates Thousands of 
+Customers’ Accounts.” Dagbladet Information, October 31, 2016. 
+Article on the termination of Andelskassen’s services to customers (in Danish). 
+https://ypfs.som.yale.edu/node/23471 
+(Sehested 2015) Sehested, Christian. 2015. “Small Co-Operative Fund Heavily Pressured 
+after Inspection Visit.” Finans, March 3, 2015. 
+Article on troubles surrounding Andelskassen (in Danish). 
+https://ypfs.som.yale.edu/node/23469 
+(Sixhøj 2015a) Sixhøj, Mads. 2015a. “Banking Researcher: Supervisory Firing Is a Gift to the 
+Directors.” Berlingske, September 18, 2015. 
+News article that disseminates the opinion of Lars Kull (banking researcher) and covers the 
+firing of Wolmer Møller (CEO of Andelskassen) (machine translated to English). 
+https://ypfs.som.yale.edu/node/23467 
+(Sixhøj 2015b) Sixhøj, Mads. 2015b. “Hat in Hand: Closed Cooperative Fund Sought Help 
+from Friends.” Berlingske, October 6, 2015. 
+News article detailing the events surrounding the resolution of Andelskassen (in Danish). 
+https://ypfs.som.yale.edu/node/23466 
+  
+171
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 25 ---
+(Sixhøj 2016a) Sixhøj, Mads. 2016a. “Be Careful Not to End up like Karsten Ree, They Said.” 
+Berlingske, February 18, 2016. 
+News article detailing the controversy surrounding the Jens Kindberg (the private investor 
+who wanted to rescue Andelskassen) deal to takeover Andelskassen (machine translated to 
+English). 
+https://ypfs.som.yale.edu/node/23465 
+(Sixhøj 2016b) Sixhøj, Mads. 2016b. “Minister Asks for Explanation in Dispute about 
+Cooperative Fund.” Berlingske, February 24, 2016. 
+News article detailing the involvement of the Danish minister of business in the disagreement 
+between Jens Kindberg (the private investor attempting to rescue Andelskassen) and DFSA (in 
+Danish). 
+https://ypfs.som.yale.edu/node/23464 
+(Sixhøj 2016c) Sixhøj, Mads. 2016c. “Norwegian Financier Wants to Run an Investment 
+Bank via the Dead-End Danish Bank.” Berlingske, March 21, 2016. 
+News article on the owner of Netfonds AB. 
+https://ypfs.som.yale.edu/node/23463 
+(TV2EAST 2015) TV2EAST. 2015. “Local Cooperative Fund Closes the Box,” October 5, 
+2015. 
+Article on the closure of J.A.K. Andelskassen. 
+https://ypfs.som.yale.edu/node/23480 
+Press Releases/Announcements 
+(Andelskassen n.d.) Andelskassen J.A.K Slagelse (Andelskassen). n.d. “Andelskassen J.A.K 
+Slagelse (Denmark) – Financials.” TheBanks.eu,. Accessed August 10, 2023. 
+Web page containing the financials for Andelskassen J.A.K. Slagelse for 2015. 
+https://ypfs.som.yale.edu/node/23455 
+(FSC 2015c) Financial Stability Company (FSC). 2015c. “Finansiel Stabilitet Initiates 
+Liquidation Measures against Andelskassen J.A.K. Slagelse.” Press release, October 5, 2015. 
+Press release announcing the initiation of liquidation measures for Andelskassen by the FSC 
+(in Danish). 
+https://ypfs.som.yale.edu/node/23417 
+(FSC 2015d) Financial Stability Company (FSC). 2015d. “Finansiel Stabilitet Takes over 
+Control of Andelskassen J.A.K. Slagelse.” Press release, October 5, 2015. 
+Press release announcing the decision of the FSC to take over Andelskassen J.A.K. Slagelse (in 
+Danish). 
+https://ypfs.som.yale.edu/node/23416 
+  
+172
+Denmark: Andelskassen J.A.K. Slagelse Swaminathan
+
+--- Page 26 ---
+(FSC 2016a) Financial Stability Company (FSC). 2016a. “Finansiel Stabilitet Initiates the 
+Sale Process for Andelskassen J.A.K. Slagelse.” Press release, January 21, 2016. 
+Press release by the FSC announcing the initiation of Andelskassen J.A.K. Slagelse’s sale (in 
+Danish). 
+https://ypfs.som.yale.edu/node/23421 
+(FSC 2016b) Financial Stability Company (FSC). 2016b. “Finansiel Stabilitet Reach 
+Agreement to Sell Andelskassen J.A.K. Slagelse.” Press release, March 18, 2016. 
+Press release by FSC on the sale of Andelskassen J.A.K. Slagelse to Netfonds. 
+https://ypfs.som.yale.edu/node/23486 
+(FSC 2016c) Financial Stability Company (FSC). 2016c. “Assessment Report, Annual Report 
+Etc. for Andelskassen J.A.K. Slagelse under Control.” Press release, April 29, 2016. 
+Press release from the FSC highlighting the updates in the resolution of Andelskassen. 
+https://ypfs.som.yale.edu/node/23488 
+(FSC 2016d) Financial Stability Company (FSC). 2016d. “Finansiel Stabilitet Abandons Its 
+Contemplated Sale of Andelskassen J.A.K. Slagelse to Netfonds Holding AB and Starts 
+Winding up the Bank.” Press release, October 31, 2016. 
+Press release announcing that the FSC’s sale of Andelskassen J.A.K. Slagelse to Netfonds did 
+not go through. 
+https://ypfs.som.yale.edu/node/23489 
+(FSC 2016e) Financial Stability Company (FSC). 2016e. “Finansiel Stabilitet’s Agreement on 
+the Sale of Andelskassen J.A.K. Slagelse to Netfonds Holding AB Will Not Be Implemented.” 
+Press release, November 1, 2016. 
+Press release from the FSC announcing that the agreement to sell Andelskassen will not be 
+completed (in Danish). 
+https://ypfs.som.yale.edu/node/23424 
+(FSC 2016f) Financial Stability Company (FSC). 2016f. “Offer for Customers in the J.A.K. 
+Slagelse Cooperative Bank in Connection with the Liquidation.” Press release, November 
+11, 2016. 
+Press release announcing that that Andelskassen J.A.K. Slagelse customers would soon receive 
+a notice of termination (in Danish). 
+https://ypfs.som.yale.edu/node/23490 
+Reports/Assessments 
+(Andelskassen 2016a) Andelskassen J.A.K Slagelse (Andelskassen). 2016a. “Annual Report 
+2015,” 2016. 
+Annual report by J.A.K. Slagelse for the financial year 2015 (in Danish). 
+https://ypfs.som.yale.edu/node/23369 
+(FS Finans V 2018) FS Finans V. 2018. Annual Report 2017. 
+Annual report of FS Finans V A/S for the financial year 2017 (in Danish). 
+https://ypfs.som.yale.edu/node/23427 
+173
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 27 ---
+(FS Finans V 2019) FS Finans V. 2019. Annual Report 2018. 
+Annual report of FS Finans V A/S for the financial year 2018 (in Danish). 
+https://ypfs.som.yale.edu/node/23428 
+(FS Finans V 2023) FS Finans V. 2023. Annual Report 2022. 
+Annual report of FS Finans V A/S for the financial year 2022 (in Danish). 
+https://ypfs.som.yale.edu/node/23431 
+(FSC 2016g) Financial Stability Company (FSC). 2016g. Annual Report 2015. 
+Annual report by the FSC for the financial year 2015 (translated by the FSC). 
+https://ypfs.som.yale.edu/node/23406 
+(FSC 2017) Financial Stability Company (FSC). 2017. Annual Report 2016. 
+Annual report by the FSC for the financial year 2016 (translated by the FSC). 
+https://ypfs.som.yale.edu/node/23426 
+(FSC 2018) Financial Stability Company (FSC). 2018. Annual Report 2017. 
+Annual report by the FSC for the financial year 2017 (translated by the FSC). 
+https://ypfs.som.yale.edu/node/23407 
+(FSC 2019) Financial Stability Company (FSC). 2019. Annual Report 2018. 
+Annual report by the FSC for the financial year 2018 (translated by the FSC). 
+https://ypfs.som.yale.edu/node/23425 
+(FSC 2020) Financial Stability Company (FSC). 2020. Annual Report 2019. 
+Annual report by the FSC for the financial year 2019 (translated by the FSC). 
+https://ypfs.som.yale.edu/node/23408 
+(FSC 2021) Financial Stability Company (FSC). 2021. Annual Report 2020. 
+Annual report by the FSC for the financial year 2020 (translated by the FSC). 
+https://ypfs.som.yale.edu/node/23414 
+(FSC 2022) Financial Stability Company (FSC). 2022. Annual Report 2021. 
+Annual report by the FSC for the financial year 2021. 
+https://ypfs.som.yale.edu/node/23409 
+(FSC 2023) Financial Stability Company (FSC). 2023. Annual Report 2022. 
+Annual report by the FSC for the financial year 2022 (in Danish). 
+https://ypfs.som.yale.edu/node/23413 
+(IMF 2020) International Monetary Fund (IMF). 2020. “Denmark: Financial Sector 
+Assessment Program.” IMF Country Report No. 20/257, August 2020. 
+FSAP by the IMF for Denmark in August 2020. 
+https://ypfs.som.yale.edu/node/23432 
+  
+174
+Denmark: Andelskassen J.A.K. Slagelse Swaminathan
+
+--- Page 28 ---
+(Rasmussen and Hansen 2016) Rasmussen, Kim, and Claus Juel Hansen. 2016. “Reporting 
+about Certain Conditions in the Co-Operative Taxes J.A.K. Slagelse under Control.” Kromann 
+Reumert, March 18, 2016. 
+Report by Kromann Reumert (a law firm) on the main causes of Andelskassen J.A.K. Slagelse’s 
+collapse (in Danish). 
+https://ypfs.som.yale.edu/node/24518 
+Key Academic Papers 
+(Cardoso 2020) Cardoso, David. 2020. “Financial Regulation Reforms and Bank Capital 
+Structure.” University of Oxford, November. 
+Study on the resolution framework in Europe post 2008 that examines three policy tools in 
+detail. 
+https://ypfs.som.yale.edu/node/23391 
+(Henriksen, Hagel, Kristensen, and Bjørn 2018) Henriksen, Jonas, Mikkel Hagel, Tobias 
+Kristensen, and Henrik Bjørn. 2018. “Distressed Bankers Crisis Management” Dissertation, 
+Aalborg University, May. 
+Aalborg University dissertation on the management of bank crises (machine translated by 
+Google). 
+https://ypfs.som.yale.edu/node/23783 
+(Maddaloni and Scardozzi n.d.) Maddaloni, Dr. Angela Maria, and Giulia Scardozzi. n.d. The 
+New Bail-In Legislation: An Analysis of European Banking Resolution. Accessed April 28, 
+2023. 
+Book that focuses on the BRRD and its application to several individual cases in various 
+European countries. 
+https://ypfs.som.yale.edu/node/23449 
+(McNamara et al. 2024) McNamara, Christian M., Carey K. Mott, Salil Gupta, Greg Feldberg, 
+and Andrew Metrick. 2024. “Survey of Resolution and Restructuring in Europe, Pre- and 
+Post-BRRD.” Journal of Financial Crises 6, no. 1. 
+Survey of YPFS case studies examining 21st-century bank resolutions and restructurings in 
+Europe before and after the existence of the Bank Recovery and Resolution Directive. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/1 
+(Singh 2020) Singh, Dalvinder. 2020. “The EU Home and Home-Host Dilemma: The 
+Resolution Perspective.” In European Cross-Border Banking and Banking Supervision. 115–
+62. Oxford: Oxford University Press. 
+Book chapter that deals into the structure, events and challenges surrounding the 
+implementation of BRRD in Europe. 
+https://ypfs.som.yale.edu/node/23468 
+  
+175
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 29 ---
+(Ventoruzzo and Sandrelli 2019) Ventoruzzo, Marco, and Giulio Sandrelli. 2019. “O Tell Me 
+the Truth about Bail-In: Theory and Practice.” European Corporate Governance Institute, 
+ECGI Working Paper Series in Law, Working Paper No. 442/2019, March 2019. 
+Academic paper on the European regulatory approach to the bail-in of banks. 
+https://ypfs.som.yale.edu/node/23436 
+(World Bank 2016) World Bank. 2016. “Bank Resolution and ‘Bail-In’ in the EU: Selected 
+Case Studies Pre and Post BRRD.” Report No. 112265, December 12, 2016. 
+Study presenting an assessment of the bail-in tool across European resolutions. 
+https://ypfs.som.yale.edu/node/23437/ 
+Other 
+(Andelskassen 2016b) Andelskassen J.A.K Slagelse (Andelskassen). 2016b. “Cooperative 
+Fund J.A.K.,” March 22, 2016. 
+Website of the now defunct Andelskassen. 
+https://ypfs.som.yale.edu/node/23385 
+ 
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+ 
+ 
+ 
+176
+Denmark: Andelskassen J.A.K. Slagelse Swaminathan

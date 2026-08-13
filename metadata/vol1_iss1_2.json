@@ -1,0 +1,38 @@
+{
+  "doc_id": "vol1_iss1_2",
+  "document_type": "case_study",
+  "title": "The Lehman Brothers Bankruptcy A: Overview",
+  "authors": [
+    "Rosalind Z. Wiggins",
+    "Thomas Piontek",
+    "Andrew Metrick"
+  ],
+  "abstract": null,
+  "keywords": [],
+  "publication_date": "2019-03-20T23:47:47Z",
+  "doi": null,
+  "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/2",
+  "volume": 1,
+  "issue": 1,
+  "document_number": 2,
+  "bepress_id": null,
+  "raw": {
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/2",
+    "parent_key": "13935550",
+    "context_key": "13933671",
+    "title": "The Lehman Brothers Bankruptcy A: Overview",
+    "publication_date": "2019-03-20T23:47:47Z",
+    "download_format": "pdf",
+    "download_link": "https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1000&context=journal-of-financial-crises",
+    "document_type": [
+      "casestudy",
+      "Case Study",
+      "Case Studies"
+    ],
+    "author": [
+      "Rosalind Z. Wiggins",
+      "Thomas Piontek",
+      "Andrew Metrick"
+    ]
+  }
+}

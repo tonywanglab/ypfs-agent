@@ -1,0 +1,691 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 3 
+2020 
+Japan's Special Funds-Supplying Operations (Japan GFC) Japan's Special Funds-Supplying Operations (Japan GFC) 
+Alec Buchholtz 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, Growth and 
+Development Commons, International Economics Commons, Macroeconomics Commons, Public 
+Administration Commons, and the Public Economics Commons 
+Recommended Citation Recommended Citation 
+Buchholtz, Alec (2020) "Japan's Special Funds-Supplying Operations (Japan GFC)," Journal of Financial 
+Crises: Vol. 2 : Iss. 3, 421-436. 
+DOI: https://doi.org/10.17132/2693-3179.1073 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/18 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol2/iss3/18
+
+--- Page 3 ---
+Japan: Special Funds -Supplying Operations 1 
+ 
+Alec Buchholtz2 
+Yale Program on Financial Stability Case Study 
+March 18, 2019, revised: October 10, 2020 
+ 
+Abstract 
+ 
+Following the collapse of Lehman Brothers in September 2008, the global commercial paper 
+(CP) market began to tighten as interest rates rose and investors sought more-liquid money 
+market securities. The Bank of Japan (BOJ) introduced several measures in late 2008 to make 
+liquidity available to nonfinancial corporations that were strapped for cash. In December 
+2008, the BOJ implemented special funds-supplying operations in order to provide unlimited 
+liquidity to banks and other financial institutions so they could continue to fund nonfinancial 
+corporations. The BOJ would provide one - to three-month loans against an equal value of 
+eligible corporate debt at a rate equal to the target uncollateralized overnight call rate, which 
+was consisten tly 0.1% throughout the operation’s lifetime. The short -term credit market 
+gradually improved over the next year amidst consistent usage of the special operations. 
+Approximately ¥38 trillion in loans were provided before the special operations ceased in 
+March 2010. The special operations are viewed as relatively successful , as they contributed 
+to shrinking CP spreads during the first few months of implementation and promoted new 
+issuances of CP and other corporate debt. 
+Keywords: commercial paper, special operations, short-term financing, loans, Bank of Japan, 
+Japan 
+  
+ 
+1 This case study is part of Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering the responses to the global financial crisis that pertain to market liquidity programs. 
+Cases are available from the Journal of Finan cial Crises  at https://elischolar.library.yale.edu/journal -of-
+financial-crises/. 
+2 Alec Buchholtz – Research Associate, YPFS, Yale School of Management. 
+421
+
+--- Page 4 ---
+At a Glance  
+In 2008, Lehman Brothers’ bankruptcy disrupted 
+short-term funding for nonfinancial companies, 
+particularly through the commercial paper (CP) 
+market. As CP markets tightened and investors 
+turned to safer assets, investor demand for CP fell 
+and interest rate s on money market securities 
+rose. The Bank of Japan (BOJ) introduced three 
+facilities to promote liquidity in the commercial 
+paper market. First, the BOJ enhanced its repo 
+operations to cover a wider range of eligible 
+collateral, including CP. The BOJ then introduced 
+two new operations in December 2008: (1) 
+special funds -supplying operations (the special 
+operations), meant to facilitate short -term 
+corporate financing, and (2) a measure to 
+conduct outright purchases of CP, in which the 
+BOJ would purchase three-month CP and asset -
+backed CP (ABCP) , aimed at shifting credit risk 
+from financial institutions to the BOJ. 
+The special operations became active on January 8, 2009, with an initial expiration date of March 31, 
+2009. Under the special operations, the BOJ could auction loans to financial institutions, providing an 
+unlimited amount of liquidity. Loan amounts were equal to the value of corporate debt instruments 
+by participating counterparties. Under the terms and conditions, collateral that the BOJ deemed 
+eligible included corporate debt, CP, and other bills or deeds for companies, with a residual maturity 
+of between one month and three months. When loan payments were due at maturity, counterparties 
+had to repay the principal loan amount, in addition to a fe e equal to the average of the target 
+uncollateralized overnight call rate, determined monthly by the BOJ Monetary Policy Board.  
+The BOJ extended the measure three times: once until September 30, again until December 31, and 
+lastly until March 31, 2010. Th e special operations were also amended to provide loans only up to 
+three months and to not include ABCP as eligible collateral. Throughout 2009 and into early 2010, 
+the BOJ loaned an aggregate amount of approximately ¥38 trillion to counterparties against eligible 
+collateral under the special operations.  
+Summary Evaluation 
+One BOJ analysis found that the special operations, partly in conjunction with the measure to 
+purchase CP outright, greatly contributed to a decrease in interest rate spreads on CP in Japanese 
+markets during the first four months of 2009. The BOJ paper also observed that issuance rates of CP 
+increased during this time, suggesting that the CP market improved thanks to the effects of the special 
+operations.    
+Summary of Key Terms 
+Purpose: The operations aimed to ensure financial 
+stability in Japanese financial markets and facilitate 
+corporate financing through expanded money 
+market operations. 
+Introduction Date   November 21, 2008 
+Operational Date January 8, 2009 
+Termination Date  March 31, 2010 
+Legal Authority Article 33/37/38, Bank of 
+Japan Act 1997 
+Size of the Fund Unlimited 
+Aggregate Loans ~¥38 trillion (~370 billion) 
+Covered Maturities Residual maturity between 1 
+month and 3 months 
+Loan Rate Avg. of target 
+uncollateralized overnight 
+call rate; fixed rate of  0.1% 
+Japan: Special Funds-Supplying Operations 
+422
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 5 ---
+Special Funds-Supplying Operations:  Japan Context 
+ 
+GDP 
+(SAAR, Nominal GDP in LCU converted 
+to USD) 
+ 
+$4,680.1 billion in 2007 
+$5,321.2 billion in 2008 
+ 
+Source: Bloomberg 
+ 
+GDP per capita 
+(SAAR, Nominal GDP in LCU converted 
+to USD) 
+ 
+$35,275 in 2007 
+$39,339 in 2008 
+ 
+Source: Bloomberg 
+ 
+Sovereign credit rating (5-year senior 
+debt)  
+As of Q4, 2007: 
+ 
+Fitch: AA- 
+Moody’s: A1 
+S&P: AA 
+ 
+As of Q4, 2008: 
+ 
+Fitch: AA- 
+Moody’s: Aa3 
+S&P: AA 
+ 
+Source: Bloomberg 
+ 
+Size of banking system  
+$6,980.8 in total assets in 2007         
+$8,301.60 in total assets in 2008 
+ 
+Source: Bloomberg 
+ 
+Size of banking system as a percentage 
+of GDP  
+149.2% in 2007 
+156.0% in 2008 
+ 
+Source: Bloomberg 
+ 
+Size of banking system as a percentage 
+of financial system  
+Banking system assets equal to 50.2% of 
+financial system in 2007 
+Banking system assets equal to 52.1% of 
+financial system in 2008 
+ 
+Source: World Bank Global Financial 
+Development Database 
+ 
+5-bank concentration of banking 
+system  
+50.2% of total banking assets in 2007 
+58.6% of total banking assets in [year of 
+announcement] 
+ 
+423
+Japan: Special Funds-Supplying Operations Buchholtz
+
+--- Page 6 ---
+Source: World Bank Global Financial 
+Development Database 
+ 
+Foreign involvement in banking system 
+1% of total banking assets in 2007 
+1% of total banking assets in 2008 
+ 
+Source: World Bank Global Financial 
+Development Database 
+ 
+Government ownership of banking 
+system  
+Data not available for 2007/2008 
+ 
+Source: World Bank Global Financial 
+Development Database 
+ 
+Existence of deposit insurance 
+Data not available for 2007/2008 
+Source: World bank Deposit Insurance 
+Dataset 
+ 
+  
+424
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 7 ---
+I. Overview 
+Background 
+Early in the 2007 -09 financial crisis, Japan’s economy was relatively stable, withstanding 
+spillover effects from the housing crisis in the United States and the deteriorating conditions 
+in Europe. However, after Lehman Brothers declared bankruptcy in Sept ember 2008, 
+investors saw nonfinancial corporate debt as increasingly risky (Komine 2009). Unlike the 
+commercial paper ( CP) market in the United States, where most borrowers were banks, 
+financial companies, or asset-backed CP (ABCP) sponsors, nearly two-thirds of issuers in the 
+Japanese CP market were nonfinancial corporations. For that reason, the deterioration in 
+Japan’s CP market hit these corporations particularly hard (BOJ Market Report 2008, p. 24). 
+The Bank of Japan (BOJ), seeking to stabilize its commercial paper market and facilitate 
+financing for nonfinancial corporations , cut interest rates in November 2008 and Janua ry 
+2009, and implemented a variety of special market operations (BOJ Market Report 2008, p. 
+24). First, the BOJ expanded the frequency and size of its operations to purchase commercial 
+paper (CP) with repurchase agreements (BOJ Decision, December 2008). Next, on January 8, 
+2009, the BOJ implemented special funds -supplying operation s (the special operation s) 
+aimed to provide banks and other financial institutions with unlimited l iquidity against 
+eligible corporate debt pledged as collateral (BOJ Decision, December 2008).3 
+In late January 2009, the  BOJ also introduced a ¥3 trillion measure to c onduct outright 
+purchases of CP (Outright Purchases of CP 2009). To read more about the expansion of repo 
+operations and other CP measures undertaken by the BOJ , please refer to Appendix A or 
+Buchholtz 2018.  
+Program Description 
+The special operations had an objective “. . . of ensuring stability in financial markets as well 
+as facilitating corporate financing by conducting appropriate money market operations,” 
+using open market operations to provide unlimited loans against the value of corporate debt 
+pledged as eligible collateral ” (Special Operation s 2009 ). Initially, the loan duration was  
+between one and three months, the period determined by the BOJ (Special Operations 2009). 
+The special operations allowed the BOJ to provide counterparties with loans at an unlimited 
+amount, but equal in value to the eligible collateral pledged by the counterparty (Special 
+Operations 2009). Eligible collateral under the special operations included corporate debt in 
+the form of corporate bonds, most types of CP (excluding ABCP), bills drawn by companies, 
+and loans on deeds to companies  (Special Operation s 2009 ).4 The loans, which were 
+electronically transferred from the BOJ to the counterparty, came with an interest rate equal 
+to the “average of the target for the uncollateralized overnight call rate,” which throughout 
+the lifetime of the special operation s was kept at 0.1% by the BOJ P olicy Board  (Special 
+Operations 2009). 
+ 
+3 The government also channeled support to the business sector through the Shoko Chukin Bank and the 
+Development Bank of Japan, which was specifically authorized to purchase up to ¥2 trillion of CP.  
+4 At the time, the Japanese financial system was in the process of transitioning from physical certificates to 
+electronic transactions, a process described as “dematerialization.” Both physical and electronic transactions 
+were allowed under the outright purchase program (JASDEC 2008). 
+425
+Japan: Special Funds-Supplying Operations Buchholtz
+
+--- Page 8 ---
+Outcomes 
+The BOJ announced that the special operations became effective on January 8, 2009, with the 
+first operation occurring the same day. The BOJ Policy Board  amended a variety of  terms 
+under the special operation s within the first few months of enactment. In January, the BOJ 
+amended the terms to  exclude commercial paper issued by real estate investment  
+corporations from consideration as eligible collateral against  the loans, at the same time 
+announcing that it would begin to accept real estate investment corporation securities as 
+collateral in the CP repo program (BOJ Amendment, January 2009).  
+In February, the BOJ increased the frequ ency of loan auctions from twice a month to once 
+per week and extended the term of each loan to three months (BOJ Amendment , February 
+2009). The BOJ  extended the duration of the special operation s three times : once until 
+September 30, again until December 31, and lastly until March 31, 2010. Also, the BOJ  
+amended the special operations to extend all loans to three-month terms (Special Operations 
+Modifications 2009).  
+The BOJ conducted its final operation on March 24, 2010, bringing the aggregate amount of 
+loans provided over the special operations’ lifetime to approximately ¥38 trillion  (BOJ 
+Market Operations 2009, BOJ Market Operations 2010).  
+However, even though financial markets improved by this time, demand for the special 
+operations remained high. Figure 1 shows the changes in loans provided at each auction on 
+the left axis and the aggregate loan amount delivered on the right axis. While the amounts of 
+all loans fluctuated auction-by-auction, as the graph shows , auction sizes would often 
+noticeably increase at quarter ends. 
+Figure 1: Special Funds-Supplying Operations (January 2009 – March 2010) 
+ 
+Note: Data for December 29, 2009, auction is missing. 
+Source: BOJ Market Operations 2009, BOJ Market Operations 2010 
+In December 2009, the BOJ introduced a fixed -rate funds -supplying operation (FSO) to 
+further ease monetary conditions in the wake of the “Dubai Shock,” which affected U.S. and 
+0
+50000
+100000
+150000
+200000
+250000
+300000
+350000
+400000
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+16000
+Aggregate  Loan Amounts (¥ 
+100 millions)
+Bid Amounts (¥100 millions)
+Amount of Successful Loan Bids Aggregate Loan Amount
+426
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 9 ---
+Japanese stock markets  (Shino 2011) .5 The FSO was initially limited to providing an 
+aggregate of ¥10 trillion in three-month loans against pooled collateral, by way of auction. 
+When the special operations expired in March 2010, the BOJ expanded the FSO to continue 
+to “encourage a decline in longer-term interest rates” by raising the outstanding loan amount 
+to ¥20 trillion, increasing the frequency of operations to twice a week, and introducing six -
+month loans, in addition to the three-month loans (Shino 2011). 
+II. Key Design Decisions 
+1. The BOJ in troduced special operation s to ease capital constraints on financial 
+institutions and improve access to funding for nonfinancial companies. 
+Under the special operation s’ terms and conditions , the purposes of the operation  were to 
+“facilitate corporate financing ” by conducting money market operations and to ensure 
+stability in financial markets (Special Operations 2009). Another aim was to put downward 
+pressure on short-term lending rates in Japan (OECD 2009).  
+During the BOJ’s Monetary Policy Meeting in November 2008, members of the Policy Board 
+stated that strained financial markets and the deteriorating funding environment had played 
+a significant role in decreased issuances and widening spreads on CP and corporate bonds 
+since September  (BOJ Minutes, November 2008 ). Because the funding environment for 
+nonfinancial corporations was “less accommodative ,” members suggested implementing a 
+measure to provide liquidity to support them  (BOJ Minutes, November 2008 ). Such 
+measures, BOJ Board members said, should include altering the types of corporate debt 
+eligible as collateral against BOJ loans and  should expand  existing funds -supplying 
+operations collateralized by that debt.  
+The special operations were launched under Article 33/37/38, Bank of Japan Act 1997.   
+2. The BOJ could provide an unlimited amount of loans to selected counterparties. 
+The only limitation on loans to a financial institutions was the total value of corporate debt 
+a financial institution held that it could pledge as collateral (Special Operations 2009). 
+3. The program could lend to financial institutions that were counterparties of the 
+Bank of Japan.  
+Eligible counterparties were already counterparties in the BOJ’s open market operations. 
+They included banks and other financial institutions, financial instrument firms, securities 
+finance companies, and tanshi (broker) companies. The financial institutions and banks 
+that could be eligible as a counterparty under the special operations were those listed 
+ 
+5 In November 2009, Dubai World, one of Dubai’s largest state-owned companies, announced that it would 
+seek a six-month reprieve of about $4 billion in debt payments. The standstill was found to be linked directly 
+to payments on a $4 billion Islamic bond issued by Dubai World’s proper ty group, Nakheel. The 
+announcement was met with significant drops across global stock markets. ( Financial Times NA 11/25/2009) 
+427
+Japan: Special Funds-Supplying Operations Buchholtz
+
+--- Page 10 ---
+under Article 37 of the Bank of Japan Act 1997, with some exclusions as defined in the 
+terms and conditions (Special Operations 2009).6  
+Also, the BOJ decided to add to the list of its counterparties  the Development Bank of Japan, 
+which had been privatized in October 2008 but retained access to government funds and a 
+mandate to support the government crisis response, with a focus on funding large and 
+medium-sized nonfinancial corporations. The Development Bank began outright purchases 
+of CP in December, at the request of the government. The BOJ also added the bank to its list 
+of open market counterparties and, specifically, to its CP repo program (Bank of Japan , 
+January 27, 2008). 
+4. The amount of a loan would be equal to the discounted value of eligible collateral 
+pledged by counterparties.  
+The prices of eligible collateral were calculated  using the formula set forth b y the BOJ, p . 
+Different margins for each eligible collateral were dependent upon its residual maturity. 
+Additionally, the mar gins could be adjusted when necessary to ensure consistency in the 
+margin table as a whole in light of creditworthiness and marketability of the collateral  
+(Guidelines on Eligible Collateral 2000). 
+5. Collateral eligible to be submitted by counterparties included a range of corporate 
+debt. 
+Initially, the measure allowed the BOJ to purchase a range of corporate debt, which included 
+different types of CP (Special Operations 2009).  
+However, the BOJ excluded specifically accepting asset-backed commercial paper, and then, 
+excluded CP issued by real estate investment corporations, at the same time announcing that 
+it would begin to accept real estate investment corporation securities as collateral in the CP 
+repo program (BOJ Amendment, January 2009).  
+6. The loans were provided at a low fixed rate, equal to the average of the target 
+uncollateralized overnight call rate. 
+No details on motivation behind this design was found.  
+7. Initially, the special operation s would provide one - to three -month loans. Later, 
+the BOJ amended the operations to provide only three-month loans. 
+The BOJ would determine the duration of  loans under  the special operations  for each 
+counterparty, limiting loans to be between one and three months.   
+8. Initially, auctions were to be conducted twice a month. The BOJ later increased the 
+frequency to once a week. 
+ 
+6 Financial institutions are defined in Article 37, Paragraph 1 of the Bank of Japan Act, Act No.  89, 1997. 
+Eligible financial instrument firms, securities finance companies, and tanshi companies are defined in Article 
+10, Paragraph 1, Clauses 2-4. Eligible instruments are defined in Article 28, Paragraph 1 of the Financial 
+Instruments and Exchange Act, Act No. 25, 1948. The program excluded bridge banks. (Principle Terms and 
+Conditions for Outright Purchases of CP 2009).   
+428
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 11 ---
+No details on motivation behind this design was found. 
+9. Initially, the  special operation s were set to expire on March 31, 2009. The BOJ 
+extended the expiration date of the special operations multiple times. 
+No details on motivation behind this design was found. 
+III. Evaluation 
+According to an analysis by Hirose and Ohyama, the special operation s significantly 
+contributed to reducing CP issue rates during the first four months of operation (Hirose and 
+Ohyama 2010). While CP rate spreads in Japan were increasing in late 2008, the coordination 
+of implementing the outright purchase measure and special  operations helped decrease CP 
+rate spreads in January and February of 2009. However, the study finds that only the special 
+operations, not the outright purchase measure or repo operations, contributed to decreased 
+rates in March, April, and May (Hirose and Ohyama 2010).  
+One cause of this may have been that the special operation s were viewed as  the least 
+expensive of the three CP measures taken by the BOJ  due to their low fixed rate —the BOJ 
+maintained a 0.1% rate throughout the special operations’ lifetime. The low cost, in addition 
+to an improving CP market in Japan, may have provided institutions the ability to submit 
+better collateral against these loans. The BOJ believed that outside of extending the special 
+operation’s lifetime, any other amen dments to the operation might have had a negative 
+impact on financial markets by increasing volatility (Mizuno 2009). According to one speech, 
+it was the BOJ’s view that the special operations had greatly contributed to changing interest 
+rates on CP. Moreover, if institutions chose to rely more on the special operations rather than 
+other monetary measures, it would disrupt the market greatly and damage financing 
+operations once the special operations expired (Mizuno 2009). 
+IV. References 
+Bank of Japan. “Financial Markets Report.” Bank of Japan. March 2009. (BOJ Markets Report, 
+March 2009). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BoJ%20Financial%20Marke
+ts%20Report%20March%202009.pdf. 
+Bank of Japan. “ Guidelines on Eligibl e Collateral ” Bank of Japan. October 13, 2000. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Guidelines%20on%20Eligib
+le%20Collateral%20_%20%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C%20Ba
+nk%20of%20Japan.pdf. 
+Bank of Japan. “Introduction of a DVP Mechanism for the Issuance and Redemption of Stocks 
+under the New Book -Entry Transfer System for Dematerialized Stocks.” Bank of Japan. 
+January 5, 2009. (Book -Entry Transfer System). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BoJ_DVP_01-05-09.pdf. 
+429
+Japan: Special Funds-Supplying Operations Buchholtz
+
+--- Page 12 ---
+Bank of Japan. “Market Operations by the Bank of Japan (Monthly) 2009.” Bank of Japan. 
+2009. (BOJ Market Operations 2009). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Market%20Operations%20
+by%20the%20Bank%20of%20Japan%20(Monthly)%202009%20_%20%E6%97%A5%E6
+%9C%AC%E9%8A%80%E8%A1%8C%20Bank%20of%20Japan.pdf. 
+Bank of Japan. “Market Operations by the Bank of Japan (Monthly) 2010.” Bank of Japan. 
+2010. (BOJ Market Operations 2010). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BoJ_Market_Operations_201
+0.pdf. 
+Bank of Japan. “Principal Terms and Conditions for Outright Purchases of CP.” Bank of Japan. 
+January 22, 2009. (Outright Purchases of CP). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Principal%20Terms%20an
+d%20Conditions%20for%20Outright%20Purchases%20of%20CP%20(Invalid)%20_%20
+%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C%20Bank%20of%20Japan.pdf. 
+Bank of Japan. “ Principal Terms and Conditions for the Purchase of CP with Repurchase 
+Agreements.” Bank of Japan. January 22, 2 009. (CP Repo Operations). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Principal%20Terms%20an
+d%20Conditions%20for%20the%20Purchase%20of%20CP%20with%20Repurchase%20
+Agreements%20_%20%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C%20Bank%
+20of%20Japan.pdf. 
+Bank of Japan. “Principal Terms and Conditions for the Special Funds -Supplying Operations 
+to Facilitate Corporate Financing.” Bank of Japan. December 19, 2008. (Special Operations). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Principal%20Terms%20an
+d%20Conditions%20of%20the%20Special%20Funds-
+Supplying%20Operations%20to%20Facilitate%20Corporate%20Financing%20(Invalid)%
+20_%20%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C%20Bank%20of%20Japa
+n.pdf. 
+Bank of Japan. “Special Funds -Supplying Operations to Fac ilitate Corporate Financing 
+(Invalid).” Bank of Japan. 2009. (Special Operations Modification). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BoJ_Special_Funds_2009.pdf
+. 
+Bank of Japan Policy Board. “Amendments to ‘Guidelines on Eligible Collateral.’” Bank of 
+Japan. January 22, 2009. (BOJ Amendment, January 2009). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Amendments%20to%20Gui
+delines%20on%20Eligible%20Collateral.pdf. 
+Bank of Japan Policy Board. “Amendments to ‘Guidelines on Eligible Collateral.’” Bank of 
+Japan. February 19, 2009. (BOJ Amendment, February 2009). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BoJ_Expansion_02-19-
+09.pdf. 
+430
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 13 ---
+Bank of Japan Policy Board. “Establishment of ‘Principal Terms and Conditions of the Special 
+Funds-Supplying Operations to Facilitate Corporate Financing .’” Bank of Japan. December 
+19, 2008. (Establishment of Program). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BoJ_Terms_Conditions_12-
+19-08.pdf. 
+Bank of Japan Policy Board. “Minutes of the Monetary Policy Meeting on November 20 and 
+21, 2008.” Bank of Japan. December 25, 2008. (BOJ Minutes, November 2008). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BoJ_Minutes_11-20-21-
+08.pdf. 
+Bank of Japan Policy Board. “On Monetary Policy Decisions.” Bank of Japan. December 19, 
+2008. (BOJ Decision, December 2008). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BoJ_Monetary_Policy_Decisi
+ons_12-19-08.pdf. 
+Hirose, Yasuo , and Shinsuke Ohyama . 2010. “Identifying the Effect of the Bank of Japan’s 
+Liquidity Facilities: The Case of Commercial Paper Operations during the Financial Turmoil.” 
+Bank of Japan, Working Paper. December. (Hirose and Ohyama 2010). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Hirose_Ohyama_2009.pdf. 
+Japan Securities Depository Center, Inc. 2008. “Annual Report 2008.” Japan Securities 
+Depository Center, Inc. April. (JASDEC 2008). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Japan_Securities_Depositori
+es_Center_AR_2009.pdf. 
+Kerr, Simeon, and Jennifer Hughes. 2009. “Dubai shock after debt standstill call.” Financial 
+Times. November 25. (Financial Times NA 11/25/2009). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FT_Kerr_Hughes_2009.pdf. 
+Komine, Takao. 2009. “Government, Business and Markets after the Lehman Shock: A Review 
+of Aid to the Business Sector in Japan.” Japan Center for Economic Research (Komine 2009). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Komine_2009.pdf. 
+Mizuno, Atsushi. 2009. “The Conduct of Monetary Policy in Japan and Abroad: Excerpts of a 
+Speech at a Meeting with Business Leaders in Okayama.” Bank of Japan. August. (Mizuno 
+2009). https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Mizuno_2009.pdf. 
+OECD. 2009. “OECD Economy Surveys: Japan 2009.” OECD. September. (OECD 2009). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/OECD_Japan_2009.pdf. 
+Shino, Junnosuke. 2011. “A Positive Theory of Fixed-Rate Funds-Supplying Operations in an 
+Accommodative Financial Environment.” Bank of Japan, Working Paper. May. (Shino 2011).  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BoJ_Shino_05-11.pdf. 
+431
+Japan: Special Funds-Supplying Operations Buchholtz
+
+--- Page 14 ---
+V. Key Program Documents 
+Summary of Program 
+Principal Terms and Conditions for the Special Funds -Supplying Operations to Facilitate 
+Corporate Financing (Bank of Japan — 12/19/2008) – Principal terms of the special funds-
+supplying operations included providing selected counterparties unlimited loans in the form of 
+auctions, but only up to the value of posted collateral. Loans initially had a duration of between 
+one and three months and were to be repaid with a rate equal to the uncollateralized overnight 
+call rate. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Principal%20Terms%20an
+d%20Conditions%20of%20the%20Special%20Funds-
+Supplying%20Operations%20to%20Facilitate%20Corporate%20Financing%20(Invalid)%
+20_%20%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C%20Bank%20of%20Japa
+n.pdf. 
+Implementation Documents 
+Guidelines on Eligible Collateral (Bank of Japan) – The Bank of Japan Policy Board prescribes 
+a set of guidelines that the Bank of Japan follows to conduct monetary and currency operations, 
+where collateral is accepted only if creditworthy and marketable. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Guidelines%20on%20Eligib
+le%20Collateral%20_%20%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C%20Ba
+nk%20of%20Japan.pdf. 
+Minutes of the Monetary Policy Meeting on November 20 an d 21 , 2008 (Bank of Japan – 
+12/25/2008) – The Bank of Japan Policy Board introduced the special funds -supplying 
+operations as a response to strained credit markets that aimed to facilitate corporate financing. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BoJ_Minutes_11-20-21-
+08.pdf. 
+Minutes of the Monetary Policy Meeting on December 18 and 19, 2008 (Bank of Japan – 
+01/27/2008) – The Bank of Japan Policy Board introduced the principal terms and conditions 
+of the special funds-supplying operations. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BoJ_Minutes_12-18-19-
+08.pdf. 
+Minutes of the Monetary Policy Meeting on January 21 and January 22, 2009 (Bank of Japan 
+– 02/24/2009) – The Bank of Japan Policy Board passed a vote to amend the eligible collateral 
+under the special funds-supplying operations. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BoJ_Minutes_01-21-22-
+09.pdf. 
+Minutes of the Monetary Policy Meeting on F ebruary 18 and February 19, 2009 (Bank of 
+Japan – 03/24/2009) – The Bank of Japan Policy Board passed a vote  to extend the special 
+funds-supplying operations from March 31, 2009 , until September 30, 2009.  
+432
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 15 ---
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BoJ_Minutes_02-18-19-
+09.pdf. 
+Principal Terms and Conditions for the Special Funds -Supplying Operations to Facilitate 
+Corporate Financing (Bank of Japan – 12/19/2008) – Principal terms of the special funds -
+supplying operations included providing selected counterparties unlimited loans in the form of 
+auctions, but only up to the value of posted collateral. Loans initially had a duration of between 
+one and three months and were to be repaid with a rate equal to the uncollateralized overnight 
+call rate. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Principal%20Terms%20an
+d%20Conditions%20of%20the%20Special%20Funds-
+Supplying%20Operations%20to%20Facilitate%20Corporate%20Financing%20(Invalid)%
+20_%20%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C%20Bank%20of%20Japa
+n.pdf. 
+Legal/Regulatory Guidance 
+Article 37 of the Bank of Japan Act 1997 – Article 37 of the Bank of Japan Act 1997 states that 
+the Bank may provide financial institutions uncollateralized loans and when the institutions 
+“unexpectedly experience a temporary shortage of fun ds necessary for payment due to 
+accidental causes . . .” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Functions%20and%20Operatio
+ns%20of%20the%20Bank%20of%20Japan.pdf. 
+Press Releases/Announcements 
+Statement on Monetary Policy (Bank of Japan – 11/21/2008) – The Bank of Japan announced 
+that it would create a special funds-supplying operation to provide unlimited loans for liquidity 
+purposes to eligible financial institutions and banks in Japan . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BoJ_Monetary_Policy_Decisi
+ons_11-21-08.pdf. 
+Media Stories 
+Bank of Japan may reportedly double lending program (MarketWatch – 03/11/2010) – News 
+story mentioning that the special operations lending facility will be expiring on March 31, 2010, 
+while an expansion of the new fixed -rate funds-supplying operation is being considered by the 
+Bank of Japan.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/MW_BoJ_03-11-10.pdf. 
+BOJ meets as economy in worst slump since 1970s (MarketWatch – 02/16/2009) – News 
+story discussing an upcoming BOJ Policy Board meeting where the BOJ wanted to seek 
+“extraordinary” measures to assist credit -tight companies and alleviate financing conditions 
+across Japanese markets. The Japanese media states that the demand has been strong for the 
+loans. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/MW_BoJ_02-16-09.pdf. 
+ 
+433
+Japan: Special Funds-Supplying Operations Buchholtz
+
+--- Page 16 ---
+Key Academic Papers 
+Government, Business and Markets after the Lehman Shock: A Review of Aid to the Business 
+Sector in Japan  (Komine 2009) – This paper summarizes the effects of Lehman Brothers ’ 
+bankruptcy and other economic events in the United States on Japan’s economy and 
+marketplace. The author reflects on the increase in state intervention to maintain financial 
+stability and the advantages or disadvantages that using state intervention has on the market.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Komine_2009.pdf. 
+Reports/Assessments 
+The Conduct of Monetary Policy in Japan and Abroad: Excerpts of a Speech at a Meeting with 
+Business Leaders in Okayama (Bank of Japan – 08/2009) – In a speech, the Bank of Japan 
+Governor said that the Bank decided to extend the outright purchases on commercial paper 
+because although the commercial paper market has been recovering greatly, financial firms 
+hoped the operation would still be in use to “facilitate corporate financing,” in case of any 
+imminent debt downgrades or credi t slides.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Mizuno_2009.pdf. 
+Financial Markets Report – Developments in the First Half of 2009 (Bank of Japan – 
+08/31/2009) – An analysis by the Bank of Japan found that CP operations have contributed to 
+a decrease in issuance rates, but that effects on CP rated a -1 were greater than CP rated a -1+ 
+or lower. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BoJ%20Financial%20Marke
+ts%20Report%20August%202009.pdf. 
+Identifying the Effect of the  Bank of Japan’s Liquidity Facilities: The Case of Commercial 
+Paper Operations during the Financial Turmoil  (Bank of Japan – 10/2010) – This paper 
+studies the effects of the Bank of Japan’s three commercial paper operations it implemented 
+between October 2 008 and May 2009. It found that outright purchases of commercial paper 
+had visible effects at the onset of its implementation, but subsided as the commercial paper 
+market recovered. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Hirose_Ohyama_2009.pdf. 
+VI. Appendix 
+Because of the weakening commercial paper market throughout the global economy, Japan’s 
+commercial paper market was hit heavily in late September 2008, following the Lehman 
+Brothers bankruptcy. In response to the spreading financial crisis, the Bank of Japan’s Policy 
+Board issued a number of operations to alleviate the commercial paper (CP) market.  
+First, the BOJ expanded the conditions for  the pre-existing repurchase operations for CP to 
+facilitate short-term money market financing for financial institutions  as a response to the 
+credit crunch (CP Repo Operations). The BOJ increased the frequency of the operations from 
+being conducted on a quarterly basis to twice a week, while also increasing the fund supply 
+per operation from ¥300 billion to ¥600 billion  (BOJ Markets Report, March 2009 ). 
+434
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 17 ---
+Moreover, the BOJ expanded eligible loan  collateral to include dematerialized CP issued by 
+real estate investment corporations and government -guaranteed dematerialized CP ( BOJ 
+Amendment, January 2009). 
+In early November, the BOJ introduced special funds -supplying operation s (the special 
+operations) that would provide unlimited liquidity in exchange for an equal amount of 
+commercial paper collateral from financial institutions (Special Operat ions 2009). The 
+special operations provided a one- to three-month loan at a low fixed loan rate equal to the 
+average uncollateralized overnight call rate. The value of the loan would be equal to the value 
+of collateral posted by the  participating counterparty. Collateral that was eligible to be  
+posted against a loan included  corporate bonds, dematerialized CP issued by domestic 
+corporations, dematerialized CP issued by foreign corporates with guarantees, bills drawn 
+by companies, com mercial paper (excluding ABCP and , later, CP issued by real estate 
+investment corporations), and loans on deeds to companies (Special Operations 2009). 
+Finally, the BOJ passed a measure to conduct outright purchase s of  CP from financial 
+institutions, aiming to transfer some of the risk from bank balance sheets onto the BOJ’s own 
+sheet (Outright Purchases of CP  2009). The decrease in risky CP would help institutions 
+avoid credit downgrades, thus allowing them to continue borrowing liquidity in the general 
+credit market in order to meet financing needs.  However, the amount of CP the BOJ could 
+buy was limited to ¥3 trillion overall, limited to ¥300 billion per auction date, and limited to 
+¥100 billion per issuer per auction  (Outright Purchases of CP  2009). Moreover, the 
+purchases included an interest rate equal to the overnight call rate plus a penalty rate, 
+making the outright purchases of CP the most expensive of the three CP operations (Outright 
+Purchases of CP 2009). 
+ 
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu.  
+ 
+ 
+435
+Japan: Special Funds-Supplying Operations Buchholtz

@@ -1,0 +1,1183 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 3 
+2024 
+United States: Citigroup Capital Injection, 2008 United States: Citigroup Capital Injection, 2008 
+Benjamin Hoffner 
+Yale School of Management 
+Vincient Arnold 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, and Methods Commons, Public 
+Administration Commons, and the Public Economics Commons 
+Recommended Citation Recommended Citation 
+Hoffner, Benjamin and Arnold, Vincient (2024) "United States: Citigroup Capital Injection, 2008," Journal of 
+Financial Crises: Vol. 6 : Iss. 3, 530-558. 
+DOI: https://doi.org/10.17132/2693-3179.1592 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/24 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol6/iss3/24
+
+--- Page 3 ---
+United States: Citigroup Capital Injection, 20081 
+Benjamin Hoffner2 and Vincient Arnold3 
+Yale Program on Financial Stability Case Study 
+October 4, 2024 
+Abstract 
+During the first three weeks of November 2008, Citigroup’s stock price dropped almost 80%, 
+and its credit default swap spreads spiked as the market lost confidence in the bank’s ability 
+to honor its commitments. Counterparties pull ed away, and regulators determined Citi’s 
+failure would constitute a systemic risk . On November 23, 2008, the T reasury, Federal 
+Reserve Board, and F ederal Deposit Insurance Corporation announced a package of 
+measures to rescue Citi, which included an Asset Guarantee Program (AGP) to cover $306 
+billion in Citi’s assets and an ad hoc capital injection —the Targeted Investment Program 
+(TIP). Under the guarantee, Citi would absorb the first $ 39.5 billion in losses; the FDIC, 
+Treasury, and Citi agreed to share losses on the next $16.7 billion, with the Fed agreeing to 
+provide a nonrecourse loan to Citi for 90% of additional losses . On December 31, 2008, the 
+Treasury used Troubled Assets Relief Program funds to inject $20 billion in capital into Citi. 
+This injection was later subsumed under the TIP, which was officially announced on January 
+2, 2009. Under the TIP capital injection, the Treasury received $20 billion in senior preferred 
+shares and stock warrants . On July 30, 2009 , the Treasury exchanged its preferred shares 
+obtained under TIP  for new trust preferred securities, strengthening some of Citi’s capital 
+ratios. In July 2009, the Treasury also exchanged $25 billion in preferred shares through the 
+Capital Purchase Program (CPP) for common stock equivalent, which automatically 
+converted into common stock in September 2009 . On December 23, 2009, Citi repaid the 
+Treasury’s $20 billion TIP investment and terminated the AGP. Between April and December 
+2010, the Treasury sold off all its holdings of Citi’s common stock associated with the CP P. 
+On January 25, 2011, the Treasury sold all warrants from the Citi TIP for a total proceed of 
+$190.4 million, through a registered public offering. Between the disposition of warrants and 
+dividend payments, the Treasury received $1.8 billion (excluding interest expense) in 
+income from the Citi TIP investment. 
+Keywords: ad hoc capital injection, Citigroup, Global Financial Crisis, loss -sharing 
+arrangement, ring-fencing arrangement, TARP  
+ 
+1 This case study is par t of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering ad hoc capital injections. A survey of all the cases in this series (Rhee, Hoffner et al. 2024) 
+and the individual cases underlying it are available from the Journal of Financial Crises  at 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/. Rhee, Oguri et al.  (2022) surveys 
+broad-based capital injection programs. 
+2 Senior Research Associate, YPFS, Yale School of Management. 
+3 Research Associate, YPFS, Yale School of Management. 
+530
+
+--- Page 4 ---
+Overview 
+This case study is about the ad hoc capital 
+injection provided by the US Department of 
+the Treasury to Citigroup, Inc. (Citi)  through 
+the Targeted Investment Program (TIP) in 
+December 2008. For coverage of the Federal 
+Reserve’s emergency liquidity  assistance in 
+relation to the Citi ring-fencing arrangement, 
+see Arnold (forthcoming-b). 
+At the end of September 2008, Citi was one of 
+the largest financial institutions in the world. 
+Citi was a major supplier of credit to the US 
+and other countries around the world; it had 
+$277 billion in domestic deposits and 
+$500 billion in foreign deposits (Fed 2008b).  
+On October 28, 2008, using funds from the 
+Troubled Assets Relief Program (TARP), the 
+Treasury purchased $25 billion in new 
+preferred shares from Citi as part of the 
+broad-based Capital Purchase Progra m 
+(CPP); see Lawson and Kulam (2021) for a 
+separate case study on the CPP . Despite the 
+investment, Citi’s stock price continued to 
+collapse (SIGTARP 2009) . By Friday, 
+November 21, Citi counterparties had begun 
+to pull back from the firm, limiting 
+transactions with Citi , refusing to extend 
+credit to it, terminating rolling overnight and 
+other short -term funding , making margin 
+calls on Citi debt , differentiating Citi’s 
+collateral from its peers ’, and slowing or 
+stopping purchases of Citi commercial paper. 
+Investors grew concerned over Citi’s  
+viability. Over the weekend of November 21–
+23, Citi executives met with federal 
+regulators to work out a rescue plan 
+(SIGTARP 2011a). 
+On November 23, 2008, to support the stability of financial markets, the Treasury, Federal 
+Deposit Insurance Corporation (FDIC), and Fed (collec tively, the USG) announced a USG 
+support package  for Citi (USG 2008) . The USG support package  consisted of (1) capital 
+injections via the Treasury purchase of $20 billion in senior preferred stock through the 
+Targeted Investment Program (Fed 2008b)  and (2) a guarantee by the Asset Guarantee 
+Key Terms 
+Purpose: The TIP injection aimed to foster financial 
+stability by preventing the potential failure of a 
+systemically important bank, in conjunction with 
+an asset guarantee to reassure markets that Citi 
+could absorb potentially catastrophic losses 
+Announcement 
+Date 
+November 23, 2008  
+Operational Date December 31, 2008 
+Date of Final 
+Capital Injection 
+December 31, 2008 
+End Date December 23, 2009 
+Source of Funding US Treasury 
+Administrator US Treasury 
+Size $20 billion 
+Capital 
+Characteristics 
+Preferred shares (converted 
+into trust preferred 
+securities), warrants  
+Bail-in Terms No bail-in 
+Outcomes Between the disposition of 
+warrants and dividend 
+payments, the Treasury 
+received $1.8 billion 
+(excluding interest expense) 
+in income from the Citi TIP 
+investment  
+Notable Features The recapitalization was part 
+of a package that also 
+included an asset guarantee 
+provided by the government 
+and central bank 
+ 
+ 
+ 
+531
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 5 ---
+Program (AGP) of $306 billion (later reduced to $301 billion)  of assets. As part of the AGP, 
+Citi would absorb the first $39.5 billion in losses on those assets; the FDIC, Treasury, and Citi 
+agreed to share losses on the next $ 16.7 billion; and the Fed—through the Federal Reserve 
+Bank of New York ( FRBNY)—provided a nonrecourse loan facility to Citi for losses on the 
+guaranteed assets that exceeded those loss-sharing arrangements (loan facility), subject to 
+a 10% l oss-sharing agreement with Citi for any loan made under the loan facility (Fed 
+2008b). On July 30, 2009, the Treasury exchanged the preferred stock issued under the TIP 
+and AGP for new trust preferred securities  (TruPS) that had greater structural seniorit y in 
+Treasury’s view (SIGTARP 2011a). In July 2009, the Treasury also exchanged $25 billion in 
+preferred shares through the CPP for common stock equivalent, which automatically 
+converted into common stock in September 2009 (SIGTARP 2011a). 
+Following the conversion of the CPP investment, Citi entered into discussi ons with the Fed 
+and Treasury over the exit from the TIP. Citi required approval from the Fed, as its primary 
+federal regulator, to repay the TIP (SIGTARP 2011b) . On December 23, 2009,  with the 
+permission of the Treasury, Citi repaid the $20 billion TIP inves tment in full  while issuing 
+$20.3 billion in common equity during the month  to private investors (SIGTARP 2011a; 
+Treasury 2015; Treasury n.d.a). 
+On the same day, Citi also terminated its AGP arrangement. By January 25, 2011, Treasury 
+sold its outstanding warrants from the Citi TIP for a total proceed of $190.4 million. Between 
+the disposition of warrants and dividend payments, the Treasury received $1.8 billion 
+(excluding interest expense) in income from the TIP investment (Treasury 2013; Treasury 
+2015). Combined with the investments into Bank of America Corporation ( BofA), the TIP 
+generated a profit of $4 billion in total  (from $40 billion in investments) (Treasury n.d.a). 
+Between April and December 2010, the Treasury sold off all its holdings of Citi’s common 
+stock associated with the CPP (SIGTARP 2011b). For a timeline of the recapitalization, see 
+Figure 1. 
+Figure 1: Timeline of the Citigroup Recapitalization 
+Date Event  
+Oct. 14, 2008 Treasury announces initial TARP assistance through CPP investments. 
+Oct. 28, 2008 Treasury names Citi as among the first recipients of TARP funds via the CPP. Treasury uses 
+$25 billion of TARP funds to buy preferred shares of Citi. 
+Nov. 12, 2008 Citi stock hits single digits for first time since 1996 on the heels of Q3 losses of $2.8 billion. 
+Nov. 18, 2008 Citi calls then–Treasury Secretary Henry M. Paulson, Jr., and tells him that short sellers 
+are attacking the bank, asks for S ecurities and Exchange Commission (SEC) reimposition 
+of a rule on short selling.  
+Nov. 19, 2008 Citi announces further losses in structured investment vehicle (SIV) write-downs and 
+says it will take a remaining $17.4 billion in off-balance-sheet SIVs onto its balance 
+sheet; Citi stock plunges 24% and CDS spreads begin to widen. 
+532
+United States: Citigroup Capital Injection Hoffner and Arnold
+
+--- Page 6 ---
+Date Event  
+Nov. 20, 2008 In the morning, then–FRBNY President Tim Geithner, Fed Chair Ben Bernanke, Treasury 
+Secretary Paulson, FDIC Chair Sheila Bair, and Office of the Comptroller of the Currency 
+Comptroller John Dugan hold a conference call on Citi. 
+Nov. 21, 2008  • In the UK, the Financial Services Authority (FSA) imposes a $6.4 billion “cash lockup” 
+to protect Citi’s London broker-dealer; the FDIC thinks the action will be “very 
+damaging” to Citi’s liquidity position (FCIC Report 2011, 380). 
+• Concern spreads in the market that if the US government doesn’t take action over 
+the weekend, Citi might fail. 
+• Citi counterparties begin to pull back from the firm; some credit counterparties stop 
+rolling overnight funding. 
+• FRBNY holds conference call with Citi, requests that Citi make a proposal for 
+additional government assistance. 
+Nov. 22, 2008  • 3:36 a.m.: Citi delivers a proposal for government assistance to FRBNY, including a 
+government guarantee of a $306 billion asset pool. 
+• c. 12:00 p.m.: Fed, FDIC, OCC, and Treasury meet with Citi to discuss the initial 
+proposal, the terms of which would ultimately be revised. 
+Nov. 23, 2008  • FDIC staff recommend to the FDIC board that it make a systemic risk exemption for 
+Citi. 
+• Fed Board of Governors discusses and approves a loan facility for Citi. 
+• Afternoon: USG submits revised Citi proposal to Citi with new term sheet. 
+• Late night: Citi accepts USG proposal. 
+• 11:00 p.m.: USG announces support package (AGP and $20 billion capital) for Citi in 
+public press release. 
+Dec. 31, 2008  • Treasury injects $20 billion of capital into Citi in exchange for preferred shares and 
+warrants (announced ex post as falling under the TIP), as part of the package 
+announced Nov. 23. 
+Jan. 2, 2009 Treasury provides program descriptions for AGP and TIP ex post. 
+Jan. 9, 2009  Fed and Treasury officials approach the FDIC regarding the possibility of ad hoc 
+assistance to BofA. 
+Jan. 15, 2009  • Fed Board of Governors and the FDIC board of directors recommend that the 
+secretary of the Treasury invoke the systemic risk exception. 
+• Fed Board decides to provide financing support to BofA. 
+Jan. 16, 2009  • Fed, Treasury, and the FDIC announce an interagency support package consisting of 
+TARP capital injections and asset guarantees, including the Fed’s loan facility for loss-
+sharing on the pool of assets under guarantee. 
+• Citi issues preferred stock to Treasury ($4 billion) and FDIC ($3 billion) as 
+compensation for their AGP support. 
+Feb. 27, 2009 Treasury announces a plan to bolster Citi’s capital by converting Citi’s CPP preferred 
+shares into common stock. 
+June 9, 2009 Citi and the USG finalize the agreement to convert CPP preferred shares to common 
+stock. 
+July 30, 2009 Treasury exchanges its TIP preferred shares with Citi for new trust preferred securities.  
+533
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 7 ---
+Date Event  
+Dec. 23, 2009 Citi repays $20 billion in TIP, raises $20.3 billion in equity through a public offering 
+throughout the month, and terminates the AGP. 
+Dec. 10, 2010 Treasury finishes disposing of Citi common stock.  
+Jan. 25, 2011 Treasury auctions its Citi TIP warrants through a registered public offering, generating 
+proceeds of $190.4 million. 
+ 
+Source: Authors’ analysis.  
+Summary Evaluation 
+On the Monday following the announcement of the USG support package, the market 
+responded positively , and Citi’s share s closed up 58% (FCIC Report 2011) . Citi’s credit 
+default swap (CDS) spreads had widened on the news that it would take large losses, but 
+after the USG support package was announced, CDS spreads for financial and some 
+nonfinancial institutions began to narrow (Fed 2009). Figure 2 shows Citi’s stock and CDS 
+prices before and after the AGP announcement. 
+Figure 2: Citi Common Equity and Credit Default Swap Spreads, Nov.–Dec. 2008 
+ 
+Sources: LSEG/Refinitiv DataStream; authors’ calculations.  
+According to the Office of the Comptroller of the Currency (OCC), heavy deposit outflows at 
+Citi continued on Monday morning Asia time (Sunday evening Eastern US time) but slowed 
+when the USG made its support package announcement (SIGTARP 2011a). 
+However, despite the initial Treasury capital injection in Citi via preferred shares, within 
+weeks (by early February 2009), Citi was “under siege” (Geithner 2014, 306). Markets had 
+lost confidence in the quality of its capital, and Citi’s share price fell below $2 (Geithner 2014, 
+306). Although Citi had adequate regulatory capital, less than 20% of it was composed of 
+common equity , which is the highest -quality form of capital because common equity 
+534
+United States: Citigroup Capital Injection Hoffner and Arnold
+
+--- Page 8 ---
+investors are the first to absorb losses . On the basis of common equity, Citi was one of the 
+most highly leveraged banks in the country, with a ratio of 60:1 for assets to common equity. 
+By that time, markets had discounted lower -quality capital, such as the preferred equity 
+investments that Treasury had initially made through the TIP (and the CPP) (Geithner 2014, 
+306).  From that point until February 27, 2009—when Treasury announced a plan to convert 
+Citi’s CPP preferred shares into common equity —rumors spread in the markets that 
+Treasury was going to nationalize Citi (Geithner 2014, 306–315; Treasury 2009d). By spring 
+2009, it was clear that markets simply didn’t trust any non-common-equity capital (Geithner 
+2014, 347). 
+In its 2011 audit report, the Special Inspector General for the Troubled Asset Relief Program 
+(SIGTARP) said that the USG support package (in cluding the TIP) “undoubtedly” increased 
+moral hazard:  
+When the Government assured the world in 2008 that it would not let Citigroup fail, it 
+did more than reassure troubled markets – it encouraged high -risk behavior by 
+insulating risk takers from the consequences of failure. Unless and until institutions like 
+Citigroup can be left to suffer the full consequences of their own folly, the prospect of 
+more bailouts will potentially fuel more bad behavior with potentially disastrous results. 
+(SIGTARP 2011a) 
+ 
+  
+535
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 9 ---
+Context: United States, Citigroup, 2008–2009 
+Assets $1,938 billion as of Dec. 31, 2008 
+$1,857 billion as of Dec. 31, 2009 
+Liabilities $1,794 trillion as of Dec. 31, 2008 
+$1,702 trillion as of Dec. 31, 2009 
+Deposits $774 billion as of Dec. 31, 2008 
+$836 billion as of Dec. 31, 2009 
+Capital Ratio (Tier 1) 11.9% as of Dec. 31, 2008 
+11.7% as of Dec. 31, 2009 
+Nonperforming Loans Unknown 
+Market Share Unknown 
+Banking System, % of GDP 68.4% as of Dec. 31, 2008 
+62.7% as of Dec. 31, 2009 
+Sources: Bloomberg; Citi 2010; World Bank Global Financial Development Database; 
+World Bank Deposit Insurance Dataset.  
+536
+United States: Citigroup Capital Injection Hoffner and Arnold
+
+--- Page 10 ---
+Key Design Decisions 
+1. Purpose: The TIP injection aimed to foster financial stability by assuring markets 
+that the government would not let Citi fail.  
+According to the Treasury, the purpose of the TIP was to foster financial stability, strengthen 
+the economy, and protect jobs by preventing the loss of confidence in a financial institution 
+and the resulting destabilizing market disruptions (Treasury 2009b). 
+With respect to eligibility, the Congressional Oversight Panel noted that while the CPP had 
+been a voluntary program for healthy bank s, the TIP (and the Systemically Significant 
+Financial Institution [SSFI] Program) addressed institutions “experiencing more difficulty or 
+at risk of failure” in connection to other government programs (COP 2009a, 10, 43) . The 
+Treasury would select TIP participants on a “case-by-case basis” and would consider various 
+eligibility criteria including: a bank’s interconnectedness, systemic importance, access to 
+other sources of private or government assistance, size of potential risk for a loss of 
+confidence in relation to illiquid or distressed assets, and whether other institutions with 
+similar vulnerabilities might be affected by a bank’s participation in the program (Treasury 
+2009b). 
+According to then –Secretary of the Treasury Paulson and then –President of t he FRBNY 
+Geithner, the main purpose of the USG support package was to “assure the world that the 
+Government was not going to let Citigroup fail” (SIGTARP 2011a). 
+As of September 30, 2008, Citi was one of the largest financial institutions both domestically 
+and in the entire world. It was the second -largest bank in the United States with more than 
+$2 trillion in assets; its largest banking subsidiary —Citibank, N.A. —was the third -largest 
+insured depository institution in the country. Citi was a major supplier  of credit to the US 
+and other countries around the world . It had $277 billion and $500 billion in domestic and 
+foreign deposits, respectively. Citi was also a major counterparty to many institutions 
+globally and played a central role in payments clearing,  investment banking, asset 
+management, and brokerage services worldwide (Fed 2008b). 
+FDIC staff , in recommending the systemic risk exception,  said that a Citi failure “would 
+significantly undermine business and household confidence” (FCIC Report 2011, 381) . 
+Regulators were also concerned that a possible Citi failure might lead to economic impacts 
+that could undermine the effects of the Capital Purchase Program under TARP (FCIC Report 
+2011). Secretary Paulson thought that Citi was “teetering on the brink of failure” by mid -
+November 2008 (SIGTARP 2011a, 3). At the time, Fed regulators believed that a Citi failure 
+would have been destabilizing to t he global financial system by disrupting numerous 
+markets, including those for interbank credit, other credit, derivatives, qualified financial 
+contracts, bank debt, and senior subordinated debt. Then-Chairman Bernanke said that a Citi 
+failure could have r esulted in blocked access to automatic teller machines  and halted 
+issuance of paychecks. An FDIC official told SIGTARP that a Citi failure’s impacts on money  
+market liquidity could have been global in scope (SIGTARP 2011a). Then–Office of Thrift 
+537
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 11 ---
+Supervision Director John Reich  said Citi’s situation was “obviously a systemic risk 
+situation”; Secretary Paulson said, “i f Citi isn’t systemic, I don’t know what is ” (SIGTARP 
+2011a, 15) . On the weekend of November 2 1–23, 2008, at least one meeting participant 
+(representatives from the Fed, OCC, and FDIC) said the goal of Citi support was to avoid a 
+“large worldwide bank run” (SIGTARP 2011a, 15). 
+A Fed official said that the Citi preferred -share capital injection was “a clever way for the 
+government parties to provi de more protection and be more protected themselves” 
+(SIGTARP 2011a). Ultimately, policymakers judged that the additional exposure to potential 
+losses of $20 billion of TARP funds would be less costly to the financial system than the cost 
+of a Citi failure (SIGTARP 2011a). 
+Two days after the Citi capital injection ( on January 2, 2009 ), the Treasury said that it had 
+provided the Citi capital injection  under a newly named  program (when it also named the 
+ring-fencing arrangements ex post  as the Asset Guarantee Program) (SIGTARP 2011a) . 
+Treasury could have provided the capital injections under the existing Systemically 
+Significant Failing Institution Program, which it had recently cr eated to support the failing 
+insurer American International Group (AIG), but it chose not to do so in part because it did 
+not want to label Citi a failing institution (SIGTARP 2011a).4 
+Citi leadership told the FDIC that all Citi needed was expanded access to the Fed’s liquidity 
+facilities (FCIC Report 2011). However, the FDIC dismissed this option on the basis that ( a) 
+any “incremental liquidity” would be quickly eliminated by deposit outflows and (b) Citi did 
+not have adequate high -quality collateral to access the Fed’s facilities 5 (FCIC Report 2011, 
+381). On Saturday, November 22, 2008 (the day before the USG announced the new asset 
+guarantee and recapitalization package for Citi), the government considered other options,6 
+including: (a) the creation of a government conservatorship in the style of those created for 
+Fannie Mae and Freddie Mac; (b) the creation of a special purpose vehicle7 controlled by the 
+government to buy troubled assets from Citi with TARP funds; ( c) the creation of a public –
+private investment fund to buy troubled assets from Citi; and (d) further TARP capital 
+injections. Ultimately, the USG parties said that the ring -fencing (asset guarantee) strategy 
+would require far less up-front funding from the USG than purchasing assets outright  and 
+ 
+4 The Treasury announced the Systemically Significant Failing Institution (SSFI) Program in November 2008, 
+“designed to provide stability and to prevent disruption to financial markets from the failure of a systemically 
+significant institution ” (Treasury 2008) . SSFI support would be provided on a case -by-case basis , and on 
+November 25, 2008, the Treasury made the first disbursement, purchasing $40 billion of senior preferred 
+shares from AIG (Treasury 2008). The SSFI Program was ultimately renamed to the AIG Investment Program, 
+with AIG as the only recipient (Buchholtz and Lawson 2020; GAO 2010). 
+5 Indeed, Citi had moved only “a limited amount” of assets for pledging at the discount window in response to 
+an impending rating -house downgrade earlier in the year (FRBNY 2009) . Further, late in the evening on 
+Saturday, November 22, Citi requested that the Fed double Citi’s access to the Commercial Paper Funding 
+Facility, and the Fed rejected the request (SIGTARP 2011a). 
+6 Relatedly (though options considered by Citi instead of the USG), Citi was also considering on November 22 
+the sale of its whole business or parts of its business, as well as the replacement of its CEO (FactSet 2008). 
+7 A special purpose vehicle is an off-balance-sheet legal entity that can hold assets that the entity providing the 
+capital for such a vehicle may not be able to purchase or hold (SIGTARP 2011a). 
+538
+United States: Citigroup Capital Injection Hoffner and Arnold
+
+--- Page 12 ---
+would be replicable for other institutions that could come under similar pressures (SIGTARP 
+2011a). According to the Treasury, none of  the other options were “seriously considered” 
+(COP 2009b). 
+However, after the TIP investment, when market sentiment  toward Citi did not sufficiently 
+improve (resulting , ultimately, in the Treasury ’s announcing a plan to exchange  CPP 
+preferred shares for common stock on February 27, 2009), nationalization was considered 
+seriously by the Treasury and the economic leadership team at the White House 8 (Geithner 
+2014, 307–309). The Treasury team ultimately concluded that the most likely outcome of a 
+premature nationalization of Citi would be a run on BofA, followed potentially by runs on 
+other large banks such as Wells Fargo, Morgan Stanley, and Goldman Sachs (Geithner 2014, 
+325). Further, policymakers at the time agreed that  if Treasury were to nationalize Citi or 
+BofA, it would then have  had to guarantee the rest of the system to prevent system -wide 
+runs, which would have been very costly. In addition to the first -order cost of the adjacent 
+guarantees that would have been necessary, nationalization would have presented the 
+government with the choice of either liquidating the firm(s) quickly, resulting in expensive 
+fire-sale losses  for taxpayers , or running the institution(s)  for the medium to long  term, 
+which would have introduced other challenges (Geithner 2014, 344). 
+2. Part of a Package:  In connection with the TIP,  the Treasury , FDIC, and Fed 
+provided asset guarantees  under the Asset Guarantee Program , for which the 
+Treasury and FDIC were compensated by Citi with additional preferred equity 
+shares. 
+Both the TIP capital injections for Citi and BofA were constituent parts of larger USG support 
+packages, which also included the AGP (also known as the “ring -fence”), which guaranteed 
+assets on the banks’ balance sheets in loss-sharing agreements with the Treasury, FDIC, and 
+Fed (Arnold, forthcoming-a; Arnold, forthcoming-b). 
+On November 23, 2008, the Fed, FDIC, and Treasury announ ced an interagency support 
+package for Citi, which, in addition to the TIP capital injection, consisted of a guarantee by 
+the USG of $306 billion of assets (later reduced to $301 billion) (SIGTARP 2011a). Under the 
+Asset Guarantee Program, the Treasury and  FDIC agreed to guarantee ring -fence-eligible 
+assets by taking second- and third-loss positions, respectively. Under this arrangement, Citi 
+would bear the first $29 billion in losses (later expanded to $39.5 billion in the eventual 
+Master Agreement)9 on the asset pool, and then Treasury would provide $5 billion in loss 
+guarantees and the FDIC would provide $10 billion in loss guarantees (Fed 2008b; Citi, 
+Treasury, FDIC, and FRBNY 2009a) . In compensation for their loss protection, Citi would 
+ 
+8 In fact, Obama advisers Larry Summers and Jeremy Stein thought that nationalization was both necessary and 
+inevitable (Geithner 2014, 308) . Then–Treasury Secretary Geithner  and Summers wrote to Presid ent Obama 
+saying that there was a “significant chance” that both Citi and BofA would ultimately be nationalized (Geithner 
+2014, 308–309). 
+9 Originally, the November 23 announcement stated that Citi’s deductible would be $29 billion “plus reserves”; 
+factoring in (1) reserves with respect to the portfolio of roughly $9.5 billion and (2) an additional agreed-upon 
+$1 billion in reserves as compensation for excluding some hedging products, the total Citi deductible at the time 
+of signing the Master Agreement came to $39.5 billion (COP 2009b).  
+539
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 13 ---
+issue the Treasury and FDIC $4 billion and $3 billion, respectively, in preferred stock bearing 
+an 8% coupon (Fed 2008b). For the AGP, the Treasury also received warrants to purchase of 
+66.5 million common shares at a strike price of $10.61 per share ; for the TIP, the Treasury 
+received warrants to purchase 188.5 million common shares at the same strike price 
+(SIGTARP 2011a). 
+The Fed would provide an emergency loan for 90% of the amount of losses over $56.2 billion 
+through a loan facility to Citi throu gh the Federal Reserve Bank of New York. Any lending 
+through the loan facility would be collateralized against the asset pool, which would 
+comprise loans and securities backed by residential or commercial real estate (and other 
+assets that the government a nd Citi would agree as eligible) (Fed 2008a) . See Arnold 
+(forthcoming-b) for a separate case study on the Fed’s loan facility with Citi. 
+For Citi, the value of the asset guarantee was that the regulators allowed the bank to report 
+significantly higher regulatory capital ratios—which they variously reported as $16 billion 
+of additional capital or a 150 -basis-point-higher Tier 1 capital ratio. Market participants 
+responded favorably to the Asset Guarantee Program, even though Citigroup remained 
+responsible fo r the first $39.5 billion in losses, because of the widespread fears of 
+catastrophic losses at the height of the Global F inancial Crisis of 2007 –2009 (GFC) . On 
+December 23, 2009, Citi and the government parties  terminated the Master Agreement  
+governing the loan facility, thereby ending the FRBNY’s loan facility (Citi, Treasury, FDIC, and 
+FRBNY 2009b). 
+Earlier, in October 2008,  Citi was one of 12 financial institutions to receive Treasury 
+investments under a broad -based capital injection program through TARP, the CPP. On 
+October 28, Citi received $25 billion, the maximum allocation under the CPP (SIGTARP 
+2009).  
+By the time of the November 23 support package, Citi had utilized several existing GFC-era 
+programs and facilities. As of Friday, November 21, 2008, Citi had $24.3 billion outstanding 
+under the Fed’s collateralized liquidity facilities; had $200 million outstanding under the 
+Fed’s Commercial Paper Funding Facility; and had borrowed $84 billion from Federal Home 
+Loan Banks (FCIC Report 2011) . On November 23, 2008 —concurrent with the 
+announcement of the USG support package—the Fed authorized the extension of credit to 
+Citi’s London -based broker -dealer under the Primary Dealer Credit Facility  (PDCF) (Fed 
+2009). By December, Citi had also issued $32 billion in senior debt guaranteed by the FDIC 
+(FCIC Report 2011).  
+3. Legal Authority: The Emergency Economic Stabilization Act of 2008 provid ed the 
+Treasury authority for the TIP.  
+The Emergency Economic Stabilization Act (EESA) of 2008 authorized the Treasury to 
+establish the TIP under TARP (SIGTARP 2009). President George W. Bush signed EESA on 
+October 3, 2008, to give the Treasury novel auth ority to purchase distressed assets related 
+to mortgages, securities , and other financial instruments (Baker Donelson 2008) . Section 
+101(a)(1) of the EESA states that the Treasury was authorized to establish TARP to 
+540
+United States: Citigroup Capital Injection Hoffner and Arnold
+
+--- Page 14 ---
+“purchase, and to make and fund commitme nts to purchase, troubled assets from any 
+financial institution” (EESA 2008, sec. 101[a][1]). The EESA defines a “troubled asset” as (a) 
+residential or commercial mortgages, or other financial instruments based on or related to 
+mortgages; or (b) any instrument that the Treasury secretary, after consulting with the Fed 
+chair, determines “the purchase of which is necessary to promote financial market stability,” 
+after transmitting that determination to appropriate Congressional committees (EESA 2008, 
+sec. 3[9]) . Section 113(d) of the EESA stipulates that, in general, the Treasury —when 
+acquiring troubled assets of a financial institution—must also acquire warrants for the right 
+to receive nonvoting common stock or preferred stock of the financial in stitution for the 
+benefit of taxpayers (EESA 2008, sec. 11[d][1]) . Before TIP, the CPP was a broad -based 
+program through which Treasury purchased equity in financial institutions; as a TARP 
+facility, the CPP was also authorized under the EESA (Treasury n.d.b). 
+There was certain ex post controversy about the legal authority of the TIP. The Congressional 
+Oversight Panel said: 
+There is no evidence that the TIP existed as a program prior to [its January 2, 2009] 
+announcement, but funds were disbursed to Citigro up that were later attributed to the 
+TIP . . . TIP is not referred to by name in EESA [but] Treasury asserts its authority for this 
+program arises from Section 101, which authorizes Treasury to purchase troubled 
+assets. (COP 2009b) 
+Section 101(d) of the EESA required Treasury to provide a program description of its TARP 
+program within two business days of the first purchase of troubled assets.  The EESA 
+required that program description to include (a) the mechanism(s) through which Treasury 
+would buy the ass ets; ( b) the pricing/valuation methodology to be employed; ( c) asset 
+manager-selection process; and (d) criteria for selecting the troubled assets (EESA 2008, sec. 
+101[d]). Two days after its first capital injection  into Citi, Treasury provided its program  
+description and said that the underlying legal authority for the TIP was the EESA (SIGTARP 
+2011a; Treasury 2009b). In its Section 101(d) description, the Treasury said that it,  
+May invest in any financial instrument, including debt, equity, or warrants, that the 
+Secretary of the Treasury determines to be a troubled asset, after consultation with the 
+Chairman of the Board of Governors of the Federal Reserve System and notice to 
+Congress. (Treasury 2009b) 
+In exercising its TARP authorities, the Treasury sec retary was required by the EESA to 
+consider, inter alia, when purchasing assets or instruments from an individual institution, 
+that institution’s long -term viability; protecting taxpayer money and maximizing returns; 
+and providing systemic financial stability and the stability of the broader economy, to include 
+employment and foreclosures (EESA 2008, sec. 103). 
+Pursuant to Section 105(a) of the EESA, Treasury was required to make monthly disclosures 
+about its use of TARP funds (see Key Design Decision No. 6, Communication and Disclosure) 
+(EESA 2008, sec. 105[a]). 
+541
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 15 ---
+4. Administration: Treasury administered the capital injections. 
+Citi was not involved in any discussions about the TIP capital injection ; rather, the idea was 
+suggested by the USG to Citi at the end of “Citi weekend” (SIGTARP 2011a). On Saturday, 
+November 22, 2008, at 3:36 a.m., Citi delivered a proposal for government assistance to the 
+FRBNY. At about noon, the USG parties (Treasury, FDIC, and Fed) met with Citi to discuss the 
+proposal, choosing ultimately to revise the terms . That evening, Chairman Berna nke and 
+Secretary Paulson discussed whether to make a common stock or preferred share injection. 
+On Sunday , they  submitted to Citi a new proposal with a revised term sheet (SIGTARP 
+2011a). Figure 3 shows the difference between the original Citi proposal (Nov. 22) and the 
+ultimate USG support package (Nov. 23).  
+The main changes from Citi’s proposal were: ( a) the government proposal required Citi to 
+accept a significant first -loss position on the asset pool, whereas Citi has proposed that the 
+government would cover all losses on the pool; ( b) in return, the government would inject 
+an additional $20 billion in preferred equity through the program later known as TIP  (see 
+Figure 3). 
+Figure 3: US Government and Citi Assistance Proposals, November 22 and November 
+23, 2008 
+ 
+Source: SIGTARP 2011a. 
+542
+United States: Citigroup Capital Injection Hoffner and Arnold
+
+--- Page 16 ---
+After the July 2009 Citi exchanges (see Key Design Decision No. 8, Capital Characteristics), 
+the Treasury said that it expected to hold the securities in a trust (Treasury 2009a). 
+5. Governance: The Government Accountability Office  provided oversight of TARP , 
+and the Special Inspector General for TARP issued audit reports discussing the 
+financial support provided to Citi. 
+The Government Accountability Office (GAO) provided oversight of TARP. Congress also 
+created a Special Inspector General for TARP, which issued audit reports discussing the 
+financial support provided to BofA as part of its broad oversight of TARP programs. 
+Pursuant to Section 116 of EESA, the GAO provided oversight on the performance of TARP 
+and its related programs (including the TIP) (EESA 2008, sec. 116). The GAO subjected TARP 
+to oversight along the following domains:  
+• TARP’s performance in meeting the purposes of EESA in foreclosure mitigation, cost 
+reduction, financial stability, and taxpayer protection; 
+• TARP’s financial condition and internal controls; 
+• Characteristics of transactions and commitments; 
+• Characteristics and disposition of acquired assets; 
+• Efficiency of the use of appropriated funds; 
+• Legal and regulatory compliance; 
+• TARP’s efforts in mitigating conflicts of interest; 
+• Efficiency of contracting procedures. (EESA 2008, sec. 116) 
+Additionally, the Treasury would reimburse the GAO for oversight costs (EESA 2008, sec. 
+116). EESA required the GAO to submit oversight reports every 60 days to Congress and the 
+SIGTARP (EESA 2008, sec. 11 6). EESA also required TARP to issue annual reports of its 
+financial statements, audited by the GAO, to Congress and the public (EESA 2008, sec. 116). 
+The Inspector General (for SIGTARP) was appointed by the president and confirmed by the 
+Senate (EESA 2008, sec. 121) . SIGTARP was responsible for conducting, supervising, and 
+coordinating audits of the purchase, management, and disposition of assets under TARP 
+(EESA 2008, sec. 121). 
+On January 13, 2011, SIGTARP issued a 77 -page audit report entitled “Extraordinary 
+Financial Assistance Provided to Citigroup, Inc. ,” which covered, inter alia, the basis for the 
+decision to support Citi with the TIP and the basis for the decision to allow Citi to repay its 
+TIP capital injection (SIGTARP 2011a).  
+543
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 17 ---
+6. Communication and Disclosure: The Treasury had to make monthly disclosures to 
+Congress on the use of TARP funds, which included the TIP.  
+The Treasury injected capital into Citi on December 31, 2008, before announcing the name 
+of the official program in which the Citi intervention would be included, the TIP, on January 
+2, 2009 (SIGTARP 2011a). Although the capital injection would not be made until December, 
+the USG expressed the hope that its announcement in November would send a stabilizing 
+message to reassure Citi counterparties , which the USG said would be expected to increase 
+lending to Citi and relax the terms thereof (SIGTARP 2011a). 
+On December 14, 2009, the same day Citi received approval from the Fed to repay its TIP 
+investment and cancel its AGP arrangement, Citi issued a press release announcing as much 
+(SIGTARP 2011a). Two days later , on December 16, Citi issued a press release ann ouncing 
+its planned public equity offering and saying that, with its planned repayment of TIP and its 
+exit from the AGP, it would “no longer be deemed to be a recipient of ‘exceptional financial 
+assistance’ under TARP” (SIGTARP 2011a, 57). 
+Pursuant to Section 105(a) of the EESA, Treasury was required to make monthly disclosures 
+to Congress regarding its use of TARP funds  (“Monthly 105(a) Reports”) , including those 
+used in the TIP (EESA 2008, sec. 105[a]) . Starting in October 2008, Treasury has filed 
+Monthly 105(a) Reports each month, through August 2023 at the time of writing. 10 
+Additionally, Section 129 of the EESA required the Fed to report to the Senate Banking 
+Committee and House Financial Services Committee on any use of its Section 13(3) authority 
+within seven days of invoking that authority (EESA 2008, sec. 129[a][2]). 
+7. Treatment of Creditors and Equity Holders : The TIP limited dividends to 
+stockholders but did not result in consequences to bondholders. 
+During the second  hearing of the Congressional Oversight Panel on Citi and TARP, panel 
+member Damon Silvers said that the Citi TARP programs, in aggregate, resulted in a de facto 
+restructuring of Citi’s balance sheet:  
+ 
+10 Treasury’s Monthly 105(a) Reports can be found through the Federal Reserve Bank of St. Louis: 
+https://fraser.stlouisfed.org/title/troubled-asset-relief-program-tarp-5167?browse=2000s. 
+544
+United States: Citigroup Capital Injection Hoffner and Arnold
+
+--- Page 18 ---
+[Treasury] has managed TARP’s holdings in Citigroup to  affect what is essentially a 
+limited balance sheet restructuring; effectively requiring or inducing Citigroup’s 
+preferred stockholders to become common stockholders—not just the government, but 
+the private preferred stockholders that preceded the governme nt on the balance sheet. 
+Now, this step, this move, diluted common stockholders’ share of future profits 
+substantially, and this is something I strongly support from the perspective of fairness 
+and moral hazard . . . But these transactions did not apprecia bly alter Citigroup’s total 
+Tier 1 capital, as a percentage of Citigroup’s risk-adjusted assets, nor did it result in any 
+consequences for Citigroup’s bondholders. [emphasis added] (COP 2010) 
+8. Capital Characteristics: The capital injection came in the form of preferred shares 
+with an 8% dividend, later converted into trust preferred securities, which 
+strengthened Citi’s capital. 
+Preferred Shares 
+Citi issued Treasury 20,000 fixed -rate cumulative perpetual preferred shares with a 
+liquidation value of $1 millio n per share, for a total of $20 billion (Citi and Treasury 2008). 
+The preferred shares were ranked pari passu with or senior to all other preferred shares in 
+Citi, whether outstanding or not yet issued (Citi and Treasury 2008) . The preferred shares 
+qualified as Tier 1 capital (Citi 2008). 
+On Saturday, November 22, 2008, Chairman Bernanke and Secretary Paulson discussed 
+whether to structure the injection as a common -share or preferred-share injection. While 
+Bernanke initially sup ported a commo n equity investment, Paulson opted to support the 
+preferred-share investment because it would avoid diluting common shareholder equity and 
+the political ramifications of a large government stake in Citi. According to one senior Fed 
+official, the use of nonconvertible preferred shares would deter market characterization of 
+Citi as having been nationalized, which would have further undermined market confidence 
+in the bank. Additionally, preferred shares had other advantages of (a) more seniority in the 
+capital stack and resulting higher protection of taxpayers in the event of liquidation; (b) the 
+payment of dividends by Citi to the USG (SIGTARP 2011a). 
+The preferred shares paid a cumulative 8% annual dividend, computed on a 360 -day basis, 
+payable in arrears on the 15th of February, May, August, and November. The 8% rate was 
+calculated cumulatively on ( a) the liquidation amount per share and ( b) the amount of 
+accrued and unpaid dividends of any prior dividend period. When dividend payments were 
+not paid in full on the respective payment date, the dividends would be “declared pro rata so 
+that the respective amounts of such dividends declared shall bear the same ratio to each 
+other as all accrued and unpaid dividends per share” (Citi and Treasury 2008). 
+Per the agreement, the Treasury would not sell the preferred shares unless it were to a 
+qualified institutional buyer . Additionally, Citi would be obligated to provide notice to 
+Treasury of its intention to redeem preferred shares at least 30 days before—but not more 
+than 60 days before—its planned redemption date  (Citi and Treasury 2008) . Citi could not 
+redeem the TIP shares until it redeemed all $25 billion preferred shares it received under 
+545
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 19 ---
+the CPP (Citi 2008) . CPP participants could redeem shares after three years or upon 
+completing a qualified equity offering —raising additional Tier 1 or Tier 2 capital through 
+private markets equal to at least 25% of the Treasury’s investment (Lawson and Kulam 
+2021). 
+The TIP preferred shares were nonvoting but did confer class voting rights on the following: 
+(a) the issuance of shares senior to the TIP preferred shares; ( b) amendments to the rights 
+of the TIP preferred shares; and ( c) mergers, acquisitions, or other exchanges that could 
+adversely affect the rights of the TIP preferred shareholder s. Further, the Treasury would 
+retain the right to elect two directors to the board of Citi in the event that dividends were 
+not paid in full for a total of six dividend periods (regardless of whether those periods were 
+consecutive), but that election right would terminate at any time at which Citi had paid all 
+prior dividend periods (Citi and Treasury 2008). 
+Treasury had no right to convert the preferred shares into any other securities  (Citi and 
+Treasury 2008). 
+Warrants  
+For the TIP, Citi issued warrants to Treasury to purchase 1 88,501,414 shares of common 
+stock at a strike price of $1 0.61.11 The warrants would expire after 10 years. The Treasury 
+would not exercise voting rights with respect to shares acquired un der the warrants. In the 
+event of registration with the Securities and Exchange Commission, Treasury agreed to a 30-
+day holding period between notifying Citi of its intent to sell the warrants and the day on 
+which it could sell them. The warrants were fully transferrable, in whole or in part (Citi and 
+Treasury 2008). 
+Upon the redemption (in whole) of the preferred shares, Citi could repurchase the warrants 
+from Treasury at fair market value (Citi and Treasury 2008). 
+Trust Preferred Securities 
+On February 27, 2009, the Treasury announced its intention to participate in Citi’s planned 
+exchange offers, aimed at boosting Citi’s tangible common equity (Treasury 2009d) . 
+According to the plan, Citi would convert a significant portion of its preferred shares int o 
+common equity. Under the exchange, the Treasury would convert its CPP preferred shares—
+but only the amount of preferred shares that other preferred shareholders were willing to 
+convert (up to $25 billion)—into a new security that would convert into common equity. The 
+Treasury would also exchange its $20 billion TIP Citi preferred shares into new trust 
+preferred securities (TruPS) with the same 8% cash dividend rate. The TruPS would have 
+greater structural seniority (Treasury 2009d) . On July 30, 2009 , Trea sury exchanged its 
+ 
+11 Citi and Treasury could reduce this price though, for example in the case that Citi complete d a pro rata  
+repurchase of common stock (Citi and Treasury 2008) . For the AGP, Citi also issued warrants to Treasury to 
+purchase 66,531,728 common shares at a strike price of $10.61 (SIGTARP 2011a). 
+546
+United States: Citigroup Capital Injection Hoffner and Arnold
+
+--- Page 20 ---
+preferred stock obtained under the TIP and the AGP12 for new TruPS, thereby strengthening 
+some of Citi’s capital ratios. These securities were more structurally senior to preferred 
+stock13 (for example, they had a more senior claim in bankruptcy) , and Treasury continued 
+to collect its 8% annual dividend. Those trust securities were set to mature in 2039 (SIGTARP 
+2011a). 
+TruPS were hybrid securities issued by bank holding companies (BHC s) th rough the 
+following structure: the BHC created a special purpose entity (SPE), which issued cumulative 
+preferred stock; the BHC then borrow ed on those proceeds using long -term subordinated 
+debt. Since a 1996 Fed decision, a  portion of TruPS issuance satisf ied Tier 1 capital 
+requirements. The dividend payments on TruPS were tax  deductible to the BHC (since 
+dividend payments were in fact the interest on the subordinated debt). This was not true of 
+dividends paid on normal preferred equity, and therefore TruPS represented a tax advantage 
+to the issuer . While regulators considered TruPS equity for the purposes of regulatory 
+capital, rating agencies rated TruPS as debt instruments and discounted their contributions 
+to the capital strength of banks  (Moody’s Investors Service, for example, said that it “[had] 
+always considered TruPS to be far more debt -like in nature”) (French et al. 2010, 5) . The 
+FDIC said that in its experience, TruPS  holders “have been an impediment to 
+recapitalizations or sales of troubled banks” (French et al. 2010, 12). 
+The regulatory treatment of TruPS as Tier 1 capital was subject to numerous Fed conditions, 
+including, in particular, the requirement that the eligible TruPS must confer to the BHC the 
+ability to defer dividend payments.  In the Supervisory Capital Assessment Program (SCAP) 
+stress tests in the spring of 2009, bank regulators did not include TruPS in bottom -line 
+tangible equity targets of the assessments (French et al. 2010).14 
+According to the Treasury, the TruPS’ “material terms . . . [would] be substantially similar to 
+those of Citi’s traditional TruPS” (Treasury 2009a). Treasury said that the broader exchange 
+(to include the exchange of preferred shares for c ommon stock under the CPP) did not 
+increase Treasury’s investment in Citi but did “increase the risk of the investment for the 
+government” (Treasury 2009d); while the trust preferred securities were more senior in the 
+capital stack vis-à-vis the preferred shares, the common stock, exchanged through the CPP,  
+was more junior.  
+9. Size and Source  of Funding : Under the TIP, the Treasury provided a one-time 
+capital injection of $20 billion using TARP funds. 
+The Citi TIP capital injection totaled $20 billion.  Then-Secretary Paulson said his team 
+conducted no Citi-specific analysis to arrive at the figure but rather considered the limited 
+ 
+12 The FDIC similarly converted its $3 billion in preferred shares to $3 billion in trust securities (SIGTARP 
+2011a).  
+13 In at least one instance, Treasury noted that Citi had outstanding enhanced trust preferred securities, but 
+research was unable to obtain further information on those securities and found no evidence that Treasury 
+ultimately obtained any of them (Treasury 2009a). 
+14 The Dodd–Frank Wall Street Reform and Consumer Protection Act of 2010 eliminated most BHCs’ ability to 
+include TruPS in Tier 1 regulatory capital levels (French et al. 2010). 
+547
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 21 ---
+amount of available TARP funds and the possibility of another bank ’s needing TARP funds. 
+Although there was no written documentation concerning the process of arriving at the $20 
+billion figure, then–FRBNY President Geithner said the decision was the result of FRBNY and 
+Treasury discussions (SIGTARP 2011a) . In regard to the $20  billion size, Geithner said, 
+“there’s no perfect science to this thing.  . . You need to balance risk versus what the firm 
+needs, but it was Treasury’s money” (SIGTARP 2011a, 22). 
+10. Timing: The Treasury announced ad hoc investments into Citi following a 
+precipitous decline in Citi’s stock price and after previously investing $25 billion 
+through a broad-based capital injection program. 
+On October 28, 2008, Citi received a $25 billion capital injection , also through preferred 
+shares, from the Treasury under the  broad-based Capital Purchase Program (SIGTARP 
+2009). Despite the investment, Citi’s stock price continued to collapse in the following weeks, 
+falling from $13.99 on November 3, 2008, to $3.05 on Friday, November 21 (SIGTARP 
+2011a). Over the weekend of November 21, Citi executives met with Federal regulators to 
+work out a rescue plan (SIGTARP 2011a).  
+On Sunday, November 23, 2008, in order to support the stability of financial markets, the 
+government announced the support package for Citi (USG 2008). The package consisted of 
+(a) capital injections via the Trea sury purchase of $20 billion in senior preferred stock 
+through the Targeted Investment Program (Fed 2008b) and (b) a guarantee by the AGP of 
+$306 billion of assets (SIGTARP 2011a). 
+After the TIP capital injection on December 31, 2008, Citi’s share price continued to decline, 
+falling below  $1 per share in March 2009. According to the OCC, markets viewed the 
+aggregate $45 billion in TARP preferred shares as equivalent to debt and wanted Citi to 
+obtain more common equity. By February 2009, Treasury was aware that Citi needed more 
+capital—specifically common equity —but that rumors that the government was going to 
+nationalize Citi were also destabilizing the financial system. In order to prevent a Citi failure 
+on the one hand and avoid nationalization on t he other hand, Treasury settled on a 
+conversion of CPP preferred shares into common shares, but an amount that kept the 
+government’s share of Citi below 50% (Geithner 2014, 314). On February 27, 2009, Citi and 
+Treasury announced that Treasury had agreed to  exchange $25 billion of preferred shares 
+from the earlier CPP investment into common stock at a price of $3.25 per share  and that 
+Treasury would exchange its TIP and AGP preferred securities for trust preferred securities 
+(SIGTARP 2011a; Treasury 2009c) . Citi and the Treasury entered into the resulting 
+agreement on July 9, 2009, and on July 23, 2009, and July 30, 2009, both parties completed 
+the transaction, resulting in Treasury’s conversion of $25 billion of preferred shares to $ 25 
+billion of common shar es (for a total of 7.7 million shares ). As a result of the transaction, 
+Treasury owned 33.6% of Citi common stock (SIGTARP 2011a). 
+Also on July 30, 2009, the Treasury converted its TIP preferred shares to trust preferred 
+securities (see Key Design Decision  No. 8, Capital Characteristics ). Figure 4 shows the 
+changes to Treasury’s holdings of Citi securities before and after the July 2009 exchanges.  
+548
+United States: Citigroup Capital Injection Hoffner and Arnold
+
+--- Page 22 ---
+Figure 4: Treasury’s Holdings of Citigroup Equity Instruments , before and after July 
+2009 
+ Capital Purchase 
+Program a 
+Targeted Investment 
+Program (ad hoc) b 
+Asset Guarantee 
+Program c 
+Pre-July Exchanges $25 billion in 
+preferred shares 
+$20 billion in 
+preferred shares  
+$4 billion in 
+preferred shares 
+Post-July Exchanges $25 billion in 
+common shares 
+$20 billion in trust 
+securities 
+$4 billion in trust 
+securities 
+(a) No changes were made to the warrants to purchase 210,084,034 common shares at a strike price of $17.85 
+per share. 
+(b) No changes were made to the warrants to purchase 188,501,414 common shares at a strike price of $10.61 
+per share. 
+(c) No changes were made to the warrants to purchase 66,531,728 common shares at a strike price of $10.61 
+per share. 
+Source: SIGTARP 2011a. 
+11. Restructuring: The capital injection did not accompany restructuring measures. 
+Citi did not undergo restructuring during its participation in the TIP. 
+12. Treatment of Board and Management: The USG had to approve executive 
+compensation under its participation in the TIP and guarantee program; Citi’s TIP 
+agreement authorized the Treasury to appoint two directors to Citi’s board in the 
+event that Citi missed six dividend payments. 
+Executive compensation required approval by the USG parties ; see Key Design Decision No. 
+13, Other Conditions (SIGTARP 2011a) . Under Citi’s TIP agreement , the Treasury would 
+retain the right to elect two directors to the board of Citi in the event that dividends were 
+not paid in full for a total of six quarterly dividend periods (regardl ess of whether those 
+periods were consecutive). The election right would terminate at any time at which Citi had 
+paid all prior dividend periods (Citi and Treasury 2008). 
+13. Other Conditions: Absent Treasury approval, the TIP restricted payment of 
+common stock dividends for a period of three years. 
+The preferred shares restricted common stock dividend payments and equity repurchases  
+(Citi and Treasury 2008) . For a period of three years, t he Citi agreement prohibited the 
+payment without Treasury’s consent of ( a) quarterly dividends on common stock in excess 
+of $0.01 per share; ( b) any dividends payable in common stock shares; or ( c) dividends or 
+distribution rights for junior stock . Further, the Citi agreement prohibited the repurchase 
+without Treasury consent of any equity securities (to include common stock, trust preferred 
+securities, etc.), subject to some exceptions (Citi and Treasury 2008). 
+549
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 23 ---
+Further, executive compensation plans had to be approved by the USG (SIGTARP 2011a). 
+14. Regulatory Relief : Our research did not uncover evidence of regulatory relief 
+extended to Citi. 
+Our research did not uncover evidence of regulatory relief extended to Citi. 
+15. Exit Strategy : Citi signed an agreement with the Treasury to repay the TIP in 
+December 2009 , and the Treasury sold off its outstanding warrants in January 
+2011. 
+In compliance with the American Recovery and Reinvestment Act of 2009, Treasury had to 
+permit repayment of any TARP capital (see Key Design Decision No. 3, Legal Authority). 
+However, Treasury approval for repayment of TARP capital was conditional on consultation 
+with the appropriate federal banking authority, in this case the FRBNY. Financial institutions 
+aiming to repay TARP investments were subject to existing supervisory procedures for the 
+approval of redemption requests for capital instruments, which included assessments by the 
+bank regulator of, inter alia , soundness, capital adequacy, and lending capacity (SIGTARP 
+2011a). 
+On September 11, 2009, then–Citi CEO Vikram Pandit met with the FRBNY’s president at that 
+time, William Dudley, and others about redeeming its TIP capital. The Fed was unconvinced 
+that Citi was prepared to repay its TARP funds, particularly after running its own stress tests. 
+On November 3, 2009, the Fed provided further guidance on steps necessary for institutions 
+to repay TARP investments, among them a demonstrated ability to access long -term debt 
+markets in the absence of the Temporary Liquidity Guarantee Program (SIGTARP 2011a).  
+Two days later, an FRBNY official met with Citi’s CFO and CEO and informed them that Citi 
+would have to increase its common share equity more than other banks had before they 
+would allow Citi to repay its TARP capital (SIGTARP 2011a). On November 9, the FRBNY ran 
+an additional stress test on Citi and on December 3 presented the results of that stress test 
+to Citi’s chief risk officer and CFO.  To be eligible for TIP repayment, Citi would need to 
+maintain a Tier 1 capital  ratio of 6.6% an d a Tier 1 common ratio of 4.6%, which would be 
+possible if Citi: ( a) raised $21.4 billion in common stock; ( b) repaid the $20 billion in TIP 
+trust preferred securities; and (3) canceled the AGP ring-fence arrangement. Later in the day 
+(on December 3), Cit i provided the FRBNY with a repayment proposal, which included full 
+repayment of the TIP capital injection and termination of the AGP. In its proposal, Citi said it 
+would raise $20.3 billion of capital. The FRBNY responded to the proposal saying that it did 
+not include sufficient common equity issuance.  The following day, Citi revised its proposal, 
+raising the total amount to $24.1 billion (SIGTARP 2011a). Figure 5 shows the composition 
+of the original and revised repayment proposals.  
+550
+United States: Citigroup Capital Injection Hoffner and Arnold
+
+--- Page 24 ---
+Figure 5: Citi Repayment Proposals, Original and Revised, 2009 ($ billions) 
+Capital Instrument Dec. 9 
+Proposal 
+Dec. 10 
+Proposal 
+Common Stock $15  $17 
+Common Stock Overallotment 
+Option a 
+$2.3 $2.6 
+Tangible Equity Units b $2.5 c $3.5 d 
+Employee Stock Options $1 $1.7 
+Total $20.3 $24.1 
+(a) The overallotment option allowed the underwriters to sell up to 15% more common stock ($2.3 billion) in 
+the case that the original issuance was fully subscribed.  
+(b) $2 billion would count as common equity.  
+(c) $2.8 billion would count as common equity.  
+(d) The Tangible Equity Units were composed of a junior subordinated note and a stock purchase contract.  
+Source: SIGTARP 2011a. 
+In response to Citi’s December 10 proposal, the FRBNY said that it was concerned about Citi’s 
+ability to fulfill the overallot ment option and said that Citi’s final proposal would need to 
+include a stipulation about actions Citi would take in the event the overallotment was not 
+filled (SIGTARP 2011a).  
+On December 13, 2009, Citi submitted a final repayment proposal to the FRBNY, which 
+matched the December 10 proposal in capital instrument classes and sizes but included the 
+stipulation that the USG would surrender $1.8 billion of AGP trust preferred securities as 
+compensation for the early AGP termination15 and acknowledged that it would need to make 
+up any capital shortfall in the event it was unable to raise sufficient capital:  
+. . . if the offering of common stock and tangible equity units do not generate at least 
+$21.3 billion of additional equity capital, the regulators would expect Citigroup to issue 
+additional trust preferred securities in a ratio of $2 for every $1 the equity rai sed falls 
+short of $21.3 billion, subject to a minimum equity raise of $19.8 billion, up to a 
+maximum of $3 billion of trust preferred securities during the first quarter of 2010 . 
+(SIGTARP 2011a, 37) 
+On December 14, the Fed sent a letter to Citi approving its final repayment proposal and 
+outlining the conditions necessary for Citi to exit the TIP and the AGP.  Two days later, Citi 
+ 
+15 This figure was the result of independent negotiations with the Treasury (SIGTARP 2011a). 
+551
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 25 ---
+priced its capital offering and began to execute the capital raise.  It was the largest public 
+equity offering in US capital market history at the time (SIGTARP 2011a).  
+On December 23, 2009, Citi and Treasury signed an agreement for the repayment of the TIP. 
+While the Termination Agreement said that Citi had raised capital through common and 
+preferred stock offerings, in fact, Citi had failed to meet the $1.5 billion overallotment option 
+necessary for fulfilling the capital requirement, raising only $0.6 billion and thereby leaving 
+a $0.9 billion capital shortfall.  In March 2010, Citi raised $2.3 billion through an offering of 
+trust preferred securities (SIGTARP 2011a). 
+Throughout 2010, Treasury began to sell its AGP trust preferred securities and CPP common 
+shares—by December 10, 2010, Treasury had sold all its CPP  common stock and the AGP 
+and TIP trust preferred securities. However, as of December 10, 2010, Treasury maintained 
+warrants for 465.1 million common shares and had finished liquidating CPP common shares 
+(SIGTARP 2011b; SIGTARP 2011a) . By January 25, 2011, Treasury sold its  outstanding 
+warrants from the Citi TIP for a total proceed of $190.4 million (Treasury 2015).  
+Between the disposition of warrants and dividend payments, the Treasury received $1.8 
+billion (excluding interest expense) in income from the Citi TIP investment (Treasury 2013; 
+Treasury 2015). Combined with the investments into BofA, the TIP generated a profit of $4 
+billion in total,  with $3 billion in dividend payments (from $40 billion in investments) 
+(Treasury n.d.a). 
+  
+552
+United States: Citigroup Capital Injection Hoffner and Arnold
+
+--- Page 26 ---
+References and Key Program Documents 
+Summary of Program 
+(Treasury n.d.a) US Department of the Treasury (Treasury). n.d.a. “TIP Overview.” US 
+Department of the Treasury. Accessed December 14, 2023. 
+Webpage summarizing the results of the TIP. 
+https://elischolar.library.yale.edu/ypfs-documents2/2946 
+Implementation Documents 
+(Citi, Treasury, FDIC, and FRBNY 2009a) Citigroup Inc., US Department of the Treasury, 
+Federal Deposit Insurance Corporation, and Federal Reserve Bank of New York (Citi, 
+Treasury, FDIC, and FRBNY). 2009a. “Citigroup Master Agreement,” January 15, 2009. 
+Agreement covering the terms of Citi’s asset guarantee program. 
+https://elischolar.library.yale.edu/ypfs-documents2/2912 
+(Citi, Treasury, FDIC, and FRBNY 2009b) Citigroup Inc., US Department of the Treasury, 
+Federal Deposit Insurance Corporation, and Federal Reserve Bank of New York (Citi, 
+Treasury, FDIC, and FRBNY). 2009b. “Citigroup Termination Agreement,” December 23, 
+2009. 
+Agreement covering the termination of Citi’s asset guarantee program. 
+https://elischolar.library.yale.edu/ypfs-documents2/2913 
+(Fed 2008a) Board of Governors of the Federal Reserve System (Fed). 2008a. “Summary of 
+Terms: Eligible Asset Guarantee,” November 23, 2008. 
+Document describing the preliminary terms of Citi’s asset guarantee program. 
+https://elischolar.library.yale.edu/ypfs-documents2/2906 
+(Fed 2008b) Board of Governors of the Federal Reserve System (Fed). 2008b. 
+“Authorization to Provide Residual Financing to Citigroup, Inc. for a Designated Asset Pool.” 
+Report Pursuant to Section 129 of the Emergency Economic Stabilization Act of 2008, 
+December 1, 2008. 
+Report explaining the Federal Reserve’s decision to grant Citi financing for its ring-fenced 
+asset pool. 
+https://elischolar.library.yale.edu/ypfs-documents/350 
+(Treasury 2009a) US Department of the Treasury (Treasury). 2009a. “Citi Exchange Term 
+Sheet,” February 27, 2009. 
+Term sheet for the Treasury’s exchange of TIP preferred shares for trust preferred securities. 
+https://elischolar.library.yale.edu/ypfs-documents2/2949 
+  
+553
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 27 ---
+Legal/Regulatory Guidance 
+(Citi and Treasury 2008) Citigroup, and US Department of the Treasury (Citi and Treasury). 
+2008. “Securities Purchase Agreement, Citigroup,” December 31, 2008. 
+Securities purchase agreement specifying the details of Treasury’s investment in Citi via 
+preferred shares and warrants. 
+https://elischolar.library.yale.edu/ypfs-documents2/2919 
+(EESA 2008) US Government (EESA). 2008. Emergency Economic Stabilization Act of 2008 
+(EESA). Public Law 110-343, 122 Stat. 3765 (October 3, 2008). 
+Act authorizing TARP and various terms and conditions for TARP programs. 
+https://elischolar.library.yale.edu/ypfs-documents/983 
+Media Stories 
+(FactSet 2008) FactSet. 2008. “Citigroup Has Begun Talks with the Government - Reuters; 
+Board Discussing Position of Pandit.” StreetAccount, November 22, 2008. 
+Newspaper article reporting the options considered by Citi on November 22. 
+https://elischolar.library.yale.edu/ypfs-documents2/2927 
+Press Releases/Announcements 
+(Treasury 2009b) US Department of the Treasury (Treasury). 2009b. “Treasury Releases 
+Guidelines for Targeted Investment Program.” Press release, January 2, 2009. 
+Press release providing Treasury’s description of the Targeted Investment Program. 
+https://elischolar.library.yale.edu/ypfs-documents2/2943 
+(Treasury 2009c) US Department of the Treasury (Treasury). 2009c. “Treasury Announces 
+Participation in Citigroup’s Exchange Offering.” Press release, February 27, 2009. 
+Press release announcing Treasury’s participation in the exchange of Citi preferred shares. 
+https://elischolar.library.yale.edu/ypfs-documents2/2951 
+(USG 2008) Board of Governors of the Federal Reserve System, Federal Deposit Insurance 
+Corporation, and US Department of the Treasury (USG). 2008. “Joint Statement by 
+Treasury, Federal Reserve, and the FDIC on Citigroup.” Joint press release, November 23, 
+2008. 
+Press release announcing the asset guarantee and capital support for Citi. 
+https://elischolar.library.yale.edu/ypfs-documents/4951 
+Reports/Assessments 
+(Baker Donelson 2008) Baker Donelson. 2008. “Analysis of Emergency Economic 
+Stabilization Act of 2008,” October 3, 2008. 
+Summary of the EESA. 
+https://elischolar.library.yale.edu/ypfs-documents2/2901 
+554
+United States: Citigroup Capital Injection Hoffner and Arnold
+
+--- Page 28 ---
+(Citi 2008) Citigroup (Citi). 2008. Form 8-K, Exhibit 99.1. 
+Exhibit of Citi’s 8-K describing the terms of the TIP shares. 
+https://elischolar.library.yale.edu/ypfs-documents2/2915 
+(Citi 2010) Citigroup (Citi). 2010. Annual Report 2009. 
+Annual report discussing major events for Citi in 2009. 
+https://elischolar.library.yale.edu/ypfs-documents2/2960 
+(COP 2009a) Congressional Oversight Panel (COP). 2009a. “February Oversight Report: 
+Valuing Treasury’s Acquisitions,” February 6, 2009. 
+Report discussing the purpose of and legal questions pertaining to the TIP. 
+https://elischolar.library.yale.edu/ypfs-documents2/2956 
+(COP 2009b) Congressional Oversight Panel (COP). 2009b. “November Oversight Report: 
+Guarantees and Contingent Payments in TARP and Related Programs,” November 6, 2009. 
+Report discussing the TIP and other TARP programs. 
+https://elischolar.library.yale.edu/ypfs-documents/1817 
+(COP 2010) Congressional Oversight Panel (COP). 2010. “Citigroup and the Troubled Asset 
+Relief Program.” Hearing before the Congressional Oversight Panel, S. Hrg. 111–472, March 
+4, 2010. 
+Report discussing the support provided to Citi. 
+https://elischolar.library.yale.edu/ypfs-documents/4271 
+(FCIC Report 2011) National Commission on the Causes of the Financial and Economic 
+Crisis in the United States (FCIC Report). 2011. “The Financial Crisis Inquiry Report,” 
+February 2011. 
+Report investigating the 2008 financial crisis and emergency programs implemented in 
+response. 
+https://elischolar.library.yale.edu/ypfs-documents2/9 
+(Fed 2009) Board of Governors of the Federal Reserve System (Fed). 2009. Annual Report 
+2008. 
+Annual report mentioning support package extended to Citi. 
+https://elischolar.library.yale.edu/ypfs-documents/8461 
+(FRBNY 2009) Federal Reserve Bank of New York (FRBNY). 2009. “FRBNY Summary of 
+Supervisory Activity and Findings on Citi,” January 14, 2009. 
+Supervisory assessment discussing Citi’s financing position. 
+https://elischolar.library.yale.edu/ypfs-documents/4849 
+(French et al. 2010) French, George E., Andrea N. Plante, Eric W. Reither, and Ryan D. 
+Sheller. 2010. “Trust Preferred Securities and the Capital Strength of Banking 
+Organizations.” Federal Deposit Insurance Corporation, Supervisory Insights 7, no. 2 
+(Winter 2010): 3–16, 2010. 
+Report from the FDIC on the uses of trust preferred securities by bank holding companies. 
+https://elischolar.library.yale.edu/ypfs-documents2/2928 
+555
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 29 ---
+(GAO 2010) Government Accountability Office (GAO). 2010. “Troubled Asset Relief 
+Program: Treasury’s Framework for Deciding to Extend TARP Was Sufficient, but Could Be 
+Strengthened for Future Decisions.” Report No. GAO–10–531, June 2010. 
+Report discussing developments with the SSFI program, renamed to the AIG Investment 
+Program. 
+https://elischolar.library.yale.edu/ypfs-documents2/2929 
+(Geithner 2014) Geithner, Timothy F. 2014. Stress Test: Reflections on Financial Crises. New 
+York: Crown Publishers. 
+Former FRBNY President and US Treasury Secretary Geithner’s memoir of his time in 
+government. 
+https://elischolar.library.yale.edu/ypfs-documents/8200 
+(SIGTARP 2009) Office of the Special Inspector General for the Troubled Asset Relief 
+Program (SIGTARP). 2009. “Emergency Capital Injections Provided to Support the Viability 
+of Bank of America, Other Major Banks, and the US Financial System.” SIGTARP-10-001, 
+October 5, 2009. 
+Report examining the rationale for the government’s selection of BofA and eight other 
+financial institutions for TARP funds. 
+https://elischolar.library.yale.edu/ypfs-documents2/2939 
+(SIGTARP 2011a) Office of the Special Inspector General for the Troubled Asset Relief 
+Program (SIGTARP). 2011a. “Extraordinary Financial Assistance Provided to Citigroup, 
+Inc.” SIGTARP 11-002, January 13, 2011. 
+Report covering the emergency support provided to Citi. 
+https://elischolar.library.yale.edu/ypfs-documents2/2940 
+(SIGTARP 2011b) Office of the Special Inspector General for the Troubled Asset Relief 
+Program (SIGTARP). 2011b. “Exiting TARP: Repayments by the Largest Financial 
+Institutions.” SIGTARP 11-005, September 29, 2011. 
+Report discussing the exit of TARP programs. 
+https://elischolar.library.yale.edu/ypfs-documents/11071 
+(Treasury 2008) US Department of the Treasury (Treasury). 2008. “Third Tranche Report 
+to Congress,” December 2, 2008. 
+Report to congress detailing the SSFI program for AIG and support for Citi. 
+https://elischolar.library.yale.edu/ypfs-documents2/2948 
+(Treasury 2009d) US Department of the Treasury (Treasury). 2009d. “Initial Section 
+105(a) Troubled Asset Relief Program Report to Congress, for the Period of February 1, 
+2009 to February 28, 2009,” March 2009. 
+Report from the Treasury to Congress pursuant to Section 105(a) of the Emergency Economic 
+Stabilization Act discussing the TIP preferred share–trust preferred securities transaction. 
+https://elischolar.library.yale.edu/ypfs-documents2/2950 
+  
+556
+United States: Citigroup Capital Injection Hoffner and Arnold
+
+--- Page 30 ---
+(Treasury 2013) US Department of the Treasury (Treasury). 2013. “October 2013 
+Dividends Interest Report.” Office of Financial Stability, November 12, 2013. 
+Report discussing TARP dividends. 
+https://elischolar.library.yale.edu/ypfs-documents2/2944 
+(Treasury 2015) US Department of the Treasury (Treasury). 2015. “Monthly Report to 
+Congress: August 2015.” Troubled Assets Relief Program (TARP), September 10, 2015. 
+TARP report on the financial standing of its various programs. 
+https://elischolar.library.yale.edu/ypfs-documents2/2942 
+(Treasury n.d.b) US Department of the Treasury (Treasury). n.d.b. “Capital Purchase 
+Program Overview.” Accessed April 13, 2024. 
+Treasury website explaining the purpose and mechanics of the Capital Purchase Program. 
+https://elischolar.library.yale.edu/ypfs-documents2/2952 
+Key Academic Papers 
+(Arnold, forthcoming-a) Arnold, Vincient. Forthcoming-a. “United States: Bank of America 
+Emergency Liquidity Assistance, 2009.” Journal of Financial Crises. 
+YPFS case study examining the emergency liquidity assistance to Bank of America. 
+(Arnold, forthcoming-b) Arnold, Vincient. Forthcoming-b. “United States: Citigroup 
+Emergency Liquidity Assistance, 2009.” Journal of Financial Crises. 
+YPFS case study examining the emergency liquidity assistance to Citi. 
+(Buchholtz and Lawson 2020) Buchholtz, Alec, and Aidan Lawson. 2020. “The Rescue of 
+American International Group, Module C: AIG Investment Program.” Journal of Financial 
+Crises 3, no. 1: 82–118. 
+YPFS case study of the AIG investment program. 
+https://elischolar.library.yale.edu/ypfs-documents/4097 
+(Lawson and Kulam 2021) Lawson, Aidan, and Adam Kulam. 2021. “US Capital Purchase 
+Program.” Journal of Financial Crises 3, no. 3: 821–90. 
+YPFS case study analyzing the Department of the Treasury’s Capital Purchase Program. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/35 
+(Rhee, Hoffner, et al. 2024) Rhee, June, Benjamin Hoffner, Greg Feldberg, and Andrew 
+Metrick. 2024. “Survey of Ad Hoc Capital Injections.” Journal of Financial Crises 6, no. 3. 
+Survey of YPFS case studies examining ad hoc capital injections. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/1 
+(Rhee, Oguri et al. 2022) Rhee, June, Junko Oguri, Greg Feldberg, and Andrew Metrick. 
+2022. “Broad-Based Capital Injection Programs.” Journal of Financial Crises 4, no. 1: 1–48. 
+Survey of YPFS case studies analyzing broad–based capital support. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/1 
+  
+557
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 31 ---
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+558
+United States: Citigroup Capital Injection Hoffner and Arnold

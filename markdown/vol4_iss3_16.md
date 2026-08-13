@@ -1,0 +1,86 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## Kevin Warsh 
+
+By Matthew A. Lieber 
+
+_Kevin Warsh was a member of the Board of Governors of the Federal Reserve System from 2006 to 2011. Appointed by President George W. Bush, Warsh worked closely with Fed Chairman Ben Bernanke and his core group of advisers. Throughout the financial crisis and its aftermath, he was a key emissary to market participants, foreign central banks, and US political leaders in Congress and the executive branch. This Lessons Learned is based on an interview conducted with Warsh on August 24, 2020; the full transcript may be accessed here._ 
+
+## **Crisis response eclipses a reform agenda.** 
+
+Kevin Warsh joined the Board of Governors in January 2006 as a member of incoming Chair Bernanke’s team. Under Bernanke’s leadership, as Warsh explained, each governor would oversee a particular initiative to upgrade internal systems that the chair and the Board deemed vital to the Federal Reserve’s performance. Bernanke’s agenda for the entire Fed was to institute a fixed inflation targeting regime, to depersonalize the institution, and to broaden discussions within the central bank and with different external constituencies. 
+
+Warsh’s first project was to enhance the data analysis the Fed used to inform its decisionmaking. In 2006, Warsh said, the Fed did not have a sufficiently rigorous understanding of the informational content in foreign exchange and capital market data. He was focused on a six-point agenda to supplement existing government data flows with real-time market metrics. “Integrating market information and more contemporaneous, real economic data―those were to be priorities of mine. We made only modest progress pre-crisis,” he said. 
+
+In 2007, signs emerged of what would become the crisis. The need to mount an extraordinary response to the financial emergency eclipsed Bernanke’s reform agenda, including Warsh’s project to modernize data surveillance. 
+
+## **Good fights and dissenting visions that take the form of rigorous debate can drive an effective policy response.** 
+
+The emergency nature of the crisis made coordination among government institutions necessary and, in fact, easy. Arguments on large questions of proper authority arose, moved apace, and culminated in decisions and action. Customary hesitations that institutions might have about sharing information in normal times gave way to the exigencies of time. So did any political appetite to hinder the central bank from doing its job as expeditiously as possible. He noted: 
+
+I scarcely perceived other government officials outside the four walls of the Fed trying to affect our autonomy to make our ultimate decisions. That’s what real independence is about. 
+
+
+There were tensions and disagreements, but they took the form of vigorous debates to determine the most effective policy response. Discussions with the White House, the Treasury, and leaders on Capitol Hill were straightforward and fact based. There were differences of opinion throughout, though not about the problem to be solved. Rather, contention emerged on the solution strategy and what entity or entities should carry it out: 
+
+There were fights, but they were good fights. They were fights where each person was trying to figure out the answer to the riddle, the policy response most efficacious. 
+
+One crucial question, Warsh remembered, was about what institution had the authority to intervene: “Is that the job of the Fed, or is that the Treasury’s job? Or Congress’s job?” The discussions inside the Fed were hard fought, Warsh said, but appropriate: “the right fights.” One might disagree over particulars but still acknowledge the need for government action to go forward. In these discussions, there was room for dissenting visions. 
+
+## **Even when “firefighting” a crisis, fixing a big-picture issue may be a credible response.** 
+
+A second tension Warsh pointed to was between crisis response and larger-scale thinking. He said: 
+
+In firefighting mode, there was understandably difficulty in stepping back and saying, “Do we have a Bear Stearns problem―or do we have a banking problem? A Fannie problem or a housing problem? Do we have problems of particular institutions, or rather are those symptomatic of a massive liquidity shock?” 
+
+Still, looking back now, Warsh said that Fed policymakers got caught up in the cadence of crisis fighting when there were crucial moments for a larger-scale strategic policy deliberation. For example, he pointed out, the Fed missed critical windows between the failure of Bear Stearns in March 2008 and late summer. He noted: 
+
+There’s no one who had perfect clarity on that. But there was a window after Bear Stearns, between March and late summer, where there was an opportunity to have been more refined in our thinking. We could have examined Bear Stearns and asked whether it [was] more indicative than an outlier. Policymaker cadence was racing from fire to fire; instead, the cadence could have started earlier and should have been broader. 
+
+Warsh also pointed to the case of Fannie Mae and Freddie Mac, arguing that policymakers could have pushed for the public markets to recapitalize the two federal mortgage giants. Of course, reforms over the prior decade would have been optimal, he recognized. “But even a recapitalization in the eighth inning is better than bailing them out in extra innings, namely August or September of 2008 [when they were taken into government conservatorship],” he opined. 
+
+The same was true for the largest banks, which regulators had allowed to operate with highly leveraged capital structures; in 2007–2008, gaping vulnerabilities were exposed. There were plenty of opportunities, even once the crisis had begun, to encourage, persuade, cajole the 
+
+
+banks to recapitalize themselves in the public markets. “There were huge opportunities missed.” 
+
+## **Post-crisis reforms may at first seem effective, but that is when you need to double down and push them even further.** 
+
+Warsh is largely critical of the post-crisis reforms, arguing that the regulations that would have made a huge difference were not adopted. For example, he said that the stress tests for the banks, which were helpful in 2008 and 2009, soon lost their salience and effectiveness, becoming an exercise in compliance. 
+
+To back up his point, he cited the US banking sector in 2020. Whereas others have hailed improved capitalization levels and the banks’ stability and profitability during the pandemic, Warsh pointed to the massive extension of government credit in 2020: “The US government in March, by necessity, had to bail everybody out,” he pointed out, “including the biggest banks, bail out the money market mutual funds, and provide full backstop of liquidity to everybody.” The banks passed the stress tests and survived the pandemic only because of the Fed’s massive intervention to extend them liquidity, said Warsh. The post-crisis reforms failed to instill financial discipline. 
+
+Missing from the record of US reform, in Warsh’s view, were real market discipline, real capital standards, and real regulatory standards. Specifically, Warsh explained the need for market discipline to push institutions to be accountable, citing the Fed’s sanction of too-big-tofail institutions and regulators’ tolerance of their opaque financial statements. He commented: 
+
+Let’s say you’re an expert on banking, and you wanted to know what was happening inside the business of a too-big-to-fail institution. And all you had to go by was the bank’s 10-Q and 10-K and annual report. You will find it nearly impossible to actually understand the risks in that business, their true capital and liquidity. . . . So, you might pull the documents of their five biggest competitors. But you’d find that incredibly difficult to compare. 
+
+The opacity of the large US banks stands in contrast to firms in other industries, which are subject to financial market discipline. He noted: 
+
+By contrast, knowing little about consumer products, take out the financial statements of Walmart, and you’ll understand in an hour, where do they make their money? How much cash do they have? What are the big risks to their business? 
+
+Washington policy experts have dismissed his critique, Warsh said, but he rejects the notion that banking is altogether special or deserving of special treatment. 
+
+Three implications follow from Warsh’s critique. First, to the extent that bank finances are opaque, financial market discipline will not be effective. Second, absent market discipline, the effective government regulation of the large banks takes on added importance. Third, the institution that is to regulate these large banks―in the US the Federal Reserve―has officially 
+
+
+singled out eight of them as “posing the greatest risk to US financial stability”; it is the same institution that has been extending massive credit to them. An obvious but troubling thought emerges, in terms of learned behavior in today’s context of monetary ease: Market actors now believe the Fed will not let any of the top eight banks fail, no matter what. 
+
+## **The crisis response should be tailored to the crisis at hand.** 
+
+Warsh considered the US government actions in 2020, borrowing from the 2008 playbook, “a pretty good initial response” to the COVID pandemic. But he saw a mismatch between the policy tools employed―primarily the monetary tools of the central bank―and the nature of the economic crisis that was first and foremost a Main Street shock, not a Wall Street shock. He said: 
+
+Why has there been so little emphasis on the real side of the economy, which continues to be suffering relative to financial markets? Financial markets that continue to be subsidized. 
+
+Warsh would have preferred that the Fed focus on Main Street businesses sooner than it did with its Main Street Lending Facility, which was announced in March 2020 but did not become operational until June of that year. And he would have structured the program differently to make loans available in a manner more familiar to small businesses. 
+
+Warsh also made a strong argument in support of direct income support to US households and persons battered by the crisis, which he differentiated from stimulus support: 
+
+We are a rich and generous country with citizens who, through no fault of their own, are in terrible shape. And we should provide them support so they can survive and be well positioned to ultimately thrive on the other side of this. . . . that’s about helping those who have found themselves in a bad place and for whom we can mitigate the harm so that our fellow citizens are better positioned. 
+
+We told them what they can and can’t do. We as policymakers across administrations of both parties―it was our job to try to provide some insurance against these tail risks. We’ve not done a good enough job of preparing the economy or our citizens for the shock. 
+
+Dated: September 2022 
+
+YPFS Lessons Learned No. 2020-09 
+
+Copyright © Yale University.

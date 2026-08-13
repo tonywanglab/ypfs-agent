@@ -1,0 +1,1029 @@
+## Latvia: Parex Bank Capital Injection, 2008[1] 
+
+
+
+
+Yale Program on Financial Stability Case Study October 4, 2024 
+
+## **Abstract** 
+
+Heading into the Global Financial Crisis, JSC Parex banka was Latvia’s second-largest bank in terms of assets, comprising 13.8% of total assets in the Latvian banking sector. In autumn 2008, Parex faced a capital shortfall owing to massive credit and market losses in addition to increasing liquidity problems and deposit runs of 240 million Latvian lats (LVL; USD 428.6 million). Parex’s capital adequacy ratio fell below the regulatory minimum of 8% on October 28, 2008. Parex had two senior syndicated loans maturing in February and June 2009, totaling EUR 775 million (USD 992 million). Latvian authorities doubted that Parex would be able to pay back, extend, or replace these loans. Authorities intervened at the beginning of November 2008 to provide a liquidity facility and take control of the management; they also committed to injecting capital. The parliament revised its laws on November 14 to enable the Treasury to lend funds to the Latvian Privatization Agency (LPA) for that recapitalization. The Latvian government also invited the European Bank for Reconstruction and Development (EBRD) to become a shareholder in Parex to reassure stakeholders, given the EBRD’s reputation and experience in bank restructuring. From May 2009 to December 2010, the government provided LVL 313.6 million in Tier 1 capital and LVL 50.3 million in Tier 2 capital. Recapitalization was also achieved by converting LVL 152.5 million of liquidity support to equity. In August 2010, the LPA split Parex into a remaining bad bank, Reverta, and a new good bank, Citadele. The two majority shareholders who owned 85% of Parex were effectively wiped out, while the minority shareholders and subordinated debtholders ultimately received nothing for their investments. The government fully compensated the senior syndicated lenders on a revised schedule. Insured depositors also were protected. Citadele was sold for EUR 74.7 million to Ripplewood Advisors LLC and a group of 12 international co-investors in April 2015, at which point the EBRD still had a 25% stake. The EBRD lost its investment in Reverta when it sold its stake to the LPA for EUR 1 in March 2017. Reverta went into liquidation in July 2017. The state had lost EUR 428.8 million in share capital and EUR 339.7 million in liquidity support for a total loss of EUR 767.5 million as of December 2022. 
+
+**Keywords:** bail-in, capital injection, Latvia, Parex banka, restructuring 
+
+> 1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering ad hoc capital injections. A survey of all the cases in this series (Rhee, Hoffner et al. 2024) and the individual cases underlying it are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/. Rhee, Oguri et al. (2022) surveys broad-based capital injection programs. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+This module describes the recapitalization of JSC Parex banka. Parex also received emergency liquidity, underwent restructuring, and went into resolution (Decker 2024; Decker, forthcoming). 
+
+Heading into the Global Financial Crisis of 2007–2009 (GFC), Parex was Latvia’s second-largest bank in terms of assets, comprising 13.8% of total assets in the Latvian banking sector. Parex was especially vulnerable to contagion from overseas markets, as 40% to 50% of deposits came from nonresidents, a situation that the European Commission (EC) and International Monetary Fund (IMF) characterized as fragile. Parex’s loan portfolio was mostly to residents (Bojāre and Romānova 2017; EC 2008a; OECD 2016). In autumn 2008, Parex faced a capital shortfall due to massive credit losses and market losses in addition to increasing liquidity problems and deposit runs of 240 million Latvian lats (LVL; USD 428.6 million)[3] (EC 2008a; FCMC 2009a; FCMC 2009b; OECD 2016). Parex’s liquidity indicator[4] fell from 44.2% on August 31, 2008, to 31.4% on November 5, 2008; the regulatory minimum was 30%. Parex’s capital adequacy ratio (CAR) fell below the regulatory minimum of 8% on October 28, 2008 (EC 2008a; FCMC 2009b). The Financial and Capital Market Commission (FCMC) in Latvia then prohibited Parex from issuing new loans and acquiring new financial instruments. The FCMC also 
+
+## **Key Terms** 
+
+Purpose: Latvian authorities injected capital to meet CAR requirements 
+
+||Announcement<br>Date|Nov. 24, 2008|
+|---|---|---|
+||Operational Date|May 11, 2009|
+||Date of Final|Citadele: July 29, 2010|
+||Capital Injection|Reverta: November 2011|
+||End Date|Citadele: equity shares sold|
+|||April 20, 2015; subordinated|
+||Source of Funding<br>Administrators<br>Size|debt repaid to the LPA Jan. 4,<br>2017<br>Reverta: ongoing<br>Treasury lent funds to the<br>LPA to recapitalize Parex<br>Cabinet of Ministers, LPA,<br>Treasury<br>Tier 1: LVL 313.6 million;<br>Tier 2: LVL 50.3 million;<br>Liquidity conversion:|
+|||LVL 152.5 million|
+||Capital|Ordinary shares qualifying as|
+||Characteristics|Tier 1; subordinated term|
+|||debtqualifyingas Tier 2|
+||Bail-in Terms|The two majority|
+|||shareholders received a<br>token LVL 2 for 55.4 million<br>shares (85%) in Parex;<br>minority shareholders and<br>subordinated debtholders|
+|||ultimately received nothing|
+|||for their investments; senior<br>creditors and insured<br>depositors were fully<br>protected|
+|||_(continued)_|
+
+
+
+> 3 Per Bloomberg, USD 1 = LVL 0.56 on November 7, 2008. 
+
+> 4 The Financial and Capital Market Commission set regulations for liquidity requirements. Parex had to hold at least 30% of the total amount of its current liabilities as liquid assets; current liabilities were defined as liabilities on demand and whose remaining term did not exceed 30 days (Baudino et al. 2022; FCMC 2005; Parliament of Latvia 2008, art. 37[2]). 
+
+
+required the bank to immediately increase its equity capital; Parex’s shareholders responded by investing LVL 3 million in subordinated capital (FCMC 2009b). 
+
+However, the previous measures were insufficient to address the bank’s problems. Parex had two senior syndicated loans maturing in February 
+
+||Outcomes|EUR 428.8 million in losses on|
+|---|---|---|
+|||the capital injection as of<br>December 2022|
+||Notable Features|Conversion of liquidity support<br>to equity; divergent treatment of|
+|||majority and minority<br>shareholders; EBRD<br>participation; freeze on legacy|
+|||depositors until January 2012|
+
+
+
+and June 2009, totaling EUR 775 million (USD 992 million),[5] or nearly one-sixth of the bank’s total liabilities. According to the EC, Latvian authorities doubted that Parex would be able to pay back, extend, or replace these loans. For this reason, Latvian authorities decided to take a 51% stake in Parex and provide further public support measures (Epstein and Rhodes 2019; EC 2008a). According to the FCMC’s 2008 annual report, authorities did not want to give State Aid to Parex with the majority shareholders—Valērijs Kargins and Viktors Krasovickis (“the two majority shareholders”) in control; the two majority shareholders owned 85% of Parex. Latvian authorities observed the experience of other countries and concluded that State Aid would be properly used and recovered only if the government owned Parex (FCMC 2009b). 
+
+Starting in early November 2008, Latvian authorities performed three major interventions to stabilize Parex and the wider Latvian financial sector. First, on November 10, the government took over the bank and replaced management by paying a token amount of LVL 2 for a 51% stake in the bank from the two majority shareholders; weeks, later, the government increased its participation to 85% and completely wiped out the two majority shareholders (EC 2008a; EC 2009a; FCMC 2009b). This allowed the government to later split Parex into bad and good banks (EC 2010). The government initially acquired Parex through the Latvian Mortgage and Land Bank (LHZB), a commercial bank used to develop Latvia’s mortgage lending system and mortgage-backed securities (Baltic Legal n.d.; EC 2008a; LHZB 2010). The government later transferred Parex’s shares to the Latvian Privatization Agency (LPA) for recapitalization and its potential sale, because the LPA had experience in selling state-owned bank shares (FCMC 2009a; FCMC 2009b; Parex 2009a; Parex 2009b). Second, the Latvian Treasury deposited Treasury securities with Parex (state term deposits) that Parex could use as collateral to borrow cash from the central bank, the Bank of Latvia (BOL) (BOL 2008c; EC 2008a; EC 2010; IMF 2009; Parex 2011). Draws on the facility peaked at LVL 676.4 million at the end of 2008 (Parex 2010). Third, from 2009–2010, the LPA recapitalized Parex to maintain an 11% CAR (EC 2009b; Parex 2011). 
+
+Other measures included a partial freeze on withdrawals by depositors, which the government prolonged in some form until at least January 2012 (FCMC 2008; IMF 2013; Parex 2011). Latvia also signed a Standby Arrangement (SBA) with the IMF and received broad-based support from the European Union (EU) and other European countries, which was conditioned on a full government takeover and subsequent restructuring of Parex (see 
+
+> 5 Per FRED, EUR 1 = USD 1.28 on November 7, 2008. 
+
+
+Key Design Decision No. 2, Part of a Package) (FCMC 2008; FCMC 2009b; IMF 2009; IMF 2013; Reuters 2008). 
+
+Over the course of 2009 and 2010, the LPA injected into Parex a total of LVL 313.6 million[6] in Tier 1 capital and LVL 50.3 million in Tier 2 capital (Citadele 2011a; EC 2009b; EC 2010; Parex 2011; Parex 2012). Recapitalization was also achieved by converting LVL 152.5 million of state term deposits from the Ministry of Finance into bank capital (EC 2010; Parex 2010; Treasury 2011). The Latvian government also invited the European Bank for Reconstruction and Development (EBRD) to become a shareholder in Parex to reassure stakeholders, given the EBRD’s reputation and experience in bank restructuring (Parliament of Latvia 2015). The EBRD injected capital in September 2009 and July 2010 and later sold part of its stake (see Key Design Decision No. 15, Exit Strategy) (Citadele 2011a; EBRD 2009a; Parex 2009d; Reverta 2017). 
+
+On August 1, 2010, the LPA split Parex into a good bank, AS Citadele banka, and a remaining bad bank, AS Reverta[7] (Parex 2011). Citadele would focus on three core business segments in the Baltics: corporate, retail, and wealth management. Reverta would keep the remaining noncore and nonperforming assets. Reverta’s goal was to maximize the recovery of State Aid until its liquidation (EC 2010; Parex 2011). 
+
+Capital and liquidity support was also restructured with the split. Citadele took LVL 50.3 million of Tier 2 capital, and Reverta took the equity capital injected on March 29, 2009 (EC 2010). At the time of the split, 16 term deposits were in effect for EUR 635 million (LVL 446 million). Eight of those term deposits went to Citadele, four of which worth LVL 12 million were already terminated. Citadele’s remaining four term deposits were converted into equity for a recapitalization of LVL 103 million (EC 2010; Treasury 2011). Reverta took the other eight term deposits, of which LVL 49.5 million was ultimately converted to bank capital (EC 2010; EC 2014b). In December 2011, all of Reverta’s outstanding term deposits were converted to debt securities (Parex 2012; Reverta 2013). These debt securities remained with Reverta when the bad bank later went into liquidation in 2017 (Reverta 2018). 
+
+On April 20, 2015, the LPA closed the sale transaction of 75% of Citadele to Ripplewood Advisors LLC, a US private equity firm, and a group of 12 other international co-investors for EUR 74.7 million (Citadele 2011a; Citadele 2015). The EBRD maintained a 25% stake (Citadele 2011a). 
+
+Including capital and liquidity support, Latvia’s support for Parex peaked at EUR 1.7 billion. As of April 2015, unrecovered State Aid totaled EUR 784 million: EUR 35 million in Citadele’s subordinated capital (4.5% of total unrecovered State Aid), EUR 294 million in Reverta’s share capital (37.5% of total unrecovered State Aid), and EUR 455 million in bonds in 
+
+> 6 This figure may be inconsistent owing to lack of clarity about recapitalizations as capital injections or as conversions from liquidity support (see Key Design Decision No. 8, Capital Characteristics). 
+
+> 7 The bad bank initially kept the name Parex after the split on August 1, 2010, but changed its name to Reverta in May 2012 (EC 2014a; OECD 2016). For clarity, this case study refers to the post-split bad bank as Reverta. 
+
+
+Reverta converted from liquidity support (58% of total unrecovered State Aid) (Parliament of Latvia 2015). 
+
+Citadele repaid the last term deposit of State Aid in February 2015, 10 months ahead of schedule (Citadele 2013b; Treasury 2013). In total, Citadele repaid the full amount of term deposits it had owed since the split, EUR 203.7 million, and EUR 14.7 million in interest— interest accruing since the split of the bank in August 2010 until March 2012. Citadele also repaid the Treasury an additional LVL 3.5 million as “additional compensation for the use of [State Aid] in line with the commitments given to the EC” (Citadele 2013b, 3). 
+
+On January 4, 2017, Citadele repaid its subordinated loan from the LPA, thereby settling its remaining obligations to the Latvian government (Reverta 2018). 
+
+The EBRD ended its participation in Reverta on March 7, 2017 (Reverta 2017). The liquidation of Reverta began on July 6, 2017. On November 7, 2017, the LPA created a new subsidiary and limited liability company, REAP, for the sole purpose of managing Reverta’s assets and claim rights. By the end of 2017, Reverta had EUR 365.3 million in outstanding liquidity support, and the LPA wrote off its entire investment in Reverta share capital (Reverta 2018). REAP sold most of the real estate assets taken over by Reverta during the course of 2018 (LPA 2019). As of the writing of this case, Reverta is still in liquidation with a total asset value of EUR 1.7 million as of December 31, 2022 (Reverta 2023). 
+
+According to a parliamentary report published in December 2015, the state estimated EUR 500 to EUR 600 million in losses (Parliament of Latvia 2015). According to Reverta’s annual report, the state had lost EUR 428.8 million in share capital and EUR 339.7 million in liquidity support for a total loss of EUR 767.5 million as of December 2022 (Reverta 2023). 
+
+Figure 1 displays a timeline of major events in the recapitalization of Parex. 
+
+[FIGURE id=vol6_iss3_16_f1 type=diagram page=7 label="Figure 1" file=figure_1.png caption="Timeline of Major Events in the Recapitalization of Parex"]
+### **Figure 1: Timeline of Major Events in the Recapitalization of Parex**
+
+|**Date**|**Event**|
+|---|---|
+|November 10, 2008|The two majority shareholders, Parex, and the Latvian government sign an<br>investment agreement that gives LHZB a 51% stake in the bank. The two majority<br>shareholders are removed from management.|
+|November 11, 2008|The Treasury makes its first term deposit in Parex for LVL 200 million by injecting<br>government securities that the bank uses as collateral for a central bank loan.|
+|November 24, 2008|Authorities announce an aid package for Parex, comprising emergency liquidity and<br>capital injections.|
+|Early December 2008|Authorities revise the liquidity facility’s interest rate mechanism.|
+|December 3, 2008|LHZB increases it stake in Parex to 85%, wiping out the two majority shareholders.|
+|December 23, 2008|The IMF announces a Standby Arrangement with the Republic of Latvia.|
+|February 27, 2009|LHZB transfers its shares in Parex to the LPA.|
+|May 22, 2009|The LPA recapitalizes Parex, effectively increasing the government’s participation to<br>95%.|
+
+
+
+
+|September 2009|The EBRD makes a capital injection into Parex, comprising LVL 59.5 million in share<br>capital and a subordinated loan of EUR 18.4 million.|
+|---|---|
+|October 29, 2009|The LPA injects LVL 24.3 million of nonvoting shares into Parex.|
+|February 26, 2010|The Cabinet of Ministers approves the conversion of state term deposits to bank<br>capital, thus recapitalizing Parex by LVL 31.5 million.|
+|July 29, 2010|The LPA increases Parex’s Tier 1 capital by LVL 99 million, which is designated for the<br>new good bank, Citadele.|
+|July 30, 2010|The EBRD takes a 25% stake in Citadele, for LVL 25.8 million. The subordinated loan of<br>EUR 22 million from the EBRD is transferred to Citadele, subject to EC approval.|
+|August 1, 2010|The LPA transfers good assets and liabilities into Citadele and leaves the rest behind<br>in the bad bank, renamed Reverta in May 2012. The restructuring plan outlines the<br>split of term deposits and their conversions in the good and bad banks.|
+|December 30, 2010|The LPA increases Reverta’s Tier 1 capital by LVL 9.7 million.|
+|August 2011|The LPA increases Reverta’s Tier 1 capital by LVL 20 million in ordinary shares.|
+|November 2011|The LPA increases Reverta’s Tier 1 capital by LVL 19.8 million in ordinary shares.|
+|December 2011|All term deposits in Reverta are converted into debt securities.|
+|February 4, 2012|Citadele repays the last term deposit of State Aid 10 months ahead of schedule.|
+|August 10, 2012|The EC allows Latvia’s proposed amendments to the restructuring plan (see Key<br>Design Decision No. 11, Restructuring).|
+|April 20, 2015|Citadele’s sale transaction closes. The new shareholders increase Citadele’s equity<br>capital by EUR 10 million.|
+|January 4, 2017|Citadele repays its subordinated loan from the LPA, thereby settling its remaining<br>obligations to the Latvian government.|
+|March 7, 2017|The LPA buys the EBRD’s stake in Reverta for EUR 1; the LPA consequently has a<br>96.9% stake and minority shareholders have a 3.1% stake in Reverta.|
+|July 1, 2017|Reverta’s liquidation begins.|
+|November 14, 2017|The LPA creates a new subsidiary, REAP, to manage Reverta’s assets and claim rights.<br>The LPA writes off its entire investment in Reverta’s share capital.|
+
+
+
+_Source: Author’s analysis._ 
+
+## **Summary Evaluation** 
+
+In a staff report published in January 2009, the IMF said that the initial intervention— comprising the 51% government stake—was a misstep and “failed to stem the deposit run” (IMF 2009, 8). Left unresolved by their maturity dates in February and June 2009, Parex’s senior syndicated loans could lead to capital outflows of EUR 1 billion, according to the IMF. The IMF said that the subsequent intervention—comprising the government’s 85% stake and installation of new management—more credibly moved toward stabilization. Additionally, the IMF called for a clear exit strategy that minimized the state’s losses (IMF 2009). 
+
+In its annual report for 2016, the State Audit Office of the Republic of Latvia (SAO) said that the takeover process was unclear and not transparent (SAO 2017). 
+
+
+In “Transition Report 2010: Recovery and Reform,” the EBRD said that Latvian authorities “[had] made significant progress in restructuring Parex Banka” (EBRD 2010, 125). The EBRD also said that Latvian authorities’ intention to reprivatize Citadele would revive credit growth in the private sector (EBRD 2010). 
+
+In 2016, the SAO published conclusions of its regulatory audit of Citadele’s sale process. The SAO says that when takeovers and privatizations have a significant impact on the national economy and tens of millions of taxpayers’ money is involved, the government and parliament should create a legal framework with three basic principles. First, relevant authorities should be involved in decisions. The SAO notes that the decisions around Citadele’s sale process were based on recommendations of outside consultants rather than authorities such as the BOL. Second, there should be clearly delineated responsibilities among government bodies that take actions in a given intervention. Third, there should be independent supervision of interventions so that the state achieves the most favorable outcome for taxpayers (SAO 2017). 
+
+
+|**Context: Latvia, Parex, 2007–2008**|**Context: Latvia, Parex, 2007–2008**|
+|---|---|
+|**Assets**|**EUR 4.5 billion**as of Dec. 31, 2007<br>**EUR 4.9 billion** as of Dec.31,2008|
+|**Liabilities**|**EUR 4.2 billion**as of Dec. 31, 2007<br>**EUR 4.8 billion**as of Dec. 31, 2008|
+|**Deposits**|**EUR 2.7 billion**as of Dec. 31, 2007<br>**EUR 2.7 billion**as of Dec. 31, 2008|
+|**Capital Ratio**|**CAR: 10.7%**as of Dec. 31, 2007<br>**CAR: 7.9%**as of October 28, 2008|
+|**Nonperforming Loans**|Not available<br>Not available|
+|**Market Share**|**13.8%**of total assets of Latvian banking sector<br>as of Nov. 2008|
+|**Banking System, % of GDP**|**81.4%**in 2007<br>**91.8%**in 2008|
+|_Sources: Bloomberg; EC 2008a; FCMC 2009b; Parex 2008; Parex n.d._||
+
+
+
+
+## **Key Design Decisions** 
+
+## **1. Purpose: The government injected capital to enable Parex to meet and maintain an 11% CAR requirement.** 
+
+At the time of the GFC, Parex was Latvia’s second-largest bank in terms of assets, comprising 13.8% of total assets in the Latvian banking sector (EC 2008a; FCMC 2009b). Parex was the third-largest bank in the overall payment system with 646,000 customer accounts (EC 2008a; FCMC 2009b). Parex had attracted 13.6% of total Latvian resident deposits as of September 2008, of which 14.5% were retail deposits and 11.8% were commercial deposits. As of September 2008, Parex was the leading bank in foreign deposits with 26.2% of total nonresident deposits placed in Latvia (FCMC 2009b). 
+
+In autumn 2008, Parex faced a capital shortfall owing to massive credit losses and market losses in addition to increasing liquidity problems and deposit runs of LVL 240 million (EC 2008a; FCMC 2009a; FCMC 2009b; OECD 2016). Parex’s liquidity indicator fell from 44.2% on August 31, 2008, to 31.4% on November 5, 2008; the regulatory minimum was 30%. Throughout autumn 2008, Parex’s CAR fluctuated around the regulatory minimum of 8%; the CAR fell to 7.9% on October 28 (EC 2008a; FCMC 2009b). 
+
+Parex had two senior syndicated loans maturing in February and June 2009, totaling EUR 775 million, or nearly one-sixth of the bank’s total liabilities. According to the EC, Latvian authorities doubted that Parex would be able to pay back, extend, or replace these loans; these senior creditors were preparing to announce a default event in which the EUR 775 million would have been due immediately rather than in 2009. Considering these senior syndicated loans, deposit runs, insufficient bank capital, and a request from Parex’s management for help, Latvian authorities decided to intervene (Baudino et al. 2022; Epstein and Rhodes 2019; EC 2008a). The initial intervention included a guarantee of the senior syndicated loans (see Key Design Decision No. 2, Part of a Package) (EC 2008a). 
+
+## **Initial Investment Agreement** 
+
+The November 10 takeover of a bank by LHZB, a state-owned commercial bank with a mandate to promote the mortgage market, was unprecedented in the Latvian financial sector since privatization in the 1990s (FCMC 2009a; FCMC 2009b). In its annual report for 2008, the FCMC said: 
+
+By taking over [Parex] the Latvian state prevented insolvency of a leading Latvian credit institution, stabilized the whole Latvian financial system and certified to depositors that the state [was] ready to support them. The loss to the financial system as a result of the collapse of a bank like [Parex] would have exceeded the funds invested to stabilize the operations of [Parex] because customers—residents, non-residents, natural persons and legal entities—would have no longer believed in Latvian banks and consequently undermined their activity. (FCMC 2009b, 10) 
+
+
+The FCMC also said that a negotiated government takeover of Parex was the most efficient way to stabilize the bank.[8] Although it was possible to take the bank’s shares without shareholders’ consent under Article 105 of the Latvian Constitution, complex legal proceedings would have slowed the process and State Aid would have been too late. Thus, Latvian authorities decided to negotiate the takeover with the two majority shareholders (FCMC 2009a; FCMC 2009b). 
+
+These negotiations were held among the FCMC, Ministry of Finance, BOL, and Parex. The Cabinet of Ministers made the decision to take a 51% stake in Parex on November 8, 2008 (FCMC 2009b). The two majority shareholders said that it was the correct decision to seek help from Latvian authorities, and authorities subsequently decided the structure of assistance. They also told the press that they had the right of first purchase when the government decided to sell its 51% stake (BBC 2008). If the two majority shareholders did not meet all the conditions set forth in the initial investment agreement within two weeks, LHZB and the Latvian government could terminate the agreement (FCMC 2009a). 
+
+According to the FCMC’s 2008 annual report, authorities did not want to give State Aid to Parex with the majority shareholders in control. Latvian authorities observed the experience of other countries and concluded that in order for Parex to properly use State Aid and the government to eventually recover the amount, the government needed to own Parex (FCMC 2009b). 
+
+To restore the bank’s capital, Latvian authorities also authorized subordinated loans up to LVL 200 million on November 10, 2008. In approving this instance of State Aid, the EC noted on November 24 that no other market economy operator was willing to provide subordinated loans on comparable terms (EC 2008a). However, Latvian authorities did not use this authorized measure of subordinated loans until May 2009 (EC 2009b). 
+
+## **Amended Investment Agreement** 
+
+According to the IMF, Latvian authorities thought that the initial intervention would convince nonresidents to keep their deposits at Parex. However, deposit outflows continued (IMF 2009). 
+
+After November 10, the two majority shareholders did not receive the consent of two-thirds of the senior syndicated lenders to fulfill the conditions set forth in the initial investment agreement. However, the senior syndicated lenders indicated that they would only agree to refinance the loans if LHZB acquired all of the shares owned by Kargins and Krasovickis. According to the FCMC, the IMF, the EC, and Sweden’s central bank also insisted that Latvian authorities take all the shares owned by Kargins and Krasovickis and remove the two from management. This prompted Latvian authorities to amend the investment agreement (FCMC 2009a). 
+
+> 8 According to a parliamentary report, taxpayers would have paid EUR 939.1 million to fulfill deposit guarantee commitments had the government not taken over Parex (Parliament of Latvia 2015). 
+
+
+On December 3, 2008, the Cabinet of Ministers decided to amend the investment agreement to acquire all the remaining shares owned by the two majority shareholders, bringing the government’s total stake to 85%, to make sure that the State Aid would be properly utilized and recovered (EC 2008a; FCMC 2009b). However, the amended agreement removed Kargins and Krasovickis from the board, and they no longer had the right of first purchase of the government-owned Parex shares (EC 2009a; Reuters 2008). 
+
+## **Capital Injections** 
+
+The bank’s total shareholders’ equity fell by 65% to LVL 77 million by the end of 2008 owing to increased loan loss provisions and losses on the securities portfolio. Thus, Parex’s CAR of 4.1% was well below the regulatory minimum. The previously approved measure—up to LVL 200 million in subordinated loans—would not sufficiently raise Parex’s CAR to 11%. Also, on March 25, 2009, the FCMC raised the minimum CAR from 8% to 11% for Parex to ensure operation during the rescue phase (EC 2009b; FCMC 2009b). 
+
+On March 29, 2009, Latvian authorities made a request to the EC to change the form and amount of capital injections authorized by the EC decision on November 24, 2008, to achieve a CAR of 11% during the rescue phase. Latvian authorities requested to change the amount of previously authorized subordinated term debt[9] and requested new permission to inject Tier 1 capital in the form of ordinary shares. To minimize the use of state funds, a certain proportion of Tier 1 to Tier 2 capital would be maintained (see Key Design Decision No. 8, Capital Characteristics). While Latvian authorities anticipated capital injections totaling LVL 191 million, the EC gave permission to inject more capital to maintain a CAR of 11%, provided that the terms remained the same. The EC approved these measures on May 11, 2009 (EC 2009b). 
+
+## **EBRD Participation** 
+
+The government began negotiations with the EBRD in late November 2008 to reassure shareholders, given the EBRD’s reputation and experience in bank restructuring (Parliament of Latvia 2015). The EBRD would be a long-term investor and participate in the development of the bank; the ultimate goal was to return Parex to the private sector (EBRD 2009a; EC 2009c). The EBRD said in its 2009 report that its participation “was designed to improve confidence, ease the financial burden on the Latvian government and assist in the restructuring process ahead of a transfer back into private ownership” (EBRD 2009b, 184). See Key Design Decision No. 15, Exit Strategy, for more information on the EBRD’s participation. 
+
+> 9 The EC had approved changes to the interest rate mechanism for subordinated term debt on February 11, 2009 (see Key Design Decision No. 3, Legal Authority, and Key Design Decision No. 8, Capital Characteristics) (EC 2009a; EC 2009b). 
+
+
+**2. Part of a Package: To restore confidence in Parex, Latvian authorities provided emergency liquidity, a partial freeze on withdrawals, and guarantees.** 
+
+## **Broad-Based Liquidity Measures** 
+
+From the end of August until the end of November 2008, the BOL sold EUR 900 million in foreign currency to defend the peg of the lat to the euro, because of concerns about liquidity and access to outside private capital markets. During this time, BOL official reserves fell by 20% to EUR 3.4 billion, one-third of short-term external debt and more than 100% of base money (BOL 2009; IMF 2009).[10] Nonresident deposit runs on Parex played a large role in systemwide outflows. According to the IMF, any change in the nominal exchange rate would have immediately diminished private sector net worth in Latvia, because the majority of deposits and loans were foreign currency denominated (IMF 2009). 
+
+On October 24, 2008, the BOL lowered reserve requirements, thereby releasing LVL 200 million in liquidity to the banking system (BOL 2008a; IMF 2009). The BOL lowered the reserve ratio for bank liabilities with two-year maturities from 6% to 5% and for other liabilities from 8% to 7% (BOL 2008a; BOL 2009). The BOL further lowered reserve requirements in November and December 2008, which released an additional LVL 380 million (IMF 2009). 
+
+In a January 2009 report, the IMF says that the BOL provided LVL 555 million (3.5% of GDP) in liquidity to the entire banking system to meet deposit runs. Of the total LVL 555 million, LVL 195 million was for operations backed by domestic Treasury bills specifically issued for liquidity support to Parex (IMF 2009). The author interprets the IMF and BOL documentation to mean that the BOL released a total of LVL 1.1 billion in liquidity from August 2008 to January 2009. 
+
+## **Support from the IMF, EU, and European Countries** 
+
+From November 17–23 and December 5–18, 2008, senior government officials (including opposition party leaders), social partners, and representatives of financial institutions met with the IMF to discuss an SBA for approximately one-third of Latvia’s GDP (EIU 2008; IMF 2009). According to Reuters and the FCMC, the IMF said that it would grant more support if the Latvian government took full control of Parex (FCMC 2009b; Reuters 2008). On December 23, 2008, the IMF announced a 27-month SBA for 1.5 billion special drawing rights (SDR; EUR 1.7 billion) under its Emergency Financing Mechanism (EFM). Additional support totaling EUR 7.5 billion came from multilateral organizations and other European countries (see Figure 2) (IMF 2009). In the interim between the announcement and when the loans took effect, Latvia used already-established short-term swap facilities up to EUR 500 million with the central banks of Denmark and Sweden (EIU 2008). The SBA was extended to 36 months at the time of the second review (IMF 2013). 
+
+> 10 In 2008, Latvia was a member of the European Union but had not yet adopted the euro as its currency. 
+
+
+[FIGURE id=vol6_iss3_16_f2 type=figure page=15 label="Figure 2" file=figure_2.png caption="Commitments to Latvia by Multilateral Organizations and Other European Countries as of January 2009"]
+### **Figure 2: Commitments to Latvia by Multilateral Organizations and Other European Countries as of January 2009**
+
+|**Organization or Country**|**Amount Loaned to Latvia(EUR billions)**|
+|---|---|
+|EU|3.1|
+|Nordic countries<br>(Sweden,Denmark,Norway,Finland)|Up to 1.8|
+|IMF|1.7|
+|EBRD|0.1|
+|Czechia(Czech Republic)|0.2|
+|World Bank|0.4|
+|Poland|0.1|
+|Estonia|0.1|
+|**Total**|**7.5**|
+
+
+
+_Source: IMF 2009._ 
+
+According to the structural performance criteria and benchmarks under the SBA signed in December 2008, Parex’s management had to submit a restructuring plan to the FCMC and EC (see Key Design Decision No. 11, Restructuring) (IMF 2013). The SBA also called for broader financial sector reform—including emergency legislation allowing bank takeovers, a targeted examination of the banking system, commitments from foreign banks to maintain their presence in Latvia, and improved supervision and intervention capacity of the Bank of Latvia. On private debt restructuring, the SBA called for legislative and judicial reforms that would expedite restructuring processes (IMF 2009). 
+
+## **Emergency Liquidity, Partial Freeze, and Restructuring** 
+
+Latvian authorities said that Parex would receive a maximum amount of liquidity support capped at LVL 1.5 billion (EC 2009a). On November 11, 2008, the Ministry of Finance instructed the Treasury to make an initial term deposit of LVL 200 million in Parex so that the bank could acquire government debt securities to use as collateral to obtain cash reserves from the BOL (EC 2008a; FCMC 2009b). The deposit had a maturity of one year and an interest rate set at 20.3% (EC 2008a). From 2008 to 2010, the Treasury provided additional term deposits (FCMC 2009b). 
+
+On December 1, 2008, Latvian authorities granted Parex’s request for a partial freeze on withdrawals and transfers. The FCMC said that this measure was justified considering the run on deposits and other leveraged funds from Parex (FCMC 2008; FCMC 2009b). Individual withdrawals were capped at LVL 35,000 per month (AFP 2008; FCMC 2008; Tapinsh 2008). Withdrawals were capped at LVL 35,000 per month for businesses with ten or fewer employees. Withdrawals were capped at LVL 350,000 per month for businesses with 11– 250 employees (AFP 2008; FCMC 2008; Tapinsh 2008). The partial freeze did not apply to businesses with more than 250 employees (AFP 2008; Tapinsh 2008). While the partial freeze was initially scheduled to end by mid-2009, authorities prolonged the partial freeze in some form until at least January 2012 (EC 2010; IMF 2013; Parex 2011). Reverta’s annual reports say that the bad bank began to repay LVL 9.9 million to “big” depositors after the lifting of restrictions on January 2, 2012 (Baudino et al. 2022; Parex 2012). 
+
+
+The restructuring plan approved by the EC in September 2010 outlined a split of Parex into a newly established good bank called Citadele and a remaining bad bank called Reverta (see Key Design Decision No. 11, Restructuring) (EC 2014a; Parex 2011). This restructuring plan also envisioned the conversion of some liquidity support to capital, though the maximum authorization of outstanding liquidity support and conversions were revised in subsequent years (see Key Design Decision No. 3, Legal Authority, and Key Design Decision No. 8, Capital Characteristics). 
+
+## **Guarantees** 
+
+On November 14, 2008, creditors of the senior syndicated loans, amounting to EUR 775 million, were preparing to announce a default event, which meant that these loans would have become due immediately rather than on their maturity dates in February 2009 and June 2009. Latvian authorities negotiated with these creditors to maintain the maturity dates in February and June, provided that the government issued a guarantee for these loans. The government also guaranteed new loans issued to refinance the syndicated loan maturing in February 2009. Latvian authorities told the EC that these guarantees would be cheaper than new borrowings, since the existing senior syndicated loans had pre-crisis interest rates (EC 2008a). 
+
+The fee for the guarantees on these loans was calculated from: (a) the median value of the current five-year credit default swap (CDS) spreads for the rating category BB, based on sample of banks chosen by the Treasury, (b) an add-on fee of 50 basis points (bps), and (c) a guarantee service fee of 10 bps to the Treasury (EC 2008a). 
+
+Beyond six months, Latvia had to obtain additional approval from the EC to guarantee loans as a part of Parex’s restructuring and resolution (EC 2008a). 
+
+On December 16, 2008, the FCMC increased the coverage limit of the already-existing deposit insurance scheme (EC 2008b; Parliament of Latvia 2011b). Ultimately, the guarantee did not apply to Parex, but Latvian authorities assert that all guaranteed deposits were paid out (EC 2008b).[11] 
+
+Per the EBRD’s investment agreement in Parex in 2009, the Ministry of Finance guaranteed a maximum of LVL 89 million of the LPA’s liabilities (see Key Design Decision No. 15, Exit Strategy) (Cabinet of Ministers 2009). 
+
+In March 2010, Parex signed an agreement with the European Investment Bank (EIB) for a credit line up to EUR 100 million to finance small and medium-sized enterprises (SMEs). The EIB required a government guarantee for the credit line as long as Citadele remained below investment grade. After the split, this credit line was transferred to Citadele (EC 2010). 
+
+> 11 The author received comments on this case from officials at the BOL. 
+
+
+**3. Legal Authority: The Law on Budget and Financial Management allowed Latvian authorities to inject capital into Parex.** 
+
+## **Latvian Legal Authority** 
+
+The parliament revised its laws on November 14 to enable the Treasury to lend funds to the LPA for that recapitalization (Parliament of Latvia 2009a, art. 8.1; Parliament of Latvia 2009b, art. 6; Treasury 2010). 
+
+On, November 14, 2008, the parliament revised the Law on Budget and Financial Management, Section 36, Paragraph 6, to allow the finance minister to extend state loans, based on a decision by the Cabinet of Ministers (Parliament of Latvia 2009a, sec. 36[6]). According to the Treasury’s annual reports, this was the legal basis for the loans provided to the Treasury from the LPA to fund Parex’s recapitalization (Treasury 2010; Treasury 2011). 
+
+## **EC Decision-Making** 
+
+Article 88 of the European Commission Treaty (EC Treaty) obligates member states to obtain EC approval of State Aid affecting the common market (EC 2002b). 
+
+Latvian authorities placed behavioral constraints on Parex to avoid undue distortions of competition for EC compliance, which the EC noted in its decision on November 24, 2008 (see Decker 2024) (Competition Council 2008; EC 2008a). 
+
+On November 24, 2008, the EC decided Latvia’s aid measures were compatible with the common market; the EC did not raise objections. The EC evaluated Latvia’s intervention according to Article 87 of the EC Treaty (EC 2002a, art. 87; EC 2008a). The EC said the partial nationalization of Parex did not constitute State Aid to Parex’s shareholders, because the Latvian government paid a symbolic LVL 2 and the EC was not aware of any obligations that the existing shareholders had against the bank or its creditors of which they would have been relieved due to the transaction. Meanwhile, the EC said that the subordinated loans to Parex and government guarantee of Parex’s senior syndicated loans did constitute State Aid: these measures allowed Parex to strengthen its position compared to those of its competitors in Latvia and other member states, thus distorting competition and affecting trade (EC 2008a). 
+
+On February 11, 2009, the EC did not object to Latvia’s amended measures surrounding LHZB’s 85% stake in Parex, as the amended measures were “practically identical to the original ones, and the situation on the financial markets has not improved” (EC 2009a). The EC also approved changes to the interest rate mechanism for subordinated term debt (EC 2009a; EC 2009b). 
+
+On March 29, 2009, Latvian authorities made a request to the EC to change the form and amount of capital injections authorized by the EC decision on November 24, 2008, to achieve a CAR of 11% during the rescue phase. Regarding the subordinated term debt previously authorized on February 11, Latvian authorities requested new permission to inject Tier 1 capital in the form of ordinary shares. To minimize the use of state funds, a certain proportion of Tier 1 to Tier 2 capital would be maintained (see Key Design Decision No. 8, 
+
+
+Capital Characteristics). While Latvian authorities anticipated capital injections totaling LVL 191 million, the EC gave permission to inject more capital to maintain a CAR of 11%, provided that the terms remained the same. The EC approved these measures on May 11, 2009 (EC 2009b). 
+
+On September 15, 2010, the EC found that the restructuring plan was compatible with Article 103(3)(b) of the Treaty on the Functioning of the European Union (TFEU) and properly addressed viability, burden sharing, and competition distortion (EC 2010). 
+
+On March 6, 2012, Latvian authorities sent a request to the EC to amend the restructuring plan. The EC allowed these changes on August 10, 2012 (see Decker 2024) (EC 2012). 
+
+On October 1, 2013, Latvian authorities requested another amendment to its State Aid authorization. Latvia wanted to postpone the deadline to divest Parex’s wealth management business per the September 2010 EC decision (see Decker 2024). In corresponding with Latvia, the EC discovered that Latvia took certain actions without notifying the EC: extending the maturity of some subordinated loans in pre-split Parex and later Citadele in addition to exceeding the maximum authorization of liquidity support to Reverta. In July 2014, the EC issued a decision responding to these violations of State Aid. On the divestment of Citadele’s wealth management business, the EC recognized the difficulty in finding interested buyers given Latvia’s market conditions at the time. The EC noted Latvia’s proposal to sell Citadele’s wealth management business with the good bank itself to increase market interest and thus increase the likelihood of Citadele’s sale. On the maturity extensions, the EC acknowledged that Latvia’s changes better aligned subordinated debt amortization under Basel II rules and Latvia regulators’ changes to the CAR requirement during the rescue phase. On the breach of maximum liquidity support to Reverta, the EC noted that Reverta had a lower asset quality than expected in addition to slower than expected recovery of collateral and litigation with debtors. Moreover, Reverta’s loss of its banking license in 2011 meant that the bad bank did not need to convert further liquidity support into capital. Considering the difficulty in asset recovery and the unconverted liquidity support, the EC concluded that Reverta’s emergency liquidity was limited to the minimum necessary for its resolution (EC 2014b). 
+
+See Figure 3 for a timeline of EC decision-making. 
+
+[FIGURE id=vol6_iss3_16_f3 type=diagram page=18 label="Figure 3" file=figure_3.png caption="Timeline of EC Decision-Making for State Aid to Parex"]
+### **Figure 3: Timeline of EC Decision-Making for State Aid to Parex**
+
+|**Date**|**Event**|
+|---|---|
+|November 10, 2008|Latvian authorities communicate public support measures to the EC.|
+|November 24, 2008|The EC does not object to Latvia’s interventions. The EC says that partial<br>nationalization does not constitute State Aid; the subordinated loans, loan<br>guarantees, and capital injection do constitute State Aid.|
+|February 11, 2009|The EC does not object to Latvia’s amended measures surrounding LHZB’s 85%<br>stake in Parex.|
+|March 29, 2009|Latvian authorities request changes to the form and amount of the capital<br>injection authorized by the EC.|
+
+
+
+
+|May 11, 2009|The EC approves the LPA’s recapitalization changes, thereby increasing the<br>government’s participation to 95%.<br>The Latvian government provides a restructuring plan to the EC.|
+|---|---|
+|June 15, 2009|The EC meets with Latvian authorities.|
+|July 29, 2009|The EC issues its decision on the recapitalization and 95% takeover of Parex;<br>the EC expresses doubts that Latvia’s State Aid is compatible with the common<br>market.|
+|September 15, 2010|The EC finds the restructuring plan compatible with Article 107(3)(b) of the<br>TFEU.|
+|March 6, 2012|Latvian authorities request three changes to the restructuring plan.|
+|August 10, 2012|The EC grants the three requested changes to the restructuring plan.|
+|October 1, 2013|Latvia requests the postponement of the deadline to divest Citadele’s wealth<br>management business. The EC subsequently learns that Latvia violated certain<br>aspects of previous State Aid authorization: extending the maturity of some<br>subordinated loans in presplit Parex and later Citadele and exceeding the<br>maximum authorization of liquidity support to Reverta.|
+|July 9, 2014|The EC does not object to the postponement of divesting Citadele’s wealth<br>management business, maturity extensions for pre-split Parex and Citadele,<br>and increased liquidity support to Reverta.|
+
+
+
+_Source: Author’s analysis._ 
+
+## **4. Administration: The FCMC set CAR requirements, and the LPA injected shares.** 
+
+On November 3, 2008, negotiations commenced among the FCMC, Ministry of Finance, BOL, and Parex (FCMC 2009b). On November 10, 2008, the two majority shareholders, Parex, and the Latvian government signed an investment agreement (EC 2008a). 
+
+## **Financial and Capital Market Commission** 
+
+The FCMC supervised and issued regulations pertaining to the activities of banks, credit unions, insurance undertakings and insurance intermediaries, and private pension funds (FCMC 2009b). To this end, the FCMC regularly estimated banks’ minimum capital requirements and the amount of capital necessary for each bank to cover its losses. Taken together, these estimates established the amount of capital needed to cover: interest rate risk in the nontrading portfolio and concentration risk in the loan portfolio, among others (FCMC 2010). From August 18 to October 3, 2008, the FCMC inspected Parex’s loan portfolio and credit risk management, which led to the detection of “material weaknesses” (FCMC 2009b). 
+
+The FCMC was managed by a board consisting of five members: a chairperson, a deputy, and three council members who were also directors of the FCMC’s departments (FCMC 2009b; Parliament of Latvia 2002, art. 13). The chairperson and deputy were appointed by the parliament on the advice of the finance minister and BOL president. The chairperson and deputy served for terms of six years. The chairperson appointed other members in 
+
+
+coordination with the finance minister and BOL president (Parliament of Latvia 2002). The council adopted decisions by a simple majority vote. In the event of a tie, the chairperson’s vote was decisive (Parliament of Latvia 2002, art. 16). 
+
+## **Latvian Mortgage and Land Bank** 
+
+LHZB was established on March 19, 1993, as a state-owned commercial bank based on a decree by the Cabinet of Ministers. Latvian authorities used LHZB to develop Latvia’s mortgage lending system and mortgage-backed securities (Baltic Legal n.d.; LHZB 2010). 
+
+From November 10, 2008, to February 25, 2009, LHZB held the government’s shares in Parex (EC 2008a; Parex 2009b). When the Cabinet of Ministers decided to acquire the two majority shareholders’ 85% stake, the Cabinet required LHZB to divest itself of Parex within one year. Thus, LHZB had to seek sale advisors and interested buyers right away (FCMC 2009a). 
+
+On December 3, 2008, when LHZB acquired an 85% stake in Parex, the Cabinet of Ministers also issued Decree No. 820. This decree set LHZB on the course of transformation from a commercial bank to a development bank (LHZB 2010). 
+
+## **Latvian Privatization Agency** 
+
+On February 25, 2009, per the direction of the Cabinet of Ministers, LHZB transferred the government’s 85% stake in Parex to the LPA for further capital increases and the potential sale of the bank (LPA 2009; Parex 2009a; Parex 2009b). Thus, the LPA bought Parex’s shares from LHZB for LVL 2.01. The FCMC said the Cabinet of Ministers made this decision because the LPA had experience in selling state-owned bank shares, pointing to the examples of JSC Latvijas Krājbanka and JSC Latvijas Unibanka (FCMC 2009a). 
+
+The LPA performed all capital injections into Parex, Citadele, and Reverta (Citadele 2011a; EC 2009b; EC 2010; Parex 2011). 
+
+The LPA board managed the agency’s day-to-day activities (Cabinet of Ministers 1994). The LPA board organized the privatization of state-owned property and approved regulations for the privatization of specific state-owned property after the LPA council issued an opinion (Cabinet of Ministers 1994). The LPA board met at least once per week and made decisions by a simple majority vote. In the case of a tie, the board chairperson’s vote was decisive (Cabinet of Ministers 1994). 
+
+LPA board members were appointed for a maximum period of three years, and they could be reappointed. At least half of the LPA board members had to be Latvian citizens; the remaining board members had to be permanent residents of Latvia for at least 21 years. The chairperson of the LPA was also the general director, approved by the Cabinet of Ministers on the recommendation of the trustee. The general director managed the activities of the LPA board. Upon recommendation of the general director, the LPA board approved the deputy general director (Cabinet of Ministers 1994). 
+
+
+The council of experts was a consultative body whose members evaluated specific privatization undertakings and presented these findings to the LPA board before the latter made a decision (Cabinet of Ministers 1994). Members of the council of experts were recommended by the LPA board and approved by the LPA council (Cabinet of Ministers 1994). 
+
+## **Sell-Side Advisers** 
+
+On March 3, 2009, Parex announced that the Latvian government had appointed Nomura International PLC as a strategic, sell-side adviser (Parex 2009c). Nomura submitted a restructuring plan to the Cabinet of Ministers, which approved the plan on March 23, 2010 (Parex 2011). 
+
+In October 2013, the Cabinet of Ministers approved measures to hire Société Générale as a financial advisor and Linklaters as a legal adviser in the LPA’s sale of Citadele (Citadele 2013a; OECD 2016). Advisory firms submitted applications to a special commission with representatives from the Ministry of Finance, Ministry of Economics, LPA, Citadele’s council, and the EBRD; the special commission selected the best firm (Citadele 2013a). 
+
+## **5. Governance: The Cabinet of Ministers oversaw the LPA’s activities, and parliament launched investigations.** 
+
+## **Latvian Privatization Agency** 
+
+The LPA council governed the LPA’s activities (Cabinet of Ministers 1994, arts. 3[10], 3[20]). Five members comprised the LPA council, appointed by the Cabinet of Ministers on the recommendation of the trustee and each parliamentary faction (Cabinet of Ministers 1994, arts. 3[10-11]). LPA council members could serve a maximum of three years (Cabinet of Ministers 1994, art. 3[14]). At least two-thirds of the LPA council had to be Latvian citizens. If noncitizens served, they had to be permanent residents of Latvia for at least 21 years (Cabinet of Ministers 1994, art. 3[13]). 
+
+The LPA council had to issue an opinion on the privatization of a specific state-owned property before the LPA board could issue subsequent regulations. The LPA council received a report on the LPA’s activities from the board once per quarter (Cabinet of Ministers 1994, art. 3). The trustee appointed sworn auditors to check the LPA’s activity and produce a report (Cabinet of Ministers 1994, art. 7). 
+
+The Ministry of Economics owned 100% of the LPA’s shares, and the LPA board’s activities were ultimately subject to the Cabinet of Ministers (Cabinet of Ministers 1994, art. 4; LPA 2009). 
+
+## **Parliamentary Investigations** 
+
+On February 24, 2011, the Parliament of Latvia launched an investigation commission on possible illegal activities in the process of taking over and restructuring Parex (Parliament of Latvia 2011a). The commission issued its report on June 9, 2011. The investigation 
+
+
+commission stated that its report was not sufficiently exhaustive, because parliament did not vote to extend the length of the investigation. The commission said that it was not convinced that the government’s majority stake in Parex and other rescue funds in Parex’s resolution were safely and effectively used in the best interest of Latvian citizens (Parliament of Latvia 2011c). 
+
+On November 13, 2014, the Parliament of Latvia launched another investigation into the progress of Citadele’s sale process. The investigation considered the sale price, resale bank period, provisions contained in the share sale agreement, expense of sell-side advisors, and expense of public relations services. The parliament released its final report on Citadele’s sale process in December 2015 (Parliament of Latvia 2015). 
+
+## **6. Communication and Disclosure: Latvian authorities characterized the government intervention as a preferable alternative to bankruptcy.** 
+
+## **Communication** 
+
+In early November 2008, Prime Minister Ivars Godmanis spoke to the press and presented a binary choice: either take control or Parex or allow it to enter bankruptcy. He said that the government had to protect Parex due to its size and importance in the Latvian banking system as a whole (AP 2008; Lannin 2008a). 
+
+BOL Governor Ilmars Rimsevics said: “This was an attempt by the Latvian authorities to step in earlier rather than later” (Anderson 2008). Latvian authorities said that Kargins and Krasovickis would not be excluded from the sales process once the liquidity crisis was over (Lannin 2008b). 
+
+The Ministry of Finance promised to publicly publish parts of the 77-page takeover agreement that did not contain confidential information (FCMC 2009b; Petrova 2008). Research has not uncovered any portion of the takeover agreement. 
+
+In a press release also in early November, the BOL said that the government would begin talks “in the nearest future” with private investors to return Parex to private ownership (BOL 2008b). 
+
+## **Disclosure** 
+
+In a document dated May 2009, the FCMC said authorities initially limited information by classifying documents as “secret” or “restricted use information” according to the Law on the State Secret and Information Disclosure Law (FCMC 2009a, 1). The FCMC said this was to protect the interests and legal rights of those receiving financial services (for example, depositors), the state, and business participants—while acknowledging that this choice led to a “variety of interpretations” surrounding Parex’s rescue (FCMC 2009a, 1). 
+
+According to a parliamentary investigation, many of the documents related to the sale process of Citadele were assigned the status “limited availability information” (Parliament of Latvia 2015, 5). The parliamentary investigation commission unsuccessfully tried to 
+
+
+declassify these documents to inform the public of the sale process (Parliament of Latvia 2015). 
+
+After the split, Citadele and Reverta published annual reports containing information on share capital and the sales process. 
+
+**7. Treatment of Creditors and Equity Holders: Parex’s shareholders and subordinated debtholders were completely wiped out; senior creditors and insured depositors were fully compensated, although only after delays.** 
+
+As of the end of 2008, total shareholders’ equity fell by 65% to LVL 77 million mostly due to increased loan loss provisions and losses on the securities portfolio (EC 2009c). 
+
+In its decision on September 15, 2010, the EC said that Kargins and Krasovickis, the two majority shareholders, adequately bore the burden of Parex’s failure because they were wiped out as equity holders after the government acquired their shares for a symbolic amount of LVL 2. The minority shareholders also bore this burden when their shares were diluted from 15% to 3%, according to the EC. The EC said that this use of bail-in sufficiently addressed burden sharing and “[served] as a valuable signal against moral hazard” (EC 2010). 
+
+## **Depositors** 
+
+Most of Parex’s deposits were paid out or later transferred to Citadele (Baudino et al. 2022). A small number of big depositors were paid out from Reverta after authorities completely lifted the December 2008 partial deposit freeze on January 2, 2012 (see Key Design Decision No. 2, Part of a Package) (Baudino et al. 2022; FCMC 2008; Parex 2012). 
+
+## **Senior Syndicated Lenders** 
+
+The senior syndicated lenders remained with the bad bank after the split on August 1, 2010 (EC 2010). All the loans were repaid by May 2011: The first was repaid with government liquidity support, and the second and third were repaid from the bank’s own resources (IMF 2013). 
+
+## **Subordinated Debtholders** 
+
+Subordinated debtholders ultimately received nothing for their investments (EC 2008a; EC 2014b). 
+
+## **Two Majority Shareholders** 
+
+The FCMC, Ministry of Finance, BOL, and two majority shareholders met at the beginning of November 2008 to discuss the government takeover of Parex. Although it was possible for the government to forcibly take control, complex legal procedures would have protracted the process and delayed State Aid. Thus, Latvian authorities decided to engage the two 
+
+
+majority shareholders, Kargins and Krasovickis, together owning 85% of the bank’s shares (FCMC 2009b). 
+
+On November 10, 2008, Parex’s majority shareholders transferred 51% of the bank’s shares to LHZB for LVL 2. The two majority shareholders pledged the remaining 34% of the bank’s shares to LHZB. Therefore, although the two majority shareholders still technically owned 34%, LHZB exercised the voting rights for this 34% of shares as well. At the request of LHZB or the government, Kargins and Krasovickis had to cover any losses that were not duly reflected in Parex’s financial reports at the closing date of the agreement (EC 2008a). PwC investigated the authenticity of financial statements submitted by the two majority shareholders under the initial investment agreement on November 10 (FCMC 2009b). Per the initial agreement on November 10, Kargins and Krasovickis were entitled to repurchase shares from LHZB for LVL 2, plus the sum equal to 1% of the whole amount of funds granted under the agreement to the bank, provided that: 
+
+- At least 12 months elapsed from the signing date of the agreement; 
+
+- Parex repaid all subordinated loans that it received from the government; 
+
+- All the guarantees provided by the government with respect to the liabilities of Pares had been released; 
+
+- Parex had covered all expenses of the government and LHZB with respect to the financial assistance it received per the initial agreement; 
+
+- The government had not already sold Parex’s shares to a third-party investor (EC 2008a). 
+
+On December 3, 2008, LHZB took over 85% of Parex’s shares, thus removing the two majority shareholders. After the amended agreement, the two majority shareholders were removed from the board and were no longer entitled to first purchase of their shares back from LHZB (see Key Design Decision No. 1, Purpose) (EC 2009a; Reuters 2008). 
+
+## **Minority Shareholders** 
+
+The minority shareholders were not affected by the initial investment agreement on November 10, 2008 (Anderson 2008; EC 2008a). The Swedish fund manager East Capital and the Swedish bank Svenska Handelsbanken AB (Handelsbanken) were among the minority shareholders (Anderson 2008; FCMC 2009b). 
+
+The minority shareholders were not affected by the amended agreement on December 3, 2008, since LHZB specifically took the shares belonging to the two majority shareholders, Kargins and Krasovickis (Anderson 2008; EC 2009a). One of the largest minority shareholders, Handelsbanken, volunteered to sell its 0.3% stake to LHZB for one eurocent (FCMC 2009b; Kolyako 2008). According to the _Baltic Course_ , Handelsbanken exited to avoid a conflict of interest in case the Swedish government’s loan was used to strengthen Latvian banks (see Key Design Decision No. 2, Part of a Package) (Kolyako 2008). 
+
+
+The subsequent state recapitalizations and the capital injections by the EBRD in September 2009 diluted minority shareholders to 3.7% (EC 2009c; EC 2010; Parex 2009d). 
+
+After the split into good and bad banks, Citadele and Reverta, respectively, the minority shareholders remained with the bad bank (Citadele 2011a; Parex 2011). 
+
+The minority shareholders ultimately received nothing for their shares (EC 2008a; EC 2014b). 
+
+**8. Capital Characteristics: The government provided Tier 1 and Tier 2 capital into Parex—later renamed Reverta after the split—and the new good bank, Citadele.** 
+
+To minimize the use of state funds, the total amount of Tier 2 capital would not exceed 50% of the total amount of Tier 1 capital per the EC decision and capital injection on May 22, 2009 (EC 2009b; Parex 2011). If subsequent capital injections were necessary to maintain a minimum CAR of 11%, these capital injections needed to maintain the aforementioned ratio[12] of Tier 2 to Tier 1 capital (EC 2009b). 
+
+## **Tier 1: Ordinary Shares** 
+
+On May 22, 2009, the LPA injected LVL 140.8 million in the form of ordinary shares with voting rights for LVL 0.72 per share, qualifying as Tier 1 capital (EC 2009b; Parex 2011). Latvian authorities used net asset value (NAV) per share as an estimate of their market value, since Parex’s shares were not tradable on the market after nationalization. NAV calculations accounted for all provisions made by Parex through the end of March 2009 and PricewaterhouseCoopers’ due diligence report. As such, the weighted average cost for one share was LVL 0.72, while the NAV per share following recapitalization was LVL 1.01. Thus, the LPA received a discount of 29% on ordinary shares (EC 2009b). 
+
+At the time of the injection, the EC said that Latvian authorities did not foresee distribution of profits as dividends “in the near future” for three reasons. First, the purpose of the injection was to strengthen the bank’s capital base. Second, private minority shareholders had a stake in the bank. Third, Latvian authorities anticipated the sale of Parex to a thirdparty investor (EC 2009b). 
+
+Latvian authorities based the remuneration of ordinary shares (in other words, the government’s sale of ordinary shares to a private investor) on the recommendations of the European Central Bank (ECB) for the pricing of recapitalization instruments, adjusting the fee element considering that Latvia was not a euro area member state. Remuneration was calculated as the total value of: (a) the real costs of Treasury loan funds (at the moment determined as an annual yield of government domestic T-bills), (b) equity risk premium of 5%, and (c) add-on fee of 1% (EC 2009b). 
+
+> 12 Citadele’s annual report for 2011 suggests that the bank wrote down its Tier 2 subordinated debt if it breached 50% of total Tier 1 equity capital in order to maintain the ratio in question (Citadele 2012). 
+
+
+On October 29, 2009, the LPA increased Parex’s share capital by LVL 24.3 million; these shares did not have voting rights to maintain the proportion of Parex share capital wherein the EBRD had 25%+1 share of ordinary shares with voting rights (Parex 2011).[13] 
+
+After the split into good and bad banks on August 1, 2010, the Tier 1 equity capital already injected remained with the bad bank, renamed Reverta (EC 2010). 
+
+One July 29, 2010, the LPA increased Citadele’s share capital by LVL 99 million, thereby achieving LVL 103 million of voting shares. No dividends were proposed and paid during 2010 (Citadele 2011a). 
+
+On December 30, 2010, the LPA increased Reverta’s share capital by LVL 9.7 million (Parex 2011). 
+
+Latvian authorities recapitalized Reverta by LVL 39.8 million in 2011. In August, the LPA injected LVL 20 million into Reverta through ordinary shares with a nominal value of LVL 1 per share and voting rights. In November, the LPA injected LVL 19.8 million in ordinary shares with voting rights (Parex 2012). 
+
+## **Tier 2: Subordinated Term Debt** 
+
+On May 22, 2009, the Latvian government injected LVL 50.3 million in the form of subordinated term debt, qualifying as Tier 2 capital, into Parex (EC 2009b; EC 2010; Parex 2011). The interest rate was 8.8% (Citadele 2011b). The interest rate was calculated at the date of issuance according to the total value of: (a) the one-year interbank lending rate, (b) a credit risk premium for five-year senior loans determined as the median value of current five-year credit default swap (CDS) spreads for the rating category BB, based on a sample of banks chosen by the Treasury, (c) an add-on fee of 50 bps, (d) a subordinated loan service fee of 25 bps to the Treasury, and (e) a credit risk premium of 200 bps to capture the subordination effect and increased risk of the loan (EC 2008a). 
+
+After the split into good and bad banks on August 1, 2010, the Tier 2 subordinated loans already granted were transferred to the new good bank, Citadele. Citadele did not receive additional Tier 2 capital after the split while owned by the state (Citadele 2014; EC 2010). 
+
+## **Conversion of Liquidity Support to Capital** 
+
+On February 26, 2010, the Cabinet of Ministers approved the conversion of liquidity support (term deposits) to bank capital, thus recapitalizing Parex by LVL 31.5 million (Parex 2010). Reverta ultimately converted a total LVL 49.5 million to capital as of December 2011 after which point no further conversions took place (EC 2014b). It is unclear to the author which capital increases comprised the remaining LVL 18 million of conversions from state term deposits to bank capital. 
+
+> 13 In providing comments on this case study, Latvian authorities said that these shares did not have voting rights to maintain the proportion of 25%+1 held by the EBRD. 
+
+
+After the split into bad and good banks, Citadele converted liquidity support (term deposits) into equity for a recapitalization of LVL 103 million (EC 2010; Treasury 2011). 
+
+**9. Size and Source of Funding: The Treasury extended loans to the LPA to fund Parex’s recapitalization. In total, the LPA provided LVL 313.6 million in Tier 1 capital and LVL 50.3 million in Tier 2 capital. Recapitalization was also achieved by converting LVL 152.5 million of liquidity support.** 
+
+According to the Treasury’s annual reports, the Treasury extended loans to the LPA to fund Parex’s recapitalization (Treasury 2010; Treasury 2011). The EBRD also injected capital into Parex (see Key Design Decision No. 15, Exit Strategy). 
+
+With the initial investment agreement on November 10, 2008, the government determined a maximum contribution of LVL 200 million into Parex via subordinated loans, qualifying as Tier 2 capital, with a maximum maturity of five years (EC 2008a). 
+
+The EC approved Latvia’s request on May 11, 2009, to amend the form and amount of capital injected (see Key Design Decision No. 3, Legal Authority) (EC 2009c; EC 2010; Parex 2011). The March 29 request assumed that Parex would receive an additional LVL 12 million in subordinated loans, but it does not appear that the LPA injected additional Tier 2 capital beyond the initial LVL 50.3 million (Citadele 2014; EC 2009c; EC 2010). The EC also gave Latvian authorities permission to inject the necessary capital to achieve a CAR of 11% throughout government ownership of the bank (EC 2009b). 
+
+In total, the LPA provided LVL 313.6 million[14] in Tier 1 capital and LVL 50.3 million in Tier 2 capital (Citadele 2011a; EC 2009b; EC 2010; Parex 2011; Parex 2012). Recapitalization was also achieved by converting state term deposits from the Ministry of Finance into bank capital: LVL 49.5 million converted in Reverta and LVL 103 million converted in Citadele (EC 2010; Parex 2010; Treasury 2011). 
+
+## **10. Timing: Latvian authorities first injected capital 193 days after initial approval from the EC.** 
+
+On November 10, 2008, Latvian authorities notified the EC of public support measures (EC 2008a). The EC approved the measures on November 24, 2008, including the authorization of subordinated loans qualifying as Tier 2 capital (EC 2008a). 
+
+On March 29, 2009, Latvian authorities made a request to the EC to change the form and amount of capital injections authorized by the EC decision on November 24, 2008, to achieve a newly raised CAR of 11% during the rescue phase (see Key Design Decision No. 3, Legal Authority). The EC approved the amended measures on May 11, 2009 (EC 2009b). 
+
+The LPA made its first capital injections into Parex on May 22, 2009, 193 days after initial authorization from the EC and 11 days after amended authorization from the EC (EC 2008a; 
+
+> 14 This figure may be inconsistent because of lack of clarity about recapitalizations as capital injections or as conversions from liquidity support. 
+
+
+EC 2009b; Parex 2011). The LPA performed subsequent capital injections in Parex (before the split), Citadele, and Reverta (see Figure 4). 
+
+[FIGURE id=vol6_iss3_16_f4 type=diagram page=28 label="Figure 4" file=figure_4.png caption="Timeline of Parex’s Recapitalization"]
+### **Figure 4: Timeline of Parex’s Recapitalization**
+
+|**Date**|**Receiving Institution**|**Notes**|**Amount**|
+|---|---|---|---|
+|May 22, 2009|Parex (pre-split)|Tier 1<br>Tier 2|LVL 140.8 million<br>LVL   50.3 million|
+|October 29, 2009|Parex (pre-split)|Tier 1|LVL   24.3 million|
+|February 26, 2010|Parex (pre-split)|Conversion from state term<br>deposits|LVL   31.5 million|
+|July 29, 2010|Citadele|Tier 1|LVL   99.0 million|
+|December 30, 2010|Reverta|Tier 1|LVL     9.7 million|
+
+
+
+Notes: The regulatory minimum for the CAR was 8% in 2008. On March 25, 2009, the FCMC raised the minimum CAR for Parex to 11% (EC 2009b; FCMC 2009b). The information in this figure may be inconsistent because of lack of clarity about recapitalizations as capital injections or as conversions from liquidity support. 
+
+_Sources: Citadele 2011a; EC 2009b; EC 2010; Parex 2011._ 
+
+## **11. Restructuring: The LPA split Parex into a remaining bad bank, Reverta, and a new good bank, Citadele.** 
+
+The restructuring plan approved by the EC in September 2010 outlined a split of Parex into a newly-established good bank called Citadele and a remaining bad bank called Reverta (EC 2014a; Parex 2011). Citadele would focus on three core business segments in the Baltics: corporate, retail, and wealth management. Latvian authorities aimed to make Citadele profitable in a sustainable manner by reducing the size of its balance sheet. Reverta would keep all noncore and many nonperforming assets in addition to the senior syndicated loans and legacy subordinated liabilities (EC 2010). Reverta’s goals was to maximizes the recovery of State Aid. For more on the restructuring of Parex (see Decker [2024]) (Parex 2011). 
+
+## **12. Treatment of Board and Management: The two majority shareholders were removed from Parex’s board and faced legal action.** 
+
+Valērijs Kargins was the president and board chairman of Parex as well as one of the two majority shareholders (BBC 2008; Parex 2011). Viktors Krasovickis was also a board member and one of the two majority shareholders (FCMC 2009b; Parex 2011). They were removed from Parex’s management when the government partially nationalized the bank in November 2008 (BBC 2008; FCMC 2009b). 
+
+On July 30, 2010, Parex filed a claim against Kargins and Krasovickis for compensation for damages to the bank greater than LVL 62 million (Parex 2011; Republic of Latvia 2011). On August 16, 2010, the Riga District Court took up the claim and ordered Reverta to secure loss compensation that could have occurred from the enforcement of the decision. On November 15, 2010, Reverta (what was left of the bad bank) filed a request with the Riga District Court to reduce the security deposit (Parex 2011). 
+
+
+For more information on new management installed at Parex, Citadele, and Reverta, see Decker (2024). 
+
+## **13. Other Conditions: Citadele requested to increase the CAR at which it had to remunerate Latvia for asset relief.** 
+
+For restrictions related to the government takeover and split of the banks, see Decker (2024). 
+
+After the split, the bad bank, Reverta, kept bad assets: Baltic nonperforming loans (NPLs), loans to legacy shareholders, Commonwealth of Independent States (CIS) leasing subsidiaries, and CIS NPLs. This was considered asset relief on the part of the good bank, Citadele. Per the restructuring plan, Citadele had to remunerate the state for asset relief. The remuneration was to be paid every year under government ownership in which Citadele’s CAR was at least 12%—as long as the relevant amount did not lead to losses in the relevant year (see Decker 2024) (EC 2010; EC 2012). 
+
+In March 2012, Latvian authorities told the EC that Citadele’s CAR may require an increase for compliance with Basel III, since the FCMC planned to implement Basel III rules as of January 1, 2013, without a transition period. Thus, Latvian authorities sought approval from the EC to change the threshold of the asset relief remuneration trigger, provided that the relevant amount did not lead to losses in the relevant year: The remuneration would be paid every year in which Citadele’s CAR was not lower than (a) the current minimum regulatory requirement as determined by the FCMC + 0.5% buffer, or (b) the future minimum regulatory requirements as determined by the FCMC up to one year before they are effectively in force + 0.5% buffer. The EC approved this change on August 10, 2012 (EC 2012). 
+
+## **14. Regulatory Relief: Research did not uncover regulatory relief.** 
+
+Research did not uncover regulatory relief. In fact, Latvian authorities’ stated purpose for capital injections was to raise the respective CARs (EC 2009b; EC 2010). 
+
+## **15. Exit Strategy (A): Latvian authorities said they wanted to sell the government’s shares as soon as the exit price was reasonable and achievable.** 
+
+According to an EC decision in May 2009, Latvian authorities said that they intended to sell the government’s ordinary shares as soon as the exit price was reasonable and achievable within three years of the initial intervention. Authorities simulated exit prices at different time periods to demonstrate that selling shares too soon would adversely impact remuneration (see Figure 5) (EC 2009b). 
+
+
+[FIGURE id=vol6_iss3_16_f5 type=figure page=30 label="Figure 5" file=figure_5.png caption="Expected Sales Price of Ordinary Shares of Parex"]
+### **Figure 5: Expected Sales Price of Ordinary Shares of Parex**
+
+|**Holding period**<br>(fullyears)|**Minimum sales price (LVL)**<br>(at the end of theyear)|
+|---|---|
+|1|0.82|
+|2|0.94|
+|3|1.07|
+|4|1.22|
+|5|1.40|
+
+
+
+Note: This simulation used 14.3% for the required rate of return and an estimated 140.8 million ordinary shares that needed to be acquired by the state to achieve a CAR of 11%. 
+
+_Source: EC 2009b._ 
+
+## **Exit Strategy (B): The EBRD invested in Parex before the split and in Citadele after the split.** 
+
+On April 16, 2009, the EBRD entered an investment agreement with the LPA (Cabinet of Ministers 2009; EBRD 2009a; EC 2009b). The EBRD would be a long-term investor and participate in the development of the bank; the ultimate goal was to return Parex to the private sector (EBRD 2009a; EC 2009c). Per the agreement, the EBRD would pay LVL 1 per share for 25%+1 of ordinary shares with voting rights in Parex for LVL 59.5 million (EBRD 2009a; EC 2009b; Parex 2011). The EBRD would also provide a subordinated loan of EUR 22 million, qualifying as Tier 2 capital (EBRD 2009a). The EBRD would be represented at Parex’s supervisory board with a nominee director (EBRD 2009a). Also, per the agreement, the Ministry of Finance guaranteed a maximum of LVL 89 million of the LPA’s liabilities (Cabinet of Ministers 2009). The deal closed on September 3, 2009 (EC 2009c; Parex 2009d). 
+
+On September 11, 2009, the EBRD injected EUR 18.4 million into Parex as a subordinated loan, qualifying as Tier 2 capital (Parex 2009d). 
+
+On July 30, 2010, the EBRD acquired from the LPA 25% of Citadele’s share capital plus one voting share (see Figure 6) (Citadele 2010; Citadele 2011a). 
+
+
+[FIGURE id=vol6_iss3_16_f6 type=diagram page=31 label="Figure 6" file=figure_6.png caption="Citadele’s and Reverta’s Shareholder Structures as of December 31, 2010"]
+### **Figure 6: Citadele’s and Reverta’s Shareholder Structures as of December 31, 2010**
+
+||**Citadele (Good Bank)**|**Citadele (Good Bank)**||
+|---|---|---|---|
+||Paid-in Share Capital|% of Total Paid-in<br>Share Capital|% of Total Voting Rights|
+|LPA|LVL 77.2 million|75% minus 1 share|75% minus 1 share|
+|EBRD|LVL 25.8 million|25% plus 1 share|25% plus 1 share|
+|**Total**|**LVL 103 million**|**100%**|**100%**|
+||**Reverta (Bad Bank)**|||
+||Paid-in Share Capital|% of Total Paid-in<br>Share Capital|% of Total Voting Rights|
+|LPA|LVL 221.9 million|81.8%|77.6%|
+|EBRD|LVL 39.6 million|14.6%|19.7%|
+|Minority Shareholders|LVL 9.7 million|3.6%|2.7%|
+|**Total**|**LVL 271.2 million**|**100%**|**100%**|
+
+
+
+_Sources: Citadele 2011a; Parex 2011._ 
+
+The LPA bought the EBRD’s stake in Reverta for EUR 1 on March 7, 2017, per the restructuring plan and a decision by the Cabinet of Ministers on December 15, 2014. Afterward, the LPA had a 96.9% stake and minority shareholders had a 3.1% stake in Reverta (Reverta 2017). 
+
+## **Exit Strategy (C): The LPA sold its stake in Citadele to Ripplewood and a group of 12 international investors. Citadele completely repaid its subordinated debt to the LPA and EBRD.** 
+
+On April 20, 2015, the LPA closed the sale transaction of Citadele for EUR 74.7 million to Ripplewood (22.4%) and a group of 12 international investors (52.6%)—including Baupost group (hedge fund), Paul Volcker (former chairman of the US Federal Reserve), and James D. Wolfensohn (former president of the World Bank). The EBRD retained a 25% stake in Citadele. The new shareholders increased Citadele’s equity capital by EUR 10 million (Citadele 2015). Upon sale closing, Citadele no longer had to observe the behavioral restrictions imposed by the government to limit competition distortion (Citadele n.d.). 
+
+On April 20, 2015, Citadele repaid EUR 18.4 million of subordinated liabilities to the LPA relating to the Tier 2 capital injection. The LPA transferred EUR 11.2 million of subordinated liabilities to the EBRD (Citadele 2016). 
+
+On January 4, 2017, Citadele repaid EUR 34.7 million of subordinated liabilities and accrued interest of EUR 0.98 million to the LPA; Citadele had already completely repaid the Tier 2 capital injection by the LPA (Citadele 2018). 
+
+
+On February 8, 2018, Citadele repaid EUR 18.4 million of subordinated liabilities and accrued interest to the EBRD; Citadele had completely repaid the Tier 2 capital injection by the EBRD (Citadele 2019; Citadele 2020). 
+
+## **Exit Strategy (D): Reverta’s liquidation is ongoing.** 
+
+The liquidation of Reverta began on July 6, 2017. Later, on November 17, 2017, the LPA created a new subsidiary and limited liability company, REAP, for the sole purpose of managing Reverta’s assets and claim rights (LPA 2019; Reverta 2018). REAP represented Reverta in court cases initiated against its debtors in the courts of the Republic of Latvia, Russian Federation, and Republic of Cyprus (LPA 2019; Reverta 2022). By the end of 2017, the LPA wrote off its entire investment in Reverta share capital. REAP sold most of the real estate assets taken over by Reverta during the course of 2018 (LPA 2019). 
+
+As of the writing of this case, Reverta’s liquidation is ongoing (see Figure 7). The LPA had a 100% stake in Reverta as of December 31, 2022 (Reverta 2023). 
+
+[FIGURE id=vol6_iss3_16_f7 type=figure page=32 label="Figure 7" file=figure_7.png caption="Reverta’s Balance Sheet as of December 31, 2022 (LVL)"]
+### **Figure 7: Reverta’s Balance Sheet as of December 31, 2022 (LVL)**
+![Figure 7](assets/vol6_iss3_16/figure_7.png)
+
+
+
+## **References and Key Program Documents** 
+
+## **Summary of Program** 
+
+(Baltic Legal n.d.) Baltic Legal. n.d. “Mortgage and Land Bank of Latvia.” Accessed September 18, 2023. 
+
+_Webpage containing information on the establishment and mission of LHZB_ . https://elischolar.library.yale.edu/ypfs-documents2/2082 
+
+(Citadele n.d.) AS Citadele banka (Citadele). n.d. “About Us: History.” Accessed March 21, 2023. 
+
+_Webpage containing Citadele’s origin and history_ . https://elischolar.library.yale.edu/ypfs-documents2/1294 
+
+(FCMC 2009a) Financial and Capital Market Commission (FCMC). 2009a. “Overview of JSC Parex Banka Takeover,” May 8, 2009. 
+
+_Summary timeline of Parex’s takeover_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1911 
+
+## **Implementation Documents** 
+
+(BOL 2008a) Bank of Latvia (BOL). 2008a. Letter from Bank of Latvia Governor Ilmārs Rimšēvičs to ECB President Jean-Claude Trichet. 
+
+_Letter from the BOL governor to the ECB on the Latvian government’s measures to stabilize the financial sector_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1295 
+
+(Parliament of Latvia 2011a) Parliament of Latvia. 2011a. “On the Creation of the Saeima Parliamentary Investigation Commission on Possible Illegal Activities in Connection with the Takeover and Restructuring Process of A/S "Parex Banka.” Notification, February 24, 2011. 
+
+_Document announcing the investigation on possible illegal activities in the process of taking over and restructuring Parex (in Latvian)_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/1905 
+
+(Republic of Latvia 2011) Republic of Latvia. 2011. “Latvia: Letter of Intent.” Letter from the Republic of Latvia to International Monetary Fund Managing Director Christine Lagarde, December 8, 2011. 
+
+_Letter outlining intended policies by Latvian authorities to the IMF for support_ . https://elischolar.library.yale.edu/ypfs-documents2/1296 
+
+## **Legal/Regulatory Guidance** 
+
+(Cabinet of Ministers 1994) Cabinet of Ministers. 1994. “About the Non-Profit Organization State Joint-Stock Company ‘Privatization Agency,’” March 29, 1994. _Order outlining the LPA (in Latvian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1313 
+
+
+(Cabinet of Ministers 2009) Cabinet of Ministers. 2009. “The Procedure for Providing and Monitoring the Guarantee for the Obligations of the State Joint-Stock Company ‘Privatization Agency,’” May 12, 2009. 
+
+_Regulation No 434 containing information on the LPA’s investment agreement with the EBRD (in Latvian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1315 
+
+(Competition Council 2008) Competition Council. 2008. “On the Merger of Market Participants.” Decision No. 119, November 22, 2008. 
+
+_Decision of the Competition Council containing the reason for behavioral constraints on Parex (in Latvian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1297 
+
+(EC 2002a) European Commission (EC). 2002a. European Commission Treaty, Article 87. December 24, 2002. 
+
+_Section of the EC Treaty on state aid the distortion or threat to distort competition in the common market_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1306 
+
+(EC 2002b) European Commission (EC). 2002b. European Commission Treaty, Article 88. December 24, 2002. 
+
+_Section of the EC Treaty obligating member states to obtain approval of State Aid affecting the common market_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1307 
+
+(EC 2008a) European Commission (EC). 2008a. “State Aid – NN 68/2008 – Latvia Public Support Measures to JSC Parex Banka,” November 24, 2008. 
+
+_EC decision authorizing the initial intervention, comprising the 51% takeover, liquidity facility, and capital injections_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1298 
+
+(EC 2008b) European Commission (EC). 2008b. “State Aid – N 638/2008 – Guarantee Scheme for Banks in Latvia,” December 12, 2008. 
+
+_EC decision approving the increased coverage limit of the deposit insurance scheme_ . https://elischolar.library.yale.edu/ypfs-documents2/1299 
+
+(EC 2009a) European Commission (EC). 2009a. “State Aid – NN 3/2009 – Latvia Modifications to the Public Support Measures to JSC Parex Banka,” February 11, 2009. _EC decision authorizing changes to the initial intervention including the 85% takeover of Parex_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1300 
+
+(EC 2009b) European Commission (EC). 2009b. “State Aid – N 189/2009 – Latvia Modifications to the Public Support Measures to JSC Parex Banka,” May 11, 2009. 
+
+_EC decision authorizing changes to the amount and form of capital Latvian authorities could inject into Parex_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1301 
+
+
+(EC 2009c) European Commission (EC). 2009c. “Commission Decision – C 26/2009 (ExState Aid N 289/2009 – Latvia) – Restructuring Aid to JSC Parex Banka,” July 29, 2009. _EC decision containing the capital characteristics of the shares injected into Parex to achieve CAR 11%_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1302 
+
+(EC 2010) European Commission (EC). 2010. “Commission Decision on the State Aid C 26/09 (Ex N 289/09) Which Latvia Is Planning to Implement for the Restructuring of AS Parex Banka,” September 15, 2010. 
+
+_EC decision approving the split of Parex into a good and a bad bank_ . https://elischolar.library.yale.edu/ypfs-documents2/1303 
+
+(EC 2012) European Commission (EC). 2012. State Aid – SA.34747 (2012/NN) – Amendments to Parex Restructuring Plan – Latvia. August 10, 2012. _EC decision approving changes to asset relief remuneration_ . https://elischolar.library.yale.edu/ypfs-documents2/1304 
+
+(EC 2014a) European Commission (EC). 2014a. State Aid SA.36612 (2014/C) (Ex 2013/NN) – Latvia Aid Granted by Latvia to AS Citadele Banka and AS Reverta (Formerly Known as AS Parex Banka) as Well as Misuse of Aid. April 16, 2014. 
+
+_EC document containing information on the name change to Reverta_ . https://elischolar.library.yale.edu/ypfs-documents2/1305 
+
+(EC 2014b) European Commission (EC). 2014b. Commission Decision on the State Aid SA.36612 – 2014/C (Ex 2013/NN) Implemented by Latvia for Parex. July 9, 2014. _EC decision containing information on the name change from Parex to Reverta_ . http://elischolar.library.yale.edu/ypfs-documents2/1740 
+
+(FCMC 2005) Financial and Capital Market Commission (FCMC). 2005. “Liquidity Requirements Fulfillment Rules,” December 23, 2005. _Regulation on liquidity requirements (in Latvian)_ . https://elischolar.library.yale.edu/ypfs-documents2/1314 
+
+(FCMC 2008) Financial and Capital Markets Commission (FCMC). 2008. “On the Determination of Limits on the Performance of Obligations for the Joint-Stock Company ‘Parex Banka,’” December 1, 2008. 
+
+_Decision by the FCMC and Cabinet of Ministers to enact a partial freeze on withdrawals and transfers (in Latvian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1308 
+
+(Parliament of Latvia 2002) Parliament of Latvia. 2002. Law of the Financial and Capital Markets Commission. 
+
+_Law establishing the FCMC (in Latvian)_ . https://elischolar.library.yale.edu/ypfs-documents2/1309 
+
+
+(Parliament of Latvia 2008) Parliament of Latvia. 2008. Law on Credit Institutions. _Law regulating credit institutions, including the regulation of liquidity requirements (in Latvian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1311 
+
+(Parliament of Latvia 2009a) Parliament of Latvia. 2009a. Law on Budget and Financial Management. 
+
+_Version of the Law on Budget and Financial Management, containing Article 81, effective on the date of the first capital injection (in Latvian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2720/ 
+
+(Parliament of Latvia 2009b) Parliament of Latvia. 2009b. Long-Term Stabilization Reserve Law. 
+
+_Law establishing the long-term stabilization reserve (in Latvian)_ . https://elischolar.library.yale.edu/ypfs-documents2/1312 
+
+(Parliament of Latvia 2011b) Parliament of Latvia. 2011b. Amendments to the Deposit Guarantee Law. 
+
+_Amendment to Latvia’s deposit-guarantee system, increasing the maximum compensation_ . https://elischolar.library.yale.edu/ypfs-documents/12534/ 
+
+## **Media Stories** 
+
+(AFP 2008) Agence France Presse (AFP). 2008. “Latvia Restricts Withdrawals from Second Biggest Bank: Regulator.” Agence France Presse, December 2, 2008. 
+
+_News article on the partial freeze on withdrawals and transfers from Parex_ . https://elischolar.library.yale.edu/ypfs-documents2/1316 
+
+(Anderson 2008) Anderson, Robert. 2008. “Latvia Takes over Parex after Run on Bank.” _Financial Times_ , November 9, 2008. 
+
+_News article containing the BOL governor’s characterization of Parex’s partial nationalization_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1317 
+
+(AP 2008) Associated Press (AP). 2008. “Latvian Government Takes Control over No. 2 Bank to Save It from Bankruptcy.” Associated Press Newswires, November 9, 2008. _News article containing the prime minister’s characterization of Parex’s partial nationalization_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1318 
+
+(BBC 2008) British Broadcasting Company (BBC). 2008. “Ousted President of Bailed-out Latvian Bank Hopes to Regain Ownership.” BBC Monitoring Europe, November 11, 2008. _News article reporting the response of the former majority shareholder, Kargins, on Parex’s partial nationalization_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1319 
+
+
+(EIU 2008) Economist Intelligence Unit (EIU). 2008. “Latvia: Big Bailout.” Economist Intelligence Unit, December 15, 2008. 
+
+_News article containing information on the IMF’s stabilization package for Latvia_ . https://elischolar.library.yale.edu/ypfs-documents2/1320 
+
+(Kolyako 2008) Kolyako, Nina. 2008. “Latvia to Buy Handelsbanken Stake in Parex Banka for One Eurocent.” Baltic Course, December 12, 2008. 
+
+_News article on the exit from Parex of minority shareholder, Handelsbanken_ . https://elischolar.library.yale.edu/ypfs-documents2/2087 
+
+(Lannin 2008a) Lannin, Patrick. 2008a. “Update 1-Latvia Bails out 2nd Largest Bank as Crisis Hits.” Reuters, November 8, 2008. 
+
+_News article containing the prime minister’s characterization of Parex’s partial nationalization_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1321 
+
+(Lannin 2008b) Lannin, Patrick. 2008b. “Update 2-Latvia Reassures on Bank amid Fear of New Crisis.” Reuters, November 9, 2008. 
+
+_News article containing the assertion that the former majority shareholders would not be excluded from Parex’s sale_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1322 
+
+(Petrova 2008) Petrova, Alla. 2008. “Parex Banka Takeover Agreement Signed.” Baltic Course, November 11, 2008. 
+
+_News article reporting the Ministry of Finance’s promise to publicly release parts of the takeover agreement_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1324 
+
+(Reuters 2008) Reuters. 2008. “Latvia Names Ex-Telecom Boss to Head Rescued Parex.” Reuters, December 5, 2008. 
+
+_News article reporting the 85% takeover of Parex and a statement from the finance minister_ . https://elischolar.library.yale.edu/ypfs-documents2/1325 
+
+(Tapinsh 2008) Tapinsh, Aleks. 2008. “Latvia Restricts Withdrawals from Bank, Government May up Stake.” Agence France Presse, December 2, 2008. 
+
+_News article reporting the details of the partial freeze on Parex_ . https://elischolar.library.yale.edu/ypfs-documents2/1326 
+
+## **Press Releases/Announcements** 
+
+(BOL 2008b) Bank of Latvia (BOL). 2008b. “On the Take-over of ‘Parex Banka.’” Press release, November 9, 2008. 
+
+_Press release announcing the partial nationalization of Parex_ . https://elischolar.library.yale.edu/ypfs-documents2/1327 
+
+
+(BOL 2008c) Bank of Latvia (BOL). 2008c. “On Providing Liquidity and Stability of the Lats in View of the Situation in the World Financial Markets,” November 14, 2008. _Press release announcing emergency lending to Parex_ . https://elischolar.library.yale.edu/ypfs-documents2/1328 
+
+(Citadele 2010) AS Citadele banka (Citadele). 2010. “The EBRD Will Enter the Shareholder Structure of Bank Citadele.” Press release, July 30, 2010. _Press release by Citadele about the EBRD’s investment into Parex’s new good bank_ . https://elischolar.library.yale.edu/ypfs-documents2/2708/ 
+
+(Citadele 2013a) AS Citadele banka (Citadele). 2013a. “Investors for Citadele to Be Sought by Societe Generale SA.” Press release, October 22, 2013. 
+
+_Press release announcing Société Générale as a financial advisor in the LPA’s sale of Citadele_ . https://elischolar.library.yale.edu/ypfs-documents2/1329 
+
+(Citadele 2015) AS Citadele banka (Citadele). 2015. “Sale of Citadele Shares Completed, Share Price: EUR 74.7 Million.” Press release, April 20, 2015. _Press release announcing the completion of the sale of Citadele to Ripplewood_ . https://elischolar.library.yale.edu/ypfs-documents2/1330 
+
+(EBRD 2009a) European Bank for Reconstruction and Development (EBRD). 2009a. “EBRD Board Approves Finance Package for Parex Bank.” Press release, April 7, 2009. _Press release announcing the EBRD’s investment agreement for Parex_ . https://elischolar.library.yale.edu/ypfs-documents2/1331 
+
+(Parex 2009a) Parex banka (Parex). 2009a. “State-Owned Shares of Parex Banka to Be Transferred into Holding of the Latvian Privatisation Agency.” Press release, February 24, 2009. 
+
+_Press release on the transfer of shares from LHZB to the LPA_ . https://elischolar.library.yale.edu/ypfs-documents2/1332 
+
+(Parex 2009b) Parex banka (Parex). 2009b. “Privatisation Agency Becomes the Majority Shareholder of Parex Banka.” Press release, March 2, 2009. 
+
+_Press release announcing the transfer of Parex from LHZB to the LPA_ . https://elischolar.library.yale.edu/ypfs-documents2/1323 
+
+(Parex 2009c) Parex banka (Parex). 2009c. “Latvian Government Appoints Advisor for the Sale of Parex Banka.” Press release, March 3, 2009. 
+
+_Press release announce the government’s appointment of Nomura as a strategic sell-side advisor_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1333 
+
+## **Reports/Assessments** 
+
+(BOL 2009) Bank of Latvia (BOL). 2009. Annual Report 2008. _Annual report by the BOL for 2008_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1334 
+
+
+(Citadele 2011a) AS Citadele banka (Citadele). 2011a. Annual Report for the Six-Month Period Ended 31 December 2010. 
+
+_Annual report by Citadele for 2010_ . https://elischolar.library.yale.edu/ypfs-documents2/1335 
+
+(Citadele 2011b) AS Citadele banka (Citadele). 2011b. “Interim Financial Report for the 6 Month Period Ended 30 June 2011,” August 24, 2011. _Half-year report by Citadele for the first half of 2011 (translated by Citadele)_ . https://elischolar.library.yale.edu/ypfs-documents2/1336 
+
+(Citadele 2012) AS Citadele banka (Citadele). 2012. Annual Report 2011. _Annual report by Citadele for 2011 (translated by Citadele)_ . https://elischolar.library.yale.edu/ypfs-documents2/1337 
+
+(Citadele 2013b) AS Citadele banka (Citadele). 2013b. Annual Report 2012. _Annual report by Citadele for 2012_ . https://elischolar.library.yale.edu/ypfs-documents2/1338 
+
+(Citadele 2014) AS Citadele banka (Citadele). 2014. Annual Report 2013. _Annual report by Citadele for 2013 (translated by Citadele)_ . https://elischolar.library.yale.edu/ypfs-documents2/1338 
+
+(Citadele 2016) AS Citadele banka (Citadele). 2016. Annual Report 2015. _Annual report by Citadele for 2015_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1339 
+
+(Citadele 2018) AS Citadele banka (Citadele). 2018. Annual Report 2017. _Annual report by Citadele for 2017_ . https://elischolar.library.yale.edu/ypfs-documents2/1340 
+
+(Citadele 2019) AS Citadele banka (Citadele). 2019. Annual Report 2018. _Annual report by Citadele for 2018_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1341 
+
+(Citadele 2020) AS Citadele banka (Citadele). 2020. Annual Report 2019. _Annual report by Citadele for 2019_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1342 
+
+(EBRD 2009b) European Bank for Reconstruction and Development (EBRD). 2009b. “Transition Report 2009: Transition in Crisis?,” November 2009. 
+
+_Report by the EBRD on the transition to open market–oriented economies for the year through early October 2009_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1343 
+
+
+(EBRD 2010) European Bank for Reconstruction and Development (EBRD). 2010. “Transition Report 2010: Recovery and Reform,” November 2010. 
+
+_Report by the EBRD on the transition to open market-oriented economies for the year through early October 2010_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1344 
+
+(FCMC 2009b) Financial and Capital Market Commission (FCMC). 2009b. Annual Report and Activity Report 2008. 
+
+_Annual report by the FCMC for 2008_ . https://elischolar.library.yale.edu/ypfs-documents2/2705/ 
+
+(FCMC 2010) Financial and Capital Market Commission (FCMC). 2010. Annual Report and Activity Report 2009. 
+
+_Report detailing the Financial and Capital Market Commission’s activities_ . https://elischolar.library.yale.edu/ypfs-documents2/2709/ 
+
+(IMF 2009) International Monetary Fund (IMF). 2009. “Republic of Latvia: Request for Stand-By Arrangement.” IMF Country Report No. 09/3, January 2009. _Summary of Latvia’s Standby Arrangement with the IMF_ . https://elischolar.library.yale.edu/ypfs-documents2/1345 
+
+(IMF 2013) International Monetary Fund (IMF). 2013. “Republic of Latvia: Ex Post Evaluation of Exceptional Access under the 2008 Stand-By Arrangement.” IMF Country Report No. 13/30, January 28, 2013. 
+
+_Ex post report by the IMF on the 2008 SBA with Latvia_ . https://elischolar.library.yale.edu/ypfs-documents2/1346 
+
+(LHZB 2010) Latvian Mortgage and Land Bank (LHZB). 2010. Condensed Consolidated and Bank Financial Statements 2009 (Unaudited). 
+
+_Financial statements by LHZB for 2009_ . https://elischolar.library.yale.edu/ypfs-documents2/1745 
+
+(LPA 2009) Latvian Privatization Agency (LPA). 2009. Annual Report 2008. _Annual report by the LPA for 2008 (in Latvian)_ . https://elischolar.library.yale.edu/ypfs-documents2/1352 
+
+(LPA 2019) Latvian Privatization Agency (LPA). 2019. Annual Report 2018. _Annual report by the LPA for 2018 (in Latvian)_ . https://elischolar.library.yale.edu/ypfs-documents2/1693 
+
+(OECD 2016) Organisation for Economic Co-Operation and Development (OECD). 2016. “Latvia: Review of the Financial System.” Committee on Financial Markets, April 2016. _Report by the OECD on Latvia’s financial system_ . https://elischolar.library.yale.edu/ypfs-documents2/1353 
+
+
+(Parex 2008) Parex banka (Parex). 2008. Annual Report 2007. _Annual report by Parex for 2007_ . https://elischolar.library.yale.edu/ypfs-documents2/1354 
+
+(Parex 2009d) Parex banka (Parex). 2009d. Interim Report for the First Half of 2009. _Half-year report by Parex for 2009_ . https://elischolar.library.yale.edu/ypfs-documents2/1355 
+
+(Parex 2010) Parex banka (Parex). 2010. Annual Report 2009. _Annual report by Parex for 2009_ . https://elischolar.library.yale.edu/ypfs-documents2/2710/ 
+
+(Parex 2011) Parex banka (Parex). 2011. Annual Report 2010. _Annual report by Parex for 2010_ . https://elischolar.library.yale.edu/ypfs-documents2/1357 
+
+(Parex 2012) Parex banka (Parex). 2012. Annual Report 2011. _Annual report by Parex for 2011_ . https://elischolar.library.yale.edu/ypfs-documents2/1768 
+
+(Parex n.d.) Parex banka (Parex). n.d. “Condensed Financial Statement for the Year Ended 31 December 2008.” 
+
+_Financial statement by Parex for 2008_ . https://elischolar.library.yale.edu/ypfs-documents2/1358 
+
+(Parliament of Latvia 2011c) Parliament of Latvia. 2011c. “On the inclusion of the final report of the Parliamentary Investigation Commission in the agenda of the Saeima session on June 9, 2011,” June 9, 2011. 
+
+_Parliamentary report investigating possible illegal activities in the process of taking over and restructuring Parex (in Latvian)_ . http://elischolar.library.yale.edu/ypfs-documents2/3713 
+
+(Parliament of Latvia 2015) Parliament of Latvia. 2015. “Final Report of the Parliamentary Commission of Inquiry,” December 17, 2015. _Parliamentary report on the sale of Citadele (in Latvian)_ . https://elischolar.library.yale.edu/ypfs-documents2/1761 
+
+(Reverta 2013) Reverta. 2013. Annual Report 2012. _Annual report for Reverta for 2012_ . https://elischolar.library.yale.edu/ypfs-documents2/1770 
+
+(Reverta 2017) Reverta. 2017. Unaudited Condensed Financial Report for the First Half of 2017. 
+
+_Half-year report by Reverta for 2017_ . https://elischolar.library.yale.edu/ypfs-documents2/2046 
+
+
+(Reverta 2018) Reverta. 2018. Annual Report 2017. _Annual report by Reverta for 2018_ . http://elischolar.library.yale.edu/ypfs-documents2/1771 
+
+(Reverta 2022) Reverta. 2022. Annual Report 2021. _Annual report by Reverta for 2021 (in Latvian)_ . https://elischolar.library.yale.edu/ypfs-documents2/1983 
+
+(Reverta 2023) Reverta. 2023. Annual Report 2022. _Annual report by Reverta for 2022 (in Latvian)_ . https://elischolar.library.yale.edu/ypfs-documents2/1359 
+
+(SAO 2017) State Audit Office of the Republic of Latvia (SAO). 2017. Annual Report 2016. _SAO annual report containing conclusions on the sale of Citadele_ . https://elischolar.library.yale.edu/ypfs-documents2/2711/ 
+
+(Treasury 2010) Treasury of the Republic of Latvia (Treasury). 2010. Public Report for 2009. 
+
+_Annual report by the Treasury for 2009_ . https://elischolar.library.yale.edu/ypfs-documents2/1360 
+
+(Treasury 2011) Treasury of the Republic of Latvia (Treasury). 2011. Public Report for 2010. 
+
+_Annual report by the Treasury for 2010_ . https://elischolar.library.yale.edu/ypfs-documents2/1361 
+
+(Treasury 2013) Treasury of the Republic of Latvia (Treasury). 2013. Public Report for 2012. 
+
+_Annual report by the Treasury for 2012_ . https://elischolar.library.yale.edu/ypfs-documents2/1969 
+
+## **Key Academic Papers** 
+
+(Baudino et al. 2022) Baudino, Patrizia, Olga Lielkalne, Tomas Reichenbachas, Mari Tamm, and Rastko Vrbaski. 2022. “The 2008 Financial Crises on the Baltic Countries.” Bank for International Settlements, FSI Crisis Management Series No. 3, December 2022. _Financial Stability Institute crisis management series paper on the GFC in Baltic countries_ . https://elischolar.library.yale.edu/ypfs-documents2/2633/ 
+
+(Bojāre and Romānova 2017) Bojāre, Kristina, and Inna Romānova. 2017. “The Factors Affecting the Profitability of Banks: The Case of Latvia.” International Journal of Economics and Business Administration, Vol. V, no. 4: 78–95. 
+
+_Article on the business model and profitability of banks in Latvia_ . https://elischolar.library.yale.edu/ypfs-documents2/1363 
+
+
+(Decker 2024) Decker, Bailey. 2024. “Latvia Parex Bank Restructuring, 2008.” _Journal of Financial Crises_ 6, no. 1: 344–91. 
+
+_YPFS case study examining the restructuring of Parex_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/13 
+
+(Decker, forthcoming) Decker, Bailey. Forthcoming. “Latvia: Parex Bank Emergency Liquidity Assistance, 2008.” _Journal of Financial Crises_ . 
+
+_YPFS case study examining emergency liquidity assistance to Parex_ . 
+
+(Epstein and Rhodes 2019) Epstein, Rachel, and Martin J. Rhodes. 2019. “Good and Bad Banking on Europe’s Periphery: Pathways to Catching up and Falling Behind.” _West European Politics_ 42, no. 5: 965–88. 
+
+_Journal article on bank business models and profitability on Europe’s east and south_ . https://elischolar.library.yale.edu/ypfs-documents2/1365 
+
+(Rhee, Hoffner, et al. 2024) Rhee, June, Benjamin Hoffner, Greg Feldberg, and Andrew Metrick. 2024. “Ad Hoc Capital Injections.” _Journal of Financial Crises_ 6, no.3. _Survey of YPFS case studies examining ad hoc capital injections_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/1/ 
+
+(Rhee, Oguri, et al. 2022) Rhee, June, Junko Oguri, Greg Feldberg, and Andrew Metrick (Rhee et al.). 2022. “Broad-Based Capital Injection Programs.” _Journal of Financial Crises_ 4, no. 1: 1–48. 
+
+_Survey of YPFS case studies examining broad-based capital injection programs_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/1/ 
+
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}Admin sign-in — YPFS Analyst{% endblock %}
+{% block content %}
+<div class="login-page">
+  <h1>Admin sign-in</h1>
+
+  {% if not admin_enabled %}
+    <section class="warn-banner">
+      <strong>Admin access is not configured.</strong>
+      Set <code>HARNESS_ADMIN_PASSWORD</code> in <code>.env</code> at the repo root, then restart
+      <code>python -m harness web</code>. Until then the chat runs in user mode only.
+    </section>
+    <p class="muted">
+      <a href="{{ url_for('chat.conversations_list') }}">Back to chat</a>
+    </p>
+  {% else %}
+    <p class="muted">
+      Admins can revise the system prompt from the conversation and curate golden pairs.
+    </p>
+
+    <form method="post" action="{{ url_for('chat.login') }}" class="login-form">
+      <input type="hidden" name="next" value="{{ next_url }}">
+      <label>
+        Password
+        <input type="password" name="password" autocomplete="current-password" required autofocus
+          {% if error %}aria-describedby="login-error"{% endif %}>
+      </label>
+      {% if error %}
+        <p id="login-error" class="login-error">{{ error }}</p>
+      {% endif %}
+      <div class="form-actions">
+        <button type="submit" class="primary">Sign in</button>
+        <a class="form-actions-secondary" href="{{ url_for('chat.conversations_list') }}">Continue as user</a>
+      </div>
+    </form>
+  {% endif %}
+</div>
+{% endblock %}

@@ -1,0 +1,853 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 2 
+2022 
+Thailand: Financial Institutions Development Fund Liquidity Thailand: Financial Institutions Development Fund Liquidity 
+Support Support 
+Corey N. Runkel 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, 
+and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Runkel, Corey N. (2022) "Thailand: Financial Institutions Development Fund Liquidity Support," Journal of 
+Financial Crises: Vol. 4 : Iss. 2, 1015-1036. 
+DOI: https://doi.org/10.17132/2693-3179.1335 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/46 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss2/46
+
+--- Page 3 ---
+Thailand: Financial Institutions Development Fund 
+Liquidity Support1 
+Corey N. Runkel2 
+Yale Program on Financial Stability Case Study 
+July 15, 2022 
+Abstract 
+International investors launched three speculative attacks on the Thai baht in 1996 and 1997 
+following one high -profile banking failure, constant departures from the Bank of Thailand 
+(BOT), and slumping returns on stocks and real estate. Though the BOT succeeded in the 
+baht’s defense, the BOT’s depleted reserves were unable to fend off domestic troubles that 
+emerged in early 1997. The speculative attacks increased the cost of foreign -denominated 
+debt—which accounted for 18% of all bank lending—and forced up interbank lending yields. 
+The decade-long boom in foreign capital inflows had generally overvalued assets, and banks 
+found themselves in need of outside financing to meet short-term obligations. The Financial 
+Institutions Development Fund (FIDF), created in 1985 by the BOT to support troubled 
+institutions, quietly provided more than THB 400 billion (USD 17 billion) to  nonbank finance 
+companies  between March 1997 and July 1997. Ultimately, this support did not contain the 
+problem, and by August the BOT ha d temporarily suspended 58 finance companies . Crisis 
+support ended in January 1998, after the BOT permanently closed 56 of the 58 suspended 
+finance companies and converted FIDF loans to four commercial banks into equity. The 
+liquidity support to finance companies peaked at more than THB 434 billion outstanding in 
+August 1997. The FIDF lost at least THB 244 billion from the liq uidity support to finance 
+companies and an unknown amount from the support of commercial banks. That burden, 
+about 15% of GDP, ultimately fell to the BOT and FIDF, which expects to repay FIDF bonds 
+by 2030. 
+Keywords: Asian Financial Crisis, emergency liquidity, FIDF, Thailand, Tom Yam Kung crisis  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering broad -based emergency lending  programs. Cases are available from the Journal of 
+Financial Crises at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate , YPFS, Yale School of Management . The author thanks Governor Santiprabhob for his 
+published work, interview time, and his amazing ability to recall events from 25 years ago.  
+1015
+
+--- Page 4 ---
+Overview 
+Between 1980 and 1997, Thailand’s per 
+capita income nearly quadrupled because of 
+rapid export growth and high investment 
+levels from sources in and outside of the 
+country (Nabi and Shivakumar 2001) . In 
+1993, the government adopted a framework 
+to promote foreign investment in the country 
+(Haksar and Giorgianni 2000) . The Bank of 
+Thailand (BOT) administered the exchange 
+rate through a managed float (Nabi and 
+Shivakumar 2001) ; with stable conditions, 
+foreign lending through this framework 
+quickly accounted for 18% of all bank lending 
+(Haksar and Giorgianni 2000) . This lending 
+helped secure Thailand’s continued growth 
+but exposed it to exchange rate movements. 
+Currency speculators attacked the baht three 
+times, and the BOT defended it three times, 
+initially ruling out devaluation. The size of the 
+foreign debt position “began to dictate the 
+policy agenda that finally led to the crisis” 
+(Nabi and Shivakumar 2001) . The BOT 
+accumulated large forward positions that 
+whittled its international reserves from more 
+than USD 39 billion in November 1996 to just 
+over USD 1 billion in July 1997 (BOT 1998), 
+when the baht was floated and immediately 
+depreciated (Nabi and Shivakumar 2001). 
+Meanwhile, inside Thailand, financial 
+institutions experienced the growth in 
+foreign credit as a sharp increase in portfolio 
+investment (as opposed to relatively illiquid 
+foreign direct investment). With bank 
+reserves growing slightly, portfolio 
+investment more than doubled between 
+1993 and 1997. This growth exposed 
+institutions to a l oss of investor confidence 
+and, ultimately, further deterioration of the 
+baht. Confidence -busting signs appeared in 
+1996, when the mid -sized Bangkok Bank of 
+Commerce collapsed,  followed by the 
+country’s largest decline in exports, low bank 
+profit growth, and a slump in real estate. The 
+Key Terms 
+Purpose: “to provide financial assistance to troubled 
+financial institutions, containing financial damages 
+and mitigating the threat to stability of the financial 
+institution system” (BOT n.d.) 
+Launch Dates February 1997 
+(operational); 
+ 
+August 1997 
+(announcement of 
+restructuring plan); 
+ 
+December 1997 
+(permanent closure of 
+56 finance companies) 
+Expiration Date January 1998  
+Legal Authority  One emergency decree 
+in 1985 authorizing the 
+facility; another in 1997 
+authorizing FIDF to 
+relinquish collateral 
+Peak Outstanding THB 434 billion in 
+August 1997  
+Participants Up to 91 nonbank 
+finance companies and 
+four commercial banks 
+Rate Unknown  
+Collateral THB 800 billion from 
+finance companies in 
+government bonds and 
+promissory notes  
+Loan Duration Loan maturities 
+unknown 
+Notable Features Support not disclosed, 
+funded by repos 
+Outcomes 56 of 58 suspended 
+finance companies  
+closed; FIDF lost THB 
+244 billion, ultimately 
+paid by banks and 
+taxpayers 
+1016
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 5 ---
+burst real  estate bubble proved significant because finance companies —Thai nonbank 
+lenders that took deposits—had concentrated exposures to real estate and consumer loans 
+(Nabi and Shivakumar 2001; BOT 2003a). 
+Finance companies had also borrowed almost exclusively in the short or medium term (BOT 
+2003a; Nabi and Shivakumar 2001) . Thailand’s regulatory framework was too slow to 
+monitor problems. For instance, it considered loans performing until 12 months of 
+delinquent. In 1997, deposit runs began as depositors “fled to quality,” moving much of their 
+deposits to commercial banks (Haksar and Giorgianni 2000). 
+In response, a corporation controlled by the BOT to support troubled institutions called the 
+Financial Institutions Development Fund (FIDF) lent heavily to distressed finance companies 
+(Tunyasiri 1997). The FIDF was established in 1985 to mitigate threats to financial stability. 
+It received funding through fees it charged Thai financial institutions and fro m the BOT, 
+which also appointed the FIDF’s officers. Despite the FIDF’s legal status as a separate entity, 
+the World Bank (1990) found that it operated much like an arm of the BOT. Santiprabhob 
+(2021), the former BOT governor, noted it had few permanent st aff and relied on BOT staff 
+during the crisis. 
+Between March 1997 and July 1997, the FIDF provided more than THB 400 billion (USD 17 
+billion)3 in liquidity support to Thailand’s 91 finance companies (Lindgren et al. 2000; 
+Haksar and Giorgianni 2000; BOT 2 009a).4 It provided this support without informing the 
+public (Lauridsen 1998; Prateepchaikul 1997), later defending its actions—if not its decision 
+to not disclose support —as a necessary measure to increase financial sector liquidity 
+(Meesane and Tunyasi ri 1998). Publicly, the BOT announced in late June that it had 
+suspended 16 finance companies be cause their capital was inadequate. It also said at the 
+time that it would not suspend any more finance companies (Lindgren et al. 2000) . Later, 
+cabinet members alleged that the BOT had failed to report FIDF activities, though it is not 
+clear whether the BOT was legally required to disclose FIDF lending (Meesane and Tunyasiri 
+1998). But other finance companies were still struggling. On August 5, 1997, the BOT 
+suspended 42 more finance companies, despite having said there would be no further 
+suspensions (Lindgren et al. 2000) . This represented the end of the FIDF’s undisclosed 
+liquidity support , although the FIDF did continue to provide support to closed and  open 
+financial companies. (Hasker and Giorgianni 2000; World Bank 1997). 
+ 
+3 The baht was fixed at THB 25=USD 1 until July 2, 1997. It then peaked above THB 50 per dollar before settling 
+around THB 40 to the dollar  (Nabi and Shivakumar 2001) . A Bank of Thailand report indicates that as of the 
+end of July 1997, finance companies’ liabilities to FIDF were THB 410.6 billion (BOT 2009a).    
+4 The data that we have located regarding FIDF lending is somewhat imprecise. Sources (for example, Hasker 
+and Giorgianni 2000 and World Bank 1997) indicate that the FIDF lent to suspended finance companies, non-
+suspended FCs, and also to some commercial banks, although it is not always clear how much was lent to which 
+group at which time. However, one World Bank report ( World Bank 1997 ) cites the Bank of Thailand as the 
+source for the following amounts outstanding as of the end of August 1997: Loans to suspended finance 
+companies, THB 368 billion; loans to 33 open finance companies, THB 16 billion ; loans to banks , THB 128 
+billion; total: THB 512 billion.  
+1017
+Thailand Runkel
+
+--- Page 6 ---
+The FIDF funded its intervention in finance companies by issuing bonds and entering 
+repurchase agreements with the same large commercial and foreign banks that received 
+deposits from weakened financial institutions (Lindgren et al. 2000; Santiprabhob 2003) . 
+FIDF repos pushed up seven-day rates and distorted the short-term market, making the FIDF 
+eager to end its liquidity support (Suthiwart-Narueput and Pradittatsanee 1999; 
+Sirithaveeporn and Yuthamanop 1998).  
+To exit its crisis support, the FIDF assumed significant losses on its support to finance 
+companies and commercial banks. In October 1997, it relinquished preferential claims on 
+counterparty collateral (Emergency Decree B.E. 254 0 1997; World Bank 1997) . In 
+December, the BOT closed 56 of the 58 suspended finance companies, ending any possibility 
+of repayment without a state -facilitated resolution process. Also in December, the FIDF 
+began converting large amounts of its liquidity s upport to commercial banks to equity, 
+recapitalizing the banks in the process (Haksar and Giorgianni 2000) . As markets calmed, 
+the FIDF continued to provide liquidity through the end of the 1990s (see Figure 1) and 
+operated as a standing facility well after the end of the Asian Financial Crisis. 
+The FIDF recovered between THB 300 billion and THB 700 billion from its liquidity 
+operations. There is both uncertainty and ambiguity in these estimates. The uncertainty 
+comes from the fact that recovery could come from a number of different sources, each of 
+which owed the FIDF for more than just liquidity support. The ambiguity comes from the 
+different definitions of liquidity support among the documents surveyed. The FIDF 
+eventually restructured its liabilities as long-term debt by issuing THB 776 billion in bonds 
+(BOT 2002). As of 2015, the FIDF—which ultimately assumed financial responsibility for the 
+debt—expected to repay its loans by 2030 (Emergency Decree B.E. 2555 2012; 
+Sangwongwanich 2015). 
+1018
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 7 ---
+Figure 1: Non-Repo Liabilities Owed to the Bank of Thailand 
+  
+Note: Finance company data shows the liabilities owed explicitly to the FIDF, while commercial bank data does 
+not disaggregate its liabilities to the BOT. 
+Source: BOT 2009a; BOT 2003b. 
+Summary Evaluation 
+The FIDF provided finance companies and banks with liquidity support equal to 22% of GDP 
+in its fight against the Asian Financial Crisis (Lindgren et al. 2000) . However, a regulatory 
+framework that limited FIDF’s ability to gauge the health of f inancial institutions and the 
+high cost of borrowing exposed the FIDF to substantial risks. Moreover, inconsistent 
+communication damaged market confidence, hampering the efforts of FIDF and the BOT to 
+contain the crisis (Nabi and Shivakumar 2001), causing the FIDF to close finance companies 
+and release its claims on collateral. These measures, in turn, hurt the ability of the FIDF to 
+collect on its debtors (World Bank 1997). It was able to recover a significant portion of this 
+debt through debt-to-equity conversions and collections by the asset management company 
+created by the government to recover finance company loans (Santiprabhob 2003). The FIDF 
+ultimately lost more than THB 400 billion after accounting for these recoveries (BOT 2002). 
+Still, most obser vers argue that the FIDF averted the total collapse or nationalization of 
+Thailand’s domestic banking sector (Lindgren et al. 2000; Sangwongwanich 2015).  
+1019
+Thailand Runkel
+
+--- Page 8 ---
+Context: Thailand 1996–1997 
+GDP 
+(SAAR, nominal GDP in LCU  
+converted to USD) 
+USD 183.0 billion in 1996 
+USD 157.9 billion in 1997 
+GDP per capita 
+(SAAR, nominal GDP in LCU  
+converted to USD) 
+USD 3,044 in 1996 
+USD 2,468 in 1997 
+Sovereign credit rating  
+(five-year senior debt) 
+S&P: AA in 1997 
+S&P: A in 1997 
+Size of banking system USD 260.0 billion 
+USD 252.6 billion 
+Size of banking system  
+as a percentage of GDP 
+142% of 1996 GDP 
+160% of 1997 GDP 
+Size of banking system  
+as a percentage of financial system 
+Data not available in 1996 
+Data not available in 1997 
+Five-bank concentration of banking system 63.7% in 1996 
+65.3% in 1997 
+Foreign involvement in banking system Data not available in 1996 
+Data not available in 1997 
+Government ownership of banking system Data not available in 1996 
+Data not available in 1997 
+Existence of deposit insurance 
+None in 1996 
+Blanket guarantee issued in 
+1997 
+Sources: Bloomberg, FIDF 1997. 
+1020
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 9 ---
+Key Design Decisions 
+1. Purpose: The FIDF was not issued a public mandate for liquidity support. 
+The minutes of crisis-era BOT meetings are not public, so it is difficult to pin down the FIDF’s 
+precise mandate. A parliamentary commission investigated the FIDF and wrote that the BOT 
+considered liquidity support only as a measure to buy time (Nukul Commission 1998), while 
+the BOT governor said , “The bank did it because it wanted to boost the liquidity of the 
+financial sector” to resolve a crisis of confidence (Meesane and Tunyasiri 1998). As an 
+institution, FIDF’s stated purpose from its creation was “re constructing and developing the 
+financial institution system to accord its strength and stability,” and it was not configured to 
+respond quickly to a financial crisis (BOT 2018).  
+2. Legal Authority: The Bank of Thailand Act and one 1997 amendment authorized 
+the FIDF to provide liquidity support. 
+A royal decree in 1985 first created the FIDF as a legally distinct entity within the BOT 
+(2018). At the onset of the crisis, FIDF’s powers included lending money, investing in 
+financial institutions, and supporting c reditors (World Bank 1990) . In 1997, liquidity 
+problems deepened to threaten finance company creditors, prompting an emergency decree 
+in October that allowed the FIDF to relax collateral requirements when the FIDF’s board of 
+directors “deem[ed] it necessary to restore the fairness and soundness of financial system” 
+(Emergency Decree B.E. 2540 1997). 
+3. Part of a Package: Liquidity support was independent of other programs. 
+No other government bodies coordinated with the FIDF to support  Thailand’s domestic 
+institutions. Coordinated measures began only after the 58 finance companies were 
+suspended and the support was made public. 
+4. Management: The BOT decided who sat on the FIDF board. 
+Though legislation made the FIDF a separate legal entity, it was controlled by t he BOT. The 
+board of directors was part of the central bank; the BOT governor chaired the board of 
+directors; and BOT officials appointed the FIDF manager. The former BOT governor said that 
+board members were not likely to disagree with BOT experts (Santiprabhob 2021). A former 
+manager of the Fund said that each loan larger than THB 50,000 required the BOT governor’s 
+approval (Yuthamanop 1998). 
+Cabinet members suggested that the BOT had a legal responsibility to report FIDF activities, 
+though primary source  documents and academic works considering the disclosure 
+framework of the FIDF were not found. It seems clear that the FIDF was accountable only to 
+the BOT in practice. In 1998, Parliament created the Nukul Commission to identify the causes 
+of the crisis a nd to review the FIDF’s support of distressed financial institutions. Its report 
+said that the FIDF: 
+1021
+Thailand Runkel
+
+--- Page 10 ---
+itself lack[ed] independence. To inspect any institution ’s financial position, it had to 
+depend on the BOT’s Financial Institutions Supervision and Examination Department. In 
+order to expedite action by the Fund, the management board of the Fund has given broad 
+powers to the Chairman (who is also BOT ’s governor), rendering it incapable of 
+scrutinising BOT’s action carefully (Nukul Commission 1998).  
+5. Administration: FIDF extended support on a case-by-case basis. 
+There is little information on how the FIDF selected counterparties. When the BOT 
+suspended 16 finance companies in June, it cited their capital and liquidity needs (Lindgren 
+et al. 2000) . The BOT governor said that m arket observers viewed the suspensions with 
+suspicion because the BOT did not give the criteria it used to identify undercapitalized firms 
+(Santiprabhob 2003). When the BOT later suspended 42 more finance companies, it again 
+cited concerns about their solvency, but  a World Bank report said that the FIDF had made 
+the decision based on the companies’ level of indebtedness (World Bank 1997). The World 
+Bank noted that the regulatory framework did not allow authorities to quickly monitor the 
+health of finance companies and banks. For instance, loans were considered performing until 
+12 months of delinquency, which overestimated asset quality (Haksar and Giorgianni 2000). 
+As a result, the FIDF—which had little permanent staff and borrowed of ficials from the 
+BOT—relied on prior bank examinations when it loaned to finance companies (Santiprabhob 
+2021). 
+6. Eligible Participants: FIDF lent to  finance companies.. 
+The Bank of Thailand Act (BOT 2018) allowed the FIDF to transact with any counterparty. In 
+practice, the FIDF was created to support nonbank fin ance companies, of which there were 
+91 in 1997. During the first part of the year, FIDF lending to finance companies grew 
+significantly, from THB 16.8 billion at the end of 1996 to THB 410.6 billion at the end of July, 
+immediately before the second round of suspensions (BOT 2009a) . The size of these 
+institutions relative to Thailand’s financial sector is not known, but 58 of these finance 
+companies—those that were suspended by the BOT in June and August 1997—represented 
+the majority of Thailand’s finance companies and 14% of its financial sector (Haksar and 
+Giorgianni 2000). The FIDF also provided loans to several banks. The public was aware that 
+the four banks were distressed but not that they were receiving aid at the scale that the FIDF 
+provided; these banks were Bangkok Metropolitan, First City, Siam City, and Bangkok Bank 
+of Commerce. 
+7. Funding Source : FIDF relied on repurchase agreements and lo nger-maturity 
+bonds, later assumed by the government, to finance its crisis interventions. 
+The Bank of Thailand Act (BOT 2018) allowed the BOT to allocate money from its reserves 
+to the FIDF, but, in practice, the FIDF issued debt and entered repurchase ag reements to 
+finance its liquidity support. In July 1996, the FIDF board decided to issue its first THB 10 
+billion in bonds “to fund the system’s mushrooming liquidity needs” (Nukul Commission 
+1998). The BOT, along with commercial banks, purchased these bonds (Lindgren et al. 2000, 
+95). But the FIDF could not issue long-term bonds, and Santiprabhob (2021) suggested that 
+1022
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 11 ---
+the FIDF would need substantial BOT subscription to provide several hundred billion baht 
+in support. However, as the central bank, the BOT could not purchase unlimited amounts of 
+FIDF bonds, lest it violate legal restrictions on financing government activities. 
+More substantial was the FIDF’s repo activity. These borrowings amounted to as much as 
+THB 350 billion a month (BOT 2006). Santiprabhob (2003; 2021) described a circular flow 
+of funds (see Figure 2) between weaker financial institutions, healthy—and often foreign—
+commercial banks, and the FIDF. As depositors fled the weak institutions, they deposited 
+money in healthy commercial banks. To support weak institutions, the FIDF lent short-term 
+funds by borrowing from those healthy banks. Seven -day repo rates in excess of 14% 
+prevailed for a year starting in July 1997 (Suthiwart-Narueput and Pradittatsanee 1999), but 
+the FIDF continued to refin ance these agreements multiple times a week as depositors fled 
+the weak finance companies for the FIDF’s creditors (Santiprabhob 2003). The FIDF decided 
+to use repos to keep liquidity support short to prevent the courts from finding that the FIDF’s 
+intervention amounted to capital support (Santiprabhob 2021). 
+Figure 2: Flow of Funds during the 1997 Financial Crisis 
+ 
+ 
+Source: Santiprabhob 2003. 
+In April 1998, with hundreds of billions in outstanding claims on the recipients of liquidity 
+support, Thailand mo ved to stop entering repurchase agreements in favor of government -
+issued debt. The Minister of Finance had said that the FIDF had “seriously unbalanced the 
+short-term money market, affecting liquidity and causing interest rates to stay high” 
+1023
+Thailand Runkel
+
+--- Page 12 ---
+(Sirithaveeporn and Yuthamanop 1998). An emergency decree authorized the FIDF to issue 
+long-term local debt (the term of the FIDF’s previous debt is unknown) (Sirithaveeporn and 
+Yuthamanop 1998), and, on August 14, the Ministry of Finance (MOF) and BOT announced a 
+THB 500 billion tranche of FIDF bonds guaranteed by the MOF to assume FIDF losses 
+(Nimmanahaeminda and Sonakul 1998). In 2000, the MOF guaranteed bonds issued by the 
+FIDF worth THB 112 billion (BOT 2002). In 2002, the BOT estimated FIDF’s total losses at 
+THB 1.4 trillion: at least THB 430 billion can be attributed to liquidity support for finance 
+companies (Lauridsen 1998), with an almost equal amount of liquidity support for banks 
+(later converted to equ ity; see Santiprabhob 2003) . See Figure 3 for a visualization of the 
+repo volume during the crisis and the rates charged on repo borrowing. 
+Figure 3: Repo Volume and the Seven-Day Repurchase Rate 
+ 
+Source: BOT 1999; BOT 2006. 
+Thailand then passed an emergency decree empowering the MOF to issue up to THB 780 
+billion in bonds to cover the remaining losses. The government issued THB 300 billion of 
+savings bonds in 2002. Originally, the BOT paid the outstanding principal out of its profits, 
+while the MOF paid t he interest (BOT 2002), but an Emergency Decree in 2012 made the 
+BOT responsible for both components to free up space in the nation’s budget for flood 
+recovery (Emergency Decree B.E. 2555 2012) . In 2015, the FIDF said that it expected to 
+repay its debt by 2030 (Sangwongwanich 2015) and reported THB 741 billion in debt 
+1024
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 13 ---
+outstanding in December 2020 (Public Debt Management Office 2021) . See Figure 4 for a 
+depiction of the breakdown of FIDF bondholders. 
+Figure 4: Holdings of FIDF Bonds 
+ 
+Source: BOT 2003b; BOT 2009a. 
+Prior to the crisis, the FIDF had levied an annual 0.1% fee on deposits of its member 
+institutions (World Bank 1997). This money was originally intended to capitalize the FIDF 
+and fund operating expenses (World Bank 1990). Given that deposits hovere d just above 4 
+trillion baht during 1997 (Haksar and Giorgianni 2000), this fee could have brought the FIDF 
+slightly more than 4 billion baht annually, just 1% of the liquidity support provided in early 
+1997. Emergency Decree B.E. 2540 (1997)—which also allowed the FIDF to make unsecured 
+loans—enabled the FIDF Management Committee to raise the fees it charged member 
+institutions, but only up to 1% of deposits. R ather, credit from the BOT and proceeds from 
+investments provided the FIDF with the monies it used to inject capital in distressed 
+institutions following a banking crisis in 1985. The FIDF did not carry an explicit mandate to 
+insure the deposits of its mem ber institutions, but the World Bank (1990) believed that it 
+would insure deposits should a crisis hit. 
+The FIDF bore heavy losses for the sake of finance company creditors. In September 1997, 
+the MOF said that the loans of just over THB 500 billion had been secured by collateral worth 
+more than THB 800 billion (Notharit 1997). These were largely preferential claims in a 
+position senior to the borrowers ’ other unsecured creditors. Yet the World Bank (1997) 
+1025
+Thailand Runkel
+
+--- Page 14 ---
+estimated the value of collateral securing finance company liquidity support at less than 50% 
+of the FIDF’s exposure. In part, this devaluation was caused by the country’s currency crisis, 
+but Santiprabhob (2003) notes that debtors of finance companies were unable to refinance 
+or negotiate for their collat eral once those finance companies had been suspended. The 
+suspension served to further squeeze liquidity in the Thai financial system. The FIDF’s 
+preferential claims also hurt finance company creditors, which could not access the collateral 
+promised to the m (World Bank 1997) . Once the FIDF decided to release its preferential 
+claims on collateral, it of course limited its recovery opportunities. 
+8. Program Size: The level of support was not predetermined and rose to THB 4 34 
+billion by August 1997.  
+The FIDF provided increasing amounts of support to finance companies during the first part 
+of 1997. Amounts outstanding stood at  THB 16.8 billion at th e end of 1996 and rose 
+dramatically, beginning in February, to peak at THB 434 billion at the end of August, shortly 
+after suspension of an additional 42 finance companies was announced  (BOT 2009a). The 
+FIDF continued to provide funding to closed and open finance companies and to some banks 
+through the end of the year , when 56 of the 58 suspended finance companie s were closed  
+permanently. Such funding also continued into 1998, as the FIDF pursued its restructuring 
+programs (Hasker and Giorgianni 2000; World Bank 1997). 
+9. Individual Participation Limits: Participants borrowed without limit. 
+No documents suggest that the FIDF capped participants ’ borrowing limits. Some finance 
+companies borrowed more than four times the value of their capital (Lindgren et al. 2000). 
+10. Rate Charged: The FIDF offered above-market rates. 
+In late 1997, the BOT tied rates to the BOT repo rate plus a variable penalty between 1% and 
+2.5%, depending on the level of indebtedness and size of support if uncollateralized (World 
+Bank 1997). As shown in Figure 3, this rate sometimes exceeded 20% in 1997 and 1998.  
+Santiprabhob (2021) and a BOT official working in 1997 said that the rates for liquidity 
+support were at market prices or slightly above, in keeping with lender -of-last-resort 
+principles. However, the World Bank (1997) said that the FIDF provided support at below -
+market rates between March 1997 and July 1997. The World Bank cited the FIDF’s decision 
+to not impose penalty rates as a cause of its ballooning liabilities. 
+After the support ended, many companies (especially those finance companies that the BOT 
+suspended) faced difficulties repaying their debts. The Fund allowed debtors to submit 
+rehabilitation plans and extend the length of repayment up to eight years. The FIDF charged 
+a penalty rate to suspen ded institutions when compared to nonsuspended institutions 
+(World Bank 1997), though very little of this rehabilitated debt would ultimately be repaid 
+(BOT 2009a).  
+1026
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 15 ---
+11. Eligible Collateral: FIDF loans were secured by government bonds before deposit 
+runs deepened. 
+FIDF support originally required government bonds as collateral, but finance companies 
+began shedding their liquid assets in the summer of 1997 amid deposit runs. As these runs 
+intensified, the FIDF began providing support against collateral of dubiou s value, including 
+promissory notes of finance company debtors that would ultimately be worthless when 
+many of those issuers entered bankruptcy (Santiprabhob 2003). Additionally, much of the 
+collateral the FIDF required was not perfected (World Bank 1997).  
+Following the suspension of 58 finance companies in August 1997, the government weighed 
+two actions that could free up FIDF collateral to recovery by private creditors: the release of 
+the FIDF’s preferential claims on debtor collateral and the provision of unsecured liquidity 
+support by the FIDF. If the FIDF could not release the collateral securing its emergency loans 
+to finance companies, then the bankruptcy of a finance company would simply push its 
+nonperforming loans to its creditors, shielding the FIDF at the expense of the financial sector 
+it was created to protect. In October, Emergency Decree B.E. 2540 (1997) granted the FIDF 
+the authority both to release collateral and to make new unsecured loans. 
+12. Loan Duration: Public documents do not indicate the maturities of FIDF loans. 
+If the FIDF provided liquidity support at a standard maturity, the documents surveyed do 
+not indicate what that may have been. Santiprabhob (2021) suggested that credit was on -
+call for a short term. Given that the structure of funding was tied to seven -day repurchase 
+agreements, support may have carried seven-day maturities. In any case, the MOF closed 56 
+of the 58 suspended finance companies in December 1997 , before those companies repaid 
+their debts. The MOF’s announcement end ed the FIDF’s large -scale liquidity support of 
+finance companies (Haksar and Giorgianni 2000), leaving the FIDF with more than THB 400 
+billion in unpaid claims on finance companies (BOT 2006; Lauridsen 1998) . (For a 
+breakdown of support by whether finance company counterparties were open or closed, see 
+Haksar and Giorgianni 2000.)  FIDF crisis intervention ended in January 1998 , after the 
+government nationalized four commercial banks (Lauridsen 1998). As markets calmed, the 
+FIDF continued to provide liquidity through the end of the 1990s (see Figure 1) and operated 
+well after the end of the Asian Financial Crisis. 
+13. Other Conditions: Participants do not appear to have been subject to other 
+conditions. 
+Support did not appear to carry any other conditions . After the undisclosed support ended, 
+the FIDF imposed conditions on borrowing from the credit line.  
+14. Impact on Monetary Policy Transmission: No documents suggest a strategy to 
+counteract the support’s effects on monetary policy transmission. 
+Documents surveyed do not discuss the transmission of BOT monetary policy. 
+1027
+Thailand Runkel
+
+--- Page 16 ---
+15. Other Options: The support to finance companies was Thailand’s first measure to 
+combat its banking crisis. 
+Though Thailand had no deposit guarantee prior to 1997, observers such as the World Bank 
+(1990) believed that it was widely assumed that the FIDF and government offered an implicit 
+guarantee that it would not let depositors sustain a loss of their monies on deposit. The FIDF 
+(1997) made this guarantee explicit in 1997, when it insured “all depositors and creditors of 
+financial institutions that still operate[d] normal business” for two years (Mehta 1997). The 
+FIDF pledged to pay those insured within 30 days of their claims. There does not appear to 
+have been a cap on account or credit sizes, though the FIDF would not pay excessive interest 
+rates over those offered by the largest Thai commercial banks (FIDF 1997). 
+The FIDF financed this blanket guarantee by issuing its government -backed bonds (FIDF 
+1997). “Despite, or perhaps because of, the l arge fiscal cost of the government’s emergency 
+guarantee of deposits, the market did not view the move as credible” (Nabi and Shivakumar 
+2001). However, the government was still responsible for paying out to depositors and 
+creditors, lest it be viewed as even less credible. The World Bank (1997) said that measures 
+such as the blanket guarantee increased the cost of the crisis to the Thai government. 
+16. Similar Programs in Other Countries: Research did not determine any similar 
+programs in other countries. 
+Research did not determine similar programs in other countries at the time.  
+17. Communication: The FIDF did not disclose support until after finance companies 
+were suspended. 
+When the Thai Parliament learned of the extent of borrowing, the FIDF had already lent 
+several hundred billion baht. The first indications came in early July, when a Member of 
+Parliament accused the Prime Minister of wasting some THB 350 billion to rescue finance 
+companies (Tumcharoen 1997). This episode appeared to have gone unnoticed. A mon th 
+later, however, the BOT suffered a storm of criticism after it reported lending THB 430 
+billion—about 10% of GDP (Lauridsen 1998) —to finance companies before their 
+suspension and ultimate failure (Tunyasiri 1997; Prateepchaikul 1997). At this point, the  
+Prime Minister defended the FIDF on the basis that it had secured collateral against the loans 
+(Tunyasiri 1997). The Minister of Finance said that the collateral outweighed the liquidity 
+support by THB 800 billion to THB 500 billion (Notharit 1997). 
+Moreover, the BOT had “repeatedly guaranteed” the viability of the same finance companies 
+that had received liquidity support (Santiprabhob 2003). When the BOT announced in March 
+1997 that 10 finance companies needed to raise capital, it assured the solvency of the rest of 
+the subsector. When the BOT announced in June 1997 that it would suspend 16 finance 
+companies over capital inadequacy concerns, it again assured the market that the remaining 
+finance companies were in good financial health, and that it would suspend no more finance 
+companies (Lindgren et al. 2000) . So, when it suspended 42 additional finance companies, 
+the subsequent announcement of a deposit guarantee and credit line was unable to assuage 
+concerns (Santiprabhob 2003). 
+1028
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 17 ---
+In late 1997, the MOF committed to reflect ing the FIDF cost explicitly in the Thai budget as 
+part of a World Bank loan proposal (World Bank 1997). Following budgets and policy papers 
+communicated the outstanding FIDF debt (BOT 2002; Suthiwart -Narueput and 
+Pradittatsanee 1999; Public Debt Management Office 2021). 
+18. Disclosure: Liquidity support appeared in aggregate on the BOT’s balance sheet 
+after it was provided. 
+As discussed, the FIDF did not disclose its support until after finance companies were 
+suspended. Knowledge of the THB 430 billion liability came through the BOT’s balance-sheet 
+reporting. It is unclear, however, what responsibility or power the FIDF had to disclose its 
+support. The FIDF did not disclose how much it lent to each institution. 
+19. Stigma Strategy: Borrowers were insulated from stigma by a lack of disclosure. 
+No documents discussed the BOT’s strategy for dealing with borrower stigma. However, the 
+decision not to disclose liquidity support prevented market observers from stigmatizing the 
+borrowers. Marke t participants suspected that more finance companies than the BOT 
+reported were in danger, but they did not know which faced the gravest peril (Santiprabhob 
+2003). 
+20. Exit Strategy : Thailand closed 56 of the 58 suspended finance companies and 
+converted commercial bank debt to equity; some support was recovered. 
+There was no predetermined end date for FIDF intervention, but Santiprabhob (2021) cited 
+the cost of borrowing as an incentive for borrowers to find other lenders. Support effectively 
+ended when the pos sibilities for repayment ended. After the BOT suspended 16 finance 
+companies in June 1997, the MOF established a committee to facilitate their merger and 
+consolidation with Krung Thai Thanakit (KTT), a state -owned finance company 
+(Santiprabhob 2003; Haksar  and Giorgianni 2000) . Another 42 finance companies were 
+suspended in August and given 60 days to submit rehabilitation plans. In December, the MOF 
+announced the closure of all but two of the 58 suspended firms (Haksar and Giorgianni 
+2000).  
+The Financial Sector Restructuring Authority (FRA) —created out of the committee that 
+reviewed the first 16 suspensions (Santiprabhob 2003) —assumed the assets of closed 
+finance companies; it began auctions and reached agreements to compensate creditors of 
+the 42 companies later suspended. As of 2000, the FRA had recovered 28% of the THB 666 
+billion in nominal assets of the 56 finance companies (Haksar and Giorgianni 2000). 
+The FIDF took a different approach to the commercial banks to wh ich it had provided 
+emergency liquidity. Four banks to which the FIDF had provided large amounts of liquidity—
+Bangkok Metropolitan, First City, Siam City, and Bangkok Bank of Commerce —saw their 
+FIDF claims converted to equity while shareholder capital was simultaneously written down 
+1029
+Thailand Runkel
+
+--- Page 18 ---
+(Lauridsen 1998) . This mechanism sometimes overcapitalized the banks, which had 
+returned THB 195 billion of capital to FIDF as of 2002 (Santiprabhob 2003).5 
+The FIDF lost at least THB 244 billion from liquidity support (Santiprabhob 2003, tables 5.2 
+and 6.2). There is both uncertainty and ambiguity in these estimates. The uncertainty comes 
+from the fact that recovery could come from a number of different sources, each of which 
+owed the FIDF for more than just liquidity support. Fin ance companies could have repaid 
+loans before their closure (if they were among those closed), but these repayments cannot 
+be disentangled from the finance company liabilities added during 1997 (BOT 2003 a). 
+Ambiguity comes from the different definitions of  liquidity support among the documents 
+surveyed. For example, Teo et al. (2000, 95)  includes a measure of the debt -to-equity 
+conversion without describing its calculation, and claims that FIDF liabilities eclipsed THB 1 
+trillion. On the other hand, the BOT (2002) describes funds lost to liquidity support, deposit 
+insurance, and recapitalization, all of which could conceivably be debited to liquidity 
+support. 
+ 
+  
+ 
+5 FIDF converted debt of the four commercial banks and Bank Thailand into equity that it then spread to state-
+owned Krung Thai Bank (KTB; see Santiprabhob 2003 for an account of KTB’s recapitalization) . 
+1030
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 19 ---
+References and Key Program Documents 
+Documents cited in the text are introduced with a parentheti cal author -date citation. 
+Documents that are relevant to this case but have not been cited in text do not include this 
+parenthetical reference. 
+Program Summaries 
+(BOT n.d.) Bank of Thailand (BOT). n.d. “Financial Institutions Development Fund.” Bank of 
+Thailand. Accessed January 22, 2021. 
+Official BOT overview of the FIDF’s history and 21st-century operations. 
+https://ypfs.som.yale.edu/node/20172 
+(Lindgren et al. 2000) Lindgren, Carl-Johan, Tomás Baliño, Charles Enoch, Anne-Marie 
+Gulde, Marc Quintyn, and Leslie Teo. 2000. “Financial Sector Crisis and Restructuring: 
+Lessons from Asia.” Washington DC: International Monetary Fund. 
+Paper reviewing the various policy responses of the Indonesian, Korean, and Thai 
+governments to the Asian Financial Crisis of 1997. 
+https://ypfs.som.yale.edu/library/financial-sector-crisis-and-restructuring-lessons-asia 
+(Santiprabhob 2021) Santiprabhob, Veerathai. 2021. Interview with Veerathai 
+Santiprabhob. Zoom. 
+YPFS interview with author and former BOT governor about specifics from Thailand’s 
+experience of Asian Financial Crisis. 
+https://yale.zoom.us/rec/share/konmjP60HnUzV7f6zmF9CQjDebaMvuI7T7jpbUQrcCOp_
+mPVQcSk4UTspR36EQBm.wS76aFdggoNQe7nx 
+Implementation Documents 
+(Nimmanahaeminda and Sonakul 1998) Nimmanahaeminda, Tarrin, and M. R. 
+Chatumongol Sonakul. 1998. “Thailand Letter of Intent, August 25, 1998,” August 25, 1998. 
+Letter of Intent from Thai government officials to the International Monetary Fund (IMF) as 
+part of the IMF loan designated for restructuring the Thai financial sector The letter describes 
+the purpose of the capital support facilities, capital terms, and other participatory conditions. 
+https://ypfs.som.yale.edu/library/thailand-letter-intent-august-25-1998 
+Legal/Regulatory Guidance 
+(BOT 2018) Bank of Thailand Act (BOT). 2018. B.E. 2485 (1942) 39. 
+Legislation originally authorizing the FIDF, with amendments up to 2018. 
+https://ypfs.som.yale.edu/library/bank-thailand-act 
+(Emergency Decree B.E. 2540 1997) Amending the Bank of Thailand Act, B.E. 2485 (No. 2). 
+1997. Emergency Decree B.E. 2540. 
+Emergency Decree allowing the FIDF to make unsecured loans, relinquish collateral already 
+held, and raise member fees. 
+https://ypfs.som.yale.edu/library/amending-bank-thailand-act-be-2485-no-2 
+1031
+Thailand Runkel
+
+--- Page 20 ---
+(Emergency Decree B.E. 2555 2012) Improving the Debt Management of Loan Made by the 
+Ministry of Finance to Assist the Financial Institutions Development Fund. 2012. Emergency 
+Decree B.E. 2555 6. 
+Emergency legislation changing the cost-sharing regime from one that split financial 
+responsibility between the BOT and the MOF to one that placed sole responsibility on the BOT, 
+owing to the need for fiscal space to pay for flood damages. 
+https://ypfs.som.yale.edu/node/16613 
+Media Stories 
+(BOT 2002) Bank of Thailand (BOT). 2002. “Fiscalization of Financial Institutions 
+Development Fund’s Losses.” News 22/2002. Bank of Thailand. 
+Notice describing the repayment plan for FIDF debt. 
+https://ypfs.som.yale.edu/library/fiscalization-financial-institutions-development-funds-
+losses 
+(FIDF 1997) Financial Institutions Development Fund (FIDF). 1997. “Insurance for 
+Depositors and Creditors of Financial Institutions.” Press release 52/1997. Bank of 
+Thailand. 
+Press release announcing and detailing the blanket deposit and credit guarantee. 
+https://ypfs.som.yale.edu/node/20173 
+(Meesane and Tunyasiri 1998) Meesane, Somchai, and Yuwadee Tunyasiri. 1998. 
+“Ministers Vent Anger on Central Bank Boss.” Bangkok Post, March 4, 1998, sec. Banking. 
+Newspaper article describing the anger of cabinet officials over the publication of FIDF losses. 
+https://ypfs.som.yale.edu/node/20163 
+(Mehta 1997) Mehta, Harish. 1997. “BOT Starts Credit Line, Deposit Guarantee for Finance 
+Sector.” Business Times Singapore, August 9, 1997. Factiva. 
+Newspaper article describing the credit line and deposit guarantee for commercial banks and 
+healthy finance companies, and repo funding process for the FIDF. 
+https://ypfs.som.yale.edu/node/16556 
+(Notharit 1997) Notharit, Wut. 1997. “Thanong Admits Government Made Some Financial 
+Mistakes.” Bangkok Post, September 26, 1997. 
+Newspaper article featuring quotes from one of Thailand’s many crisis-era finance ministers 
+that show the understanding of the MOF that FIDF claims were protected by collateral. 
+https://ypfs.som.yale.edu/node/20164 
+(Prateepchaikul 1997) Prateepchaikul, Verra. 1997. “And She Thought Soros Was No. #1.” 
+Bangkok Post, August 12, 1997, sec. Commentary. 
+Editorial criticizing the FIDF for administering secret liquidity support to unhealthy 
+institutions. 
+https://ypfs.som.yale.edu/node/20165 
+(Sangwongwanich 2015) Sangwongwanich, Pathom. 2015. “FIDF Set to Clear Debt Ahead of 
+Schedule.” Bangkok Post, August 13, 2015, sec. Business. 
+1032
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 21 ---
+Article describing the FIDF’s debt burden and repayment plan. 
+https://ypfs.som.yale.edu/node/20166 
+(Sirithaveeporn and Yuthamanop 1998) Sirithaveeporn, Wichit, and Parista Yuthamanop. 
+1998. “Measures to Boost Liquidity Approved.” Bangkok Post, April 29, 1998, sec. Economy. 
+Article describing, among other measures to fund the reform and support of Thailand’s 
+economy, a decree passed to allow the FIDF to issue long-term local bonds. 
+https://ypfs.som.yale.edu/node/20167 
+(Tumcharoen 1997) Tumcharoen, Surasak. 1997. “Chavalit Accused of Wasting B550b on 
+Futile Measures—Suthep Cites Report on Post-Float Fallout.” Bangkok Post, July 4, 1997. 
+News article first alleging massive support by the FIDF. 
+https://ypfs.som.yale.edu/node/20168 
+(Tunyasiri 1997) Tunyasiri, Yuwadee. 1997. “Erring Executives Face Punishments.” 
+Bangkok Post, August 10, 1997, sec. Economy. 
+Newspaper article describing the reactions of public figures such as the Prime Minister to the 
+admission that the FIDF had lent hundreds of millions of baht to suspended finance 
+companies. 
+https://ypfs.som.yale.edu/node/20169 
+(Yuthamanop 1998) Yuthamanop, Parista. 1998. “Officials Defend Decisions of Fund.” 
+Bangkok Post, March 5, 1998. Factiva. 
+News article describing the admission by the BOT that the FIDF had liabilities in excess of one 
+trillion baht. 
+https://ypfs.som.yale.edu/node/20170 
+Press Releases/Announcements 
+(Public Debt Management Office 2021) Public Debt Management Office. 2021. “Public Debt 
+Outstanding.” Ministry of Finance. 
+Data showing, among other public debts, those attributed to the FIDF (in billions of baht). 
+https://ypfs.som.yale.edu/library/public-debt-outstanding 
+Reports/Assessments 
+(BOT 1998) Bank of Thailand (BOT). 1998. “International Reserves.” EC_XT_030. Bangkok: 
+Bank of Thailand. 
+Data showing the diminution of BOT reserves during its currency crisis. 
+https://ypfs.som.yale.edu/library/international-reserves 
+(BOT 1999) Bank of Thailand (BOT). 1999. “Repurchase Rates & Volumes.” FM_RT_005. 
+Data showing the repurchase rates of different maturities and the daily total volume of 
+repurchase agreements. 
+https://ypfs.som.yale.edu/library/repurchase-rates-volumes 
+1033
+Thailand Runkel
+
+--- Page 22 ---
+(BOT 2003a) Bank of Thailand (BOT). 2003. “Loan of Finance and Finance & Securities 
+Companies Classified by Purpose (Outstanding).” XLS_MB_030. Bangkok: Bank of Thailand. 
+Data showing the composition of finance company portfolios before and during the crisis. 
+https://ypfs.som.yale.edu/node/16567 
+(BOT 2003b) Bank of Thailand (BOT). 2003b. “Operation of Commercial Banks.” 
+XLS_MB_006. Bangkok: Bank of Thailand. 
+Data showing the sources and uses of commercial banks funds during the crisis. 
+https://ypfs.som.yale.edu/library/operation-commercial-banks 
+(BOT 2006) Bank of Thailand (BOT). 2006. “Central Bank Sectoral Balance Sheet.” 
+EC_MB_010. Bangkok: Bank of Thailand. 
+Data showing the assets and liabilities of the Bank of Thailand during the crisis. 
+https://ypfs.som.yale.edu/library/central-bank-sectoral-balance-sheet 
+(BOT 2009a) Bank of Thailand (BOT). 2009a. “Assets and Liabilities of Finance Companies.” 
+XLS_MB_028. 
+Data showing FIDF support to finance companies and purchases of FIDF bonds by finance 
+companies. 
+https://ypfs.som.yale.edu/library/assets-and-liabilities-finance-companies 
+(Haksar and Giorgianni 2000) Haksar, Vikram, and Lorenzo Giorgianni. 2000. “Financial 
+Sector Restructuring.” In Thailand: Selected Issues, 27–44. Staff Country Report 00/21. 
+Washington, D.C.: International Monetary Fund. 
+Staff report describing Thailand’s economic crisis and measures taken by the government. 
+https://ypfs.som.yale.edu/library/thailand-selected-issues 
+(Nukul Commission 1998) Nukul Commission. 1998. Analysis and Evaluation on Facts 
+behind Thailand’s Economic Crisis. Translated by Nation Multimedia Group. Bangkok: 
+Nation Multimedia Group. 
+Report by the Commission Tasked with Making Recommendations to Improve the Efficiency 
+and Management of Thailand’s Financial System. 
+https://ypfs.som.yale.edu/library/analysis-and-evaluation-facts-behind-thailands-
+economic-crisis 
+(Santiprabhob 2003) Santiprabhob, Veerathai. 2003. Lessons Learned from Thailand’s 
+Experience with Financial-Sector Restructuring. Bangkok, Thailand: Thailand Development 
+Research Institute. 
+Study commissioned by one of Thailand’s think tanks analyzing the government’s response to 
+the crisis. 
+https://ypfs.som.yale.edu/library/lessons-learned-thailands-experience-financial-sector-
+restructuring 
+(Suthiwart-Narueput and Pradittatsanee 1999) Suthiwart-Narueput, Sethaput, and Varan 
+Pradittatsanee. 1999. “Public Debt and Economic Policy During the Economic Crisis.” Thai 
+Ministry of Finance, Policy Research Institute. 
+Describes the Thai government’s issuance of public debt to finance the capital support 
+1034
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 23 ---
+facilities, covering the emergency legislation passed to enable the issuance. 
+https://ypfs.som.yale.edu/library/public-debt-and-economic-policy-during-economic-
+crisis 
+(World Bank 1990) World Bank. 1990. “Financial Sector Study.” 8403. Thailand. Asia 
+Region: World Bank. 
+Report describing the FIDF’s status prior to the Asian Financial Crisis. 
+https://ypfs.som.yale.edu/library/financial-sector-study 
+(World Bank 1997) World Bank. 1997. “Proposed Loan in the Amount of US$350 Million to 
+the Kingdom of Thailand for Finance Companies Restructuring.” Report and 
+recommendation P-7211-TH. Washington, D.C.: World Bank Group. 
+Proposal describing funding, pricing, exit strategy, and size of FIDF crisis support. 
+https://ypfs.som.yale.edu/node/20171 
+Key Academic Papers 
+(Lauridsen 1998) Lauridsen, Laurids S. 1998. “The Financial Crisis in Thailand: Causes, 
+Conduct and Consequences?” World Development 26, no. 8: 1575–91. 
+Early academic study recounting, among other things, the government’s response to the 
+financial crisis. 
+https://ypfs.som.yale.edu/node/16624 
+(Nabi and Shivakumar 2001) Nabi, Ijaz, and Jayasankar Shivakumar. 2001. “Back from the 
+Brink: Thailand’s Response to the 1997 Economic Crisis.” 22865. Directions in 
+Development. Washington, D.C.: World Bank Group. 
+World Bank study describing the causes and response of Thailand to the currency, financial, 
+and economic crises. 
+https://ypfs.som.yale.edu/library/back-brink-thailands-response-1997-economic-crisis 
+  
+1035
+Thailand Runkel
+
+--- Page 24 ---
+Appendix 
+Figure 5: Recapitalization of State-Owned Banks (1998–2002) 
+ 
+Source: Santiprabhob 2003. 
+Figure 6: Recoveries from FRA Auctions (1997–2001) 
+ 
+Source: Santiprabhob 2003. 
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+1036
+Journal of Financial Crises Vol. 4 Iss. 2

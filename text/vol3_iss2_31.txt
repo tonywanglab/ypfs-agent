@@ -1,0 +1,686 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 2 
+2021 
+Hungary: Magyar Reorganizációs és Követeléskezelő Zrt (MARK Hungary: Magyar Reorganizációs és Követeléskezel  Zrt (MARK 
+Zrt.) Zrt.) 
+Mallory Dreyer 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance and Financial 
+Management Commons, Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, 
+Policy History, Theory, and Methods Commons, Public Administration Commons, and the Real Estate 
+Commons 
+Recommended Citation Recommended Citation 
+Dreyer, Mallory (2021) "Hungary: Magyar Reorganizációs és Követeléskezelő Zrt (MARK Zrt.)," Journal of 
+Financial Crises: Vol. 3 : Iss. 2, 757-771. 
+DOI: https://doi.org/10.17132/2693-3179.1183 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/31 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss2/31
+
+--- Page 3 ---
+Hungary: Magyar Reorganizációs és Követeléskezelő 
+Zrt (MARK Zrt.)1  
+ 
+Mallory Dreyer2 
+Yale Program on Financial Stability Case Study 
+June 23, 2021 
+Abstract 
+Hungary saw a surge in commercial real estate (CRE) lending prior to the Global Financial 
+Crisis. By 2014, the banking sector was saddled with a high ratio of nonperforming CRE loans 
+and repossessed property , though Hungarian banks remained solvent  with high capital 
+adequacy ratios. The central bank of Hungary, the MNB, announced the creation of an asset 
+management company, Magyar Reorganizációs és Követeléskezelő Zrt. (MARK), to purchase 
+nonperforming CRE assets from Hungarian banks on a voluntary basis, to clear their balance 
+sheets and allow for increased lending. MARK was fully-owned by the MNB, which provided 
+MARK’s share capital and a bridge loan of HUF 300 billion (USD 1.2 billion). MARK planned 
+to purchase eligible assets at market price with the goal to purchase HUF 300 billion in assets 
+at market value, or an estimated HUF 800 billion in book value . MARK launched on March 
+21, 2016, after receiving European Commission approval, and 23 financial institutions 
+expressed interest in participating by June 2016. However, the MNB’s funding of MARK  
+violated the European Central Bank’s monetary financing prohibition, which led the MNB to 
+sell MARK to a private investment company in April 2017. The sale of MARK was finalized in 
+June 2017.  
+Keywords: Hungary, commercia l real estate , nonperforming loans, asset management 
+company 
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering broad-based asset management company programs. 
+Cases are available from the Journal of Financial Crises  at https://elischolar.li brary.yale.edu/journal-of-
+financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+757
+
+--- Page 4 ---
+At a Glance  
+After the Global Financial Crisis of 2007-08 
+(GFC), the Hungarian economy 
+experienced a deep recession (IMF 2015a). 
+Commercial real estate (CRE) lending in 
+Hungary grew rapidly prior to the GFC, but 
+the sector was adversely affected  by the 
+GFC and by 2014, the NPL ratio for CRE 
+loans was 29%. In Hungary, problem loans 
+consist of  nonperforming loans and 
+restructured loans ( MNB 2014a). Because 
+of an oversupply in the CRE market, banks 
+were reluctant to sell foreclosed collateral 
+on the market , and prices had not  fallen 
+enough to encourage demand (IMF 2015a). 
+Despite high ratios of NPLs, most financial 
+institutions in Hungary were solvent, with 
+the average capital adequacy ratio ( CAR) 
+reaching 20.9 percent in June 2015 (EC 
+2016a).  
+In order to address the problem of 
+nonperforming CRE loans, the Hungarian 
+central bank, Magyar Nemzeti Bank  (MNB), established the Magyar Reorganizációs és 
+Követeléskezelő Zrt 3 (MARK) in November 2014 ( MNB 2014a; EC 2016 a). The MNB 
+established MARK with the objective  of cleaning bank balance sheets through the purchase 
+of problem CRE loans and related commercial properties ( MNB 2014a). By removing 
+nonperforming CRE assets from  bank balance sheets, the central bank intended to boost 
+credit supply ( Reuters 2015 ). The MNB attributed its idea for managing nonperforming 
+assets to the Swiss National Bank’s StabFund , which was established in 2008 to manage 
+impaired assets from UBS (Virág 2016; Swiss National Bank 2013).  
+When the MNB announced MARK in 2014, it planned to launch the asset purchase program 
+in 2015 (MNB 2014a). Over the course of 2015, Hungarian authorities received assistance 
+from the IMF, defining and modifying the design of the asset purchase program (IMF 2015a; 
+2015b). After discussions with the Europ ean Commission  in 2015,  the MNB revised its 
+ 
+3 “Magyar Reorganizációs és Követeléskezelő Zrt.” roughly translates to the Hungarian Restructuring and Debt 
+Management Company.  
+Summary of Key Terms 
+Purpose: “To accelerate the reduction of poor-quality 
+commercial real estate loans in the Hungarian 
+banking system” (MNB 2015a).  
+Launch 
+Dates  
+Announced: November 2014 ( EC 
+2016a)  
+Operational: March 21, 2016  
+Wind-down 
+Dates 
+10-year maximum (EC 2016a) 
+Sold on June 30,  2017 to  a private 
+investor  
+Size and 
+Type of NPL 
+Problem 
+18.5% of corporate loan stock in 2014 
+was nonperforming 
+Only nonperforming CRE loans and 
+repossessed CRE property 
+Program 
+Size 
+Target of HUF 300 billion ($1.2 
+billion) in assets at market price 
+Eligible 
+Institutions 
+All Hungarian financial institutions 
+Open bank only 
+Usage None  
+Outcomes Gain on sale to private investor of 
+HUF 220 million (MNB 2017a)  
+Ownership 
+Structure 
+Government-owned  
+Notable 
+Features 
+Considered a macroprudential policy 
+tool; violated the ECB’s monetary 
+financing prohibition and thus did not 
+acquire assets 
+Magyar Reorganizációs és Követeléskezelő Zrt. 
+(MARK) 
+758
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 5 ---
+valuation methodology to ensure that the prices paid for assets reflected the market price as 
+required by Commission regulations on State aid  (EC 2016 a; MNB 2015a). Hungarian 
+authorities submitted the final plans for MARK to the European Commission on January 19, 
+2016, and the European Commission confirmed that the asset purchase program did not 
+constitute State aid on February 10, 2016 (EC 2016a).  
+The MNB provided MARK with a bridge loan of up to  HUF 300 billion (USD 1.2 billion)  to 
+finance asset purchases4 (EC 2016a). MNB anticipated that MARK would come to rely less on 
+the central bank through market refinancing of the bridge loan following the first rounds of 
+the asset purchase program (OECD 2016). This funding decision violated the European 
+Central Bank’s (ECB) prohibition against monetary financing as EU national central banks 
+are prohibited from providing overdraft or credit facilities to governments or EU 
+institutions, as well as purchasing any issuances of primary market debt instruments by such 
+governments or institutions (ECB 2016).  
+MARK launched on March 21, 2016, with a three-month window for prospective participants 
+to submit a complete list of their eligible CRE assets (MNB 2016e). Eligible participants for 
+the program included financial institutions and  their subsidiaries with operations in 
+Hungary or the European Economic Area, while eligible assets included nonperforming CRE 
+loans and repossessed CRE  property. From each institution’s list of eligible assets, MARK 
+randomly selected a portfolio. The asset selection process for a single institution continued 
+until the portfolio met the following criteria: the t otal value was at least HUF 50 billion, it 
+consisted of more than 15 assets, and the gross outstanding amount of any single asset was 
+not more than 50% of the total portfolio value. After completing the asset selection process, 
+MARK determined the pricing for the portfolio. An asset’s transfer price depended on its type 
+and underlying collateral value (EC 2016a).  
+By the June 2016 deadline, 23 financial institutions registered their interest in the voluntary 
+asset purchase program. The face value of the loans registered totaled more than HUF 300 
+billion, with an estimated transfer price between HUF 90 and 125 billion. According to the 
+MNB, all of the banks with the largest CRE NPL exposures registered, except for MKB Bank 
+which was undergoing resolution (MNB 2016e).  
+However, MARK did not ultimately acquire any assets. In 2016, the ECB determined the asset 
+purchase program to be a “violation of the monetary financing prohibition that need[ed] to 
+be corrected” ( ECB 2016). The MNB offered MARK for sale to investors through a private 
+tender in 2017 (MNB 2017b). On June 30, 2017, the MNB sold MARK to APS Investment s.r.o., 
+an investment management company that specialized in distressed debt management and 
+recovery (MNB 2017a; APS Holding S.A. 2017). According to the MNB’s 2017 Annual Report, 
+ 
+4 According to the IMF, HU F 300 billion was equivalent to $1.2 billion, an exchange rate of $1 = HUF 250 (IMF 
+2015a).  
+759
+Hungary: Magyar Reorganizációs és Követeléskezel? Zrt (MARK Zrt.) Dreyer
+
+--- Page 6 ---
+the central bank had a gain of HUF 220 million on invested financial assets, which included 
+the gain on the sale of MARK to APS (MNB 2017a).  
+In 2017, the ECB noted that the MNB had “taken corrective action and no longer own[ed] or 
+control[ed] MARK Zrt.” but that the case remained open yet in 2017 ( ECB 2017). By 2018, 
+the ECB noted that it had closed the case against the MNB and MARK Zrt. given the 
+“completion of the necessary corrective actions” (ECB 2018).  
+Summary Evaluation 
+In the IMF’s technical assistance report, the authors noted that MARK was “established on a 
+sound basis” with a “clear, well -defined mandate to focus on maximizing the value of its 
+assets” (IMF 2015b). The IMF attributed the decline in the corporate NPL ratio—which fell 
+from approximately 20% in 2015 to 11% in 2016—to the establishment of MARK and the 
+introduction of the systemic risk buffer that targeted CRE assets. The IMF noted that MARK 
+played a “crucial role in jump -starting the market for nonperforming commercial assets  by 
+improving the quality of infor mation on assets and creating asset management services ” 
+even though it did not acquire such assets itself  (IMF 2017). However, the IMF raised 
+conflict-of-interest concerns about the MNB’s significant involvement in the financing and 
+governance of MARK (IMF 2015b). Specifically, maximizing the recovery value of assets and 
+loans had the potential to be at odds with the MNB’s monetary policy objectives (IMF 2015a). 
+The MNB’s financing of MARK violated the ECB’s monetary financing prohibition for national 
+central banks, a concern which ultimately led the MNB to sell the AMC to a private investor 
+(ECB 2017).  
+In the OECD’s 2016 evaluation of the financial sector in Hungary, it noted that MARK should 
+develop a strategy to sell nonperforming assets in order to “increase transparency and 
+reduce public sector contingent liabilities” (OECD 2016). In 2019, the OECD recognized that 
+MARK “had an initial positive effect” on reducing NPLs in Hungary, but it noted that the sale 
+of MARK ran counter to the EU reform effort s to develop a secondary market for NPLs and 
+prevent their accumulation (OECD 2019).  
+  
+760
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 7 ---
+Magyar Reorganizációs és Követeléskezelő Zrt (MARK): Hungary Context 
+GDP 
+(SAAR, Nominal GDP in LCU converted to 
+USD) 
+$140.9 billion in 2014 
+$125.1 billion in 2015 
+$128.5 billion in 2016 
+GDP per capita 
+(SAAR, Nominal GDP in LCU converted to 
+USD) 
+$14,246 in 2014 
+$12,652 in 2015 
+$12,992 in 2016 
+Sovereign credit rating (5-year senior debt) 
+As of fourth quarter, 2014: 
+Fitch: BBB- 
+Moody’s: Ba1 
+S&P: BB 
+As of fourth quarter, 2015: 
+Fitch: BBB- 
+Moody’s: Ba1 
+S&P: BB+ 
+As of fourth quarter, 2016: 
+Fitch: BBB- 
+Moody’s: Baa2 
+S&P: BBB- 
+Size of banking system 
+ 
+$83.5 billion in 2014 
+$70.6 billion in 2015 
+$70.7 billion in 2016 
+Size of banking system as a percentage of 
+GDP 
+ 
+59.3% in 2014 
+56.5% in 2015 
+55.0% in 2016 
+Size of banking system as a percentage of 
+financial system 
+100% in 2014 
+100% in 2015 
+100% in 2016 
+5-bank concentration of banking system 
+69.7% in 2014 
+90.4% in 2015 
+85.9% in 2016 
+Foreign involvement in banking system Data not available for 2014-16 
+Government ownership of banking system Data not available for 2014-16 
+Existence of deposit insurance Yes in 2014-2016 
+Sources: Bloomberg; World Bank Global Financial Development Database; World Bank 
+Deposit Insurance Dataset 
+761
+Hungary: Magyar Reorganizációs és Követeléskezel? Zrt (MARK Zrt.) Dreyer
+
+--- Page 8 ---
+Key Design Decisions 
+1. Part of a Package: Hungary’s central bank, the MNB, established MARK to purchase 
+problem CRE loans from banks; it later announced a targeted capital charge on CRE 
+exposures to encourage banks to sell those assets.  
+The MNB proposed the creation of MARK in 2014, more than five years after the Global 
+Financial Crisis , because problem CRE loans continued to burden Hungary’s financial 
+institutions (IMF 2015a). After announcing MARK,  Hungary activated a targeted systemic-
+risk buffer , imposing a special capital charge on banks’ stock of commercial real estate 
+exposures. Hungary announced the activation of the buffer in 2015, but it would not become 
+effective until the beginning of 2017  in order to give banks an incentive to further reduce 
+exposures to problem loans and avoid the capital add-on (ESRB 2016).  
+The asset management company was not established alongside a recapitalization program.  
+2. Legal Authority (1): The MNB established MARK under its macroprudential policy 
+mandate.  
+The Hungarian central bank announced that it was establishing MARK under its 
+macroprudential mandate (Virág 2016). Act CXXXIX of 2013 on the National Bank of Hungary 
+requires that the MNB  adopt a macroprudential policy framework for the  stability of the 
+financial system. This framework should “help to mitigate or eliminate the systemic risks 
+that may already exist” and “introduce incentive measures to stimulate the credit market” in 
+the event of a negative shock (Act CXXXIX of 2013).  
+3. Legal Authority (2): The European Commission evaluated the asset purchase 
+program as it related to State aid rules , and in February 2016 , the Commission 
+confirmed that MARK did not constitute State aid.  
+Hungary submitted its plans for the asset purchase program to the European Commission in 
+October 2015. On February 10,  2016, the European Commission determined that MARK’s 
+asset purchase program  did not constitute State aid  (MNB 2015a; EC 2016 a; EC 2016 b). 
+Under EU law, Member states can implement different tools  to address problem assets but 
+can only use government funds to support banks that have been placed into resolution under 
+bank recovery and resolution rules (EC 2016b).  
+After examining MARK’s valuation and pricing methodology, the European Commission 
+confirmed that the assets would be purchased at market price (EC 2016a). If the government 
+were to pay above market price for nonperforming loans or charge guarantee fees lower 
+than a private market participant , the intervention would be considered State aid  (EC 
+2016b). By paying market price for assets, the asset purchase program did not constitute 
+State aid (EC 2016a).  
+762
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 9 ---
+4. Special Powers: It does not appear that the central bank delegated MARK with 
+special powers or authority.  
+In establishing MARK, it does not appear that the AMC received special authority to resolve, 
+restructure, or liquidate nonperforming assets.  
+5. Mandate: MARK had a mandate  to acquire nonperforming CRE assets and 
+maximize their recovery value.  
+The MNB established MARK to resolve nonperforming CRE assets  including loans and 
+property, with the goal of maximizing recovery (EC 2016a).  
+6. Communication: The MNB  publicly announced the launch of MARK’s  asset 
+purchase program via a press release and news coverage in order to communicate 
+to all eligible selling institutions.  
+The MNB sought to communicate to all eligible institutions that the asset purchase program 
+was launching. The MNB framed MARK as a cost-effective and efficient method for resolving 
+NPLs and incentiviz ing financial institutions to dispose of their problem CRE exposures  
+(MNB 2016e).  
+When the MNB launched MARK, it noted that the program was “clearly and fundamentally 
+distinguished from previous bad banks or asset management companies established within 
+the European Union, where capital relief had occurred in case[s] of banks in severe financial 
+distress” ( Virág 2016 ). The MNB further framed MARK as a model for other European 
+countries, as the MNB’s stated goal for MARK was to set “a successful precedent at the 
+European level set by the operation of MARK” (MNB 2016b).  
+7. Ownership Structure: MARK was wholly  owned by MNB, the central bank of 
+Hungary.  
+MARK was fully owned and funded by the Hungarian central bank and it received a bridge 
+loan from the MNB to finance its operations (OECD 2016). The MNB established MARK with 
+HUF 21.7 billion in equity (EC 2016a). When MARK began operating in 2016, the MNB noted 
+that MARK would initially rely on the central bank but would be operating entirely with 
+market funding in the medium -term, though it did not provide a specific timeframe  (MNB 
+2016a).  
+MARK established a wholly owned subsidiary, MARK Ingatlan Zrt..5, in order to manage real 
+estate trading and activities because repossessed commercial property was eligible for the 
+asset purchase program (EC 2016a). 
+ 
+5 “Ingatlan” translates to “real estate.”  
+763
+Hungary: Magyar Reorganizációs és Követeléskezel? Zrt (MARK Zrt.) Dreyer
+
+--- Page 10 ---
+8. Governance/Administration: MARK’s Board of Directors was comprised of MNB 
+officials, which concerned the IMF ; MARK was also subject to oversight, 
+supervision, and auditing.  
+The Hungarian central bank established MARK as an independent company without 
+operational links to the MNB ( IMF 2015a), though the MNB was its sole owner when it 
+launched. Hungary consulted with the IMF in 2015 on the establishment  and operations of 
+MARK (IMF 2015a; 2015b). The IMF raised concerns about the connection between the MNB 
+and MARK, noting that there was potential for conflicting policy goals (IMF 2015a). The IMF 
+later noted that MARK’s “governance and decision-making structure [was] dominated by the 
+MNB and its officials.” In addition to a Supervisory Board charged with oversight and audit, 
+MARK had a Board of Directors responsible for strategy. Both the Supervisory Board and the 
+Board of Directors had three members (IMF 2015b).  
+The Board of Directors of MARK was comprised of external members of the MNB’s Monetary 
+Council (IMF 2015b). From 2014 to 2016, Csaba Kandrác served as the Chairman and CEO 
+of MARK (IMF 2015b; MARK Zrt. 2016). He was succeeded by Gergely Fábián in 2016 (MARK 
+Zrt. 2016). Though the IMF recognized that including MNB officials on the Board of MARK 
+would defend the MNB’s interest as the sole shareholder, it noted that this composition 
+would not provide “sufficient insulation” from pressure from the MNB (IMF 2015a).  
+In addition to the oversight from the Supervisory Board, MARK’s portfolio selection process 
+was overseen by an independent auditor. Hungarian officials also committed to providing 
+the European Commission with  detailed information about ea ch asset purchase . MARK 
+agreed to provide an annual portfolio summary to the European Commission and provide 
+the annually audited balance sheet and income statement (EC 2016a). 
+9. Size: MARK had a target program size of HUF 300 billion in problem CRE assets at 
+market price, representing an estimated HUF 800 billion at book value.  
+The MNB set an objective for MARK to purchase HUF 300 billion in CRE assets at market 
+price for an estimated HUF 800 billion in bad debt at book value (IMF 2015a).  
+10. Funding Source: MARK was fully government funded, as it received a bridge loan 
+of HUF 300 billion from the Hungarian central bank loan to finance its asset 
+purchases; however, the European Central Bank prohibits national central banks 
+from providing any type of overdraft facility or credit facility to governments or 
+government institutions.  
+The MNB planned to provide the initial HUF 300 billion in funding for MARK in the form of a 
+bridge loan  (EC 2016 a). The central bank funding was provide d at a spread over the 
+monetary policy rate, and it was provided through the creation of reserve money in MARK’s 
+account—an action that has monetary implication and is prohibited by the European Central 
+Bank (ECB) (IMF 2015a; ECB 2017). In 2016, the ECB noted that the MNB funding for MARK 
+“constituted a violation of the monetary financing prohibition” and that the MNB should take 
+corrective action. The ECB prohibits EU national central banks from providing overdraft or 
+764
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 11 ---
+credit facilities to government agencies or institutions, as well as purchasing their issuances 
+of primary market debt instruments (ECB 2016).  
+Prior to the ECB’s decision, the IMF representatives engaged in providing technical 
+assistance on MARK recommended that the MNB rec onsider the funding for MARK. Rather 
+than MNB financing of MARK’s  acquisitions, it recommended that “the acquisitions b e 
+(partly) paid with bonds issued by MARK —possibly with a government guarantee” ( IMF 
+2015b). However, the Hungarian officials did not ultimately change the plans for MARK’s 
+initial financing but planned to refinance the loan in the market in the medium term ( MNB 
+2016a).  
+11. Eligible Institutions (1): Solvent Hungarian financial institutions and their  
+subsidiaries could voluntarily participate in the asset purchase program.  
+Solvent financial institutions or their subsidiaries that were active in Hungary, registered in 
+Hungary, or registered in the European Economic Area were eligible to participate in MARK’s 
+asset purchase program (EC 2016a).  
+12. Eligible Institutions (2): Participation in MARK was voluntary but the Hungarian 
+government incentivized participation through a targeted capital surcharge.  
+To encourage banks to dispose of problem CRE assets, the MNB announced a capital 
+surcharge on such assets ( ESRB 2016). The surcharge was to be implemented in 2017 and 
+the rate was dependent on the bank’s ratio of problem CRE assets to its capital (ESRB 2016). 
+The motivation behind the targeted capital surcharge was to address the “[s] ystemic risk 
+resulting from problem exposures  to the commercial real estate sector ” ( ESRB 2016). 
+Though MARK was designed as a voluntary program, this additional surcharge for holding 
+problem CRE loans could further incentivize banks to participate in the asset purchase 
+program.  
+13. Eligible Assets: Problem CRE loans and repossessed CRE property were eligible for 
+the asset purchase program.  
+MARK could purchase  NPLs collateralized by commercial real estate and commercial real 
+estate property that had been repossessed (EC 2016a).  
+For repossessed commercial real estate collateral to be eligible, the property was required 
+to be located in Hungary and have a market value of at least HUF 200 million (EC 2016a).  
+Nonperforming loans had to meet the following criteria in order to be eligible for transfer:  
+1. At least 80 percent of the collateral value was derived from commercial real estate in 
+Hungary, such as offices, hotels, retail projects, industrial projects, or land plots for a 
+commercial real estate development; 
+765
+Hungary: Magyar Reorganizációs és Követeléskezel? Zrt (MARK Zrt.) Dreyer
+
+--- Page 12 ---
+2. The borrower was not in default according to Article 178 of Regulation (EU) No 
+575/20136;  
+3. The total gross outstanding claim on the borrower was HUF 500 million or more;  
+4. The borrower was not undergoing liquidation or bankruptcy proceedings  (EC 
+2016a). 
+Loans issued to churche s and political parties were ineligible. Syndicated loans were also 
+excluded, as were properties related to the selling institution’s operations, such as its branch 
+or headquarters buildings (EC 2016a). 
+14. Acquisition – Mechanics: Participating institutions would submit a complete list of 
+their eligible assets to MARK, which would then randomly select a pool of assets to 
+purchase in each round; however, the sale would not be mandatory, and a financial 
+institution could decline the offer.  
+After MARK announced that it would begin acquiring assets, eligible institutions voluntarily 
+applied to participate in the asset purchase program. An institution that wanted to 
+participate was required to provide MARK with a list of its entire portfolio of eligi ble assets 
+as of the date of its application. Applicants were required to include the asset type 
+(repossessed CRE or CRE NPL) and the gross outstanding amount of each asset (EC 2016a).  
+MARK managed the pricing and acquisition process in rounds . Applicants provided MARK 
+with the entire list of eligible assets when applying, but in order to manage the acquisition 
+and pricing process, MARK would select, from each institution, a list of assets to be included 
+in the first portfolio MARK utilized a ran dom selection process to determine which assets 
+would be included in the portfolio. Each asset had a serial number, and MARK used a random 
+number generator to determine which assets to include. The random selection of assets 
+continued until the portfolio of assets from a single institution totaled at least HUF 50 billion 
+and consisted of at least 15 assets. A single asset could not account for more than 50% of the 
+total gross outstanding amount of the portfolio. This first portfolio would be offered for sale 
+within three months of the launch of MARK. If the participant agreed to proceed with the sale 
+of the portfolio, it had to provide MARK with specific details about the assets in the portfolio 
+and establish a data room for MARK . The rationale behind random  selection was to both 
+ensure that assets were purchased at market price and mitigate the risk of adverse selection 
+where an eligible entity would sell only the worst assets (EC 2016a).  
+After the pricing process was completed for the first portfolios of each participating 
+institution, an eligible participant  could offer its second portfolio  for sale to MARK . If an 
+institution declined MARK’s offer on its portfolio, all assets selected as a part of the portfolio 
+ 
+6 For the definition, see “Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 
+2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) 
+No 648/2012 Text with EEA relevance” at http://data.europa.eu/eli/reg/2013/575/oj.  
+ 
+766
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 13 ---
+were excluded in selecting subsequent portfolios (EC 2016a).  
+15. Acquisition – Pricing: MARK planned to purchase  portfolios of assets at market 
+price, which was determined by an independent valuer and was dependent on 
+asset type.  
+MARK developed a detailed pricing methodology to determine the theoretical market price 
+of the portfolio of purchased assets  in order to comply with EC requirements . Each eligible 
+asset was valued by an “independent valuer” selected by MARK.  Each valuation was required 
+to be performed in accordance with MARK’s Property Valuation Manual, which was based 
+on international valuation standards. Valuations were also required to follow the standards 
+based on the asset class of the eligible asset. Each valuation was reviewed in a due diligence 
+process by a validator, who assessed whether the valuation was made in conformance with 
+the Valuation Manual and methodology for that asset class. The validator also performed an 
+independent valuation using their own valuation software (EC 2016a).  
+MARK’s pricing methodology was multi-step. First, the independent valuer determined the 
+value of the underlying real estate collateral for NPLs or the value of the actual real estate 
+for CRE. The valuation depended on the type of CRE , which included offices in or outside of 
+Budapest, hotels in or outside of Budapest, land plot s, industrial projects, and retail 
+properties (EC 2016a).  
+Second, the value of the CRE was used as an input  to determine the theoretical maximum 
+price of the asset. For all assets, MARK deducted between 1 % and 8% from the real estate 
+valuation for operations and risk costs  and discounted the valuation using a weighted cost 
+of capital (WACC) of 7 % to 15% based on the expected time to sale.  These deductions and 
+discounts were used for repossessed CRE, while NPLs were subject to additional 
+adjustments. For an NPL, the theoretical maximum price was dependent on whether the loan 
+could be restructured. If the NPL could be restructured, MARK deducted 4 % to 10% for the 
+restructuring cost. If the NPL could not be restructured, MARK had to forecast if the NPL 
+could be enforced or liquidated. For NPLs that were to be liquidated, the maximum price was 
+calculated by deducting a liquidation cost between 9 % and 18%, depending on the asset 
+type. For enforced NPLs, the maximum price was equal to the real e state value less 6% to 
+13% for the enforcement cost (EC 2016a).  
+Beyond the calculation for each eligible asset, MARK calculated a maximum price, the “Cap 
+Price,” for each portfolio. This was equal to the sum of the gross outstanding amount of each 
+NPL in the portfolio and the gross outstanding amount of the original NPL at the time when 
+the CRE was repossessed. If the valuation under MARK’s methodology exceed ed the Cap 
+Price, the maximum price for the portfolio would be reduced to the Cap Price (EC 2016a).  
+MARK and the selling institution could negotiate the price of the portfolio as long as the final 
+price did not exceed the Cap Price . If an institution accepted the indicative offer, MARK 
+performed a second round of due diligence based on the information provided in a financial 
+institution’s data room to ensure that the assets had not deteriorated in a manner that would 
+lead the indicative offer to exceed market prices (EC 2016a).  
+767
+Hungary: Magyar Reorganizációs és Követeléskezel? Zrt (MARK Zrt.) Dreyer
+
+--- Page 14 ---
+16. Management and Disposal: MARK could use a variety of methods to manage and 
+dispose of its portfolio but ultimately never acquired any assets. 
+For nonperforming loans, MARK could restructure the loan, acquire the real estate collateral 
+through an arrangement with the borrower, or acquire the real estate collateral through 
+liquidation. MARK could sell assets in its portfolio, but it had to conduct sales in a transparent 
+and non-discriminatory manner (EC 2016a).  
+17. Timeframe: Though the MNB proposed a maximum 10-year timeframe for MARK, 
+the central bank sold MARK to a private investor  in 2017 in order to remedy its 
+violation of the ECB’s monetary financing prohibition. 
+The MNB proposed that MARK would operate for a maximum of 10 years ( MNB 2014a). If 
+MARK continued to hold assets  by the end of 2024,  or was still owned by the MNB, it was 
+required to sell all remaining assets and wind down or be privatized . Similarly, MARK 
+intended to sell all shares in M ARK Ingatla n, its subsidiary company for real estate 
+management, to private investors or float all shares of a stock by the end of 2024 (EC 2016a).  
+Because the ECB required the MNB to correct its violation of the monetary financing 
+prohibition, the MNB sold MARK through a private tender, and the winning bidder was APS 
+Investment s.r.o., a firm that specialized in distressed-debt management (MNB 2017b).  
+References and Key Program Documents 
+(Virág 2016) Virág, Barnabás. 2016. “Magyar Nemzeti Bank, the central bank of Hungary 
+Notification of the start of operation of MARK Zrt. to mitigate systemic risks stemming from 
+non-performing project exposures.” 
+A letter from the Executive Director of the MNB to the European Systemic Risk Board 
+announcing the launch of the asset purchase program.  
+https://ypfs.som.yale.edu/library/magyar-nemzeti-bank-central-bank-hungary-
+notification-start-operation-mark-zrt-mitigate. 
+(EC 2016a) European Commission. 2016. “State Aid SA.38843 (2015/N) – Hungary Asset 
+purchase programme by the Magyar Reorganizációs és Követeléskezelő Zrt., a Hungarian 
+Asset Management Company.”  
+The European Commission decision on the asset purchase program that details operations 
+and eligibility.  
+https://ypfs.som.yale.edu/library/state-aid-sa38843-2015n-hungary-asset-purchase-
+programme-magyar-reorganizacios-es. 
+Legal/Regulatory Guidance  
+(Act CXXXIX of 2013) Act CXXXIX of 2013 on the National Bank of Hungary. 
+Hungarian legislation from 2013 outlining the objectives and activities of the central bank. 
+https://ypfs.som.yale.edu/library/act-cxxxix-2013-national-bank-hungary. 
+768
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 15 ---
+Press Releases  
+(EC 2016b) European Commission. 2016. “State aid: Commission approves impaired asset 
+management measures for banks in Hungary and Italy.” 
+A press release from the European Commission announcing that the MARK asset purchase 
+program is not considered State aid.  
+https://ypfs.som.yale.edu/library/state-aid-commission-approves-impaired-asset-
+management-measures-banks-hungary-and-italy.  
+(MNB 2016a) Magyar Nemzeti Bank. 2016. “EU Permission on MARK Operation.”  
+The Hungarian central bank’s press release on the approval of MARK. 
+https://ypfs.som.yale.edu/library/eu-permission-mark-operation. 
+(MNB 2016e) Magyar Nemzeti Bank, 2016. “Twenty-three financial institutions registered 
+for MARK’s asset purchase programme with over HUF 300 billion exposure.” — A press 
+release from the MNB announcing the results of the registration for MARK’s asset purchase 
+program.  
+https://ypfs.som.yale.edu/library/twenty-three-financial-institutions-registered-marks-
+asset-purchase-programme-over-huf-300. 
+(MNB 2017b) Magyar Nemzeti Bank. 2017. “The MNB sells the asset manager of MARK Zrt.” 
+A press release from the MNB announcing the sale of MARK to APS Investment s.r.o. 
+https://ypfs.som.yale.edu/library/mnb-sells-asset-manager-mark-zrt. 
+(MARK Zrt. 2016) MARK Zrt. 2016. “Megerősített vezetés a pénzügyi stabilitásért.”  
+A press release in Hungarian about the leadership changes in MARK Zrt. 
+https://ypfs.som.yale.edu/library/megerositett-vezetes-penzugyi-stabilitasert.  
+(Swiss National Bank 2013) Swiss National Bank. 2013. “UBS purchases StabFund from the 
+SNB.”  
+A press release from the Swiss National Bank announcing the sale of StabFund to UBS. 
+https://ypfs.som.yale.edu/library/ubs-purchases-stabfund-snb.  
+Media Stories  
+(Reuters 2015) Reuters News. 2015. “Hungary to open up bad asset firm to private 
+investors.”  
+An article regarding the Hungarian central bank’s plans for MARK. 
+https://ypfs.som.yale.edu/library/hungary-open-bad-asset-firm-private-investors.  
+Reports/Assessments 
+(APS Holding S.A. 2017) APS Holding S.A. 2017. “Annual Report.”  
+The annual report from the holding company of APS Investment s.r.o. which purchased MARK 
+in 2017.  
+https://ypfs.som.yale.edu/library/annual-report-3.  
+(ECB 2016) European Central Bank. 2016. “Annual Report.”  
+The annual report from the ECB which raises concerns about the MNB/MARK violation of the 
+769
+Hungary: Magyar Reorganizációs és Követeléskezel? Zrt (MARK Zrt.) Dreyer
+
+--- Page 16 ---
+monetary financing prohibition.  
+https://ypfs.som.yale.edu/library/annual-report-2016.  
+(ECB 2017) European Central Bank. 2017. “Annual Report.”  
+The annual report from the ECB which raises concerns about the MNB/MARK violation of the 
+monetary financing prohibition.  
+https://ypfs.som.yale.edu/library/annual-report-2017.  
+(ECB 2018) European Central Bank. 2018. “Annual Report.”  
+The annual report from the ECB which noted that the MNB had corrected its violation of the 
+monetary financing prohibition.  
+https://ypfs.som.yale.edu/library/annual-report-2018.  
+(ESRB 2016) European Systemic Risk Board. 2016. “A Review of Macroprudential Policy in 
+the EU in 2015.”  
+A summary of macroprudential policy actions in EU countries in 2015. 
+https://ypfs.som.yale.edu/library/review-macroprudential-policy-eu-2015.  
+(MNB 2014b) Magyar Nemzeti Bank. 2014. “Annual Report.” 
+The Hungarian central bank’s annual report for 2014. 
+https://ypfs.som.yale.edu/library/annual-report-0.  
+(MNB 2015a) Magyar Nemzeti Bank. 2015. “Annual Report.”  
+The Hungarian central bank’s annual report for 2015. 
+https://ypfs.som.yale.edu/library/annual-report.  
+(MNB 2016b) Magyar Nemzeti Bank. 2016. “Annual Report.”  
+The Hungarian central bank’s annual report for 2016. 
+https://ypfs.som.yale.edu/library/annual-report-1 pdf . 
+(MNB 2017a) Magyar Nemzeti Bank. 2017. “Annual Report.”  
+The Hungarian central bank’s annual report for 2017. 
+https://ypfs.som.yale.edu/library/annual-report-2. 
+(MNB 2014a) Magyar Nemzeti Bank. 2014. “Financial Stability Report.” 
+ The Hungarian central bank’s report on financial stability as of November 2014. 
+https://ypfs.som.yale.edu/library/financial-stability-report-1. 
+(MNB 2015b) Magyar Nemzeti Bank. 2015. “Financial Stability Report.”  
+The Hungarian central bank’s report on financial stability as of May 2015. 
+https://ypfs.som.yale.edu/library/financial-stability-report-2.  
+(MNB 2015c) Magyar Nemzeti Bank. 2015. “Financial Stability Report.”  
+The Hungarian central bank’s report on financial stability as of November 2015. 
+https://ypfs.som.yale.edu/library/financial-stability-report.  
+770
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 17 ---
+(MNB 2016c) Magyar Nemzeti Bank. 2016. “Financial Stability Report.”  
+The Hungarian central bank’s report on financial stability as of May 2016. 
+https://ypfs.som.yale.edu/library/document/financial-stability-report-0.  
+(MNB 2016d) Magyar Nemzeti Bank. 2016. “Financial Stability Report.”  
+The Hungarian central bank’s report on financial stability as of November 2016. 
+https://ypfs.som.yale.edu/library/document/financial-stability-report-1. 
+(IMF 2015a) International Monetary Fund. 2015. “Hungary : Technical Assistance Report—
+Operational Aspects of Establishing an Asset Management Company.”  
+The first technical assistance report from the consultation between the Hungarian central 
+bank and the IMF on the operations of MARK.  
+https://ypfs.som.yale.edu/library/hungary-technical-assistance-report-operational-
+aspects-establishing-asset-management-0.  
+(IMF 2015b) International Monetary Fund. 2015. “Hungary : Technical Assistance Report—
+Operational Aspects of Establishing an Asset Management Company.”  
+The second technical assistance report from the consultation between the Hungarian central 
+bank and the IMF on the operations of MARK. 
+ https://ypfs.som.yale.edu/library/hungary-technical-assistance-report-operational-
+aspects-establishing-asset-management.  
+(IMF 2017) International Monetary Fund. 2017. “2017 Article IV Consultation—Press 
+Release; Staff Report; and Statement by the Executive Director for Hungary.”  
+An IMF report on economic developments in Hungary in 2017. 
+https://ypfs.som.yale.edu/library/2017-article-iv-consultation-press-release-staff-report-
+and-statement-executive-director. 
+(OECD2016) Organisation for Economic Co-Operation and Development. 2016. “OECD 
+Economic Surveys: Hungary 2016.”  
+An OECD report on economic and financial developments in Hungary. 
+https://ypfs.som.yale.edu/library/document/oecd-economic-surveys-hungary-2016.  
+(OECD 2019) Organisation for Economic Co-Operation and Development. 2019. “OECD 
+Economic Surveys: Hungary 2019.”  
+An OECD report on economic and financial developments in Hungary. 
+https://ypfs.som.yale.edu/library/document/oecd-economic-surveys-hungary-2019. 
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to 
+receive permission to reprint any or all of this document, please contact the Yale Program 
+for Financial Stability at ypfs@yale.edu.  
+771
+Hungary: Magyar Reorganizációs és Követeléskezel? Zrt (MARK Zrt.) Dreyer

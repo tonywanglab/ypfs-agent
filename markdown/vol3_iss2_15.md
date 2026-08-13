@@ -1,0 +1,390 @@
+# Mexico: FOBAPROA Capitalization and Loan Purchase of Bank Portfolio Program (CLPP)[1] 
+
+Manuel León Hoyos[2] Alexander Nye[3] 
+
+Yale Program on Financial Stability Case Study June 23, 2021 
+
+## **Abstract** 
+
+In December 1994, Mexico entered a financial crisis after a year of political turmoil, assassinations of high-level politicians, and a substantial depreciation of the peso. In 1995, following the economic contraction, the recently privatized banking sector experienced difficulties in meeting regulatory minimum capital requirements. The Mexican government received a $52 billion international financial package and enacted multiple programs to support the banking system. In the spring of 1995, through the Bank Fund for Savings Protection (FOBAPROA), the Capitalization and Loan Purchase of Bank Portfolio Program (CLPP) was introduced to provide new, permanent capital to Mexican banks. For banks that were able to secure private recapitalizations, FOBAPROA acquired twice the amount in nonperforming loans. Between 1995 and 1996, 11 banks participated in the program, which purchased nonperforming assets with a book value of MXN 142 billion for MXN 119 billion ($18.1 billion for $15.6 billion in end-1996 US dollars). By 1997, the Mexican financial system had stabilized, but the banking sector was still struggling when FOBAPROA was discontinued in 1999. The CLPP ameliorated the situation, but it remained a highly controversial program and some commentators were not sure whether it did enough to revive the Mexican economy. 
+
+**Keywords:** Mexico, crisis, FOBAPROA, capitalization, loan purchase, asset management 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based asset management company programs. 
+
+> Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+> 3 Research Associate, YPFS, Yale School of Management. 
+
+
+## Mexico: FOBAPROA Capitalization and Loan Purchase of Bank Portfolio (CLPP) 
+
+## **At a Glance** 
+
+Mexico completed the privatization of its banking sector in 1992. The North American Free Trade Agreement (NAFTA) with the US and Canada went into force in 1994, and foreign inflows increased substantially. The debt of Mexican banks to foreign banks increased from $8 billion in 1991 to $16.5 billion in 1994. 
+
+In December 1994, Mexico entered a financial crisis after a year of political turmoil, assassinations of high-level politicians, and a substantial depreciation of the peso. Mexican international reserves fell from $29 billion in February 1994 to $6 billion in December. 
+
+As the economy contracted, recently privatized banks increased provisions for nonperforming loans (NPLs), pushing their capital below regulatory minimums. The government, the Bank of Mexico, the private sector, and labor groups initially responded by announcing a program on January 3, 1995. The program, known as the Agreement of Unity to Overcome the Economic Emergency (in Spanish, Acuerdo de Unidad para Superar la Emergencia Económica), committed the government to austerity to allow Mexico to access an International Monetary Fund (IMF) StandBy Arrangement and reassure foreign investors (GAO 1996, 134). 
+
+Under the program, Mexico promised, among other things, that it would halve the ratio of its current account deficit to GDP, 
+
+||Summary of Key Terms<br>Purpose: To recapitalize solvent banks whose capital<br>was below regulatory minimums due to the<br>deterioration of their loan assets.<br>Launch Dates<br>March<br>1995<br>(Announcement), May 1995<br>(Start ofoperations)<br>Wind-Down Date<br>No initial wind-down date, but|Summary of Key Terms<br>Purpose: To recapitalize solvent banks whose capital<br>was below regulatory minimums due to the<br>deterioration of their loan assets.<br>Launch Dates<br>March<br>1995<br>(Announcement), May 1995<br>(Start ofoperations)<br>Wind-Down Date<br>No initial wind-down date, but|
+|---|---|---|
+||Size and Type of<br>NPL Problem<br>Program Size|FOBAPROA was dissolved in<br>1999<br>8.27% of all loans in the<br>banking system in 1994 and<br>27% of all loans as of<br>September 1995. The loans<br>appeared to beheterogeneous<br>Not specified; contingent on|
+||Eligible Institutions|amount of capital injected by<br>shareholders (2 pesos of loans<br>purchased perpesoinjected)<br>Determined case by case by<br>the National Banking and<br>Securities<br>Commission|
+|||(CNBV). Eligibility contingent<br>on injection of new capital by<br>shareholders|
+||Usage|Assets with a book value of<br>MXN 142 billion purchased for|
+|||MXN 119 billion|
+||Outcomes|Estimated cost of MXN 97,000|
+|||million,<br>though<br>improved|
+|||provisioning among banks|
+||Ownership|Government owned|
+||Structure||
+||Notable Features|Loss-sharing and purchase|
+|||based on provisioning for|
+|||NPLs|
+
+
+
+then at 8%, and lower annual inflation by 30% to around 9% by the end of 1995 (IMF 1995; IMF 1995a). It resolved to make good on these promises by way of an austerity budget, which projected a 0.5% of GDP fiscal surplus for 1995 (compared with a balanced position for 1994) and a 3.4% primary surplus for 1995 (compared with 2.6% in 1994). The program also put the Bank of Mexico on the path to monetary tightening and cut credit expansion in the financial sector. The Bank of Mexico resolved to limit the growth of its net domestic 
+
+
+assets to MXN 10 billion[4] in 1995 (compared with MXN 60 billion in 1994). Development banks promised to cut their rate of credit expansion by over one half. The government also announced that it would recapitalize banks with capital ratios below the 8% minimum (IMF 1995, 63). In return for austerity policies, the IMF agreed to provide a $17.8 billion rescue package (announced on January 26, 1995) and the US proposed a guarantee on Mexican sovereign debt (IMF 1995, 54–55). This was to be the largest Stand-By Arrangement in the history of the IMF (IMF 1995, 57). 
+
+In February 1995, the government announced a temporary bank recapitalization program linked to the provision of liquidity and more stringent capital requirements[5] (World Bank 1995, 17). The liquidity program provided collateralized dollar loans to banks having trouble meeting their maturing obligations (GAO 1996, 144). The government introduced the Temporary Capitalization Program (PROCAPTE) in February 1995 (World Bank 1995, 50– 51, 98). Its objective was to temporarily capitalize banks that, owing to economic conditions, were unable to recapitalize themselves (Mackey 1999, 65; World Bank 1995, 50–51, 97. The temporary program aimed to signal financial markets that the Mexican government would support the banking system. 
+
+On March 31, 1995, six banks received a total of $950 million in PROCAPTE capital (Bloomberg News 1995). To attract new private investors, the Mexican Congress also modified banking laws to allow foreign banks to take control of troubled domestic banks (World Bank 1998, 10). The main bank of concern was Bank Probursa, which had a riskweighted capital ratio of approximately 7.2% and a provisioning percentage for bad loans of 48%. It was given two months to meet an 8% capital ratio target in anticipation of an agreement with the Spain’s Banco Bilbao Vizcaya (BBV). BBV was already an important shareholder, owning 22% of Probursa stock. It offered to make a $200 million capital infusion to raise its stake above 50%, but the purchase could not occur without the removal of some NPLs from the bank (Bloomberg News 1995; Bloomberg News 1995a; MXBU 1995; World Bank 1995, 50–51). 
+
+Markets understood these programs to be too limited in scope, and foreign capital continued to flee Mexico through March. The Mexican government announced an internationally backed comprehensive economic program on March 9 to stop capital flight and rehabilitate the financial system. To facilitate the permanent recapitalization of the banks and to allow BBV’s purchase of Bank Probursa to proceed, the Bank Fund for Savings Protection (FOBAPROA) introduced the Capitalization and Loan Purchase of Bank Portfolio Program (CLPP). FOBAPROA was Mexico’s equivalent to the United States’ Federal Deposit Insurance Corporation (FDIC), having been created in 1990 in the wake of Mexico’s last major round of debt restructuring (World Bank 1995, 96). It also could serve as a lender of last resort for banks. 
+
+Under the CLPP, FOBAPROA incentivized the recapitalization of banks by their shareholders or other outside actors by purchasing 2 pesos in NPLs for each peso of new capital injections that shareholders brought in. FOBAPROA bought the nonperforming loans with 10-year, 
+
+> 4 Exchange rate of March 31, 1995, was Mexican pesos (MXN) 6.82 = $1 USD (FRED 2020). 
+
+> 5 On February 22, 1995, the National Banking and Securities Commission required banks to increase their provisions to the higher of: (a) 4% of the loan portfolio; or (b) 60% of nonperforming loans (NPLs); or (c) provisions required from quarterly loan classifications under previous rules. Multiple banks were unable to meet the regulatory capital target after increasing their provisions to meet this requirement (Mackey 1999, 65). In early March 1995, the average reserves for NPLs were about 47.5% (WSJ 1995). 
+
+
+zero-coupon, nontransferable promissory notes at a discount equivalent to book value of the loan, minus any prior provisions for loan losses. 
+
+Negotiated on a case-by-case basis with each bank, FOBAPROA and the banks shared responsibility for loan losses on the purchased NPLs. Under these loss-sharing arrangements, banks committed to pay 20%–30% of any losses FOBAPROA incurred on their NPLs after 10 years. Between 1995 and 1996, a total of 11 banks participated in three waves of asset purchases. FOBAPROA ultimately purchased nonperforming loans with a book value of MXN 142 billion for a price of MXN 119 billion (World Bank 1998, 4, 11). The CLPP delegated asset management responsibilities to the banks themselves, though there was a brief attempt to have FOBAPROA manage and dispose of the assets. See Figure 1 for approximate figures assembled from various sources; documentation on participation in the CLPP was limited, so there were data quality difficulties. 
+
+[FIGURE id=vol3_iss2_15_f1 type=figure label="Figure 1" file=figure_1.png caption="FOBAPROA Capitalization and Loan Purchase of Bank Portfolio Program"]
+### **Figure 1: FOBAPROA Capitalization and Loan Purchase of Bank Portfolio Program**
+
+|**Bank**|**% of Mexican**<br>**Banking Assets**|**Date**|**Times FOBAPROA**<br>**Acquired NPLs**|**Amount in Mexican**<br>**Pesos(MXN)**|
+|---|---|---|---|---|
+|Banamex|20%|Dec. 1995|Once|28.6 billion for 23.0 billion|
+|Bancomer|17%|Jan. 1996|Once|30.1 billion for 23.6 billion|
+|Serfin|12%|June 1995<br>Apr. 1996|Twice|28.5 billion for 24.9 billion|
+|Atlantico|6%|Sep. 1995|Twice|7.1 billion for 6.0 billion|
+|Mexicano|6%|Unclear|Once|8.4 billion for 6.9 billion|
+|Bital|5%|June 1996|Twice|8.8 billion for 7.5 billion|
+|Banorte|2%|Oct. 1995|Twice|4.1 billion for 3.6 billion|
+|Confia|2%|Mar. 1996|Once|6.6 billion for 6.0 billion|
+|Promex|2%|Sep. 1995|Twice|3.4 billion for 3.0 billion|
+|Bancrecer|n/a|Sep. 1995<br>June 1996||15.4 billion for 14.0 billion|
+|Probursa|n/a|May 1995<br>Jan. 1996<br>July1996|Three times|9.3 billion for 7.6 billion|
+
+
+
+## _Sources: Cypher 1996; Graf 1999; World Bank 1998, Annex A and B._ 
+
+On April 26, 1996, the government created a subsidiary of FOBAPROA called the Valuation and Sale of Assets (VVA), in order to sell the nonperforming loans FOBAPROA had acquired. The first trial asset auction was conducted in July 1997, and assets totaling approximately MXN 132 million[6] were sold at an average of 50% of their nominal value (Graf 1999, 173; Mackey 1999, 49). 
+
+> 6 Sources report different numbers: Graf (1999, 173) reports US$135 million, while the World Bank (1998, 16) reports MXN 132 million. 
+
+
+The VVA never became fully functional, and after the first trial auction in July 1997, it was disbanded[7] and its responsibilities absorbed by FOBAPROA (Graf 1999, 173; World Bank 1998, 16). There were multiple reasons for this liquidation: the VVA simply did not have the resources necessary to quickly and efficiently sell off assets; additionally, any asset sales completed “at less than their acquisition prices would begin to reveal the fiscal cost of the FOBAPROA loan purchase and recapitalization program” (World Bank 1998). Successful sales would also have revealed the amount of loss-sharing banks owed on their assets, and “‘fire sales’ of VVA assets might create benchmarks for valuing the assets remaining on banks’ books, with possible negative implications for capital adequacy” (World Bank 1998, 16). 
+
+Afterwards, some of the VVA’s responsibilities were assumed by the newly created FOBAPROA Recovery Sub-Committee. The Recovery Sub-Committee had two objectives: maximizing asset recovery on loans greater than MXN 50 million. 
+
+In 1998, after intensive debates in the Mexican Congress, the government recognized the promissory notes issued by FOBAPROA as public debt. In early 1999, FOBAPROA’s assets were transferred to a new deposit insurance agency, the Bank Savings Protection Institute (IPAB). The government empowered IPAB to deal with failed banks’ assets (Calomiris, Klingebiel, and Laeven 2004, 37). 
+
+## **Summary Evaluation** 
+
+By 1997, the Mexican financial system had stabilized, but the banking sector was still struggling when FOBAPROA was discontinued in 1999 (Honohan and Laeven 2005, 50–53). An independent audit report commissioned by the Mexican government concludes that FOBAPROA was “insufficient in dealing with the magnitude of the crisis due to resources available and allocated to the department by the Technical Committee, and this situation was not remedied until April of 1997” (Mackey 1999, 188). Even after this point, when the government replaced FOBAPROA’s management, it was difficult to alter existing processes in favor of best practices (Mackey 1999, 188). On a more positive note, Mackey notes that the Technical Committee (the decision-making body of the FOBAPROA trust, which had a significant role in the CLPP) generally “appeared to have operated in consideration of due process” (Mackey 1999, 183). 
+
+The CLPP was the most controversial government program of the crisis. In fact, a MXN 700 million portion of the loans may have been acquired by FOBAPROA illegally, which created complaints about the perceived corruption of the institution (De Luna-Martinez 2000, 38; Mackey 1999, 212–15). A small portion of the nonperforming loans accounted for a large share of the loans FOBAPROA purchased (Graf 1999, 172). A significant portion of the purchased loans also was made to Mexican corporations and households that were solvent (De Luna-Martinez 2000, 38). 
+
+The World Bank states that although the CLPP attracted new capital, that did not prove to be enough, and the program missed opportunities to eliminate nonviable banks (1998). Banks may not have been incentivized to recover the loans purchased by FOBAPROA, since the final share of the losses could be less than the costs of recovery and banks were not necessarily motivated to play the role of debt collector (Graf 1999, 172). The World Bank also states that “estimates of the ultimate costs of steps taken by the government were imprecise due to the continued lack of reliable data on the condition and performance of assets acquired by 
+
+> 7 Calomiris, Klingebiel, and Laeven (2004) offer conflicting information: they write that the VVA was disbanded and merged with FOBAPROA in June 1997. 
+
+
+FOBAPROA, and . . . most private analysts expected the costs to exceed the government’s estimates” (World Bank 1998, 17–18). 
+
+Other criticisms include the fact that banks were allowed to offer up their worst loans for purchase by FOBAPROA (Graf 1999, 172). Some critics also cite the decision to make FOBAPROA’s promissory notes nontransferable. Graf states that “the paper [could] not be sold, and [did] not accrue income flow (interest [was] capitalized), so banks became highly illiquid and profits remained weak” (Graf 1999, 172). Some commentators describe the asset transfer procedures as an opaque process that created perceptions that some banks were treated more favorably than others (Calomiris, Klingebiel, and Laeven 2004, 36; Mulás 2001). 
+
+FOBAPROA casts a large shadow over Mexico’s post-1990 political economy (Calomiris, Klingebiel, and Laeven 2004, 37). Honohan and Laeven allege that the most important takeaway of FOBAPROA is that “political-economy factors can have an enormous impact on the success of government policies through the corruption of the recapitalization process, and that recapitalization and asset resolution programs per se do not encourage a restart of lending, especially in a country in which imprudent lending behavior and politicallyconnected lending are widespread” (Honohan and Laeven 2005, 51–52). 
+
+
+|**Economic Context: Mexico, 1994–1995**|**Economic Context: Mexico, 1994–1995**|
+|---|---|
+|**GDP**|$529.4 billion in 1994<br>$357.8 billion in 1995|
+|**GDP per capita**|$5,854 in 1994<br>$3,928in 1995|
+|**Sovereign credit rating (five-year senior**<br>**debt)**|Data for 1994:<br>Fitch: N/A<br>Moody’s: Baa1<br>S&P: A+<br>Data for 1995:<br>Fitch: N/A<br>Moody’s: Baa3<br>S&P: BBB+|
+|**Size of banking system**|$172.2 billion in total assets<br>in 1994<br>$119.5 billion in total assets<br>in 1995|
+|**Size of banking system as a percentage of**<br>**GDP**|32.5% in 1994<br>33.4% in 1995|
+|**Size of banking system as a percentage of**<br>**financial system**|N/A|
+|**Five-bank concentration of banking system**|~61% of total banking assets<br>in 1995|
+|**Foreign involvement in banking system**|4% of total banking assets in<br>1994<br>5% of total banking assets in<br>1995|
+|**Government ownership of banking system**|53% in 1995|
+|**Existence of deposit insurance**|1994: 100% of deposits and<br>all bank liabilities (excepting<br>subordinated debt)<br>1995: 100% of deposits and<br>all bank liabilities (excepting<br>subordinated debt)|
+|_Sources: Bloomberg; Cull, Martinez Peria, and Verrier 2018; Graff 1999; Haber and_<br>_Musacchio 2013; Musacchio 2012._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Part of a Package: Mexican authorities established the CLPP under the Bank Fund for Savings Protection (FOBAPROA) as part of its internationally funded program to mitigate the effects of the peso crisis on the banking system.** 
+
+The Mexican government announced an internationally backed comprehensive economic program on March 9, 1995. Part of this program went toward FOBAPROA’s Capitalization and Loan Purchase of Bank Portfolio Program (CLPP). 
+
+The headline components of the program elaborated the various austerity policies detailed in the Mexican government’s January 3, 1995, proposal, pairing it with enhanced international assistance. Under the arrangement, the International Monetary Fund (IMF) agreed to provide $17.8 billion in stand-by credit (including the already announced $7.8 billion), the US would provide $20 billion, various central banks would provide $10 billion through the Bank for International Settlements (BIS), and various commercial banks would provide $3 billion. The program also strengthened the social safety net (World Bank 1995, 2) and continued support for the Temporary Capitalization Program (PROCAPTE), the first government recapitalization, announced in February. 
+
+The Mexican government also announced a program that restructured bank loans to small and medium-sized enterprises (SMEs) on March 10, 1995. Under this program, the government and the Mexican Association of Bankers extended the maturities of existing loans up to 12 years, with the new loans being denominated in inflation-indexed units. A total of MXN 65 billion in SME loans were eligible, representing 12% of the country’s commercial bank loans (BBC Monitoring Service: Latin America 1995). 
+
+**2. Legal Authority: The Capitalization and Loan Purchase of Bank Portfolio Program was established using the legal authority associated with the 1990 creation of the FOBAPROA.** 
+
+The CLPP was established by FOBAPROA, which itself was created in 1990 as a trust under the administration of the Bank of Mexico. FOBAPROA served as a mechanism for providing preventive support to commercial banks and to protect savings. FOBAPROA was governed by Article 122 of the Credit Institutions Law (Ley de Instituciones de Crédito), the main statute governing banks’ activities (World Bank 1995, 96). It was the government agency responsible for dealing with bank insolvencies (Graf 1999, 170). It also provided bank restructuring, deposit insurance, insurance of other bank liabilities,[8] and in some cases, lender of last resort services (World Bank 1995, 50). 
+
+The CLPP itself did not involve a new or unique legal framework. FOBAPROA simply created the CLPP using the powers given to it by the Credit Institutions Law. FOBAPROA required that banks create trusts, transfer their interests in the designated loans to those trusts, and then set the beneficiary of the trusts to be FOBAPROA (Mackey 1999, 68). 
+
+> 8 FOBAPROA went beyond simple deposit insurance. It provided a blanket guarantee of all unsubordinated liabilities of the commercial banks. This guarantee came into being in 1990. FOBAPROA had broad powers to extend credit to banks to permit them to meet their obligations to depositors and other liability holders (World Bank 1995, 16). 
+
+
+The Valuation and Sale of Assets (VVA) agency, another body created to deal with nonperforming loans (NPLs), also did not have a specialized legal framework. It was set up as a subsidiary of FOBAPROA under Article 122 (Graf 1999, 173). 
+
+## **3. Special Powers: The CLPP and VVA had no special powers.** 
+
+Neither institution had special powers. 
+
+## **4. Mandate (1): FOBAPROA’s CLPP was introduced in the spring of 1995 to provide permanent capital to solvent banks that were near or below minimum capital requirements due to weakening loan assets.** 
+
+The CLPP purchased NPLs from banks if they were able to raise private capital (Mackey 1999, 22). 
+
+FOBAPROA had a broader mandate. It provided a blanket guarantee for all unsubordinated bank liabilities, enforced bank restructuring, supervised banks, and provided liquidity as a lender of last resort (Graf 1999, 170; World Bank 1995, 16–17, 50, 96). Some of the FOBAPROA’s objectives, as outlined by the Ministry of Finance, included: limiting the risk of bank runs and preserving financial stability, protecting depositors and bank creditors, supporting the liquidity and solvency of institutions, minimizing fiscal costs by allocating them over time, and attracting foreign banks (Graf 1999; Mackey 1999, 27). 
+
+Later studies argue that the division of responsibilities between the VVA and the rest of FOBAPROA was poorly defined, complicating their relationship (Calomiris, Klingebiel, and Laeven 2004, 36; Mulás 2001, 161). 
+
+## **5. Mandate (2): The Mexican government established the VVA agency to administer and sell remaining assets from the CLPP.** 
+
+In April 1996, Mexican authorities established the Valuation and Sale of Assets agency. Its mandate had several components. First, it was to maximize the government’s return on FOBAPROA’s assets through the sale of said assets. Second, it was to develop strategies for selling the assets that would support the recovery of viable entities associated with the loans. Third, it was to encourage the Mexican economy to develop a secondary market for the sale of bank debt (Mackey 1999, 49–50). 
+
+## **6. Communications: FOBAPROA did not appear to have a particular communications strategy, as a whole or under the CLPP.** 
+
+The organization did not appear to have an external communications strategy and did not release detailed reports for the public. It appeared to have issues related to limited communications between some of its own departments (Mackey 1999, 186). FOBAPROA appeared to publish very little, and the scope of said material appeared to be narrow. 
+
+## **7. Ownership Structure: FOBAPROA was a trust set up by the Bank of Mexico and was thus government owned.** 
+
+The CLPP was an initiative by FOBAPROA, which itself was set up as a publicly owned and controlled entity (Graf 1999, 170). 
+
+
+## **8. Governance/Administration: FOBAPROA administered the CLPP.** 
+
+The CLPP did not have its own administrative apparatus; it was merely a program of FOBAPROA. 
+
+The Bank of Mexico administered the daily operations of FOBAPROA. Meanwhile, FOBAPROA’s policy decisions were made by its nine-member Technical Committee. Four were from the Ministry of Finance, one of being the minister. Three were from the Bank of Mexico, one being the governor. And two were from the CNBV (the National Banking and Securities Commission, a dependency of the Ministry of Finance), one being the president. The chairman of the Technical Committee was from the Ministry of Finance and had the deciding vote (Mackey 1999, 20; World Bank 1995, 96). The CNBV was the only agency with complete access to bank information. It was mainly the CNBV, with assistance from FOBAPROA’s staff, that prepared the technical documents that set the foundation for many of the Technical Committee’s decisions. The Bank of Mexico acted as the trustee of FOBAPROA, responsible for carrying out the Technical Committee’s resolutions, and signed all agreements involving FOBAPROA’s financial assistance (Mackey 1999, 20). 
+
+## **9. Size: FOBAPROA’s CLPP did not have a specified size, though 11 banks participated in the program.** 
+
+The size of the CLPP was entirely dependent on the extent to which each participating bank was able to attract new capital. For each peso a bank was able to attract in new equity (including mandatory convertible subordinated debt), FOBAPROA acquired an amount of NPLs roughly equal to 2 pesos. This diluted the interest in the bank represented by its original shares (World Bank 1998, 4). In the case the bank issued nonconvertible subordinated debentures, FOBAPROA acquired an equal amount of NPLs (Bank of Mexico 1998, 157). 
+
+Over the life of the program, between 1995 and 1996, new and committed capital in the form of equity and subordinated debt totaled MXN 63.3 billion (approximately $20 billion face value) (largely from existing shareholders and foreign financial institutions), and gross loan purchases by FOBAPROA totaled MXN 142 billion (MXN 119 billion net of reserves for loan losses) (World Bank 1998, 4, 11).[9] An analysis in 1999 describes the face value of FOBAPROA’s assets growing from $11 billion in 1996 to $32 billion at the end of 1998. It also estimates the total cost of FOBAPROA’s banking rescue programs at between $55 billion and $65 billion (McQuerry 1999, 22). This included programs like a toll road bailout and various debtor rescue schemes. The loans sold to FOBAPROA represented approximately 30% of these banks’ total loans (Graf 1999, 172). 
+
+## **10. Funding Source: FOBAPROA was financed by monthly contributions from banks based on their liabilities. It could borrow from the Ministry of Finance and the Bank of Mexico.** 
+
+FOBAPROA’s operations were financed by monthly contributions from banks set at between 0.3% and 0.5% of their liabilities (though it could be raised to 0.7% in extraordinary situations). It could borrow from the Ministry of Finance and the Bank of Mexico (World Bank 1995, 50, 96). 
+
+> 9 At 1996 year-end, the total net value was MXN 119.3 billion (MXN 141.9 billion gross value). With the CLPP, bank capital increased by 158% from its December 1994 level (Bank of Mexico 1997, 136). 
+
+
+FOBAPROA’s NPL purchases under the CLPP were funded through the issuance of 10-year nontradable, zero-coupon promissory notes backed by the Mexican government. These promissory notes did not initially count as public debt on the Mexican government’s balance sheet (Graf 1999, 171–72), and the issuance of these notes had no effect on the monetary base (Bank of Mexico 1998, 157). The interest rate on the notes was below normal lending rates. When denominated in pesos, the interest rate was equal to that of the three-month Treasury bill. When denominated in US dollars, the interest rate was equal to the London interbank offered rate plus 400 basis points (Graf 1999, 171). 
+
+## **11. Eligible Institutions: Mexican authorities decided eligibility on a case-by-case basis.** 
+
+The CNBV determined on a case-by-case basis if a bank’s management was adequate to be eligible. Only in exceptional cases were changes in management and control required. Shareholders had to show significant financial commitment, and the bank had to undergo a management audit by an independent accounting firm and commit to improve its management, systems, and internal controls (World Bank 1998, 11). 
+
+FOBAPROA negotiated participation limits with each bank individually. Banks entered the CLPP by way of an agreement with FOBAPROA. 
+
+Overall, banks met the capital commitments stipulated in their agreements to enter the CLPP. When a bank failed to meet this requirement, FOBAPROA provided extensions or allowed minor shortfalls, based on market conditions in the particular case. If a bank failed to meet the requirement significantly, it was subject to further capitalization under the government’s Intervention and Rehabilitation program. Loans to be excluded or disclosed (under the first round of agreements) were in fact correctly excluded or disclosed, with only minor gaps in reserve determinations (Mackey 1999, 192). 
+
+Shareholders did not always completely fulfill the requirement to inject capital. Either they could not obtain the funds (or could not by a given deadline), or the sources were not acceptable by the program rules (Mackey 1999, 193). 
+
+The CLPP was originally designed to facilitate Banco Bilbao Vizcaya’s acquisition of Bank Probursa. However, other Mexican banks, given their poor financial conditions, requested to be included in this mechanism to raise their capitalization levels. Therefore, the CLPP was extended to stronger banks to avoid competitive disadvantages among private banks (World Bank 1998, Annex E, 10). Eventually, 11 banks participated in the program (see Figure 1). 
+
+A number of banks also participated in the program more than once. 
+
+## **12. Eligible Assets: Banks could decide which loans FOBAPROA acquired.** 
+
+Banks were able to select the worst loans for transfer and purchase (Graf 1999, 172–73). When the first program was instituted, the following loans were not accepted in the CLPP: “(a) loans rated ‘E’ (loans past due); (b) loans held by companies in bankruptcy or suspension of payments; (c) loans discounted with development institutions; (d) loans denominated in inflation-linked currency units (UDIs); and (e) related party loans” (Mackey 1999, 70). 
+
+Financial authorities did not anticipate the magnitude of the crisis and the challenges in implementing the CLPP. As the condition of the commercial banks worsened, the Technical Committee modified its criteria to accept loans that had been previously excluded. Amendments were made to the first round of loan purchases, and variations were negotiated 
+
+
+with each bank. These amendments retroactively impacted the first round of asset purchases (both the assets selected and the terms under which said assets were purchased). As a result, differing results occurred at each bank. The process for the second round was adjusted to prevent this from happening again (Mackey 1999, 70–71). As part of these liberalized rules, FOBAPROA acquired interests in the loans of related parties, which might have created a perception that certain politically connected debtors received favorable treatment. CNBV and FOBAPROA wrote that no loans to controlling shareholders had been accepted in the purchased portfolios (Mackey 1999, 192). 
+
+When the Technical Committee realized that the economic recovery was proceeding more slowly than expected, it decided to modify the program guidelines that excluded certain types of loans from the portfolio purchases (Mackey 1999, 192). 
+
+At the program’s peak, FOBAPROA owned more than 50% of the loans in the Mexican banking system. Many of the assets that were eventually transferred to FOBAPROA were corporate and politically connected loans, making them difficult to resolve (Calomiris, Klingebiel, and Laeven 2004, 36; Mulás 2001, 161–62). 
+
+Guillermo Rosas, a political science professor at Washington University in St. Louis, mentions that “bank managers . . . transferred their worst portfolio to FOBAPROA, which ended up paying hefty amounts for worthless assets . . .” (Rosas 2009, 74). 
+
+## **13. Acquisition (Pricing 1): Under the CLPP, FOBAPROA acquired NPLs at abovemarket value.** 
+
+This was the net book value (book value minus provisions for loan losses). The CNBV set the criteria for loan valuation as well as the appropriately reserved values (or fair value) (Mackey 1999, 70–71). 
+
+External auditors, FOBAPROA, and the CNBV had 90 days to value and accept loans. Due to the vast amount of loans in the purchased portfolios, this timeframe was impractical (Mackey 1999, 192). As a result, there were many delays and the initial asset purchases took two years to complete (Mackey 1999, 192–93). 
+
+During the second round of purchases, FOBAPROA and the CNBV redirected the work of external auditors away from valuation. The external auditors now worked on verifying the existence and validity of loans instead. FOBAPROA now largely valued the assets based on criteria set by the CNBV (Mackey 1999, 71). 
+
+## **14. Acquisition (Pricing 2): FOBAPROA negotiated loss-sharing agreements with each participating bank; these agreements were eventually backed by the building up of FOBAPROA-required “loss-sharing reserves” in participant banks.** 
+
+The loss-sharing arrangements were made on a case-by-case basis. Banks generally were responsible for between 20% and 30% of the liability coming from the sum not collected from a bank’s acquired NPLs when the FOBAPROA promissory notes matured (after 10 years) (Bank of Mexico 1998; Graf 1999; OECD 1998, 84). The government covered the remainder of this loss. 
+
+FOBAPROA set up the loss-sharing arrangements to reduce the moral hazard associated with the CLPP and with the fact that banks were largely expected to manage their own former assets for the benefit of FOBAPROA (World Bank 1998, Annex E, 9). 
+
+
+Under agreements with FOBAPROA, banks agreed to set aside loan-loss reserves to reflect the losses they expected to incur under the loss-sharing arrangements. However, following a review of the first round of CLPP purchases (which took place over the course of 1995), FOBAPROA and the CNBV found that some banks would not be able to meet minimum capital ratio requirements if they set aside reserves based on the methodology used in the agreements (Mackey 1999, 71). The three groups (FOBAPROA, CNBV, and the banks) then entered into negotiations to modify their agreements. These modifications sought to lower the authorities’ loan-loss reserve expectations (Mackey 1999, 71). 
+
+In 1998, the Mexican authorities were concerned that banks had not set aside sufficient loanloss reserves to cover losses they were likely to bear under the FOBAPROA loss-sharing arrangements (Mackey 1999, 71). They noticed that the participating banks had not been revising the value of the loans bought by the trusts under CLPP in spite of a requirement to do so quarterly (Mackey 1999, 185). On February 25, 1998, the Mexican authorities ordered the banks to establish “loss-sharing reserves,” instructing them either to create contingent reserves on “a straight line basis over a term of eight years from July 1, 1998, or to establish these reserves over ten years from the start of the program at the bank” (Mackey 1999, 71). The specific motivation for this order, beyond improving provisioning, is not known. 
+
+The CLPP also integrated incentives allowing any value collected by banks on the loans beyond the value of the bonds the banks received from FOBAPROA to be kept by the banks (OECD 1998, 84). 
+
+## **15. Acquisition (Mechanics): FOBAPROA acquired its interest in transferred NPLs by becoming the beneficiary of trusts that acquired interests in the cash flows of NPLs.** 
+
+FOBAPROA itself did not directly acquire the NPLs. FOBAPROA issued 10-year nontradable promissory notes backed by the Mexican government as consideration for the NPLs. However, the NPLs themselves remained with the banks. Instead, trusts, under which FOBAPROA would be the beneficiary, acquired interests in the cash flows of the NPLs. As the banks collected on the loans, the proceeds flowed to the trust, which then used the funds to pay off the promissory notes (Mackey 1999, 69). 
+
+The NPL purchases were carried out in two rounds. The first began in 1995, and the second began in 1996. Due to several problems, none of the purchases in the first round were closed or completed until the summer of 1997 (Mackey 1999, 70, 192). First, banks were unable, in some instances, to meet informational requirements as bank information systems could not supply relevant information. Second, the time period set for external auditors, FOBAPROA, and CNBV to value and accept loans was 90 days. This proved to be an unrealistically short period. 
+
+The situation of some banks did not improve after a first round agreement with FOBAPROA, and they had to sell additional loans in a second round (Graf 1999, 172). In this second round, FOBAPROA simplified the process for setting loan values. FOBAPROA and CNBV now directed its external auditors to spend their time verifying the existence and validity of loans rather than working on valuation. Valuation now largely took place based on CNBV criteria, and banks were to modify their reserves according to these valuations (Mackey 1999, 71). 
+
+Even though most of the privatized banks required this facility more than once, the program was not envisioned to be an open window facility, where banks could return to the program as needed (World Bank 1998, Annex E, 10). 
+
+
+## **16. Disposal (1): FOBAPROA initially left management and disposal of CLPP assets to participating banks but ultimately attempted to develop a more centralized asset disposal strategy.** 
+
+Banks that participated in the CLPP remained responsible for managing and disposing of the assets purchased in the program. FOBAPROA technically only purchased an interest in the proceeds of these loans, and title for the loans remained with the banks. The program built in incentives for banks to fulfill this role. First, the CLPP allowed banks to repurchase their loans. The program was structured so that any value collected by banks on the loans beyond the value of the bonds the banks received from FOBAPROA could be kept by the banks. Second, if NPLs produced losses, banks shared in them. Finally, the coupon banks received from the FOBAPROA bonds was less than the banks’ funding costs. FOBAPROA bonds were not liquid, incentivizing banks to complete asset disposals (OECD 1998, 84). 
+
+FOBAPROA created the Central Credit Committee (CCC) in late 1996 to coordinate collection and restructuring efforts among the trusts holding interests in the NPLs and the various participants in the CLPP. The CCC participated in various mediation and corporate debtrestructuring efforts going on in the Mexican economy at the time (Mulás 2001, 161–62). 
+
+Later, FOBAPROA created the VVA. The VVA was meant to manage and sell FOBAPROA assets in an attempt at improving the secondary market for NPLs, reducing FOBAPROA’s stock of assets, and reducing FOBAPROA’s fiscal costs (Bank of Mexico 1997, 137). The Mexican government created the VVA following discussions between the Mexican authorities, World Bank staff, and consultants in early 1996 (World Bank 1998, 16). Under the VVA, loan documentation remained with the banks that managed or held the actual loans. This made the due diligence process exceedingly complex and lengthy (Calomiris, Klingebiel, and Laeven 2004, 36; Mulás 2001). 
+
+The VVA conducted its first and only auction in July 1997 and was liquidated one month later (Bank of Mexico 1998, 158). This auction was small, with a face amount of MXN 132 million, and the VVA’s work was absorbed into FOBAPROA afterwards.[10] Some reports attribute the failure of the VVA and the limited demand for its auction to the politically connected assets owned by FOBAPROA being “difficult to resolve for a government agency susceptible to political pressure” while subject to “substantial deficiencies in the bankruptcy and foreclosure code that limited VVA’s ability to bring debtors to the negotiation table” (Calomiris, Klingebiel, and Laeven 2004, 37). 
+
+That being said, even after FOBAPROA absorbed the VVA, only 0.5% of the total assets transferred under the FOBAPROA program were sold, with an average asset recovery rate of only 15% by 2004 (Calomiris, Klingebiel, and Laeven 2004, 37). The VVA made attempts at 
+
+> 10 In addition to the fact that it only performed one auction, the VVA took a long time to prepare for asset sales. It had institutional capacity problems as well as structural problems. Policymakers worried that prices on the asset sales would be less than their acquisition prices. This would reveal the fiscal cost of the CLPP activities and the likely amount of loss sharing for the banks, forcing their recognition. These asset sales might also “create benchmarks for valuing the assets remaining on banks’ books, with possible negative implications for capital adequacy” (World Bank 1998, 16). Mexican authorities later denied that the lengthy time for asset sales was a tactic to delay or outright avoid a public understanding of the CLPP’s actual cost to the state. A World Bank document states that the Mexican authorities consistently disclosed their estimations of the fiscal cost and indicates that there was no reason for not disclosing this information to the public (World Bank 1998, Annex E, 16). 
+
+
+securing ownership of loans, but the extent that it did so is unclear. This may have been due to some of the negative incentives that came along with ownership. 
+
+Although VVA’s ownership of the loans would have allowed for a less difficult sale process, VVA’s purchase of the loans would have a negative impact on FOBAPROA. This is because if VVA, a subsidiary of FOBAPROA, became owner of these loans, the banks would no longer be subject to the various loss-sharing measures (Mackey 1999, 50). It was intended that the VVA would directly acquire and then sell loans, but the VVA never progressed past a pilot. Because the VVA was never fully operational, direct ownership of most of the loans did not happen. 
+
+FOBAPROA also carried on some of VVA’s functions via the FOBAPROA Recovery SubCommittee, which aimed to maximize asset recoveries on loans greater than MXN 50 million. This sub-committee tried to do this by “presenting policies and recommending initiatives to improve collections” (Mackey 1999, 184). FOBAPROA accepted these recommendations. However, “suggestions regarding audits of the banks’ administrative capabilities, resource issues within the banks and deficiencies in bank information systems were not followed up on a timely basis” (Mackey 1999, 184). This tracks with FOBAPROA’s strategy around this time, which aimed to retain title and manage the largest assets in its portfolio. It is not clear, however, the extent to which FOBAPROA was successful in securing ownership of the loans (thus retaining title). FOBAPROA established a Corporate Assets Division to do this. Meanwhile banks would continue to manage a large portion of loans that were less than $7 million for the benefit of FOBAPROA (to clarify, $7 million US dollars) (World Bank 1998, 16). The Corporate Assets Division largely disposed of assets by way of auctions, which had limited success. Between Mexico’s lack of a secondary market for NPLs, the political nature of some loans, and a system of creditor-debtor law in need of updating, FOBAPROA still had a difficult time selling its assets. 
+
+## **17. Disposal (2): The government initially restricted FOBAPROA, the VVA, or institutions that acquired NPLs from the VVA from foreclosing on acquired assets until the body in question acquired direct ownership of the NPLs.** 
+
+Initially, the original bank that sold the assets remained the legal owner of the loans. For that reason, FOBAPROA, the VVA, and institutions that acquired NPLs from them could not foreclose on acquired assets (Calomiris, Klingebiel, and Laeven 2004, 36). Later in FOBAPROA’s history, the banks, the VVA, or FOBAPROA attempted to purchase the assets from the banks, making foreclosure possible. 
+
+## **18. Timeframe: A specific timeframe was not envisioned for the CLPP’s existence or for the public’s interest in the NPLs acquired using the CLPP.** 
+
+Even though most of the privatized banks used the CLPP more than once, the program was not designed as a permanent open window facility for banks. Also, it was public knowledge that the closing date for purchases under CLPP was December 1996 (World Bank 1998, Annex E, 10). 
+
+FOBAPROA’s work with the various NPLs it purchased did not have a definite wind-down date. However, FOBAPROA itself was dissolved in 1999, and its assets were transferred to a new deposit insurance agency, the Bank Savings Protection Institute (IPAB) (Calomiris, Klingebiel, and Laeven 2004, 37). 
+
+
+## **References** 
+
+Bank of Mexico. 1997. “1996 Annual Report.” Mexico City: Banco de México. https://ypfs.som.yale.edu/library/bank-mexico-1996-annual-report. 
+
+———. 1998. “1997 Annual Report.” Mexico City: Banco de México. https://ypfs.som.yale.edu/library/bank-mexico-1997-annual-report. 
+
+BBC Monitoring Service: Latin America. 1995. “Finance Minister Announces New Economic Plan.” _Factiva_ , March 11, 1995. https://ypfs.som.yale.edu/library/finance-minister-announces-new-economic-plan. 
+
+Bloomberg News. 1995. “Mexico Bails Out Six Banks with $957 Million Loan.” Bloomberg News, March 31, 1995. https://ypfs.som.yale.edu/library/mexico-bails-out-six-banks-957-million-loan. 
+
+———. 1995a. “iMexico to Help Six Banks Raise 6.49 Billion Pesos in Capital.” Bloomberg News, March 31, 1995. https://ypfs.som.yale.edu/library/mexico-help-six-banks-raise-649-billion-pesos-capital. 
+
+Calomiris, Charles W., Daniela Klingebiel, and Luc Laeven. 2004. “A Taxonomy of Financial Crisis Resolution Mechanisms: Cross-Country Experience.” World Bank Policy Research Working Paper No. 3379, August 2004. https://ypfs.som.yale.edu/library/taxonomy-financial-crisis-resolution-mechanismscross-country-experience. 
+
+Cull, Robert, Maria Soledad Martinez Peria, and Jeanne Verrier. 2018. “Bank Ownership: ” Trends and Implications _._ World Bank Policy Research Working Paper No. 8297, January 2018. 
+
+https://ypfs.som.yale.edu/library/bank-ownership-trends-and-implications. 
+
+Cypher, James M. 1996. “Mexico: Financial Fragility or Structural Crisis?” _Journal of Economic Issues_ 30, no. 2 (June): 451–61. https://ypfs.som.yale.edu/library/mexico-financial-fragility-or-structural-crisis. 
+
+De Luna-Martinez, Jose. 2000. “Management and Resolution of Banking Crises: Lessons from the Republic of Korea and Mexico.” World Bank Discussion Paper No. 413, March 31, 2000. https://ypfs.som.yale.edu/library/management-and-resolution-banking-crises-lessonsrepublic-korea-and-mexico. 
+
+Federal Reserve Economic Data (FRED). 2020. “Mexico / U.S. Foreign Exchange Rate (DEXMXUS).” Retrieved from FRED, Federal Reserve Bank of St. Louis. https://ypfs.som.yale.edu/library/mexico-us-foreign-exchange-rate-dexmxus. 
+
+General Accounting Office (GAO). 1996. “Mexico’s Financial Crisis: Origins, Awareness, Assistance, and Initial Efforts to Recover.” Report to the Chairman, Committee on Banking and Financial Services, House of Representatives, February 23, 1996. Washington, DC: General Accounting Office. 
+
+https://ypfs.som.yale.edu/library/mexicos-financial-crisis-origins-awareness-assistanceand-initial-efforts-recover. 
+
+
+Graf, Pablo. 1999. “Policy Responses to the Banking Crisis in Mexico.” In _Bank Restructuring in Practice_ . BIS Policy Papers No. 6. Basel: Bank for International Settlements, August 1999. https://ypfs.som.yale.edu/library/policy-responses-banking-crisis-mexico. 
+
+Haber, Stephen, and Aldo Musacchio. 2013. “These _Are_ the Good Old Days: Foreign Entry and the Mexican Banking System.” Harvard Business School Working Paper No. 13-062. January 10, 2013. https://ypfs.som.yale.edu/library/these-are-good-old-days-foreign-entry-and-mexicanbanking-system. 
+
+Honohan, Patrick, and Luc Laeven. 2005. _Systemic Financial Crises: Containment and Resolution._ Cambridge: Cambridge University Press. https://ypfs.som.yale.edu/library/systemic-financial-crises-containment-and-resolution. 
+
+International Monetary Fund (IMF). 1995. “IMF Approves US$17.8 Billion Stand-By Credit for Mexico.” Press release, February 1, 1995. https://ypfs.som.yale.edu/library/press-release-imf-approves-us178-billion-stand-creditmexico. 
+
+———. 1995a. “International Capital Markets: Developments, Prospects, and Policy Issues.” Report by David Folkerts-Landau and Takatoshi Ito, August 1995. Washington, DC: International Monetary Fund. https://ypfs.som.yale.edu/library/international-capitalmarkets-developments-prospects-and-policy-issues. 
+
+Mackey, Michael W. 1999. _Report of Michael W. Mackey on the Comprehensive Evaluation of the Operations and Functions of the Fund for the Protection of Bank Savings ‘FOBAPROA’ and Quality of Supervision of the FOBAPROA Program 1995-1998_ . Report to the Congress of Mexico, July 1999. 
+
+https://ypfs.som.yale.edu/node/4532. 
+
+McQuerry, Elizabeth. 1999. “The Banking Sector Rescue in Mexico.” Federal Reserve Bank of Atlanta, _Economic Review_ 84, no. 3 (Third Quarter): 14–29. https://ypfs.som.yale.edu/library/banking-sector-rescue-mexico. 
+
+_Mexico Business Monthly_ (MXBU). 1995. “Banking/Finance: Bank Funding.” _Mexico Business Monthly_ , May 1, 1995. https://ypfs.som.yale.edu/library/bankingfinance-bank-funding. 
+
+Mulás, Alberto. 2001. “Corporate Debt Restructuring in a Systemic Financial Crisis: Mexico’s Experience, 1996–98.” In _Resolution of Financial Distress: An International Perspective on the Design of Bankruptcy Laws,_ edited by Stijn Claessens, Simeon Djankov, and Asoka Mody, 18. World Bank Institute Development Study. Washington, DC: World Bank. https://ypfs.som.yale.edu/library/resolution-financial-distress-international-perspectivedesign-bankruptcy-laws. 
+
+Musacchio, Aldo. 2012. “Mexico’s Financial Crisis of 1994-1995.” Harvard Business School Working Paper No. 12-101, May 8, 2012. https://ypfs.som.yale.edu/library/mexicos-financial-crisis-1994-1995. 
+
+Organisation for Economic Co-operation and Development (OECD).1998. _OECD Economic Surveys: Mexico 1998_ . Paris: OECD Publications Service https://ypfs.som.yale.edu/library/oecd-economic-surveys-mexico-1998. 
+
+
+Rosas, Guillermo. 2009. _Curbing Bailouts. Bank Crises and Democratic Accountability in Comparative Perspective._ Ann Arbor: University of Michigan Press. https://ypfs.som.yale.edu/library/curbing-bailouts-bank-crises-and-democraticaccountability-comparative-perspective. 
+
+Wall Street Journal (WSJ). 1995. “Mexico Overhauls Banks Amid Turmoil — Takeover of Banpais Is Latest Result of Effort.” _Wall Street Journal_ , March 6, 1995. https://ypfs.som.yale.edu/library/mexico-overhauls-banks-amid-turmoil-takeoverbanpais-latest-result-effort. 
+
+World Bank. 1995. “Report and Recommendation of the President of the International Bank for Reconstruction and Development to the Executive Directors on a Proposed Loan in an Amount Equivalent to US$1,000 Million to Nacional Financiera, S.N.C with the Guarantee of the United Mexican States for a Financial Sector Restructuring Program.” Report No. 9-6616ME, May 24, 1995. 
+
+https://ypfs.som.yale.edu/library/report-no-9-6616-me-recommendation-and-proposedloan-us1000-million-national-financiera. 
+
+———. 1998. “Implementation Completion Report: Mexico, Financial Sector Restructuring Loan Project [Loan 3911-ME].” Report No. 18012, May 26, 1998. https://ypfs.som.yale.edu/library/report-no-18012-mexico-financial-sector-restructuringloan-project-loan-3911-me. 
+
+## **Key Program Documents** 
+
+## **Legal/Regulatory Guidance** 
+
+Report and Recommendation of the President of the International Bank for Reconstruction and Development to the Executive Directors on a Proposed Loan in an Amount Equivalent to US$1,000 Million to Nacional Financiera, S.N.C with the Guarantee of the United Mexican States for a Financial Sector Restructuring Program (World Bank 1995) _World Bank Report of Mexican government programs._ 
+
+https://ypfs.som.yale.edu/library/report-no-9-6616-me-recommendation-and-proposedloan-us1000-million-national-financiera. 
+
+Implementation Completion Report: Mexico, Financial Sector Restructuring Loan Project - [Loan 3911 ME] (World Bank 1998) 
+
+_World Bank Report of Mexican government programs._ https://ypfs.som.yale.edu/library/report-no-18012-mexico-financial-sector-restructuringloan-project-loan-3911-me. 
+
+## **Press Releases/Announcements** 
+
+Mexico Bails Out Six Banks with $957 Million Loan (Bloomberg News 1995) _Mexico’s central bank helps recapitalize six banks._ https://ypfs.som.yale.edu/library/mexico-bails-out-six-banks-957-million-loan. 
+
+Mexico to Help Six Banks Raise 6.49 Billion Pesos in Capital (Bloomberg News 1995a) _The PROCAPTE program to help recapitalize banks gets started._ https://ypfs.som.yale.edu/library/mexico-help-six-banks-raise-649-billion-pesos-capital. 
+
+
+## **Reports/Assessments** 
+
+Policy Responses to the Banking Crisis in Mexico (Graf 1999) _Comprehensive paper of the Mexican government response to the 1994-1995 Mexican crisis._ https://www.bis.org/publ/plcy06f.pdf. 
+
+Report of Michael W. Mackey on the Comprehensive Evaluation of the Operations and Functions of the Fund for the Protection of Bank Savings ‘FOBAPROA’ and Quality of - Supervision of the FOBAPROA Program 1995 1998 (Mackey 1999) _Comprehensive report conducted by Michael W. Mackey on the Mexican government programs._ https://ypfs.som.yale.edu/node/4532. 
+
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

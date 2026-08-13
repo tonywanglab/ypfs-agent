@@ -1,0 +1,35 @@
+{# Tool trace for one response revision.
+   Same markup as the run-detail trace list, fed by trace.trace_timeline(), but
+   folded into a <details> so a transcript of many turns stays readable.
+   Expects: events (list), open (bool, optional). #}
+{% if events %}
+  <details class="turn-trace"{% if open %} open{% endif %}>
+    <summary>
+      <span class="turn-trace-label">Tool trace</span>
+      <span class="count-badge">{{ events | length }}</span>
+    </summary>
+    <ol class="trace-timeline">
+      {% for event in events %}
+        <li class="trace-event trace-event-{{ event.kind }}{% if event.status == 'error' %} is-error{% endif %}">
+          <details>
+            <summary>
+              <span class="trace-event-kind">{{ event.kind }}</span>
+              <span class="trace-event-body">
+                <span class="trace-event-label">{{ event.label }}</span>
+                {% if event.summary %}
+                  <span class="trace-event-summary">{{ event.summary }}</span>
+                {% endif %}
+                {% if event.result_summary %}
+                  <span class="trace-event-result">{{ event.result_summary }}</span>
+                {% endif %}
+              </span>
+            </summary>
+            <pre class="trace-event-detail">{{ event.detail }}</pre>
+          </details>
+        </li>
+      {% endfor %}
+    </ol>
+  </details>
+{% else %}
+  <p class="turn-trace-empty">No tool calls.</p>
+{% endif %}

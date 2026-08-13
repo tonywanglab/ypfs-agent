@@ -1,0 +1,786 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 7 Issue 3 
+2025 
+CBDC Settlement: Implications for Money Creation and Maturity CBDC Settlement: Implications for Money Creation and Maturity 
+Transformation Transformation 
+Francesca Carapella 
+Federal Reserve Board of Governors 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Carapella, Francesca (2025) "CBDC Settlement: Implications for Money Creation and Maturity 
+Transformation," Journal of Financial Crises: Vol. 7 : Iss. 3, 1-19. 
+DOI: https://doi.org/10.17132/2693-3179.1665 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss3/1 
+This Article is brought to you for free and open access by the Journal of Financial Crises and EliScholar – A Digital 
+Platform for Scholarly Publishing at Yale. For more information, please contact journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+Cover Page Footnote Cover Page Footnote 
+The views and opinions expressed in this paper are my own and do not represent those of the Federal 
+Reserve System or its staff. I am grateful to Melissa Leistra, David Mills, and Alexandros Vardoulakis for 
+careful feedback on the article and to Lucia Gurrieri for excellent research assistance. I also wish to thank 
+Garth Baughman, Jin-Wook Chang, Andrew Danzig, Jean Flemming, Nathan Foley-Fisher, Mike Kiley, David 
+Lowe, Borghan Narajabad, Romina Ruprecht, and Chiara Scotti for their useful suggestions. 
+This article is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-crises/
+vol7/iss3/1
+
+--- Page 3 ---
+CBDC Settlement: Implications for Money Creation 
+and Maturity Transformation  
+Francesca Carapella1 
+Abstract 
+This paper analyzes the implications of different models of intermediation, clearing , and 
+settlement of central bank digital currency (CBDC) for the ability of the financial system to 
+create money and, through it, to possibly affect financial stability. Only two models have the 
+potential to limit the private sectors’ ability to create money: a model where the central bank 
+directly opens accounts with the public and a model where the central bank allows 
+intermediaries to perform only custodial activities in CBDC. Under any other intermediation 
+model, money can be created inside the financial system by the intermediaries providing 
+payment services associated with CBDC holdings. However, the creation of inside money 
+does not necessarily affect financial stability per se ; it does so indirectly by facilitating 
+activities linked to maturity transformation. 
+Keywords: banking, central bank digital currency (CBDC), financial stability, payment 
+systems 
+JEL Classifications: E42, E51, G20
+ 
+1 Principal Economist, Federal Reserve  Board of Governors , Francesca.Carapella@frb.gov. The views and 
+opinions expressed in this paper are my own and do not represent those of the Federal Reserve System or its 
+staff. I am grateful to Melissa Leistra, David Mills, and Alexandros Vardoulakis for careful feedback on the article 
+and to Lucia Gurrieri for excellent research assistance. I also wish to th ank Garth Baughman, Jin-Wook Chang, 
+Andrew Danzig, Jean Flemming, Nathan Foley -Fisher, Mike Kiley, David Lowe, Borghan Narajabad, Romina 
+Ruprecht, and Chiara Scotti for their useful suggestions. 
+1
+
+--- Page 4 ---
+I. Introduction  
+Recent technological advances have sparked a wave of new private sector financial products 
+and services, such as digital assets and payment applications, leading central banks around 
+the globe to explore the pot ential economic value and risks of issuing a central bank digital 
+currency (CBDC). Rules governing the distribution of CBDC and the provision of financial 
+services linked to CBDC are likely to shape the future of our financial system with respect to 
+its potential and its intrinsic fragility. 
+This paper describes various models for settlement of CBDC balances and for the integration 
+of banks and other financial institutions in the provision of financial services linked to CBDC. 
+Settlement is an act that discharges obligations of funds or securities transfers between two 
+or more parties in accordance with the terms of the underlying contract. 2 For example, the 
+seller transfers securities to the buyer and the buyer transfers money to the seller. 
+The settlement models analyzed in this paper differ by their ability to support two important 
+activities typically performed by financial institutions: money creation and maturity 
+transformation. Key elements of traditional payment systems, such as real time gross 
+settlement and deferred net settlement, play a crucial role in determining the extent to which 
+a CBDC settlement model will allow financial institutions to provide liquidity to the economy 
+via money creation and to conduct maturity transformation —a profitable activity that can, 
+however, undermine financial stability.3 
+The economic mechanism linking CBDC to maturity transformation  works through  the 
+execution of CBDC payment orders. Payments can often be executed by saving on the amount 
+to be transferred back and forth among trading partners , for example by aggregating and 
+netting payment requests before settlement . In doing so,  the entity performing settlement 
+does not need to hold as much CBDC as required by every individual payment order. Hence, 
+a payment provider would be able to invest the CBDC received from clients placing payment 
+requests but not transferred for settlement. A payment provider would be able to perform 
+maturity transformation.  
+In our financial system , the mechanism just described is already operating through central 
+bank reserves. As a form of  central bank money, reserves carry no credit risk and  are thus 
+typically preferred in settlement. However, c entral bank reserves can be held  only by 
+institutions eligible for a n account at the central bank, typically banks.4 A CBDC would also 
+be central bank money. The introduction of  a CBDC might introduce additional agents  
+besides banks  that can hold a digital version of central bank money, thus creating other 
+ 
+2 See Committee on Payments and Market Structure (2016). 
+3 While this paper highlights ideas linked to financial stress, it focuses on normal rather than crisis times. 
+Therefore, stress episodes like runs on banks are not specifically discussed.  
+4 In the United States, a list of depository institutions eligible for an account is available through the Federal 
+Reserve Master Account and Services Database. 
+2
+Journal of Financial Crises Vol. 7 Iss. 3
+
+--- Page 5 ---
+entities that could execute payment orders, in turn facilitating maturity transformation. With 
+maturity transformation having almost always been at the root of the financial cris es of the 
+past 200 years, the design of resilient payment systems for CBDC should account for t he 
+emergence of new channels that can amplify financial stress by introducing novel points of 
+fragility within and outside the financial system, as some of these entities are often fintech 
+companies. 
+The analysis shows that CBDC settlement models relying e xclusively on the central bank to 
+handle account activity, such as maintaining and updating balances, preclude financial 
+institutions from creating money and operating with a fractional reserve system for CBDC. 
+Therefore, such settlement models would precl ude financial institutions from performing 
+maturity transformation through their CBDC -related activities.5 As a result, while financial 
+institutions may still create money and engage in maturity transformation through their 
+reserve balances at the central  bank, the introduction of a CBDC would not represent an 
+additional channel by which money creation and maturity transformation would be feasible. 
+On the other hand, the analysis also shows that CBDC settlement models allowing for the 
+provision of deposit and payment services by intermediaries can enable both money 
+creation and maturity transformation through CBDC -related products and services. Hence, 
+such settlement models would allow CBDC to introduce an additional channel through which 
+financial institutions can engage in money creation and maturity transformation, possibly 
+complementary to the channels that are currently active. As a result, the choice of settlement 
+models for any potential CBDC can play a key role in shaping the future of our financial 
+system and have far-reaching consequences for financial stability. 
+This paper is organized as follows: I first describe the process of money creation by financial 
+institutions; second, we discuss maturity and liquidity transformation and their relationship 
+with fractional reserve banking. Last, we define CBDC and describe various settlement 
+models for CBDC, analyzing how each of them might or might not enable money creation and 
+maturity transformation. 
+II. Money Creation 
+Money creation is the process that allows the value of transactions in an economy to exceed 
+the stock of central bank money in a unit of time. 6 In other words, money is created 
+endogenously in an economy when the economy’s ability to pay is larger than its stock of 
+money (that is,  cash and  reserves at the central bank). How is this feasible? Through the 
+provision of payment services by financial institutions when the payment orders stemming 
+ 
+5 This settlement model, however, is inconsistent with the design features outlined in the Federal Reserve 
+Board’s CBDC white paper, which states that a potential US CBDC would be intermediated (Fed 2022a). 
+6 This note refers to money in its strictest form of payment instrument  or medium of exchange. It should be 
+noted, however, that several financial and nonfinancial institutions can be thought of as de facto engaging in 
+activities that affect the economy’s ability to borrow or fund productive projects. 
+3
+CBDC Settlement: Implications for Money Creation and Maturity Transformation Carapella
+
+--- Page 6 ---
+from these services do not necessarily rely on central bank money to be settled. Two types 
+of payment services satisfy this condition.7 
+The first type of payment service allowing for money creation is a circulating liability issued 
+by a bank or payment provider. Such liability may circulate in the economy without ever 
+being returned to the issuer in exchange for central bank money. For example, a check could 
+be endorsed and circulate, to the extent that the payees themselves expect to be able to spend 
+it, or to deposit it at their own bank, or to receive central bank money if they return it to the 
+issuing bank.8 The check would be used like cash in this situation. Thus, it would be a form 
+of money issued by private institutions, produced inside the financial system, and known as 
+inside money, as opposed to central bank money, also known as outside money.9 
+Second, payment orders can be netted across a network of institutions before being 
+executed. The most common example of such netting activity occurs among banks. Bank 
+depositors can use their deposits to settle transactions without the need to withdraw the ir 
+funds, rather by transferring claims on their funds deposited at the bank. Such funds may not 
+be physically at the bank (in the form of either cash or reserves) as the bank may have 
+invested them in loans or other assets. The claims on depositors’ funds  at the bank are the 
+bank’s obligations to pay, so they are claims on the bank’s assets up to the face value of the 
+claims. Consider a check, for example. This check can be ( a) deposited at the payee’s own 
+bank or ( b) returned to the issuing bank in exchan ge for central bank money (cash or 
+reserves). In the first case, the bank where the check is deposited can return the check to the 
+issuing bank and request payment in central bank money. However, when sufficiently many 
+banks engage in check issuance, they can choose to net each other’s checks without the need 
+to transfer central bank money back and forth to each other for each check. Because check 
+payments are settled by netting obligations across banks, there is no need for the issuing 
+bank to hold central  bank money in the same amount as the checks it issued —unless the 
+issuing bank is certain that none of its depositors will deposit checks issued by other banks, 
+as those checks would be obligations of those other banks toward the issuing bank. More 
+generally, if sufficiently many banks provide payment services associated with deposits, 
+such banks can multilaterally net each other’s obligations: banks’ outgoing payments are 
+netted against incoming payments from other banks. As a result, full backing of outgo ing 
+payments by central bank money ( that is, cash and reserves) is not necessary. Such netting 
+of banks’ checks effectively generates money. Each dollar on a check issued by a bank and 
+settled by a process of netting obligations across banks is a dollar of  money created by the 
+ 
+7 The most basic way in whic h deposits are used to settle transactions is by allowing depositors to withdraw 
+the money that they deposited at their bank and then use that money to pay. This arrangement requires that 
+sufficient central bank money (that is, cash) be kept at the bank to back one-to-one the value of the transactions 
+for which deposits are paying. In this case, the provision of payment services does not result in money creation. 
+8 This used to happen in the Free Banking Era, whe n banknotes issued by individual banks circul ated even 
+outside the area where the issuing bank ’s main business was located. Some banknotes were crossing states ’ 
+boundaries, for instance—see Gorton (1999) and Ales et al. (2008). 
+9 For a definition and discussion of inside and outside money see, among many, Mills (2007), Cavalcanti and 
+Wallace (1999), Marimon, Nicolini, and Teles (2003). 
+4
+Journal of Financial Crises Vol. 7 Iss. 3
+
+--- Page 7 ---
+banking system, that is,  inside money. Additional examples of such process of money 
+creation are historical clearinghouses, as well as central counterparties.10 
+We should note that there is a misperception among some economists about money being 
+created out of thin air, also known as the fountain pen money view of banking.11 According to 
+this view, banks create money by extending a loan to a borrower, as they open an account 
+for the borrower with funds available to be spent in the same amount as the value of the loan. 
+Because the borrower can make payments using the funds in such account, the fountain pen 
+money view of banking is that banks create money by making loans. However, this is not 
+quite accurate. Banks create money by providin g deposit accounts to their borrowers only 
+to the extent that the payment orders made from such accounts are netted against incoming 
+payments from other banks, without the need for central bank money. 12 The bank 
+originating the loan will need central bank money for any outgoing payments it is unable to 
+net. This need for central bank money, or outside money, implies that the bank originating 
+the loan will not be creating inside money simply by opening an account for the borrower. 
+Hence, the bank will not be creating money out of thin air. 
+III. Maturity and Liquidity Transformation and Fractional 
+Reserve Banking 
+Financial institutions perform maturity transformation when the maturity of their financing 
+does not match the maturity of their investments, for example by promising their funding 
+providers short-term repayments and investing the borrowed funds into longer-term assets. 
+Financial institutions perform liquidity transformation wh en they invest in illiquid assets 
+and raise funding by issuing liabilities that are broadly regarded as liquid by financial 
+markets, often owing to the issuer’s promise to act to preserve such liquidity. The 
+transformation of claims over long-term or fundamentally illiquid assets into claims that are 
+highly liquid is one of the critical functions that the financial sector provides for the broader 
+economy.13 
+Typically, long-term assets are less liquid than short-term ones, thus implying that maturity 
+transformation is a sufficient condition for liquidity transformation. However, liquidity 
+transformation can occur even when both assets and liabilities are short term. Consider, for 
+example, an entity investing in US Treasuries and issuing liabilities that circu late as means 
+of payment, or promising repayment of its liabilities in central bank money. Both assets and 
+ 
+10 See, among many, Kroszner (2006), Quinn and Roberds (2008), and Moser (1998). Instead, banks ’ liabilities 
+that are fully backed by central money are not considered in side money for the purpose of this note, even 
+though the mapping between banks ’ liabilities and central bank money might become imperfect in stress 
+scenarios. 
+11 See Faure and Gersbach (2021); McLeay, Radia, and Thomas (2014); Jakab and Kumhof (2015); and Deutsche 
+Bundesbank (2017). 
+12 See Rendahl and Freund (2019). 
+13 See Wallace (1996) for a formal analysis of such functions. 
+5
+CBDC Settlement: Implications for Money Creation and Maturity Transformation Carapella
+
+--- Page 8 ---
+liabilities are short term, but the liquidity of its liabilities, which are payment instruments, is 
+higher than that of its assets, which would need to be sold and converted into payment 
+instruments to be used as settlement assets. 
+The most common example of maturity transformation is the supply of demand deposit 
+contracts by banks, while investing deposited funds in longer-term assets. Banks are not the 
+only institutions that engage in maturity and/or liquidity transformation. Many collective 
+investment vehicles offer a degree of liquidity to investors but invest in assets that are not 
+regarded as equally liquid by financial markets, for example money market funds and  
+insurance companies .14 Banks can perform maturity and liquidity transformation in two 
+ways, possibly complementary with each other: 
+(a) Banks diversify depositors’ payments and liquidity needs. 15 In the basic demand 
+deposit contract, a depositor experiencing a liquidity need can withdraw the cash 
+previously deposited at the bank and make a payment using such cash. As only some 
+depositors will experience a liquidity need at any given point in time, a bank’s need 
+for liquidity is smaller than its aggregate deposits, allowing the bank to invest part 
+of the funds deposited by end users in long -term and more productive assets, such 
+as loans to firms.  
+Moreover, if the distribution of liquidity needs is known, and if the deposit base is 
+sufficiently large, how many depositors will experience a liquidity need at a given 
+point in time is known in advance. 16 In this setting, there is no aggregate risk, and 
+depositors with no liquidity needs effectively exten d credit to depositors with 
+liquidity needs. This extension of credit is risk free in aggregate for the bank, as long 
+as every depositor is paid by the bank when he actually needs liquidity and no bank 
+run occurs. 
+(b) Banks issue liabilities that provide payme nt services. Specifically, banks issue 
+deposits that can be used to settle transactions, thus creating money as described in 
+the previous section.  While money creation per se is separate from maturity 
+transformation, it can facilitate maturity transformation by allowing banks to settle 
+payments through netting their respective obligations. Through such netting, banks 
+can execute and settle transactions by relying more on their network of payment 
+flows and less on central bank money, which is necessary only to settle payments 
+that cannot be netted. The resulting reduction in banks’ need to hold central bank 
+money increases banks’ ability to invest the funds deposited by customers, which 
+are short-term liabilities, into long-term productive investments. 
+ 
+14 For money market funds, among many, see Schmidt , Timmermann, and Wermers  (2016); Cipriani and La 
+Spada (2021); Sunderam (2015); Greenwood, Hanson, and Stein  (2015); and Greenwood, Hanson, and Stein  
+(2018). For insurance companies, see Foley-Fisher et al. (2020). 
+15 As described in the seminal work of Diamond and Dybvig (1983) and in Nobel Prize Committee (2022). 
+16 In this case , the law of large numbers holds. By the law of large numbers, the average liquidity needs for a 
+depositor is also the aggregate or realized liquidity need at the bank . 
+6
+Journal of Financial Crises Vol. 7 Iss. 3
+
+--- Page 9 ---
+Without the provision of payment services associated with deposits (activity b), banks could 
+still perform maturity transformation thanks to their diversification activity (activity a). In 
+this case, however, banks need to pay cash to those depositors who demand  to withdraw 
+their funds and make payments. To do so, banks need to invest at least some funds in central 
+bank money, such as cash, and to disburse central bank money whenever depositors request 
+a withdrawal.17 As a consequence, a bank needs to invest in a s much central bank money as 
+the expected liquidity needs of its depositors. Therefore, without the provision of payment 
+services associated with deposits, a bank would not be creating inside money. In this case, 
+the settlement assets used by depositors to  pay would merely be different forms of central 
+bank money, be it cash or CBDC if one was issued, and the economy needs as much central 
+bank money as the aggregate value of transactions.  
+Moreover, without the provision of payment services associated with deposits, a bank might 
+still be fractionalized. A fractional reserve banking system is a system in which banks hold 
+central bank reserves as a fraction of specific types of claims outstanding on its total assets, 
+in particular as a fraction of its demand d eposits.18 Fractionalized banking is linked to 
+maturity transformation, as a bank holding 100% of its deposits in reserves is unable to 
+invest in other long -term assets .19 Some economists interchangeably discuss maturity 
+transformation and fractional reserve banking. Indeed, a bank whose business model allows 
+for fractional reserves will likely find investing in longer maturities profitable —conditional 
+on a given risk -return trade-off. Here, however, we keep the two definitions separate and 
+note that maturity transformation is a subset of fractional reserve banking (see Figure 1). 
+Indeed, a bank holding a fraction of its deposits in reserves at the central bank, and investing 
+the rest in US Treasuries, would operate with a fractional reserve system despite performing 
+no maturity transformation.20 
+ 
+17 Banks also hold high -quality liquid assets (HQLAs), but the conversion of HQLA s into reserves to cover net 
+outflows has a similar effect to that of using already held reserves to cover the outflow s. 
+18 The Federal Reserve Act authorizes the Board to impose reserve requirements on transaction accounts, 
+nonpersonal time deposits, and Eurocurrency liabilities. 
+19 In other words, for deposit -taking institutions, a fractionalized system is a necessary condition for them to 
+perform maturity transformation. 
+20 Such bank, however, could be performing liquidity transfo rmation as the liquidity of its deposits, which 
+provide payment services, would exceed that of its assets, which cannot be used for settlement.  
+7
+CBDC Settlement: Implications for Money Creation and Maturity Transformation Carapella
+
+--- Page 10 ---
+Figure 1: Money Creation, Risk Diversification, and Maturity Transformation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: The labels 2.b.i, 2.b.ii, 2.c.i, and 2.c.ii refer to CBDC settlement models described in Section IV. 
+Source: Author’s analysis. 
+Notice that while a fractional reserve system is a necessary condition for money creation and 
+maturity transformation, money creation is not a necessary condition for maturity 
+transformation. Indeed, money is created when the value of transactions exceeds the stock 
+of central  bank money in the economy in a unit of time, which allows banks to hold less 
+reserves than the sum of claims outstanding on those reserves. However, maturity 
+transformation can be performed also by nonbank financial institutions, such as insurance 
+companies, which do not create money in the sense of enabling settlement as described in 
+the previous section .21 An essential element of maturity transformation is the different 
+maturity of an institution’s assets and liabilities. As argued earlier, banks may choose not to 
+provide payment services —thus not to create inside money —but they will still be able to 
+perform maturity transformation by diversifying the liquidity needs of their depositors , as 
+formalized by Diamond and Dybvig (1983).  
+Finally, but importantly, while banks have been known to be intrinsically fragile and prone 
+to runs, it should be noted that the main cause for fragility is not money creation per se but 
+maturity and/or liquidity transformation. Indeed, policymakers consider a financial stability 
+concern also the maturity transformation performed by nonbanks despite nonbanks ’ 
+potentially being less active in the business of money creation than banks. However, money 
+ 
+21 See Foley-Fisher, Narajabad, and Verani (2020) and McDonald and Paulson (2015). 
+ 
+Money Creation 
+Netting Obligations 
+ Circulating Liabilities 
+2.c.i 
+2.b.ii 
+ 2.c.ii 
+Maturity Transformation 
+Fractional Reserve Banking 
+Diversifying Liquidity Risks 
+2.b.i
+8
+Journal of Financial Crises Vol. 7 Iss. 3
+
+--- Page 11 ---
+creation can facilitate maturity transformation. Figure 1 shows that maturity transformation 
+can be performed by money creation (like banks do) or by diversifying liquidity risks (like 
+banks and also other institutions do), or both, as shown by the intersection between the 
+green and yellow boxes representing, respectively, money creatio n and diversification of 
+liquidity risks. Figure 1 also represents the ideas described so far: money creation can be 
+performed either by netting obligations (represented by the blue box) or by issuing 
+circulating liabilities (represented by the gray box), and maturity transformation is a subset 
+of fractional reserve banking. 
+IV. CBDC and Settlement 
+CBDC is a form of digital money, denominated in the national unit of account, which is a direct 
+liability of the central bank, thus central bank money.22 CBDCs can be designed for use either 
+among financial intermediaries only ( that is, wholesale CBDCs), or by the wider economy 
+(that is, retail CBDCs). While the aim of retail CBDCs is to create a digital form of central bank 
+money that can be used by everyone, wholesale CBDC experimentations have so far focused 
+on improving the safety and efficiency of digital interbank transactions, such  as securities 
+settlement and cross-border payments.23 For each CBDC settlement model analyzed in this 
+section, we discuss its potential to be consistent with wholesale or retail CBDC. Importantly, 
+however, the economic mechanisms responsible for money creation and, possibly, maturity 
+transformation are the same both for wholesale and retail CBDC. 
+With respect to CBDC, the key settlement models can be defined as ( a) involving only the 
+activities of the central bank or as ( b) intermediated by financial insti tutions. An 
+intermediated settlement model, in turn, can be characterized by three subcategories, each 
+characterized by a variety of subtleties relating to the role played by financial institutions in 
+the economy. Overall, we analyze five settlement models. 
+Only the Central Bank Is Involved 
+In a settlement model where the central bank tracks balances and transfers only at the end-
+user level, all end users would be allowed to open an account at the central bank, including 
+individuals. Therefore, this settlem ent model could implement a retail CBDC as well as a 
+wholesale CBDC. On the one hand, if the central bank restricted activities of financial 
+institutions to be retail only, then this settlement model would implement solely a retail 
+CBDC.24 On the other hand, if the central bank offered CBDC balances to be held at accounts 
+ 
+22 Central bank money refers to  money that is a liability of the central bank. In the United States, there are 
+currently two types of central bank money: physical currency issued by the Federal Reserve and digital 
+balances held by commercial banks at the Federal Reserve. See Fed (2022b) and Panetta (2022). 
+23 For more details, see the projects undertaken by the BIS Innovation Hub  (BIS n.d.). Also, see CBDC Tracker 
+(n.d.). 
+24 Central banks are exploring safeguards that could be built into any CBDC to address financial stability risks, 
+such as access criteria for permitted users and limits on individuals’ CBDC holdings or transactions, which could 
+9
+CBDC Settlement: Implications for Money Creation and Maturity Transformation Carapella
+
+--- Page 12 ---
+at the central bank only to financial institutions, then this settlement model would 
+implement solely a wholesale CBDC. 
+With banks or other payment service providers not involved in any CB DC payment-related 
+activity, there would be no inside money creation stemming from CBDC issuance. In fact, no 
+netting of CBDC payment orders would take place across a network of intermediaries, nor 
+would intermediaries’ liabilities backed by CBDC circulate  as a medium of exchange. 
+Moreover, if intermediaries were ineligible to hold CBDC, no maturity transformation 
+stemming from CBDC issuance would take place. Any maturity transformation activity in 
+which intermediaries engaged would stem from their holdings of other forms of central bank 
+money. Therefore, there would be no place for this settlement model in Figure 1 , while in 
+Figure 2, this is defined as settlement model 1.  
+However, it is worth noting that even with the central bank tracking CBDC balances at the 
+user level, and with intermediaries acting as end users, it is possible that intermediaries 
+might develop forms of recordkeeping and settlement of CBDC balances that operate 
+separately from the central bank’s record. In doing so, banks migh t offer payment services 
+on such parallel recordkeeping platforms, submitting to the central bank settlement system 
+only the net transfer resulting from all the transactions recorded on their own platform s. 
+Thus, the possibility to create such alternative recordkeeping platforms would transform 
+this settlement model into an intermediated one, where payment services could be provided, 
+possibly money could be created, and maturity transformation could be performed.  
+Intermediated 
+Intermediaries act as custodi ans.25 In Figure 2 , this is defined as settlement model 2.a, 
+where intermediaries maintain end -user accounts or wallets and track end -user balances. 
+The central bank processes CBDC balances only at the intermediary level. According to this 
+settlement model, intermediaries would be effectively custodians and distributors of CBDC, 
+thus implementing a retail CBDC. With intermediaries simply maintaining end-user accounts 
+or wallets without proprietary CBDC holdings, there would be no money creation stemming 
+from CBDC issuance, as their role in the CBDC ecosystem would purely be custodial and 
+recordkeeping. As with the first settlement model, there would be no place for this 
+settlement model in Figure 1, as the implications for money creation and maturity 
+transformation from both models are the same. Notice that this settlement model would 
+differ from the first one with banks acting as end users, as no proprietary holdings are 
+considered here when banks simply act as custodians. 
+ 
+be applied varyingly for differ ent CBDC account holders and perhaps contingent on stress events. See BIS 
+(2021). 
+25 The entities providing intermediation need not be financial institutions but may be any institution allowed 
+by policymakers to perform the functions specified in each settl ement model. Hence, payment and wallet 
+providers, even telecommunications and social media companies that have access to (retail) CBDC might be 
+able to intermediate the transfer or safekeeping of CBDC. 
+10
+Journal of Financial Crises Vol. 7 Iss. 3
+
+--- Page 13 ---
+Intermediaries act also as end users and offer on-balance-sheet digital liabilities. When 
+intermediaries participate in the CBDC ecosystem as end users, they are allowed proprietary 
+holdings of CBDC beyond holding CBDC balances for their clients. Hence, intermediaries 
+might choose to use CB DC as a substitute for reserves to settle payments and to meet 
+regulatory requirements, if eligible to do so. Under this settlement model, intermediaries 
+might choose to offer deposit contracts in CBDC and to offer payment services associated 
+with the deposit contracts, such as digital wallets or payment application program interfaces 
+(APIs).26  
+This settlement model would implement both a retail and a wholesale CBDC. Retail CBDC 
+would be distributed to the general public  by intermediaries as in the previous settlement 
+model (2.a) and could be held by intermediaries themselves for proprietary trading. 
+Wholesale CBDC would be limited to the settlement of transfers across intermediaries 
+originating either from proprietary tr ading or from clients’ payments associated with 
+deposit contracts. 
+This settlement model could greatly affect the ability of intermediaries to create inside 
+money and to perform maturity transformation. 
+Consider first the case where the deposit contracts o ffered by intermediaries are not 
+associated with any payment service, while they might offer remuneration, safekeeping, or 
+other bundles of products. In Figures 1 and 2 , this is referred to as settlement model 2.b.i. 
+With the lack of payment services, no money creation stemming from CBDC issuance would 
+be feasible for intermediaries. However, intermediaries might still engage in diversification 
+of users’ liquidity risks, if they are able to attract sufficiently many depositors, and possibly 
+in maturity transformation. Therefore, this settlement model would be located in the lower 
+half of Figure 1, possibly within the black box if maturity transformation is performed. In 
+particular, intermediaries could perform maturity transformation through their offering o f 
+both deposit contracts in CBDC —if they are not subject to a 100% CBDC reserve 
+requirement—and deposit contracts in cash or reserves, as is currently the case. With 
+respect to the current environment, however, this settlement model would allow for an 
+additional channel by which maturity transformation can be performed, working through 
+CBDC deposits not 100% backed by CBDC. 
+Consider now the case where intermediaries offer payment services associated with deposit 
+contracts. In Figures 1 and 2 , this is referred to as settlement model 2.b.ii.  Besides 
+diversification of liquidity risks, intermediaries could also engage in money creation. They 
+could do so by simply netting payment orders among themselves before settlement takes 
+place in CBDC, much like banks do now by netting each other’s obligations before settlement 
+takes place in central bank reserves. By virtue of money creation, intermediaries then would 
+ 
+26 These liabilities could be redeemable in CBDC, depen ding on the nature of the deposit contract written 
+between the intermediaries and depositors. If they were redeemable in CBDC, then settlement models 2.b.i and 
+2.b.ii, described later in this section , would be similar to a fixed -term deposit, which could b e anywhere from 
+overnight to a longer term, and settlement model to a payment account such as a demand deposit account, 
+respectively. 
+11
+CBDC Settlement: Implications for Money Creation and Maturity Transformation Carapella
+
+--- Page 14 ---
+not need to hold a dollar of CBDC for each payment of a dollar, which w ould allow them to 
+be fractionalized and engage in maturity transformation. Therefore, within this settlement 
+model, intermediaries could engage in maturity transformation via two channels: 
+diversification of liquidity risks, as in the previous model, and money creation. This 
+settlement model would be located at the center-left of Figure 1, as both money creation and 
+risk diversification could enable maturity transformation, but no liabilities are circulating as 
+media of exchange. 
+Intermediaries offer circu lating on -balance-sheet digital liabilities . If intermediaries 
+offer on -balance-sheet liabilities to end  users, these can circulate and be readily 
+transferrable much like cash. Hence, the end  user’s legal claim is not directly on the central 
+bank but rathe r on the assets of the intermediaries. The intermediaries’ digital liabilities 
+could then be 100% backed by central bank money .27 For example, this settlement model 
+would allow for the issuance of stablecoins fully backed by central bank money. As the digital 
+liability circulates, its transfers would occur on the rails on which it is designed to operate, 
+possibly independent of the payment and settlement rails for the underlying CBDC. 
+Redemption of the digital liability would still require wholesale or reta il CBDC settlement 
+rails as, ultimately, CBDC would need to be paid to the holder of the liability to extinguish all 
+obligations of the issuer.28 Similarly, issuance of the digital liability would occur on wholesale 
+or retail CBDC settlement rails. Wholesa le or retail CBDC rails would be used depending on 
+the type of user requesting issuance or redemption. Alternatively, the intermediaries’ digital 
+liabilities could be backed by less than 100% in central bank money, as fractionalized 
+banking.29 As described in Section III, a fractional reserve system allows for settlement of the 
+liabilities issued by intermediaries without the need to transfer the same amount of central 
+bank money for each dollar of an intermediary’s liability. As long as the intermediaries’  
+liabilities circulate, no transfer of CBDC occurs because the transfer of the liabilities 
+themselves can extinguish a payment obligation. For example, this settlement model would 
+allow for the issuance of tokenized deposits, which could be used to make pa yments and 
+could be settled on rails specifically designed for this purpose, independently of the CBDC 
+settlement rails.30 Obligations stemming from the transfer of such tokenized deposits when 
+ 
+27 Some have described versions of this model as synthetic CBDC (s -CBDC). See Auer and Böhme (2020) and 
+Adrian and Mancini Griffoli (2019). 
+28 It is worth highlighting that intermediaries ’ ability to offer on -balance-sheet liabilities can be implemented 
+also with other forms of central bank money, such as reserves held at the central bank. Indeed, while no bank 
+liabilities curr ently circulate as media of exchange, they used to do so in the Free Banking Era (see Gorton 
+[1999] and Ales et al. [2008]). It is conceivable that tokens might circulate in the future, perhaps simply in the 
+form of tokenized deposits. If CBDC were introduced, however, and a broader set of entities than depository 
+institutions were eligible to hold it, then such entities may also issue circulating on-balance-sheet liabilities and 
+settle their respective net obligations in central bank money, as banks can do today with reserve balances held 
+in their accounts at the central bank. 
+29 In the current payment and settlement systems, where CBDC is not present yet, this model already exists 
+through deposits issued by commercial banks. 
+30 This paper refers to tokenized deposits as the digital representation of existing liabilities —demand deposit 
+claims—that an intermediary has on its bala nce sheet. Tokenized deposits are obligations of the intermediary 
+and, besides being used for the internal representation of credits and debits of accounts at the intermediary, 
+can circulate more broadly across intermediaries and users if their holders cho ose to do so. 
+12
+Journal of Financial Crises Vol. 7 Iss. 3
+
+--- Page 15 ---
+returned to the issuer would be settled on either wholesale or retail CBDC rails, depending 
+on the parties involved.31 
+The circulating digital liabilities offered by intermediaries could then be: 
+(a) 100% backed by central bank money. In Figures 1 and 2 , this is referred to as 
+settlement model 2.c.i. In this case, no money creation would be feasible, despite the 
+intermediaries’ liabilities could circulate as media of exchange. Moreover, the 100% 
+reserve requirement for the circulating liability would prev ent the intermediary 
+from performing diversification of liquidity risks and maturity transformation 
+through the issuance of this specific liability. Hence, this settlement model would be 
+located outside of both the green and yellow boxes in Figure 1.  Notice that this 
+settlement model can be complementary to settlement model 2.b.i, as 
+(noncirculating) CBDC deposits exempt from the 100% reserve requirement might 
+also be issued along with fully backed circulating digital liabilities. In this case , 
+maturity tra nsformation would be feasible but only through the intermediary’s 
+activities not subject to the 100% backing by central bank money. 
+(b) Backed by less than 100% in central bank money, as fractionalized banking.  In 
+Figures 1 and 2 , this is referred to as settle ment model 2.c.ii.  This case is the 
+complement of settlement model 2.b.ii, as the liabilities of an intermediary could 
+also circulate as media of exchange besides being netted in settlement. Therefore, 
+money creation could arise through an additional chann el with respect to 
+settlement model 2.b.ii: circulation of liabilities that are not fully backed by central 
+bank money. This settlement model would be located right at the center of Figure 1, 
+as all activities depicted in Figure 1 would be feasible under this settlement model. 
+Figure 2 summarizes the activities that are and are not feasible for each settlement model. 
+In the first settlement model, where only the central bank is involved, none of the activities 
+described in the previous sections can be perfo rmed, as intermediaries are not actively 
+participating in the CBDC ecosystem. The same conclusion applies to the second settlement 
+model, when intermediaries act as custodians (2.a). However, if intermediaries act as end 
+users without offering payment services, as in settlement model 2.b.i, then diversification of 
+liquidity shocks, fractional reserve banking , and maturity transformation are all feasible. 
+This is a world similar to the banking model developed in Diamond and Dybvig (1983). If 
+intermediaries a ct as end users and offer payment services, as in settlement model 2.b.ii, 
+then money creation via netting obligations is also feasible. Finally, if intermediaries offer 
+circulating on-balance-sheet digital liabilities that are 100% backed by central bank money, 
+as in settlement model 2.c.i, no money creation occurs owing to the full backing of liabilities 
+by central bank money. On the other hand, if the circulating on -balance-sheet digital 
+liabilities are backed by less than 100% central bank money, as in settlement model 2.c.ii, 
+ 
+31 When returned to the issuer, tokenized deposits would be settled with the same process currently used to 
+settle payments from deposit accounts —which are either multilaterally netted intraday, thus requiring only 
+the net obligation to be hon ored in central bank money between the banks involved, or on a real -time-gross-
+settlement (RTGS) system. 
+13
+CBDC Settlement: Implications for Money Creation and Maturity Transformation Carapella
+
+--- Page 16 ---
+then money creation becomes feasible both via circulation of such liabilities and by netting 
+obligations stemming from the transfer of such liabilities. 
+Figure 2: Activities That Are Feasible ( ✓) and Not Feasible ( ✕) for Each Settlement 
+Model  
+Source: Author’s analysis. 
+V. Conclusion 
+The links among money, whether issued by the central bank or produced by the financial 
+system, maturity transformation, and payment systems are crucial elements for the design 
+of a CBDC settlement model. Some CBDC settlement models do not allow for money creation 
+nor maturity transformation and are, therefore, the least concerning from a financial 
+stability perspective. Ho wever, these models require that each dollar spent be settled by 
+transferring central bank money such as CBDC. Hence the velocity of a given stock of CBDC 
+would need to be sufficiently high to support the same value of transactions supported by 
+other settlement models that allow for money creation. 32 Settlement models that allow for 
+money creation but not for maturity transformation are not necessarily threatening the 
+stability of the financial system, while they retain advantages in providing some degree o f 
+flexibility in the supply of liquidity to the economy given a preexisting stock of central bank 
+money. In fact, setting aside trust issues such as custodial and operational risks as well as 
+fraud, money creation by financial intermediaries does not pose financial stability threats. 
+However, money creation is rarely present without maturity transformation owing to the 
+profitability of the latter, which is made feasible by the former. Settlement models that allow 
+ 
+32 In other words, models not allowing for money creation would be liquidity intensive, like RTGS and 
+prefunded payments systems. 
+CBDC 
+Model 
+Diversifying 
+Shocks 
+Fractional Reserve 
+Banking 
+Maturity 
+Transformation 
+Netting 
+Obligations 
+Circulating 
+Liabilities 
+Money Creation No Money 
+Creation 
+1 ✕ ✕ ✕ ✕ ✕ ✕ 
+2.a ✕ ✕ ✕ ✕ ✕ ✕ 
+2.b.i ✓ ✓ ✓ ✕ ✕ ✕ 
+2.b.ii ✓ ✓ ✓ ✓ ✕ ✕ 
+2.c.i ✕ ✕ ✕ ✕ ✕ ✓ 
+2.c.ii ✓ ✓ ✓ ✓ ✓ ✕ 
+14
+Journal of Financial Crises Vol. 7 Iss. 3
+
+--- Page 17 ---
+for maturity transformation are the riskiest  from a financial stability perspective as they 
+expose the financial system to potentially destabilizing runs. 
+15
+CBDC Settlement: Implications for Money Creation and Maturity Transformation Carapella
+
+--- Page 18 ---
+VI. References 
+Adrian, Tobias, and Tommaso Mancini Griffoli. 2019. “The Rise of Digital Money.” FinTech 
+Notes 2019, no. 001 (July).  
+https://doi.org/10.5089/9781498324908.063 
+Ales, Laurence, Francesca Carapella, Pricila Maziero, and Warren E. Weber. 2008. “A Model 
+of Banknote Discounts.” Journal of Economic Theory 142, no. 1 (September): 5–27. 
+https://doi.org/10.1016/j.jet.2006.10.010  
+Auer, Raphael, and Rainer Böhme. 2020. “The Technology of Retail Central Bank Digital 
+Currency.” BIS Quarterly Review 2020, no. 1 (March): 85–100.  
+https://www.bis.org/publ/qtrpdf/r_qt2003j.htm 
+Bank for International Settlements (BIS). n.d. “BIS Innovation Hub Projects.” BIS. Accessed 
+May 28, 2025. 
+https://www.bis.org/about/bisih/projects.htm?m=268  
+———. 2021. “Central Bank Digital Currencies: Financial Stability Implications.” Bank for 
+International Settlements Report No. 2021/4, September 2021.  
+https://www.bis.org/publ/othp42_fin_stab.pdf 
+Board of Governors of the Federal Reserve System (Fed). 2022a. “Money and Payments: 
+The U.S. Dollar in the Age of Digital Transformation.” Research & Analysis White Paper, 
+January 14, 2022.  
+https://www.federalreserve.gov/publications/money-and-payments-discussion-
+paper.htm  
+———. 2022b. “What Is Central Bank Digital Currency?” FAQs, January 20, 2022.  
+https://www.federalreserve.gov/faqs/what-is-a-central-bank-digital-currency.htm 
+Cavalcanti, Ricardo de O., and Neil Wallace. 1999. “Inside and Outside Money as Alternative 
+Media of Exchange.” Journal of Money, Credit and Banking 31, no. 3 (August): 432–57. 
+https://doi.org/10.2307/2601062  
+CBDC Tracker. n.d. “Todays’ Central Bank Digital Currencies Status.” Human Rights 
+Foundation. Accessed May 28, 2025. 
+ https://cbdctracker.org/  
+Cipriani, Marco, and Gabriele La Spada. 2021. “Investors’ Appetite for Money-like Assets: 
+The MMF Industry after the 2014 Regulatory Reform.” Journal of Financial Economics 140, 
+no. 1 (April): 250–69. 
+https://doi.org/10.1016/j.jfineco.2020.11.005  
+Committee for the Prize in Economic Sciences in the Memory of Alfred Nobel (Nobel Prize 
+Committee). 2022. “Financial Intermediation and the Economy.” Royal Swedish Academy of 
+16
+Journal of Financial Crises Vol. 7 Iss. 3
+
+--- Page 19 ---
+Sciences, October 10, 2022.  
+https://www.nobelprize.org/uploads/2022/10/advanced-economicsciencesprize2022.pdf 
+Committee on Payments and Market Infrastructure. 2016. “A Glossary of Terms Used in 
+Payments and Settlement Systems.” Bank for International Settlements, October 17, 2016.  
+https://www.bis.org/cpmi/publ/d00b.htm  
+Deutsche Bundesbank. 2017. “The Role of Banks, Non-Banks and the Central Bank in the 
+Money Creation Process.” Deutsche Bundesbank Monthly Report 69, no. 4(April): 13–33. 
+https://api.semanticscholar.org/CorpusID:212736206  
+Diamond, Douglas W., and Philip H. Dybvig. 1983. “Bank Runs, Deposit Insurance, and 
+Liquidity.” Journal of Political Economy 91, no. 3 (June): 401–19. 
+https://doi.org/10.1086/261155  
+Faure, Salomon, and Hans Gersbach. 2021. “On the Money Creation Approach to Banking.” 
+Annals of Finance 17, no. 3 (September): 265–318. 
+https://doi.org/10.1007/s10436-021-00385-5  
+Foley-Fisher, Nathan, Borghan Narajabad, and Stéphane Verani. 2020. “Self-fulfilling Runs: 
+Evidence from the US Life Insurance Industry.” Journal of Political Economy 128, no. 9 
+(September): 3520–69. 
+https://doi.org/10.1086/708817  
+Gorton, Gary. 1999. “Pricing Free Bank Notes.” Journal of Monetary Economics 44, no. 1 
+(August): 33–64.  
+https://doi.org/10.1016/S0304-3932(99)00014-8 
+Greenwood, Robin, Samuel G. Hanson, and Jeremy C. Stein. 2015. “A Comparative‐
+Advantage Approach to Government Debt Maturity.” Journal of Finance 70, no. 4 (August): 
+1683–722. 
+https://doi.org/10.1111/jofi.12253  
+———. 2018. “The Federal Reserve’s Balance Sheet as a Financial-Stability Tool.” In 
+Innovative Federal Reserve Policies during the Great Financial Crisis, edited by Douglas D. 
+Evanoff, George G. Kaufman, and A.G. Malliaris, 63–124. Hackensack, NJ: World Scientific 
+Publishing Company.  
+https://doi.org/10.1142/9789813236592_0003  
+Jakab, Zoltan, and Michael Kumhof. 2015. “Banks are Not Intermediaries of Loanable 
+Funds–and Why This Matters.” Bank of England Working Paper No. 529, May 2015. 
+https://www.bankofengland.co.uk/working-paper/2015/banks-are-not-intermediaries-
+of-loanable-funds-and-why-this-matters  
+Kroszner, Randall S. 2006. “Central Counterparty Clearing: History, Innovation, and 
+Regulation.” Speech delivered at the Issues Related to Central Counterparty Clearing joint 
+conference hosted by the Federal Reserve Bank of Chicago and the European Central Bank, 
+17
+CBDC Settlement: Implications for Money Creation and Maturity Transformation Carapella
+
+--- Page 20 ---
+Frankfurt, Germany, April 3, 2006.  
+https://ssrn.com/abstract=948773  
+Marimon, Ramon, Juan Pablo Nicolini, and Pedro Teles. 2003. “Inside–Outside Money 
+Competition.” Journal of Monetary Economics 50, no. 8 (November): 1701–18. 
+https://doi.org/10.1016/j.jmoneco.2003.08.009  
+McDonald, Robert, and Anna Paulson. 2015. “AIG in Hindsight.” Journal of Economic 
+Perspectives 29, no. 2 (Spring): 81–106. 
+https://doi.org/10.1257/jep.29.2.81  
+McLeay, Michael, Amar Radia, and Ryland Thomas. 2014. “Money Creation in the Modern 
+Economy.” Bank of England Quarterly Bulletin 54, no. 1 (March): 14–27. 
+https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-
+creation-in-the-modern-economy.pdf  
+Mills, David C. 2007. “A Model in Which Outside and Inside Money are Essential.” 
+Macroeconomic Dynamics 11, no. 3 (June): 347–66. 
+https://doi.org/10.1017/S1365100506060123  
+Moser, James T. 1998. “Contracting Innovations and the Evolution of Clearing and 
+Settlement Methods at Futures Exchanges.” FRB of Chicago Working Paper No. 26, August 
+1998.  
+https://doi.org/10.2139/ssrn.910505  
+Panetta, Fabio. 2022. “Demystifying Wholesale Central Bank Digital Currency.” Speech 
+delivered at the symposium on Payments and Securities Settlement in Europe – Today and 
+Tomorrow hosted by the Deutsche Bundesbank, Frankfurt, Germany, September 26, 2022. 
+https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220926~5f9b85685a.en.h
+tml  
+Quinn, Stephen F., and William Roberds. 2008. “The Evolution of the Check as a Means of 
+Payment: A Historical Survey.” Federal Reserve Bank of Atlanta Economic Review 93, no. 4 
+(December). 
+https://fraser.stlouisfed.org/title/economic-review-federal-reserve-bank-atlanta-
+884/fourth-quarter-2008-601637  
+Rendahl, Pontus, and Lukas B. Freund. 2019. “Banks Do Not Create Money Out of Thin Air.” 
+VoxEU, December 14, 2019.  
+https://cepr.org/voxeu/columns/banks-do-not-create-money-out-thin-air 
+Schmidt, Lawrence, Allan Timmermann, and Russ Wermers. 2016. “Runs on Money Market 
+Mutual Funds.” American Economic Review 106, no. 9 (September): 2625–57. 
+https://doi.org/10.1257/aer.20140678  
+18
+Journal of Financial Crises Vol. 7 Iss. 3
+
+--- Page 21 ---
+Sunderam, Adi. 2015. “Money Creation and the Shadow Banking System.” Review of 
+Financial Studies 28, no. 4 (April): 939–77. 
+https://doi.org/10.1093/rfs/hhu083  
+Wallace, Neil. 1996. “Narrow Banking Meets the Diamond-Dybvig Model.” Federal Reserve 
+Bank of Minneapolis Quarterly Review 20, no. 1 (Winter): 3–13. 
+https://doi.org/10.21034/qr.2011  
+This open access article is distributed under the terms of the CC-BY-NC-ND 4.0 license, which allows 
+sharing of this work provided the original author and source are cited. The work may not be changed 
+or used commercially. 
+19
+CBDC Settlement: Implications for Money Creation and Maturity Transformation Carapella

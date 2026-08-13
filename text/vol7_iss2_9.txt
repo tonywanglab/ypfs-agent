@@ -1,0 +1,1239 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 7 Issue 2 
+2025 
+United States: Reserve Primary Fund Suspension, 2008 United States: Reserve Primary Fund Suspension, 2008 
+Anmol Makhija 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Finance and Financial Management Commons, Law and Economics Commons, Policy Design, Analysis, 
+and Evaluation Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Makhija, Anmol (2025) "United States: Reserve Primary Fund Suspension, 2008," Journal of Financial 
+Crises: Vol. 7 : Iss. 2, 227-256. 
+DOI: https://doi.org/10.17132/2693-3179.1655 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/9 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol7/iss2/9
+
+--- Page 3 ---
+United States: Reserve Primary Fund  
+Suspension, 20081 
+Anmol Makhija2 
+Yale Program on Financial Stability Case Study 
+June 25, 2025 
+Abstract 
+In 2008, the Reserve Primary Fund was the world’s third -largest money market fund with 
+$62.5 billion in assets. Following Lehman Brothers’ bankruptcy filing on September 15, the 
+Primary Fund’s $785 million position in Lehman debt securities was underwater, and the 
+fund faced severe redemption pressures from investors . In just two days, redemption 
+requests surpassed $40 billion. Owing to the fund’s inability to liquidate assets at or above 
+par value in the frozen markets and the inability of its sponsor, the Reserve Mana gement 
+Company, Inc. (RMCI), to support investors, the Reserve announced on September 16 that 
+the Primary Fund had “broken the buck” at 4pm that day, meaning that its net asset value 
+per share had fallen under $0.995. Following RMCI’s recommendation, the Primary Fund  
+delayed payments by seven days for  redemptions of more than $10,000 , and the Reserve 
+requested the Securities and Exchange Commission ( SEC) to allow the Primary Fund to 
+suspend redemption rights for outstanding redeemable securities. On September 22, the SEC 
+issued an order permitting the Primary Fund to temporarily suspend redemption rights with 
+effect as of September 17. Following the suspension, the fund’s management company began 
+liquidating the Primary Fund on September  29; however, the liquidation was marked by 
+several legal challenges. The Primary Fund’s investors recovered about half their funds at 
+the end of October 2008 and 79 cents for every dollar in early December; they waited two 
+years for recoveries to reach 99 cents on the dollar  and received a final distribution in 
+December 2014 when recoveries ultimately reached 99.1 cents.  
+Keywords: broke the buck, Global Financial Crisis, money market funds, Reserve Primary 
+Fund, Securities and Exchange Commission 
+ 
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering bank holiday and fund suspensio n programs. A survey of all the cases in this series 
+(Wiggins et al.  2025) and the cases underlying it are available from the Journal of Financial Crises  at 
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+227
+
+--- Page 4 ---
+Overview 
+This case study  is about the temporary 
+suspension of redemption rights for Reserve 
+Primary Fund investors following an order 
+issued by the Securities and Exchange 
+Commission (SEC).  The module also briefly 
+discusses related assistance provided to the 
+Reserve U.S. Governmen t Fund and other 
+fund series managed by the Reserve 
+Management Company, Inc. (RMCI).  
+In 2008, RMCI provided investment advisory 
+services to five investment companies, 
+offering 22 open-end portfolios (collectively, 
+the Reserve Funds  or the Reserve ) and 
+managing approximately $120 billion in 
+assets. In the fall of 2008, t he Reserve 
+Primary Fund was the flagship Reserve fund 
+and the world’s third -largest money market 
+fund (MMF) with $62.5 billion in assets 
+under management (AUM).  
+As of Sunday, September 14, 2008, the 
+Primary Fund held commercial paper and 
+medium-term notes issued by Lehman 
+Brothers with a face value of $785 million, or 
+about 1.2% of the Primary Fund’s total 
+assets. Early in the morning of September 15, 
+Lehman Brothers filed for bankruptcy . As a 
+consequence of this announcement , the 
+Primary Fund faced severe redemption 
+pressures. At 10:10am on September 15, 
+State Street Bank and Trust Company, the 
+Primary Fund’s custodial bank, having 
+funded approximately $10 billion in 
+redemption requests through the Primary 
+Fund’s overdraft account , s topped funding 
+these requests and suspended the Primary 
+Fund’s overdraft privileges. Although 
+redemptions were no longer being paid out, 
+by 3:45pm the next da y, unfulfilled 
+redemption requests surpassed $30 billion, 
+bringing total redemptions to roughly two -
+thirds of the Primary Fund’s total AUM.  
+Key Terms 
+Purpose: The SEC stated that the temporary 
+suspension of redemption rights in the Primary 
+Fund was necessary to protect the fund’s investors  
+Announcement 
+Date 
+September 22, 2008  
+End Date December 9, 2014  
+Legal Authority Section 22(e)(3) of the 
+Investment Company Act of 
+1940  
+Administrators The Securities and Exchange 
+Commission  
+Communication 
+and Disclosure 
+The SEC stated that it 
+retroactively suspended 
+redemption rights in the 
+Primary Fund to protect the 
+fund’s investors and alleged 
+that the operators of the fund 
+violated securities laws 
+Permitted 
+Withdrawals 
+Withdrawals were not 
+permitted for investors in the 
+Primary Fund 
+Treatment of 
+Depositors or 
+Investors 
+The Primary Fund delayed 
+payments by seven days for 
+redemptions of more than 
+$10,000 on September 17 
+and sought an SEC order to 
+suspend redemption rights  
+Outcomes When the final distribution 
+was made in December 2014, 
+investors had recovered 99.1 
+cents per share held in the 
+Primary Fund on September 
+15, 2008 
+ 
+Notable Features 
+ 
+The SEC alleged that the 
+Primary Fund operators 
+violated securities laws by 
+telling investors the fund still 
+had a $1.00 NAV on 
+September 15 and part of the 
+day on September 16; 
+(continued) 
+228
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 5 ---
+On September 16, the Reserve reported that 
+the fund had marked down  its Lehman 
+holdings to zero, which caused the net asset 
+value (NAV) of the Primary Fund to fall 
+under $1.00 per share at 4pm. As a result, the 
+Primary Fund became the second US -based 
+MMF to ever break the buck, in other words, the second fund whose shares declined in value 
+below $0.995 per share, the lowest point at which they could permissibly still be rounded to 
+$1.003 (Gardephe 2010; The Reserve 2008a). On September 16, the Reserve also announced 
+a seven -calendar-day redemption delay.  The Reserve Yield Plus Fund and the Reserve 
+International Liquidity Fund, Ltd., two other Reserve Funds, also broke the buck that day 
+(The Reserve 2008b). The Reserve Primary Fund was the only money market fund that held 
+Lehman debt securities and did not have an affiliate with sufficient resources to support a 
+$1.00 per share NAV (US GAO 2023).  
+Following the unprecedented run on the Reserve Primary Fund, the run spread to the other 
+Reserve Funds and almost immediately to the entire money market fund industry (Shapiro 
+2012).  
+As indicated in Figure 1, between September 10 and October 1, $439 billion was redeemed 
+from prime funds and $362 billion flowed into government-only funds (Bernanke 2015). 
+  
+ 
+3 In 1994, Community Banker's U.S. Government Money Market Fund lost a large fraction of its investments in 
+floating-rate securities and became the first US -based money market fund to break the buck when the 
+portfolio’s market value declined due to a sharp increase in interest rates. That event did not create widespread 
+panic at other money market funds (ICI 2012a). 
+Notable Features 
+(continued) 
+A court overruled the fund’s 
+plan to set aside $3.5 billion 
+of investors’ funds to handle 
+litigation costs, replacing it 
+with a more modest $83.5 
+million expense fund 
+229
+United States: Reserve Primary Fund Suspension, 2008 Makhija
+
+--- Page 6 ---
+Figure 1: Investments in Money Market Funds, August–October 2008 
+ 
+Note: In a fli ght to safety, investors shifted from prime money market funds to government money market 
+funds, which invest in Treasury and agency securities and repo backed by those securities.  
+Source: FCIC 2011. 
+Patrick McCabe, an economist at the Federal Reserve, states of the broader run on the MMFs: 
+“It was overwhelmingly clear that we were staring into the abyss —that there wasn’t a 
+bottom to this —as the outflows picked up steam on Wednesday and Thursday. The 
+overwhelming sense was that this was a catast rophe that we were watching unfold” (FCIC 
+2011, 357) . MMFs started hoarding cash and stopped rolling over commercial paper 
+positions issued by companies, financial institutions, and local and state governments. The 
+MMF industry held 40% of outstanding comm ercial paper in 2008 , and during September 
+2008, the funds’ retreat from the markets caused the short -term credit markets to freeze 
+(Shapiro 2012). 
+On September 22, 2008, the SEC issued an order permitting the Reserve to suspend the 
+redemption rights for outstanding redeemable securities and postpone payment for shares 
+that had been submitted for redemption but had not yet been paid  in the Primary Fund and 
+the U .S. Government Fund, with effect as of September 17, 2008. The SEC stated that th e 
+order was “necessary for the protection of their security holders” (SEC 2008a, 2). The order 
+permitted the Primary Fund to “suspend redemptions and payment of redemption proceeds, 
+until the markets are liquid to a degree that enables each fund to liquidate portfolio securities 
+without impairing the net asset value of each fund, or until the Commission rescinds the 
+order,” according to a frequently -asked-questions statement the SEC later released  (SEC 
+2008d, 1). The fund would create a plan for the orderly liquidation of assets that would be 
+supervised by the SEC, and the fund also represented that it would keep appropriate records 
+of the events.  
+On October 24, 2008, the SEC issued a second order suspending redemption  rights and 
+permitting delayed payment to allow for orderly liquidations in several other Reserve Funds, 
+with effect from October 8, 2008 (SEC 2008b). 
+230
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 7 ---
+On September 30, the board of trustees of the Reserve Funds voted to liquidate the Reserve 
+U.S. Government Fund  (The Reserve 2008f) . On November 20, 2008 , the US Treasury 
+Department entered into an agreement to accept the Reserve U.S. Government Fund into its 
+temporary guarantee program for Money Market Funds, announced on September 19, 2008, 
+although the fund was not originally eligible. The Treasury agreed to serve as a buyer of last 
+resort for the fund ’s securities, if the fund was  unable to liquidate portfolio securities at or 
+above amortized cost within 45 days, so that shareholders in the fund would recover their 
+entire investment (US Treasury 2008b).  
+On December 3, the Primary Fund’s board approved a plan of liquidation and distribution of 
+assets that would have distributed up to 91.72 cents per share , while setting aside 
+$3.5 billion in a special reserve to cover any legal expens es and judgments against the fund 
+filed by investors. On May 5, 2009, the SEC filed an action to the United States District Court 
+for the Southern District of New York (USDC –SDNY) to prohibit the Primary Fund from 
+enacting that proposal since it did not co nsider the plan “fair and equitable .” The SEC  
+objected that the plan would “ effectively halt all further distributions to any investors in 
+order to fund an enormous ‘Special Reserve’ to benefit the Fund ’s Trustees and individuals 
+other than investors” (SEC 2009b, 3). The SEC also objected that the plan would have allowed 
+investors who redeemed early to receive all of their money back; the SEC instead proposed 
+a pro rata distribution plan  treating all investors equally . It also proposed replacing the 
+special reserve with a far smaller expense fund of $83.5 million to cover fund management 
+fees and expenses. Seventy-five investors in the Primary Fund submitted comments on this 
+revised pro rata distribution plan. Investors who represented more than 75% of the Primary 
+Fund’s remaining assets either supported or did not have any objections to the SEC’s 
+distribution plan (Gardephe 2009a) . The objections of the shareholders representing the 
+remaining 25% of assets are described in Key Design Decision No. 9, Verification of Solvency. 
+A court later ruled in support of the SEC’s plan.  
+By July 16, 2010, investors in the Primary Fund recovered 99% of their investments, and 
+they ultimately recovered approximately 99.1 cents on the  dollar, after RMCI received 
+approval from a federal court in September 2014 to make the final distribution (Primary 
+Fund-In Liquidation 2014a) . A timeline of events related to the suspension of redemption 
+rights for the Reserve Primary Fund is shown in Figure 2.   
+Figure 2: Timeline of Important Events—Reserve Funds 
+Date Event  
+Sept. 15, 2008 Lehman Brothers files for bankruptcy, which triggers a run on the Reserve Primary Fund.  
+State Street Bank and Trust Company, the Primary Fund’s custodian, stops funding redemption 
+requests and suspends the fund’s overdraft privileges after honoring $10 billion in redemption 
+requests.  
+Bruce Bent II, RMCI’s vice chairman and president, emails the director of sales and marketing 
+that RMCI will provide credit support to the Primary Fund and is waiting for final SEC approval 
+to support the fund. Bent II also disseminates similar false statements regarding credit support 
+to representatives at Moody’s Investors Service and Standard & Poor’s and authorizes the 
+dissemination of these false statements to clients on a need basis.  
+231
+United States: Reserve Primary Fund Suspension, 2008 Makhija
+
+--- Page 8 ---
+Sept. 16, 2008 Total redemption requests at the Primary Fund exceed $40 billion. 
+The Reserve announces that the Primary Fund and two other Reserve Fund series “broke the 
+buck.” 
+The Reserve announces a seven-calendar-day redemption delay. 
+Sept. 19, 2008 The US Treasury Department announces the Temporary Guarantee Program for Money 
+Market Funds. The Federal Reserve launches the Asset-Backed Commercial Paper Money 
+Market Mutual Fund Liquidity Facility (AMLF). 
+Sept. 22, 2008 The SEC issues an order retroactively suspending redemption rights at the Primary Fund and 
+the U.S. Government Fund effective as of Sept. 17. 
+Sept. 23, 2008 The board of directors of the Reserve International Liquidity Fund votes to suspend 
+redemption rights from and purchases into the fund  
+Sept. 29, 2008 The board of trustees of the Reserve Funds votes to liquidate the assets of the Primary Fund 
+and approves an initial cash distribution of $20 billion to all investors pro rata , based on the 
+proportion of shares at market close Sept. 15.  
+Oct. 1, 2008 The board of trustees of the Reserve Funds votes to liquidate the U.S. Government Fund. 
+Oct. 7, 2008 The Federal Reserve announces the Commercial Paper Funding Facility (CPFF).  
+Oct. 30, 2008 The Primary Fund distributes $26 billion to the fund’s investors.  
+Nov. 20, 2008 The US Treasury Department agrees to serve as a buyer of last resort for the Reserve U.S. 
+Government Fund’s securities at their amortized cost, to make sure its investors are fully 
+compensated in the fund’s liquidation. 
+Dec. 3, 2008 The Primary Fund’s board approves a plan of liquidation and distribution of assets that would 
+have distributed up to 91.72 cents per share. 
+May 5, 2009 The SEC petitions the United States District Court for the Southern District of New York 
+(USDC–SDNY), to prohibit the Primary Fund from enacting its plan of liquidation. The SEC 
+objects to the fund’s proposal to fully restore the investments of investors who redeem early, 
+which it deems not “fair and equitable.” The SEC also objects to the fund’s proposed $3.5 
+billion special reserve to handle its litigation costs. 
+Nov. 25, 2009 Judge Paul Gardephe of USDC–SDNY issues an order prohibiting the Primary Fund from 
+enacting its liquidation plan and approving the SEC’s proposed pro rata distribution plan , 
+replacing the $3.5 billion special reserve with an $83.5 million fund to cover the fund’s 
+management fees and expenses. 
+Dec. 9, 2014 Investors receive the final distribution from the Primary Fund and ultimately recover 99.1% of 
+their investment. 
+Source: Author’s analysis.  
+Summary Evaluation 
+Steven Shafran, a senior US Treasury official at the time , note s that by allowing some 
+investors (the first $10 billion before State Street stopped honoring requests) to redeem at 
+par on the morning of September 15, 2008, the fund concentrated the Lehman loss onto the 
+remaining investors who had not redeemed fast enough. He highlights that in the overnight 
+232
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 9 ---
+cash market, investors were not rewarded for their patience and investors fled to safety 
+(Shafran 2020). 
+Then–Federal Reserve Bank of New York President  Timothy Geithner point s out that 
+although the Lehman paper represented only 1.2% of the Primary Fund’s AUM, it was 
+enough to spark a run since the Primary Fund had no capital buffers to absorb losses 
+(Geithner 2014, 195).  
+A paper analyze s sponsor support provided to 14 other MMFs that held Lehman debt and 
+points out that the extent of sponsor support was limited to the Lehman exposure of each of 
+these funds. The paper goes on to say that the ultimate cause of the Primary Fund’s downfall 
+was the lack of sponsor support that could have provided nonmarket liquidity (Akay, 
+Griffiths, and Winters 2015). 
+  
+233
+United States: Reserve Primary Fund Suspension, 2008 Makhija
+
+--- Page 10 ---
+Context: United States, Reserve Primary Fund, 2007–2008 
+Total AUM $28 billion as of May 31, 2007 
+$64 billion as of May 31, 2008  
+NAV Calculation Frequency Approximately hourly calculation 
+Lowest NAV $0.97 as of Sept. 16, 2008 
+Asset Ownership  
+(as of August 31, 2008) 
+Asset Backed Commercial Paper ~ 37% 
+Financial Paper ~ 21% 
+CDs ~ 20% 
+Floating-Rate Notes ~ 13% 
+Repos ~ 6% 
+Others ~ 4% 
+Percentage of Impaired Assets 1.2% as of Sept. 15, 2008 
+Sponsor Support None 
+Source: Akay, Griffiths, and Winters 2015. 
+ 
+234
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 11 ---
+Key Design Decisions 
+1. Purpose: The purpose of suspending redemption  rights and delaying payments 
+was to avoid the fund’s having to sell assets in “extraordinary market conditions,” 
+and the SEC found such actions were necessary to protect the fund’s investors.  
+The Reserve Primary Fund , the flagship Reserve fund , increased its commercial paper 
+holdings from 1% of the fund’s assets in July 2007 to nearly 60% of assets a year later. When 
+the Primary Fund increased commercial paper holdings—including Lehman debt—its gross 
+yield increased rapidly  relative to that of its peers , and the fund’s assets jumped from $30 
+billion in July 2007 to $67 billion in July 2008 ; virtually all of the asset growth was 
+commercial paper (McCabe 2010). By September 2008, t he Primary Fund  was the world’s 
+third-largest money market fund and had $62.5 billion in assets under management (The 
+Reserve 2008h). In September 2008, approximately 21% of the Primary Fund’s assets were 
+held in financial commercial paper, including debt issued by Lehman Brothers.4 The Primary 
+Fund faced severe redemption pressures following Lehman Brothers’ bankruptcy filing, 
+since the fund held $785 million (1.2% of the Primary Fund’s total AUM) of unsecured 
+commercial paper and medium-term notes issued by Lehman (The Reserve 2008k). Without 
+capital support from an affiliate, any loss greater than 0.5% of a fund’s assets would have 
+been sufficient to cause the fund to break the buck, that is, to report a net asset value below 
+$0.995 per share, the lowest point at which they could permissibly be rounded to $1.00 (ICI 
+2009). 
+Confronted with Lehman’s failure, the fund’s board pursued several options b efore 
+suspending redemptions on September 16. First, in a conference call at 9:30 in the morning 
+on September 15, the board decided on the advice of KPMG, its accounting firm, and outside 
+legal counsel to change the accounting method for the Primary Fund from amortized cost to 
+fair value, to reflect the impact of the Lehman bankruptcy on the NAV per share.5 The board 
+also concluded that it was not in the best interest of the Primary Fund shareholders to 
+liquidate the Lehman debt at fire sale prices amidst the credit market turmoil and near freeze 
+of trading. Although the fund’s chief investment officer advised the board that there was 
+indicative pricing in the market for the Lehman paper between 45% and 80% of par , the 
+board decided to value the Lehman paper at 80% of par, the high end of that range. At that 
+level, the value of the Primary Fund shares fell to $0.9975, just above the level required to 
+allow the fund to maintain a NAV per share of $1.00 (SEC 2009a).  
+But extraordinary redemption requests during trading on September 15 forced the board to 
+meet again at 1pm to consider further options. Under normal conditions, investors would 
+receive payment for their redeemed shares from State Street within an hour of submitting 
+the redemption request. At 10:10am on September 15, State Street , having received 
+approximately $10 billion in redemptions, stopped funding redemption requests and 
+suspended the Primary Fund’s overdraft privileges. By 1pm, redemption requests totaled 
+$16.5 billion (Gardephe 2009a). Given the unprecedented market illiquidity, Bruce Bent Sr., 
+ 
+4 Figure 5 in the Appendix provides a detailed breakdown of the Reserve Primary Fund’s portfolio. 
+5 The Primary Fund calculated its NAV on an approximately hourly basis.  
+235
+United States: Reserve Primary Fund Suspension, 2008 Makhija
+
+--- Page 12 ---
+the chairman of RMCI and the Primary Fund, notified the board that the fund would not be 
+able to liquidate assets at par value to meet redemptions but would likely have to do so at 
+“fire sale prices” (The Reserve 2008k, 2) . In other words, the fair value of assets at current 
+market prices was below par, implying that without some kind of support from its sponsors, 
+the fund would have to break the buck. To avoid breaking the buck , the board authorized 
+management to enter into a credit support agreement with RMCI . It also authorized 
+management to file the required notice with the SEC about the support agreement.  
+By September 16, 2008, redemptions at the Primary Fund exceeded $40 billion. The fund 
+never entered into  a credit support agreement with RMCI; the SEC later d etermined that 
+RMCI had misrepresented its willingness to provide credit support to the fund . Later on 
+September 16, the board notified the SEC and issued a press release announcing that it had 
+written off the entire value of the Lehman debt and that the fund had therefore broken the 
+buck (SEC 2009a; The Reserve 2008b). 
+At one point during the run, the Primary Fund asked the Federal Reserve Bank of New York 
+for help to avoid breaking the buck ; however, the New York Fed declined, since it did not 
+think it could stop the run. The Fed did not have the legal authority to guarantee MMFs and 
+protect their investors from losses, and Don ald Kohn, then  vice chair of the Fed, 
+characterized the Primary Fund’s request for aid from the Fed as a “ridiculous request” 
+(Geithner 2014, 195). However, within days, the Treasury rather than the Fed had found the 
+authority to guarantee MMF investors , and the Fed, under Kohn’s leadership, had launched 
+its own broad-based program to lend to banks for the purpose of buying commercial paper 
+from MMFs, described in Key Design Decisions No. 2, Part of a Package  (Logan, Nelson, and 
+Parkinson 2020). 
+The Reserve Funds submitted an application to the SEC to suspend redemption rights for the 
+Primary Fund and U .S. Government Fund securiti es and postpone payment for shares that 
+had requested redemption but which had not been paid; research has been unable to locate 
+the application or determine the date on which it was sent (SEC 2008a, 1). On September 22, 
+2008, the SEC issued an exemptive order permitting the funds to temporarily suspend 
+redemption rights and postpone payment for shares redeemed but not paid (SEC 2008a, 2). 
+This SEC order was applied retrospectively beginning September 17 , 2008 (SEC 2008a, 2). 
+The SEC stated that the order was necessary for the protection of the investors and it would 
+stay in effect until the markets were “liquid to a degree that enable[d] each Fund to liquidate 
+portfolio securities without impairing the n et asset value of each  or until revoked by the 
+commission” (SEC 2008a, 2). 
+2. Part of a Package: The US Department of the Treasury created the Temporary 
+Guarantee Program for Money Market Funds, and the Federal Reserve created the 
+AMLF and Money Market Invest or Funding Facility ( MMIFF), among other 
+facilities, to provide liquidity to the credit markets and aid money market funds. 
+Money market funds experienced a broad run by investors following the news of the Primary 
+Fund’s breaking the buck . Marcin Kacperczy k and Philipp Schnabl  estimate about $172 
+billion in MMF redemptions within three days. Kacperczyk and Schnabl also estimate that 
+236
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 13 ---
+the total value of commercial paper outstanding fell by 15%, from approximately $1.8 trillion 
+to $1.4 trillion, within a month of the Primary Fund’s announcement (2010).  
+On September 19, the US Department of the Treasury announced the Temporary Guarantee 
+Program for Money Market Funds to arrest the run on the MMFs, and it became operational 
+on September 29 (Shapiro 2012). The temporary guarantee program was open to all MMFs 
+regulated under Rule 2a -7 of the Investment Company Act of 1940 with a NAV of at least 
+$0.995 as of Sept ember 19, 2008. For a quarterly fee, t he Treasury would guarantee the 
+share price of any eligible money market mutual fund that applied and paid for the program6 
+(US Treasury 2008a) . Figure 3 charts daily money market fund flows between August and 
+December 2008. 
+Figure 3: Prime Institutional Money Market Fund Flows 
+ 
+Source: YPFS and Brookings Institution. 
+The Primary Fund was not eligible for the guarantee program. However, other Reserve 
+Funds were, according to the Reserve. In November, the Treasury entered into an agreement 
+with the Reserve U.S. Government fund (which otherwise was not eligible) to allow the fund 
+to participate in the temporary guarantee program 7 (US Treasury 2008b) . The agreement 
+stated that the Reserve U.S. Government Fund had 45 days to sell assets at or above their 
+ 
+6 The guarantee was funded by the then –$50 billion Exchange Stabilization Fund. For more d etails on the 
+temporary guarantee program, see Vergara (2022).   
+7 The Reserve announced that the Primary II Fund, Reserve Liquid Performance Money Market Fund, and 
+Treasury and Repo Fund, were also eligible to participate in the temporary guarantee program; however, it is 
+not clear if these funds participated in the program (The Reserve 2008j) . Wilson (2020) claims to have 
+obtained, through FOIA, a list of all fund managers that received a guarantee, and Reserve is not on it.   
+237
+United States: Reserve Primary Fund Suspension, 2008 Makhija
+
+--- Page 14 ---
+amortized cost , and the Treasury's Exchange Stabilization Fund would purchase any 
+remaining securities after this period at amortized cost, up to an amount required to ensure 
+that each shareholder receive d $1 per share . The Reserve U .S. Government Fund did not 
+create any taxpayer losses through the temporary guarantee program (Henriques 2008). 
+The Treasury’s temporary guarantee program ended a year after it was announced, on 
+September 18, 2009, and generated $1.2 billion in fee revenue. At its peak usage, the program 
+guaranteed 366 MMF  management companies and 1,486 individual funds. The guarantee 
+gave fund managers the ability to protect investors if they were unable to maintain the value 
+of a fund’s holdings above $0.995 and were forced to liquidate . Ultimately, no f unds were 
+forced into liquidation during the time the program was active.  
+The Fed also created two broad-based programs to provide liquidity to MMFs that were still 
+experiencing runs. On September 19, 2008, the Federal Reserve launched the Asset -Backed 
+Commercial Paper Money Market Mutual Fund Liquidity Facility  “to assist money funds that 
+hold such paper in meeting demands for redemptions by investors and [to] foster liquidity 
+in the [asset-backed commercial paper] ABCP markets and broader money markets” (Fed 
+2008, 1). Through the AMLF, the Federal Reserve extended nonrecourse loans at the primary 
+credit rate to US depository institutions and bank holding companies to finance their 
+purchases of high-quality ABCP from money market mutual funds. 
+During the first two weeks of operation, the  Federal Reserve’s AMLF loaned $150 billion to 
+banks to purchase ABCP from MMMFs (the equivalent of 21% of all outstanding ABCP); 
+however, its usage declined  over time as redemption pressures waned and markets 
+improved (Wiggins 2020a). Kacperczyk and Schnabl (2010) highlight that this was the first 
+time in history that the Fed purchased commercial paper directly, and by January 2009, the 
+Fed was the single largest purchaser of commercial paper, owning $357 billion, or 22.4% of 
+the market, through its various lending facilities. 
+On October 21, 2008, the Fed also announced the Money Market Investor Funding Facility,  
+which was “intended to provide liquidity to U.S. money market mutual funds and certain 
+other money market investors, thereby increasing their ability to meet redemption requests 
+and hence their willingness to invest in money market instruments, particularly term money 
+market instruments” (Fed 2020, 5). The MMIFF would loan up to $540 billion to a series of 
+special purpose vehicles (SPVs) that would use the funds to purchase certificates of deposit, 
+bank notes, and commercial paper from eligible money market investors (Wiggins 2020b).  
+The Federal Reserve’s MMIFF expired on October 30, 2009 , and was not used. Collectively , 
+the Fed and Treasury’s programs immediately slowed the run on MMFs, but any evaluation 
+must consider the coexistence of the other programs targeting the same problem. 
+3. Legal Authority: To protect the investors in the Reserve Fund s, the SEC issued an 
+exemptive order pursuant to Section 2 2(e)(3) of the Investment Company Act 
+permitting the fund managers to temporarily suspend redemptions and postpone 
+payments for shares that were redeemed but unpaid.  
+The Fund had to seek SEC approval at various stages in 2008 and 2009. 
+238
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 15 ---
+First, on September 15, because the Lehman debt exceeded more than 0.5% of the Primary 
+Fund’s total assets, the fund had to provide the SEC with a plan to handle the Lehman 
+securities, as stipulated under Rule 2a -7 of the Investment Company Act of 1940 8 (SEC 
+2010). 
+Second, some sources suggest that on September 16, the Reserve Funds filed an application 
+with the SEC for permission to suspend redemptions and postpone payment s to investors, 
+under Section 22(e) of the Investment Company Act of 1940. This section of the law provides, 
+in part, that,  
+No registered investment company shall suspend the right of redemption, or postpone 
+the date of payment or satisfaction upon redemption of any redeemable security in 
+accordance with its terms for more than seven days  after the tender of such security to 
+the company or its agent designated for that purpose for redemption, except . . . 
+(3) for such other periods as the Commission may by order permit for the protection of 
+security holders of the company” (US Congress 2023, 64–65) (author’s emphasis) 
+On September 22, 2008, the SEC issued a temporary order pursuant to Section 22(e)(3), with 
+effect as of September 17,  permitting the Primary Fund and the Reserve U .S. Government 
+Fund to temporarily suspend redemptions of outstanding shares and postpone payment for 
+shares that had already been submitted for redemption but not yet paid , until market 
+liquidity improved so that the funds could sell their assets without impairing each fund’s 
+NAV or until the SEC rescinded the order (SEC 2008a).  
+In December 2008, t he SEC’s approval was again required after the closure of the fund for 
+the fund’s proposed plan to disburse remaining funds to shareholders. As noted in Key 
+Design Decision No. 5, Governance, the SEC did not approve of the fund’s proposed plan and 
+brought a court action under Section 21(d)(5) of the Securities and Exchange Act of 1934 to 
+substitute a different plan that it proposed. 
+Section 21(d)(5) of the Securities and Exchange Act of 1934 states that “[i]n any action or 
+proceeding brought or instituted by the Commission under any provision of the securities 
+laws, the Commission may seek, and any Federal court may grant, any equitable relief that 
+may be appropriate or necessary for the benefit of investors” (SEC 2009b, 5). 
+Further, under Section 25 (c) of the Investment Company Act , the USDC –SDNY had the 
+authority to “enjoin the consummation of any plan of reorganization of [a] registered 
+investment company upon proceedings instituted by the Commission . . . [where] such a plan 
+is not fair and equitable to all security holders” (SEC 2009b, 5). The court approved the SEC’s 
+plan of distribution. 
+ 
+8 Under Rule 2a-7, since the Lehman debt exceeded more than 0.5% of the Primary Fund’s total assets the fund’s 
+board had to determine whether it was in the best interest of the fund to dispose of the Lehman debt and notify 
+the SEC promptly of its decision (The Reserve 2008k, 1). 
+239
+United States: Reserve Primary Fund Suspension, 2008 Makhija
+
+--- Page 16 ---
+4. Administration: The Primary Fund postponed redemption payments for up to 
+seven calendar days and ultimately administered a plan of liquidation proposed 
+by the SEC rather than its original proposal. 
+Under Section 22 (e) of the Investment Company Act of 1940 , t he Primary Fund was 
+permitted to postpone payment for redemptions for up to seven days (SEC 2008c) . The 
+Primary Fund added a supplement to its prospectus on September 17, 2008, announcing that 
+redemption payments would be no later than seven calendar days after the redemption 
+request was received9 (The Reserve 2007). 
+The Reserve Fund s was organized as a Massachusetts business trust , and under Article 9 
+Section 4(b) of the declaration governing the trust, either the trustees or the shareholders 
+were authorized to liquidate the fund (The Reserve 2008l). After redemptions were frozen 
+in the Primary Fund, while the liquidation of the fund was being decided on and 
+administered, RMCI started posting the complete portfolio of the fund with a one -day lag 
+(The Reserve 2008g).  
+5. Governance: The SEC supervised the Primary Fund’s plan of liquidation and asset 
+distribution, brought a lawsuit to enforce what it considered to be “fair and 
+equitable to investors,” and charged RCMI and its principals with fraud.  
+The SEC approved th e fund’s application to suspend redemptions and postpone payments 
+on September 22. On September 29, 2008, the Primary Fund’s board voted to liquidate the 
+fund and distribute its assets to shareholders (The Reserve 2008d).  
+On December 3, 2008, the Primary Fund’s board approved a plan of liquidation and 
+distribution of assets that would have distributed up to 91.72 cents per share, subject to 
+provisions made for a special reserve. Under t he special reserve proposal, the fund also 
+would have set aside $3.5 billion for costs and damages related to more than 20 lawsuits 
+filed against the operators of the Primary Fund after September 15 (The Reserve 2009).  
+On May 5, 2009, the SEC filed an action with a US District Court, pursuant to Section 25© of 
+the Investment Company Act, to prohibit the Primary Fund from enacting its plan for 
+distributing funds to investors in the liquidation. The SEC criticized the proposed diver sion 
+of funds to the $3.5 billion  special reserve. The SEC also said that the fund’s decision to 
+redeem some investors’ claims on September 15 at a $1 .00 NAV disadvantaged other 
+investors who tried to redeem later , and the plan was therefore  not “fair and equitable” to 
+investors (SEC 2009b, 6). The SEC took issue with the way the fund had valued the Lehman 
+assets and calculated its NAV. Since the SEC considered the fund’s NAV calculations and 
+communications to have been flawed, the SEC proposed a distributi on plan that paid all 
+shareholders the same pro  rata amount regardless of when they had submitted their 
+redemption request. Some shareholders were expecting to receive a NAV of $1.00, since they 
+had received redemption confirmations for a $1.00 NAV, and filed objections to the SEC’s pro 
+ 
+9 In its prospectus as of September 28, 2007, the Primary Fund had outlined that it might suspend redemptions 
+for more than seven  days if trading were suspended on the N ew York Stock Exchange, an emergency ere 
+declared by the SEC, or if otherwise permitted by SEC order (The Reserve 2007).  
+240
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 17 ---
+rata distribution plan (SEC 2009b). (See Key Design Decisions No. 8, Treatment of Depositors 
+or Investors, and No. 9, Verification of Solvency.) 
+On November 25, 2009, Judge Paul Gardephe  of USDC–SDNY issued an order enjoining the 
+Primary Fund’s liquidation plan and approving the SEC’s proposed pro rata distribution plan. 
+Judge Paul Gardephe’s order also reduced the amount set aside in the expense fund to 
+$83.5 million (Gardephe 2009b). 
+6. Communication and Disclosure: The SEC stated that it permitted the Primary Fund 
+to suspend redemptions and postpone payments to protect the fund’s investors, 
+but it also brought fraud charges against the fund’s management company, RMCI, 
+and its principals. 
+Some funds that held Lehman debt, such as the Evergreen fund, issued statements that they 
+would draw on available credit support  from their sponsors , if necessary, to support the 
+$1.00 NAV. The Primary Fund had no such agreements to draw upon to support its NAV, and 
+despite representations by RMCI that it would provide credit support and board approval 
+for the same, no such agreements were ever entered into (SEC 2009a).  
+Before announcing that the Primary Fund broke the buck and receiving the SEC’s exemptive 
+order permitting suspension of redemptions and postponement of payments, RMCI, Resrv 
+Partners, and the Bents engaged in active communications aimed at stopping the run on the 
+Primary Fund and related funds. The SEC later sued such parties alleging among other things 
+that these statements were materially false: 
+Over a two-day period in September [15–16] 2008, after the news of Lehman Brothers’ 
+bankruptcy filing roiled the US financial markets, Defendants engaged in a systematic 
+campaign to deceive the investing public into believing that the Primary Fund —their 
+flagship money market fund —was safe and secure despite its substantial Lehman 
+holdings. That campaign involved both the knowing  dissemination of false information 
+to the Primary Fund's Board of Trustees, investors, and rating agencies and, in the case 
+of certain Defendants , the knowing concealment  of the true effect  of the  Lehman 
+holdings on the Fund. (SEC 2009a, 2) 
+The defendants issued press releases  and newsletters, and their employees engaged in 
+numerous telephone calls and meetings that disseminated inaccurate information regarding 
+the NAV, impact of Lehman securities, redemption rates, overdraft protection, liquidity, and 
+the availability of credit support to the Primary Fund board, shareholders, rating agencies, 
+media, and general public.  
+Following the SEC’s order on September 22, 2008, the Reserve issued a press release 
+clarifying tha t the order was “intended  to allow us to fulfill all outstanding redemption 
+orders and ensure an orderly sale process that [sought] to obtain best pricing for the interest 
+of shareholders and integrity of the funds’ NAVs” (The Reserve 2008c, 1). By September 29, 
+the Primary Fund’s board had voted to liquidate the entire fund and distribute functionally 
+all its assets to shareholders; those shareholders who had not yet submitted a redemption 
+request would be involuntarily redeemed (The Reserve 2008d). 
+241
+United States: Reserve Primary Fund Suspension, 2008 Makhija
+
+--- Page 18 ---
+Beginning on September 19, t he Treasury and the Federal Reserve launched a number of 
+programs to stem the run on the MMF industry. The Treasury stated that “ maintaining 
+confidence in the money -market fund industry is critical to protecting the integrity and 
+stability of the global financial system” (Newman 2008, 1).  See Key Design Decision No. 2, 
+Part of a Package. 
+7. Details of Holidays, Suspensions, or Gates: The Primary Fund postponed payments 
+for seven days , and the SEC later approved a redemption suspension; the fund 
+allowed investors access to up to $10,000 without redemption delays , under 
+certain conditions. 
+The Primary Fund calculated its NAV on an approximately hourly basis per its prospectus. 
+Generally, the fund transferred redemption payments to its sh areholders within an hour of 
+receiving redemption requests, via its custodial bank, State Street Bank. State Street Bank 
+paid redeeming shareholders by applying the redemption amounts against RMCI’s overdraft 
+account. However, after State Street suspended the Primary Fund’s overdraft privileges, the 
+fund announced a seven -day delay in transmitting proceeds of redemptions in excess of 
+$10,000 (The Reserve 2008a). It isn’t clear from the sources we consulted whether the fund 
+continued to honor redemptions under $10,000 after the SEC’s September 22 ruling. 
+8. Treatment of Depositors or Investors: Investors of the Reserve Primary Fund 
+recovered about half their funds at the end of October and 79 cents for every 
+dollar in early December; they waited two years for recoveries to reach 99 cents. 
+Bent II had stated in an email on September 14, 2008, to RMCI’s director of marketing that 
+providing a line of credit to the Primary Fund and supporting the $1 .00 NAV was “not an 
+option for us” (SEC 2009a, 15). However, on September 15, Bent II emailed the director of 
+sales and marketing that RMCI would provide credit support to the Primary Fund and that it 
+was waiting for final SEC approval to support the fund. The SEC later stated that RMCI never 
+requested approval for credit support. Bent II also disseminated similar false statements 
+regarding credit support to representatives at Moody’s and Standa rd & Poor ’s and 
+authorized the dissemination of these false statements to clients on a need basis. In some 
+cases, based on the false information disseminated, prospective investors were assured that 
+the Primary Fund would not break the buck, and purchases of new shares in the fund were 
+processed until September 16. 
+On the evening of September 15 , it appeared that  the plan to slow redemption activity by 
+convincing investors that the Primary Fund's NAV was safe had been successful: “The client 
+base reacted positively to this news and the redemption activity slowed greatly” (SEC 2009a, 
+26). However, total redemption requests in the Primary Fund surpassed $20 billion by close 
+of business September 15, 2008, but nearly half remained unfunded. The other half were 
+largely funded through an overdraft account at the fund ’s custodial bank (The Reserve 
+2008l). By September 16, 2008, redemption  requests at the Primary Fund exceeded 
+$40 billion.  
+242
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 19 ---
+On September 17, the Reserve published NAVs for several funds including the Primary Fund 
+and stated that all redemption requests received for the fund before 3pm on September 16 
+would be redeemed at a n NAV of $1 .00. The SEC would later assert that at the time the 
+Reserve Fund s made the statement, its management knew it w as false  and was unfair to 
+shareholders. The SEC’s enforcement action is described in further detail in Key Design 
+Decision No. 10, Other Conditions. On September 30, 2008, the board of trustees of the 
+Reserve Fund s announced that the first distribution to  the fund’s investors would occur 
+around October 13, 2008 (The Reserve 2008e). However, the initial distribution was delayed 
+until October 30, 2008, due to technical challenges arising out of using a NAV under $1.00, 
+among other issues (The Reserve 2008h).  
+On October 2, 2008, the Reserve announced that it would post the complete portfolios of the 
+Primary Fund and the U .S. Government Fund with a one -day lag to better inform the funds’ 
+investors (The Reserve 2008g) . U ltimately, under the approved plan of distribution, all 
+distributions were made pro rata, including the interim distributions made before the final 
+liquidation plan was approved (The Reserve 2008l).  
+TD Ameritrade and Ameriprise Financial said that they would reimburse their clients for up 
+to a 3% loss in the Primary Fund (Anand and Scannell 2012). Some investors in the Primary 
+Fund were therefore able to recover their entire investment since TD Ameritrade and 
+Ameriprise Financial agreed to mitigate potential losses.  
+The Primary Fund’s investors eventually regained access to most of their money through 
+eight distributions that occurred after September 15, 2008, with the final distribution taking 
+place on December 9, 2014. Figure 4 shows the asset distributi on schedule. The final 
+recoveries for the fund’s shareholders amounted to 99.1 cents on the dollar (Primary Fund-
+In Liquidation 2014a).  
+  
+243
+United States: Reserve Primary Fund Suspension, 2008 Makhija
+
+--- Page 20 ---
+Figure 4: Asset Distribution Schedule for the Primary Fund 
+Date 
+Distribution Amount 
+($ millions) 
+Fund’s AUM 
+($ millions) 
+Investor Recoveries 
+Expressed as % of Fund 
+Assets at Close of 
+Business on Sept. 15, 2008 
+September 12, 2008 — 62,500 — 
+September 15, 2008 10,830 51,220 — 
+October 30, 2008 26,000 25,000 50.8% 
+December 3, 2008 14,400 10,600 78.9% 
+February 20, 2009 3,400 7,200 85.5% 
+April 17, 2009 2,300 4,900 90.0% 
+October 2, 2009 1,000 3,900 92.0% 
+January 29, 2010 3,400 500 98.6% 
+July 16, 2010 215 285 99.0% 
+December 9, 2014 67 218 99.1% 
+Sources: Primary Fund-In Liquidation 2014a; 2014b; The Reserve 2008e; The Reserve 2008l; The Reserve 2010a; 
+The Reserve 2010b. 
+When Bruce Bent and his partner Henry B. R. Brown launched the first MMF in 1970, they 
+developed the funds to provide investors with immed iate liquidity and safety of principal 
+invested amounts. Money market funds are subject to stringent regulations to ensure their 
+safety and liquidity. Mary L. Shapiro, then-chair of the SEC, has said that although investors 
+ultimately lost only one penny per share, the real damage was caused by the loss of liquidity 
+promised by the Reserve Primary Fund. Investors in the Primary Fund who temporarily lost 
+access to liquidity  could have been unable for months to make mortgage payments, pay 
+employees’ salaries, or fund their businesses (Shapiro 2012). 
+Shareholders in the Primary Fund also filed a class action lawsuit against the operators of 
+the fund (Church 2013) . As part of a court -approved settlement , they were awarded 
+$55 million in January 2014 (Primary Fund In Liquidation 2014). 
+9. Verification of Solvency: The  SEC assessed the  Primary Fund’s valuation for the 
+fund NAV on September 16, 2008, and stakeholders’ claims through legal 
+proceedings during the fund’s liquidation. 
+One of the reasons the SEC alleged that the operators of the Primary Fund were liable for 
+federal securities law violations was the discrepanc y in the fund’s NAV calculation for 
+September 15 and 16, 2008. The Reserve later admitted that the fund’s NAV calculation was 
+wrong, blaming an “administrative error” on September 16, 2008, and should have indicated 
+that the fund broke the buck when its NAV reached $0.9944 at 11 am on September 16, 
+earlier than previously stated (SEC n.d., 5). The Reserve explained that this error occurred 
+because the fair-value markdown to Lehman securities was not taken into consideration on 
+September 16 , and the Primary Fund’s assets were overstated by approximately 
+244
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 21 ---
+$170 million (The Reserve 2008i). When the SEC submitted its pro rata distribution plan for 
+the Primary Fund’s assets on May 5, 2009, it stated that the fund’s NAV calculation s from 
+those days were  “hopelessly and irreparably compromised by inaccurate and incomplete 
+information” (SEC 2009b, 2).  
+Owing to the unreliability of  the fund’s NAV calculation, the hierarchy of claims for unpaid 
+shareholders who redeemed on September 15 and 16, 2008, and the NAV per share value of 
+their redemptions were examined during legal proceedings.  Some shareholders received 
+confirmations that t heir redemption requests were received and would be paid out at the 
+stable NAV of $1.00 per share, but the SEC stated that these confirmations were based on 
+erroneous NAV calculations and did not create a contractual right to receive a $1.00 per 
+share redemption. A few investors who redeemed early also claimed that they became 
+unsecured credi tors as opposed to shareholders when the y received confirmation of 
+redemptions requests. However, the SEC stated that this reasoning was flawed since all fund 
+investors were creditors of the fund, regardless of their redemption activity. 
+The SEC also alleged that Bent II instructed the director of fund accounting to secretly record 
+receivables transactions for the Yield Plus  Fund and International Liquidity Fund totaling 
+$17 million, to avoid disclosing that these funds had broken the buck before the Primar y 
+Fund. When the Primary Fund broke the buck, these transactions were reversed (SEC 
+2009a). 
+10. Other Conditions: The Reserve Primary Fund and U .S. Government Fund were 
+required to suspend sales when the SEC permitted the temporary suspension of 
+redemptions and payments in the fund. 
+The Reserve Primary Fund and Reserve U .S. Government Fund agreed to suspend sales in 
+the funds when the SEC granted their application to suspend redemptions in the funds (SEC 
+2008a). Owing to the Reserve U.S. Government Fund’s agreement with the Treasury, the U.S. 
+Government Fund’s advisers and trustees were required to waive their fees accrued after 
+November 19, 2008, to the extent that fund shareholders did not receive distributions of 
+$1.00 per share (US Treasury 2008b).  
+The SEC filed an enforcement action against RMCI, Resrv Partners, the Reserve Primary 
+Fund, and the controlling persons of RMCI —Bruce Bent Sr. and Bruce Bent II —alleging 
+several counts of securities law violations. The SEC provided evidence that the defendants 
+published or authorized the dissemination of several false statements and concealed 
+material facts from the board of trustees, investors, and rating agencies  (See Key Design 
+Decision No. 6, Communication and Disclosure). After a four -week civil trial at the USDC –
+SDNY, the Bents were cleared of the fraud charges ; however, the court found Bent II liable 
+for one claim of negligence (Grind and Steinberg 2012) . Judge Paul Gardephe awarded 
+$750,000 to the SEC, instead of the $130 million in damages the SEC sought (Raymond and 
+Stempel 2013). Judge Gardephe also declined to order a permanent injunction from engaging 
+in activities subject to securities law against the Reserve entities and Bruce Bent II. 
+245
+United States: Reserve Primary Fund Suspension, 2008 Makhija
+
+--- Page 22 ---
+11. Exit Strategy: Redemptions in the Primary Fund were suspended with effect o n 
+September 17, 2008, and the fund’s liquidation ended in December 2014.  
+The Primary Fund’s liquidation process took more than  six years , and the fund was 
+terminated in late December 2015 (Primary Fund In Liquidation 2015, 1).  
+12. Regulatory Changes: The SEC made several amendments to the rule that primarily 
+regulates MMFs, Rule 2a-7 of the Investment Company Act of 1940. 
+Following the Global Financial Crisis  of 2007 –2009, the  SEC amended Rule 2a -7 of the 
+Investment Company Act of 1940 to enhance the regulatory regime for MMFs and mitigate 
+the systemic risk posed by MMFs (Shapiro 2009; Su 2020) . These amendments were 
+approved in January 2010 and provided adherence to strict levels of credit and interest rate 
+risks, high diversification requirements, periodic stress testing, disclosing monthly portfolio 
+information, three new liquidity requirements, and procedures to deal with money market 
+funds that break the buck (ICI 2012b).  
+Following this amendment, the Investment Company Institute published a checklist for 
+suspending redemptions and liquidating a MMF that outlines the major steps to follow 
+before suspending redemptions (ICI 2011).  
+Also of note is that then -SEC Chair Shapiro highlights in her testimony on June 21, 2012, 
+before the US Senate, that although the SEC amended regulations in 2010 to make MMFs 
+more resilient, they remained susceptible to runs and posed systemic risks (2012).  
+Evidence gathered following the run on MMFs during the COVID-19 pandemic suggests that 
+the SEC reforms adopted in 2010 and 2014 to strengthen MMFs  were not effective at 
+preventing runs and may have in fact contributed to the runs (US GAO 2023). 
+  
+246
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 23 ---
+References and Key Program Documents 
+Summary of Program 
+(Logan, Nelson, and Parkinson 2020) Logan, Lorie, William Nelson, and Patrick Parkinson. 
+2020. “The Fed’s Novel Lender-of-Last-Resort Programs.” In First Responders: Inside the U.S. 
+Strategy for Fighting the 2007–2009 Global Financial Crisis, edited by Ben S. Bernanke, 
+Timothy F. Geithner, and Henry M. Paulson, Jr., with J. Nellie Liang, 81–112. New Haven: 
+Yale University Press. 
+Book chapter examining the Fed’s novel lending practices, including those designed for money 
+market funds. 
+https://elischolar.library.yale.edu/ypfs-documents/12016 
+(Shafran 2020) Shafran, Steven M. 2020. “Money Market Funds: Collapse, Run, and 
+Guarantee.” In First Responders: Inside the U.S. Strategy for Fighting the 2007-2009 Global 
+Financial Crisis, edited by Ben S Bernanke, Timothy F. Geithner, and Henry M. Paulson Jr., 
+with J. Nellie Liang, 193–207. New Haven: Yale University Press. 
+Book chapter examining the Temporary Guarantee Program for Money Market Funds. 
+https://elischolar.library.yale.edu/ypfs-documents/12016 
+Legal/Regulatory Guidance 
+(Gardephe 2009a) Gardephe, Paul G. 2009a. Memorandum Opinion – In Re the Reserve 
+Fund Securities and Derivative Legislation. November 25, 2009. 
+Court order permitting the suspension of redemptions in certain Reserve Fund mutual funds 
+to permit their orderly liquidation. 
+https://elischolar.library.yale.edu/ypfs-documents2/4057 
+(Gardephe 2009b) Gardephe, Paul G. 2009b. Order – In Re the Reserve Fund Securities and 
+Derivative Legislation. November 25, 2009. 
+Court order requiring a liquidation plan for the Reserve Primary Fund’s assets and pro rata 
+distribution. 
+https://elischolar.library.yale.edu/ypfs-documents2/4056 
+(Gardephe 2010) Gardephe, Paul G. 2010. Memorandum Opinion and Order – In Re the 
+Reserve Fund Securities and Derivative Legislation. February 24, 2010. 
+Court order permitting the suspension of redemptions in certain Reserve Fund mutual funds 
+to permit their orderly liquidation. 
+https://elischolar.library.yale.edu/ypfs-documents2/4058 
+  
+247
+United States: Reserve Primary Fund Suspension, 2008 Makhija
+
+--- Page 24 ---
+(SEC 2008a) Securities and Exchange Commission (SEC). 2008a. Order Temporarily 
+Suspending Redemption of Investment Company Shares and Postponing Payment for 
+Investment Company Shares Which Have Been Submitted for Redemption for Which 
+Payment Has Not Been Made Pursuant to Section 22(e)(3) of the Investment Company Act 
+of 1940. September 22, 2008. 
+SEC order permitting the suspension of redemptions in two Reserve Funds to permit their 
+orderly liquidation. 
+https://elischolar.library.yale.edu/ypfs-documents2/4069 
+(SEC 2008b) Securities and Exchange Commission (SEC). 2008b. Reserve Municipal Money-
+Market Trust, et al.; Notice of Application and Temporary Order. October 24, 2008. 
+SEC order permitting the suspension of redemptions in most of the Reserve Funds to permit 
+their orderly liquidation. 
+https://elischolar.library.yale.edu/ypfs-documents2/4070 
+(SEC 2009a) Securities and Exchange Commission (SEC). 2009a. SEC Enforcement Action 
+Charging the Operators of the Reserve Primary Fund. May 5, 2009. 
+SEC enforcement action alleging that the operators of the Reserve Primary Fund violated 
+securities law. 
+https://elischolar.library.yale.edu/ypfs-documents2/4074 
+(SEC 2009b) Securities and Exchange Commission (SEC). 2009b. Plaintiff Securities and 
+Exchange Commission’s Memorandum of Law in Response to Objections to Its Application 
+for Injunctive and Other Relief and Approval of the Commission’s Proposed Plan of 
+Distribution. August 21, 2009. 
+The SEC’s brief, including an Appendix reflecting an amended plan clarifying the term sheet 
+previously submitted by the SEC. 
+https://elischolar.library.yale.edu/ypfs-documents2/4072 
+(SEC 2010) Securities and Exchange Commission (SEC). 2010. Investment Company Act of 
+1940. Money Market Fund Reform, Final Rule, March 4, 2010. 
+Rules change to the Investment Company Act of 1940 describing notification regulations in 
+the event of insolvency with respect to a portfolio security. 
+http://elischolar.library.yale.edu/ypfs-documents2/4116 
+(US Congress 2023) US Congress. 2023. Investment Company Act of 1940. January 5, 2023. 
+Amendment to the Investment Company Act of 1940. 
+http://elischolar.library.yale.edu/ypfs-documents2/4119 
+Media Stories 
+(Anand and Scannell 2012) Anand, Shefali, and Kara Scannell. 2012. “Ameritrade to Make 
+Clients Whole on Primary Fund.” Wall Street Journal, November 12, 2012. 
+News article discussing the outcome of the fraud charges the SEC filed against the operators 
+of the Reserve Primary Fund. 
+https://elischolar.library.yale.edu/ypfs-documents2/4053 
+248
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 25 ---
+(Church 2013) Church, Steven. 2013. “Reserve Primary Fund Settles Lawsuit for $54.9 
+Million.” Bloomberg, September 9, 2013. 
+News article discussing the settlement of a class action lawsuit in the Reserve Primary Fund 
+case. 
+https://elischolar.library.yale.edu/ypfs-documents2/4054 
+(Grind and Steinberg 2012) Grind, Kristen, and Julie Steinberg. 2012. “Reserve Primary 
+Managers Cleared in SEC Fraud Case.” Wall Street Journal, November 12, 2012. 
+News article discussing the outcome of the fraud charges the SEC filed against the operators 
+of the Reserve Primary Fund. 
+https://elischolar.library.yale.edu/ypfs-documents2/4059 
+(Henriques 2008) Henriques, Diana B. 2008. “U.S. Treasury to Support a Frozen Money 
+Fund.” New York Times, October 21, 2008. 
+Article discussing the US Treasury Department’s agreement to be the buyer of last resort for 
+the Reserve US Government Fund. 
+https://elischolar.library.yale.edu/ypfs-documents2/4060 
+(Newman 2008) Newman, Richard. 2008. “A Confidence Boost for Money Funds ; Treasury 
+Backs up Assets, Fed Offers Aid.” The Record, September 20, 2008. 
+News article discussing the outcome of the fraud charges the SEC filed against the operators 
+of Reserve Primary Fund. 
+https://elischolar.library.yale.edu/ypfs-documents2/4064 
+(Raymond and Stempel 2013) Raymond, Nate, and Jonathan Stempel. 2013. “US Judge 
+Awards $750,000 in Case of Money Fund That ‘Broke Buck.’” Reuters, September 30, 2013. 
+News article discussing fines RMCI, Resrv Partners, and Bruce Bent II had to pay following an 
+SEC lawsuit. 
+https://elischolar.library.yale.edu/ypfs-documents2/4067 
+Press Releases/Announcements 
+(Fed 2008) Board of Governors of the Federal Reserve System (Fed). 2008. “Federal 
+Reserve Board Announces Two Enhancements to Its Programs to Provide Liquidity to 
+Markets.” Press release, September 19, 2008. 
+The Federal Reserve’s announcement of programs to aid the MMF industry. 
+https://elischolar.library.yale.edu/ypfs-documents/8280/ 
+(Primary Fund In Liquidation 2014) Primary Fund In Liquidation. 2014. “Additional 
+Information Regarding Primary Fund In Liquidation.” Press release, January 23, 2014. 
+The Primary Fund-In Liquidation press release announcing court approval of settlement for 
+class action litigation. 
+https://elischolar.library.yale.edu/ypfs-documents2/4065 
+  
+249
+United States: Reserve Primary Fund Suspension, 2008 Makhija
+
+--- Page 26 ---
+(Primary Fund In Liquidation 2015) Primary Fund In Liquidation. 2015. “Termination of 
+Primary Fund In Liquidation.” Press release, November 4, 2015. 
+The Primary Fund-In Liquidation press release announcing its termination. 
+https://elischolar.library.yale.edu/ypfs-documents2/4066 
+(Primary Fund-In Liquidation 2014a) Primary Fund-In Liquidation. 2014a. “Additional 
+Information Regarding Primary Fund-In Liquidation: Federal Court Approves Final 
+Distribution.” Press release, September 23, 2014. 
+The Primary Fund-In Liquidation press release announcing the final distribution to investors 
+and total recoveries. 
+http://elischolar.library.yale.edu/ypfs-documents2/4124 
+(Primary Fund-In Liquidation 2014b) Primary Fund-In Liquidation. 2014b. “Fund 
+Update—Additional Information Regarding Primary Liquidating Fund: Primary Fund-In 
+Liquidation Date of Final Distribution, Tuesday, December 9, 2014.” Press release, 
+December 1, 2014. 
+The Primary Fund-In Liquidation press release announcing the date of the final distribution to 
+investors. 
+http://elischolar.library.yale.edu/ypfs-documents2/4121 
+(The Reserve 2008a) The Reserve. 2008a. “A Statement Regarding the Primary Fund.” 
+Press release, September 16, 2008. 
+The Reserve press release announcing that following the bankruptcy of Lehman Brothers, the 
+NAV of the Primary Fund series fell under one dollar per share. 
+https://elischolar.library.yale.edu/ypfs-documents2/4081 
+(The Reserve 2008b) The Reserve. 2008b. “Fund NAVs for September 16, 2008.” Press 
+release, September 17, 2008. 
+The Reserve press release announcing NAVs for three funds, including the Primary Fund. 
+https://elischolar.library.yale.edu/ypfs-documents2/4083 
+(The Reserve 2008c) The Reserve. 2008c. “SEC Order Granted to Protect Interest of 
+Reserve Shareholders.” Press release, September 23, 2008. 
+The Reserve press release clarifying the SEC order to suspend rights of redemption in the 
+Primary Fund and US Government Fund series. 
+https://elischolar.library.yale.edu/ypfs-documents2/4090 
+(The Reserve 2008d) The Reserve. 2008d. “Important Notice Regarding Reserve Primary 
+Fund.” Press release, September 29, 2008. 
+The Reserve press release announcing the liquidation of the Primary Fund series. 
+https://elischolar.library.yale.edu/ypfs-documents2/4084 
+(The Reserve 2008e) The Reserve. 2008e. “Timeframe for Initial Distribution Payment of 
+Reserve Primary Fund.” Press release, September 30, 2008. 
+The Reserve press release clarifying the timeframe for the initial distribution of assets from 
+the Primary Fund series. 
+https://elischolar.library.yale.edu/ypfs-documents2/4091 
+250
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 27 ---
+(The Reserve 2008f) The Reserve. 2008f. “Important Notice Regarding US Government 
+Fund.” Press release, October 1, 2008. 
+The Reserve press release announcing the liquidation of the U.S. Government Fund series. 
+https://elischolar.library.yale.edu/ypfs-documents2/4086 
+(The Reserve 2008g) The Reserve. 2008g. “Important Notice to Reserve Fund Investors.” 
+Press release, October 2, 2008. 
+The Reserve press release answering frequently asked questions regarding the Primary Fund 
+and the US Government Fund. 
+https://elischolar.library.yale.edu/ypfs-documents2/4087 
+(The Reserve 2008h) The Reserve. 2008h. “Reserve Primary Fund Disbursement Update.” 
+Press release, October 15, 2008. 
+The Reserve press release explaining the reason for a delay in the initial distribution of cash to 
+investors on a pro rata basis. 
+https://elischolar.library.yale.edu/ypfs-documents2/4089 
+(The Reserve 2008i) The Reserve. 2008i. “Important Notice Regarding Reserve Primary 
+Fund’s Net Asset Value.” Press release, November 26, 2008. 
+The Reserve’s admission of discrepancy in the Primary Fund’s NAV calculation. 
+https://elischolar.library.yale.edu/ypfs-documents2/4085 
+(The Reserve 2008j) The Reserve. 2008j. “Reserve Announces Participation of Some Funds 
+in the Treasury Guarantee Program.” Press release, November 26, 2008. 
+The Reserve’s announcement of the temporary guarantee program participation eligibility for 
+a few of its fund series. 
+https://elischolar.library.yale.edu/ypfs-documents2/4088 
+(The Reserve 2009) The Reserve. 2009. “The Primary Fund: A Statement Regarding Special 
+Reserve under the Plan of Liquidation.” Press release, February 26, 2009. 
+The Reserve press release announcing its plan of liquidation and distribution of assets for the 
+Primary Fund, approved on December 3, 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/4092 
+(The Reserve 2010a) The Reserve. 2010a. “Additional Information Regarding the Reserve 
+Primary Fund.” Press release, May 27, 2010. 
+Reserve statement providing an update on asset distributions that occurred until January 29, 
+2010, and expenses accrued. 
+https://elischolar.library.yale.edu/ypfs-documents2/4093 
+(The Reserve 2010b) The Reserve. 2010b. “Reserve Primary Fund to Distribute $215 
+Million.” Press release, July 15, 2010. 
+The Reserve press release announcing the seventh distribution to investors. 
+https://elischolar.library.yale.edu/ypfs-documents2/4094 
+  
+251
+United States: Reserve Primary Fund Suspension, 2008 Makhija
+
+--- Page 28 ---
+(US Treasury 2008a) US Department of the Treasury (US Treasury). 2008a. “Treasury 
+Announces Temporary Guarantee Program for Money Market Funds.” Press release, 
+September 29, 2008. 
+US Treasury press release announcing the opening of its Temporary Guarantee Program for 
+Money Market Funds. 
+http://elischolar.library.yale.edu/ypfs-documents/8276 
+(US Treasury 2008b) US Department of the Treasury (US Treasury). 2008b. “Treasury 
+Enters into Agreement to Assist the Reserve Fund’s US Government Money Market Fund.” 
+Press release, November 20, 2008. 
+US Treasury Department announcement of liquidation agreements to support the Reserve US 
+Government Fund. 
+https://elischolar.library.yale.edu/ypfs-documents2/47/ 
+Reports/Assessments 
+(Bernanke 2015) Bernanke, Ben S. 2015. The Courage to Act: A Memoir of a Crisis and Its 
+Aftermath. New York: W.W. Norton & Company. 
+Book describing the Bear Stearns crisis from the point of view of then–Federal Reserve 
+Chairman Bernanke. 
+https://elischolar.library.yale.edu/ypfs-documents/8330 
+(FCIC 2011) Financial Crisis Inquiry Commission (FCIC). 2011. “The Financial Crisis Inquiry 
+Report.” January 2011. 
+Final report of the National Commission on the Cause of the Financial and Economic Crisis in 
+the United States. 
+http://elischolar.library.yale.edu/ypfs-documents2/9 
+(Geithner 2014) Geithner, Timothy F. 2014. Stress Test: Reflections on Financial Crises. New 
+York: Crown Publishing Group. 
+Memoir describing former FRBNY President and Treasury Secretary Timothy Geithner’s 
+reflections on the Global Financial Crisis. 
+https://elischolar.library.yale.edu/ypfs-documents/8200/ 
+(ICI 2009) Investment Company Institute (ICI). 2009. “Report of the Money Market 
+Working Group.” March 17, 2009. 
+ICI money market working group report to the ICI’s board of governors including 
+recommendations to make MMFs more resilient to extreme market conditions such as those 
+encountered after the Primary Fund’s failure. 
+https://elischolar.library.yale.edu/ypfs-documents2/4061 
+(ICI 2011) Investment Company Institute (ICI). 2011. “Checklist for Suspending 
+Redemptions and Liquidating a Money Market Fund,” March 7, 2011. 
+A checklist for suspending redemptions and liquidating a money market fund following the 
+SEC’s amendment to Rule 2a-7, following the Global Financial Crisis. 
+https://elischolar.library.yale.edu/ypfs-documents2/4062 
+252
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 29 ---
+(ICI 2012a) Investment Company Institute (ICI). 2012a. “Money Market Funds in 2012: 
+History of Money Market Funds.” February 13, 2012. 
+ICI note providing a brief history of money market funds. 
+https://elischolar.library.yale.edu/ypfs-documents2/4063 
+(ICI 2012b) Investment Company Institute (ICI). 2012b. “History of Rule 2a‐7—The 
+Evolution of Money Market Fund Regulation.” March 1, 2012. 
+ICI note providing a brief history of money market fund regulations. 
+http://elischolar.library.yale.edu/ypfs-documents2/4118 
+(SEC n.d.) Securities and Exchange Commission (SEC). n.d. “Exhibit 5 - SEC’s Proposed 
+Distribution Plan.” 
+Revised calculations for the Primary Fund’s NAV as of September 15–16, 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/4077 
+(Shapiro 2009) Shapiro, L. Mary. 2009. “Speech by SEC Chairman: Statement at SEC Open 
+Meeting.” Speech delivered at an open meeting of the SEC, Washington, DC, June 24, 2009. 
+Mary L Shapiro, then-SEC chair’s opening statements during a meeting considering rules to 
+enhance the regulatory regime for money market mutual funds. 
+http://elischolar.library.yale.edu/ypfs-documents2/4120 
+(Shapiro 2012) Shapiro, L. Mary. 2012. “Perspectives on Money Market Mutual Fund 
+Reforms.” Testimony before the Committee on Banking, Housing, and Urban Affairs, US 
+Senate, June 21, 2012. 
+Mary L Shapiro, then-SEC chair’s testimony before the Committee on Banking, Housing, and 
+Urban Affairs of the United States Senate. 
+https://elischolar.library.yale.edu/ypfs-documents2/4078 
+(Su 2020) Su, Eva. 2020. “Money Market Mutual Funds: A Financial Stability Case Study.” 
+Congressional Research Service Report No. IF11320, March 24, 2020. 
+Congressional Research Service report examining the implications of money market fund runs 
+on financial stability. 
+https://elischolar.library.yale.edu/ypfs-documents2/4079 
+(The Reserve 2007) The Reserve. 2007. “Prospectus for the Primary Fund, US Government 
+Fund, US Treasury Fund, and Reserve Liquid Performance Money Market Fund.” September 
+28, 2007. 
+Prospectus for four Reserve Funds and supplements to the prospectus. 
+https://elischolar.library.yale.edu/ypfs-documents2/4080 
+(The Reserve 2008k) The Reserve. 2008k. “Minutes of the Joint Meeting of the Board of 
+Trustees of the Reserve Fund.” September 15, 2008. 
+Minutes of the meeting of the board of trustees of the Reserve Fund discussing the impact of 
+the Lehman bankruptcy on the Reserve Primary Fund. 
+http://elischolar.library.yale.edu/ypfs-documents2/4123 
+253
+United States: Reserve Primary Fund Suspension, 2008 Makhija
+
+--- Page 30 ---
+(The Reserve 2008l) The Reserve. 2008l. “The Primary Fund: Plan of Liquidation and 
+Distribution of Assets.” December 3, 2008. 
+A copy of the plan of liquidation and distribution of assets adopted by the board of the 
+Primary Fund. 
+http://elischolar.library.yale.edu/ypfs-documents/5260 
+(US GAO 2023) US Government Accountability Office (US GAO). 2023. “Money Market 
+Mutual Funds: Pandemic Revealed Unresolved Vulnerabilities.” Report No. GAO-23-
+105535, February 2023. 
+US GAO report to congressional committees on vulnerabilities in the money market mutual 
+fund industry. 
+http://elischolar.library.yale.edu/ypfs-documents2/4122 
+Key Academic Papers 
+(Akay, Griffiths, and Winters 2015) Akay, Ozgur, Mark Griffiths, and Drew Winters. 2015. 
+“Reserve Primary: Fools Rush in Where Wise Men Fear to Tread!” Journal Of Investment 
+Management 13, no. 1: 10–26, 2015. 
+Paper analyzing the buildup of commercial paper holdings in the Primary Fund and listing 
+reasons for the fund’s failure. 
+https://elischolar.library.yale.edu/ypfs-documents2/4052 
+(Kacperczyk and Schnabl 2010) Kacperczyk, Marcin, and Philipp Schnabl. 2010. “When Safe 
+Proved Risky: Commercial Paper during the Financial Crisis of 2007–2009.” Journal of 
+Economic Perspectives 24, no. 1: 29–50, 2010. 
+Paper examining the role of commercial paper and money market funds during the Global 
+Financial Crisis. 
+https://elischolar.library.yale.edu/ypfs-documents/463/ 
+(McCabe 2010) McCabe, Patrick E. 2010. “The Cross Section of Money Market Fund Risks 
+and Financial Crises.” Federal Reserve Board, Divisions of Research & Statistics and 
+Monetary Affairs, Finance and Economics Discussion Series, Paper No. 2010-51, September 
+12, 2010. 
+Paper examining the relationship between MMF risks and outcomes during the asset-backed 
+commercial paper market issues in 2007 and the Global Financial Crisis. 
+https://elischolar.library.yale.edu/ypfs-documents/507 
+(Vergara 2022) Vergara, Ezekiel. 2022. “United States: Temporary Guarantee Program for 
+Money Market Funds.” Journal of Financial Crises 4, no. 2: 657–72. 
+YPFS case study examining the 2008 Temporary Guarantee Program for Money Market 
+Funds. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/30 
+  
+254
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 31 ---
+(Wiggins 2020a) Wiggins, Rosalind Z. 2020a. “The Asset-Backed Commercial Paper Money 
+Market Mutual Fund Liquidity Facility (AMLF).” Journal of Financial Crises 2, no. 3: 229–55, 
+March. 
+YPFS case study examining the Asset-Backed Commercial Paper Money Market MutualFund 
+Liquidity Facility (AMLF). 
+http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/10 
+(Wiggins 2020b) Wiggins, Rosalind Z. 2020b. “Money Market Investor Funding Facility 
+(U.S. GFC).” Journal of Financial Crises 2, no. 3: 257–79, October. 
+YPFS case study examining the Money Market Investor Funding Facility. 
+https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1090&context=journal-of-
+financial-crises 
+(Wiggins et al. 2025) Wiggins, Rosalind Z., Owen Heaphy, Stella Schaefer-Brown, Anmol 
+Makhija, Greg Feldberg, and Andrew Metrick. 2025. “Survey of Bank Holidays and Fund 
+Suspensions.”  
+Survey of YPFS case studies examining bank holidays and fund suspensions. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/1/ 
+(Wilson 2020) Wilson, Linus. 2020. “Broken Bucks: Money Funds That Took Taxpayer 
+Guarantees in 2008.” Journal of Asset Management 21 no. 5: 375–92. 
+A paper that examines the characteristics of funds accepted into the US Treasury’s temporary 
+guarantee of money market mutual funds. 
+http://elischolar.library.yale.edu/ypfs-documents2/4117 
+Other 
+(Fed 2020) Board of Governors of the Federal Reserve System (Fed). 2020. “Credit and 
+Liquidity Programs and the Balance Sheet.” March 24, 2020. 
+Webpage outlining lending facilities established by the Fed. 
+https://elischolar.library.yale.edu/ypfs-documents2/4055 
+(SEC 2008c) Securities and Exchange Commission (SEC). 2008c. “Transcript of Recorded 
+Telephone Conversations - Osnato Declaration Exhibit 29.” September 15, 2008. 
+Transcript of a phone conversation in which the effect of the Lehman bankruptcy is discussed. 
+https://elischolar.library.yale.edu/ypfs-documents2/4071 
+(SEC 2008d) Securities and Exchange Commission (SEC). 2008d. “Division of Investment 
+Management Responses to Frequently Asked Questions about the Reserve Fund and Money 
+Market Funds.” October 1, 2008. 
+The SEC’s Division of Investment Management’s answers to a few frequently asked questions 
+regarding the suspension of redemptions in the Reserve Primary Fund. 
+https://elischolar.library.yale.edu/ypfs-documents2/4068 
+ 
+  
+255
+United States: Reserve Primary Fund Suspension, 2008 Makhija
+
+--- Page 32 ---
+Appendix 
+Figure 5: Reserve Primary Fund’s Portfolio Composition as of August 31, 2008 
+ 
+Source: Akay, Griffiths, and Winters 2015, 21. 
+ 
+Copyright 2025 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of  this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+ 
+256
+Journal of Financial Crises Vol. 7 Iss. 2

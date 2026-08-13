@@ -1,0 +1,99 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## Ron Bloom 
+
+By Mary Anne Chute Lynch 
+
+_Ron Bloom served as senior adviser to Secretary of the Treasury Timothy Geithner on President Barack Obama’s Task Force on the Automotive Industry and as assistant to the president for manufacturing policy (2009–2011). As senior adviser on the Auto Task Force team, Bloom helped lead the restructuring of General Motors and Chrysler LLC. Subsequently, he advised the Obama administration with policy development and strategic planning to revitalize the manufacturing sector. Bloom brought to Treasury his unique experience working with organized labor (including the United Steelworkers Union, United Auto Workers, the Teamsters, the Air Line Pilots Association), and in the investment industry, including as a founding partner of the Keilin and Bloom investment banking firm. Bloom was highly regarded for his unparalleled negotiation skills. He left Treasury in September 2012 and is currently managing partner and vice chair in Brookfield’s private equity group._ 
+
+## **Execute evenhandedly or you eliminate the government's credibility as a good regulator.** 
+
+The government cannot show favoritism toward any company or industry, Bloom cautioned. 
+
+It's absolutely vital that the government not be seen to be leaning in favor of one company or another. If it does, that completely eliminates the government's ability to be a good regulator. 
+
+There is no question that the car problems were in the making and dated back for many, many years. They had been asleep at the switch. General Motors had lost market share literally every year for 30 or 40 years . . . I believe the government should be loath to inject itself in those situations, except for an extraordinary circumstance . . . If a company of General Motors' or Chrysler's size and scale had failed in a healthy economy, they would have been able to be reorganized . . . Companies fail all the time. 
+
+The dilemma we faced with GM and Chrysler is the financial system itself had basically frozen. There was no credit available . . . If the government had not been prepared to provide them with debtor-in-possession [DIP] financing . . . there's no doubt in my mind they would have liquidated . . . These companies sit at the top of the manufacturing industry pyramid. There are literally millions of jobs that are directly or indirectly tied to General Motors and to Chrysler. The argument for saving these auto manufacturers is essentially not about saving them; it's about saving the industry. 
+
+That's the essential definition of systemically significant—you can't put this Humpty Dumpty back together again when the economy is in freefall . . . There was a lot of talk 
+
+
+about it being a moral hazard, but the moral hazard argument falls apart when the failure of the company matters not just to its shareholders, workers, and retirees, but literally to the entire industry. We weren't saving companies, we were saving the industry. 
+
+## **Be minimally invasive.** 
+
+The members of the Auto Task Force debated the proper level of government intervention throughout the negotiations, Bloom said. 
+
+In GM's case, it was a more complicated problem . . . There was great hesitancy to take over the management of GM . . . to intervene more than we needed to. I think this was shared throughout the administration.  The watchword was “minimally invasive surgery.” 
+
+The decision was, we will name new directors . . . people whom the government chooses to sit on the board of directors to direct the affairs of the company . . . We named a very successful and, we thought, tough-minded, good businessman to be chair of the board. 
+
+The change at Chrysler was more thoroughgoing because you had Fiat coming in from the outside, and . . . Chrysler was within an inch of extinction . . . Everybody knew that.Most people at GM figured we’d save them . . . The cultural change at GM did take longer to execute and was more difficult to execute . . . it was a more challenging problem. 
+
+## **Bankruptcy is a combination of law and power. It’s an “adults-only game”.** 
+
+Bankruptcy is a well-develop regime for resolving companies that get into trouble. However, although it has a well-established body of law, creditors can wield influence throughout the process depending on their unique leverage. As Bloom discussed, understandably, each tried to improve its own position. 
+
+Bankruptcy is a combination of law and politics. By politics, I mean power. Creditors get their way because they have the leverage to get their way. It's, as they say it, an “adults-only game.” Everyone is out for themselves, which is fine, but if you have leverage, you use it. 
+
+It’s hard to make cars without workers. Anyone who thinks you could have replaced 100,000 UAW members to go make cars in GM factories and Chrysler factories hasn't lived in the real world. It can't be done. . . .  The UAW used its leverage  . . . They took concessions. They turned their claims largely into equity, so if the company did poorly, those claims would not have been honored. They did take significant concessions, but they used their leverage to protect the wages of the existing workforce—absolutely. There's nothing special about that . . . The suppliers to General Motors—in a typical bankruptcy, they're unsecured creditors . . . they take a 
+
+
+big haircut . . . In GM’s case . . . the suppliers got 100 cents on the dollar! . . . . UAW didn't get 100 cents. 
+
+Our judgment was that if . . . we drive them [suppliers] out of business, there would be no steering wheels and there would be no cars. We made a hard-headed, business evaluation of the relative leverage and importance of various creditor classes, and we acted accordingly. Nobody ever criticized . . . paying the suppliers in cash, in full . . . But everybody criticizes the fact that the UAW workers didn’t take a pay cut . . . Those people do not understand how bankruptcy functions and . . .  the facts we were facing. 
+
+## **To be a successful negotiator, be yourself. Look for a common human bond. People will likely respond better if you treat them with dignity than if you don’t.** 
+
+The government carries with it enormous weight and authority. In many respects, government officials were more involved in more negotiations connected to the auto rescue—with company officials, creditors, unions, suppliers, and dealers’ representatives— than they were with respect to assisting financial companies. Bloom shared some reflections on how those negotiations were effective and successful. 
+
+There's not one way to negotiate. My advice . . . is you have to be yourself. Whatever your traits are as a person, you have to use them as a negotiator, because if you put on a special uniform for negotiating . . . trying to be tough, it doesn’t work because eventually your real personality comes through. The purpose of negotiations is communication. If you’re not authentic, this is really hard to do. 
+
+I try to see the humor in difficult situations. I believe, no matter how serious things are, you're better off if you can be civil and you can try to look for a common bond of humanity with people. That's me as a person in my life. That’s the way I try to negotiate. 
+
+I love problems and puzzles, finding an answer where everybody gets something. Even when you can, you don’t crush the other guy . . . That is particularly true in labor relations. You can be a transactional negotiator, or you can be a relational negotiator. A transactional negotiator views every negotiation as a fight to the death. Everything I win comes from you, and everything you win comes from me. It’s zero sum. 
+
+A relational negotiator understands that there’s tomorrow, and there’s next month, and there’s next year, and people remember when they are treated with dignity, and they remember when they're treated very badly. To the extent I've had any success. . . it’s because I try to be authentic to who I am, and I try to remember . . . those simple rules. That doesn’t mean it's the only way to negotiate. There are super successful negotiators who have completely different styles. But I can only do it in the way that works for me. 
+
+
+## **The president needs moral courage to make unpopular decisions.** 
+
+In a crisis there are always very difficult decisions to be made. Bloom praised President Obama for setting a leadership tone that permitted his team to make decisions that could result in the best outcomes for the country: 
+
+There was a great sense of . . .  trying to do the right thing. At the higher levels up to and including the president [Obama], there was a lot of political courage. When the president agreed to do this, it was not popular. . . It does take political courage. 
+
+Bloom also commented on the recent landscape and how the COVID-19 situation differed from the Global Financial Crisis (GFC). 
+
+The language we find it very hard to speak in America is the language of the general good because we are all in our tribes. President [Joe] Biden’s job may be even harder than President Obama’s because in the case of a Great Recession, you could argue that there were villains in it, and people understood how we got there. 
+
+In the case of the pandemic, there's no villain . . . Yet, it’s become a political discussion . . . how can you politicize the question of whether or not I have the right to go unvaccinated and hurt you? It's mind boggling to me that we've entered this era where the most obvious common sense has become a political decision as to whether you're for or against the former president [Donald Trump]. 
+
+I think President Biden’s challenge, in some ways, is much greater now. In other ways, there is a great desire on the American people’s part to fix big problems, more than there was during Obama’s presidency. But that ability to speak in the language of the general good and have patience to believe that over time you'll win people over, that's what Biden has to try to do . . . 
+
+I try really hard not to demonize those I disagree with . . . I do try to listen to what people I disagree with say when they have concerns. I think it's incumbent on the president—and this is what his political genius is—to not demonize the other side and not make everything a political war . . . If he succeeds, I think it will be because he is what he is . . .  He has a way he thinks he ought to do things, and he's true to it. His voice, what I think is attractive about him, is he’s so bloody authentic . . . There’s no airs. He wears his heart on his sleeve. And I think it's a good thing. 
+
+## **The bias in a crisis should be toward doing more, not less. Government must keep the infrastructure working even when there’s no crisis.** 
+
+Bloom reflected on an important point that is sometimes overlooked—after the fire of the crisis is doused, the economy may still smolder, and negative effects can linger unless addressed. Focusing on these after-effects can be just as important for recovery as focusing on the intense period of a crisis explained Bloom. What government does in this period sets the stage for the economy and the private sector to recover. 
+
+
+In the Great Recession, the size of the stimulus package was, in retrospect, too small, and it is one of the reasons why the recovery was as slow as it was . . . The bias should be toward doing more, not less . . . That’s a lesson that's being learned today in dealing with the pandemic . . . I don’t mean to trivialize a trillion dollars, but in the grand scheme of the American economy and all the people hurt by the pandemic, spending an extra trillion dollars is, honestly, chump change. We have a $20 trillion economy that came to a halt. 
+
+The underinvestment in public health infrastructure . . . [and] government playing a responsible role as an honest broker in terms of keeping the system working—it’s a good lesson. I think the president [Biden] is doing the right thing. He’s dealing with the current situation extremely aggressively, and he’s using the occasion to have us rethink how the government can play a role in building up infrastructure of all sorts. 
+
+The role of government is to provide a fertile field on which people can find their way and be successful. But you have to till the ground . . . till the field . . . lay the irrigation pipes . . . prepare the ground for it. We have so underinvested in everything, from roads and bridges to R&D spending, to education, to childcare, you name it . . . The goal of government is to allow people to be productive and then let the private sector do its job. 
+
+## **When a crisis occurs, be aggressive and swift, but don’t be reckless. Be honest and fair.** 
+
+Bloom shared his top-level guidance on how government should approach a crisis, of any type: 
+
+Make haste carefully. Your bias should be toward action . . . toward being aggressive, but you don’t want to be reckless. Tell the truth. Be transparent. I think people are always better if you’re open with them. Don't assume you know everything. Be humble . . . Do what’s right . . . things generally come out better if you do what you honestly think is right. 
+
+The question is not, “Did you get it perfectly right in hindsight?” Because right—that's really tricky . . . The test is, “At the time, did you make a reasonable decision?” . . . I think we made a series of reasonable decisions . . . We rescued these two companies and saved millions of jobs, and they were given another chance . . . 
+
+What is government there for? What’s the purpose of it? It's to stabilize the economy in a gigantic crisis. We're not a bank. We’re not there trying to make money. What’s our return on investment when we vaccinate people? We keep people healthy. They don’t die. 
+
+Dated: April 2022 
+
+YPFS Lessons Learned No: 2021-10

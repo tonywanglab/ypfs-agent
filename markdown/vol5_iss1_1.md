@@ -1,0 +1,427 @@
+## **A Macroprudential Perspective on the Regulatory Boundaries of US Financial Assets[1]** 
+
+_David M. Arseneau,[ 2] Grace Brang,[ 3] Matt Darst,_[ 4] _Jacob M. Faber,_[ 5] _David E. Rappoport,_[ 6] _and Alexandros P. Vardoulakis_[7] 
+
+## **Abstract** 
+
+This paper uses data from the Financial Accounts of the United States to map out the regulatory boundaries of assets held by US financial institutions from a macroprudential perspective. We provide a quantitative measure of the macroprudential regulatory boundary—the perimeter between the part of the financial sector that is subject to some form of macroprudential regulatory oversight and that which is not—and show how it has evolved over the past 40 years. Additionally, we measure the boundaries between different regulatory agencies and financial institutions that operate within the regulatory perimeter and illustrate how these boundaries potentially become blurred in the face of regulatory overlap. Quantifying the macroprudential regulatory boundary and the boundaries for different regulators within the perimeter is informative for assessing financial stability risks over the credit cycle. 
+
+**Keywords:** boundary problem, financial institutions, regulation, regulatory reach 
+
+**JEL Classifications:** E58, G18, G28 
+
+1 We thank Elizabeth Holmquist for expert advice on the Financial Accounts of the United States as well as for her comments on the paper, and Eduardo Davila, Elizabeth Klee, Juan Antonio Montecinos (discussant), Joe Stiglitz, and seminar participants at the Hewlett-IPD seminar series on Macro/Finance and Social Welfare for valuable comments and suggestions. We also thank Matt Hoops for technical assistance with the data, Tristan D’Orsaneo, Jacob Fahringer, and DeShawn Vaughan for research assistance, and Bohan Wang for editing assistance. The views expressed in this paper are those of the authors and do not necessarily represent those of the Federal Reserve Board of Governors or anyone in the Federal Reserve System. 
+
+2 David M. Arseneau, Assistant Director, Board of Governors of the Federal Reserve System, david.m.arseneau@frb.gov. 
+
+3 Grace Brang, Financial Analyst, Board of Governors of the Federal Reserve System, grace.b.brang@frb.gov. 
+
+4 Matt Darst, Principal Economist, Board of Governors of the Federal Reserve System, matt.darst@frb.gov. 
+
+5 Jacob M. Faber, PhD Student, Columbia Business School, jfaber27@gsb.columbia.edu. 
+
+6 David E. Rappoport, Principal Economist, Board of Governors of the Federal Reserve System, david.e.rappoport@frb.gov. 
+
+> 7 Alexandros P. Vardoulakis, Chief, Economic Section, Board of Governors of the Federal Reserve System, alexandros.vardoulakis@frb.gov. 
+
+
+## **I. Introduction** 
+
+The movement of financial activity between the regulated and the unregulated sectors has important implications for financial stability. Goodhart (2008) and Goodhart and Lastra (2010) argue that effective regulation reduces the return on capital for regulated financial entities relative to those that do not face regulation. A natural consequence is a shift in financial activity into the more profitable unregulated sector. Goodhart (2008) refers to this as the “boundary problem” because effective regulation results in leakage that can worsen the procyclicality of the credit cycle and has the potential to increase financial instability.[8] For example, in the run-up to the Global Financial Crisis (GFC) of 2007–09, regulated entities circumvented regulatory boundaries by increasing off-balance-sheet activities to boost exposure to more profitable activity in the unregulated sector, and these activities ended up being at the heart of the ensuing crisis (Acharya, Schnabl, and Suarez 2013). 
+
+The purpose of this paper is to provide quantitative measurement of the regulatory boundary from a macroprudential perspective and illustrate how this measurement can be informative for assessing financial stability risks. We use publicly available data from the Financial Accounts of the United States to trace out the macroprudential regulatory boundary of US financial assets; that is, the perimeter between assets held by financial institutions that are subject to some form of macroprudential regulatory oversight versus holdings of those that are not. We then step inside the regulatory perimeter to assess the boundaries between different regulators that oversee various macroprudentially regulated financial institutions. Long-run trends in both the size of the regulatory boundary and the scope of different regulators within the boundary offer insights into how financial development has shaped the regulatory landscape, and vice versa, over the past 40 years. At the same time, the cyclical component of the regulatory boundary offers useful insights into the state of the credit cycle. 
+
+The main contribution of this work is the empirical measurement of the reach of various macroprudential regulators, including the Federal Reserve, over the US financial system. To our knowledge, this type of measurement has not been done elsewhere in the literature, but doing so is of interest to policymakers, the legal community, and academics working on the effects of financial regulation. It is essential, for example, for understanding how the regulatory reach of various macroprudential regulators has changed both cyclically as well as over the longer term as the structure of the financial economy evolves. Finally, while our contribution is narrowly focused on measurement, we want to be clear that we are not making any causal claims about what drives the regulatory and/or credit cycle, nor do we make causal claims about how the two may coevolve. 
+
+> 8 See Aiyar, Calomiris, and Wieladek (2014) for empirical evidence on leakage of financial activity outside the regulated financial system following a change in regulation in the United Kingdom. 
+
+
+In terms of long-run developments, we document the gradual expansion of the macroprudential regulatory boundary over the past 40 years. Our measurement exercise shows the share of assets held by macroprudentially regulated financial institutions relative to total assets—a proxy for the macroprudential regulatory boundary—increased steadily over this period, rising from roughly 65% in the early 1980s to about 75% in the most recent data. There were important compositional changes to the boundaries between different regulators over this period. Rapid expansion of intermediation outside the traditional banking system has reduced the regulatory footprint for federal banking regulators, including the Federal Reserve, relative to other agencies. In contrast, the regulatory reach of the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC) has expanded, as assets held by nonbank financial intermediaries now constitute a larger fraction of total assets in the financial sector. 
+
+This compositional shift has two important implications for macroprudential policy. First, the main macroprudential tools available in the US that can be deployed over the cycle are bank stress tests and the countercyclical capital buffer (CCyB). Both tools are under the purview of federal banking regulators and operate through bank holding companies (BHCs). Our measurement exercise suggests that, taken together, these tools reach only about one-third of all macroprudentially regulated assets, and this estimate leaves aside assets held on the balance sheets of financial institutions outside the regulatory boundary. As long as macroprudential tools are limited to implementation through the banking sector, their reach will be restricted. This is even more so as market-based financial intermediation plays a larger role in financial activity going forward. 
+
+The second implication comes from the fact that both the SEC and the CFTC tend to engage more actively in the regulation of market activity rather than direct regulation of the institutions that participate in those markets. As a result, the growing regulatory footprint of these two agencies over the past 20 years places increasing importance on market monitoring and regulation as opposed to monitoring and regulation from an institutional perspective. 
+
+Turning to the cyclical component, we show that the credit expansion in the mid-1980s occurred alongside a cyclical expansion of the regulatory boundary. In contrast, the opposite is true of the expansion of credit going into the GFC as institutions that were outside the reach of macroprudential regulators played a larger role in credit intermediation. A lesson to take from this is that tracking flows of financial assets across the regulatory boundary is informative to assessing financial risks over the credit cycle. In particular, our exercise sheds light on the fact that inflows into the regulated sector in the credit expansion of the mid1980s were driven by institutions that, at least in principle, were more resilient in their ability to withstand financial stress owing to some form of macroprudential supervision. However, the opposite was true going into the GFC. 
+
+From a financial stability monitoring perspective, expansions of the credit cycle that are concurrent with a cyclical decline in the regulatory perimeter are of particular concern as 
+
+
+this is an indicator that credit growth is concentrated among the least resilient institutions. Cast in this light, tracking the expansion of flows into the unregulated sector during the credit boom might have acted as a warning sign pointing to increased fragility in the financial system. 
+
+Beyond financial stability monitoring, measuring boundaries is useful because it gives a better sense of “who regulates whom.” Given the overall complexity of financial regulation in the US, such an understanding may be critically important for effective communication with the public regarding macroprudential policy goals. Measuring boundaries helps to define ex ante responsibility and promotes ex post accountability. This seems particularly important for central banks. In many countries, including the US, central banks are often heavily relied upon to identify emerging vulnerabilities but are limited in their ability to implement policies to address these vulnerabilities. Our attempt to quantify the regulatory reach of specific macroprudential regulators allows for better understanding of the point of entry for regulatory action for specific regulators, including the Federal Reserve. It also highlights the necessity of cooperation across different regulatory agencies to achieve macroprudential goals. 
+
+From a legal perspective, quantifying regulatory boundaries gives a better sense of how financial innovation might change the regulatory landscape going forward. Currently, one such development is “fintech,” which facilitates increasing engagement of nonfinancial businesses in financial activity. For example, technology firms are engaging in partnerships (or merging) with banks to offer financial services that allow banks to step outside the bounds of regulation in new ways. In addition, the rapid growth and fragility of crypto assets have drawn recent scrutiny from lawmakers regarding how to regulate this new industry. This paper can help put the effect of these innovations on the regulatory boundary in a broader context. 
+
+Finally, from an academic perspective, our measurement exercise can inform researchers building quantitative models of financial intermediation. Examples of the types of papers we have in mind include Begenau and Landvoigt (2022); Clerc et al. (2015); Crouzet (2018); Fève, Moura, and Pierrard (2019); Fiore and Uhlig (2011, 2015); Gertler, Kiyotaki, and Prestipino (2016); Meeks, Nelson, and Alessandri (2017); Mendicino et al. (2018); and Moreira and Savov (2017), among others. In the context of these papers, our exercise suggests the basic bank versus nonbank dichotomy, while certainly informative, is only a small part of a much larger picture. Migration also happens between different financial institutions that operate within the regulatory boundary, and these institutions have different risk exposures and face differing degrees of regulatory scrutiny. All of this has implications for the implementation and effectiveness of macroprudential policy and is something researchers should take into account in macroeconomic models of financial regulation. This work also has implications for understanding the value of coordinated macroprudential policy implemented in a fractionalized regulatory environment such as the United States. 
+
+
+The remainder of this paper is organized as follows. The next section describes the data and methodology used to separate total US financial assets into different regulatory and institutional bins. Section III presents our measurement results. Section IV discusses some limitations of our methodology and, finally, Section V concludes. 
+
+## **II. Data and Methodology** 
+
+All data come from the Financial Accounts of the United States. The frequency is quarterly, and they cover the period from Q1 1980 to Q2 2022. 
+
+Macroprudential policy aims to reduce systemic risk—the risk of widespread disruption to the provision of financial services that can negatively impact the real economy (IMF-FSBBIS 2016). In the US, the Financial Stability Oversight Council (FSOC) is the main cooperative body responsible for identifying systemic risks and implementing macroprudential policy, so for the purposes of this paper, we consider the federal financial regulators and state regulators that are members of FSOC that have a prudential (or safety and soundness) mandate as macroprudential regulators.[9] 
+
+Figure 1 provides an overview of the types of financial institutions reported in the Financial Accounts of the United States (first column), as well as their regulatory status (second column) and broad institutional category (third column). We focus on assets held by the financial sector and, as such, do not report the assets held by the household sector, nonfinancial corporate and noncorporate businesses, state and local governments, the federal government, the monetary authority, and entities not residing in the United States. As discussed in Section IV, hedge funds, private equity firms, and central counterparty (CCP) clearinghouses are not included in our data because the Financial Accounts have only very recently started publishing information for some of these institutions separately. 
+
+To gauge the scope of macroprudential regulation in the US financial system, we break down total financial assets in the US economy according to the regulatory status of the holder of those assets according to the Financial Accounts; that is, whether the financial entities that hold the assets are macroprudentially regulated and, if so, by which agency. As shown in the second column of the table, each financial entity from the Financial Accounts (in the first column) falls into one of three mutually exclusive categories: (1) those entities prudentially regulated by a federal banking agency, including the Federal Reserve, the Office of the Comptroller of the Currency (OCC), the Federal Deposit Insurance Corporation (FDIC), or the National Credit Union Administration (NCUA);[10] (2) those macroprudentially 
+
+> 9 This definition effectively excludes the Consumer Financial Protection Bureau (CFPB), which is a member of FSOC but has a consumer protection mandate. 
+
+> 10 We include in this regulatory status nonbank systemically important financial institutions (SIFIs) designated by the US Department of the Treasury, which as such fall under the regulatory purview of the 
+
+
+regulated by agencies other than a federal banking agency, including securities market regulators such as the SEC and CFTC, as well as state insurance regulators and the regulators of government-sponsored enterprises (GSEs), including the Federal Housing Finance Agency (FHFA) and the Farm Credit Administration (FCA); and finally, (3) entities that are not macroprudentially regulated, which includes self-regulated organizations or institutions that have only aspects of consumer or investor protection. 
+
+This regulatory perspective of the data is useful for quantitatively assessing the regulatory boundary—or the perimeter between assets held by those institutions that are subject to some form of macroprudential regulation and those that are not. 
+
+A different cut of the data breaks out total assets held by financial institutions by the broad nature of the activities or business model of those institutions. As shown in the third column of the table, we break financial institutions into five mutually exclusive categories: (1) depository institutions (DIs), (2) insurance companies (ICs), (3) pension funds (PFs), (4) government-sponsored enterprises, and (5) other financial intermediaries (OFIs). OFIs comprise a variety of other institutions including investment funds (for example, bond and equity mutual funds and exchange-traded funds), broker-dealers, finance companies, real estate investment trusts (REITs), and shell vehicles used in structured finance (assetbacked securities issuers). 
+
+Federal Reserve. See https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-andfiscal-service/fsoc/designations. 
+
+
+[FIGURE id=vol5_iss1_1_f1 type=figure label="Figure 1" file=figure_1.png caption="Financial Institutions, by Regulatory Status and Institutional Category"]
+### **Figure 1: Financial Institutions, by Regulatory Status and Institutional Category**
+
+|**Financial**|**Regulatory**|**Institutional**|
+|---|---|---|
+|**Institution**|**Status**|**Category a**|
+|US-chartered depository institutions b|Federal banking agencies|DIs|
+|Foreign bank offices in the US c|Federal banking agencies|DIs|
+|Holding companies|Federal banking agencies|DIs|
+|Banks in US-affiliated areas|Federal banking agencies|DIs|
+|Nonbank SIFIsa|Federal Reserve|ICs,OFIs|
+|Credit unions|Other agency regulated|DIs|
+|Property–casualty insurance companies|Other agency regulated|ICs|
+|Life insurance companies d|Other agency regulated|ICs|
+|Money market mutual funds|Other agency regulated|OFIs|
+|Investment funds e|Other agency regulated|OFIs|
+|Brokers and dealers d|Other agency regulated|OFIs|
+|Government-sponsored enterprises|Other agency regulated|GSEs|
+|Agency- and GSE-backed mortgage pools|Other agency regulated|GSEs|
+|Structured finance vehicles(since 2017)g|Other agencyregulated|OFIs|
+|Private pension funds|Not macroprudentially regulated f|PFs|
+|State and local gov’t retirement funds|Not macroprudentially regulated f|PFs|
+|Federal government retirement funds|Not macroprudentially regulated f|PFs|
+|Finance companies|Not macroprudentially regulated f|OFIs|
+|REITs|Not macroprudentially regulated f|OFIs|
+|Fundingcorporations|Not macroprudentiallyregulated f|OFIs|
+
+
+
+- a DIs: depository institutions; ICs: insurance companies; PFs: pension funds; OFIs: other financial intermediaries; GSEs: government-sponsored enterprises; SIFIs: systemically important financial institutions. 
+
+- b US-chartered depository institutions include institutions that are not directly regulated by the Federal Reserve but may be part of a BHC or a savings and loan bank holding company, such as national banks (regulated by the OCC), state-chartered nonmember banks (regulated by the FDIC), federal savings associations (regulated by the OCC), and state-chartered savings associations (regulated by the FDIC). 
+
+- c Foreign banking offices in the US include institutions that are not directly regulated by the Federal Reserve but are part of a foreign bank organization (FBO), such as federal branches and agencies of FBOs (regulated by the OCC). 
+
+- d Nonbank subsidiaries of BHCs, such as broker-dealers and insurance companies, are not considered to be under Federal Reserve regulation according to the regulatory status of the holder. But broker-dealers are considered under Federal Reserve regulation according to the regulatory status of the parent. 
+
+- e Investment funds comprise the following institutions in the Financial Accounts: mutual funds, closed-end funds, and exchange-traded funds. 
+
+- f Entities that have only aspects of consumer or investor protection are not considered to be prudentially regulated. 
+
+- g Structured finance vehicles comprise issuers of asset-backed securities, which are subject to risk-retention rules since December 2016. Their assets for 2017 onward are reported in the “Other agency regulated” category. 
+
+_Source: Authors’ calculations._ 
+
+
+This institutional perspective highlights the relative importance of different financial activities in the broader financial system. Financial institutions are defined by the activities they undertake in financial markets (that is, their business models), and these activities, in turn, expose the institution to different vulnerabilities. For example, a traditional retail bank takes short-term deposits, typically backed by deposit insurance, and transforms these deposits into long-term loans. In doing so, the bank engages in both liquidity and maturity transformation. A different financial institution, a finance company, is a nonbank lender that engages in more or less the same activities as banks but differs in that its source of funding does not come from depositors protected by deposit insurance. In light of this, if we observed a shift in financial activity away from traditional banks toward finance companies, this suggests that overall financial stability risks have shifted in such a way that the financial system as a whole faces greater liquidity risk. In this sense, viewing the data through the institutional perspective is useful because doing so highlights the changing nature of financial vulnerabilities over the credit cycle. 
+
+Finally, we complement the regulatory and institutional perspective by looking at total financial assets along these two dimensions simultaneously. This dual perspective is the main contribution of our paper. It is useful for a couple of reasons. First, it helps clarify the point of entry for macroprudential regulation and policy. 
+
+As an example, imagine that some activity within a particular financial institution is identified as posing a significant risk to financial stability. Macroprudential regulators may want to take action. In terms of implementing macroprudential policy and communicating that policy to the public, it would be helpful to be as clear as possible about the agency that bears the ultimate responsibility for the oversight of that particular institution. Concretely, consider the case of money market reform following the GFC. Members of the FSOC widely agreed that money market funds (MMFs) continued to pose a significant risk to the stability of the financial system following the crisis. While the FSOC was clear in identifying this risk, helped in communicating it to the public, and facilitated the design of a set of reforms, ultimately, it was the responsibility of the SEC to implement these reforms. In this sense, our approach of simultaneously looking at both the institutional and regulatory perspectives makes clear that the point of entry for macroprudential regulation of money markets is the SEC. 
+
+Beyond that, the dual perspective is also useful because it highlights potential regulatory overlap. For example, BHCs comprise separate legal subsidiaries. The simplest BHC might include a single banking subsidiary chartered as a national bank under its parent holding company. From a regulatory perspective, the primary regulator for the banking subsidiary would be the OCC, while the holding company would be regulated by the Fed. In other words, even in this relatively simple arrangement, the structure of the BHC introduces some degree of regulatory overlap. The overlap grows as the structure of the holding company becomes more complex. Many BHCs have subsidiaries that are securities companies or, alternatively, broker-dealers. Both are regulated by the SEC, which draws a third regulator into the mix. This regulatory overlap highlights the necessity for 
+
+
+cooperation among different regulatory agencies with the common goal of identifying financial vulnerabilities and implementing policies to counteract them. This is especially true given the complex structure of the US financial regulatory environment. 
+
+This basic approach to breaking out the data by various financial institutions, some of which operate under regulatory agencies and some of which do not, guides the remainder of the analysis. 
+
+## **III. Regulatory Boundaries** 
+
+In this section, we measure the regulatory boundary from a macroprudential perspective and then, within this perimeter, map out regulatory boundaries across various financial institutions that are macroprudentially regulated. We also show a measure of regulatory overlap for macroprudentially regulated institutions. 
+
+## **III.1. The Macroprudential Regulatory Boundary** 
+
+Figure 2 shows total assets held by US financial institutions as a percent of GDP broken out by macroprudentially regulated and unregulated financial institutions. In the roughly 30 years from 1980 until the late 2000s, the overall size of financial institutions in the US as measured by total asset holdings has more than doubled, growing from just under 200% of GDP in 1980 to almost 500% in 2008. Since the onset of the GFC, however, this growth has flattened, leaving the total size of the financial sector relative to output largely unchanged for the past decade. An exception is in the most recent data, when financial assets as a share of GDP briefly spiked up in Q2 2020 before retracing part of this increase in the subsequent quarter. This spike reflects a sharp drop in output owing to the COVID-19 pandemic, coupled with a large jump up in financial assets held by US financial institutions.[11] Moving into the third quarter of 2020, financial assets continued to grow as output rebounded. 
+
+> 11 GDP dropped from $21.8 trillion in Q4 2019 to $19.5 trillion in Q2 2020 while financial assets rose from $101.5 trillion to $107.3 trillion, implying the ratio of the financial assets to GDP rose from 470% to 550% over this period. Moving into Q3 2020, financial assets continued to grow to $109.5 trillion while GDP bounced back to $21.2 trillion, leading to a decline in the ratio of financial assets to GDP back to 470%. 
+
+
+[FIGURE id=vol5_iss1_1_f2 type=chart label="Figure 2" file=figure_2.png caption="Assets Held by US Financial Institutions as a Percent of GDP, by Macroprudential Regulatory Status"]
+### **Figure 2: Assets Held by US Financial Institutions as a Percent of GDP, by Macroprudential Regulatory Status**
+![Figure 2](assets/vol5_iss1_1/figure_2.png)
+
+
+_Sources: Financial Accounts of the United States, National Income and Product Accounts, and authors’ calculations._ 
+
+Decomposing total assets into those on the balance sheets of macroprudentially regulated institutions versus those on the balance sheets of nonregulated institutions reveals that the unregulated sector grew steadily in the 30 years before the Global Financial Crisis, but its growth was slower relative to that of the regulated sector. Since the crisis, the size of the unregulated sector has modestly declined while the regulated sector has remained largely flat. All told, most of the growth in total financial assets has come from an expansion of the balance sheets of financial institutions that are macroprudentially regulated, implying that the regulatory boundary has expanded over time. 
+
+Indeed, the solid black line in the left panel of Figure 3 shows assets held by regulated financial institutions as a percent of total assets in the financial sector. The dashed line represents the estimated trend using the Hodrick and Prescott (HP, 1997) filter to capture fluctuations at frequencies typically associated with credit cycles.[12] As shown by the dashed line, the share of assets within the boundary has gradually risen over time. It stayed largely constant in the neighborhood of 65% of total financial assets from 1980 until the late 1990s, but since that time it has steadily increased, approaching a historical high of about 75% in the most recent data. For reference, the right panel of Figure 3 plots a standard measure of the credit cycle, private nonfinancial sector credit as a percent of GDP, both in levels (solid black line) as well as its associated HP-filtered trend (dashed line). Private nonfinancial credit has increased roughly 50% relative to GDP since 1980. As a 
+
+12 The trend and cyclical components of credit-to-GDP ratio are estimated using the methodology of Borio and Lowe (2002), which the Bank for International Settlements (BIS) has endorsed to inform the setting of the CCyB (see BCBS 2010). That said, Edge and Meisenzahl (2011) and Buncic and Melecky (2013) question the ability of this precise methodology to identify periods of excessive credit growth. See Drehmann and Tsatsaronis (2014) for a response to these criticisms. For the purposes of this paper, we acknowledge the uncertainty surrounding the particular methodology used to estimate the credit gap but proceed using the BIS recommendation anyway, which we also extend to measure the regulatory cycle. 
+
+
+result, the estimated trend increased over the period up to the Global Financial Crisis and since has remained unchained. 
+
+[FIGURE id=vol5_iss1_1_f3 type=figure label="Figure 3" file=figure_3.png caption="The Share of Total Financial Assets Held by Regulated Financial Institutions and the Credit-to-GDP Ratio"]
+### **Figure 3: The Share of Total Financial Assets Held by Regulated Financial Institutions and the Credit-to-GDP Ratio**
+
+- (a) Macroprudential Regulatory Boundary (b) Credit-to-GDP Ratio 
+
+
+[FIGURE id=vol5_iss1_1_f4 type=figure label="Exhibit 4" file=exhibit_4.png caption=""]
+![Exhibit 4](assets/vol5_iss1_1/exhibit_4.png)
+
+
+
+[FIGURE id=vol5_iss1_1_f5 type=figure label="Exhibit 5" file=exhibit_5.png caption=""]
+![Exhibit 5](assets/vol5_iss1_1/exhibit_5.png)
+
+
+Note: Calculated using the HP filter with λ = 14, 000 following Borio and Lowe (2002) and BCBS (2010). _Sources: Financial Accounts of the United States, National Income and Product Accounts, and authors’ calculations._ 
+
+Were the movement of assets across the regulatory boundary to affect systemic risk, one proxy for this risk could be the extent to which the cyclical component of the regulatory boundary deviates from its long-run trend over the credit cycle. To this end, Figure 4 plots the cyclical component of the regulatory perimeter (that is, the actual regulatory perimeter minus its estimated trend from the left panel of Figure 3) alongside the credit cycle (that is, the actual credit-to-GDP ratio minus its estimated trend from the right panel of Figure 3). National Bureau of Economic Research recession dates are shown in the shaded vertical bars. As is well known from the literature, the red line reveals two credit cycles in the US data since 1980. The first is characterized by a rapid expansion of credit in the late 1980s and into the early 1990s before a subsequent decline with the bursting of the so-called tech bubble. The second is the aggressive expansion of credit in the early to mid-2000s followed by an even more rapid credit contraction owing to the Global Financial Crisis. In the most recent data, the jump in the credit cycle in 2020 largely reflects the outsized decline in output due to the global COVID-19 pandemic that was quickly reversed. 
+
+
+[FIGURE id=vol5_iss1_1_f6 type=figure label="Figure 4" file=figure_4.png caption="The Credit Cycle and the Cyclical Component of the Regulatory Perimeter"]
+### **Figure 4: The Credit Cycle and the Cyclical Component of the Regulatory Perimeter**
+![Figure 4](assets/vol5_iss1_1/figure_4.png)
+
+
+Note: Calculated using the HP filter with λ = 14, 000 following Borio and Lowe (2002) and BCBS (2010). _Sources: Financial Accounts of the United States, National Income and Product Accounts, and authors’ calculations._ 
+
+Plotting the cyclical component of the regulatory boundary (the solid black line in Figure 4) alongside the credit cycle (the red dashed line) reveals some interesting information about the nature of credit cycles over time. The correlation between the credit cycle and the cyclical component of the regulatory boundary over the first 20 years of data presented in this paper is 0.65. In other words, the expansion of credit during this period occurred in combination with a cyclical expansion of the regulatory boundary, that is, an increase in activity of macroprudentially regulated financial institutions relative to their unregulated counterparts. From a financial stability monitoring perspective, there is some comfort to take from this as the positive correlation suggests credit expanded as regulated institutions—which, in principle, should be more resilient in their ability to withstand financial stress owing to some form of macroprudential regulation—played a larger role in aggregate financial activity. In contrast, the opposite is true of the expansion of credit going into the Global Financial Crisis, which coincided with a cyclical contraction of the regulatory perimeter as unregulated institutions played a larger role in credit intermediation during this period. Indeed, the correlation between the two cyclical series flips sign and declines to –0.45 over the last 20 years of the data. This is more worrisome because it highlights the possibility that the nature of the credit cycle is more fragile as the institutions supporting the expansion of credit are potentially less resilient. 
+
+In the most recent data during the COVID-19 pandemic, the cyclical component of the regulatory perimeter increased as assets held by unregulated institutions increased only modestly, while assets held by institutions within the regulatory boundary jumped up sharply. This shift into the regulated sector could be interpreted through Goodhart’s (2008) view that regulatory boundaries enhance the procyclicality of credit, with such a compositional shift highlighting the fragility of funding used in unregulated financial activity in times of stress and uncertainty. 
+
+
+In summary, there are two main conclusions to take from our measurement of the regulatory perimeter. First, the significant expansion of the overall size of the financial sector since 1980 stems largely from institutions that face some form of macroprudential regulation. Accordingly, the regulatory boundary has increased steadily over the past 40 years. Second, cyclical fluctuations in the regulatory boundary can be informative for understanding the nature of credit cycles. From a financial stability monitoring perspective, expansions of the credit cycle that are concurrent with a cyclical decline in the regulatory boundary are of particular concern as this is an indicator that credit growth is concentrated among the least resilient institutions. 
+
+## **III.2. Boundaries within the Macroprudential Perimeter** 
+
+We now assess the footprint of financial institutions that operate within the regulatory boundary (institutional view) as well as the footprint of various macroprudential regulators (regulatory view). 
+
+Figure 5 shows assets held by macroprudentially regulated financial institutions expressed as a percent of GDP (that is, the light blue portion in Figure 2), broken out by type of financial institution. The regulated financial institutions in this figure fall into one of four categories: depository institutions and nonbank systemically important financial institutions; insurance companies; government-sponsored enterprises; and regulated other financial intermediaries.[13] Figure 6 presents the same information expressed as a percent of total assets held by financial institutions within the regulatory boundary. 
+
+[FIGURE id=vol5_iss1_1_f7 type=chart label="Figure 5" file=figure_5.png caption="Assets Held by Macroprudentially Regulated US Financial Institutions as a Percent of GDP, by Type of Institution"]
+### **Figure 5: Assets Held by Macroprudentially Regulated US Financial Institutions as a Percent of GDP, by Type of Institution**
+![Figure 5](assets/vol5_iss1_1/figure_5.png)
+
+
+_Sources: Financial Accounts of the United States, National Income and Product Accounts, and authors’ calculations._ 
+
+13 Recall that pension funds are not macroprudentially regulated, and hence, assets held by these institutions fall into the unregulated category (the red portion in Figure 2). Regulated OFIs include money market funds, investment funds, and broker-dealers. 
+
+
+[FIGURE id=vol5_iss1_1_f8 type=figure label="Figure 6" file=figure_6.png caption="The Share of Assets Held by Macroprudentially Regulated US Financial Institutions, by Type of Institution"]
+### **Figure 6: The Share of Assets Held by Macroprudentially Regulated US Financial Institutions, by Type of Institution**
+![Figure 6](assets/vol5_iss1_1/figure_6.png)
+
+
+_Sources: Financial Accounts of the United States, National Income and Product Accounts, and authors’ calculations._ 
+
+In the early 1980s, roughly two-thirds of all financial assets within the boundary were held by DIs, whereas OFIs held only about 10% of regulated assets. Over the next 20 years, the rapid growth of nonbank financial institutions within the regulatory boundary produced a striking shift in the structure of the financial system from a macroprudential regulatory perspective. The footprint of the banking sector steadily declined, as the share of assets held by DIs fell to about one-third by the early 2000s. At the same time, the share of financial assets held by OFIs within the boundary increased more than three-fold, peaking at nearly 40% on the eve of the GFC. The aftermath of the financial crisis resulted in a sharp drawback in the share of assets held by OFIs, but growth in this sector resumed thereafter, with the share of assets of OFIs within the boundary surpassing the share held by DIs in 2017. In the most recent data, OFIs had the largest footprint in the regulatory boundary at 39.7% of all assets on the balance sheet of these institutions, followed by DIs (34.2%), insurance companies (13.1%), and government-sponsored enterprises (12.8%). 
+
+The rapid growth of nonbank financial intermediation warrants closer examination. Figures 7 and 8 present the assets held by the individual institutions that make up the OFIs as a percent of GDP and as a percent of all assets held by OFIs, respectively. In each figure, the data are broken out by OFIs within the macroprudential regulatory boundary (MMFs, investment funds, structured finance vehicles since 2017, and broker-dealers) and unregulated OFIs (REITs, finance companies, structured finance vehicles until 2016, captive financial institutions, and pension funds). In the early 1980s, pension funds, which are not macroprudentially regulated according to our definition, held nearly 80% of all assets held by both regulated and unregulated OFIs. Subsequent growth over the next 20 years was mainly driven by investment funds and, to a lesser degree, broker-dealers and unregulated structured finance vehicles. On the eve of the Global Financial Crisis, the footprint of pension funds had fallen to less than 40% of all assets held by OFIs, while investment funds rose to about one-quarter, broker-dealers increased to 12%, and structured finance vehicles 
+
+
+increased to just more than 11%. In the years since the crisis, the footprint of broker-dealers, REITs, and structured finance vehicles have all steadily declined while investment funds have continued to expand. In the most recent data, investment funds made up slightly less than 40% of total assets held by OFIs, pension funds made up an additional 40%, and the remainder was accounted for by an assortment of other financial institutions, both regulated and unregulated. 
+
+[FIGURE id=vol5_iss1_1_f9 type=chart label="Figure 7" file=figure_7.png caption="Assets Held by Other Financial Institutions (OFIs) as a Percent of GDP, by Type of Institution"]
+### **Figure 7: Assets Held by Other Financial Institutions (OFIs) as a Percent of GDP, by Type of Institution**
+![Figure 7](assets/vol5_iss1_1/figure_7.png)
+
+
+_Sources: Financial Accounts of the United States, National Income and Product Accounts, and authors’ calculations._ 
+
+[FIGURE id=vol5_iss1_1_f10 type=figure label="Figure 8" file=figure_8.png caption="The Share of Assets Held by Other Financial Institutions (OFIs), by Type of Institution"]
+### **Figure 8: The Share of Assets Held by Other Financial Institutions (OFIs), by Type of Institution**
+![Figure 8](assets/vol5_iss1_1/figure_8.png)
+
+
+_Sources: Financial Accounts of the United States, National Income and Product Accounts, and authors’ calculations._ 
+
+A key takeaway is that the rapid growth of financial activity from the late 1980s to the mid2000s was driven by a strong expansion of market-based financial intermediation as the footprint of the traditional banking sector in US financial activity steadily declined. 
+
+
+Turning away from the narrow focus on OFIs and taking a step back to look at macroprudentially regulated financial institutions more broadly, Figure 9 shows assets held by all institutions within the regulatory boundary as a percent of GDP (the light blue portion in Figure 2), but this time these assets are broken out by the primary macroprudential regulator of the institution holding the asset (the regulatory view).[14] Depository institutions are regulated by federal banking regulators (the Fed, the OCC, the FDIC, and the NCUA). Insurance companies are regulated primarily by individual states. The GSEs have their own regulators (including the FHFA and the FCA) and, finally, other financial intermediaries within the boundary (OFIs), are regulated by the SEC and, to a lesser extent, the CFTC. Figure 10 shows the same information expressed in terms of the percent of total assets within the regulatory boundary. 
+
+[FIGURE id=vol5_iss1_1_f11 type=chart label="Figure 9" file=figure_9.png caption="Assets Held by Macroprudentially Regulated US Financial Institutions as a Percent of GDP, by Primary Regulatory Agency"]
+### **Figure 9: Assets Held by Macroprudentially Regulated US Financial Institutions as a Percent of GDP, by Primary Regulatory Agency**
+![Figure 9](assets/vol5_iss1_1/figure_9.png)
+
+
+a Other banking regulators includes the OCC, the FDIC, and the NCUA. 
+
+b GSE regulators includes the FHFA and the FCA. 
+
+_Sources: Financial Accounts of the United States, National Income and Product Accounts, and authors’ calculations._ 
+
+> 14 By “primary regulator,” we mean the regulatory agency responsible for the institution that directly holds a given asset. In some cases, this is trivial, but when the institution is a subsidiary of a parent holding company, it creates the possibility that the primary regulator at the subsidiary level is different from the regulator at the parent level. This is addressed in Section III.3. 
+
+
+[FIGURE id=vol5_iss1_1_f12 type=figure label="Figure 10" file=figure_10.png caption="The Share of Assets Held by Macroprudentially Regulated US Financial Institutions, by Primary Regulatory Agency"]
+### **Figure 10: The Share of Assets Held by Macroprudentially Regulated US Financial Institutions, by Primary Regulatory Agency**
+![Figure 10](assets/vol5_iss1_1/figure_10.png)
+
+
+a Other banking regulators includes the OCC, the FDIC, and the NCUA. 
+
+b GSE regulators includes the FHFA and the FCA. 
+
+_Sources: Financial Accounts of the United States, National Income and Product Accounts, and authors’ calculations._ 
+
+## **III.3. Regulatory Overlap** 
+
+The US regulatory environment is complex and fragmented in a way that creates overlap across different financial regulators for a given institution. In the context of our data, one way this can manifest is through assets held on the balance sheet of a subsidiary of a parent BHC. Consider a BHC comprising separate retail banking and broker-dealer subsidiaries. The previous section considered boundaries defined by the primary regulator, so for the retail banking subsidiary the primary regulator is a federal banking agency (the Fed, the FDIC, or the OCC, depending on the charter), while the primary regulator for the brokerdealer subsidiary is the SEC. In contrast, the BHC itself is regulated as a single entity at the parent level by the Federal Reserve. In this section, we reexamine regulatory boundaries from the perspective of the parent holding company, and we quantify the degree of regulatory overlap created by this fragmented system. 
+
+Figures 11 and 12 show the same information as Figures 9 and 10, respectively, but instead, the data are broken out by regulator at the parent level. Redrawing the regulatory boundaries at the parent level highlights that the Federal Reserve has a much larger footprint when we account for its role as the regulator of BHCs. By the same token, the role of the other banking regulators, including the FDIC, is much more limited.[15] In the mid1980s, the Federal Reserve had regulatory responsibility for about one-half of all assets 
+
+> 15 It is worth pointing out that because the FDIC is responsible for deposit insurance for the vast majority of depository institutions, this measure, which focuses on the asset side of the balance sheet of different financial intermediaries, understates the regulatory footprint of the FDIC. Section IV addresses the limitations of our measurement exercise, including the fact that it does not address regulatory reach over the liability side of the balance sheet. 
+
+
+held within the macroprudential regulatory boundary. The expansion of market-based finance over the next 20 years decreased the regulatory reach of the Federal Reserve, which fell to 30% of assets within the boundary leading into the Global Financial Crisis. 
+
+[FIGURE id=vol5_iss1_1_f13 type=chart label="Figure 11" file=figure_11.png caption="Assets Held by Macroprudentially Regulated US Financial Institutions as a Percent of GDP, by Regulatory Agency at the Parent Level"]
+### **Figure 11: Assets Held by Macroprudentially Regulated US Financial Institutions as a Percent of GDP, by Regulatory Agency at the Parent Level**
+![Figure 11](assets/vol5_iss1_1/figure_11.png)
+
+
+a DFAST:  Dodd–Frank Act Stress Tests. 
+
+b Other banking regulators includes the OCC, the FDIC, and the NCUA. 
+
+- c GSE regulators includes the FHFA and the FCA. 
+
+_Sources: Financial Accounts of the United States, National Income and Product Accounts, and authors’ calculations._ 
+
+[FIGURE id=vol5_iss1_1_f14 type=figure label="Figure 12" file=figure_12.png caption="The Share of Assets Held by Macroprudentially Regulated US Financial Institutions, by Regulatory Agency at the Parent Level"]
+### **Figure 12: The Share of Assets Held by Macroprudentially Regulated US Financial Institutions, by Regulatory Agency at the Parent Level**
+![Figure 12](assets/vol5_iss1_1/figure_12.png)
+
+
+a DFAST:  Dodd–Frank Act Stress Tests. 
+
+b Other banking regulators includes the OCC, the FDIC, and the NCUA. 
+
+c GSE regulators includes the FHFA and the FCA. 
+
+_Sources: Financial Accounts of the United States, National Income and Product Accounts, and authors’ calculations._ 
+
+
+Coming out of the Global Financial Crisis, the Dodd–Frank Wall Street Reform and Consumer Protection Act of 2010 expanded the regulatory reach of the Federal Reserve to the neighborhood of 35% of assets within the boundary. Moreover, the light-lined regions in Figures 11 and 12 show assets held on the balance sheets of BHCs that are subject to the Fed’s annual stress testing as per the Dodd–Frank Act Stress Tests (DFAST). Stress testing is one of the key macroprudential tools available to help build resilience in the financial system, and it has been actively used by the Federal Reserve in this regard. Although the BHCs that are subject to stress testing are some of the largest and most systemically important in the financial system, the figures reveal that they account for only about 20% of total assets within the boundary. Another prominent macroprudential tool is the CCyB. The CCyB is a time-varying capital buffer that can move up and down between 0% and 2.5% of common equity Tier 1 capital as a share of risk-weighted assets. The setting of the CCyB is based on the discretion of bank regulators over the credit cycle and is intended to build resilience in the banking sector. However, its reach is even more limited than stress testing’s, as eligibility depends on a larger total asset threshold compared to DFAST.[16] As long as macroprudential tools are limited to implementation through the banking sector, their reach will be restricted, and even more so as market-based financial intermediation plays a larger role in financial activity. 
+
+Finally, the fact that subsidiaries face primary regulators that are potentially different from the regulator of their parent BHC raises the possibility of regulatory overlap. That is, the assets on the balance sheet of a given subsidiary may face scrutiny from multiple regulators (both the primary regulator and the regulator of its parent BHC). Regulatory overlap could be good (greater scrutiny by multiple regulators could better identify emerging vulnerabilities and could lean against regulatory capture), or it could be bad (it raises the cost of compliance for the institutions facing scrutiny from multiple regulators). Regardless, our data allows us to quantitatively measure the degree of regulatory overlap. 
+
+Figure 13 shows the assets held on the balance sheet of financial institutions that face more than one regulator (that is, depository institutions or broker-dealers that are subsidiaries of a BHC) as a percent of total assets held by all regulated financial institutions. In the mid1980s, about $0.35 of every dollar of assets held within the regulatory boundary were subject to regulation by multiple authorities. This share fell steadily over the next 20 years and stood at about $0.15 of every dollar on the eve of the Global Financial Crisis. Regulatory reform following the crisis led to an increase to just more than $0.20 of every dollar, and the share has stayed relatively constant since that point. Of course, this is an imperfect measure of regulatory overlap because financial institutions face market regulation in addition to regulation based simply on their institutional charter. We discuss this, and other, limitations in Section IV. 
+
+> 16 In late 2019 the Federal Reserve finalized rules to tailor bank regulations to more closely match bank risk profiles. One consequence was that the CCyB now applies to only those banks with total assets of more than $250 billion, as opposed to banks subject to the advanced approaches capital rules (Regulation Q appears in Title 12, Part 217, Appendix A, of the Code of Federal Regulations.). 
+
+
+[FIGURE id=vol5_iss1_1_f15 type=figure label="Figure 13" file=figure_13.png caption="Regulatory Overlap"]
+### **Figure 13: Regulatory Overlap**
+![Figure 13](assets/vol5_iss1_1/figure_13.png)
+
+
+Note: Regulatory overlap is calculated as assets held by institutions that face more than one macroprudential regulator (broker-dealers and BHCs) over total assets held by all regulated institutions. _Sources: Financial Accounts of the United States, National Income and Product Accounts, and authors’ calculations._ 
+
+## **IV. Some Limitations** 
+
+A number of caveats apply to our analysis. First, our view of regulation is very narrow. We are concerned with the regulation of financial institutions from the perspective of promoting financial stability. This narrow definition is useful primarily because it facilitates measurement. Nevertheless, it is important to acknowledge that financial regulation is much broader along several dimensions.[17] For example, the motivation for regulation goes beyond macroprudential objectives. The objective might be oriented toward enhancing transparency through disclosure and reporting requirements, promoting efficiency through standard setting, promoting competition, providing consumer protection, prevention of illicit activity, or taxpayer protection. Beyond objectives, the regulations themselves might be implemented in ways that apply to financial activities that transcend institutional boundaries. For example, market activity, such as securities or commodities exchange, is regulated separately from the regulation of institutions that participate in those markets. Some of these activities are self-regulated by the institutions that participate in the markets. In a similar vein, concern for consumer protection factors into the regulation of credit provision, which is an activity that spans a wide set of institutions. Ideally, a more accurate measure of regulatory boundaries would incorporate a wider definition of regulation, but doing so greatly complicates measurement. 
+
+Even operating within our narrow definition, we are limited by the fact that the Financial Accounts simply do not cover some relevant financial institutions. For example, there are 
+
+17 See Labonte (2020) for an overview of the complicated structure of financial regulation in the US. 
+
+
+no data on CCPs. CCPs are relatively small when gauged by the size of total assets held on the balance sheets, but these institutions play an outsized role in the efficient functioning of financial markets. As such, they are a critical part of the regulatory landscape. Oversight of CCPs spans a variety of regulatory agencies, including the SEC, the CFTC, as well as the Fed. Hence, failing to include them adds noise to our measurement of boundaries within the perimeter. With regard to measurement of the macroprudential regulatory boundary itself, it is also the case that the Financial Accounts do not report information over the entirety of our sample period for hedge funds or private equity firms, neither of which sector is prudentially regulated.[18] This is a meaningful omission as assets held by hedge funds alone are as large as $2.7 trillion, accounting for more than 2% of total financial assets in the Financial Accounts as of Q2 2022. The implication is that our measurement likely overestimates the regulatory reach relative to what we might find if we had data on hedge funds or private equity firms. 
+
+Another caveat is that our measurement exercise risks sending a noisy signal about the financial stability concerns of certain institutions as well as the regulatory reach of the agencies that oversee these institutions. For example, based solely on asset size, regulatory supervision of the largest BHCs implies that the Fed has a critical role in financial stability. However, other institutions that have smaller balance sheets may play an equally important role in financial stability. For example, CCPs play a critical role in the intermediation chain, and as discussed above, our measure does not pick this up. Hence, the stability footprint of these types of institutions and the footprint of their associated regulators may be understated based solely on the size of their balance sheets. 
+
+A related point is that using assets to measure boundaries also clouds the fact that financial stability risks are very different across the institutions we examine. A more accurate reading of how institutions map into financial stability risk requires a careful examination of the entire balance sheet, rather than simply focusing on assets. So, while a given institution might be small in terms of assets, it could be the case that its funding structure is quite fragile and therefore poses a considerable stability risk relative to financial institutions with more stable funding structures. Because our measure of boundaries does not capture this, there is a natural tendency to equate regulatory responsibility with size and that might not be appropriate. For example, a large bank the relies heavily on retail deposits to finance its operations may not pose a significant financial stability risk owing to deposit insurance, but a similarly sized bank that is heavily dependent on short-term wholesale funding would be a major concern for banking regulators. 
+
+Although these caveats and limitations are important to keep in mind, the view here is that there is still significant value in measuring regulatory boundaries. 
+
+> 18 The hedge funds sector has not been fully incorporated in the regular Financial Accounts publication. Starting with the September 2020 (Q2 2020) Z.1 release, the Financial Accounts publishes a supplementary table with the balance sheets of domestic hedge funds, but this information is available only since Q4 2012, limiting its usefulness for this exercise. 
+
+
+## **V. Conclusions** 
+
+This paper uses data from the Financial Accounts of the United States to draw the macroprudential regulatory boundary for US financial assets. It shows that over the past 40 years, this boundary has expanded as the significant expansion of the financial sector since 1980 has come primarily from institutions that have some macroprudential regulatory oversight. That said, cyclical fluctuations in the regulatory perimeter reveal information about the nature of credit cycles. From a financial stability monitoring perspective, expansions of the credit cycle that are concurrent with a cyclical decline in the regulatory boundary are of particular concern as this is an indicator that credit growth is concentrated among the least resilient institutions. In addition, we also measure the boundaries between different financial institutions and regulatory agencies within the regulatory perimeter and provided a quantitative measure of regulatory overlap. These boundaries are important for understanding risks to financial stability as well as the design and implementation of macroprudential policy. 
+
+## **VI. References** 
+
+Acharya, Viral V., Philipp Schnabl, and Gustavo Suarez. 2013. “Securitization without Risk Transfer.” _Journal of Financial Economics_ 107, no. 3: 515–36. https://doi.org/10.1016/j.jfineco.2012.09.004 
+
+Aiyar, Shekhar, Charles W. Calomiris, and Tomasz Wieladek. 2014. “Does Macro-Prudential Regulation Leak? Evidence from a UK Policy Experiment.” _Journal of Money, Credit and Banking_ 46, no. s1: 181–214. 
+
+https://www.jstor.org/stable/42920115 
+
+Basel Committee on Banking Supervision (BCBS). 2010. “Guidance for National Authorities Operating the Countercyclical Capital Buffer.” BCBS Guidelines, December 16, 2010. https://www.bis.org/publ/bcbs187.htm 
+
+Begenau, Juliane, and Tim Landvoigt. 2022. “Financial Regulation in a Quantitative Model of the Modern Banking System.” _Review of Economic Studies_ 89, no. 4, July: 1748–84. https://doi.org/10.1093/restud/rdab088 
+
+Borio, Claudio, and Philip Lowe. 2002. “Assessing the Risk of Banking Crises—Revisited.” Bank for International Settlements, _BIS Quarterly Review_ (December): 43–54. https://www.bis.org/publ/qtrpdf/r_qt0212e.pdf 
+
+Buncic, Daniel, and Martin Melecky. 2013. “Equilibrium Credit: The Reference Point for Macroprudential Supervision.” World Bank Policy Research Working Paper No. 6358, 
+
+
+February 2013. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2215481 
+
+Clerc, Laurent, Alexis Derviz, Caterina Mendicino, Stephane Moyen, Kalin Nikolov, Livio Stracca, Javier Suarez, and Alexandros P. Vardoulakis. 2015. “Capital Regulation in a Macroeconomic Model with Three Layers of Default.” _International Journal of Central Banking_ 11, no. 3: 9–63. 
+
+https://www.ijcb.org/journal/ijcb15q3a1.htm 
+
+Crouzet, Nicolas. 2018. “Aggregate Implications of Corporate Debt Choices.” _Review of Economic Studies_ 85, no. 3: 1635–82. 
+
+https://academic.oup.com/restud/article/85/3/1635/4371412 
+
+Drehmann, Mathias, and Konstantinos Tsatsaronis. 2014. “The Credit-to-GDP Gap and Countercyclical Capital Buffers: Questions and Answers.” Bank for International Settlements, _BIS Quarterly Review_ (March): 55–73. 
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2457108 
+
+Edge, Rochelle M., and Ralf Meisenzahl. 2011. “The Unreliability of Credit-to-GDP Ratio Gaps in Real-Time: Implications for Countercyclical Capital Buffers.” _International Journal of Central Banking_ 7, no. 4: 261–98. 
+
+http://dx.doi.org/10.2139/ssrn.1956719 
+
+Fève, Patrick, Alban Moura, and Olivier Pierrard. 2019. “Shadow Banking and Financial Regulation: A Small-Scale DSGE Perspective.” _Journal of Economic Dynamics and Control_ 101 (April): 130–44. 
+
+https://www.sciencedirect.com/science/article/pii/S0165188918302409 
+
+Fiore, Fiorella D., and Harald Uhlig. 2011. “Bank versus Bond Finance.” _Journal of Money, Credit and Banking_ 43, no. 7: 1399–421. 
+
+https://onlinelibrary.wiley.com/doi/full/10.1111/j.1538-4616.2011.00429.x 
+
+———. 2015. “Corporate Debt Structure and the Financial Crisis.” _Journal of Money, Credit and Banking_ 47, no. 8: 1571–98. https://onlinelibrary.wiley.com/doi/full/10.1111/jmcb.12284 
+
+Gertler, Mark, Nobuhiro Kiyotaki, and Andrea Prestipino. 2016. “Chapter 16: Wholesale Banking and Bank Runs in Macroeconomic Modeling of Financial Crises.” In _Handbook of Macroeconomics_ , Volume 2, edited by John B. Taylor and Harald Uhlig, 1345–425. Amsterdam: Elsevier. 
+
+https://www.sciencedirect.com/science/article/pii/S1574004816000100 
+
+Goodhart, Charles. 2008. “The Boundary Problem in Financial Regulation.” _National Institute Economic Review_ 206 (October): 48–55. https://www.cambridge.org/core/journals/national-institute-economic- 
+
+
+review/article/abs/boundary-problem-in-financialregulation/C384CEB73C76CB68FF0C07FA0FBECF34# 
+
+Goodhart, Charles, and Rosa Lastra. 2010. “Border Problems.” _Journal of International Economic Law_ 13, no. 3: 705–18. 
+
+https://academic.oup.com/jiel/article/13/3/705/875059 
+
+Hodrick, Robert J., and Edward C. Prescott. 1997. “Postwar U.S. Business Cycles: An Empirical Investigation.” _Journal of Money, Credit and Banking_ 29, no. 1: 1–16. https://doi.org/10.2307/2953682 
+
+International Monetary Fund–Financial Stability Board–Bank for International Settlements (IMF-FSB-BIS). 2016. “Elements of Effective Macroprudential Policies: Lessons from International Experience.” Joint report, August 31, 2016. https://www.bis.org/publ/othp26.htm 
+
+Labonte, Marc. 2020. “Who Regulates Whom? An Overview of the U.S. Financial Regulatory Framework.” Congressional Research Service, Report No. R44918, March 2020. https://www.everycrsreport.com/files/20200310_R44918_8448f8813e769930dd24033b cf31091ff31028c8.pdf 
+
+Meeks, Roland, Benjamin Nelson, and Piergiorgio Alessandri. 2017. “Shadow Banks and Macroeconomic Instability.” _Journal of Money, Credit and Banking_ 49, no. 7: 1483–516. https://doi.org/10.1111/jmcb.12422 
+
+Mendicino, Caterina, Kalin Nikolov, Javier Suarez, and Dominik Supera. 2018. “Optimal Dynamic Capital Requirements.” _Journal of Money, Credit and Banking_ 50, no. 6: 1271–97. https://doi.org/10.1111/jmcb.12490 
+
+Moreira, Alan, and Alexi Savov. 2017. “The Macroeconomics of Shadow Banking.” _Journal of Finance_ 72, no. 6: 2381–432. https://doi.org/10.1111/jofi.12540 
+
+This open access article is distributed under the terms of the CC-BY-NC-ND 4.0 license, which allows sharing of this work provided the original author and source are cited. The work may not be changed or used commercially.

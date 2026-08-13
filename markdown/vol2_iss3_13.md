@@ -1,0 +1,512 @@
+## Public-Private Investment Program: The Legacy Securities Program (U.S. GFC)[1] 
+
+## _Benjamin Henken_[2] 
+
+Yale Program on Financial Stability March 20, 2019, Revised: October 10, 2020 
+
+## **Abstract** 
+
+On March 23, 2009, the U.S. Treasury, in conjunction with the Federal Reserve (Fed) and the Federal Deposit Insurance Corporation (FDIC), announced the Public-Private Investment Program (PPIP). PPIP consisted of two complementary programs designed to foster liquidity in the market for certain mortgage-related assets: The Legacy Loans Program and the Legacy Securities Program. This case study discusses the design and implementation of the Legacy Securities Program. Under this program, the Treasury formed an investment partnership with nine private sector firms it selected at the conclusion of a months-long application process. Using a combination of private equity and debt and equity from the Treasury, nine public-private investment funds (PPIFs) invested $24.9 billion in non-agency residential and commercial mortgage-backed securities (MBS), netting the government a positive return of $3.9 billion on its investment. While the program received mixed reviews from scholars, the private sector, and former government officials, it is seen as having contributed somewhat to the recovery of the secondary mortgage market. 
+
+**Keywords:** Public-Private Investment Program, PPIP, Legacy Securities Program, TARP, U.S. Department of the Treasury, FDIC, mortgage-related assets, toxic assets, asset purchase program 
+
+_____________________________________________________________________ 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering the responses to the global financial crisis that pertain to market liquidity programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-offinancial-crises/. 
+
+> 2 Benjamin Henken – Research Associate, YPFS, Yale School of Management. 
+
+
+## Legacy Securities Program (PPIP) 
+
+## **At a Glance** 
+
+By the fall of 2008, troubled mortgagerelated assets had become inextricably linked to the onset of the Global Financial Crisis. Marked down to only a fraction of what they once were worth, these assets weighed heavily on financial institutions in possession of them, consuming their capital, raising concerns as to their solvency, and inhibiting their ability to make new loans. 
+
+## Summary of Key Terms 
+
+||Purpose: To create demand and provide liquidity for|Purpose: To create demand and provide liquidity for|
+|---|---|---|
+||legacymortgage securities||
+||AnnouncementDate|March 23,2009|
+||Operational Date|Q4 2009|
+||Expiration Date|Q4 2013|
+||Legal Authority|Emergency<br>Economic|
+|||Stabilization Act of 2008;|
+|||Troubled<br>Asset<br>Relief|
+|||Program; Section 13(3) of|
+|||theFederal ReserveAct|
+||Program Mechanics|Nine<br>public-private|
+|||investment<br>funds<br>bought|
+|||mortgage securities in the|
+|||open<br>market<br>using<br>a|
+|||combination<br>of<br>private|
+|||equity, Treasury equity, and|
+|||Treasury debt|
+||Amount Invested|$24.9 billion ($18.6 of which|
+|||was government funding)|
+||Government<br>Sponsors|U.S.<br>Treasury;<br>Federal<br>Reserve Board|
+
+
+
+On March 23, 2009, the U.S. Treasury, Federal Deposit Insurance Corporation (FDIC), and Federal Reserve announced the Public-Private Investment Program (PPIP), consisting of two complementary programs designed to provide up to $500 billion in liquidity for these assets: The Legacy Loans Program and the Legacy Securities Program. This case study discusses the design and implementation of the Legacy Securities Program. 
+
+Under this program, the Treasury created Sponsors Reserve Board investment partnerships with nine private sector firms it selected at the conclusion of a months-long application process. Using a combination of private equity and debt and equity from the Treasury, the nine public-private investment funds (PPIFs) invested $24.9 billion in non-agency residential and commercial mortgage-backed securities, netting the government a positive return of $3.9 billion on its investment. 
+
+The market initially responded positively to the announcement of PPIP; the S&P 500 and Dow Jones Industrial Average both had gains of 7% on that day. However, the market later cooled to the idea of the program after it took months to develop and appeared increasingly unlikely to realize its full potential. 
+
+## **Summary Evaluation** 
+
+The exact impact of the Legacy Securities Program is difficult to pinpoint given that the program was just one small part of the government’s broader crisis-fighting strategy. Despite the existence of no scholarly literature attempting to isolate the effects of the program, the Treasury has credited the program with helping to achieve its stated goals. 
+
+
+|**The Legacy Securities Program:  United States Context**|**The Legacy Securities Program:  United States Context**|
+|---|---|
+|**GDP**<br>**(SAAR, Nominal GDP**<br>**in LCU converted to**<br>**USD)**|$14,681.5 billion in 2007<br>$14,559.5 billion in 2008<br>_Source: Bloomberg_|
+|**GDP per capita**<br>**(SAAR, Nominal GDP**<br>**in LCU converted to**<br>**USD)**|$47,976 in 2007<br>$48,383 in 2008<br>_Source: Bloomberg_|
+|**Sovereign credit**<br>**rating (5-year senior**<br>**debt)**|As of Q4, 2007:<br>Fitch: AAA<br>Moody’s: Aaa<br>S&P: AAA<br>As of Q4, 2008:<br>Fitch: AAA<br>Moody’s: Aaa<br>S&P: AAA<br>_Source: Bloomberg_|
+
+
+
+
+|**Size of banking**<br>**system**|$9,231.7 billion in total assets in 2007<br>$9,938.3 billion in total assets in 2008<br>_Source: Bloomberg_|
+|---|---|
+|**Size of banking**<br>**system as a**<br>**percentage of GDP**|62.9% in 2007<br>68.3% in 2008<br>_Source: Bloomberg_|
+|**Size of banking**<br>**system as a**<br>**percentage of**<br>**financial system**|Banking system assets equal to 29.0% of<br>financial system in 2007<br>Banking system assets equal to 30.5% of<br>financial system in 2008<br>_Source: World Bank Global Financial_<br>_Development Database_|
+|**5-bank concentration**<br>**of banking system**|43.9% of total banking assets in 2007<br>44.9% of total banking assets in 2008<br>_Source: World Bank Global Financial_<br>_Development Database_|
+|**Foreign involvement**<br>**in banking system**|22% of total banking assets in 2007<br>18% of total banking assets in 2008<br>_Source: World Bank Global Financial_<br>_Development Database_|
+
+
+
+
+|**Government**<br>**ownership of banking**<br>**system**|0% of banks owned by the state in 2008<br>_Source: World Bank, Bank Regulation and_<br>_Supervision Survey_|
+|---|---|
+|**Existence of deposit**<br>**insurance**|100% insurance on deposits up to $100,000<br>for 2007<br>100% insurance on deposits up to $250,000<br>for 2008<br>_Source: Federal Deposit Insurance Corporation_|
+
+
+
+
+## **I. Overview** 
+
+## **Background** 
+
+By the fall of 2008, troubled mortgage-related assets had become inextricably linked to the onset of the Global Financial Crisis (GFC). Marked down to only a fraction of what they once were worth, these assets weighed heavily on the nation’s financial institutions, consuming their capital, raising concerns about their solvency, and inhibiting their ability to make new loans (PPIP White Paper 2009). 
+
+On September 19, 2008, U.S. Treasury Secretary Henry Paulson issued a public statement on the escalating crisis, calling troubled mortgage-related assets “the underlying weakness [of the U.S.] financial system” (Paulson Statement 9/19/2018). Two weeks later, Congress responded by enacting the Emergency Economic Stabilization Act (EESA), approving the creation of the Troubled Asset Relief Program (TARP) and giving the Treasury up to $700 billion with which to purchase these assets. 
+
+By the end of year, the Treasury had disbursed nearly $200 billion in TARP funding; however, it had yet to establish an asset purchase program. Two months earlier, it decided to halt the development of such a program, citing the exceeding complexity of designing one and the relative inefficiency using the funding to buy troubled assets as opposed to inject capital (Paulson Statement 11/12/2008). 
+
+By early 2009, the worst of the financial crisis had subsided, yet troubled mortgage assets continued to pose a threat to the broader financial system. Deep markdowns on these assets “[created] uncertainty around the balance sheets of financial institutions [holding them], compromising their ability to raise capital and their willingness to increase lending” (PPIP Fact Sheet 2009). The resulting drag on new credit formation threatened to exacerbate the ongoing recession (PPIP Fact Sheet 2009). 
+
+On February 10, 2009, in recognition of the risk of protracted financial and economic instability, the Obama Treasury announced a comprehensive Financial Stability Plan that was intended to “attack [the] credit crisis on all fronts” (Financial Stability Plan 2009). Given the prevalence of troubled mortgage assets and their role in instigating the crisis, a key focus of this plan was to “restart” primary and secondary markets for them, with the hope of giving financial institutions a chance to “cleanse their balance sheets” of them (Financial Stability Plan 2009). 
+
+## **Program Description** 
+
+On March 23, 2009, on the basis of a proposal outlined in the Financial Stability Plan, the Treasury, Federal Deposit Insurance Corporation (FDIC), and Federal Reserve (Fed) officially announced the Public-Private Investment Program (PPIP). The program was created to allow for the formation of public-private investment partnerships; “using $75 [billion] to $100 billion in TARP capital and capital from private investors,” these partnerships would aim to purchase up to $500 billion in “legacy assets” from U.S. financial institutions, providing a considerable injection of liquidity to the market for them (PPIP Fact Sheet 2009). PPIP consisted of two complementary programs designed to provide liquidity for certain mortgage-related assets: The Legacy Loans Program and the Legacy Securities 
+
+
+Program. This case study discusses the design and implementation of the Legacy Securities Program. (For more information on the Legacy Loans Program, see Henken 2019.[3] ) 
+
+The Legacy Securities Program revolved around the creation of public-private investment funds (PPIFs) that—using a combination of private and public finding—would purchase legacy securities in the open market. To begin the program, the Treasury conducted an application process, which resulted in it choosing nine private sector firms (fund managers) with which to form investment partnerships. Each fund manager was given responsibility over its own PPIF, which served as the conduit through which it purchased and held onto eligible securities. After raising capital from the private sector, receiving matching Treasury equity, and selecting one of two debt-financing schemes made available by the Treasury, the PPIFs began to invest in mortgage securities and were given a three-year window in which to do so. Over the next five years, they were then required to unwind any positions they had assumed. 
+
+Specific program processes, eligibility requirements, and other conditions are discussed in detail below. 
+
+## _Selecting Fund Managers_ 
+
+At the inception of PPIP, the Treasury posted application materials online for firms that wanted to manage a PPIF under the Legacy Securities Program (Selecting PPIP Fund Managers 2010). The application consisted of questions gauging the potential applicant’s “qualifications and performance history,” requiring firms to detail the scope of their operations, their investment management experience, the capacity of their workforce, and their organizational structure. Applicants also had to develop a vision for their participation in the program, outlining how they would set up and staff a PPIF, pursue investment opportunities, and stay within the boundaries of relevant regulatory requirements (Fund Manager Application). Simpson Thacher & Bartlett LLP, a law firm, assisted the Treasury with drafting application materials and setting evaluation standards (Selecting PPIP Fund Managers 2010). 
+
+Potential applicants were given about two weeks to apply. However, after initially fielding weak interest from the private sector, the Treasury extended the deadline twice, ultimately settling on April 24 (Selecting PPIP Fund Managers 2010). 
+
+On April 24, the Treasury closed the application window, having received a total of 141 submissions, and assessed applicants in several rounds during the ensuing few months. An “Evaluation Committee” was charged with examining all application materials and was composed not only of Treasury officials but also individuals from other agencies, including the Export-Import Bank and Overseas Private Investment Corporation. Ennis Knupp & Associates, a consulting firm, was brought on to advise the committee throughout this process (SIGTARP Report, Selecting Fund Managers 2010). Applicants were evaluated based on how they measured against the following criteria: 
+
+1. “Demonstrated capacity to raise at least $500 million in private sector capital.” 
+
+_____________________________________________________________________ 
+
+> 3 Henken, Benjamin. “The Public-Private Investment Program: The Legacy Loans Program (U.S. GFC).” Yale Program on Financial Stability. 
+
+
+2. “Demonstrated experience investing in Eligible Assets, including through performance track records.” 
+
+3. “A minimum of $10 billion (market value) of Eligible Assets under management.” 
+
+4. “Demonstrated operational capacity to manage the Funds in a manner consistent with Treasury’s stated Investment Objective[4] while also protecting taxpayers.” 
+
+5. “Headquartered in the United States” (Fund Manager Application). 
+
+## _Funding the PPIFs_ 
+
+On July 8, 2009, the Treasury announced the appointment of nine private sector fund managers, each of which was responsible for overseeing the operations of its own PPIF. Following their selection, fund managers set out to raise the private capital portion of their funding base. Each fund manager was obliged to raise no less than $500 million in private capital during the ensuing 12 weeks—at least $20 million of which had to be supplied by its own firm. Neither a fund manager nor other investors could obtain a share of more than 9.9% in any PPIF (Legacy Securities Summary of Terms). 
+
+The Treasury agreed to match all private equity raised by the PPIFs up to an initial limit of $1.1 billion per fund. As the program took shape, the Treasury opted to match private equity raised by some fund managers in excess of this limit, and ultimately capped its combined capital commitment at a total of $10 billion (SIGTARP Report, Q1 2010). 
+
+In addition to private and government capital, each PPIF was given the option of selecting one of two debt-financing schemes made available by the Treasury: half turn or full turn. Half turn financing gave PPIFs access to Treasury debt worth 50% of their total capital base, while full turn financing gave them access to Treasury debt worth 100% of that amount (Legacy Securities Summary of Terms). 
+
+Despite offering PPIFs half as much debt from the Treasury, half turn financing did afford them the opportunity to borrow from other sources, provided that they did not take on gross leverage of more than 5:1. This design was intended to allow PPIFs to borrow from the Term Asset-Backed Securities Loan Facility (TALF), a program established by the Fed and Treasury to support certain securitization markets (SIGTARP Report, Q3 2009). 
+
+In either case, Treasury debt was made available to each PPIF in the form of a “seniorsecured multiple-draw term loan facility.” PPIFs could draw on these facilities at any time until the close of the program’s investment period. Loans were nonrecourse—secured only by the assets they were used to purchase—and were extended at rates of 1-month Libor + 100 basis points (full turn) or 1-month Libor + 200 basis points (half turn) (Legacy Securities Summary of Terms). In return for its commitment, the Treasury received warrants in each PPIF, giving it “the right to receive a percentage of the profits that would otherwise [have been] distributed to the private partners;” for half turn financing, the warrant percentage was 1.5%, whereas for full turn it was 2.5% (Treasury PPIP Homepage). PPIFs accepting outside financing were required to set up “a subsidiary to finance, acquire, and hold the 
+
+_____________________________________________________________________ 
+
+> 4 The Treasury’s stated investment objective was to “generate attractive returns . . . through long-term opportunistic investments in Eligible Assets” (Legacy Securities Summary of Terms). 
+
+
+assets” purchased using this debt; third-party lenders had no recourse beyond the assets of the subsidiary established directly in relation to them (SIGTARP Q3 2009; Financial Crisis Manual 2009). 
+
+Figure 1 is a simplified example of how the two funding schemes might have contributed to a PPIF’s funding base and thus determined its overall purchasing power, based on an example given by the Special Inspector General for TARP. As shown in Figure 1, by choosing full turn financing, a fund manager with $100 in total equity would have received access to a Treasury credit facility worth that same amount, giving him or her access to a total of $200 to invest in eligible securities (SIGTARP Report, Q3 2009). 
+
+Half turn financing, however, provided fund managers with the opportunity to take on considerably more leverage if the haircut on the securities they wanted to purchase was low enough to allow for it. Suppose, for example, that certain eligible securities were subject to a haircut of 20% under TALF and that a fund manager had $100 in total equity to invest in them. In this scenario, a fund manager would have been able to commit $100 in equity for the purchase of $500 in securities. As a result, the fund manager would have sought $400 in loans to complete the purchase; having already received access to a $50 credit facility from the Treasury, the fund manager would have turned to TALF for the remaining $350 (SIGTARP Report, Q3 2009). While this example conveniently keeps the fund manager in line with the 5:1 leverage limit prescribed by the Treasury for PPIP, officials at the Treasury and Fed noted that TALF haircuts on securities would be tailored such that no PPIF would violate the 5:1 leverage limit (Financial Crisis Manual 2009). 
+
+[FIGURE id=vol2_iss3_13_f1 type=figure label="Figure 1" file=figure_1.png caption="Example Funding Scenarios under the Legacy Securities Program"]
+### **Figure 1: Example Funding Scenarios under the Legacy Securities Program**
+
+||**Half Turn (w/ TALF)**|**Full Turn**|
+|---|---|---|
+||**_Equity_**||
+|Private Equity|$50|$50|
+|Treasury Equity|$50|$50|
+||**_Debt_**||
+|Treasury|$50|$100|
+|TALF|$350|$0|
+||**_Purchasing Power_**||
+|Total Equity|$100|$100|
+|Total Debt|$400|$100|
+|**Total Purchasing Power**|**$500**|**$200**|
+
+
+
+## _Source: Adapted from SIGTARP Report, Q3 2009_ 
+
+## _Investing in Securities_ 
+
+Once they finished raising private capital, PPIFs were given three years to invest in eligible securities. The government delegated all investment decisions to the fund managers and charged them with the mission of “[generating] attractive returns for taxpayers and private investors through long-term opportunistic investments in Eligible Assets . . . by following predominantly a buy and hold strategy” (PPIP Quarterly Reports). Private investors paid fund managers a fee “similar to what they [charged] for other fund products,” while the 
+
+
+Treasury paid a fee of 0.20% (Financial Crisis Manual 2009). When investing in securities, fund managers used private and Treasury capital in equal proportion to each other. Following the investment period, PPIFs were given an additional five years during which to manage and eventually to dispose of assets (PPIP White Paper 2009). 
+
+## _Eligible Assets_ 
+
+PPIFs could purchase non-agency residential mortgage-backed securities (RMBS) and commercial mortgage-backed securities (CMBS) that were (1) “issued prior to 2009,” (2) “originally rated AAA or an equivalent rating by two or more nationally recognized statistical rating organizations without ratings enhancement,” (3) “secured by the actual mortgage loans, leases or other assets and not [by] other securities,” at least 90% of which were located in the United States, and (4) owned by a US financial institution, as defined by the EESA (Legacy Securities Summary of Terms). 
+
+## _Profit- and Loss-Sharing_ 
+
+Profits and losses realized from investments were divided by a PPIF’s stakeholders— including the Treasury—commensurate with their equity contributions (Legacy Securities Summary of Terms). Because credit extended to the PPIFs was nonrecourse, losses in excess of equity were to be borne by the Treasury or third-party lenders. 
+
+## _Governance and Oversight_ 
+
+The Treasury was responsible for administering the program, while the Special Inspector General for TARP and the Government Accountability Office monitored the program in an oversight role. The Treasury also hired the Bank of New York Mellon (BNY) to serve as “the administrative agent, custodian, and valuation agent” of the program. In this role, BNY maintained important documentation, filed financial reports to the Treasury on behalf of the PPIFs, and provided an independent estimate of the value of PPIF investment portfolios (SIGTARP Report, Q4 2009). 
+
+With fund managers having near-total control over the use of public dollars, the Treasury put in place a number of rules to ensure that its funding would not be exploited, and hired PricewaterhouseCoopers (PWC) to supervise PPIFs with respect to them. PPIFs also were required to adhere to certain transparency guidelines. These included having to submit reports to the Treasury on a monthly, quarterly, and annual basis, as well as undergoing “continuous testing of their solvency and liquidity” (SIGTARP Report, Q3 2009). 
+
+## **Outcomes** 
+
+The stock market responded positively to the announcement of PPIP on March 23, 2009; the S&P 500 and Dow Jones Industrial Average both had gains of nearly 7% that day. However, as the Treasury spent several months assessing the pool of applicants, the market appeared to lose interest in the proposal as financial market conditions improved more generally (Geithner 2014; Financial Crisis Manual). 
+
+As a result, the Treasury was forced to abandon its plan of committing up to $100 billion in funding for PPIP’s implementation (including the Legacy Loans Program). By July 8, 2009, the Treasury’s commitment for the Legacy Securities Program—which by then had become the centerpiece of PPIP—had been reduced to just $30 billion (Joint Statement 7/8/2009). 
+
+
+On July 8, the Treasury also announced its choice of nine private sector fund managers, each of whom was charged with operating a PPIF created under the Legacy Securities Program. These included (1) AllianceBernstein; (2) Angelo, Gordon & Co. and GE Capital Real Estate; (3) BlackRock; (4) Invesco; (5) Marathon Asset Management; (6) Oaktree Capital Management; (7) RLJ Western Asset Management; (8) the TCW Group; and (9) Wellington Management Company (Joint Statement 7/8/2009). Despite a reduction in funding available for the program, the appointment of nine fund managers represented an operational expansion of it, as the Treasury originally anticipated choosing only five firms with which to partner. 
+
+Following their selection, the nine fund managers worked to solidify the capital structure of their individual PPIFs and ultimately raised a total of $7.4 billion in private equity, all of which was matched by the Treasury. In addition, each fund manager accepted Treasury debt worth as much as its aggregate capital base.[5] Equipped with this combination of public and private funding, the PPIFs had access to $29.4 billion in total funding. **[6]** 
+
+[FIGURE id=vol2_iss3_13_f2 type=figure label="Figure 2" file=figure_2.png caption="Public and Private Sector Funding for PPIP"]
+### **Figure 2: Public and Private Sector Funding for PPIP**
+![Figure 2](assets/vol2_iss3_13/figure_2.png)
+
+
+_Source: SIGTARP Report, Fourth Quarter 2013_ 
+
+_____________________________________________________________________ 
+
+5 PPIFs took on debt exclusively from Treasury without ever tapping into funding from TALF (i.e., all PPIFs opted for full turn financing). A potential reason for this is that fund managers could fund purchases of some legacy CMBS through TALF, but not legacy RMBS—which constituted a vast majority of their investments. 6 These figures and Figure 2 do not include the TCW Group, which received more than $300 million in government funding. In January 2010, TCW wound down its PPIF, exiting the program after the head of its PPIF left the firm. It ultimately repaid the government in full. 
+
+
+By late 2009, as they continued to raise private capital, the PPIFs also began to invest in legacy securities. By the end of 2012, eight PPIFs had invested approximately $24.4 billion of available funding—$6.1 billion in private capital and $18.3 billion in TARP equity and debt (SIGTARP Report, Q4 2013). 
+
+PPIFs predominantly invested in non-agency RMBS but also invested in CMBS.[7] As Figure 3 shows, PPIFs gradually expanded their investment portfolios from fourth quarter 2009 to the end of 2010. The value of their investments peaked during first quarter 2011, when PPIFs held approximately $22.1 billion in legacy securities, and hovered in the range of $20 billion until third quarter 2012, when they started to reduce their portfolios. By June 2013, each PPIF had completely unwound its investments. 
+
+[FIGURE id=vol2_iss3_13_f3 type=figure label="Figure 3" file=figure_3.png caption="Outstanding Investments Under PPIP, 2009-2013"]
+### **Figure 3: Outstanding Investments Under PPIP, 2009-2013**
+![Figure 3](assets/vol2_iss3_13/figure_3.png)
+
+
+## _Source: SIGTARP Report, Fourth Quarter 2013._ 
+
+At the program’s peak, 34% of total RMBS holdings were prime, 47% were Alt-A, 11% were subprime, and 8% were option-ARM. As for CMBS, 13.5% were super senior, 39.0% were AM (a “mezzanine-level originally rated AAA bond”), and 26.7% AJ (the lowest tranche of CMBS to receive a AAA rating). The remaining 20.5% were classified as “other CMBS” by the Treasury (PPIP Quarterly Report, March 31, 2011). 
+
+The Treasury never released transaction-level data on PPIP, thus making it difficult to know which kinds of financial institutions predominantly sold assets to PPIFs under the program. In the end, each PPIF generated a positive net internal rate of return (IRR), ranging from 18.2% to 26.3%. The Treasury incurred no losses on total disbursements of $18.6 billion and, 
+
+_____________________________________________________________________ 
+
+> 7 All PPIFs were allowed to invest in both RMBS and CMBS except for Oaktree Capital Management, which— per its contract with Treasury—could invest only in CMBS (SIGTARP Report, Q4 2013). 
+
+
+overall, netted a positive return of $3.9 billion from dividends, interest, and other income (SIGTARP Report Q4 2013). 
+
+## **II.** 
+
+## **1. The Treasury sought to facilitate private investment in the market for mortgagerelated assets through a public-private partnership.** 
+
+In early 2009, huge markdowns on mortgage-related assets continued to afflict the banks in possession of them, consuming their capital and inhibiting their ability to make new loans (PPIP White Paper 2009). That March, in recognition of the risks associated with these assets, the Treasury established the Public-Private Investment Program (PPIP) with two primary goals in mind. The obvious aim was to create new demand for troubled mortgagerelated assets, thus enabling financial institutions to sell them. At the same time, the Treasury wanted a considerable portion of new demand to be from private investors. In order to achieve this, it formed investment partnerships with them. 
+
+While the government could have purchased these assets on its own, it concluded that incorporating the private sector into its approach had three clear advantages: It would (1) “[leverage] the impact of each taxpayer dollar,” enabling for the purchase of more assets using less TARP funding; (2) reduce government exposure to risk, as the private sector would help to shoulder any losses on the investments; and (3) “provide a mechanism for valuing the assets,” helping the government to avoid paying the wrong price for them, which would have further distorted the dysfunctional market it sought to fix (PPIP Fact Sheet 2009; Elliott 2009; Financial Crisis Manual) 
+
+**2. PPIP was established under the umbrella of the Troubled Asset Relief Program (TARP).** 
+
+Created by Congress in October 2008 with the enactment of the Emergency Economic Stabilization Act (EESA), TARP enabled the Treasury “to purchase and insure certain types of troubled assets for the purposes of providing stability to and preventing disruption in the economy and financial system” (Public Law 110—343). The law defined troubled assets as: 
+
+(A) residential or commercial mortgages and any securities, obligations, or other instruments that are based on or related to such mortgages, that in each case was originated or issued on or before March 14, 2008, the purchase of which the Secretary determines promotes financial market stability; and (B) any other financial instrument that the Secretary, after consultation with the Chairman of the Board of Governors of the Federal Reserve System, determines the purchase of which is necessary to promote financial market stability, but only upon transmittal of such determination, in writing, to the appropriate committees of Congress (Public Law 110—343). 
+
+Legacy loans and securities that were eligible for purchase through PPIP largely conformed to the description in definition (A). However, given the existence of definition (B), the 
+
+
+Treasury Secretary also had the authority to decide if other assets needed to be purchased and what characteristics to apply to them.[8] 
+
+## **3. The Treasury sponsored the creation of the Legacy Securities Program and received help from other government agencies and third parties throughout the implementation of it.** 
+
+The Treasury sponsored the creation of the Legacy Securities Program and initially committed up to $100 billion in TARP funding for the implementation of it (although this amount soon was reduced to $30 billion). The Treasury’s primary responsibilities included: (1) conducting an application process pursuant to which it selected firms to become fund managers, (2) meeting the PPIFs’ funding needs (matching private capital raised by them and setting up credit facilities for those accepting Treasury debt), and (3) maintaining oversight of the PPIFs as they purchased assets with public funding but largely at their own discretion. 
+
+Throughout the program, the Treasury interacted with and received help from a number of government agencies and private firms. During the application period, Simpson Thacher & Bartlett, a law firm, assisted with drafting application materials and setting evaluation standards; individuals from other government agencies (including the Export-Import Bank and Overseas Private Investment Corporation) served on the Evaluation Committee, helping to choose responsible fund managers; and Ennis Knupp & Associates, a consulting firm, advised the Evaluation Committee as it reviewed applications. 
+
+In addition, PricewaterhouseCoopers (PWC) and the Bank of New York Mellon (BNY Mellon) helped the Treasury to set up an extensive regulatory and oversight system. PWC supervised PPIFs with respect to rules concerning fraud and abuse of funds, while BNY Mellon served in the role of “administrative agent, custodian, and valuation agent” for the PPIFs (SIGTARP Q4 2009 report). 
+
+## **4. Favorable financing terms were designed to induce private sector firms to buy and sell assets under the program.** 
+
+Because the private market was hesitant to invest in legacy securities, the government needed to provide an incentive for it to do so as part of the Legacy Securities Program. The program aimed to do this “by providing government equity co-investment and attractive public financing” to these investors (PPIP White Paper 2009). 
+
+Public funding for asset purchases included matching Treasury equity as well as debt financing from the Treasury and/or outside financing sources. As described above, half turn financing offered PPIFs access to Treasury debt worth 50% of their aggregate capital—while giving them the opportunity to obtain debt elsewhere—and full turn offered them access to Treasury debt worth 100% of their total capital—while prohibiting them from accepting other funding (Legacy Loans Program Summary of Terms 2009). 
+
+Loans from the Treasury were nonrecourse, which served to limit potential losses for private stakeholders to only the equity they contributed. In addition, the loans were extended at 
+
+_____________________________________________________________________ 
+
+> 8 The definition of legacy securities under PPIP, for instance, ran afoul of definition (A) in EESA in that legacy securities only had to be “issued before 2009”—not March 14, 2008. 
+
+
+interest rates of 1-month Libor + 100 basis points (full turn) or 1-month Libor + 200 basis points (half turn).[9] Altogether, the terms of the funding were intended to be “attractive” to private investors, and the rates were considered by some to be “well below” what it would have cost to finance the purchase of these assets elsewhere (PPIP Fact Sheet 2009; Dash 2010). 
+
+At the same time, the provision of cheap public financing was also supposed to increase investor tolerance for paying higher prices for them (Financial Crisis Manual). In this way, the program would encourage holders of these assets to now choose to sell them (Financial Crisis Manual). 
+
+## **5. Private sector participants (PPIF fund managers) were chosen at the conclusion of a months-long selection process.** 
+
+Direct participation in the program was limited to private sector firms chosen to serve as PPIF fund managers. The Treasury initially anticipated choosing five fund managers, although it ultimately chose nine after receiving 141 applications for the position. Even if a private sector firm were not chosen to be a fund manager, it could participate in the program in the form of a regular investor and purchase an equity stake in individual PPIFs. According to Davis Polk & Wardwell, this option was available even to foreign firms (Financial Crisis Manual). 
+
+The Treasury appointed nine fund managers at the conclusion of a months-long application process. It established an Evaluation Committee and charged it with judging applicants according to the evaluation standards listed below: 
+
+1. “Demonstrated capacity to raise at least $500 million in private sector capital.” 
+
+2. “Demonstrated experience investing in Eligible Assets, including through performance track records.” 
+
+3. “A minimum of $10 billion (market value) of Eligible Assets under management.” 
+
+4. “Demonstrated operational capacity to manage the Funds in a manner consistent with Treasury’s stated Investment Objective[10] while also protecting taxpayers.” 
+
+5. “Headquartered in the United States” (Fund Manager Application). 
+
+Although the Treasury later clarified that these criteria were intended to be flexible—i.e., that failing to meet one or more would not necessarily rule out an applicant—the government wanted to ensure that fund managers were capable of raising capital from the private sector and making sound investments. Moreover, analysts at the Center for American Progress deemed these criteria to be important because the government needed (1) to be able to trust fund managers with public money, (2) to ensure that PPIF activity acted to 
+
+_____________________________________________________________________ 
+
+> 9 For PPIFs choosing half turn financing, this rate was subject to increases depending on the leverage they assumed from elsewhere (Financial Crisis Manual). 
+
+> 10 The Treasury’s stated investment objective was to “generate attractive returns . . . through long-term opportunistic investments in Eligible Assets” (Legacy Securities Summary of Terms). 
+
+
+support market functioning, and (3) to be able to count on fund managers to work in support of related efforts, such as foreclosure prevention programs (Ettlinger et al. 2009). 
+
+## **6. Eligible securities were legacy non-agency RMBS and CMBS held by US financial institutions.** 
+
+As opposed to other government programs, which sought to promote new issuance of assetbacked securities, the Legacy Securities Program was designed to “restart the [secondary] market for legacy securities” that had already been issued and were held by banks and other financial institutions. According to the Treasury, the prevalence of these assets impeded the financial system’s ability to make new loans and jeopardized the country’s recovery from recession. 
+
+As such, the Treasury defined eligible assets so as to target these securities. Eligible assets included non-agency (not issued by a government agency or government-sponsored enterprise) RMBS and CMBS that were (1) “issued prior to 2009,” (2) “originally rated AAA or an equivalent rating by two or more national recognized statistical rating organizations without ratings enhancement,” (3) “secured by the actual mortgage loans, leases or other assets and not [by] other securities,” at least 90% of which were located in the United States, and (4) owned by a U.S. financial institution, as defined by the EESA (Legacy Securities Summary of Terms). Because securities had to be secured by actual loans or leases, AAArated CDOs were ineligible for the program. 
+
+## **7. US financial institutions as defined by EESA could sell eligible assets to PPIFs.** 
+
+EESA gave a particularly broad description of financial institutions, defining them as “any institution, including, but not limited to, any bank, savings association, credit union, security broker or dealer, or insurance company, established and regulated under the laws of the United States or any State, territory, or possession of the United States, the District of Columbia, Commonwealth of Puerto Rico, Commonwealth of Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands, and having significant operations in the United States, but excluding any central bank of, or institution owned by, a foreign government” (Public Law 110—363). 
+
+## **8. The Treasury initially committed up to $100 billion in TARP funding for PPIP, but later reduced the size of its commitment to $30 billion.** 
+
+At the inception of PPIP, the Treasury committed up to $100 billion in TARP funding for its implementation. Utilizing a combination of TARP funding, private equity, and outside financing, the program was supposed to provide for the purchase at least $500 billion in legacy assets. Later on, however, it became apparent that the program would not be able to achieve this scope. By July 2009, the Treasury had reduced its commitment for the Legacy Securities Program to just $30 billion, while the status of the Legacy Loans Program remained “in doubt” (SIGTARP Q3 2009). 
+
+**9. Profits and losses were distributed among investors in proportion to their equity interests.** 
+
+
+Realized profits and losses were divided among investors in line with their shares in each PPIF (notwithstanding the Treasury’s privilege to an additional portion of profits—should there be any—per the warrants it received) (Financial Crisis Manual). 
+
+## **10.The Treasury sought to protect TARP investments by requiring fund managers to invest their own funds and by regulating the activities of the PPIFs.** 
+
+A key facet of Treasury’s arrangement with fund managers was that they were required to invest at least $20 million of their firm’s funds in their own PPIF. This was done to ensure that they had “skin in the game”—i.e., a vested interest in the performance of their own fund (SIGTARP Q3 2009). As noted above, fund managers—like other investors—were prepared to forfeit this equity should their investment decisions yield results that wiped it out (PPIP White Paper 2009). 
+
+In addition to this requirement, as shown in Figure 4, fund managers were forced to abide by a number rules that were intended to shield the Treasury’s investment, including restrictions on leverage, the use of a third party to value PPIF portfolios, and detailed conflict-of-interest directives (SIGTARP Report, Q3 2009). 
+
+[FIGURE id=vol2_iss3_13_f4 type=figure label="Figure 4" file=figure_4.png caption="Legacy Securities Program Investment Protections"]
+### **Figure 4: Legacy Securities Program Investment Protections**
+![Figure 4](assets/vol2_iss3_13/figure_4.png)
+
+
+## _Source: SIGTARP Report, Q3 2009_ 
+
+Finally, as the program was developed throughout 2009, the Treasury responded to a number of concerns about potential misuse of public funding. It instituted rules barring devious behavior such as “asset crossing,” “asset flipping,” and “round tripping”—all of which essentially involved a fund manager conspiring with other firms to earn side profits on transactions—and reducing opportunities for fund managers to favor the interests of their clients and subsidiaries over those of the Treasury’s (SIGTARP Report, Q3 2009). (For 
+
+
+more information on concerns raised and rules implemented in response to concerns raised by SIGTARP, see Table 2.25 on pages 91 and 92 of the Special Inspector General for TARP’s 3rd Quarter 2009 Report to Congress.) 
+
+## **11. PPIFs were given three years to purchase securities and an additional five years during which to manage and ultimately sell them.** 
+
+This timeline allowed for PPIFs to make long-term investments rather than short-term and speculative deals. The Treasury’s stated goal of these investments was to: “generate attractive returns for taxpayers and private investors through long-term opportunistic investments in Eligible Assets . . . by following predominantly a buy and hold strategy” (PPIP quarterly reports). 
+
+## **12. Executive compensation restrictions did not apply to PPIP participants.** 
+
+In announcing such a decision, the Treasury reasoned that it developed the PPIP to leverage private sector resources and expertise for purchasing legacy assets and the TALF with the Fed for funding legacy assets. Therefore, asset managers or private investors participating in PPIP were exempt from executive compensation restrictions if the PPIFs are structured such that the asset managers themselves and their employees are not employees of or controlling investors in the PPIFs, and other investors are purely passive (FAQ April 6, 2009). 
+
+## **13. PPIP was just one of several programs introduced as part of the Financial Stability Plan to increase the accessibility and lower the cost of credit.** 
+
+In February 2009, the Obama Treasury announced its Financial Stability Plan. Even though a wide array of financial stability efforts were already underway, the Obama Treasury saw the need for a second wave of crisis-fighting programs—ones specifically designed to “attack the credit crisis on all fronts” (Financial Stability Plan 2009). The plan involved the participation of several government agencies and—in addition to PPIP—included proposals that ultimately became the Supervisory Capital Assessment Program (SCAP), Capital Assistance Program (CAP), expansion of TALF, Small Business Administration Section 7(a) Securities Purchase Program, and foreclosure prevention programs including the Home Affordable Modification Program (HAMP) and Home Affordable Refinance Program (HARP). 
+
+## **III. Evaluation** 
+
+The exact impact of the Legacy Securities Program is difficult to pinpoint given that the program was a relatively small part of the government’s broader crisis-fighting strategy; as of this writing, no scholarly attempt has been made to determine the effects of the program. 
+
+Despite this, the Treasury is convinced that the program contributed positively to the government’s broader efforts and played some role in diminishing the crisis. Figure 5 below shows that certain benchmarks for legacy securities prices indeed rose steadily throughout the implementation of the Legacy Securities Program. Even if its contributions have not yet been quantified, the Treasury credits the program with helping to achieve the goal of “restarting the market for legacy securities, thereby allowing banks to begin reducing their holdings in such assets at more normalized prices” (TARP Two Year Retrospective 2010). 
+
+
+
+[FIGURE id=vol2_iss3_13_f5 type=figure label="Figure 5" file=figure_5.png caption="Benchmark Legacy Security Prices During the Global Financial Crisis"]
+### **Figure 5: Benchmark Legacy Security Prices During the Global Financial Crisis**
+![Figure 5](assets/vol2_iss3_13/figure_5.png)
+
+
+_Source: TARP Two Year Retrospective 2010_ 
+
+Government officials and critics in the media and academic community disagree on why the Legacy Securities Program ultimately failed to realize its full potential, having utilized only $18.6 billion of the envisioned $75 billion to $100 billion in TARP funding. Former US Treasury Secretary Timothy Geithner cites the rapid improvement in financial markets in the time between PPIP’s announcement and its readiness to be implemented (Geithner 2015). By mid-July, for example, when the PPIFs began to raise private capital, several of the largest US banks had already succeeded at raising their own capital, and credit conditions had eased considerably.[11] 
+
+Others have suggested, however, that programmatic design problems doomed the program from the very beginning. _Economist_ and _New York Times_ columnist Paul Krugman, for example, thought that the design of the program was inherently flawed; while the program offered a clear advantage to private investors, he believed that banks selling these assets would see a minimal increase in the price being offered for them. In his opinion, this misalignment of incentives for buyers and sellers would produce a stalemate between them, rendering the program largely ineffective (Krugman 2009a; Krugman 2009b). 
+
+Despite the Legacy Securities Program’s having been implemented on a smaller scale, Fannie Chen of Columbia Law School believes that the program is a positive example of the potential for public-private partnerships; a survey of program participants conducted by Chen revealed that Treasury was perceived to have managed the partnerships with transparency and effectiveness (Chen 2013). 
+
+_____________________________________________________________________ 
+
+11 From March 23, 2009, to July 8, 2009, the 3-month Libor-OIS spread shrank from 99.02 basis points (bps) to just 32.5 bps. Looser credit conditions also were beginning to extend to the broader economy, with banks reporting significantly looser lending standards in the Federal Reserve’s quarterly survey on bank lending. 
+
+
+## **IV. References** 
+
+Chen, Fannie. 2013. “Structuring Public-Private Partnerships: Implications from the PublicPrivate Investment Program for Legacy Securities. _Columbia Journal of Law and Social Problems_ 46 (4): 509-538, 2013. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/46ColumJLSocProbs509.pdf 
+
+Dash, Eric. 2010. “A Big Surprise: Troubled Assets Garner Rewards.” _New York Times_ , August 26, 2010. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_a_big_surprise.docx. 
+
+Davis Polk & Wardwell. 2009. A Guide to the Laws, Regulations and Contracts of the Financial Crisis. (Financial Crisis Manual). September 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/fcm.pdf. 
+
+Davis Polk & Wardwell. 2009. “The Public-Private Investment Program.” March 25, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/polk_wardwell_ppip.pdf. 
+
+Elliott, Douglas J. 2013. “The Public-Private Investment Program: An Assessment.” Initiative on Business and Public Policy at Brookings. Brookings Institution, 2013. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ppip_an_assessment.pdf. Ettlinger, M., A. Jakabovics, and D. Min. 2009. “Recommendations for the Public-Private Investment Program: Implementing the Treasury Department’s Plan to Clean Up the Toxic Asset Mess.” Center for American Progress. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/recommendations_ppip.pdf. 
+
+Enrich, David. 2009. “Wary Banks Hobble Toxic-Asset Plan.” _Wall Street Journal_ , June 29, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_wary_banks.docx. 
+
+U.S. Department of the Treasury. 2009. “Fact Sheet: Public-Private Investment Program.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ppip_fact_sheet.pdf. 
+
+FDIC. 2009. “FDIC Statement on the Status of the Legacy Loans Program.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FDIC_Press Releases.pdf. 
+
+Geithner, Timothy. 2009. “My Plan for Bad Bank Assets.” _Wall Street Journal_ , March 23, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_plan_bad_bank.docx. 
+
+Geithner, Timothy F. 2014. _Stress Test: Reflections on Financial Crises_ . New York: Broadway Books. 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/book_stress_test.docx. 
+
+Laise, Eleanor. 2010. “TCW Pulling Out of PPIP.” _Wall Street Journal_ , January 6, 2010. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_tcw.docx. 
+
+U.S. Department of the Treasury. 2009. “Legacy Loans Program Summary of Terms.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/legacy_loans_terms.pdf. 
+
+
+U.S. Department of the Treasury. 2009 “Legacy Securities Public-Private Investment Funds (PPIFs) Additional Frequently Asked Questions.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/legacy_securities_faqs-1.pdf. 
+
+U.S. Department of the Treasury. 2009. “Legacy Securities Public-Private Investment Program (Legacy Securities PPIP) Additional Frequently Asked Questions.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/legacy_securities_faqs.pdf. 
+
+Poirier, John. 2009. “FDIC Tests Toxic Assets Sale Program.” _Reuters_ , July 31, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_fdic.docx. 
+
+U.S. Department of the Treasury. 2012. “Public-Private Investment Program: Program Purpose & Overview.” U.S. Department of the Treasury, Last modified July 21, 2012. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/program_purpose.pdf. 
+
+U.S. Department of the Treasury. 2009. “Public-Private Investment Program: White Paper.” 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ppip.pdf. 
+
+U.S. Department of the Treasury. 2013. “Legacy Securities Public-Private Investment Program: Program Update – Quarter Ended September 30, 2013.” October 28, 2013. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/legacy_securities_ppip.pdf. 
+
+U.S. Department of the Treasury. 2009a. “Treasury Department Releases Details on Public Private Investment Program.” March 23, 2009a. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/pr4.pdf. 
+
+U.S. Department of the Treasury. 2009b. “Treasury Secretary Timothy Geithner Outlines Comprehensive Financial Stability Plan.” February 10, 2009b. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009 2 10 Treasury Secretary Tim Geithner Outlines Comprehensive Financial Stability Plan.pdf. U.S. Department of the Treasury Office of Financial Stability, 2010. “Troubled Asset Relief Program: Two Year Retrospective.” October 10, 2010. https://ypfsresourcelibrary.blob.core.windows.net/fcic/fcic-docs/2010-10-10 TARP Two Year Retrospective.pdf. 
+
+## **V. Key Program Documents** 
+
+## **Summary of Program** 
+
+Fact Sheet: Public-Private Investment Program – _Fact sheet providing detailed information on the framework for PPIP released as part of the Treasury Department’s introduction of the program._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ppip_fact_sheet.pdf. 
+
+Legacy Loans Program Summary of Terms – _Outline of FDIC-dictated terms of the Legacy Loans Program._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/legacy_loans_terms.pdf. 
+
+
+- Legacy Securities Public Private Investment Program Additional Frequently Asked Questions – _Treasury document providing frequently asked questions and corresponding responses concerning key features of the Legacy Securities PPIP._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/legacy_securities_faqs.pdf. Public-Private Investment Program Legacy Loans Program Frequently Asked Questions – _Treasury document providing frequently asked questions and corresponding responses concerning key features of the Legacy Loans PPIP._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/legacy_loans_faqs.pdf. 
+
+## **Implementation Documents** 
+
+Application for Private Asset Managers – _Application for prequalification as a private asset manager for a Public-Private Investment Fund under the Legacy Securities Program_ . https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/legacy_securities_ppif_app.p df. 
+
+Guidelines for the Legacy Securities Public-Private Investment Program – _Supporting document outlining program goals, application criteria, and terms and conditions tied to Treasury financing._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ProgramGuidelinesSPPIP.pdf. 
+
+Letter of Intent and Terms Sheet – _Agreement outlining the specific terms and conditions of the limited partnership between the Treasury and private sector fund managers._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/S-PPIP_LOI_TermSheets.pdf. 
+
+Summary of Conflict of Interest Rules and Ethical Guidelines – _Treasury document summarizing the conflict of interest rules and guidelines developed to ensure private sector firms aligned themselves with the public interest._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/PPIP_Conflict-of-InterestRules.pdf. 
+
+## **Press Releases/Announcements** 
+
+FDIC Statement on the Status of the Legacy Loans Program (06/03/2009) – _FDIC formal announcement that a planned pilot sale of loans would be postponed._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FDIC_Press Releases.pdf. 
+
+Public-Private Investment Program Press Releases – _Treasury’s comprehensive list of press releases pertaining to the announcement, design, status, and implementation of the program._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/pr6.pdf. 
+
+Secretary Timothy F. Geithner’s Written Testimony Before the Congressional Oversight Panel (12/16/2010) – _Secretary Geithner’s overview of the financial rescue efforts undertaken by the Treasury up to that time, including PPIP._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/pr1.pdf. 
+
+Treasury Department Announces Initial Closings of Legacy Securities Public-Private Investment Funds (09/30/2009) – _Treasury press release announcing the first two firms to_ 
+
+
+_have completed initial raises in capital._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/pr2.pdf. 
+
+- Treasury Department Announces Initial Quarterly Report for the Legacy Securities Public Private Investment Program (1/29/2010) – _Treasury press release linking to first quarterly report on the funds’ progress._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/pr3.pdf. 
+
+Treasury Department Releases Details on Public Private Partnership Investment Program (03/23/2009) – _Treasury press release detailing the design of the Public Private Investment Program._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/pr4.pdf. 
+
+Treasury Secretary Tim Geithner Outlines Comprehensive Financial Stability Plan (02/10/2009) – _Treasury press release announcing the new administration’s Financial Stability Plan._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009 2 10 Treasury Secretary Tim Geithner Outlines Comprehensive Financial Stability Plan.pdf. 
+
+## **Media Stories** 
+
+A Big Surprise: Troubled Assets Garner Rewards (New York Times – 08/26/2010) – _Article discussing the profitability of PPIFs up to that date._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_a_big_surprise.docx. 
+
+Treasury Picks Nine Managers for P.P.I.P (New York Times – 07/08/2009) – _Article discussing the announcement of funds managers and programmatic changes moving forward._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_treasury_picks.docx. 
+
+U.S. Expands Plan to Buy Banks’ Troubled Assets (New York Times – 03/23/2009) – _Article pertaining to the announcement of details for PPIP._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_troubled_assets.docx 
+
+Wary Banks Hobble Toxic Assets Plan (Wall Street Journal – 06/29/2009) – _Article discussing difficulties with implementation of the program before the Treasury eventually moved on with only the Legacy Securities Program._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_wary_banks.docx. 
+
+## **Key Academic Papers** 
+
+’ A Binomial Model of Geithner s Toxic Asset Plan (Wilson 2010) – _Paper solving for the clearing price of toxic assets under PPIP according to various financing terms._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/SSRN-id1428666_0.pdf. 
+
+– ’ Slicing the Toxic Pizza An Analysis of FDIC s Legacy Loan Program for Receivership Assets (Wilson 2010) – _Paper discussing the structure of the Legacy Loans Program and maximizing the value of toxic asset portfolios put up for auction._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/SSRN-id1476333.pdf. 
+
+Structuring Public-Private Partnerships: Implications from the Public-Private Investment Program for Legacy Securities (Chen 2013) – _Paper drawing upon interviews with private sector PPIP participants to better understand successes and failures of PPIP and how to apply_ 
+
+
+_them to future public-private partnerships._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/46ColumJLSocProbs509.pdf 
+
+Subsidizing Price Discovery (Camargo et. al 2012) – _Paper illuminating the inefficiencies plaguing the market for mortgage-related assets and how PPIP targeted them, concluding with how to determine the “optimal leverage ratio.”_ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/SSRN-id2264314.pdf. 
+
+## **Reports/Assessments** 
+
+Public-Private Investment Program Quarterly Reports – _Treasury’s 16 quarterly reports documenting details on the funds, their investments, and returns (last report issued September 2013)._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ra5.pdf. 
+
+- Selecting Fund Managers for the Legacy Securities Public Private Investment Program (Office of the Special Inspector General for the Troubled Asset Relief Program 10/07/2010) – _Inspector General’s report on the application and selection process used by Treasury for fund managers._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ra1.pdf. 
+
+Troubled Asset Relief Program (TARP): Implementation and Status (Congressional Research Service 2011) – _Paper providing overview of TARP programs and evaluation of them up to 2011._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ra2.pdf. 
+
+Troubled Asset Relief Program: Status of Programs and Implementation of GAO Recommendations (United States Government Accountability Office 2011) – _GAO evaluation of and recommendations for TARP programs issued prior to January 2011._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ra3.pdf. 
+
+Troubled Asset Relief Program: Two Year Retrospective (United States Department of the Treasury Office of Financial Stability 2010) – _Office of Financial Stability overview of the recovery programs employed as part of TARP and evaluation of those programs._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/fcic-docs/2010-10-10 TARP Two Year Retrospective.pdf. 
+
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu.

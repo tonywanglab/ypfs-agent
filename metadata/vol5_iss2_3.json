@@ -1,0 +1,33 @@
+{
+  "doc_id": "vol5_iss2_3",
+  "document_type": "lesson_learned",
+  "title": "Lessons Learned: Stefan Ingves",
+  "authors": [
+    "Maryann Haggerty"
+  ],
+  "abstract": null,
+  "keywords": [],
+  "publication_date": "2023-08-30T21:09:25Z",
+  "doi": null,
+  "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss2/3",
+  "volume": 5,
+  "issue": 2,
+  "document_number": 3,
+  "bepress_id": null,
+  "raw": {
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss2/3",
+    "parent_key": "35997619",
+    "context_key": "35997623",
+    "title": "Lessons Learned: Stefan Ingves",
+    "publication_date": "2023-08-30T21:09:25Z",
+    "download_format": "pdf",
+    "download_link": "https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1506&context=journal-of-financial-crises",
+    "author": [
+      "Maryann Haggerty"
+    ],
+    "document_type": [
+      "lessons_learned",
+      "Lessons Learned"
+    ]
+  }
+}

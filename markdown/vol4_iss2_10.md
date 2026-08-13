@@ -1,0 +1,408 @@
+## Greece: Hellenic Deposit Guarantee Fund[1] 
+
+## _Lily S. Engbith[ 2]_ 
+
+Yale Program on Financial Stability Case Study July 15, 2022 
+
+## **Abstract** 
+
+Responding to general financial and economic volatility during the Global Financial Crisis (GFC), the Greek government in November 2008 sought to shore up public confidence in the banking system by raising the deposit-insurance limit from EUR 20,000 to EUR 100,000 (127,000 USD) per depositor for three years. The Hellenic Deposit Guarantee Fund (HDGF) was responsible for administering this adjustment, which was accompanied by a fivefold increase in the percentages used for calculating member institutions’ annual contributions. All credit institutions that were authorized to operate in Greece, including branches of foreign banks without their own coverage, were required to participate in the HDGF. The HDGF charged annual fees and insured savings accounts, demand deposits, current accounts, and time deposits. Although the increase in deposit-insurance coverage was initially set to expire on December 31, 2011, the Greek parliament opted to make the alteration a permanent feature of the banking system in October 2011. The HDGF did not issue any payouts between 2008 and year-end 2011. 
+
+**Keywords:** Account guarantees, European Union, Global Financial Crisis, Greece, Hellenic Deposit Guarantee Fund 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering account guarantee programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Senior Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+Despite the Greek banking sector’s limited exposure to the US subprime-mortgage market, low dependence on wholesale funding, and generally sound capital structure, its domestic economy began suffering from the impacts of global financial instability in the last quarter of 2008 (HDIGF 2009; Boudghene et al. 2011; BoG 2008). In its 2008 Monetary Policy Interim Report, the Bank of Greece (BoG) noted that it was of the “utmost urgency” that the government develop a coordinated response to domestic “macroeconomic imbalances” and ensure sustainable growth throughout the downturn (BoG 2008). To help address these issues, the Greek government approved a “relatively limited” EUR 28 billion (USD 36 billion[3] ) in funding to support broad-based bank recapitalizations, a debt-guarantee scheme, and a government-bond loan program (Boudghene et al. 2011).[4] 
+
+In addition to these measures, the Greek parliament on November 8 raised the deposit-insurance limit from EUR 20,000 to EUR 100,000 until December 31, 2011, to allay public concerns about the safety of deposits (Law 3714 2008). The legislation was in line with an October 7, 2008, recommendation from the European Council’s Economic and Financial Committee (ECOFIN) that member states increase minimum coverage from EUR 20,000 to EUR 50,000 (HDIGF 2009; European Council 2008).[5] The Greek legislation also increased the percentages used for calculating banks’ annual 
+
+## **Key Terms** 
+
+Purpose: To “fulfill [the HDGF’s] mission and further strengthen the credibility of the institution in the public mind” (HDIGF 2009) 
+
+||Launch Dates|Announcement: Oct. 8, 2008<br>Authorization: Nov. 7, 2008<br>Operation: Nov. 7, 2008|
+|---|---|---|
+||End Dates|Initially Dec. 31, 2011;|
+|||extended indefinitely with the<br>passage of Law 4021/2011|
+||Eligible|Mandatory participation for all|
+||Institutions|credit institutions operating in|
+|||Greece; branches of foreign-|
+|||domiciled banks also eligible<br>for coverage|
+||Eligible Accounts|Savings accounts, demand|
+|||deposits, current accounts, and<br>time deposits|
+||Fees|Mandatory annual|
+|||contributions for member|
+|||banks increased; HDGF could<br>also charge special|
+|||assessments if needed|
+||Size of Guarantee<br>Coverage|EUR 100,000<br>41 institutions covered in<br>2008; 40 institutions covered<br>in 2009, 2010, and 2011;|
+|||HDGF insured USD 371.4|
+||Outcomes|billion in 2010<br>No claims made|
+||Notable Features|Quintupled percentages used<br>for calculating mandatory<br>annual contributions|
+|||Existence of a supplementary|
+|||fund|
+
+
+
+3 Per Yahoo Finance, EUR 1 = USD 1.27 on November 7, 2008. 
+
+> 4 For more information on the recapitalization and debt guarantee programs, see León-Hoyos 2021 and Thompson 2021, respectively. 
+
+5 Proposal Directive amending Directive 94/19/EC on deposit guarantee schemes (HDIGF 2009). 
+
+
+contributions fivefold, citing a 19% growth in deposits as its rationale (Law 3714 2008; HDIGF 2009). 
+
+Media sources had reported in early October 2008 that senior Greek finance-ministry officials had made a political commitment to guarantee all deposits, but this commitment was not included in the final legislation (CNBC 2008; Hatzidakis and Papadimas 2008; Law 3714 2008). Because Greece was only the second eurozone country (after Ireland) to have announced a state guarantee of deposits, the pullback may have been related to other European leaders’ concerns that unilateral action would make it difficult to coordinate a response to the deepening financial turmoil (Gow 2008). 
+
+As Greece’s standing deposit insurer, the Hellenic Deposit Guarantee Fund (HDGF) was responsible for administering the increase in coverage (Law 2832 2000). The HDGF was established on June 13, 2000, by Law 2832/2000 as a successor institution to the nation’s first deposit-insurance agency, which was launched in 1995 (HDIGF n.d.b).[6] Its purpose was to compensate depositors in the event that a member credit institution failed (Law 2832 2000). In 2010, the HDGF insured USD 371.4 billion in deposits (Demirgüç-Kunt, Kane, and Laeven 2014). 
+
+All credit institutions authorized to operate in Greece, including foreign branches without other deposit-insurance coverage, were mandated by law to participate in the HDGF, which covered a variety of retail deposit accounts (Law 2832 2000; HDIGF n.d.a). Members were required to pay annual contributions in an amount calculated based on their deposit holdings; additionally, the HDGF could charge supplementary fees if it deemed its resources to be insufficient to pay out depositors (Law 2832 2000). The guarantee would be activated in the event that the BoG or a judicial authority declared a credit institution unable to meet its obligations (Law 2832 2000). Although payouts could take up to nine months under law 2832/2000, the Greek Parliament later passed Law 3775/2009 on July 21, 2009, which shortened the disbursement process to 10 working days from the determination of bank failure (Law 3775 2009). 
+
+Although the increase in deposit-insurance coverage was initially scheduled to expire on December 31, 2011, the Greek parliament made the alteration permanent with the passage of Law 4021/2011 on October 3, 2011 (Law 4021 2011; HDIGF 2012). This was done to comply with EU Directive 2009/14/EC, from March 11, 2009, a follow-up to the EU’s earlier recommendation. The new Directive required member states to raise their depositinsurance caps to EUR 100,000 and take active steps to strengthen their deposit-insurance systems by December 31, 2011 (Directive 2009/14/EC 2009). The Greek banking system experienced a “slow run” on deposits between 2010 and 2012, although sources consulted 
+
+> 6 Shortly after increasing the deposit-insurance limit, the Greek government established the Hellenic Deposit and Investment Guarantee Fund (HDIGF) with the passage of Law 3746/2009 on February 16, 2009 (Law 3746 2009). The HDIGF, which retained most of the same features and policies as its predecessor, the HDGF, created a separate guarantee scheme for investors and broadened the institution’s mandate to cover “all market sectors where banks are active” (Law 3746 2009; HDIGF 2009). For simplicity’s sake, the author refers to the depositinsurance authority as “the HDGF” throughout the case. 
+
+
+do not indicate the activation of the guarantee in response to any bank failures between 2008 and year-end 2011 (Demirgüç-Kunt, Kane, and Laeven 2014). 
+
+## **Summary Evaluation** 
+
+Sources consulted do not provide much specific evaluation of the HDGF’s operations in light of the November 2008 deposit-insurance increase. In an opinion published in response to Greece’s changes to the deposit-insurance system, the European Central Bank (ECB) commended the government for mitigating the impacts of the GFC on the real economy, maintaining financial stability, and further protecting depositors’ funds (European Central Bank 2008). 
+
+
+|**Context: Greece 2007–2008**|**Context: Greece 2007–2008**|
+|---|---|
+|**GDP**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$319.4 billion in 2007<br>$355.6 billion in 2008|
+|**GDP per capita**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$28,827 in 2007<br>$31,997 in 2008|
+|**Sovereign credit rating**<br>**(five-year senior debt)**|Data for 2007:<br>Moody’s: A1<br>S&P: A<br>Fitch: A<br>Data for 2008:<br>Moody’s: A1<br>S&P: A<br>Fitch: A|
+|**Size of banking system**|$319.6 billion in 2007<br>$370.8 billion in 2008|
+|**Size of banking system**<br>**as a percentage of GDP**|100.1% in 2007<br>104.3% in 2008|
+|**Size of banking system**<br>**as a percentage of financial system **|100% in 2007<br>100% in 2008|
+|**Five-bank concentration of banking system**|85.5% in 2007<br>85.1%in 2008|
+|**Foreign involvement in banking system**|14% in 2007<br>14% in 2008|
+|**Government ownership of banking system**|Data not available for 2007<br>10%in 2008|
+|**Existence of deposit insurance**|Yes in 2007<br>Yes in 2008|
+|_Sources: Bloomberg; World Bank Global Financial Development Database; World Bank_<br>_Deposit Insurance Dataset._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: The Greek government raised the deposit-insurance limit to shore up public confidence in Greek banks and to remain consistent with an EU Proposal Directive.** 
+
+On October 2 and 3, 2008, Greek ministers told the press they were considering a full deposit guarantee to shore up confidence in the country’s banks (CNBC 2008; Hatzidakis and Papadimas 2008; Law 3714 2008). On October 7, 2008, the Economic and Financial Committee (ECOFIN) of the European Union’s General Assembly held an emergency meeting to discuss means of stabilizing the financial system in light of the Global Financial Crisis (GFC) (HDIGF 2009; European Council 2008). Among the recommendations it submitted to the European Council and Parliament was that EU member states raise their depositinsurance coverage per depositor from EUR 20,000 to at least EUR 50,000 (HDIGF 2009). The report said, “We agreed that all Member States would, for an initial period of at least one year, provide deposit guarantee protection for individuals for an amount of at least EUR 50 000, acknowledging that many Member States determine to raise their minimum to EUR 100 000” (European Council 2008). 
+
+In November 2008, the Greek government raised its coverage limit to EUR 100,000 in response to the EU recommendation and in order to strengthen depositors’ confidence in the Hellenic Deposit Guarantee Fund (HDGF) (Hatzidakis and Papadimas 2008; HDIGF 2009). 
+
+**2. Part of a Package: In addition to raising the deposit-insurance limit, the Greek government enacted a series of emergency measures in the last quarter of 2008 that included bank recapitalizations, bank-debt guarantees, and a governmentbond loan scheme.** 
+
+The package of stabilization programs, which totaled EUR 28 billion, included a broad-based recapitalization scheme for banks, a debt-guarantee scheme, and a government bond loan scheme (Boudghene et al. 2011). Because the measures constituted EU-approved State aid support that could potentially affect inter-EU competition, the Greek government agreed to bank restructuring plans and other behavioral restrictions (Boudghene et al. 2011; EC 2008). Although the GFC had a “relatively limited impact” on the Greek banking sector, as compared with the ensuing sovereign debt crisis, most of the country’s commercial banks participated in these support measures (Boudghene et al. 2011). 
+
+**3. Legal Authority: The Greek Parliament legislated the deposit-insurance increase with the passage of Article 6 of Law 3714/2008 on November 7, 2008.** 
+
+The Greek legislature created the nation’s first deposit insurer on July 17, 1995, with the passage of Law 2324/1995, which came in response to Directive 94/19/EC of the European Parliament and the Council of the European Union regarding deposit-guarantee schemes (Law 2324 1995). Article 2 of Law 2832/2000 established the HDGF ( _Tameio Engyisis_ 
+
+
+_Katatheseon_ in Greek) on June 13, 2000, to replace that agency and take over its assets (Law 2832 2000). 
+
+According to Article 5 of Law 2832/2000, the HDGF board could alter the deposit-insurance limit at any time (Law 2832 2000). Minimum coverage was set in accordance with EU-wide standards; if coverage were to be raised, the HDGF board could decide by simple majority how to adjust annual contributions (Law 2832 2000). 
+
+Notwithstanding the HDGF board’s broad authority, the Greek parliament passed Article 6 of Law 3714/2008 to increase the deposit-insurance limit per depositor from EUR 20,000 to EUR 100,000 until December 31, 2011 (Law 3714 2008). The legislation included a provision for its own extension by the minister of economy and finance (Law 3714 2008). Additionally, the legislation increased fivefold the deposit thresholds for calculating regular annual contributions (Law 3714 2008). 
+
+To comply with EU Directive 2009/14/EC, the Greek government passed Law 4021/2011 on October 3, 2011, to permanently codify the EUR 100,000 increase (Directive 2009/14/EC 2009). 
+
+## **4. Administration: The HDGF was solely responsible for the administration of the deposit-insurance increase.** 
+
+Article 2 of Law 2832/2000 established the HDGF as a nonpublic entity under the supervision of the minister of national economy (Law 2832 2000). 
+
+**5. Governance: Member institutions were required to submit relevant data to the HDGF, which itself was subject to audits by relevant government agencies.** 
+
+The HDGF could compel credit institutions to submit balance-sheet data and other financial statements, such as information relevant to the calculation of contributions and data regarding the availability of an institution’s resources (Law 2832 2000). 
+
+The HDGF was initially managed by a seven-member board chaired by one of the deputy governors of the BoG; the other six members comprised two BoG officials, one official from the ministry of national economy, and three individuals representing the Hellenic Banks’ Association (HBA) (Law 2832 2000). The minister of national economy appointed all members to five-year terms (Law 2832 2000). After the first five years of the HDGF’s operations, the HBA was allowed to seat one additional member (Law 2832 2000). All members were supposed to “be persons of recognized standing and possess specialized knowledge and experience on matters relating to the banking sector” (Law 2832 2000). Specifically, the legislation required that one BoG appointee be a legal expert and that one HBA appointee be an accountant (Law 2832 2000). 
+
+HDGF board responsibilities included administering and representing the entity, collecting funds, and managing assets (Law 2832 2000). 
+
+
+Separately, the HDGF Board contracted chartered accountants or authorized auditing firms to prepare reports for submission to the Committee of Economic Affairs of the Hellenic Parliament, the minister of national economy, the BoG, the Hellenic Banks’ Association, and the HDGF’s Board (Law 2832 2000). The HDGF also prepared an annual report, including balance-sheet data and the auditor’s findings, which it then submitted to the minister of national economy and the aforementioned agencies by March of each year (Law 2832 2000). 
+
+**6. Communication: The Greek government initially committed to an unlimited deposit guarantee while also reassuring the public that the banking system was sound.** 
+
+Some international news outlets reported during the first week of October that Finance Minister George Alogoskoufis and other officials had promised that the government would guarantee all deposits (CNBC 2008; Hatzidakis and Papadimas 2008). Greek bankers estimated the value of deposits in the financial system at EUR 230 billion, which was approximately equivalent to the country’s annual gross domestic product (GDP) (Hatzidakis and Papadimas 2008). The finance minister sought to reassure the public that the Greek banking system was “completely safe and solvent” and that all deposits were “absolutely secure” (Hatzidakis and Papadimas 2008). “I must also state that citizens’ deposits in all banks that operate in Greece are absolutely guaranteed,” he told Reuters. However, another official told Reuters off the record that the minister’s guarantee was a “political commitment” (Hatzidakis and Papadimas 2008). On October 8, 2008, the finance minister announced the government’s intention to seek legislation increasing the coverage per depositor from EUR 20,000 to EUR 100,000, twice the level that EU economic and finance ministers had just recommended for member states. The government never pursued legislation to enact a full guarantee of deposits. 
+
+Article 9 of Law 2832/2000 required institutions to issue brochures to depositors within three months of joining the HDGF (Law 2832 2000). These publications included information about the maximum coverage per depositor, currencies covered, types of deposits excluded, requirements to set off any counterclaims against the credit institution, and time limits for payment of compensation (Law 2832 2000). Depositors could also request further material regarding the procedures and terms of compensation (Law 2832 2000). Additionally, branches of foreign institutions were required to notify depositors of their participation in, or exemption from, the HDGF (Law 2832 2000). Institutions were allowed to make “brief reference” to their relationship with the HDGF (Law 2832 2000). 
+
+**7. Size of Guarantees: The passage of Law 3714/2008 on November 7, 2008, increased the deposit-insurance limit from EUR 20,000 to EUR 100,000 per depositor.** 
+
+Despite the political commitment to guarantee all deposits, the Greek legislature ultimately raised the insurance cap from EUR 20,000 to EUR 100,000 for three years, until December 31, 2011 (Law 3714 2008). 
+
+
+Prior to the 2008 increase, Article 5 of Law 2832/2000 provided for deposit-insurance coverage of up to EUR 20,000 per depositor, in line with Directive 94/19/EC of the European Parliament and of the Council of the European Union regarding deposit-guarantee schemes (Law 2832 2000; European Parliament and European Council 1994). 
+
+**8. Source(s) and Size of Funding: The HDGF derived its funding from an initial capital injection from the BoG and member institutions, annual contributions, special contributions, donations, and revenue generated from the liquidation of institutions and management of HDGF assets.** 
+
+The HDGF’s predecessor agency launched in 1995 with an initial capital-injection of GRD 3 billion (about USD 9 million[7] ) (Law 2832 2000). The BoG contributed 60%, and the first year’s annual contributions from participating members covered the remaining 40% (Law 2832 2000). 
+
+After the first year of operations, sources of funding included annual contributions, special assessments, donations made to the HDGF, and revenue from the liquidation and management of the HDGF’s assets (Law 2832 2000). In 2008, the HDGF’s revenue from membership fees, after-tax capital income, and extraordinary and nonoperating income amounted to EUR 159.0 million (HDIGF 2009). 
+
+The HDGF’s deposit-insurance funds were bifurcated between the Primary Deposit Cover Fund (PDCF) and the Supplementary Deposit Cover Fund (SDCF) (HDIGF 2010; Law 3746 2009). While the PDCF held the HDGF’s assets, the SDCF held assets that belonged pro indiviso to member institutions in proportion to their corresponding contributions (HDIGF 2010). See the discussion in Key Design Decision No. 11 (“Fees”). 
+
+At the end of 2008, the Deposit Cover Fund had EUR 1.1 billion in assets, and the SDCF had EUR 482 million in assets (HDIGF 2009). As fee revenues increased, the two funds grew in 2009 to EUR 1.2 billion and EUR 1.0 billion, respectively, (HDIGF 2010). At the end of 2010, the funds had EUR 3.0 billion combined (HDIGF 2011). For comparison, the funds insured EUR 280 billion in deposits at the end of 2010, suggesting a deposit cover ratio of 1.1% (Demirgüç-Kunt, Kane, and Laeven 2014). 
+
+The HDGF also had the authority to take out tax-free loans from member institutions, including foreign branches that received supplementary coverage (Law 2832 2000). 
+
+**9. Eligible Institutions: Participation in the HDGF was mandatory for all credit institutions authorized to operate in Greece, including their overseas branches.** 
+
+> 7 According to the St. Louis Federal Reserve’s FRED Economic Data, in January 2000, USD 1 = 327 Greek Drachmas. Greece adopted the Euro in 2001. 
+
+
+## **Foreign-domiciled banks with branches in Greece were also required to participate if they did not have coverage from their home country.** 
+
+The participation requirement excluded the Post Office Savings Bank and the Loans and Deposits Fund (Law 2832 2000). Certain credit cooperatives were originally denied coverage but later included by presidential decree (Law 2832 2000). 
+
+HDGF coverage extended to deposits of Greek-based institutions with branches in other EU countries; it also applied to branches in non-EU countries if they were not already covered by a foreign deposit insurer (Law 2832 2000). In all cases, the HDGF board determined the terms and conditions of coverage (Law 2832 2000). 
+
+Branches of credit institutions domiciled in another EU state could request supplementary coverage from the HDGF for deposits of a certain amount or category (Law 2832 2000). However, full participation was mandatory for these institutions if they were not already covered in their home state or if the HDGF board deemed that coverage to be insufficient (Law 2832 2000). 
+
+By year-end 2008, the number of HDGF members totaled 41, including 19 Greek commercial and investment banks, 16 Greek cooperative banks, and six branches of banks incorporated outside the EU (HDIGF 2009). In July 2009, the American Express Banking Corporation discontinued operations in Greece, leaving the HDGF with 40 member institutions in both 2009 and 2010 (HDIGF 2010; HDIGF 2011). 
+
+## **10. Eligible Accounts: The HDGF covered a variety of retail deposit accounts.** 
+
+Article 5 of Law 2832/2000 defined a “deposit” as “any credit balance which results from funds left in an account or from temporary situations deriving from normal banking transactions and which a credit institution must repay under the legal and contractual conditions applicable, and any debt evidenced by a certificate issued by a credit institution” (Law 2832 2000). 
+
+Although Law 2832/2000 did not specify eligible accounts, Article 11 explicitly excluded the following from coverage: 
+
+- Credit institutions’ own funds 
+
+- Deposits connected to illegal activity 
+
+- Deposits by the central government (ministries and decentralized government agencies) 
+
+- Deposits held by a credit institution’s managers, members of its board of directors, anyone with a direct or indirect stake of 5% or more, auditors, accountants, or anyone else with control over the institution’s operations 
+
+- 
+
+- Negotiable CDs 
+
+
+- Bonds issued by credit institutions 
+
+- Liabilities arising from repos (Law 2832 2000). 
+
+As of 2022, the HDGIF covered savings accounts, demand deposits, current accounts, and time deposits (HDIGF n.d.a). 
+
+## **11. Fees (A): The HDGF exacted annual contributions from member institutions based on the average balance of deposits. As part of the legislation that altered the deposit-insurance limit, the HDGF also increased five-fold the percentages used to calculate fees.** 
+
+Participating institutions were required to pay annual contributions that the HDGF calculated using a non-risk-based regressive scale according to the average balance of deposits in drachmas and foreign currency held in June each year (Law 2832 2000). The HDGF allowed institutions to pay their dues in semiannual installments (Law 2832 2000). Additionally, institutions that joined the scheme after November 1, 1995, were required to pay an initial fee based on the ratio of their own funds to those of existing HDGF participants (Law 2832 2000). The deposit base excluded the tax liabilities of those deposits, the balance of deposits held by branches of participating credit institutions in non-EU states, the HDGF’s deposits, and the balance of certain other deposit categories as defined by Greek law (Law 3746 2009). 
+
+In addition to altering the deposit-insurance limit, Article 6 of the November 2008 law increased fivefold the percentages for calculating members’ annual contributions; institutions were required to pay increased fees by December 31, 2008 (Law 3714 2008). The government cited the 19% year-over-year growth in deposits as its justification for the increase in mandatory contributions (HDIGF 2009). Figure 1 compares the increases in deposit thresholds and percentage-contribution rates between 2007 and 2008. 
+
+[FIGURE id=vol4_iss2_10_f1 type=chart label="Figure 1" file=figure_1.png caption="Annual Contribution Rates for HDGF Member Institutions, 2007–2008"]
+### **Figure 1: Annual Contribution Rates for HDGF Member Institutions, 2007–2008**
+
+|2007|2007|2008|2008||
+|---|---|---|---|---|
+|Deposit thresholds<br>(EUR millions)|Contribution rates (%)|Deposit thresholds<br>(EUR millions)|Contribution rates (%)||
+|0499|0.1250|0600|0.6250||
+|4992,488|0.1200|600.012990|0.6000||
+|2,4887,359|0.1175|2,990.018843|0.5875||
+|7,35917,428|0.0205|8,843.0120940|0.1025||
+|More than 17,428|0.0025|More than 20,940|0.0125||
+
+
+
+_Source: HDGF 2008; HDIGF 2009._ 
+
+
+Beginning in January 2009, the HDGF and BoG implemented a risk-based, three-tier classification system according to specific supervisory evaluation criteria, including capital adequacy, liquidity ratios, and governance practices (HDIGF 2010; Law 3746 2009). The annual contribution percentages were accordingly adjusted at a rate ranging from 0.9% to 1.1%, depending on an institution’s tier (Law 3746 2009). The HDGF expanded the depositthreshold categories in 2009, 2010, and 2011 but held the percentage-contribution rate constant from 2008 (HDIGF 2010; HDIGF 2011; HDIGF 2012). 
+
+## **Fees (B): The HDGF held annual member contributions in two separate funds.** 
+
+According to Article 4 of Law 2832/2000, 20% of each member’s annual fees was deposited into an account with the BoG, while the remaining 80% was deposited into a three-month time deposit account held in the HDGF’s name at the contributing institution (Law 2832 2000). The passage of Law 3746/2009 formally bifurcated the funds into the PDCF and the SDCF, respectively (HDIGF 2010; Law 3746 2009). While the PDCF constituted HDGF’s assets, the SDCF held assets that belonged _pro-indiviso_ to member institutions in proportion to their corresponding contributions (HDIGF 2010). SDCF funds were therefore used “exclusively” for meeting depositor claims in the event that the guarantee were to be exercised (Law 3746 2009). If an institution were to fail, the HDGF paid depositors from that institution’s individual SDCF account before accessing other members’ contributions to the SDCF (Law 3746 2009). 
+
+Regular annual contributions totaled EUR 121.0 million in 2008, 7.8% over initial projections of EUR 112.3 million and reflecting a 19% year-over-year growth in deposits (HDIGF 2009). Figure 2 details the income generated from annual contributions in 2009, 2010, and 2011. 
+
+[FIGURE id=vol4_iss2_10_f2 type=chart label="Figure 2" file=figure_2.png caption="HDGF Income Generated from Regular Annual Contributions, 2009–2011"]
+### **Figure 2: HDGF Income Generated from Regular Annual Contributions, 2009–2011**
+
+||**2009**|**2010**|**2011**|
+|---|---|---|---|
+|**PDCF income**|EUR 139.0 million|EUR 125.9 million|EUR 109.4 million|
+|**SDCF income**|EUR 556.0 million|EUR 503.4 million|EUR 437.5 million|
+|**Percent change in**<br>**deposits**|15.4%|9.5%|13.1%|
+
+
+
+_Source: HDIGF 2010; HDIGF 2011; HDIGF 2012._ 
+
+## **Fees (C): The HDGF was authorized to charge additional supplemental fees if its resources were insufficient to compensate depositors.** 
+
+According to Article 4 of Law 2832/2000, the HDGF could charge additional mandatory fees if it believed that its resources were insufficient to pay out depositors (Law 2832 2000). These fees could not exceed a maximum of three times the regular annual contributions paid the year prior to the activation of the scheme (Law 2832 2000). The HDGF could also require institutions with partial coverage to pay these supplemental fees (Law 2832 2000). Any 
+
+
+special dues paid were credited toward regular annual contributions in subsequent years (Law 2832 2000). 
+
+## **12. Process for Exercising Guarantee: Although payouts could take between three and nine months under existing Greek legislation, the passage of Law 3746/2009 in 2009 drastically shortened the timeline to 10 working days.** 
+
+Article 6 of Law 2832/2000 stipulated that the BoG could declare within 21 days of nonpayment whether a credit institution was unable to meet its obligations for reasons “directly related to its financial circumstances” (Law 2832 2000). A judicial authority could also trigger the guarantee by suspending depositors’ ability to make individual claims against the credit institution (Law 2832 2000). 
+
+The BoG, a judicial authority, or a relevant competent authority of the domiciling EU member state (in the case of foreign institutions) would then notify the HDGF (Law 2832 2000). The HDGF would compile a list of depositors and calculate the amounts to be paid out, less any claims against counterclaims of the credit institutions (Law 2832 2000; Law 3746 2009). Depositors would theoretically receive compensation from the HDGF’s SDCF within three months of their deposits’ becoming unavailable (Law 2832 2000; Law 3746 2009). However, the HDGF could also request two filing extensions of up to three months each from the BoG (Law 2832 2000). 
+
+On March 11, 2009, the European Parliament and the Council of the European Union passed EU Directive 2009/14/EC to amend their 1994 legislation on deposit-guarantee schemes (Directive 2009/14/EC 2009). Among other provisions, the legislation initially raised the minimum level of coverage from EUR 20,000 to EUR 50,000, shortened the payout process, and required all member states to insure up to EUR 100,000 per depositor by December 31, 2010 (Directive 2009/14/EC 2009). 
+
+The passage of Article 15 of Law 3775/2009 on July 21, 2009, harmonized Greek legislation with the EU Directive by shrinking the 21-day window to five working days from the day of determination of nonpayment (Law 3775 2009; Directive 2009/14/EC 2009). The legislation also shortened the payout process to 20 working days from the day that deposits became unavailable, reduced the extension period from a maximum of nine months to 10 days, and further obliged the BoG to inform the HDGIF in the event that the depositprotection scheme might need to be activated (Law 3775 2009). These provisions entered into force beginning December 31, 2010 (Law 3775 2009). 
+
+## **13. Other Restrictions on Eligible Institutions/Accounts: There were no additional restrictions associated with the deposit-insurance increase.** 
+
+Sources consulted do not indicate the existence of other conditions on program participants. 
+
+
+**14. Duration: Although the deposit-insurance increase was initially intended to expire on December 31, 2011, it became a permanent feature of the banking system with the passage of Law 4021/2011.** 
+
+Article 6 of the November 2008 legislation, Law 3714/2008, stipulated that the EUR 100,000 increase would remain in effect for three years, expiring on December 31, 2011 (Law 3714 2008). 
+
+However, to comply with EU Directive 2009/14/EC, the increase became permanent with the passage of Law 4021/2011 on October 3, 2011 (Law 4021 2011; HDIGF 2012; Directive 2009/14/EC 2009). 
+
+
+## **References and Key Program Documents** 
+
+Documents cited in the text are introduced with a parenthetical author-date citation. Documents that are relevant to this case but have not been cited in text do not include this parenthetical reference. 
+
+## **Program Summaries** 
+
+(Boudghene et al. 2011) Boudghene, Yassine, Matthaeus Buder, Zetta Dellidou, Cristophe Galand, Violeta Iftinchi, Max Lienemeyer, Christos Malamataris, and Danila Malvolti. 2011. “State Aid Control in a Stability Programme Country: The Case of Greece.” _Newsletter summarizing State Aid support to Greece during the GFC_ . https://ypfs.som.yale.edu/node/3295 
+
+(HDIGF n.d.a) Hellenic Deposit & Investment Guarantee Fund (HDIGF). n.d.a. “Covered Deposits.” Accessed January 25, 2022. 
+
+_Web page listing eligible deposit categories_ . 
+
+https://ypfs.som.yale.edu/library/document/kalyptomenes-katatheseis-covered-deposits 
+
+(HDIGF n.d.b) Hellenic Deposit & Investment Guarantee Fund (HDIGF). n.d.b. “Relevant National Legislation.” Accessed April 6, 2022. 
+
+_Web page providing a timeline of legislative developments in the HDIGF’s history_ . https://ypfs.som.yale.edu/library/document/shetiki-ethniki-nomothesia-relevantnational-legislation 
+
+## **Implementation Documents** 
+
+(EC 2008) European Commission (EC). 2008. “State Aid N 560/2008. Support Measures for Credit Institutions in Greece.” European Commission. Yale Program on Financial Stability Resource Library. 
+
+_EC document describing the package of measures proposed by the Greek government to ensure the stability of the Greek financial system_ . 
+
+https://ypfs.som.yale.edu/node/17864 
+
+## **Legal/Regulatory Guidance** 
+
+(Directive 2009/14/EC 2009) European Council and European Parliament (Directive 2009/14/EC). 2009. “Directive 2009/14/EC of the European Parliament and of the Council of 11 March 2009 Amending Directive 94/19/EC on Deposit-Guarantee Schemes as Regards the Coverage Level and the Payout Delay.” EU Directive. 
+
+_Requires EU Member States to update their deposit guarantee systems, in accordance with principles established by the ministers of finance_ . 
+
+https://ypfs.som.yale.edu/library/document/directive-200914ec-european-parliamentand-council-11-march-2009-amending 
+
+(European Central Bank 2008) European Central Bank. 2008. “Opinion of the European Central Bank of 17 October 2008 at the Request of the Greek Ministry of Economy and 
+
+
+Finance on a Draft Law on, Inter Alia, the Establishment of the ‘Depositors and Investors of Credit Institutions Compensation Fund’ (CON/2008/51).” 
+
+_ECB opinion evaluating the potential effectiveness of the proposed changes to the HDGF, to be implemented in early 2009_ . 
+
+https://ypfs.som.yale.edu/library/document/opinion-european-central-bank-17-october2008-request-greek-ministry-economy-and 
+
+(European Parliament and European Council 1994) European Parliament, and European Council. 1994. “Directive 94/19/EC of the European Parliament and of the Council of 30 May 1994 on Deposit-Guarantee Schemes.” 135 OJ L. 
+
+_Legislation harmonizing guidance for deposit insurance agencies for EU Member States_ . https://ypfs.som.yale.edu/library/document/directive-9419ec-european-parliament-andcouncil-30-may-1994-deposit-guarantee 
+
+(Law 2324 1995) “Law 2324/1995.” 1995. _Gazette of the Government of the Hellenic Republic_ 146, No. A: 4891–4930. 
+
+_Founding legislation describing the purpose, operations, and responsibilities of the first deposit insurance agency in Greece_ . 
+
+https://ypfs.som.yale.edu/library/document/law-23241995 
+
+(Law 2832 2000) “Law 2832/2000.” 2000. _Legislation codifying the provisions on the establishment, organization, and operation of the deposit guarantee scheme (HDGF)_ . 
+
+https://ypfs.som.yale.edu/library/document/law-28322000 
+
+(Law 3714 2008) “Law 3714/2008.” 2008. _Gazette of the Government of the Hellenic Republic_ 231, No. A: 3919–22. 
+
+_Legislation (Article 6) increasing deposit insurance coverage from EUR 20000 to EUR 100000 and altering annual fees_ . 
+
+https://ypfs.som.yale.edu/library/document/law-37142008 
+
+(Law 3746 2009) “Law 3746/2009.” 2009. _Gazette of the Government of the Hellenic Republic_ 27, No. A. 
+
+_Legislation (Chapter A, Articles 1-27) establishing the Hellenic Deposit and Investment Guarantee Fund (HDIGF), the HDGF’s successor institution_ . https://ypfs.som.yale.edu/library/document/law-37462009 
+
+(Law 3775 2009) “Law 3775/2009.” 2009. _Gazette of the Government of the Hellenic Republic_ 122, No. A: 5695–5714. 
+
+_Legislation (Chapter C Articles 15-17) harmonizing Greek law with the provisions of 2009/14/EC - Directive on Deposit and Investment Guarantee Fund_ . https://ypfs.som.yale.edu/library/document/law-37752009 
+
+(Law 4021 2011) “Law 4021/2011.” 2011. _Gazette of the Government of the Hellenic Republic_ 281, No. A: 6429–6632. 
+
+_Legislation (Part A, Articles 1-8) outlining reinforced credit institutions’ supervisory and_ 
+
+
+_resolution measures and other regulation of financial issues_ . https://ypfs.som.yale.edu/library/document/law-40212011 
+
+## **Media Stories** 
+
+(CNBC 2008) “Greece Guarantees Deposits…Sort Of.” October 3, 2008. 
+
+_News article reporting on Finance Minister George Alogoskoufis’s political commitment to guarantee all deposits in the Greek banking system_ . 
+
+https://ypfs.som.yale.edu/library/document/greece-guarantees-deposits-sort 
+
+(Gow 2008) Gow, David. 2008. “Greece’s Deposit Guarantee Deepens EU Financial Rift.” The Guardian, October 2, 2008. 
+
+_News article reporting on how the unilateral action taken by Ireland and Greece has led to a deepening rift between European leaders attempting to coordinate a response to the GFC_ . https://ypfs.som.yale.edu/library/document/greeces-deposit-guarantee-deepens-eufinancial-rift 
+
+(Hatzidakis and Papadimas 2008) Hatzidakis, George, and Lefteris Papadimas. 2008. “Greece to Guarantee All Bank Deposits, Official Says.” Reuters, October 2, 2008. 
+
+_News article reporting on senior Greek officials’ political commitment to guarantee all deposits in the Greek banking system_ . 
+
+https://ypfs.som.yale.edu/library/document/greece-guarantee-all-bank-deposits-officialsays 
+
+## **Press Releases/Announcements** 
+
+(European Council 2008) European Council. 2008. “2894th Council Meeting Economic and Financial Affairs, Luxembourg, 7 October 2008.” C/08/279. 2894th Council meeting, Luxembourg. 
+
+_Press release summarizing the Council’s coordinated approach in response to the GFC_ . https://ypfs.som.yale.edu/library/2894th-council-meeting-economic-and-financial-affairsluxembourg-7-october-2008 
+
+## **Key Academic Papers** 
+
+(Demirgüç-Kunt, Kane, and Laeven 2014) Demirgüç-Kunt, Asli, Edward Kane, and Luc Laeven. 2014. “Deposit Insurance Database.” Policy Research Working Paper 6934. Washington, D.C.: The World Bank. 
+
+_World Bank policy research working paper providing a comprehensive, global database of deposit insurance arrangements as of 2013_ . 
+
+https://ypfs.som.yale.edu/library/document/deposit-insurance-database 
+
+## **Reports/Assessments** 
+
+(BoG 2008) Bank of Greece (BoG). 2008. Monetary Policy Interim Report 2008. Monetary Policy Interim Report. Athens: Bank of Greece. 
+
+_Report published at the height of the GFC urging policymakers to address the macroeconomic_ 
+
+
+_imbalances and the structural weaknesses of the Greek economy_ . https://ypfs.som.yale.edu/library/document/monetary-policy-interim-report-2008 
+
+(HDGF 2008) Hellenic Deposit Guarantee Fund (HDGF). 2008. Annual Report 2007. Annual Report. 
+
+_Annual report detailing the HDGF’s operations, activities, and financial statements_ . https://ypfs.som.yale.edu/library/document/annual-report-2007 
+
+(HDIGF 2009) Hellenic Deposit & Investment Guarantee Fund (HDIGF). 2009. Annual Report 2008. Annual Report. _Annual report detailing the HDIGF’s operations, activities, and financial statements_ . https://ypfs.som.yale.edu/library/document/annual-report-2008-2 
+
+(HDIGF 2010) Hellenic Deposit & Investment Guarantee Fund (HDIGF). 2010. Annual Report 2009. Annual Report. 
+
+_Annual report detailing the HDIGF’s operations, activities, and financial statements_ . https://ypfs.som.yale.edu/library/document/annual-report-2009-0 
+
+(HDIGF 2011) Hellenic Deposit & Investment Guarantee Fund (HDIGF). 2011. Annual Report 2010. Annual Report. _Annual report detailing the HDIGF’s operations, activities, and financial statements_ . https://ypfs.som.yale.edu/library/document/annual-report-2010-0 
+
+(HDIGF 2012) Hellenic Deposit & Investment Guarantee Fund (HDIGF). 2012. Annual Report 2011. Annual Report. 
+
+_Annual report detailing the HDIGF’s operations, activities, and financial statements_ . https://ypfs.som.yale.edu/library/document/annual-report-2011 
+
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

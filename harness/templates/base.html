@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Eval Harness{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='chat.css') }}">
+</head>
+<body>
+  <header class="site-header">
+    <nav>
+      <a href="{{ url_for('chat.conversations_list') }}" class="brand">YPFS Analyst</a>
+      <a href="{{ url_for('chat.conversations_list') }}" class="nav-link{% if request.blueprint == 'chat' and request.endpoint != 'chat.golden_list' %} is-active{% endif %}">Chat</a>
+      {% if is_admin %}
+        <a href="{{ url_for('chat.golden_list') }}" class="nav-link{% if request.endpoint == 'chat.golden_list' %} is-active{% endif %}">Golden</a>
+        <a href="{{ url_for('dashboard') }}" class="nav-link{% if request.endpoint == 'dashboard' %} is-active{% endif %}">Dashboard</a>
+        <a href="{{ url_for('chat') }}" class="nav-link{% if request.endpoint in ('chat', 'chat_run') %} is-active{% endif %}">Experiment</a>
+        <a href="{{ url_for('runs_list') }}" class="nav-link{% if request.endpoint in ('runs_list', 'run_detail') %} is-active{% endif %}">Runs</a>
+      {% endif %}
+    </nav>
+    <div class="cycle-status">
+      <a id="active-job-status" class="active-job-status" hidden href="/" aria-live="polite">
+        <span id="active-job-text" class="active-job-status-text">Working…</span>
+      </a>
+      {% if is_admin %}
+        <span class="header-chip" title="Worker model: {{ fixed_agent_model }}">
+          <span aria-hidden="true">👷</span>
+          {{ fixed_agent_model_label }}
+        </span>
+        {% if latest_prompt_id != "not seeded" %}
+          <a class="header-chip header-chip-version" href="{{ url_for('edit_prompt_version', prompt_id=latest_prompt_id) }}"
+            title="Edit {{ latest_prompt_id }}">{{ latest_prompt_id }}</a>
+        {% else %}
+          <span class="header-chip header-chip-version">{{ latest_prompt_id }}</span>
+        {% endif %}
+        <form method="post" action="{{ url_for('chat.logout') }}" class="role-form">
+          <button type="submit" class="role-chip" title="Signed in as admin">admin · sign out</button>
+        </form>
+      {% elif admin_enabled %}
+        <a class="role-chip" href="{{ url_for('chat.login') }}">Admin sign-in</a>
+      {% endif %}
+    </div>
+  </header>
+
+  {% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+      <div class="flash-region">
+        <ul class="flash">
+          {% for category, message in messages %}
+            <li class="{{ category }}">
+              <span>{{ message }}</span>
+              <button type="button" class="flash-dismiss" aria-label="Dismiss">×</button>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+  {% endwith %}
+
+  <main class="{% block main_class %}{% endblock %}">
+    {% block content %}{% endblock %}
+  </main>
+
+  <script src="{{ url_for('static', filename='ui.js') }}" defer></script>
+  <script src="{{ url_for('static', filename='chat.js') }}" defer></script>
+</body>
+</html>

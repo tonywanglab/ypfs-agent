@@ -1,0 +1,676 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 3 
+2020 
+The United Kingdom's Asset-backed Securities Guarantee Scheme The United Kingdom's Asset-backed Securities Guarantee Scheme 
+(U.K. GFC) (U.K. GFC) 
+June Rhee 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Finance Commons, Policy Design, Analysis, and Evaluation Commons, and the Political 
+Economy Commons 
+Recommended Citation Recommended Citation 
+Rhee, June (2020) "The United Kingdom's Asset-backed Securities Guarantee Scheme (U.K. GFC)," Journal 
+of Financial Crises: Vol. 2 : Iss. 3, 948-963. 
+DOI: https://doi.org/10.17132/2693-3179.1091 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/49 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol2/iss3/49
+
+--- Page 3 ---
+UK Asset-backed Securities Guarantee Scheme1 
+ 
+June Rhee2 
+Yale Program on Financial Stability  
+January 16, 2019, revised: October 10, 2020 
+ 
+Abstract 
+The key structures of housing finance in the UK in the years leading up to the global financial 
+crisis of 2007 -09 consisted of retail deposits, secondary market funding and wholesale 
+interbank lending. Although retail deposits were the major funder of UK mortgages, 
+secondary market funding, which included covered bonds and residential mortgage-backed 
+securities (RMBS), accounted for 31% of UK mortgage lending in 2006. In 2007, the collapse 
+of the U.S. subprime mortgage market triggered a financial shock, and the shock quickly 
+traveled beyond national borders. Regardless of differences in the UK mortga ge market, 
+investors’ concern over the prospects of the U.S. housing market influenced their perception 
+of UK mortgage -backed assets. And with the UK RMBS market substantially reliant on 
+overseas investors, their concern contributed to a downturn in the UK market.  
+In a November 2008 report on mortgage finance by Sir James Crosby, it was argued that 
+“[w]ithout intervention, the market in mortgage -backed securities won't return any time 
+soon …” and that “the inability to refinance existing mortgage -backed fu nding and the 
+continuing pressures in wholesale funding markets …  [were] really hitting the banks’ 
+capacity to make new loans …”. In response t o this report, HM Treasury announced a £50 
+billion guarantee scheme for asset-backed securities (the Scheme) on January 19, 2009 and 
+launched this Scheme on April 22, 2009. 
+The Scheme, in which HM  Treasury provided a guarantee for eligible newly issued RMBS, 
+represented an extension of the 2008 Credit Guarantee Scheme for unsecured debt issuance 
+by UK incorporated banks and building societies. The Scheme aimed to support residential 
+mortgage lending in the UK economy. The Scheme closed on  December 31, 2009 , without 
+having been used.  
+Keywords: United Kingdom , asset-backed securities, ABS, residential  mortgage-backed 
+securities, RMBS, securitization, guarantee  
+ 
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) s election of New Bagehot Project 
+modules considering the responses to the global financial crisis that pertain to bank debt guarantee programs. 
+Cases are available from the Journal of Financial Crises  at https://elischolar.library.yale.edu/journal -of-
+financial-crises/. 
+2 June Rhee — Senior Editor, YPFS, Yale School of Management. 
+948
+
+--- Page 4 ---
+At a Glance  
+In 2007, the collapse of the U .S. subprime 
+mortgage market triggered a financial shock, 
+and the shock quickly traveled beyond national 
+borders. U .S. investors’ concern over the 
+prospects of the U.S. housing market influenced 
+their perception of UK mortgage-backed assets. 
+And with the UK RMBS market substantially 
+reliant on overseas investors, the U.S. investors’ 
+concern contributed to a downturn in the UK 
+market. A November 2008 report on mortgage 
+finance by Sir James Crosby (Crosby Report) 
+stated that there was a “disappearance of a 
+substantial section of the previous investor 
+base” in mortgage -backed securities, draining 
+liquidity from  the RMBS m arket. Net lending 
+secured on residential property tot aled £37.4 
+billion during January –September 2008, 
+compared to £84.7 billion during January –
+September 2007. The Crosby Report concluded 
+that an “intervention which addresses the 
+‘closure’ of mortgage -backed funding markets 
+will bring about increased competi tion and 
+improve the availability of mortgage finance to 
+homeowners and would be homeowners,” and 
+“such intervention should ensure that a cyclical 
+correction in the housing market does not turn 
+into something much more serious with all that would ultimately imply for the wider economy.”  
+In response to the Crosby Report, HM Treasury announced on January 19, 2009, that the £50 billion 
+Asset-backed Securities Guarantee Scheme (the Scheme) would be launched on April 22, 2009. The 
+Scheme, under which HM Treasury provided a guarantee for eligible newly issued RMBS in exchange 
+for a fee, represented an extension of the 2008 Credit Guarantee Scheme for unsecured debt issuance 
+by UK incorporate d banks and building societies.  Under the Scheme, t he maximum term of a 
+guarantee was either up to three years or up to five years, and the participating institution’s group 
+could not have more than one third of the total guaranteed eligible RMBS with a five-year term. 
+Guarantees were origin ally to be prov ided only to eligible RMBS issued within six months of the 
+commencement of the Scheme, but HM Treasury subsequently extended the issuance window up to 
+December 31, 2009. The Scheme expired on December 31, 2009, having never been used.  
+Summary Evaluation 
+As noted, the Scheme was never used.  Some commentators have criticized the  effectiveness of the 
+Scheme due to alleged  design flaws  including the exclusion of specialist lenders, restrictions on 
+eligible securities, and the existence of other government programs with more favorable terms.  
+Summary of Key Terms 
+Purpose: To support residential mortgage lending in 
+the UK economy. 
+Announcement Date  January 19, 2009 
+Operational Date April 22, 2009 
+Date of First Guaranteed 
+Loan Issuance 
+N/A 
+Issuance Window 
+Expiration Date  
+Originally October 22, 
+2009; extended until 
+December 31, 2009 
+Program Size £50 billion 
+Usage  No usage 
+Outcomes N/A 
+Notable Features Specialized lenders 
+excluded despite their 
+importance to relevant 
+market; terms less 
+attractive than already 
+existing program 
+UK 2009 Asset-backed Securities 
+Guarantee Scheme 
+949
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 5 ---
+United Kingdom Credit Guarantee Scheme:  United Kingdom Context 
+GDP 
+(SAAR, Nominal GDP in 
+LCU converted to USD) 
+$3,102.8 billion in 2007 
+$2,948.0 billion in 2008 
+Source: Bloomberg 
+GDP per capita 
+(SAAR, Nominal GDP in 
+LCU converted to USD) 
+$50,567 in 2007 
+$47,287 in 2008 
+Source: Bloomberg 
+Sovereign credit rating 
+(5-year senior debt) 
+ 
+As of Q4 2007: 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+As of Q4 2008: 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+Source: Bloomberg 
+ 
+Size of banking system 
+ 
+$4,895.3 billion in total assets in 2007 
+$5,299.6 billion in total assets in 2008 
+Source: Bloomberg 
+Size of banking system 
+as a percentage of GDP 
+157.8% in 2007 
+179.8% in 2008 
+Source: Bloomberg 
+950
+UK Asset-backed Securities Guarantee Scheme Rhee
+
+--- Page 6 ---
+Size of banking system 
+as a percentage of 
+financial system 
+Data not available for 2007/2008  
+Source: World Bank Global Financial Development 
+Database 
+5-bank concentration of 
+banking system 
+ 
+76.8% of total banking assets in 2007 
+79.1% of total banking assets in 2008 
+Source: World Bank Global Financial Development 
+Database 
+Foreign involvement in 
+banking system 
+14% of total banking assets in 2007 
+19% of total banking assets in 2008 
+Source: World Bank Global Financial Development 
+Database 
+Government ownership 
+of banking system 
+Data not available for 2007 
+1% of banks owned by the state in 2008 
+Source: Call et al. “Bank Ownership – Trends and 
+Implications” 
+Existence of deposit 
+insurance 
+100% insurance on deposits up to $4,000; 90% on 
+next $66,000 in 2007 
+100% insurance on deposits up to $93,000 after 
+October 2008  
+Source: World Bank Deposit Insurance Dataset, 
+OECD  
+951
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 7 ---
+I. Overview 
+Background 
+The key structures of housing finance in the UK in the years leading up to the global financial 
+crisis of 2007 -09 consisted of retail deposits, secondary market funding and wholesale 
+interbank lending. Although retail deposits were the major funder of UK m ortgages, 
+secondary market funding, which included covered bonds and residential mortgage-backed 
+securities (RMBS), accounted for 31% of UK mortgage lending in 2006. (Housing Finance 
+Review 2008) Investors in the UK RMBS market were heavily from the U.S., as seen in Figure 
+1. 
+Figure 1: Investors in UK RMBS, by country 
+ 
+ 
+ 
+ 
+Source: Mortgage Finance: Interim Analysis, July 2008. 
+In 2007, the collapse of the U.S. subprime mortgage market triggered a financial shock, and 
+the shock quickly traveled beyond national borders. Compared to the U.S., the UK was 
+reported to have fewer defaulting mortgage borrowers. Moreover, it was estimated that in 
+the U.S., up to a quarter of all mortgage loans were subprime or near -prime, whereas in the 
+UK market this percentage was much smaller. Additionally, most U.S. subprime lending was 
+at heavily discounted initial rates and was “non -recourse lending ,” incentivizing the 
+mortgage borrowers to walk away from their debt once the equity in the property had been 
+extinguished (Crosby Final 2008). 
+Regardless of such differences in the UK mortgage market, U.S. investors’ concern over the 
+prospects of the U.S. housing market influenced their perception of UK mortgage -backed 
+assets. And with the UK RMBS market substantially reliant on  overseas investors, the U.S. 
+952
+UK Asset-backed Securities Guarantee Scheme Rhee
+
+--- Page 8 ---
+investors’ concern contributed to a downturn in the UK market. A November 2008 report on 
+mortgage finance by Sir James Crosby (Crosby Report) stated that there was a 
+“disappearance of a substantial section of the previous inve stor base” in mortgage -backed 
+securities, draining liquidity from  the RMBS market. N et lending secured on residential 
+property totaled £37.4 billion during January –September 2008, compared to £84.7 billion 
+during January–September 2007 (Crosby Final 2008).  
+The Crosby Report also argued that “[w]ithout intervention, the market in mortgage-backed 
+securities won't return any time soon …” and that “the inability to refinance existing 
+mortgage-backed funding and the continuing pressures in wholesale funding mar kets …  
+[were] really hitting the banks’ capacity to make new loans …”. The Crosby Report concluded 
+that an “intervention which addresses the ‘closure’ of mortgage-backed funding markets will 
+bring about increased competition and improve the availability of  mortgage finance to 
+homeowners and would be homeowners” and “such intervention should ensure that a 
+cyclical correction in the housing market does not turn into something much more serious 
+with all that would ultimately imply for the wider economy .” In re sponse to the Crosby 
+Report, HM Treasury  announced on January 19, 2009 , that the £50 billion Asset-backed 
+Securities Guarantee Scheme ( the Scheme) would be launched on April 22, 2009 (HMT 
+Statement 2009). 
+Program Description 
+The Scheme, under which HM Treasury provided a guarantee for eligible newly issued RMBS, 
+represented an extension of the 2008 Credit Guarantee Scheme for unsecured debt issuance 
+by UK incorporated banks and building societies (Market Notice 2009). 
+The Scheme aimed to support residential  mortgage lending in the UK economy. It intended 
+to (i) improve banks’ and building societies’ access to wholesale funding markets, (ii) help 
+support lending to credit -worthy borrowers, (iii) promote robust and sustainable markets 
+over the long term, and ( iv) protect the taxpayer by HM  Treasury guaranteeing mortgage-
+backed securities backed by UK residential properties (Market Notice 2009). 
+Institutions elig ible to participate in the Credit Guarantee Scheme were also eligible to 
+participate in this Scheme and were required to use the pro forma application form available 
+on the UK Debt Management Office website (Market Notice 2009) . The institution would 
+submit a request for participation to HM Treasury. HM Treasury, in its discretion, issued an 
+ABS Scheme Institution Certificate confirming the participation. The participating institution 
+then would apply for an ABS Transaction Confirmation for its proposed ABS transaction. 
+Again, it was under HM Treasury’s discretion to confirm such application (Rule 2009).  
+Eligible institutions included UK incorporated banks (including UK subsidiaries of foreign 
+banks) which have a substantial business in the UK, and UK building societies, in each case 
+so long as they had Tier 1 capital in an amount deemed appropria te by HM Treasury. Only 
+one entity within a corporate group was allowed to participate in the Scheme, but issuances 
+under the Scheme were allowed to be made either by the participating institution or by its 
+sponsored affiliated entities (Issuer) (Market Notice 2009). 
+There were two types of guarantee available under the Scheme. The first type was the credit 
+guarantee, which ensured the timely payment of all amounts of interest and principal 
+payable in respect of the eligible RMBS. The second type was the li quidity guarantee, which 
+ensured that if an issuer failed to honor its obligation to purchase the eligible RMBS following 
+an exercise of a put or call option under the terms of the eligible RMBS, then HM  Treasury 
+would purchase such RMBS from the holder. An eligible RMBS under the Scheme could only 
+benefit from either a credit guarantee or a liquidity guarantee (Market Notice 2009).  
+953
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 9 ---
+Eligible RMBS under the Scheme were to be (i) issued under stand -alone transactions or 
+under-established or newly established  master trusts, which have been approved by HM  
+Treasury at its sole discretion; (ii) denominated in a single currency; (iii) rated AAA or the 
+equivalent at the time of issue by at least two international credit rating agencies, 
+disregarding the availabilit y of the applicable guarantee; and (iv) listed on the regulated 
+market of the London, Irish, or Luxembourg Stock Exchanges (Market Notice 2009). 
+Furthermore, any mortgages contained in the underlying mortgage pool of the eligible RMBS 
+were required to meet certain requirements  including minimum loan -to-value ratios and 
+credit conditions (Market Notice 2009). 
+Guarantees were originally to be provided only to eligible RMBS issued within six months of 
+the commencement of the Scheme, but HM  Treasury subsequently extended the period up 
+to December 31, 2009. The maximum term of a guarantee was either up to three years or up 
+to five years, and the participating institution’s group could not have more than one third of 
+the total guaranteed eligible RMBS with a five-year term (Market Notice 2009). 
+Issuers under the Scheme were required to provide periodic reports, at least quarterly, to 
+the RMBS investors and HM Treasury. The disclosure in these periodic reports was to be in 
+line with international best practice s uch as the “RMBS Issuer Principles for Transparency 
+and Disclosure, Version 1 ,” published by the European Securitisation Forum in February 
+2009 (Market Notice 2009). 
+Under the Scheme, HM Treasury was entitled to be indemnified for the amounts paid under 
+the guarantee from the participating institution or the Issuer. Moreover, it could, under its 
+discretion, require indemnification from any member of the corporate group to which the 
+Issuer belonged  (Rule 2009) . In addition, to participate in the Scheme, the participating 
+institution had to pay a fee to HM  Treasury in an amount equal to 25 basis points over its 
+median five-year credit default swap (CDS) spread during the period from July 2, 2007 , to 
+July 1, 2008, as determined by HM Treasury, and HM Treasury could charge an incremental 
+fee in respect of guarantees of non -sterling-denominated eligible RMBS (Market Notice 
+2009).  
+Outcomes 
+There was no further exte nsion of the issuance window  for the Sch eme, and it expired on 
+December 31, 2009. A report by the National Audit Office on December 15, 2010 states that 
+the Scheme was not used. 
+II. Key Design Decisions 
+1. The British government  introduced the Scheme as an extension of the Credit 
+Guarantee Scheme adopted in October 2008. 
+The Credit Guarantee Scheme itself was one component of a three -part package including a 
+bank recapitalization program and the extension of a liquidity scheme.  
+2. The Scheme was established pursuant to the authority of the Chancellor of the 
+Exchequer to issue guarantees of debt.  
+954
+UK Asset-backed Securities Guarantee Scheme Rhee
+
+--- Page 10 ---
+This authority allowed for the establishment of the Scheme without the need for additional 
+legislation.  
+3. In accordance with State aid rules, t he Scheme required European Commission 
+approval to be implemented. 
+UK authorities notified the European Commission of the Scheme on April 17, 2009 , and 
+received approval on April 21, 2009. 
+4. The size of the program was established at £50 billion. 
+Program documents did not provide a specific rationale for this amount.  
+5. Institutions eligible for the Credit Guarantee Scheme were also eligible for this 
+Scheme.  
+Institutions elig ible to participate in the Credit Guarantee Scheme were also eligible to 
+participate in this Scheme and were required to use the pro forma application form available 
+on the UK Debt Management Office website . When the British government introduced the 
+Credit Guarantee Scheme as part of the October 8, 2008 , package of stabilization measures, 
+it made eight major institutions 3 automatically elig ible for participation “ in recognition of 
+their commitment to strengthen their aggregate capital position ” by a collective £25 billion 
+in Tier 1 capital pursuant to the Bank Recapitalisation Fund that was also part of the package. 
+Other UK deposit-takers (including UK-incorporated subsidiaries of foreign institutions) and 
+building societies could apply to be eligible, with eligibility contingent on a determination by 
+HM Treasury that the applicant possessed sufficient Tier 1 capital.  Applicants would also 
+have their roles in the UK banking system and overall economy evaluated. 
+The list of e ligible institutions in the Scheme was narrower (limited to deposit takers and 
+building societies) than recommended by the Crosby Report, which included not only banks 
+and building societies but also specialist lenders (Crosby Final 2008; Rules 2009). 
+Only one entity within a corporate group was allowed to participate in the Scheme, but 
+issuances of RMBS under the Scheme could be made either by the participating institution 
+or by its sponsored affiliated entities (Market Notice 2009). 
+6. The securities eligible for guarantee under the Scheme were certain RMBS backed 
+by residential mortgages over property in the UK.  
+When the Scheme was first announced, eligible securities to be guaranteed under the Scheme 
+were RMBS, but the UK government also stated tha t HM Treasury would keep the scope of 
+the Scheme “under review.” However, there was no extension of the Scheme beyond RMBS 
+(Market Notice 2009).  
+Eligible RMBS under the Scheme were required to be: 
+ 
+3 Abbey National, Barclays, HBOS, HSBC Bank, Lloyds TSB, Nationwide Building Society, Royal Bank of Scotland, 
+and Standard Chartered. 
+955
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 11 ---
+• issued under a master trust existing at April 22, 2009, the aggregate principal amount 
+of the proposed issue of Eligible Securities not exceeding the Capped Amount4; 
+• denominated in a single currency of Sterling, Euro, US Dollars, Australian Dollars, 
+Canadian Dollars, Swiss Francs, Yen , or such other currency as approved by HM  
+Treasury;  
+• rated AAA or the equivalent at the time of issue by at least two international credit 
+rating agencies, disregarding the availability of the applicable guarantee; and  
+• admitted to the official list of the relevant competent authority or stock exchange (as 
+the case may be) and admitted to trading on the regulated market of the London, 
+Dublin, or Luxembourg stock exchanges. (Rule 2009) 
+Furthermore, any mortgages contained in the underlying mortgage pool of the eligible RMBS 
+were required to meet additional requirements:  
+• each mortgage loan must have been originated on or after January 1, 2008;  
+• each mortgage loan must have been secured by a valid first-ranking mortgage, or (in 
+Scotland) standard security, over a residential property lo cated in the United 
+Kingdom; 
+• the current balance of each mortgage loan could not exceed £500,000; 
+• LTV ratio of each mortgage at origination could not exceed 90% of the lower of the 
+purchase price or the then most recent valuation of the mortgaged property;  
+• the weighted average LTV ratio of all the mortgage loans in the underlying pool could 
+not exceed 75% of the lower of the respective purchase prices of the mortgaged 
+properties or the most recent valuations as at the time of origination;  
+• at least one full payment in respect of each mortgage loan must have been made;  
+• no amount of principal or interest in respect of each mortgage loan can have been in 
+arrears at any time prior to the date of sale referred to above; and  
+• each borrower of each mortgage loan:  
+o must have been a natural person;  
+o must have satisfied the lending criteria that would be applied by a reasonable 
+and prudent mortgage lender;  
+o must not have been a “self-certified” borrower (but this does not refer to “fast-
+track” credit underwriting procedures); and  
+ 
+4 “Capped Amount” means the aggregate principal amount of eligible securities which could be issued if they 
+were backed exclusively by the Proposed Pool in a stand-alone transaction; “Proposed Pool” means the pool of 
+eligible mortgages which is proposed to be sold by the eligible institution to the master trust to back the 
+proposed issue of eligible securities. 
+956
+UK Asset-backed Securities Guarantee Scheme Rhee
+
+--- Page 12 ---
+o must not have had an adverse credit history. (Rule 2009)  
+7. There were two types of guarantees—credit guarantees and liquidity guarantees—
+available under the Scheme, and each issuance could only benefit from one type. 
+There were two types of guarantees available under the Scheme. The first type was the credit 
+guarantee, which ensured the timely payment of all amounts of interest and principal 
+payable in respect of the eligible RMBS. The second type was the liquidity guara ntee, which 
+ensured that if an issuer failed to honor its obligation to purchase the eligible RMBS following 
+an exercise of a put or call option under the terms of the eligible RMBS, then HM  Treasury 
+purchased such RMBS from the holder. An eligible RMBS under the Scheme could o nly 
+benefit from either a credit guarantee or a liquidity guarantee (Market Notice 2009). 
+8. RMBS with maturities up to three years  (or five years in special circumstances) 
+could be issued under the Scheme. 
+A participating institution’s group could not have more than one third of the total guaranteed 
+eligible RMBS with a five-year term. The government does not appear to have established 
+minimum maturity requirements for eligible debt. 
+9. Only RMBS issued in sterling, euros, U.S. dollars, Japanese yen, Australian dollars, 
+Canadian dollars, or Swiss francs were eligible. 
+Additional currencies could be made eligible via a determination by HM Treasury. 
+10. There do not appear to have been caps on an individual institution’s participation 
+in the Scheme.  
+Program documents did not contain language limiting the amount of an individual 
+institution’s participation in the program. 
+11. The fee for issuing RMBS pursuant to the Scheme varied based on the soundness of 
+the issuing bank.  
+To participate in the Scheme, the participating institution had to pay a fee to HM Treasury in 
+an amount equal to 25 basis points over its median five-year CDS spread during the period 
+from July 2, 2007 , to July 1, 2008, as determined by HM  Treasury, and HM  Treasury could 
+charge an increme ntal fee i n respect of guarantees of non -sterling denominated eligible 
+RMBS (Market Notice 2009 ). This approach mirrored the fee structure for the Credit 
+Guarantee Scheme, which imposed a fee of 50 basis points over the median five-year CDS 
+spread.  
+12. Issuers of RMBS guaranteed by the Scheme were required to produce periodic 
+reports to their investors and HM Treasury. 
+The disclosure in these periodic reports was to be in line with international best practice 
+such as the “RMBS Issuer Principles for Transparenc y and Disclosure, Version 1” published 
+by the European Securitisation Forum in February 2009 (Market Notice 2009).  
+957
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 13 ---
+13. The deadline f or issuance under the Scheme was initially October 22 , 2009, but 
+was later extended to December 31, 2009. 
+Guarantees were originally to be provided to eligible RMBS issued within six months from 
+the start of the Scheme, subject to any extension at the discretion of HM  Treasury. HM 
+Treasury subsequently extended the issuance window of the Scheme up to December 31, 
+2009 (EU 2009, Market Notice October 2009). 
+III. Evaluation 
+There do not appear to be  any significant reports or studies analyzing the outcomes of the 
+Scheme. However, a published report by the Communities and Local Government Committee 
+(CLGC) contains a statement by Jo hn Heron of the Intermediary Mortgage Lenders 
+Association criticizing the effectiveness of the Scheme in restarting mortgage lending. CLGC 
+is a select committee of the House of Commons in the Parliament of the UK. Heron argues 
+that the Scheme did not work from a mortgage lender’s standpoint because: 
+• it could only be accessed by banks and building societies, which meant more specialist 
+lenders—the lenders that typi cally support the private rental  sector and have 
+customers in greater financial difficulty—did not have access;  
+• it only covered AAA-rated securities; and  
+• the guarantee was only for three or five years’ term, and if a lender borrowed with a 
+guarantee from the Scheme, it could be required to repay that money in three or five 
+years’ time, which is not satisfactory for long-term funding of mortgages that may be 
+20 or 25 years (CLGC 2009). 
+Rob Thomas, a senior policy advisor at the Council of Mortgage Lenders, and Kevin Ingram, 
+a partner at Clifford Chance, have questioned the effectiveness of the Scheme as it was only 
+made available to deposit takers  against the advice of  the Crosby Report. Moreover, both 
+Thomas and Ingram point out that these deposit takers already had access to the Credit 
+Guarantee Scheme  whose terms were more attractive than the Scheme’s (Thomas 2010; 
+Ingram 2009). 
+Ingram also criticized a certain design aspect of the Scheme, comparing it to Term Asset-
+Backed Securities Loan Facility ( TALF) in the U.S. Both were  aimed at r estarting the 
+securitization market by encouraging investors to participate in the market.  However, 
+whereas TALF provided investors in  eligible asset -backed securities resources to pay for 
+their investments, the Scheme only focused on the guarantee side of the investments and the 
+investors would still have to raise the funds to invest in the securitization market when such 
+funding was hard to obtain in the first place (Ingram 2009). 
+  
+958
+UK Asset-backed Securities Guarantee Scheme Rhee
+
+--- Page 14 ---
+IV. References 
+Crosby, James . July 2008.  “Mortgage Finance: Interim Analysis .” HM Treasury. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Crosby_Review__Interim_An
+alysis__29_July_2008.pdf. 
+ 
+———. November 2008.  “Mortgage Finance: Final Report and Recommendations.” HM 
+Treasury. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/pbr08_mortgagefinance_10
+10.pdf. 
+ 
+European Commission . October 27, 2009.  “Prolongation of the Asset Backed Securities 
+Guarantee Scheme.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/233396_1019387_21_2.pdf. 
+ 
+European Securitisation Forum. December 2008. RMBS Issuer Principles for Transparency 
+and Disclosure, Version 1.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/b57eda1f-88f9-47f2-a41d-
+93837801c322.pdf. 
+ 
+HM Treasury . March 2008.  “Housing Finance Review: Analysis and Proposals .” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/bud08_housing_787_.pdf. 
+ 
+———. January 19, 2009. “ Statement on financial intervention to support lending in the 
+economy.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Statement%20on%20financ
+ial%20intervention%20to%20support%20lending%20in%20the%20economy%20-
+%20HM%20Treasury_0.pdf. 
+ 
+———. April 22, 2009. “ The Government ’s Deed of Guarantee .” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-04-22ABSDeed.pdf.  
+ 
+———. April 22, 2009. “The Rules of the Scheme and Pro Forma Application Forms.”  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-04-
+22ABSRules%20(2).pdf. 
+ 
+House of Commons: Communities and Local Government Committee . July 7,2009. “Eighth 
+Report: Housing and the Credit Crunch: Follow -up.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/568.pdf. 
+ 
+Ingram, K evin. October 2009.  “If Securitization Is Dead, Why Do So Many Government 
+Schemes Use It?” Capital Markets Law Journal , Issue 4, Vol. 4.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Capital%20Markets%20La
+w%20Journal.pdf. 
+ 
+959
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 15 ---
+National Audit Office. December 15, 2010. “Maintaining the Financial Stability of UK Banks: 
+Update on the Support Schemes.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/1011676.pdf. 
+ 
+Thomas, Rob. Autumn 2010. “The Role of Mortgage Securitisation in the Financial Crisis and 
+how to Restore the Market's Health.” Housing Finance International (Online), Issue 1, Vol. 25. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Housing%20Finance%20Int
+ernational.pdf. 
+ 
+UK Debt Management Office. April 22, 2009. “Market Notice: Outline of the UK Government’s 
+2009 Asset -backed Securities Guarantee Scheme .” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-04-
+22ABSMarketNotice.pdf. 
+ 
+———. October 28, 2009. “Market Notice: Extension of Entry Window for the Government’s 
+Asset-backed Securities Guarantee Scheme.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-10-
+28ABSMarketNotice.pdf. 
+V. Key Program Documents 
+Summary of Program 
+The Rules of the Scheme (04/22/2009) – Rules set forth on how the guarantee provided under 
+the Scheme works . https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-04-
+22ABSRules%20(2).pdf. 
+Market Notice: Extension of Entry Window for the Government’s Asset -backed Securities 
+Guarantee Scheme (10/28/2009) – HMT announcement extending the period of the Scheme. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-10-
+28ABSMarketNotice.pdf. 
+Market Notice: Outline of the UK Government’s 2009 Asset -backed Securities Guarantee 
+Scheme (04/22/2009) – HMT document outlining the terms of the Scheme . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-04-
+22ABSMarketNotice.pdf. 
+Implementation Documents 
+•  Form of ABS Scheme Institution Certificate  – HMT document certifying that the named 
+institution is a registered participant in the  Scheme (Annex 2) . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-04-
+22ABSRules%20(2).pdf.  
+Form of Application for ABS Transaction Confirmation  – Form submitted to apply for 
+participation in the Scheme  (Annex 3) . 
+960
+UK Asset-backed Securities Guarantee Scheme Rhee
+
+--- Page 16 ---
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-04-
+22ABSRules%20(2).pdf. 
+Form of Application for ABS Eligibility Certificate – Form applying for certification of the ABS 
+to be guaranteed under the Scheme  (Annex 4) . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-04-
+22ABSRules%20(2).pdf. 
+•  Form of ABS Transaction Confirmation  – HMT providing confirmation that the named ABS 
+transaction is guaranteed under the Scheme  (Annex 7) . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-04-
+22ABSRules%20(2).pdf. 
+ 
+•  Form of ABS Eligibility Certificate – HMT certifying that the named securities are guaranteed 
+under the Scheme (Annex 8). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-04-
+22ABSRules%20(2).pdf. 
+ 
+•  Form of Closing Certificate  – Issuer of the eligible securities certifying that the transaction 
+and issued securities comply with the rules set forth by HMT  (Annex 9). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-04-
+22ABSRules%20(2).pdf. 
+•  Form of Eligible ABS Institution Counter -Indemnity in respect of [the Guaranteed Credit 
+Liabilities][the Guaranteed Liquidity Liabilities]  – Form provided to HMT by issuer setting 
+forth terms for indemnifying the amount paid out under the guarantee  (Annex 10) . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-04-
+22ABSRules%20(2).pdf. 
+ 
+•  Form Fee Letter – UK Debt Management Office’s letter providing the amount of the fee for 
+participating in the Scheme (Annex 
+12). https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-04-
+22ABSRules%20(2).pdf. 
+ 
+•  Form of Offering Document Disclosure  – Disclosure form to be attached to the offering 
+circular of the issued securities stating that the issued securities were guaranteed by the 
+Scheme (Annex 13) . https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-
+04-22ABSRules%20(2).pdf. 
+ 
+•  Relevant Guarantor Transaction Legal Opinions – Legal opinion confirming certain items of 
+the documentation under the Scheme  (Annex 14) . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-04-
+22ABSRules%20(2).pdf. 
+ 
+•  Form of Demand – Form to be used by appropriate party to demand payments under the 
+guarantee from HMT (Annex 15). 
+961
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 17 ---
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-04-
+22ABSRules%20(2).pdf. 
+  
+Press Releases/Announcements 
+Statement on financial intervention to support lending in the economy  (HM Treasury, 
+01/19/2009) – Announcement from HM Treasury on the government scheme implemented.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Statement%20on%20financ
+ial%20intervention%20to%20support%20lending%20in%20the%20economy%20-
+%20HM%20Treasury_0.pdf. 
+ 
+Reports/Assessments 
+If securitization is Dead, why do so many government schemes use it?  (Ingram 2009)  – 
+Article on the rationale behind the implementation of securitization in government schemes.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Capital%20Markets%20La
+w%20Journal.pdf. 
+The Role of Mortgage Securitisation in the Financial Crisis and how to Restore the Market's 
+Health (Thomas 2010) – Article on the effect of Mortgage Securitization on the Great Financial 
+Crisis. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Housing%20Finance%20Int
+ernational.pdf. 
+Housing and the Credit Crunch: Follow-up (07/07/2009) – Report by Communities and Local 
+Government containing a statement criticizing the effectiveness of the Scheme. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/568.pdf.  
+ 
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu.  
+ 
+ 
+962
+UK Asset-backed Securities Guarantee Scheme Rhee

@@ -1,0 +1,761 @@
+{
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "government response to bank runs contagion uncertainty about exposures",
+        "document_type": "survey"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol7_iss2_1",
+            "chunk_id": "vol7_iss2_1_c0180",
+            "document_type": "survey",
+            "title": "Survey of Bank Holidays and Fund Suspensions",
+            "score": 0.6008,
+            "text": "Document: Survey of Bank Holidays and Fund Suspensions\n\nConclusion\n\nEven when authorities impose a bank holiday or restrictions on only one or a few banks, contagion is a risk, which in turn can trigger fear about the health of the entire financial system (Duvvuri 2024). Depositors are aware that financial institutions are interconnected. Policymakers should anticipate such risks and, if possible, introduce corrective actions that will address such concerns and mitigate contagion. The Indian government\u2019s expansion of deposit insurance in the Yes Bank 2020 case before placing the bank under a moratorium served that purpose. In the US\u2013Reserve Fund 2008 case, widespread redemptions among prime funds subsided after the Fed implemented the new facilities to provide liquidity to eligible funds (SEC 2010; SEC 2023; Shapiro 2012; US GAO 2023).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss2_1_p0169"
+          },
+          {
+            "doc_id": "vol7_iss2_1",
+            "chunk_id": "vol7_iss2_1_c0011",
+            "document_type": "survey",
+            "title": "Survey of Bank Holidays and Fund Suspensions",
+            "score": 0.561,
+            "text": "Document: Survey of Bank Holidays and Fund Suspensions\n\nIntroduction\n\nIn a banking crisis, depositors may rush to withdraw their money if they lose confidence in the viability of the banks and there is no credible government insurance. In a classic bank run, the bank may be on the verge of nonviability[8] within days. If depositors believe that other banks also are unstable, the run can spread throughout the system. Facing continued runs, policymakers provide liquidity and reassurance, which may work to calm the situation. But if it does not, policymakers may have few options and, in extreme situations, may impose a bank holiday to stop the run and buy time to address the underlying problem.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss2_1_p0010"
+          },
+          {
+            "doc_id": "vol4_iss4_4",
+            "chunk_id": "vol4_iss4_4_c0016",
+            "document_type": "survey",
+            "title": "Blanket Guarantees Survey",
+            "score": 0.561,
+            "text": "Document: Blanket Guarantees Survey\n\nIntroduction\n\nGovernment crisis interventions inevitably elevate moral hazard risks. For a bank, government interventions create an incentive to take more risk, since the bank\u2019s executives know they will benefit from the upside while the government will take the risk on the downside. For a bank\u2019s depositors and creditors, government interventions dilute the incentive to monitor their investments in the bank. We argue that the authorities\u2019 approach to moral hazard concerns should change as a crisis evolves from the acute phase to the chronic phase. In the acute phase\u2014where the programs studied here were introduced\u2014the over-riding priority is to stop runs by depositors and other creditors. In general, that means that authorities need to prioritize the immediate behavior of creditors over the potential long-run moral hazard risks. Amid uncertainty about bank solvency, for example, it would not be rational for creditors to do any deep analysis of their banks. The simplest response to solvency concerns is to withdraw one\u2019s funds, since withdrawal has only a nuisance cost but potentially a large benefit. Some have argued that such creditor runs can provide a check on moral hazard, but we argue that relying on creditor runs as a form of market discipline is not an efficient means for addressing moral hazard and could be disastrous during the acute phase of a crisis. Facing runs on banks, authorities should not pursue policies to mitigate moral hazard\u2014like executive compensation restrictions\u2014that could discourage banks from participating in a voluntary government liquidity program. On the other hand, governments in our BG cases have used various tools to prevent banks from taking advantage of blanket guarantees to compete aggressively for depositors, a moral hazard risk that also raises banks\u2019 costs of funding at a bad time. For example, authorities have capped the interest rates banks can pay on deposits and banned aggressive advertising of the government guarantee. Such policies can address potential moral hazards without seeming punitive, thus getting the advantage of reducing the potential distortions of the program without discouraging participation by banks.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss4_4_p0009"
+          }
+        ],
+        "total_found": 5
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "deposit guarantee blanket guarantee to stop bank runs"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol4_iss4_4",
+            "chunk_id": "vol4_iss4_4_c0010",
+            "document_type": "survey",
+            "title": "Blanket Guarantees Survey",
+            "score": 0.6993,
+            "text": "Document: Blanket Guarantees Survey\n\nIntroduction\n\nThe loss of short-term funding for banks and other financial intermediaries has accelerated financial crises throughout history. Often this loss has taken the form of a traditional bank run by depositors who have the right to access their funds on demand; their widespread withdrawal requests can spread in a crisis even to well-run financial institutions. Account guarantee (AG) programs emerged as a potential tool to prevent or reverse these runs (McNamara, Kulam, et al. 2022). By guaranteeing that deposits would be paid back even in the event of an institution\u2019s failure, these AG programs sought to eliminate the incentive to run. But the growing reliance of financial institutions on sources of funding beyond deposit accounts means that there are other types of short-term creditors with the ability and incentive to run during a crisis. This creates a potential need to guarantee other types of liabilities.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss4_4_p0009"
+          },
+          {
+            "doc_id": "vol4_iss4_12",
+            "chunk_id": "vol4_iss4_12_c0046",
+            "document_type": "case_study",
+            "title": "Korea: Blanket Guarantee, 1997",
+            "score": 0.6501,
+            "text": "Document: Korea: Blanket Guarantee, 1997\n\n_Deposit Guarantee_\n\nAt the initial announcement of a blanket deposit guarantee on November 19, 1997, the legislation applied to \u201cinsured bank[s],\u201d which included financial institutions authorized by Article 9(1) of the Banking Act and subject to deposit insurance (DPA 1997, art. 2 [1]). The term \u201cdeposit\u201d meant \u201cmoney raised by an insured bank through deposits, installment savings and money trusts, etc. by which a loss coverage contract has been concluded\u201d (DPA 1997, art. 2 [2]).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss4_12_p0044"
+          },
+          {
+            "doc_id": "vol4_iss4_4",
+            "chunk_id": "vol4_iss4_4_c0047",
+            "document_type": "survey",
+            "title": "Blanket Guarantees Survey",
+            "score": 0.6493,
+            "text": "Document: Blanket Guarantees Survey\n\n1. Purpose: What were the specific motivations for introducing the BG program? > Figure 3: Other Key Interventions Combined with BG Programs\n\nThe existence of a blanket guarantee can also prompt policymakers to undertake additional interventions. With guarantees leaving the state responsible for creditor losses stemming from failed institutions, policymakers may be inclined to take the steps necessary to prevent such failures. This might include interventions that policymakers would not normally consider. In Sweden, for example, the Riksbank extended liquidity to troubled banks on an unsecured basis\u2014that is, without imposing the central bank\u2019s usual collateral requirements\u2014because the government had already assumed responsibility for the banks\u2019 obligations through the blanket guarantee (Borio, Vale, and von Peter 2010; Lundgren 2009).[7]",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss4_4_p0044"
+          },
+          {
+            "doc_id": "vol4_iss4_4",
+            "chunk_id": "vol4_iss4_4_c0038",
+            "document_type": "survey",
+            "title": "Blanket Guarantees Survey",
+            "score": 0.6456,
+            "text": "Document: Blanket Guarantees Survey\n\n1. Purpose: What were the specific motivations for introducing the BG program? > Figure 2: Motivations by BG Program\n\nGiven that blanket guarantees are a far broader version of a tool\u2014deposit insurance\u2014that existed in several of the studied jurisdictions even before the crisis, several of the BG programs worked alongside deposit insurance systems. In Ireland, the CIFS acted as a supplement to the existing Deposit Guarantee Scheme (DGS). The DGS covered deposits up to EUR 100,000 (USD 140,000),[6] while the CIFS covered deposits above this amount and other liabilities not guaranteed by the DGS. Denmark\u2019s General Guarantee Scheme (GGS) supplemented an existing, privately funded deposit insurance system called the Guarantee Fund for Depositors and Investors, which covered deposits up to EUR 50,000.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss4_4_p0030"
+          },
+          {
+            "doc_id": "vol4_iss4_4",
+            "chunk_id": "vol4_iss4_4_l0116",
+            "document_type": "survey",
+            "title": "Blanket Guarantees Survey",
+            "score": 0.642,
+            "text": "Document: Blanket Guarantees Survey\n\n_Source: Authors\u2019 analysis._\n\n_Source: Authors\u2019 analysis._\n\nAll BG programs ultimately gave way to permanent, but more limited, deposit insurance schemes. As shown in Figure 8, while some of these deposit insurance schemes pre-dated the BG program in question, in most instances authorities specifically adopted such schemes as a means of replacing the BG programs. Similarly, the AG programs we studied in our earlier series typically evolved into permanent deposit insurance schemes. Kane and Klingebiel (2004) noted that one of the biggest challenges in introducing a blanket guarantee is how to then cut it back. A sudden shift from the full guarantee provided by a BG program to a far less expansive guarantee could be destabilizing. For that reason, several of the BG programs employed a phased approach to move away from a blanket guarantee. This typically involved a series of pre-defined points at which the amount of coverage provided or the liabilities that were eligible for coverage would be scaled back until the desired noncrisis level of coverage was reached.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": null
+          }
+        ],
+        "total_found": 15
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "emergency liquidity assistance lender of last resort solvency versus liquidity"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol4_iss2_3",
+            "chunk_id": "vol4_iss2_3_c0174",
+            "document_type": "survey",
+            "title": "Broad-Based Emergency Liquidity Programs",
+            "score": 0.7232,
+            "text": "Document: Broad-Based Emergency Liquidity Programs\n\n_Solvency and Viability Tests_\n\nCentral bankers generally support access to LOLR lending for solvent banks. However, they recognize that distinguishing illiquid from insolvent institutions is not easy and may be impossible in times of crisis (Domanski and Sushko 2014; Hauser 2014). As one group of central bankers concluded\u2014\u201cFirst, illiquidity tended to develop into insolvency crises the longer a crisis lasted; second, illiquidity and insolvency were not independent from the judgment of the authorities; and, third, solvency assessments by supervisors or analysts might be biased\u201d (Domanski and Sushko 2014). Further, a solvency decision depends on the value of assets. Assets are likely to be impaired in a crisis when valued at fire-sale prices but could regain their value if held and if a liquidity-related failure can be avoided (Domanski, Moessner, and Nelson 2014).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss2_3_p0168"
+          },
+          {
+            "doc_id": "vol7_iss1_3",
+            "chunk_id": "vol7_iss1_3_c0032",
+            "document_type": "survey",
+            "title": "Ad Hoc Emergency Liquidity Programs in the 21st Century",
+            "score": 0.7169,
+            "text": "Document: Ad Hoc Emergency Liquidity Programs in the 21st Century\n\nLiquidity versus Solvency\u2014versus Viability\n\nPractically speaking, balance sheet solvency is particularly difficult to evaluate in real time when considering the speed of a crisis, the delays and uncertainties of financial accounting, and the endogeneity of asset and franchise values to crisis responses (Dobler et al. 2016; Goodhart 1999; Kelly 2024a). Moreover, even if the central bank is able to ascertain solvency, but the firm is nonviable, the central bank may realize the risks typically ascribed to lending to insolvent institutions. That is, lending to nonviable firms increases the likelihood, relative to lending to an insolvent-but-viable firm, of the central bank\u2019s facing policy drawbacks such as: experiencing losses; reallocating losses between stakeholders; needing to take possession of too much, or difficult-to-manage, collateral; adding stigma to other firms taking liquidity assistance; or effectively drifting into fiscal policy or other political decision-making (Geithner 2019; Tucker 2014; Tucker 2020). By contrast, focusing on a systemically important firm\u2019s long-term viability, assuming whatever government support is financially",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss1_3_p0023"
+          },
+          {
+            "doc_id": "vol2_iss2_1",
+            "chunk_id": "vol2_iss2_1_c0115",
+            "document_type": "article",
+            "title": "Solvency as a Fundamental Constraint on LOLR Policy for Independent Central Banks: Principles, History, Law",
+            "score": 0.7024,
+            "text": "Document: Solvency as a Fundamental Constraint on LOLR Policy for Independent Central Banks: Principles, History, Law\n\nTelling the difference between solvency and liquidity problems\n\nIn the latter case, that can be for a number of reasons. For example, the books and papers of the borrower might be chaotic, or their integrity put in serious doubt (e.g. if the prospective borrower has been pulled down by an internal fraud). In those circumstances, the viability of the business might be in question, justifying a decision to decline assistance.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol2_iss2_1_p0098"
+          },
+          {
+            "doc_id": "vol2_iss2_1",
+            "chunk_id": "vol2_iss2_1_c0064",
+            "document_type": "article",
+            "title": "Solvency as a Fundamental Constraint on LOLR Policy for Independent Central Banks: Principles, History, Law",
+            "score": 0.6849,
+            "text": "Document: Solvency as a Fundamental Constraint on LOLR Policy for Independent Central Banks: Principles, History, Law\n\nTime-subordination in life and death\n\nIn consequence, liquidity assistance to a bust bank allows short-term unsecured creditors to be repaid at the expense of long-term creditors of the same rank. Imagine a firm with no equity, a short-term debt of 100, a long-term debt of 100, and assets of 100. Under liquidation (and assuming no costs of execution), each creditor receives 50, i.e. 50% recovery. If liquidity assistance is initially provided but the firm then goes into liquidation/bankruptcy, the shortterm creditor will be repaid in full, but the longer-term unsecured creditor receives nothing. (Presumably the central bank would have a claim to the assets as collateral for its liquidity assistance loan.)",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol2_iss2_1_p0057"
+          }
+        ],
+        "total_found": 15
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "distinguishing solvent from insolvent banks triage recapitalization"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol7_iss1_1",
+            "chunk_id": "vol7_iss1_1_c0030",
+            "document_type": "article",
+            "title": "Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution",
+            "score": 0.722,
+            "text": "Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\n\nThe Bank Recapitalization Game\n\nUnfortunately, in this phase, time is not on the side of regulators. There are few intervention tools, and fears of triggering runs are by now well justified. Forbearance serves as a delaying tactic but discourages private recovery actions. In the absence of new risk-absorbing capacity, it is ultimately a gamble that leads to even larger expected fiscal losses even for an initially solvent but undercapitalized bank.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss1_1_p0024"
+          },
+          {
+            "doc_id": "vol7_iss1_1",
+            "chunk_id": "vol7_iss1_1_c0166",
+            "document_type": "article",
+            "title": "Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution",
+            "score": 0.7109,
+            "text": "Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\n\nAppendix C: When Is a Bank Undercapitalized?\n\nPreventive bail-in measures must be targeted at banks deemed solvent but undercapitalized. If a bank is insolvent, resolution (ideally with adequate risk-absorbing capacity) is the sole legitimate policy. So, a credible and fair recovery regime requires a definition of a legitimate candidate bank that would benefit from going-concern bail-in measures, not least to stand legal scrutiny.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss1_1_p0165"
+          },
+          {
+            "doc_id": "vol7_iss1_1",
+            "chunk_id": "vol7_iss1_1_c0020",
+            "document_type": "article",
+            "title": "Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution",
+            "score": 0.6971,
+            "text": "Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\n\nII. A Regulatory Blind Spot\n\nConsider the current sequence of Pillar II intervention steps. A stress test evaluation may lead to conclude that the bank is insolvent, or potentially solvent but undercapitalized (Figure 1). In the first case, the supervisor must put in resolution the insolvent bank; the second case calls for a path to going-concern recapitalization. However, at present, there are no effective tools to support such a recovery, short of public risk absorption. We call this a serious intervention gap.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss1_1_p0016"
+          },
+          {
+            "doc_id": "vol7_iss1_1",
+            "chunk_id": "vol7_iss1_1_c0039",
+            "document_type": "article",
+            "title": "Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution",
+            "score": 0.694,
+            "text": "Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\n\nGoing-concern Bail-in\n\nAny reform aiming at a credible preventive recapitalization requires two steps. First, an increase in capital norms to be mandatorily satisfied by a minimum of CoCo capital, convertible on a higher trigger than currently admissible\u2014at least above the minimum capital conservation buffer of 7% of book equity over risk-weighted assets. Second, it will involve an enhanced Pillar II mandate to both enable and force authorities to activate conversion, upon a supervisory assessment that the bank is undercapitalized but solvent. A timely reduction in leverage will grant immediate breathing space and remove run incentives. Such a preventive recapitalization can be seen as a form of _\u201cin loco bancaruptae,\u201d_ a going-concern recapitalization that does not require default.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss1_1_p0038"
+          },
+          {
+            "doc_id": "vol7_iss1_1",
+            "chunk_id": "vol7_iss1_1_c0063",
+            "document_type": "article",
+            "title": "Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution",
+            "score": 0.6912,
+            "text": "Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\n\nResolving the Regulatory Gap\n\nFigure 6 sketches the possible responses to a potentially solvent but undercapitalized bank run. Currently, supervisors can only forebear or decide to voice their concerns about the bank status. Both options are likely to ultimately trigger runs and consequential bailouts. On the one hand, forbearance makes the capital deterioration continue up to the point when an adverse piece of news triggers the run. This was the case for SVB and, in part, Credits Suisse. On the other hand, raising public concerns and possibly triggering recovery measures such as going-concern bail-in would be helpful but remains currently not viable because of panic concerns.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss1_1_p0056"
+          }
+        ],
+        "total_found": 15
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "Reserve Primary Fund money market fund breaking the buck guarantee program 2008"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol7_iss2_9",
+            "chunk_id": "vol7_iss2_9_c0057",
+            "document_type": "case_study",
+            "title": "United States: Reserve Primary Fund Suspension, 2008",
+            "score": 0.7389,
+            "text": "Document: United States: Reserve Primary Fund Suspension, 2008\n\nKey Design Decisions > Figure 3: Prime Institutional Money Market Fund Flows\n\n> 6 The guarantee was funded by the then\u2013$50 billion Exchange Stabilization Fund. For more details on the temporary guarantee program, see Vergara (2022).\n\n> 7 The Reserve announced that the Primary II Fund, Reserve Liquid Performance Money Market Fund, and Treasury and Repo Fund, were also eligible to participate in the temporary guarantee program; however, it is not clear if these funds participated in the program (The Reserve 2008j). Wilson (2020) claims to have obtained, through FOIA, a list of all fund managers that received a guarantee, and Reserve is not on it.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss2_9_p0054"
+          },
+          {
+            "doc_id": "vol4_iss2_30",
+            "chunk_id": "vol4_iss2_30_c0006",
+            "document_type": "case_study",
+            "title": "United States: Temporary Guarantee Program for Money Market Funds",
+            "score": 0.7142,
+            "text": "Document: United States: Temporary Guarantee Program for Money Market Funds\n\nKey Terms\n\nFollowing Lehman Brothers\u2019s declaration of bankruptcy on September 15, 2008, the value of its commercial paper declined significantly (Kacperczyk and Schnabl 2010) **.** The Reserve Primary Fund, a money-market fund (MMF) that had $785 million of Lehman Brothers's commercial paper, was immediately affected (Kiss 2019; Kacperczyk and Schnabl 2010; McCabe 2010; SEC 2009). On September 16, 2008, these losses prompted the Reserve Primary Fund to \u201cbreak the buck,\u201d reporting a net asset value (NAV) of $0.97, which was less than the standard $1 per share value typically maintained by MMFs, as it did not have the resources to restore its NAV to $1 (Macey 2011; Kacperczyk and Schnabl 2010; SEC 2009). At the time, the Securities and Exchange Commission (SEC) only required MMF managers to report the market value of their holdings when their NAV fell to less than $0.995.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss2_30_p0005"
+          },
+          {
+            "doc_id": "vol7_iss2_9",
+            "chunk_id": "vol7_iss2_9_c0052",
+            "document_type": "case_study",
+            "title": "United States: Reserve Primary Fund Suspension, 2008",
+            "score": 0.7133,
+            "text": "Document: United States: Reserve Primary Fund Suspension, 2008\n\nKey Design Decisions\n\nOn September 19, the US Department of the Treasury announced the Temporary Guarantee Program for Money Market Funds to arrest the run on the MMFs, and it became operational on September 29 (Shapiro 2012). The temporary guarantee program was open to all MMFs regulated under Rule 2a-7 of the Investment Company Act of 1940 with a NAV of at least $0.995 as of September 19, 2008. For a quarterly fee, the Treasury would guarantee the share price of any eligible money market mutual fund that applied and paid for the program[6] (US Treasury 2008a). Figure 3 charts daily money market fund flows between August and December 2008.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss2_9_p0038"
+          },
+          {
+            "doc_id": "vol7_iss2_9",
+            "chunk_id": "vol7_iss2_9_c0014",
+            "document_type": "case_study",
+            "title": "United States: Reserve Primary Fund Suspension, 2008",
+            "score": 0.7122,
+            "text": "Document: United States: Reserve Primary Fund Suspension, 2008\n\nKey Terms\n\nMMF to ever break the buck, in other words, the second fund whose shares declined in value below $0.995 per share, the lowest point at which they could permissibly still be rounded to $1.00[3] (Gardephe 2010; The Reserve 2008a). On September 16, the Reserve also announced a seven-calendar-day redemption delay. The Reserve Yield Plus Fund and the Reserve International Liquidity Fund, Ltd., two other Reserve Funds, also broke the buck that day (The Reserve 2008b). The Reserve Primary Fund was the only money market fund that held Lehman debt securities and did not have an affiliate with sufficient resources to support a $1.00 per share NAV (US GAO 2023).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss2_9_p0009"
+          },
+          {
+            "doc_id": "vol4_iss2_30",
+            "chunk_id": "vol4_iss2_30_c0003",
+            "document_type": "case_study",
+            "title": "United States: Temporary Guarantee Program for Money Market Funds",
+            "score": 0.6944,
+            "text": "Document: United States: Temporary Guarantee Program for Money Market Funds\n\nAbstract\n\nOn September 16, 2008, following the collapse of Lehman Brothers, the Reserve Primary Fund \u201cbroke the buck,\u201d meaning that its net asset value (NAV) fell more than 0.5% below the $1 per share target value maintained by money-market funds (MMFs). When the Reserve Primary Fund could not restore the NAV, investors began withdrawing funds from MMFs, leading to a $439 billion run on the MMF market. To stop this run, the US Department of the Treasury established the Temporary Guarantee Program for Money Market Funds (the Guarantee Program), which insured investors\u2019 holdings in participating MMFs. The Guarantee Program was designed to protect assets held as of the announcement of the program on September 19, 2008. MMFs participating in the Guarantee Program paid a quarterly fee ranging from 1 to 1.5 basis points, depending on their NAV. The Guarantee Program, originally scheduled to last three months, was ultimately extended until September 18, 2009. During its year of operation, the Guarantee Program covered 93% of assets in the MMF market, equivalent to more than $3.2 trillion. There were no losses, and the Department of the Treasury did not make any payments through the Guarantee Program, generating a surplus of $1.2 billion in fees.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss2_30_p0002"
+          }
+        ],
+        "total_found": 15
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "blanket guarantee design coverage pricing fee duration eligibility conditions",
+        "document_type": "survey"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol4_iss4_4",
+            "chunk_id": "vol4_iss4_4_c0020",
+            "document_type": "survey",
+            "title": "Blanket Guarantees Survey",
+            "score": 0.5747,
+            "text": "Document: Blanket Guarantees Survey\nFigure \u2014 Figure 1: Programs Covered in This Survey\n\nIntroduction\n\n[FIGURE id=vol4_iss4_4_f1 type=figure page=7 label=\"Figure 1\" file=figure_1.png caption=\"Programs Covered in This Survey\"]",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss4_4_p0009"
+          },
+          {
+            "doc_id": "vol4_iss4_4",
+            "chunk_id": "vol4_iss4_4_c0101",
+            "document_type": "survey",
+            "title": "Blanket Guarantees Survey",
+            "score": 0.5675,
+            "text": "Document: Blanket Guarantees Survey\nFigure \u2014 Figure 7: BG Program Fees\n\n10. Fees: What fees, if any, did institutions have to pay as part of the BG program? Were such fees flat or risk based?\n\n[FIGURE id=vol4_iss4_4_f7 type=figure page=21 label=\"Figure 7\" file=figure_7.png caption=\"BG Program Fees\"]",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss4_4_p0099"
+          },
+          {
+            "doc_id": "vol4_iss4_4",
+            "chunk_id": "vol4_iss4_4_c0003",
+            "document_type": "survey",
+            "title": "Blanket Guarantees Survey",
+            "score": 0.543,
+            "text": "Document: Blanket Guarantees Survey\n\nAbstract\n\nThis paper surveys 10 blanket guarantee (BG) programs across 13 Key Design Decisions. The defining characteristics of these programs in terms of their inclusion in our BG series are (a) that they guaranteed a broader range of liabilities beyond deposit accounts and (b) that the guarantees covered existing liabilities in addition to newly issued ones. Each case represents an effort to eliminate creditors\u2019 incentive to withdraw funding from institutions by guaranteeing that the funding will be paid back even if the institutions are unable to do so themselves. The main themes that emerge are: (a) the inability of blanket guarantees to address underlying problems without complementary liquidity support and restructuring measures; (b) the importance of credibility, particularly as related to the amount of liabilities guaranteed relative to fiscal resources; (c) the need to address the moral hazards that a blanket guarantee creates, by restricting banks\u2019 behavior during the acute phase of a crisis\u2014 for example, through interest-rate caps or bans on aggressive marketing\u2014and by promising to increase official supervisory oversight as the crisis extends into its chronic phase; (d) the importance of effective communication; and (e) the importance of clear political support for a program that represents potentially substantial fiscal costs, which authorities may be unable to quantify at the time of the announcement.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss4_4_p0002"
+          },
+          {
+            "doc_id": "vol4_iss4_4",
+            "chunk_id": "vol4_iss4_4_c0023",
+            "document_type": "survey",
+            "title": "Blanket Guarantees Survey",
+            "score": 0.5371,
+            "text": "Document: Blanket Guarantees Survey\n\nIntroduction > Figure 1: Programs Covered in This Survey\n\n_Sources: Decker 2022a; Decker 2022b; George 2022a; George 2022b; George 2022c; Hoffner 2022; Makhija 2022a; Makhija 2022b; Schaefer-Brown 2022a; Schaefer-Brown 2022b._",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss4_4_p0021"
+          },
+          {
+            "doc_id": "vol4_iss4_4",
+            "chunk_id": "vol4_iss4_4_c0145",
+            "document_type": "survey",
+            "title": "Blanket Guarantees Survey",
+            "score": 0.5362,
+            "text": "Document: Blanket Guarantees Survey\n\nReferences\n\nHoffner, Benjamin. 2022. \u201cDenmark: General Guarantee Scheme, 2008.\u201d _Journal of Financial Crises_ 4, no. 4.\n\nhttps://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/6/\n\nInternational Association of Deposit Insurers (IADI). 2012. \u201cTransitioning from a Blanket Guarantee or Extending Coverage to a Limited Coverage System.\u201d https://ypfs.som.yale.edu/library/document/transitioning-blanket-guarantee-orextending-coverage-limited-coverage-system",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss4_4_p0126"
+          }
+        ],
+        "total_found": 15
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "costs and risks of blanket guarantee fiscal cost credibility government balance sheet"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol4_iss4_4",
+            "chunk_id": "vol4_iss4_4_c0082",
+            "document_type": "survey",
+            "title": "Blanket Guarantees Survey",
+            "score": 0.6247,
+            "text": "Document: Blanket Guarantees Survey\n\n6. Communication: How did policymakers describe the need for and objectives of the BG program? Were there any special communication issues?\n\nThe CIFS in Ireland was the focus of widespread uncertainty from the outset. In its first response to the CIFS released days after the program\u2019s announcement, the European Central Bank (ECB) highlighted its concern that the size of the government\u2019s exposure was \u201cvery large\u201d at a time when the Irish budget was already deteriorating (ECB 2008). Such concerns undermined the credibility of the CIFS. The Irish example also illustrates that a blanket guarantee can end up imposing significant fiscal costs on the state. To avoid the failure of institutions covered by the guarantee, Irish authorities undertook costly rescue operations. Ultimately, the overall cost of the Irish response to its banking crisis totaled around 40% of GDP, the second costliest in advanced economies since the Great Depression (IMF 2012).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss4_4_p0071"
+          },
+          {
+            "doc_id": "vol4_iss4_4",
+            "chunk_id": "vol4_iss4_4_c0120",
+            "document_type": "survey",
+            "title": "Blanket Guarantees Survey",
+            "score": 0.6234,
+            "text": "Document: Blanket Guarantees Survey\n\nConclusion\n\n**For BG programs to be effective, they must be credible, particularly as related to the amount of liabilities guaranteed relative to fiscal resources.** To be successful, guarantees of any type must make creditors confident that they will have full and prompt access to their guaranteed funds (see McNamara, Feldberg, et al. 2020; McNamara, Kulam, et al. 2022). Particularly given the expansiveness of BG programs relative to most AG and DG programs, the amount of liabilities covered relative to the fiscal resources of the guarantor can be important in determining the credibility of a BG program. In cases such as Ecuador, Ireland, and Thailand, questions about the ability of the state to actually make good on its guarantee hindered the effectiveness of BG programs. As the Irish example illustrates, a blanket guarantee that is too large relative to fiscal resources can also end up placing enormous strain on national budgets. On the flip side, where countries are able to demonstrate that their BG programs work as intended, credibility and creditor confidence improve over time as was the case in Indonesia and Thailand.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss4_4_p0117"
+          },
+          {
+            "doc_id": "vol4_iss4_4",
+            "chunk_id": "vol4_iss4_4_c0012",
+            "document_type": "survey",
+            "title": "Blanket Guarantees Survey",
+            "score": 0.6172,
+            "text": "Document: Blanket Guarantees Survey\n\nIntroduction\n\nThe main body of the paper analyzes 13 Key Design Decisions. Wherever possible, we explore why policymakers responded the way they did. The paper seeks to distill important considerations for policymakers when establishing BG programs. Among the themes that emerge are (a) the inability of blanket guarantees to address underlying problems without complementary liquidity support and restructuring measures; (b) the importance of credibility, particularly as related to the amount of liabilities guaranteed relative to fiscal resources; (c) the need to address the moral hazard that a blanket guarantee creates, by restricting banks\u2019 behavior during the acute phase of a crisis\u2014for example, through interestrate caps or bans on aggressive marketing\u2014and promising to increase official supervisory oversight as the crisis extends into its chronic phase; (d) the importance of effective communication; and (e) the importance of clear political support for a program that represents potentially substantial fiscal costs, which authorities may be unable to quantify at the time of the announcement.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss4_4_p0009"
+          },
+          {
+            "doc_id": "vol4_iss4_11",
+            "chunk_id": "vol4_iss4_11_c0017",
+            "document_type": "case_study",
+            "title": "Jamaica: FINSAC Blanket Guarantee, 1997",
+            "score": 0.5838,
+            "text": "Document: Jamaica: FINSAC Blanket Guarantee, 1997\n\nSummary Evaluation\n\nA former FINSAC chairman argued that issues of moral hazard arose with the extension of the blanket guarantee. He said that following the announcement of the explicit blanket guarantee, business managers may have converted liabilities into the categories guaranteed by the government. According to Kirkpatrick and Tennant of the World Bank, in the period prior to the explicit guarantee, the individual guarantees provided to Blaise Trust and Century National Bank resulted in the sense of an implicit guarantee of all deposits. Kirkpatrick and Tennant report that criticisms of the guarantee focused on its primarily benefiting a very wealthy minority of the population as well as fostering risk-taking and imprudence during a time of economic uncertainty (Bonnick 1998; Kirkpatrick and Tennant 2002).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss4_11_p0014"
+          },
+          {
+            "doc_id": "vol2_iss1_4",
+            "chunk_id": "vol2_iss1_4_c0006",
+            "document_type": "case_study",
+            "title": "Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis",
+            "score": 0.5834,
+            "text": "Document: Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis\n\nGuarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis[1] > 1. Introduction\n\nThese guarantees, however, have their downside. Despite the low upfront cost, guarantees still carry a considerable risk to taxpayers. There is always a possibility that, if the guaranteed assets radically declined in value, especially in a volatile and unstable market, taxpayers could suffer enormous losses. They could also create moral hazard and price distortions in the market (Ibid., 2009).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol2_iss1_4_p0003"
+          }
+        ],
+        "total_found": 15
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "stress test asset quality review to restore confidence during crisis"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol2_iss1_5",
+            "chunk_id": "vol2_iss1_5_c0028",
+            "document_type": "case_study",
+            "title": "Guarantees and Capital Infusions in Response to Financial Crises C: U.S. 2009 Stress Test",
+            "score": 0.6754,
+            "text": "Document: Guarantees and Capital Infusions in Response to Financial Crises C: U.S. 2009 Stress Test\n\n_Test Design_ > Figure 1: SCAP Economic Scenarios\n\nParticular focus centered on losses in available-for-sale (AFS) and held-to-maturity (HTM) portfolios, as well as counterparty credit risk. Losses in these items would ultimately represent the largest share of total losses. Supervisors analyzed whether securitized assets would become impaired over their lifetime\u2014if this were the case, and if credit support was insufficient to cover expected losses, the security was written down to fair value.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol2_iss1_5_p0022"
+          },
+          {
+            "doc_id": "vol2_iss1_5",
+            "chunk_id": "vol2_iss1_5_c0019",
+            "document_type": "case_study",
+            "title": "Guarantees and Capital Infusions in Response to Financial Crises C: U.S. 2009 Stress Test",
+            "score": 0.6497,
+            "text": "Document: Guarantees and Capital Infusions in Response to Financial Crises C: U.S. 2009 Stress Test\n\n_Test Design_\n\nThe SCAP involved the projection of losses on loans, assets held in investment portfolios, and trading-related exposures as well as the firm\u2019s capacity to absorb losses that all combined to determine a sufficient capital level to support lending under a worse-than-expected macroeconomic scenario. Given the heightened uncertainty about the economic outlook and losses in the banking system and the possibility for adverse economic outcomes to be magnified through the banking system, supervisors believed it \u201cprudent for large BHCs to hold substantial capital to absorb losses\u201d should the economic downturn be longer and deeper than anticipated (FRS April 2009). In this sense, the tests represented a set of \u201cwhatif\u201d scenarios and were not a set of estimates or projections (FRS May 2009, page 14).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol2_iss1_5_p0018"
+          },
+          {
+            "doc_id": "vol3_iss1_1",
+            "chunk_id": "vol3_iss1_1_c0003",
+            "document_type": "article",
+            "title": "Stress Tests and Policy",
+            "score": 0.6485,
+            "text": "Document: Stress Tests and Policy\n\nI. Introduction\n\nThe United States Federal Reserve\u2019s (the \u201cFed\u201d) Supervisory Capital Assessment Program (SCAP) in the spring of 2009 was a revelation for bank supervisors. They escaped their traditional, balance-sheet-driven model to ask, in a forward-looking way, what will it take for these firms to survive if the crisis gets even worse? Fed Vice Chair Randy Quarles recently called this the Fed\u2019s newly found role to provide \u201canalysis of last resort\u201d in a crisis (Quarles, 2019). Since the previous autumn, amidst the worst financial crisis in decades, the government had invested tens of billions of dollars in banks that passed a more traditional, point-in-time viability test through the Capital Purchase Program, but investors remained skittish. The supervisory stress-test exercise, because it credibly sized the potential capital needs of the largest banks, is broadly seen as having done much more to reassure markets than those earlier efforts.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol3_iss1_1_p0002"
+          },
+          {
+            "doc_id": "vol2_iss1_5",
+            "chunk_id": "vol2_iss1_5_c0014",
+            "document_type": "case_study",
+            "title": "Guarantees and Capital Infusions in Response to Financial Crises C: U.S. 2009 Stress Test",
+            "score": 0.6431,
+            "text": "Document: Guarantees and Capital Infusions in Response to Financial Crises C: U.S. 2009 Stress Test\n\n2.  Supervisory Capital Assistance Program (SCAP)\n\nWhile the SCAP was similar to stress tests that firms undertook as part of their ongoing risk management, the objective of this program was \u201cto conduct a comprehensive and consistent assessment simultaneously\u201d across the largest BHCs using a common set of macroeconomic scenarios and a common forward-looking conceptual framework. This framework allowed supervisors to apply a consistent and systematic approach across firms to evaluate projected losses and resource estimates submitted by the firms and to conduct cross-firm analysis on the aggregate. The SCAP was considerably more comprehensive than stress tests that focus on individual business lines because it simultaneously incorporated all major assets and revenue sources for each firm (FRS April 2009).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol2_iss1_5_p0012"
+          },
+          {
+            "doc_id": "vol3_iss1_1",
+            "chunk_id": "vol3_iss1_1_c0013",
+            "document_type": "article",
+            "title": "Stress Tests and Policy",
+            "score": 0.6342,
+            "text": "Document: Stress Tests and Policy\n\nII. Observations\n\nentities. Of course, those portfolios can be a challenge for bankers as well. The capital hole that the largest banks had to fill in 2008 was largely caused by their own failure to understand the risks they had retained in highly rated securities and derivative exposures against which they held little or no capital before the crisis.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol3_iss1_1_p0009"
+          }
+        ],
+        "total_found": 15
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "stress test disclosure results credible capital backstop private capital raise restore confidence outcome",
+        "document_type": "lesson_learned"
+      },
+      "result": {
+        "results": [],
+        "total_found": 0
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "capital injection public recapitalization program conditions terms banks government equity",
+        "document_type": "survey"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol4_iss1_1",
+            "chunk_id": "vol4_iss1_1_c0172",
+            "document_type": "survey",
+            "title": "Broad-Based Capital Injection Programs",
+            "score": 0.717,
+            "text": "Document: Broad-Based Capital Injection Programs\n\n15. Other Conditions: Should recapitalization come with nonprice conditions to incentivize banks to exit government support quickly?\n\nConditions requiring participating banks to increase or maintain lending to individuals and small businesses or certain core industry sectors are politically tempting but carry risks. A relatively benign implementation requires only a plan and some reporting. For example, the US CAP (GFC) required participating banks to submit a plan for how they intended to use the capital to increase lending activities above levels that would have been possible without government support. It also required banks to submit regular reports on their lending by category and to compare that lending to estimates of what lending would have been without government support.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss1_1_p0168"
+          },
+          {
+            "doc_id": "vol4_iss1_1",
+            "chunk_id": "vol4_iss1_1_c0028",
+            "document_type": "survey",
+            "title": "Broad-Based Capital Injection Programs",
+            "score": 0.6803,
+            "text": "Document: Broad-Based Capital Injection Programs\n\nKey Design Decisions\n\nIn 13 of the 36 cases, recapitalization was combined with a government program to purchase or guarantee nonperforming loans (NPLs) from those banks. In Spain, the purchase or guarantee of NPLs came after the recapitalization was in progress. In Hungary, Israel, South Korea, and Thailand, governments also enforced banking sector reform with the recapitalization program. Studies of past capital injection programs during the Asian Financial Crisis suggest that bank restructuring and impaired-asset purchases are both complementary to recapitalization, since the goal of recapitalization is to restore and reassure \u201csustainable cash-based profitability\u201d (Enoch, Garcia, and Sundararajan 2001; Scott 2002). Brei et al. (2020) conclude that recapitalization is often ineffective without an NPL strategy, and vice versa.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss1_1_p0025"
+          },
+          {
+            "doc_id": "vol4_iss1_1",
+            "chunk_id": "vol4_iss1_1_c0108",
+            "document_type": "survey",
+            "title": "Broad-Based Capital Injection Programs",
+            "score": 0.6653,
+            "text": "Document: Broad-Based Capital Injection Programs\n\n_Raising Private Capital_\n\nIn others, the authorities did not require but incentivized the participating banks to raise private capital first through existing or new shareholders. The UK Bank Recapitalisation Scheme required institutions that chose to issue ordinary shares to first offer to sell additional shares to existing shareholders; the government acted as the underwriter of any of these offers. However, the UK BBCI did not require shareholders to take the offer, unlike Mexico and Indonesia. The UK government purchased any shares that were not purchased by existing shareholders at the \u201cmaximum permitted discount of 10% to the share price\u201d (Kroes 2008).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss1_1_p0105"
+          },
+          {
+            "doc_id": "vol4_iss1_1",
+            "chunk_id": "vol4_iss1_1_c0133",
+            "document_type": "survey",
+            "title": "Broad-Based Capital Injection Programs",
+            "score": 0.6512,
+            "text": "Document: Broad-Based Capital Injection Programs\n\n10. Capital Characteristics: What form of capital is injected? > Figure 7: Capital Characteristics and Phase of Crises\n\nIn Ireland, the preferred shares came with warrants giving the government the right to purchase 25% of the common shares of each bank after five years. The strike prices for these warrants were in each bank\u2019s case less than 1 euro. A bank could reduce the government\u2019s rights under the warrant to as low as 15% of the common shares if the bank redeemed the preferred shares up to EUR1.5 billion by the end of 2009. This tranche of warrants that the banks could eliminate had a materially lower strike price than the rest of the warrants, aiming to encourage banks to expediently replace government capital with new private capital (European Commission 2009d, 7; European Commission 2009e, 7). The government could not vote more than half of the votes associated with any shares it received through exercise of the warrant, but if these shares were transferred to a nongovernment third party, full voting privileges became reinstated (Department of Finance 2009). US CPP had a similar voting restriction on common shares acquired by the exercise of warrants.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss1_1_p0114"
+          },
+          {
+            "doc_id": "vol4_iss1_1",
+            "chunk_id": "vol4_iss1_1_c0153",
+            "document_type": "survey",
+            "title": "Broad-Based Capital Injection Programs",
+            "score": 0.6502,
+            "text": "Document: Broad-Based Capital Injection Programs\n\n12. Allocation of losses for existing stakeholders: Were there any write-downs of the value for existing equity?\n\nIn Thailand\u2019s 1998 program, banks receiving Tier 1 capital were required to write down the equity value, forcing losses on existing shareholders, and to allow the government to change management and boards of directors. These relatively punitive terms have split opinion in the typical fashion. Some commentators argue that such punitive terms in a voluntary program reduced participation and delayed the recapitalization of the sector (World Bank 2000). Others applaud the incentives created to raise capital privately so as to avoid the punitive terms (Scott 2002). This trade-off will always exist, and future designers should not expect that they will get only one side of it.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss1_1_p0148"
+          }
+        ],
+        "total_found": 15
+      }
+    }
+  ],
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "I'll research how similar situations have been handled in past financial crises before giving you a grounded assessment.",
+      "refusal": null,
+      "reasoning": null,
+      "tool_calls": [
+        {
+          "type": "function",
+          "index": 0,
+          "id": "toolu_012q23HWszC9krmTBfzTChVu",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"government response to bank runs contagion uncertainty about exposures\", \"document_type\": \"survey\"}"
+          }
+        },
+        {
+          "type": "function",
+          "index": 1,
+          "id": "toolu_01QfUz7vRTWBKXEtkGduasrs",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"deposit guarantee blanket guarantee to stop bank runs\"}"
+          }
+        },
+        {
+          "type": "function",
+          "index": 2,
+          "id": "toolu_019LVqkSPZMRfq5RurLiYuuT",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"emergency liquidity assistance lender of last resort solvency versus liquidity\"}"
+          }
+        },
+        {
+          "type": "function",
+          "index": 3,
+          "id": "toolu_01BtRDz1A7ALKZfr15MfFok6",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"distinguishing solvent from insolvent banks triage recapitalization\"}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_012q23HWszC9krmTBfzTChVu",
+      "content": "{\"results\": [{\"doc_id\": \"vol7_iss2_1\", \"chunk_id\": \"vol7_iss2_1_c0180\", \"document_type\": \"survey\", \"title\": \"Survey of Bank Holidays and Fund Suspensions\", \"score\": 0.6008, \"text\": \"Document: Survey of Bank Holidays and Fund Suspensions\\n\\nConclusion\\n\\nEven when authorities impose a bank holiday or restrictions on only one or a few banks, contagion is a risk, which in turn can trigger fear about the health of the entire financial system (Duvvuri 2024). Depositors are aware that financial institutions are interconnected. Policymakers should anticipate such risks and, if possible, introduce corrective actions that will address such concerns and mitigate contagion. The Indian government\\u2019s expansion of deposit insurance in the Yes Bank 2020 case before placing the bank under a moratorium served that purpose. In the US\\u2013Reserve Fund 2008 case, widespread redemptions among prime funds subsided after the Fed implemented the new facilities to provide liquidity to eligible funds (SEC 2010; SEC 2023; Shapiro 2012; US GAO 2023).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss2_1_p0169\"}, {\"doc_id\": \"vol7_iss2_1\", \"chunk_id\": \"vol7_iss2_1_c0011\", \"document_type\": \"survey\", \"title\": \"Survey of Bank Holidays and Fund Suspensions\", \"score\": 0.561, \"text\": \"Document: Survey of Bank Holidays and Fund Suspensions\\n\\nIntroduction\\n\\nIn a banking crisis, depositors may rush to withdraw their money if they lose confidence in the viability of the banks and there is no credible government insurance. In a classic bank run, the bank may be on the verge of nonviability[8] within days. If depositors believe that other banks also are unstable, the run can spread throughout the system. Facing continued runs, policymakers provide liquidity and reassurance, which may work to calm the situation. But if it does not, policymakers may have few options and, in extreme situations, may impose a bank holiday to stop the run and buy time to address the underlying problem.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss2_1_p0010\"}, {\"doc_id\": \"vol4_iss4_4\", \"chunk_id\": \"vol4_iss4_4_c0016\", \"document_type\": \"survey\", \"title\": \"Blanket Guarantees Survey\", \"score\": 0.561, \"text\": \"Document: Blanket Guarantees Survey\\n\\nIntroduction\\n\\nGovernment crisis interventions inevitably elevate moral hazard risks. For a bank, government interventions create an incentive to take more risk, since the bank\\u2019s executives know they will benefit from the upside while the government will take the risk on the downside. For a bank\\u2019s depositors and creditors, government interventions dilute the incentive to monitor their investments in the bank. We argue that the authorities\\u2019 approach to moral hazard concerns should change as a crisis evolves from the acute phase to the chronic phase. In the acute phase\\u2014where the programs studied here were introduced\\u2014the over-riding priority is to stop runs by depositors and other creditors. In general, that means that authorities need to prioritize the immediate behavior of creditors over the potential long-run moral hazard risks. Amid uncertainty about bank solvency, for example, it would not be rational for creditors to do any deep analysis of their banks. The simplest response to solvency concerns is to withdraw one\\u2019s funds, since withdrawal has only a nuisance cost but potentially a large benefit. Some have argued that such creditor runs can provide a check on moral hazard, but we argue that relying on creditor runs as a form of market discipline is not an efficient means for addressing moral hazard and could be disastrous during the acute phase of a crisis. Facing runs on banks, authorities should not pursue policies to mitigate moral hazard\\u2014like executive compensation restrictions\\u2014that could discourage banks from participating in a voluntary government liquidity program. On the other hand, governments in our BG cases have used various tools to prevent banks from taking advantage of blanket guarantees to compete aggressively for depositors, a moral hazard risk that also raises banks\\u2019 costs of funding at a bad time. For example, authorities have capped the interest rates banks can pay on deposits and banned aggressive advertising of the government guarantee. Such policies can address potential moral hazards without seeming punitive, thus getting the advantage of reducing the potential distortions of the program without discouraging participation by banks.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss4_4_p0009\"}], \"total_found\": 5}"
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_01QfUz7vRTWBKXEtkGduasrs",
+      "content": "{\"results\": [{\"doc_id\": \"vol4_iss4_4\", \"chunk_id\": \"vol4_iss4_4_c0010\", \"document_type\": \"survey\", \"title\": \"Blanket Guarantees Survey\", \"score\": 0.6993, \"text\": \"Document: Blanket Guarantees Survey\\n\\nIntroduction\\n\\nThe loss of short-term funding for banks and other financial intermediaries has accelerated financial crises throughout history. Often this loss has taken the form of a traditional bank run by depositors who have the right to access their funds on demand; their widespread withdrawal requests can spread in a crisis even to well-run financial institutions. Account guarantee (AG) programs emerged as a potential tool to prevent or reverse these runs (McNamara, Kulam, et al. 2022). By guaranteeing that deposits would be paid back even in the event of an institution\\u2019s failure, these AG programs sought to eliminate the incentive to run. But the growing reliance of financial institutions on sources of funding beyond deposit accounts means that there are other types of short-term creditors with the ability and incentive to run during a crisis. This creates a potential need to guarantee other types of liabilities.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss4_4_p0009\"}, {\"doc_id\": \"vol4_iss4_12\", \"chunk_id\": \"vol4_iss4_12_c0046\", \"document_type\": \"case_study\", \"title\": \"Korea: Blanket Guarantee, 1997\", \"score\": 0.6501, \"text\": \"Document: Korea: Blanket Guarantee, 1997\\n\\n_Deposit Guarantee_\\n\\nAt the initial announcement of a blanket deposit guarantee on November 19, 1997, the legislation applied to \\u201cinsured bank[s],\\u201d which included financial institutions authorized by Article 9(1) of the Banking Act and subject to deposit insurance (DPA 1997, art. 2 [1]). The term \\u201cdeposit\\u201d meant \\u201cmoney raised by an insured bank through deposits, installment savings and money trusts, etc. by which a loss coverage contract has been concluded\\u201d (DPA 1997, art. 2 [2]).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss4_12_p0044\"}, {\"doc_id\": \"vol4_iss4_4\", \"chunk_id\": \"vol4_iss4_4_c0047\", \"document_type\": \"survey\", \"title\": \"Blanket Guarantees Survey\", \"score\": 0.6493, \"text\": \"Document: Blanket Guarantees Survey\\n\\n1. Purpose: What were the specific motivations for introducing the BG program? > Figure 3: Other Key Interventions Combined with BG Programs\\n\\nThe existence of a blanket guarantee can also prompt policymakers to undertake additional interventions. With guarantees leaving the state responsible for creditor losses stemming from failed institutions, policymakers may be inclined to take the steps necessary to prevent such failures. This might include interventions that policymakers would not normally consider. In Sweden, for example, the Riksbank extended liquidity to troubled banks on an unsecured basis\\u2014that is, without imposing the central bank\\u2019s usual collateral requirements\\u2014because the government had already assumed responsibility for the banks\\u2019 obligations through the blanket guarantee (Borio, Vale, and von Peter 2010; Lundgren 2009).[7]\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss4_4_p0044\"}, {\"doc_id\": \"vol4_iss4_4\", \"chunk_id\": \"vol4_iss4_4_c0038\", \"document_type\": \"survey\", \"title\": \"Blanket Guarantees Survey\", \"score\": 0.6456, \"text\": \"Document: Blanket Guarantees Survey\\n\\n1. Purpose: What were the specific motivations for introducing the BG program? > Figure 2: Motivations by BG Program\\n\\nGiven that blanket guarantees are a far broader version of a tool\\u2014deposit insurance\\u2014that existed in several of the studied jurisdictions even before the crisis, several of the BG programs worked alongside deposit insurance systems. In Ireland, the CIFS acted as a supplement to the existing Deposit Guarantee Scheme (DGS). The DGS covered deposits up to EUR 100,000 (USD 140,000),[6] while the CIFS covered deposits above this amount and other liabilities not guaranteed by the DGS. Denmark\\u2019s General Guarantee Scheme (GGS) supplemented an existing, privately funded deposit insurance system called the Guarantee Fund for Depositors and Investors, which covered deposits up to EUR 50,000.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss4_4_p0030\"}, {\"doc_id\": \"vol4_iss4_4\", \"chunk_id\": \"vol4_iss4_4_l0116\", \"document_type\": \"survey\", \"title\": \"Blanket Guarantees Survey\", \"score\": 0.642, \"text\": \"Document: Blanket Guarantees Survey\\n\\n_Source: Authors\\u2019 analysis._\\n\\n_Source: Authors\\u2019 analysis._\\n\\nAll BG programs ultimately gave way to permanent, but more limited, deposit insurance schemes. As shown in Figure 8, while some of these deposit insurance schemes pre-dated the BG program in question, in most instances authorities specifically adopted such schemes as a means of replacing the BG programs. Similarly, the AG programs we studied in our earlier series typically evolved into permanent deposit insurance schemes. Kane and Klingebiel (2004) noted that one of the biggest challenges in introducing a blanket guarantee is how to then cut it back. A sudden shift from the full guarantee provided by a BG program to a far less expansive guarantee could be destabilizing. For that reason, several of the BG programs employed a phased approach to move away from a blanket guarantee. This typically involved a series of pre-defined points at which the amount of coverage provided or the liabilities that were eligible for coverage would be scaled back until the desired noncrisis level of coverage was reached.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": null}], \"total_found\": 15}"
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_019LVqkSPZMRfq5RurLiYuuT",
+      "content": "{\"results\": [{\"doc_id\": \"vol4_iss2_3\", \"chunk_id\": \"vol4_iss2_3_c0174\", \"document_type\": \"survey\", \"title\": \"Broad-Based Emergency Liquidity Programs\", \"score\": 0.7232, \"text\": \"Document: Broad-Based Emergency Liquidity Programs\\n\\n_Solvency and Viability Tests_\\n\\nCentral bankers generally support access to LOLR lending for solvent banks. However, they recognize that distinguishing illiquid from insolvent institutions is not easy and may be impossible in times of crisis (Domanski and Sushko 2014; Hauser 2014). As one group of central bankers concluded\\u2014\\u201cFirst, illiquidity tended to develop into insolvency crises the longer a crisis lasted; second, illiquidity and insolvency were not independent from the judgment of the authorities; and, third, solvency assessments by supervisors or analysts might be biased\\u201d (Domanski and Sushko 2014). Further, a solvency decision depends on the value of assets. Assets are likely to be impaired in a crisis when valued at fire-sale prices but could regain their value if held and if a liquidity-related failure can be avoided (Domanski, Moessner, and Nelson 2014).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss2_3_p0168\"}, {\"doc_id\": \"vol7_iss1_3\", \"chunk_id\": \"vol7_iss1_3_c0032\", \"document_type\": \"survey\", \"title\": \"Ad Hoc Emergency Liquidity Programs in the 21st Century\", \"score\": 0.7169, \"text\": \"Document: Ad Hoc Emergency Liquidity Programs in the 21st Century\\n\\nLiquidity versus Solvency\\u2014versus Viability\\n\\nPractically speaking, balance sheet solvency is particularly difficult to evaluate in real time when considering the speed of a crisis, the delays and uncertainties of financial accounting, and the endogeneity of asset and franchise values to crisis responses (Dobler et al. 2016; Goodhart 1999; Kelly 2024a). Moreover, even if the central bank is able to ascertain solvency, but the firm is nonviable, the central bank may realize the risks typically ascribed to lending to insolvent institutions. That is, lending to nonviable firms increases the likelihood, relative to lending to an insolvent-but-viable firm, of the central bank\\u2019s facing policy drawbacks such as: experiencing losses; reallocating losses between stakeholders; needing to take possession of too much, or difficult-to-manage, collateral; adding stigma to other firms taking liquidity assistance; or effectively drifting into fiscal policy or other political decision-making (Geithner 2019; Tucker 2014; Tucker 2020). By contrast, focusing on a systemically important firm\\u2019s long-term viability, assuming whatever government support is financially\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss1_3_p0023\"}, {\"doc_id\": \"vol2_iss2_1\", \"chunk_id\": \"vol2_iss2_1_c0115\", \"document_type\": \"article\", \"title\": \"Solvency as a Fundamental Constraint on LOLR Policy for Independent Central Banks: Principles, History, Law\", \"score\": 0.7024, \"text\": \"Document: Solvency as a Fundamental Constraint on LOLR Policy for Independent Central Banks: Principles, History, Law\\n\\nTelling the difference between solvency and liquidity problems\\n\\nIn the latter case, that can be for a number of reasons. For example, the books and papers of the borrower might be chaotic, or their integrity put in serious doubt (e.g. if the prospective borrower has been pulled down by an internal fraud). In those circumstances, the viability of the business might be in question, justifying a decision to decline assistance.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol2_iss2_1_p0098\"}, {\"doc_id\": \"vol2_iss2_1\", \"chunk_id\": \"vol2_iss2_1_c0064\", \"document_type\": \"article\", \"title\": \"Solvency as a Fundamental Constraint on LOLR Policy for Independent Central Banks: Principles, History, Law\", \"score\": 0.6849, \"text\": \"Document: Solvency as a Fundamental Constraint on LOLR Policy for Independent Central Banks: Principles, History, Law\\n\\nTime-subordination in life and death\\n\\nIn consequence, liquidity assistance to a bust bank allows short-term unsecured creditors to be repaid at the expense of long-term creditors of the same rank. Imagine a firm with no equity, a short-term debt of 100, a long-term debt of 100, and assets of 100. Under liquidation (and assuming no costs of execution), each creditor receives 50, i.e. 50% recovery. If liquidity assistance is initially provided but the firm then goes into liquidation/bankruptcy, the shortterm creditor will be repaid in full, but the longer-term unsecured creditor receives nothing. (Presumably the central bank would have a claim to the assets as collateral for its liquidity assistance loan.)\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol2_iss2_1_p0057\"}], \"total_found\": 15}"
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_01BtRDz1A7ALKZfr15MfFok6",
+      "content": "{\"results\": [{\"doc_id\": \"vol7_iss1_1\", \"chunk_id\": \"vol7_iss1_1_c0030\", \"document_type\": \"article\", \"title\": \"Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\", \"score\": 0.722, \"text\": \"Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\\n\\nThe Bank Recapitalization Game\\n\\nUnfortunately, in this phase, time is not on the side of regulators. There are few intervention tools, and fears of triggering runs are by now well justified. Forbearance serves as a delaying tactic but discourages private recovery actions. In the absence of new risk-absorbing capacity, it is ultimately a gamble that leads to even larger expected fiscal losses even for an initially solvent but undercapitalized bank.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss1_1_p0024\"}, {\"doc_id\": \"vol7_iss1_1\", \"chunk_id\": \"vol7_iss1_1_c0166\", \"document_type\": \"article\", \"title\": \"Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\", \"score\": 0.7109, \"text\": \"Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\\n\\nAppendix C: When Is a Bank Undercapitalized?\\n\\nPreventive bail-in measures must be targeted at banks deemed solvent but undercapitalized. If a bank is insolvent, resolution (ideally with adequate risk-absorbing capacity) is the sole legitimate policy. So, a credible and fair recovery regime requires a definition of a legitimate candidate bank that would benefit from going-concern bail-in measures, not least to stand legal scrutiny.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss1_1_p0165\"}, {\"doc_id\": \"vol7_iss1_1\", \"chunk_id\": \"vol7_iss1_1_c0020\", \"document_type\": \"article\", \"title\": \"Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\", \"score\": 0.6971, \"text\": \"Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\\n\\nII. A Regulatory Blind Spot\\n\\nConsider the current sequence of Pillar II intervention steps. A stress test evaluation may lead to conclude that the bank is insolvent, or potentially solvent but undercapitalized (Figure 1). In the first case, the supervisor must put in resolution the insolvent bank; the second case calls for a path to going-concern recapitalization. However, at present, there are no effective tools to support such a recovery, short of public risk absorption. We call this a serious intervention gap.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss1_1_p0016\"}, {\"doc_id\": \"vol7_iss1_1\", \"chunk_id\": \"vol7_iss1_1_c0039\", \"document_type\": \"article\", \"title\": \"Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\", \"score\": 0.694, \"text\": \"Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\\n\\nGoing-concern Bail-in\\n\\nAny reform aiming at a credible preventive recapitalization requires two steps. First, an increase in capital norms to be mandatorily satisfied by a minimum of CoCo capital, convertible on a higher trigger than currently admissible\\u2014at least above the minimum capital conservation buffer of 7% of book equity over risk-weighted assets. Second, it will involve an enhanced Pillar II mandate to both enable and force authorities to activate conversion, upon a supervisory assessment that the bank is undercapitalized but solvent. A timely reduction in leverage will grant immediate breathing space and remove run incentives. Such a preventive recapitalization can be seen as a form of _\\u201cin loco bancaruptae,\\u201d_ a going-concern recapitalization that does not require default.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss1_1_p0038\"}, {\"doc_id\": \"vol7_iss1_1\", \"chunk_id\": \"vol7_iss1_1_c0063\", \"document_type\": \"article\", \"title\": \"Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\", \"score\": 0.6912, \"text\": \"Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\\n\\nResolving the Regulatory Gap\\n\\nFigure 6 sketches the possible responses to a potentially solvent but undercapitalized bank run. Currently, supervisors can only forebear or decide to voice their concerns about the bank status. Both options are likely to ultimately trigger runs and consequential bailouts. On the one hand, forbearance makes the capital deterioration continue up to the point when an adverse piece of news triggers the run. This was the case for SVB and, in part, Credits Suisse. On the other hand, raising public concerns and possibly triggering recovery measures such as going-concern bail-in would be helpful but remains currently not viable because of panic concerns.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss1_1_p0056\"}], \"total_found\": 15}"
+    },
+    {
+      "role": "assistant",
+      "content": "This is a rich set of directly relevant material. Let me dig deeper into a few specific angles: the mechanics/design of blanket guarantees, how liquidity facilities were used to address contagion from a fund (the Reserve Fund/MMF parallel is very close to your scenario), and the exit strategy from guarantees.",
+      "refusal": null,
+      "reasoning": null,
+      "tool_calls": [
+        {
+          "type": "function",
+          "index": 0,
+          "id": "toolu_017YAgwVAqsstuQqq7Upnhv4",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"Reserve Primary Fund money market fund breaking the buck guarantee program 2008\"}"
+          }
+        },
+        {
+          "type": "function",
+          "index": 1,
+          "id": "toolu_01EaGFDhmiFoEF7faj1Djoqa",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"blanket guarantee design coverage pricing fee duration eligibility conditions\", \"document_type\": \"survey\"}"
+          }
+        },
+        {
+          "type": "function",
+          "index": 2,
+          "id": "toolu_017iatU9o1oBmBeUaw8UnvmZ",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"costs and risks of blanket guarantee fiscal cost credibility government balance sheet\"}"
+          }
+        },
+        {
+          "type": "function",
+          "index": 3,
+          "id": "toolu_01SATGcr4L3TyMcSZcbjXLrw",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"stress test asset quality review to restore confidence during crisis\"}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_017YAgwVAqsstuQqq7Upnhv4",
+      "content": "{\"results\": [{\"doc_id\": \"vol7_iss2_9\", \"chunk_id\": \"vol7_iss2_9_c0057\", \"document_type\": \"case_study\", \"title\": \"United States: Reserve Primary Fund Suspension, 2008\", \"score\": 0.7389, \"text\": \"Document: United States: Reserve Primary Fund Suspension, 2008\\n\\nKey Design Decisions > Figure 3: Prime Institutional Money Market Fund Flows\\n\\n> 6 The guarantee was funded by the then\\u2013$50 billion Exchange Stabilization Fund. For more details on the temporary guarantee program, see Vergara (2022).\\n\\n> 7 The Reserve announced that the Primary II Fund, Reserve Liquid Performance Money Market Fund, and Treasury and Repo Fund, were also eligible to participate in the temporary guarantee program; however, it is not clear if these funds participated in the program (The Reserve 2008j). Wilson (2020) claims to have obtained, through FOIA, a list of all fund managers that received a guarantee, and Reserve is not on it.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss2_9_p0054\"}, {\"doc_id\": \"vol4_iss2_30\", \"chunk_id\": \"vol4_iss2_30_c0006\", \"document_type\": \"case_study\", \"title\": \"United States: Temporary Guarantee Program for Money Market Funds\", \"score\": 0.7142, \"text\": \"Document: United States: Temporary Guarantee Program for Money Market Funds\\n\\nKey Terms\\n\\nFollowing Lehman Brothers\\u2019s declaration of bankruptcy on September 15, 2008, the value of its commercial paper declined significantly (Kacperczyk and Schnabl 2010) **.** The Reserve Primary Fund, a money-market fund (MMF) that had $785 million of Lehman Brothers's commercial paper, was immediately affected (Kiss 2019; Kacperczyk and Schnabl 2010; McCabe 2010; SEC 2009). On September 16, 2008, these losses prompted the Reserve Primary Fund to \\u201cbreak the buck,\\u201d reporting a net asset value (NAV) of $0.97, which was less than the standard $1 per share value typically maintained by MMFs, as it did not have the resources to restore its NAV to $1 (Macey 2011; Kacperczyk and Schnabl 2010; SEC 2009). At the time, the Securities and Exchange Commission (SEC) only required MMF managers to report the market value of their holdings when their NAV fell to less than $0.995.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss2_30_p0005\"}, {\"doc_id\": \"vol7_iss2_9\", \"chunk_id\": \"vol7_iss2_9_c0052\", \"document_type\": \"case_study\", \"title\": \"United States: Reserve Primary Fund Suspension, 2008\", \"score\": 0.7133, \"text\": \"Document: United States: Reserve Primary Fund Suspension, 2008\\n\\nKey Design Decisions\\n\\nOn September 19, the US Department of the Treasury announced the Temporary Guarantee Program for Money Market Funds to arrest the run on the MMFs, and it became operational on September 29 (Shapiro 2012). The temporary guarantee program was open to all MMFs regulated under Rule 2a-7 of the Investment Company Act of 1940 with a NAV of at least $0.995 as of September 19, 2008. For a quarterly fee, the Treasury would guarantee the share price of any eligible money market mutual fund that applied and paid for the program[6] (US Treasury 2008a). Figure 3 charts daily money market fund flows between August and December 2008.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss2_9_p0038\"}, {\"doc_id\": \"vol7_iss2_9\", \"chunk_id\": \"vol7_iss2_9_c0014\", \"document_type\": \"case_study\", \"title\": \"United States: Reserve Primary Fund Suspension, 2008\", \"score\": 0.7122, \"text\": \"Document: United States: Reserve Primary Fund Suspension, 2008\\n\\nKey Terms\\n\\nMMF to ever break the buck, in other words, the second fund whose shares declined in value below $0.995 per share, the lowest point at which they could permissibly still be rounded to $1.00[3] (Gardephe 2010; The Reserve 2008a). On September 16, the Reserve also announced a seven-calendar-day redemption delay. The Reserve Yield Plus Fund and the Reserve International Liquidity Fund, Ltd., two other Reserve Funds, also broke the buck that day (The Reserve 2008b). The Reserve Primary Fund was the only money market fund that held Lehman debt securities and did not have an affiliate with sufficient resources to support a $1.00 per share NAV (US GAO 2023).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss2_9_p0009\"}, {\"doc_id\": \"vol4_iss2_30\", \"chunk_id\": \"vol4_iss2_30_c0003\", \"document_type\": \"case_study\", \"title\": \"United States: Temporary Guarantee Program for Money Market Funds\", \"score\": 0.6944, \"text\": \"Document: United States: Temporary Guarantee Program for Money Market Funds\\n\\nAbstract\\n\\nOn September 16, 2008, following the collapse of Lehman Brothers, the Reserve Primary Fund \\u201cbroke the buck,\\u201d meaning that its net asset value (NAV) fell more than 0.5% below the $1 per share target value maintained by money-market funds (MMFs). When the Reserve Primary Fund could not restore the NAV, investors began withdrawing funds from MMFs, leading to a $439 billion run on the MMF market. To stop this run, the US Department of the Treasury established the Temporary Guarantee Program for Money Market Funds (the Guarantee Program), which insured investors\\u2019 holdings in participating MMFs. The Guarantee Program was designed to protect assets held as of the announcement of the program on September 19, 2008. MMFs participating in the Guarantee Program paid a quarterly fee ranging from 1 to 1.5 basis points, depending on their NAV. The Guarantee Program, originally scheduled to last three months, was ultimately extended until September 18, 2009. During its year of operation, the Guarantee Program covered 93% of assets in the MMF market, equivalent to more than $3.2 trillion. There were no losses, and the Department of the Treasury did not make any payments through the Guarantee Program, generating a surplus of $1.2 billion in fees.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss2_30_p0002\"}], \"total_found\": 15}"
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_01EaGFDhmiFoEF7faj1Djoqa",
+      "content": "{\"results\": [{\"doc_id\": \"vol4_iss4_4\", \"chunk_id\": \"vol4_iss4_4_c0020\", \"document_type\": \"survey\", \"title\": \"Blanket Guarantees Survey\", \"score\": 0.5747, \"text\": \"Document: Blanket Guarantees Survey\\nFigure \\u2014 Figure 1: Programs Covered in This Survey\\n\\nIntroduction\\n\\n[FIGURE id=vol4_iss4_4_f1 type=figure page=7 label=\\\"Figure 1\\\" file=figure_1.png caption=\\\"Programs Covered in This Survey\\\"]\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss4_4_p0009\"}, {\"doc_id\": \"vol4_iss4_4\", \"chunk_id\": \"vol4_iss4_4_c0101\", \"document_type\": \"survey\", \"title\": \"Blanket Guarantees Survey\", \"score\": 0.5675, \"text\": \"Document: Blanket Guarantees Survey\\nFigure \\u2014 Figure 7: BG Program Fees\\n\\n10. Fees: What fees, if any, did institutions have to pay as part of the BG program? Were such fees flat or risk based?\\n\\n[FIGURE id=vol4_iss4_4_f7 type=figure page=21 label=\\\"Figure 7\\\" file=figure_7.png caption=\\\"BG Program Fees\\\"]\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss4_4_p0099\"}, {\"doc_id\": \"vol4_iss4_4\", \"chunk_id\": \"vol4_iss4_4_c0003\", \"document_type\": \"survey\", \"title\": \"Blanket Guarantees Survey\", \"score\": 0.543, \"text\": \"Document: Blanket Guarantees Survey\\n\\nAbstract\\n\\nThis paper surveys 10 blanket guarantee (BG) programs across 13 Key Design Decisions. The defining characteristics of these programs in terms of their inclusion in our BG series are (a) that they guaranteed a broader range of liabilities beyond deposit accounts and (b) that the guarantees covered existing liabilities in addition to newly issued ones. Each case represents an effort to eliminate creditors\\u2019 incentive to withdraw funding from institutions by guaranteeing that the funding will be paid back even if the institutions are unable to do so themselves. The main themes that emerge are: (a) the inability of blanket guarantees to address underlying problems without complementary liquidity support and restructuring measures; (b) the importance of credibility, particularly as related to the amount of liabilities guaranteed relative to fiscal resources; (c) the need to address the moral hazards that a blanket guarantee creates, by restricting banks\\u2019 behavior during the acute phase of a crisis\\u2014 for example, through interest-rate caps or bans on aggressive marketing\\u2014and by promising to increase official supervisory oversight as the crisis extends into its chronic phase; (d) the importance of effective communication; and (e) the importance of clear political support for a program that represents potentially substantial fiscal costs, which authorities may be unable to quantify at the time of the announcement.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss4_4_p0002\"}, {\"doc_id\": \"vol4_iss4_4\", \"chunk_id\": \"vol4_iss4_4_c0023\", \"document_type\": \"survey\", \"title\": \"Blanket Guarantees Survey\", \"score\": 0.5371, \"text\": \"Document: Blanket Guarantees Survey\\n\\nIntroduction > Figure 1: Programs Covered in This Survey\\n\\n_Sources: Decker 2022a; Decker 2022b; George 2022a; George 2022b; George 2022c; Hoffner 2022; Makhija 2022a; Makhija 2022b; Schaefer-Brown 2022a; Schaefer-Brown 2022b._\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss4_4_p0021\"}, {\"doc_id\": \"vol4_iss4_4\", \"chunk_id\": \"vol4_iss4_4_c0145\", \"document_type\": \"survey\", \"title\": \"Blanket Guarantees Survey\", \"score\": 0.5362, \"text\": \"Document: Blanket Guarantees Survey\\n\\nReferences\\n\\nHoffner, Benjamin. 2022. \\u201cDenmark: General Guarantee Scheme, 2008.\\u201d _Journal of Financial Crises_ 4, no. 4.\\n\\nhttps://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/6/\\n\\nInternational Association of Deposit Insurers (IADI). 2012. \\u201cTransitioning from a Blanket Guarantee or Extending Coverage to a Limited Coverage System.\\u201d https://ypfs.som.yale.edu/library/document/transitioning-blanket-guarantee-orextending-coverage-limited-coverage-system\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss4_4_p0126\"}], \"total_found\": 15}"
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_017iatU9o1oBmBeUaw8UnvmZ",
+      "content": "{\"results\": [{\"doc_id\": \"vol4_iss4_4\", \"chunk_id\": \"vol4_iss4_4_c0082\", \"document_type\": \"survey\", \"title\": \"Blanket Guarantees Survey\", \"score\": 0.6247, \"text\": \"Document: Blanket Guarantees Survey\\n\\n6. Communication: How did policymakers describe the need for and objectives of the BG program? Were there any special communication issues?\\n\\nThe CIFS in Ireland was the focus of widespread uncertainty from the outset. In its first response to the CIFS released days after the program\\u2019s announcement, the European Central Bank (ECB) highlighted its concern that the size of the government\\u2019s exposure was \\u201cvery large\\u201d at a time when the Irish budget was already deteriorating (ECB 2008). Such concerns undermined the credibility of the CIFS. The Irish example also illustrates that a blanket guarantee can end up imposing significant fiscal costs on the state. To avoid the failure of institutions covered by the guarantee, Irish authorities undertook costly rescue operations. Ultimately, the overall cost of the Irish response to its banking crisis totaled around 40% of GDP, the second costliest in advanced economies since the Great Depression (IMF 2012).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss4_4_p0071\"}, {\"doc_id\": \"vol4_iss4_4\", \"chunk_id\": \"vol4_iss4_4_c0120\", \"document_type\": \"survey\", \"title\": \"Blanket Guarantees Survey\", \"score\": 0.6234, \"text\": \"Document: Blanket Guarantees Survey\\n\\nConclusion\\n\\n**For BG programs to be effective, they must be credible, particularly as related to the amount of liabilities guaranteed relative to fiscal resources.** To be successful, guarantees of any type must make creditors confident that they will have full and prompt access to their guaranteed funds (see McNamara, Feldberg, et al. 2020; McNamara, Kulam, et al. 2022). Particularly given the expansiveness of BG programs relative to most AG and DG programs, the amount of liabilities covered relative to the fiscal resources of the guarantor can be important in determining the credibility of a BG program. In cases such as Ecuador, Ireland, and Thailand, questions about the ability of the state to actually make good on its guarantee hindered the effectiveness of BG programs. As the Irish example illustrates, a blanket guarantee that is too large relative to fiscal resources can also end up placing enormous strain on national budgets. On the flip side, where countries are able to demonstrate that their BG programs work as intended, credibility and creditor confidence improve over time as was the case in Indonesia and Thailand.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss4_4_p0117\"}, {\"doc_id\": \"vol4_iss4_4\", \"chunk_id\": \"vol4_iss4_4_c0012\", \"document_type\": \"survey\", \"title\": \"Blanket Guarantees Survey\", \"score\": 0.6172, \"text\": \"Document: Blanket Guarantees Survey\\n\\nIntroduction\\n\\nThe main body of the paper analyzes 13 Key Design Decisions. Wherever possible, we explore why policymakers responded the way they did. The paper seeks to distill important considerations for policymakers when establishing BG programs. Among the themes that emerge are (a) the inability of blanket guarantees to address underlying problems without complementary liquidity support and restructuring measures; (b) the importance of credibility, particularly as related to the amount of liabilities guaranteed relative to fiscal resources; (c) the need to address the moral hazard that a blanket guarantee creates, by restricting banks\\u2019 behavior during the acute phase of a crisis\\u2014for example, through interestrate caps or bans on aggressive marketing\\u2014and promising to increase official supervisory oversight as the crisis extends into its chronic phase; (d) the importance of effective communication; and (e) the importance of clear political support for a program that represents potentially substantial fiscal costs, which authorities may be unable to quantify at the time of the announcement.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss4_4_p0009\"}, {\"doc_id\": \"vol4_iss4_11\", \"chunk_id\": \"vol4_iss4_11_c0017\", \"document_type\": \"case_study\", \"title\": \"Jamaica: FINSAC Blanket Guarantee, 1997\", \"score\": 0.5838, \"text\": \"Document: Jamaica: FINSAC Blanket Guarantee, 1997\\n\\nSummary Evaluation\\n\\nA former FINSAC chairman argued that issues of moral hazard arose with the extension of the blanket guarantee. He said that following the announcement of the explicit blanket guarantee, business managers may have converted liabilities into the categories guaranteed by the government. According to Kirkpatrick and Tennant of the World Bank, in the period prior to the explicit guarantee, the individual guarantees provided to Blaise Trust and Century National Bank resulted in the sense of an implicit guarantee of all deposits. Kirkpatrick and Tennant report that criticisms of the guarantee focused on its primarily benefiting a very wealthy minority of the population as well as fostering risk-taking and imprudence during a time of economic uncertainty (Bonnick 1998; Kirkpatrick and Tennant 2002).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss4_11_p0014\"}, {\"doc_id\": \"vol2_iss1_4\", \"chunk_id\": \"vol2_iss1_4_c0006\", \"document_type\": \"case_study\", \"title\": \"Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis\", \"score\": 0.5834, \"text\": \"Document: Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis\\n\\nGuarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis[1] > 1. Introduction\\n\\nThese guarantees, however, have their downside. Despite the low upfront cost, guarantees still carry a considerable risk to taxpayers. There is always a possibility that, if the guaranteed assets radically declined in value, especially in a volatile and unstable market, taxpayers could suffer enormous losses. They could also create moral hazard and price distortions in the market (Ibid., 2009).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol2_iss1_4_p0003\"}], \"total_found\": 15}"
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_01SATGcr4L3TyMcSZcbjXLrw",
+      "content": "{\"results\": [{\"doc_id\": \"vol2_iss1_5\", \"chunk_id\": \"vol2_iss1_5_c0028\", \"document_type\": \"case_study\", \"title\": \"Guarantees and Capital Infusions in Response to Financial Crises C: U.S. 2009 Stress Test\", \"score\": 0.6754, \"text\": \"Document: Guarantees and Capital Infusions in Response to Financial Crises C: U.S. 2009 Stress Test\\n\\n_Test Design_ > Figure 1: SCAP Economic Scenarios\\n\\nParticular focus centered on losses in available-for-sale (AFS) and held-to-maturity (HTM) portfolios, as well as counterparty credit risk. Losses in these items would ultimately represent the largest share of total losses. Supervisors analyzed whether securitized assets would become impaired over their lifetime\\u2014if this were the case, and if credit support was insufficient to cover expected losses, the security was written down to fair value.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol2_iss1_5_p0022\"}, {\"doc_id\": \"vol2_iss1_5\", \"chunk_id\": \"vol2_iss1_5_c0019\", \"document_type\": \"case_study\", \"title\": \"Guarantees and Capital Infusions in Response to Financial Crises C: U.S. 2009 Stress Test\", \"score\": 0.6497, \"text\": \"Document: Guarantees and Capital Infusions in Response to Financial Crises C: U.S. 2009 Stress Test\\n\\n_Test Design_\\n\\nThe SCAP involved the projection of losses on loans, assets held in investment portfolios, and trading-related exposures as well as the firm\\u2019s capacity to absorb losses that all combined to determine a sufficient capital level to support lending under a worse-than-expected macroeconomic scenario. Given the heightened uncertainty about the economic outlook and losses in the banking system and the possibility for adverse economic outcomes to be magnified through the banking system, supervisors believed it \\u201cprudent for large BHCs to hold substantial capital to absorb losses\\u201d should the economic downturn be longer and deeper than anticipated (FRS April 2009). In this sense, the tests represented a set of \\u201cwhatif\\u201d scenarios and were not a set of estimates or projections (FRS May 2009, page 14).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol2_iss1_5_p0018\"}, {\"doc_id\": \"vol3_iss1_1\", \"chunk_id\": \"vol3_iss1_1_c0003\", \"document_type\": \"article\", \"title\": \"Stress Tests and Policy\", \"score\": 0.6485, \"text\": \"Document: Stress Tests and Policy\\n\\nI. Introduction\\n\\nThe United States Federal Reserve\\u2019s (the \\u201cFed\\u201d) Supervisory Capital Assessment Program (SCAP) in the spring of 2009 was a revelation for bank supervisors. They escaped their traditional, balance-sheet-driven model to ask, in a forward-looking way, what will it take for these firms to survive if the crisis gets even worse? Fed Vice Chair Randy Quarles recently called this the Fed\\u2019s newly found role to provide \\u201canalysis of last resort\\u201d in a crisis (Quarles, 2019). Since the previous autumn, amidst the worst financial crisis in decades, the government had invested tens of billions of dollars in banks that passed a more traditional, point-in-time viability test through the Capital Purchase Program, but investors remained skittish. The supervisory stress-test exercise, because it credibly sized the potential capital needs of the largest banks, is broadly seen as having done much more to reassure markets than those earlier efforts.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol3_iss1_1_p0002\"}, {\"doc_id\": \"vol2_iss1_5\", \"chunk_id\": \"vol2_iss1_5_c0014\", \"document_type\": \"case_study\", \"title\": \"Guarantees and Capital Infusions in Response to Financial Crises C: U.S. 2009 Stress Test\", \"score\": 0.6431, \"text\": \"Document: Guarantees and Capital Infusions in Response to Financial Crises C: U.S. 2009 Stress Test\\n\\n2.  Supervisory Capital Assistance Program (SCAP)\\n\\nWhile the SCAP was similar to stress tests that firms undertook as part of their ongoing risk management, the objective of this program was \\u201cto conduct a comprehensive and consistent assessment simultaneously\\u201d across the largest BHCs using a common set of macroeconomic scenarios and a common forward-looking conceptual framework. This framework allowed supervisors to apply a consistent and systematic approach across firms to evaluate projected losses and resource estimates submitted by the firms and to conduct cross-firm analysis on the aggregate. The SCAP was considerably more comprehensive than stress tests that focus on individual business lines because it simultaneously incorporated all major assets and revenue sources for each firm (FRS April 2009).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol2_iss1_5_p0012\"}, {\"doc_id\": \"vol3_iss1_1\", \"chunk_id\": \"vol3_iss1_1_c0013\", \"document_type\": \"article\", \"title\": \"Stress Tests and Policy\", \"score\": 0.6342, \"text\": \"Document: Stress Tests and Policy\\n\\nII. Observations\\n\\nentities. Of course, those portfolios can be a challenge for bankers as well. The capital hole that the largest banks had to fill in 2008 was largely caused by their own failure to understand the risks they had retained in highly rated securities and derivative exposures against which they held little or no capital before the crisis.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol3_iss1_1_p0009\"}], \"total_found\": 15}"
+    },
+    {
+      "role": "assistant",
+      "content": "I now have strong evidence across the key tools. Let me pull the SCAP stress test outcome (how disclosure restored confidence) and the \"lessons learned\" on how these tools should be sequenced, to round out the recommendation.",
+      "refusal": null,
+      "reasoning": null,
+      "tool_calls": [
+        {
+          "type": "function",
+          "index": 0,
+          "id": "toolu_0196JgzQrUq7tbegTkNg9LvT",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"stress test disclosure results credible capital backstop private capital raise restore confidence outcome\", \"document_type\": \"lesson_learned\"}"
+          }
+        },
+        {
+          "type": "function",
+          "index": 1,
+          "id": "toolu_01EgLerkpk3hzcPad7Gy2o36",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"capital injection public recapitalization program conditions terms banks government equity\", \"document_type\": \"survey\"}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_0196JgzQrUq7tbegTkNg9LvT",
+      "content": "{\"results\": [], \"total_found\": 0}"
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_01EgLerkpk3hzcPad7Gy2o36",
+      "content": "{\"results\": [{\"doc_id\": \"vol4_iss1_1\", \"chunk_id\": \"vol4_iss1_1_c0172\", \"document_type\": \"survey\", \"title\": \"Broad-Based Capital Injection Programs\", \"score\": 0.717, \"text\": \"Document: Broad-Based Capital Injection Programs\\n\\n15. Other Conditions: Should recapitalization come with nonprice conditions to incentivize banks to exit government support quickly?\\n\\nConditions requiring participating banks to increase or maintain lending to individuals and small businesses or certain core industry sectors are politically tempting but carry risks. A relatively benign implementation requires only a plan and some reporting. For example, the US CAP (GFC) required participating banks to submit a plan for how they intended to use the capital to increase lending activities above levels that would have been possible without government support. It also required banks to submit regular reports on their lending by category and to compare that lending to estimates of what lending would have been without government support.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss1_1_p0168\"}, {\"doc_id\": \"vol4_iss1_1\", \"chunk_id\": \"vol4_iss1_1_c0028\", \"document_type\": \"survey\", \"title\": \"Broad-Based Capital Injection Programs\", \"score\": 0.6803, \"text\": \"Document: Broad-Based Capital Injection Programs\\n\\nKey Design Decisions\\n\\nIn 13 of the 36 cases, recapitalization was combined with a government program to purchase or guarantee nonperforming loans (NPLs) from those banks. In Spain, the purchase or guarantee of NPLs came after the recapitalization was in progress. In Hungary, Israel, South Korea, and Thailand, governments also enforced banking sector reform with the recapitalization program. Studies of past capital injection programs during the Asian Financial Crisis suggest that bank restructuring and impaired-asset purchases are both complementary to recapitalization, since the goal of recapitalization is to restore and reassure \\u201csustainable cash-based profitability\\u201d (Enoch, Garcia, and Sundararajan 2001; Scott 2002). Brei et al. (2020) conclude that recapitalization is often ineffective without an NPL strategy, and vice versa.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss1_1_p0025\"}, {\"doc_id\": \"vol4_iss1_1\", \"chunk_id\": \"vol4_iss1_1_c0108\", \"document_type\": \"survey\", \"title\": \"Broad-Based Capital Injection Programs\", \"score\": 0.6653, \"text\": \"Document: Broad-Based Capital Injection Programs\\n\\n_Raising Private Capital_\\n\\nIn others, the authorities did not require but incentivized the participating banks to raise private capital first through existing or new shareholders. The UK Bank Recapitalisation Scheme required institutions that chose to issue ordinary shares to first offer to sell additional shares to existing shareholders; the government acted as the underwriter of any of these offers. However, the UK BBCI did not require shareholders to take the offer, unlike Mexico and Indonesia. The UK government purchased any shares that were not purchased by existing shareholders at the \\u201cmaximum permitted discount of 10% to the share price\\u201d (Kroes 2008).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss1_1_p0105\"}, {\"doc_id\": \"vol4_iss1_1\", \"chunk_id\": \"vol4_iss1_1_c0133\", \"document_type\": \"survey\", \"title\": \"Broad-Based Capital Injection Programs\", \"score\": 0.6512, \"text\": \"Document: Broad-Based Capital Injection Programs\\n\\n10. Capital Characteristics: What form of capital is injected? > Figure 7: Capital Characteristics and Phase of Crises\\n\\nIn Ireland, the preferred shares came with warrants giving the government the right to purchase 25% of the common shares of each bank after five years. The strike prices for these warrants were in each bank\\u2019s case less than 1 euro. A bank could reduce the government\\u2019s rights under the warrant to as low as 15% of the common shares if the bank redeemed the preferred shares up to EUR1.5 billion by the end of 2009. This tranche of warrants that the banks could eliminate had a materially lower strike price than the rest of the warrants, aiming to encourage banks to expediently replace government capital with new private capital (European Commission 2009d, 7; European Commission 2009e, 7). The government could not vote more than half of the votes associated with any shares it received through exercise of the warrant, but if these shares were transferred to a nongovernment third party, full voting privileges became reinstated (Department of Finance 2009). US CPP had a similar voting restriction on common shares acquired by the exercise of warrants.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss1_1_p0114\"}, {\"doc_id\": \"vol4_iss1_1\", \"chunk_id\": \"vol4_iss1_1_c0153\", \"document_type\": \"survey\", \"title\": \"Broad-Based Capital Injection Programs\", \"score\": 0.6502, \"text\": \"Document: Broad-Based Capital Injection Programs\\n\\n12. Allocation of losses for existing stakeholders: Were there any write-downs of the value for existing equity?\\n\\nIn Thailand\\u2019s 1998 program, banks receiving Tier 1 capital were required to write down the equity value, forcing losses on existing shareholders, and to allow the government to change management and boards of directors. These relatively punitive terms have split opinion in the typical fashion. Some commentators argue that such punitive terms in a voluntary program reduced participation and delayed the recapitalization of the sector (World Bank 2000). Others applaud the incentives created to raise capital privately so as to avoid the punitive terms (Scott 2002). This trade-off will always exist, and future designers should not expect that they will get only one side of it.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss1_1_p0148\"}], \"total_found\": 15}"
+    },
+    {
+      "role": "assistant",
+      "content": "I have enough to give a well-grounded answer. Let me synthesize.\n\n## Assessment and Recommendation\n\nYour scenario has a specific structure that shapes the right response: the *underlying* loss (the private-debt fund) is relatively contained, but the *panic* is being driven by **uncertainty about which banks are exposed and how much**. That distinction \u2014 between a real solvency problem at a few institutions and an information-driven run across the whole sector \u2014 is exactly the situation the historical record addresses, and it points to a sequenced, multi-tool response rather than a single silver bullet.\n\n### The core diagnostic problem\n\nThe runs are spreading because depositors and creditors can't tell healthy banks from exposed ones. As the *Blanket Guarantees Survey* notes, amid uncertainty about solvency, \"it would not be rational for creditors to do any deep analysis of their banks. The simplest response to solvency concerns is to withdraw one's funds, since withdrawal has only a nuisance cost but potentially a large benefit.\" The central-bank literature adds a warning: **illiquidity tends to become insolvency the longer a crisis lasts** \u2014 so runs on genuinely-solvent banks can *create* the insolvency you're trying to avoid through fire sales and lost franchise value (*Broad-Based Emergency Liquidity Programs*). This means speed matters, and doing nothing is itself a costly choice.\n\n### What the government should do \u2014 a sequenced package\n\n**1. Provide emergency liquidity immediately (lender of last resort).**\nThis is the first-line tool and buys time. In the closest historical analogue to your scenario \u2014 the 2008 Reserve Primary Fund breaking the buck and triggering a **$439 billion run** on money market funds \u2014 the Fed's new liquidity facilities were central to subsiding redemptions. Central banks generally support LOLR lending to *solvent* banks; the practical difficulty is that solvency is nearly impossible to assess in real time. The pragmatic answer used repeatedly is to lend generously against collateral to buy time, while a separate process sorts out solvency.\n\n**2. Address the run directly with a guarantee \u2014 sized to the actual problem.**\nThe single most relevant precedent is the **U.S. Temporary Guarantee Program for Money Market Funds (2008)**, which maps almost perfectly onto your situation (an investment fund's loss triggering a sector-wide run on institutions whose exact exposures were unknown). Key design features worth emulating:\n- It guaranteed holdings **as of the announcement date** (so it stopped the run without subsidizing new risk-taking or letting money flood in to game the guarantee).\n- Participating funds paid a **quarterly fee (1\u20131.5 bps)**, making it a priced, opt-in program.\n- Result: it covered 93% of the market (~$3.2 trillion), **cost the taxpayer nothing** \u2014 no payouts \u2014 and generated a $1.2 billion surplus in fees.\n\nThe lesson is that a well-designed guarantee can break a panic at low or negative fiscal cost precisely *because* the underlying problem is limited and the panic is informational. A guarantee (whether of deposits or broader liabilities) removes the incentive to run, which is what you need when nobody can see the pattern of exposures.\n\n**Critical caveat on guarantees \u2014 credibility relative to fiscal capacity.** The *Blanket Guarantees Survey* is emphatic that a guarantee only works if it is credible relative to the state's resources. Where guarantees were **too large relative to fiscal capacity** \u2014 Ecuador, Ireland, Thailand \u2014 they *failed to reassure* and, in Ireland's case, the state ended up bearing costs totaling **~40% of GDP** (second-costliest advanced-economy crisis since the Depression). So: guarantee no more than you can credibly stand behind, and don't blanket-guarantee everything reflexively if a narrower guarantee (matched to the actual run) will do.\n\n**3. Restore information \u2014 a coordinated stress test / asset-quality review.**\nBecause the crisis is fundamentally about *not knowing who is exposed*, the durable fix is to make the exposures known and credibly bound the losses. The **2009 U.S. SCAP stress test** is the model here. Earlier point-in-time capital injections had left \"investors remained skittish\"; the stress test worked because it \"credibly sized the potential capital needs of the largest banks\" in a forward-looking way and is \"broadly seen as having done much more to reassure markets than those earlier efforts\" (*Stress Tests and Policy*). A transparent, common-methodology review of exposures to this fund \u2014 paired with a credible public capital backstop for any bank found short \u2014 converts a panic driven by fear of the unknown into a manageable, bounded problem.\n\n**4. Triage and recapitalize the genuinely troubled banks.**\nFor your two regional banks with real solvency concerns, distinguish clearly:\n- **Solvent but undercapitalized** \u2192 recovery/recapitalization. As *Containing Runs on Solvent Banks* argues, in this phase \"time is not on the side of regulators\"; forbearance is \"a gamble that leads to even larger expected fiscal losses.\" Move to recapitalize (private capital first where possible, public backstop behind it).\n- **Insolvent** \u2192 resolution. If a bank is genuinely insolvent, resolution is \"the sole legitimate policy.\"\n\nThe *Broad-Based Capital Injection Programs* survey stresses that recapitalization is \"often ineffective without an NPL strategy, and vice versa\" \u2014 so pair capital injections with a plan for the impaired fund exposures. Structure public capital to **incentivize rapid private replacement** (warrants, step-up dividends, as in the UK/Ireland/US programs).\n\n### On moral hazard and timing\n\nDon't let moral-hazard concerns paralyze the acute-phase response. The survey's clear guidance: in the acute phase \"the over-riding priority is to stop runs,\" and authorities should *not* attach punitive conditions (e.g., harsh executive-pay limits) that discourage banks from using liquidity/guarantee facilities. Instead, manage moral hazard with proportionate measures that don't deter participation \u2014 **caps on deposit interest rates and bans on aggressive advertising of the guarantee** \u2014 to stop guaranteed banks from competing destructively for funds. Save the structural discipline (heightened supervision, capital norms) for the chronic phase.\n\n### Exit\n\nAny guarantee should be temporary with a **pre-planned, phased wind-down** back to normal (limited) deposit insurance. Kane and Klingebiel note that the hardest part is *cutting back* the guarantee; a sudden withdrawal can itself be destabilizing, so several programs used pre-defined step-downs. The MMF program's fixed one-year sunset is a clean example.\n\n---\n\n### Bottom line\n\n**Yes, the government should act \u2014 and quickly, because delay converts a liquidity panic into real insolvencies.** The recommended package:\n1. **Open liquidity taps** to solvent banks now, to stop the bleeding.\n2. **Deploy a priced, temporary guarantee** covering existing liabilities, sized credibly to fiscal capacity, to remove the incentive to run \u2014 the MMF program is your template.\n3. **Run a fast, transparent stress test / exposure review** with a public capital backstop, to replace fear-of-the-unknown with bounded, known losses \u2014 the SCAP template.\n4. **Triage the two troubled banks**: recapitalize if solvent-but-undercapitalized, resolve if insolvent, and pair capital with a strategy for the fund exposures.\n5. **Manage moral hazard lightly during the acute phase** (rate caps, ad bans), and **plan the exit** from the guarantee up front.\n\nThe through-line from the historical record is that no single tool suffices: guarantees stop runs but \"cannot address underlying problems without complementary liquidity support and restructuring measures.\" The art is matching the *breadth* of the intervention to the *actual* problem \u2014 which here is a limited real loss amplified by information gaps \u2014 rather than over-guaranteeing in a way that strains credibility and the budget.\n\nA caveat on scope: my recommendation draws on the crisis-management corpus above (the MMF, SCAP, blanket-guarantee, capital-injection, and LOLR literatures). The specifics \u2014 your jurisdiction's fiscal room, legal authorities for a guarantee, the actual size of the fund losses relative to bank capital, and whether the two banks are truly solvent \u2014 would need to be verified before committing to any particular tool, and would materially affect how large and broad the guarantee should be.",
+      "refusal": null,
+      "reasoning": null
+    }
+  ]
+}

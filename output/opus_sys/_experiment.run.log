@@ -1,0 +1,36 @@
+[query 1] mode=no-rag ...
+  saved -> query1_no-rag.md
+[query 1] mode=rag ...
+  saved -> query1_rag.md
+[query 1] mode=mcp ...
+Processing request of type CallToolRequest
+Processing request of type ListToolsRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+  saved -> query1_mcp.md
+[query 2] mode=no-rag ...
+  saved -> query2_no-rag.md
+[query 2] mode=rag ...
+  saved -> query2_rag.md
+[query 2] mode=mcp ...
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+  saved -> query2_mcp.md
+[query 3] mode=no-rag ...
+  saved -> query3_no-rag.md
+[query 3] mode=rag ...
+  saved -> query3_rag.md
+[query 3] mode=mcp ...
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+  saved -> query3_mcp.md
+done.
+experiment exit: 0

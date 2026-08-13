@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}Conversations — YPFS Analyst{% endblock %}
+{% block content %}
+<div class="page-header">
+  <h1>Conversations</h1>
+  <form method="post" action="{{ url_for('chat.new_conversation') }}">
+    <button type="submit" class="primary">New conversation</button>
+  </form>
+</div>
+
+{% if conversations %}
+  <ul class="conversation-list">
+    {% for conversation in conversations %}
+      <li class="conversation-row">
+        <a href="{{ url_for('chat.conversation', conversation_id=conversation.conversation_id) }}">
+          <span class="conversation-title">{{ conversation.title or "New conversation" }}</span>
+          <span class="conversation-meta">
+            {% if is_admin %}<span class="turn-chip">{{ conversation.role }}</span>{% endif %}
+            <span class="meta">{{ conversation.created_at }}</span>
+          </span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p class="empty-state">
+    No conversations yet. Start one to ask the analyst about the Journal of Financial Crises corpus.
+  </p>
+{% endif %}
+{% endblock %}

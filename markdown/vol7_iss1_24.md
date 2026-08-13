@@ -1,0 +1,708 @@
+## United States: First Republic Bank Emergency Liquidity Program, 2023[1] 
+
+_Salil Gupta,[2] Jack French,[3] and Steven Kelly[4]_ 
+
+Yale Program on Financial Stability Case Study April 15, 2025 
+
+## **Abstract** 
+
+First Republic Bank, a California-based institution with $212.6 billion in assets, lost $25 billion in deposits on Friday, March 10, 2023, following the closing of Silicon Valley Bank that morning. On Sunday, March 12, First Republic announced that it had access to $70 billion in unused liquidity owing to its borrowing capacity at the Federal Reserve, the Federal Home Loan Bank System, and JPMorgan Chase (JPMC). But First Republic’s depositors withdrew a further $40 billion of deposits on Monday, March 13. First Republic’s borrowings from the Federal Reserve rose as high as $109 billion between Friday, March 10, and Wednesday, March 15. On Thursday, March 16, a consortium of 11 large US banks provided emergency liquidity assistance of $30 billion in uninsured deposits to First Republic, for a period of 120 days at market rates, to ensure liquidity for the bank’s customers and to give the bank time to formulate a longer-term solution. US Treasury Secretary Janet Yellen and JPMC CEO Jamie Dimon led the efforts to reach out to the leaders of large institutions and secure the funds required. The direct result of the deposit was to offset other outflows and reduce the bank’s borrowings at the Fed. The bank stabilized for five weeks, but withdrawals picked up again after the bank announced its first-quarter financial details on April 24. On May 1, 2023, the California Department of Financial Protection and Innovation seized First Republic and appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. JPMC immediately assumed all of First Republic’s deposits and, according to a press release, “substantially all assets.” JPMC settled its own $5 billion of deposits when it acquired First Republic and repaid the remaining $25 billion of deposits to the bank consortium, including accrued interest, on May 9, 2023. The failure of First Republic cost the FDIC an estimated $15.6 billion. 
+
+**Keywords:** ad hoc emergency liquidity assistance, Banking Crisis of 2023, First Republic, private intervention, Silicon Valley Bank 
+
+> 1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering ad hoc emergency liquidity provision. A survey of all the cases in this series (Kelly et al. 2025) and the individual cases underlying it are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/. Wiggins et al. (2022) surveys broadbased emergency liquidity programs. 
+
+> 2 Senior Research Associate, YPFS, Yale School of Management. 
+
+> 3 Research Associate, YPFS, Yale School of Management. 
+
+> 4 Associate Director of Research, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+## **Key Terms** 
+
+This case study is about the ad hoc emergency liquidity that a consortium of privately owned banks provided to First Republic Bank in 2023. 
+
+First Republic Bank ended 2022 with $212.6 billion of assets and $176.4 billion of deposits (OIG 2023). First Republic had a business model of providing banking services to high-net-worth individuals, particularly those in the venture capital and technology industries (FDIC 2023a). The _Wall Street Journal_ ( _WSJ_ ) later reported that First Republic “was once the envy of the banking business,” as the bank grew rapidly by catering to wealthy clients with personalized services and large mortgage loans[5] (see Figure 1) (Ensign 2023b, 2). The bank’s balance sheet was concentrated in residential mortgages and long-duration municipal bonds. At the end of 2022, the bank had unrealized losses of 13.3% on its loan book and 16.3% on its securities (Fitch 2023b). The Federal Deposit Insurance Corporation (FDIC) later reported First Republic’s vulnerabilities included that, at the end of 2022, it had uninsured deposits of 67% and unrealized losses of $22.2 billion on its loan portfolio (FDIC 2023a). As of its end-2022 financial statements, First Republic’s total unrealized losses on held-to-maturity securities and held-for-investment loans were 154% the size of its total equity (First Republic 2023a). 
+
+Purpose: To express confidence in the US banking system, to help “ensure First Republic has the liquidity to continue serving its customers,” and to “help buy time” for the bank to formulate a restructuring plan (Citigroup 2023; ECDC 2023) 
+
+||Announcement|March 16, 2023|
+|---|---|---|
+||Date||
+||Operational Date<br>Termination Date|March 16, 2023<br>May 9, 2023|
+||Legal Authority|None required|
+||Administrator|Consortium of 11 US banks:|
+|||Bank of America, BNY|
+|||Mellon, Citigroup, Goldman<br>Sachs, JPMorgan Chase,<br>Morgan Stanley, PNC Bank,<br>State Street, Truist, U.S. Bank,|
+||Peak Authorization<br>Peak Outstanding|and Wells Fargo<br>$30 billion<br>$30 billion|
+||Collateral|Aid given as uninsured|
+|||deposits with no collateral|
+||Haircut and|None|
+||Recourse||
+||Interest Rate and|Not announced; “market|
+||Fees<br>Term<br>Part of a Package|rates” (First Republic 2023e)<br>120 days<br>Not explicitly, but First<br>Republic continued to<br>borrow from broadly<br>available Fed liquidity|
+|||facilities|
+||Outcomes|The consortium’s liquidity<br>assistance stabilized the|
+|||bank’s funding for five|
+|||weeks, but a second run|
+|||began after reporting|
+|||quarterly financials;|
+|||_(continued)_|
+
+
+
+> 5 First Republic specialized in making large mortgage loans at low rates to wealthy individuals, such as Mark Zuckerberg (Ensign 2023b; First Republic 2023a). 
+
+
+The California Department of Financial Protection and Innovation (CADFPI) closed Silicon Valley Bank (SVB) on the morning of Friday, March 10, 2023, after which concerns spread about other banks with similar risks including, (1) high levels of uninsured deposits, (2) concentration of technology and venture capital customers, and (3) unrealized losses from declines in loans and securities (CADFPI 2023d; FDIC 2023a). After SVB’s failure, First Republic experienced significant deposit outflows stemming from the contagion effect of the 
+
+||Outcomes|The bank was sold to JPMC in|
+|---|---|---|
+||_(continued)_|May at a cost of $15.6 billion|
+|||to the FDIC’s Deposit<br>Insurance Fund;<br>JPMC consolidated its own $5<br>billion deposit and repaid the<br>remaining $25 billion as part|
+|||of acquisition|
+||Notable Features|Coordinated, unsecured|
+|||lending by a consortium of|
+|||private banks at the|
+|||suggestion of the US Treasury<br>secretary|
+
+
+
+collapse of SVB to banks with similar risk exposures and concerns of high levels of uninsured deposits. First Republic’s share price declined by more than 50% intraday on March 10, triggering circuit-breaker halts to its trading several times (see Figure 4) (FDIC 2023a). 
+
+Although, unlike SVB, First Republic did not provide commercial loans to venture firms, it similarly had several customers employed in the venture capital, private equity, and other financial sectors—especially those related to technology because the bank’s headquarters was located in San Francisco (see Figure 1) (FDIC 2023a). Indeed, on Thursday, March 9, the first day of the run on SVB, First Republic experienced deposit _inflows_ from those running on SVB, suggestive of an overlapping customer base with preexisting accounts at both banks (FSB 2023; Kelly 2023; Roffler 2023). 
+
+A report by the FDIC Office of Inspector General (OIG) external investigator hired to conduct a material loss review of First Republic revealed that FDIC examiners relayed “that although First Republic operated under a different business model than SVB, the market perceived the institutions as similar due to First Republic’s location in the same geographic market and similarities in customer bases” (OIG 2023, 8). It added that many First Republic and SVB customers also knew and communicated with each other (OIG 2023). Unlike SVB, First Republic had not experienced an organic shrinking of its deposit base in the year before its run but rather continued deposit growth (FFIEC 2022a; FFIEC 2022b; FFIEC 2023b; FFIEC 2023a). (Aggregate US commercial bank deposits peaked in April 2022 and troughed in April 2023, before resuming growth FRBSL [2024].) Additionally, while SVB had 31 outstanding supervisory “matters requiring attention” (inclusive of “matters requiring immediate attention”), First Republic had none (Barr 2023, 6; OIG 2023, 23). 
+
+
+[FIGURE id=vol7_iss1_24_f1 type=figure page=6 label="Figure 1" file=figure_1.png caption="First Republic’s Breakdown in Uninsured Deposits by Industry Type"]
+### **Figure 1: First Republic’s Breakdown in Uninsured Deposits by Industry Type**
+![Figure 1](assets/vol7_iss1_24/figure_1.png)
+
+
+_Source: FDIC 2023a._ 
+
+First Republic experienced single-day deposit outflows of $25 billion, or 17% of total deposits, on Friday, March 10, prompting the bank to draw on liquidity lines from its Federal Home Loan Bank (FHLB) and the Federal Reserve Bank of San Francisco (FDIC 2023a; OIG 2023). The material loss review of First Republic reported that “several large money center banks began advising their clients to pull their funds from First Republic” (OIG 2023, 9). 
+
+On Sunday, March 12, First Republic received additional liquidity through the Federal Reserve’s discount window (FDIC 2023a). On the same day, First Republic announced that it had access to $70 billion in unused liquidity owing to its borrowing capacity at the Fed, FHLB, and JPMorgan Chase & Co. (JPMC), not including the additional liquidity available at the Fed’s newly introduced Bank Term Funding Program (BTFP) (First Republic 2023c).The Fed created the BTFP facility to provide one-year loans to depository institutions against the par value of their US government and agency securities (Fed 2023).[6] The facility charged a rate of the one-year overnight swap rate plus 10 basis points (Fed 2023a). 
+
+On Monday, March 13, First Republic continued to experience deposit outflows of $40 billion, with the equity share price declining by an additional 62% amid several trading halts (see Figure 4) (FDIC 2023a). Between March 10 and March 15, First Republic’s borrowings from the Fed, “at an overnight rate of 4.75%,” rose as high as $109 billion (First Republic 2023e, 1). After SVB’s collapse, First Republic had also increased its short-term borrowings from the FHLB by $10 billion at a rate of 5.09%[7] (First Republic 2023e). First Republic reported its 
+
+> 6 Some short-term municipal securities were also technically eligible; see Fed (2023a), US Government (1968). However, these securities are not material parts of bank balance sheets and, given their short maturities, would likely have benefited little from the BTFP’s key feature of lending against par value. 
+
+> 7 First Republic reported its average rates for borrowing from the FHLB at 4.8% in the short term and at 2.99% in the long term (First Republic 2023f). 
+
+
+average rate to borrow from the BTFP facility at 4.57%. First Republic’s total interestbearing, non-deposit borrowing peaked at $138.1 billion on March 15 (First Republic 2023f). 
+
+On March 14, US Treasury Secretary Janet Yellen, on a phone call with JPMC CEO Jamie Dimon, suggested that the largest US banks deposit money into First Republic. Dimon agreed and reached out to the heads of Bank of America, Citigroup, and Wells Fargo (Levitt et al. 2023). On March 16, a consortium of the nine largest US banks and the two largest US custodial banks cooperated to provide emergency liquidity of $30 billion in uninsured deposits to First Republic—at market rates with an initial period of 120 days (see Figure 2) (Citigroup 2023; First Republic 2023e). The 11 institutions said they had come together to demonstrate their confidence in the banking system and their overall commitment to customers and communities (Citigroup 2023). First Republic was able to use the liquidity support to lower its short-term borrowings (see Figure 2) (First Republic 2023f). 
+
+[FIGURE id=vol7_iss1_24_f2 type=figure page=7 label="Figure 2" file=figure_2.png caption="Private Consortium Providing Emergency Liquidity to First Republic"]
+### **Figure 2: Private Consortium Providing Emergency Liquidity to First Republic**
+![Figure 2](assets/vol7_iss1_24/figure_2.png)
+
+
+_Sources: Citigroup 2023; authors’ analysis._ 
+
+The consortium’s deposit allowed the bank to offset other outflows and reduce its borrowings from the Federal Reserve to $77 billion by the end of March, including $63.5 billion from the discount window and $13.8 billion from the BTFP. In the ensuing weeks, the bank also replaced most of its short-term FHLB advances (maturities of 30 days or less) with long-term advances (maturities of one to three years), while holding its total FHLB borrowings steady. At the end of March, it had just $2.6 billion of short-term FHLB advances, but its long-term FHLB advances had increased to $25.5 billion (First Republic 2023f). On March 17, the Federal Housing Finance Agency, the regulator of the FHLB System, advised the Federal Home Loan Bank of San Francisco (FHLBSF) not to provide any further advances to First Republic. FHLBSF continued to renew existing advances but did not provide any additional credit beyond this $28.1 billion (GAO 2024). 
+
+High borrowing costs that exceeded First Republic’s asset yields were making it structurally unprofitable to borrow and eroding its viability as a going concern. Deposit outflows and the 
+
+
+resulting increases in more expensive wholesale funding had made the bank’s business model unsustainable since that model had relied in large part on offering low-rate mortgages to wealthy borrowers. First Republic securities could have been sold outright to raise additional cash but would have had to be sold at a loss since they were issued at belowmarket rates. The CADFPI’s commissioner determined that the prospect of a private capital raise for First Republic was highly unlikely given the bank’s financial picture, which contributed to the nonviability of the bank (CADFPI 2023b). 
+
+As of April 28, First Republic’s borrowing from the Fed and FHLB facilities increased to a total of $121.3 billion ($93.2 billion from the Fed and $28.1 billion from FHLB advances) (CADFPI 2023b). The FDIC and CADFPI downgraded First Republic’s supervisory grade to “problem status” on April 28, citing the bank’s deterioration, lack of problem remediation, and poor outlook for recovery (FDIC 2023a, 3, 21). This downgrade had the effect of shifting First Republic’s borrowing status at the Fed discount window from its standard “primary credit” to “secondary credit” (FDIC 2023a, 3, 21; Fed 2024). Secondary credit, the Fed’s discount window terms for banks with low supervisory ratings, applies an additional haircut to all collateral except for US Treasury and agency securities (Fed 2023b; Fed 2024). In First Republic’s case, the higher haircuts following its April 28 demotion to secondary credit wiped out any additional discount window borrowing capacity (FDIC 2023a). 
+
+On May 1, 2023, the CADFPI appointed the FDIC as the receiver for First Republic (CADFPI 2023a). The FDIC accepted a bid from JPMC to assume all the deposits (including uninsured deposits) and purchase “substantially all” ($211.7 billion) of the assets of First Republic (FDIC 2023d, 1; FDIC 2024; CADFPI 2023a). JPMC disclosed that it would not have purchased First Republic “just for ourselves” over one weekend but did so when the regulators relied on JPMC to “step forward” and to help strengthen the US financial system (JPMC 2024, 18, 65). 
+
+JPMC’s $5 billion deposit in First Republic was consolidated as part of the acquisition. On May 9, JPMC repaid the remaining $25 billion in deposits, including accrued interest, to the bank consortium (JPMC 2024). 
+
+JPMC recorded a $2.8 billion gain on the purchase, although it also said it would incur losses of $2 billion in post-tax restructuring charges from the acquisition of First Republic (JPMC 2023c; JPMC 2024). Going forward, JPMC said the positive impact on net income would be $500 million per year (JPMC 2023b). As of April 2024, JPMC and the FDIC had not completed the settlement process, after which the final purchase price and assumed assets/liabilities will be determined (JPMC 2024). 
+
+[FIGURE id=vol7_iss1_24_f3 type=diagram page=8 label="Figure 3" file=figure_3.png caption="Timeline of Emergency Liquidity Assistance to First Republic"]
+### **Figure 3: Timeline of Emergency Liquidity Assistance to First Republic**
+
+|**Date**|**Event**|
+|---|---|
+|December 31, 2022|First Republic has total assets of $212.6 billion, total deposits of $176.4 billion. Deposits<br>have grown rapidly from $99 billion in 2018.|
+|March 8, 2023|Silvergate Bank declares self-liquidation, as First Republic’s equity share price closes at<br>$115 per share.|
+
+
+
+
+|March 10, 2023|Silicon Valley Bank is taken over by federal regulators in the morning; deposit outflows<br>start at First Republic.|
+|---|---|
+|March 12, 2023|•<br>Signature Bank fails.<br>•<br>First Republic announces additional borrowing ability from Fed, FHLB, and JPMorgan<br>Chase, bringing available, unused liquidity to $70 billion, excluding the Bank Term<br>Funding Program.|
+|March 13, 2023|•<br>President Joe Biden in a television address stresses that the US banking system is<br>safe.<br>•<br>First Republic’s share price declines 73% in three business days to $31 per share as<br>the bank loses $65 billion in deposits in two days.|
+|March 14, 2023|Treasury Secretary Janet Yellen suggests idea of providing deposits to First Republic from<br>the largest US banks to JPMC CEO Jamie Dimon.|
+|March 15, 2023|Between March 10 and March 15, First Republic borrows as much as $109 billion at an<br>overnight rate of 4.75% from the Fed.|
+|March 16, 2023|Consortium of 11 banks announces $30 billion deposit injection to First Republic.|
+|March 20, 2023|First Republic develops 2023 go-forward plan intended to stabilize and recover.|
+|March 24, 2023|First Republic’s deposit run stabilizes by the end of this week, for the first time since the<br>emergency liquidity provision by the 11 banks.|
+|April 16, 2023|First Republic has deposit outflows of $102 billion since Q4 2022, almost all of which<br>were uninsured.|
+|April 24, 2023|Second run on First Republic’s deposits starts, with the bank losing $11 billion in deposits<br>following a negative earnings release.|
+|April 26, 2023|Federal Reserve Bank of San Francisco (FRBSF) restricts borrowings from the discount<br>window to overnight.|
+|April 28, 2023|First Republic is unable to garner additional liquidity from the Fed and the FHLB at<br>favorable market terms. FDIC and CADFPI downgrade the bank to “problem status,”<br>which has the effect of increasing the haircuts it faces at the discount window—wiping<br>out its remaining borrowing capacity at the Fed.|
+|April 29, 2023|FRBSF notifies the FDIC that adjustment to collateral values had eliminated any<br>additional borrowing capacity for First Republic.|
+|May 1, 2023|CADFPI takes possession of First Republic and appoints FDIC as the receiver. FDIC sells<br>First Republic’s assets and deposits to JPMC.|
+|May 9, 2023|JPMC settles the $5 billion deposit injection to First Republic as part of the acquisition<br>price and repays $25 billion to the bank consortium.|
+
+
+
+_Source: Authors’ analysis._ 
+
+## **Summary Evaluation** 
+
+The FDIC Office of Inspector General, in a material loss review of First Republic conducted by an external investigator, stated that the provision of $30 billion from the bank consortium was to stem the contagion effect of the failures of SVB and Signature Bank on the wider system. The deposit run at First Republic continued in the days after the deposit injection 
+
+
+and only stabilized the following week (OIG 2023). First Republic’s stock rose the day of the consortium deposit announcement but fell further the next day (see Figure 4). 
+
+Although the depositor run began on March 10, the day of SVB’s failure and the day after SVB’s run had begun, First Republic was able to remain open and out of government resolution until May 1. Regulators closed Silicon Valley Bank on March 10 and Signature Bank on March 12, and the FDIC (with concurrence from the Department of Treasury and the Fed Board of Governors) invoked its emergency “systemic risk exception” (SRE) authority to fully pay all uninsured depositors at both banks (FDIC 2023b, 1; Choi 2023). 
+
+The $30 billion of consortium deposits allowed the bank to reduce its short-term borrowings from the Federal Reserve. Deposit outflows slowed, and deposits stabilized for five weeks. Total deposits as of April 21 were $102.7 billion, down only 1.7% from March 31 (First Republic 2023f). However, First Republic’s second run on deposits initiated a month later, following the disclosure of a negative earnings release by the bank that revealed a greater liquidity deterioration than the market anticipated (OIG 2023). While announcing its results, First Republic said that it had lost $100 billion of deposits in March 2023, not counting the $30 billion inflow from the consortium. The _WSJ_ noted that First Republic had reported a 33% drop in quarterly profits due to expensive loans taken from the FHLB and the Fed, which were likely to adversely affect future earnings as well. In the first quarter of 2023, First Republic’s average loan book yield was 3.73%, versus the cost of short-term borrowings from the Fed/FHLB of 3–4.9% (Ensign 2023b). In the days after the results announcement, First Republic increased its borrowing from the Fed’s discount window and BTFP facility from about $75 billion on April 21 to $93 billion on April 28 (First Republic 2023f; CADFPI 2023b). 
+
+On March 17, the day after the consortium announcement, Todd Baker, a senior fellow at Columbia University’s Center for Business, Law, and Public Policy, told Bloomberg News that while large banks had been facing public scrutiny for attracting deposits from small banks, the rescue of First Republic provided the opportunity to be part of a constructive solution— benefiting First Republic and helping protect the large bank consortium from political criticism (Levitt et al. 2023). 
+
+Yet, stakeholders’ reactions to the consortium deposit generally remained net pessimistic. Critics expressed concerns about the temporary nature of the deposit and its failure to address concerns about First Republic’s solvency, given that the bank’s equity value would have been negative if it adjusted its assets to reflect market values. Concerns also persisted that the government had given private assurances to the consortium that their deposits would be protected—which would have complicated the government’s ability to resolve the bank consistent with the law—though there is no public evidence of this. 
+
+Fitch Ratings issued a press release on March 17, the day after the consortium deposit, saying it would continue to assess First Republic but that its franchise and liquidity profile had significantly weakened since the previous week (Fitch 2023a). The following week on March 22, Fitch downgraded First Republic’s long-term issuer default rating from BB to B. The commentary from Fitch said that the primary reason for a downgrade was that while the 
+
+
+deposits provided some needed liquidity, the bank’s funding profile was now relatively expensive. Fitch said that should First Republic have to repay the deposits at the end of the 120-day period, it would have to raise funds by selling assets. It went on, noting this would be challenging given “the fair market value of securities and loans are below their book value and a sale of assets would likely require a significant recapitalization” (Fitch 2023b, 1). 
+
+On March 19, S&P Global rating agency cut the credit rating on First Republic, for the second time in one week, from BB+ to B+. S&P Global stated that the $30 billion emergency liquidity line “should ease near-term liquidity pressures, but it may not solve the substantial business, liquidity, funding, and profitability challenges” that First Republic was facing (Gandel et al. 2023, 2). 
+
+Analysts from UBS said that the banking sector would “truly settle only after the market feels as if there is a longer-term solution“ to First Republic’s problems (Hirsch and Copeland 2023). Hedge fund manager Bill Ackman wrote that the deposit would merely spread the risk of contagion to the major banks and speculated that the major banks “would never have made this low return investment in deposits unless they were pressured to do so and without assurances that [First Republic] deposits would be backstopped if it failed” (Ackman 2023; Sorkin et al. 2023, 2). 
+
+After the bank failed, Michael Roffler, former president and CEO of First Republic, testified in Congress that the bank consortium was not ultimately successful since investor and depositor confidence never recovered. Roffler noted that First Republic’s clients continued to withdraw funds until May 1, 2023, when JPMC assumed remaining deposits and acquired the bank’s assets (Roffler 2023). 
+
+As noted, critics later argued that the government had implicitly backed the consortium’s deposit. They noted that JPMC’s bid for First Republic resulted in an expected loss of $15.6 billion to the Deposit Insurance Fund (DIF), without imposing losses on the consortium banks. Senator Elizabeth Warren—a regular bank critic—wrote to the chairs of the FDIC and Office of the Comptroller of the Currency (OCC) suggesting the FDIC did not follow the leastcost approach when it accepted the JPMC bid that protected all uninsured depositors, “including $30 billion in uninsured deposits from big banks” (Warren 2023, 1). A moredetailed bid evaluation that the FDIC provided to the Committee on Banking, Housing, and Urban Affairs of the Senate (Senate Banking Committee), which was subsequently shared with YPFS, provides additional details and suggests the JPMC bid did indeed represent the least-cost option to the FDIC, as it was modeled to be less costly than the other bids and the FDIC’s cost of liquidation (FDIC 2023d; FDIC 2024).[8] 
+
+> 8 Absent the invocation of its systemic risk exception, which requires the agreement of the Fed and the Treasury secretary, the FDIC must pursue the least-cost resolution option (FDIC 2023c; US Government 1950). 
+
+
+
+[FIGURE id=vol7_iss1_24_f4 type=figure page=12 label="Exhibit 4" file=exhibit_4.png caption=""]
+![Exhibit 4](assets/vol7_iss1_24/exhibit_4.png)
+
+
+_Sources: Bloomberg; World Bank Deposit Insurance Dataset; World Bank Global Financial Development Database._ 
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: A consortium of large US banks provided $30 billion in emergency liquidity to First Republic to express confidence in the US banking system, to help the bank continue to serve its customers, and to “help buy time” for the bank to formulate a restructuring plan.** 
+
+On March 10, 2023, after SVB’s closure, First Republic began to experience large deposit outflows owing to concerns about banks with similar risk exposures (FDIC 2023a; First Republic 2023f). First Republic had deposits of $173.5 billion[9] as of March 9, and experienced deposit outflows of $25 billion on Friday, March 10 (FDIC 2023a; First Republic 2023f). In a March 12 press release, First Republic announced that it had access to $70 billion in unused liquidity due to its additional borrowing capacity at the Fed,[10] FHLB, and JPMorgan Chase (First Republic 2023c). First Republic experienced further deposit outflows of $40 billion on Monday, March 13 (FDIC 2023a). 
+
+On March 16, 2023, a group of the largest US banks—comprising Bank of America, Citigroup, JPMorgan Chase, Wells Fargo, Goldman Sachs, Morgan Stanley, Bank of New York Mellon, PNC Bank, State Street, Truist, and U.S. Bank—announced that they would each make an uninsured deposit in First Republic Bank (see Figure 2) (Citigroup 2023). The deposits totaled $30 billion and were made at market rates with an initial period of 120 days (First Republic 2023e). 
+
+The $30 billion in unsured deposits allowed First Republic to reduce its short-term borrowing from the Fed and to slow its deposit outflows by the end of March (the second run on First Republic’s deposits started in late April after a negative earnings release by the bank) (First Republic 2023f; OIG 2023). Citigroup CEO Jane Fraser, in an interview at the Economic Club of Washington D.C., stated that the 11 large banks provided the uninsured deposit to “help buy time” so that the bank could formulate the right restructuring plan for First Republic (ECDC 2023, 4). 
+
+> 9 Despite some conflicting reporting, this $173.5 billion number reported by First Republic appears to be the correct deposit balance for March 9. First Republic ended 2022 with $176.4 billion of deposits, and it had been experiencing deposit growth in recent quarters (FFIEC 2022a; FFIEC 2023b; First Republic 2023a). First Republic reported the $173.5 billion figure for March 9 on April 24, 2023 (First Republic 2023f). The postfailure reports from both the FDIC and its Office of Inspector General (OIG) say that on March 10, the $25 billion withdrawal represented 17% of First Republic’s $148 billion of deposits; however, that appears to be an error of subtracting the $25 billion first, as though the bank started March 10 with [$173 billion less $25 billion] of deposits (FDIC 2023a; OIG 2023). Yet, both the FDIC and OIG are consistent with other reports in dating the beginning of First Republic’s run to March 10, implying that the $148 billion of deposits does not make sense for March 9. Moreover, the FDIC postmortem report notes that on March 9, First Republic “received a material net **inflow** of deposits” [emphasis added], consistent with former First Republic CEO Roffler’s testimony (FDIC 2023a; Roffler 2023). Thus, it seems that First Republic’s reported deposit balance of $173.5 billion is the correct figure for March 9. 
+
+> 10 This figure did not include any additional borrowing capacity created by the Fed’s rollout of the Bank Term Funding Program on March 12. 
+
+
+First Republic finished the first quarter of 2023 with $104.5 billion in deposits, a decrease of $72 billion over the quarter and a decrease of $69 billion just since March 9 despite the $30 billion inflow. Wealth management assets grew modestly over the quarter. As of March 31, First Republic had approximately $105.9 billion in outstanding assistance ($80.4 billion in short-term and $25.5 billion in long-term borrowings) from the Fed and the FHLB (First Republic 2023f). 
+
+[FIGURE id=vol7_iss1_24_f5 type=figure page=14 label="Figure 4" file=figure_4.png caption="First Republic Share Price"]
+### **Figure 4: First Republic Share Price**
+![Figure 4](assets/vol7_iss1_24/figure_4.png)
+
+
+Ticker symbol: FRCB. 
+
+_Sources: Bloomberg; authors’ analysis._ 
+
+First Republic reportedly spoke with at least one private equity firm about raising capital before the provision of emergency liquidity. There was “frenzied activity” over the weekend to restore investor confidence in other lenders after the collapse of SVB (Reuters 2023, 1). First Republic had been experiencing large share price declines at this point as well, as seen in Figure 4. Between March 10 and March 15, First Republic’s borrowings from the Fed varied between $20 billion and $109 billion at an overnight rate of 4.75% (First Republic 2023e). On March 15, 2023, First Republic’s total interest-bearing, non-deposit borrowings peaked at $138.1 billion (First Republic 2023f). 
+
+Over the weekend of March 11–12, following SVB’s failure, the FDIC prepared a bridge bank for First Republic but ultimately did not utilize it after assessing First Republic would be able to fund itself on Monday (SRAC 2023). On March 12, federal regulators even announced the 
+
+
+creation of bridge banks along with the invocation of the “systemic risk exception” to protect uninsured depositors at the failed SVB and failed Signature Bank (FDIC 2023b, 1).[11] 
+
+The FDIC recorded a final estimated loss of $15.6 billion to the Deposit Insurance Fund on June 5, 2023, in relation to First Republic. The OIG noted that First Republic failed because of contagion effects from other prominent bank collapses, a run on deposits, severe reduction in liquidity, and vulnerability in the bank’s business model (OIG 2023). 
+
+## **2. Part of a Package: First Republic also received liquidity assistance from the Fed, the FHLB, and JPMorgan Chase.** 
+
+First Republic’s March 12, 2023, press release cited additional borrowing capacity from the Fed, ability to access financing through a new credit line from JPMorgan, and continued access to FHLB funding as ways it strengthened and diversified its liquidity situation (First Republic 2023c). 
+
+In a press release, First Republic reported that its borrowings from the Federal Reserve between March 10 and March 15 varied between $20 billion and $109 billion. The bank also increased its short-term borrowings from the Federal Home Loan Bank by $10 billion over that period (First Republic 2023e). 
+
+On March 16, First Republic’s board of directors suspended the bank’s common stock dividend. Later in April, the board also suspended payments of the quarterly cash dividend on First Republic’s perpetual preferred stock (First Republic 2023f). 
+
+As of April 28, First Republic had approximately $121.3 billion in total borrowings, including $25.5 billion in long-term borrowings from the FHLB (First Republic 2023f). 
+
+On May 1, 2023, the CADFPI appointed the FDIC as the receiver for First Republic (CADFPI 2023a). The FDIC accepted a bid from JPMC to assume all the deposits (including uninsured deposits) and “substantially all” ($211.7 billion) of the assets of First Republic (FDIC 2023d, 1; FDIC 2024; CADFPI 2023a).[12] JPMC reported in its 2023 annual report that it used cash of $9.92 billion in the acquisition of First Republic (JPMC 2024). 
+
+To reduce JPMC’s loss exposure, the FDIC agreed to two shared-loss agreements as part of the deal to purchase First Republic: the Commercial Shared-Loss Agreement (CSLA) for five to eight years, and the Single-Family Share Loss Agreement (SFSLA) for seven years. The CSLA covered 80% of losses for a period of five years with a subsequent three-year recovery period for certain commercial and real estate loans. The SFSLA covered 80% of the credit losses, on a pari passu basis, on single-family residential mortgages.[13] The FDIC also lent 
+
+> 11 An official who was involved in the systemic risk exception process told YPFS that the systemic risk exception was actually approved for all three banks: SVB, Signature, and First Republic. 
+
+> 12 An FDIC report provided to the Senate Banking Committee said that, “approximately $23 billion in assets were retained in receivership – primarily cash and bank-owned life insurance” (FDIC 2024). 
+
+> 13 JPMC acquired $90.7 billion of residential mortgage loans from First Republic, mostly in California ($54.9 billion) and New York ($14.9 billion) (JPMC 2024). 
+
+
+JPMC $50 billion by acquiring a five-year secured note at a fixed rate of 3.4%, using the acquired loans as collateral (JPMC 2024). 
+
+On July 27, 2023, the FDIC proposed a rule to strengthen capital requirements for large banks with at least $100 billion in assets (OIG 2023). 
+
+## **3. Legal Authority: The private banks did not require any specific legal authority for the emergency liquidity provision.** 
+
+The $30 billion deposit was made by a group of 11 US banks (Citigroup 2023). Given the lack of government involvement or special conditions in the ad hoc emergency liquidity assistance from the bank consortium, no specific lending authority was relied upon. 
+
+## **4. Administration: A group of large US banks provided uninsured deposits to First Republic.** 
+
+A group of large US banks each made uninsured deposits of $5 billion, $2.5 billion, or $1 billion (Citigroup 2023). 
+
+Treasury Secretary Yellen was involved in initiating the idea of the deposits and in reaching out to bank leadership. JPMorgan CEO Dimon was also directly involved in recruiting other banks to take part in the consortium (Levitt et al. 2023). 
+
+## **5. Governance: There was no official oversight of the consortium’s deposit.** 
+
+While the US Treasury Secretary was closely involved in recruiting banks to fund the consortium’s emergency liquidity assistance, there’s no evidence of direct government involvement or oversight (Levitt et al. 2023). The banks involved discussed the intervention in press releases and in quarterly earnings materials (Citigroup 2023; Citi 2023; JPMC 2023d). 
+
+The FDIC’s Office of Inspector General engaged Cotton & Company Assurance and Advisory, LLC, to conduct the material loss review for First Republic. The OIG relied on reports and documents from the FDIC’s Division of Risk Management Supervision to conduct the loss review. The law requires the agency to conduct a material loss review when the failure of a bank results in an estimated loss of more than $50 million to the FDIC’s DIF (OIG 2023). 
+
+## **6. Communication and Disclosure: The banks announced the deposits via press releases.** 
+
+On Thursday, March 9, the equity share price of First Republic bank fell by about 15% owing to concerns of outflows of deposits from the bank (Ensign 2023a). By the next day, First Republic’s equity share price had fallen by almost 50%, which prompted trading halts, along with the shares of other regional banks in the US (Heeb 2023). 
+
+On Friday, March 10, First Republic filed a regulatory release that reiterated the bank’s “continued safety and stability and strong capital and liquidity positions” (First Republic 
+
+
+2023b, 2). The bank declared that its liquidity position remained very strong, including the availability of $60 billion of untapped borrowing capacity from federal authorities. First Republic also highlighted its track record of good credit quality, while reporting a nonperforming asset ratio of 0.06% (First Republic 2023b). 
+
+The regulatory release specified that First Republic’s investment securities portfolio was less than 15% of the bank’s total assets, with less than 2% of assets categorized as available for sale (First Republic 2023b). This was likely intended as a differentiator from Silicon Valley Bank, which had significant unrealized losses on its securities portfolio; however, the yet-tobe-announced BTFP would lend against only the par value of government securities, and First Republic had similar mark-to-market losses on its large loan portfolio, which was not eligible for the BTFP (FDIC 2023a; Fed 2023a). 
+
+On Sunday, March 12, then–First Republic Executive Chairman Jim Herbert and CEO and President Mike Roffler said the bank’s “capital and liquidity positions are very strong, and its capital remains well above the regulatory threshold for well-capitalized banks” (First Republic 2023c, 1). Herbert noted that, since the bank’s founding in 1985, First Republic had operationally emphasized safety, stability, and maintaining a diversified deposit base (First Republic 2023c). 
+
+On Monday, March 13, President Joe Biden stated that the White House and the Treasury were working with regulators to take actions to ensure that “Americans can have confidence that the banking system is safe” and that “deposits will be there when you need them” (Hunnicut, John, and Wee 2023, 1; White House 2023, 1). President Biden also discussed how Treasury Secretary Yellen and a team of banking regulators were taking immediate action to address the concerns. The statement addressed customers to reassure them that deposits were safe in banks and small businesses to ensure they could meet payroll, pay bills, and remain open for business (White House 2023). President Biden’s speech focused on a few important points, stating: 
+
+- No losses would be borne by the taxpayer; the money would come from fees paid by banks to the Deposit Insurance Fund. 
+
+- Managements of banks taken over by the FDIC would be fired. 
+
+- Investors in failed banks would not be protected, given the known risks involved. 
+
+- There would be a full account of what happened that would ascribe responsibilities. 
+
+- Steps would be taken to reduce the risks of this happening again, similar to the DoddFrank Act of 2010 that followed the Global Financial Crisis of 2007–2009 (GFC). 
+
+On the same day, First Republic’s equity price continued to decline due to contagion fears following the collapse of SVB and Signature Bank. Executive Chairman Herbert told CNBC in a television interview that First Republic was able to meet depositor withdrawal requests with the help of additional funding from JPMC. These assurances had a limited impact on markets, as First Republic’s share price continued to decline amidst multiple trading halts. A 
+
+
+spokesperson for First Republic noted to Reuters that the bank was “continuing to fully serve the needs of our clients . . . at our offices and online” (Singh and Bautzer 2023, 1). Christopher McGratty, a banking sector research analyst, stated that the banking industry’s main concern was the “crisis of confidence in the stickiness of deposits” (Singh and Bautzer 2023, 2). 
+
+The next day, March 14, the White House released a statement saying that it was “carefully monitoring developments at First Republic and other smaller banks,” in a bid to protect depositors across the country (Shalal 2023, 1). The White House spokesperson added that the US banking system was in “a vastly better position right now,” and that they were working with the Treasury and FDIC to address potential problems at banks of the same size as SVB. 
+
+We’re dedicating a lot of time to making sure that we’re navigating through this okay. We’re certainly monitoring what’s going on at First Republic. They’re one of the banks that has been under a little more stress, but we have no announcements at this time about any actions that we’re taking. (Shalal 2023, 1) 
+
+The 11 consortium banks released a shared press release on Thursday, March 16, 2023, to announce the $30 billion deposit. The release specifically used the term “uninsured deposits” to describe the assistance. It said that the action was meant to show confidence in the banking system and ensure First Republic had enough liquidity to continue serving its customers (Citigroup 2023, 1; JPMC 2023a). Also on March 16, Treasury Secretary Yellen, Fed Chair Jerome Powell, FDIC Chair Martin Gruenberg, and Acting Comptroller of the Currency Michael Hsu released a joint statement saying that the bank consortium’s show of support was welcome and demonstrated banking system resilience (Treasury 2023). The CADPFI stated that the bank consortium’s support indicated the importance of regional banks, which provide vital services to communities across the state (CADFPI 2023c). 
+
+On March 16, Herbert and Roffler, the bank’s CEO and president, stated: “We would like to share our deep appreciation for Bank of America, Citigroup, JPMorgan Chase, Wells Fargo, Goldman Sachs, Morgan Stanley, Bank of New York Mellon, PNC Bank, State Street, Truist, and U.S. Bank. Their collective support strengthens our liquidity position, reflects the ongoing quality of our business, and is a vote of confidence for First Republic and the entire U.S. banking system” (First Republic 2023d, 4). 
+
+The heads of major banks met on Monday, March 20, on the sidelines of the Financial Services Forum (FSF), an industry group representing the eight US global systemically important banks (G-SIBs), to formulate a plan to address concerns in the US regional banking system. The $30 billion emergency liquidity line to First Republic had failed to arrest a rapid decline in the equity shares of the bank; First Republic equity shares had declined 90% in the month of March and continued to decline after the deposit injection. Financial media reported that Jamie Dimon had then proposed a plan for all the 11 banks to convert their deposits into a capital infusion, to improve First Republic’s relative financial position. All eight members of the FSF had contributed to First Republic’s emergency liquidity provision (Gandel et al. 2023). 
+
+
+On March 22, Treasury Secretary Yellen told the US Senate’s Financial Services and General Government Appropriations Subcommittee that she was not considering insuring or guaranteeing all consumer deposits without congressional approval (Bautzer and Prentice 2023). Secretary Yellen further clarified that shareholders and debtholders of failed banks were not being protected by the government and that taxpayers had borne no losses from the resolutions. Yellen stated that the deposit protection is carried out by the DIF, which is funded by fees paid by insured banks (Yellen 2023a). However, following an adverse market reaction to Yellen’s comments on not all deposits being protected, she altered her language for the next day’s testimony to the US House of Representative’s Financial Services and General Government Appropriations Subcommittee (Wilkie 2023a; Wilkie 2023b). On March 22, she told the Senate (Yellen 2023a): 
+
+As I said last week, the U.S. banking system is sound. The federal government’s recent actions have demonstrated our resolute commitment to take the necessary steps to ensure that depositors’ savings remain safe. 
+
+On March 23, in front of the Committee on Financial Services of the House of Representatives (House Financial Services Committee), this section read (Yellen 2023b): 
+
+As I have said, we have used important tools to act quickly to prevent contagion. And they are tools we could use again. The strong actions we have taken ensure that Americans’ deposits are safe. Certainly, we would be prepared to take additional actions if warranted. 
+
+Also in March, Citigroup CEO Jane Fraser, in an interview at the Economic Club of Washington D.C., said that the 11 large banks came together to provide a “large capital deposit injection” to “help buy time” to formulate the right restructuring plan for First Republic (ECDC 2023, 4). Fraser stated that it was a good sign that the “banks did all come back together,” despite the intense competition amidst deals, to help protect the system against a confidence crisis (ECDC 2023, 4, 5). Fraser further clarified that it may have been Janet Yellen leading the effort to contact bank heads and to request participation in the emergency liquidity program. Fraser highlighted the active nature of discussions and engagement over the weekend to find a solution to the liquidity troubles (ECDC 2023). 
+
+On April 24, First Republic’s chief financial officer at the time, Neal Holland, said: 
+
+With the closure of several banks in March, we experienced unprecedented deposit outflows. We moved swiftly and leveraged our high-quality loan and securities portfolios to secure additional liquidity. We are working to restructure our balance sheet and reduce our expenses and short-term borrowings” (First Republic 2023g, 2). 
+
+As part of First Republic’s first-quarter 2023 earnings call, CEO Roffler highlighted that the bank had been “impacted by industry events” over several weeks and remained committed to “delivering exceptional client service” (First Republic 2023h, 1). Roffler reported that First Republic had retained 90% of its client relationships in the first quarter, including $11 billion of net inflows in the wealth management division. He also stated that First Republic would 
+
+
+reduce its workforce by 20–25% in the second quarter, along with reductions in executive compensation (First Republic 2023h). 
+
+Earlier in April, during Citigroup’s first-quarter 2023 earnings call, Fraser highlighted that 11 of the largest US banks came together to provide $30 billion of liquidity in little over a day, showcasing their strong capital and balance sheet positions. Fraser also reiterated the purpose of demonstrating confidence in the US banking system and recognizing the important role of large institutions in providing stability during a crisis (Citi 2023). 
+
+First Republic lost $100 billion of deposits in March 2023, not counting the $30 billion inflow from the consortium. The _WSJ_ noted that First Republic had reported a 33% drop in quarterly profits and was forced to take on expensive loans from the FHLB and the Fed toward the end of the quarter, which were likely to adversely affect future earnings as well. In the first quarter of 2023, First Republic’s average loan book yield was 3.73%, versus yields on short-term borrowings from the Fed/FHLB of 3–4.9% (Ensign 2023b). 
+
+First Republic was pursuing “strategic options,” while announcing an up to 25% reduction in its workforce and cutting back on nonessential projects and activities (Gandel 2023, 1). First Republic CEO Mike Roffler stated on the first-quarter earnings call that the bank had retained 90% of its client relationships, despite the uncertainty (Gandel 2023). 
+
+First Republic had been in touch with the White House, the Treasury, and the Fed to formulate a lasting solution for the bank’s problems. First Republic’s first-quarter earnings call was described as “poorly received” since the bank’s share price continued to fall following the management’s withdrawal of full-year financial guidance and refusal to take questions from industry analysts (see Figure 4) (Fontanella-Khan et al. 2023, 1). 
+
+First Republic included information on the deposits in its Q1 2023 report (First Republic 2023f). The exact interest rate on the consortium deposit was not disclosed, though the consortium’s press release said it was at market rates (Citigroup 2023). 
+
+In an interview at Stanford University in March 2025, Dimon said that neither the collapse of First Republic or SVB posed a serious threat to the banking system: 
+
+Two little banks basically go bankrupt, and it’s a whole big kerfuffle. We should have built a system that’s more resilient than that, and it’s not… We should go back to the drawing board and build a system [where] if the bank fails, it’s not a big deal… it was more about liquidity than it was about capital. (McDowell 2025) 
+
+## **7. Source and Size of Funding: The banks provided a total of $30 billion in uninsured deposits.** 
+
+Bank of America, Citigroup, JPMorgan, and Wells Fargo deposited $5 billion each into First Republic. Goldman Sachs and Morgan Stanley each deposited $2.5 billion; and BNY Mellon, PNC Bank, State Street, Truist, and U.S. Bank each deposited $1 billion (Citigroup 2023). The total amount of uninsured deposits placed by the consortium of banks was $30 billion (see Figure 2). 
+
+
+Two papers by Federal Reserve Bank of New York (FRBNY) authors showed the increase in deposit flows from regional banks to larger banks during the bank crisis in March 2023 (Cipriani, Eisenbach, and Kovner 2024; Luck, Plosser, and Younger 2023). The data indicated that immediately after the collapse of SVB, depositors initially shifted their funds to larger banks (see Figure 5) (Cipriani, Eisenbach, and Kovner 2024; Luck, Plosser, and Younger 2023). 
+
+[FIGURE id=vol7_iss1_24_f6 type=diagram page=21 label="Figure 5" file=figure_5.png caption="Deposit Outflows from Regional Banks to Larger Banks in Early March 2023"]
+### **Figure 5: Deposit Outflows from Regional Banks to Larger Banks in Early March 2023**
+![Figure 5](assets/vol7_iss1_24/figure_5.png)
+
+
+_Source: Luck, Plosser, and Younger 2023._ 
+
+## **8. Rates and Fees: The aid was provided as deposits, which earned market deposit rates.** 
+
+The $30 billion in deposits earned “market rates” according to the First Republic press release (First Republic 2023e, 1). In the first quarter of 2023, First Republic’s average yield on interest bearing deposits was 2.14% (First Republic 2023f). In the same period, First Republic’s average loan book yield was 3.73%, versus the rates it paid on short-term borrowings from the Fed and FHLB of 3–4.9% (Ensign 2023b). 
+
+For the quarter ended March 2023, First Republic witnessed a drop in every type of deposit, except certificates of deposits (CDs) or “time deposits”; the latter included the $30 billion emergency liquidity provided by the bank consortium (Ensign 2023b, 3). First Republic paid an average rate of 2.93% on the CDs (Ensign 2023b). 
+
+## **9. Loan Duration: The deposits were made for an initial term of 120 days.** 
+
+The First Republic press release described the deposits as being for an initial term of 120 days (First Republic 2023e). 
+
+
+The CADFPI seized First Republic on May 1, 2023, and appointed the FDIC as receiver (FDIC 2023c). The FDIC then entered into an agreement to sell the bank to JPMC (FDIC 2023c). JPMC returned $25 billion of deposits to the consortium of US banks on May 9 and settled its own $5 billion deposit as part of the acquisition (JPMC 2023d). 
+
+## **10. Balance Sheet Protection: The deposits were uninsured and not collateralized.** 
+
+The liquidity assistance was provided as uninsured deposits. The banks provided funds at three different sizes with no individual bank providing more than $5 billion in deposits (Citigroup 2023). 
+
+JPMC purchased First Republic, inclusive of all its insured and uninsured deposits, immediately upon its May 1 closure. On May 9, JPMC released an associated allowance for losses on its $5 billion deposit to First Republic, after repaying the remaining $25 billion of emergency liquidity assistance to the bank consortium (FDIC 2023c; JPMC 2023c). The _New York Times_ reported that Jamie Dimon wanted to ensure that JPMC did not lose money or face over the rescue of First Republic (Copeland and Farrell 2023). Dimon had previously called the acquisition of Bear Stearns and Washington Mutual during the GFC as “expensive lessons” because of the legal fees and fines related to the takeovers (Copeland and Farrell 2023, 3). The emergency liquidity provided to First Republic was in the form of refundable deposits and was expected to be paid back in full including interest in four months. The heads of the banks in the consortium expected to be fully reimbursed by the US government, in the case that First Republic had failed (Copeland and Farrell 2023). 
+
+Citi CEO Fraser, in a televised interview in late March 2023, agreed that her bank expected to be paid back “eventually” for the $5 billion provided to First Republic, indicating confidence in the system (ECDC 2023). 
+
+The FDIC reported that JPMC’s bid represented the least cost to the Deposit Insurance Fund of the options available, consistent with its statutory requirement to pursue the “least-cost resolution” absent any invocation of the systemic risk exception (FDIC 2023c, 1; US Government 1950). The FDIC recorded a loss of $15.6 billion to the Deposit Insurance Fund on June 5, 2023, in relation to First Republic (OIG 2023). Notably, three of the competing bids to JPMC’s winning bid would have left behind the consortium deposits in the FDIC receivership (likely resulting in losses for the consortium banks), while assuming all other deposits (FDIC 2023d). Indeed, Senator Elizabeth Warren—a regular bank critic—wrote to the chairs of the FDIC and OCC suggesting the FDIC did not follow the least-cost approach when it accepted the JPMC bid that protected all uninsured depositors, “including $30 billion in uninsured deposits from big banks” (Warren 2023, 1). A more-detailed bid evaluation that the FDIC provided to the Senate Banking Committee, which was subsequently shared with YPFS, provides additional details and suggests the JPMC bid did indeed represent the leastcost option to the FDIC, as it was modeled to be less costly than the other bids and the FDIC’s cost of liquidation (FDIC 2023d; FDIC 2024). 
+
+
+## **11. Impact on Monetary Policy Transmission: The ad hoc emergency liquidity assistance does not appear to have had any implications for monetary policy transmission.** 
+
+The ad hoc emergency liquidity assistance does not appear to have had any implications for monetary policy transmission. The assistance was privately funded and did not involve central bank reserve creation. 
+
+## **12. Other Conditions: The consortium assistance did not come with any conditions.** 
+
+The consortium facility did not come with any other conditions. 
+
+
+## **References and Key Program Documents** 
+
+## **Summary of Program** 
+
+(FDIC 2023a) Federal Deposit Insurance Corporation (FDIC). 2023a. “FDIC’s Supervision of First Republic Bank.” September 8, 2023. 
+
+_Report providing the FDIC’s assessment of the failure and the supervision of First Republic Bank_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4776 
+
+(OIG 2023) Office of Inspector General (OIG). 2023. “Material Loss Review of First Republic Bank.” November 28, 2023. 
+
+_Report evaluating the supervision and rescue of First Republic Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/4811/ 
+
+## **Implementation Documents** 
+
+(CADFPI 2023b) State of California Department of Financial Protection and Innovation (CADFPI). 2023b. “First Republic Bank - Order Taking Possession.” Press release, May 1, 2023. 
+
+_Order from California’s commissioner of financial protection and innovation on taking possession of First Republic_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4819 
+
+(FDIC 2023b) Federal Deposit Insurance Corporation (FDIC). 2023b. “Joint Statement by the Department of the Treasury, Federal Reserve, and FDIC.” Press release, March 12, 2023. _Notice describing the application of the systemic risk exception by the FDIC_ . https://elischolar.library.yale.edu/ypfs-documents2/4777 
+
+(FDIC 2024) Federal Deposit Insurance Corporation (FDIC). 2024. “First Republic Bank Bid Evaluation Briefing.” March 18, 2024. 
+
+_Document describing the four different bids for First Republic Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/3944 
+
+## **Legal/Regulatory Guidance** 
+
+(US Government 1950) US Government (US Government). 1950. “Federal Deposit Insurance Act. Section 13. Corporate Monies.” Public Law 797; 64 Stat. 888, September 21, 1950. 
+
+_Document presenting a section of the Federal Deposit Insurance Act_ . https://elischolar.library.yale.edu/ypfs-documents2/4774 
+
+(US Government 1968) Code of Federal Regulations (US Government). 1968. “Obligations Eligible as Collateral for Advances.” 12 CFR § 201.108, 1968. 
+
+_Statute describing the rules and regulations ascribed by federal regulators to banks and financial institutions_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/5198 
+
+
+## **Media Stories** 
+
+(Ackman 2023) Ackman, Bill (Ackman). 2023. “@SecYellen Has Apparently Pushed the SIBs to Recycle Some of the Deposits They Received from @firstrepublic Back into FRB for 120 Days. . .” Twitter, March 16, 2023. 
+
+_Post describing the view of a prominent fund manager on the social media platform Twitter (now X)_ . https://elischolar.library.yale.edu/ypfs-documents2/4759 
+
+(Kelly 2023) Kelly, Steven. 2023. “The Fed Gets Ratioed, Bank Capital Edition.” _Financial Times_ , August 31, 2023. 
+
+_Article assessing the Banking Crisis of 2023 in the US_ . https://elischolar.library.yale.edu/ypfs-documents2/4807 
+
+(McDowell 2025) McDowell, Michael. 2025. “Jamie Dimon Talks About Regulation, Remote Work, and What Keeps Him Up at Night.” Stanford Graduate School of Business, Newsroom, March 5, 2025. 
+
+_Summary of Jamie Dimon’s interview at Stanford’s Graduate School of Business_ . https://elischolar.library.yale.edu/ypfs-documents2/5352/ 
+
+(Sorkin et al. 2023) Sorkin, Andrew Ross, Mattu Ravi, Sarah Kessler, Michael de la Merced, Lauren Hirsch, and Ephrat Livni. 2023. “Are America’s Banks Safe Yet?” _New York Times_ , March 17, 2023. 
+
+_Article describing concerns about the deal presented to rescue First Republic_ . https://elischolar.library.yale.edu/ypfs-documents2/4816 
+
+(Bautzer and Prentice 2023) Bautzer, Tatiana, and Chris Prentice. 2023. “First Republic Shares Fall as Yellen Says Not Considering ‘Blanket Insurance’ on Bank Deposits.” Reuters, March 22, 2023. 
+
+_Article describing First Republic and Secretary Yellen’s comments about no blanket deposit insurance coverage_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4761 
+
+(Choi 2023) Choi, Candice. 2023. “The Banking Crisis: A Timeline of Key Events.” _Wall Street Journal_ , May 11, 2023. 
+
+_Article providing a timeline for the banking crisis from March to May 2023_ . https://elischolar.library.yale.edu/ypfs-documents2/4762 
+
+(Copeland and Farrell 2023) Copeland, Rob, and Maureen Farrell. 2023. “Jamie Dimon Reprises 2008 Role as Rescuer of a Failing Bank.” _New York Times_ , March 30, 2023. _Article describing the role of Jamie Dimon in the Banking Crisis of 2023_ . https://elischolar.library.yale.edu/ypfs-documents2/4767 
+
+(Ensign 2023a) Ensign, Rachel Louise. 2023a. “First Republic Stock Falls Amid Deposit Concerns.” _Wall Street Journal_ , March 9, 2023. 
+
+_Article describing the sudden drop in First Republic’s equity price_ . https://elischolar.library.yale.edu/ypfs-documents2/4772 
+
+
+(Ensign 2023b) Ensign, Rachel Louise. 2023b. “First Republic Lost $100 Billion in Deposits in Banking Panic.” _Wall Street Journal_ , April 25, 2023. _Article providing an update on the financial health of First Republic Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/4771 
+
+(Fontanella-Khan et al. 2023) Fontanella-Khan, James, Colby Smith, Stephen Gandel, and Brooke Masters. 2023. “Sharp Sell-off in First Republic Shares Causes Alarm in Washington.” _Financial Times_ , April 26, 2023. 
+
+_Article describing the significant selling pressure on the shares of First Republic Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/4795 
+
+(Gandel 2023) Gandel, Stephen. 2023. “First Republic Shares Plunge as It Reveals $100bn Deposit Flight.” _Financial Times_ , April 25, 2023. _Article describing the continued run on deposits at First Republic_ . https://elischolar.library.yale.edu/ypfs-documents2/4797 
+
+(Gandel et al. 2023) Gandel, Stephen, Joshua Franklin, Brooke Masters, and Ortenca Aliaj. 2023. “Wall Street Chief Executives Seek New Plan for First Republic.” _Financial Times_ , March 20, 2023. 
+
+_Article describing the sell-off in the shares of First Republic Bank and potential rescue plan_ . https://elischolar.library.yale.edu/ypfs-documents2/4796 
+
+(Heeb 2023) Heeb, Gine. 2023. “First Republic, Signature Bank, Other Regional Bank Stocks Halted Amid Selloff.” _Wall Street Journal_ , March 10, 2023. 
+
+_Article describing the negative pressure on the equity prices of regional banks in the US_ . https://elischolar.library.yale.edu/ypfs-documents2/4799 
+
+(Hirsch and Copeland 2023) Hirsch, Lauren, and Rob Copeland. 2023. “First Republic and Other Banks Seek to Attract Buyers.” _New York Times_ , March 17, 2023. _Article describing First Republic’s plan to sell equity in a private transaction_ . https://elischolar.library.yale.edu/ypfs-documents2/4800 
+
+(Hunnicut, John, and Wee 2023) Hunnicut, Trevor, Alun John, and Rae Wee. 2023. “Biden Pledges ‘Whatever Needed’ for U.S. Bank System as SVB Meltdown Roils Markets.” _Reuters_ , March 13, 2023. 
+
+_Article providing a statement by the president of the United States amid the Banking Crisis of 2023_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4801 
+
+(Levitt et al. 2023) Levitt, Hannah, Annmarie Hordern, Jennifer Surane, and Saleha Mohsin. 2023. “How First Republic Bank Received a $30 Billion Lifeline.” Bloomberg, March 17, 2023. 
+
+_Article describing the emergency deposit provision to First Republic_ . https://elischolar.library.yale.edu/ypfs-documents2/4808 
+
+
+(Reuters 2023) Reuters. 2023. “First Republic Spoke to Private Equity before Securing Financing -Sources.” Reuters, March 15, 2023. _Article describing First Republic’s options for liquidity in March 2023_ . https://elischolar.library.yale.edu/ypfs-documents2/5205 
+
+(Shalal 2023) Shalal, Andrea. 2023. “US Watching Developments at First Republic, Other Banks - White House.” _Reuters_ , March 14, 2023. 
+
+_Article describing a statement by the White House in the aftermath of the collapse of SVB_ . https://elischolar.library.yale.edu/ypfs-documents2/4812 
+
+(Singh and Bautzer 2023) Singh, Medha, and Tatiana Bautzer. 2023. “First Republic Shares Dive on Contagion Fear, Dragging U.S. Regional Banks.” _Reuters_ , March 13, 2023. _Article describing the rapid decline in the equity prices of regional banks_ . https://elischolar.library.yale.edu/ypfs-documents2/4815 
+
+(Wilkie 2023a) Wilkie, Christina. 2023a. “‘Blanket Insurance’ of Bank Deposits Is Not Being Discussed, Yellen Tells Senators.” March 22, 2023. 
+
+_Article providing clarifications made by the US Treasury Secretary during the Banking Crisis of 2023_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4824 
+
+(Wilkie 2023b) Wilkie, Christina. 2023b. “Yellen Says Treasury Is Ready to Take ‘Additional Actions If Warranted’ to Stabilize Banks.” March 23, 2023. 
+
+_Article describing statements made by the US Treasury secretary during the Banking Crisis of 2023_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4825 
+
+## **Press Releases/Announcements** 
+
+(CADFPI 2023a) State of California Department of Financial Protection and Innovation (CADFPI). 2023a. “California Financial Regulator Takes Possession of First Republic Bank.” Press release, May 1, 2023. 
+
+_Press release announcing the takeover of First Republic by the state of California_ . https://elischolar.library.yale.edu/ypfs-documents2/4818 
+
+(CADFPI 2023c) State of California Department of Financial Protection and Innovation (CADFPI). 2023c. “DFPI Statement: First Republic Bank.” Press release, March 16, 2023. _Document presenting the statement by the California state regulator on the deposit provision by 11 large banks_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4768 
+
+(CADFPI 2023d) State of California Department of Financial Protection and Innovation (CADFPI). 2023d. “Review of DFPI Oversight and Regulation of Silicon Valley Bank.” Press release, May 9, 2023. 
+
+_Document summarizing the regulatory framework for banks in California, including SVB_ . https://elischolar.library.yale.edu/ypfs-documents2/5209 
+
+
+(Citigroup 2023) Citigroup. 2023. “Bank of America, Citigroup, JPMorgan Chase, Wells Fargo, Goldman Sachs, Morgan Stanley, BNY-Mellon, PNC Bank, State Street, Truist and U.S. Bank to Make Uninsured Deposits Totaling $30 Billion into First Republic Bank.” Press release, March 16, 2023. 
+
+_Press release on the $30 billion in uninsured deposits given to First Republic by 11 large US banks_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4764 
+
+(FDIC 2023c) Federal Deposit Insurance Corporation (FDIC). 2023c. “JPMorgan Chase Bank, National Association, Columbus, Ohio Assumes All the Deposits of First Republic Bank, San Francisco, California.” May 1, 2023. 
+
+_FDIC press release announcing the closure of First Republic Bank_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4778 
+
+(Fed 2023) Board of Governors of the Federal Reserve System (Fed). 2023. “Federal Reserve Board Announces It Will Make Available Additional Funding to Eligible Depository Institutions to Help Assure Banks Have the Ability to Meet the Needs of All Their Depositors.” Press release, March 12, 2023. 
+
+_Document disclosing the creation of a new liquidity facility to help banks meet depositor demands_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4781 
+
+(Fed 2023a) Board of Governors of the Federal Reserve System (Fed). 2023a. “Bank Term Funding Program.” Press release, March 12, 2023. 
+
+_Document outlining the details of the Federal Reserve’s new liquidity facility for banks_ . https://elischolar.library.yale.edu/ypfs-documents2/4779 
+
+(FFIEC 2022a) Federal Financial Institutions Examination Council (FFIEC). 2022a. “Consolidated Reports of Condition and Income for a Bank with Domestic and Foreign Offices - FFIEC 031 (First Republic 2022).” RSSD-ID 4114567, April 28, 2022. _Report disclosing a regulatory filing by First Republic Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/5200 
+
+(FFIEC 2022b) Federal Financial Institutions Examination Council (FFIEC). 2022b. “Consolidated Reports of Condition and Income for a Bank with Domestic and Foreign Offices - FFIEC 031 (SVB 2022).” RSSD-ID 802866, August 29, 2022. _Report disclosing a regulatory filing by Silicon Valley Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/4813 
+
+(FFIEC 2023a) Federal Financial Institutions Examination Council (FFIEC). 2023a. “Consolidated Reports of Condition and Income for a Bank with Domestic and Foreign Offices - FFIEC 031 (SVB 2023).” February 16, 2023. _Report disclosing a regulatory filing by Silicon Valley Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/4814 
+
+
+(FFIEC 2023b) Federal Financial Institutions Examination Council (FFIEC). 2023b. “Consolidated Reports of Condition and Income for a Bank with Domestic and Foreign Offices - FFIEC 031 (First Republic 2023).” RSSD-ID 4114567, February 27, 2023. 
+
+_Report disclosing a regulatory filing by First Republic Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/5201 
+
+(First Republic 2023a) First Republic Bank (First Republic). 2023a. “Form 10-K.” Press release, February 13, 2023. 
+
+_Regulatory release providing a financial and business update by First Republic Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/5202 
+
+(First Republic 2023b) First Republic Bank (First Republic). 2023b. “Form 8-K.” Press release, March 10, 2023. 
+
+_Regulatory release providing an update on First Republic’s liquidity position_ . https://elischolar.library.yale.edu/ypfs-documents2/4783 
+
+(First Republic 2023c) First Republic Bank (First Republic). 2023c. “First Republic Bank Strengthens and Diversifies Liquidity.” March 12, 2023. 
+
+_First Republic press release on available liquidity from the Federal Reserve and JPMorgan_ . https://elischolar.library.yale.edu/ypfs-documents2/4784 
+
+(First Republic 2023d) First Republic Bank (First Republic). 2023d. “Form 8-K.” Press release, March 16, 2023. 
+
+_Regulatory release disclosing the provision of $30 billion of liquidity from a consortium of banks_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4790 
+
+(First Republic 2023e) First Republic Bank (First Republic). 2023e. “Reinforcing Confidence in First Republic Bank.” Press Release, March 16, 2023. 
+
+_Press release on the uninsured deposits from a group of large banks_ . https://elischolar.library.yale.edu/ypfs-documents2/4792 
+
+(First Republic 2023f) First Republic Bank (First Republic). 2023f. “First Republic Reports First Quarter 2023 Results.” Press release, April 24, 2023. 
+
+_Regulatory release presenting the earnings results for the first quarter for 2023 of First Republic_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4785 
+
+(First Republic 2023g) First Republic Bank (First Republic). 2023g. “Form 8-K.” Press release, April 24, 2023. 
+
+_Regulatory release providing the earnings update for First Republic Bank for the first quarter of 2023_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4786 
+
+
+(First Republic 2023h) First Republic Bank (First Republic). 2023h. “Q1 2023 Earnings Call.” Regulatory release, April 24, 2023. _Transcript presenting the quarterly earnings call for First Republic_ . 
+
+(Fitch 2023a) Fitch Ratings (Fitch). 2023a. “First Republic’s Ratings Remain on Watch After U.S. Banks Deposit $30 Billion.” Non-rating action commentary, March 17, 2023. _Press release covering Fitch’s ratings for First Republic after the USD 30 billion deposit_ . https://elischolar.library.yale.edu/ypfs-documents2/4793 
+
+(Fitch 2023b) Fitch Ratings (Fitch). 2023b. “Fitch Downgrades First Republic’s IDR to ‘B’; Maintains Rating Watch Negative.” Rating action commentary, March 22, 2023. _Press release covering Fitch’s ratings downgrade for First Republic_ . https://elischolar.library.yale.edu/ypfs-documents2/4794 
+
+(JPMC 2023a) JP Morgan Chase & Co. (JPMC). 2023a. “Bank of America, Citigroup, JPMorgan Chase, Wells Fargo, Goldman Sachs, Morgan Stanley, BNY Mellon, PNC Bank, State Street, Truist and U.S. Bank to Make Uninsured Deposits Totaling $30 Billion into First Republic Bank.” Press release, March 16, 2023. 
+
+_Press release announcing the $30 billion deposit into First Republic_ . https://elischolar.library.yale.edu/ypfs-documents2/4802 
+
+(JPMC 2023b) JP Morgan Chase & Co. (JPMC). 2023b. “JPMorgan Chase Acquires Substantial Majority of Assets and Assumes Certain Liabilities of First Republic Bank.” Press release, May 1, 2023. 
+
+_Press release describing the acquisition of a part of First Republic Bank_ . http://elischolar.library.yale.edu/ypfs-documents2/4891 
+
+(JPMC 2023d) JP Morgan Chase & Co. (JPMC). 2023d. “Form 10-Q.” Press release, August 3, 2023. 
+
+_Regulatory release presenting the earnings results for the second quarter for 2023 for JP Morgan_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4803 
+
+(Treasury 2023) US Department of the Treasury (Treasury). 2023. “Joint Statement by the Department of the Treasury, Federal Reserve, FDIC and OCC.” Press release, March 16, 2023. 
+
+_Press release announcing the $30 billion deposit into First Republic_ . https://elischolar.library.yale.edu/ypfs-documents2/4822 
+
+(White House 2023) White House. 2023. “Remarks by President Biden on Maintaining a Resilient Banking System and Protecting Our Historic Economic Recovery.” Speech delivered at the White House, March 13, 2023. 
+
+_Speech providing an update by the president of the United States after the collapse of Silicon Valley Bank_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4823 
+
+
+## **Reports/Assessments** 
+
+(Barr 2023) Barr, Michael S. 2023. “Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley Bank.” April 28, 2023. _Report describing the supervision of SVB by the Federal Reserve_ . https://elischolar.library.yale.edu/ypfs-documents2/4025/ 
+
+(Cipriani, Eisenbach, and Kovner 2024) Cipriani, Marco, Thomas M. Eisenbach, and Anna Kovner. 2024. “Tracing Bank Runs in Real Time.” September 20, 2024. _Report tracing interbank payment data to track bank runs during the Banking Crisis of 2023_ . https://elischolar.library.yale.edu/ypfs-documents2/4763 
+
+(Citi 2023) Citigroup (Citi) (Citi). 2023. “First Quarter 2023 Earnings Review Transcript.” Press release, April 14, 2023. 
+
+_Transcript of the earnings review for the first quarter of 2023 for Citigroup_ . https://elischolar.library.yale.edu/ypfs-documents2/4765 
+
+(ECDC 2023) Economic Club of Washington, DC. (ECDC). 2023. “Signature Event: Jane Fraser with David M. Rubenstein.” Interview transcript, March 22, 2023. 
+
+_Interview with Citi CEO Jane Fraser about the disruptions to the global banking system._ https://elischolar.library.yale.edu/ypfs-documents2/4769 
+
+(FDIC 2023d) Federal Deposit Insurance Corporation (FDIC). 2023d. “Bid Summary.” May 31, 2023. 
+
+_Report presenting the bids for First Republic Bank by potential acquirers_ . https://elischolar.library.yale.edu/ypfs-documents2/4775 
+
+(Fed 2023b) Board of Governors of the Federal Reserve System (Fed). 2023b. “Collateral Valuation.” Collateral Information, November 1, 2023. 
+
+_Report providing the Federal Reserve’s fair value estimates for collateral valuation in discount window operations_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4780 
+
+(Fed 2024) Board of Governors of the Federal Reserve System (Fed). 2024. “The Primary and Secondary Lending Programs.” General Information, June 7, 2024. 
+
+_Report describing the liquidity programs offered to the banking system by the Federal Reserve_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4046/ 
+
+(FRBSL 2024) Federal Reserve Bank of St. Louis (FRBSL). 2024. “Deposits, All Commercial Banks.” Federal Reserve Economic Data (FRED), August 25, 2024. _Database providing the growth in deposits at all commercial banks in the US_ . https://elischolar.library.yale.edu/ypfs-documents2/5203 
+
+
+(FSB 2023) Financial Stability Board (FSB). 2023. “2023 Bank Failures: Preliminary Lessons Learnt for Resolution.” October 10, 2023. _Report discussing the initial lessons from the Banking Crisis of 2023_ . https://elischolar.library.yale.edu/ypfs-documents2/4364 
+
+(GAO 2024) Government Accountability Office (GAO). 2024. “Federal Home Loan Banks: Actions Related to the Spring 2023 Bank Failures.” GAO-24-106957, March 8, 2024. _Report detailing a review of regulatory actions in the buildup to the Banking Crisis of 2023_ . https://elischolar.library.yale.edu/ypfs-documents2/4821 
+
+(JPMC 2023c) JP Morgan Chase & Co. (JPMC). 2023c. “2023 Resolution Plan Public Filing.” July 1, 2023. _Report disclosing the resolution plan for JP Morgan_ . https://elischolar.library.yale.edu/ypfs-documents2/4804 
+
+(JPMC 2024) JP Morgan Chase & Co. (JPMC). 2024. Annual Report 2023. April 2024. _Annual report for the full year 2023_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4806 
+
+(Luck, Plosser, and Younger 2023) Luck, Stephan, Matthew Plosser, and Josh Younger. 2023. “Bank Funding during the Current Monetary Policy Tightening Cycle.” May 11, 2023. _Report discussing the change in composition of funding across banks since the start of the Fed’s tightening cycle_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4809 
+
+(Roffler 2023) Roffler, Michael J. 2023. “Testimony before the Committee on Financial Services, US House of Representatives.” May 17, 2023. 
+
+_Document detailing the testimony by the former CEO of First Republic Bank to a House subcommittee._ 
+
+https://elischolar.library.yale.edu/ypfs-documents2/5207 
+
+(SRAC 2023) Systemic Resolution Advisory Committee (SRAC). 2023. “Systemic Resolution Advisory Committee Meeting: Transcript.” December 5, 2023. 
+
+_Minutes describing the meeting of an advisory committee of the FDIC_ . https://elischolar.library.yale.edu/ypfs-documents2/5212 
+
+(Warren 2023) Warren, Elizabeth. 2023. “Letter to the FDIC and OCC Regarding the First Republic-JPMorgan Deal.” May 17, 2023. 
+
+_Letter from a US Senator asking the FDIC and OCC for the rationale of the sale of First Republic_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/5210 
+
+(Yellen 2023a) Yellen, Janet. 2023a. “Testimony before the Financial Services and General Government Appropriations Subcommittee, US Senate.” March 22, 2023. _Transcript of Treasury Secretary Yellen’s comments to a Senate committee_ . https://elischolar.library.yale.edu/ypfs-documents2/4826 
+
+
+(Yellen 2023b) Yellen, Janet. 2023b. “Testimony before the Financial Services and General Government Appropriations Subcommittee, US House.” March 23, 2023. _Transcript of Treasury Secretary Yellen’s comments to a House committee_ . https://elischolar.library.yale.edu/ypfs-documents2/4827 
+
+## **Key Academic Papers** 
+
+(Kelly et al. 2025) Kelly, Steven, Vincient Arnold, Greg Feldberg, and Andrew Metrick. 2025. “Survey of Ad Hoc Emergency Liquidity Programs." _Journal of Financial Crises_ 7, no. 1. _Survey of YPFS case studies examining the provision of ad hoc emergency liquidity_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/3/ 
+
+(Wiggins et al. 2022) Wiggins, Rosalind Z., Sean Fulmer, Greg Feldberg, and Andrew Metrick. 2022. “Broad-Based Emergency Liquidity Programs.” _Journal of Financial Crises_ 4, no. 2. 
+
+_Survey of YPFS case studies examining broad-based emergency liquidity programs._ https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/3/ 
+
+Copyright 2025 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

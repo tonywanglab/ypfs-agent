@@ -1,0 +1,101 @@
+{
+  "rubric_id": "rubric_v1",
+  "version": 1,
+  "criteria": [
+    {
+      "id": "survey_shapes_reasoning",
+      "description": "Uses survey documents (e.g., vol7_iss1_3 on ad hoc emergency liquidity programs) to shape the overarching analytical framing and plan structure, without citing them directly.",
+      "check_type": "llm",
+      "weight": 1.0,
+      "deterministic_check": null
+    },
+    {
+      "id": "case_study_support",
+      "description": "When making design suggestions, cites case studies similar to the user's problem and relevant to any surveys retrieved (e.g., Latvia-Parex, US-AIG RCF), rather than citing surveys directly.",
+      "check_type": "llm",
+      "weight": 1.0,
+      "deterministic_check": null
+    },
+    {
+      "id": "no_survey_citations",
+      "description": "Never cites a document whose document_type is 'survey'.",
+      "check_type": "deterministic",
+      "weight": 1.0,
+      "deterministic_check": "no_survey_citations"
+    },
+    {
+      "id": "citations_resolve",
+      "description": "Every cited doc_id resolves to real corpus metadata and was actually retrieved or fetched during the run.",
+      "check_type": "deterministic",
+      "weight": 1.0,
+      "deterministic_check": "citations_resolve"
+    },
+    {
+      "id": "completed_without_error",
+      "description": "The run produced a substantive final answer without a tool error or hitting the step limit.",
+      "check_type": "deterministic",
+      "weight": 1.0,
+      "deterministic_check": "completed_without_error"
+    },
+    {
+      "id": "options_structure",
+      "description": "When asked for a plan or recommendation, presents multiple named options/archetypes with tradeoffs rather than a single prescriptive answer.",
+      "check_type": "llm",
+      "weight": 1.0,
+      "deterministic_check": null
+    },
+    {
+      "id": "advisory_stance",
+      "description": "Illuminates options and tradeoffs for the principal to decide, rather than issuing an unqualified directive.",
+      "check_type": "llm",
+      "weight": 1.0,
+      "deterministic_check": null
+    },
+    {
+      "id": "bagehot_modernized",
+      "description": "Treats Bagehot's dictum accurately ('lend freely, against good collateral, at a high rate'): recognizes that with good collateral, solvency and moral-hazard concerns are moot, and does NOT treat 'lend only to solvent institutions' as canonical Bagehot doctrine (that requirement was ascribed by later authors). Lender-of-last-resort design reasoning should not rest on a 'solvent but illiquid' litmus test.",
+      "check_type": "llm",
+      "weight": 1.0,
+      "deterministic_check": null
+    },
+    {
+      "id": "terminology_discipline",
+      "description": "Handles loaded crisis terminology with skepticism and precision: 'solvency' is a point-in-time accounting comparison that is hard to evaluate in real time (asset/franchise values are endogenous to the crisis response); 'liquidity' problems and runs are almost always symptoms of a market viability judgment, not standalone conditions; 'moral hazard' is defined strictly as a post-lending information asymmetry and incentive-design consideration carrying no ethical connotation. Defines these terms precisely when the user or a document invokes them, and does not let them drive the analysis uncritically.",
+      "check_type": "llm",
+      "weight": 1.0,
+      "deterministic_check": null
+    },
+    {
+      "id": "viability_framing",
+      "description": "Reframes solvency/insolvency questions around 'viability' \u2014 whether creditors and markets believe the institution can continue as a going concern, inclusive of expected official interventions. Recognizes that a firm can be accounting-insolvent yet viable (e.g., SVB pre-run with cheap funding implying a healthy projected margin) or accounting-solvent yet nonviable, and that careless use of 'insolvent' can itself trigger panic and runs.",
+      "check_type": "llm",
+      "weight": 1.0,
+      "deterministic_check": null
+    },
+    {
+      "id": "moral_hazard_placement",
+      "description": "When moral hazard is relevant, locates its mitigation primarily in follow-on structural interventions (capital injections, guarantees, restructurings) rather than baking punitive conditions into the emergency loan itself.",
+      "check_type": "llm",
+      "weight": 1.0,
+      "deterministic_check": null
+    },
+    {
+      "id": "stigma_and_penalty_pricing",
+      "description": "Analyzes punitive ('make it sting') pricing correctly: penalty rates deter borrowing and brand borrowers as desperate, potentially triggering the panic the loan was meant to prevent, leaving banks operating below capacity. Recognizes penalty rates may suit broad-based backstop facilities, but for targeted emergency lending only 'lend freely' survives from the dictum. Discusses stigma-mitigation design where relevant.",
+      "check_type": "llm",
+      "weight": 1.0,
+      "deterministic_check": null
+    },
+    {
+      "id": "precedent_coverage",
+      "description": "Retrieves and cites the most relevant historical case-study precedents in the corpus for the design question at hand, not just the obvious ones (e.g., the US Y2K Special Liquidity Facility's removal of the 'exhaust private sources first' requirement as a stigma/participation-barrier mitigation precedent).",
+      "check_type": "llm",
+      "weight": 1.0,
+      "deterministic_check": null
+    }
+  ],
+  "created_at": "2026-07-15T17:59:53Z",
+  "parent_rubric_id": null,
+  "rationale": "Rebased from the previously active rubric_v4 as the two-variable harness baseline.",
+  "derived_from_review_ids": []
+}

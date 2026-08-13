@@ -1,0 +1,696 @@
+## Ireland: Anglo Irish Bank Emergency Liquidity Assistance, 2009[1] 
+
+_Salil Gupta,[2] Mahdi Khairallah,[3] and Nik Adlina Nik Mokhtar[4]_ 
+
+Yale Program on Financial Stability Case Study April 15, 2025 
+
+## **Abstract** 
+
+At the height of the Global Financial Crisis in September 2008, Anglo Irish Bank (Anglo), one of Ireland’s six core banks, specializing in commercial and residential real estate with EUR 101.3 billion in assets, faced severe losses. Irish authorities announced a blanket deposit and liability guarantee for the six banks including Anglo. At the same time, Anglo was offered standby liquidity facilities of EUR 3 billion from the Central Bank of Ireland (CBI) and EUR 10 billion from the two largest Irish commercial banks, which were not drawn on at the time. Anglo was nationalized in January 2009, as deposit outflows and losses persisted. By March 2009, Anglo had accessed emergency liquidity assistance (ELA) of EUR 23.5 billion from the CBI, against collateral that did not qualify for Eurosystem monetary operations. The Irish government provided Anglo an initial capital injection of EUR 4 billion in May 2009. In 2010, the government provided to Anglo an additional EUR 25.3 billion of capital in four tranches of fixed-rate promissory notes (PNs)—liabilities of the government—which could be further provided to the CBI as collateral to access the ELA facility. By the end of 2010, Anglo’s use of the ELA grew to EUR 28.1 billion. Between 2010 and 2011, Anglo’s ELA borrowings were increasingly secured by only a government guarantee. In July 2011, Anglo merged with an Irish housing bank, or building society, to form Irish Bank Resolution Corporation (IBRC). The CBI’s emergency lending facility to Anglo ended with the liquidation of IBRC in February 2013. At the liquidation, the CBI took ownership of the PNs and other government obligations from Anglo. The Irish government exchanged the outstanding PNs with the CBI for marketable floating-rate sovereign notes worth at least EUR 40 billion. This helped reduce the Department of Finance’s interest costs and allowed the CBI to manage the monetary impact of the repayment of the Irish state’s debts over time. 
+
+## **Keywords:** Anglo Irish Bank, crisis management, emergency liquidity assistance, Ireland 
+
+> 1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering ad hoc emergency liquidity provision. A survey of all the cases in this series (Kelly et al. 2025) and the individual cases underlying it are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/. Wiggins et al. (2022) surveys broadbased emergency liquidity programs. 
+
+> 2 Senior Research Associate, YPFS, Yale School of Management. 
+
+> 3 Master’s in Business Administration, Yale School of Management. 
+
+4 Master’s Degree in Systemic Risk, Yale School of Management. 
+
+The authors wish to thank Patrick Honohan, former governor of the Central Bank of Ireland, and Greg Feldberg, Director of Research , YPFS, Yale School of Management, for their help with this case study. 
+
+
+## **Overview** 
+
+This case study describes the ad hoc emergency liquidity assistance the Central Bank of Ireland (CBI) provided to Anglo Irish Bank (Anglo) during the Global Financial Crisis (GFC). 
+
+As of September 30, 2008, Anglo was one of the six core banks in Ireland, with a balance sheet of EUR 101.3 billion (USD 142.7 billion).[5] In 2009, Anglo represented more than 50% of Ireland’s GDP (Anglo 2009; EC 2009). Anglo accounted for a significant share of customer deposits in Ireland and provided loans to the retail, office, leisure, healthcare, and tourism sectors. Anglo could be characterized as a “monoline” bank, focusing on commercial and real estate lending to the three core markets of Ireland, the United Kingdom, and the United States (EC 2009, 2). 
+
+Because Anglo’s growth stemmed from lending to the property development sector, the bank started to face severe financial losses and capital deterioration subsequent to the marked decline in the Irish property market. Anglo’s short-term liquidity ratios also highlighted that the bank did not expect to have sufficient funds to pay deposit withdrawals (Tynan 2020). 
+
+On September 29, 2008, Ireland announced a broad-based guarantee program that covered EUR 400 billion in deposits and selected other liabilities of six Irish banks, including Anglo (for details, see SchaeferBrown [2022]). Anglo was also allowed access to special liquidity facilities of EUR 3 billion from the CBI and EUR 10 billion from the two largest commercial banks, Bank of Ireland (BOI) and Allied Irish Bank (AIB). Anglo did not draw on these facilities, as 
+
+## **Key Terms** 
+
+Purpose: to help the CBI and ECB gain time to formulate a rescue plan for the bank 
+
+||Announcement<br>Date|No specific announcement on<br>the ELA granted|
+|---|---|---|
+||Operational Date|September 30, 2008|
+||Termination Date|February 7, 2013|
+||Legal Authority|Section 5 B(d) of the Central|
+|||Bank Act, 1942|
+||Administrator|Central Bank of Ireland|
+||Peak Authorization|Not disclosed|
+||Peak Outstanding|At least EUR 40 billion|
+||Collateral|Customer loans, government<br>PNs, NAMA bonds,<br>government guarantees|
+||Haircut and<br>Recourse|Applied haircuts but no<br>public information on the|
+|||details|
+||Interest Rate and|Eurosystem’s Marginal|
+||Fees|Lending Facility rate plus|
+|||100 basis points|
+||Term|No public information.|
+|||Facility Deed’s initial term|
+|||was one month, but it was<br>later extended to 18 months|
+||Part of a Package|Other key assistances|
+|||granted: guarantee, asset|
+|||acquisition, nationalization|
+|||and capital injection|
+||Outcomes|Exit of ELA through collateral|
+||Notable Features|exchange transactions<br>The Irish government’s<br>assistance to Anglo was|
+|||largely provided after|
+|||nationalization; Ireland|
+|||issued PNs to recapitalize<br>Anglo;<br>_(continued)_|
+
+
+
+> 5 According to Yahoo Finance, USD 1 = EUR 0.71 on September 30, 2008. 
+
+
+deposits briefly recovered following the announcement of the government guarantee (Honohan 2010). 
+
+Nonetheless, Anglo continued to experience funding outflows toward the end of the year owing to concerns about growing credit losses and corporate governance (EC 2009). Anglo was not able to fully recoup the vast 
+
+Notable Features these PNs  were used as _(continued)_ collateral for the ELA and effectively transferred risk from the CBI to the government; ELA was increasingly depended on government guarantees rather than collateral over four years 
+
+amounts of deposits that depositors had withdrawn prior to the government’s guarantee announcement (Nyberg 2011). In December, the Irish government proposed a capital injection of EUR 1.5 billion into Anglo by issuing preference shares (Baudino, Murphy, and Svoronos 2020; EC 2009). In January 2009, Anglo was nationalized[6] —taken under government ownership and control—under the Anglo Irish Bank Corporation Act, and the Irish government decided to defer the previously announced capital injection at that time (EC 2009). The minister for finance, in consultation with the CBI and the financial regulator,[7] declared that Anglo was solvent and would continue to operate on a going-concern basis with government support as required (CBI 2009). 
+
+Following Anglo’s nationalization, Anglo continued to face a challenging funding market with a decline in deposits from nonretail customers and market counterparts (EC 2009). In March 2009, the CBI agreed to provide the bank with EUR 11.5 billion in emergency liquidity assistance (ELA) against collateral that did not qualify for standard Eurosystem monetary operations (Whelan 2012). By the end of the month, Anglo’s total borrowing from from the CBI and ECB had grown to EUR 23.5 billion (see Figure 1) (EC 2009). 
+
+[FIGURE id=vol7_iss1_11_f1 type=chart page=5 label="Figure 1" file=figure_1.png caption="Anglo’s Key Metrics between 2008 and 2009 (EUR billions)"]
+### **Figure 1: Anglo’s Key Metrics between 2008 and 2009 (EUR billions)**
+
+||September 2008|March 2009|
+|---|---|---|
+|Impaired Loans|0.9|10.7|
+|Borrowingfrom Central Banks|7.6|23.5|
+|Core Tier 1 Capital(4% regulatoryminimum)|5.9%|1.4%|
+|Total Capital(8% regulatoryminimum)|12%|8.2%|
+
+
+
+Note: The figures for 2009 were estimated by Anglo and do not account for the Irish state’s investment. 
+
+_Sources: Anglo 2010; EC 2009._ 
+
+At the end of May, 2009, Anglo Irish released its 2009 interim report for the six months through March 31, 2009. Its new management had determined that impaired loans had increased almost tenfold, to EUR 10.7 billion (see Figure 1). Anglo’s borrowing from central 
+
+> 6 According to Ireland’s Department of Finance, the decision to nationalize Anglo was made to mitigate the risks of a ratings downgrade, to recoup market certainty, to stem deposit outflows, to allow for an orderly resolution of the loan book, and to maintain direct ministerial control over the bank’s governance issues (Nyberg 2011). 
+
+> 7 Ireland’s financial regulator was the Irish Financial Services Regulatory Authority (IFSRA), a separately governed entity within the CBI, which was responsible for bank supervision and consumer protection (Baudino, Murphy, and Svoronos 2020). 
+
+
+banks, including the European Central Bank (ECB) and CBI, had increased to EUR 23.5 billion (or 9.9% of Ireland’s 2009 GDP) in March 2009, from EUR 7.6 billion in September 2008. Its core Tier 1 capital was 1.4%, below the 4% regulatory minimum, which would trigger the need for a restructuring of the business under the Credit Institutions (Financial Support) Act of 2008. Anglo’s interim report indicated concerns that the bank’s solvency ratios were expected to fall further by September 2009. On May 28, 2009, to avoid an immediate restructuring, the financial regulator allowed Anglo to temporarily suspend capital requirements for one month, with the expectation of a capital injection by the government (EC 2009). 
+
+Starting in May 2009, Irish authorities provided a capital injection of EUR 4 billion in cash to Anglo in return for newly issued common shares, which the EC declared as necessary toward “restoring market confidence in the Irish financial sector” (Baudino, Murphy, and Svoronos 2020; EC 2009, 1, 13). The state’s capital injection was carried out as a “temporary urgent relief” to allow time to begin restructuring the bank to restore long term viability, or to move toward a potential liquidation (EC 2009, 14). Ireland committed to notifying the EC about Anglo’s final restructuring plan by November 2009 (EC 2009). Capital injections into other Irish banks, including AIB and BOI, were made from the National Pensions Reserve Fund Commission (NPRFC), on behalf of the Department of Finance (DoF). In contrast, Irish authorities provided Anglo’s capital injection from the Exchequer,  since authorities believed that these funds were unlikely to be recovered (Baudino, Murphy, and Svoronos 2020, FN 40). This was indicative of the high level of distress at Anglo (EC 2009). 
+
+Following the nationalization and the initial government capital injection, Anglo’s deposit outflows and losses continued throughout 2009 and 2010. To meet its liquidity demands, Anglo’s emergency liquidity borrowings grew from EUR 10 billion in February 2009 to EUR 28.1 billion by the end of December 2010. The ELA ceiling was regularly subject to nonobjection from the ECB’s Governing Council (Baudino, Murphy, and Svoronos 2020). 
+
+Anglo had insufficient ECB-eligible collateral to back these borrowings and would have had negative equity capital of EUR 26 billion by the end of 2010, had it not been for the capital injection already made in 2009 and further capital injections from the government in 2010 (Tynan 2020). The DoF addressed both liquidity and solvency problems in 2010 by acquiring an additional EUR 25.3 billion in new ordinary shares in Anglo in four tranches between March and December (Anglo 2011). To pay for these shares, the DoF issued a promissory note (PN) that Anglo could hold as an asset and post with the central bank as collateral for further draws on ELA (see Key Design Decision No. 7, Source and Size of Funding) (Anglo 2011; Baudino, Murphy, and Svoronos 2020). 
+
+It is relevant to note that, in the weeks before the Irish government applied for an international financial assistance program from the EU and the International Monetary Fund (IMF) in late 2010, all the other five domestically controlled Irish banks also had recourse to ELA as they suffered funding runs. In March 2011, as part of the conditions of the EU-IMF program, the remaining deposit liabilities of Anglo, and of another, smaller banking entity 
+
+
+Irish Nationwide Building Society (INBS)[8] , along with assets (that were eligible for ECB borrowings), were sold to other Irish banks. These transactions had the effect of concentrating all of the ELA of the Irish banking system into the two entities that were being wound down, namely Anglo and INBS (Government of Ireland 2022; Honohan 2019). 
+
+In July 2011, Anglo was merged with INBS to form a new entity called Irish Bank Resolution Corporation (IBRC) (Tynan 2020). At the end of 2011, IBRC’s ELA borrowings had declined from an earlier peak, to stand at EUR 40 billion, where they remained into 2013 (Baudino, Murphy, and Svoronos 2020; CBI 2012). Ireland’s new Labour government, formed in 2011, wanted to replace PNs with longer-term, more affordable financing (MerrionStreet 2013b). PNs were described as an “onerous and unfair legacy of the banking crisis,” with a lifetime cost to the Irish taxpayer of EUR 48 billion (MerrionStreet 2013b, 1). The Irish Taoiseach (prime minister) described Anglo as “stains on our international reputations and dents to our national pride” (MerrionStreet 2013b, 1). In 2013, the Irish government announced the unwinding of PNs in the liquidation of IBRC (MerrionStreet 2013a). 
+
+On February 7, 2013, the IBRC was liquidated after a special legislation which allowed Irish authorities to repay the CBI’s PNs through the proceeds of long-duration sovereign- and government-guaranteed bonds in a collateral exchange transaction (Baudino, Murphy, and Svoronos 2020). Anglo’s ELA borrowings involved a varying combination of three different ELA contractual arrangements: (1) Master Loan Repurchase Agreement (MLRA), (2) Special Master Repurchase Agreement (SMRA), and (3) Facility Deed (See Key Design Decision No. 7, Source and Size of Funding). At first, the MLRA was used and collateral provided in the form of banking assets. Later, the majority of the funds provided to Anglo were through the SMRA, including by means of the sale and repurchase of PNs (Anglo 2011). The Facility Deed was a loan guaranteed by the Irish government but otherwise unsecured. The ELA was also eventually secured by a floating charge on the assets of Anglo (IBRC 2014). 
+
+At the time of its liquidation in February 2013, IBRC had roughly EUR 25 billion outstanding under the SMRA and EUR 15 billion outstanding under the Facility Deed (Houses of the Oireachtas 2013). The liquidation of IBRC on February 7, 2013 under special legislation triggered action by the CBI to replace the (nontransferable) PNs and Facility Deed, which it acquired as a result of the liquidation, with transferable securities (IBRC 2014). The PNs and the associated SMRA obligation to the CBI were replaced with long-duration, nonamortising, floating-rate sovereign bonds that the CBI could sell over time. The Irish sovereign bonds had an average maturity of 34 to 35 years, compared with the PN with an average maturity of seven to eight years. In practice, the floating-rate notes were disposed of well before maturity, as agreed to by the CBI with the ECB (Government of Ireland 2022). 
+
+The CBI sold the Facility Deed and the rights under the floating charge to the National Asset Management Association (NAMA), a government agency created in 2009 to take over and sell troubled assets, in exchange for new government-guaranteed NAMA bonds (Baudino, Murphy, and Svoronos 2020). NAMA created a special purpose vehicle called National Asset 
+
+> 8 The Irish government provided INBS a capital injection of EUR 100 million in 2010 (Government of Ireland 2022). 
+
+
+Resolution Limited (NARL) to claim these rights over IBRC’s assets and the floating-rate notes under the Facility Deed. NARL issued the new NAMA bonds to the CBI in an amount equivalent to the amount outstanding from the Facility Deed (IBRC 2014). These transactions were conducted at market value; they had the effect of deferring and reducing the net costs to the Exchequer and allowed the CBI to contain the risks to financial stability (see Figure 2) (Baudino, Murphy, and Svoronos 2020; Houses of the Oireachtas 2013). This move also led to a EUR 20 billion reduction in projected borrowings for National Treasury Management Agency (NTMA), which greatly reduced the debt servicing costs to the Irish economy (MerrionStreet 2013b). 
+
+[FIGURE id=vol7_iss1_11_f2 type=diagram page=8 label="Figure 2" file=figure_2.png caption="Timeline for Anglo Irish Bank’s Emergency Liquidity Assistance"]
+### **Figure 2: Timeline for Anglo Irish Bank’s Emergency Liquidity Assistance**
+
+|**Figure 2: Timeline**|**for Anglo Irish Bank’s Emergency Liquidity Assistance**|
+|---|---|
+|**Date**|**Event**|
+|September 2008|The Irish government announces the Irish blanket guarantee covering liabilities worth<br>EUR 400 billion for six domestic banks including Anglo|
+|September 30, 2008|Anglo is provided standby liquidity facilities of EUR 3 billion from the CBI and EUR 5 billion<br>from Ireland’s two largest commercial banks|
+|December 21, 2008|Irish government announces a proposed capital injection of EUR 1.5 billion to Anglo|
+|January 15, 2009|Irish government announces nationalization of Anglo and does not provide the previously<br>announced capital injection of EUR 1.5 billion|
+|March 31, 2009|Anglo’s borrowing from central banks, both CBI and ECB, increases to EUR 23.5 billion<br>from EUR 7.6 billion in September 2008|
+|March 2009|CBI provides emergency liquidity of EUR 11.5 billion to Anglo; the collateral provided to<br>the CBI did not qualify for Eurosystem monetary operations|
+|May 29, 2009|Irish government announces that it will provide EUR 4 billion to Anglo as per a bank<br>recapitalization program|
+|June 15, 2009|Irish authorities formally notify the EC about the capital injection to Anglo|
+|October 2009|All six Irish banks, including Anglo, are asked by the CBI to submit a three-year business<br>and recovery plan; Anglo seems to be nonviable|
+|November 2009|NAMA is created to acquire distressed loans from Irish credit institutions covered by the<br>blanket guarantee|
+|March 30, 2010|Irish government recapitalizes Anglo through issuance of PNs valued at EUR 8.3 billion<br>and involving equal annual payments over more than 10 years. Subsequent revisions<br>mean that the last PNs payment is not due until 2031. Interest rates on successive<br>tranches of PNs increase to more than 8%. CBI’s prudential capital assessment review<br>shows a capital gap of EUR 10.9 billion at three other large banks|
+|May 28, 2010|PNs issued to Anglo are increased by EUR 2 billion|
+|August 23, 2010|PNs issued to Anglo increased by EUR 8.58 billion|
+|October 15, 2010|Letter of the ECB president to the Irish minister for finance cautions against the use of<br>ELA as a long-term solution. The letter also notes that to consider further liquidity<br>provision, the ECB governing council will take into account progress the Irish government<br>undertakes in implementing structural reforms and banking sector restructuring|
+
+
+
+
+|November 19, 2010|Letter from the ECB president to the Irish minister for finance explicitly conditioning the<br>continued provision of ELA to Irish banks on the Irish government’s move to consolidate<br>its finances and introduce structural and financial sector restructuring|
+|---|---|
+|December 31, 2010|PNs issued into Anglo increased by EUR 6.42 billion|
+|February 24, 2011|The majority of deposits of Anglo and INBS are transferred to AIB and Irish Life &<br>Permanent respectively|
+|July 1, 2011|Anglo and INBS, which were both being wound down owing to large losses in the property<br>sector, are merged to become IBRC|
+|December 2011|IBRC’s ELA borrowings stand at EUR 40 billion and Eurosystem borrowings at EUR 2 billion|
+|February 7, 2013|IBRC is liquidated and CBI recovers its ELA dues over time through the sale and maturity<br>of assets acquired in special liquidation through collateral exchange transactions|
+
+
+
+_Sources: Baudino, Murphy, and Svoronos 2020; authors’ analysis._ 
+
+## **Summary Evaluation** 
+
+Researchers have noted the extended period of time over which the ECB and CBI had provided ELA to Anglo, which deviated from the tool’s use as a temporary liquidity measure to tide over a going-concern bank or to facilitate the resolution or liquidation of a nonviable bank (Baudino, Murphy, and Svoronos 2020; Eichengreen 2015). While implicitly criticizing the extent to which Anglo became reliant upon emergency liquidity for most of its funding after nationalization, Baudino, Murphy, and Svoronos (2020, 5, 41) remark that “ELA is only one component of a wider crisis management framework, has a limited role and it is not meant to replace or delay the implementation of other measures.” Central banks accounted for 70% of Anglo’s total funding in 2010 and 87% of the newly merged IBRC’s total funding in 2011 (Anglo 2011). While the CBI’s ELA was meant to buy time, the CBI and ECB found themselves “locked into” a liquidity arrangement, owing to the absence of other solutions, that lasted almost four years to allow for a restructuring and wind down of IBRC (Baudino, Murphy, and Svoronos 2020, 29). The Irish government had effectively guaranteed the liabilities of Anglo and would not have been able to meet the liabilities in cash without causing financial stability concerns, given the country’s loss of access to financial markets in 2010. 
+
+In his 2010 evaluation, the new CBI governor, Patrick Honohan, noted that the initial consensus among officials back in September 2008 was that the problems at Irish banks were about liquidity rather than solvency (Honohan 2010). 
+
+Professor Barry Eichengreen, in a paper presented at the International Monetary Fund’s (IMF) Conference on Ireland, noted that the Irish policymakers in September 2008 were “operating under a severe asymmetry of information,” which adversely affected the ability to respond adequately to market pressures, or distinguish between insolvency and illiquidity (Eichengreen 2015, 115). Eichengreen further stated that Irish authorities did not challenge the assurances made by Anglo’s management that the bank only faced liquidity problems. He suggested that the Irish authorities should have, before nationalization, split Anglo into a good bank to secure depositors, and a bad bank to ascribe losses to unsecured creditors 
+
+
+under liquidation. The paper emphasized the need to distinguish between insolvency and illiquidity to be able to effectively respond to crises (Eichengreen 2015). 
+
+Eichengreen also criticized the EU’s role in managing the crisis. He noted that Irish authorities did not receive wise counsel from the ECB before providing a blanket guarantee. He also criticized the ECB for pressuring Ireland to request a troika (EC, ECB, and IMF) program in 2010, to refrain from haircutting senior unsecured bondholders, and to sell bank assets at a quicker pace than the CBI thought appropriate (Eichengreen 2015). 
+
+Researchers at the Bank for International Settlements (BIS) noted that upfront recognition of the fiscal implications of any liquidity support granted to the banks may help avoid the emergence of a damaging sovereign-bank loop that can be extremely difficult to exit, especially without external support. Like Eichengreen, they argued that the availability of a bank resolution framework in September 2008 would have allowed the ELA to be more effective and serve its original purpose as a liquidity bridge (Baudino, Murphy, and Svoronos 2020). 
+
+The Anglo case also raises the question whether central banks should use emergency liquidity facilities for failed banks. The BIS researchers argued that ELA “is generally understood as being reserved for going-concern banks experiencing temporary liquidity issues” (Baudino, Murphy, and Svoronos 2020, 41). However, it isn’t uncommon for central banks to use temporary ELA to facilitate the restructuring or liquidation of insolvent banks. The Anglo case is unusual because the ELA was ultimately extended for four years while the government delayed the decision to liquidate the bank. 
+
+Researchers also noted the need for careful calibration of emergency liquidity facilities to ensure that the incentives are in place for a timely exit from an ad hoc facility. In Anglo’s case, a novel solution involving a collateral exchange was required for the ELA to end and for the CBI to be repaid (Baudino, Murphy, and Svoronos 2020). 
+
+Researchers criticized the use of government PNs to recapitalize the bank while accessing central bank liquidity. The same BIS report argued that recapitalizing banks with nonmarketable securities might have a more limited impact on market confidence than a recapitalization involving cash or marketable securities, and may only delay the eventual fiscal costs associated with fixing the troubled banks. The issuance of term funding by the central bank effectively subsidizes the banking system, while ascribing significant risks to the central bank balance sheet. The BIS report acknowledged that Ireland had limited fiscal capacity or market access for its debt during the crisis; still, the BIS report argued that it would have been better to base the PNs on market terms and at market rates (Baudino, Murphy, and Svoronos 2020). 
+
+As part of a Joint Parliamentary Inquiry into Ireland’s crisis, it was disclosed that Irish authorities had in 2008 and 2009 relied on a loan book analysis performed by PricewaterhouseCoopers (PwC) to assess the solvency of six Irish banks, and  that Anglo was audited by Ernst & Young before 2008. Brian Cowen, former Taoiseach and minister for finance, noted that the review performed by PwC was “hopelessly optimistic” since “in a very 
+
+
+turbulent market situation, it is difficult to know what’s illiquid and what’s insolvent;” he could not recall any explicit discussion about the insolvency of any bank (Houses of the Oireachtas 2016, 262). Baudino et al. (2020) states that although Anglo was nationalized in January 2009, the separation between viable and nonviable banks was only made by Irish authorities in October 2009, when all six Irish banks were asked to submit three-year recovery plans. It was increasingly clear by that time that Anglo would be nonviable. 
+
+Governor Honohan, in his 2010 report on the Irish crisis, highlighted the choices faced by previous policymakers in 2008 that “either Anglo’s disorderly bankruptcy had to be avoided, or protective measures taken for the rest of the system, or—as was decided—both” (Honohan 2010, 132). Honohan also suggested an ex post alternative rescue operation of closing Anglo and limiting the guarantee to Irish banks other than Anglo. He notes that such a decision would not have been risk-free, with the potential of creating additional debilitating spillover effects at the time on other EU countries (Honohan 2010). The researchers at the BIS concluded that both the Anglo case and the overall Irish experience demonstrated the importance of intrusive supervisory oversight, of contingency planning for crisis periods, and of the need to collect and use reliable data on banks to calibrate an appropriate response to banking crises (Baudino, Murphy, and Svoronos 2020). 
+
+The IMF’s report in 2022 indicated that the CBI and the DoF were working together to develop interagency protocols, including an incident response protocol, to use early intervention powers or to determine if a bank was likely to fail. The IMF recommended that the CBI develop policies and procedures for assessing the solvency of a bank that may be entering resolution to determine potential emergency liquidity assistance facilities. It was noted that the adoption of the Bank Resolution and Restructuring Directive (BRRD) in Ireland in 2015 had helped provide complementary resolution powers to Irish authorities. The CBI and DoF also agreed to a Recovery and Resolution (R&R) Engagement Framework to enhance cooperation in the event of a bank failure. The Eurosystem set out new rules in 2020 on notifications between the ECB and national central banks on ELA. The national central banks retain the ability to provide emergency liquidity, with some objection from the ECB, if national central banks solely bear the risk of loss (IMF 2022). 
+
+
+
+[FIGURE id=vol7_iss1_11_f3 type=figure page=12 label="Exhibit 3" file=exhibit_3.png caption=""]
+![Exhibit 3](assets/vol7_iss1_11/exhibit_3.png)
+
+
+_Sources: Bloomberg; World Bank Deposit Insurance Dataset; World Bank Global Financial Development Database._ 
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: Anglo received ELA from the CBI as a systemically important bank to ensure financial stability. Broadly, ELA required collateral acceptable to the CBI and the bank’s solvency.** 
+
+Emergency liquidity assistance (sometimes referred to by the CBI as “exceptional liquidity assistance”) can be used by a Eurosystem national central bank, such as the CBI, to assist solvent financial institution that do not have collateral eligible for normal Eurosystem monetary policy operations (ECB 2013). This ELA is distinct from the funding operations carried out for monetary policy implementation through the ECB (CBI 2011). 
+
+Because of persistent challenges in funding markets and the decline in deposit funding, Anglo’s borrowing from the ECB and CBI increased to EUR 23.5 billion by March 2009 (Anglo 2010; EC 2009). Anglo also received EUR 11.5 billion in emergency liquidity from the CBI, by providing collateral that did not qualify for standard Eurosystem monetary operations (Whelan 2012). 
+
+Anglo was offered ELA in 2008 because of fears that its funding difficulties would spill over through contagion to other large banks, leading to a sustained economy-wide disruption in Ireland. The initial purpose of the ELA was to “buy time,” owing to the systemic importance of Anglo and its similarity to the rest of the Irish banking system (Honohan 2010, 131). Following the announcement of the blanket guarantee in September 2008, the broader Irish financial system experienced a strong resurgence in liquidity. However, Anglo was unable to recover all of its lost deposit funding (Nyberg 2011). 
+
+Anglo received a recapitalization of EUR 4 billion from the Irish authorities as a step toward ensuring its long-term viability in May 2009 (Baudino, Murphy, and Svoronos 2020; EC 2009). In late May 2009, the financial regulator allowed Anglo to temporarily suspend capital requirements following the initial capital injection by the government. The state’s capital injection was carried out as a “temporary urgent relief” to allow time to begin restructuring the bank to restore long term viability or to move toward a potential liquidation (EC 2009, 14). 
+
+Through 2010, Anglo received EUR 25.3 billion in additional capital in the form of PNs (a type of government liability), which it could use as collateral for loans from the CBI under the ELA facility. Anglo’s borrowing under the emergency facility increased to EUR 28.1 billion in four tranches by the end of December 2010, mostly backed by the PNs as collateral (See footnote 8) (Baudino, Murphy, and Svoronos 2020). 
+
+Former CBI Governor John Hurley stated to a joint parliamentary inquiry, that the CBI provided emergency liquidity only to banks based on a determination of solvency by the financial regulator. David Doyle, the former secretary general of the DoF, also stated that there was a concern that Anglo’s “illiquidity would rapidly become insolvency” (Houses of the Oireachtas 2016, 262). 
+
+
+The ECB’s rules at the time stated that ELA could be used for a solvent but illiquid credit institution which did not have sufficient collateral to use for normal ECB lending operations. To determine an institution as systemically important, the CBI could have used three criteria: size, interconnectedness, and substitutability. Anglo likely did not satisfy the size and substitutability criteria, but its interconnectedness could have justified it being regarded as a systemically important institution. Anglo’s collapse would have put additional funding pressure on Irish banks due to threats of contagion and common implicit reliance on the Irish state for emergency funding (Honohan 2010). (For more details, see Key Design Decision No. 7, Source and Size of Funding.) 
+
+Anglo’s ELA involved a varying combination of three different contractual arrangements: 
+
+- Master Loan Repurchase Agreement (MLRA); 
+
+- Special Master Repurchase Agreement (SMRA); and 
+
+- Facility Deed (Anglo 2011). 
+
+The majority of the funds provided to Anglo were through the SMRA, including the sale and repurchase of PNs (Anglo 2011). 
+
+Anglo was merged with INBS to create a new entity called IBRC in July 2011 (Tynan 2020). The outstanding ELA obligations of the merged entity resulted in the collateral’s being seized by the CBI and exchanged with other marketable assets when IBRC was liquidated in February 2013 (Baudino, Murphy, and Svoronos 2020). 
+
+At the time of its liquidation in 2013, IBRC’s total borrowings under the ELA facility were roughly EUR 40 billion (Baudino, Murphy, and Svoronos 2020). That included roughly EUR 25 billion outstanding under the SMRA and EUR 15 billion outstanding under the Facility Deed (Houses of the Oireachtas 2013). 
+
+**2. Part of a Package (A): The extension of ELA to Anglo was preceded by a broadbased guarantee of EUR 400 billion covering most deposits and liabilities of six Irish banks.** 
+
+Ireland implemented a blanket guarantee of EUR 400 billion covering most deposits and liabilities of six Irish banks in September 2008 (Schaefer-Brown 2022; Tynan 2020). Anglo received two standby liquidity facilities of EUR 3 billion from the CBI and EUR 10 billion from Ireland’s largest commercial banks (Honohan 2010, 124). Anglo never accessed those facilities because deposits temporarily recovered following the government guarantee announcement. 
+
+Anglo was one of the six core banks covered under the Irish Guarantee Scheme for financial institutions adopted under the Credit Institutions (Financial Support) Act, 2008 on October 2, 2008, to maintain the stability of the financial system in Ireland. The guarantee plan would be effective for two years, and covered liabilities of the banks incurred between September 29, 2008 and September 29, 2010.  The scheme covered the following liabilities: 
+
+
+- All retail and corporate deposits (to the extent not covered by existing deposit protection schemes in the State or any other jurisdiction); 
+
+- Interbank deposits; 
+
+- Senior unsecured debt; 
+
+- Asset covered securities; and 
+
+- Dated subordinated debt (lower Tier 2), excluding any intragroup borrowing and any debt due to the ECB arising from Eurosystem monetary operations (EC 2008). 
+
+Anglo’s customer loans were denominated in euros, British pounds (GBP), and US Dollars, which the bank managed through foreign currency derivatives. Anglo had a EUR-GBP swap agreement in place with the CBI at a market based fee; the facility had not been used by the end of December 2010. In November 2010, the government also guaranteed payments on Anglo’s derivative positions and certain interbank transactions; this facility charged no fees (Anglo 2011). 
+
+## **Part of a Package (B): In January 2009, the Irish government nationalized Anglo, ultimately providing EUR 29.3 billion of capital to the bank.** 
+
+Anglo was nationalized on January 21, 2009, following the signing into law of the Anglo Irish Bank Corporation Act 2009. From May 2009, the Irish authorities injected EUR 4 billion of capital in the form of ordinary shares. In 2010, the minister for finance provided Anglo additional capital by issuing PNs, eventually totalling EUR 25.3 billion, which the bank could use as collateral to receive further ELA from the central bank (Baudino, Murphy, and Svoronos 2020; EC 2009).  The EC also noted at the time of the initial capital injection that: 
+
+The Irish authorities acknowledge that Anglo Irish is a distressed bank and its insolvency could lead to a serious disruption of the Irish financial system. In these circumstances, the State Investment is required as a matter of absolute urgency to preserve the financial stability of the Bank and to safeguard the Irish financial system as a whole due to the bank's systemic relevance. This is confirmed by the letter of 27 May 2009 of the Central Bank and the Financial Services Authority of Ireland. (EC 2009) 
+
+## **Part of a Package (C): The Irish government also established an asset purchase program through NAMA in December 2009.** 
+
+NAMA was operational on December 21, 2009, through the enactment of the National Asset Management Agency Act 2009, with the objective of removing certain commercial property and land loans from bank balance sheets (Baudino, Murphy, and Svoronos 2020). Anglo was one of the five Irish banks that applied and were approved  for participation in the NAMA program. NAMA was instructed to calculate haircuts on the market value of the loans purchased from the banks and estimating the long-term economic value of the loans. At first, these valuations were carried out on a loan-by-loan level. The average haircut of 57% 
+
+
+between 2010 and 2012, thereby paying EUR 31.8 billion to acquire assets with a face value of EUR 74.4 billion (Nye 2021). 
+
+NAMA ended up acquiring about EUR 14 billion in derivatives that were largely owned by Anglo for EUR 0 (Nye 2021). Anglo was able to sell EUR 34.4 billion in distressed loans at a 61% discount to NAMA by the end of 2012 (Tynan 2020). NAMA was established as a 51% privately owned entity, thereby reducing the need to add the asset management company’s liabilities to Ireland’s public debt (Baudino, Murphy, and Svoronos 2020). 
+
+Ireland’s minister for finance also used NAMA’s subsidiary, NARL, to extend a loan to IBRC to help facilitate the merger of Anglo and INBS in 2013 (Nye 2021). NARL issued new NAMA bonds to the CBI in an amount equivalent to the outstanding from the Facility Deed (IBRC 2014). At the time of IBRC’s liquidation, the outstanding EUR 15 billion to the Facility Deed was acquired by NAMA at a value of EUR 12.9 billion (Houses of the Oireachtas 2013). 
+
+## **3. Legal Authority: The CBI’s legal authority to provide emergency liquidity is drawn from existing powers in Section 5B(d) of the Central Bank Act 1942.** 
+
+The Central Bank Act 1942 (the Act) provides the statutory basis for the CBI to provide emergency liquidity against collateral to credit institutions in Ireland (Government of Ireland 2003, 10). In particular, Section 5B(d) provides the CBI with a general power to “provide loans and other kinds of financial accommodation to credit institutions and other persons on the security of such assets and on such terms and conditions as the Board [of Directors of the CBI] considers appropriate” (Government of Ireland 2003, 10). The Act also provides the CBI with the power to take action in pursuit of the financial stability objective (IMF 2016) . Section 7A of the Act, states: 
+
+(1) In discharging its functions and exercising its powers as part of the European System of Central Banks, the primary objective of the Bank is to maintain price stability (2) The Bank also has the following objectives: (a) contributing to the stability of the financial system, (b) promoting the efficient and effective operation of payment and settlement systems; and (c) discharging such other fucntions and powers as are conferred or imposed on it by the Rome Treaty, the ESCB Statute or any enactment. (Government of Ireland 2003, 12) 
+
+A new act passed on October 2, 2008, the Credit Institutions (Financial Support) Act 2008, provided the minister for finance with the authority to provide financial support or accommodation to a specific credit institution. The minister can regulate the credit institution or its subsidiary, in exchange for providing financial support (Government of Ireland 2008). The CBI received formal confirmation from the minister for finance to be made whole for any shortfall in the liquidation of collateral provided by Anglo (CBI 2011). 
+
+
+As a member of the EU, Ireland must comply with the prohibition on monetary financing contained in Article 123(1) of the Treaty on the Functioning of the European Union (TFEU)[9] , which reads  (emphasis added): 
+
+Overdraft facilities or **any other type of credit facility** with the European Central Bank or with the central banks of the Member States (hereinafter referred to as ‘national central banks’) in favour of Union institutions, bodies, offices or agencies, central governments, regional, local or other public authorities, other bodies governed by public law, or **public undertakings of Member States** shall be prohibited, as shall the purchase directly from them by the European Central Bank or national central banks of debt instruments. (EU 2009b, art. 123) 
+
+TFEU Article 123 prohibits the extension of liquidity to insolvent firms (at least without a state guarantee), which is considered a public undertaking (in other words, one that should be supported with state resources). While the ECB has its own implementing agreements and procedures to ensure compliance with TFEU Article 123 within the Eurosystem (see Key Design Decision No. 5, Governance), they are not legally binding;[10] the monetary financing prohibition—including its application to emergency liquidity—is EU-level law, and thus applies even to those nations that are Member States of the EU but not members of the Eurosystem. For more on the application of the monetary financing prohibition to ELA, see (Arnold 2025). 
+
+Article 14.4 of the Statue of the European System of Central Banks and of the European Central Bank (ESCB) authorizes the ECB’s Governing Council to, with a two-thirds vote, prohibit the provision of emergency liquidity assistance (ELA) by a national central bank if it “[interferes] with the objectives and tasks of the ESCB” (EU 2009a). The ESCB, by virtue of being annexed (as protocol no. 4) to the TFEU in 2009,[11] has the same legal character as the TFEU. That is to say, although the ECB Governing Council may, from time to time, publish non-legally-binding procedural guidance, its authorization to prohibit or suspend a national central bank’s activities under Article 14.4 of the ESCB is legally binding and statutory in nature. In practice, the ECB Governing Council has cited suspected TFEU Article 123 violations when suspending ELA provision by a national cental bank, see Arnold (2025) Key Design Decision No. 5, Governance. 
+
+> 9 The TFEU, itself based on the Treaty of Maastricht of 1992, is one of the EU’s two foundational treaties (the other being the Treaty on European Union). It sets out in detail the principles and objectives of the EU and the scope and functional responsibilities of EU institutions (the Treaty on European Union in contrast defines the EU’s purpose and lays out its institutions and form). As a technicality, before the Lisbon Treaty came into effect in 2009, TFEU Article 123 was Article 101 of the Treaty Establishing the European Community, but the content was unchanged when the Lisbon Treaty relocated the article. 
+
+> 10 That is to say that those agreements and procedures implement EU law, but are not themselves legally enforceable. Any legal actions resulting from a violation of the monetary financing prohibition would be enforced as EU law and, in practice, the issues are raised by the European Commission. See (Arnold 2025). 
+
+> 11 Before the Lisbon Treaty, in protocol no. 3 of the Treaty Establishing the European Community, as amended in 1997. 
+
+
+## **4. Administration: The emergency liquidity to Anglo was fully administered by the CBI, with close engagements with Ireland’s Department of Finance and the ECB.** 
+
+Anglo’s emergency liquidity was administered by the CBI throughout the duration of the facility, in line with CBI’s legal authority (CBI 2011; IMF 2016). 
+
+As a rule, national central banks are required to inform the ECB of the details of any emergency liquidity operation within two business days of the action. The ECB needs to be informed of the following for the liquidity program: the counterparty receiving funds, the duration of the loan, the total loan amount, the collateral pledged including its valuation, the haircuts applied, and the specific reasons for the provision of emergency funds (i.e., margin calls, deposit outflows, etc.). The ECB Governing Council can decide to request additional information from the central bank, or broaden the reporting requirements, and make reporting more stringent if it deems necessary (Mourmouras 2017). 
+
+More generally and despite the existence of ELA in the Eurosystem since before 2008, in October 2013, the ECB published a revised official definition and description of its procedures (Mourmouras 2017). The ECB clarified in 2013 that euro-area credit institutions can receive funds from their central banks not only through monetary policy operations, but also exceptionally through ELA. Any costs or risks arising from the provision of emergency liquidity to a solvent institution is the responsibility of the national central bank (ECB 2013). 
+
+On June 19, 2017, the ECB published a revised emergency liquidity agreement, replacing the 2013 version, with the intent of increasing transparency around the governing rules and procedures (ECB 2017b). The ECB’s latest disclosure required reporting from the national central bank, regardless of the size and nature of the emergency liquidity provision. The ECB also required periodic disclosures on the liquidity facility until the entire emergency loan is repaid. The ECB’s Governing Council can allow a national central bank to provide emergency liquidity beyond a certain ceiling within a predetermined period to avoid potential systemic implications (ECB 2017a). 
+
+**5. Governance: The governor of CBI is the ultimate decision-maker in granting or denying emergency liquidity, subject to reporting to and limitations by the ECB. Researchers, including Nyberg and Honohan, have produced reviews of the Irish experience with Anglo to provide an analysis and other recommendations to reform regulatory institutions and enhance financial stability.** 
+
+Detailed procedures and legal underpinning for the emergency liquidity provision were decided by the CBI’s board in November 2007, which granted the powers to approve the emergency facility to the CBI governor. If a bank did not have eligible collateral to access the refinancing operations with the ECB, it could apply for ELA from the CBI. The CBI’s board authorized the governor and the CEO of the financial regulator to discuss solutions with the Irish government (Honohan 2010). 
+
+In Ireland, generally, the financial regulator was responsible for microprudential supervision, and the governor of the CBI was responsible for overall stability (Honohan 2010). A Financial Stability Committee comprised senior staff of the CBI and the financial 
+
+
+regulator (Honohan 2010). The Irish government utilized the Exchequer to provide capital injections to Anglo and the National Pension Reserve Fund for the PNs to IBRC. The National Pension Reserve Fund was a sovereign wealth fund established by Ireland in the 1990s during a period of fiscal fortitude (Honohan 2012). 
+
+In line with the EU’s guidance, Ireland created the Domestic Standing Group (DSG) in July 2007 to improve cooperation among the DoF, financial regulator, and the CBI (Houses of the Oireachtas 2016; Nyberg 2011). NTMA, responsible for managing the Irish state’s funds, also attended DSG meetings during the summer of 2008. Between May and June 2008, the minister for finance met with the senior management of the NTMA to discuss the latter’s role in addressing financial stability issues. The CBI also set up a liquidity monitoring group to evaluate the needs of the banking system, along with monitoring the available collateral at banks for the ECB’s refinancing or the CBI’s emergency lending facilities. The DSG had previously discussed the creation of a special resolution regime for banks, but no progress was made due to legislative complexities. The CBI also carried out crisis management exercises, including one with the EU, using its black book manual which includes guidance on topics ranging from emergency liquidity, legal, and logistical concerns (Nyberg 2011). Honohan has noted that this crisis manual was not relied on in practice, since the procedures were seen as “excessively cumbersome” and time consuming during the crisis (Baudino, Murphy, and Svoronos 2020). 
+
+Analyses by PwC and Merrill Lynch were used to assess the recapitalization needs of Anglo in late 2008. Crisis management was the responsibility of the DoF and the NTMA, with the minister for finance leading the assessment of recapitalizations. Merrill Lynch had strongly advised the minister for finance in December 2008 to consider taking Anglo into state ownership (Nyberg 2011). 
+
+There was concerns of overlapping mandates between the DoF, financial regulator, and CBI. The CBI’s staff has been accused of self-censorship, which makes it harder to address financial stability issues. The EC believes that the CBI could have acted earlier to address stability concerns with individual banks by also engaging the financial regulator to conduct a deeper analysis (Nyberg 2011). 
+
+The ELA facility was subject to regular approval by the ECB’s Governing Council (Baudino, Murphy, and Svoronos 2020). By the end of 2009, the issuance of PNs to Anglo was closed by written communication between Ireland’s minister for finance, and the Competition Directorate General of the European Commission (DGCOMP) (Honohan 2012). 
+
+Pursuant to Article 14.4 of the ESCB, the ECB Governing Council can, with a two-thirds vote, prohibit ELA provision by a national central bank (see Key Design Decision No. 3, Legal Authority). During the Global Financial Crisis and the European Sovereign Debt Crisis, the ECB Governing Council made that determination, variously suspending ELA and conditioning further approval for it on policy changes in the country in question (Arnold 2025). 
+
+Although the ECB Governing Council’s ability to suspend a national central bank’s ELA existed since well before the official publication of any guidelines, the ECB began to publicize 
+
+
+non-legally-binding guidance on its ELA expectations in 2013. At that time, it published its ELA Procedures, which outlines numerous ex post reporting requirements, including, inter alia, amount, interest rate, collateral, supervisory assessment, and motivating reason (ECB 2013). Further, if ELA exceeds EUR 500 million, the relevant national central bank must alert the ECB Governing Council as soon as possible of the extension of ELA before the fact. Under the ELA Procedures, any ELA exceeding EUR 2 billion will be automatically reviewed by the ECB Governing Council to ensure that it does not merit suspension or alteration resulting from its interference in ECB tasks and responsibilities as outlined in ESCB Article 14.4 (ECB 2013). 
+
+In 2017, the ECB published its Agreement on Emergency Liquidity Assistance, which provided further guidance on the ECB’s policies regarding ELA and replaced the earlier 2013 ELA Procedures (ECB 2017b). In the 2017 agreement, the ECB added language that clarified the limitations of the prohibition on monetary financing: “this document acknowledges that ELA must be in compliance with the prohibition of monetary financing (Art. 123 of the Treaty of the Functioning of the European Union [TFEU])” (ECB 2017a). It added further guidance to ELA procedures, requiring, inter alia, a funding plan within two months of the first extension of ELA, a letter to the president of ECB regarding the ELA if provided for more than six months, compliance with various solvency requirements, and a penalty interest rate. The ECB revised its ELA agreement in 2020 and most recently in 2024. 
+
+As such, the ECB also exercised its powers in 2010 to caution the large provision of ELA and impose Ireland to undertake structural reforms as a condition for further provision of ELA. On October 15, 2010, the president of the ECB wrote to Ireland’s minister for finance cautioning that “large scale provision of liquidity . . . to entities such as Anglo Irish Bank should not be taken for granted as a long-term solution” (Trichet 2010a). On November 19, 2010, the ECB president imposed explicit conditionality for the further provision of emergency liquidity because of its overall size. Among other measures, the Irish authorities’ request for further financial support had to include a commitment to undertake fiscal consolidation, structural reforms, and financial sector restructuring including recapitalization (Trichet 2010b). 
+
+As of 2020, the institution receiving the ELA is also expected to provide an updated funding plan on a quarterly basis, within two months following the first provision of emergency assistance, and report regulatory capital ratios on a monthly basis. If the ELA provision lasts beyond six months, the governor of the national central bank is expected to write to the president of the ECB with an exit strategy for the ELA. The ECB’s Governing Council can now impose additional restrictions on any ELA provided beyond 12 months (a provision that did not exist in the 2008 to 2013 period) (ECB 2020). 
+
+The ECB also directed national central banks to provide emergency liquidity at a rate of 100 basis points plus the Eurosystem’s marginal lending facility rate. For euro-denominated repurchase transactions, the central bank must charge a minimum rate of 1% per annum. The latest amendments prohibit monetary financing of institutions that have been deemed insolvent by national laws (ECB 2020). 
+
+
+## **6. Communication and Disclosure: There were limited public disclosures through annual reports on the emergency liquidity granted to Anglo by the CBI.** 
+
+Anglo disclosed the total amount of special liquidity assistance it received from the CBI in its annual and interim financial reports (Anglo 2010; Anglo 2011; IBRC 2012) but did not identify that the assistance was ELA. In its 2010 and 2011 annual reports, Anglo and IBRC, its successor company, briefly described the three different liquidity programs offered by the CBI (see Overview) (Anglo 2011). The CBI also disclosed the range of haircuts on the three liquidity facilities in the notes to account of its annual report (CBI 2011; CBI 2012; CBI 2013; CBI 2014). 
+
+The CBI itself did not disclose any emergency liquidity borrowings by Anglo or the total Eurosystem borrowings by all six Irish banks (Baudino, Murphy, and Svoronos 2020). Communications specific to Anglo focused primarily on the blanket guarantee, capital injections, and restructuring. The CBI’s provision of the ELA facility was disclosed in the bank’s annual report in 2010, and clarified the difference from the ECB’s lending for monetary policy purposes. The CBI described the provision of liquidity to a credit institution against suitable collateral defined by the central bank. The CBI discussed that it had the backing of the minister for finance for any shortfalls from lending under the ELA facility (CBI 2011). 
+
+In January 2009, the minister for finance, after consultation with the board of Anglo, announced the decision to take the bank into public ownership through a press release. The minister announced that the Irish state was the only “available potential owner” for Anglo, and that Donal O’Connor would continue as the chair of the bank’s board (CBI 2009, 12). 
+
+The CBI’s annual report in 2010 indicated EUR 11.5 billion in outstanding balance on the emergency liquidity loans to Anglo under the “Other Assets” line of the CBI’s balance sheet (CBI 2011). The EC noted that the Irish authorities did not expect to recover any of the capital injections provided to Anglo, which indicated the high level of distress of the bank (EC 2009). 
+
+Former CBI Governor John Hurley clarified to a joint committee that the central bank never provides emergency liquidity to an insolvent bank. The financial regulator is responsible for providing a certificate of solvency to an Irish bank. Hurley disclosed that the CBI had made EUR 3 billion in ELA available to Anglo in September 2008, at the time the government announced the blanket deposit and liability guarantee. Hurley also discussed that only about EUR 1 billion was drawn from the ELA before the guarantee was activated and the facility was deemed unnecessary (Houses of the Oireachtas 2015). 
+
+In October 2010, then-ECB President Jean-Claude Trichet wrote a letter to the Irish Minster of Finance, Brian Lenihan, warning that the “large provision of liquidity” to Anglo was not a long-term solution; he cited the concerns of the ECB’s Governing Council on providing such funding on a permanent basis (Trichet 2010a, 2). The ECB president, in a follow up letter in November 2010, stated the “[extreme] concern” of the overall credit exposure of the Eurosystem towards the Irish banking system  (Trichet 2010b, 2). The Irish authorities had to then officially request additional support from the ECB, while committing to fiscal 
+
+
+consolidation, structural reforms, and restructuring of their banking sector (Baudino, Murphy, and Svoronos 2020). At the end of 2010, the majority of Anglo’s borrowing was under the SMRA, using PNs as collateral (Anglo 2010; Anglo 2011). The ECB’s concerns with the outsized liquidity provision to Anglo may have led to the CBI launching the Facility Deed in December 2010 (Anglo 2011). After 2010, the Facility Deed was responsible for about EUR 15 billion in incremental liquidity provision to Anglo (BOI 2012). 
+
+Anglo’s solvency in September 2008 was questioned in Ireland’s Joint Committee of Inquiry into the Banking Crisis by Brendan McDonagh, the CEO of NAMA, and John Corrigan, the former CEO of NTMA (Houses of the Oireachtas 2016). 
+
+The ECB released a set of disclosures titled the Irish Letters in 2023, which shed light on the ECB’s involvement with regulatory decisions in relation to Anglo. On the topic of the potential bail-in of Anglo’s senior debt in 2011, the ECB expressed “the view that the Irish authorities’ decision to fully honour the outstanding senior debts of Anglo Irish Bank was the least damaging course of action to pursue” (ECB 2023, 4). The ECB believed that the potential negative spillovers of such a bail-in would impact other Irish and Eurosystem banks (ECB 2023). 
+
+**7. Source and Size of Funding: The CBI fully funded the ELA facilities and at peak provided more than EUR 40 billion of emergency liquidity to Anglo.** 
+
+In late 2008, Anglo was initially provided standby liquidity facilities of EUR 3 billion from the CBI and EUR 10 billion from the two largest commercial banks, BOI and AIB (Honohan 2010). Former CBI Governor Hurley disclosed that Anglo had drawn up to EUR 1 billion from the standby facility before the guarantee was activated and the facility was deemed unnecessary (Houses of the Oireachtas 2015). 
+
+By March 2009, Anglo’s borrowing from central banks, including the ECB and CBI, had increased to EUR 23.5 billion from EUR 7.6 billion in September 2008 (EC 2009). Following Anglo’s nationalization, CBI agreed to provide the bank with EUR 11.5 billion in ELA against collateral that did not qualify for standard Eurosystem monetary operations (Whelan 2012). Anglo’s access to the ELA facility grew from EUR 10 billion in February 2009 to EUR 28.1 billion by the end of December 2010 (Baudino, Murphy, and Svoronos 2020). By the end of 2011, IBRC’s (Anglo’s parent entity) borrowings from the CBI’s emergency liquidity facility had increased to EUR 40.1 billion (IBRC 2012). At IBRC’s liquidation in 2013, the outstanding liquidity provision under the ELA amounted to EUR 39.5 billion (see Figure 3) (CBI 2014). 
+
+During the four years that it was active, from 2009 to 2013, Anglo’s ELA facility was provided through an evolving mix of three contractual arrangements: 
+
+- An MLRA backed by collateral from the bank’s unencumbered customer loans (Anglo 2010). The rate charged by the MLRA borrowings was set by the CBI at each rollover and was linked to the ECB’s marginal lending facility rate (Anglo 2011; Kinsella 2011). Anglo’s borrowing from the MLRA had increased to EUR 11.5 billion 
+
+
+at the end of 2009 and appears to have been the only form of ELA outstanding for Anglo at the time (Anglo 2010). 
+
+- An SMRA, launched in 2010, backed mostly by the government promissory notes. At the end of 2010, EUR 23.5 billion in PNs from the SMRA accounted for close to 90% of Anglo’s ELA (see Figure 3) (Anglo 2010; Anglo 2011). 
+
+- A Facility Deed, launched in December 2010, was an unsecured loan facility guaranteed by the minister for finance (Anglo 2011). At the end of 2010, the combined IBRC after Anglo’s merger with INBS had EUR 10 billion outstanding under this facility, one-quarter of the total (BOI 2012). The initial term of the facility was for one month, but it was later extended to June 30, 2012. Borrowing from this facility was at EUR 14 billion at the end of 2011, before usage dropped to EUR 5 billion at the end of May 2012 (BOI 2012). 
+
+[FIGURE id=vol7_iss1_11_f4 type=chart page=23 label="Figure 3" file=figure_3.png caption="Anglo’s Estimated ELA Borrowings from 2009 to 2013 (EUR billions)"]
+### **Figure 3: Anglo’s Estimated ELA Borrowings from 2009 to 2013 (EUR billions)**
+![Figure 3](assets/vol7_iss1_11/figure_3.png)
+
+
+_Sources: Anglo 2010; Anglo 2011; Baudino, Murphy, and Svoronos 2020; CBI 2014; Houses of the Oireachtas 2013; authors’ analysis._ 
+
+The CBI disclosed outstanding amounts provided in ELA loans to Irish banks at EUR 11.5 billion in 2009, EUR 49.5 billion in 2010, and EUR 42.4 billion in 2011 (CBI 2011; CBI 2012). As per Figure 4, Baudino, Murphy, and Svoronos (2020) estimates that in early 2011 the total emergency liquidity provided by the CBI through the ELA facility to all banks peaked at above EUR 60 billion. 
+
+
+[FIGURE id=vol7_iss1_11_f5 type=figure page=24 label="Figure 4" file=figure_4.png caption="Irish Banks’ Utilization of Central Bank Liquidity Operations"]
+### **Figure 4: Irish Banks’ Utilization of Central Bank Liquidity Operations**
+![Figure 4](assets/vol7_iss1_11/figure_4.png)
+
+
+_Source: Baudino, Murphy, and Svoronos 2020._ 
+
+Anglo received additional PNs from the DoF in 2010: 
+
+- EUR 8.3 billion on March 30; 
+
+- EUR 2 billion on May 28; 
+
+- EUR 8.6 billion on August 23; 
+
+- EUR 6.4 billion on December 31. 
+
+These PNs—which were issued by the government, were not marketable, and had long maturities—were assets on Anglo’s balance sheet, allowing the bank to increase its regulatory capital in line with CBI’s requirements (Baudino, Murphy, and Svoronos 2020). Anglo posted these PNs as collateral to obtain additional cash liquidity from the ELA facility (Baudino, Murphy, and Svoronos 2020). 
+
+Before receiving a package from the EU and IMF, Irish banks received significant liquidity from the ECB. In January 2010, the Eurosystem’s liquidity provision to Irish banks was EUR 90 billion and accelerated rapidly to EUR 140 billion by November (or 63% of Ireland’s 2010 GDP). This also represented around 25% of the ECB’s total lending, which was an “unprecedented level of exposure” to Irish banks, which represented less than one percent share capital in the ECB (see Figure 4) (ECB 2023, 3). 
+
+## **8. Rate and Fees: The CBI charged Anglo for the emergency liquidity at a rate linked to the Eurosystem’s marginal lending facility rate.** 
+
+The interest rate charged by the CBI to Anglo for the emergency liquidity was linked to the ECB’s marginal lending facility rate (Anglo 2010). However, research did not uncover public information on the specific rate charged to Anglo. 
+
+Professor Karl Whelan at University College Dublin estimated that the CBI’s emergency liquidity facility charged a minimum rate equal to the Eurosystem’s marginal lending facility 
+
+
+rate plus 100 bps (Whelan 2012).  He further estimated the rate to have averaged 3% in 2011 (Whelan 2012). 
+
+As noted, in 2010, Anglo received EUR 25.3 billion in PNs from Irish authorities, which paid an annual interest rate of 10% (Baudino, Murphy, and Svoronos 2020). As assets on Anglo’s balance sheet, these notes were sufficiently large to ensure Anglo’s capital remained in line with regulatory requirements. Anglo also used the PNs as collateral to borrow from the CBI. 
+
+In December 2010, Anglo requested a change in the legal terms of the PNs that allowed for an interest holiday in 2011 and 2012. But the use of IFRS accounting treatment allowed Anglo to continue earning interest income on the PNs in 2011 and 2012. The floating rate NAMA bonds provided to Anglo charged interest at the six-month Euribor rate, receivable semiannually (Anglo 2011). 
+
+The Facility Deed facility was reported to charge a rate of 4.5% for providing unsecured emergency liquidity to IBRC (Anglo’s parent) in 2013 (CBI 2014). 
+
+**9. Loan Duration: The CBI’s emergency liquidity provided to Anglo lasted for four years and ended when IBRC (Anglo’s parent entity) was liquidated; at that time, the government’s PN and the ELA were replaced with a marketable floating-rate sovereign bond that the CBI could sell over time.** 
+
+Research did not indicate any public information on the maturities for each of the CBI’s emergency loans provided. Media reports noted that the CBI’s emergency liquidity had a maximum maturity of seven days, which can be rolled over at the CBI’s discretion (Noonan 2011). The ELA is intended to be used for a very short period (Honohan 2010). 
+
+Anglo started to use the CBI’s emergency liquidity facility in early 2009 (Anglo 2010; EC 2009). The use of the facility ended on February 7, 2013, through a collateral exchange transaction when IBRC (Anglo’s parent entity) was liquidated and CBI took ownership of all of IBRC’s assets, including the PNs (Baudino, Murphy, and Svoronos 2020). The Irish state agreed to repay Anglo’s emergency liquidity to the CBI over time (Baudino, Murphy, and Svoronos 2020). Rather than receiving cash as repayment for the ELA, CBI’s claim was restructured through a collateral exchange transaction (CBI 2014). 
+
+The Facility Deed had an initial term of one month but was later extended to June 30, 2012, and beyond (BOI 2012). It was purchased by NAMA from CBI when IBRC was liquidated in exchange for newly issued government-guaranteed NAMA bonds (MerrionStreet 2013a). Some of the PNs that were used as collateral with the CBI for the ELA eventually had a final maturity at 2031 (Baudino, Murphy, and Svoronos 2020). 
+
+
+## **10.Balance Sheet Protection (A): Anglo’s collateral appears to have been subject to an average haircut of 4% to 8%, based on its annual reports.** 
+
+The ELA facility was described as a loan, distinct and separate from the monetary operations of the ECB, provided to a credit institution against suitable collateral, where suitability is in line with criteria defined by the CBI (CBI 2011). 
+
+As noted, Anglo received ELA against three contractual arrangements: an MLRA, an SMRA, and a Facility Deed. Each had its own collateral or security requirements. Anglo’s annual reports provide some information that can be used to estimate the haircuts on collateral. At the end of 2009, Anglo’s borrowing under the MLRA came to EUR 11.5 billion (CBI 2011). Against that obligation, Anglo had assigned EUR 12 billion in customer loans as collateral, representing a weighted average haircut of about 4% (CBI 2010). 
+
+At the end of 2010, Anglo’s borrowing under the two repurchase agreement facilities totalled EUR 28.1 billion. Anglo held EUR 4.1 billion in customer loans as collateral under the MLRA, and EUR 25.3 billion in government PNs under the SMRA, for a total EUR 29.4 billion (Anglo 2011). That results in a similar weighted average haircut of about 4%. 
+
+At the end of 2011, IBRC’s borrowing under the combined programs totalled EUR 40.1 billion, of which EUR 10 billion was through the Facility Deed and not collateralized (BOI 2012; IBRC 2012). The remaining EUR 30.1 billion was through the two collateralized programs. At that time, IBRC held EUR 2.6 billion in customer loans as collateral under the MLRA; and EUR 28.5 billion in government PNs plus EUR 0.8 billion in NAMA bonds under the SMRA, for a total EUR 31.9 billion (IBRC 2012). That suggests a weighted average haircut of about 6%. 
+
+The CBI disclosed in its annual reports that haircuts to collateral were in the range of 5.5% to 80% in 2010, 1.5% to 58% in 2011, and 1.5% to 5.5% in 2012 (CBI 2011; CBI 2012; CBI 2013). The CBI also received a formal assurance (“formal comfort” or “letter of comfort”) from the minister for finance to be made whole on any shortfall in collateral values (CBI 2011, 104). The CBI used a similar approach to collateral as employed for Eurosystem monetary policy operations  (CBI 2011). 
+
+Research did  not uncover disclosure from the CBI on all the collateral that Anglo pledged through the length of its emergency liquidity borrowing. The CBI disclosed the following on the collateral accepted under the emergency liquidity facility, consistent with Anglo’s own reporting: 
+
+The Bank has in place specific legal instruments in respect of each type of collateral accepted. These comprise (i) Promissory Notes issued by the Minister for Finance to specific credit institutions and transferrable by deed, (ii) Master Loan Repurchase Deeds covering investment/development loans, (iii) Framework Agreements in respect of Mortgage-Backed Promissory Notes covering non-securitised pools of residential mortgages, (iv) Special Master Repurchase Agreements covering collateral no longer eligible for ECB-related operations and (v) Facility Deeds providing a Government Guarantee . . . Where appropriate, haircuts (ranging from 5.5 per cent to 80 per cent) 
+
+
+have been applied to the collateral. Credit risk is mitigated by the level of the haircuts and the government guarantee (CBI 2011, 104). 
+
+Regarding the ECB’s role in determining the CBI’s evaluation of collateral, Mario Draghi notes that “collateral is assessed by the competent supervisor, which at that time was the Central Bank of Ireland, and that is crucial because if the supervisor says the collateral is adequate, good and sufficient, then the Governing Council has no reason to object to the request by the national central bank” (Committee on Economic and Monetary Affairs 2015, 5). 
+
+This is in line with the notion that CBI’s emergency lending under the ELA facility is distinct and separate from regular funding operations carried out for monetary policy implementation purposes through the ECB (CBI 2011). Unlike normal monetary policy operations, where any losses are shared in proportion to the size of their economies and populations, any risks from the ELA facility are borne solely by CBI (IMF 2016). The relatively low apparent haircuts reflect the government guarantee that attached to the SMRA and Facility Deed loans. 
+
+The IMF reported that the troika program (EC, ECB, and IMF) of 2010 was controversial due to the decision to impose losses on EUR 19 billion worth of senior unsecured creditors. The IMF favored imposing a 50% haircut, which was fully supported by the Irish authorities. The ECB opposed such a haircut and their decision prevailed, on the grounds that such a move may disrupt wholesale funding markets across euro-area banks (Eichengreen 2015). 
+
+## **Balance Sheet Protection (B): The CBI lent to Anglo with an indemnity from the minister for finance on any losses arising from collateral shortfall.** 
+
+The additional safeguard from the CBI’s perspective is the indemnity from the minister for finance to cover any shortfall that results from the liquidation of collateral from the provision of ELA to Anglo (Anglo 2011). This guarantee was possible from the power derived from The Credit Institutions (Financial Support) Act 2008. At the time of the CBI’s provision of emergency liquidity to Anglo, there were concerns on the Irish sovereign’s capacity to stand behind such an indemnity (Eichengreen 2015). The Irish state’s guarantee of the CBI’s emergency liquidity expired in 2018, and the possibility to extend in legislation was not exercised. The IMF recommended that the CBI and DoF should explore ways to mitigate potential losses, in the future scenario of a DoF backstop for the CBI’s emergency lending to a bank in resolution (IMF 2022). 
+
+## **Balance Sheet Protection (C): The Facility Deed was unsecured and backed by a government guarantee, but the minister had a counterindemnity agreement from the bank itself.** 
+
+According to Anglo’s 2010 annual report, the Facility Deed was “an unsecured loan facility guaranteed by the Minister for Finance, who separately benefits from a counter indemnity from the Bank should the guarantee be called upon” (Anglo 2011, 95).  In other words, the minister guaranteed to the CBI that it would cover payments on Facility Deed loans, but the bank itself provided indemnity back to the minister (the value of this counterindemnity reflected the banking assets that remained on Anglo’s balance sheet). The counterindemnity 
+
+
+agreement was signed between the minister for finance and Anglo on December 23, 2010, and was characterized as “co-terminus with payment of interest and prepayment of principal in full under the Facility Deed” (BOI 2012, 56). 
+
+## **11.Impact on Monetary Policy Transmission: The CBI’s emergency liquidity was subject to close monitoring by the ECB’s Governing Council to protect the integrity of ECB’s monetary policy.** 
+
+As a member of the Eurosystem, the CBI is responsible for maintaining price stability in Ireland through the implementation of ECB decisions on monetary policy (CBI 2023). Article 14.4 of the Statute of the European System on Central Banks assigns the ECB’s Governing Council responsibility for restricting emergency liquidity operations if they interfere with the objectives and tasks of the Eurosystem (ECB 2017a, 4). Considering the large amounts of emergency lending granted to Anglo, the ECB stated in its communication to the Irish finance minister that the Governing Council would closely monitor the CBI’s emergency liquidity, as it may interfere with the objectives of the Eurosystem and may violate the prohibition of monetary financing (Trichet 2010a). 
+
+After IBRC’s liquidation in 2013, the CBI took ownership of the PNs, NAMA bonds, and Facility Deed. The Irish government exchanged the PNs for a portfolio of eight Irish sovereign floating rate notes (FRNs) (totaling EUR 27.8 billion) with maturities of 25 to 40 years. The Facility Deed was transferred to NAMA in return for NAMA bonds (totaling EUR 12.6 billion). The CBI undertook to sell the FRNs as soon as possible subject to financial stability concerns and no later than a schedule that was announced in February 2013 (CBI 2014). This was designed to strike a balance between monetary financing concerns associated with protracted holdings of bonds and the risks of a fire sale (Baudino, Murphy, and Svoronos 2020). All NAMA bonds had been fully redeemed by 2017, and all of the floating rate notes had been sold by 2023 (CBI 2024). 
+
+The ECB also provided other situations in which emergency liquidity may be curtailed, including the central bank’s financing of public sector obligations, or the provision of emergency liquidity to an institution that has been deemed insolvent as per national laws (ECB 2017a). 
+
+## **12. Other Conditions: It is unclear if Anglo was subject to additional conditions that are specifically tied to receiving the CBI’s emergency liquidity.** 
+
+Since the conditions of the ELA are not disclosed, it is unclear if Anglo was subject to additional conditions that are specifically tied to receiving ELA. Anglo was required to report its daily liquidity position to the CBI and the IFSRA  from late 2008 (Tynan 2020). 
+
+As of March 2009, Anglo’s CET1 capital ratio of 1.4%  fell below the regulatory minimum of 4%. Given that the bank is covered under the state guarantee scheme, this triggered a need for a fundamental restructuring of Anglo. In addition, the Irish government noted that it would submit a restructuring plan for Anglo by November 2009 to the European Commission. The restructuring plan introduced some restrictions on Anglo’s commercial activities, including not providing new lending to existing customers for at least 12 months, 
+
+
+an deleveraging the bank’s balance sheet. To avoid any distortions to competition, Anglo was restricted from marketing its support from the Irish state as a commercial advantage (EC 2009). 
+
+
+## **References and Key Program Documents** 
+
+## **Summary of Program** 
+
+(BOI 2012) Bank of Ireland (BOI). 2012. “Proposed Securities Repurchase Transaction between Bank of Ireland and Irish Bank Resolution Corporation Limited, Guaranteed by the Minister for Finance.” May 30, 2012. 
+
+_Document presenting a securities repurchase agreement between the Bank of Ireland and Ireland’s Resolution unit_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/5156 
+
+(Mourmouras 2017) Mourmouras, John. 2017. “On Emergency Liquidity Assistance: Theory and Evidence.” Speech presented at the Political Economy of Financial Markets (PEFM) program, Oxford University, Oxford, February 27, 2017, February 27, 2017. _Speech by BOG deputy governor on ELA in the eurozone during the GFC_ . https://elischolar.library.yale.edu/ypfs-documents/12946 
+
+## **Legal/Regulatory Guidance** 
+
+(ECB 2013) European Central Bank (ECB). 2013. “ELA Procedures.” October 17, 2013. _Document describing the procedures for the provision of ELA to individual credit institutions_ . https://elischolar.library.yale.edu/ypfs-documents/12957 
+
+(ECB 2017a) European Central Bank (ECB). 2017a. “Agreement on Emergency Liquidity Assistance - Updated 17 May 2017.” May 17, 2017. 
+
+_Document describing the changes to the ECB’s emergency liquidity assistance program_ . https://elischolar.library.yale.edu/ypfs-documents/12959 
+
+(ECB 2020) European Central Bank (ECB). 2020. “Agreement on Emergency Liquidity Assistance - Updated 9 November 2020.” November 9, 2020. 
+
+_Document describing the changes to the ECB’s emergency liquidity assistance program from 2017_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/775 
+
+(EU 2009a) European Union (EU). 2009a. “The Statute of The European System of Central Banks and of The European Central Bank.” January 1, 2009. 
+
+_EU statute on the European system of central banks_ . https://elischolar.library.yale.edu/ypfs-documents2/731 
+
+(EU 2009b) European Union (EU). 2009b. Treaty on the Functioning of the European Union. 5/8/2008. 
+
+_Treaty prohibiting monetary financing by Eurosystem national central banks_ . https://elischolar.library.yale.edu/ypfs-documents2/3841 
+
+
+(Government of Ireland 2003) Government of Ireland. 2003. Central Bank and Financial Services Authority of Ireland Act 2003. Number 12 of 2003. _Statute providing an amendment to the Central Bank Act of 1942_ . https://elischolar.library.yale.edu/ypfs-documents2/4479 
+
+(Government of Ireland 2008) Government of Ireland. 2008. Credit Institutions (Financial Support) Act 2008. 
+
+_Act that established the basis for financially supporting credit insitutions in Ireland_ . https://elischolar.library.yale.edu/ypfs-documents/14834/ 
+
+## **Media Stories** 
+
+(Noonan 2011) Noonan, Laura. 2011. “Banks Pay Less than 3pc Interest on €51bn of Emergency Funding.” The Independent, February 8, 2011. _News article on the interest paid by Irish banks on the AHEL_ . https://elischolar.library.yale.edu/ypfs-documents2/4486 
+
+## **Press Releases/Announcements** 
+
+(CBI 2009) Central Bank of Ireland (CBI). 2009. “Press Releases January – June 2009.” _Press releases of the Central Bank of Ireland between January and June 2009_ . https://elischolar.library.yale.edu/ypfs-documents2/4467 
+
+(CBI 2023) Central Bank of Ireland (CBI). 2023. “Role of the Central Bank of Ireland within the Eurosystem.” 
+
+_Webpage of the ECB detailing its role_ . https://elischolar.library.yale.edu/ypfs-documents2/4474 
+
+(ECB 2017b) European Central Bank (ECB). 2017b. “ECB Publishes ELA Agreement.” June 19, 2017. 
+
+_Webpage detailing the press release pertaining to the ELA agreement_ . https://elischolar.library.yale.edu/ypfs-documents2/4477 
+
+(ECB 2023) European Central Bank (ECB). 2023. “Irish Letters.” _Document from the ECB summarising its correpondence with the CBI_ . https://elischolar.library.yale.edu/ypfs-documents2/596/ 
+
+(Government of Ireland 2022) Government of Ireland. 2022. “Irish Bank Resolution Corporation (IBRC).” January 14, 2022. 
+
+_Document describing the merger and special liquidation of two financial institutions in Ireland_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/5166 
+
+(MerrionStreet 2013a) MerrionStreet. 2013a. “Government Announces Revised Promissory Notes Agreement.” February 7, 2013. 
+
+_Press release describing the approval of legislation for the orderly wind up of IBRC_ . https://elischolar.library.yale.edu/ypfs-documents2/5167 
+
+
+(MerrionStreet 2013b) MerrionStreet. 2013b. “Taoiseach’s Announcement on the Promissory Notes.” February 7, 2013. 
+
+_Press release describing the replacement of promissory notes by the Central Bank of Ireland_ . https://elischolar.library.yale.edu/ypfs-documents2/5155 
+
+## **Reports/Assessments** 
+
+(Anglo 2009) Anglo Irish Bank (Anglo). 2009. Annual Reports & Accounts 2008. _Annual report of Anglo Irish Bank for the year 2008_ . https://elischolar.library.yale.edu/ypfs-documents2/5165 
+
+(Anglo 2010) Anglo Irish Bank (Anglo). 2010. Annual Report & Accounts 2009. _Annual report of Anglo Irish Bank for the year 2009_ . https://elischolar.library.yale.edu/ypfs-documents2/4466 
+
+(Anglo 2011) Anglo Irish Bank (Anglo). 2011. Annual Report & Accounts 2010. _Annual report of Anglo Irish Bank for the year 2010_ . https://elischolar.library.yale.edu/ypfs-documents2/5161 
+
+(CBI 2010) Central Bank of Ireland (CBI). 2010. Annual Report 2009. _Annual Report of the CBI for 2009_ . https://elischolar.library.yale.edu/ypfs-documents/14845 
+
+(CBI 2011) Central Bank of Ireland (CBI). 2011. Annual Report 2010. _Annual report of the CBI for 2010_ . https://elischolar.library.yale.edu/ypfs-documents/14680/ 
+
+(CBI 2012) Central Bank of Ireland (CBI). 2012. Annual Report 2011. _Annual report of the CBI for 2011_ . https://elischolar.library.yale.edu/ypfs-documents2/4468 
+
+(CBI 2013) Central Bank of Ireland (CBI). 2013. Annual Report 2012. _Annual report of the CBI for 2012_ . https://elischolar.library.yale.edu/ypfs-documents2/4469 
+
+(CBI 2014) Central Bank of Ireland (CBI). 2014. Annual Report 2013. _Annual report of the CBI for 2013_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4470 
+
+(CBI 2024) Central Bank of Ireland (CBI). 2024. Annual Report 2023. _Annual report of the CBI for 2023_ . https://elischolar.library.yale.edu/ypfs-documents/15052 
+
+
+(Committee on Economic and Monetary Affairs 2015) Committee on Economic and Monetary Affairs. 2015. “Committee on Economic and Monetary Affairs Monetary Dialogue with Mario Draghi.” November 12, 2015. 
+
+_Transcripts detailing the exchange between the ECB Committee on Economic and Monetary Affairs with Mario Draghi, president of the ECB_ . https://elischolar.library.yale.edu/ypfs-documents2/4475 
+
+(EC 2008) European Commission (EC). 2008. “State Aid NN 48/2008 - Ireland   Guarantee Scheme for Banks in Ireland.” October 13, 2008. 
+
+_EC report on the State Aid given to Irish banks_ . https://elischolar.library.yale.edu/ypfs-documents/14840 
+
+(EC 2009) European Commission (EC). 2009. “State Aid N356/2009 - Recapitalisation of Anglo-Irish Bank by the Irish State.” June 26, 2009. 
+
+_EC report on the State Aid pertaining to Anglo Irish Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/4478 
+
+(Eichengreen 2015) Eichengreen, Barry. 2015. “The Irish Crisis and the EU from a Distance.” Book Chapter. Ireland: Lessons from Its Recovery from the Bank-Sovereign Loop, 2015. 
+
+_Report on the aftermath of the Irish banking sector crisis_ . https://elischolar.library.yale.edu/ypfs-documents/9743 
+
+(Honohan 2010) Honohan, Patrick. 2010. “The Irish Banking Crisis Regulatory and Financial Stability Policy 2003-2008.” A Report to the Minister of Finance by the Governor of the Central Bank, Central Bank of Ireland, May 31, 2010. 
+
+_Report on the Irish banking crisis prepared by the governor of the CBI_ . https://elischolar.library.yale.edu/ypfs-documents/730/ 
+
+(Honohan 2012) Honohan, Patrick. 2012. “Recapitalisation of Failed Banks - Some Lessons from the Irish Experience.” Speech delivered at the 44th Annual Money, Macro and Finance Conference, Dublin, July 9, 2012. 
+
+_Speech discussing the Irish recapitalization effort_ . https://elischolar.library.yale.edu/ypfs-documents/10517 
+
+(Honohan 2019) Honohan, Patrick. 2019. _Currency, Credit and Crisis: Central Banking in Ireland and Europe_ . London: Cambridge University Press. May 2019. _Book presenting the functioning of the central banks in Ireland._ https://elischolar.library.yale.edu/ypfs-documents2/3251/ 
+
+(Houses of the Oireachtas 2013) Houses of the Oireachtas. 2013. “NAMA Bonds,” May 9, 2013. 
+
+_Document presenting the discussion in the Irish Parliament about bonds issued by a national regulator_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/5158 
+
+
+(Houses of the Oireachtas 2015) Houses of the Oireachtas. 2015. “Report of the Joint Committee of Inquiry into the Banking Crisis.” May 21, 2015. 
+
+_Transcript of the CBI Governor John Hurley’s discussion with the Joint Committee of Inquiry into the Banking Crisis_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4480 
+
+(Houses of the Oireachtas 2016) Houses of the Oireachtas. 2016. “Report of the Joint Committee of Inquiry into the Banking Crisis.” January 2016. _Report prepared by the Irish parliament investigating the Irish banking crisis_ . https://elischolar.library.yale.edu/ypfs-documents/9803 
+
+(IBRC 2012) Irish Bank Resolution Corporation Limited (IBRC). 2012. “Annual Report & Accounts 2011.” 2012. 
+
+_Annual report of Ireland’s Resolution unit for the year 2011_ . https://elischolar.library.yale.edu/ypfs-documents2/5160 
+
+(IBRC 2014) Irish Bank Resolution Corporation Limited (IBRC). 2014. “Progress Update Report.” June 6, 2014. 
+
+_Report providing a financial update about the special liquidation of a bank resolution company in Ireland_ . https://elischolar.library.yale.edu/ypfs-documents2/5164 
+
+(IMF 2016) International Monetary Fund (IMF). 2016. “Ireland Technical Note on Financial Safety Net, Bank Resolution, and Crisis Management.” IMF Country Report No. 16/313, September 2016. 
+
+_Report providing a financial sector assessment by IMF on Ireland_ . https://elischolar.library.yale.edu/ypfs-documents2/4481 
+
+(IMF 2022) International Monetary Fund (IMF). 2022. “Ireland Technical Note on Financial Safety Net, Bank Resolution, and Crisis Management.” IMF Country Report No. 22/239, July 2022. 
+
+_Report providing a financial sector assessment by IMF on Ireland_ . https://elischolar.library.yale.edu/ypfs-documents2/4483 
+
+(Kinsella 2011) Kinsella, Stephen. 2011. “Three (and a Bit) Years on from the Banking Guarantee.” September 30, 2011. 
+
+_Blog post assessing Ireland’s broad based guarantee to the banking sector during the global financial crisis_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/5157 
+
+(Nyberg 2011) Nyberg, Peter. 2011. “Misjudging Risk: Causes of the Systemic Banking Crisis in Ireland.” March 2011. 
+
+_Report detailing the investigation into the banking sector in Ireland_ . https://elischolar.library.yale.edu/ypfs-documents/734 
+
+
+(Trichet 2010a) Trichet, Jean-Claude. 2010a. “Letter from the ECB President to the Irish Minister of Finance.” October 15, 2010. 
+
+_Letter from Jean-Claude Trichet to the Brian Lenihan on the banking system of Ireland_ . https://elischolar.library.yale.edu/ypfs-documents2/972 
+
+(Trichet 2010b) Trichet, Jean-Claude. 2010b. “Letter to Brian Lenihan, the Irish Minister of Finance.” November 19, 2010. 
+
+_Letter from Jean-Claude Trichet to Brian Lenihan on the ELA provided to Ireland_ . https://elischolar.library.yale.edu/ypfs-documents2/4488 
+
+(Tynan 2020) Tynan, David. 2020. “Determination of Value of Shares Transferred to the Minister for Finance and Rights Extinguished under the Anglo Irish Bank Corporation Act 2009.” Report, April 23, 2020. 
+
+_Report that details the methodology of valuation of shares transferred to the Irish finance minister_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4489 
+
+## **Key Academic Papers** 
+
+(Arnold 2025) Arnold, Vincient. 2025. “Emergency Liquidity Assistance and Monetary Financing in the European Union: A Case Study in Fiscal Cooperation?” Yale Program on Financial Stability, _Systemic Risk Blog_ , January 30, 2025. 
+
+_Policy note discussing the application of monetary financing regulations on ELA in Europe_ . https://som.yale.edu/story/2025/emergency-liquidity-assistance-and-monetaryfinancing-european-union-case-study-fiscal 
+
+(Baudino, Murphy, and Svoronos 2020) Baudino, Patrizia, Diarmuid Murphy, and JeanPhilippe Svoronos. 2020. “The Banking Crisis in Ireland.” FSI Crisis Management Series, No. 2, October 27, 2020. 
+
+_Study describing the banking crisis in Ireland_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents/10507 
+
+(Kelly et al. 2025) Kelly, Steven, Vincient Arnold, Greg Feldberg, and Andrew Metrick. 2025. “Survey of Ad Hoc Emergency Liquidity Programs." _Journal of Financial Crises_ 7, no. 1. _Survey of YPFS case studies examining the provision of ad hoc emergency liquidity_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/3/ 
+
+(Nye 2021) Nye, Alexander. 2021. “National Asset Management Agency (NAMA).” _Journal of Financial Crises_ 3, no. 2, June 23, 2021. 
+
+_YPFS case study on NAMA_ . 
+
+https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1162&context=journal-offinancial-crises 
+
+(Schaefer-Brown 2022) Schaefer-Brown, Stella. 2022. “Ireland: Credit Institution (Financial Support) Scheme, 2008.” _Journal of Financial Crises_ 4, no. 4. _YPFS case study on Ireland’s guarantee scheme in 2008._ https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/10/ 
+
+
+(Whelan 2012) Whelan, Karl. 2012. “ELA, Promissory Notes and All That: The Fiscal Costs of Anglo Irish Bank.” University College Dublin, September 2012. _Paper detailing the fiscal costs entailed in aid provided to Anglo Irish Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/4490 
+
+(Wiggins et al. 2022) Wiggins, Rosalind Z., Sean Fulmer, Greg Feldberg, and Andrew Metrick. 2022. “Broad-Based Emergency Liquidity Programs.” _Journal of Financial Crises_ 4, no. 2. 
+
+_Survey of YPFS case studies examining broad-based emergency liquidity programs._ https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/3/ 
+
+Copyright 2025 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

@@ -1,0 +1,437 @@
+## European Central Bank: Covered Bond Purchase Programs I and II[1] 
+
+## _Ariel A. Smith_[2] 
+
+Yale Program on Financial Stability Case Study March 19, 2019; Revised: October 10, 2020 
+
+## **Abstract** 
+
+In July 2009, the European Central Bank introduced a nonstandard measure to revitalize the European covered bond market, which at the time financed about one-fifth of mortgages in Europe. The market struggled after the collapse of Lehman Brothers as the global financial crisis intensified in 2008. Over the course of the program, which lasted 12 months, European central banks, collectively known as “the Eurosystem,” conducted direct purchases in both primary and secondary markets to a total of €60 billion of covered bonds. The Eurosystem held the purchased covered bonds until maturity and made them eligible for lending to counterparties as of March 2010. Some evaluations consider the first CBPP a success, as the covered bond market began to function normally after the program’s implementation. However, the CBPP operated at the same time as other crisis-combatting programs within both the Eurosystem and individual member countries, and its results occurred during a general improvement in conditions. 
+
+In November 2011, the European Central Bank introduced the second iteration of its covered bond purchase programs to stimulate funding to credit institutions and facilitate lending at the onset of the sovereign debt crisis. The program ran for one year and fell far short of its targeted €40 billion in purchases; at its completion, Eurosystem central banks had purchased €16.4 billion of covered bonds. It is difficult to holistically evaluate the program; while CBPP2 generally had a positive impact on the covered bond market, it was much less effective than CBPP1. 
+
+**Keywords:** covered bonds, direct purchases, bank funding 
+
+_____________________________________________________________________ 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering the responses to the global financial crisis that pertain to market liquidity programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-offinancial-crises/. 
+
+> 2 Ariel A. Smith – Research Associate, YPFS, Yale School of Management. 
+
+
+## Covered Bond Purchase Programs I and II 
+
+## **At a Glance** 
+
+The global financial crisis negatively impacted the covered bond market, which over time had become an important source of bank funding in Europe. In an effort to revive the market, the European Central Bank (ECB) introduced a nonstandard measure called the Covered Bond Purchase Programme (CBPP) (later CBPP1). 
+
+Over the course of the program’s first 12month iteration, from July 6, 2009, until June 30, 2010, central banks in the Eurosystem conducted direct purchases in both primary and secondary markets to a total of €60 billion of covered bonds. The general aims of the program were to improve market liquidity in the covered 
+
+## **Summary of Key Terms** 
+
+||**Purpose:**CBPP1: Revitalize activity in the Eurozone’s|**Purpose:**CBPP1: Revitalize activity in the Eurozone’s|
+|---|---|---|
+||covered bond market.|CBPP2: Stimulate funding to|
+||credit institutions and facilitate lending.||
+||Announcement Date<br>Operational Date|CBPP1: May 7, 2009<br>CBPP2:October6,2011<br>CBPP1: July 6, 2009<br>CBPP2: November3,20113|
+||Expiration Date|CBPP1: June 30, 2010|
+|||CBPP2:October31,2012|
+||Legal Authority|Article 18.1 of the Statute of|
+||Total Utilization|the European System of<br>Central Banks and oftheECB<br>CBPP1: €60 billion<br>CBPP2:€16.4billion|
+||Participants|Eurosystem central banks|
+
+
+
+bond market, ease money market term rates, resolve bank funding issues, and alleviate poor credit conditions while fostering growth. 
+
+While the ECB preferred that the program targeted covered bonds with a face value of about €500 million or greater, the purchasing central bank could use its discretion when deciding whether to buy a bond under €500 million. Central banks implemented the program through direct purchases in both the primary and secondary markets. 
+
+The program had an immediate impact on the covered bond market and revitalized issuance of covered bonds in the primary market; issuance returned to normal levels by the end of 2009. On the secondary market, spreads tightened and began to fall after the program’s announcement; by the end of 2009, the secondary market became more balanced and the narrowing of spreads slowed. 
+
+Over the course of the program, the Eurosystem bought €60 billion in covered bonds. Banks issued 175 CBPP1-eligible new covered bonds and 55 taps of preexisting CBPP1-eligible 
+
+_____________________________________________________________________ 
+
+> 3 The legal decision was signed on this day, but the program did not enter into force until the day following its publication on the ECB website. As the date of the decision’s online publication is unclear, this case uses the date of signing. 
+
+
+covered bonds for an overall amount of about €184 billion. Of the purchases, 27% came from primary markets and 73% came from secondary markets. The Eurosystem held the purchased covered bonds until maturity and made them eligible for lending to counterparties as of March 2010. 
+
+The ECB relaunched the CBPP in response to the sovereign debt crisis to stimulate funding to credit institutions and enable lending. This iteration (CBPP2) was essentially the same as the first except for its specific targeting of bonds with maximum residual maturities of 10.5 years. The program ran for one year with a target goal of €40 billion in direct purchases in both the primary and secondary markets. On April 4, 2012, the ECB announced that it would slow the pace of purchases made under the program due to lessening demand. By the program’s end on October 31, 2012, Eurosystem central banks had purchased only €16.4 billion of covered bonds, which they lent out and held until maturity. 
+
+## **Summary Evaluation** 
+
+Some evaluations consider CBPP1 a success. Conditions in the covered bond market improved after the implementation of the program: market liquidity improved, and issuance of covered bonds on the primary market reactivated. The program allowed euro area institutions to return to the widespread use of covered bonds as a method of bank funding, which deepened and broadened individual covered bond markets. This activity in turn had a positive impact on non–euro area financial institutions, which saw a swelling of primary market activity. 
+
+However, CBPP1 was in operation at the same time as other crisis-combatting programs within both the Eurosystem and individual member countries, and the general improvement in conditions that occurred must be evaluated in this context. 
+
+Evaluations of CBPP2 show that it was generally less effective than CBPP1 in achieving its goals. One evaluation by Holger Markmann found that its announcement did have a slight impact on the yields of Eurozone covered bonds in some countries and that yield spreads tightened modestly in the Eurozone over the course of the program. A second evaluation by Gibson, Hall, and Tavlas (2016) found that CBPP1 and CBPP2 modestly raised the prices of covered bonds, but the authors also note that it is difficult to create models that properly evaluate ECB asset prices because spreads are affected by other latent variables, such as market sentiment, that are hard to quantify. 
+
+
+## **I. Overview** 
+
+## **Background** 
+
+In the lead-up to the global financial crisis, covered bonds[4] became an important source of bank funding in Europe (European Central Bank 2010C). By the end of 2008, the covered bond market represented about €2.4 trillion of Europe’s capital markets, compared with about €1.5 trillion in 2003 (Beirne et al. 2011). They were particularly important in the mortgage market, as roughly two-thirds of outstanding covered bonds were collateralized by mortgages.[5] Covered bonds outstanding in 2009 were equivalent to about 20% of outstanding mortgage loans in the European Union (Burmeister, Grossmann, and Stöcker 2010). 
+
+At the beginning of the crisis, the European covered bond market held relatively steady, but after the collapse of Lehman Brothers in 2008, it encountered difficulty with liquidity, issuance, and spreads (Beirne et al. 2011; European Central Bank 2010C). The secondary covered bond market came under pressure and swap spreads widened, and as the pressure extended to the primary market, issuance of covered bonds slowed (European Central Bank 2008). 
+
+Concurrently, the global nature of the financial crisis led banks to lose confidence in each other, which put a damper on interbank activity. The pause in activity signaled a widespread liquidity risk that endangered the entire banking system, which in turn fostered further uncertainty around a suffering European covered bond market (Beirne et al. 2011; European Central Bank 2008). 
+
+In an effort to revive the covered bond market, the European Central Bank introduced a nonstandard measure: the Covered Bond Purchase Programme.[6] 
+
+Partly as a result of the program, the covered bond market began to recover and function normally throughout 2010, and both individual and new covered bond markets became more robust. However, with the onset of the sovereign debt crisis, the ECB launched a second covered bond purchase program in November 2011 with the specific aims of “easing funding conditions for credit institutions and enterprises” and “encouraging credit institutions to maintain and expand their lending to customers” (ECB2). 
+
+_____________________________________________________________________ 
+
+> 4 Covered bonds are “securities issued by financial institutions that are secured by dedicated collateral” (Packer, Stever, and Upper 2007). 
+
+> 5 About one-third were collateralized by public-sector debt. A small amount was collateralized by ships and mixed assets. 
+
+> 6 The Swiss National Bank had purchased CHF 2.5 billion in bonds between April and June 2009 to help stimulate the issuance of domestic covered bonds (European Covered Bond Council 2009). 
+
+
+## **Program Description** 
+
+On May 7, 2009, the Governing Council of the European Central Bank announced a program under which it authorized Eurosystem central banks to purchase euro-denominated covered bonds issued in the euro area. On the same day, the ECB also announced the launch of liquidity-providing longer-term refinancing operations (LTROs) with a maturity of 12 months. The ECB announced specifics of the Covered Bond Purchase Programme in June. Eligible central banks would conduct direct purchases in both primary and secondary markets for a 12-month period from July 6, 2009,[7] until June 30, 2010, to a total of €60 billion (a predetermined target) of covered bonds (European Central Bank 2009A; European Central Bank 2009B; European Central Bank 2010A). 
+
+The goals of CBPP1 were fourfold: to “contribute to promoting the ongoing decline in money market term rates; ease funding conditions for credit institutions and enterprises; encourage credit institutions to maintain and expand their lending to clients; and [to] improve market liquidity in important segments of the private debt securities market” (Beirne et al. 2011). 
+
+In order to be eligible for purchase, a covered bond had to “be eligible for use as collateral for Eurosystem credit operations [and] comply with the criteria set out in Article 22(4) of the Directive on undertakings for collective investment in transferable securities (UCITS), or similar safeguards for non-UCITS-compliant covered bonds.” Additionally, the ECB preferred covered bonds purchased through the program to have a face value of €500 million or more and a minimum credit rating of AA or equivalent. However, central banks participating in the program could, at their discretion, purchase bonds as small as €100 million and with credit ratings as low as BBB-/Baa3 (European Central Bank 2009A). A decision to purchase a smaller bond had to be predicated upon specific market circumstances or risk management considerations (European Central Bank 2009B). 
+
+In order to participate in CBPP1, an institution had to satisfy one of two options: it had to be eligible for the Eurosystem’s credit operations or be used by the Eurosystem as an investment institution for its euro-denominated portfolios (European Central Bank 2009A). 
+
+European central banks implemented CBPP1 through two main channels. First, they made direct purchases in the primary market, even though this participation accounted for a small amount of the market’s total transactions; and second, they bought covered bonds from investors in various sections of the secondary market, giving these investors the chance to then make purchases on the primary market (European Central Bank 2010A). 
+
+The central banks in the Eurosystem that held the purchased covered bonds kept them until maturity (European Central Bank 2010D). 
+
+_____________________________________________________________________ 
+
+> 7 Discrepancy in dates: see European Central Bank 2009B, which has July 3, 2009 as the implementation date. 
+
+
+Finally, central banks made CBPP1-purchased bonds available for lending to certain eligible parties as of March 2010 (European Central Bank 2010A). 
+
+The second Covered Bond Purchase Programme (CBPP2), announced on October 6, 2011, and operational in November 2011, was essentially identical to CBPP1. It initially targeted €40 billion in direct purchases across the euro area and had a planned end of October 31, 2012 (ECB2; ECB3). Purchases were conducted in both the primary and secondary markets, as with CBPP1 (ECB3). However, while CBPP1 did not specify[8] targeted bond maturities, CBPP2 primarily targeted bonds with maximum residual maturities of 10.5 years. 
+
+The CBPP2 portfolio was made available for lending; this lending was “voluntary and conducted through security lending facilities offered by central securities depositories, or via matched repo transactions with eligible counterparties” (ECB3). 
+
+In a April 4, 2012 press conference, the ECB announced that it would curtail the pace of purchases made under the program “in response both to investors’ increasing demand for euro area covered bonds and the decline in the supply of covered bonds” (ECB2). 
+
+The program ended on October 31, 2012, as planned, and the Eurosystem kept the purchased bonds until maturity (ECB2). 
+
+## **Outcomes** 
+
+During the first CBPP, from July 6, 2009, until June 30, 2010, the Eurosystem bought €60 billion in covered bonds, which represented about 2.5% of total outstanding covered bonds at the time (Fawley and Neely 2013). Throughout the course of the program, banks issued 175 CBPP1-eligible new covered bonds and 55 taps[9] of preexisting CBPP1-eligible covered bonds for an overall amount of about €184 billion (European Central Bank 2010B). 
+
+Of the purchases, 27% (€16.2 billion) were made in the primary markets and 73% (€43.8 billion) were made in the secondary markets, which equaled an absorption rate of 10.8% of all CBPP1-eligible issues during the program’s length (Beirne et al. 2011; Markmann 2017). 
+
+A visual representation of the covered bond purchases during the program’s first iteration is illustrated below in Figure 1. Most of the bonds purchased were of three to seven years; the average was 4.12 years at the program’s termination (Beirne et al. 2011). 
+
+_____________________________________________________________________ 
+
+> 8 While CBPP1 did not specify targeted bond maturities, bonds with maturities of three to seven years made up the bulk of those purchased under the program (Beirne et al. 2011). 
+
+> 9 This is a numerical discrepancy: see the _Final Monthly Report_ from June 2010 (European Central Bank 2010A), which says 148 new and 48 tap. 
+
+
+[FIGURE id=vol2_iss3_16_f1 type=chart label="Figure 1" file=figure_1.png caption="Accumulated Covered Bond Purchases by the Eurosystem under the CBPP1, EUR billions"]
+### **Figure 1: Accumulated Covered Bond Purchases by the Eurosystem under the CBPP1, EUR billions**
+![Figure 1](assets/vol2_iss3_16/figure_1.png)
+
+
+_Source: Beirne et al. 2011._ 
+
+CBPP1 ended on June 30, 2010, at which point the ECB issued a press release detailing its completion (European Central Bank 2010D). By the program’s end, European central banks had purchased 422 different bonds,[10] and the nominal amount purchased came to €60 billion as planned (European Central Bank 2010C). However, according to an analysis by the ECB, the total amount of covered bond purchases created €61.118 billion of liquidity in the money market. This numerical difference “mainly reflect[ed] differences between purchase price and par” (Beirne et al. 2011). 
+
+There were fewer purchases under CBPP2 than under CBPP1: Only €16.4 billion in covered bonds had been purchased by the program’s end, which fell far short of the program’s target of €40 billion. Of these purchases, 37% were made in the primary market and 63% were made in the secondary market (ECB4; Markmann 2017). 
+
+Figure 2 below shows how the amount of purchases made under CBPP2 was substantially smaller than those made under CBPP1 (and the later-instituted Securities Markets Programme [SMP]). 
+
+_____________________________________________________________________ 
+
+> 10 This is a numerical discrepancy: see the conflicting information on the number of new bonds and taps issued in the first paragraph of the Outcomes section. 
+
+
+[FIGURE id=vol2_iss3_16_f2 type=figure label="Figure 2" file=figure_2.png caption="Comparative Size of CBPP2"]
+### **Figure 2: Comparative Size of CBPP2**
+![Figure 2](assets/vol2_iss3_16/figure_2.png)
+
+
+_Note: As of November 2, 2018, holdings in the CBPP2 portfolio totaled €4.029 billion, at amortized cost (ECB4)._ 
+
+_Source: Falagiarda and Reitz 2015._ 
+
+## **II. Key Design Decisions** 
+
+## **1. CBPP1 and CBPP2 had distinct purposes.** 
+
+CBPP1 was initiated in response to the global financial crisis with the goal of revitalizing the covered bond market by improving market liquidity, resolving bank funding issues, and alleviating poor credit conditions while simultaneously fostering growth. 
+
+CBPP2 was initiated in response to the sovereign debt crisis in order to stimulate funding to credit institutions and facilitate lending. 
+
+## **2. The programs had different target purchase amounts.** 
+
+CBPP1 targeted €60 billion, while CBPP2 targeted €40 billion. 
+
+- **i. The first iteration of the program ran from July 6, 2009, until June 30, 2010; the second iteration of the program ran from November 3, 2011, until October 31, 2012.** 
+
+These were planned time frames, and they were not lengthened or shortened during the course of the CBPPs. 
+
+
+## **ii. The legal basis for the program came from an ECB Governing Council decision citing Article 18.1 of the Statute of the European System of Central Banks and of the ECB.** 
+
+Article 18.1 states that the ECB and the national central banks are allowed to “operate in the financial markets by buying and selling outright (spot and forward) or under repurchase agreement and by lending or borrowing claims and marketable instruments, whether in euro or other currencies, as well as precious metals” (European Central Bank 2011B). 
+
+The ECB’s June 2009 announcement of the details of the first CBPP formally outlined the establishment and scope of the program, along with the eligibility criteria for covered bonds and counterparties and the program’s duration (European Central Bank 2009A). Central banks could choose to purchase eligible bonds in both the primary and secondary markets from counterparties outlined in the decision (European Central Bank 2011B). 
+
+## **3. There were institutional requirements for eligibility in the CBPP.** 
+
+In order to participate in either Covered Bond Purchase Programme, an institution had to satisfy one of two options: it had to be eligible for the Eurosystem’s credit operations[11] or be used by the Eurosystem as an investment institution for its euro-denominated portfolios (European Central Bank 2009A). 
+
+## **4. Covered bonds were specifically selected for purchase over other asset classes.** 
+
+This preference was because covered bonds provided banks with access to long-term funding, which lessened liquidity risks, and over time, they had proven to be “relatively resilient, in particular in comparison with securitization” (Trichet 2009C). 
+
+Additionally, banks were heavily reliant upon the covered bond market as a source of funding; because of this, the market was of a substantial size and could “absorb the sizable amounts of resources required for central bank intervention” (Markmann 2017). 
+
+## **5. Covered bonds had to be eligible for Eurosystem open market operations and had to satisfy other conditions to be purchased under the CBPP.** 
+
+In order to be eligible for purchase, a covered bond had to “be eligible for use as collateral for Eurosystem credit operations; comply with the criteria set out in Article 22(4) of the Directive on undertakings for collective investment in transferable securities (UCITS), or similar safeguards for non-UCITS-compliant covered bonds; have, as a rule, an issue volume 
+
+_____________________________________________________________________ 
+
+> 11 The language defining institutional eligibility for CBPP2 was slightly different than that for CBPP1: while the investment institution component was the same, CBPP2-eligible institutions included “domestic counterparties participating in Eurosystem monetary policy operations as defined in Section 2.1 of Annex I to Guideline ECB/2000/7” (ECB1). 
+
+
+of about €500 million or more, and, in any case, not lower than €100 million; have, as a rule, been given a minimum rating of AA or equivalent by at least one of the major rating agencies (Fitch, Moody’s, S&P or DBRS), and, in any case, not lower than BBB-/Baa3; and have underlying assets that include exposure to private and/or public entities” (European Central Bank 2009A). 
+
+Central bank eligibility was important because the ECB’s intent was to use its open market operations to promote covered bond issuance. The ECB had exempted covered bonds from its rule against banks using their own debt as collateral in its open market operations. It also charged a lower haircut on jumbo (greater than €1 billion) covered bonds compared to other privately issued debt (European Covered Bond Council 2012). 
+
+Article 52(4) in Section 6.2.3 of the ECB’s General documentation on Eurosystem monetary policy instruments and procedures; lays out criteria for investments by European investment funds (UCITS), which are analogous to mutual funds in the United States. To comply, investments had to have an issue size of €300 million or more; have a minimum rating of BBB- or the equivalent from one or more of the major rating agencies; have a maximum residual maturity of 10.5 years; and could be issued by either public or private entities” (ECB3). Covered bonds that comply with Article 52(4) are considered to be relatively safe and therefore are subject to less stringent regulations.[12] Those criteria encompass covered bond issuers that have their registered office in a member state. They require that: (1) those issuers are subject by law to special public supervision designed to protect bondholders; (2) funds raised from the issue of these bonds must conform with the law and be capable of covering claims attached to the bonds; and (3) in the event of failure of the issuer, the collateral underlying the bonds would be used on a priority basis to meet payments to bondholders (European Covered Bond Council 2011). 
+
+With respect to the issue size of the covered bonds, it was up to the purchasing central bank to decide whether or not to purchase a bond with an issue size of below €500 million. A decision to purchase a smaller bond (but never less than €100 million) had to be predicated upon specific market circumstances or risk management considerations (European Central Bank 2009B). 
+
+The requirements for CBPP2 were essentially the same as those for CBPP1, but the language describing them was slightly different: Eligible bonds were those that were available for use as collateral in Eurosystem credit operations and adhered to Article 52(4) (ECB3). 
+
+## **6. The ECB expected the program would not need to be sterilized.** 
+
+At the June 2009 press conferencing announcing details of CBPP1, then–ECB President JeanClaude Trichet said, “We expect automatic stabilization.” In other words, banks that sold 
+
+_____________________________________________________________________ 
+
+> 12 Specifically, investment funds (UCITS) can invest up to 25% of their assets in the covered bonds of a single issuer that meets the Article 52(4) criteria, versus a 5% limit for other issues (European Covered Bond Council 2011). 
+
+
+covered bonds to their central bank or the ECB to raise liquidity would be expected to borrow less from the central bank’s open market operations, by roughly the same amount. Trichet implied that if this didn’t work, the ECB was prepared to actively sterilize the transactions: “If anything were necessary in order to be fully in line with our monetary policy strategy, we would do it” (Trichet 2009B). 
+
+In announcing CBPP1 in May 2009, Trichet had said that the program was part of its “enhanced credit support” operations—and, “we consider all the non-conventional measures we have taken in connection with the refinancing of banks as enhanced credit support.” He said the ECB was not engaging in “quantitative easing” (Trichet 2009A). 
+
+In contrast, the ECB did actively sterilize its Securities Markets Programme, under which it began to purchase government bonds outright in 2010 (European Central Bank Annual Report 2010). 
+
+## **7. The ECB and national central banks implemented the CBPP through two main channels.** 
+
+First, they made direct purchases in the primary market, even though this participation accounted for a small amount of the market’s total transactions; and second, they bought covered bonds from investors in the secondary market, giving these investors the chance to then make purchases on the primary market (European Central Bank 2010A). By the first program’s end, of the purchases, 27% were made in the primary markets and 73% were made in the secondary markets (Beirne et al. 2011). 
+
+The ECB itself said it would directly buy up to 8% of the €60 billion covered bonds to be purchased in the program, or €4.8 billion. The national central banks in the Eurosystem would purchase the remaining €55.2 billion. National central banks could purchase covered bonds “according to their allocated share” (European Central Bank 2009B). According to Will and Kwon (2010), this allocation was based on the percentage of ECB capital stock each national central bank held. By that measure, the top five central banks involved in the program would be Germany, France, Italy, Spain, and the Netherlands. However, the industry source noted that the Italian and Finnish central banks would be the largest users relative to the size of their own balance sheets (Will and Kwon 2010). 
+
+## **8. CBPP2 was essentially the same program as CBPP1.** 
+
+The principal difference between the two programs was that while CBPP2 primarily targeted bonds with maximum residual maturities of 10.5 years, CBPP1 did not specify any targeted bond maturities. 
+
+Additionally, CBPP1 was created to deal with the effects of the global financial crisis, while CBPP2 was created to deal with the sovereign debt crisis. 
+
+## **9. The Eurosystem made the bonds it held available for lending.** 
+
+
+In response to demand, the Eurosystem made securities purchased through CBPP available for lending to certain eligible parties as of March 2010 (European Central Bank 2010A). 
+
+When the Governing Council announced this lending availability for CBPP2, it elaborated that this lending would be “voluntary and conducted through security lending facilities offered by central securities depositories, or via matched repo transactions with eligible counterparties” (ECB3). 
+
+## **10.The Eurosystem held the bonds it purchased until maturity.** 
+
+As a result, default posed the main risk, followed by market risk and credit migration risk (Beirne et al. 2011). 
+
+## **III. Evaluation** 
+
+## **CBPP1** 
+
+At the time of its announcement, CBPP1 represented one of the first unconventional monetary policy actions taken within the Eurosystem, and as such, it “caught market participants by surprise” (Markmann 2017). 
+
+ECB studies take the view that the announcement of the program had an immediate impact on the covered bond market. Issuance of jumbo (greater than €1 billion) covered bonds on the primary market quickly recovered and returned to precrisis levels, as seen below in Figure 3, in which the dashed line represents the day of the program’s announcement (European Central Bank 2011A). The primary market saw particularly strong issuance of covered bonds between May and October 2009 (European Central Bank 2010A). An average of €240 million in purchases occurred every day under CBPP1 (Beirne et al. 2011). 
+
+
+[FIGURE id=vol2_iss3_16_f3 type=figure label="Figure 3" file=figure_3.png caption="Jumbo Covered Bond Issuance in the Euro Area"]
+### **Figure 3: Jumbo Covered Bond Issuance in the Euro Area**
+![Figure 3](assets/vol2_iss3_16/figure_3.png)
+
+
+_Source: European Central Bank 2011A._ 
+
+On the secondary market, announcement of CBPP1 was reported to have led to a tightening of spreads. Daily change had remained stagnant for weeks, but on the day of the announcement, spreads fell by up to 7 basis points and continued to fall at an average of 2 basis points per day for the following week in most Eurozone covered bond markets (Beirne et al. 2011; European Central Bank 2011A). This change can be seen below in Figure 4. One ECB study argued that the announcement of the program had a larger immediate impact on spreads—that they narrowed by 10 basis points to 11 basis points and continued to do so for the next seven weeks (Markmann 2017). 
+
+Will and Kwon (2010) argue that CBPP1 succeeded in at least three of its four objectives— tightening spreads, easing bank funding, and restoring liquidity to the covered bond market—while it was still “hard to gauge” whether it achieved the fourth objective, promoting lending to the real economy. 
+
+By the end of 2009, the narrowing of spreads slowed, and “spreads between the yields on many covered bonds and those on their respective sovereign benchmarks had also become relatively narrow.” As a result, investors began making the switch from covered bonds to government bonds. The secondary market thus “became more balanced, with more two-way flows”; simultaneously, the issuance of covered bonds on the primary market slowed and recovered to a somewhat normal level (European Central Bank 2010A). 
+
+
+[FIGURE id=vol2_iss3_16_f4 type=chart label="Figure 4" file=figure_4.png caption="Spreads in the Euro Area, basis points"]
+### **Figure 4: Spreads in the Euro Area, basis points**
+![Figure 4](assets/vol2_iss3_16/figure_4.png)
+
+
+
+[FIGURE id=vol2_iss3_16_f5 type=figure label="Exhibit 5" file=exhibit_5.png caption=""]
+![Exhibit 5](assets/vol2_iss3_16/exhibit_5.png)
+
+
+## _Source: European Central Bank 2011A._ 
+
+Over the course of the program, Greece saw its first publicly placed covered bond, and 25 individual banks began to issue covered bonds for the first time (Beirne et al. 2011; European Central Bank 2010A). Additionally, the bid-offer spread narrowed. According to Beirne et al. (2011), some countries’ preexisting covered bond markets “saw a significant increase in the number of issuers and outstanding amounts” and, thus, an expanding and strengthening of their individual covered bond markets. Overall, a study by the Federal Reserve Bank of St. Louis found that the €60 billion program “stimulated €150 billion in issuance” (Fawley and Neely 2013). 
+
+Thus, some view CBPP1 as successful. Although the euro area covered bond market was impacted by problems in sovereign debt markets at the beginning of 2010, in general, it recovered and returned to proper functioning after the implementation of the program (Beirne et al. 2011; European Central Bank 2010A). Market liquidity improved after the launch of CBPP1, as “the variance of euro area covered bond yields … returned to the levels observed in 2007 and early 2008” (Beirne et al. 2011). CBPP1’s success was particularly notable in the primary market, where it had a significant impact on the reactivation of covered bond issuance (Beirne et al. 2011). 
+
+However, it is important to note that “this revival was … driven by banks substituting the issuance of uncovered bonds for that of covered bonds, rather than by reviving the bank bond market as a whole,” as the purchase program “crowded out” uncovered bank bonds (Beirne et al. 2011). 
+
+Additionally, as noted above in Outcomes, euro area institutions returned to the widespread use of covered bonds as a method of funding, which deepened and broadened individual covered bond markets. This not only improved funding for euro area institutions, but had a positive impact on non–euro area financial institutions and areas (European Central Bank 
+
+
+2010A). Previously small or underdeveloped markets or market segments, such as Italy, Portugal, Greece, Austria, and UCITS-compliant bonds in the Netherlands, saw a swelling of primary market activity as a result of CBPP1, as more institutions began to turn to the covered bond as a funding instrument (Beirne et al. 2011). 
+
+Will and Kwon (2010) argue that the benefits of CBPP1 were not evenly spread across Europe. “The only caveat has been the domestic bias of the purchases by the national central banks which, based on the flow we saw and other anecdotal evidence, bought primarily paper from issuers out of their own countries. Hence, the German, French, and Italian issuers benefited disproportionately whilst the Greek, Spanish and Portuguese markets, despite arguably having the highest needs, received less support due to their lower outstanding covered bond volumes” (Will and Kwon 2010). 
+
+Finally, CBPP1 is seen to have piqued the interest of some investors in covered bonds as an asset class for the first time, which indicated that the covered bond market would remain of interest to new parties even after the program’s end (Beirne et al. 2011). 
+
+However: CBPP1 was not the only operating program in the Eurosystem that was designed to alleviate problems in the bond market during this time period; additionally, individual member states implemented their own programs designed to combat the crisis. As such, the general improvement in conditions that occurred must be evaluated in the context of these other programs, and in consideration of the fact that the markets generally improved during 2009 (Beirne et al. 2011). 
+
+## **CBPP2** 
+
+At the time of CBPP2’s implementation, the covered bond market was in relatively good shape, and as such, “it was considered uncertain whether CBPP2 would be able to reach its goals” (Markmann 2017). Indeed, the program did not. 
+
+Holger Markmann found that the announcement of CBPP2 did not have a significant impact on the yields of Eurozone covered bonds. While the yield differences for Germany and France increased by 4 basis points to 5 basis points, there was no impact on Spain and Ireland (Markmann 2017). 
+
+Markmann also found that yield spreads tightened by 4 basis points in the Eurozone, which was “considerably less than for the CBPP1.” In general, they found that the results for CBPP2 kept in line with the proposition that “a follow-up purchase program leads to a lower effect” (Markmann 2017). 
+
+Gibson, Hall, and Tavlas (2016) examined the combined impact of CBPP1, CBPP2, and the Securities Markets Programme on the prices of euro area covered bonds and spreads on sovereign bonds in Greece, Ireland, Italy, Portugal, and Spain. They found that, over the course of both iterations of the program, “the covered-bond purchases appear[ed] to have modestly raised covered-bond prices” (Gibson, Hall, and Tavlas 2016). 
+
+
+However, they also note that a major problem in creating models to examine the effects of ECB asset purchases “is that spreads may be affected by important latent variables [such as market sentiment] which are difficult to capture” (Gibson, Hall, and Tavlas 2016). 
+
+Figure 5 below shows euro area covered bond price indices, along with a marker for a statement made by then–President Mario Draghi in July 2012 that the ECB would do whatever it took to preserve the euro (Gibson, Hall, and Tavlas 2016). 
+
+[FIGURE id=vol2_iss3_16_f6 type=figure label="Figure 5" file=figure_5.png caption="Accumulated Covered Bond Purchases by the Eurosystem under CBPP1 and 2, Euro area covered bond price indices for bonds with any maturity and for those with greater than 10 years to maturity"]
+### **Figure 5: Accumulated Covered Bond Purchases by the Eurosystem under CBPP1 and 2, Euro area covered bond price indices for bonds with any maturity and for those with greater than 10 years to maturity**
+![Figure 5](assets/vol2_iss3_16/figure_5.png)
+
+
+_Source: Gibson, Hall, and Tavlas 2016._ 
+
+## **IV. References** 
+
+Beirne, John, Lars Dalitz, Jacob Ejsing, Magdalena Grothe, Simone Manganelli, Fernando Monar, Benjamin Sahel, Matjaž Sušec, Jens Tapking, and Tana Vong. 2011. “The Impact of the Eurosystem’s Covered Bond Purchase Programme on the Primary and Secondary Markets.” European Central Bank Occasional Paper Series, January 2011. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Beirne,%20John%20et%20 al%20The%20impact%20of%20eurosystems%20covered%20bond%20purchase%20pro gramme%20on%20the%20primary%20and%20secondary%20markets%20Jan%202011. pdf 
+
+
+Burmeister, Ralf, Ralf Grossmann, and Otmar Stöcker. 2010. “Overview of Covered Bonds.” In the _2010 ECBC European Covered Bond Fact Book_ , 69–79. Brussels: European Mortgage Federation/European Covered Bond Council. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/European_Covered_Bond_Fa ctbook_2010.pdf 
+
+European Central Bank. 2008. _Covered Bonds in the EU Financial System._ Frankfurt: European Central Bank. Accessed May 25, 2018. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECB%20cover%20bonds% 20in%20the%20EU%20financial%20system%202008.pdf 
+
+European Central Bank. 2009A. “Purchase Programme for Covered Bonds.” Press Release, June 4, 2009. Accessed May 29, 2018. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECB%20Press%20Release %20Purchase%20programme%20for%20covered%20bonds%2006-04-2009.pdf 
+
+European Central Bank. 2009B. “Decision of the European Central Bank of 2 July 2009 on the implementation of the covered bond purchase programme.” _Official Journal of the European Union_ . https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-0702%20CELEX_32009D0016(01)_EN_TXT.pdf 
+
+European Central Bank. 2010A. _Final Monthly Report on the Eurosystem’s Covered Bond Purchase Programme, June 2010._ Frankfurt: European Central Bank. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FINAL%20MONTHLY%20R EPORT%20ON%20THE%20EUROSYSTEM%E2%80%99S%20COVERED%20BOND%20PU RCHASE%20PROGRAMME%20JUNE%202010.pdf 
+
+European Central Bank. 2010B. “Covered Bond Market Developments and the Covered Bond Purchase Programme.” _Box 3, Monthly Bulletin, August 2010, Economic and Monetary Developments, Monetary and Financial Developments_ . Frankfurt: European Central Bank. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Covered%20bond%20mark et%20developments%20and%20the%20covered%20bond%20purchase%20programme. pdf 
+
+European Central Bank. 2010C. _The ECB’s Response to the Financial Crisis, Monthly Bulletin, October 2010._ Frankfurt: European Central Bank. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Monthly%20Bulletin%20Oc tober%202010_0.pdf 
+
+European Central Bank. 2010D. “Covered Bond Purchase Programme Completed.” Press Release, June 30, 2010. Accessed May 30, 2018. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECB%20Press%20Release %20Covered%20bond%20purchase%20programme%20completed%2007-30-2010.pdf 
+
+
+European Central Bank. 2011. _Annual Report 2010._ Frankfurt: European Central Bank. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ar2010en.pdf 
+
+European Central Bank. 2011A. _The ECB’s Non-Standard Measures–Impact and Phasing-Out, Monthly Bulletin, July 2011._ Frankfurt: European Central Bank. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/The%20ECB's%20nonstandard%20measures%20-%20impact%20and%20phasing-out.pdf 
+
+European Central Bank. 2011B. _Institutional Provisions, Statute of the ESCB and of the ECB, Rules of Procedure._ Frankfurt: European Central Bank. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Institutional%20provisions. %20Statute%20of%20the%20ESCB%20and%20of%20the%20ECB.%20Rules%20of%20p rocedure,%20September%202011.pdf 
+
+ECB1: European Central Bank. 2011. “Decision of the European Central Bank of 3 November 2011 on the implementation of the second covered bond purchase programme.” _Official Journal of the European Union._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Decision%20of%20the%20 European%20Central%20Bank%20of%203%20November%202011%20on%20the%20i mplementation%20of%20the%20second%20covered%20bond%20purchase%20progra mme%20(ECB_2011_17).pdf 
+
+ECB2: European Central Bank. 2012. “Ending of Covered Bond Purchase Programme 2 (CBPP2).” Press Release, October 31, 2012. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Ending%20of%20covered %20bond%20purchase%20programme%202%20(CBPP2).pdf 
+
+ECB3: European Central Bank. 2011. Press Release, November 3, 2011. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECB%20Press%20Release %20ECB%20announces%20details%20of%20its%20new%20covered%20bond%20purch ase%20programme%2011-03-2011.pdf ECB4: European Central Bank. n.d. Asset Purchase Programmes, Expanded Asset Purchase Programme. 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECB%20Asset%20purchase %20programmes%20Expanded%20asset%20purchase%20programme%20no%20date.p df 
+
+European Covered Bond Council. 2009. _2009 ECBC European Covered Bond Fact Book._ Brussels: European Mortgage Federation/European Covered Bond Council. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ecbc-fact-book-2009.pdf 
+
+European Covered Bond Council. 2010. _2010 ECBC European Covered Bond Fact Book._ Brussels: European Mortgage Federation/European Covered Bond Council. 
+
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/European_Covered_Bond_Fa ctbook_2010.pdf 
+
+European Covered Bond Council. 2011. _2011 ECBC European Covered Bond Fact Book._ Brussels: European Mortgage Federation/European Covered Bond Council. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECBC%20Fact%20Book%2 02011.pdf 
+
+European Covered Bond Council. 2012. _2012 ECBC European Covered Bond Fact Book._ Brussels: European Mortgage Federation/European Covered Bond Council. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECBC%20Fact%20Book%2 02012.pdf Falagiarda, Matteo, and Stefan Reitz. 2015. “Announcements of ECB Unconventional Programs: Implications for the Sovereign Spreads of Stressed Euro Area Countries.” _Journal of International Money and Finance_ 53, no. C (May): 276–95. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CREATE_LINK_Falagiarda_R eitz_2015.pdf 
+
+Fawley, Brett W., and Christopher J. Neely. 2013. “Four Stories of Quantitative Easing.” _Federal Reserve Bank of St. Louis Review_ 95, no. 1 (January/February): 51–88. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Fawley_and_Neely_2013.pdf 
+
+. 
+
+Gibson, Heather, Stephen Hall, and George Tavlas. 2016. “The Effectiveness of the ECB’s Asset Purchase Programs of 2009 to 2012.” _Journal of Macroeconomics_ 47, no. PA (March): 45–57. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Gibson_Hall_Tavlas_2016.pd f 
+
+Markmann, Holger. 2017. _Covered Bonds under Unconventional Monetary Policy._ Wiesbaden, Germany: Springer Gabler. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Covered%20Bonds%20und er%20Unconventional%20Monetary%20Policy%20summary.pdf 
+
+Packer, Frank, Ryan Stever, and Christian Upper. 2007. “The Covered Bond Market.” _BIS Quarterly Review_ (September). https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/The%20covered%20bond %20market%20- 
+
+%20BIS%20Quarterly%20Review,%20part%204,%20September%202007.pdf 
+
+Trichet, Jean-Claude. 2009. “The ECB’s Enhanced Credit Support.” Keynote Address, University of Munich, Munich, July 13, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECB%20Trichet,%20JeanClaudie%20%20The%20ECB's%20Enhanced%20Credit%20Support%2007-13-2009.PDF 
+
+
+Trichet, Jean-Claude and Lucas Papademos. 2009A. “Transcript of the Questions Asked and the Answers Given by Jean-Claude Trichet, President of the ECB, and Lucas Papademos, VicePresident of the ECB.” European Central Bank, Frankfort, May 7, 2009. Accessed March 18, 2019. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-0507%20Introductory%20statement%20with%20Q&A.pdf 
+
+Trichet, Jean-Claude. 2009B. “Transcript of the Questions Asked and the Answers Given by Jean-Claude Trichet, President of the ECB, and Lucas Papademos, Vice-President of the ECB.” European Central Bank, Frankfurt June 4, 2009. Accessed March 18, 2019. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Introductory%20statement %20with%20Q&A_4June.pdf 
+
+Will, Frank, and Sophia Kwon. “Was the ECB Covered Bond Purchase Programme a Success?” In the _2010 ECBC European Covered Bond Fact Book_ , 27–34. Brussels: European Mortgage Federation/European Covered Bond Council. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/European_Covered_Bond_Fa ctbook_2010.pdf 
+
+## **V. Key Program Documents** 
+
+## **Summary of Program** 
+
+Four Stories of Quantitative Easing (Fawley and Neely 2013) — _comparison of four programs including the CBPP._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Fawley_and_Neely_2013.pdf 
+
+## **Implementation Documents** 
+
+Decision of the European Central Bank of 2 July 2009 on the Implementation of the Covered Bond Purchase Programme (European Central Bank 2009B) — _formal outline of the CBPP published in the_ Official Journal of the European Union _._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-0702%20CELEX_32009D0016(01)_EN_TXT.pdf 
+
+Decision of the European Central Bank of 3 November 2011 on the Implementation of the — Second Covered Bond Purchase Programme (ECB1) _formal outline of the second CBPP, published in the_ Official Journal of the European Union _._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Decision%20of%20the%20 European%20Central%20Bank%20of%203%20November%202011%20on%20the%20i mplementation%20of%20the%20second%20covered%20bond%20purchase%20progra mme%20(ECB_2011_17).pdf 
+
+
+## **Legal/Regulatory Guidance** 
+
+Institutional Provisions, Statute of the ESCB and of the ECB, Rules of Procedure (European Central Bank 2011B) — _a booklet that describes the operations of the European Central Bank and the European System of Central Banks._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Institutional%20provisions. %20Statute%20of%20the%20ESCB%20and%20of%20the%20ECB.%20Rules%20of%20p rocedure,%20September%202011.pdf 
+
+## **Press Releases/Announcements** 
+
+- Keynote Address by Jean Claude Trichet, President of the ECB, at the University of Munich (Trichet 2009) — _speech that reviews actions taken since the onset of the global financial crisis._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECB%20Trichet,%20JeanClaudie%20%20The%20ECB's%20Enhanced%20Credit%20Support%2007-13-2009.PDF 
+
+Covered Bond Purchase Programme Completed (European Central Bank 2010D) — _formal announcement detailing the completion of the program according to plan._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECB%20Press%20Release %20Covered%20bond%20purchase%20programme%20completed%2007-30-2010.pdf 
+
+ECB Announces New Covered Bond Purchase Programme (Press Release) (October 6, 2011) — _formal announcement on the launch of CBPP2._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECB%20announces%20ne w%20covered%20bond%20purchase%20programme.pdf 
+
+Ending of Covered Bond Purchase Programme 2 (October 31, 2012) (Press Release) — _formal announcement detailing the completion of the second iteration of the program._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Ending%20of%20covered %20bond%20purchase%20programme%202%20(CBPP2).pdf 
+
+European Central Bank Press Release (November 3, 2011) — _This ECB press release announced the launch of CBPP2  and summarized the terms of the program._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECB%20Press%20Release %20ECB%20announces%20details%20of%20its%20new%20covered%20bond%20purch ase%20programme%2011-03-2011.pdf 
+
+## **Key Academic Papers** 
+
+The Impact of the Eurosystem’s Covered Bond Purchase Programme on the Primary and Secondary Markets (Beirne et al. 2011) — _paper that comprehensively delves into the first CBPP’s impact on the markets._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Beirne,%20John%20et%20 al%20The%20impact%20of%20eurosystems%20covered%20bond%20purchase%20pro 
+
+
+gramme%20on%20the%20primary%20and%20secondary%20markets%20Jan%202011. pdf 
+
+## **Reports/Assessments** 
+
+ECB Monetary Policy during the Financial Crisis and Asset Price Developments (September 2013) — _box pulled from the September 2013_ Monthly Bulletin _reviewing the impact of both standard and nonstandard monetary policy actions on asset prices._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECB%20monetary%20polic y%20during%20the%20financial%20crisis%20and%20asset%20price%20developments. pdf 
+
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu.

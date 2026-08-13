@@ -1,0 +1,1169 @@
+## Bank Assets Management Company (BAMC)[1] 
+
+_Alexander Nye_[2] 
+
+Yale Program on Financial Stability Case Study June 23, 2021 
+
+## **Abstract** 
+
+Slovenia weathered the initial shock of the Global Financial Crisis (GFC) of 2008 well enough to return to growth in 2010. However, non-performing loans continued mounting, banks experienced significant losses, and credit growth turned negative in a credit crunch. Slovenia entered a recession in 2011, experiencing the second largest GDP decline in the euro area. It was not certain whether Slovenia had the fiscal space to resolve these problems without requesting a Troika bailout from the European Commission (EC), European Central Bank (ECB), and International Monetary Fund (IMF). In late 2012 the government tried to prevent such a program by combining capital injections with a public asset management company (AMC) called the Bank Assets Management Company (BAMC). The BAMC did not start purchasing assets until December 2013. The EC believed that BAMC’s asset valuation process did not fit their standards and delayed approval for the purchases accordingly. However, the BAMC eventually purchased assets (largely related to Slovenia’s large corporate sector) with a face value of €5.8 billion for €2.0 billion. The European Commission was highly involved in the BAMC’s implementation. The organization’s design left it vulnerable to government interference. Management was initially dominated by a group of international experts who were extremely unpopular with the public and the government, and the organization did not have sufficient powers to demand collection from well-connected corporate debtors, many of them state-owned. 
+
+**Keywords:** Asset Management Corporation, Bad Banks, Real Estate, SOEs, Guarantee, Slovenia, Bail-In, European Commission 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based asset management company programs. 
+
+> Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-offinancial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## Bank Assets Management Company (BAMC) 
+
+## **At a Glance** 
+
+In late 2008, less than a year after Slovenia adopted the euro, uncertainty stemming from the Global Financial Crisis (GFC) stopped the flow of foreign capital into the small country. This burst a bubble in lending to Slovenia’s corporate sector. Although government and European Commission (EC) actions brought back modest growth in 2010, uncertainty abroad and a credit crunch associated with growing non-performing loans (NPLs) at home forced Slovenia back into recession in 2011. The uncertainty surrounding the NPLs began to threaten Slovenia’s sovereign credit rating, and some observers speculated that the growing crisis would force the government to request a Troika bailout from the EC, ECB, and IMF. To head off those concerns, the government announced a public asset management company called the Bank Assets Management Company (BAMC or DUTB) in late 2012. The AMC would take over and manage banks’ NPLs for five years, after which it would transfer any remaining assets to a Slovenian government holding company. The asset transfers would be coordinated with €3.2 billion in capital injections at the participating banks. An additional €190 million in capital was injected in 2014. 
+
+The government established the BAMC on March 20, 2013, but the organization did not begin taking assets off the balance sheets of Slovenia’s large government-controlled banks until December 20, 2013. This was because the BAMC had to delay its purchases until the European Banking Authority (EBA) released Slovenia’s stress-test results in December 2013. The BAMC went on to purchase assets with a total face value of €5.8 billion for €2.0 billion by 
+
+## **Summary of Key Terms** 
+
+||Purpose: Sell or restructure assets acquired from|Purpose: Sell or restructure assets acquired from|
+|---|---|---|
+||banks to maximize their value, such that the BAMC<br>can repayits bonds and minimize taxpayer burden.<br>Launch Dates<br>Announced: October 2012<br>Operational: March 20,<br>2013||
+|||First Transfer: December|
+|||20,2013|
+||Wind-down Dates|Initial: December 31, 2017|
+|||Amended: December 31,|
+|||2022|
+||Date of Last Asset|N/A|
+||Disposal<br>Size and Type of NPL<br>Problem|13% of all loans and 38.3%<br>of all loans to corporates<br>were non-performing as of<br>August 2013. These were<br>concentrated among large|
+|||non-financial corporates.|
+||Program Size|Not specified, but limited|
+|||by €4 billion cap on|
+|||guaranteed debt issuance|
+||Eligible Institutions|Banks that could not meet|
+||Usage|capital adequacy<br>requirements for the next<br>year with a credible<br>businessplan<br>Purchased assets with a<br>face value of €5.8 billion for|
+|||€2.0 billion|
+||OwnershipStructure|Public|
+||Outcome|24.7% estimated EROE by|
+|||2018|
+|||€81 million in net profits|
+|||(€172 million in net profits|
+|||for the government) by the|
+|||end of 2017.|
+||Notable Features|Strategy modeled on NAMA<br>and SAREB<br>Significant intervention<br>from the European<br>Commission|
+
+
+
+
+the end of 2016. Slovenia ultimately did not need a program from the Troika, but did have to extend the BAMC’s lifetime to 2022 to complete the disposal of its assets. 
+
+## **Summary Evaluation** 
+
+The BAMC paid back €1.28 billion of its €1.97 billion in government-guaranteed debts by the end of 2018, contributed €172 million in profits to the government and state-owned banks by the end of 2017, had an equity position of €56.2 million by the end of 2018, and had €830.1 million in remaining assets by the end of 2018. The BAMC, in combination with €3.39 billion of government capital injections, is seen as having helped Slovenia avoid an IMF-EU bailout. The government argued that the BAMC contributed to Slovenia being one of the most successful countries in the euro area at resolving non-performing assets. But the organization was very unpopular with the public and political class. It was also subject to significant government intervention that limited its independence, and was dogged by corruption investigations. These governance problems were aggravated by the fact that the BAMC was charged not just with managing bad assets, but also with restructuring distressed corporate borrowers. 
+
+
+## **Economic Context: Slovenia, 2012-13** 
+
+|**Economic Context: Slovenia, 2012-13**|**Economic Context: Slovenia, 2012-13**|
+|---|---|
+|**GDP**|$46.607 billion in 2012<br>$48.416 billion in 2013|
+|**GDP per capita**|$22,674.49 in 2012<br>$ 23,516.53 in 2013|
+|**Sovereign credit rating (five-year senior debt)**|As of Q4, 2012:<br>Fitch: A-<br>Moody’s: Baa2 (negative outlook)<br>S&P: A (negative outlook)<br>As of Q4, 2013:<br>Fitch: BBB+<br>Moody’s: Ba1<br>S&P: A-|
+|**Size of banking system**|$4.46 trillion in total assets in 2012<br>$4.35 trillion in total assets in 2013|
+|**Size of banking system as a percentage of GDP**|97.0% in 2012<br>90.8% in 2013|
+|**Size of banking system as a percentage of financial**<br>**system**|100% (No data for nonbank financial institutions’<br>assets to GDP) (%)|
+|**Five-bank concentration of banking system**|65.8% of total banking assets in 2012<br>66.9% of total banking assets in 2013|
+|**Foreign involvement in banking system**|26.0% of total banking assets in 2012<br>25.0% of total bankingassets in 2013|
+|**Government ownership of banking system**|8.87% of the Slovenian banking system’s assets<br>were in banks that were government-controlled<br>(e.g., where government owned 50% or more<br>equity) at the end of 2012<br>52.77% of the Slovenian banking system’s assets<br>were in banks that were government-controlled<br>(e.g., where government owned 50% or more<br>equity) at the end of 2013|
+|**Existence of deposit insurance**|100% insurance on deposits up to $128,205<br>(€100,000) in 2012 (Using 0.78 € per $ period<br>average for 2012, using the IMF’s IFS dataset)<br>100% insurance on deposits up to $133,333<br>(€100,000) in 2013 (Using 0.78 € per $ period<br>averagefor 2013, using theIMF’sIFS dataset)|
+|_Sources: IMF World Economic Outlook; Bloomberg; World Bank Deposit Insurance Dataset; IMF International_<br>_Financial Statistics; World Bank Bank Regulation and Supervision Survey; World Bank Global Financial Development_<br>_Database._||
+
+
+
+
+## **I. Overview** 
+
+## **Background** 
+
+Slovenia became an independent state in 1991, separating itself from Yugoslavia amid the collapse of the Eastern Bloc. However, unlike other post-socialist states that emerged in the early 1990s, Slovenia “maintained a high degree of state intervention in the economy, from extensive state ownership of domestic industries to generous social protection” (Lindstrom 2015). For example, Slovenia had the highest proportion of government ownership of the banking system in the euro area, at 44% as of 2013 (Bank of Slovenia 2013). The country was accustomed to low levels of income inequality and low unemployment relative to its peers (Guardiancich 2016). 
+
+Slovenia joined the EU in 2004 and adopted the euro in 2007 (Balogh 2018). The country experienced economic prosperity, but cheap foreign credit facilitated by euro adoption fueled a construction bubble and aggressive leveraging of the corporate sector, resulting in a rapid deterioration of the net international investment position (IIP) (IMF 2012).[3] The deteriorating net IIP indicated that the country was increasingly vulnerable to volatility in international financial markets (EC 2014). Meanwhile, Slovenian banks had made many loans to the corporate sector. However, these banks had poor risk-management practices, and many loans were inadequately secured (Markovic-Hribernik and Tomec 2015). 
+
+The start of the Global Financial Crisis (GFC) in 2008 created economic instability abroad, and the flow of foreign credit into Slovenia suddenly stopped (IMF 2012). At first, Slovenia primarily felt the effects of the GFC through its large export sector (based around its large corporates) and its “oversized construction sector” (Krzan 2014; EC 2012). (See Figure 1.) However, Slovenian banks still needed to refinance as much as €5.5 billion in short-term debt, a sixth of the country’s GDP, within a year (OECD 2009). Banks hunkered down. They started trying to accumulate more liquid assets and limit lending (OECD 2009). Real GDP peaked and growth disappeared by October 2008; real GDP then shrank by almost 10% by mid-2009 (EC 2012). With depressed demand for exports and sluggish domestic demand, Slovenia’s corporate sector, which was already highly leveraged and reliant on foreign funding, faced mounting losses (IMF 2012). As a result, Slovenia’s banks faced substantial loan losses and difficulty accessing foreign funding. Banks increasingly depended on “ECB funding, bond issuances (both with and without government guarantees) and” the government placing deposits with them to keep operating (EC 2012). (See Figure 2.) 
+
+> 3 Household debt did not make up a significant portion of this bubble (IMF 2012, 4-6). The European Commission (EC) defines the net IIP as “the stock of external assets minus the stock of external liabilities” or, alternatively, the “value of foreign assets owned by private and public sector of a country minus the value of domestic assets owned by foreigners” (EC 2014). 
+
+
+[FIGURE id=vol3_iss2_29_f1 type=figure label="Figure 1" file=figure_1.png caption="Contributions to Real GDP Growth in Slovenia by Sector (2007Q1–2010Q4)"]
+### **Figure 1: Contributions to Real GDP Growth in Slovenia by Sector (2007Q1–2010Q4)**
+![Figure 1](assets/vol3_iss2_29/figure_1.png)
+
+
+_Source: IMF 2011._ 
+
+[FIGURE id=vol3_iss2_29_f2 type=figure label="Figure 2" file=figure_2.png caption="Asset Growth and Bank Funding in Slovenia (2007Q1–2010Q4)"]
+### **Figure 2: Asset Growth and Bank Funding in Slovenia (2007Q1–2010Q4)**
+![Figure 2](assets/vol3_iss2_29/figure_2.png)
+
+
+_Source: IMF 2011._ 
+
+Even though it hurt Slovenian banks and corporates, the stress did not initially weigh on Slovenia’s sovereign rating. A 2014 paper notes that “[d]uring the 2008-09 global crisis, Slovenia was hardly affected by the crisis,” as “it was considered by investors a ‘safe’ euro area country” (Heinz and Sun 2014). The Slovenian banking system was still “one of the 
+
+
+smallest in the euro area,” with total assets equal to only 139% of its GDP (Bank of Slovenia 2013).[4] 
+
+In 2009 and 2010, the government responded to the global financial crisis with relatively minor capital injections, credit guarantees, and expansionary fiscal policy (IMF 2009, 10; Damijan 2012; IMF 2011). These exercises allowed for a modest “export-led recovery” in 2010. This recovery was modest because domestic demand continued to weaken (EC 2012). The central bank, the Bank of Slovenia, had imposed new, more strict capital requirements (in line with Basel III) in 2010, a year earlier than other European countries, and banks had responded by cutting loans (Krzan 2014). After Slovenia’s largest publicly owned bank, Nova Ljubljanska Banka (NLB), failed to raise capital through a public offering to comply with EBA (European Banking Authority) recommendations, Slovenia injected €250 million in new shares in NLB with EC approval in March 2011, resulting in the government holding the majority of its shares (EC PR 2011; NLB 2011 Annual Report). Non-performing loans continued mounting across the banking sector, banks experienced significant losses, and credit growth turned negative as the economy entered recession again in 2011 (Krzan 2014; IMF 2012; Markovic-Hribernik and Tomec 2015). During 2011, Slovenia experienced the second largest GDP decline in the euro area (Damijan 2012). This time, Slovenia had less fiscal space to deal with a recession; the public debt burden had increased from 22% of GDP in 2008 to 47.1% in 2011. Between this and the euro crisis raging in the background, investors were no longer certain that Slovenia had the fiscal ammunition to address its banking problems (Krzan 2014; Heinz and Sun 2014). 
+
+This uncertainty caused Slovenia’s five-year sovereign credit default swap (CDS) spread to rapidly climb in 2011 (Heinz and Sun 2014; EC PR 2011). Between March 2009 and June 2012, Slovenia’s CDS spread rose by 230 basis points and the related funding pressures nearly cut the country out of international financial markets (Heinz and Sun 2014; Krzan 2014). In June 2012, Slovenia responded with a second injection of capital into NLB, this time of €381 million, bringing its stake in the company over 75% (NLB 2012 Annual Report). But the measure was not enough to restore market confidence. Slovenian sovereign CDS spreads continued to rise unabated; investors speculated that it “would become the sixth euro-zone country to ask for a bailout” (IMF 2012; Stevis 2012; Heinz and Sun 2014). 
+
+The Slovenian government resolved to tackle the credit crunch in the aftermath of NLB’s second capital injection (Sila 2015). In the spring of 2012, the Slovenian Finance Ministry proposed to consolidate all government asset holdings into one entity, including both the bad assets purchased from banks and the existing holdings of government employee pensions (Slovene Press Agency 2012; Slovene Press Agency 2012a; Slovene Press Agency 2012b). Public unions and pensioners quickly protested the risk this might pose to pensions. The OECD Secretariat criticized the proposal for not creating a separate and independent bad bank. It also expressed concern that, under the proposal, the legislature would appoint all nine members of the new organization’s supervisory board (Slovene Press Agency 2012b; OECD 2012). Between July and October 2012, the Slovenian government revised the 
+
+> 4 The Slovenian banking system had €46 billion in assets, and the 139% of GDP figure made it the third smallest in Europe (Bank of Slovenia 2013). 
+
+
+proposal to include an independent bad bank with a mix of executive and legislative appointees on its board.[5] 
+
+The legislature passed the Act Defining the Measures of the Republic of Slovenia to Strengthen Bank Stability (ZUKSB) on October 23, 2012, after multiple delays and a veto (ECB 2012; Slovene Press Agency 2012p; Slovene Press Agency 10-10-2012). The Act created the Bank Assets Management Company (BAMC), or “DUTB” in Slovenian. (The legislature created the new Slovenian Sovereign Holding company to hold other government assets in a separate act). The opposition party, in collaboration with trade unions, requested a referendum on the bill, but the Constitutional Court overruled the request because it feared the potential consequences of an IMF bailout for Slovenian sovereignty (Slovene Press Agency 10-10-2012; Slovene Press Agency 2012r; Bardutzky 2016; Slovene Press Agency 2012t). 
+
+The ZUKSB came into force on December 28, 2012, and the BAMC was formally established on March 20, 2013 (Sila 2015; Slovenia NRP 2013; BAMC 2014).[6] Facing criticism from international agencies about the BAMC’s enabling legislation, the Ministry of Finance and the Bank of Slovenia (BoS) went to work on a “secondary legislation” for the ZUKSB (ENP Newswire 2013). However, the legislature only passed amendments to ZUKSB in December 2015 (DUTB History). 
+
+## **Program Description** 
+
+Under the ZUKSB, the BAMC had two tasks: (1) to recapitalize and privatize banks, and (2) to take over most of those banks’ non-performing loans (NPLs). The BAMC would also aim to centralize claims on and stakes in various debtors to help restructure Slovenia’s corporate sector (EC Staff 2013-04-10). Shortly after its March 30, 2013, launch, the organization’s leadership set a target to begin receiving applications from banks needing government capital by the end of June. The following week, finance ministry and central bank officials gave the BAMC board two more specific tasks with immediate priority: to recapitalize NLB and buy its bad assets by the end of June, and to make a recommendation for the corporate restructuring of Cimos d.d., a large and indebted car parts manufacturer (BAMC 2014 ). 
+
+At the end of May, the finance ministry informed BAMC management that it had changed its mind: the state, not the BAMC, would recapitalize and own banks directly (BAMC 2014). This 
+
+> 5 For a complete discussion of the political and social context, see Slovene Press Agency 2012; Slovene Press Agency 2012a; Slovene Press Agency 2012b; OECD 2012; Slovene Press Agency 2012c; Slovene Press Agency 2012d; Bardutzky 2016; Slovene Press Agency 2012e; Slovene Press Agency 2012f; Slovene Press Agency 2012g; ECB 2012; Carney 2012; Slovene Press Agency 2012-09-20; Slovene Press Agency 2012i; AFP 2012a; AFP 2012; Brierley 2012; Slovene Press Agency 10-10-2012; Slovene Press Agency 2012l; Slovene Press Agency 2012m; O’Reilly 2012; Heinz and Sun 2014, Slovene Press Agency 2012n; Slovene Press Agency 2012o; Slovene Press Agency 2012p; Slovene Press Agency 2012q; AFP 2012b; Slovene Press Agency 2012r; Slovene Press Agency 2012s; Slovene Press Agency 2012t; Sila 2015; Slovenia NRP 2013; ENP Newswire 2013; Bancni vestnik 63[11]. 
+
+> 6 The IMF said in a 2012 report that it had provided the government with technical assistance in drafting BAMC’s implementation bylaws to “ensure that the governance structure and the transparency of the BAMC would be in line with internationally accepted standards” (IMF 2012). 
+
+
+would allow the BAMC to focus on its asset management and corporate restructuring missions. Its financing would also change: rather than direct financing from the taxpayers, which the recapitalization mission would have required, the BAMC would finance itself through bond issues. 
+
+Under the ZUKSB, the BAMC’s mission was three-fold: 
+
+1. Minimize the taxpayers’ burden while repaying the BAMC’s bonds by “[r]estructur[ing] and manag[ing] assets the BAMC acquired from the banks to maximize their value” (BAMC 2014a) 
+
+2. “promote trust in the financial system and act in line with the highest international standards of corporate governance” 
+
+3. “enable and encourage long-term restructuring of the Slovenian economy” (BAMC 2014, 33) 
+
+## _Position Within the Slovenian State/Corporate Structure_ 
+
+Under the ZUKSB, the Slovenian government formed the BAMC as a joint-stock company fully owned by the State. As the owner of the BAMC, the State would be responsible for the BAMC’s liabilities (EUROSTAT 2014). The ZUKSB did not specify how the BAMC would be capitalized or the government’s contributions beyond guarantees of loans and bonds (Bancni vestnik 63[11]). Under the initial ZUKSB framework, the BAMC would establish and manage a special purpose vehicle called the Bank Stability Fund (BSF) that could hold assets (EUROSTAT 2014). The law gave the BAMC the option to use special purpose vehicles to hold assets, but how and when it would use them was subject to administrative discretion (EC Staff 201304-10). The BAMC would enjoy a five-year-lifetime (with an expiration date of December 31, 2017), after which the BAMC would wind down and transfer its remaining assets to Slovenian Sovereign Holding (SSH) (IMF 2014; BAMC 2014). 
+
+## _Governance_ 
+
+As a state-owned and controlled company, the BAMC was governed under a one-tier corporate governance system, in which the board of directors also served in management positions. The majority of the board consisted of well-known foreign experts. But the Slovenian government, as the sole shareholder, approved all of its purchases and business plans (IMF 2014; EUROSTAT 2014). This board was composed of seven members: four Ministry of Economy-appointed non-executive directors (who could be politicians) and three “executive directors selected on the basis of a public call for applications” (Havrylchyk 2013). 
+
+Both types of directors had relatively broad responsibilities, but there seemed to be some division of labor between the two.[7] Executive directors were responsible for drafting the 
+
+> 7 An English translation of the ZUKSB and its secondary legislation before the 2015 amendments (which would provide more detail on the responsibilities of executive and non-executive directors) is not available 
+
+
+BAMC’s financial plan (Uradni List 2013) and non-executive directors (in collaboration with an Inter-Ministerial Committee) were responsible for assessing bank business strategies (Havrylchyk 2013). One of the executive directors would be responsible for the BAMC’s dayto-day operations (BAMC 2014). Executive directors had to have personal integrity, a university degree, expertise in finance and banking corporate law, and could not hold shares in a bank. Board member remuneration would be decided by the Assembly and not be constrained by the rules governing remuneration of public employees (Havrylchyk 2013). The executive directors would also have a significant role in managing the BAMC, as seen in the organizational chart below (BAMC 2014). 
+
+
+[FIGURE id=vol3_iss2_29_f3 type=figure label="Exhibit 3" file=exhibit_3.png caption=""]
+![Exhibit 3](assets/vol3_iss2_29/exhibit_3.png)
+
+
+## _Participant and Asset Eligibility_ 
+
+The BAMC could purchase a wide array of assets from participating banks, ranging from “standard loans” to “any other assets that may reduce the participating bank’s ability to meet its capital adequacy requirements” (EC 2013-04-10). 
+
+The BAMC was originally designed to take on nonperforming assets from three major banks in which the state and various public entities had a majority ownership. Determining whether a bank was eligible to participate in the BAMC, on the other hand, involved two steps. First, the government’s Inter-Ministerial Committee had to establish “that the bank does not have, or will not have within the following 12 months, sufficient capital to meet capital adequacy requirements and, as a result, the stability of the financial system is threatened” (Bancni vestnik 63[11]). Second, each bank had to submit a business plan to convince the government that the bank was adequately capitalized, that it had an adequate liquidity position, that the bank (as well as the bank’s equity holders) would share the costs of recapitalization during the restructuring,[8] and that the bank would implement measures to “prevent or mitigate any possible distortion of competition” (ECB 2013). 
+
+## _Selecting Banks and Assets for Participation_ 
+
+A bank’s participation in the BAMC began when the bank, the Bank of Slovenia, or the BAMC itself submitted an application to the Inter-Ministerial Committee, which consisted of eight 
+
+> 8 As the BAMC ultimately never conducted recapitalizations, this was probably not relevant to the government (BAMC 2014). 
+
+
+members appointed by the Government and the Bank of Slovenia. The application included the bank’s business strategy. Some sources say that submissions from banks or the BoS were required to outline the assets requested for transfer (Havrylchyk 2013; Bancni vestnik 63[11]; Slovene Press Agency 2019-11-04). However, the process for selecting banks for participation and for selecting assets for transfer was “subject to administrative discretion” (EC 2013-04-10). After the banks and assets were selected, the purchase price for the assets (referred to as the “transfer price”) had to be determined. It is not clear from public documents who determined this transfer price and how they did so (BAMC 2014). According to the IMF and OECD, there were two rules governing the transfer price for impaired assets. First, it had to be based on “‘real long-term value,’ following the EC State Aide guidelines” (IMF 2012) and the “real long-term economic value,” following Slovenian law (Havrylchyk 2013). Second, the transfer price could be reduced by up to 3% of the asset value to cover the administrative, financial, and operational costs of the BAMC for managing the assets (EC 2013-04-10).[9] To finally effect the transaction, the government of Slovenia had to submit a letter to the European Commission’s Directorate-General for Competition (EC DG Comp) with information on the asset transfer, and receive “a positive opinion for State aid from the European Commission,” authorizing the asset transfer (ECB 2013). 
+
+At this point, the BAMC would begin taking the approved assets from the approved bank onto its balance sheet. The timeline and logistics for this process were not clear, but the Slovenian government indicated that the “transfer of non-performing bank assets to the BAMC is planned in several packages,” with each package dealing with a different group of assets (Slovenia NRP 2013). The BAMC would pay for these assets by issuing up to €4 billion in state-guaranteed bonds but would have to pay an annual fee between 1.00% and 1.25% for state guarantees (BAMC 2014; BAMC 2018). 
+
+_Asset Management and Corporate Restructuring Strategies_ 
+
+Once an asset appeared on the BAMC’s balance sheet, the BAMC would then determine how it would manage the asset. The BAMC stated that its strategy depended on the character of the specific asset, but broadly had two different approaches: sale or restructuring. The simpler approach was a sale of the assets to maximize cash returns, typically through the bankruptcy of the borrower or debt collection (BAMC 2014a).[10] 
+
+For corporate restructuring, on the other hand, the BAMC took a more active approach, which used a set of “case managers” in direct contact with a corporate debtors’ management to maximize the going-concern value of the companies while seeking a “win-win situation with all important stakeholders in the company.” They would do this by “taking an active and initiative stand in negotiations with other financial and business creditors, especially where the BAMC is the major creditor,” and using several other tools (BAMC 2014a). The tools at the disposal of the case managers included “divestment of non-strategic assets, debt-to- 
+
+> 9 In practice, the BAMC was left out of the valuation process, as the European “Commission had their experts doing independent valuations of all assets suggested by the banks and the supervisor (the Bank of Slovenia) for transfer to BAMC” (Bancni vestnik 63[11], 107). 
+
+> 10 Though the BAMC still asserted that they were an “active manager” because they monitored the sale process “either through bankruptcy or enforcement proceedings” (BAMC 2014a, 8-11). 
+
+
+equity conversion, partial debt write-off and reprograming of the remaining sustainable debt, which is determined by expected future cash flows"(BAMC 2014a, 8-11). 
+
+This leaves the question of how the BAMC would decide whether they would restructure or sell a given asset. The BAMC decided it would opt for the strategy that would provide “maximal economic value.” It determined this by doing its own valuation of the collateral related to each asset after assessing whether the debtor was still viable as a going concern (BAMC 2014a).[11] 
+
+If the BAMC selected a corporate debtor for restructuring, it had to perform two additional steps: decide the difficulty of the case at hand and distribute BAMC’s human resources accordingly (BAMC 2014a). 
+
+Over time, the BAMC could use this valuation procedure to reassess “asset values and ensuing impairments or revaluations in the future” (BAMC 2014a). 
+
+## _Exit Strategy_ 
+
+BAMC’s statute set a target to sell at least ten percent of its holdings every year until its remaining assets were transferred to the SSH at the end of 2017 (IMF 2014; Uradni List 2012). The BAMC preferred to sell loans and relevant collateral to third parties in most cases. However, the BAMC said that it did not intend to sell assets in distress. It reserved the right to “decide to acquire collateral itself in order to avoid fire sales or speculative elements, stabilize asset markets or improve the quality of the collateral through asset management actions” (BAMC 2014). 
+
+## _Transparency, Confidentiality, and Oversight_ 
+
+The Ministry of Finance was both the sole shareholder and supervisor of the BAMC, potentially creating a conflict of interest for the Ministry. The BAMC was also subject to oversight by the Court of Audit and the upper house of Slovenia’s parliament. The official confidentiality policy was that the “BAMC shall disclose to the public all information that is relevant to the company’s operations, as applies to joint stock companies, excluding data which are considered confidential in accordance with the act regulating banking” (IMF 2014; Havrylchyk 2013). 
+
+## **Outcomes** 
+
+## _The social context_ 
+
+Slovenian politics became increasingly chaotic between late 2013 and the end of 2014. Popular discontent over fiscal consolidation and corruption forced multiple coalition governments to collapse. The Slovenian public seethed; “more than 90 per cent of the 
+
+> 11 Unlike the transfer price, the BAMC’s approach to these valuations is well documented, though the BAMC only outlined it after it began its asset purchases in late 2013 (BAMC 2014a). These valuations also aimed to calculate the “fair value” rather than the “real long-term value” or the “real long-term economic value” (IMF 2012; Havrylchyk 2013). 
+
+
+population was dissatisfied with the state of democracy [in 2014], while prior to the crisis, a mere half of the population expressed similar opinion[s].” This trend continued through the rest of 2014, which was characterized by multiple governments falling and delayed elections that together contributed “to delays in policy implementation” (IMF 2015; Piroska and Podvrsic 2019). 
+
+_Initial implementation and fleshing out the program (February 2013 – June 2013)_ 
+
+The BAMC was incorporated in March 2013. The government of Slovenia appointed four non-executive directors to the BAMC’s board. Those non-executive directors then appointed three temporary executive directors, one of whom was a foreign consultant with extensive experience in the field of asset management (Bancni vestnik 63[11]; BAMC 2014). 
+
+Implementing the BAMC posed constant challenges for BAMC staff and the Slovenian government. Shortly after a €3.6 million capital injection from the government, which enabled the BAMC to begin operations, there was a change in government. The BAMC board was not certain of its relationship with this new government, but began outlining an unprecedentedly aggressive rollout for the BAMC. It planned to “be ready to review the first recapitalization applications from banks by the end of June 2013 […] and start the first bank restructuring operations in the fourth quarter of 2013” (BAMC 2014). 
+
+However, on April 8, 2013, difficult news came from the new government. BAMC saw its already aggressive timetables shortened because the new government had made an “external political commitment” (to the IMF and EC) to “be ready by 28 June to (i) recapitalize the first bank (NLB) and (ii) start transfers of NPLs and other NPAs from that bank” (BAMC 2014).[12] The BAMC revised its timeline, predicting that it would also “complete the majority of transfers before the end of the third quarter of 2013” (Slovenia NRP 2013). The European Commission was skeptical of this deadline, as it had not yet received the information necessary to approve “the assets to be transferred to the BAMC and corresponding valuations [for each bank][,] […] the public recapitalisation amounts […] [for each bank][,] [and] the restructuring plans of the participating banks” (EC 2013-05-29). Meanwhile, the BAMC privately expressed concerns to the Ministry of Finance that the transfer prices it received for the bank assets “were substantially overvalued,” signaling that more recapitalization would be necessary than previously estimated (BAMC 2014). 
+
+Although the BAMC used “substantial consultant resources during April and May” to meet the first commitment (recapitalizing NLB by June 28), it proved to be a moot point.[13] The Ministry of Finance informed the BAMC on May 31 that the government, not the BAMC, would recapitalize the banks. As the BAMC originally had planned for the state to capitalize the BAMC with enough capital to conduct capital injections for the banks, this threw a 
+
+> 12 As part of these political commitments, the BAMC also had to “design and build the organization of BAMC,” start preparing to acquire or issue new equity as part of its NLB recapitalization, and “develop a recommendation on” the BAMC’s role in restructuring Cimos, a large auto parts maker (BAMC 2014). 
+
+> 13 During that May, the BAMC made its way into a “National Reform Programme” (NRP), which Slovenia submitted to the European Union. The NRP envisioned the BAMC being used to acquire NPAs from Slovenia’s three largest banks: NLB, NKBM, and Abanka (EC DG Comp 2014). 
+
+
+wrench in the BAMC’s financing plan. The BAMC could rely on the $4 billion in state guarantees to issue bonds, but it had an extremely small equity cushio. Although other AMCs operated with limited equity, the BAMC’s 2013 annual report asserted that “additional equity was needed to provide sufficient solvency” (BAMC 2014).[14] 
+
+Amid this uncertainty, BAMC remained “a complete start up” that had to heavily rely on outside consultants for multiple major workstreams; this trend continued for at least the next year and a half (BAMC 2014; Bancni vestnik 63[11]; BAMC 2015). The organization would not even have a permanent office until mid-May 2013 (BAMC 2014). 
+
+## _Asset Transfers_ 
+
+The BAMC continued working toward the June 28 deadline, with its board going as far as publicly announcing on June 18 that the BAMC would meet the deadline. The organization was unaware that the European Commission’s skepticism was about to translate into concrete action. Later that day, the EC told the BAMC that the EC DG Comp thought “the proposed transfer prices were unrealistically inflated and thus would entail inappropriate— and illegal under EU rules—amount of state aid.” The EC DG Comp threatened to prohibit transfers at the proposed asset prices, which were based on year-old estimates, and “demanded that the valuation process be repeated and scheduled to be ready by the end of July.” This would not be a small delay. EC approval for asset transfers would not come until “September, at the earliest” (BAMC 2014; Bancni vestnik 63[11]). The EC offered approval for some “pilot transfers” in line with the June 28 deadline as consolation but required that they be “based on market prices” rather than “real long-term value.” The BAMC negotiated with NLB to put together some pilot transfers (which the Inter-Ministerial Committee accepted), but the EC ultimately rejected them. The EC argued that even these market price estimates were too high. June 28, 2013, came and went without any BAMC asset transfers (IMF 2012; BAMC 2014). 
+
+This rejection triggered further negotiations between BAMC, BoS, the Ministry of Finance, the EC DG Comp, and other stakeholders in the asset transfers throughout July as well as increasing EC DG Comp involvement in BAMC’s operations. The EC DG Comp analyzed a sample of loans and concluded that “transfers would have to await the outcome of an Asset Quality Review (AQR) and Stress-Testing (ST) exercise to be undertaken for the ten largest Slovenian banks” (BAMC 2014). The Slovenian government would hire independent experts, who, in consultation with the EC, would functionally determine which assets the BAMC would purchase, how much the BAMC would pay for them, and how much recapitalization would be required by the government (EIU 2013-11-05). The ECB expected to start rolling out the AQR and ST in 2014 (EIU 2013-06-28), but opted to have Slovenia perform the two exercises in 2013 (EIU 2013-10-07). An article at the time suggested that Slovenia was effectively a “guinea pig” for the AQR and ST (EIU 2013-10-07). The EC and ECB imposed the ST because of “rising uncertainties and the seeming unwillingness” of the government and banks to recognize the size of their losses (Sila 2015). 
+
+> 14 Within the year, the government realized that this was insufficient, and invested €200 million more in the organization (BAMC Strategy 2016) 
+
+
+In response, BAMC indicated that it would likely purchase assets simultaneously from the three largest state-owned banks, NLB, NKBM, and Abanka (BAMC 2014). The BoS later noted that the three banks constituted the Slovenian banks that “had unresolved Bank of Slovenia measures requiring a capital increase even before the beginning of the [AQR and ST][…], and are in the process of having state aid approved.” The BoS expected these banks to transfer the majority of their non-performing assets to the BAMC by the end of the year (Bank of Slovenia 2013). 
+
+The   transfer, key well-performing loans in groups of companies with substantial NPLs earmarked for transfer to the BAMC.” The latter issue, which policymakers referred to as “cherry-picking,” “would complicate effective company restructuring” and undermine the accuracy of the EC’s AQR. BAMC and BoS agreed to address cherry-picking by requiring banks to transfer exposures to groups of companies to BAMC as a whole, including both performing and non-performing assets (BAMC 2014). However, the BoS apparently did not force banks to comply with this principle when the asset transfers eventually happened (Bancni vestnik 63[11]). 
+
+The rest of the summer (as well as the September deadline) went by without much news from the BAMC or the EC beyond the Slovenian government’s announced liquidation of Factor Banka and Probanka, two small private banks, on September 6, 2013 (BAMC 2014; EIU 2013). Papers speculated that Slovenia would keep edging closer to an EU-IMF bailout until the country completed the ST/AQR, capital injections, and asset transfers to the BAMC (EIU 2013-10-07). The Slovenian government had continued preparations in the background. It had formally designated several large banks as eligible for asset transfers to the BAMC, then extended the July 30 deadline for banks to shore up their capital using private money to the end of the year, by which time the AQR/ST would have been completed (EC DG COMP 2013). 
+
+The BAMC continued preparing for the asset transfers in autumn. It went on to draft a plan with NLB and NKBM to transfer their assets over a six-month period in a series of transactions grouped into tranches, beginning before the end of 2013 (Bancni vestnik 63[11]). However, in late October, the BAMC learned from the government that the new target date for the transfers would be December 8-9, coinciding with the release of the AQR and ST results (BAMC 2014). This assumed that the EC DG Comp would nearly instantly approve the terms of the first transfer. 
+
+As the target date approached, the BAMC encountered a surprise from the BoS and the Ministry of Finance yet again. On December 6, the BAMC was told that the government’s plan for recapitalizing NLB and NKBM by the end of 2013 required “all non-performing assets earmarked for transfer to BAMC to be legally transferred from the two banks to BAMC before Christmas vacations” (Bancni vestnik 63[11]). As it was impossible for the banks to get the necessary documentation and logistics in order to execute such a transfer, the BAMC improvised a solution. The BAMC would take legal possession of the assets as scheduled, but the “the credit files of the loans to be transferred would stay with the banks during a transition period similar to the originally scheduled six-month period” where the banks would act as BAMC’s trustee or asset manager for the relevant loans until the documentation 
+
+
+could be transferred. To make this happen, the BAMC would quickly have to draft new contract catalogs and constantly coordinate with the Inter-Ministerial Committee, the BoS, and the Ministry of Finance (BAMC 2014). 
+
+The Ministry of Finance and BoS released the AQR and the ST on December 12, 2013. This satisfied the EC DG Comp, so the government went ahead and sent lists to the BAMC enumerating the assets that the BAMC would acquire from NLB and NKBM (and the corresponding prices to be paid) on December 17 (BAMC 2014). The government told BAMC’s management that it “had merely two weeks to finish the transaction” (Nyberg 2014). Meanwhile, the government quietly injected €200 million in equity into the BAMC and the BoS publicized some details of the AQR and the ST as part of a “Full report on the comprehensive review of the banking system” (BAMC 2014; Bank of Slovenia 2013). 
+
+The BAMC finally purchased €3.3 billion in assets (book value) from NLB and NKBM on December 20, 2013, with €1.0 billion worth of government-guaranteed BAMC bonds (Bancni vestnik 63[11]; BAMC 2014; Balogh 2018). At the same time, the government injected €3.2 bn (U.S. $4.4bn) of capital into the three state-owned banks (NLB, NKBM, and Abanka Vipa) and the two liquidated private banks (Factor Banka, and Probanka) (EIU 2014). Although the BoS considered Abanka’s situation and size to be comparable to NLB and NKBM (which necessitated major asset transfers to the BAMC), the EC decided to delay asset transfers from Abanka until “final approval” of an EC restructuring program sometime in 2014 (SeeNews 2013; Nyberg 2014). Together, these measures finally started to decrease “the yield demanded on Slovenia’s sovereign debt” (EIU 2014). Interest rates for Slovenian government bonds “immediately fell by more than a percentage point” and Slovenia’s sovereign ratings began to improve as early as February 2014 (BIS 2014; Nyberg 2014). 
+
+The IMF’s Mission Chief for Slovenia, Antonio Spilimbergo, complimented Slovenia’s actions, stating “authorities have shown repeatedly, and said repeatedly, that Slovenia can solve the problem by itself” (IMF 2014a). Spilimbergo further speculated “if anything, the most acute phase of the crisis is gone” (IMF 2014a). 
+
+The EC, the government, and the Bank of Slovenia also continued working on a viable restructuring plan for Abanka and developing a list of assets that Abanka would eventually transfer to the BAMC (Slovene Press Agency 2013). Aside from delays on the planned real estate asset transfers from NKBM (that the BAMC would later complete in mid-2014 using €11.6 million in cash), the asset transfers appeared to be going smoothly (BAMC 2015). Abanka received a partial recapitalization to hold it over until the government could develop an acceptable restructuring plan and the European Commission could approve a more comprehensive restructuring plan for Slovenia’s third largest bank in early 2014 (FINSAC 2016; EC DG Comp 2014). This capital injection did not aim to cover the 2013-15 capital shortfall outlined in the EC’s ST/AQR for Abanka (EC DG Comp 2014a). 
+
+The EC DG Comp and the BAMC picked up their work on restructuring Abanka. However, in mid-February, the EC DG Comp told the Slovenian government that it needed further approval to finish recapitalizing and conducting asset transfers from the troubled bank (EC DG Comp 2014; Bank of Slovenia 2013). The “final approval” did not prove to be so final. 
+
+
+Shortly after the first asset transfers from NLB and NKBM in December 2013, details on the BAMC’s transparency/public information policy began to trickle out through the press. The Slovene Press Agency reported that “The government and the central bank have promised the list of assets for transfer will be made public,” but the information accompanying the lists, according to the BAMC’s director of claims management, Janezom Skrubej, “would not include information that would depress the value of assets” (Slovene Press Agency 2013). This evidently was not enough to appease some civil society groups. Parliament passed amendments to Slovenia’s freedom of information legislation in March, 2014, that would subject the BAMC (as well as a number of other government organizations) to greater public scrutiny (Slovenian Press Agency 2014-03-06). 
+
+In this environment, public criticism of the BAMC’s management pertaining to potential conflicts of interest and a lack of transparency intensified. In February 2014, Slovenia’s Commission for the Prevention of Corruption (CPC) began to investigate potential conflicts of interest surrounding BAMC former Executive Director and advisor to the Board Torbjörn Månsson because of his position as a partner at a consultancy paid millions by the BAMC, Quartz+co. This consultancy had been paid millions of dollars for services to the BAMC since March 2013, when the BAMC was still a start-up (Slovenian Press Agency 2015-10-06; Premrl 2015). 
+
+Pressure from civil society, politicians, and the media continued to ratchet up on the BAMC as the year went on. The early 2014 changes to Slovenia’s freedom of information laws came into effect in April, which revealed that two of the BAMC’s executive directors (one foreign and one Slovenian) were making over €21,000 per month. This was outrageous to a public and domestic media that was used to compensating public servants at a much lower rate. The amended freedom of information laws also increased the public’s information on the December asset transfers—citizens could now see each claim, the associated debtor, and the size of the relevant claim (Slovenian Press Agency 2015-10-06). 
+
+Implementing the asset transfer process that began in December became even more complicated. The BAMC had no role in calculating the transfer prices, which were based on the AQR/ST that was overseen by the Bank of Slovenia, the Finance Ministry, the EC, the ECB, and the EBA (Balogh 2017). Although the EC had told the BAMC in December that the EC “had already taken into account financing and management costs when setting the transfer prices,” the BAMC learned from its finance ministry in May 2014 that this was not the case. The BAMC announced that it would now request compensation for financing and management costs from the banks or their owners in accordance with the ZUKSB. The BAMC then went about revaluing the assets, a process it would complete in early July 2014. Unlike the EC’s calculation of the transfer price, the BAMC’s approach to these valuations was welldocumented, though the BAMC only outlined them once asset purchases began (BAMC 2014; BAMC 2015).[15] These valuations aimed to calculate the “fair value” rather than the “real economic value (REV)” calculated by the EC (IMF 2012; Havrylchyk 2013; BAMC History 
+
+> 15 Documentation problems also made it difficult for the BAMC to determine “whether the transfer prices of transferred assets match the fair value in accordance with IFRS” for its first annual report (BAMC 2014). This also complicated auditing efforts for several months. 
+
+
+2015). The European Commission’s Impaired Asset Communication (IAC) defined the REV as being based on “underlying cash flows and broader time horizons” (EC 2009). The fair value, on the other hand, was developed by the BAMC. It entailed using an internal asset valuation methodology based on the value of the underlying assets (like pledged real estate), which was verified by an external auditor (BAMC 2015a). This fair value proved to be much less sympathetic than the EC’s calculations; the revaluation translated into a €39.9 million day-one loss on the BAMC’s balance sheet, reducing BAMC’s equity from €203.6 million to €157.9 million (BAMC 2014; BAMC 2015). 
+
+In September, the government drafted the BAMC into the resolution of two banks that were already in receivership: Probanka and Factor Banka (which had both previously enjoyed government guarantees of their liabilities of €490 million and €540 million respectively) (Iwanicz-Drozdowska et al. 2016). Using its own cash reserves, BAMC purchased €114.2 million book value in claims against 30 companies for €28 million from Probanka on September 10. Unlike other asset transfers by the BAMC, the price for this transfer was set by the BAMC rather than the European Commission and the BoS. Two days later, the BAMC purchased claims against 17 companies with a book value of €49.2 million for €10.8 million from Factor Banka, also using its own valuation methodology (BAMC 2015, 24-26). 
+
+The European Commission gave its final approval for the Abanka transaction on August 13, 2014. The approval covered a €243 million capital injection and the transfer of €1.1 billion in assets to the BAMC for €423.8 million (or €424.6 million) in state-guaranteed bonds (Slovenian Press Agency 2015-10-06; BAMC 2015; EC DG Comp 2014). It is not clear why it took so long for the Slovenian government to obtain approval for these actions, though we know that the Slovenian government and European Commission were exchanging information on the Abanka restructuring plan from December 18, 2013, to July 29, 2014 (EC DG Comp 2014a). Part of the “final approval” provided for Banka Celje to be merged with Abanka once the Slovenian government acquired a majority stake in Banka Celje (EC DG Comp 2014). As with previous BAMC asset transfers, implementing the transfers was difficult. The transfers began on October 13, 2014, but the BAMC would not complete the Abanka transfers, which ultimately took the form of two tranches of assets, until the end of 2014. The BAMC ended up acquiring €1.1 billion in book value of NPLs from Abanka for €423.8 million (BAMC 2015). 
+
+The BAMC soon would face increased pressure from the new coalition government, which had been elected in July and took power in September. On October 29, 2014, the Slovenian government rejected the BAMC’s annual report (although the BAMC would not find this out until November 7) (Slovenian Press Agency 2015-10-06; BAMC 2015). Signaling “the start of a period of increased political involvement at the bad bank” (Slovenian Press Agency 201510-06), the government ordered the BAMC to supplement the annual report with more information (BAMC 2015, 24-26). Two weeks later, having realized that some of the nonperforming assets the BAMC had purchased from the two liquidated private banks had government guarantees on them, the new government ordered the BAMC to waive “its right to redeem guarantees under the Guarantee Scheme Act (ZJShemRS).” The BAMC would then technically have a claim on the government for the payment of those guaranteed debts. The BAMC also had to return any funds it received from redeeming such guarantees (€2.2 
+
+
+million) to the Slovenian state budget within 15 days of receiving the order. However, the new government did not appear to issue similar orders to the BAMC when it came to the transferred assets of three state-owned banks participating in the BAMC. The BAMC would instead “transfer to the account of the government a proportionate amount of proceeds received upon the repayment of loans for which a bank subject to transfer redeemed a government guarantee prior to the transfer to the BAMC” (BAMC 2015). 
+
+Around this time, on November 6, 2014, the CPC (the corruption commission) presented a final report to the BAMC on the BAMC’s operations, which criticized the BAMC for “excessive payments for consultancy services, lack of transparency, and poor corporate governance.” By December the CPC issued recommendations related to this report to the government, which included having the state “tighten oversight, leading to the announcement of an overhaul of pay and governance policies.” In addition to already stated criticisms related to its consulting procurement, the CPC believed that the BAMC’s one-tier governance system was inappropriate, as “a two-tier governance system would contribute to reducing corruption and other risks which the company was exposed to in the course of its operations.” The BAMC countered that it already strengthened its governance practices, but that was not enough to allay suspicions of the organization (Slovenian Press Agency 201510-06; BAMC 2015). 
+
+The BAMC also began an asset transfer from Banka Celje on December 18, 2014, under which the BAMC received assets with a book value of €411.4 million for €127 million in stateguaranteed bonds. The BAMC completed the physical portion of this single-tranche asset transfer in March 2015 (BAMC 2015). With no upcoming asset transfers, in January, the BAMC decided to begin consolidating the data associated with its portfolio “to a central system managed for the BAMC by Probanka". This process would last until the end of May 2015 (BAMC 2015a). 
+
+The Court of Audit followed-up the CPC’s scrutiny of the organization by submitting a report on the legality, efficiency, and cost-effectiveness of BAMC’s operations in 2013 at the end of January 2015, which the BAMC disputed on February 9 (BAMC 2015). The report, which was released to the public (in Slovene) on March 15, 2015, showed “wide-ranging shortcomings” (Slovenian Press Agency 2015-10-06). In the report, the Court of Audit instructed the BAMC to submit evidence that it had improved its internal controls and executive compensation policies within 90 days (BAMC 2015). 
+
+The IMF also expressed misgivings about Slovenia’s approach to its bad-debt problem. It noted in February 2015 in its annual Article IV consultation that Slovenia had taken no actions to improve the governance of Slovenia’s banking sector and few actions to facilitate its consolidation. Its report depicted a largely stalled reform process with still-high NPLs and a corporate sector still in need of restructuring. It called for the BAMC to conduct additional transfers to address the former and for the government to use the BAMC as a tool to affect a restructuring of the corporate sector. Perhaps most importantly, it noted that the BAMC’s “independence should be safeguarded” (IMF 2015). The legislature responded to these concerns with the passage in late 2015 of a law amending the ZUKSB. The amendments clarified that the Ministry of Finance cannot “issue instructions to the BAMC for action on 
+
+
+individual cases” and that “responsibility for management of the BAMC rests with its executive directors” (IMF 2017). The amendments also granted the BAMC new powers, extended its life until 2022, and raised the possibility of the BAMC taking part in the winding down of failing banks (BAMC Strategy 2016). 
+
+Less than a week before the report was released to the public, the government cut the monthly pay of BAMC non-executive directors and executives by half (to €5,000), then replaced three of the four non-executive directors (Slovenian Press Agency 2015-10-06; BAMC 2015).[16] The BAMC responded in late March, 2015, by pursuing an anti-corruption certification program from private anti-bribery and corruption certification agency ETHIC Intelligence, which the BAMC said “was designed to effectively take into account the recommendations of the Court of Auditors and the Commission for Preventing Corruption” (BAMC PR 2015b). In media reports during the summer of 2015, CEO Torbjörn Månsson “said that frequent public criticism of the bad bank was unjustified, since the results show the institution is on course to achieve its goals”. The CEO dismissed complaints about the BAMC’s transparency and potential conflicts of interest, referring to them as “false allegations” (Slovenian Press Agency 2015-08-21). However, the announcement of policy changes and media appearances did not please the various Slovenian government institutions.[17] By September 23, 2015, the Court of Audit complained that the BAMC had not brought its compensation guidelines into compliance with “the government guidelines for executive pay in key state-owned companies” within the 90 days (Slovenian Press Agency 2015-10-06). This appeared to be in response to media reports of increased payments to CEO Månsson continuing after the compensation policies had already changed (EIU 2015; Slovenian Press Agency 2015-10-01). 
+
+The BAMC attempted to manage the bad press aimed at the compensation of its largely foreign higher-ups. They put forward a press release on September 28 saying that the BAMC amended its compensation policies in April and there were no changes in the policy since that time. It went on to explain that the policy only covered the BAMC’s executive and nonexecutive directors (including the embattled CEO, Torbjörn Månsson). The press release described increased disbursements related to the CEO as “associated with payroll adjustments according to employment contracts for 2014 and 2015 and to settlement of social contributions” (BAMC PR 2015C). This was evidently not a satisfactory explanation, and the Minister of Finance announced that he would propose the firing of Swedish economist Lars Nyberg as president of the BAMC’s board (Slovenian Press Agency 2015-1006). The coalition government broadly agreed and sacked Månsson as well as Nyberg, but not before Nyberg submitted a letter “Concerning the remuneration of Mr Månsson [ _sic_ ]” to the Minister of Finance. In this letter, Nyberg made a case for Månsson’s salary, asserting that the Ministry of Finance “had full information” as to the arrangements with Månsson and the BAMC’s divergence from the new compensation policy came from its contractual obligations 
+
+> 16 It is worth noting that the salaries were previously as high as thirteen times the average in Slovenia (EIU 2015). 
+
+> 17 With the exception of a proposal that the BAMC (or a new bad bank) be used to tackle the still-large NPLs of Slovenia’s SMEs, the BoS was largely silent on the BAMC during this time (Slovenian Press Agency 2015-0923). 
+
+
+to pay for Månsson’s weekly travel back to Sweden (BAMC PR 2015D). The following day, Nyberg delivered a scathing address to the Slovenian government’s Committee on Financial and Monetary Policy, arguing “the issue of remuneration is not the reason for the government to fire Mr Månsson [ _sic_ ]—or me, for that matter” (BAMC PR 2015E). 
+
+Rather, Nyberg argued that the BAMC “doing too much” when it came to restructuring its assets was at the root of why such pressure was put on the Minister of Finance in the first place. He said the BAMC had taken various decisions that were in the taxpayers’ interest, but in conflict with the interests of ownership and management at the companies (BAMC PR 2015E). The owners and managers, argued Nyberg as well as some members of the opposition, then exerted pressure on the Slovenian government to restrain BAMC (BAMC PR 2015E; Slovenian Press Agency 2015-10-07). Nyberg claimed the Finance Ministry ordered the BAMC to dismiss two foreigners from its board in March 2015. He said the Finance Ministry was trying to intervene in individual BAMC restructurings. Nyberg concluded: “Leaving Slovenia, I will not wish you good luck. I just hope that you know what you are doing” (BAMC PR 2015E). 
+
+On October 12, 2015, the Finance Ministry officially filled the two vacant board positions with two Slovenians and released a letter refuting some of Nyberg’s claims (BAMC PR 2015F; BAMC PR 2015G). It explained that public pressures over the pay of the foreign board members “do not allow us to run the institution with the same team in the future” (BAMC PR 2015F). Its letter asserted that the management changes were not politically motivated and that the increased government involvement in individual cases stemmed from its obligations under the “Assets Management Strategy related to state owned enterprises” passed by the Slovenian parliament in July 2015 (BAMC PR 2015F; OdSUKND 2015). 
+
+The BAMC did not have any more asset purchases planned (EIU 2015). It would not conduct any more asset transfers between December 2014 and February 19, 2016, when the BAMC absorbed what remained of Factor Banka and Probanka (which were still in liquidation) in a merger ordered by the government (Balogh 2018; BAMC PR 2016).[18] The government partially compensated the BAMC for the costs of the merger, injecting €3.1 million in May 2016 and €50 million in December 2016 (BAMC Strategy 2019), with the BAMC booking an €80.4 million loss on its equity (BAMC 2019). Meanwhile, NPLs in the banking sector had continued to decrease, falling as low as 2.5% by the middle of 2018 (IMF 2019; IMF 2017). 
+
+## **Asset Management and Disposition** 
+
+The BAMC began fleshing out its asset management goals in 2014, when it decided that it would target an 8% return on the equity first invested by the Slovenian government (BAMC 2014; BAMC 2014a; BAMC 2015). The next year, the BAMC, after failing to meet projections for this goal, adjusted the indicator from the expected return on equity to 8% average economic return on equity (EROE) per annum on a cumulative basis and at some point made 
+
+> 18 The BAMC took on a total of €407.9 million in liabilities from these two banks (BAMC Strategy 2019). Unlike its other asset transfers, the merger resulted in the BAMC acquiring staff from the two banks as well as a portfolio of small retail and personal exposures. The BAMC dealt with this problem by resolving to “bundle loans into offers interesting to banks or other investing entities” (BAMC Strategy 2016). 
+
+
+it mandatory (BAMC 2016; Balogh 2018; BAMC 2019). It reasoned that EROE was preferable because it takes into consideration also the return of capital to the owner, and therefore more appropriately and comprehensively measures BAMC’s performance. From this point, the BAMC consistently exceeded the goal (BAMC 2017; BAMC 2016; BAMC 2018a; BAMC 2019). The BAMC translated the requirement that it sell 10% of its assets each year into a goal of generating cash equivalent to 10% of its assets each year. It did not achieve this goal in 2013 (and evidently was not punished by the government for its failure), but exceeded this goal by a significant margin during every other year it operated (as of 2019) (BAMC 2019; Balogh 2018). 
+
+When the BAMC started managing its assets in early 2014, the BAMC focused on asset sales. It used this strategy to generate “two-thirds of its cash flows mainly by selling the ‘family silver’ in large scale transactions” between 2014 and 2015 (BAMC 2017). However, this early asset management and disposition work was subject to intense criticism from the public as well as drawn out, politically sensitive cases in Slovenian bankruptcy courts (BAMC 2015; Slovenian Press Agency 2015-10-06). 
+
+In 2016, due to its absorption of Probanka and Factor Banka, it shifted its focus to smaller assets and moved toward managing a more diverse portfolio (BAMC 2017; Balogh 2018). The BAMC began to take a more active role in the companies it was restructuring after the late 2015 amendment to the ZUKSB (which was called ZUKSB-A) took effect in January 2016. (For details of legislative changes see Legal/Regulatory Guidance). These changes allowed the BAMC to lend additional capital to existing debtors, acquire “additional claims towards existing debtors,” and work with banks to refinance restructured debtors (BAMC Strategy 2016). Staffing numbers rapidly climbed between 2014 and 2016, peaking at 144 employees in the aftermath of the 2016 mergers with Probanka and Factor Banka (BAMC 2019 Strategy). (See Figure 1.) In response to the staff increases and the changing shape of the portfolio, the BAMC moved toward devolving more of its decision-making from its Board to more “operational level” parts of the organization. By the end of 2017, the BAMC had a little less than 40% of the assets (in value) that it acquired remaining (Balogh 2018). 
+
+In a December 2019 interview, the BAMC’s CEO stated that “as of September [2019], BAMC had cumulatively generated almost €1.7bn of inflows from the management of its assets, representing more than 80% of the initial asset transfer value, with over €750m of assets still to be disposed of.” The CEO went on to say that the BAMC would “provide more than the repayment of the initial investment to the state” (Gillet 2019). 
+
+
+[FIGURE id=vol3_iss2_29_f4 type=figure label="Figure 3" file=figure_3.png caption="BAMC Permanent Employee Headcount (Actual and Projected)"]
+### **Figure 3: BAMC Permanent Employee Headcount (Actual and Projected)**
+![Figure 3](assets/vol3_iss2_29/figure_3.png)
+
+
+_Source: BAMC 2019 Strategy, 32._ 
+
+## **Overall Outcomes** 
+
+In total, the BAMC paid €1.6 billion to take €4.7 billion in assets off of the balance sheets of six banks (FinSAC 2016). If one looks at the assets for which the BAMC provided state aid, the participating banks took a 71% haircut on the assets they transferred (ECB 2015). By June 2017, the BAMC recovered approximately 68% of the purchase value of its assets (World Bank 2019). 
+
+By the end of 2018, the BAMC had repaid €1.28 billion of the €1.97 billion it borrowed. It managed to shrink its bad-asset portfolio to €830.1 million; its remaining assets took the form of state-guaranteed commercial loans (BAMC 2019). (See Figure 4.) The BAMC ended up selling most of its portfolio. The BAMC made €81 million in net profits by 2017, though the Slovenian government made millions more than this amount from the BAMC’s interest payments and guarantee fees (BAMC 2014; Balogh 2018). (See Figure 5). 
+
+
+[FIGURE id=vol3_iss2_29_f5 type=figure label="Figure 4" file=figure_4.png caption="BAMC’s Remaining Debt as of December 31, 2018"]
+### **Figure 4: BAMC’s Remaining Debt as of December 31, 2018**
+![Figure 4](assets/vol3_iss2_29/figure_4.png)
+
+
+_Source: BAMC 2019, 58._ 
+
+
+[FIGURE id=vol3_iss2_29_f6 type=figure label="Figure 5" file=figure_5.png caption="BAMC Returns, 2013-17"]
+### **Figure 5: BAMC Returns, 2013-17**
+
+||||||||
+|---|---|---|---|---|---|---|
+||Year|Net profit for<br>the year (€)|Interest rate market premium<br>estimate and guarantee fees<br>paid to government<br>(paid to state-owned banks)<br>(€)|Cumulative<br>net profit<br>(€)|Cumulative net profit with<br>payments to<br>government/state-owned<br>banks (€)||
+||2013|(6,000,000)|0|(6,000,000)|(6,000,000)||
+||2014|36,000,000|23,000,000|30,000,000|53,000,000||
+||2015|(8,000,000)|32,000,000|22,000,000|77,000,000||
+||2016|(8,000,000)|22,000,000|14,000,000|91,000,000||
+||2017|67,000,000|14,000,000|81,000,000|172,000,000||
+
+
+
+_Source: Balogh 2018, PDF Page 16._ 
+
+Although Slovenia avoided an IMF-EU bailout (Piroska and Podvrsic 2019), the Slovenian economy had a largely creditless recovery until a number of years after the economy stabilized (EBRD 2018). Slovenia’s share of corporate NPLs in its banking sector peaked at 28% in 2013 and fell to 5% by 2018. Deleveraging in the corporate sector continued through at least 2018, though the Slovenian banking sector returned to profit in 2015. The BAMC and the government’s various recapitalizations weighed on the public debt to GDP ratio, which peaked at 83% in 2015, but this did not appear to jeopardize the state’s credit rating (Balogh 2018). 
+
+
+## **II. Key Design Decisions** 
+
+**1. Part of a Package: The BAMC was part of a larger package of policies (centered on structural reforms and bank recapitalizations connected to a stress test) meant to strengthen Slovenia’s banking sector and forestall an IMF-EU bailout.** 
+
+The BAMC was created as part of the ZUKSB law, which was meant to provide for asset purchases as well as bank capital injections (Bancni vestnik 63[11). Slovenia coordinated the passage of the ZUKSB with the ZSHD law, which set up a new holding company for stateowned assets.[19] In response to a challenge from the parliamentary opposition, the constitutional court concluded that the ZUKSB law was constitutional because Slovenia “will have no choice but to request for international financial assistance” if the law were not passed. The troika, if it provided such assistance, would then monitor Slovenia’s compliance, and this would “infringe upon Slovenia’s sovereignty which is a constitutional principle” (Bardutzky 2016). 
+
+The BAMC’s legislation allowed it to conduct up to €1 billion worth of capital injections (Slovene Press Agency 2012-09-20). The BAMC would fund these injections from the same €4 billion in state-guaranteed borrowing as its asset transfers (Slovene Press Agency 201209-20; ECB 2012). The newly formed Slovenian government decided in May 2013 not to allow the BAMC to exercise this power. While the government did not state its reasoning publicly, former non-executive director of the BAMC Lars Nygaard offered a potential explanation. Recapitalization would leave the BAMC as a “major owner of the big banks on top of all other assets transferred to it, including some big corporates,” which “would have been too much, politically if not economically” (Bancni vestnik 63[11]). 
+
+**2. Legal Authority: Slovenia’s legislature passed the ZUKSB law providing the BAMC with its legal authority, but many of the BAMC’s operations required approval from the EC DG Comp.** 
+
+The BAMC’s domestic legal authority came from the Act Defining the Measures of the Republic of Slovenia to Strengthen Bank Stability (“ZUKSB”), which the government passed in October 2012. ZUKSB created a process for banks to apply to participate in the BAMC (Bancni vestnik 63[11]). 
+
+As the BAMC entailed state aid, its operations needed to be authorized by the European Commission’s Directorate-General for Competition (EC DG Comp). Even in the absence of a troika program, the EC retained the authority to approve or disapprove all government decisions on asset transfers and capital injections under European rules governing state aid (Bancni vestnik 63[11]; FinSAC 2016). 
+
+> 19 The passage of these two laws nearly coincided with the €100 million December 20, 2012, government capital injection for NKBM. This injection sought to bring NKBM into compliance with EBA recommendations on solvency levels after the bank failed to raise enough capital from the private sector and took the form of contingent convertible instruments (CoCos) (EC DG COMP 2013a). 
+
+
+The EC DG Comp refused to approve asset transfers and capital injections until the Slovenian government (as well as the Bank of Slovenia) coordinated with the EU AQR/ST (EIU 201310-07; IMF 2012; BAMC 2014). The EC DG Comp also excluded the BAMC from its asset selection and valuation process, going as far as having the EC DG Comp’s “experts doing independent valuations of all assets suggested by the banks and the supervisor (the Bank of Slovenia) for transfer to BAMC” (Bancni vestnik 63[11]). This delayed the first asset transfers until the end of 2013 (IMF 2012; BAMC 2014). This need for EC DG Comp approvals also delayed asset transfers from Abanka until late 2014 (Slovenian Press Agency 2015-10-06; BAMC 2015; EC DG Comp 2014). 
+
+**3. Special Powers: The BAMC originally had the powers to conduct capital injections; it lost this power early on, but obtained additional corporate restructuring powers in late 2015.** 
+
+The ZUKSB gave the BAMC and the government a number of broad powers over banks. The most significant of these was the power to establish a Bank Stability Fund, which would then conduct capital injections. The BAMC could use its assets to acquire bank shares and other instruments counted in a bank’s capital, but only “if financial stability in the Republic of Slovenia cannot be achieved by other measures or in a more economical manner” (Unofficial ZUKSB translation 2015). The ZUKSB initially devoted up to €1 billion of the €4 billion in state guaranteed borrowing by the BAMC for such capital injections (Slovene Press Agency 2012-09-20). The Slovenian government could heavily circumscribe the use of this power, though the capital injection powers were never used and appear to have been taken away from the organization in 2015 (BAMC 2014). In December 2015, an amendment to the ZUKSB appeared to take away any reference to how much the government was willing to guarantee BAMC lending that would be used for recapitalizing banks (Slovene Press Agency 2012-09-20; Havrylchyk 2013; EC Staff 2013-04-10; Unofficial ZUKSB translation 2015). By this point, the Slovenian government had already used other maneuvers to recapitalize its banks (Sila 2015; BoS 2015). 
+
+The law also allowed the BAMC to order a participating bank to convert bad debt into equity in a company before transferring the exposure. The law also allowed the government to control bank dividend policy, operating costs, and staff remuneration (Havrylchyk 2013). However, the BAMC initially lacked a number of powers possessed by contemporary AMCs in Ireland and Spain, which included the ability to provide loans to borrowers and to ensure the AMC acquired a majority position in borrowers (BoS 2014; Sila 2015). 
+
+The government largely solved these problems with the previously mentioned December 2015 amendments to the ZUKSB. These amendments gave the BAMC a number of new powers and responsibilities related to restructuring debtors (BAMC Strategy 2016; IMF 2017). For example, it extended the period in which the BAMC was allowed to have voting rights in a participating borrower if the BAMC would have to dispose of the related assets from two to five years (Unofficial ZUKSB translation 2015). 
+
+The BAMC was not fully fleshed out when the legislature passed the ZUKSB. The BAMC and Slovenia’s strategy for using the BAMC evolved over time, sometimes dramatically changing 
+
+
+with the economic and political situation (Bancni vestnik 63[11]; ENP Newswire 2013). Slovenia went through four ruling coalitions and prime ministers between early 2012 and late 2014. The ZUKSB did not envision the BAMC playing a role in activities like facilitating bank mergers and resolution, though the government eventually asked the BAMC to perform these activities in late 2015 with the Abanka-Bank Celje merger and throughout 2016 when the BAMC absorbed Factor Banka and Probanka (the ZUKSB-A saw the BAMC conducting some of these activities). This required BAMC staff to be extremely flexible (BAMC 2015; Bancni vestnik 63[11]; Havrylchyk 2013; BAMC Strategy 2016). 
+
+**4. Mandate: The BAMC’s mandate was to facilitate the restructuring of banks that were systemically important to Slovenia and faced solvency as well as liquidity problems** (DUTB History). 
+
+The BAMC was set up to be a comprehensive restructuring agency for the Slovenian banking sector, performing capital injections, asset purchases, and corporate restructuring (EC Staff 2013-04-10). However, the BAMC was predominantly focused on the asset-purchase function. Within the ambit of its asset purchase operations, the BAMC aimed to minimize the taxpayers’ burden while repaying BAMC bondholders. The BAMC would do this by maximizing the value of its assets (BAMC 2014; BAMC 2014a). The government also intended to use the BAMC as a tool to eventually conduct restructurings throughout the Slovenian economy (Slovenia NRP 2013). The government understood that the BAMC’s operations could provide support for individual companies with promising business models though mechanisms like exchanging a company’s loan for an equity stake (BAMC Strategy 2016). 
+
+**5. Communications: The government framed the ZUKSB (and the BAMC it created) as a necessary measure that would calm the markets, preventing an even more painful IMF-EU bailout.** 
+
+The government referred to the BAMC as a bad bank and had trouble getting the Slovenian public to understand what an AMC was. One early BAMC administrator attributed this lack of understanding to the intense debate surrounding the passage of the ZUKSB (Bancni vestnik 63[11]; Slovene Press Agency 2012n). The BAMC began its operations with a straightforward “From Bad to Good” communications policy that aimed to shift the media’s focus from anticipating the consequences of the BAMC’s actions to evaluating the BAMC’s performance (BAMC 2014). 
+
+This was unsuccessful at creating support for the BAMC among politicians and the media. The BAMC developed an adversarial relationship with the government and the Bank of Slovenia in the run-up to its asset transfers (BAMC Press Release 2014-10-30; Bancni vestnik 63[11], 101-112; BAMC Press Release 2014-12-18). Executives at the BAMC had an even less positive relationship with the press. They produced long and sometimes sarcastic statements that attempted to refute negative coverage (BAMC Press Release 2014-12-18a; BAMC Press Release 2015-07-13). 
+
+
+In response to the critical reports by the CPC and the Court of Auditors, the BAMC pursued an anti-corruption certification program from private anti-bribery and corruption certification agency ETHIC Intelligence in late March 2015 (BAMC PR 2015b). 
+
+The BAMC’s relationship with the government and press apparently became less strained once Nyberg and Månsson left the BAMC (Slovenian Press Agency 2018-07-05; Slovenian Press Agency 2015-10-06; Balogh 2018). The new management adopted a more generic communications strategy around 2016 (BAMC Strategy 2016), which revolved around five principles: 
+
+- supporting BAMC’s strategic goals by promoting understanding of the role of BAMC and benefits BAMC brings to the Republic of Slovenia and the taxpayers, in key audiences; 
+
+- obtaining the support of key audiences in implementation of measures; 
+
+- managing media relations, that will, as far as possible, support the achievement of BAMC’s objectives; 
+
+- ensuring the “one company one voice” communication effect; and 
+
+- changing BAMC’s communication from being reactive to being proactive (BAMC Stakeholder Strategies). 
+
+With this new strategy came a less blunt slogan: “Creating Good with Excellence” (BAMC 2018a). 
+
+## **6. Ownership Structure: The BAMC was a joint-stock company wholly owned by the Slovenian government.** 
+
+The BAMC was organized as a publicly owned joint-stock company because of an interaction between the 2009 changes in Eurostat’s rules and the characteristics of Slovenia’s banking sector at the time. In 2009, as Ireland was developing its own AMC, Eurostat decided that “AMCs with less than 51 percent private ownership would not be classified as contingent liabilities” and would be immediately counted “against public debts and deficits.” While Ireland, and later Spain, found workarounds that allowed them to comply with this rule, the state-dominated structure of Slovenia’s banking sector made it virtually impossible to create an AMC with less-than-majority state ownership. The government thus had no choice but to structure the BAMC as a publicly owned AMC. Professors Gandrud and Hallerberg hypothesized that the Slovenian government had the BAMC acquire its assets at “large haircuts relative to those applied at AMCs in other EU countries” because it wanted to “partially offset the cost of public AMC ownership” by maximizing profits passed on to the government (Gandrud and Hallerberg 2016). 
+
+
+## **7. Governance/Administration: The BAMC’s one-tier governance didn’t separate the management and oversight functions, making it relatively vulnerable to political interference.** 
+
+The BAMC had a “one-tier governance system,” in which the organization was governed by a Board of Directors containing four non-executive directors (appointed by the government) and three executive directors (appointed by the non-executive directors) (BAMC 2014). The OECD said that this structure “allows for greater influence of the single shareholder —the government—on operations” (Sila 2015). The CPC questioned the wisdom of this structure, arguing in late 2014 that “a two-tier governance system would contribute to reducing corruption and other risks which the company was exposed to in the course of its operations and warned about potential conflict[s] of interest” (BAMC 2015). Because the government was the sole shareholder, the BAMC’s “purchases and business plans are [were] approved by the Slovenian government” (IMF 2014). 
+
+In response to corruption allegations and management changes, the BAMC modified its governance system in late 2015 (BAMC PR 2015f; BAMC PR 2015H ; BAMC Strategy 2016). From this point, the non-executive directors were restricted to having a supervisory (as opposed to a management) role within the organization. These modifications also shortened the mandate of board members appointed before the passage of the 2015 amendment to the ZUKSB to December 31, 2017, at the latest ( BAMC Strategy 2016). 
+
+**8. Governance/Administration: The BAMC had executive compensation policies that were generous by Slovenian standards, but relatively normal by international standards, which were meant to attract qualified experts.** 
+
+All members of the board were exempt from legislative limits on executive pay, which the BAMC’s creators thought would “sweeten the deal” (Slovene Press Agency 2012-09-20). Dovetailing with this explanation, the majority of its initial board was dominated by foreign experts “with links to the key European crisis management actors” (Piroska and Podvrsic 2019; IMF 2014).[20] Former non-executive director of the BAMC Nyberg further elaborated on the BAMC’s focus on international expertise, reflecting that “Since the international credibility of the Slovenian banking sector was very low, the bank needed international consultancies in order to get the green light from Brussels” (The Slovenia Times 2014). 
+
+When the government modified the ZUKSB in late 2015, members of the board remained exempt from legislative limits on executive pay, but the government (as the sole shareholder) halved salaries on the board (The Slovenia Times 2015). The BAMC also had a “performance-based remuneration system” for employees, though it was not the target of widespread public criticism, unlike the performance-based bonuses given to NAMA employees in Ireland (Balogh 2018). 
+
+> 20 As of July 31, 2014, there were three foreign non-executive directors, and there was one foreign executive director. The three non-executive directors included the former “President of the ECB Task Force for Crisis Management,” the leader of the IMF’s response to the Asian banking crisis of the late ’90s, and a member who served on the troika in Spain. The single foreign executive director happened to be the former CEO of Reverta, Latvia’s bad bank (BAMC 2014; Lehmann 2017). 
+
+
+**9. Size: The BAMC had no specified size, but was limited by a €4 billion (~$5.1 billion) cap (12% of GDP) on government guaranteed borrowing (Sila 2015).** 
+
+It is not clear why the Slovenian government chose to limit its guarantees to this size. 
+
+## **10.Funding Source: The BAMC was government-funded.** 
+
+The BAMC funded its asset purchases with government guaranteed bonds with two- and three-year terms, but gradually shifted its financing structure to “Exclusively amortizing low-cost debt” (Balogh 2018). (See Figure 6.) It is also not clear why the Slovenian government charged the BAMC a fee for guaranteeing its bonds, which ranged from 1.00% to 1.25% annually (BAMC 2014; BAMC 2019). 
+
+[FIGURE id=vol3_iss2_29_f7 type=diagram label="Figure 6" file=figure_6.png caption="The BAMC gradually shifted the structure of its debt"]
+### **Figure 6: The BAMC gradually shifted the structure of its debt**
+![Figure 6](assets/vol3_iss2_29/figure_6.png)
+
+
+_Source: Balogh 2018, PDF Page 15._ 
+
+
+**11. Eligible Institutions: The BAMC was originally designed to aid the three major banks in which the state and various public entities had a majority ownership (Bancni vestnik 63[11]), but an Inter-Ministerial Committee technically determined institutional eligibility based on capital adequacy measures and a given institution’s business plan.** 
+
+In late 2013, the Bank of Slovenia described these three banks as those having unresolved measures requiring a capital increase and being in the process of having state aid approved (Bank of Slovenia 2013). 
+
+Determining whether a bank was eligible to participate in the BAMC involved two steps. First, the government’s Inter-Ministerial Committee had to establish “that the bank does not have, or will not have within the following 12 months, sufficient capital to meet capital adequacy requirements and, as a result, the stability of the financial system is threatened” (ECB 2013; Bancni vestnik 63[11]). Second, each bank had to submit a business plan to convince the government that the bank was adequately capitalized, that it had an adequate liquidity position, that the bank (as well as the bank’s equity holders) would share the costs of recapitalization during the restructuring,[21] and that the bank would implement measures to “prevent or mitigate any possible distortion of competition” (ECB 2013). However, other banks did eventually participate in the BAMC. BAMC followed the same procedures in acquiring assets from Banka Celje (Sila 2015). It followed different procedures in acquiring assets from Probanka and Factor Banka. Probanka and Factor Banka first had some of their corporate assets acquired “in arm’s length transactions at negotiated prices”. The BAMC said that it acquired these assets to get enough leverage over a given debtor to execute its plans (Sila 2015; BAMC 2017). Later, the remaining assets of these two banks, which constituted a large number of small exposures, were merged into the BAMC (Balogh 2018). The Bank of Slovenia offered an explanation for the merger, stating that the Slovenian government “economically merited” from the transaction because the government was already the sole owner of all three parties. It elaborated that the merger would allow for “operational rationalization and, most importantly, […][allow] more time for disposing the assets of the acquired companies, consequently increasing the proceeds, and reducing the likelihood of a need” to prop up the two banks with any more capital (BAMC 2017). 
+
+## **12.Eligible Assets: An Inter-Ministerial Committee decided which assets were eligible for purchase from participating banks; in practice these were mostly related to Slovenia’s corporate sector.** 
+
+The ZUKSB articulated the process for determining what the BAMC would eventually purchase (Uradni List 2012; Uradni List 2013). While the banks and the Bank of Slovenia prepared an application that would outline the assets the relevant bank wanted to sell, the Inter-Ministerial Committee was responsible for all decisions on what assets would be 
+
+> 21 As the BAMC ultimately never conducted recapitalizations, this was probably not relevant to the government (BAMC 2014). 
+
+
+eligible under the ZUKSB (Nyberg 2014; Uradni List 2012). This committee has not released a methodology for determining which assets should be transferred. The ZUKSB said the Inter-Ministerial Committee would have eight members, all appointed by the Bank of Slovenia and the government (Havrylchyk 2013; Slovenian Press Agency 2019-11-04). However, the Inter-Ministerial Committee would contain members representing the Bank of Slovenia, the Ministry of Finance, the Ministry of Economic Development and Technology, and the Office of the Prime Minister. However, the EC DG Comp, in consultation with the ECB and EBA, ultimately decided which assets would be purchased (BAMC 2014; Bancni vestnik 63[11]; FAQ 2013). As the roots of Slovenia’s problems came from its corporate sector (IMF 2014a), the BAMC mostly acquired large complex corporate exposures from participating banks (Lehmann 2017). 
+
+The BAMC’s early management wanted two principles to guide the organization’s asset purchase process. First, it wanted to transfer a bank’s entire exposure to a borrower if the exposure contained both performing and non-performing loans. Second, if the BAMC took over a non-performing loan from a bank, it wanted the BAMC to acquire all of the other exposures (including performing ones) to that borrower from other banks. Management thought that this approach would make it easier to restructure the BAMC’s assets, thus making it easier to increase asset values (Nyberg 2014). However, poor coordination between the BAMC and the Bank of Slovenia meant that these principles were often not practiced, at least for the late 2013 asset transfers (Bancni vestnik 63[11]). 
+
+## **13.Acquisition (Mechanics): The BAMC would divide purchases between multiple tranches and pay for assets using bonds, with all of a borrower’s assets being contained in a given tranche.** 
+
+All assets would be paid for using government guaranteed bonds with two- and three-year terms issued by the BAMC (Balogh 2018). 
+
+The Slovenian government initially thought that “it is sensible to structure assets into groups, so that individual groups with regard to the characteristics of debtors or characteristics of assets which are considered as insurance present a homogenous whole to the creditor in terms of management and realization” (Slovenia NRP 2018). 
+
+For its late 2013 asset purchases from NLB and NKBM (as well as its later purchases from Abanka), the BAMC planned for a six-month transfer “in a series of transactions grouped into tranches,” but documentation and time issues forced it to abandon this policy early on (Bancni vestnik 63[11]). In the discussions leading up to these purchases, the government and the Bank of Slovenia wanted the first tranche to be “substantial in size,” but banks favored a smaller transfer, as they were presumably aware of the scale of the documentation problems (BAMC 2014). A 2013 document states that the government planned for the first package to contain “claims against clients in bankruptcy procedures,” for the second package to contain “claims against non-payers insured with real property,” and for the third package to contain “other claims (against restructuring companies, including financial holdings)” (Slovenia NRP 2013). 
+
+
+In actuality, these asset transfers happened at one time and the banks transferred the associated documentation to the BAMC over the next six months. In the meantime, the banks would “act as BAMC’s trustee or asset manager” for the relevant loans (BAMC 2014). 
+
+The Slovenian government’s 100% ownership of many companies whose exposures were transferred to the BAMC, as well as its 100% ownership of the participating banks, proved to complicate the asset transfer process. The BAMC’s legislation required the BAMC to recognize asset transfers related to these companies as transactions “between undertakings under [the] common control” of the Slovenian government (BAMC 2019; BAMC 2014). The BAMC revalued these assets upon transfer after they saw that some assets had transfer values that were higher than the values calculated in the AQR. They referred to this €92.6 underpayment as the “day-one” losses associated with revaluing transferred assets, recognizing them as a reduction in the BAMC’s equity (BAMC 2014). 
+
+## **14.Acquisition (Pricing): The European Commission, the Inter-Ministerial Committee, and the Bank of Slovenia controlled the prices the BAMC would pay for assets (as well as the list of assets it would acquire), with the prices ultimately being based on the assets’ “real long-term value” (IMF 2012; Havrylchyk 2013)** 
+
+The ZUKSB said that participating banks (in collaboration with the Bank of Slovenia) would propose initial valuations and transfer prices for the assets, which would then then be finalized (or recalculated entirely) by the Inter-Ministerial Committee (ECB 2013; Bancni vestnik 63[11]; Havrylchyk 2013). 
+
+However, final approval ultimately fell to the EC DG Comp, which repeatedly rejected the valuations proposed by the participating banks and the BoS for being too high (BAMC 2014). The EC also argued that these high valuations entailed “an inappropriate amount of state aid” after conducting its own valuation of a sample of loans from the two largest banks. Before approving the valuations and transfer prices, the EC DG Comp required that the Slovenian government hire a team of independent experts to calculate them as part of the larger AQR/ST. While we do not know the haircuts on these assets under the original valuations, the valuation from the team of independent experts were eventually approved by the EC DG Comp and resulted in a 71% haircut (EIU 2013-07-05; Bancni vestnik 63[11]). 
+
+When the transfers eventually happened, the Bank of Slovenia evidently refused to share its methodology for calculating these figures with the BAMC. This frustrated the BAMC, which then had to use “consultants to get hold of data from banks, asset by asset, and prepare separate valuations” (Bancni vestnik 63[11]). 
+
+Although the valuations eventually approved by the EC apparently did not include this feature, the EC noted that the BAMC’s bylaws provided for transfer values being “reduced by up to 3% of the asset value to cover the administrative and operational costs of the BAMC for managing the assets” (EC 2013-04-10). The BAMC was frustrated with this non-inclusion. It argued that “reducing the value of the transferred assets by the cost of financing and operational costs” was a “fundamental precondition for the financial sustainability of the BAMC” (BAMC 2014). 
+
+
+## **15.Asset Management and Disposal: The BAMC chose how they would dispose of assets on a case-by-case basis, sometimes transferring assets to the sovereign holding fund (the SSH).** 
+
+The BAMC disposed of assets (equity, debt, and real estate) on a case-by-case basis following the “principal of an economic and transparent use of public funds and their highest possible recovery,” though this sometimes involved transfer to the SSH (presumably at a discount) (Nyberg 2014). Once the BAMC acquired assets, it would revalue them according to their fair value and use the valuation to determine whether a recovery (involving enforcement and liquidation or value improvement) or restructuring (collaboration with BAMC to maximize the going concern value of the asset) asset management strategy would maximize the value of the relevant collateral. This valuation involved comparing BAMC’s cash flows under each strategy using “a probability-weighted average of present values of cash flows of both scenarios discounted at a discount rate” representing the BAMC’s costs. For the restructuring scenario, the BAMC calculated the present value of cash flows by looking at the “debtor’s cash flow forecast and the debt servicing capability,” while the BAMC calculated the figure by looking at “the realistic outcome of realizing collateral” in the recovery scenario (BAMC 2014a). 
+
+Although the BAMC did not say why they created these particular strategies, it did state that it tended to favor the recovery strategy because of the generally “poor quality of the claims” (BAMC 2016). Sometimes, even after the 2015 changes to the AMC’s corporate governance, the government ordered the BAMC to transfer certain exposures to larger corporates to the SSH (BAMC 2019; IMF 2017). 
+
+## **16.Asset Management and Disposal: The BAMC’s exit strategy was constrained by a requirement that it sell ten percent of its assets annually.** 
+
+The BAMC’s initial exit strategy was to sell ten percent of its assets each year until the end of its approximately five-year lifetime, at which point it would transfer any remaining assets to the SSH. This strategy was imposed on the organization (IMF 2014; Bancni vestnik 63[11]). However, the feature was in tension with the BAMC’s goal of maximizing returns to minimize the taxpayers’ burden while repaying the BAMC’s bonds (Bardutzky 2016; BAMC 2014; IMF 2014). 
+
+## **17.Timeframe: The BAMC’s exit strategy was constrained by its short lifetime (though the lifetime was later extended).** 
+
+The BAMC initially had a five-year lifetime (where the BAMC would wind down by December 13, 2017) (Bancni vestnik 63[11]). Amendments to the ZUKSB eventually extended the lifetime to 2022 to decrease the risk of a fire sale (BAMC Strategy 2016). As of early 2021 there are questions about where the BAMC will have its lifetime extended again (Slovenian Press Agency 2019-12-20; Slovenian Press Agency 2019-12-23). 
+
+
+## **III. Evaluation** 
+
+A number of commentators say that the BAMC and its related capital injections prevented an IMF-EU bailout (IMF 2014a; Slovenian Press Agency 2019; EBRD 2018). Slovenia’s submission to the 2018 European Semester praised the BAMC, saying Slovenia was one of the better euro-area countries at dealing with bad debts (Slovenia NRP 2018). However, some scholars and Slovenian commentators say that it resulted in Slovenia losing its economic sovereignty and “undermining public trust in national institutions” (Guardiancich 2016; Slovenian Press Agency 2019). Some go as far as saying that the ZUKSB’s passage may not have been constitutional. The rejection of the referendum challenging the ZUKSB seemed to be rooted in a “necessity defense,” in that the measure was necessary to prevent the loss of sovereignty associated with an IMF bailout (Bardutzky 2016). 
+
+Lars Nyberg had some early reflections on the BAMC’s performance in 2014. He thought the BAMC was able to address the economy’s NPL problems “at arm’s length from the political system” in a way that was not possible for Slovenia’s bad bank in the 1990s. However, the asset valuation and transfer process was “a mess.” Nyberg also lamented the lack of cooperation between the BAMC and other Slovenian government institutions. Like many others, he was concerned with the requirement that the BAMC sell ten percent of its assets each year, noting that it could “hardly be done without ‘forced sales’ and unnecessary losses” (Bancni vestnik 63[11]; Slovene Press Agency 10-10-2012; Sila 2015). 
+
+Other Slovenian government institutions generally took a negative view. The Bank of Slovenia described the BAMC as “unable to take the lead in many important restructuring cases as the claims transferred to them are not sufficiently big to put them in a majority position vis-à-vis other creditors” (BoS 2014). Slovenia’s two main government watchdogs took an even more unfavorable view. The BAMC was in operation for less than three months before the CPC started investigating it (Slovenian Press Agency 2014-02-01). The BAMC had a poor record of implementing measures like maintaining safeguards against debtors buying back their assets from the BAMC at a discount (Slovenian Press Agency 201402-01; Sila 2015; Slovenian Press Agency 2018-07-05). The Court of Audit also criticized the BAMC for operating in an “inefficient and non-economic way” (Novak 2015-03-04). An investigation followed the late-2015 management changes, which fueled years of suspicion targeting some of the former executives as well as a parliamentary inquiry. However, none of these executives went to prison (Slovenian Press Agency 2019-10-07; Slovenian Press Agency 2018-07-10). Pressure on the BAMC appeared to die down once the new management accepted the criticisms of the Court of Audit and revised the BAMC’s organizational bylaws to address the Court’s concerns (BAMC PR 2015H). Even after the ZUKSB was amended to make the BAMC more independent and the government reshuffled the BAMC’s board, the Slovenian government institutions (and civil society) continued to criticize the BAMC’s governance (The Slovenia Times 2019; IMF 2017). For a period, criticism ignored the BAMC’s current practices, instead focusing on the days when “Swedish financial experts Lars Nyberg and Torbjörn Månsson” sat on the board (Slovenian Press Agency 2018-07-05; Slovenian Press Agency 2019-06-13). The BAMC’s board was largely stable during this time (BAMC PR 2015g; The Slovenia Times 2019). However, these 
+
+
+problems reemerged in late 2018, when the chair of the board and the CEO both resigned (BAMC PR 2015g; Slovenian Press Agency 2019-04-04).[22] 
+
+Benoît Cœuré of the ECB had a largely positive impression of the BAMC when asked about it in February 2014. He described it as having had a good start and noted that it built up the necessary expertise. Although he did not directly comment on whether the BAMC was independent enough, he said that the BAMC “should keep resisting vested interests” and “continue building up the institution itself so that it is credible and independent” (BIS 2014). 
+
+The European Commission and the Council of the European Union, on the other hand, had more mixed opinions on the BAMC. In April 2013, the European Commission published a paper criticizing the BAMC’s relatively short lifetime. This paper argued that the five-year lifetime forces a choice between “actively running off the portfolio, even at the cost of realising losses” and transferring a sizeable amount of assets to the SSH, which was not designed to facilitate the kinds of restructuring required by the BAMC’s assets (EC Occasional Paper 2013). The Council of the European Union’s 2016 recommendation responding to the 2016 National Reform Programme of Slovenia stated that the BAMC made significant progress on restructuring its loans, but remained “a significant risk to the sustainability of public finances” (Council of the European Union 2016). The Council continued, complaining that “Oversight of the activities of the BAMC appears to be insufficient as the authorities had considerably underestimated the deficit of the BAMC in 2015 by 0.7% of GDP and appeared unaware of the level of write-offs performed by the BAMC” (Council of the European Union 2016). By 2019, the Commission had a more positive view of the BAMC, complimenting it for helping reduce NPLs and beginning to make a profit in 2017. However, it also worried about the fact that the government set a “cost efficiency ratio” for the organization, which “will become more and more difficult as residual assets are more costly to manage” (EC 2019). 
+
+Reports from the World Bank mostly look at the Slovenian response as a whole, which they deemed generally successful (FINSAC 2016). One World Bank report mentioned that the BAMC had independence issues, but stated that the late-2015 amendments responded to these issues (World Bank 2019). It also acknowledged that the BAMC, with its complex mix of assets tied up in a powerful corporate sector (Lehmann 2017), had a more challenging mix of assets than its contemporaries in Ireland and Spain (World Bank 2019). 
+
+The EIU’s coverage of the BAMC tended to point out the BAMC’s negative media attention in Slovenia. They commented that the “BAMC is perceived as a foreign entity in the Slovenian institutional structure, something imposed by the EU that has to be implemented as part of the anti-crisis measures.” Although they note that the attention was focused on the BAMC’s executive pay policies, they acknowledged that the pay was “very high by the standards of government-owned companies in Slovenia,” but “relatively low compared with other similar institutions around the world.” The EIU also thought that the organization did not have necessary powers to “act decisively and push through restructuring” (EIU 2014a). Later on, its opinion of the BAMC slightly improved, with the EIU publishing articles describing the 
+
+> 22 Specifically, it was alleged that the CEO and head of the board had circumvented executive compensation restrictions (in addition to having previous conflicts of interest) (Slovenian Press Agency 2015-10-06; BAMC 2015; Slovenian Press Agency 2015-10-06; EIU 2015; Slovenian Press Agency 2015-10-01). 
+
+
+BAMC as “relatively successful.” However, it also believed that the small size of the BAMC contributed to the still stunted credit supply in Slovenia, as the corporate sector remained “highly leveraged” and the banking sector still had problems dealing with NPAs (EIU 2015a). 
+
+The IMF generally approved of the BAMC, but even it alluded to the BAMC not being large enough and that the BAMC had governance problems. They welcomed the asset transfers as “key milestones” on the way to recovery. Similar to the EIU in 2015, the IMF thought that the small size of the BAMC, which did not “include most of the loans to corporates that have been restructured by rolling over principal and a portion of interest due,” meant that NPLs would remain high (IMF 2014). It thought that the BAMC still should transfer more assets, even if such transfers “will likely result in a higher public debt in the short run” (IMF 2015).[23] As for the BAMC’s governance problems, the IMF issued statements emphasizing the need to safeguard the BAMC’s independence, implying that there was some threat to its independence. Along this line, it claimed that the BAMC’s effectiveness hinges on “abstaining from frequent changes in senior management,” which evidently continued to be a problem even after the foreign executives left (IMF 2017). It also criticized the institution for failing to improve its governance and risk management practices between 2013 and 2014 (IMF 2015). The IMF disapproved of the practice of transferring claims to the SSH, which it appeared to connect to the independence issue. The IMF was still concerned about the independence of the BAMC in the months after the removal of the Swedes, but the government partially allayed these concerns with various amendments to the ZUKSB. Among other things (which were discussed in the section addressing the BAMC’s asset management policies), late-2015 amendments clarified that the Ministry of Finance cannot “not issue instructions to the BAMC for action on individual cases” and that “responsibility for management of the BAMC rests with its executive directors” (IMF 2017). 
+
+Reports from various other think tanks had mixed reviews of the BAMC as well. A report from Bruegel theorized that the “BAMC […] had a sound governance structure, though it did not have full political support for controversial restructurings of large distressed companies” (Lehmann 2017). The OECD had a more detailed perspective on the BAMC. Like the Court of Audit, it has problems with the BAMC’s governance framework. The OECD argued that the one-tier structure governed by a board largely appointed by the government gave the government undue influence on the BAMC’s operations (Novak 2015-03-04; Sila 2015). It argued that the “BAMC should have kept the ability to set its own remuneration policy “to attract adequate talent.” Additionally, they thought the BAMC should have had the power to lend money to borrowers (Sila 2015). It complimented the government for extended the BAMC’s mandate through 2015 and for strengthening the organization’s independence (OECD 2017). Another OECD report was concerned that the ZUKSB did not specify what would happen to “losses or profits of the BAMC at the end of its mandate” and that the BAMC’s “absence of capital buffers will also deter private investors who could be interested in buying BAMC bonds” in spite of said debt being guaranteed by the state. It goes on to assert that large capital buffers were necessary because “The Swedish experience demonstrates that asset management companies require sufficient funding and even have to be 
+
+> 23 The government disagreed (IMF 2015). 
+
+
+overcapitalised in order to be autonomous and free from political interference” (Havrylchyk 2013). 
+
+Reflecting on his time with the BAMC, CEO and Executive Director Imre Balogh wrote that he had several takeaways. The most notable of these are as follows, though Balogh did not provide explanations for them (Balogh 2018): 
+
+- The BAMC’s early operations could have been much more efficient if there had been “careful preparation” 
+
+- Organizational frameworks and management systems are extremely important 
+
+- One should never call an AMC a bad bank 
+
+- AMCs should establish “quick wins” and avoid highly visible expenses to gain public support 
+
+- AMCs need to start with viable anti-corruption mechanisms 
+
+- There should not be disclosure of “on-going transactions” 
+
+- Majority private ownership can be desirable 
+
+- The AMC should not intervene in individual business decisions and employ prudential oversight of banks 
+
+- One should minimize the AMC’s “cash-burn period” 
+
+- Banks should share profits and losses of the AMC over time as an alternative to upfront haircuts 
+
+- The AMC should be able to lend to participating debtors as a way to help them successfully progress through their business plans to viability 
+
+- AMCs should have “capital cover or pre-defined wind-up mechanism for [the] loss making tail period of AMC,” but should also avoid fire-sale dynamics 
+
+- Only purchase “high impact, high volume, relatively homogenous asset classes” 
+
+- There should be pre-defined selection and dismissal procedures for executives 
+
+## **IV. References** 
+
+Agence France Presse (AFP) _._ 2012. “Recession-plagued Slovenia can still avoid bailout: IMF.” October 2, 2012. https://ypfs.som.yale.edu/library/recession-plagued-slovenia-can-stillavoid-bailout-imf. (AFP 2012) 
+
+
+Agence France Presse (AFP) _._ 2012. “Slovenia approves ‘bad bank’, backs with 4 bn euros.” October 3, 2012. https://ypfs.som.yale.edu/library/slovenia-approves-bad-bank-backs-4bn-euros. (AFP 2012a) 
+
+Agence France Presse (AFP). 2012. “Slovenian opposition pushes for referendum on ‘bad bank’ bill.” October 31, 2012 https://ypfs.som.yale.edu/library/slovenian-oppositionpushes-referendum-bad-bank-bill. (AFP 2012b) 
+
+Balogh, Imre. 2017. September 18. “Slovenia’s Experience with NPL Resolution.” https://ypfs.som.yale.edu/library/slovenias-experience-npl-resolution. (Balogh 2017). 
+
+Balogh, Imre. 2018. May 15. “Lessons Learned from the Work of DUTB.” https://ypfs.som.yale.edu/library/lessons-learned-work-dutb. (Balogh 2018). 
+
+Bardutzky, Samo. 2016. “Constitutional Transformations at the Edge of a Bail-Out: The Impact of the Economic Crisis on the Legal and Institutional Structures in Slovenia.” https://ypfs.som.yale.edu/library/constitutional-transformations-edge-bail-out-impacteconomic-crisis-legal-and-institutional. (Bardutzky 2016) 
+
+Bank Assets Management Company (BAMC). n.d. “BAMC ETHIC Intelligence Certificate.” Accessed November 2, 2019. https://ypfs.som.yale.edu/library/bamc-ethic-intelligencecertificate. (BAMC ETHIC Intelligence Certificate) 
+
+Bank Assets Management Company (BAMC). n.d. “History.” Accessed November 2, 2019. https://ypfs.som.yale.edu/library/history-bamc. (BAMC History) 
+
+Bank Assets Management Company (BAMC). n.d. “Stakeholder strategies.” Accessed November 2, 2019. https://ypfs.som.yale.edu/library/stakeholder-strategies-bamc. (BAMC Stakeholder Strategies) 
+
+Bank Assets Management Company (BAMC). 2014. _Annual Report 2013_ . https://ypfs.som.yale.edu/library/annual-report-2013-bamc. (BAMC 2014) 
+
+Bank Assets Management Company (BAMC). 2014. _The 2014 Unaudited Half-Year Report of the BAMC January–June 2014_ . https://ypfs.som.yale.edu/library/2014-unaudited-half-yearreport-bamc-january-june-2014. (BAMC 2014a) 
+
+Bank Assets Management Company (BAMC). 2014. February 6. “BAMC funding in 2013.” https://ypfs.som.yale.edu/library/bamc-funding-2013. (BAMC PR 2014-02-06) 
+
+Bank Assets Management Company (BAMC). 2014. February 10. “Committee on Finance and Monetary Policy Introduction by Dr Lars Nyberg, chairman of the management board.” https://ypfs.som.yale.edu/library/committee-finance-and-monetary-policy-introductiondr-lars-nyberg-chairman-management-board.(Nyberg 2014) 
+
+Bank Assets Management Company (BAMC). 2014. October 30. “BAMC is surprised that the government has not yet approved its annual report and expects an explanation.” 
+
+
+https://ypfs.som.yale.edu/library/bamc-surprised-government-has-not-yet-approved-itsannual-report-and-expects-explanation. (BAMC Press Release 2014-10-30) 
+
+Bank Assets Management Company (BAMC). 2014. December 18. “BAMC to pay € 127 million in government bonds to Banka Celje before year end.” https://ypfs.som.yale.edu/library/bamc-pay-eu-127-million-government-bonds-bankacelje-year-end. (BAMC Press Release 2014-12-18) 
+
+Bank Assets Management Company (BAMC). 2014. December 18. “Time to take a look at the BAMC from the outside.” https://ypfs.som.yale.edu/library/time-take-look-bamc-outside. (BAMC Press Release 2014-12-18a) 
+
+Bank Assets Management Company (BAMC). 2015. _BAMC Annual Report for 2014_ . https://ypfs.som.yale.edu/library/bamc-annual-report-2014. (BAMC 2015) 
+
+Bank Assets Management Company (BAMC). 2016. _BAMC 2015 Operations Report to the National Assembly (in accordance with Article 15 of ZUKSB)_ . https://ypfs.som.yale.edu/library/bamc-2015-operations-report-national-assemblyaccordance-article-15-zuksb. (BAMC 2015a) Bank Assets Management Company (BAMC). 2015. February 11. “BAMC launches internal probe.” https://ypfs.som.yale.edu/library/bamc-launches-internal-probe. (BAMC PR 2015a) 
+
+Bank Assets Management Company (BAMC). 2015. July 13. “Higher court acknowledges BAMC’s warnings regarding inappropriateness of Gorenjska banka acting as the initiator of compulsory settlement against Sava.” https://ypfs.som.yale.edu/library/higher-courtacknowledges-bamcs-warnings-regarding-inappropriateness-gorenjska-banka-acting. (BAMC Press Release 2015-07-13) 
+
+Bank Assets Management Company (BAMC). 2015. September 24. “BAMC obtains international  anti-corruption certificate from ETHIC Intelligence.” https://ypfs.som.yale.edu/library/bamc-obtains-international-anti-corruption-certificateethic-intelligence. (BAMC PR 2015b) 
+
+Bank Assets Management Company (BAMC). 2015. September 28. “There have been no changes in BAMC executive directors’ salaries since April 2015.” https://ypfs.som.yale.edu/library/there-have-been-no-changes-bamc-executive-directorssalaries-april-2015. (BAMC PR 2015c) 
+
+Bank Assets Management Company (BAMC). 2015. October 6. “Letter of the Chairman of the Board to the Minister of Finance.” https://ypfs.som.yale.edu/library/letter-chairmanboard-minister-finance-bamc. (BAMC PR 2015d) 
+
+Bank Assets Management Company (BAMC). 2015. October 7. “Introductory speech from dr. Lars Nyberg at the meeting of the Committee on Financial and Monetary policy October 7th, 
+
+
+2015.” https://ypfs.som.yale.edu/library/introductory-speech-dr-lars-nyberg-meetingcommittee-financial-and-monetary-policy-october. (BAMC PR 2015e) 
+
+Bank Assets Management Company (BAMC). 2015. October 12. “A letter from Metod Dragonja, state secretary at the Ministry of Finance.” https://ypfs.som.yale.edu/library/letter-metod-dragonja-state-secretary-ministry-finance. (BAMC PR 2015f) 
+
+Bank Assets Management Company (BAMC). 2015. October 12. “Marko Simoneti and Imre Balogh take the helm of BAMC.” https://ypfs.som.yale.edu/library/marko-simoneti-andimre-balogh-take-helm-bamc. (BAMC PR 2015g) 
+
+Bank Assets Management Company (BAMC). 2015. October 23. “BAMC submits two amended internal by-laws and signed employment agreements for executive directors to the Court of Audit.” https://ypfs.som.yale.edu/library/bamc-submits-two-amended-internallaws-and-signed-employment-agreements-executive-directors. (BAMC PR 2015h) 
+
+Bank Assets Management Company (BAMC). 2016. _BAMC Annual Report 2015_ . https://ypfs.som.yale.edu/library/bamc-annual-report-2015. (BAMC 2016) 
+
+Bank Assets Management Company (BAMC). 2016. December. _BAMC Business Strategy 20162022_ . https://ypfs.som.yale.edu/library/bamc-business-strategy-2016-2022 . (BAMC Strategy 2016) 
+
+Bank Assets Management Company (BAMC). 2016. February 17. “Merger of Factor Banka and Probanka to BAMC confirmed by the Government of the Republic of Slovenia.” https://ypfs.som.yale.edu/library/merger-factor-banka-and-probanka-bamc-confirmedgovernment-republic-slovenia. (BAMC PR 2016) 
+
+Bank Assets Management Company (BAMC). 2017. April. _BAMC Annual Report 2016_ . https://ypfs.som.yale.edu/library/bamc-annual-report-2016-1. (BAMC 2017) 
+
+Bank Assets Management Company (BAMC). 2018. April. _BAMC Annual Report 2017_ . https://ypfs.som.yale.edu/library/bamc-annual-report-2017. (BAMC 2018a) 
+
+Bank Assets Management Company (BAMC). 2018. September. _BAMC Half-Year Report 2018_ . https://ypfs.som.yale.edu/library/bamc-half-year-report-2018. (BAMC 2018) 
+
+Bank Assets Management Company (BAMC). 2019. February. _BAMC Business Strategy 20192022_ . https://ypfs.som.yale.edu/library/bamc-business-strategy-2019-2022. (BAMC Strategy 2019) 
+
+Bank Assets Management Company (BAMC). 2019. July. _BAMC Annual Report 2018_ . https://ypfs.som.yale.edu/library/bamc-annual-report-2018. (BAMC 2019) 
+
+
+Bank for International Settlements (BIS). 2014. February 15. “Benoît Cœuré: Interview in Delo.” Central bankers’ speeches. https://ypfs.som.yale.edu/library/benoit-coeureinterview-delo. (BIS  2014) 
+
+Bank of Slovenia _._ 2013. “Clarification of the Bank of Slovenia’s role in drafting secondary legislation for the Bad Bank.” February 5, 2013. https://ypfs.som.yale.edu/library/clarification-bank-slovenias-role-drafting-secondarylegislation-bad-bank. (ENP Newswire 2013) 
+
+Bank of Slovenia. 2013. “Frequently asked questions and answers regarding the reorganization of the Slovenian banking system.” https://ypfs.som.yale.edu/library/frequently-asked-questions-and-answers-regardingreorganization-slovenian-banking-system. (FAQ 2013) 
+
+Bank of Slovenia. 2013. “Full Report on the Comprehensive Review of the Banking System.” https://ypfs.som.yale.edu/library/full-report-comprehensive-review-banking-system. (Bank of Slovenia 2013) 
+
+Bank of Slovenia. 2014. July 17. “Policy Strategy Paper for Slovenia.” https://ypfs.som.yale.edu/library/policy-strategy-paper-slovenia. (BoS 2014) 
+
+Bank of Slovenia. 2015. March. “Report of the Bank of Slovenia on the causes of the capital shortfalls of banks and the role of the Bank of Slovenia as the banking regulator in relation thereto, the recovery of banks in 2013 and 2014, the efficiency of the system of corporate governance of banks under state ownership and the manner of resolving the consequences of the capital inadequacy of commercial banks, March 2015.” https://ypfs.som.yale.edu/library/report-bank-slovenia-causes-capital-shortfalls-banksand-role-bank-slovenia-banking. (BoS 2015) 
+
+Bank of Slovenia. 2019. October. _Economic and Financial Developments No.: October 2019_ . https://ypfs.som.yale.edu/library/economic-and-financial-developments-no-october2019. (Bank of Slovenia October 2019) 
+
+Brierley, David. 2012. “Slovenia hops on the bad bank bandwagon.” _SNL European Financials Daily_ , October 8, 2012. https://ypfs.som.yale.edu/library/slovenia-hops-bad-bankbandwagon. (Brierley 2012) 
+
+Carney, Sean. 2012. “Slovenian Cabinet OKs Plan to Create Fund for Bad Bank Assets.” _Dow Jones Global Equities News_ , September 14, 2012. https://ypfs.som.yale.edu/library/slovenian-cabinet-oks-plan-create-fund-bad-bankassets. (Carney 2012) 
+
+Cerne, Alenka, Sanja Borkovic, and Peter Tabak. 2018. _Slovenia Diagnostics: Assessing Progress and Challenges in Developing a Sustainable Market Economy_ . European Bank for Reconstruction and Development (EBRD). https://ypfs.som.yale.edu/library/sloveniadiagnostics-assessing-progress-and-challenges-developing-sustainable-market. (EBRD 2018) 
+
+
+Cerruti, Caroline Marie Cecile; et al. 2019. _Distressed Asset Recovery Program (DARP) - Creating Distressed Assets Markets: Lessons Learned Since the Global Financial Crisis and Opportunities for Investors in Emerging Markets Today (English)_ . Washington, D.C.: World Bank Group. https://ypfs.som.yale.edu/library/distressed-asset-recovery-program-darpcreating-distressed-assets-markets-lessons-learned. (World Bank 2019) 
+
+_Communication from the Commission on the treatment of impaired assets in the Community banking sector_ , INFORMATION FROM EUROPEAN UNION INSTITUTIONS AND BODIES COMMISSION (2009/C 72/01). https://ypfs.som.yale.edu/library/communicationcommission-treatment-impaired-assets-community-banking-sector-information. (EC 2009) 
+
+Council of the European Union. 2016. August 18. _Official Journal of the European Union_ 2016/C 299/22. C 299/90 – C 299/95. https://ypfs.som.yale.edu/library/councilrecommendation-12-july-2016-2016-national-reform-programme-slovenia-anddelivering. (Council of the European Union 2016). 
+
+Damijan, Jože P. 2012. October 8. “What went wrong in Slovenia and how to get out of the mess?” https://ypfs.som.yale.edu/library/what-went-wrong-slovenia-and-how-get-outmess. (Damijan 2012) 
+
+Economic Intelligence Unit (EIU) _._ 2013. July 5. “Transfer of bad loans delayed.” https://ypfs.som.yale.edu/library/transfer-bad-loans-delayed. (EIU 2013-07-05) 
+
+Economic Intelligence Unit (EIU) _._ 2013. October 7. “Is Slovenia another Spain?” https://ypfs.som.yale.edu/library/slovenia-another-spain. (EIU 2013-10-07) 
+
+Economic Intelligence Unit (EIU) _._ 2013. November 5. “Government reforms enter crucial period.” https://ypfs.som.yale.edu/library/government-reforms-enter-crucial-period. (EIU 2013-11-05) 
+
+Economic Intelligence Unit (EIU) _._ 2014. January 2. “Bad loan transfers begin.” https://ypfs.som.yale.edu/library/bad-loan-transfers-begin. (EIU 2014) 
+
+Economic Intelligence Unit (EIU) _._ 2014. July 30. “BAMC: from bad to good?” https://ypfs.som.yale.edu/library/bamc-bad-good. (EIU 2014a) 
+
+Economic Intelligence Unit (EIU) _._ 2015. October 9. “Government ousts chairman and CEO of so-called bad bank.” https://ypfs.som.yale.edu/library/government-ousts-chairman-andceo-so-called-bad-bank. (EIU 2015) 
+
+Economic Intelligence Unit (EIU) _._ 2015. November 19. “Banking sector remains a drag on growth.” https://ypfs.som.yale.edu/library/banking-sector-remains-drag-growth. (EIU 2015a) 
+
+European Central Bank (ECB). 2012. September 19. _OPINION OF THE EUROPEAN CENTRAL BANK of 19 September 2012 on strengthening bank stability_ . CON/2012/71. 
+
+
+https://ypfs.som.yale.edu/library/opinion-european-central-bank-19-september-2012strengthening-bank-stability. (ECB 2012) 
+
+European Central Bank (ECB). 2013. August 13. _OPINION OF THE EUROPEAN CENTRAL BANK of 13 August 2013 on measures to strengthen bank stability_ . CON/2013/67. https://ypfs.som.yale.edu/library/opinion-european-central-bank-13-august-2013measures-strengthen-bank-stability. (ECB 2013a) 
+
+European Central Bank (ECB). 2013. March 22. _OPINION OF THE EUROPEAN CENTRAL BANK of 22 March 2013 on the measures for strengthening bank stability_ . CON/2012/71. https://ypfs.som.yale.edu/library/opinion-european-central-bank-22-march-2013measures-strengthening-bank-stability. (ECB 2013) 
+
+European Central Bank (ECB). 2015. “The fiscal impact of financial sector support during the crisis.” _ECB Economic Bulletin_ 2015 (6): 74–87. https://ypfs.som.yale.edu/library/fiscalimpact-financial-sector-support-during-crisis. (ECB 2015) 
+
+European Commission. 2011. March 7. “State aid: Commission temporarily clears support for Nova Ljubljanska Banka.” Press Release. IP/11/264. https://ypfs.som.yale.edu/library/state-aid-commission-temporarily-clears-support-novaljubljanska-banka. (EC PR 2011) 
+
+European Commission. 2012. May 30. _COMMISSION STAFF WORKING DOCUMENT: Assessment of the 2012 national reform programme and stability programme for SLOVENIA Accompanying the document Recommendation for a COUNCIL RECOMMENDATION on Slovenia’s 2012 national reform programme and delivering a Council opinion on Slovenia's updated stability programme, 2012-2015_ . SWD(2012) 327 final. https://ypfs.som.yale.edu/library/commission-staff-working-document-assessment-2012national-reform-programme-and-stability. (EC 2012). 
+
+European Commission. 2013. April 10. _COMMISSION STAFF WORKING DOCUMENT: In-depth review for SLOVENIA in accordance with Article 5 of Regulation (EU) No 1176/2011 on the prevention and correction of macroeconomic imbalances Accompanying the document COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL AND TO THE EUROGROUP Results of in-depth reviews under Regulation (EU) No 1176/2011 on the prevention and correction of macroeconomic imbalances_ . SWD(2013) 122 final. https://ypfs.som.yale.edu/library/commission-staff-working-document-depthreview-slovenia-accordance-article-5-regulation-eu. (EC Staff 2013-04-10). 
+
+European Commission. 2013. April. Macroeconomic Imbalances Slovenia 2013. European Economy Occasional Papers 142, ISSN 1725-3209. https://ypfs.som.yale.edu/library/macroeconomic-imbalances-slovenia-2013. (EC Occasional Paper 2013) 
+
+European Commission. 2013. May 29. _COMMISSION STAFF WORKING DOCUMENT: Assessment of the 2013 national reform programme and stability programme for SLOVENIA Accompanying the document Recommendation for a Council Recommendation on Slovenia's_ 
+
+
+_2013 national reform programme and delivering a Council Opinion on Slovenia’s 2013 stability programme for 2012-2016_ . SWD(2013) 374 final. https://ypfs.som.yale.edu/library/commission-staff-working-document-assessment-2013national-reform-programme-and-stability. (EC 2013-05-29) 
+
+European Commission. 2014. “Graph of the Week: The Net International Investment Position.” August 12. https://ypfs.som.yale.edu/library/graph-week-net-internationalinvestment-position. (EC 2014) 
+
+European Commission. 2019. February 27. _COMMISSION STAFF WORKING DOCUMENT: Country Report Slovenia 2019 Accompanying the document COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE EUROPEAN COUNCIL, THE COUNCIL, THE EUROPEAN CENTRAL BANK AND THE EUROGROUP 2019 European Semester: Assessment of progress on structural reforms, prevention and correction of macroeconomic imbalances, and results of in-depth reviews under Regulation (EU) No  1176/2011_ . SWD(2019) 1023 final. https://ypfs.som.yale.edu/library/commission-staff-working-document-country-reportslovenia-2019. (EC 2019). 
+
+European Commission. Directorate-General for Competition (DG Comp). State Aid Greffe. 2013. December 18. _Subject: State aid n° SA.37690 (2013/N) Rescue aid in favour of Abanka d. d._ C(2013) 9633 final. https://ypfs.som.yale.edu/library/subject-state-aid-ndeg-sa376902013n-rescue-aid-favour-abanka-d-d. (EC DG Comp 2014). 
+
+European Commission. Directorate-General for Competition (DG Comp). State Aid Greffe. 2014. August 13. _Subject: State aid n° SA.38228 (2014/N) – Restructuring of Abanka Vipa Group - Slovenia_ . C(2014) 5857 final. https://ypfs.som.yale.edu/library/subject-state-aidndeg-sa38228-2014n-restructuring-abanka-vipa-group-slovenia. (EC DG Comp 2014a). 
+
+European Commission. EUROSTAT. Directorate D: Government Finance Statistics (GFS) and quality. 2014. April 28. _FINAL FINDINGS EDP standard dialogue visit to Slovenia 12-13 September 2013_ . Ref. Ares(2014)1317784-28/04/2014. https://ypfs.som.yale.edu/library/final-findings-edp-standard-dialogue-visit-slovenia-1213-september-2013. (EUROSTAT 2014). 
+
+Gandrud, Christopher, and Mark Hallerberg. 2016. “Statistical Agencies and Responses to Financial Crises: Eurostat, Bad Banks, and the ESM.” _West European Politics_ 39 (3): 545-64. doi:10.1080/01402382.2016.1143239. https://ypfs.som.yale.edu/library/statisticalagencies-and-responses-financial-crises-eurostat-bad-banks-and-esm. (Gandrud and Hallerberg 2016) 
+
+Georgiev, Georgi _._ 2013. “UPDATE 1 - Slovenian lenders face 4.78 bln euro capital shortfall, no eurozone bailout needed.” December 12, 2013. https://ypfs.som.yale.edu/library/update-1-slovenian-lenders-face-478-bln-euro-capitalshortfall-no-eurozone-bailout-needed. (SeeNews 2013) 
+
+Gillet, Kit. 2019. “The Caution Behind Slovenia’s Optimism.” _The Banker_ , December 1, 2019. https://ypfs.som.yale.edu/library/caution-behind-slovenias-optimism. (Stevis 2019) 
+
+
+Government of The Republic of Slovenia. 2013. May. “National Reform Programme 20132014.” https://ypfs.som.yale.edu/library/national-reform-programme-2013-2014. (Slovenia NRP 2013) 
+
+Government of The Republic of Slovenia. 2018. April. “National Reform Programme 2018.” https://ypfs.som.yale.edu/library/national-reform-programme-2018. (Slovenia NRP 2018) 
+
+Guardiancich, Igor. 2016. “Slovenia: The End of a Success Story? When a Partial Reform Equilibrium Turns Bad.” _Europe-Asia Studies_ 68 (2). 205-231. doi:10.1080/09668136.2015.1126805. https://ypfs.som.yale.edu/library/slovenia-endsuccess-story-when-partial-reform-equilibrium-turns-bad. (Guardiancich 2016) 
+
+Havrylchyk, Olena. 2013. “Banks’ Restructuring and Smooth Deleveraging of the Private Sector in Slovenia.” _OECD Economics Department Working Papers_ , No. 1059, OECD Publishing, Paris. https://ypfs.som.yale.edu/library/banks-restructuring-and-smoothdeleveraging-private-sector-slovenia. (Havrylchyk 2013) 
+
+Heinz, Frigyes F, and Yan Sun. 2014. “Sovereign CDS Spreads in Europe: The Role of Global Risk Aversion, Economic Fundamentals, Liquidity, and Spillovers.” _IMF Working Papers_ 14 (17). doi:10.5089/9781484393017.001. https://ypfs.som.yale.edu/library/sovereign-cdsspreads-europe-role-global-risk-aversion-economic-fundamentals-liquidity-and. (Heinz and Sun 2014) 
+
+International Monetary Fund. 2009. Republic of Slovenia: 2009 Article IV Consultation-Staff Report; Informational Annex; Public Information Notice on the  Executive Board Discussion; and Statement by the Executive Director for the Republic of Slovenia. IMF Country Report No. 09/161, May. Washington DC: IMF. https://ypfs.som.yale.edu/library/republicslovenia-2009-article-iv-consultation-staff-report-informational-annex-public. (IMF 2009) 
+
+International Monetary Fund. 2011. Republic of Slovenia: 2011 Article IV Consultation-Staff Report; Informational Annex; Public Information Notice on the  Executive Board Discussion; and Statement by the Executive Director for the Republic of Slovenia. IMF Country Report No. 11/121, May. Washington DC: IMF. https://ypfs.som.yale.edu/library/republicslovenia-2011-article-iv-consultation-staff-report-informational-annex-public. (IMF 2011) 
+
+International Monetary Fund. 2012. Republic of Slovenia: 2012 Article IV Consultation-Staff Report; Informational Annex; Public Information Notice on the Executive Board Discussion; and Statement by the Executive Director for the Republic of Slovenia. IMF Country Report No. 12/319, November. Washington DC: IMF. https://ypfs.som.yale.edu/library/republicslovenia-2012-article-iv-consultation-staff-report-informational-annex-public. (IMF 2012) 
+
+International Monetary Fund. 2014. Republic of Slovenia: 2013 Article IV Consultation. IMF Country Report No. 14/11, January. Washington DC: IMF. https://ypfs.som.yale.edu/library/republic-slovenia-2013-article-iv-consultation. (IMF 2014) 
+
+
+International Monetary Fund. 2014. January 24. “Transcript of a conference call on Slovenia.” https://ypfs.som.yale.edu/library/transcript-conference-call-slovenia. (IMF 2014a) 
+
+International Monetary Fund. 2015. Republic of Slovenia: 2014 Article IV Consultation. IMF Country Report No. 15/41, February. Washington DC: IMF. https://ypfs.som.yale.edu/library/republic-slovenia-2014-article-iv-consultation. (IMF 2015) 
+
+International Monetary Fund. 2017. Republic of Slovenia: 2017 Article IV Consultation. IMF Country Report No. 17/125, May 15. Washington DC: IMF. https://ypfs.som.yale.edu/library/republic-slovenia-2017-article-iv-consultation. (IMF 2017) 
+
+International Monetary Fund. 2019. Republic of Slovenia: 2018 Article IV Consultation. IMF Country Report No. 19/58, February 18. Washington DC: IMF. https://ypfs.som.yale.edu/library/republic-slovenia-2018-article-iv-consultation. (IMF 2019) 
+
+Iwanicz-Drozdowska, Małgorzata, Jakub Kerlin, Anna Kozłowska, Elżbieta MalinowskaMisiąg, Agnieszka Nowak, Paweł Smaga, Piotr Wisniewski, and Bartosz Witkowski. 2016. _European Bank Restructuring During the Global Financial Crisis_ (version 978-1-13756024-7). London: Palgrave Macmillan UK: Imprint: Palgrave Macmillan. https://ypfs.som.yale.edu/library/european-bank-restructuring-during-global-financialcrisis. (Iwanicz-Drozdowska et al. 2016) 
+
+Krzan, Marko. 2014. “Crisis in Slovenia: Roots, Effects, Prospects.” _Middle East Technical University Studies in Development_ 41(3) (12): 323-348. https://ypfs.som.yale.edu/library/crisis-slovenia-roots-effects-prospects. (Krzan 2014) 
+
+Lehmann, Alexander. _Carving out legacy assets: a successful tool for bank restructuring?_ 2017. No. 2017/9. Bruegel Policy Contribution, 2017. https://ypfs.som.yale.edu/library/carvingout-legacy-assets-successful-tool-bank-restructuring. (Lehmann 2017) 
+
+Lindstrom, Nicole. 2015. “Wither Diversity of Post-Socialist Welfare Capitalist Cultures? Crisis and Change in Estonia and Slovenia.” _European Journal of Sociology_ 56 (1). Cambridge University Press: 119–39. doi:10.1017/S0003975615000065. https://ypfs.som.yale.edu/library/wither-diversity-post-socialist-welfare-capitalistcultures-crisis-and-change-estonia-and. (Lindstrom 2015) 
+
+Markovic-Hribernik, Tanja and Matej Tomec. 2015. January. “Bad Bank And Other Possible Banks’ Rescuing Models – The Case Of Slovenia.” Annals - Economy Series, Constantin Brancusi University, Faculty of Economics, vol. 1, pages 128-141. https://ypfs.som.yale.edu/library/bad-bank-and-other-possible-banks-rescuing-modelscase-slovenia. (Markovic-Hribernik and Tomec 2015) 
+
+
+NLB Group (BAMC). 2012. April. _NLB Group Annual Report 2011_ . https://ypfs.som.yale.edu/library/nlb-group-annual-report-2011. (NLB 2011 Annual Report 2019) 
+
+Novak, Marja. 2015. “Slovenian supervisor finds possible criminal activity at state ‘bad bank.’” _Reuters News_ , March 4, 2015. https://ypfs.som.yale.edu/library/sloveniansupervisor-finds-possible-criminal-activity-state-bad-bank. (Novak 2015-03-04) 
+
+Nyberg, Lars. 2014. “Bank Assets Management Company – Experiences so far.” _Bančni vestnik_ 63, no. 11 (November): 101–112. https://ypfs.som.yale.edu/library/bank-assetsmanagement-company-experiences-so-far. (Bancni vestnik 63[11]) 
+
+O’Reilly, Carina. 2012. “Slovenian opposition calls for referendum on economic reform and bad banks law.” _IHS Global Insight Daily Analysis_ , November 1, 2012. https://ypfs.som.yale.edu/library/slovenian-opposition-calls-referendum-economicreform-and-bad-banks-law. (O’Reilly 2012) 
+
+Organisation for Economic Cooperation and Development (OECD). 2009. July 1. _OECD Economic Surveys: Slovenia 2009_ . OECD Publishing, Paris. https://ypfs.som.yale.edu/library/oecd-economic-surveys-slovenia-2009. (OECD 2009) 
+
+Organisation for Economic Cooperation and Development (OECD). 2012. July 18. “Slovenia Sovereign Holding Act: OECD Comments.” https://ypfs.som.yale.edu/library/sloveniasovereign-holding-act-oecd-comments. (OECD 2012) 
+
+Piroska, Dóra and Ana Podvršič. 2019. October 1. “New European Banking Governance and Crisis of Democracy: Bank Restructuring and Privatization in Slovenia.” _New Political Economy_ . https://doi.org/10.1080/13563467.2019.1669548. https://ypfs.som.yale.edu/library/new-european-banking-governance-and-crisisdemocracy-bank-restructuring-and-privatization. (Piroska and Podvrsic 2019) 
+
+Premrl, Peter. 2015. June. “Corruption Risks in the Process of Establishing the Bad Bank in Slovenia.” https://ypfs.som.yale.edu/library/corruption-risks-process-establishing-badbank-slovenia. (Premrl 2015) 
+
+Republic of Slovenia. 2015. July 12. “ORDINANCE On State Assets Management Strategy (OdSUKND).” https://ypfs.som.yale.edu/library/ordinance-state-assets-managementstrategy-odsuknd. (OdSUKND 2015) 
+
+Sila, Urban. 2015. “Restoring the financial sector and corporate deleveraging in Slovenia.” _OECD Economics Department Working Papers_ , No. 1243, OECD Publishing, Paris. https://ypfs.som.yale.edu/library/restoring-financial-sector-and-corporatedeleveraging-slovenia. (Sila 2015) 
+
+
+Slovene Press Agency (STA) _._ 2012. “Governor Kranjec Sceptical about Plans for Bad Bank.” July 10, 2012. https://ypfs.som.yale.edu/library/governor-kranjec-sceptical-about-plansbad-bank. (Slovene Press Agency 2012) 
+
+Slovene Press Agency (STA) _._ 2012. “Coalition to Discuss NLB, State Assets Holding.”  July 11, 2012. https://ypfs.som.yale.edu/library/coalition-discuss-nlb-state-assets-holding. (Slovene Press Agency 2012a) 
+
+Slovene Press Agency (STA) _._ 2012. “Pensioners, Unions Oppose Sovereign Holding Plan.” July 16, 2012. https://ypfs.som.yale.edu/library/pensioners-unions-oppose-sovereign-holdingplan. (Slovene Press Agency 2012b) 
+
+Slovene Press Agency (STA) _._ 2012. “Unions, Employers Welcome Decision To Postpone Sovereign Holding Vote.” July 20, 2012. https://ypfs.som.yale.edu/library/unionsemployers-welcome-decision-postpone-sovereign-holding-vote. (Slovene Press Agency 2012c) 
+
+Slovene Press Agency (STA) _._ 2012. “Slovenia Likely to Set up Bad Bank.” August 13, 2012. https://ypfs.som.yale.edu/library/slovenia-likely-set-bad-bank. (Slovene Press Agency 2012d) 
+
+Slovene Press Agency (STA) _._ 2012. “Central Bank Advises Caution in Plans for Bad Bank.” August 17, 2012. https://ypfs.som.yale.edu/library/central-bank-advises-caution-plansbad-bank. (Slovene Press Agency 2012e) 
+
+Slovene Press Agency (STA) _._ 2012. “Delo Poll Puts Türk and Pahor in Run-off.” August 20, 2012. https://ypfs.som.yale.edu/library/delo-poll-puts-turk-and-pahor-run. (Slovene Press Agency 2012f) 
+
+Slovene Press Agency (STA) _._ 2012. “Bank Association Boss Welcomes Plan to Set up Bad Bank.” August 21, 2012. https://ypfs.som.yale.edu/library/bank-association-bosswelcomes-plan-set-bad-bank. (Slovene Press Agency 2012g) 
+
+Slovene Press Agency (STA) _._ 2012. “Govt Adopts Bill Establishing a Bad Bank (adds).” September 20, 2012. https://ypfs.som.yale.edu/library/govt-adopts-bill-establishing-badbank-adds. (Slovene Press Agency 2012-09-20) 
+
+Slovene Press Agency (STA) _._ 2012. “Committee Endorses Bad Bank Bill Despite Warnings Against Haste.” September 27, 2012. https://ypfs.som.yale.edu/library/committeeendorses-bad-bank-bill-despite-warnings-against-haste. (Slovene Press Agency 2012i) 
+
+Slovene Press Agency (STA) _._ 2012. “Trade Union Referendum Initiative Also Targeting Bad Bank Act (adds).” October 10, 2012. https://ypfs.som.yale.edu/library/trade-unionreferendum-initiative-also-targeting-bad-bank-act-adds. (Slovene Press Agency 2012l) 
+
+
+Slovene Press Agency (STA) _._ 2012. “National Council Vetoes Bad Bank Act.” October 10, 2012. https://ypfs.som.yale.edu/library/national-council-vetoes-bad-bank-act. (Slovene Press Agency 2012m) 
+
+Slovene Press Agency (STA) _._ 2012. “Žerjav and Vizjak Warn Against Referenda on Bad Bank, Holding.” October 11, 2012. https://ypfs.som.yale.edu/library/zerjav-and-vizjakwarn-against-referenda-bad-bank-holding. (Slovene Press Agency 2012n) 
+
+Slovene Press Agency (STA) _._ 2012. “Chamber of Commerce Critical of Govt Approach to Bad Bank.” October 19, 2012. https://ypfs.som.yale.edu/library/chamber-commerce-criticalgovt-approach-bad-bank. (Slovene Press Agency 2012o) 
+
+Slovene Press Agency (STA) _._ 2012. “Minister, Unions Negotiating in Attempt to Avoid Referenda.” October 23, 2012. https://ypfs.som.yale.edu/library/minister-unionsnegotiating-attempt-avoid-referenda. (Slovene Press Agency 2012p) 
+
+Slovene Press Agency (STA) _._ 2012. “National Council Rejects Bad Bank, Sovereign Holding Referenda (adds).” October 29, 2012. https://ypfs.som.yale.edu/library/national-councilrejects-bad-bank-sovereign-holding-referenda-adds. (Slovene Press Agency 2012q) 
+
+Slovene Press Agency (STA) _._ 2012. “Speaker Sets Deadline for 40,000 Signatures Against Bad Bank.” November 12, 2012. https://ypfs.som.yale.edu/library/speaker-sets-deadline40000-signatures-against-bad-bank. (Slovene Press Agency 2012r) 
+
+Slovene Press Agency (STA) _._ 2012. “MPs Asks Constitutional Court to Review Bad Bank Referendum Motion.” November 23, 2012. https://ypfs.som.yale.edu/library/mps-asksconstitutional-court-review-bad-bank-referendum-motion. (Slovene Press Agency 2012s) 
+
+Slovene Press Agency (STA) _._ 2012. “Top Court Bans Holding, Bad Bank Referendum  (IV).” December 19, 2012. https://ypfs.som.yale.edu/library/top-court-bans-holding-bad-bankreferendum. (Slovene Press Agency 2012t) 
+
+Slovene Press Agency (STA) _._ 2013. “Bad Bank to Remain in Operation Longer than Expected.” December 16, 2013. https://ypfs.som.yale.edu/library/bad-bank-remain-operation-longerexpected. (Slovene Press Agency 2013) 
+
+Slovene Press Agency (STA) _._ 2014. “Corruption Watchdog Investigating Bad Bank Dealings.” February 1, 2014. https://ypfs.som.yale.edu/library/corruption-watchdog-investigatingbad-bank-dealings. (Slovene Press Agency 2014-02-01) 
+
+Slovene Press Agency (STA) _._ 2014. “Disclosure Limited to Loans at Bad Bank as Transparency Extended.” March 6, 2014. https://ypfs.som.yale.edu/library/httpsenglishstasi1986586disclosure-limited-loans-badbank-transparency-extended. (Slovene Press Agency 2014-03-06) 
+
+
+Slovene Press Agency (STA) _._ 2015. “Bad Bank ‘Getting it Done’, Boss Says.” August 21, 2015. https://ypfs.som.yale.edu/library/bad-bank-getting-it-done-boss-says. (Slovene Press Agency 2015-08-21) 
+
+Slovene Press Agency (STA) _._ 2015. “Central Bank Seeks Measures to Help Overleveraged SMEs.” September 23, 2015. https://ypfs.som.yale.edu/library/central-bank-seeksmeasures-help-overleveraged-smes. (Slovene Press Agency 2015-09-23) 
+
+Slovene Press Agency (STA) _._ 2015. “Bad Bank Claims Executive Pay in Line with Rules.” October 1, 2015. https://ypfs.som.yale.edu/library/bad-bank-claims-executive-pay-linerules. (Slovene Press Agency 2015-10-01) 
+
+Slovene Press Agency (STA) _._ 2015. “Two Turbulent Years of the Bank Asset Management Company (chronology).” October 6, 2015. https://ypfs.som.yale.edu/library/two-turbulentyears-bank-asset-management-company-chronology. (Slovene Press Agency 2015-10-06) 
+
+Slovene Press Agency (STA) _._ 2015. “Večer Sees Bad Bank as Battleground of Lobbies.” October 7, 2015. https://ypfs.som.yale.edu/library/vecer-sees-bad-bank-battlegroundlobbies. (Slovene Press Agency 2015-10-07) 
+
+Slovene Press Agency (STA) _._ 2018. “Bad bank gets adverse audit opinion for 2014-2015 (adds).” July 5, 2018. https://ypfs.som.yale.edu/library/bad-bank-gets-adverse-auditopinion-2014-2015-adds. (Slovene Press Agency 2018-07-05) 
+
+Slovene Press Agency (STA) _._ 2018. “Prosecution eyes five former bad bank executives.” July 10, 2018. https://ypfs.som.yale.edu/library/prosecution-eyes-five-former-bad-bankexecutives. (Slovene Press Agency 2018-07-10) 
+
+Slovene Press Agency (STA) _._ 2019. “Committee discusses possibility to shut down bad bank.” April 4, 2019. https://ypfs.som.yale.edu/library/committee-discusses-possibility-shutdown-bad-bank. (Slovene Press Agency 2019-04-04) 
+
+Slovene Press Agency (STA) _._ 2019. “Report: SDS MP no longer among suspects in BAMC inquiry.” June 13, 2019. https://ypfs.som.yale.edu/library/report-sds-mp-no-longeramong-suspects-bamc-inquiry. (Slovene Press Agency 2019-06-13) 
+
+Slovene Press Agency (STA) _._ 2019. “Former NLB, NKBM chairman say banks had no influence in asset transfer to bad bank (adds).” November 4, 2019. https://ypfs.som.yale.edu/library/former-nlb-nkbm-chairman-say-banks-had-noinfluence-asset-transfer-bad-bank-adds. (Slovene Press Agency 2019-11-04) 
+
+Slovenian Press Agency (STA) _._ 2019. “BAMC inquiry hears first witnesses.” October 7, 2019. https://ypfs.som.yale.edu/library/bamc-inquiry-hears-first-witnesses. (Slovenian Press Agency 2019-10-07) 
+
+
+Slovenian Press Agency (STA) _._ 2019. “Bratušek, Čufer defend massive 2013 bank bailout as urgent.” November 11, 2019. https://ypfs.som.yale.edu/library/bratusek-cufer-defendmassive-2013-bank-bailout-urgent. (Slovenian Press Agency 2019-11-11) 
+
+Slovenian Press Agency (STA) _._ 2019. “Bad bank wants to use its assets to build housing (interview).” December 20, 2019. https://ypfs.som.yale.edu/library/bad-bank-wants-useits-assets-build-housing-interview. (Slovenian Press Agency 2019-12-20) 
+
+Slovenian Press Agency (STA) _._ 2019. “Finance says BAMC should be shut down as planned.” December 23, 2019. https://ypfs.som.yale.edu/library/finance-says-bamc-should-be-shutdown-planned. (Slovenian Press Agency 2019-12-23) 
+
+The Slovenia Times _._ 2014. “Bad Bank With “Bad Habits.” February 6, 2014. https://ypfs.som.yale.edu/library/bad-bank-bad-habits. (The Slovenia Times 2014) 
+
+The Slovenia Times _._ 2015. “Govt Appoints New Directors at BAMC, Cuts Pay.” March 6, 2015. https://ypfs.som.yale.edu/library/govt-appoints-new-directors-bamc-cuts-pay. (The Slovenia Times 2015) 
+
+The Slovenia Times _._ 2019. “Matej Pirc appointed CEO of BAMC.” April 26, 2019. https://ypfs.som.yale.edu/library/matej-pirc-appointed-ceo-bamc. (The Slovenia Times 2019) 
+
+Stevis, Matina. 2012. “DJ UPDATE: Euro Zone Finance Ministers Flesh Out Spain Bailout Details.” _Dow Jones Chinese Financial Wire_ , July 9, 2012. https://ypfs.som.yale.edu/library/dj-update-euro-zone-finance-ministers-flesh-out-spainbailout-details. (Stevis 2012) 
+
+Uradni List Republike Slovenije. 2012. “Stevilka 105. Oradni list RS, st. 105/2012 z dne 27.12.2012.” https://ypfs.som.yale.edu/library/stevilka-105-oradni-list-rs-st-1052012-zdne-27122012-official-gazette-no-1052012-dated . (Uradni List 2012) 
+
+Uradni List Republike Slovenije. 2013. “Stevilka 103. Oradni list RS, st. 103/2013 z dne 11.12.2013.” https://ypfs.som.yale.edu/library/stevilka-103-oradni-list-rs-st-1032013-zdne-11122013-official-gazette-no-1032013-dated. (Uradni List 2013) 
+
+Unofficial ZUKSB translation. 2015. https://ypfs.som.yale.edu/library/unofficial-zuksbtranslation. (Unofficial ZUKSB translation 2015) 
+
+World Bank. 2016. _Bank resolution and bail-in in the EU: selected case studies pre and post BRRD (English)_ . Washington, D.C.: World Bank Group. https://ypfs.som.yale.edu/library/bank-resolution-and-bail-eu-selected-case-studies-preand-post-brrd-english. (FINSAC 2016) 
+
+
+## **V. Key Program Documents** 
+
+## **Summary of Program** 
+
+BAMC Business Strategy 2016-2022. 
+
+_The BAMC’s first published strategy document. It outlines some of the changes that came to the organization after 2015._ https://ypfs.som.yale.edu/library/bamc-business-strategy-20162022 
+
+– - Bank Assets Management Company Experiences so far (2014) (See pages 101 112). 
+
+_This article from one of the BAMC’s early executives outlines the many difficulties associated with getting the BAMC up and running._ https://ypfs.som.yale.edu/library/bank-assetsmanagement-company-experiences-so-far. 
+
+SLOVENIA SEVERAL DOMESTIC BANKS: RESOLUTION VIA PUBLIC RECAPITALIZATION AND BAIL-IN (2013) (Published in 2016, pages 61-65). 
+
+_Case study on Slovenia’s capital injections and asset transfers during the global financial crisis._ https://ypfs.som.yale.edu/library/bank-resolution-and-bail-eu-selected-case-studies-preand-post-brrd-english. (BAMC Strategy 2016) 
+
+## **Implementation Documents** 
+
+Report from the European Commission DG Comp, Subject: State aid n° SA.37690 (2013/N) Rescue aid in favour of Abanka d. d. (December 18, 2013). 
+
+_This state aid decision did not approve any asset transfers from Abanka to the BAMC, but set down a path for the government to develop a more detailed restructuring plan. It also approved a temporary capital injection by the government, which would be used to keep the institution alive until the EC could approve a more comprehensive plan._ https://ypfs.som.yale.edu/library/subject-state-aid-ndeg-sa37690-2013n-rescue-aidfavour-abanka-d-d. (EC DG Comp 2014) 
+
+Report from the European Commission DG Comp, Subject: State aid n° SA.38228 (2014/N) - Restructuring of Abanka Vipa Group Slovenia (August 13, 2014). 
+
+_This state aid decision approved asset transfers from Abanka to the BAMC, a number of capital injections, and a more detailed restructuring plan._ https://ypfs.som.yale.edu/library/subjectstate-aid-ndeg-sa38228-2014n-restructuring-abanka-vipa-group-slovenia. (EC DG Comp 2014). 
+
+Report from the European Commission DG Comp, Subject: State aid SA.38522 (2014/N) – Slovenia Restructuring aid for Banka Celje/Abanka (December 16, 2014). 
+
+_This state aid decision approved a merger of Banka Celje and Abanka, a restructuring of the merged bank, a €190 million recapitalization of the merged bank, and asset transfers from the merged bank to the BAMC._ https://ypfs.som.yale.edu/library/subject-state-aid-sa385222014n-slovenia-restructuring-aid-banka-celjeabanka-december-16 
+
+
+° Report from the European Commission DG Comp, Subject: State aid n SA.37643 (2013/N) – Slovenia Orderly winding down of Factor Banka d. d. (December 18, 2013). 
+
+_This state aid decision approved the winding down and transfer of Factor Banka’s remaining assets to the BAMC._ https://ypfs.som.yale.edu/library/subject-state-aid-ndeg-sa376432013n-slovenia-orderly-winding-down-factor-banka-d-d. 
+
+° Report from the European Commission DG Comp, Subject: State aid n SA.35709 (2013/N) – – Slovenia Restructuring of Nova Kreditna Banka Maribor d. d. (NKBM) Slovenia (December 18, 2013). 
+
+_This state aid decision approved the first recapitalization of NKBM for €100 million (temporarily approved by the rescue decision on 20 December 2012), the second recapitalization of €870 million, and an asset transfer to the BAMC_ . https://ypfs.som.yale.edu/library/subject-state-aid-ndeg-sa35709-2013n-sloveniarestructuring-nova-kreditna-banka-maribor-d-d. 
+
+Slovenia’s 2013-2014 National Reform Program (2013). 
+
+_This document that Slovenia submitted to the European Commission outlines the country’s medium-term plan for achieving the EU 2020 Strategy. The BAMC was a major part of the plan’s attempt to induce bank recovery, corporate deleveraging, and restructuring. It also contains some early implementation plans for the BAMC as well as a status report on the BAMC’s asset purchases._ https://ypfs.som.yale.edu/library/national-reform-programme-2013-2014. 
+
+## **Legal/Regulatory Guidance** 
+
+Act Amending the Act Defining the Measures of the Republic of Slovenia to Strengthen Bank Stability (In Slovene, Zakon o spremembah in dopolnitvah Zakona o ukrepih Republike - Slovenije za krepitev stabilnosti bank (ZUKSB A)) (Oradni list RS, st. 104/2015 z dne 28.12.2015) (December 28, 2015). 
+
+_Law amending the ZUKSB in several ways. One of the most notable is the extension of its winddown date to 2022._ https://ypfs.som.yale.edu/library/act-amending-act-defining-measuresakthe-republic-slovenia-strengthen-bank-stability. 
+
+Act Defining the Measures of the Republic of Slovenia to Strengthen Bank Stability (In Slovene, Zakon o ukrepih Republike Slovenije za krepitev stabilnosti bank (ZUKSB)) (December 27, 2012). 
+
+_Statute that created the BAMC._ https://ypfs.som.yale.edu/library/stevilka-105-oradni-listrs-st-1052012-z-dne-27122012-official-gazette-no-1052012-dated. 
+
+ECB GUIDING PRINCIPLES FOR BANK ASSET SUPPORT SCHEMES (February 25, 2009). 
+
+_ECB guidance on the design of asset purchase operations._ https://ypfs.som.yale.edu/library/ecb-guiding-principles-bank-asset-support-schemes _._ 
+
+Regulation Amending the Regulation Implementing Measures to Strengthen Bank Stability (In Slovene, Uredba o spremembah in dopolnitvah Uredbe o izvajanju ukrepov za krepitev stabilnosti bank) (Oradni list RS, st. 51/2013 z dne 14.6.2013) (June 14, 2013). 
+
+
+_Amendment of regulation outlining eligibility for participation in the BAMC as well as the details of how the BAMC would operate. There is no overarching theme to the changes, but several pertain to how the BAMC interacts with various European institutions._ https://ypfs.som.yale.edu/library/stevilka-51-oradni-list-rs-st-512013-z-dne-14062013official-gazette-no-512013-dated. 
+
+Regulation Amending the Regulation Implementing Measures to Strengthen Bank Stability (In Slovene, Uredba o spremembah in dopolnitvah Uredbe o izvajanju ukrepov za krepitev stabilnosti bank) (Oradni list RS, st. 22/2016 z dne 25.3.2016) (March 25, 2016) 
+
+_Amendment to earlier regulations meant to bring them into accord with the December 2015 amendments to the ZUKSB._ https://ypfs.som.yale.edu/library/regulation-amendingregulation-implementing-measures-strengthen-bank-stability-slovene. 
+
+Regulation Implementing Measures to Strengthen Bank Stability (In Slovene, Uredba o izvajanju ukrepov za krepitev stabilnosti bank) (Oradni list RS, st. 22/2013 z dne 15.3.2013) (March 15, 2013). 
+
+_Regulation outlining eligibility for participation in the BAMC as well as the details of how the BAMC would operate._ https://ypfs.som.yale.edu/library/regulation-implementingmeasures-strengthen-bank-stability-slovene-uredba-o-izvajanju. 
+
+Regulation Implementing Measures to Strengthen Bank Stability (In Slovene, Uredba o izvajanju ukrepov za krepitev stabilnosti bank) (Oradni list RS, st. 103/2013 z dne 11.12.2013) (December 11, 2013). 
+
+_Regulation outlining how the BAMC borrows and pays dividends, the conditions that business plans must fulfill, and several other elements of the BAMC’s operations._ https://ypfs.som.yale.edu/library/regulation-implementing-measures-strengthen-bankstability-slovene-uredba-o-izvajanju-0. 
+
+## **Key Academic and Think-Tank Papers** 
+
+– - Bank Assets Management Company Experiences so far (2014) (See pages 101 112). _This article from one of the BAMC’s early executives outlines the many difficulties associated with getting the BAMC up and running._ https://ypfs.som.yale.edu/library/bank-assetsmanagement-company-experiences-so-far. 
+
+Banks’ Restructuring and Smooth Deleveraging of the Private Sector in Slovenia (June 14, 2013) (Olena Havrylchyk). 
+
+_Working paper accompanying the OECD’s 2013 Economic Review of Slovenia, which summarizes the roots and details of Slovenia’s banking troubles. It also lays out the BAMC’s potential role in solving those problems as well as several obstacles the BAMC will face along the way._ https://ypfs.som.yale.edu/library/banks-restructuring-and-smooth-deleveragingprivate-sector-slovenia. (Havrylchyk 2013) 
+
+- Constitutional Transformations at the Edge of a Bail Out: The Impact of the Economic Crisis on the Legal and Institutional Structures in Slovenia (2016). 
+
+_Research paper discussing the progression of Slovenia’s economic crisis and how events during the crisis transformed Slovenia’s constitutional structures. The narrative features the BAMC_ 
+
+
+_several times._ https://ypfs.som.yale.edu/library/constitutional-transformations-edge-bailout-impact-economic-crisis-legal-and-institutional. (Bardutzky 2016) 
+
+Restoring the financial sector and corporate deleveraging in Slovenia (2014). _Working paper accompanying the OECD’s 2015 Economic Review of Slovenia that has a particularly good summary of Slovenia’s stress testing, capital injection, and asset management programs._ https://ypfs.som.yale.edu/library/restoring-financial-sector-and-corporatedeleveraging-slovenia. (Sila 2015) 
+
+Sovereign CDS Spreads in Europe: The Role of Global Risk Aversion, Economic Fundamentals, Liquidity, and Spillovers (Heinz and Sun). 
+
+_2014 IMF working paper that spends a significant time discussing the impact of the GFC over time in Central, Eastern, and South-Eastern Europe_ . https://ypfs.som.yale.edu/library/sovereign-cds-spreads-europe-role-global-riskaversion-economic-fundamentals-liquidity-and. (Heinz and Sun 2014) 
+
+## **Press Releases/Announcements** 
+
+A letter from Metod Dragonja, state secretary at the Ministry of Finance (October 2015). 
+
+_Letter from the Finance Ministry noting that it had officially filled the two vacant board positions at the BAMC with two Slovenians and refuting some of Nyberg’s claims._ https://ypfs.som.yale.edu/library/letter-metod-dragonja-state-secretary-ministry-finance. (BAMC PR 2015f) 
+
+- BAMC submits two amended internal by laws and signed employment agreements for executive directors to the Court of Audit (October 2015). 
+
+_A press release following the transition from foreign to Slovenian leadership claiming that the BAMC had taken actions to resolve the Court of Audits concerns._ https://ypfs.som.yale.edu/library/bamc-submits-two-amended-internal-laws-and-signedemployment-agreements-executive-directors. (BAMC PR 2015h) 
+
+Committee on Finance and Monetary Policy Introduction by Dr Lars Nyberg, chairman of the 
+
+management board (February 2014). 
+
+_Speeches by two executives at BAMC that address the progress of the BAMC as well as various allegations and misunderstandings as to the organization’s operations._ https://ypfs.som.yale.edu/library/committee-finance-and-monetary-policy-introductiondr-lars-nyberg-chairman-management-board. (Nyberg 2014) 
+
+Frequently asked questions and answers regarding the reorganisation of the Slovenian banking system (published by the Bank of Slovenia in December 2013). 
+
+_FAQ sheet from the Bank of Slovenia which details the results of stress tests, the government’s short-term response, long-term response, and the question of punishing responsible actors in the economic crisis._ https://ypfs.som.yale.edu/library/frequently-asked-questions-andanswers-regarding-reorganization-slovenian-banking-system. (FAQ 2013) 
+
+Introductory speech from dr. Lars Nyberg at the meeting of the Committee on Financial and Monetary policy (October 2015). 
+
+
+_Lars Nyberg’s address upon his leaving the BAMC._ https://ypfs.som.yale.edu/library/introductory-speech-dr-lars-nyberg-meetingcommittee-financial-and-monetary-policy-october. (BAMC PR 2015e) 
+
+Letter of the Chairman of the Board to the Minister of Finance (October 2015). 
+
+_Letter from one executive at the BAMC (shortly after his departure was announced) that makes a case for his salary and the BAMC’s divergence from a new compensation policy._ https://ypfs.som.yale.edu/library/letter-chairman-board-minister-finance-bamc. (BAMC PR 2015d) 
+
+Marko Simoneti and Imre Balogh take the helm of BAMC (October 2015). 
+
+_Announcing that two Slovenians would be taking over the leadership of the BAMC after the departure of foreign leadership._ https://ypfs.som.yale.edu/library/marko-simoneti-andimre-balogh-take-helm-bamc. (BAMC PR 2015g) 
+
+Merger of Factor Banka and Probanka to BAMC confirmed by the Government of the Republic of Slovenia (2016). 
+
+_Press release announcing the merger of Factor Banka and Probanka. It includes statements explaining the rationale for the merger and how it relates to the management of toxic assets._ https://ypfs.som.yale.edu/library/merger-factor-banka-and-probanka-bamc-confirmedgovernment-republic-slovenia. (BAMC PR 2016) 
+
+## **Reports** 
+
+BAMC Annual Report for 2014 (July 2015) 
+
+_Annual report outlining the BAMC’s financial results and overall performance in 2014._ https://ypfs.som.yale.edu/library/bamc-annual-report-2014. 
+
+BAMC UNAUDITED HALF-YEAR REPORT 2015 (August 26, 2015). 
+
+_Overview of the BAMC’s performance in the first half of 2015. Contains details on the BAMC’s conflict with the Court of Audit._ https://ypfs.som.yale.edu/library/bamc-unaudited-halfyear-report-2015. 
+
+BAMC 2015 OPERATIONS REPORT TO THE NATIONAL ASSEMBLY IN ACCORDANCE WITH ARTICLE 15 OF ZUKSB (June 2016). 
+
+_Extensive review of the BAMC’s operations through 2015. It functions much like a refocused annual report._ https://ypfs.som.yale.edu/library/bamc-2015-operations-report-nationalassembly-accordance-article-15-zuksb. 
+
+## BAMC Annual Report 2015 (September 2016). 
+
+_Annual report discussing the year in which there were significant management changes at NAMA._ https://ypfs.som.yale.edu/library/bamc-annual-report-2015. 
+
+## BAMC Annual Report 2016 (April 2017). 
+
+_Report outlining the BAMC’s financial results and overall performance in 2016._ https://ypfs.som.yale.edu/library/bamc-annual-report-2016-1. 
+
+
+BAMC HALF-YEAR REPORT 2016 (September 2016). 
+
+_Unaudited report during the period when the merger of Probanka and Factor Banka into BAMC occurred. At this point the organization was hitting all its KPIs but for economic return on equity._ https://ypfs.som.yale.edu/library/bamc-half-year-report-2016. 
+
+## BAMC HALF-YEAR REPORT 2017 (September 2017). 
+
+_Unaudited report during a period where the BAMC has a positive sentiment as to its performance, coming after a year where they significantly reduced their assets under management._ https://ypfs.som.yale.edu/library/bamc-half-year-report-2017-september2017. 
+
+BAMC Annual Report 2017 (April 2018). 
+
+_Report outlining the BAMC’s financial results and overall performance in 2017._ https://ypfs.som.yale.edu/library/bamc-annual-report-2017. 
+
+## BAMC HALF-YEAR REPORT 2018 (September 2018). 
+
+_Unaudited report during a period where the BAMC is broadly hitting its KPIs._ https://ypfs.som.yale.edu/library/bamc-half-year-report-2018. 
+
+## BAMC Annual Report 2018 (July 2019). 
+
+_Report outlining the BAMC’s financial results and overall performance in 2018._ https://ypfs.som.yale.edu/library/bamc-annual-report-2018. Bank of Slovenia Financial Stability Review, January 2016. 
+
+_Review of Slovenia’s financial position during a year in which the banking system continued its recovery. Overall, it has a positive outlook._ https://ypfs.som.yale.edu/library/bank-sloveniafinancial-stability-review-january-2016. 
+
+Bank of Slovenia Policy Strategy Paper for Slovenia 2016 (December 2016). 
+
+_Update of the 2015 policy strategy paper. It happens in the shadow of significant structural reforms in Slovenia which were put forward by the EU._ https://ypfs.som.yale.edu/library/bank-slovenia-policy-strategy-paper-slovenia-2016december-2016. 
+
+Bank of Slovenia Financial Stability Review, May 2009. 
+
+_Financial stability report discussing the immediate impact of the 2008 market turmoil on the Slovenian financial system. It notes that without the return of international funding or significant fiscal policy on the part of the government, the Slovenian banking system would be under extreme stress. It also provides a fairly comprehensive view of Slovenia’s economy during this time._ https://ypfs.som.yale.edu/library/bank-slovenia-financial-stability-review-may2009. 
+
+## Bank of Slovenia Financial Stability Review, May 2010. 
+
+_Financial stability report that details the coming credit crunch that followed the initial shock of the GFC in Slovenia. It also provides a fairly comprehensive view of Slovenia’s economy during this time._ https://ypfs.som.yale.edu/library/bank-slovenia-financial-stability-review-may2010 
+
+
+## Bank of Slovenia Financial Stability Review, May 2013. 
+
+_Financial stability report that features Slovenia’s dip back into recession._ https://ypfs.som.yale.edu/library/bank-slovenia-financial-stability-review-may-2013. 
+
+Bank of Slovenia Financial Stability Review, May 2014. 
+
+_Central bank outline of risks to the Slovenian financial system. Most notably, it outlines the beginning economic recovery._ https://ypfs.som.yale.edu/library/bank-slovenia-financialstability-review-may-2014. 
+
+## Bank of Slovenia Financial Stability Review, May 2015. 
+
+_Review on Slovenia’s improving economic growth accompanied by continuing uncertainties as to the condition of the financial system._ https://ypfs.som.yale.edu/library/bank-sloveniafinancial-stability-review-may-2015. 
+
+Bank of Slovenia Policy Strategy Paper for Slovenia, July 17, 2014 _._ 
+
+_Short paper from the Bank of Slovenia that describes the policy environment and puts forward economic policy recommendations._ https://ypfs.som.yale.edu/library/policy-strategypaper-slovenia. 
+
+DUTB (BAMC) Annual Report 2013. 
+
+_The BAMC’s first annual report, which was subject to increased scrutiny from the Slovenian government and chronicled the multiple challenges the team had getting the BAMC running._ https://ypfs.som.yale.edu/library/annual-report-2013-bamc. 
+
+Full Report on the comprehensive review of the banking, December 16, 2013 (Report by Bank of Slovenia). 
+
+_June through December 2013 results for the Stress Test and Asset Quality Report._ https://ypfs.som.yale.edu/library/full-report-comprehensive-review-banking-system. 
+
+## Lessons Learned from the Work of DUTB (2018). 
+
+_Presentation by the CEO and Executive Director of the BAMC that provides an overview of the BAMC’s performance. There are several slides that note best practices for AMCs._ https://ypfs.som.yale.edu/library/lessons-learned-work-dutb. (Balogh 2018) 
+
+Macroeconomic Development and Projections, April 2014 (Report by Bank of Slovenia). 
+
+_Central bank outline of economic projections. It is the first relatively optimistic report we see from BoS during this crisis._ https://ypfs.som.yale.edu/library/macroeconomicdevelopment-and-projections-april-2014-report-bank-slovenia. 
+
+Presentation in Paris by Peter Premrl of the Commission for the Prevention of Corruption (CPC) on Corruption Risks in the Process of Establishing the Bad Bank in Slovenia (June 2015). 
+
+_Presentation on the corruption risks and mitigation tools related to the BAMC._ https://ypfs.som.yale.edu/library/corruption-risks-process-establishing-bad-bankslovenia. 
+
+
+Report of the Bank of Slovenia on the causes of the capital shortfalls of banks and the role of the Bank of Slovenia as the banking regulator in relation thereto, the recovery of banks in 2013 and 2014, the efficiency of the system of corporate governance of banks under state ownership and the manner of resolving the consequences of the capital inadequacy of commercial banks, March 2015. 
+
+_Review of Slovenia’s Euro crisis response measures._ https://ypfs.som.yale.edu/library/reportbank-slovenia-causes-capital-shortfalls-banks-and-role-bank-slovenia-banking. 
+
+Report on comprehensive review of the banking system and associated measures, 2013 (Report by Bank of Slovenia). 
+
+_Document containing results from Slovenia’s Stress Test and Asset Quality Review._ https://ypfs.som.yale.edu/library/full-report-comprehensive-review-banking-system. 
+
+Stability of the Slovenian Banking System, December 2010 (Report by Bank of Slovenia). 
+
+_Overview of risks to financial stability in Slovenia during the first ten months of 2010. It shows increasing pressure on the economy and breaks down financial risks into several categories for discussion._ https://ypfs.som.yale.edu/library/stability-slovenian-banking-systemdecember-2010-report-bank-slovenia. 
+
+Stability of the Slovenian Banking System, January 2014 (Report by Bank of Slovenia). 
+
+_Overview of risks to financial stability in Slovenia during 2013. It shows increasing pressure on the economy and breaks down financial risks into several categories for discussion. Its discussion of the BAMC notes that the organization’s operations increased credit quality near the end of 2013._ https://ypfs.som.yale.edu/library/stability-slovenian-banking-systemjanuary-2014-report-bank-slovenia. 
+
+Stability of the Slovenian Banking System, December 2014 (Report by Bank of Slovenia). 
+
+_Overview of risks to financial stability in Slovenia during 2013. It shows increasing pressure on the economy and breaks down financial risks into several categories for discussion._ https://ypfs.som.yale.edu/library/stability-slovenian-banking-system-december-2014report-bank-slovenia. 
+
+THE 2014 UNAUDITED HALF-YEAR REPORT OF THE BAMC January – June 2014 (August 27, 
+
+2014). 
+
+_Overview of BAMC operations for the first half of 2014._ https://ypfs.som.yale.edu/library/2014-unaudited-half-year-report-bamc-january-june2014. 
+
+Development of this case has been supported by a generous grant from the Alfred P. Sloan Foundation to the Yale Program on Financial Stability. 
+
+Copyright 2019, 2020, 2021 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu.

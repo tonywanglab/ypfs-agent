@@ -1,0 +1,585 @@
+## Russia: Otkritie Bank Restructuring, 2017[1] 
+
+## _Benjamin Hoffner_[2] 
+
+Yale Program on Financial Stability Case Study October 4, 2024 
+
+## **Abstract** 
+
+In July and August 2017, Otkritie Bank, Russia’s largest privately owned bank, experienced a deposit run related to concerns over Otkritie’s recent acquisitions. The run prompted Otkritie’s shareholders to approach the Central Bank of Russia (CBR) for assistance. On August 29, 2017, the CBR announced a rescue plan for Otkritie. In it, the CBR pledged to become Otkritie’s main investor using a newly created resolution mechanism wherein the CBR would take at least a 75% equity stake using funds from the Fund for Banking Sector Consolidation, a subdivision of the CBR. The CBR simultaneously appointed a provisional administration, composed of CBR employees, to perform an audit, and in the process discovered a capital hole amounting to 188.9 billion Russian rubles (RUB; USD 3.3 billion) as of October 1, 2017. As a result, the CBR moved to bail-in about RUB 160 billion in subordinated debt and writing equity down to RUB 1, after the Duma passed amendments to the bankruptcy law authorizing the CBR-appointed provisional administration to do so. The CBR then purchased RUB 456.2 billion (99.9% equity) in newly issued ordinary shares to cover Otkritie’s capital deficit and extend financial assistance to Otkritie’s related entities. In March 2018, the CBR restructured Otkritie via a merger with a smaller bailed-out bank, B&N. At the same time, the CBR created a bad bank to take over a portion of Otkritie’s noncore assets. In June 2018, the CBR injected an additional RUB 42.7 billion in new capital in Otkritie, mostly to provide relief to related entities. In December 2022, the CBR sold Otkritie to state-owned (and former shareholder) VTB Bank for RUB 340 billion, as compared to the RUB 499 billion of capital support. 
+
+**Keywords:** ad hoc capital injection, bankruptcy prevention, CBR, Fund for Banking Sector Consolidation, Otkritie, resolution, restructuring 
+
+> 1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering bank resolutions and restructurings. A survey of the cases in this series (McNamara et al. 2024) and the individual cases underlying it are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1. 
+
+> 2 Senior Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+This case study is about the resolution and restructuring of Otkritie Bank. For details of the recapitalization of the bank, see Hoffner (2024); details of the emergency liquidity assistance provided to Otkritie can be found in Hoffner (forthcoming). 
+
+Otkritie Bank was established in 1992 and entered retail banking in 2012. It grew from relative obscurity to become Russia’s largest privately owned bank by 2015 (CBR 2017d; Fitzgeorge-Parker 2017; Seddon 2017a). In its rise, Otkritie capitalized on opportunities to absorb smaller, distressed lenders, partially financed by cheap state funding under Russia’s unconventional resolution framework. This framework, which was in place between 2006 and 2017, required, as the only alternative to bankruptcy, a private investor to take over a distressed bank. In return, the Central Bank of Russia (CBR) or the Deposit Insurance Agency (DIA)—with funding from CBR—extended cheap longterm loans to the investor or the distressed bank (Fitzgeorge-Parker 2017; Karpova and Kruglikova 2018). 
+
+Several problems emerged from this rehabilitation program. Lacking official oversight, some investors left the mismanagement of acquired banks in place, used their balance sheets to offload toxic assets, and deployed the proceeds from the 
+
+## **Key Terms** 
+
+Purpose: To bring Otkritie’s capital up to regulatory standards and keep Otkritie in business given its systemic importance 
+
+||Size and Nature of<br>Institution|Largest private bank in Russia<br>with RUB 2.5 trillion in assets|
+|---|---|---|
+||Source of Failure|Risky loans related to|
+||Start Date|acquisitions<br>August 29, 2017|
+||End Date|Resolution measures|
+||Approach to<br>Resolution and<br>Restructuring|completed July 2019<br>Bad assets spun off into a<br>bridge bank, which merged<br>with a new toxic asset bank|
+|||created out of Otkritie’s former|
+|||subsidiary|
+||Outcomes|The CBR sold Otkritie to VTB|
+|||in December 2022 for RUB 340|
+|||billion, as compared to the|
+|||RUB 499 billion it had invested|
+||Notable Features|in the bank’s capital<br>Otkritie’s failure occurred<br>immediately after it acquired<br>other struggling financial|
+|||institutions with government|
+|||approval;|
+|||Subordinated creditors bailed-<br>in; the Duma changed the law<br>to allow the CBR to write down<br>equity, after shareholders<br>rejected the CBR’s plan|
+
+
+
+rehabilitation loans for purposes other than recapitalizing the distressed banks (FitzgeorgeParker 2017; Invest Profit 2018). The program also effectively exempted a large share of the banking sector from basic regulatory requirements because supervisors eased standards on acquired banks. Otkritie Bank was among four private banks, collectively referred to as “Garden Ring banks,” that frequently acquired distressed banks with government help through the program and in the process expanded their balance sheets by several times between 2012 and 2016 (Fitzgeorge-Parker 2017). 
+
+In 2016, recognizing the flaws in the resolution scheme, CBR Governor Elvira Nabiullina called for a reform of Russia’s bankruptcy laws. Those reforms, which the Duma passed in May and became effective in June 2017, enabled the CBR or DIA to invest directly in the 
+
+
+capital of banks in resolution (CBR 2017c; Fitzgeorge-Parker 2017; Russian Federation 2017). In July 2017, Otkritie experienced a deposit run after the Russian rating agency ACRA rated Otkritie at BBB-, its lowest investment-grade rating—and thus below the acceptable threshold for holding deposits of state entities and pension funds. ACRA’s rating highlighted concerns about Otkritie’s loan book from recent acquisitions, partially funded through the old resolution scheme (Novye Izvestiia 2017; Otkritie 2018a; Seddon 2017c). 
+
+Resulting from the runs, Otkritie lost 611 billion Russian rubles (RUB; USD 10.3 billion)[3] in deposits, or 20% of its balance sheet, in two months (Seddon 2017d). During the month of August, the CBR provided Otkritie RUB 728 billion in liquidity support through its repurchase agreement (repo) operations and an emergency unsecured credit line (Seddon 2017f). For details on the emergency liquidity assistance, see Hoffner (forthcoming). 
+
+In August 2017, Otkritie also finalized a series of unprofitable acquisitions with government approval, absorbing Rosgosstrakh (both the bank and insurance company) as well as Trust Bank—previously owned by Otkritie’s holding company.[4] These acquisitions came on the eve of the CBR’s August 29 announcement that it would rescue Otkritie (Kulikova 2017). CBR Deputy Chair Dmitry Tulin believed that Otkritie’s acquisition of Rosgosstrakh was the ultimate reason for Otkritie’s collapse. When the CBR announced the rescue, both Trust Bank and Rosgosstrakh were included in the perimeter of Otkritie’s rehabilitation (Meylanova 2017). A Russian news article in September suggested that these transactions likely served to offload toxic assets onto Otkritie’s balance sheet at the expense of the CBR’s eventual bailout through capital injections (Kulikova 2017). 
+
+On August 29, 2017, following a request from Otkritie’s shareholders, the CBR announced the bailout of Otkritie using—for the first time—the newly created resolution mechanism, the Fund for Banking Sector Consolidation (FBSC) (Interfax 2017a; Polyakova, Samuseva, and Tatyana 2017). While guaranteeing the continuity of Otkritie’s operations, the CBR replaced management with a provisional administration, mainly composed of CBR employees, to run the bank and conduct an audit of the bank’s financial condition. 
+
+Following the audit, the CBR planned to inject capital, leaving the CBR with at least a 75% stake in Otkritie, as required by law (Russian Federation 2002d, art. 189.49). The 75% equity stake would increase depending on the capital shortfall (CBR 2017d; Dementyeva et al. 2017; WPS USA 2017b). Though initially stating that creditors would not be bailed in, the CBR decided to bail in subordinated debt holders as a prerequisite for recapitalization after the audit revealed a capital hole that amounted to RUB 188.9 billion by October 1, 2017 (CBR 2017d; Fojcik 2017a; Kalyukov, Titova, and Pashutinskaya 2017; WPS USA 2017b). By December 2017, following amendments to the Bankruptcy Law, Otkritie’s provisional administration had written off subordinated debts worth RUB 160 billion and reduced the authorized capital to RUB 1 (Fojcik 2017b). 
+
+> 3 Per the Bank for International Settlements, USD 1 = RUB 59.14 on August 25, 2017. 
+
+> 4 Otkritie’s plans to acquire Rosgosstrakh became public in December 2016. However, the poor financial condition of Rosgosstrakh cast doubt over whether the deal would eventually close (Pashutinskaya and Bozhko 2017). 
+
+
+On December 11, the CBR announced that it had recapitalized Otkritie Bank with RUB 456.2 billion through the purchase of new ordinary shares, amounting to a 99.9% stake (CBR 2017h; CBR 2017i). Of the RUB 456.2 billion, RUB 189.1 billion covered the capital deficit, RUB 182 billion provided additional capital to the bank, and the remainder was allocated for financial assistance to troubled Otkritie subsidiaries, including Rosgosstrakh insurance company and nonstate pension funds (CBR 2017h). The CBR injected a further RUB 42.7 billion into Otkritie in June 2018, to be used to extend financial support to various subsidiaries to compensate for the write-downs on claims between the entities (CBR 2018b). 
+
+Following Otkritie’s bailout, the CBR also intervened in bailing out several other banks: B&N in September 2017, Promsvyazbank in December 2017, Asia-Pacific Bank in April 2018, Moscow Industrial Bank in January 2019, and Vokbank in April 2019 (Interfax 2019). These bailouts began with liquidity support to guarantee the continuity of operations, followed by recapitalizations in which, following the bankruptcy law, the government took a stake of 75% or more, effectively putting the banks into receivership or nationalization (CBR 2017f; CBR 2018c). 
+
+In March 2018, the CBR announced the merger of B&N Bank with Otkritie, which was finalized on January 1, 2019, following the conversion of B&N’s shares into Otkritie shares (CBR 2018a; CBR 2019). The CBR also announced the creation of a noncore asset bank (NAB), through a merger of Trust Bank (a subsidiary of Otkritie) and Rost Bank (a subsidiary of B&N), both of which had been acquired by their respective parent companies under the old resolution framework (that is, through long-term loans from the CBR and DIA) (CBR 2019; Interfax 2018; Seddon 2018). The CBR provided the bad bank with a RUB 1.1 trillion loan at a 0.5% interest rate. The bad bank recovered and liquidated the distressed assets over time, returning to the CBR the funds allocated for resolution (Larina 2019; Seddon 2018). 
+
+In July 2019, the CBR completed its bankruptcy prevention measures for Otkritie, with the bank having met its rehabilitation targets. In 2019, Otkritie paid dividends of RUB 2 billion for 2018. Thereafter, the CBR developed a plan to divest its stake in Otkritie (CBR 2020). 
+
+In December 2022, the CBR sold 100% of its stake in Otkritie to state-owned VTB Bank for RUB 340 billion. The passage of a new law in March 2022 enabled the CBR to sell shares of Otkritie at the market value, as estimated by an independent appraiser, AO Business Solutions and Technologies, at RUB 328 billion to RUB 374 billion. VTB paid RUB 233.1 billion in cash and RUB 106.9 billion in federal government bonds (CBR 2022). Figure 1 shows a timeline of significant events in the Otkritie’s restructuring. 
+
+
+[FIGURE id=vol6_iss3_25_f1 type=diagram page=7 label="Figure 1" file=figure_1.png caption="Timeline of Important Events for Otkritie Bank"]
+### **Figure 1: Timeline of Important Events for Otkritie Bank**
+
+|Date|Event|
+|---|---|
+|July 3, 2017|Russian rating agency ACRA initiates coverage of Otkritie with its lowest investment-grade<br>rating (BBB-). During the month of July, Otkritie experiences substantial deposit outflows.|
+|Aug. 2017|The CBR provides emergency liquidity assistance to Otkritie amid deposit outflows.|
+|Aug. 29, 2017|Following a request from Otkritie’s shareholders, the CBR announces emergency measures to<br>preserve the financial stability of Otkritie through the CBR’s new resolution mechanism (FBSC).|
+|Aug. 30, 2017|The CBR appoints a new provisional administration to manage Otkritie and evaluate its financial<br>position.|
+|Sep. 15, 2017|The CBR approves a plan to recapitalize Otkritie and provide funds to ensure the bank’s<br>liquidity.|
+|Sep. 2017|The CBR places a RUB 380 billion emergency liquidity deposit in Otkritie.|
+|Nov. 29, 2017|The CBR transfers the powers of provisional administration to the FBSC AMC. Otkritie’s<br>subordinated debts are written off.|
+|Nov. 30, 2017|Otkritie’s share capital is reduced to RUB 1.|
+|Dec. 11, 2017|The CBR announces that it had recapitalized Otkritie with RUB 456.2 billion through a new issue<br>of ordinary shares, equivalent to a 99.9% stake.|
+|Dec. 21, 2017|The FBSC AMC hands over administrative powers to newly created, permanent management<br>bodies, with the CBR forming Otkritie’s supervisory board. The board subsequently elects a new<br>management board.|
+|March 2018|The CBR announces a plan to merge Otkritie with B&N, along with the creation of a bad bank<br>(noncore asset bank, or NAB).|
+|June 29, 2018|The CBR announces an additional recapitalization, providing RUB 42.7 billion in newly issued<br>ordinary shares in Otkritie.|
+|July 2, 2018|The CBR merges Trust Bank and Rost Bank (former subsidiaries of Otkritie and B&N,<br>respectively), creating a bad bank.|
+|July 30, 2018|The CBR decides to create a bridge bank for Otkritie’s bad assets, to be merged with the bad<br>bank in November 2018.|
+|Jan. 1, 2019|The CBR completes the merger of Otkritie and B&N Bank.|
+|July 2019|The CBR completes bankruptcy prevention measures for Otkritie.|
+|Dec. 2022|CBR sells 100% of its stake in Otkritie to VTB Bank for RUB 340 billion, RUB 233.1 billion in cash<br>and RUB 106.9 billion in federal government bonds.|
+
+
+
+_Source: Author’s analysis._ 
+
+## **Summary Evaluation** 
+
+One paper by Drobyshevsky, Trunin, and Khromov (2017), from a Russian economic think tank, finds that the CBR’s resolution of Otkritie and B&N Bank, via the FBSC, “can be regarded under the circumstances as [sic] optimal solution” given the CBR’s position as the preeminent banking regulator and its experience in other areas of bank resolution (11). The authors compare the alternative of the CBR’s revoking the banks’ licenses as likely to have 
+
+
+caused a greater run, and having the DIA subsequently manage the bankruptcy process. At the time of the CBR’s intervention, the DIA lacked funding, and given the size of the banks in distress, new bank contributions to the DIA could not have covered the scale of potential reimbursements. As was precedent, the CBR could have financed the restructuring by lending to the DIA, which managed bankruptcy proceedings, though this mechanism was often costlier than just reimbursing insured deposits (Drobyshevsky, Trunin, and Khromov 2017). 
+
+One investigative report looks into the Russian bank resolutions particularly before the introduction of the new mechanism and finds evidence of corruption in the DIA’s handling of bankruptcy proceedings (Yakoreva, Safronov, and Badanin 2020). The authors attribute the exorbitant costs and corruption associated with the DIA’s bankruptcy management as a motivating factor in the CBR’s creating and using the new resolution framework outside the DIA’s control. Russia’s Federal Antimonopoly Service criticized the DIA for its opaque hiring practice for contractors (Yakoreva, Safronov, and Badanin 2020). 
+
+The International Monetary Fund (IMF) 2020 Article IV report provided broad, positive feedback on the CBR’s new resolution mechanism, stating that the FBSC “has proven effective in closing banks that are assessed as fundamentally non-viable and in rescuing those that need to be rescued” (IMF 2021, 18). 
+
+Co-founder of Otkritie Boris Mints has criticized the CBR’s handling of the intervention, arguing that the CBR should have publicly pledged to support Otkritie in early July 2017, rather than waiting until Otkritie had run out of liquidity in August (Pugsley 2021). 
+
+
+|**Context: Russia, Otkritie Bank, 2017–2018**|**Context: Russia, Otkritie Bank, 2017–2018**|
+|---|---|
+|**Assets**|**RUB 2.5 trillion**as of Dec. 31, 2017<br>**RUB 2.2trillion** as of Dec.31,2018|
+|**Liabilities**|**RUB 2.4 trillion**as of Dec. 31, 2017<br>**RUB 1.9 trillion**as of Dec. 31, 2018|
+|**Term Deposits**|**RUB 590.3 billion**as of Dec. 31, 2017<br>**RUB 596.4 billion**as of Dec. 31, 2018|
+|**Total Capital Ratio**|**4.3%**as of Dec. 31, 2017<br>**13.1%**as of Dec. 31, 2018|
+|**Nonperforming Loans**|Unknown|
+|**Market Share**|Unknown|
+|**Banking System, % of GDP**|**58.9%**as of Dec. 31, 2017<br>**57.4%**as of Dec. 31, 2018|
+|_Sources: Bloomberg; Otkritie 2019; World Bank Global Financial Development Database;_<br>_World Bank Deposit Insurance Dataset._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: The Central Bank of Russia rescued Otkritie Bank, Russia’s largest private bank, to prevent its bankruptcy, given its systemic importance, and to ensure its capital met regulatory requirements.** 
+
+In July 2017, Russian rating agency ACRA assigned a BBB- rating to Otkritie Bank—a systemically important institution and Russia’s largest privately owned bank—citing concerns about Otkritie’s loan book from recent acquisitions (Novye Izvestiia 2017; Seddon 2017b; Seddon 2017c). Over the subsequent two months, Otkritie also finalized a series of unprofitable acquisitions of struggling banks and other financial institutions with government approval, following the previous resolution policy. Meanwhile, large deposit outflows resulted in Otkritie’s losing RUB 611 billion in deposits, or 20% of its balance sheet (Seddon 2017d).  On August 29, 2017, following a request from Otkritie’s shareholders, the CBR announced the rescue of Otkritie Bank using for the first time a newly created resolution mechanism, the Fund for Banking Sector Consolidation (CBR 2017d). Under this mechanism, the CBR would take at least a 75% equity stake after appointing a provisional administration to assess the bank’s financials (Mokeeva and Popova 2020). At the time of the intervention, Otkritie was the eighth-largest bank in Russia by assets, with RUB 2.5 trillion assets and RUB 539 billion of citizens’ savings and deposits (CBR 2017d; Dementyeva et al. 2017; Karpova and Kruglikova 2018). 
+
+While other private banks volunteered to participate in the bailout under the old resolution scheme (in other words, by receiving a loan from the CBR), the CBR opted for the new scheme by first appointing a temporary administration and ultimately nationalizing the bank following a RUB 456.2 billion recapitalization in December 2017 (Dementyeva et al. 2017; Interfax 2020). The CBR justified the usage of the new resolution mechanism on the basis of decreasing bailout expenditures, enhancing monitoring during resolution, and expediting the process of rehabilitation, three areas where the old resolution scheme fell short (CBR 2018c; Invest Profit 2018). 
+
+The recapitalization aimed to make Otkritie compliant with regulatory capital requirements, and in December 2017, the temporary administration’s tenure ended with the creation of new permanent management bodies (CBR 2017h; Otkritie 2018a). However, by January 1, 2018, Otkritie was noncompliant with several regulatory requirements, and on January 19, 2018, the CBR announced that it would continue operating the bank as a going concern (Otkritie 2018a). In March 2018, the CBR announced the merger of another bailed out bank, B&N, with Otkritie, which was finalized on January 1, 2019, following the conversion of B&N’s shares into Otkritie’s. The CBR also announced the creation of a noncore asset bank, through a merger of Trust Bank (a former subsidiary of Otkritie, which the CBR nationalized in March) and Rost Bank (subsidiary of B&N) (CBR 2019; Interfax 2018; Otkritie 2018a; Seddon 2018). 
+
+In July 2018, following the merger of Trust and Rost into the NAB (hereinafter Trust NAB), the CBR decided to restructure Otkritie by establishing a bridge bank for its noncore assets, 
+
+
+Bank Otkritie Special JSC, which would subsequently merge with the newly created Trust NAB in November 2018 (Otkritie 2018b). According to one report, these assets amounted to about RUB 438 billion (Fojcik 2018b). In July 2019, the CBR completed its restructuring and resolution measures into Otkritie, with the bank having met its rehabilitation targets. Thereafter, the CBR developed a plan to divest its stake in Otkritie, and in December 2022, a state-owned bank, VTB, acquired 100% of Otkritie for RUB 340 billion (CBR 2022). 
+
+## **2. Part of a Package: The CBR provided significant liquidity relief to Otkritie through unsecured lending and a new emergency facility.** 
+
+Before the bailout of Otkritie, the CBR extended substantial liquidity support both through its standing facilities and in ad hoc forms. In August, Otkritie had borrowed RUB 728 billion from the CBR, which included an unsecured ad hoc loan (Seddon 2017f). The CBR had not provided unsecured loans since the Global Financial Crisis of 2007–2009 (WPS USA 2017a). By January 1, 2018, Otkritie had outstanding RUB 380 billion in “short-term” liquidity support from the CBR (CBR 2018c). The CBR provided such liquidity support in the form of deposits using funds from the FBSC (CBR 2018d; CBR 2019). 
+
+On September 1 (announced on September 4), the CBR introduced a new, broadly defined emergency liquidity facility for banks that had exhausted all other liquidity sources. Eligibility was at the discretion of the CBR, which would consider a bank’s systemic importance and solvency before approving draws. Approved banks could pledge collateral outside the CBR’s Lombard List (collateral accepted for standard facilities), claims on nonfinancial institutions, and other types of securities. Liquidity could take the form of a repo and/or secured loan, depending on the collateral, and would have a maximum term of 90 days and a rate of 1.75% over the CBR policy rate (CBR 2017e). See the forthcoming YPFS case study on the CBR’s ad hoc emergency liquidity support to Otkritie (Hoffner forthcoming). 
+
+**3. Legal Authority: The CBR resolved Otkritie under a new legal mechanism added to Russia’s bankruptcy law; the CBR waited for additional amendments to enable bail-in before recapitalizing Otkritie.** 
+
+The legal authority for the CBR to inject capital into a distressed bank is enumerated in the June 2017 amendments to the 2002 Federal Law on the Central Bank of the Russian Federation (CBR Law) and the 2002 Law on Insolvency (Bankruptcy Law) (Russian Federation 2002b; Russian Federation 2002c). The Duma amended both laws in the months before Otkritie’s rescue with the legal adoption of the CBR’s new rehabilitation (bankruptcy prevention) mechanism. Pursuant to Article 46 of the Central Bank Law, the CBR’s board of directors decides on the implementation of resolution measures (Russian Federation 2002a, art. 46). 
+
+Under Russia’s Bankruptcy Law, a recapitalization from the CBR required it to take over at least 75% of the bank’s share capital (Russian Federation 2002d, art. 189.49). 
+
+Article 189.10 of the Bankruptcy Law outlines the following conditions under which the CBR may resolve a bank (Kinash 2019; Russian Federation 2002d, art. 189.10): 
+
+
+- Repeatedly fails to satisfy claims of creditors over the past six months and/or fails to make tax (mandatory) payments within three days of the due date owing to insufficiency of funds; 
+
+- Allows an absolute decrease in capital (own funds) by more than 20% of the trailing12-month maximum, and simultaneously violates a mandatory ratio set by the CBR; 
+
+- Violates any capital adequacy ratio set by the CBR; 
+
+- Violates by more than 10% the current liquidity ratio, set by the CBR, during the past month; 
+
+- Allows for a decrease in capital at the end of a reporting month below the bank’s authorized capital (bankruptcy prevention measures not taken if the bank has held a license for under two years). 
+
+Bank owners, aware of any of these conditions, are required to request resolution from the CBR. The CBR may also discover such occurrences during audits and subsequently implement resolution (Kinash 2019). 
+
+The CBR Law and Bankruptcy Law prescribe the CBR to use, for the purposes of bank resolution, funds from the FBSC, a subdivision of the CBR (Russian Federation 2002a, arts. 75–76). With regard to banks under resolution, such uses cover: acquiring bank shares (including in excess of their nominal value) and selling such shares (including below the purchase price), extending subordinated credits (deposits, loans, and bonded loans), and acquiring and alienating property rights and claims to said banks (Russian Federation 2002a, arts. 66–67). The CBR could also transfer claims on and property of banks under resolution to the FBSC Asset Management Company (FBSC AMC) for trust management and for the purposes of establishing a unit investment fund; the CBR could also extend financing to the FBSC AMC to participate in resolution measures (Russian Federation 2002a, arts. 66– 67). The FBSC AMC is a separate limited liability company, wholly owned by the CBR, acting as a special purpose vehicle in bank resolution (CBR 2018c; Russian Federation 2002a, arts. 74–76). This vehicle served as the trustee for the CBR’s stake in Otkritie. 
+
+The CBR is also entitled to appoint a temporary administration to a distressed bank for a term of up to six months (Russian Federation 2002a, art. 63). 
+
+On October 30, 2017, the CBR-appointed provisional administration failed to reach the necessary quorum (shareholders in attendance) at Otkritie’s shareholder meeting to bail in creditors (Astapenko 2017; WPS USA 2017b). The CBR requested amendments to the Bankruptcy Law, which the Duma passed on November 25. On November 29, the CBR transferred the powers of provisional administration to the FBSC AMC, which enabled the provisional administration to bail in the subordinated creditors and equity holders (CBR 2017g; Prime News 2017b). 
+
+
+## **4. Administration: The CBR administered the resolution through the FBSC.** 
+
+Following a change to Russian bankruptcy laws in May 2017, the CBR acted as the primary resolution authority. Before the change, resolution typically centered on the DIA, which would extend cheap long-term loans, provided by the CBR, to willing private buyers of distressed banks. The old model was deemed inefficient, resulting in drawn-out and expensive resolution processes with little oversight (Mokeeva and Popova 2020). As a result, from 2017 onward, the CBR has administered resolution using its newly created CBR subdivision, the FBSC, with Otkritie being the first use case (Mokeeva and Popova 2020). 
+
+Under this new mechanism, the CBR’s board of directors makes a decision to implement resolution for a distressed bank (under the conditions specified in Key Design Decision No. 3, Legal Authority) and subsequently appoints a temporary administration, which temporarily limits or revokes the former management’s powers (Mokeeva and Popova 2020). In Otkritie’s case, the temporary administration initially consisted of CBR employees (CBR 2017a) before the CBR transferred the responsibilities of the temporary administration to the FBSC AMC in November 2017 (also largely CBR employees) (CBR 2017b; CBR 2017g). 
+
+The temporary administration’s primary responsibilities are to restore the bank’s solvency, “create an efficient managerial mechanism, eliminate revealed violations, and take other measures to” improve the bank’s health (Mokeeva and Popova 2020, 13). 
+
+After the temporary administration audits the bank’s financials and makes an assessment on the allocation of additional funds, the CBR takes over at least 75% of the bank’s share capital, followed by the appointment of permanent management bodies (Mokeeva and Popova 2020). As noted, the CBR administers funds for restructuring through the FBSC, the assets of which are managed in trust by the FBSC AMC (Mokeeva and Popova 2020). 
+
+**5. Governance: The CBR’s board of directors made resolution-related decisions, and the CBR’s chief auditor assessed the operations of the resolution administrator, the FBSC.** 
+
+The CBR’s chief auditor assessed the operations of the FBSC, which administered Otkritie’s resolution under direction from the CBR’s board of directors (CBR 2019; Russian Federation 2002a, arts. 25, 46). The National Financial Board appointed the CBR’s chief auditor, who was directly accountable to the CBR chairman (Russian Federation 2002a, arts. 13, 76, 95). The National Financial Board was composed of 12 members, which, in addition to the CBR chairman, included: two delegates from the Federation Council, three from the State Duma, three from the Russian president, and three from the Russian government (Russian Federation 2002a, art. 12). The chief auditor assessed the efficiency of the FBSC’s resolution operations along four criteria: 
+
+
+- The size of the financial assistance (that is, liquidity provision) provided to ensure the continuity of operations compared to the estimated economic damage from a bankruptcy scenario; 
+
+- The adequacy of funding utilization in recapitalizations for the recovery of financial position indicators; 
+
+- The efficiency of funding utilization by the permanent management bodies (of recapitalized banks) until the bank’s sale, as well as the handling of noncore/bad assets; and 
+
+- The efficiency of the sale of resolved banks’ shares to third-party investors, given market conditions (CBR 2019). 
+
+Regarding the first and second points, as of January 1, 2018, the CBR estimated the economic cost of Otkritie’s bankruptcy would have been more than RUB 1 trillion, as compared the rescue cost of RUB 836.2 billion (RUB 456.2 billion capital injection and RUB 380 billion liquidity support) (CBR 2018c). As an alternative to bankruptcy, the CBR estimated that the cost of Otkritie’s resolution under the old mechanism (with a 10-year rehabilitation loan through the DIA) would have been approximately double the RUB 456.2 billion capital injection (CBR 2018c). 
+
+**6. Communication and Disclosure: The CBR explained the decision to rescue Otkritie in press releases and interviews on the basis of its systemic importance. The central bank initially stated that it would not impose a moratorium on payments nor a bail-in of creditors.** 
+
+The CBR issued press releases to communicate major decisions with respect to Otkritie’s resolution. The content of the press releases did not provide much detail on the specifics of the resolution, with more detailed information being provided via media interviews and similar press correspondence. For instance, when announcing the bailout of Otkritie, the CBR published a press release simply stating that it would provide “financial support to [Otkritie] and guarantee the continuity of operations” through the newly created FBSC without a moratorium on payments or a bail-in of creditors, additionally noting the appointment of a temporary administration for the bank (CBR 2017d). The same day, CBR Deputy Chair Tulin communicated to the press a more detailed explanation of the new resolution mechanism, resolution timeline, and recapitalization plan, among other relevant conditions (Dementyeva et al. 2017). 
+
+The CBR’s initial announcement of the Otkritie intervention was neutral in tone and did not indicate the cause of the bank’s distress (Lokshina, Gaidev, and Polyakova 2017). Weeks later, on September 14, CBR Governor Nabiullina addressed the situation in more detail, this time stating that Otkritie had engaged in excessive risk taking and implying that Otkritie’s purchase of 2030 Eurobonds (dollar-denominated Russian sovereign debt), of which Otkritie owned the majority issuance, enabled the bank to manipulate the bond’s market price and mask the bank’s capital hole (Nabiullina 2017). Nabiullina also stated that the CBR 
+
+
+planned to legally challenge the payment of executive bonuses for the first half of 2017, just before Otkritie’s collapse. In the same speech, Nabiullina justified Otkritie’s rescue, emphasizing the bank’s systemic importance, strong integration into the Russian financial system, and viable banking model, in juxtaposition to Yugra Bank, which the CBR had allowed to fail (Nabiullina 2017). 
+
+The initial news of the CBR’s intervention was received positively by the market with shares in the Moscow stock exchange’s financial sector index rising 2.2% and Otkritie’s large shareholder, VTB, up 8%, after several days of repeated losses (Ostroukh, Garasyuta, and Kobzeva 2017). 
+
+## **7. Source and Size of Funding: The CBR funded the resolution through the creation of reserves.** 
+
+The CBR funded Otkritie’s resolution including recapitalizations and loans (deposits) through allocations from the CBR’s FBSC (ultimately, through the CBR’s creation of reserves) (Mokeeva and Popova 2020). The CBR injected capital of RUB 498.9 billion through the purchase of newly issued ordinary shares in two separate rounds (CBR 2019). In December 2017, the CBR injected RUB 456.2 billion: RUB 189.1 billion to cover the capital deficit, RUB 182 billion for new capital to the bank, and the remainder was allocated for financial assistance to select subsidiaries of Otkritie’s parent company (Rosgosstrakh insurance company and nonstate pension funds) (CBR 2017h). In June 2018, the CBR injected a second and final round of capital in Otkritie amounting to RUB 42.7 billion for financial support to various subsidiaries to compensate for the write-downs on claims between the entities (CBR 2018b). 
+
+The CBR also extended loans to Otkritie, amounting to RUB 621.5 billion and RUB 174 billion outstanding by the end of 2017 and 2018, respectively (Otkritie 2018b; Otkritie 2019). Of the RUB 621.5 billion, RUB 561.5 billion came in the form of CBR deposits (Otkritie 2019). 
+
+For the creation in 2017 of the FBSC AMC, which managed the resolution assets of Otkritie, the CBR contributed RUB 1.5 billion in capital, for full ownership (CBR 2019). 
+
+**8. Approach to Resolution and Restructuring: The CBR first recapitalized Otkritie and B&N, which transferred their toxic assets to a bad bank, and subsequently merged the two bailed-out banks.** 
+
+The CBR’s resolution of Otkritie and subsequent restructuring constituted the first use of the CBR’s Fund for Banking Sector Consolidation, the new resolution mechanism established on May 2, 2017—coinciding with the passage of amendments to the Bankruptcy Law (Mokeeva and Popova 2020). The FBSC was a newly created subdivision of the CBR. During the resolution process, the CBR would transfer acquired assets (that is, bank shares) in trust to the separate limited liability company—the FBSC Asset Management Company—in which the CBR held 100% ownership. Thanks to the legal amendments, the new mechanism enabled the CBR to participate directly in the capital of Otkritie and other banks, in contrast to Russia’s historic, lending-based approach to bankruptcy, wherein the Deposit Insurance Agency—largely funded by the CBR—would extend a cheap, long-term loan to another 
+
+
+investor willing to take over the bank in resolution (Fitzgeorge-Parker 2017; Karpova and Kruglikova 2018). 
+
+Toward the end of August 2017, after Otkritie received substantial CBR liquidity support (including unsecured), its shareholders requested that the CBR intervene using the new FBSC (Interfax 2017a). Although at least one other private bank volunteered to participate in Otkritie’s bailout under the old resolution scheme (that is, by receiving a loan from the CBR), the CBR opted for the new scheme by directly recapitalizing the bank (Dementyeva et al. 2017; Interfax 2020). The CBR’s motivation for using the FBSC was to avoid the exorbitant costs and multiyear resolution process associated with the older lending-based mechanism (CBR 2018c). 
+
+On August 30, 2017, the CBR took the first step in the resolution of Otkritie by appointing a provisional administration, largely composed of CBR employees (CBR 2018c; Otkritie 2018a; WPS USA 2017b). While the provisional administration audited Otkritie’s financials to determine its capital needs, the CBR guaranteed the continuity of Otkritie’s operations by extending loans and placing deposits at Otkritie using the FBSC (CBR 2018c). In the process of the audit, Otkritie revealed negative capital of RUB 188.9 billion on October 1, 2017, which grew to RUB 300 billion as of November 1, 2017 (Interfax 2017b; Seddon 2017f; WPS 2017b). Owing to the capital shortfall, by the end of September 2017, the CBR announced its intention to bail-in Otkritie’s subordinated debt. as a prerequisite to recapitalizing the bank (Fojcik 2017a; Interfax 2017b). On November 29, 2017, following the passage of additional bankruptcy amendments, which expanded the powers of the provisional administration of a bank in resolution to enable bail-in, the CBR transferred the powers of the provisional administration to the FBSC AMC. On November 30, 2017, the new provisional administration wrote down authorized capital to RUB 1, and in December, the CBR recapitalized Otkritie by purchasing newly issued shares for RUB 456.2 billion (99.9% of the bank’s equity) (Otkritie 2018a). Of the RUB 456.2 billion, RUB 189.1 billion covered the capital deficit, RUB 182 billion provided new capital to the bank, and the remainder was allocated for financial assistance to select subsidiaries of Otkritie’s parent company (Rosgosstrakh insurance company and nonstate pension funds) (CBR 2017h). 
+
+The recapitalization aimed for Otkritie to meet regulatory capital requirements, and in December 2017, the work of the temporary administration ceased with the appointment of new permanent management (CBR 2017h; Otkritie 2018a). By January 1, 2018, Otkritie did not meet regulatory capital requirements, and on January 19, 2018, the CBR decided to continue implementing resolution measures (Otkritie 2018a). 
+
+The CBR injected a further RUB 42.7 billion into Otkritie in June 2018, to be used to extend financial support to various subsidiaries to compensate for the write-downs on claims between the entities (CBR 2018b). 
+
+Following Otkritie’s bailout, the CBR also intervened in bailing out several other banks: B&N in September 2017, Promsvyazbank in December 2017, Asia-Pacific Bank in April 2018, Moscow Industrial Bank in January 2019, and Vokbank in April 2019 (Interfax 2019). These 
+
+
+bailouts began with emergency liquidity support to guarantee the continuity of operations, followed by recapitalizations (nationalizations) (CBR 2017f; CBR 2018c). 
+
+In the case of B&N Bank, the CBR first recapitalized the bank in March 2018, by purchasing RUB 56.9 billion of newly issued shares, constituting a 99.9% stake (CBR 2018a; CBR 2018c; CBR 2019). At the same time, the CBR announced the merger of B&N with Otkritie, which was finalized on January 1, 2019, following the conversion of B&N’s shares into Otkritie’s (CBR 2018a; CBR 2019). The CBR also announced the creation of a bad bank, which they called a noncore asset bank, through a merger of Trust Bank (subsidiary of Otkritie) and Rost Bank (subsidiary of B&N), both of which were acquired by their respective parent companies under the old resolution framework (that is, through long-term loans from the CBR) (CBR 2019; Interfax 2018; Seddon 2018). Previously, in August 2017, Otkritie acquired a 99.9% stake in Trust Bank for roughly RUB 10 million while Trust Bank had RUB 397 billion in assets and RUB 501 billion in liabilities (Otkritie 2018a). Otkritie lost control of Trust Bank in March 2018 when the CBR took over and nationalized Trust (Otkritie 2018a). 
+
+The merger of Trust and Rost on July 2, 2018, established the bad bank (Trust NAB) (National Bank Trust PJSC 2019; Otkritie 2018b). On July 30, 2018, the CBR decided to restructure Otkritie by establishing a bridge bank for its noncore assets, Bank Otkritie Special JSC, which would subsequently merge with the bad bank in November 2018 (Otkritie 2018b). According to one report, these assets amounted to about RUB 438 billion (Fojcik 2018b). 
+
+In July 2019, the CBR completed its restructuring and resolution measures for Otkritie, with the bank having met its rehabilitation targets. In 2019, Otkritie paid dividends of RUB 2 billion for 2018. Thereafter, the CBR developed a plan to divest its stake in Otkritie (CBR 2020). 
+
+## **9. Treatment of Creditors and Equity Holders: The CBR bailed in almost all of Otkritie’s subordinated creditors and wrote down equity to RUB 1.** 
+
+In the initial announcement on August 29, the CBR said that creditors would not be bailed in as part of the rehabilitation of Otkritie Bank (CBR 2017d).  Under Russia’s Bankruptcy Law, a recapitalization from the CBR required it to take over at least 75% of the bank’s share capital (Mokeeva and Popova 2020). Toward the end of September, the CBR’s temporary administration discovered a capital hole in Otkritie’s balance sheet (amounting to RUB 188.9 billion as of October 1, 2017), and the CBR moved to bail in subordinated creditors and write down equity to RUB 1, a prerequisite for the recapitalization (Astapenko 2017; Interfax 2017b; WPS USA 2017b). After the passage of a new amendment to the Bankruptcy Law in November 2017, which expanded the temporary administration’s bail-in powers, the temporary administration promptly bailed in RUB 160 billion of subordinated debt and wrote down share capital to RUB 1 (Fojcik 2017b). Following the CBR’s recapitalization in December 2017, the CBR owned 99.9% of Otkritie’s ordinary shares (CBR 2018c). 
+
+Before bailing in subordinated liabilities, Otkritie, under the supervision of the FBSC, repaid some subordinated loans of RUB 6.9 billion (due in 2019) to state-owned Vnesheconombank, the proceeds of which were transferred to the Russian National Wealth Fund (Fojcik 2017b). 
+
+
+## **10. Treatment of Clients: The CBR opted not to impose a moratorium on payments to depositors and other clients, ensuring the continuity of Otkritie’s operations.** 
+
+When announcing the bailout of Otkritie, the CBR noted that it would not impose a moratorium on payments to depositors and other clients (CBR 2017d). Historically in Russia, a moratorium on payments accompanies the appointment of a temporary administration (the beginning of the bank’s resolution process) (Dementyeva et al. 2017). Following the initial resolution announcement, CBR Deputy Chair Tulin said that the CBR did not expect the bailout to cause contagion, noting that if the CBR had imposed a moratorium on satisfying the bank’s obligations, there would be such risks (Dementyeva et al. 2017). 
+
+## **11. Treatment of Assets: Otkritie transferred toxic and noncore assets to a bad asset bank by spinning off a bridge bank, which subsequently merged with a new toxicasset bank.** 
+
+In May 2018, the CBR communicated a plan to transfer RUB 2 trillion of bad assets from banks taken over by the FBSC into Trust NAB—a new noncore asset bank, or bad bank, created from Otkritie’s former subsidiary, Trust Bank (Raisky and Dementieva 2018). The RUB 2 trillion bad assets comprised RUB 539 billion from Otkritie, RUB 332 billion from Trust, RUB 139 billion from B&N, RUB 745 billion from Rost, and RUB 315 billion from Promsvyazbank and AVB bank (Raisky and Dementieva 2018). The creation of Trust NAB was completed in July 2018, and the CBR’s FBSC held a 97% stake in the bad bank with the remainder being owned by Otkritie (2%) and the Russian Direct Investment Fund (1%) (Fojcik 2018a). Two of Otkritie’s board members were each selected to lead the process of establishing Trust NAB and its ongoing operations, respectively (Fojcik 2018a; Raisky and Dementieva 2018). 
+
+The CBR decided that Otkritie would restructure by spinning off its bad assets, through the creation of a bridge bank, Bank Otkritie Special JSC, which would hold a banking license for one day before merging with Trust NAB.[5] The reason for this unconventional restructuring mechanism was to bypass required tax payments in the transfer of assets (Raisky and Dementieva 2018). Under the Russian tax code, absent a court decision, nonperforming loans cannot be transferred for free or for a symbolic amount, and loans related to former owners cannot be discounted (Raisky and Dementieva 2018). 
+
+## **12. Treatment of Board and Management: At the first stage of the resolution, the CBR appointed a temporary administration, suspending the powers of former management; the CBR also bailed in liabilities to Otkritie’s senior executives.** 
+
+Pursuant to the Bankruptcy Law, the CBR appointed a provisional administration to run Otkritie Bank for six months, while suspending the powers of Otkritie’s management (CBR 2017a; CBR 2017d). The CBR appointed the deputy director of the CBR’s financial resolution department to chair the provisional administration followed by two deputy chairs, the director of the CBR’s banking supervision department, and one official from the FBSC (CBR 
+
+> 5 According to one news article, the volume of assets Otkritie contributed to Trust NAB was RUB 438 billion (Usov 2019). 
+
+
+2017a). The remaining staff of the provisional administration included roughly thirty other CBR employees (CBR 2017a). Under the Bankruptcy Law, the term of the provisional administration, appointed by the CBR, could not exceed six months and if the conditions for the appointment of the provisional administration remained, the provisional administration would request the CBR to revoke the bank’s license. On December 21, 2017, the FBSC AMC handed over administrative powers to newly created, permanent management bodies, with the CBR forming Otkritie’s supervisory board. The new supervisory board included two CBR officials, the deputy finance minister, and representatives from the Moscow Exchange, UBS, and the European Bank for Reconstruction and Development (Prime News 2017c). The supervisory board subsequently appointed a new management board, with Mikhail Zadornov as CEO of Otkritie, effective January 1, 2018 (Otkritie 2018a). Zadornov served as the Russian finance minister during the 1998 ruble crises and founded VTB24, a retail bank acquired by VTB (Seddon 2017e). 
+
+Following the appointment of the provisional administration, various powers of the bank’s existing managing bodies were suspended, and rights of the bank’s founders (participants) associated with participation in its authorized capital (that is, convening shareholder meetings) were waived  (Russian Federation 2002d, art. 189.34). 
+
+As part of resolution, the CBR terminated Otkritie’s liabilities to executive employees (CBR 2018c). Under the Bankruptcy Law, the termination of the bank’s obligations to executive employees (mentioned in Article 189.49, paragraph 12–4) takes place on the day of the approval of the CBR’s plan to participate in bankruptcy prevention of the bank. Such obligations do not include payroll contracts (excluding bonuses and other incentive compensation) (Russian Federation 2002d, art. 189.49). 
+
+Pursuant to Russia’s Bankruptcy Law, beginning once the CBR demands a bank enter into resolution (after satisfying the bankruptcy prevention conditions) until receiving permission from the CBR, the bank is prohibited from making decisions related to the distribution of profits to its founders,  payment or announcement of dividends, and share repurchases, if these decisions lead to noncompliance in the CBR’s mandatory ratios (Russian Federation 2002d, art. 189.11). If the persons controlling the bank are found responsible for its bankruptcy, they are held responsible for subsidiary liabilities in the amount equal to the unpaid creditors (Russian Federation 2002d, arts. 61 and 189.23). 
+
+## **13. Cross-border Cooperation: The CBR did not make note of cooperation with foreign authorities in the resolution process.** 
+
+Our research did not reveal cross-border cooperation. 
+
+## **14. Other Conditions: The CBR planned to sell off Otkritie, subject to certain conditions relating to market fairness, and excluded certain potential buyers.** 
+
+The CBR highlighted certain conditions for selling shares in the banks it rescued, including Otkritie: the buyers would be private, nonstate companies and exclude former shareholders or controlling parties; and the sales would not create monopolies in certain market sectors (Interfax 2019). Ultimately, the CBR decided to sell Otkritie to state-owned VTB Bank in 
+
+
+December 2022 (CBR 2022). See Key Design Decision No. 12, Treatment of Board and Management, for conditions on executive compensation and dividends for Otkritie during resolution. 
+
+## **15. Duration: The CBR completed the resolution of Otkritie in July 2019 and sold the bank to VTB in December 2022 for RUB 340 billion.** 
+
+The CBR’s initial plan did not specify an exit date but estimated the rehabilitation would take six to eight months divided into two stages **.** In the first stage, the CBR would appoint a provisional administration, assess Otkritie’s financials, and determine the level of necessary capitalization and bail-in measures. In the second stage, the CBR would recapitalize the bank and appoint new management (Dementyeva et al. 2017; WPS USA 2017b). The CBR intended to eventually sell Otkritie back to the market, with CBR Governor Nabiullina stating, “We do not seek to increase the state’s share in the banking sector” (Nabiullina 2017). 
+
+Toward the end of September 2017, the CBR said that it planned to sell Otkritie (and B&N Bank) in two years, depending on market conditions (Prime News 2017a). In 2018, the CBR decided to restructure Otkritie and merged it with B&N Bank in January 2019 (Fojcik 2019). By December 2018, Otkritie had returned all its borrowed CBR funds (WPS USA 2018). The CBR completed the resolution of Otkritie in July 2019 (CBR 2020). In December 2019, the CBR stated that it aimed to sell Otkritie in 2021, beginning with an initial public offering (IPO) of 20–25% of its shares (Interfax 2019). 
+
+However, owing to market conditions at that time, the CBR could not sell Otkritie at IPO and opted to sell the bank to state-owned VTB Bank. In December 2022, the CBR sold 100% of its stake in Otkritie to VTB Bank for RUB 340 billion. The passage of a new law in March 2022 enabled the CBR to sell shares in Otkritie at the market value, as estimated by an independent appraiser at RUB 328 billion to RUB 374 billion. VTB paid RUB 233.1 billion in cash and RUB 106.9 billion in federal government bonds (CBR 2022). 
+
+
+## **References and Key Program Documents** 
+
+## **Implementation Documents** 
+
+(CBR 2017a) Central Bank of Russia (CBR). 2017a. Bulletin of the Bank of Russia No. 76 (1910). September 5, 2017. 
+
+_Bulletin discussing the appointment of a provisional administration for Otkritie (in Russian)_ . https://elischolar.library.yale.edu/ypfs-documents2/2638 
+
+(CBR 2017b) Central Bank of Russia (CBR). 2017b. Bulletin of the Bank of Russia No. 103 (1937). December 4, 2017. 
+
+_Bulletin discussing the appointment of the FBSC AMC as provisional administrator for Otkritie (in Russian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2641 
+
+## **Legal/Regulatory Guidance** 
+
+(Russian Federation 2002a) Russian Federation. 2002a. Federal Law on the Central Bank of the Russian Federation (Bank of Russia), as Amended July 18, 2017. No. 86-FZ, July 10, 2002. 
+
+_CBR Law_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2687 
+
+(Russian Federation 2002b) Russian Federation. 2002b. Federal Law on the Central Bank of the Russian Federation (Bank of Russia), as Amended November 28, 2018. No. 86-FZ, July 10, 2002. 
+
+_CBR Law (in Russian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2686 
+
+(Russian Federation 2002c) Russian Federation. 2002c. Federal Law on Insolvency (Bankruptcy), as Amended June 18, 2017. No. 127-FZ, October 26, 2002. _Bankruptcy Law (in Russian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2688 
+
+(Russian Federation 2002d) Russian Federation. 2002d. Federal Law on Insolvency (Bankruptcy), as Amended November 25, 2017. No. 127-FZ, October 26, 2002. _Bankruptcy Law (in Russian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2689 
+
+(Russian Federation 2017) Russian Federation. 2017. Federal Law on Amendments to Certain Legislative Acts of the Russian Federation. No. 84-FZ, May 1, 2017. _Law introducing a new resolution mechanism (in Russian)_ . https://elischolar.library.yale.edu/ypfs-documents2/2690 
+
+
+## **Media Stories** 
+
+(Astapenko 2017) Astapenko, Alexandra. 2017. “‘Otkritie’ Has No One to Write Off.” _Vedomosti_ , November 9, 2017. 
+
+_Article discussing the delay in bailing-in Otkritie’s subordinated debt holders (in Russian)_ . https://elischolar.library.yale.edu/ypfs-documents2/2637 
+
+(Dementyeva et al. 2017) Dementyeva, Svetlana, Marina Bozhko, Elena Pashutinskaya, and Yulia Titova. 2017. “Conditionally Voluntary Rehabilitation.” _Ezhednevnaia Delovaia Gazeta RBK_ , August 30, 2017. 
+
+_Article discussing the CBR’s resolution plan for Otkritie (in Russian)_ . https://elischolar.library.yale.edu/ypfs-documents2/2655 
+
+(Fitzgeorge-Parker 2017) Fitzgeorge-Parker, Lucy. 2017. “Russian Regulator Backs New Bailout Regime.” _Euromoney_ , November 29, 2017, sec. Banking. _Article discussing the development of the CBR’s new resolution mechanism_ . https://elischolar.library.yale.edu/ypfs-documents2/2657 
+
+(Fojcik 2017a) Fojcik, Beata. 2017a. “Report: Regulator to Write Off Otkritie’s Subordinated Debt.” _SNL European Financials Daily_ , September 28, 2017. _Article discussing the CBR’s plan to bail in Otkritie’s subordinated debt_ . https://elischolar.library.yale.edu/ypfs-documents2/2658 
+
+(Fojcik 2017b) Fojcik, Beata. 2017b. “Report: B&N, Otkritie Write Off Almost 266B Russian Rubles of Subordinated Debt.” _SNL European Financials Daily_ , December 5, 2017. _Article discussing the bail-in of Otkritie’s subordinated debt_ . https://elischolar.library.yale.edu/ypfs-documents2/2659 
+
+(Fojcik 2018a) Fojcik, Beata. 2018a. “Russia’s Bad Assets Bank Ready to Launch Operations.” S&P Global Services, July 27, 2018. 
+
+_Article discussing the use of a bad asset bank in Otkritie’s resolution_ . http://elischolar.library.yale.edu/ypfs-documents2/4230 
+
+(Fojcik 2018b) Fojcik, Beata. 2018b. “Otkritie Completes Transfer of Noncore Assets to ‘Bad Bank.’” _SNL European Financials Daily_ , November 19, 2018. 
+
+_Article discussing the completion of transferring Otkritie’s bad assets to a bad bank_ . http://elischolar.library.yale.edu/ypfs-documents2/4231 
+
+(Fojcik 2019) Fojcik, Beata. 2019. “Otkritie Completes B&N Bank Integration.” _SNL European Financials Daily_ , December 19, 2019. 
+
+_Article discussing the completion of Otkritie’s merger with B&N Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/2660 
+
+
+(Interfax 2017a) Interfax. 2017a. “Otkritie Shareholders Themselves Requested BSCF Financial Rescue - Tulin.” _Interfax: Russia & CIS Business and Financial Newswire_ , August 29, 2017. 
+
+_Article discussing how Otkritie’s shareholders requested assistance from the CBR_ . https://elischolar.library.yale.edu/ypfs-documents2/2661 
+
+(Interfax 2017b) Interfax. 2017b. “Russian Banks; Otkritie Reduces Equity to 1 Ruble.” _Interfax: Russia & CIS Banking & Finance Weekly_ , December 1, 2017. _Article discussing the write-down of Otkritie’s equity_ . https://elischolar.library.yale.edu/ypfs-documents2/2662 
+
+(Interfax 2018) Interfax. 2018. “Top News; CBR Approves Plan for Its Participation in Trust Bank, Rost Bank Bailouts.” _Interfax-America_ , March 16, 2018. _Article discussing the creation of a bad asset bank_ . https://elischolar.library.yale.edu/ypfs-documents2/2663 
+
+(Interfax 2019) Interfax. 2019. “CBR to Invite Consultants for Sale of Otkritie in Early 2020, Seeks to Sell Bailed-out Banks to Private Entities - Nabiullina.” _Interfax: Russia & CIS Business and Financial Newswire_ , December 25, 2019. _Article discussing the CBR’s plan to sell Otkritie_ . https://elischolar.library.yale.edu/ypfs-documents2/2664 
+
+(Interfax 2020) Interfax. 2020. “Aven Skeptical about Prospects of Otkritie Sale: We Have Another Long-Term State Bank.” _Interfax: Russia & CIS Business and Financial Newswire; Interfax-America_ , December 23, 2020. 
+
+_Article discussing challenges to the CBR’s attempt to sell Otkritie_ . https://elischolar.library.yale.edu/ypfs-documents2/2665 
+
+(Invest Profit 2018) Invest Profit. 2018. “Banking Sector Consolidation Fund.” _Invest Profit_ , January 7, 2018. 
+
+_Article providing an overview of the CBR’s FBSC (in Russian)_ . https://elischolar.library.yale.edu/ypfs-documents2/2666 
+
+(Kalyukov, Titova, and Pashutinskaya 2017) Kalyukov, Evgeny, Yulia Titova, and Elena Pashutinskaya. 2017. “The Central Bank Estimated the Scale of ‘Opening.’” _Ezhednevnaia Delovaia Gazeta RBK_ , September 4, 2017. 
+
+_Article discussing the CBR’s initial assessment of Otkritie’s financial position and capital needs (in Russian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2667 
+
+(Kulikova 2017) Kulikova, Tatyana. 2017. “The State Pays ‘for the Banquet.’” _Pravda_ , September 14, 2017. 
+
+_Article referencing Otkritie’s acquisitions in August 2017 (in Russian)_ . https://elischolar.library.yale.edu/ypfs-documents2/2670 
+
+
+(Larina 2019) Larina, Anastasia. 2019. “‘Trust’ That Will Not Burst.” _Kommersant_ , August 15, 2019. 
+
+_Article discussing the mission of Trust NAB (in Russian)_ . https://elischolar.library.yale.edu/ypfs-documents2/2671 
+
+(Lokshina, Gaidev, and Polyakova 2017) Lokshina, Yulia, Vitaly Gaidev, and Yulia Polyakova. 2017. “The Central Bank Made a Great ‘Discovery.’” _Kommersant_ , September 15, 2017. 
+
+_Article discussing the CBR’s discovery of Otkritie’s speculative transactions, which contributed to the bank’s collapse (in Russian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2672 
+
+(Meylanova 2017) Meylanova, M. 2017. “Trust Bank, Which Is Being Rehabilitated, Became the Owner of 14.7% of the Shares of Rosgosstrakh, Which Is Subject to Reorganization.” _Ekonomika i Zhizn’_ , September 29, 2017. 
+
+_Article referencing Otkritie’s acquisitions in August 2017 (in Russian)_ . https://elischolar.library.yale.edu/ypfs-documents2/2673 
+
+(Novye Izvestiia 2017) Novye Izvestiia. 2017. “The Central Bank Announced the Reorganization of the Bank ‘FC Otkritie.’” _Novye Izvestiia_ , August 29, 2017. _News article discussing the CBR’s intervention into Otkritie (in Russian)_ . https://elischolar.library.yale.edu/ypfs-documents2/2676 
+
+(Ostroukh, Garasyuta, and Kobzeva 2017) Ostroukh, Andrey, Zlata Garasyuta, and Oksana Kobzeva. 2017. “Russia Bank Rescue Eases Market Concerns about Contagion.” Reuters, August 29, 2017, sec. Banks. 
+
+_Article discussing the market reaction to the CBR’s announcement of a plan to rescue Otkritie_ . https://elischolar.library.yale.edu/ypfs-documents2/2677 
+
+(Pashutinskaya and Bozhko 2017) Pashutinskaya, Elena, and Marina Bozhko. 2017. “Bankruptcy outside the Perimeter.” _Ezhednevnaia Delovaia Gazeta RBK_ , November 23, 2017. 
+
+_Article referencing Otkritie’s acquisitions in August 2017 (in Russian)_ . https://elischolar.library.yale.edu/ypfs-documents2/2680 
+
+(Polyakova, Samuseva, and Tatyana 2017) Polyakova, Yulia, Svetlana Samuseva, and Grishina Tatyana. 2017. “‘Opening’ of the Rehabilitation Season.” _Kommersant_ , August 30, 2017. 
+
+_Article discussing runs on Otkritie and the CBR’s intervention (in Russian)_ . https://elischolar.library.yale.edu/ypfs-documents2/2682 
+
+(Prime News 2017a) Prime News. 2017a. “Official: Russian Cbank to Sell Otkritie FC Bk, B&N Bank in 2 Years.” _Prime News_ , September 26, 2017. 
+
+_Article discussing the CBR’s plan to exit from stakes in Otkritie and B&N Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/2683 
+
+
+(Prime News 2017b) Prime News. 2017b. “Otkritie FC Bank Writes Off $500 Mln Subordinated Eurobonds.” _Prime News_ , December 1, 2017. 
+
+_Article discussing the bail-in of Otkritie’s subordinated debt_ . https://elischolar.library.yale.edu/ypfs-documents2/2685 
+
+(Prime News 2017c) Prime News. 2017c. “Otkritie FC Bank’s Board Elects VTB 24 Execs as New Members.” _Prime News_ , December 22, 2017. _Article discussing the appointment of new management to run Otkritie_ . https://elischolar.library.yale.edu/ypfs-documents2/2684 
+
+(Pugsley 2021) Pugsley, Justin. 2021. “Has Russian Banking Moved beyond ‘Boom and Bust’ Cycles?” _Banker_ , January 12, 2021. 
+
+_Article discussing the collapse of Otkritie and commentary from Otkritie’s former owner_ . https://elischolar.library.yale.edu/ypfs-documents/14959 
+
+(Raisky and Dementieva 2018) Raisky, Andrey, and Ksenia Dementieva. 2018. “The Central Bank Multiplies ‘Discoveries.’” East View Information Services, June 19, 2018. 
+
+_Russian news article discussing the creation of Otkritie Special, a bridge bank for Otkritie’s toxic assets (in Russian)_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/4238 
+
+(Seddon 2017a) Seddon, Max. 2017a. “Russia: Inside the Private Bank Backed by the State.” _Financial Times_ , January 3, 2017, sec. Opinion: Big Read. _Article summarizing Otkritie’s rise and fall_ . https://elischolar.library.yale.edu/ypfs-documents2/2695 
+
+(Seddon 2017b) Seddon, Max. 2017b. “Otkritie Founder Retakes Helm after $1.7bn Fall in Deposits.” _Financial Times_ , August 7, 2017, sec. European companies. _Article discussing Otkritie’s deposit withdrawals_ . http://elischolar.library.yale.edu/ypfs-documents2/4237 
+
+(Seddon 2017c) Seddon, Max. 2017c. “Otkritie Sells Stake in Cypriot Bank RCB.” _Financial Times_ , August 24, 2017, sec. European companies. _Article discussing deposit runs on Otkritie and asset sales_ . https://elischolar.library.yale.edu/ypfs-documents2/2692 
+
+(Seddon 2017d) Seddon, Max. 2017d. “Russia Prepares Rescue Package for Otkritie.” _Financial Times_ , August 25, 2017, sec. European companies. _Article discussing Otkritie’s distress and the possibility of a state rescue_ . https://elischolar.library.yale.edu/ypfs-documents2/2694 
+
+(Seddon 2017e) Seddon, Max. 2017e. “Central Bank Says Otkritie Falsified Accounts with Eurobonds.” _Financial Times_ , September 14, 2017, sec. European companies. _Article discussing the CBR’s discovery of Otkritie’s imprudent business practices_ . https://elischolar.library.yale.edu/ypfs-documents2/2691 
+
+
+(Seddon 2017f) Seddon, Max. 2017f. “Russia’s Banking Woes Mount as State-Run Firms Withdraw Billions.” _Financial Times_ , September 18, 2017. _Article discussing runs on Otkritie following the CBR’s announced intervention_ . https://elischolar.library.yale.edu/ypfs-documents2/2696 
+
+(Seddon 2018) Seddon, Max. 2018. “Russia Plans ‘Bad Bank’ for $19bn in Toxic Assets.” _Financial Times_ , April 2, 2018, sec. IPOs. 
+
+_Article discussing the CBR’s plan to create a bad asset bank_ . https://elischolar.library.yale.edu/ypfs-documents2/2698 
+
+(Usov 2019) Usov, Ilya. 2019. “AvtoVAZbank Diluted <FC Otkritie>.” _Kommersant_ , March 13, 2019. 
+
+_Article discussing the volume of bad assets Otkritie transferred to Trust Bank (in Russian)_ . https://elischolar.library.yale.edu/ypfs-documents2/4239/ 
+
+(WPS USA 2017a) WPS USA. 2017a. “Bank Otkritie FC Is the First Lender Whose Financial Recovery Is the Bank of Russia’s Responsibility.” WPS USA, September 1, 2017. _Article discussing the CBR rescue of Otkritie and use of unsecured loans_ . https://elischolar.library.yale.edu/ypfs-documents2/2700 
+
+(WPS USA 2017b) WPS USA. 2017b. “Onexim Group Controlled by Mikhail Prokhorov Filed a Claim against Otkritie Holding to the Arbitration Court of Moscow.” WPS USA, November 24, 2017. 
+
+_Article discussing challenges related to bailing in Otkritie’s subordinated creditors_ . https://elischolar.library.yale.edu/ypfs-documents2/2701 
+
+(WPS USA 2018) WPS USA. 2018. “‘FC Otkritie’ Bank Returned Funds to the Russian CB.” WPS USA, December 20, 2018. 
+
+_Article discussing the Otkritie’s repayment of CBR loans_ . https://elischolar.library.yale.edu/ypfs-documents2/2702 
+
+(Yakoreva, Safronov, and Badanin 2020) Yakoreva, Anastasia, Boris Safronov, and Roman Badanin. 2020. “Unsavory Sanitization: How Russian Banking Regulators Got Rich on Federal Bailouts. A Joint Investigation by Meduza, Proekt, and VTimes.” _Meduza, VTimes, and Proekt_ , December 2, 2020. 
+
+_Article discussing controversies related to Russia’s old resolution framework_ . http://elischolar.library.yale.edu/ypfs-documents2/4236 
+
+## **Press Releases/Announcements** 
+
+(CBR 2017c) Central Bank of Russia (CBR). 2017c. “New Bank Resolution Legislation Becomes Effective.” Press release, June 19, 2017. 
+
+_Press release discussing the implementation of the new resolution mechanism_ . https://elischolar.library.yale.edu/ypfs-documents2/3797/ 
+
+
+(CBR 2017d) Central Bank of Russia (CBR). 2017d. “On Measures Aimed at Improving Financial Stability of Bank Otkritie Financial Corporation.” Press release, August 29, 2017. _Press release announcing the intervention into Otkritie Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/2644 
+
+(CBR 2017e) Central Bank of Russia (CBR). 2017e. “On Introduction of Supplementary Mechanism for Liquidity Provision.” Press release, September 4, 2017. _Press release discussing new emergency liquidity facility_ . https://elischolar.library.yale.edu/ypfs-documents2/2643 
+
+(CBR 2017f) Central Bank of Russia (CBR). 2017f. “On Provision of Liquidity to B&N Bank.” Press release, September 20, 2017. 
+
+_Press release discussing CBR liquidity assistance to B&N Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/2647 
+
+(CBR 2017g) Central Bank of Russia (CBR). 2017g. “On Measures Aimed at Improving Financial Stability of Bank Otkritie Financial Corporation.” Press release, November 29, 2017. 
+
+_Press release discussing the recent legal changes enabling the CBR to proceed with bail-in and recapitalization measures for Otkritie_ . https://elischolar.library.yale.edu/ypfs-documents2/2645 
+
+(CBR 2017h) Central Bank of Russia (CBR). 2017h. “On Measures Aimed at Improving Financial Stability of Bank Otkritie Financial Corporation.” Press release, December 7, 2017. 
+
+_Press release discussing the upcoming capital injection into Otkritie_ . https://elischolar.library.yale.edu/ypfs-documents2/2646 
+
+(CBR 2017i) Central Bank of Russia (CBR). 2017i. “On Acquiring Shares of PJSC Bank Otkritie Financial Corporation.” Press release, December 11, 2017. _Press release discussing the CBR’s capital injection into Otkritie_ . https://elischolar.library.yale.edu/ypfs-documents2/2642 
+
+(CBR 2018a) Central Bank of Russia (CBR). 2018a. “On Measures Aimed at Improving Financial Stability of PJSC B&N Bank.” Press release, March 6, 2018. _Press release discussing the CBR’s capital injection into B&N Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/2649 
+
+(CBR 2018b) Central Bank of Russia (CBR). 2018b. “On Recapitalisation of PJSC Bank FC Otkritie.” Press release, June 29, 2018. 
+
+_Press release discussing the second capital injection into Otkritie_ . https://elischolar.library.yale.edu/ypfs-documents2/2650 
+
+
+(CBR 2022) Central Bank of Russia (CBR). 2022. “Bank of Russia and VTB Bank (PJSC) Sign Agreement to Sell Bank Otkritie Financial Corporation (Public Joint-Stock Company).” Press release, December 22, 2022. 
+
+_Press release discussing the CBR’s sale of Otkritie to VTB Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/2654 
+
+(Nabiullina 2017) Nabiullina, Elvira. 2017. “Russian Banks – XXI Century.” Speech delivered at the XV International Banking Forum, Sochi, Russia, September 14, 2017. 
+
+_Speech discussing the state of the Russian banking sector, competition in the banking sector, and the role of banking associations_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2675 
+
+## **Reports/Assessments** 
+
+(CBR 2018c) Central Bank of Russia (CBR). 2018c. Annual Report 2017. _Annual report discussing capital injections into Otkritie and other banks_ . https://elischolar.library.yale.edu/ypfs-documents2/2648 
+
+(CBR 2018d) Central Bank of Russia (CBR). 2018d. “Russian Financial Sector Investor Presentation.” Presentation, November 2018. 
+
+_Investor presentation discussing developments related to the CBR’s interventions into Otkritie and other banks_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2651 
+
+(CBR 2019) Central Bank of Russia (CBR). 2019. Annual Report 2018. _Annual report discussing capital injections into Otkritie and other banks_ . https://elischolar.library.yale.edu/ypfs-documents2/2652 
+
+(CBR 2020) Central Bank of Russia (CBR). 2020. Annual Report 2019. _Annual report discussing status of CBR interventions into Otkritie and other banks_ . https://elischolar.library.yale.edu/ypfs-documents2/2653 
+
+(IMF 2021) International Monetary Fund (IMF). 2021. “Russian Federation: 2020 Article IV Consultation—Press Release; Staff Report.” IMF Country Report No. 21/36, February 2021. _Report discussing Russia’s financial sector reforms_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents/14957 
+
+(National Bank Trust PJSC 2019) National Bank Trust PJSC. 2019. Annual Report 2018. _Annual report of Otkritie’s former subsidiary Trust Bank (in Russian)_ . http://elischolar.library.yale.edu/ypfs-documents2/4235 
+
+(Otkritie 2018a) Public Joint-Stock Company Bank Otkritie Financial Corporation (Otkritie). 2018a. Consolidated Financial Statements for 2017. 
+
+_Report discussing Otkritie’s financial statements_ . https://elischolar.library.yale.edu/ypfs-documents2/2678 
+
+
+(Otkritie 2018b) Public Joint-Stock Company Bank Otkritie Financial Corporation (Otkritie). 2018b. Consolidated Financial Statements for H1 2018. _Report discussing Otkritie’s financial statements_ . http://elischolar.library.yale.edu/ypfs-documents2/4234 
+
+(Otkritie 2019) Public Joint-Stock Company Bank Otkritie Financial Corporation (Otkritie). 2019. Consolidated Financial Statements for 2018. 
+
+_Report discussing Otkritie’s financial statements_ . https://elischolar.library.yale.edu/ypfs-documents2/2679 
+
+## **Key Academic Papers** 
+
+(Drobyshevsky, Trunin, and Khromov 2017) Drobyshevsky, Sergey, Pavel Trunin, and Michael Khromov. 2017. “Bank Otkritie and Binbank: Was There an Option Other Than Bailout.” _Monitoring of Russia’s Economic Outlook_ 20, no. 58: 11–13. _Article providing a brief evaluation of the CBR’s bank rescues and other options_ . https://elischolar.library.yale.edu/ypfs-documents2/2656 
+
+(Hoffner 2024) Hoffner, Benjamin. 2024. “Russia: Otkritie Bank Capital Injection, 2017.” _Journal of Financial Crises_ 6, no. 3. 
+
+_YPFS case study discussing the recapitalization of Otkritie_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/19/ 
+
+(Hoffner, forthcoming) Hoffner, Benjamin. Forthcoming. “Russia: Otkritie Bank Emergency Liquidity Assistance, 2017.” _Journal of Financial Crises_ . 
+
+_YPFS case study discussing the emergency liquidity assistance to Otkritie_ . 
+
+(Karpova and Kruglikova 2018) Karpova, Darya P., and Elena V. Kruglikova. 2018. “Modern Instruments of Banking Sector Control and the Effect They Had since Their Implementation in Russian Federation.” _Advances in Economics, Business and Management Research_ 61 (Proceedings of the International Conference “Economy in the Modern World”): 86–90. _Article discussing bank liquidity management instruments in Russia_ . https://elischolar.library.yale.edu/ypfs-documents2/2668 
+
+(Kinash 2019) Kinash, Alina. 2019. “Anti-Crisis Management: Analysis of Changes in the Mechanisms of Financial Recovery of Credit Institutions in the National Economy.” News of the Far Eastern Federal University _. Economics and Management_ 4: 110–23. _Paper discussing the resolution framework in Russia (in Russian)_ . http://elischolar.library.yale.edu/ypfs-documents2/4233 
+
+(McNamara et al. 2024) McNamara, Christian M., Carey K. Mott, Salil Gupta, Greg Feldberg, and Andrew Metrick (McNamara et al.). 2024. “Survey of Resolution and Restructuring in Europe, Pre- and Post- BRRD.” _Journal of Financial Crises_ 6, no. 1: 1–34. 
+
+_Survey of YPFS case studies examining 21st-century bank resolutions and restructuring in Europe before and after the existence of the Bank Recovery and Resolution Directive_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/1/ 
+
+
+(Mokeeva and Popova 2020) Mokeeva, Natalia N., and Dariya S. Popova. 2020. “Modern Aspects of Financial Recovery of the Russian Credit Institutions.” _Bulletin of Liberal Arts University_ 2, no. 29: 11–19. 
+
+_Article discussing the resolution framework in Russia and the FBSC (in Russian)_ . http://elischolar.library.yale.edu/ypfs-documents2/4232 
+
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

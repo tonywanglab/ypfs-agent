@@ -1,0 +1,168 @@
+{% extends "base.html" %}
+{% block title %}Run {{ run_id }} — Eval Harness{% endblock %}
+{% block content %}
+<div class="page-header">
+  <h1>Run {{ run_id }}</h1>
+  <div class="meta-chips">
+    <span class="header-chip" title="Case">{{ bundle.case.case_id }}</span>
+    <a class="header-chip header-chip-version" href="{{ url_for('edit_prompt_version', prompt_id=bundle.manifest.prompt_id) }}"
+      title="Prompt {{ bundle.manifest.prompt_id }}">{{ bundle.manifest.prompt_id }}</a>
+    <span class="header-chip" title="Worker model: {{ bundle.manifest.agent_model }}">
+      <span aria-hidden="true">👷</span>
+      {{ bundle.manifest.agent_model.split('/')|last }}
+    </span>
+    {% if sample_count > 1 %}
+      <span class="header-chip" title="Independent samples in this run">{{ sample_count }} samples</span>
+    {% endif %}
+  </div>
+</div>
+
+{% if sample_count > 1 %}
+<nav class="sample-switcher" aria-label="Samples">
+  {% for s in bundle.samples %}
+    <a
+      href="{{ url_for('run_detail', run_id=run_id, sample='%02d' % s.index) }}"
+      class="sample-tab{% if s.index == selected_sample %} is-active{% endif %}"
+      aria-current="{{ 'page' if s.index == selected_sample else 'false' }}"
+    >
+      Sample {{ s.index }}
+    </a>
+  {% endfor %}
+</nav>
+{% endif %}
+
+<section>
+  <h2>Query</h2>
+  <pre class="block">{{ bundle.case.prompt }}</pre>
+</section>
+
+<section class="collapsible-section">
+  <div class="section-head">
+    <h2>Answer</h2>
+  </div>
+  <p class="meta">Select text in the answer to leave feedback.</p>
+  <div class="collapsible-frame">
+    <div id="run-answer" class="answer collapsible-window is-collapsed markdown-body"
+      data-run-id="{{ run_id }}"
+      data-sample-index="{{ selected_sample }}"
+      data-feedback-url="{{ url_for('create_feedback', run_id=run_id) }}"
+    >{{ bundle.answer | markdown | safe }}</div>
+  </div>
+  <button type="button" class="collapsible-toggle" aria-expanded="false" aria-controls="run-answer"
+    aria-label="Expand answer"
+    data-expand-label="Expand answer"
+    data-collapse-label="Collapse answer" hidden>
+    <span class="collapsible-toggle-icon" aria-hidden="true"></span>
+  </button>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>Trace</h2>
+    {% if trace_events %}
+      <span class="count-badge">{{ trace_events | length }}</span>
+    {% endif %}
+  </div>
+  {% if trace_events %}
+    <ol class="trace-timeline">
+      {% for event in trace_events %}
+        <li class="trace-event trace-event-{{ event.kind }}{% if event.status == 'error' %} is-error{% endif %}">
+          <details>
+            <summary>
+              <span class="trace-event-kind">{{ event.kind }}</span>
+              <span class="trace-event-body">
+                <span class="trace-event-label">{{ event.label }}</span>
+                {% if event.summary %}
+                  <span class="trace-event-summary">{{ event.summary }}</span>
+                {% endif %}
+                {% if event.result_summary %}
+                  <span class="trace-event-result">{{ event.result_summary }}</span>
+                {% endif %}
+              </span>
+            </summary>
+            <pre class="trace-event-detail">{{ event.detail }}</pre>
+          </details>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="empty-state compact">No tool calls in this run.</p>
+  {% endif %}
+</section>
+
+<section id="feedback">
+  <div class="section-head">
+    <h2>Feedback <span class="count-badge" id="feedback-count">{{ feedback_items|length }}</span></h2>
+  </div>
+  <ul id="feedback-list" class="feedback-list" {% if not feedback_items %}hidden{% endif %}
+    data-delete-url-template="{{ url_for('delete_feedback_route', feedback_id='__FEEDBACK_ID__') }}"
+  >
+    {% for item in feedback_items %}
+      <li class="feedback-item" data-feedback-id="{{ item.feedback_id }}"
+        data-sample-index="{{ item.sample_index }}">
+        <div class="feedback-item-body">
+          <blockquote class="feedback-quote">{{ item.selected_text }}</blockquote>
+          <p class="feedback-comment">{{ item.comment }}</p>
+        </div>
+        <form method="post" action="{{ url_for('delete_feedback_route', feedback_id=item.feedback_id) }}"
+          class="inline-delete" data-confirm="Delete this feedback item?">
+          <button type="submit" class="feedback-delete-btn" aria-label="Delete feedback">
+            <svg class="feedback-marker-delete-icon" viewBox="0 0 12 12" aria-hidden="true" focusable="false">
+              <path d="M3 3l6 6M9 3l-6 6" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/>
+            </svg>
+          </button>
+        </form>
+      </li>
+    {% endfor %}
+  </ul>
+  <p id="feedback-empty" class="empty-state compact" {% if feedback_items %}hidden{% endif %}>
+    No feedback yet. Select text in the answer above to leave a comment.
+  </p>
+
+  <form method="post" action="{{ url_for('draft_prompt_from_feedback', run_id=run_id) }}" class="version-builder"
+    data-active-job="prompt_draft"
+    data-active-job-return="{{ url_for('run_detail', run_id=run_id) }}"
+    data-status-url-template="{{ url_for('task_status', task_id='__JOB_ID__') }}"
+    data-job-id-field="task_id">
+    <input type="hidden" name="task_id" value="{{ draft_task_id }}">
+    <div class="form-actions">
+      <button type="submit" class="primary draft-submit" data-active-job-submit id="feedback-draft-submit"
+        {% if not feedback_items %}disabled{% endif %}>
+        <span class="button-spinner" aria-hidden="true"></span>
+        <span class="draft-submit-label" data-active-job-submit-label>Propose prompt edits from feedback</span>
+      </button>
+      <button type="button" class="form-actions-secondary chat-status-reset" data-active-job-reset hidden>Clear status</button>
+    </div>
+    <div class="draft-status" data-active-job-status role="status" aria-live="polite" hidden>
+      <strong data-active-job-status-title>Generating new prompt…</strong>
+      <span data-active-job-status-detail>This run's feedback is locked until generation completes.</span>
+    </div>
+  </form>
+</section>
+
+<template id="feedback-item-template">
+  <li class="feedback-item" data-sample-index="">
+    <div class="feedback-item-body">
+      <blockquote class="feedback-quote"></blockquote>
+      <p class="feedback-comment"></p>
+    </div>
+    <form method="post" class="inline-delete" data-confirm="Delete this feedback item?">
+      <button type="submit" class="feedback-delete-btn" aria-label="Delete feedback">
+        <svg class="feedback-marker-delete-icon" viewBox="0 0 12 12" aria-hidden="true" focusable="false">
+          <path d="M3 3l6 6M9 3l-6 6" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/>
+        </svg>
+      </button>
+    </form>
+  </li>
+</template>
+
+<form id="feedback-popup" class="feedback-popup" hidden>
+  <label class="visually-hidden" for="feedback-popup-input">Feedback</label>
+  <div class="feedback-popup-field">
+    <input type="text" id="feedback-popup-input" placeholder="What should change here?" autocomplete="off"
+      aria-describedby="feedback-popup-error">
+    <p id="feedback-popup-error" class="feedback-popup-error" hidden></p>
+  </div>
+  <button type="submit" aria-label="Send feedback">↑</button>
+</form>
+{% endblock %}

@@ -1,0 +1,66 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## Simon Potter 
+
+By Maryann Haggerty 
+
+_Simon Potter, an economist, worked at the Federal Reserve Bank of New York for more than two decades. Leading up to the Global Financial Crisis, he was the New York Fed’s associate director of economic research; in 2010, he became director. In 2012, he shifted to become the head of the markets group, putting him at the helm of the Fed’s open markets operations, the mechanism by which the central bank steers monetary policy and interest rates. He moved to the private sector in 2019. For this April 2021 Lessons Learned interview, he emphasized that these are his personal opinions, based on his former roles at the Fed and not on any current position. The full transcript may be accessed here._ 
+
+Simon Potter’s work at the New York Fed involved both economics research and public policy. As an economist, he has spoken and written about lessons from his profession’s successes and failures in the period leading up to the 2007–2009 Global Financial Crisis. In this Lessons Learned interview, he also elaborated on takeaways for central bankers from the crisis period and the period afterward. 
+
+## **In a crisis, challenge your assumptions.** 
+
+In 2007 and early 2008, the assumption that banks had enough capital had not been sufficiently tested. “We all underestimated, I think, how big the shock was,” Potter said. “One of the basic fallacies that had been around for quite some time was the banks had sufficient capital, and that hadn’t really been tested.” Timothy Geithner, then president of the New York Fed, “kept on asking questions, do banks have enough capital?” The bank supervisors maintained that banks did. As Potter recalled, 
+
+So, if you’re a supervisor and you’ve been saying, “The firm I’m supervising is really strong,” then what do you do? Do you double down or not? I remember looking at a stress test, because we were trying to integrate different views more, and this was an example of these different reactions. I looked at the stress test and said, “How come this big bank is not bankrupt?” And the person said to me, “Well, in the way that the bank models the stress, when a borrower doesn’t make a loan payment, you get fees.” Because there were late payment fees, and that generates lots of revenue. Which was true as long as there wasn’t a big shock. 
+
+But 2008 brought very big shocks, spreading from the housing market. In some modeling, Potter said, “You could see clearly that . . . the chance that [some banks] would survive even a moderate recession was very low, because they were so exposed to the housing.” Troubles moved through the financial system. He noted: 
+
+The problem that happened is this assumption that the banks had enough capital, and by banks I mean the rest of the system, not the big investment banks. That started to be questioned by Washington Mutual, which wasn’t a surprise. So, Washington 
+
+
+Mutual, in the simulations we’d done, was failing 99 out of 100 times. Unfortunately, it was so big that it took the FDIC time to staff up, and they surprisingly closed out on the Thursday. And you don’t want to close a bank on a Thursday, with lines outside. So that was in September; then there was Wachovia, also failed, or was close to failing. . . . Now, the information you would have, given the better data collection that’s available, would have told you how vulnerable Wachovia was. Wachovia’s issue was partly the accounting measures we were using didn’t capture how weak it was. 
+
+## **Crisis calls for action, not academic debate.** 
+
+“The New York Fed was involved during the crisis partly because the skill that you required in the instant of that battle was mainly at the New York Fed,” Potter said. What was that skill? “How to do the hand-to-hand combat during the crisis”—that is, to work with connections with markets and institutions. He said: 
+
+Having an academic debate and doing it over many weeks is not particularly helpful when the financial system is about to tip over. . . . There was a Minneapolis Fed paper, Staff Working Paper 666, which got changed a lot, but it basically said nothing was wrong, because they had no idea which data to look at, because they hadn’t been involved in it, because they didn’t think it was important. 
+
+So, the first thing is, don’t listen to people who haven’t been involved in the debate, because it’s going to take them a long time to catch up. 
+
+. . . I think it’s important to have people who have been involved in chaotic situations before. So, the New York Fed had this guy, Terry Checki,[1] who had been involved in a lot of emerging market crises, and he was aware that it would feel quite scary at times. The institution as a whole did react very well, I think, because of the connection with markets and the supervised firms. The structure was flat in sort of many ways. People were tasked with things and had quite a lot of discretion, and it was very interactive and very intense. People were sleeping in the buildings, sleeping in hotels for quite a few weeks. Certainly, it was 24/7 for about four weeks, from Lehman to the Capital Purchase Program. 
+
+## **In a crisis, the lack of information and the changing circumstance may compel innovation if the rescue is to succeed.** 
+
+Potter discussed how the Fed innovated a number of times during the crisis, designing new programs to address fast-developing problems. Even though some Fed officials thought that some of the old-style solutions would still work (could you get a deal for someone to buy Lehman Brothers?), as early as spring 2008, after Bear Stearns, said Potter, “there was an attempt, it was very good, to get people just looking at the problems, asking different 
+
+> 1 Executive vice president and head of the Emerging Markets and International Affairs Group of the Federal Reserve Bank of New York before his retirement in 2014. 
+
+
+questions, coming up with different solutions.” As the crisis persisted, innovation increased, Potter explained: 
+
+Then there was a lot of innovation, I think, in terms of how to arrest the panic. One change was making the facilities much bigger. So, the day after the capital was given to the banks, [former Fed chair] Bernanke agreed to take the caps off the foreign exchange swaps, and they blew out to close to $600 billion. So size is pretty important. If you can do something in size and people believe there’s a backstop, then that can calm things down. We saw this in March and April [2020], even before some of the money was actually available last year, there was a calming effect. 
+
+But a lot of what worked [in 2008–2009] was the FDIC guarantee and cash injection into the banks. There it was more of a combined effort across all the agencies that the US has. 
+
+He also counts the Commercial Paper Funding Facility and the Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility as successful creative programs. “Many of the facilities at first were just designed to prevent the panic from getting worse,” said Potter. Thankfully, many worked. 
+
+## **Rapid operational readiness is key in a crisis, and practice helps this happen.** 
+
+Open market operations like those at the New York Fed don’t happen automatically. They require planning and practice, Potter said. “If you’re in charge of the operation and you screw up, you have all the downside risk. Whereas the people who might be in control of whether you’re allowed to practice, they don’t have that downside risk because people can’t see them.” 
+
+More preparation would have helped the March 2020 Federal Reserve response to the COVID-19-linked financial system panic, he said. 
+
+Let’s go back to March 23rd [2020] when the Fed announced all of the new facilities, the really creative ones. They’d had a week before that which looked incredibly messy if you're an insider, but from the outside you probably can’t tell. After the announcement, only two of those programs, the one for the money funds and the Primary Dealer Credit Facility, were up and running. It took the others a while to become operational. Particularly, the Commercial Paper Funding Facility, that took a long time. You don’t want there to be a gap like that between announcement and availability. Ideally, you’d like to be operationally ready at the point that you announce. I did a Peterson post[2] on this topic of logistics. 
+
+> 2 Simon Potter. 2020. “Central Bank Lending Logistics in the War on COVID-19: A Primer.” Peterson Institute for International Economics blogpost, April 17, 2020. https://www.piie.com/blogs/realtime-economic-issues-watch/central-bank-lending-logistics-war-covid-19primer 
+
+
+Practicing in advance of a crisis means that the response should go more smoothly when it’s needed, Potter said. Systems are more complicated now, and so, he emphasized that rehearsing all the different elements of potential programs is more important than ever. He recalled visiting a Fed COVID website that “was a disaster because they hadn’t had the user acceptance testing.” You don’t want that to happen, Potter said: “You don’t want to tell people that an institution failed because the Fed failed to send them cash,” or because it went to the wrong place. 
+
+Dated: September 2022 
+
+YPFS Lessons Learned No. 2020-16 
+
+Copyright © Yale University.

@@ -1,0 +1,440 @@
+## Incorporating Macroprudential Financial Regulation into Monetary Policy[+] 
+
+_Aaron Klein_[] 
+
+## **Abstract** 
+
+This paper proposes two insights into financial regulation and monetary policy. The first enhances understanding the relationship between them, building on the automobile metaphor that describes monetary policy: when to accelerate or brake for curves miles ahead. Enhancing the metaphor, financial markets are the transmission. In a financial crisis, markets cease to function, equivalent to a transmission shifting into neutral. This explains both monetary policy’s diminished effectiveness in stimulating the economy and why the financial crisis shock to real economic output greatly exceeded central bank forecasts. 
+
+The second insight is that both excess leverage and fundamental mispricing of asset values are necessary to produce a crisis. Central banks ought to focus on excess leverage rather than on asset valuation to prevent a crisis. Markets are better at asset valuation and the central bank’s macro- and microprudential toolkits are better suited to deal with leverage. 
+
+Incorporating these insights informs central banking and financial regulation in theory and practice. Integrating monetary policy and financial regulation over the course of business and financial cycles enhances policy outcomes. The theory allows central bankers to better understand when financial stress metastasizes into a panic. 
+
+Suggested keywords: 
+
+Macroprudential Policy, Financial Crisis, Financial Stabilization, Monetary Policy, Financial Regulation, Financial Crisis History 
+
+JEL Classification: E44, E52, E58, E63, G01, N2 
+
+> __________________________________________________________________ 
+
+> + A draft of this paper was presented at the Nomura Foundation's annual economic conference. The author would like to thank the Nomura Foundation for its generous support to the Brookings Institute. 
+
+>  Fellow - Economic Studies and Policy Director - Center on Regulation and Markets at the Brookings Institute. 
+
+
+## **1. Introduction** 
+
+The transmission channel between monetary policy and the economy is one of the most densely covered subjects in economics (Borio and Zhu 2008). Despite a substantial theoretical and empirical work, the global financial crisis of 2007-09 caught central banks, financial regulators, policy makers, and leading thinkers largely by surprise. As Alan Greenspan, Chairman of the Federal Reserve Board of Governors for most of the pre-crisis period, stated in the fall of 2008: “This modern risk-management paradigm held sway for decades... The whole intellectual edifice, however, collapsed in the summer of last year” (Andrews, 2008). The underlying models used by the Federal Reserve precrisis, “assumed the existence of smoothly functioning financial markets,” which limited “[the Fed’s] ability to project the consequences of a breakdown” (Appelbaum 2008). 
+
+The crisis made clear that monetary policymakers had failed to appreciate the importance of financial regulation in preserving the stability of the financial system, a necessary precondition to achieving price stability and macroeconomic growth. This has led to greater emphasis on understanding the nexus between financial markets, financial regulation, and monetary policy. Substantial new work has focused on revising standard theory and practice to better account for the impact and condition of financial markets in determining the proper conduct of monetary policy (Dudley 2017). The rising importance in understanding financial markets implies the importance of financial regulation for monetary policy (Yellen 2015). 
+
+This paper focuses on two emerging themes about financial regulation and monetary policy. The first offers a new framework for understanding the relationship between financial regulation and monetary policy. The framework builds on the metaphor of driving a car. This metaphor is familiar to many central bankers, as it is often used to describe the lag time between monetary policy changes and impacts in the real economy as like driving a car: when to hit the accelerator or step on the brakes for curves miles down the road (Conerly 2018). Building on the driving concept, financial regulation can be thought of as the clutch, or gearshift. Monetary policy remains the all-important gas or brake that guides the overall speed of the economy—a framework Wessel (2018) uses to discuss the Federal Reserve’s recent interest rate hikes. It is the impulse for acceleration or deceleration that through wellestablished transmission channels ultimately impacts employment and inflation. 
+
+In this new framework, financial regulation controls the transmission, setting the gear for the motor and economy to operate. When properly operating, the transmission is barely noticed; it smoothly switches gears and allows the engine and brakes to determine speed. However, when out of gear, the car ceases to operate. This is akin to what happened in the financial crisis and helps explain a myriad of factors, importantly why monetary policy was less effective in returning the economy to growth and why the financial crisis shocked real economic output far more than anticipated. 
+
+The second part of this framework details the two necessary conditions to create a financial crisis or panic (the moment when the transmission breaks down): the fundamental mispricing of an asset _and_ excessive leverage. While one of these two conditions can cause a bubble, both are required for a crisis. The distinction between the two is important and often overlooked in the discussion between the roles of monetary policy and financial regulation. The debate is often whether it is the job of monetary policy or financial regulation to identify and ameliorate asset bubbles (Mishkin 2008). Because asset bubbles alone are insufficient to cause a crisis, central bankers need to be concerned from a financial stability aspect only when both elements are at play. Financial regulation can address leverage in a more direct and fundamental manner; it is the better tool to deal with this element of crisis prevention. 
+
+
+This framework helps explain why central bankers largely underappreciated the importance of financial regulation to ensuring financial stability precrisis and why monetary policy levers alone were largely unable to restart the economy. This paradigm also attempts to bridge differing arguments as to the problems before the financial crisis and lessons learned after. Finally, this framework offers new insights on the importance and direction central banks should take in conducting financial regulation. After all, one of the major outcomes of the financial crisis was enhanced authority for central banks across the globe to conduct financial regulation (Klein 2012). 
+
+To understand the benefits of this new framework, it is important to understand the background on the interaction of financial regulation and monetary policy. The next section covers that, flowing into an examination of how and why the crisis was missed and the limits of monetary policy in restarting the economy post crisis. The paper then examines a counterfactual, considering what financial regulatory tools the Federal Reserve could have used to prevent the subprime financial crisis and how policy makers would have been able to make and defend those judgments in real time. The paper then proposes the new framework to consider tying financial regulation into monetary policy. It builds on the framework by tying insights from the car analogy, asset bubbles, and lessons from the subprime crisis. Finally, the paper considers some problems with using macroprudential regulation for monetary policy. 
+
+## **2. Background on Interaction of Financial Regulation and Monetary Policy** 
+
+The Great Financial Crisis (GFC) directly challenged and contradicted multiple long‐held beliefs in monetary policy and financial regulation. This includes questioning the ability of monetary policy to deliver on its core goals of price stability, employment, and economic growth. The argument had been that credible monetary policy generates price stability, a necessary condition for financial stability (Papademos 2006). However, even when monetary policy generated price stability, the financial crisis demonstrated that it fails to guarantee financial or macroeconomic stability. This experience led to the argument that, “monetary policy may have to take a greater role in preserving financial stability” (“The Interaction of Monetary and Macroprudential Policies” 2013). One way to frame that relationship was that monetary policy and financial supervision should be coordinated in an “economic marriage of convenience” (Canuto and Cavallari 2013). 
+
+The tools to conduct financial-stability regulation are often outside the traditional levers a central bank deploys—targeting interest rates, controlling the money supply, or managing exchange rates. To achieve financial stability, the tools applied are generally divided between so-called “microprudential” and  “macroprudential” financial regulation. Microprudential regulatory tools are the more easily defined and traditional elements of financial regulation. They tend to focus on individual financial institutions’ capital and liquidity levels, safety and soundness, and ability to withstand losses. The traditional approach in the US defined these objectives by the acronym CAMELS, which stands for: Capital adequacy, Asset quality, Management, Earnings, Liquidity, and Sensitivity to market risk (Stackhouse 2018). The data are gathered through direct supervision, are treated confidentiality, and can lead to a variety of regulatory enforcement actions. In the most extreme instances, microprudential regulation can close down a financial institution. 
+
+
+Macroprudential regulation is focused across the financial system, often with a goal of producing greater financial stability. While the term “macroprudential” first appears in the 1970s (Clement 2010), the idea of financial regulatory policy with a goal of promoting stability of the financial system as a whole, as opposed to traditional microprudential policy, begins in the 1980s at the Basel Committee (Blunden 1987). Macroprudential policy debates occurred before the GFC, and as Elliot, Feldberg, and Lehnert (2013) point out, these tools were used more frequently before the 1990s but fell out of style thereafter. The renewed focus on macroprudential regulation is the byproduct of the underappreciation of the creation and impact of systemic risk (Galati and Moessner 2011). 
+
+Macroprudential policies often define themselves in relation to how they differ from microprudential. For example, microprudential policies focus on individual institutions, while macroprudential focus on the system. Macroprudential analysis is supposed to be highly concerned with correlations and common exposures across institutions, while microprudential is not (Borio 2003). Microprudential policies such as prompt corrective action do not take into account the impact of an individual institution’s reaction function, while macroprudential policies are highly concerned with this, particularly if it can lead to fire sales (Hanson, Kashyap, and Stein 2011). Broadly speaking, a macroprudential framework attempts to address excesses in the financial system in terms of leverage, maturity transformation, liquidity, or risk-taking. 
+
+If financial stability and monetary policy are inseparably linked, then the question of whether the central bank should conduct both monetary and regulatory policy is relatively straightforward. Further, it calls for far greater integration of regulatory analysis and tools into what has been traditionally thought of as the monetary tool kit. Herein lies the potential for better integrating financial regulation as part of crisis prevention, not in preventing the formation of asset bubbles, but rather in preventing excess leverage that can turn a bubble into a crisis. 
+
+## **3. Limits of Monetary Policy** 
+
+## **Limits as a Loan Tool** 
+
+Beyond showing the limits of achieving price stability as a proxy for delivering welfare maximizing economic policy, the GFC also demonstrated the limits of a central bank in achieving economic growth and employment. It demonstrated that monetary policy, by itself, was unable to either prevent a recession or spark a rapid rebound from the downtown after it had begun (Kohn and Sack 2018). The inability of monetary policy to jump-start the economy after the crisis is linked to the reason why central banks along with most macroeconomic modelers were unable to fully grasp the economic magnitude and impact of the crisis as it began. In August of 2008, as the financial crisis began metastasizing into the full-fledged panic that engulfed markets in September, then governor of the Bank of Israel Stan Fischer stated, “The disconnect between the seriousness of the financial crisis and the impact—so far—on the real economy is striking” (Kohn and Sack 2018). This puzzle illustrated the flaws in the existing economic models employed by central banks, which generally failed to predict the severity of the impact the financial crisis would have on the real economy. 
+
+
+## **Limits of Models** 
+
+What caused this mistake? The models themselves just did not include major financial variables, hence the economic impacts were outside of the models’ capabilities (Kohn and Sack 2018). This was true of the standard economic models and the Federal Reserve’s when it specifically attempted to use models to portray the actual experiences of the financial crisis. Kohn and Sack (2018) took the Federal Reserve’s model FRB/US as it was in 2006 and inputted the actual experienced stresses of the financial markets from the GFC. The result of the model was an unemployment peak of seven percent, a full three percentage points lower than the actualized experience. In fact, the model did not begin to align with the observed employment rate until 2014, a full six years after the crisis began. As Kohn and Sack (2018) concluded, “Models provided limited guidance because they had elementary financial sectors.” 
+
+The difficulty in utilizing models that may not properly incorporate financial conditions coupled with economic data that do not fully capture the impact of a financial crisis leads policy makers to a difficult choice. They can either follow the best data and models available, which in crisis will naturally tend to underestimate impacts, or they can call for action that appears bolder than is warranted by incoming data, which can be difficult to justify. This led former Fed Vice Chairman Kohn to conclude that “policy makers have to be prepared to abandon those models and to make sizable adjustments to their forecasts, or at least take into account severe downside risks, as financial stress emerges” (Kohn and Sack 2018). 
+
+## **Time Lags and Data Quality** 
+
+A related problem occurs when policy makers make policy decisions with long lags. Traditional monetary policy tools operate with lags on the real economy (Labonte 2018). When models predict smaller impacts of a financial crisis in the real economy, the natural response is less aggressive monetary policy. This can cause slower policy responses than would otherwise be optimal. For example, Jeffrey Lacker, President of the Richmond Federal Reserve Bank, as late as August of 2008 believed that the U.S. economy would “skirt an outright recession” and was “a little skeptical about all of this anecdotal evidence about credit constraints.”[1] These inaccurate readings of the economy (which had fallen into recession nine months earlier[2] ) and of real-time credit conditions led him to the even more inaccurate conclusion that the Fed should be “prepared to raise rates even if growth is not back to potential and even if financial markets are not yet tranquil.” 
+
+Luckily, Lacker’s arguments did not sway his colleagues, and other policy makers in charge charted a different course. However, policy makers make decisions with real-time data, not with the benefit of the corrected statistics upon which their performance is judged. These revisions can be large, particularly during periods of severe economic stress when models that naturally revert to the mean are challenged by incoming data several standard deviations away from historical experiences. Several examples of the differences from 2008 include economic growth from the first quarter, which was initially reported at 0.6 percent, revised upward to a reading of 1.0 percent in what is commonly called the “final” revision, but was just the third revision two quarters later. Subsequent GDP revisions now place the first quarter as contracting at an annualized rate of -2.3 percent. Thus, the delta between the initial reading of 0.6 percent growth and the current revised reading of ‐2.3 percent is almost 
+
+__________________________________________________________________ 
+
+> 1 Expressed at the Meeting of the Federal Open Market Committee. Aug 5, 2008. https://www.federalreserve.gov/monetarypolicy/files/FOMC20080805meeting.pdf. 
+
+> 2 National Bureau of Economic Research: “US Business Cycle Expansions and Contractions”. http://www.nber.org/cycles.html. 
+
+
+3 percent of GDP, an error range that would challenge any policy maker to respond in real time. 
+
+A larger set of changes is true for the fourth quarter of 2008, when the impact of the financial panic was fully experienced. The initial economic reading produced just as President Obama took office showed an economy contracting at ‐3.8 percent, which laid the foundation for fiscal policy expectations, including the fiscal stimulus Recovery Act, which aimed to bolster accommodative monetary policy. However, by the time the legislation was finally enacted, this contraction had been revised to show an economy contracting by more than -6 percent. Current estimates now show the economy was contracting at an -8.4 percent rate, more than double the initial contraction rate estimate.[3] 
+
+## **4. What Framework to Use?** 
+
+Incorporating the financial system into central bank’s macroeconomic models is one step forward. This then raises the conceptual question of how to incorporate the insights from improved models. While it is not commonly used in monetary policy analysis, which tends to focus more on tradeoffs between employment, inflation, and growth (Taylor‐Rule frameworks), cost-benefit frameworks have been applied in a wide range of policy analysis. While financial regulation is notably carved out of certain legal requirements for cost-benefit analysis in the United States (Perkins and Carey 2017), there have been recent proposals to expand its use in financial regulation[4] . 
+
+Svensson (2016) proposes a cost-benefit framework, a reasonable starting point. Using this framework, he investigates whether the central bank should incorporate the same “lean against the wind” strategy employed in monetary policy for financial regulation. His finding was that the benefits of such a strategy were generally not worth the costs. 
+
+Adrian and Liang (2016) build upon the Svensson framework and demonstrate the sensitivity of Svensson’s findings to base assumptions. They show net benefits for the central bank to employ a lean against the wind strategy in macroprudential financial regulation. The sensitivity to assumptions is why they call for additional research. 
+
+Cochrane (2014) discusses both the advantages and disadvantages of adopting a more rigorous and formal cost-benefit analysis for financial regulation. He discusses the potential benefits of a more formalized, rigorous analysis that requires regulators to enumerate and quantify both benefits of regulation and problems that the market cannot solve absent regulation. However, he also acknowledges the “genuine dangers” of cost-benefit analysis, including the inherently subjective and political nature of it, as well as the problems associated with measuring and quantifying tail risk. 
+
+Baily, Swagel, and Klein (2012) highlight similar problems when incorporating cost-benefit analysis for financial crisis purposes. Given the incredibly large costs of a financial crisis, regulations that can be judged to have very small, but non-zero chances of preventing a crisis can be attributed to having large net benefits. For example, the GFC had an estimated cost of $14 trillion (Luttrell, Atkinson, and Rosenblum 2013). If a regulation can reduce the probability of a crisis by 1 percent, then in a cost-benefit framework, one would claim $140 
+
+__________________________________________________________________ 
+
+> 3 All GDP data from The Balance. Amadeo, Kimberly. “2008 GDP, Growth and Updates by Quarter.” Jul 30, 2018. Accessed Oct 10, 2018. https://www.thebalance.com/2008-gdp-growth-updates-byquarter-3305542. 
+
+> 4 Senator Shelby introduced the Financial Regulatory Responsibility Act in 2011. 
+
+
+billion in benefits just from the macroprudential “crisis avoidance” term of the cost-benefit equality. 
+
+Economists need more humility and less faith in their models, especially when appreciating the difficulty in predicting small probability, long-tail, large-cost events. The standard error of any such probabilistic predictions on macroprudential policies likely swamps the net range of other potential costs and benefits. It highlights the fundamental limit of employing a quantitative cost-benefit framework as the deciding factor in employing this approach to conduct financial regulation. 
+
+## **If Not Cost-Benefit, Then What?** 
+
+An alternative view from Peter Fisher (2016) questions the assumption that financial stability and hence financial regulation are separable from monetary policy. Fisher argues that “Financial instability and debt deflation are different symptoms of the same malady: the stressed, leveraged balance sheets that are the product of unsustainably elevated asset prices and seemingly cheap liabilities. Because of the presumed primacy of monetary policy, however, the connection between financial instability and deflation has been obscured.” Fisher argues that the relationship between the two were known and accepted by economists such as Irving Fisher in the 1930s but were forgotten and dismissed. He suggests the twin beliefs that financial stability could be solved through proper bank regulation with properly calibrated risk-based capital, while monetary policy would be best solved by transparent inflation targeting laid the foundation that the two aspects could be separated. 
+
+Should financial stability and monetary policy be thought of as different objectives or as two sides of the same coin? The dominant view is that they are separable both in function and objective and that better integrating the trade-offs between the two can produce better policy outcomes (Adrian and Liang, 2016). There is an acknowledged element of the creation of potential financial instability by the conduct of monetary policy, but by and large, the two are separable concepts with separate tools. 
+
+Fisher’s position inherently critiques the view that monetary policy and financial stability are separate objectives and the solution to each involves calibrating for its effect on the other. This argument dismisses the trade-offs suggested in optimizing each objective (“The Interaction of Monetary and Macroprudential Policies” 2013) and implies an answer to the question of whether monetary policy should react to asset valuations (Bernanke and Gertler 1999; Canuto and Cavallari 2013). As he concludes: “you can’t find a financial stability objective distinct from a monetary policy objective because the two are so thoroughly bound together in a single mandate—which is as it should be” (Fisher 2016). 
+
+## **Is Financial Stability Part of a Central Bank’s Mandate?** 
+
+There is some agreement on whether the existing mandate of the Federal Reserve allows for financial stability to be treated as part of its objective between these different schools of thought. Fisher argues it must be as it is part of the so-called dual mandate (which, he argues, consists of a third objective of stable long-term rates, which is part of the statutory language). Adrian and Liang (2016) reach a similar conclusion, that the Federal Reserve can incorporate macroprudential policies as part of accomplishing its price stability and employment mandates with a more properly calibrated cost-benefit model that incorporates the potential large costs of financial instability. 
+
+
+If both camps agree the Fed has the authority as part of its mandate, does it matter how they arrive at the same conclusion? Yes. In the consensus view, financial stability is created through a combination of channels that could or could not include monetary policy decisions. In the Fisher view, financial instability is inherently related to monetary policy conditions that are too easy. Whether those conditions are caused directly by traditional monetary policy channels of interest rates or by the allowance of building up large levels of leverage is important from a policy perspective, but both avenues lead to a similar outcome. 
+
+Further, if Fisher’s perspective is accurate, then the intellectual effort of creating a taxonomy built upon separating the objective functions of financial stability and monetary policy is at best, a wasted effort and at worst, likely to complicate policy responses to avoid future crises (or react to them once they have begun). However, if Fisher is incorrect, then the idea of refining the interaction between the effects of implementing macroprudential financial regulatory policies on monetary policy, and vice versa, can help avoid (or mitigate) financial crises as Adrian and Liang (2016) recommend. 
+
+## **5. Macroprudential Tools in Action: A Counter History** 
+
+One way to better understand what macroprudential regulation would mean in practice is to consider how it could have been applied to avoid (or greatly ameliorate) the ills that caused the GFC. Given the origins of the GFC in U.S. subprime real estate, a deep dive into the regulatory tools available to the Federal Reserve precrisis is helpful. This analysis shows that the Fed had macroprudential tools available and that at least one Federal Reserve Governor actively contemplated using them, although not for financial stability purposes. In fact, financial stability arguments would have likely been dismissed as improbable at the time. 
+
+The Federal Reserve had broad legal and regulatory authority prior to the crisis. This authority extended through its direct regulation of certain banks, all bank holding companies, and broad regulatory authority over aspects of consumer law. Specific examples include authority to regulate “unfair or deceptive acts or practices” known as UDAP authority,[5] regulation over subprime mortgage definitions in the Home Ownership and Equity Protection Act of 1994 (HOEPA),[6] and broad authority under the Truth in Lending Act of 1968. As one Federal Reserve official stated in 2009, “Since enactment of the Truth in Lending Act in 1968,[7] the Federal Reserve has been the sole agency responsible for issuing rules to implement that Act” (Braunstein 2009). 
+
+The Fed’s authority under UDAP was particularly broad. As Engel and McCoy (2011) explain, it could have had an industry-wide impact, reducing the quantity of subprime mortgages created, particularly among the most toxic products. HOEPA provided the Federal Reserve broad authority to label types of subprime mortgage lending as high risk. Had the Federal Reserve labeled these loans under HOEPA it would have provided a clear signal to other financial regulators to increase regulatory scrutiny of these products and securities based 
+
+__________________________________________________________________ 
+
+> 5 Federal Trade Commission Act, 15 USC §45, section 5(a) (1914). 
+
+> 6 The Home Ownership and Protection Act of 1994, Pub. L. No. 103-325 (1994). 
+
+> More information can be found here: “2013 Home Ownership and Equity Protection Act (HOEPA) Rule.” Consumer Financial Protection Bureau. May 2, 2013. 
+
+> https://files.consumerfinance.gov/f/201305_compliance-guide_home-ownership-and-equity-protection-actrule.pdf. 
+
+> 7 The Truth in Lending Act of 1968, 15 U.S.C. §§ 1601-1667f (1968). 
+
+
+on these products. It would also have sent a strong signal to the domestic and global market regarding the risk of these products, something the market clearly misjudged. 
+
+Then Federal Reserve Governor Edward Gramlich recognized the problem relatively early on. Well before the financial crisis, he approached then Federal Reserve Chairman Greenspan to broach the idea of stepping up enforcement of subprime. Gramlich was rebuffed, and as a result the Federal Reserve did not pursue aggressive action (Ip 2007). This exchange did not focus on the potential creation of systemic risk, excess leverage, or the creation of a real estate bubble. Nor did it focus on the safety and soundness of banks as a result of engaging in this business. Instead the argument at the time focused on consumer lending standards, what constitutes as “unfair or deceptive practices,” and what the role of financial regulators ought to be in limiting products that could have adverse impacts for consumers of lower income. 
+
+## **Would a cost-benefit framework have been useful in this case?** 
+
+Imagine if then Governor Gramlich had argued that if the Fed were to implement his proposed regulations on subprime mortgages, it would result in a 1 percent reduction of the likelihood of a global financial crisis. That would have generated $140 billion in net benefits had researchers been able to correctly predict the magnitude of the crisis—itself unlikely, given historical data to work from. It is hard to imagine Fed economists giving this argument credence in 2002. However, this figure would have seemed laughable fifteen years ago, just as the idea that issuing a regulation on subprime mortgages would have a 1 percent chance of avoiding the crisis seems far too small today. 
+
+Eventually, the Federal Reserve did adopt tougher regulations on subprime mortgages under then-Chairman Bernanke in 2008 (Bearss 2008). These regulations were proposed in late 2007, adopted in mid-2008 and mostly took effect in 2009[8] . By then it was far too little, far too late. The problematic lending and associated toxic assets had already been created, spread throughout  the market, mispriced, and highly leveraged. In short, the medicine arrived after the patient died. 
+
+It is difficult to understand how financial regulators could employ macroprudential thinking to nip a problem in the bud. One of the problems inherent in a macroprudential regulatory framework is the requirement for a potential macro-impact to be evident. If such an impact is already possible, before action is taken, then it may be too late. If such an impact is not possible, then on what macroeconomic grounds is the macroprudential policy being taken? 
+
+An argument regarding regulatory arbitrage is often given as another problem with the limits of conducting macroprudential regulation only on the regulated financial sector. One reason subprime mortgage lending avoided financial regulators is that it migrated from within the bank to outside the banking system, thereby escaping financial regulators who were limited to prudential regulation of commercial banks (Stackhouse 2017). This argument is often used to make the case that even aggressive macroprudential regulation by the Fed under these laws would not have stopped the antecedents to the crisis. There is some merit to this argument, particularly as it relates to the originate-to-distribute chain between mortgage brokers, investment banks, and securitization into the market. However, some of this activity, including the ownership of the security, migrated back into the regulated 
+
+__________________________________________________________________ 
+
+> 8 As laid out in “Board Issues Final Rule Amending Home Mortgage Provisions of Regulation Z (Truth in Lending).” 2018. Board of Governors of the Federal Reserve System. July 14. https://www.federalreserve.gov/newsevents/pressreleases/bcreg20080714a.htm. 
+
+
+system. Some of this activity also occurred within other affiliated companies outside of the back but within the bank holding company. 
+
+This argument is less compelling in historical hindsight and in the future than it is often made out to be. The fact is that the Federal Reserve had substantial authority as both the holding company regulator and under HOEPA to address this activity. Further, as it relates to financial crises, size matters. More aggressive regulation by the Fed would have reduced the number of loans created, bank exposure, total leverage in the financial system, and potentially the ability of the asset bubble to rise as high as it did. After all, financing is necessary to sustain asset appreciation for leveraged instruments. Going forward, enhanced regulatory authority has been granted to the Fed and to other regulators to both identify and crack down on systemically important financial institutions even if they exist outside the currently regulated perimeter. 
+
+## **6. New Framework Incorporating Financial Regulation and Monetary Policy** 
+
+The central banker is often depicted controlling the economy, with the metaphor of the economy as a car and the central banker as the driver. Traditional tools of monetary policy such as raising and lowering the target interest rate provide stimulus (gas) or headwinds (brakes) to the economy. The task is made more difficult for the central banker because of the long lag times before monetary policy changes the economy’s speed (Rosenbaum 1985). Thus, the metaphor is enhanced with the central banker trying to control the speed of the car not for current conditions but for conditions miles ahead. 
+
+This proposal builds on this framework by examining what is under the hood. It is an unstated assumption that a car has an engine and a transmission. However, drivers know that how you drive a car with an automatic transmission is quite different than one with a manual transmission. The financial system should be thought of as the transmission for the car. Financial regulation is the lever the driver has under his or her control, much like a gearshift. 
+
+Through financial regulation, the central banker has additional tools to control the car’s speed. Similar to monetary policy, these regulatory channels operate with lags. While much empirical research has gone into determining the lag times of monetary policy (Gruen, Romalis and Chandra 1999; Friedman 1961) too little has gone into determining the lag impacts of financial regulatory policy choices. One recommendation from this paper is for greater research into the time effects on the economy of financial regulatory choices, such as increasing bank capital levels, changing risk-based capital formulas, implementing restrictions on certain forms of risk taking (e.g. Volcker Rule and Vickers). This research will help central bankers better understand the timing of impacts resulting from changing financial regulation to better achieve their macroeconomic goals and enhance coordination with monetary policy tools. 
+
+This framework adds new value for understanding a financial crisis in a developed economy. Crisis or panic mentalities appear to trigger different behavior, such as hoarding of liquidity and capital. There is almost a binary element when a crisis is triggered; behaviors and incentives change drastically. This framework offers a new way to consider this moment: the car has slipped out of gear. When out of gear, traditional policy levers are far less effective. Try hitting the gas when a car is neutral. 
+
+
+This also helps illustrate how the long period of financial stability the U.S. experienced between the end of the Great Depression and the GFC helped lure central bankers into underappreciating the importance of financial regulation in achieving core objectives. 
+
+When a car is properly in gear, the clutch is not the primary or even secondary tool to change speeds. Imagine suddenly inheriting a position behind the wheel of a car that has been moving along the highway for decades. You have to occasionally slow the car down and speed it up, navigate the curves and conditions, but as anyone who has driven on long stretches on open road knows, you do not have to switch gear. Over time, you might be mistaken for forgetting about the importance of the clutch, or even assuming you have an automatic transmission and not a manual. 
+
+The United States witnessed such a period between the end of the Great Depression and the onset of the GFC. There were multiple recessions when the Federal Reserve stepped on the brakes to slow the economy. None were greater than the early 1980s recession in which the Volcker-led Federal Reserve raised interest rates to 20 percent (Joshi and Appelbaum 2015), caused unemployment to rise above 10% for the first time since the Great Depression, and eventually broke the back of persistent expectations of inflation (Poole 2005). There were also periods where perhaps the Federal Reserve stepped on the gas for too long (or did not hit the brakes soon enough) and the economy overheated. Much criticism has fallen on Arthur Burns, Chairman of the Fed in the 1970s for such a period, perhaps owing to political pressure from then President Nixon (Abrams 2006). There were also periods where the Fed deftly handled treacherous road conditions, such as the Greenspan era in the 1990s where Chairman Greenspan resisted calls to increase rates to ward off an inflation that never came (Joshi and Appelbaum 2015). 
+
+However, through these episodes, the car’s transmission never stopped. Financial markets continued to operate through recessions, sending signals and distributing capital. There were episodes of isolated failures of large institutions, for example, Drexel Burnham Lambert, America’s fifth-largest investment bank (Lebaton 1989), the same size rank as Bear Stearns at its time of failure 2008 (Moyer 2018). The wave of bank failures of the 1980s dwarfed those of the GFC, as discussed in the next section. The key question is what marks the turning point entering a financial crisis. 
+
+## **7. Leverage: Bubbles: Asset Mispricing and Leverage** 
+
+There are two conditions necessary to create a financial crisis: the fundamental mispricing of an asset and excessive leverage. An asset bubble without leverage can have major economic consequences without causing a crisis. Witness the difficulties the market had in determining the fundamental value of internet portals and clicks on websites during the dot.com bubble at the turn of the century. Similarly, the market has had wild swings in determining the value of cryptocurrency today. But without excess leverage neither bubble turned into a crisis. 
+
+Leverage has a special role in creating a financial crisis. Modern finance is built upon fractional reserve banking. Financial institutions conduct both maturity transformation and money creation by keeping only a small portion of funds available to short-term creditors— financial institutions leverage themselves. The amount of leverage is controlled by a combination of market and regulatory forces. Markets play a primary role in allocating leverage between financial institutions and among different forms of borrowing. Financial 
+
+
+regulators set limits of leverage-based capital standards, both risk-based and simpleleverage ratios. Central banks impact leverage through monetary policy (Dell’Ariccia, Marquez and Laeven 2013). 
+
+Dell’Ariccia, Laeven, and Suarez (2016) go further, arguing that monetary policy can impact not only the amount of leverage, but also the quality of underlying loans. They argue that new loan quality decreases as interest rates decline. This demonstrates another need for financial regulation to adapt to monetary policy. If monetary policy is providing incentives for lower quality marginal lending that creates excess leverage that could threaten financial stability, financial regulation can provide a meaningful check. This check can come from enhanced microprudential regulatory responses (e.g. calls for tougher underwriting, enhanced supervision, downgrades on risk practices, etc.) or enhanced macroprudential levers (e.g. increased-risk capital weights in stress tests, activating counter-cyclical capital buffers, etc.). 
+
+[FIGURE id=vol1_iss4_1_f1 type=figure label="Figure 1" file=figure_1.png caption="Number of Bank Failures[9]"]
+### **Figure 1: Number of Bank Failures[9]**
+![Figure 1](assets/vol1_iss4_1/figure_1.png)
+
+
+
+
+_Source: Federal Deposit Insurance Corporation and Federal Reserve Bank of St. Louis._ 
+
+Excess leverage without the fundamental mispricing of an asset also does not cause a crisis. Such an episode occurred and resulted in the widespread failure of commercial banks in the U.S. in the 1980s, without causing a crisis, as in the Savings and Loan (S&L) debacle.[10] This bank regulatory failure did not metastasize into a financial panic or crisis that threatened the national or global economies. The S&L debacle does not even make the list of the top 100 financial crises since 1857 in the analysis by Reinhart and Rogoff (2014).[11] This is because 
+
+__________________________________________________________________ 
+
+> 9 Data compiled using bank failure incidences from “Failed Bank List”. Federal Deposit Insurance Corporation (as of Oct 12, 2018). https://www.fdic.gov/bank/individual/failed/banklist.html. 
+
+> 10 More information about the Savings and Loans crisis can be found here: “Savings and Loan Crisis–S&L”. Investopedia. Accessed Oct 12, 2018. https://www.investopedia.com/terms/s/sl-crisis.asp. 
+
+> 11 Reinhart and Rogoff define systemic financial crises as episodes with bank runs, a significant share of nonperforming assets, bank liquidations, and large-scale policy interventions to support banks. 
+
+
+there was no full-fledged crisis. In fact, the 1980s witnessed what was then one of the longest periods of economic growth followed by a moderate recession in terms of both output and employment (Ploutos 2018), although it was also the beginning of a longer-term trend of slower job growth in a recovery. 
+
+So why does the widespread failure of thousands of banks that marked the S&L episode not result in the transmission of the car giving out? It did not cause financial markets to seize, large scale-fire sales, or the migration of one set of losses in real estate—this bank failure too was centered in real estate—to transmit into broader credit channels. There was substantial leverage in the financial system. Undercapitalized banks chasing solvency coupled with regulatory forbearance in closing troubled institutions led equity holders in banks to make continued bad loans, hoping to recoup gains, knowing that taxpayers would subsidize losses. 
+
+Leverage in the S&L system soared. As Figure 2 shows, in 1980 the nearly 4,000 savings and loans had tangible capital of over 5% over total assets. By 1982 that figure had fallen to 50 basis points. These savings and loans had leveraged themselves 200:1. The industry would stay leveraged at rates around 100:1 for most of the decade.[12] 
+
+[FIGURE id=vol1_iss4_1_f2 type=chart label="Figure 2" file=figure_2.png caption="Selected Statistics, FSLIC-Insured Savings and loans, 1980-1989 ($ Billions)"]
+### **Figure 2: Selected Statistics, FSLIC-Insured Savings and loans, 1980-1989 ($ Billions)**
+
+|Leverage in the S&L system soared. As Figure 2 shows, in 1980 the nearly 4,000 savings and<br>loans had tangible capital of over 5% over total assets. By 1982 that figure had fallen to 50<br>basis points. These savings and loans had leveraged themselves 200:1. The industry would<br>stay leveraged at rates around 100:1 for most of the decade.12|Leverage in the S&L system soared. As Figure 2 shows, in 1980 the nearly 4,000 savings and<br>loans had tangible capital of over 5% over total assets. By 1982 that figure had fallen to 50<br>basis points. These savings and loans had leveraged themselves 200:1. The industry would<br>stay leveraged at rates around 100:1 for most of the decade.12|Leverage in the S&L system soared. As Figure 2 shows, in 1980 the nearly 4,000 savings and<br>loans had tangible capital of over 5% over total assets. By 1982 that figure had fallen to 50<br>basis points. These savings and loans had leveraged themselves 200:1. The industry would<br>stay leveraged at rates around 100:1 for most of the decade.12|Leverage in the S&L system soared. As Figure 2 shows, in 1980 the nearly 4,000 savings and<br>loans had tangible capital of over 5% over total assets. By 1982 that figure had fallen to 50<br>basis points. These savings and loans had leveraged themselves 200:1. The industry would<br>stay leveraged at rates around 100:1 for most of the decade.12|Leverage in the S&L system soared. As Figure 2 shows, in 1980 the nearly 4,000 savings and<br>loans had tangible capital of over 5% over total assets. By 1982 that figure had fallen to 50<br>basis points. These savings and loans had leveraged themselves 200:1. The industry would<br>stay leveraged at rates around 100:1 for most of the decade.12|Leverage in the S&L system soared. As Figure 2 shows, in 1980 the nearly 4,000 savings and<br>loans had tangible capital of over 5% over total assets. By 1982 that figure had fallen to 50<br>basis points. These savings and loans had leveraged themselves 200:1. The industry would<br>stay leveraged at rates around 100:1 for most of the decade.12|Leverage in the S&L system soared. As Figure 2 shows, in 1980 the nearly 4,000 savings and<br>loans had tangible capital of over 5% over total assets. By 1982 that figure had fallen to 50<br>basis points. These savings and loans had leveraged themselves 200:1. The industry would<br>stay leveraged at rates around 100:1 for most of the decade.12|Leverage in the S&L system soared. As Figure 2 shows, in 1980 the nearly 4,000 savings and<br>loans had tangible capital of over 5% over total assets. By 1982 that figure had fallen to 50<br>basis points. These savings and loans had leveraged themselves 200:1. The industry would<br>stay leveraged at rates around 100:1 for most of the decade.12|Leverage in the S&L system soared. As Figure 2 shows, in 1980 the nearly 4,000 savings and<br>loans had tangible capital of over 5% over total assets. By 1982 that figure had fallen to 50<br>basis points. These savings and loans had leveraged themselves 200:1. The industry would<br>stay leveraged at rates around 100:1 for most of the decade.12|
+|---|---|---|---|---|---|---|---|---|
+|Figure 2: Selected Statistics, FSLIC-Insured Savings and loans, 1980-1989 ($ Billions)|||||||||
+|**Year**|**Number**<br>**of S&Ls**|**Total**<br>**Assets**<br>**$**|**Net**<br>**Income**<br>**$**|**Tangible**<br>**Capital $**|**Tangible**<br>**Capital/**<br>**Total**<br>**Assets %**|**No.**<br>**of**<br>**Insolvent**<br>**S&Ls***|**Assets in**<br>**Insolvent**<br>**S&Ls $**|**FSLIC**<br>**Reserves**<br>**$**|
+|1980|3,993|604|0.8|32|5.3|43|0.4|6.5|
+|1981|3,751|640|-4.6|25|4.0|112|28.5|6.2|
+|1982|3,287|686|-4.1|4|0.5|415|220.0|6.3|
+|1983|3,146|814|1.9|4|0.4|515|284.6|6.4|
+|1984|3,136|976|1.0|3|0.3|695|360.2|5.6|
+|1985|3,246|1,068|3.7|8|0.8|705|358.3|4.6|
+|1986|3,220|1,162|0.1|14|1.2|672|343.1|-6.3|
+|1987|3,147|1,249|-7.8|9|0.7|672|353.8|-13.7|
+|1988|2,949|1,349|-13.4|22|1.6|502|297.3|-75.0|
+|1989|2,878|1,252|-17.6|10|0.8|516|290.8|NA|
+|*Based on tangible-capital-to-assets ratio|||||||||
+|_Source:_<br>_“The_<br>_Savings_<br>_and_<br>_Loan_<br>_Crisis_<br>_and_<br>_Its_<br>_Relationship_<br>_to_<br>_Banking,”_<br>_FDIC._<br>_https://www.fdic.gov/bank/historical/history/167_188.pdf._|||||||||
+
+
+
+*Based on tangible-capital-to-assets ratio _Source: “The Savings and Loan Crisis and Its Relationship to Banking,” FDIC. https://www.fdic.gov/bank/historical/history/167_188.pdf._ 
+
+__________________________________________________________________ 
+
+> 12 Data from Federal Deposit Insurance Corporation Report: “The Savings and Loan Crisis and Its Relationship to Banking.” 
+
+
+However, this excess leverage in the financial system was not coupled with a fundamental mispricing of an asset class. Although S&Ls were heavily invested in real estate, and there was substantial geographic concentration of troubled lenders, there was no resulting realestate bubble comparable to what the U.S. experienced twenty years later. Although the S&Ls were mostly small, their combined assets were over $1 trillion in 1985, roughly 25 percent of U.S. GDP at that time. 
+
+The lack of a fundamental mispricing of an asset prevented the contagion of the excess leverage into other aspects of the financial system that would allow for the disintermediation of credit to broadly fail. Put another way, the failure of thousands of overly leveraged banks, due to poor lending heavily concentrated in real estate, was not enough to break the transmission. Importantly, with no endemic asset bubble, this bank failure wave was almost exclusively domestic. 
+
+The wave of bank failures did lower economic growth, as systemic poor lending choices will do. In this way the massive failure of banks, in the absence of meeting the two-pronged test to trigger a financial crisis, can be thought of as a downshifting of gears in which the financial system continues to operate. 
+
+This demonstrates that problems within the banking sector, even those that could have been addressed by better microprudential regulation, do not intrinsically cause financial instability. It is not a matter of magnitude of problems in the banking sector, as the number of banks that closed during this crisis was significant.[13] This underscores the importance of transmission channels between bank capital crises and the real economy (Adrian and Liang 2016). 
+
+The second is that when the car is forced to come to a complete stop, it cannot be started again unless the gear is shifted back to first. As former Federal Reserve Vice-Chairman and current member of the Bank of England’s Financial Policy Committee Don Kohn put it, “monetary policy has not been powerful enough to restore price and economic stability quickly once they have been disturbed by a major financial crisis” (Kohn 2015). 
+
+## **8. Operationalizing the Framework** 
+
+This framework provides another lens with which to analyze the question of whether central banks should attempt to prevent or pop asset bubbles. Traditional monetary policy theory eschewed the idea of using central bank powers to target asset prices or indicators of financial stability. This was evident pre-financial crisis as European Central Banker Papademos (2006) stated, reviewing the interplay between monetary policy and financial stability, “The ECB does not, therefore, target asset prices or some indicator of financial stability.” This analysis was supported by the experience with the dot.com bubble: central bankers did not move to aggressively pop the bubble, and when the bubble eventually popped no financial crisis ensued. 
+
+Contrast this with the post-GFC view from the IMF in 2013 that: “Macroprudential policies well-targeted at the sources of distortions have the potential to contain the undesirable 
+
+__________________________________________________________________ 13 All bank failures can be seen in “Failed Bank List.” Federal Deposit Insurance Corporation. Accessed on Oct 12. 2018. https://www.fdic.gov/bank/individual/failed/banklist.html. 
+
+
+effects of monetary policy.” One of those undesirable effects is the creation of asset value increases from long periods of low interest rates. The IMF goes on to list a series of such policies, which are a combination of macro- and microprudential in nature, ranging from countercyclical capital buffers, to reserve requirements, levies on short-term borrowing, and loan-to-value and debt-to-income caps in mortgage lending. 
+
+Expecting central banks to trigger a series of macroprudential policies based on indicators of financial stability or bubbles in lending is in sharp contrast to where central bankers were precrisis. Imagine back in 2002 if then Fed Governor Gramlich had argued on behalf of issuing stricter macroprudential underwriting standards on subprime mortgages on the grounds of macroeconomic and monetary policy effects. It would have been challenging to say the least to argue that a relatively small sector of the U.S. economy (residential housing based on subprime mortgage lending) could have a macroeconomic or financial-stability effect. 
+
+Standard regulatory and policy frameworks fail to hold during financial panics. Market-wide panics are associated with individual financial institutions’ desires to hoard capital and liquidity, disengage from financial intermediation, and, if necessary, contribute to fire-sales of problematic assets to achieve needed capital and liquidity positions to weather the storm. The economic devastation from a panic can be orders of magnitude higher than that from other recessions, as former Federal Reserve Chairman Ben Bernanke argues in a recent paper (Bernanke 2018). He contends that it was the onset of such a panic during the GFC that caused far greater than expected losses in output and employment. 
+
+This new framework proposed complements the Bernanke argument. In this context the term “transmission” is not meant in the standard economic sense of transmitting the actions of the central bank into the real economy. Instead, it is meant in the automotive context of a transmission. A car in neutral will not accelerate when pressing the gas. It is no longer a function of how hard one presses the gas or how efficiently the engine operates. The only way to restart the car is to engage the transmission, take the car out of neutral, and put it in gear. 
+
+Hence, it was the suite of emergency liquidity and capital injections implemented by the Federal Reserve, Federal Deposit Insurance Corporation (FDIC), and an act of Congress and implementation by the Treasury Department of the Troubled Asset Recovery Program (TARP), as well as regulatory measures to instill confidence in the financial system, such as stress testing, that put the economic car back in gear (“Crisis and Response: And FDIC History, 2008-2013”). Restarting the financial system then allowed the economy to begin to recover. 
+
+Importantly, the speed of the economic recovery was critically influenced by the limitations of the financial system’s new gear. During the crisis, the economy was “out of gear”; now in recovery it was back in gear, but a lower one than pre-crisis.[14] That this new gear was fundamentally slower than the previous gear helps explain why the U.S. economy continued 
+
+__________________________________________________________________ 14 The cause of the new post-crisis gear being slower than the pre-crisis gear is the subject of ongoing debate. Financial institutions had to rebuild capital, drastically change prior lending and economic models and assumptions, comply with new regulations, and learn to trust each other again. Further as asset prices remained depressed, especially real-estate, and consumers reacted to historically elevated unemployment and tight lending conditions, a plethora of reasons to expect slower financial intermediation and reaction to interest rate changes could explain this new slower gear. Future research should shed more light on the contribution of various factors. 
+
+
+to underperform expectations by the Federal Reserve (the Fed’s projections were broadly in-line with private consensus forecasts as well). Figure 3 below shows the Federal Reserve’s predictions of U.S. economic growth in real time as compared to actual experience. 
+
+[FIGURE id=vol1_iss4_1_f3 type=chart label="Figure 3" file=figure_3.png caption="Percentage by which the Fed's Projections were off"]
+### **Figure 3: Percentage by which the Fed's Projections were off**
+![Figure 3](assets/vol1_iss4_1/figure_3.png)
+
+
+
+
+_Source: Data taken from Kopf, Dan. 2017. “The Fed Keeps on Overestimating Future GDP Growth.” Atlas. June 30. http://www.theatlas.com/charts/ryDRkGEV-._ 
+
+These economic projections were based on models that implicitly assumed what was called the Zarnowitz rule: the size of the economic recovery is inversely proportional to the size of the recession (Mussa 2009). The implicit assumption behind Zarnowitz’s rule was that recession and recovery occurred while the economy was in the same gear (or could be returned to the same gear). However, when financial markets (and the corollary importance of financial regulation) are better integrated into economic forecasts, the impact of any given path of monetary policy may be significantly altered. 
+
+There was a feedback loop between the slow and stubborn pace of the U.S. economic recovery post GFC and the assumed path of monetary policy. The Federal Reserve repeatedly projected tightening of monetary policy over the next six to eighteen months, only to delay it in the face of persistently slow growth. 
+
+A better understanding of the state of financial intermediation, best achieved through closer integration of information gained from both micro- and macroprudential regulatory tools could have provided evidence to help explain the slow pace of economic growth. It also makes clear that the Zarnowitz rule does not apply to recessions created by financial crisis, as opposed to interest rates (which is more of a reaction function to the Fed pressing the brakes rather than the transmission giving out). 
+
+
+## **9. Conclusion** 
+
+The Great Financial Crisis took global central bankers, markets, policy makers, and most economists by surprise. It challenged basic tenets of central banking in theory and in practice. It demonstrated that the understanding and modeling of the impact of the financial system on the economy and the conduct of monetary policy was not nearly as well understood as many had believed. In response, policy makers have largely enhanced the central bank’s mandates and authorities to promote financial stability. The result has been a focus by central banks and many others on developing and implementing macroprudential financial regulatory tools to enhance financial stability. The trade-offs and interaction between such tools and traditional monetary policy continue to be researched and debated. 
+
+Incorporating the new framework described in this paper can help inform this debate from both a theoretical and practical perspective. Integrating monetary policy and financial regulatory tools and understanding how their interactions change over the course of a business and financial cycle can produce better policy outcomes and assist central bankers in appreciating when a financial stress can metastasize into a panic so that with better understanding, the crises that arise from panics can be more easily avoided. 
+
+Incorporating the insight that both excess leverage and a mispricing of asset value are needed to produce a crisis, central bankers can better know when to be concerned from a financial stability perspective of a bubble. Central banks ought to focus on the excessleverage element to prevent a crisis, rather than on the asset-value element. Markets are far better at asset-price valuation. Further the tools available to central banks, both macro- and microprudential are better suited to dealing with the leverage element. 
+
+More research is needed to better understand the time lags of macroprudential financial regulatory action on the real economy. Further research should also focus on how these lags change depending on the state of both the economy and the financial system. Cars accelerate differently in different gears. It is likely the economy reacts similarly depending on the health of the financial system. Hopefully this framework will allow researchers to better test that hypothesis and identify changes in the reaction function. 
+
+
+## **References** 
+
+Abrams, Burton A. 2006. “How Richard Nixon Pressured Arthur Burns: Evidence from the Nixon Tapes.” _Journal of Economic Perspectives_ 20 (4): 177–88. doi:10.1257/jep.20.4.177. 
+
+Adrian, Tobias, and Nellie Liang. 2016. “Monetary Policy, Financial Conditions, and Financial Stability.” Staff Report. Federal Reserve Bank of New York. 
+
+Amadeo, Kimberly. 2018. “The Shocking Truth About GDP in 2008.” _The Balance_ . July 30. https://www.thebalance.com/2008-gdp-growth-updates-by-quarter-3305542. 
+
+Andrews, Edmund L. 2008. “Greenspan Concedes Error on Regulation.” _The New York Times_ , October 23, sec. Economy. https://www.nytimes.com/2008/10/24/business/economy/24panel.html. Appelbaum, Binyamin. 2014. “Fed Misread Crisis in 2008, Records Show.” _The New York Times_ , February 21, sec. Business Day. https://www.nytimes.com/2014/02/22/business/federal-reserve-2008-transcripts.html. 
+
+Baily, Martin, Aaron Klein, and Phillip Swagel. 2012. “Promoting Financial Stability and Economic Growth: An Introduction to the Bipartisan Policy Center’s Financial Regulatory Reform Initiative.” Introductory White Paper. Bipartisan Policy Center. 
+
+Bearss, Karin Modjeski. 2008. “New Regulation Z Rules Enhance Protections for Mortgage Borrowers.” _Consumer Compliance Outlook_ . https://consumercomplianceoutlook.org/2008/fourth-quarter/q4_01/#footnote. 
+
+Bernanke, Ben S. 2018. “The Real Effects of the Financial Crisis.” _Brookings_ . September 13. https://www.brookings.edu/bpea-articles/the-real-effects-of-the-financial-crisis/. 
+
+Bernanke, Ben S., and Mark Gertler. 1999. “Monetary Policy and Asset Price Volatility.” _Proceedings—Economic Policy Symposium— Jackson Hole_ , 77-128. 
+
+Blunden, George. 1987. ““Supervision and Central Banking.” _Bank of England Quarterly Bulletin_ , August. 
+
+“Board Issues Final Rule Amending Home Mortgage Provisions of Regulation Z (Truth in Lending).” 2018. _Board of Governors of the Federal Reserve System_ . July 14. https://www.federalreserve.gov/newsevents/pressreleases/bcreg20080714a.htm. 
+
+Borio, Claudio E. V. 2003. “Towards a Macroprudential Framework for Financial Supervision and Regulation?” _BIS Working Papers_ 128 (February). https://www.bis.org/publ/work128.pdf. 
+
+Borio, Claudio E. V., and Haibin Zhu. 2008. “Capital Regulation, Risk-Taking and Monetary Policy: A Missing Link in the Transmission Mechanism?” _SSRN Electronic Journal_ . doi:10.2139/ssrn.1334132. 
+
+Braunstein, Sandra. 2009. “Mortgage Lending Reform.” Speech, Subcommittee on Financial Institutions and Consumer Credit, Committee on Financial Services, U.S. House of Representatives, Washington, D.C., March 11. https://www.federalreserve.gov/newsevents/testimony/braunstein20090311a.htm. 
+
+
+Canuto, Otaviano, and Matheus Cavallari. 2013a. “Monetary Policy and Macroprudential Regulation: Whither Emerging Markets.” WPS6310. The World Bank. http://documents.worldbank.org/curated/en/252151468148153150/Monetary-policyand-macroprudential-regulation-whither-emerging-markets. 
+
+Clement, Piet. 2010. “The Term ‘Macroprudential’: Origins and Evolution.” _Bank for International Settlements Working Papers_ 337 (March). https://www.bis.org/publ/qtrpdf/r_qt1003h.htm. 
+
+Cochrane, John H. 2014. “Challenges for Cost-Benefit Analysis of Financial Regulation.” _The Journal of Legal Studies_ 43 (S2): S63-105. doi:10.1086/678351. 
+
+Conerly, Bill. 2018. “Why The Fed Is Tightening With Low Inflation — And The Danger Of It.” _Forbes_ . March 21. 
+
+“Crisis and Response: An FDIC History, 2008-2013.” _Federal Deposit Insurance Corporation_ . 
+
+Dell’Ariccia, Giovanni, Luc Laeven, and Gutavo A. Suarez. 2010. “Monetary Policy, Leverage and Bank Risk Taking.” _IMF Working Paper_ 1903 (December). https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Monetary-PolicyLeverage-and-Bank-Risk-Taking-24424. 
+
+Dell’Ariccia, Giovanni, Luc Laven, and Robert Marquez. 2016. “Bank Leverage and Monetary Policy’s Risk-Taking Channel: Evidence from the United States.” _European Central Bank Working Paper_ 1903 (May). 
+
+Dudley, William. 2017. “The Importance of Financial Conditions in the Conduct of Monetary Policy.” Speech, University of South Florida Sarasota-Manatee, Sarasota, Florida, March 30. https://www.bis.org/review/r170331c.htm. 
+
+Engel, Kathleen C., and Patricia A. McCoy. 2011. _In The Subprime Virus: Reckless Credit, Regulatory Failure, and Next Steps_ , 196. New York: Oxford University Press. Federal Trade Commission Act, 15 USC §45, section 5(a) (1914). 
+
+“FDIC: Failed Bank List.” _Federal Deposit Insurance Corporation_ . Accessed October 15. https://www.fdic.gov/bank/individual/failed/banklist.html. 
+
+Fisher, Peter R. 2016. “Financial Stability and the Hemianopsia of Monetary Policy.” _Business Economics_ 51 (2): 68–70. doi:10.1057/be.2016.12. 
+
+Friedman, Milton. 1961. “The Lag in Effect of Monetary Policy.” _Journal of Political Economy_ 69 (5): 447–66. 
+
+Galati, Gabriele, and Richhild Moessner. 2011. “Macroprudential Policy—a Literature Review.” _BIS Working Papers_ 337 (February). 
+
+Gruen, David, John Romalis, and Naveen Chandra. 1999. “The Lags of Monetary Policy.” _Economic Record_ 75 (3): 280-94. 
+
+Hanson, Samuel G, Anil K Kashyap, and Jeremy C Stein. 2011. “A Macroprudential Approach to Financial Regulation.” _Journal of Economic Perspectives_ 25 (1): 3-28. doi:10.1257/jep.25.1.3. 
+
+
+Ip, Greg. 2007. “Did Greenspan Add to Subprime Woes?” _Wall Street Journal_ , June 9, sec. Markets. http://www.wsj.com/articles/SB118134111823129555. 
+
+Joshi, Pradnya, and Binyamin Appelbaum. 2015. “A History of Fed Leaders and Interest Rates.” _The New York Times_ , December 14, sec. Business Day. https://www.nytimes.com/interactive/2015/12/11/business/economy/fed-interestrates-history.html. 
+
+Klein, Aaron. 2012. “How Central Banks Can Succeed as Systemic Risk Regulators.” _American Banker_ . November 15. https://www.americanbanker.com/opinion/how-central-bankscan-succeed-as-systemic-risk-regulators. 
+
+Kohn, Donald. 2001. “Implementing Macroprudential and Monetary Policies: The Case for Two Committees.” _Brookings_ . November 30. https://www.brookings.edu/on-therecord/implementing-macroprudential-and-monetary-policies-the-case-for-twocommittees/. 
+
+Kohn, Donald, and Brian Sack. 2018. “Monetary Policy during the Financial Crisis.” Preliminary Discussion Draft. The Brookings Institution. https://www.brookings.edu/wpcontent/uploads/2018/08/13-Monetary-Policy-Prelim-Disc-Draft-2018.09.11.pdf. 
+
+Labaton, Stephen. 1989. “Milkens Challenge Drexel Accord.” _The New York Times_ , February 11, sec. Business Day. https://www.nytimes.com/1989/02/11/business/milkenschallenge-drexel-accord.html. 
+
+Labonte, Marc. 2018. “Monetary Policy and the Federal Reserve: Current Policy and Conditions.” Congressional Research Service. https://fas.org/sgp/crs/misc/RL30354.pdf. 
+
+Luttrell, David, Tyler Atkinson, and Harvey Rosenblum. 2013. “Assessing the Costs and Consequences of the 2007-09 Financial Crisis and Its Aftermath.” Federal Reserve Bank of Dallas. https://www.dallasfed.org:443/research/eclett/2013/el1307. 
+
+Levy, Mickey. 2018. “The Fed’s Economic Forecasts, Uncertainties and Monetary Policy.” Shadow Open Market Committee. http://shadowfed.org/wpcontent/uploads/2018/03/LevySOMC-March2018.pdf. 
+
+“Meeting of the Federal Open Market Committee.” 2008. Federal Open Market Committee. https://www.federalreserve.gov/monetarypolicy/files/FOMC20080805meeting.pdf. 
+
+Mishkin, Frederic S. “How Should We Respond to Asset Price Bubbles?” 2008. Speech, Wharton Financial Institutions Center and Oliver Wyman Institute’s Annual Financial Risk Roundtable, Philadelphia, Pennsylvania, May 15. https://www.federalreserve.gov/newsevents/speech/mishkin20080515a.htm. 
+
+Moyer, Liz. 2018. “A decade after its fire-sale deal for Bear, a look at what JP Morgan got in the bargain.” CNBC. March 16. 7:13 AM. https://www.cnbc.com/2018/03/14/a-decade-after-itsfire-sale-deal-for-bear-a-look-at-what-jp-morgan-got-in-the-bargain.html . 
+
+Mussa, Michael. 2009. “World Recession and Recovery: A V or an L.” _Peterson Institute for International Economics_ . April 7. https://piie.com/publications/papers/mussa0409.pdf. 
+
+Papdemos, Lucas. 2006. “Price Stability, Financial Stability and Efficiency, and Monetary Policy.” Speech presented at the Third conference of the Monetary Stability Foundation on 
+
+
+“Challenges to the financial system—ageing and low growth,” Frankfurt, July 7. https://www.ecb.europa.eu/press/key/date/2006/html/sp060707.en.html. 
+
+Ploutos. 2018. “Length Of Economic Expansions.” _Seeking Alpha_ . July 6. https://seekingalpha.com/article/4185754-length-economic-expansions. Poole, William. 2005. “The Great Inflation: Volcker Taught Us Many Lessons | St. Louis Fed.” _Federal Reserve Bank of St. Louis_ . January. https://www.stlouisfed.org/publications/regional-economist/january-2005/volckershandling-of-the-great-inflation-taught-us-much. 
+
+Reinhart, Carmen M., and Kenneth S. Rogoff. 2014. “Recovery from Financial Crises: Evidence from 100 Episodes.” _American Economic Review_ 104 (5): 50–55. doi:10.1257/aer.104.5.50. 
+
+Rosenbaum, Mary Susan. 1985. “Lags in the Effect of Monetary Policy.” _Federal Reserve Bank of St. Louis_ . November. https://fraser.stlouisfed.org/files/docs/publications/frbatlreview/pages/66976_19851989.pdf. 
+
+“Savings And Loan Crisis (S&L).” 2009. _Investopedia_ . January 28. https://www.investopedia.com/terms/s/sl-crisis.asp. 
+
+“Shelby Introduces Financial Regulatory Responsibility Act.” 2011. Richard Shelby Website. https://www.shelby.senate.gov/public/index.cfm/2011/9/shelby-introduces-financialregulatory-responsibility-act. 
+
+Stackhouse, Julie. 2017. “Why Didn’t Bank Regulators Prevent the Financial Crisis?” _Federal Reserve Bank of St. Louis_ . May 23. https://www.stlouisfed.org/on-theeconomy/2017/may/why-didnt-bank-regulators-prevent-financial-crisis. 
+
+———. 2018. “CAMELS Ratings: Capital Adequacy.” Federal Reserve Bank of St. Louis. August 23. https://www.stlouisfed.org/on-the-economy/2018/august/camels-ratingscapital-adequacy. 
+
+Svensson, Lars E.O. 2016. “Cost-Benefit Analysis of Leaning Against the Wind.” Working Paper 21902. National Bureau of Economic Research. doi:10.3386/w21902. 
+
+The Home Ownership and Protection Act of 1994, Pub. L. No. 103-325 (1994). 
+
+“The Interaction of Monetary and Macroprudential Policies.” 2013. International Monetary Fund. https://www.imf.org/external/np/pp/eng/2013/012913.pdf. 
+
+“The Savings and Loan Crisis and Its Relationship to Banking.” 1997. _History of the Eighties: Lessons for the Future._ Vol 1. Washington, DC: Federal Deposit Insurance Corporation. https://www.fdic.gov/bank/historical/history/167_188.pdf. 
+
+The Truth in Lending Act of 1968, 15 U.S.C. §§ 1601-1667f (1968). 
+
+Perkins, David, and Maeve Carey. 2017. “Cost-Benefit Analysis and Financial Regulator Rulemaking.” Congressoinal Research Service. https://fas.org/sgp/crs/misc/R44813.pdf. 
+
+Wessel, David. 2018. “Wessel’s Economic Update: Are the Fed’s Interest Rate Hikes a Mistake?” _Brookings_ . October 12. https://www.brookings.edu/blog/upfront/2018/10/12/wessels-economic-update-are-the-feds-interest-rate-hikes-a-mistake/. 
+
+
+Yellen, Janet. “Improving the Oversight of Large Financial Institutions.” 2015. Speech, The Citizens Budget Commission, New York, New York, March 3. https://www.federalreserve.gov/newsevents/speech/yellen20150303a.htm. 
+
+Copyright 2020 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu.

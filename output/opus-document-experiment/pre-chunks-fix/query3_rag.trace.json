@@ -1,0 +1,720 @@
+{
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "government response to solvency and liquidity crisis at financial intermediaries",
+        "document_type": "survey"
+      },
+      "result": {
+        "results": [],
+        "total_found": 0
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "asset price crash collateral decline forced selling fire sale contagion"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol3_iss2_1",
+            "chunk_id": "vol3_iss2_1_c0010",
+            "document_type": "article",
+            "title": "Revisiting Subprime Pricing Irrationality During the Global Financial Crisis",
+            "score": 0.5699,
+            "text": "Document: Revisiting Subprime Pricing Irrationality During the Global Financial Crisis\n\n1. Introduction\n\nCollateralized Debt Obligations (CDO) positions to the index default swap prices may have exacerbated the crisis by forcing investors to sell RMBS and other assets to shore up capital, or otherwise make balance sheets appear worse than they really were, inciting investor panic, leading to even more fire sales at distressed prices.[5] In addition to Kolasinski (2011), Sapra (2008), French et al. (2010), and Kothari and Lester (2012) conclude from studying this period that fair value accounting should not be applied to such assets during periods of severe financial crisis.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol3_iss2_1_p0004"
+          },
+          {
+            "doc_id": "vol1_iss1_9",
+            "chunk_id": "vol1_iss1_9_c0094",
+            "document_type": "case_study",
+            "title": "The Lehman Brothers Bankruptcy H:  The Global Contagion",
+            "score": 0.5658,
+            "text": "Document: The Lehman Brothers Bankruptcy H:  The Global Contagion\n\nThe Lehman Brothers Bankruptcy H: The Global Contagion[1] > 6.   How Did Subprime Mortgages Shock the World\u2019s Economies?\n\nLending firms sought to protect themselves. As shown in Figure 10, beginning in September 2007, there was a noticeable uptick in the haircuts (discounts) demanded for funding. Lenders then restricted the types of collateral they would accept or refused to roll over repos at all. Borrowers facing funding restraints hoarded cash and, mirroring the classic scenario of a contagion spread by a liquidity transmission channel, sold assets to raise additional cash for use as collateral or to fund redemptions. Because they could sell only high-quality assets, they flooded the market with these, and often had to accept depressed prices, which further depressed prices.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol1_iss1_9_p0087"
+          },
+          {
+            "doc_id": "vol1_iss1_9",
+            "chunk_id": "vol1_iss1_9_c0043",
+            "document_type": "case_study",
+            "title": "The Lehman Brothers Bankruptcy H:  The Global Contagion",
+            "score": 0.5464,
+            "text": "Document: The Lehman Brothers Bankruptcy H:  The Global Contagion\n\nThe Lehman Brothers Bankruptcy H: The Global Contagion[1] > _Liquidity Channel/Coordination Contagion_\n\nThe _liquidity channel_ as explored by Longstaff (2010), states that \u201cinvestors who suffer losses in one market may find their ability to obtain funding impaired, potentially leading to a downward spiral in overall market liquidity and other asset prices via a \u2018flight to quality\u2019\u201d (Ibid. 437). This phenomenon occurs when a firm needs to raise funds, but certain assets can only be sold at fire-sale prices. For example, Bank A owns Type I and Type II assets. An event occurs that causes a sudden major decrease in the value of Type I assets that threatens Bank A\u2019s solvency. To raise funds, Bank A sells its Type I and Type II assets. Because these assets may be illiquid and difficult to sell (as many bank assets often are), prices on the assets start to fall (President\u2019s Report 2010, 173).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol1_iss1_9_p0042"
+          },
+          {
+            "doc_id": "vol3_iss2_1",
+            "chunk_id": "vol3_iss2_1_c0147",
+            "document_type": "article",
+            "title": "Revisiting Subprime Pricing Irrationality During the Global Financial Crisis",
+            "score": 0.5338,
+            "text": "Document: Revisiting Subprime Pricing Irrationality During the Global Financial Crisis\n\n7. Conclusions\n\nDeterioration in subprime fundamentals initiated the GFC. The \u201crun on repo\u201d and other leveraged vehicles then forced the sale of these and other financial assets to repay collateralized short-term lenders and their investors, such as money market funds. During the depths of the crisis it appeared, at least in hindsight, that liquidity concerns overwhelmed fundamental values, perhaps due to the limits of arbitrage. Many scholars and practitioners conclude that the \u201cfire sale\u201d pricing of the ABX indices, in particular, was irrational. Such \u201cirrational\u201d pricing forced holders of RMBS to mark down their investments, causing artificially low equity levels for banks and severe under-collateralization for others such as the insurance giant, AIG (Blankfein 2010). The assumption that ABX prices were irrational and the observation that such prices were used to estimate impairment to RMBS investments led to claims that mark to market exacerbated the GFC. The logical conclusion for some is that fair value accounting should be ignored during crises.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol3_iss2_1_p0146"
+          },
+          {
+            "doc_id": "vol1_iss1_2",
+            "chunk_id": "vol1_iss1_2_c0113",
+            "document_type": "case_study",
+            "title": "The Lehman Brothers Bankruptcy A: Overview",
+            "score": 0.5328,
+            "text": "Document: The Lehman Brothers Bankruptcy A: Overview\n\n_2007 Shocks and Contagion_\n\nAs the markets became unsure of the underlying value of ABSs, firms with exposures to ABSs found that their lenders demanded greater discounts (haircuts), restricted the types of collateral they would accept, or even refused to rollover their repos. Borrowers such as Lehman saw their liquidity needs and costs rapidly increase. In response, they sold assets to raise cash for collateral as lenders\u2019 requests escalated and then to fund redemptions as clients pulled back from the firms. The result was that high-quality assets were often sold at fire-sale prices, further aggravating an overall depressed and anxious market.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol1_iss1_2_p0111"
+          }
+        ],
+        "total_found": 15
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "central bank lender of last resort emergency liquidity facility to solvent but illiquid firms"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol4_iss2_3",
+            "chunk_id": "vol4_iss2_3_c0174",
+            "document_type": "survey",
+            "title": "Broad-Based Emergency Liquidity Programs",
+            "score": 0.6938,
+            "text": "Document: Broad-Based Emergency Liquidity Programs\n\n_Solvency and Viability Tests_\n\nCentral bankers generally support access to LOLR lending for solvent banks. However, they recognize that distinguishing illiquid from insolvent institutions is not easy and may be impossible in times of crisis (Domanski and Sushko 2014; Hauser 2014). As one group of central bankers concluded\u2014\u201cFirst, illiquidity tended to develop into insolvency crises the longer a crisis lasted; second, illiquidity and insolvency were not independent from the judgment of the authorities; and, third, solvency assessments by supervisors or analysts might be biased\u201d (Domanski and Sushko 2014). Further, a solvency decision depends on the value of assets. Assets are likely to be impaired in a crisis when valued at fire-sale prices but could regain their value if held and if a liquidity-related failure can be avoided (Domanski, Moessner, and Nelson 2014).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss2_3_p0168"
+          },
+          {
+            "doc_id": "vol4_iss2_3",
+            "chunk_id": "vol4_iss2_3_c0027",
+            "document_type": "survey",
+            "title": "Broad-Based Emergency Liquidity Programs",
+            "score": 0.665,
+            "text": "Document: Broad-Based Emergency Liquidity Programs\n\nIntroduction > Figure 1: Case Studies, Abbreviated Names, and Type of Lender of Last Resort (LOLR)\n\n_Source: Authors\u2019 analysis._",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss2_3_p0025"
+          },
+          {
+            "doc_id": "vol1_iss1_1",
+            "chunk_id": "vol1_iss1_1_c0054",
+            "document_type": "article",
+            "title": "The Early Phases of the Financial Crisis:  Reflections on the Lender of Last Resort",
+            "score": 0.661,
+            "text": "The Limits of the Emergency Authority under FRA Section 13(3)\n\nThe emergency authority in the Federal Reserve Act limited the terms on which the Fed could provide funding beyond the banking system, even during a systemic crisis. Such funding was available only if certain criteria were met including: (i) \u201cunusual and exigent circumstances\u201d existed, (ii) the borrower had no access to private funding, and (iii) the loan was \u201csecured to the satisfaction of the [lending] Federal Reserve bank.\u201d Section 13(3) provided the authority to lend to non-bank financial institutions, but not to provide capital, or guarantee creditors against loss. The defining difference between a loan and capital is that a loan is expected to be repaid, whereas equity capital provides a cushion against losses. This difference is underscored by the requirement in Section 13(3) that permits the Fed to lend only to the extent the Reserve Bank was secured as a lender\u2014that is, the Reserve Bank had to believe that there was sufficient collateral or other protection to provide a reasonable prospect of full repayment. Because of this limitation, lending under 13(3) could not be made to carry the power of equity or a guarantee. \n\nThe law gave the Fed room for judgment on how to evaluate how much that collateral was worth, but that discretion was limited. We could decide to take a fair amount of risk, by, for example, looking at what the firm\u2019s assets might be worth over a longer time frame. We also had some discretion in deciding what margin of safety we needed against loss. This meant that we could choose to lend to an institution or an affiliate of an institution that might be on the edge of failure to allow time for a more orderly liquidation, which generally would mitigate the damage to the system, but only to the extent we had security sufficient to cover the value of our loan. \n\nThe standard interpretation of the role of funding from the lender of last resort is that lending can help reduce the risk that the strong become illiquid, but it cannot make viable the fundamentally nonviable.[5] \n\n3 In 1991, the Federal Reserve Act was amended to make it clear, in the words of the committee report, that \u201cin [\u2026] an emergency, the Federal Reserve must be able to ensure the liquidity of the financial system, including if necessary by the use of advances [loans] to securities firms\u201d (U.S. Congress 1991). \n\n> 4 The FDIC did have authority to guarantee the liabilities of bank holding companies. \n\n> 5 Madigan (2009) discusses the Fed\u2019s crisis management in light of Bagehot\u2019s dictum\u2014\u201cTraditional central banking principles also tell us to lend only to solvent institutions and only against good collateral, but complying with these standards in a crisis is not entirely straightforward.\u201d Cline and Gagnon (2013) assert that \u201c\u2026federal officials, at least in hindsight, appear to have followed the dictum of Walter Bagehot [], which has guided central banks for almost 150 years.\u201d Posner (2016) claims that \u201cBefore the Dodd-Frank Act, the Fed was \n\n\nBagehot\u2019s dictum was that central banks should lend freely at a high rate of interest against \u201cgood\u201d assets. He did not explicitly state that the central bank should only lend to \u201csolvent\u201d institutions. \n\nThe emergency provision of the Federal Reserve Act did not explicitly require a finding of solvency.[6] This acknowledged the practical reality that solvency is hard to determine.[7] A judgment of solvency depends on the value of the assets of the firm and the strength of its businesses. These depend on the distribution of expected losses. These values are difficult to determine in normal times. They are particularly hard to assess in the midst of a crisis, when funding has eroded, the value of assets has fallen steeply, and the trust and confidence necessary for a financial institution to function are eroding. \n\nThe limiting condition in the Federal Reserve Act\u2014the ability to lend up to, but not in excess of, the value of the available security, less some margin of safety to protect the central bank from losses\u2014limits the value of the tool in preventing the failure of a weak financial institution. \n\nThe absence of an explicit solvency test in the Federal Reserve Act has not been interpreted within the Federal Reserve to mean that the lending tools could or should be used to sustain firms that are not viable. To lend freely to the nonviable is unlikely to work. And such lending carries other risks. Among these is the risk it leaves the central bank with large losses. It could increase moral hazard risks.[8] It may take the central bank into policy areas that most deem the provenance of the fiscal authorities. \n\nThe general approach that has defined central bank practice and that certainly affected our view of what was appropriate was that the lender of last resort facilities should be available to the relatively strong, even if they were suffering the signs of illiquidity, and generally not available to those that were at the weaker extreme and thus less likely to be viable. \n\nunderstood to be the LLR for solvent banks and non-banks. FDIC was the LLR for insolvent banks. There was no LLR for insolvent non-banks. Porter (2009) argues that\u2014\u201cSection 13(3) grants the Fed expansive authority in \u2018unusual and exigent circumstances,\u2019 without requiring a stringent legal standard be met in order to respond to crises.\u201d While Mehra (2010) does not definitively conclude that the Fed\u2019s decision not to lend to Lehman was consistent with its legal authority under Section 13(3), he does concede that the decision as to the sufficiency of Lehman\u2019s collateral was a decision within its discretion. \n\n6 It should be noted that although the law did not require a finding of solvency then, it does now. Section 1101(a) of Dodd Frank added a provision: \u201cThe Board shall establish procedures to prohibit borrowing from programs and facilities by borrowers that are insolvent.\u201d 12 U.S. Code \u00a7 343(B)(ii). \n\n7 Thomas Baxter made the useful point that there are other definitions of solvency, such as a failure to pay your debts as they come due or when the level of capital to total assets falls below a regulatory minimum. See for example Heaton (2007). \n\n> 8 Henry Thornton, who wrote about the lender of last resort in 1802, before Bagehot, explained\u2014\u201cIt is by no means intended to imply, that it would become the Bank of England to relieve every distress which the rashness of country banks may bring upon them; the bank [meaning the Bank of England], by doing this, might encourage their improvidence.\u201d (Goodhart 1999). \n\n\nOne last piece of this framework involves what might be called the implicit or persuasive powers of the central banks and the government. \n\nIn the financial crisis of the early 20th century, before the reforms that followed the Great Depression, the model for dealing with a dangerous financial failure was for J.P. Morgan or the New York Clearing House to convene the major banks and convince them that it was in their collective interest to help rescue the weakest among them. (Gorton 2012). The more recent example of the deft use of these powers was Bill McDonough\u2019s successful effort in 1998 to put together a consortium of financial firms in order to prevent a disorderly liquidation of the large hedge fund Long-Term Capital management (LTCM). An important part of what bank supervisors and central banks can do in a crisis is to arrange a rescue of the weak by the relatively strong. \n\nThis strategy works in situations where the strong are strong enough to absorb the weak. It is unlikely to work if a whole class of institutions is weak and the entire system fragile. \n\nPutting all this together, the emergency financial powers of the United States on the eve of the crisis were designed for a bank-dominated financial system, not for the complex financial system we had in 2007. The tools were more designed to address liquidity problems, rather than problems of inadequate capital. The powers available to manage the failure of a large institution were limited to banks and did not exist for the rest of the financial system. Overall, the system was better positioned to deal with an idiosyncratic shock than a systemic financial crisis. It had worked reasonably well for the crisis of the previous several decades, but was not up to the challenge of confronting a classic financial panic. \n\nIt\u2019s also worth noting that the U.S. emergency arsenal was, in important respects, weaker than that available to the authorities in the other major economies. This relative weakness was partly a function of the fact that most other major financial systems were dominated by universal banks, while our system limited the activities of banks and divided financial activities among banks and non-banks. This meant the defenses of prudential regulation and the safety net applied more broadly in most other economies than in the United States. In addition, most other central banks had broader standing authority to intervene in a financial crisis, not just because of the broader reach of their traditional lending facilities, but also because many had the authority to purchase a much broader range of financial assets than did the Federal Reserve. This would prove extremely valuable in helping prevent a more damaging collapse in asset values and in funding markets. Finally, parliamentary systems of government typically had more ability to legislate additional emergency authority in the crisis than did the United States system, with its greater separation between executive and legislative branches and the periodic reality that the party of the President might not control either house of Congress. In the United States, the President\u2019s authority to deal with a systemic financial crisis, without action by Congress, was essentially limited to closing the equity markets and declaring a bank holiday.",
+            "matched_text": "The Early Phases of the Financial Crisis: Reflections on the Lender of Last Resort > The Limits of the Emergency Authority under FRA Section 13(3)\n\nThe general approach that has defined central bank practice and that certainly affected our view of what was appropriate was that the lender of last resort facilities should be available to the relatively strong, even if they were suffering the signs of illiquidity, and generally not available to those that were at the weaker extreme and thus less likely to be viable.",
+            "page": 1,
+            "parent_id": "vol1_iss1_1_p0043"
+          },
+          {
+            "doc_id": "vol7_iss1_3",
+            "chunk_id": "vol7_iss1_3_c0027",
+            "document_type": "survey",
+            "title": "Ad Hoc Emergency Liquidity Programs in the 21st Century",
+            "score": 0.654,
+            "text": "Document: Ad Hoc Emergency Liquidity Programs in the 21st Century\n\nLiquidity versus Solvency\u2014versus Viability\n\nat a penalty rate.\u201d[12] It has thus long been a common view among financial authorities that central banks should provide liquidity only to firms that are \u201csolvent but illiquid.\u201d",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss1_3_p0023"
+          },
+          {
+            "doc_id": "vol4_iss2_3",
+            "chunk_id": "vol4_iss2_3_c0085",
+            "document_type": "survey",
+            "title": "Broad-Based Emergency Liquidity Programs",
+            "score": 0.6509,
+            "text": "Document: Broad-Based Emergency Liquidity Programs\n\n_Applications of Preexisting Emergency Authorities_\n\n14 And although this policy statement is primarily concerned with LOLR assistance to individual institutions, its requirements also seem to apply to broad-based liquidity such as the five measures introduced in September 2008 (Hoffner 2022b). The policy statement includes the following paragraph:",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss2_3_p0067"
+          }
+        ],
+        "total_found": 15
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "capital injection recapitalization stress test distinguishing solvent from insolvent institutions"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol4_iss1_1",
+            "chunk_id": "vol4_iss1_1_c0100",
+            "document_type": "survey",
+            "title": "Broad-Based Capital Injection Programs",
+            "score": 0.6919,
+            "text": "Document: Broad-Based Capital Injection Programs\n\n_Triage for Solvency/Viability_\n\nThe data and methodology of stress testing have advanced significantly since the GFC, which means that crisis triage techniques used in the past may be outdated. Some central banks may now have the data and skills to perform a credible stress test in the short timeframe required during the acute phase of a crisis. But a timeless lesson is that, in the acute stage, capital injections will not achieve their goal of calming bank counterparties if the size and features of the program are based on a non-credible test.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss1_1_p0095"
+          },
+          {
+            "doc_id": "vol7_iss1_1",
+            "chunk_id": "vol7_iss1_1_c0020",
+            "document_type": "article",
+            "title": "Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution",
+            "score": 0.6698,
+            "text": "Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\n\nII. A Regulatory Blind Spot\n\nConsider the current sequence of Pillar II intervention steps. A stress test evaluation may lead to conclude that the bank is insolvent, or potentially solvent but undercapitalized (Figure 1). In the first case, the supervisor must put in resolution the insolvent bank; the second case calls for a path to going-concern recapitalization. However, at present, there are no effective tools to support such a recovery, short of public risk absorption. We call this a serious intervention gap.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss1_1_p0016"
+          },
+          {
+            "doc_id": "vol7_iss1_1",
+            "chunk_id": "vol7_iss1_1_c0041",
+            "document_type": "article",
+            "title": "Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution",
+            "score": 0.6669,
+            "text": "Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\nFigure \u2014 Figure 3: Capital Adequacy and Going-concern Bail-in\n\nGoing-concern Bail-in\n\nFigure 3 depicts the effect of going-concern recapitalization, timed when new private risk absorption is not forthcoming due to debt overhang. For such a tool to become credible, the regulatory norms and contractual feature of AT1 contingent capital have to be redefined to ensure that the going-concern loss absorption will happen promptly.[8 ] This requires resolving the current legal ambiguity over the executability of the conversion trigger ahead of default.\n\n[FIGURE id=vol7_iss1_1_f3 type=figure page=9 label=\"Figure 3\" file=figure_3.png caption=\"Capital Adequacy and Going-concern Bail-in\"]",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss1_1_p0038"
+          },
+          {
+            "doc_id": "vol7_iss1_1",
+            "chunk_id": "vol7_iss1_1_c0168",
+            "document_type": "article",
+            "title": "Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution",
+            "score": 0.6618,
+            "text": "Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\n\nAppendix C: When Is a Bank Undercapitalized?\n\nFrom an economic perspective, a bank with inadequate equity may be considered solvent if it has a viable business model, especially if its losses are on safe asset holdings so that the downside risk of credit losses is limited. Such a bank may be at the mercy of run expectations, as both the value of its assets and the value of its deposit franchise cannot be realized in a quick sale. This is the category of banks that would benefit from going-concern conversion. A contingent bail-in favors recovery as long as it is coupled with tools to prevent panics and generate runs, such as the liquidity charge we propose.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss1_1_p0165"
+          },
+          {
+            "doc_id": "vol4_iss1_1",
+            "chunk_id": "vol4_iss1_1_c0200",
+            "document_type": "survey",
+            "title": "Broad-Based Capital Injection Programs",
+            "score": 0.643,
+            "text": "Document: Broad-Based Capital Injection Programs\n\nConclusion\n\nTriage of banks, through stress tests or other means, is good practice in a chronic phase but may not be desirable (or even feasible) in an acute phase. Designers want to get the right amount of capital into each bank and are understandably wary about sending any capital to unviable enterprises. During a chronic phase of a crisis, when run risk is low, a well-designed triage system can greatly mitigate these concerns. The case studies include several examples of such triage that have received positive postmortem reviews. But the case studies also",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss1_1_p0195"
+          }
+        ],
+        "total_found": 15
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "guarantees deposit insurance stopping bank runs and panic restoring confidence"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol4_iss2_2",
+            "chunk_id": "vol4_iss2_2_c0010",
+            "document_type": "survey",
+            "title": "Account Guarantee Survey",
+            "score": 0.6681,
+            "text": "Document: Account Guarantee Survey\n\nIntroduction\n\nBank runs have accelerated financial crises throughout history. Widespread withdrawals from accounts that enable depositors to access their funds on demand can have a destabilizing effect on institutions lacking the liquid assets to meet those withdrawal requests. Governments have a long record of responding to runs with ad hoc measures to support banks, often protecting depositors and other stakeholders in the process. But until the 1960s, only the United States had a formal, standing guarantee to depositors that they would receive their funds back even in the event of an institution\u2019s failure. Historians attribute the early US adoption of explicit deposit insurance to the country\u2019s unusual reliance on small banks and its history of periodic banking panics (Anginer, Demirg\u00fc\u00e7-Kunt, and Zhu 2014; Calomiris and Jaremski 2016). As bank failures became more common in the 1970s and 1980s, other countries increasingly adopted explicit national deposit insurance systems to replace the implicit insurance implied by ad hoc rescues. The move toward explicit insurance accelerated as the European Union (EU), International Monetary Fund (IMF), and World Bank (WB) promoted the practice in the 1990s. But adoption in any given country was most likely during or after a banking crisis (Demirg\u00fc\u00e7-Kunt, Kane, and Laeven 2008).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss2_2_p0009"
+          },
+          {
+            "doc_id": "vol2_iss1_4",
+            "chunk_id": "vol2_iss1_4_c0004",
+            "document_type": "case_study",
+            "title": "Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis",
+            "score": 0.6109,
+            "text": "Document: Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis\n\nGuarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis[1] > 1. Introduction\n\nDuring 2008-09, the federal government extended multiple guarantee programs in an effort to restore the financial market and contain the panic and crisis in the market. For example, to stop a disruption and run in the money market funds (MMFs), the Treasury provided a guarantee for the investors of the fund ensuring that the value of their shares would not fall below $1.00 per share. Additionally, the Congress raised the maximum guaranteed value of the FDIC-insured accounts from $100,000 to $250,000 per account. The Federal Deposit Insurance Corporation (FDIC) also established the Debt Guarantee Program (DGP) standing behind certain newly issued senior unsecured debt to restore the interbank lending market, and the Transaction Account Guarantee Program (TAGP) covering non-interest-bearing transaction accounts to prevent runs in small banks by maintaining depositor confidence. Later under the Troubled Asset Relief Program (TARP), the Treasury, the FDIC, and the Federal Reserve jointly decided to guarantee and share losses of certain assets belonging to Citigroup and Bank of America. However, the guarantee program for Bank of America was not finalized. Overall, the guarantees provided by the government exceeded the total value of TARP, making guarantees the single largest element of the government\u2019s response to the financial crisis (COP 2009).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol2_iss1_4_p0003"
+          },
+          {
+            "doc_id": "vol2_iss1_4",
+            "chunk_id": "vol2_iss1_4_c0058",
+            "document_type": "case_study",
+            "title": "Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis",
+            "score": 0.6085,
+            "text": "Document: Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis\n\nGuarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis[1] > Rationale and Assessment of the Program\n\nOn the other hand, the TAGP was to reassure bank customers\u2019 confidence in safe banking that is vital to public confidence in the banking system. It was to provide stability to the insured banks, particularly smaller ones, enabling their commercial customers to continue to do business without disruption (Bair 2008).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol2_iss1_4_p0053"
+          },
+          {
+            "doc_id": "vol2_iss1_4",
+            "chunk_id": "vol2_iss1_4_c0049",
+            "document_type": "case_study",
+            "title": "Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis",
+            "score": 0.6082,
+            "text": "Document: Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis\n\nGuarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis[1] > 3.  Temporary Liquidity Guarantee Program\n\nAfter December 31, 2010, the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) provided temporary unlimited deposit insurance coverage for noninterest-bearing transaction accounts through December 31, 2012, regardless of the balance in the account and the ownership capacity of the funds. This coverage essentially replaced the expired TAGP, and was available to all depositors, including consumers, businesses, and government entities. The coverage was separate from, and in addition to, the standard insurance coverage provided for a depositor\u2019s other accounts held at an FDIC-insured bank. Following Figure 1 summarizes the key terms of the DGP and the TAGP.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol2_iss1_4_p0040"
+          },
+          {
+            "doc_id": "vol4_iss2_2",
+            "chunk_id": "vol4_iss2_2_c0156",
+            "document_type": "survey",
+            "title": "Account Guarantee Survey",
+            "score": 0.6047,
+            "text": "Document: Account Guarantee Survey\n\nConclusion\n\nguarantees can cause a flight of funds from other parts of the financial system and other jurisdictions that lack similar guarantees. The AG programs were generally successful in retaining and attracting deposits. Preliminarily assessing the performance of deposit insurance schemes during the GFC, Demirg\u00fc\u00e7-Kunt, Kane, and Laeven concluded that such schemes \u201cby and large\u2026fulfilled [their] foremost purpose of preventing open runs on bank deposits\u201d (Demirg\u00fc\u00e7-Kunt, Kane, and Laeven 2015).[13] Sometimes a program\u2019s announcement alone appears to have had an impact, as was the case in Taiwan (Basri and Rahardja 2010; Ko 2008). But it is important to understand where the new deposits came from and whether the guarantee in question stabilized one part of the system or one jurisdiction at the expense of another. International cooperation, such as was seen in the EU (although not without tensions) and with the Tripartite Working Group in Hong Kong, Malaysia, and Singapore, can help alleviate these concerns. Design features such as the TGMMF\u2019s \u201cexisting balances only\u201d approach to account eligibility would also help ensure that the introduction of an AG program does not precipitate a run somewhere else.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss2_2_p0153"
+          }
+        ],
+        "total_found": 15
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "asset purchase programs to support market prices maintain funding markets commercial paper"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol4_iss2_67",
+            "chunk_id": "vol4_iss2_67_c0009",
+            "document_type": "case_study",
+            "title": "Canada: Commercial Paper Purchase Program",
+            "score": 0.6794,
+            "text": "Document: Canada: Commercial Paper Purchase Program\n\nKey Terms\n\nPurpose: To relieve strains in the domestic commercial paper (CP) market and support the flow of credit to firms and public authorities by directly purchasing CP, including asset-back CP, on the primary and secondary markets.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss2_67_p0008"
+          },
+          {
+            "doc_id": "vol2_iss3_7",
+            "chunk_id": "vol2_iss3_7_c0085",
+            "document_type": "case_study",
+            "title": "The Commercial Paper Funding Facility (U.S. GFC)",
+            "score": 0.6478,
+            "text": "Document: The Commercial Paper Funding Facility (U.S. GFC)\n\nIII. Evaluation\n\nThis facility in addition to the recently announced Money Market Investor Funding Facility will provide significant support for the CP market. We are seeing maturities extending and improved pricing in the market as a result of this program. (GEC 2008)\n\nIn testifying before the US House of Representatives Committee on Financial Services on November 18, 2008, then\u2013Federal Reserve Chairman Ben Bernanke also cited the impact of the CPFF as favorable: \u201c[It has] allow[ed] many firms to extend significant amounts of\n\nfunding into next year,\u201d resulting in \u201cgreater stability in money market mutual funds and the commercial paper market\u201d (Bernanke 2008).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol2_iss3_7_p0082"
+          },
+          {
+            "doc_id": "vol2_iss3_7",
+            "chunk_id": "vol2_iss3_7_c0019",
+            "document_type": "case_study",
+            "title": "The Commercial Paper Funding Facility (U.S. GFC)",
+            "score": 0.6437,
+            "text": "Document: The Commercial Paper Funding Facility (U.S. GFC)\n\nProgram Description\n\n_____________________________________________________________________\n\n> 3 US Treasury Temporary Guarantee Programs for Money Market Funds. Also see McNamara (2016) discussing the guarantee program.\n\n> 4 See Wiggins (forthcoming) discussing the Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF).\n\n> 5 Federal Reserve Act of 1913, Section 13(3) (12 U.S.C. \u00a7 343)\u2014\u201cDiscount of Obligations Arising out of Actual Commercial Transactions, as Amended.\u201d",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol2_iss3_7_p0017"
+          },
+          {
+            "doc_id": "vol4_iss2_83",
+            "chunk_id": "vol4_iss2_83_c0009",
+            "document_type": "case_study",
+            "title": "United States: Commercial Paper Funding Facility II",
+            "score": 0.6417,
+            "text": "Document: United States: Commercial Paper Funding Facility II\n\nKey Terms\n\nPurpose: \u201cTo provide a liquidity backstop to US issuers of commercial paper, including municipalities, by purchasing three-month unsecured and asset-backed commercial paper directly from eligible issuers.\u201d",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss2_83_p0008"
+          },
+          {
+            "doc_id": "vol2_iss3_10",
+            "chunk_id": "vol2_iss3_10_c0107",
+            "document_type": "case_study",
+            "title": "The Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF) (U.S. GFC)",
+            "score": 0.6391,
+            "text": "Document: The Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF) (U.S. GFC)\n\nIII. Evaluation\n\nSignificantly, the CPFF, which would grow to be one of the Fed\u2019s largest crisis-fighting programs, made its first purchases on October 27, 2008; at the time, utilization of the AMLF was decreasing after an initial spurt of usage. By the end of the year, the total value of commercial paper purchased under the CPFF equaled $335 billion, out of which one-third was ABCP ($110 billion) (Wiggins 2017). Aside from one small stint of activity during spring 2009, the AMLF remained generally unused as the ABCP that it financed matured.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol2_iss3_10_p0099"
+          }
+        ],
+        "total_found": 15
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "lessons learned overwhelming force force decisiveness credibility of intervention avoid half measures",
+        "document_type": "lesson_learned"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol6_iss2_7",
+            "chunk_id": "vol6_iss2_7_c0012",
+            "document_type": "lesson_learned",
+            "title": "Lessons Learned: Bo Lundgren",
+            "score": 0.5435,
+            "text": "Document: Lessons Learned: Bo Lundgren\n\nInterventions create great expectations and panic can occur when these expectations are not adhered to or when policymakers change course.\n\nFor Lundgren, concrete moves to support confidence are key to stabilizing a crisis. And that\u2019s a lesson he thinks applies across time and different crises: \u201cSometime in the development of the crisis, there is probably shaky confidence. . . . You have to do it, and at least then you can manage the situation.\u201d When authorities don\u2019t act, he cautioned, the results can be catastrophic:",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol6_iss2_7_p0011"
+          },
+          {
+            "doc_id": "vol4_iss1_22",
+            "chunk_id": "vol4_iss1_22_c0022",
+            "document_type": "lesson_learned",
+            "title": "Lessons Learned: Matthew Feldman",
+            "score": 0.5299,
+            "text": "Document: Lessons Learned: Matthew Feldman\n\nDecision makers should define and limit the scope of the experts implementing the intervention, so they do not get sidetracked.\n\nlegitimate representatives of trade groups. We did meet with a lot of different groups and a lot of different people.\u201d",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss1_22_p0020"
+          },
+          {
+            "doc_id": "vol4_iss4_38",
+            "chunk_id": "vol4_iss4_38_c0009",
+            "document_type": "lesson_learned",
+            "title": "Lessons Learned: Kevin Stiroh",
+            "score": 0.5286,
+            "text": "Document: Lessons Learned: Kevin Stiroh\n\nResources are better spent developing possible interventions for a variety of outcomes instead of debating the odds that any one scenario would occur.\n\nOperationalizing this thinking requires having a diversity of viewpoints and opinions available and channeling them into exercises, analytics, and other tools. He says,",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss4_38_p0006"
+          },
+          {
+            "doc_id": "vol6_iss4_8",
+            "chunk_id": "vol6_iss4_8_c0015",
+            "document_type": "lesson_learned",
+            "title": "Lessons Learned: Karl-Philipp Wojick",
+            "score": 0.5215,
+            "text": "Document: Lessons Learned: Karl-Philipp Wojick\n\nWhen designing crisis-fighting tools or deciding which ones to use, be simple and pragmatic, but don\u2019t be afraid to be bold and creative.\n\nI think what is extremely important as a lesson is to always look for pragmatic and simple solutions, and basically to build consensus around these solutions. In my view, what I\u2019ve seen is the following: The simpler the solutions, the better to explain it is, the easier it is also to build consensus around it. That is, I think, one of the first main lessons.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol6_iss4_8_p0012"
+          },
+          {
+            "doc_id": "vol4_iss1_23",
+            "chunk_id": "vol4_iss1_23_c0018",
+            "document_type": "lesson_learned",
+            "title": "Lessons Learned: Sadiq Malik",
+            "score": 0.5125,
+            "text": "Document: Lessons Learned: Sadiq Malik\n\nThe basic focus and scope of the intervention needs to be discussed and agreed to upfront.\n\nMany policymakers have expressed the view that a crisis is not the time to address fundamental weaknesses of an entity or system. Crises are by nature urgent situations; distraction can lead to delay, which can lead to disaster. Therefore, many authorities believe that the primary focus should be narrow, on how to stabilize the entity or system as quickly as possible\u2014first put out the fire and later ask how the fire started.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss1_23_p0017"
+          }
+        ],
+        "total_found": 15
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "moral hazard penalty rate stigma conditions on capital injections dividends executive compensation exit strategy"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol4_iss1_1",
+            "chunk_id": "vol4_iss1_1_c0175",
+            "document_type": "survey",
+            "title": "Broad-Based Capital Injection Programs",
+            "score": 0.5404,
+            "text": "Document: Broad-Based Capital Injection Programs\n\n15. Other Conditions: Should recapitalization come with nonprice conditions to incentivize banks to exit government support quickly?\n\nevident: if the government is injecting capital, then it would work directly against their goals for that capital to be immediately paid out to shareholders. In addition to the direct reduction in capital, allowing dividend payments carries political risk. The main argument against such a restriction is that it could serve to stigmatize program recipients.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss1_1_p0168"
+          },
+          {
+            "doc_id": "vol3_iss3_3",
+            "chunk_id": "vol3_iss3_3_c0046",
+            "document_type": "case_study",
+            "title": "Danish Capital Injections Scheme 2009 (DK GFC)",
+            "score": 0.5201,
+            "text": "Document: Danish Capital Injections Scheme 2009 (DK GFC)\n\n12. Other conditions: Recipients of capital injections had to commit to promoting lending to the real economy and were banned from paying dividends until 2010.\n\nInstitutions receiving capital injections were banned from making dividend payments in 2009 and 2010. They could only pay out dividends covered by their annual profits thereafter (EC 2009a). Until the recipient exited the capital injection program, they were also banned from creating stock option programs for management and from repurchasing stock.\n\n**13. Exit strategy: The capital injection could be paid back after the third year at 100% of the face value plus interest; the callable value was stepped up afterwards.**",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol3_iss3_3_p0044"
+          },
+          {
+            "doc_id": "vol4_iss1_1",
+            "chunk_id": "vol4_iss1_1_c0145",
+            "document_type": "survey",
+            "title": "Broad-Based Capital Injection Programs",
+            "score": 0.5182,
+            "text": "Document: Broad-Based Capital Injection Programs\n\n_Generous or Punitive?_\n\nGoing into the Global Financial Crisis, the European Commission\u2019s State Aid rules followed the principle that recapitalizations should minimize the amount of State Aid. Such a principle would suggest charging relatively high interest and dividend payments in BBCI programs. Nonetheless, the EC recognized that high rates would discourage banks from participating in recapitalizations. The EC intended to adjust to long-term market conditions and not to impose unfavorable conditions at the time of the crisis. For these reasons, the EC approved dividend rates reflecting market-based remuneration between 6% and 9.3%, according to the degree of subordination. Individual member states had room to adjust the EC guideline for two reasons: (1) to incentivize early repayment, so as to reduce taxpayers\u2019 exposure; and (2) to avoid excessive recourse to the program, without being excessively penalizing (Panetta et al. 2009).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss1_1_p0141"
+          },
+          {
+            "doc_id": "vol6_iss3_1",
+            "chunk_id": "vol6_iss3_1_c0070",
+            "document_type": "survey",
+            "title": "Survey of Ad Hoc Capital Injections",
+            "score": 0.5167,
+            "text": "Document: Survey of Ad Hoc Capital Injections\n\n6. Communication and Disclosure: How did the government communicate the goals of the program? Were there any special communication issues? > Figure 4: Imposition of Losses on Stakeholders\n\nBurden sharing can also affect stakeholders beyond equity shareholders. Eight cases imposed losses on preferred shareholders or subordinated debt holders. The Commission criticized Spanish authorities in the CCM case for allowing remuneration for certain hybrid capital holders. CCM called two previously issued preference shares at par value after the capital injection despite the absence of distributable profits. Also, CCM had made discretionary coupon payments on hybrid capital although it was incurring losses in the previous year (Swaminathan 2024). The EC noted that this was inconsistent with its policies on hybrid instruments and its principles on burden sharing since the creditors were not made to bear any of the losses. This was despite CCM having no legal obligation to do this and the central bank having the right to bail in the debt before any recapitalization of the entity (Santos 2017).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol6_iss3_1_p0064"
+          },
+          {
+            "doc_id": "vol3_iss3_15",
+            "chunk_id": "vol3_iss3_15_l0079",
+            "document_type": "case_study",
+            "title": "Prompt Recapitalization Act",
+            "score": 0.5072,
+            "text": "Document: Prompt Recapitalization Act\n\n7. There were constraints on management pay as well as shareholder compensation.\n\n7. There were constraints on management pay as well as shareholder compensation.\n\nDuring the course of the capital injection, management positions were no longer allowed to take bonuses on their salary. In addition, the banks were no longer allowed to issue dividends to shareholders while using capital injection funding (Prompt Recapitalization Act 1998).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": null
+          }
+        ],
+        "total_found": 15
+      }
+    },
+    {
+      "name": "search_corpus",
+      "arguments": {
+        "query": "sequencing comprehensive response combining liquidity guarantees and capital simultaneously why liquidity alone insufficient",
+        "document_type": "survey"
+      },
+      "result": {
+        "results": [
+          {
+            "doc_id": "vol7_iss1_3",
+            "chunk_id": "vol7_iss1_3_c0027",
+            "document_type": "survey",
+            "title": "Ad Hoc Emergency Liquidity Programs in the 21st Century",
+            "score": 0.5467,
+            "text": "Document: Ad Hoc Emergency Liquidity Programs in the 21st Century\n\nLiquidity versus Solvency\u2014versus Viability\n\nat a penalty rate.\u201d[12] It has thus long been a common view among financial authorities that central banks should provide liquidity only to firms that are \u201csolvent but illiquid.\u201d",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss1_3_p0023"
+          },
+          {
+            "doc_id": "vol4_iss2_3",
+            "chunk_id": "vol4_iss2_3_c0020",
+            "document_type": "survey",
+            "title": "Broad-Based Emergency Liquidity Programs",
+            "score": 0.5411,
+            "text": "Document: Broad-Based Emergency Liquidity Programs\n\nIntroduction\n\nTo illustrate the challenge, it is helpful to think of financial crises and policy responses as having two different phases, \u201cacute\u201d and \u201cchronic.\u201d In the initial acute phase, the financial system has an obvious liquidity problem\u2014runs on banks or breakdowns in interbank markets are easy to spot\u2014but the underlying solvency of banks is difficult to judge in the heat of that moment. The asset side of financial institutions\u2019 balance sheets may be impossible to value, and the collapse on the liability side can lead them to sell these assets at temporarily depressed prices. During this acute phase, policy responses need to be fast and emphasize protection of the fragile liabilities. That protection can be in the form of emergency lending, liability guarantees, or some combination of the two. To achieve these goals, policy should be targeted to reassure depositors and other short-term bank creditors that bank liabilities are safe. The goal in this phase is to arrest runs and prevent fire sales. Any strict solvency condition is doomed to failure\u2014there is simply no time to make such judgments.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss2_3_p0012"
+          },
+          {
+            "doc_id": "vol4_iss2_3",
+            "chunk_id": "vol4_iss2_3_c0270",
+            "document_type": "survey",
+            "title": "Broad-Based Emergency Liquidity Programs",
+            "score": 0.5247,
+            "text": "Document: Broad-Based Emergency Liquidity Programs\n\n_Standard Collateral Frameworks_\n\nDespite the efficiencies of using an established collateral haircut schedule, the schedule might not be the most appropriate in some circumstances. After all, central banks set these schedules during normal market conditions, whereas a liquidity constraint can easily disrupt the underlying assumptions and cause collateral to quickly lose value and become illiquid. When an existing schedule is inappropriate, the LOLR can take steps to adjust haircuts for certain classes of collateral. This alteration can be done by adding premiums such as for",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss2_3_p0266"
+          },
+          {
+            "doc_id": "vol7_iss1_3",
+            "chunk_id": "vol7_iss1_3_c0020",
+            "document_type": "survey",
+            "title": "Ad Hoc Emergency Liquidity Programs in the 21st Century",
+            "score": 0.5195,
+            "text": "Document: Ad Hoc Emergency Liquidity Programs in the 21st Century\n\nIntroduction > Figure 1: Case Studies and Short-form Case Names\n\nprogram should not be expected to prevent or solve the chronic, or \u201cdebt overhang,\u201d phase of the institution\u2019s crisis. Addressing an institution\u2019s chronic problems typically demands more structural policy responses\u2014such as capital injections, liability guarantees, balance sheet restructurings, or orderly resolutions. Crisis-fighters often suggest that their intent in providing emergency liquidity is to prevent an institution that is \u201cilliquid but solvent\u201d from tipping into insolvency, but liquidity crises are rare in the absence of deeper-seated solvency or viability concerns.",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol7_iss1_3_p0016"
+          },
+          {
+            "doc_id": "vol4_iss2_3",
+            "chunk_id": "vol4_iss2_3_c0332",
+            "document_type": "survey",
+            "title": "Broad-Based Emergency Liquidity Programs",
+            "score": 0.5188,
+            "text": "Document: Broad-Based Emergency Liquidity Programs\n\n_A Note about Constructive Ambiguity_\n\nA second option for a LOLR to consider is to define and publish a liquidity framework before it is needed. A theory among central bankers is that one way to address moral hazard is \u201cconstructive ambiguity\u201d about the availability of emergency liquidity, the argument being that if the circumstances under which the central bank will provide liquidity are unclear, banks are unable to game around or rely on such support (Winters 2012). Constructive ambiguity is intended to also preserve the central bank\u2019s discretion to provide or withhold such support and on what terms (Lee 2016).",
+            "matched_text": "",
+            "page": 1,
+            "parent_id": "vol4_iss2_3_p0331"
+          }
+        ],
+        "total_found": 15
+      }
+    }
+  ],
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "I'll research the corpus for lessons on how governments have responded to solvency and liquidity crises at financial intermediaries, then apply them to your scenario.",
+      "refusal": null,
+      "reasoning": null,
+      "tool_calls": [
+        {
+          "type": "function",
+          "index": 0,
+          "id": "toolu_017D4cDAaXeHVojPW8tHT8Gs",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"government response to solvency and liquidity crisis at financial intermediaries\", \"document_type\": \"survey\"}"
+          }
+        },
+        {
+          "type": "function",
+          "index": 1,
+          "id": "toolu_01Y6Y3FczU14EDekLg2nsaeE",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"asset price crash collateral decline forced selling fire sale contagion\"}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_017D4cDAaXeHVojPW8tHT8Gs",
+      "content": "{\"results\": [], \"total_found\": 0}"
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_01Y6Y3FczU14EDekLg2nsaeE",
+      "content": "{\"results\": [{\"doc_id\": \"vol3_iss2_1\", \"chunk_id\": \"vol3_iss2_1_c0010\", \"document_type\": \"article\", \"title\": \"Revisiting Subprime Pricing Irrationality During the Global Financial Crisis\", \"score\": 0.5699, \"text\": \"Document: Revisiting Subprime Pricing Irrationality During the Global Financial Crisis\\n\\n1. Introduction\\n\\nCollateralized Debt Obligations (CDO) positions to the index default swap prices may have exacerbated the crisis by forcing investors to sell RMBS and other assets to shore up capital, or otherwise make balance sheets appear worse than they really were, inciting investor panic, leading to even more fire sales at distressed prices.[5] In addition to Kolasinski (2011), Sapra (2008), French et al. (2010), and Kothari and Lester (2012) conclude from studying this period that fair value accounting should not be applied to such assets during periods of severe financial crisis.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol3_iss2_1_p0004\"}, {\"doc_id\": \"vol1_iss1_9\", \"chunk_id\": \"vol1_iss1_9_c0094\", \"document_type\": \"case_study\", \"title\": \"The Lehman Brothers Bankruptcy H:  The Global Contagion\", \"score\": 0.5658, \"text\": \"Document: The Lehman Brothers Bankruptcy H:  The Global Contagion\\n\\nThe Lehman Brothers Bankruptcy H: The Global Contagion[1] > 6.   How Did Subprime Mortgages Shock the World\\u2019s Economies?\\n\\nLending firms sought to protect themselves. As shown in Figure 10, beginning in September 2007, there was a noticeable uptick in the haircuts (discounts) demanded for funding. Lenders then restricted the types of collateral they would accept or refused to roll over repos at all. Borrowers facing funding restraints hoarded cash and, mirroring the classic scenario of a contagion spread by a liquidity transmission channel, sold assets to raise additional cash for use as collateral or to fund redemptions. Because they could sell only high-quality assets, they flooded the market with these, and often had to accept depressed prices, which further depressed prices.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol1_iss1_9_p0087\"}, {\"doc_id\": \"vol1_iss1_9\", \"chunk_id\": \"vol1_iss1_9_c0043\", \"document_type\": \"case_study\", \"title\": \"The Lehman Brothers Bankruptcy H:  The Global Contagion\", \"score\": 0.5464, \"text\": \"Document: The Lehman Brothers Bankruptcy H:  The Global Contagion\\n\\nThe Lehman Brothers Bankruptcy H: The Global Contagion[1] > _Liquidity Channel/Coordination Contagion_\\n\\nThe _liquidity channel_ as explored by Longstaff (2010), states that \\u201cinvestors who suffer losses in one market may find their ability to obtain funding impaired, potentially leading to a downward spiral in overall market liquidity and other asset prices via a \\u2018flight to quality\\u2019\\u201d (Ibid. 437). This phenomenon occurs when a firm needs to raise funds, but certain assets can only be sold at fire-sale prices. For example, Bank A owns Type I and Type II assets. An event occurs that causes a sudden major decrease in the value of Type I assets that threatens Bank A\\u2019s solvency. To raise funds, Bank A sells its Type I and Type II assets. Because these assets may be illiquid and difficult to sell (as many bank assets often are), prices on the assets start to fall (President\\u2019s Report 2010, 173).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol1_iss1_9_p0042\"}, {\"doc_id\": \"vol3_iss2_1\", \"chunk_id\": \"vol3_iss2_1_c0147\", \"document_type\": \"article\", \"title\": \"Revisiting Subprime Pricing Irrationality During the Global Financial Crisis\", \"score\": 0.5338, \"text\": \"Document: Revisiting Subprime Pricing Irrationality During the Global Financial Crisis\\n\\n7. Conclusions\\n\\nDeterioration in subprime fundamentals initiated the GFC. The \\u201crun on repo\\u201d and other leveraged vehicles then forced the sale of these and other financial assets to repay collateralized short-term lenders and their investors, such as money market funds. During the depths of the crisis it appeared, at least in hindsight, that liquidity concerns overwhelmed fundamental values, perhaps due to the limits of arbitrage. Many scholars and practitioners conclude that the \\u201cfire sale\\u201d pricing of the ABX indices, in particular, was irrational. Such \\u201cirrational\\u201d pricing forced holders of RMBS to mark down their investments, causing artificially low equity levels for banks and severe under-collateralization for others such as the insurance giant, AIG (Blankfein 2010). The assumption that ABX prices were irrational and the observation that such prices were used to estimate impairment to RMBS investments led to claims that mark to market exacerbated the GFC. The logical conclusion for some is that fair value accounting should be ignored during crises.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol3_iss2_1_p0146\"}, {\"doc_id\": \"vol1_iss1_2\", \"chunk_id\": \"vol1_iss1_2_c0113\", \"document_type\": \"case_study\", \"title\": \"The Lehman Brothers Bankruptcy A: Overview\", \"score\": 0.5328, \"text\": \"Document: The Lehman Brothers Bankruptcy A: Overview\\n\\n_2007 Shocks and Contagion_\\n\\nAs the markets became unsure of the underlying value of ABSs, firms with exposures to ABSs found that their lenders demanded greater discounts (haircuts), restricted the types of collateral they would accept, or even refused to rollover their repos. Borrowers such as Lehman saw their liquidity needs and costs rapidly increase. In response, they sold assets to raise cash for collateral as lenders\\u2019 requests escalated and then to fund redemptions as clients pulled back from the firms. The result was that high-quality assets were often sold at fire-sale prices, further aggravating an overall depressed and anxious market.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol1_iss1_2_p0111\"}], \"total_found\": 15}"
+    },
+    {
+      "role": "assistant",
+      "content": "The corpus is about the Global Financial Crisis. Let me search for the specific intervention tools governments use \u2014 the standard crisis-fighting toolkit.",
+      "refusal": null,
+      "reasoning": null,
+      "tool_calls": [
+        {
+          "type": "function",
+          "index": 0,
+          "id": "toolu_01Ei7tPG5yG8yoy4z8endDVp",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"central bank lender of last resort emergency liquidity facility to solvent but illiquid firms\"}"
+          }
+        },
+        {
+          "type": "function",
+          "index": 1,
+          "id": "toolu_01KFAfbv7Mzaqb6dzZDFmQCd",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"capital injection recapitalization stress test distinguishing solvent from insolvent institutions\"}"
+          }
+        },
+        {
+          "type": "function",
+          "index": 2,
+          "id": "toolu_01JP9zdG15cugBLnb5joVmyS",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"guarantees deposit insurance stopping bank runs and panic restoring confidence\"}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_01Ei7tPG5yG8yoy4z8endDVp",
+      "content": "{\"results\": [{\"doc_id\": \"vol4_iss2_3\", \"chunk_id\": \"vol4_iss2_3_c0174\", \"document_type\": \"survey\", \"title\": \"Broad-Based Emergency Liquidity Programs\", \"score\": 0.6938, \"text\": \"Document: Broad-Based Emergency Liquidity Programs\\n\\n_Solvency and Viability Tests_\\n\\nCentral bankers generally support access to LOLR lending for solvent banks. However, they recognize that distinguishing illiquid from insolvent institutions is not easy and may be impossible in times of crisis (Domanski and Sushko 2014; Hauser 2014). As one group of central bankers concluded\\u2014\\u201cFirst, illiquidity tended to develop into insolvency crises the longer a crisis lasted; second, illiquidity and insolvency were not independent from the judgment of the authorities; and, third, solvency assessments by supervisors or analysts might be biased\\u201d (Domanski and Sushko 2014). Further, a solvency decision depends on the value of assets. Assets are likely to be impaired in a crisis when valued at fire-sale prices but could regain their value if held and if a liquidity-related failure can be avoided (Domanski, Moessner, and Nelson 2014).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss2_3_p0168\"}, {\"doc_id\": \"vol4_iss2_3\", \"chunk_id\": \"vol4_iss2_3_c0027\", \"document_type\": \"survey\", \"title\": \"Broad-Based Emergency Liquidity Programs\", \"score\": 0.665, \"text\": \"Document: Broad-Based Emergency Liquidity Programs\\n\\nIntroduction > Figure 1: Case Studies, Abbreviated Names, and Type of Lender of Last Resort (LOLR)\\n\\n_Source: Authors\\u2019 analysis._\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss2_3_p0025\"}, {\"doc_id\": \"vol1_iss1_1\", \"chunk_id\": \"vol1_iss1_1_c0054\", \"document_type\": \"article\", \"title\": \"The Early Phases of the Financial Crisis:  Reflections on the Lender of Last Resort\", \"score\": 0.661, \"text\": \"The Limits of the Emergency Authority under FRA Section 13(3)\\n\\nThe emergency authority in the Federal Reserve Act limited the terms on which the Fed could provide funding beyond the banking system, even during a systemic crisis. Such funding was available only if certain criteria were met including: (i) \\u201cunusual and exigent circumstances\\u201d existed, (ii) the borrower had no access to private funding, and (iii) the loan was \\u201csecured to the satisfaction of the [lending] Federal Reserve bank.\\u201d Section 13(3) provided the authority to lend to non-bank financial institutions, but not to provide capital, or guarantee creditors against loss. The defining difference between a loan and capital is that a loan is expected to be repaid, whereas equity capital provides a cushion against losses. This difference is underscored by the requirement in Section 13(3) that permits the Fed to lend only to the extent the Reserve Bank was secured as a lender\\u2014that is, the Reserve Bank had to believe that there was sufficient collateral or other protection to provide a reasonable prospect of full repayment. Because of this limitation, lending under 13(3) could not be made to carry the power of equity or a guarantee. \\n\\nThe law gave the Fed room for judgment on how to evaluate how much that collateral was worth, but that discretion was limited. We could decide to take a fair amount of risk, by, for example, looking at what the firm\\u2019s assets might be worth over a longer time frame. We also had some discretion in deciding what margin of safety we needed against loss. This meant that we could choose to lend to an institution or an affiliate of an institution that might be on the edge of failure to allow time for a more orderly liquidation, which generally would mitigate the damage to the system, but only to the extent we had security sufficient to cover the value of our loan. \\n\\nThe standard interpretation of the role of funding from the lender of last resort is that lending can help reduce the risk that the strong become illiquid, but it cannot make viable the fundamentally nonviable.[5] \\n\\n3 In 1991, the Federal Reserve Act was amended to make it clear, in the words of the committee report, that \\u201cin [\\u2026] an emergency, the Federal Reserve must be able to ensure the liquidity of the financial system, including if necessary by the use of advances [loans] to securities firms\\u201d (U.S. Congress 1991). \\n\\n> 4 The FDIC did have authority to guarantee the liabilities of bank holding companies. \\n\\n> 5 Madigan (2009) discusses the Fed\\u2019s crisis management in light of Bagehot\\u2019s dictum\\u2014\\u201cTraditional central banking principles also tell us to lend only to solvent institutions and only against good collateral, but complying with these standards in a crisis is not entirely straightforward.\\u201d Cline and Gagnon (2013) assert that \\u201c\\u2026federal officials, at least in hindsight, appear to have followed the dictum of Walter Bagehot [], which has guided central banks for almost 150 years.\\u201d Posner (2016) claims that \\u201cBefore the Dodd-Frank Act, the Fed was \\n\\n\\nBagehot\\u2019s dictum was that central banks should lend freely at a high rate of interest against \\u201cgood\\u201d assets. He did not explicitly state that the central bank should only lend to \\u201csolvent\\u201d institutions. \\n\\nThe emergency provision of the Federal Reserve Act did not explicitly require a finding of solvency.[6] This acknowledged the practical reality that solvency is hard to determine.[7] A judgment of solvency depends on the value of the assets of the firm and the strength of its businesses. These depend on the distribution of expected losses. These values are difficult to determine in normal times. They are particularly hard to assess in the midst of a crisis, when funding has eroded, the value of assets has fallen steeply, and the trust and confidence necessary for a financial institution to function are eroding. \\n\\nThe limiting condition in the Federal Reserve Act\\u2014the ability to lend up to, but not in excess of, the value of the available security, less some margin of safety to protect the central bank from losses\\u2014limits the value of the tool in preventing the failure of a weak financial institution. \\n\\nThe absence of an explicit solvency test in the Federal Reserve Act has not been interpreted within the Federal Reserve to mean that the lending tools could or should be used to sustain firms that are not viable. To lend freely to the nonviable is unlikely to work. And such lending carries other risks. Among these is the risk it leaves the central bank with large losses. It could increase moral hazard risks.[8] It may take the central bank into policy areas that most deem the provenance of the fiscal authorities. \\n\\nThe general approach that has defined central bank practice and that certainly affected our view of what was appropriate was that the lender of last resort facilities should be available to the relatively strong, even if they were suffering the signs of illiquidity, and generally not available to those that were at the weaker extreme and thus less likely to be viable. \\n\\nunderstood to be the LLR for solvent banks and non-banks. FDIC was the LLR for insolvent banks. There was no LLR for insolvent non-banks. Porter (2009) argues that\\u2014\\u201cSection 13(3) grants the Fed expansive authority in \\u2018unusual and exigent circumstances,\\u2019 without requiring a stringent legal standard be met in order to respond to crises.\\u201d While Mehra (2010) does not definitively conclude that the Fed\\u2019s decision not to lend to Lehman was consistent with its legal authority under Section 13(3), he does concede that the decision as to the sufficiency of Lehman\\u2019s collateral was a decision within its discretion. \\n\\n6 It should be noted that although the law did not require a finding of solvency then, it does now. Section 1101(a) of Dodd Frank added a provision: \\u201cThe Board shall establish procedures to prohibit borrowing from programs and facilities by borrowers that are insolvent.\\u201d 12 U.S. Code \\u00a7 343(B)(ii). \\n\\n7 Thomas Baxter made the useful point that there are other definitions of solvency, such as a failure to pay your debts as they come due or when the level of capital to total assets falls below a regulatory minimum. See for example Heaton (2007). \\n\\n> 8 Henry Thornton, who wrote about the lender of last resort in 1802, before Bagehot, explained\\u2014\\u201cIt is by no means intended to imply, that it would become the Bank of England to relieve every distress which the rashness of country banks may bring upon them; the bank [meaning the Bank of England], by doing this, might encourage their improvidence.\\u201d (Goodhart 1999). \\n\\n\\nOne last piece of this framework involves what might be called the implicit or persuasive powers of the central banks and the government. \\n\\nIn the financial crisis of the early 20th century, before the reforms that followed the Great Depression, the model for dealing with a dangerous financial failure was for J.P. Morgan or the New York Clearing House to convene the major banks and convince them that it was in their collective interest to help rescue the weakest among them. (Gorton 2012). The more recent example of the deft use of these powers was Bill McDonough\\u2019s successful effort in 1998 to put together a consortium of financial firms in order to prevent a disorderly liquidation of the large hedge fund Long-Term Capital management (LTCM). An important part of what bank supervisors and central banks can do in a crisis is to arrange a rescue of the weak by the relatively strong. \\n\\nThis strategy works in situations where the strong are strong enough to absorb the weak. It is unlikely to work if a whole class of institutions is weak and the entire system fragile. \\n\\nPutting all this together, the emergency financial powers of the United States on the eve of the crisis were designed for a bank-dominated financial system, not for the complex financial system we had in 2007. The tools were more designed to address liquidity problems, rather than problems of inadequate capital. The powers available to manage the failure of a large institution were limited to banks and did not exist for the rest of the financial system. Overall, the system was better positioned to deal with an idiosyncratic shock than a systemic financial crisis. It had worked reasonably well for the crisis of the previous several decades, but was not up to the challenge of confronting a classic financial panic. \\n\\nIt\\u2019s also worth noting that the U.S. emergency arsenal was, in important respects, weaker than that available to the authorities in the other major economies. This relative weakness was partly a function of the fact that most other major financial systems were dominated by universal banks, while our system limited the activities of banks and divided financial activities among banks and non-banks. This meant the defenses of prudential regulation and the safety net applied more broadly in most other economies than in the United States. In addition, most other central banks had broader standing authority to intervene in a financial crisis, not just because of the broader reach of their traditional lending facilities, but also because many had the authority to purchase a much broader range of financial assets than did the Federal Reserve. This would prove extremely valuable in helping prevent a more damaging collapse in asset values and in funding markets. Finally, parliamentary systems of government typically had more ability to legislate additional emergency authority in the crisis than did the United States system, with its greater separation between executive and legislative branches and the periodic reality that the party of the President might not control either house of Congress. In the United States, the President\\u2019s authority to deal with a systemic financial crisis, without action by Congress, was essentially limited to closing the equity markets and declaring a bank holiday.\", \"matched_text\": \"The Early Phases of the Financial Crisis: Reflections on the Lender of Last Resort > The Limits of the Emergency Authority under FRA Section 13(3)\\n\\nThe general approach that has defined central bank practice and that certainly affected our view of what was appropriate was that the lender of last resort facilities should be available to the relatively strong, even if they were suffering the signs of illiquidity, and generally not available to those that were at the weaker extreme and thus less likely to be viable.\", \"page\": 1, \"parent_id\": \"vol1_iss1_1_p0043\"}, {\"doc_id\": \"vol7_iss1_3\", \"chunk_id\": \"vol7_iss1_3_c0027\", \"document_type\": \"survey\", \"title\": \"Ad Hoc Emergency Liquidity Programs in the 21st Century\", \"score\": 0.654, \"text\": \"Document: Ad Hoc Emergency Liquidity Programs in the 21st Century\\n\\nLiquidity versus Solvency\\u2014versus Viability\\n\\nat a penalty rate.\\u201d[12] It has thus long been a common view among financial authorities that central banks should provide liquidity only to firms that are \\u201csolvent but illiquid.\\u201d\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss1_3_p0023\"}, {\"doc_id\": \"vol4_iss2_3\", \"chunk_id\": \"vol4_iss2_3_c0085\", \"document_type\": \"survey\", \"title\": \"Broad-Based Emergency Liquidity Programs\", \"score\": 0.6509, \"text\": \"Document: Broad-Based Emergency Liquidity Programs\\n\\n_Applications of Preexisting Emergency Authorities_\\n\\n14 And although this policy statement is primarily concerned with LOLR assistance to individual institutions, its requirements also seem to apply to broad-based liquidity such as the five measures introduced in September 2008 (Hoffner 2022b). The policy statement includes the following paragraph:\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss2_3_p0067\"}], \"total_found\": 15}"
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_01KFAfbv7Mzaqb6dzZDFmQCd",
+      "content": "{\"results\": [{\"doc_id\": \"vol4_iss1_1\", \"chunk_id\": \"vol4_iss1_1_c0100\", \"document_type\": \"survey\", \"title\": \"Broad-Based Capital Injection Programs\", \"score\": 0.6919, \"text\": \"Document: Broad-Based Capital Injection Programs\\n\\n_Triage for Solvency/Viability_\\n\\nThe data and methodology of stress testing have advanced significantly since the GFC, which means that crisis triage techniques used in the past may be outdated. Some central banks may now have the data and skills to perform a credible stress test in the short timeframe required during the acute phase of a crisis. But a timeless lesson is that, in the acute stage, capital injections will not achieve their goal of calming bank counterparties if the size and features of the program are based on a non-credible test.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss1_1_p0095\"}, {\"doc_id\": \"vol7_iss1_1\", \"chunk_id\": \"vol7_iss1_1_c0020\", \"document_type\": \"article\", \"title\": \"Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\", \"score\": 0.6698, \"text\": \"Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\\n\\nII. A Regulatory Blind Spot\\n\\nConsider the current sequence of Pillar II intervention steps. A stress test evaluation may lead to conclude that the bank is insolvent, or potentially solvent but undercapitalized (Figure 1). In the first case, the supervisor must put in resolution the insolvent bank; the second case calls for a path to going-concern recapitalization. However, at present, there are no effective tools to support such a recovery, short of public risk absorption. We call this a serious intervention gap.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss1_1_p0016\"}, {\"doc_id\": \"vol7_iss1_1\", \"chunk_id\": \"vol7_iss1_1_c0041\", \"document_type\": \"article\", \"title\": \"Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\", \"score\": 0.6669, \"text\": \"Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\\nFigure \\u2014 Figure 3: Capital Adequacy and Going-concern Bail-in\\n\\nGoing-concern Bail-in\\n\\nFigure 3 depicts the effect of going-concern recapitalization, timed when new private risk absorption is not forthcoming due to debt overhang. For such a tool to become credible, the regulatory norms and contractual feature of AT1 contingent capital have to be redefined to ensure that the going-concern loss absorption will happen promptly.[8 ] This requires resolving the current legal ambiguity over the executability of the conversion trigger ahead of default.\\n\\n[FIGURE id=vol7_iss1_1_f3 type=figure page=9 label=\\\"Figure 3\\\" file=figure_3.png caption=\\\"Capital Adequacy and Going-concern Bail-in\\\"]\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss1_1_p0038\"}, {\"doc_id\": \"vol7_iss1_1\", \"chunk_id\": \"vol7_iss1_1_c0168\", \"document_type\": \"article\", \"title\": \"Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\", \"score\": 0.6618, \"text\": \"Document: Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution\\n\\nAppendix C: When Is a Bank Undercapitalized?\\n\\nFrom an economic perspective, a bank with inadequate equity may be considered solvent if it has a viable business model, especially if its losses are on safe asset holdings so that the downside risk of credit losses is limited. Such a bank may be at the mercy of run expectations, as both the value of its assets and the value of its deposit franchise cannot be realized in a quick sale. This is the category of banks that would benefit from going-concern conversion. A contingent bail-in favors recovery as long as it is coupled with tools to prevent panics and generate runs, such as the liquidity charge we propose.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss1_1_p0165\"}, {\"doc_id\": \"vol4_iss1_1\", \"chunk_id\": \"vol4_iss1_1_c0200\", \"document_type\": \"survey\", \"title\": \"Broad-Based Capital Injection Programs\", \"score\": 0.643, \"text\": \"Document: Broad-Based Capital Injection Programs\\n\\nConclusion\\n\\nTriage of banks, through stress tests or other means, is good practice in a chronic phase but may not be desirable (or even feasible) in an acute phase. Designers want to get the right amount of capital into each bank and are understandably wary about sending any capital to unviable enterprises. During a chronic phase of a crisis, when run risk is low, a well-designed triage system can greatly mitigate these concerns. The case studies include several examples of such triage that have received positive postmortem reviews. But the case studies also\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss1_1_p0195\"}], \"total_found\": 15}"
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_01JP9zdG15cugBLnb5joVmyS",
+      "content": "{\"results\": [{\"doc_id\": \"vol4_iss2_2\", \"chunk_id\": \"vol4_iss2_2_c0010\", \"document_type\": \"survey\", \"title\": \"Account Guarantee Survey\", \"score\": 0.6681, \"text\": \"Document: Account Guarantee Survey\\n\\nIntroduction\\n\\nBank runs have accelerated financial crises throughout history. Widespread withdrawals from accounts that enable depositors to access their funds on demand can have a destabilizing effect on institutions lacking the liquid assets to meet those withdrawal requests. Governments have a long record of responding to runs with ad hoc measures to support banks, often protecting depositors and other stakeholders in the process. But until the 1960s, only the United States had a formal, standing guarantee to depositors that they would receive their funds back even in the event of an institution\\u2019s failure. Historians attribute the early US adoption of explicit deposit insurance to the country\\u2019s unusual reliance on small banks and its history of periodic banking panics (Anginer, Demirg\\u00fc\\u00e7-Kunt, and Zhu 2014; Calomiris and Jaremski 2016). As bank failures became more common in the 1970s and 1980s, other countries increasingly adopted explicit national deposit insurance systems to replace the implicit insurance implied by ad hoc rescues. The move toward explicit insurance accelerated as the European Union (EU), International Monetary Fund (IMF), and World Bank (WB) promoted the practice in the 1990s. But adoption in any given country was most likely during or after a banking crisis (Demirg\\u00fc\\u00e7-Kunt, Kane, and Laeven 2008).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss2_2_p0009\"}, {\"doc_id\": \"vol2_iss1_4\", \"chunk_id\": \"vol2_iss1_4_c0004\", \"document_type\": \"case_study\", \"title\": \"Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis\", \"score\": 0.6109, \"text\": \"Document: Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis\\n\\nGuarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis[1] > 1. Introduction\\n\\nDuring 2008-09, the federal government extended multiple guarantee programs in an effort to restore the financial market and contain the panic and crisis in the market. For example, to stop a disruption and run in the money market funds (MMFs), the Treasury provided a guarantee for the investors of the fund ensuring that the value of their shares would not fall below $1.00 per share. Additionally, the Congress raised the maximum guaranteed value of the FDIC-insured accounts from $100,000 to $250,000 per account. The Federal Deposit Insurance Corporation (FDIC) also established the Debt Guarantee Program (DGP) standing behind certain newly issued senior unsecured debt to restore the interbank lending market, and the Transaction Account Guarantee Program (TAGP) covering non-interest-bearing transaction accounts to prevent runs in small banks by maintaining depositor confidence. Later under the Troubled Asset Relief Program (TARP), the Treasury, the FDIC, and the Federal Reserve jointly decided to guarantee and share losses of certain assets belonging to Citigroup and Bank of America. However, the guarantee program for Bank of America was not finalized. Overall, the guarantees provided by the government exceeded the total value of TARP, making guarantees the single largest element of the government\\u2019s response to the financial crisis (COP 2009).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol2_iss1_4_p0003\"}, {\"doc_id\": \"vol2_iss1_4\", \"chunk_id\": \"vol2_iss1_4_c0058\", \"document_type\": \"case_study\", \"title\": \"Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis\", \"score\": 0.6085, \"text\": \"Document: Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis\\n\\nGuarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis[1] > Rationale and Assessment of the Program\\n\\nOn the other hand, the TAGP was to reassure bank customers\\u2019 confidence in safe banking that is vital to public confidence in the banking system. It was to provide stability to the insured banks, particularly smaller ones, enabling their commercial customers to continue to do business without disruption (Bair 2008).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol2_iss1_4_p0053\"}, {\"doc_id\": \"vol2_iss1_4\", \"chunk_id\": \"vol2_iss1_4_c0049\", \"document_type\": \"case_study\", \"title\": \"Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis\", \"score\": 0.6082, \"text\": \"Document: Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis\\n\\nGuarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis[1] > 3.  Temporary Liquidity Guarantee Program\\n\\nAfter December 31, 2010, the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) provided temporary unlimited deposit insurance coverage for noninterest-bearing transaction accounts through December 31, 2012, regardless of the balance in the account and the ownership capacity of the funds. This coverage essentially replaced the expired TAGP, and was available to all depositors, including consumers, businesses, and government entities. The coverage was separate from, and in addition to, the standard insurance coverage provided for a depositor\\u2019s other accounts held at an FDIC-insured bank. Following Figure 1 summarizes the key terms of the DGP and the TAGP.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol2_iss1_4_p0040\"}, {\"doc_id\": \"vol4_iss2_2\", \"chunk_id\": \"vol4_iss2_2_c0156\", \"document_type\": \"survey\", \"title\": \"Account Guarantee Survey\", \"score\": 0.6047, \"text\": \"Document: Account Guarantee Survey\\n\\nConclusion\\n\\nguarantees can cause a flight of funds from other parts of the financial system and other jurisdictions that lack similar guarantees. The AG programs were generally successful in retaining and attracting deposits. Preliminarily assessing the performance of deposit insurance schemes during the GFC, Demirg\\u00fc\\u00e7-Kunt, Kane, and Laeven concluded that such schemes \\u201cby and large\\u2026fulfilled [their] foremost purpose of preventing open runs on bank deposits\\u201d (Demirg\\u00fc\\u00e7-Kunt, Kane, and Laeven 2015).[13] Sometimes a program\\u2019s announcement alone appears to have had an impact, as was the case in Taiwan (Basri and Rahardja 2010; Ko 2008). But it is important to understand where the new deposits came from and whether the guarantee in question stabilized one part of the system or one jurisdiction at the expense of another. International cooperation, such as was seen in the EU (although not without tensions) and with the Tripartite Working Group in Hong Kong, Malaysia, and Singapore, can help alleviate these concerns. Design features such as the TGMMF\\u2019s \\u201cexisting balances only\\u201d approach to account eligibility would also help ensure that the introduction of an AG program does not precipitate a run somewhere else.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss2_2_p0153\"}], \"total_found\": 15}"
+    },
+    {
+      "role": "assistant",
+      "content": "Let me get the key survey documents' guidance on program design and sequencing, and look for guidance on asset purchases and moral hazard/exit.",
+      "refusal": null,
+      "reasoning": null,
+      "tool_calls": [
+        {
+          "type": "function",
+          "index": 0,
+          "id": "toolu_01RNjKpCDLCGLBwuqTfWdd2v",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"asset purchase programs to support market prices maintain funding markets commercial paper\"}"
+          }
+        },
+        {
+          "type": "function",
+          "index": 1,
+          "id": "toolu_01NwCv1RwzgAJrK2hakwZKVz",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"lessons learned overwhelming force force decisiveness credibility of intervention avoid half measures\", \"document_type\": \"lesson_learned\"}"
+          }
+        },
+        {
+          "type": "function",
+          "index": 2,
+          "id": "toolu_01UJB9G2uUVG55vWxjTQvd5M",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"moral hazard penalty rate stigma conditions on capital injections dividends executive compensation exit strategy\"}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_01RNjKpCDLCGLBwuqTfWdd2v",
+      "content": "{\"results\": [{\"doc_id\": \"vol4_iss2_67\", \"chunk_id\": \"vol4_iss2_67_c0009\", \"document_type\": \"case_study\", \"title\": \"Canada: Commercial Paper Purchase Program\", \"score\": 0.6794, \"text\": \"Document: Canada: Commercial Paper Purchase Program\\n\\nKey Terms\\n\\nPurpose: To relieve strains in the domestic commercial paper (CP) market and support the flow of credit to firms and public authorities by directly purchasing CP, including asset-back CP, on the primary and secondary markets.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss2_67_p0008\"}, {\"doc_id\": \"vol2_iss3_7\", \"chunk_id\": \"vol2_iss3_7_c0085\", \"document_type\": \"case_study\", \"title\": \"The Commercial Paper Funding Facility (U.S. GFC)\", \"score\": 0.6478, \"text\": \"Document: The Commercial Paper Funding Facility (U.S. GFC)\\n\\nIII. Evaluation\\n\\nThis facility in addition to the recently announced Money Market Investor Funding Facility will provide significant support for the CP market. We are seeing maturities extending and improved pricing in the market as a result of this program. (GEC 2008)\\n\\nIn testifying before the US House of Representatives Committee on Financial Services on November 18, 2008, then\\u2013Federal Reserve Chairman Ben Bernanke also cited the impact of the CPFF as favorable: \\u201c[It has] allow[ed] many firms to extend significant amounts of\\n\\nfunding into next year,\\u201d resulting in \\u201cgreater stability in money market mutual funds and the commercial paper market\\u201d (Bernanke 2008).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol2_iss3_7_p0082\"}, {\"doc_id\": \"vol2_iss3_7\", \"chunk_id\": \"vol2_iss3_7_c0019\", \"document_type\": \"case_study\", \"title\": \"The Commercial Paper Funding Facility (U.S. GFC)\", \"score\": 0.6437, \"text\": \"Document: The Commercial Paper Funding Facility (U.S. GFC)\\n\\nProgram Description\\n\\n_____________________________________________________________________\\n\\n> 3 US Treasury Temporary Guarantee Programs for Money Market Funds. Also see McNamara (2016) discussing the guarantee program.\\n\\n> 4 See Wiggins (forthcoming) discussing the Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF).\\n\\n> 5 Federal Reserve Act of 1913, Section 13(3) (12 U.S.C. \\u00a7 343)\\u2014\\u201cDiscount of Obligations Arising out of Actual Commercial Transactions, as Amended.\\u201d\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol2_iss3_7_p0017\"}, {\"doc_id\": \"vol4_iss2_83\", \"chunk_id\": \"vol4_iss2_83_c0009\", \"document_type\": \"case_study\", \"title\": \"United States: Commercial Paper Funding Facility II\", \"score\": 0.6417, \"text\": \"Document: United States: Commercial Paper Funding Facility II\\n\\nKey Terms\\n\\nPurpose: \\u201cTo provide a liquidity backstop to US issuers of commercial paper, including municipalities, by purchasing three-month unsecured and asset-backed commercial paper directly from eligible issuers.\\u201d\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss2_83_p0008\"}, {\"doc_id\": \"vol2_iss3_10\", \"chunk_id\": \"vol2_iss3_10_c0107\", \"document_type\": \"case_study\", \"title\": \"The Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF) (U.S. GFC)\", \"score\": 0.6391, \"text\": \"Document: The Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF) (U.S. GFC)\\n\\nIII. Evaluation\\n\\nSignificantly, the CPFF, which would grow to be one of the Fed\\u2019s largest crisis-fighting programs, made its first purchases on October 27, 2008; at the time, utilization of the AMLF was decreasing after an initial spurt of usage. By the end of the year, the total value of commercial paper purchased under the CPFF equaled $335 billion, out of which one-third was ABCP ($110 billion) (Wiggins 2017). Aside from one small stint of activity during spring 2009, the AMLF remained generally unused as the ABCP that it financed matured.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol2_iss3_10_p0099\"}], \"total_found\": 15}"
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_01NwCv1RwzgAJrK2hakwZKVz",
+      "content": "{\"results\": [{\"doc_id\": \"vol6_iss2_7\", \"chunk_id\": \"vol6_iss2_7_c0012\", \"document_type\": \"lesson_learned\", \"title\": \"Lessons Learned: Bo Lundgren\", \"score\": 0.5435, \"text\": \"Document: Lessons Learned: Bo Lundgren\\n\\nInterventions create great expectations and panic can occur when these expectations are not adhered to or when policymakers change course.\\n\\nFor Lundgren, concrete moves to support confidence are key to stabilizing a crisis. And that\\u2019s a lesson he thinks applies across time and different crises: \\u201cSometime in the development of the crisis, there is probably shaky confidence. . . . You have to do it, and at least then you can manage the situation.\\u201d When authorities don\\u2019t act, he cautioned, the results can be catastrophic:\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol6_iss2_7_p0011\"}, {\"doc_id\": \"vol4_iss1_22\", \"chunk_id\": \"vol4_iss1_22_c0022\", \"document_type\": \"lesson_learned\", \"title\": \"Lessons Learned: Matthew Feldman\", \"score\": 0.5299, \"text\": \"Document: Lessons Learned: Matthew Feldman\\n\\nDecision makers should define and limit the scope of the experts implementing the intervention, so they do not get sidetracked.\\n\\nlegitimate representatives of trade groups. We did meet with a lot of different groups and a lot of different people.\\u201d\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss1_22_p0020\"}, {\"doc_id\": \"vol4_iss4_38\", \"chunk_id\": \"vol4_iss4_38_c0009\", \"document_type\": \"lesson_learned\", \"title\": \"Lessons Learned: Kevin Stiroh\", \"score\": 0.5286, \"text\": \"Document: Lessons Learned: Kevin Stiroh\\n\\nResources are better spent developing possible interventions for a variety of outcomes instead of debating the odds that any one scenario would occur.\\n\\nOperationalizing this thinking requires having a diversity of viewpoints and opinions available and channeling them into exercises, analytics, and other tools. He says,\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss4_38_p0006\"}, {\"doc_id\": \"vol6_iss4_8\", \"chunk_id\": \"vol6_iss4_8_c0015\", \"document_type\": \"lesson_learned\", \"title\": \"Lessons Learned: Karl-Philipp Wojick\", \"score\": 0.5215, \"text\": \"Document: Lessons Learned: Karl-Philipp Wojick\\n\\nWhen designing crisis-fighting tools or deciding which ones to use, be simple and pragmatic, but don\\u2019t be afraid to be bold and creative.\\n\\nI think what is extremely important as a lesson is to always look for pragmatic and simple solutions, and basically to build consensus around these solutions. In my view, what I\\u2019ve seen is the following: The simpler the solutions, the better to explain it is, the easier it is also to build consensus around it. That is, I think, one of the first main lessons.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol6_iss4_8_p0012\"}, {\"doc_id\": \"vol4_iss1_23\", \"chunk_id\": \"vol4_iss1_23_c0018\", \"document_type\": \"lesson_learned\", \"title\": \"Lessons Learned: Sadiq Malik\", \"score\": 0.5125, \"text\": \"Document: Lessons Learned: Sadiq Malik\\n\\nThe basic focus and scope of the intervention needs to be discussed and agreed to upfront.\\n\\nMany policymakers have expressed the view that a crisis is not the time to address fundamental weaknesses of an entity or system. Crises are by nature urgent situations; distraction can lead to delay, which can lead to disaster. Therefore, many authorities believe that the primary focus should be narrow, on how to stabilize the entity or system as quickly as possible\\u2014first put out the fire and later ask how the fire started.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss1_23_p0017\"}], \"total_found\": 15}"
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_01UJB9G2uUVG55vWxjTQvd5M",
+      "content": "{\"results\": [{\"doc_id\": \"vol4_iss1_1\", \"chunk_id\": \"vol4_iss1_1_c0175\", \"document_type\": \"survey\", \"title\": \"Broad-Based Capital Injection Programs\", \"score\": 0.5404, \"text\": \"Document: Broad-Based Capital Injection Programs\\n\\n15. Other Conditions: Should recapitalization come with nonprice conditions to incentivize banks to exit government support quickly?\\n\\nevident: if the government is injecting capital, then it would work directly against their goals for that capital to be immediately paid out to shareholders. In addition to the direct reduction in capital, allowing dividend payments carries political risk. The main argument against such a restriction is that it could serve to stigmatize program recipients.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss1_1_p0168\"}, {\"doc_id\": \"vol3_iss3_3\", \"chunk_id\": \"vol3_iss3_3_c0046\", \"document_type\": \"case_study\", \"title\": \"Danish Capital Injections Scheme 2009 (DK GFC)\", \"score\": 0.5201, \"text\": \"Document: Danish Capital Injections Scheme 2009 (DK GFC)\\n\\n12. Other conditions: Recipients of capital injections had to commit to promoting lending to the real economy and were banned from paying dividends until 2010.\\n\\nInstitutions receiving capital injections were banned from making dividend payments in 2009 and 2010. They could only pay out dividends covered by their annual profits thereafter (EC 2009a). Until the recipient exited the capital injection program, they were also banned from creating stock option programs for management and from repurchasing stock.\\n\\n**13. Exit strategy: The capital injection could be paid back after the third year at 100% of the face value plus interest; the callable value was stepped up afterwards.**\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol3_iss3_3_p0044\"}, {\"doc_id\": \"vol4_iss1_1\", \"chunk_id\": \"vol4_iss1_1_c0145\", \"document_type\": \"survey\", \"title\": \"Broad-Based Capital Injection Programs\", \"score\": 0.5182, \"text\": \"Document: Broad-Based Capital Injection Programs\\n\\n_Generous or Punitive?_\\n\\nGoing into the Global Financial Crisis, the European Commission\\u2019s State Aid rules followed the principle that recapitalizations should minimize the amount of State Aid. Such a principle would suggest charging relatively high interest and dividend payments in BBCI programs. Nonetheless, the EC recognized that high rates would discourage banks from participating in recapitalizations. The EC intended to adjust to long-term market conditions and not to impose unfavorable conditions at the time of the crisis. For these reasons, the EC approved dividend rates reflecting market-based remuneration between 6% and 9.3%, according to the degree of subordination. Individual member states had room to adjust the EC guideline for two reasons: (1) to incentivize early repayment, so as to reduce taxpayers\\u2019 exposure; and (2) to avoid excessive recourse to the program, without being excessively penalizing (Panetta et al. 2009).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss1_1_p0141\"}, {\"doc_id\": \"vol6_iss3_1\", \"chunk_id\": \"vol6_iss3_1_c0070\", \"document_type\": \"survey\", \"title\": \"Survey of Ad Hoc Capital Injections\", \"score\": 0.5167, \"text\": \"Document: Survey of Ad Hoc Capital Injections\\n\\n6. Communication and Disclosure: How did the government communicate the goals of the program? Were there any special communication issues? > Figure 4: Imposition of Losses on Stakeholders\\n\\nBurden sharing can also affect stakeholders beyond equity shareholders. Eight cases imposed losses on preferred shareholders or subordinated debt holders. The Commission criticized Spanish authorities in the CCM case for allowing remuneration for certain hybrid capital holders. CCM called two previously issued preference shares at par value after the capital injection despite the absence of distributable profits. Also, CCM had made discretionary coupon payments on hybrid capital although it was incurring losses in the previous year (Swaminathan 2024). The EC noted that this was inconsistent with its policies on hybrid instruments and its principles on burden sharing since the creditors were not made to bear any of the losses. This was despite CCM having no legal obligation to do this and the central bank having the right to bail in the debt before any recapitalization of the entity (Santos 2017).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol6_iss3_1_p0064\"}, {\"doc_id\": \"vol3_iss3_15\", \"chunk_id\": \"vol3_iss3_15_l0079\", \"document_type\": \"case_study\", \"title\": \"Prompt Recapitalization Act\", \"score\": 0.5072, \"text\": \"Document: Prompt Recapitalization Act\\n\\n7. There were constraints on management pay as well as shareholder compensation.\\n\\n7. There were constraints on management pay as well as shareholder compensation.\\n\\nDuring the course of the capital injection, management positions were no longer allowed to take bonuses on their salary. In addition, the banks were no longer allowed to issue dividends to shareholders while using capital injection funding (Prompt Recapitalization Act 1998).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": null}], \"total_found\": 15}"
+    },
+    {
+      "role": "assistant",
+      "content": "I have enough grounding. Let me do one more targeted search on the interaction of fair-value accounting / non-bank intermediaries and the sequencing of a full crisis response, since your scenario involves non-bank lenders exposed to collapsing equity collateral.",
+      "refusal": null,
+      "reasoning": null,
+      "tool_calls": [
+        {
+          "type": "function",
+          "index": 0,
+          "id": "toolu_01LvV9SgmHBLCuxttBse7Vec",
+          "function": {
+            "name": "search_corpus",
+            "arguments": "{\"query\": \"sequencing comprehensive response combining liquidity guarantees and capital simultaneously why liquidity alone insufficient\", \"document_type\": \"survey\"}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "name": "search_corpus",
+      "tool_call_id": "toolu_01LvV9SgmHBLCuxttBse7Vec",
+      "content": "{\"results\": [{\"doc_id\": \"vol7_iss1_3\", \"chunk_id\": \"vol7_iss1_3_c0027\", \"document_type\": \"survey\", \"title\": \"Ad Hoc Emergency Liquidity Programs in the 21st Century\", \"score\": 0.5467, \"text\": \"Document: Ad Hoc Emergency Liquidity Programs in the 21st Century\\n\\nLiquidity versus Solvency\\u2014versus Viability\\n\\nat a penalty rate.\\u201d[12] It has thus long been a common view among financial authorities that central banks should provide liquidity only to firms that are \\u201csolvent but illiquid.\\u201d\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss1_3_p0023\"}, {\"doc_id\": \"vol4_iss2_3\", \"chunk_id\": \"vol4_iss2_3_c0020\", \"document_type\": \"survey\", \"title\": \"Broad-Based Emergency Liquidity Programs\", \"score\": 0.5411, \"text\": \"Document: Broad-Based Emergency Liquidity Programs\\n\\nIntroduction\\n\\nTo illustrate the challenge, it is helpful to think of financial crises and policy responses as having two different phases, \\u201cacute\\u201d and \\u201cchronic.\\u201d In the initial acute phase, the financial system has an obvious liquidity problem\\u2014runs on banks or breakdowns in interbank markets are easy to spot\\u2014but the underlying solvency of banks is difficult to judge in the heat of that moment. The asset side of financial institutions\\u2019 balance sheets may be impossible to value, and the collapse on the liability side can lead them to sell these assets at temporarily depressed prices. During this acute phase, policy responses need to be fast and emphasize protection of the fragile liabilities. That protection can be in the form of emergency lending, liability guarantees, or some combination of the two. To achieve these goals, policy should be targeted to reassure depositors and other short-term bank creditors that bank liabilities are safe. The goal in this phase is to arrest runs and prevent fire sales. Any strict solvency condition is doomed to failure\\u2014there is simply no time to make such judgments.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss2_3_p0012\"}, {\"doc_id\": \"vol4_iss2_3\", \"chunk_id\": \"vol4_iss2_3_c0270\", \"document_type\": \"survey\", \"title\": \"Broad-Based Emergency Liquidity Programs\", \"score\": 0.5247, \"text\": \"Document: Broad-Based Emergency Liquidity Programs\\n\\n_Standard Collateral Frameworks_\\n\\nDespite the efficiencies of using an established collateral haircut schedule, the schedule might not be the most appropriate in some circumstances. After all, central banks set these schedules during normal market conditions, whereas a liquidity constraint can easily disrupt the underlying assumptions and cause collateral to quickly lose value and become illiquid. When an existing schedule is inappropriate, the LOLR can take steps to adjust haircuts for certain classes of collateral. This alteration can be done by adding premiums such as for\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss2_3_p0266\"}, {\"doc_id\": \"vol7_iss1_3\", \"chunk_id\": \"vol7_iss1_3_c0020\", \"document_type\": \"survey\", \"title\": \"Ad Hoc Emergency Liquidity Programs in the 21st Century\", \"score\": 0.5195, \"text\": \"Document: Ad Hoc Emergency Liquidity Programs in the 21st Century\\n\\nIntroduction > Figure 1: Case Studies and Short-form Case Names\\n\\nprogram should not be expected to prevent or solve the chronic, or \\u201cdebt overhang,\\u201d phase of the institution\\u2019s crisis. Addressing an institution\\u2019s chronic problems typically demands more structural policy responses\\u2014such as capital injections, liability guarantees, balance sheet restructurings, or orderly resolutions. Crisis-fighters often suggest that their intent in providing emergency liquidity is to prevent an institution that is \\u201cilliquid but solvent\\u201d from tipping into insolvency, but liquidity crises are rare in the absence of deeper-seated solvency or viability concerns.\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol7_iss1_3_p0016\"}, {\"doc_id\": \"vol4_iss2_3\", \"chunk_id\": \"vol4_iss2_3_c0332\", \"document_type\": \"survey\", \"title\": \"Broad-Based Emergency Liquidity Programs\", \"score\": 0.5188, \"text\": \"Document: Broad-Based Emergency Liquidity Programs\\n\\n_A Note about Constructive Ambiguity_\\n\\nA second option for a LOLR to consider is to define and publish a liquidity framework before it is needed. A theory among central bankers is that one way to address moral hazard is \\u201cconstructive ambiguity\\u201d about the availability of emergency liquidity, the argument being that if the circumstances under which the central bank will provide liquidity are unclear, banks are unable to game around or rely on such support (Winters 2012). Constructive ambiguity is intended to also preserve the central bank\\u2019s discretion to provide or withhold such support and on what terms (Lee 2016).\", \"matched_text\": \"\", \"page\": 1, \"parent_id\": \"vol4_iss2_3_p0331\"}], \"total_found\": 15}"
+    },
+    {
+      "role": "assistant",
+      "content": "I now have a solid, corpus-grounded basis for a recommendation. Here is my analysis.\n\n## First, a caveat on the framing\n\nThe corpus is a body of research on financial-crisis interventions (largely drawn from the Global Financial Crisis and analogous episodes). Its lessons about **how governments should respond to solvency scares and feared liquidity crises at financial intermediaries** transfer well to your scenario. But note one key diagnostic point up front, because it shapes everything: the *trigger* here (a foreign AI breakthrough crashing AI-firm equity and loan collateral) is a **fundamental shock to asset values**, not a pure liquidity accident. The corpus repeatedly warns that \"liquidity crises are rare in the absence of deeper-seated solvency or viability concerns\" (*Ad Hoc Emergency Liquidity Programs in the 21st Century*). So this is likely a genuine solvency problem dressed up as a looming liquidity one \u2014 which affects which tools are appropriate.\n\n## Step 1: Recognize you're in the \"acute phase\" \u2014 act fast, protect liabilities first\n\nThe *Broad-Based Emergency Liquidity Programs* survey frames crises as having two phases:\n\n> \"In the initial acute phase, the financial system has an obvious liquidity problem\u2026 but the underlying solvency of banks is difficult to judge in the heat of that moment\u2026 During this acute phase, policy responses need to be fast and emphasize protection of the fragile liabilities\u2026 The goal in this phase is to arrest runs and prevent fire sales. Any strict solvency condition is doomed to failure \u2014 there is simply no time to make such judgments.\"\n\n**Implication:** Do *not* wait until you can perfectly sort solvent from insolvent intermediaries. In the acute phase the priority is to stop the self-reinforcing spiral \u2014 the \"liquidity channel\" contagion documented in the Lehman case studies, where firms facing higher haircuts and funding withdrawals dump assets, depressing prices further, impairing more balance sheets, and triggering more forced selling. Breaking that feedback loop is the immediate objective.\n\n## Step 2: Deploy the lender-of-last-resort function \u2014 lend freely against collateral\n\nThe classic first tool is central-bank liquidity, following Bagehot's dictum \u2014 \"lend freely at a high rate against good collateral\" (*Early Phases of the Financial Crisis*). The intended aim is \"to prevent an institution that is 'illiquid but solvent' from tipping into insolvency.\"\n\nTwo design lessons from the corpus are directly relevant here:\n\n- **The collateral is the problem.** Your scenario is precisely the case the survey flags: \"a liquidity constraint can easily disrupt the underlying assumptions and cause collateral to quickly lose value.\" Central banks can and do **adjust haircut schedules** for stressed collateral classes rather than mechanically applying peacetime schedules. But there's a limit \u2014 LOLR lending \"cannot make viable the fundamentally nonviable,\" and it can only be extended \"up to, but not in excess of, the value of the available security.\" If AI-company loan collateral has genuinely and permanently repriced, liquidity lending alone won't fix an intermediary that is actually insolvent.\n\n## Step 3: Because this looks like a solvency shock, prepare capital and guarantees in parallel\n\nThe *Ad Hoc Emergency Liquidity* survey is explicit that liquidity programs \"should not be expected to prevent or solve the chronic, or 'debt overhang,' phase,\" which \"demands more structural policy responses \u2014 such as capital injections, liability guarantees, balance sheet restructurings, or orderly resolutions.\" Two tools stand out:\n\n**(a) Guarantees to stop runs.** The GFC response leaned heavily on guarantees \u2014 deposit-insurance expansion, debt guarantees (the FDIC's DGP to restore interbank lending), transaction-account guarantees, and the money-market-fund guarantee that stopped the MMF run. The *Account Guarantee Survey* concludes guarantees \"by and large fulfilled their foremost purpose of preventing open runs.\" A critical warning, though: guarantees \"can cause a flight of funds from other parts of the financial system\u2026 that lack similar guarantees\" \u2014 so design for **coverage of existing balances** and coordinate internationally to avoid simply moving the run elsewhere.\n\n**(b) Capital injections for the genuinely undercapitalized-but-viable.** The *Broad-Based Capital Injection* survey stresses **triage via stress testing** \u2014 but with a crucial timing caveat: triage \"is good practice in a chronic phase but may not be desirable (or even feasible) in an acute phase,\" and \"capital injections will not achieve their goal\u2026 if the size and features of the program are based on a non-credible test.\" So: use guarantees and liquidity to buy time, then conduct a **credible stress test** to size and target recapitalization.\n\n## Step 4: Consider targeted asset-market support to arrest the fire-sale spiral\n\nBecause the shock runs through collateral/asset prices, market-support facilities are relevant \u2014 the GFC's Commercial Paper Funding Facility, for example, provided a \"liquidity backstop\" that stabilized funding markets. Analogously, backstopping the specific funding markets that are seizing up can prevent forced liquidation of AI-linked assets at distressed prices. (The corpus also notes the debate over whether fair-value/mark-to-market accounting should be relaxed during fire-sale conditions \u2014 a possible supplementary measure, though contested.)\n\n## Step 5: Attach conditions and an exit \u2014 but don't let them slow the rescue\n\nOnce you move into capital injections, the corpus supports **burden-sharing and conditions**: bans on dividends, share buybacks, and executive bonuses while public capital is outstanding; imposing losses on shareholders and subordinated/preferred creditors before taxpayers; pricing designed to incentivize prompt repayment; and a clear exit path (e.g., the Danish scheme's stepped-up repurchase price). Balance \"generous vs. punitive\": too punitive and firms won't participate (stigma); too generous and you create moral hazard and political backlash.\n\n## Step 6: Communicate decisively and be willing to overwhelm\n\nThe lessons-learned interviews are unanimous on posture:\n- **Confidence is the objective.** Bo Lundgren: \"concrete moves to support confidence are key\u2026 Interventions create great expectations and panic can occur when these expectations are not adhered to.\" Half-measures that disappoint expectations are worse than nothing.\n- **Keep it simple and pragmatic, but be bold** (Wojick).\n- **Narrow the focus** \u2014 \"first put out the fire and later ask how the fire started\" (Malik). Don't try to fix the structural AI-lending problem mid-crisis.\n\n## Summary recommendation\n\n1. **Diagnose honestly:** treat this as a solvency shock manifesting as a liquidity fear, not a pure liquidity accident.\n2. **Immediately (acute phase):** open/expand LOLR facilities with adjusted haircuts to solvent-but-illiquid intermediaries; stand up guarantees (debt/deposit/relevant funding markets) to halt runs and fire sales \u2014 protect liabilities first, don't demand strict solvency findings yet.\n3. **Backstop the seizing funding markets** to stop the collateral fire-sale spiral.\n4. **In parallel, prepare a credible, fast stress test** to triage viable-but-undercapitalized firms from nonviable ones.\n5. **Recapitalize the viable** with burden-sharing conditions (dividend/buyback/comp restrictions, losses on shareholders and junior creditors first) and a clear repayment/exit path; **resolve the nonviable** in an orderly way rather than propping them up.\n6. **Communicate overwhelming, credible force** and don't underdeliver on stated commitments.\n\nOne honest limitation: the corpus is centered on bank and near-bank intermediaries in past crises. To the extent the exposed lenders here are lightly regulated non-bank entities (as in the pre-GFC US \"shadow\" system the *Early Phases* piece describes), your legal authority to lend, guarantee, or inject capital may be constrained \u2014 the Fed's Section 13(3) allowed lending but \"not\u2026 capital, or guarantee creditors against loss\" \u2014 so a real-world response may require additional legislative authority, exactly as the corpus notes was needed in 2008.",
+      "refusal": null,
+      "reasoning": null
+    }
+  ]
+}

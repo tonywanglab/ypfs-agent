@@ -1,0 +1,856 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 3 
+2021 
+Colombia: FOGAFIN Capitalizations of 1999 and 2001 Colombia: FOGAFIN Capitalizations of 1999 and 2001 
+Junko Oguri 
+Yale School of Management 
+Manuel León Hoyos 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Oguri, Junko and León Hoyos, Manuel (2021) "Colombia: FOGAFIN Capitalizations of 1999 and 2001," 
+Journal of Financial Crises: Vol. 3 : Iss. 3, 16-35. 
+DOI: https://doi.org/10.17132/2693-3179.1212 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/2 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss3/2
+
+--- Page 3 ---
+Colombia: FOGAFIN Capitalizations of 1999 and 20011 
+Junko Oguri2 and Manuel León Hoyos3 
+Yale Program on Financial Stability Case Study 
+November 12, 2021 
+Abstract 
+In 1998, Colombia entered a severe recession . GDP contracted by 4 .2% in 1999 , and the 
+unemployment rate surpassed 20%. Political turmoil exacerbated trade and fiscal 
+imbalances. The economic downturn led to credit contractions, particularly in the 
+mortgage market. The nonperforming loan (NPL) ratio increased from 8% in December 
+1997 to 16.1% in November 1999. The NPL ratio for residential mortgages grew from 6% 
+in December 1997 to 19.8% in January 2000. 
+In 1999, due to the continuous deterioration of credit institutions, the government, through 
+FOGAFIN (the Financial Institutions Guaran tee Fund —the state agency for bank 
+resolutions and deposit insurance ), initiated rescue policies to restore public confidence 
+and solvency in the financial system . The government implemented a three-year economic 
+recovery program  that, among other measures , included capitalization of credit 
+institutions. This authority was given through Resolution 006 of 1999, in which FOGAFIN 
+granted loans to the shareholders of institutions to be used exclusively  to recapitalize their 
+institutions. Resolution 006 of 2001 gave the authority to further capitalize credit 
+institutions specialized in mortgage lending. 
+Keywords: capital injections, Colombia, financial crisis, FOGAFIN, recapitalizations 
+ 
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering broad-based asset capital injections programs.   
+Cases are available from the Journal of Financial Crises  at https://elischolar. library.yale.edu/journal-of-
+financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+3 Research Associate, YPFS, Yale School of Management. 
+16
+
+--- Page 4 ---
+At a Glance  
+In the late 1990s, Colombia ’s 
+economy weakened. Political turmoil 
+exacerbated trade and fiscal 
+imbalances. The Asian and Russian 
+financial cris es contributed to the 
+deterioration in market confidence. 
+The economic downturn led to credit 
+contractions, particularly in the 
+mortgage market . In 1998, Colombia 
+entered a severe recession (IMF 
+2001). In 1999, GDP contracted by 
+4.2%, while the unemployment rate 
+surpassed 20% (FOGAFIN 2009). The 
+nonperforming loan (NPL) ratio 
+increased from 8% in December 1997 
+to 16.1% in November 1999 . The NPL 
+ratio for residential mortgages grew 
+from 6% in December 1997 to 19.8% 
+in January 2000 (IMF 2001). 
+In November 1998, Colombia 
+declared a “Social and Economic State 
+of Emergency” through Decree 2330, 
+followed with the announcement of 
+the first set of measures in support of 
+the financial sector through Decree 
+2331 that included support 
+mechanisms for mortgage debtors 
+from institutions facing liquidation 
+(Decree 2330 1998; Decree 2331 
+1998). 
+In 1999, due to the continuous 
+deterioration of credit institutions, 
+the government, through FOGAFIN 
+(the Financial Institutions Guarantee 
+Fund—the state agen cy for bank 
+ 
+4 Exchange rate in June 1999 was Colombian pesos (COP) 1,693 = $1 (FRED 2021).  
+Summary of Key Terms 
+Purpose: The government capitalization was a line of 
+credit provided to the shareholders of  credit institutions 
+to exclusively strengthen their capitalization ratios. 
+Announcement Date June 30, 1999 (first line) 
+August 10, 2001 (second line) 
+End of Issuance Window December 31, 1999, last day to 
+apply (first line) 
+July 31, 2002, last day to apply 
+(second line) 
+Legal Authority Resolution 006 of 1999 (first) 
+Resolution 006 of 
+2001(second) 
+Program Size Unspecified 
+Total Utilization COP 1.09 trillion4  
+COP 492.8 billion in 1999 
+COP 599.9 billion in 2001 
+Participants  14 financial institutions: 10 in 
+1999 and four (specialized in 
+mortgage lending) in 2001 
+Administrator FOGAFIN (Financial 
+Institutions Guarantee Fund) 
+Notable Features Institutions had to write off 
+NPLs before the capitalization 
+process. Then, FOGAFIN 
+granted loans to institutions to 
+be used exclusively for 
+capitalization. 
+The 2001 resolution was 
+specifically targeted for 
+institutions specialized in 
+mortgage lending. 
+Colombia: FOGAFIN Capitalizations of  
+1999 and 2001 
+17
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 5 ---
+resolutions and deposit insurance ), initiated rescue policies to restore public confidence 
+and solvency in the financial system . It aimed to avoid systemic risk, control moral hazard, 
+minimize direct government administration in the financial s ector, and reduce fiscal costs 
+(FOGAFIN 2009 ). The Colombian government launched a three -year economic recovery 
+program supported by the International Monetary Fund (IMF), the World Bank, the Inter -
+American Development Bank, and the Development Bank of Lat in America (CAF)  that 
+included capitalization of credit institutions , resolution and restructuring measures for 
+unviable banks and other financial institutions, and other various rescue measures related 
+to debtor law and housing reform (FOGAFIN 2001 ; IMF 2 001; Morrison 2000) . In June 
+1999, to provide capitalization for both public and private  credit institutions , the 
+Colombian government passed Resolution 006 of 1999.  
+In regard to public banks, to  preserve financial stability,  strengthen the ir equity, recover 
+their viability, reduce fiscal costs of cleaning up, and minimize government participation in 
+the financial sector, the government decided to privatize all public banks  with the 
+exception of Banco Agrario , which remain ed the only public bank, given its importance to 
+provide financing to small and medium-sized farmers in the country (FOGAFIN 2009). 
+The capitalization process for public banks was composed of five stages: clean-up, capital 
+strengthening, disposal of NPLs, administrative restru cturing, and sale  of the institution 
+(FOGAFIN 2000).  For private banks, the capitalization process was composed of three 
+stages: clean-up, capital strengthening, and signing of a performance agreement (FOGAFIN 
+2000). 
+A total of 10 institutions were capitalized through Resolution 006 of 1999 for a total of COP 
+652,821 million, of which COP 492,788 million were FOGAFIN loans and COP 160,033 
+million were contributions by shareholders (FOGAGIN 2009; see Figure 1). 
+  
+18
+Colombia: FOGAFIN Capitalizations of 1999 and 2001 Oguri and León Hoyos
+
+--- Page 6 ---
+Figure 1: Use of Capitalization Line of 1999 (Millions of Colombian Pesos—COP) 
+  FOGAFIN Loans Shareholders 
+Institution Date 
+Short-
+Term 
+Long-
+Term Total 
+(Cash 
+and 1 -
+Year 
+Term) 
+Total 
+Capitalization 
+% 
+Shareholders/
+Total 
+Capitalization 
+Colpatria Aug/1999 38,110 174,001 212,111 57,454 269,565 21.3% 
+Banco 
+Superior Jul/1999 8,806 85,047 93,853 25,041 118,894 21.1% 
+Banco de 
+Credito Dec/1999 — 59,965 59,965 14,992 74,957 20% 
+Interbanco Oct/1999 1,016 42,181 43,197 15,441 58,638 26.3% 
+Banco Union Jul/1999 1,803 25,525 27,328 5,371 32,699 16.4% 
+Corfinorte Dec/1999 — 19,752 19,752 27,942 47,694 58.6% 
+Coltefinancie
+ra Oct/1999 9,104 19,348 28,452 11,254 39,706 28.3% 
+Multifinanci
+era Nov/1999 — 2,863 2,863 1,939 4,802 40.4% 
+Credinver Feb/2000 88 2,050 2,138 599 2,737 21.9% 
+Confinancier
+a Nov/2000 — 3,129 3,129 — 3,129 0% 
+Total  58,927 433,861 492,788 160,033 652,821 24.5% 
+Note: Banco Selfin and Banco Findesarrollo requested access to the line . However, their 
+shareholders did not capitalize the ir corresponding portion, and the banks  therefore were 
+liquidated. 
+Sources: FOGAFIN 2000; FOGAFIN 2009. 
+Four out of the five private banks specialized in mortgage lending received capitalization 
+through Resolution 006 of 2001. These were Colpatria, AV Villas, Colmena, and Conavi. The 
+other bank, Davivienda , did not request access. The total capitalization amounted to  
+COP 716 billion, of which  COP 599.9 billion  were FOGAFIN loans granted and COP 116 
+billion were contributions by shareholders , 16.2% of the total capitalization  (FOGAFIN 
+2009; see Figure 2). 
+  
+19
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 7 ---
+Figure 2: Use of Capitalization Line of 2001 (Billions of Colombian Pesos—COP) 
+ FOGAFIN Loans    
+Institution 
+Short-
+Term 
+Long-
+Term BOCAS Total 
+Shareholder
+s 
+Total 
+Capitalization 
+% 
+Shareholders/Total 
+Capitalization 
+Colpatria — 40 25 65 35 100 35% 
+AV Villas 52 156 52 260 — 260 0% 
+Colmena — 120 — 120 30 150 20% 
+Conavi — 113.7 41.2 154.9 51 206 24.8% 
+Total 52 429.7 118.2 599.9 116 716 16.2% 
+*BOCAS were bonds optionally convertible into shares. 
+Source: FOGAFIN 2009. 
+Overall, F OGAFIN granted loans through both capitalization lines  of 1999 and 2001  for 
+COP 1.09 trillion to 13 credit  institutions. Colpatria was the only institution to access both.  
+Shareholders contributed COP 276 billion  (20.2% of the total capitalization ). The total 
+amount of capitalizations was COP 1.37 trillion (FOGAFIN 2009; see Figures 1–3). 
+Figure 3: Use of Capitalization Lines of 1999 and 2001 (Millions of Colombian Pesos—
+COP) 
+Resolutions 
+Number of 
+Institution
+s 
+FOGAFI
+N Loans 
+Capitalization 
+by 
+Shareholders 
+Total 
+Capitalizatio
+n 
+% 
+Shareholders/ 
+Total 
+Capitalization 
+Resolution 006 of 
+1999 10 492,788 160,033 652,821 24.5% 
+Resolution 006 of 
+2001 4 599,911 116,089 716,000 16.2% 
+Total 13* 1,092,69
+9 276,122 1,368,821 20.2% 
+*Colpatria was the only institution to access both capitalization lines. 
+Source: FOGAFIN 2009. 
+By 2008, t he government recovered COP 1.7 trillion  from the payment of capital and 
+interest on the FOGAFIN loans granted to shareholders of private institutions. Thanks to 
+the financial recovery, they were able to pay in advance. Of the 13 institutions capitalized, 
+all except Interbanco paid their obligations to FOGAFIN in full, and before the agreed term. 
+20
+Colombia: FOGAFIN Capitalizations of 1999 and 2001 Oguri and León Hoyos
+
+--- Page 8 ---
+All paid in cash, with the exception of Multifinanciera, which delivered assets as a payment 
+to FOGAFIN. Two institutions— Interbanco and Co rfinorte—were intervened  and 
+liquidated, and two others—Credinver and Multifinanciera —were voluntarily dismantled. 
+All the other institutions recovered and continued in operation (FOGAFIN 2009). 
+Summary Evaluation 
+By 2001, Colombian economic indicators of solvency, profitability, port folio quality, and 
+portfolio coverage showed positive trends in the banking system (Heenan et al. 2007). The 
+average capital adequacy ratio improved from 11.2% in December 1999 to 13.8% in 
+December 2000, and the average NPL ratio declined from 13.5% to 11.1%. However, it is 
+hard to identify how much improvement can be attributed to the capital izations as 
+Colombian macroe conomic conditions improved (IM F 2001). The capitalization s of 1999 
+and 2001 did not represent any cost to the government, owing to the good financial 
+performance of the institutions that accessed them.  
+Given that the Colombian government underwent variou s reforms simultaneously, there 
+are few evaluations of the capitalization process. For instance, in terms of capital injections 
+to private banks, the IMF evaluate d that “[w]hile this scheme was generally successful in 
+improving the capital adequacy ratios of the institutions that were supported, it d oes 
+subject FOGAFIN to losses should the banks fail but not to the gains that would accrue if the 
+banks’ fully recover.” The IMF also implied that capital adequacy ratios were improved as a 
+result of the combination of write -offs of impaired assets prior to the capital injection and 
+the capitalization (IMF 2001).  
+21
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 9 ---
+Colombia Context 1998-1999 
+GDP 
+(SAAR, nominal GDP in LCU converted to USD) 
+$98.4 billion in 1998 
+$86.2 billion in 1999 
+GDP per capita 
+(SAAR, nominal GDP in LCU converted to USD) 
+$2,566 in 1998 
+$2,210 in 1999 
+Sovereign credit rating (five-year senior debt) 
+ 
+Data for 1998: 
+ 
+Fitch: N/A 
+Moody’s: Baa2 
+S&P: N/A 
+ 
+Data for1999: 
+ 
+Fitch: N/A 
+Moody’s: Baa2 
+S&P: BBB+ 
+Size of banking system 
+ 
+Data not available for 1998 
+Data not available for 1999 
+Size of banking system as a percentage of GDP 
+ 
+34.2% in 1998 
+32.6% in 1999 
+Size of banking system as a percentage of financial 
+system 
+96.3% in1998 
+93.7% in 1999 
+Five-bank concentration of banking system 
+ 
+76.9% in 1998 
+83.8% in 1999 
+Foreign involvement in banking system 6% in 1998 
+22% in 1999 
+Government ownership of banking system 37% in 1998 
+18% in 1999 
+Existence of deposit insurance Yes in 1998 
+Yes in 1999 
+Sources: Bloomberg; World Bank Global Financial Development Database; World Bank 
+Deposit Insurance Dataset; Cull, Martinez Peria, and Verrier 2018. 
+22
+Colombia: FOGAFIN Capitalizations of 1999 and 2001 Oguri and León Hoyos
+
+--- Page 10 ---
+Key Design Decisions 
+1. Part of a Package: In 1999, the Colombian government initiated rescue policies 
+to restore confidence in the financial system and implemented a three -year 
+economic recovery program  including capitalization lines for credit institutions, 
+resolution and restructuring measures for unviable banks and other financial 
+institutions, as well as other various rescue measures related to debtor law and 
+housing reform. 
+In 1999, due to the continuous deterioration of credit institutions, the government, through 
+FOGAFIN (the Financial Institutions Guarantee Fund —the state agency for bank 
+resolutions and deposit insurance) , initiated rescue policies to restore public confidence 
+and solvency in the financial system . It aimed to avoid systemic risk, control moral hazard, 
+minimize direct government administration in the financial sector, and r educe fiscal costs 
+(Botero Garrido  2006). The Colombian government launched a three -year economic 
+recovery program supported by the International Monetary Fund (IMF), the World Bank, 
+the Inter-American Development Bank, and the Development Bank of Latin Am erica (CAF) 
+that included capitalization lines for credit institutions, resolution and restructuring 
+measures for unviable banks and other financial institutions, as well as  other various 
+rescue measures related to debtor law and housing reform ( FOGAFIN 20 01; IMF 2001; 
+Morrison 2000). 
+In June 1999, to provide capitalization for both public and private credit institutions, the 
+Colombian government passed Resolution 006 of 1999. Two years later, Resolution 006 of 
+2001 gave the authority to further capitalize credit institutions specialized in mortgage 
+lending (Resolution 006 1999; Resolution 006 2001 ). The capitalization process for public 
+banks was composed of five stages: clean -up, capital strengthening, disposal of 
+nonperforming loans ( NPLs), administrative restructuring, and sale of the institution. For 
+private banks, the capitalization process was composed of three stages: clean -up, capital 
+strengthening, and signing of a performance agreement (FOGAFIN 2000). 
+2. Legal Authority: Resolution 006 of  1999 provided the authority for the 
+capitalization of credit institutions . This was later expanded in 1999 through  
+Resolution 011 of 1999, and furthermore in 2001  with another capitalization 
+line through Resolution 006 of 2001.  
+On November 16, 1998, Colombia declared a “Social and Economic State of Emergency” 
+through Decree 2330 , followed the same day with the announcement of the first set  of 
+measures in support of the financial sector  through Decree 2331 that included support 
+mechanisms for mortgage debtors from institutions facing liquidation (Decree 2330 1998; 
+Decree 2331 1998). 
+In June 1999,  Resolution 006 of 1999 gave the authority for  capitalizations of credit 
+institutions through  FOGAFIN. Resolution 011 of 1999 allowed for institutions tha t 
+received a first FOGAFIN loan to receive a second one by June 30, 2000 (FOGAFIN 2000) . In 
+23
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 11 ---
+August 2001, Colombia  passed Resolution 006 of 2001 that gave the authority for 
+capitalizations of credit institutions specialized in mortgage lending ( Resolution 006 1999, 
+Resolution 006 2001). 
+3. Administration/Governance: FOGAFIN, with the assistance of the Banking 
+Superintendency, was in charge of the capitalization process of credit 
+institutions. 
+FOGAFIN was created in 1985 to deal with a previous financial crisis in the 1980s and help 
+with capitalization efforts of the financial system. For the Colombian crisis that started in 
+the late 1990s, FOGAFIN executed the government’s rescue plan, focused on the bank ing 
+system (FOGAFIN 2021). 
+4. Size: There was no announced limit on the total size of the recapitalizations 
+announced in 1999 and 2001.  
+There was no announced limit on the total size of the recapitalizations announced in 1999 
+and 2001 . Overall , F OGAFIN granted loans through both capitalization lines  of 1999 and 
+2001 for COP 1.09 trillion to 13 credit  institutions. Colpatria was the only institution to 
+access both. Shareholders contributed COP 276 billion (20.2% of the total capitalization ). 
+The total amount of capitalizations was COP 1.37 trillion (FOGAFIN 2009; see Figures 1–3). 
+A total of 10 institutions were capitalized through Resolution  006 of 1999 for a total of 
+COP 652,821 million, of which COP 492,788 million wer e FOGAFIN loans and 
+COP 160,033 million were contributions by shareholders (FOGAGIN 2009; see Figure 1). Of 
+the five private banks specialized in mortgage lending, four accessed the capitalization  
+through Resolution 006 of 2001. These were Colpatria, AV Villas, Colmena, and Conavi. The 
+other bank, Davivienda , did not request access. The total capitalization amounted to  
+COP 716 billion, of which  COP 599.9 billion  were FOGAFIN loans granted and COP 116 
+billion were contributions by shareholders , 16.2% of the total capitalization (FOGAFIN 
+2009; see Figure 2). 
+5. Funding Source:  Funding for capitalization of credit institutions came from the 
+issuance of FOGAFIN bonds and the collections of the tax on financial 
+transactions established in 1998. 
+The funding for the capital ization of public banks came from the issuance of FOGAFIN 
+bonds and the collections of the tax on financial transactions established in 1998. Initially, 
+FOGAFIN issued COP 3 trillion in bonds to cover the costs of the capitalization of public 
+banks. However, due to higher  than expected costs by more than COP 1.2 billion, a second 
+issuance of FOGAFIN bonds was performed (FOGAFIN 2000). 
+The capitalization process for private banks was financed through the issuance of FOGAFIN 
+bonds (backed by the Deposit Insurance Reserve) subscribed by the institutions being 
+capitalized. The service of the bonds  was covered with the recovery of the FOGAFIN loan 
+24
+Colombia: FOGAFIN Capitalizations of 1999 and 2001 Oguri and León Hoyos
+
+--- Page 12 ---
+granted to shareholders , so that  it did  not generate a fiscal cost to the government. 
+FOGAFIN charged additional percentage points to the DTF 5 rate, to cover the cost of 
+potential default, in which case, F OGAFIN enforced the guarantee s provided by  the 
+institution (Botero Garrido 2006; Resolution 006 1999; Resolution 006 2001). 
+6. Eligible Institutions: All credit institutions, both public and private , were eligible 
+in 1999 , and later in 2001, only credit institutions specializ ed in mortgage 
+lending were eligible.  
+Both public and private credit institutions were eligible for the capitalization process under 
+Resolution 006 of 1999 announced in June 1999. Credit institutions had until December 31, 
+1999 (about six months) to apply for a ccess (Resolution 006 1999). This line was extended 
+through Resolution 011 of 1999 to allow institutions that received a first F OGAFIN loan to 
+apply for a second one by June 30, 2000 (FOGAFIN 2000) . For the 2001 capitalization line 
+launched to support credit institutions specialized in mortgage lending, eligible institutions 
+included those that had at least 50% of their portfolios in mortgage loans as of December 
+31, 2000. They had until July 31, 2002 to apply (Resolution 006 2001). 
+In regard to public banks, to preserve financial stability, strengthen their equity, recover 
+their viability, reduce fiscal costs of cleaning  up, and minimize government participation in 
+the financial sector, the government decided to privatize all public ban ks with the 
+exception of Banco Agrario, which remained the only public bank, given its importance to 
+provide financing to small and medium-sized farmers in the country (FOGAFIN 2009). 
+As part of the process and a pre -requisite for capitalization, credit in stitutions were 
+required to write off their nonperforming loans in such a way that it reasonably  reflected 
+their true economic value (Resolution 006 1999). If, after the provision and amortization of 
+the NPLs, the credit institution’s technical equity dropped below zero (0), its shareholders 
+had to capitalize the institution  with their own resources to  bring its technical equity to at 
+least zero (0). 
+7. Individual Participation Limits:  The capitalization was set to restore a solvency 
+margin of 9% for public banks and 10% in the case of private banks. 
+For public banks, to perform the second stage of capital strengthening, FOGAFIN 
+capitalized institutions until reaching a solvency margin of 9%.  For private credit 
+institutions, to perform  the second stag e of capital strengthening , institutions were 
+capitalized to restore a solvency margin of 10%. For this purpose, FOGAFIN granted loans 
+to shareholders of institutions to be used exclusively to capitalize their institution s. 
+FOGAFIN provided long-term loans for up to 90% of the amount necessary, but the long -
+term loans could not exceed 80% of the total capitalization. To ensure a long -term loan, 
+shareholders had to grant shares of the institution as collateral at a minimum value of 
+ 
+5 The DTF ( fixed-term deposit rate) is calculated as the weighted average of interest rates on 90 -day 
+certificates of deposit (CDs) offered by Colombian banks and financial institutions (Rowland 2006).  
+25
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 13 ---
+133% of the loan, accordin g to the  valuation carried out by the international financial  
+advisors (FOGAFIN 2000; FOGAFIN 2009; Resolution 006 1999; see Figure 5). 
+Resolution 011 of 1999 allowed for institutions that received a first FOGAFIN loan to apply 
+for a second one by June 30,  2000 (FOGAFIN 2000). The resolution also stipulated that 
+FOGAFIN could grant loans to shareholders for up to 100% of the resources required by 
+the institution. An operation with Confinanciera ’s shareholders was the only one carried 
+out under the new conditions (FOGAFIN 2009). 
+Under Resolution 006 of 2001, t he difference was that the amount of capitalization 
+required was determined by the adjustments ordered by the Banking Superintendency, 
+while in the 1999 regulation, it was the result of a reorganization process that was 
+specified in the resolution (FOGAFIN  2009). Under the 2001 regulation, FOGAFIN could 
+invest in bonds optionally convertible into shares (BOCAS)  up to 80% of the resources 
+required by the institution so that its solvency ratio reached 10%. In this case, the 
+investment was made once the shareh olders had capitalized their institution, at least in an 
+amount equivalent to the difference between the capital necessary to achieve a 10% 
+solvency ratio and the value of the investment (Resolution 006 2001). 
+Shareholders and credit institutions that requ ested access could do so one or more times, 
+as long as they compl ied with the provisions of the resolution and the total amount of the 
+operations d id not exceed 80% of the global value of the adjustments required by the 
+Banking Superintendency (Resolution 006 2001). 
+8. Capital Characteristics: FOGAFIN granted four types of assistance to capitalize 
+credit institutions: public bank capitalizations, bridge loans to shareholders , 
+loans to  capitalize private banks, and loans to capitalize credit institutions 
+specialized in mortgage lending. 
+FOGAFIN granted four types of capitalization assistance: (a) public bank capitalizations, (b) 
+bridge loans to shareholders , (b) loans for private  bank capitalization s, and (d) loans for 
+credit institutions specialized in mortgage lending. 
+(a) Public bank capitalizations  
+After the write-off of nonperforming assets , to perform the second stage of capital 
+strengthening, FOGAFIN issued bonds or invested proceeds from the financial transactions 
+tax to capitalize the institution until reaching a solvency margin of 9% (FOGAFIN 2000). 
+In the third stage, nonperforming assets were transferred to Central de Inversiones S.A. 
+(CISA). In September 2000, FOGAFIN acquired a CISA, a public special purpose vehicle for 
+the management and disposal of bad assets (FOGAFIN 2001; Heenan et al. 2007; Resolution 
+006 1999; also see the YPFS case study on CISA, Engbith and León Hoyos 2021). 
+In the fourth stage, institutions went through administrative restructuring in preparation 
+for their sale. The main objectives were to reduce administrative and personnel costs , 
+avoid the deterioration of the institutions’ assets, and reduce the upward pressure exerted 
+26
+Colombia: FOGAFIN Capitalizations of 1999 and 2001 Oguri and León Hoyos
+
+--- Page 14 ---
+by public institutions on the market deposit rates. The restructuring was carried out with 
+the assistance of specialized external consultants.  In the fifth and final stage, the 
+institutions were sold. FOGAFIN hired investment banking firms to privatize the healthy 
+banks (FOGAFIN 2000). 
+(b) Bridge loans to shareholders: 
+In the first stage of clean -up, in stitutions had to write  off their NPLs in a way that 
+reasonably reflected their true economic value. If , after the write -offs, the institution ’s 
+technical equity was negative, its shareholders had to capitalize the institution with their 
+own resources to b ring its technical equity to at least zero (0). Shareholders had to 
+contribute, with their own resources, at least 20% of the amount necessary to strengthen 
+the technical equity of the institution (FOGAFIN 2009; Resolution 006 1999). 
+In 1999, it was in man y cases unfeasible for shareholders to capitalize immediately. To 
+facilitate the disbursement of resources corresponding to shareholders, FOGAFIN granted 
+shareholders a six-month bridge loan that allowed financing 50% of this capitalization, and 
+the Banking Superintendency extended the term to 12 months for the remaining 50%. 
+Figure 4: Characteristics of FOGAFIN Bridge Loans under Resolution 006 
+of 1999 
+ Bridge Loans FOGAFIN Bonds 
+Term Up to 6 months 270 days 
+Interest rate DTF* + 2% DTF 
+Amortization At maturity At maturity 
+Interest payment Semiannual Semiannual 
+Guarantees 133% of the FOGAFIN 
+loan FOGAFIN 
+*The DTF ( fixed-term deposit rate) is calculated as the weighted average of 
+interest rates on 90 -day certificates of deposit (CDs) offered by Colombian 
+banks and financial institutions (Rowland 2006). 
+Source: Resolution 006 1999. 
+(c) Loans for private bank capitalizations: 
+In the second stage of capital strengthening, it was necessary to capitalize the institution to 
+restore a solvency margin of 10%. For this purpose, FOGAFIN granted loans to 
+shareholders of institutions to be used exclusively to capitalize their institution s. FOGAFIN 
+provided long-term loans for up to 90% of the amount necessary, but the long -term loans 
+could not exceed 80% of the total capitalization. To ensure a long -term loan, shareholders 
+had to grant shares of the institution as collateral at a minimum value o f 133% of the loan, 
+according to the valuation carried out by the international financial advis ors (FOGAFIN 
+2000; FOGAFIN 2009; Resolution 006 1999; see Figure 5 ). FOGAFIN disbursed the loans 
+27
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 15 ---
+directly to the participating institution receiving the capitali zation, to its account at the 
+central bank. Once the payment was posted, the institution record ed the new level of 
+capitalization and immediately invested an equal amount in bonds that FOGAFIN issued for 
+the capitalization (Resolution 006 1999; see Figures 4–7). 
+Figure 5: Characteristics of FOGAFIN Loans under Resolution 006 of 1999 
+ Loans to Shareholders FOGAFIN Bonds 
+Term 3 to 7 years ; expanded to 9 
+years 
+7 years (average) 
+Grace period for interest 1 year; expanded to 2.5 years None 
+Grace period for capital 3 years; expanded to 4 years N/A 
+Interest rate DTF* + 2% (first 3 years) 
+DTF + 3% (last 4 years) 
+DTF 
+Amortization Biannual At maturity 
+Interest payment Quarterly or semiannual Quarterly 
+Guarantees 133% of the FOGAFIN loan FOGAFIN 
+*The DTF (fixed-term deposit rate) is calculated as the weighted average of interest 
+rates on 90 -day certificates of deposit (CDs) offered by Colombian banks and 
+financial institutions (Rowland 2006). 
+Sources: Botero Garrido 2006; Resolution 006 1999. 
+In any case, shareholders had to sign an adjustment plan with the Banking 
+Superintendency to guarantee with solid and sufficient sources of payment (letters of 
+credit from a first-level foreign bank or resources coming from the execution of irrevocable 
+commercial trust contracts that had as their objective the sale of assets, for commercial 
+value of at least 133% of the loan) (FOGAFIN 2000; Resolution 006 1999; see Figure 5 ). 
+Additionally, FOGAFIN establish ed mechanisms to ensure that at least 78% of the political 
+rights of the total outstanding shares of the institution were immediately transf erred to 
+FOGAFIN, in case of default. Notwithstanding, FOGAFIN’s Board of Directors could 
+authorize guarantees other than those indicated. 
+  
+28
+Colombia: FOGAFIN Capitalizations of 1999 and 2001 Oguri and León Hoyos
+
+--- Page 16 ---
+Figure 6: General Mechanism of Capitalization Line under Resolution 006 of 1999 
+ 
+Source: FOGAFIN 2009, 120. 
+(d) Loans to credit institutions specialized in mortgage lending: 
+In 2001, Colombia passed Resolution 006 of 2001, which allowed for capitalizations of 
+credit institutions specialized in mortgage lending (Botero Garrido 2006; Resolution 006 
+2001). FOGAFIN gran ted loans to shareholders of credit institutions and/or the 
+subscription by FOGAFIN of bonds optionally convertible into shares issued by the 
+institutions (FOGAFIN 2009). Institutions could issue BOCAS, as long as such bonds 
+strengthened the equity of the institution, stated the irrevocable condition of being 
+subordinated debt, and met the following requirements: 
+i. That the portfolio purchase d by the shareholders corresponded exclusively to a 
+portfolio rated C, D , or E or to a written -off portfolio, registered as of December 
+31, 2000; 
+ii. That the purchase value of the portfolio C, D, or E in no case was less than the net 
+value plus provisions of said portfolio, including interest and other items 
+associated with it; 
+iii. That the purchase value of the written -off portfolio was in no case less than the 
+value recorded in memorandum accounts, including interest and other items 
+associated with it; and 
+iv. That the respective credit institution did not enter into  repurchase agreements 
+on the portfolio referred, directly or indir ectly, during the validity of the loans 
+(FOGAFIN 2009; Resolution 006 2001). 
+  
+29
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 17 ---
+Figure 7: Characteristics of FOGAFIN Loans under Resolution 006 of 2001 
+ Long-Term Short-Term BOCAS* FOGAFIN Bonds 
+Term Up to 9 years Up to 1 year Up to 9 years Up to 10 years 
+Amount Up to 80% of the 
+adjustment 
+determined by the 
+Superintendency to 
+reach a solvency 
+ratio of 10% 
+Up to 20% of the 
+adjustment 
+determined by 
+the 
+Superintendency 
+to reach a 
+solvency ratio of 
+10% 
+  
+Grace period Up to 2.5 years for 
+interest and 4 years 
+for capital 
+N/A Up to 2.5 years for 
+interest and 4 years 
+for capital 
+ 
+Interest rate DTF* + 3% DTF + 2% DTF + 3% DTF + 1% 
+Capitalization up 
+to the first 5 
+semesters 
+Amortization Biannual At expiration Biannual At expiration 
+Interest 
+payment 
+Biannual At expiration Biannual At expiration 
+Guarantees 133% of the value 
+of the loan in shares 
+pledged 
+133% of the  
+value of the loan 
+in shares 
+pledged 
+133% of the value 
+of the loan in shares 
+pledged 
+ 
+*The DTF (fixed-term deposit rate) is calculated as the weighted average of interest rates on 90-day 
+certificates of deposit (CDs) offered by Colombian banks and financial institutions (Rowland 2006). 
+*BOCAS were bonds optionally convertible into shares. 
+Sources: Botero Garrido 2006; Resolution 006 2001. 
+(1) Fate of Existing Board and Management:  There is no information on whether the 
+existing board and management at the participating banks were removed or 
+replaced. 
+ Research did not reveal information regarding this Key Design Decision. 
+(2) Allocation of Losses for Existing Stakeholders: Prior to capitalizations, NPLs were 
+written off and shareholders had to capitalize their institution to bring its  technical 
+equity to at least zero. 
+For private institutions, in the first stage of clean-up, institutions had to write off their NPLs 
+in a way that reasonably reflected their true economic value . If, after the write -offs, the 
+institution’s technical equity was negative, its shareholders had to capitalize the institution  
+30
+Colombia: FOGAFIN Capitalizations of 1999 and 2001 Oguri and León Hoyos
+
+--- Page 18 ---
+with their own resources to  bring its technical equity to at least zero (0 ). Shareholders had 
+to contribute , with their own resources, at least 20% of the amount necessary to 
+strengthen the technical equity of the institution (FOGAFIN 2009; Resolution 006 1999). 
+It was agreed with the shareholders that all of the distributable dividends should be used 
+to pay remaining balances of  the loans granted by FOGAFIN to the institution (Botero 
+Garrido 2006; Resolution 006 of 2001). 
+9. Exit Strategy: There does not seem to have been a solid exit strategy. 
+Research did not reveal information regarding this Key Design Decision. 
+10. Changes in Relevant Regulation: There do not seem to have been any relevant 
+changes in the regulation. 
+Research did not reveal information regarding this Key Design Decision. 
+11. Debt Restructuring Plan:  As part of the capitalization process , private credit 
+institutions had to sign a performance agreement. 
+As part of the capitalization process of private credit institutions, i n the third and fina l 
+stage, institutions signed a performance agreement that included the goals that they had to 
+meet to guarantee their solvency and the payment of the long -term loan. These goals were 
+defined by FOGAFIN, the financial institution , and the Banking Superintendency, with the 
+support of international consultants. Additionally, in each capitalized institution, an 
+internal control office was installed to ensure compliance with the signed agreements, 
+without actually comanaging the institution (FOGAFIN 2000).  The control office report ed 
+the results of its  management to FOGAFIN, and its operating costs were borne by the  
+institution being capitalized. 
+Institutions capitalized had to authorize FOGAFIN and  external consultants hire d by 
+suggestion of FOGAFIN to determine and quantify the assets that should be provisioned to 
+determine the economic value of their shares (Resolution 006 1999). 
+In the fourth stage  of the capitalization of  public banks , institutions went through 
+administrative restructuring i n preparation for their sale . T he main objectives were to 
+reduce administrative and personnel costs , avoid the deterioration of the  institutions’ 
+assets, and reduce the upward pressure  exerted by public institutions on the market 
+deposit rates. The restructuring was carried out with the  assistance of specialized external 
+consultants (FOGAFIN 2000, 10) . In the fifth and final stage, the institutions were sold. 
+FOGAFIN hired investment banking firms to privatize the healthy banks (FOGAFIN 2000). 
+12. Other Conditions: Institutions capitalized agreed to authorize FOGAFIN and 
+external consultants to set the economic value of the shares that maintained the 
+value of the guarantees. 
+Institutions had to  authorize FOGAFIN , and external consultants hired under the 
+responsibility of the institution capitalized, to establish the economic value of the shares of 
+31
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 19 ---
+the institution and any other requirement that FOGAFIN deem ed necessary. Institutions 
+had to contract with consultants the periodic reviews of the economic value of the shares to 
+maintain the value of the guarantees.  The costs generated by hiring external consultants or 
+any other concept associated with the operations  was fully assumed by the institution or  
+shareholders. Credit institution s had to  authorize the statutory auditor and the internal 
+auditor to provide the information required at any time by FOGAFIN. The cost arising from 
+these requests was to be covered by the respective institution (Resolution 006 2001). 
+For Resolution 006 of 2001, when the request for loans corresponded to shareholders of an 
+institution capitalized under Resolution 006 of 1999, FOGAFIN , with approval of its board 
+of directors, could authorize that some of the conditions initially granted be modified, 
+based on the adjustmen ts or precautionary measures arranged or ordered by the Banking 
+Superintendency to the institution (Resolution 006 2001). 
+  
+32
+Colombia: FOGAFIN Capitalizations of 1999 and 2001 Oguri and León Hoyos
+
+--- Page 20 ---
+References and Key Program Documents 
+Implementation Documents 
+(Decree 2330 1998) “Decreto 2330 de 1998 – Por el cual se declara el Estado de 
+Emergencia Económica y Social.” 1998. Colombia: Ministerio de Hacienda y Crédito Público. 
+Official government decree (in Spanish) declaring the state of economic and social emergency. 
+https://ypfs.som.yale.edu/library/decreto-2330-de-1998-por-el-cual-se-declara-el-estado-
+de-emergencia-economica-y-social. 
+(Decree 2331 1998) “Decreto 2331 de 1998 – Por el cual se dictan medidas tendientes a 
+resolver la situación de los sectores  financiero y cooperativo, aliviar la situación de los 
+deudores por créditos de  vivienda y de los ahorradores de las entidades cooperativas en 
+liquidación, mediante la creación de mecanismos institucionales y de financiación y la  
+adopción de disposiciones complementarias. ” 1998. Colombia: Ministerio de Hacienda y 
+Crédito Público. Official government decree (in Spanish) stating the measures taken for the 
+financial sector and debtors.  
+https://ypfs.som.yale.edu/library/decreto-2331-de-1998-por-el-cual-se-dictan-medidas-
+tendientes-resolver-la-situacion-de-los. 
+(Resolution 006 1999) “Resolution 006 (June 30, 1999) .” 1999. Financial Institutions 
+Guarantee Fund (FOGAFIN).  
+English translation of the official resolution that gave FOGAFIN the authority to grant loans 
+to the shareholders of institutions to be used exclusively to recapitalize their institutions.  
+https://ypfs.som.yale.edu/library/resolution-006-june-30-1999-translated. 
+(Resolution 006 2001) “Resolution 006 ( August 10 , 2001).” 2001. Financial Institutions 
+Guarantee Fund (FOGAFIN).   
+Official resolution that gave FOGAFIN the authority to further capitalize credit institutions 
+specialized in mortgage lending.  
+https://ypfs.som.yale.edu/library/resolution-006-august-10-2001. 
+Media Stories 
+(Morrison 2000) Morrison, Mary. 2000. “Interview: Colombian Banks out of Woods - 
+Fogafin Chief.” Dow Jones, February 15, 2000.  
+Dow Jones news article describing the progress th e Colombian government had made in 
+resolving the 1990s financial crisis.  
+https://ypfs.som.yale.edu/library/interview-colombian-banks-out-woods-fogafin-chief. 
+Key Academic Papers 
+(Botero Garrido 2006) Botero Garrido, José Antonio . 2006. “ Seguimiento a la política de 
+salvamento de la banca privada en Colombia en la crisis financiera de 1998 –1999.” 
+Contraloría Delegada para el Sector Gestión Pública e Instituciones Financieras  Dirección 
+de Estudios Sectoriales.  
+Research paper on policy meas ures implemented to rescu e private banks in Colombia during 
+33
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 21 ---
+the financial crisis of 1998–1999.  
+https://ypfs.som.yale.edu/library/seguimiento-la-politica-de-salvamento-de-la-banca-
+privada-en-colombia-en-la-crisis. 
+(Cull, Martinez Peria, and Verrier  2018) C ull, Robert, Maria Soledad Martinez Peria, and 
+Jeanne Verrier. 2018. “Bank Ownership: Trends and Implications .” World Bank Policy 
+Research Working Paper No. 8297, January 2018.   
+A report published by the  World Bank Group’s Development Research Group Finance and 
+Private Sector Development  Team seeking to  describe state and foreign involvement in 
+banking sectors around the world.   
+https://ypfs.som.yale.edu/library/bank-ownership-trends-and-implications. 
+(Engbith and León Hoyos 2021) Engbith, Lily S., and Manuel León Hoyos. 2021. “Colombia: 
+Central de Inversiones S .A. (CISA).” Journal of Financial Crises  3, no. 2 (June): 497–511. 
+Case study part of the Yale Program on Financial Stability (YPFS) New Bagehot Project 
+considering broad-based asset management company programs.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/24. 
+(Heenan et al.  2007) Heenan Sierra, Lía Nicolasa , Carlos Enrique Ordosgoitia Osorio, and 
+José Manuel Fernández Pinedo. 2007. “Propuesta para desarrollar el mercado de activos 
+improductivos en Colombia.” Universidad Autónoma de Bucaramanga.  
+Research paper (in Spanish) describing the background and details of interventions used by 
+the Colombian government to develop the NPL market during the 1990s financial crisis.  
+https://ypfs.som.yale.edu/library/propuesta-para-desarrollar-el-mercado-de-activos-
+improductivos-en-colombia. 
+(Rowland 2006) Rowland, Peter. 2006. “The 90 -Day DTF Interest Rate: Why Does It 
+Remain Constant?” Banco de la República (central bank of Colombia).  
+A research paper explaining the development and maintenance of the main benchmark 
+interest rate in Colombia.   
+https://ypfs.som.yale.edu/library/90-day-dtf-interest-rate-why-does-it-remain-constant-0. 
+Reports/Assessments 
+(FOGAFIN 2000) Financial Institutions Guarantee Fund  (FOGAFIN). 2000. “1999 FOGAFIN 
+Management Report.”   
+An official report published by the depo sit guarantee fund detailing the crisis -era design 
+decisions and outcomes of key government interventions.  
+https://ypfs.som.yale.edu/library/1999-fogafin-management-report.  
+(FOGAFIN 2001) Financial Institutions Guarantee Fund  (FOGAFIN). 2001. “2000 FOGAFIN 
+Management Report.”   
+An official report published by the deposit guarantee fund detailing the crisis -era design 
+decisions and outcomes of key government interventions.  
+https://ypfs.som.yale.edu/library/2000-fogafin-management-report. 
+34
+Colombia: FOGAFIN Capitalizations of 1999 and 2001 Oguri and León Hoyos
+
+--- Page 22 ---
+(FOGAFIN 2009) Financial Institutions Guarantee Fund  (FOGAFIN). 2009. Crisis financiera 
+Colombiana en los años noventa: origen, resolución y lecciones institucionales. Bogotá: 
+Universidad Externado de Colombia, August 2009.   
+An official report published by the deposit guarantee fund on the Colombian financial crisis of 
+the 1990s, focusing on the origin, resolution, and lessons learned.   
+https://ypfs.som.yale.edu/library/crisis-financiera-colombiana-en-los-anos-noventa-
+origen-resolucion-y-lecciones.  
+(FOGAFIN 2021) Financial Institutions Guarantee Fund  (FOGAFIN). 2021. “Who Are We?”  
+Official website of FOGAFIN (Financial Institutions Guarantee Fund).   
+https://ypfs.som.yale.edu/library/financial-institutions-guarantee-fund-fogafin-who-are-
+we. 
+(FRED 202 1). Federal Reserve Economic Data (FRED). 2021. “Colombia/USD Exchange 
+Rate.” Federal Reserve Bank of St. Louis.  
+Historical conversion rates for USD and Colombian peso.  
+https://fred.stlouisfed.org/series/COLCCUSMA02STM. 
+(IMF 2001) International M onetary Fund  (IMF). 2001. Colombia: Selected Issues and 
+Statistical Appendix. IMF Country Report No. 01/68, April 30, 2001.  
+IMF report describing the economic context and implementation of policies related to the 
+Colombian financial crisis of the 1990s.  
+https://ypfs.som.yale.edu/library/colombia-selected-issues-and-statistical-appendix. 
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the  Yale Program on Financial 
+Stability at ypfs@yale.edu.  
+35
+Journal of Financial Crises Vol. 3 Iss. 3

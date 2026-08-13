@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+{% block title %}{{ conversation.title or "New conversation" }} — YPFS Analyst{% endblock %}
+{% block main_class %}chat-main{% endblock %}
+{% block content %}
+<div class="chat-thread"
+  data-conversation-id="{{ conversation.conversation_id }}"
+  data-status-url="{{ url_for('chat.turn_status', conversation_id=conversation.conversation_id) }}"
+  data-pending="{{ in_flight | length }}"
+>
+  <div class="thread-header">
+    <h1>{{ conversation.title or "New conversation" }}</h1>
+    <div class="meta-chips">
+      {% if is_admin %}
+        <span class="header-chip" title="The next message runs against this system prompt">{{ active_prompt_id }}</span>
+        <span class="header-chip" title="Conversation role">{{ conversation.role }}</span>
+      {% endif %}
+      <form method="post" class="chat-inline-form" data-confirm="Delete this conversation?"
+        action="{{ url_for('chat.delete_conversation', conversation_id=conversation.conversation_id) }}">
+        <button type="submit" class="link-button">Delete</button>
+      </form>
+    </div>
+  </div>
+
+  {% if is_admin %}
+    <p class="thread-hint">
+      Select any part of a response to quote it, then say what's wrong. If the problem is with the
+      agent's standing instructions rather than this one answer, it can propose a revision to its
+      own system prompt for you to approve.
+    </p>
+  {% else %}
+    <p class="thread-hint">Select any part of a response to quote it in your next message.</p>
+  {% endif %}
+
+  <div class="transcript">
+    {% for event in timeline %}
+      {% if event.kind == "turn" %}
+        {% include "chat/partials/turn.html" %}
+      {% elif event.kind == "prompt_revision" %}
+        {% with revision = event.revision, diff_groups = accepted_diffs.get(event.revision.revision_id) %}
+          {% include "chat/partials/prompt_revision_card.html" %}
+        {% endwith %}
+      {% endif %}
+    {% endfor %}
+
+    {% if not timeline %}
+      <p class="empty-state">
+        Ask the analyst a question about the Journal of Financial Crises corpus.
+      </p>
+    {% endif %}
+
+    {% for item in pending_revisions %}
+      {% include "chat/partials/prompt_proposal_card.html" %}
+    {% endfor %}
+  </div>
+
+  <form method="post" class="composer" id="composer"
+    action="{{ url_for('chat.post_message', conversation_id=conversation.conversation_id) }}">
+    {# Filled in by chat.js when you send with a selection active. #}
+    <input type="hidden" name="quoted_text" id="composer-quoted-text" value="">
+    <input type="hidden" name="quoted_run_id" id="composer-quoted-run-id" value="">
+
+    <div class="composer-quote" id="composer-quote" hidden>
+      <blockquote class="composer-quote-text" id="composer-quote-text"></blockquote>
+      <button type="button" class="composer-quote-clear" id="composer-quote-clear"
+        aria-label="Remove quote">×</button>
+    </div>
+
+    <div class="composer-row">
+      <label class="visually-hidden" for="composer-input">Message</label>
+      <textarea id="composer-input" name="query" rows="2" required
+        placeholder="Ask a question, or select text above to quote it…"></textarea>
+      <button type="submit" class="primary composer-send" aria-label="Send">↑</button>
+    </div>
+    <p class="composer-hint">Enter to send · Shift+Enter for a new line</p>
+  </form>
+</div>
+
+{# Selection popup: quotes into the composer. Nothing is persisted here — the
+   span becomes part of the next message, not an annotation. #}
+<div id="quote-popup" class="quote-popup" hidden>
+  <button type="button" id="quote-popup-button">Quote &amp; reply</button>
+</div>
+{% endblock %}

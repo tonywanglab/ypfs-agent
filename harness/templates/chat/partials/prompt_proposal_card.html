@@ -1,0 +1,41 @@
+{# A revision the agent proposed and nobody has decided on yet.
+
+   Nothing is written to prompt_versions until Accept is clicked — the agent can
+   suggest a change to its own instructions but not make one.
+   Expects: item {revision, diff_groups}, conversation. #}
+{% set revision = item.revision %}
+<aside class="revision-card is-proposed" id="revision-{{ revision.revision_id }}">
+  <header class="revision-card-head">
+    <span class="revision-card-icon" aria-hidden="true">✎</span>
+    <span class="revision-card-title">
+      The agent proposes revising its system prompt
+      <code>{{ revision.from_prompt_id }}</code> → new version
+    </span>
+  </header>
+
+  {% if revision.rationale %}
+    <p class="revision-card-rationale">{{ revision.rationale }}</p>
+  {% endif %}
+
+  <details class="revision-card-diff" open>
+    <summary>Proposed changes</summary>
+    {% with diff_groups = item.diff_groups, current_id = revision.from_prompt_id %}
+      {% include "partials/prompt_diff.html" %}
+    {% endwith %}
+  </details>
+
+  <div class="revision-card-actions">
+    <form method="post" class="chat-inline-form"
+      action="{{ url_for('chat.accept_revision', conversation_id=conversation.conversation_id, revision_id=revision.revision_id) }}">
+      <button type="submit" class="primary">Accept &amp; re-answer</button>
+    </form>
+    <form method="post" class="chat-inline-form"
+      action="{{ url_for('chat.dismiss_revision', conversation_id=conversation.conversation_id, revision_id=revision.revision_id) }}">
+      <button type="submit" class="link-button">Dismiss</button>
+    </form>
+    <span class="revision-card-note">
+      Accepting saves the next immutable <code>prompt_vN</code> and re-answers
+      {% if revision.source_turn_id %}that turn{% else %}nothing further{% endif %}.
+    </span>
+  </div>
+</aside>

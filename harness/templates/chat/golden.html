@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+{% block title %}Golden pairs — YPFS Analyst{% endblock %}
+{% block content %}
+<div class="page-header">
+  <h1>Golden pairs <span class="count-badge">{{ pairs | length }}</span></h1>
+</div>
+
+<p class="muted">
+  Query/response pairs marked as reference examples. Each row is a snapshot taken when it was
+  marked, so re-answering a turn or revising the prompt never changes what a saved pair says.
+  Intended as the labelled set for an LLM-as-judge; nothing here is scored yet.
+</p>
+
+{% if prompt_ids %}
+  <form method="get" class="golden-filter">
+    <label>
+      Prompt version
+      <select name="prompt_id" onchange="this.form.submit()">
+        <option value="">All</option>
+        {% for prompt_id in prompt_ids %}
+          <option value="{{ prompt_id }}" {% if prompt_id == selected_prompt_id %}selected{% endif %}>
+            {{ prompt_id }}
+          </option>
+        {% endfor %}
+      </select>
+    </label>
+    <noscript><button type="submit">Filter</button></noscript>
+  </form>
+{% endif %}
+
+{% if pairs %}
+  <ul class="golden-list">
+    {% for pair in pairs %}
+      <li class="golden-item">
+        <details>
+          <summary>
+            <span class="golden-query">{{ pair.query }}</span>
+            <span class="golden-meta">
+              <span class="turn-chip">{{ pair.prompt_id }}</span>
+              <span class="turn-chip">{{ pair.agent_model.split('/') | last }}</span>
+              <span class="meta">{{ pair.created_at }}</span>
+            </span>
+          </summary>
+
+          <div class="golden-body">
+            <h3>Query</h3>
+            <pre class="block">{{ pair.query }}</pre>
+
+            <h3>Response</h3>
+            <div class="answer markdown-body">{{ pair.answer | markdown | safe }}</div>
+
+            {% if pair.note %}
+              <h3>Note</h3>
+              <p>{{ pair.note }}</p>
+            {% endif %}
+
+            <div class="golden-actions">
+              <a class="link-button"
+                href="{{ url_for('chat.conversation', conversation_id=pair.conversation_id) }}#turn-{{ pair.turn_id }}">
+                Open in conversation
+              </a>
+              <form method="post" class="chat-inline-form" data-confirm="Delete this golden pair?"
+                action="{{ url_for('chat.delete_golden', golden_id=pair.golden_id) }}">
+                <button type="submit" class="link-button">Delete</button>
+              </form>
+            </div>
+          </div>
+        </details>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p class="empty-state">
+    No golden pairs yet. Mark a response in a conversation to add one.
+  </p>
+{% endif %}
+{% endblock %}

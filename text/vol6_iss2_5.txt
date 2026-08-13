@@ -1,0 +1,151 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 2 
+2024 
+Lessons Learned: Paul Boothe Lessons Learned: Paul Boothe 
+Mary Anne Chute Lynch 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Finance and Financial Management Commons, Policy 
+Design, Analysis, and Evaluation Commons, Policy History, Theory, and Methods Commons, Public 
+Administration Commons, Public Affairs Commons, Public Economics Commons, and the Public Policy 
+Commons 
+Recommended Citation Recommended Citation 
+Chute Lynch, Mary Anne (2024) "Lessons Learned: Paul Boothe," Journal of Financial Crises: Vol. 6 : Iss. 2, 
+105-107. 
+DOI: https://doi.org/10.17132/2693-3179.1563 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/5 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol6/iss2/5
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+   
+ 
+Paul Boothe 
+By Mary Anne Chute Lynch 
+Paul Boothe served as Canada’s senior associate deputy minister of industry during the Global 
+Financial Crisis (GFC) of 2007–2009. Boothe led the Canadian federal government’s negotiation 
+team during the restructuring talks with Chrysler and General Motors (GM). He also negotiated 
+with the Canadian Auto Workers (CAW), a union that included Tier 1 auto parts suppliers for 
+all the major auto manufacturers worldwide. Canada align ed with the United States 
+government to rescue the auto manufacturers and provided 20% of the funding to rescue the 
+corporations and suppliers. From 2004 to 2005, Boothe served as the associate deputy minister 
+of finance and Group of Seven (G-7) deputy for Canada; after the GFC, he was d eputy minister 
+of the environment from 2010 to 2012. In 2016, Boothe was awarded the Order of Canada, the 
+nation’s highest civilian honor, for his contributions to shaping Canadian economic and fiscal 
+policy. He currently teaches in the executive program at the Ivey Business School  at Western 
+University in Ontario. This Lessons Learned summary is based on an interview held with Boothe 
+on May 9, 2022; the full transcript may be accessed here. 
+It is important to present a united front when multiple countries are negotiating with 
+industries. For best results, maximize and coordinate the strengths that each country 
+brings to the negotiations.  
+The negotiations with the auto industry were “very demanding—and it was relentless. There 
+were no holidays ,” Boothe said. Because of the 80/20 partnership with the US, it was 
+important to present a united front to the other side: “Anything that might be controversial 
+between the two countries, we discussed it before we went in [to negotiations].” 
+The two countries also coordinated to maximize the strengths of their personnel: 
+There was a huge amount of uncertainty. There was no living memory in Industry 
+Canada [a regulatory agency] of having gone through a process like this. We were 
+learning by doing. I think that the combination of our industrial expertise and the 
+financial mar ket and bankruptcy expertise of US Treasury worked very well. For 
+example, the US Treasury took the lead in conceptualizing how the bankruptcy 
+process would work, and we took the lead, at least for Canada, in saying, “Well, these 
+are the kinds of undertakings in terms of production, et cetera, that we want from the 
+companies.” 
+Initially, US Treasury didn’t focus much on that, but I remember having discussions 
+with [Obama manufacturing policy adviser] Ron Bloom about what our undertakings 
+were like, and him having discussions with the Treasury and his colleagues in the 
+White House, [leader of the US Auto Task Force] Steven Rattner, [National Economic 
+Council Director] Larry Summers, and [Treasury Secretary] Timothy Geithner, about 
+which of those undertakings would be appropriate for the US to talk to GM about. 
+105
+
+--- Page 4 ---
+Other major events on which  the two countries’ teams coordinated closely were the 
+bankruptcies of GM and Chrysler. Boothe described how careful coordination and innovative 
+thinking between the Canadian and US teams streamlined the complicated process: 
+Chrysler’s bankruptcy went first, and it was a bit simpler. It was a trial run. The other 
+thing that complicated this bankrupt cy proceeding was that it needed to be an 
+accelerated bankruptcy, but it was a bankruptcy in two countries. That’s not unheard 
+of. Sometimes this happens , and the bankruptcy courts in the two countries 
+collaborate. The view, especially for General Motors, was if we could keep GM Canada, 
+which was a wholly owned subsidiary of GM Global, out of bankruptcy, then that 
+would simplify matters substantially. That was our goal. That was the aim of both the 
+US Treasury and us. . . . 
+Ultimately, the Canadian bondhold ers were tracked down and they agreed to the 
+haircut that we wanted, and GM Canada did not go into bankruptcy. We still 
+maintained our proportionality with the US, but that meant that the way we financed 
+things was a little bit different than the way US Treasury did , because it was a 
+bankruptcy in one country and not in the other. 
+Paying close attention to financial innovations and potential risks in the broad 
+financial system can help detect little bumps that might grow into systemic crises.  
+Boothe first heard about mortgage securitization when he was a G -7 deputy attending 
+Financial Stability Forum meetings. He recalled one meeting where former Federal Reserve 
+Chairman Alan Greenspan spoke about this new development.  
+I can remember I used to sit ne xt to Alan Greenspan, and I remember him giving a 
+presentation at the Financial Stability Forum and saying, “This is a great source of 
+innovation. And this is expanding the US economy at a tremendous rate .” It was 
+generally thought to be a very positive thing. And I ’ll be honest, I didn ’t fully 
+understand it. I knew it wasn’t happening in Canada, and I didn ’t fully understand it, 
+but it was happening in the US. I think a lot of people didn’t understand the potential 
+downsides of this. 
+Although there weren’t many subprime mortgages and securitization s in Canadian banks, 
+looking back, Boothe said, “I wish we had paid more attention to the risks then." 
+The US government had the idea that they were trying to encourage homeownership, 
+and this was one of the ways that they would do it. But the risk got way out of hand. 
+On one hand, it was a regulatory failure, but it was also a failure in the financial 
+institutions to keep track of those risks, because when it came time to figure it out, 
+when the music stopped—What musical chair should I sit in? Suddenly people looked 
+around and there was either no chair, or they didn ’t know what chair was theirs. I 
+think, with hindsight, it would’ve been great to have known where the risks were. We 
+might have been able to avoid a lot of the problems.  
+106
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 5 ---
+Ultimately, Boothe pointed out, the effects of the US failure were not just limited to the United 
+States. “If something happens in the US, it is a big worry for everybody in terms of financial 
+markets,” he said. Going forward, shared information of a similar nature about potential risks 
+should be carefully considered by groups like the G-7. 
+Government leaders need to understand when the problem is systemic and support 
+intervention even when such action is unpopular. 
+“There are times when governments need to get involved, but pretty stringent conditions 
+have to be met before that makes sense ,” Boothe emphasized . It was only  important for 
+government to get involved in the affairs of private business, he elaborated, when the impact 
+of not getting involved ha d a much broader reach for the economy —a systemic important 
+impact for the broader economy. 
+He praised former Prime Minister Stephen Harper for recognizing that having Chrysler and 
+GM fail, especially to have them fail in Canada and not in the United States, would have been 
+catastrophic for employment and the broader auto industry in the country , and he lauded 
+Harper for having the courage to take the necessary steps  to prevent that . Supporting the 
+rescue “was not a popular measure. . .  . It was not the ideological sweet spot for the 
+conservative government at the time to be lending money to private companies ,” said 
+Boothe. But the situation was unclear , and the government took steps to  protect the 
+taxpayers’ interest, he noted. 
+This is money that is the last resort. During the Global Financial Crisis, financial 
+markets were paralyzed. You couldn ’t borrow money at any rate of interest. 
+Governments had to step in. The restrictions were severe on GM and Chrysler and the 
+suppliers, including changes in management. Not only that, [but] loans were given at 
+penalty rates of interest.  
+_____________________________________ 
+Dated: July 2024 
+YPFS Lessons Learned No. 2022-05 
+107
+Lessons Learned: Paul Boothe Chute Lynch

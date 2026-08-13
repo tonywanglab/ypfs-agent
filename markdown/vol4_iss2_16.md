@@ -1,0 +1,309 @@
+## Latvia: Deposit Guarantee Fund[1] 
+
+_Ezekiel Vergara_[2] 
+
+Yale Program on Financial Stability Case Study July 15, 2022 
+
+## **Abstract** 
+
+During the Global Financial Crisis (GFC), Latvian authorities raised the country’s depositinsurance cap from EUR 20,000 to EUR 50,000 (USD 26,800 to USD 67,000) in response to international calls to bolster deposit-insurance systems. They passed the measure on October 16, 2008, and it came into effect two days later. The Financial and Capital Market Commission (FCMC), Latvia’s prudential supervisor and existing deposit administrator, oversaw the guarantee. The FCMC covered most types of deposit accounts and insured all Latvian-registered deposit-taking institutions, including some foreign-bank branches operating in Latvia. The FCMC charged quarterly premiums on insured accounts and could levy additional fees if necessary. Following an IMF-Latvian Stand-By Arrangement (SBA) and a European Union (EU) directive, the Latvian government further amended its depositguarantee system in 2009 and 2010, reducing the payout time and increasing the insured amount to EUR 100,000. No bank failures occurred until 2011, when JSC Latvijas Krājbanka, Latvia’s sixth-largest deposit taker, failed. The FCMC paid out 335.6 million Latvian lati (LVL; USD 645.4 million) to 220,000 depositors. The FCMC required a government loan to make these payouts, as the Deposit Guarantee Fund (DGF) had only LVL 149.9 million in assets. 
+
+**Keywords:** Deposit Guarantee Fund, European Union, Financial and Capital Market Commission, Global Financial Crisis, Latvia 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering account guarantee programs. Cases are available from the Journal of Financial Crises at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+During the Global Financial Crisis (GFC), Latvian authorities adopted various policy measures, including a bank-debt guarantee scheme and dedicated plans for nationalization (Petrovic and Tutsch 2009).[3] On October 7, the European Union’s (EU) Economic and Financial Council urged member states to increase their deposit-insurance coverage to at least EUR 50,000 (USD 67,000) (EC 2008).[4] Heeding these international calls, on October 16, 2008, Latvian authorities announced that Latvia would increase the country’s deposit-insurance cap from EUR 20,000 to EUR 50,000 (Saeima 2008; FCMC 2009). The change came into effect two days later on October 18, 2008 (Saeima 2008). 
+
+The Financial and Capital Market Commission (FCMC), Latvia’s financialand capital-market supervisor, administered Latvia’s Deposit Guarantee Fund (DGF) (Saeima 2001, Articles 2, 5, 6[6]). The FCMC was an autonomous state institution (Saeima 2001, Article 2[1]). The FCMC insured most deposit types (Saeima 2011b, Articles 1[1], 17). The FCMC also administered separate guarantees for select insurance policies and investment instruments (FCMC 2009). Participation in the DGF was mandatory for all Latvianregistered deposit-taking institutions, as well as for all foreign-bank branches operating in Latvia if their home-country coverage was more limited (Saeima 2011b, 
+
+## **Key Terms** 
+
+Purpose: To reassure depositors and to comply with an EU directive 
+
+||Launch Dates|_Increase to EUR 50,000_<br>Announcement: Oct. 16, 2008|
+|---|---|---|
+|||Authorization: Oct. 16, 2008|
+|||Operation: Oct. 18, 2008|
+||End Dates<br>Eligible<br>Institutions|_Increase to EUR 100,000_<br>Announcement: Dec. 16, 2010<br>Authorization: Dec. 16, 2010<br>Operation: Jan. 1, 2011<br>Changes to the deposit<br>insurance system adopted as<br>permanent changes<br>Participation required for all<br>Latvian-registered institutions<br>and foreign bank branches, if|
+|||their home country coverage|
+|||was limited|
+||Eligible Account(s)|Various deposit accounts, with|
+||Fees<br>Size of Guarantee<br>Coverage<br>Outcomes<br>Notable Features|some exclusions<br>Quarterly fees of 0.05% on<br>guaranteed deposits<br>Originally raised to EUR<br>50,000. Later raised to EUR<br>100,000<br>LVL 3.6 billion in 2011<br>One failure in 2011 totaling<br>LVL 335.6 million to 220,000<br>depositors<br>An amendment in 2009<br>allowed third-party banks to<br>make payouts on the FCMC’s|
+|||behalf|
+
+
+
+Articles 2[2-4]). Participating institutions paid the FCMC a quarterly fee that was set at 0.05% of guaranteed deposits (Saeima 2011b, Article 8[2]). The FCMC could also levy additional fees on participating institutions or borrow from the government if the DGF’s funds were insufficient (Saeima 2011b, Articles 8[6], 15-16). As market turbulence 
+
+> 3 The author would like to thank the FCMC for their comments on this case study. 
+
+> 4 On October 10, 2008, EUR 1 = USD 1.34, per Yahoo Finance. 
+
+
+continued into December 2008, Latvian authorities agreed to a 27-month Stand-By Arrangement (SBA) with the International Monetary Fund (IMF) totaling EUR 7.5 billion (IMF 2009). The SBA was aimed specifically at maintaining market liquidity and the Latvian lats’s peg against the euro. The SBA also committed the Latvian government to strengthening the DGF by ensuring that it was sufficiently funded and reducing the time of depositor payouts through the use of agent banks (IMF 2009). In March 2009, European authorities adopted Directive 2009/14/EC, which required member states to increase their depositinsurance thresholds to EUR 100,000 by December 31, 2010, and to abbreviate the time required for depositor payouts (EC/EP 2009). 
+
+To comply with both the IMF’s and the EU’s requirements, the Latvian legislature passed a series of amendments to its 2001 deposit-insurance legislation. The first amendment, authorized on February 12, 2009, and operational on February 19, 2009, reduced the payout time to 20 days, with the possibility of a 10-day extension, and allowed the finance ministry to fund the DGF if necessary (Saeima 2009a, Articles 7, 10). The second amendment, authorized on June 4, 2009, and operational on June 20, 2009, allowed the FCMC to impose risk-based fees and to designate banks to pay out depositors on its behalf (Saeima 2009b, Articles 6, 8). The third amendment, authorized on December 16, 2010, and operational on January 1, 2011, increased the deposit-insurance cap to EUR 100,00 (Saeima 2011a). 
+
+JSC Latvijas Krājbanka, Latvia’s sixth-largest deposit taker, failed in 2011 (FCMC 2012; AS Latvijas Krājbanka 2010). The FCMC owed 335.6 million Latvian lati (LVL; USD 645.4 million) to 220,000 depositors (FCMC 2012).[5] Because the DGF held only LVL 149.9 million in assets at the time, the FCMC had to borrow LVL 185.6 million from the Latvian government to cover the shortfall (FCMC 2012). Following this failure, Latvian authorities imposed an additional fee on deposit-taking institutions to replenish the DGF’s assets (FCMC 2012). 
+
+## **Summary Evaluation** 
+
+In 2010, the IMF reported that changes to the Latvian deposit-insurance system had enhanced the credibility of the scheme while also increasing the FCMC’s ability to replenish the DGF (IMF 2010). 
+
+In a review of Latvia’s February 2009 amendment to its deposit-guarantee system, the European Central Bank (ECB) praised Latvia’s decision to reduce payout times (ECB 2009a). The ECB had been skeptical of the FCMC’s ability to reduce payout times, especially with respect to efficient claim verification and depositor payouts (ECB 2009a). 
+
+In another review in March 2009, the ECB recommended that any sanctions on institutions that did not comply with the DGF be consistent with EU law (ECB 2009b). It welcomed the idea of using risk-based premiums (ECB 2009b). 
+
+The ECB acknowledged the value of using agent banks, which Latvian policymakers adopted as part of an amendment addressing the IMF’s SBA, but also expressed concerns about payouts made by third parties (ECB 2009b). Notably, the ECB advised that it was necessary 
+
+> 5 On December 1, 2011, 1 USD was equal to LVL 0.52, per Exchange Rates. 
+
+
+to ensure that these third parties had the funds to make orderly and efficient payouts (ECB 2009b). ECB officials also cautioned that third parties should only make the technical payment, as opposed to verifying the claimant’s entitlement (ECB 2009b). Generally, the ECB questioned the use of third parties on grounds of moral hazard, highlighting the potential for liquidity distortion and the appearance of an implicit guarantee of those institutions’ viability (ECB 2009b). Given these concerns, the ECB recommended strengthening the FCMC and the DGF’s capacities rather than utilizing third parties (ECB 2009b). 
+
+
+|**Context: Latvia 2008–2011**|**Context: Latvia 2008–2011**|
+|---|---|
+|**GDP**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$36.2 billion in 2008<br>$26.4 billion in 2009<br>$23.8 billion in 2010<br>$27.3 billion in 2011|
+|**GDP per capita**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$16,467 in 2008<br>$12,332 in 2009<br>$11,421 in 2010<br>$13,339in 2011|
+|**Sovereign credit rating**<br>**(five-year senior debt)**|Data for 2008:<br>Moody’s: A3<br>S&P: BBB-<br>Fitch: BBB<br>Data for 2009:<br>Moody’s: Baa3<br>S&P: BB<br>Fitch: BBB-<br>Data for 2010:<br>Moody’s: Baa3<br>S&P: BB+<br>Fitch: BBB-<br>Data for 2011:<br>Moody’s: Baa3<br>S&P: BB+<br>Fitch: BBB|
+|**Size of banking system**|$33.3 billion in 2008<br>Data not available for 2009<br>$23.6 billion in 2010<br>$22.1billion in 2011|
+|**Size of banking system**<br>**as a percentage of GDP**|92.1% in 2008<br>Data not available for 2009<br>99.5% in 2010<br>81.0%in 2011|
+|**Size of banking system**<br>**as a percentage of financial system**|100% in 2008<br>Data not available for 2009<br>100%in 2010–2011|
+|**Five-bank concentration of banking system**|76.7% in 2008<br>74.5% in 2009<br>67.1% in 2010<br>68.6%in 2011|
+|**Foreign involvement in banking system**|67% in 2008<br>68% in 2009<br>66% in 2010<br>60%in 2011|
+|**Government ownership of banking system **|Datanot availablefor 2008–2011|
+|**Existence of deposit insurance**|Yes, in 2008–2011|
+|_Sources: Bloomberg; World Bank Global Financial Development Database; World Bank Deposit_<br>_Insurance Dataset._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: In 2008, Latvian officials increased the deposit-insurance limit to reassure depositors and comply with an EU recommendation. Later, policymakers amended the deposit-insurance system to comply with IMF and EU directives on further coverage increases and reduced payout times.** 
+
+At the height of the GFC, on October 7, 2008, EU authorities urged member states to increase their deposit insurance to at least EUR 50,000, up from the required minimum of EUR 20,000 (EC 2008). Latvian authorities responded by raising Latvia’s deposit-insurance limit to EUR 50,000 on October 16, 2008, with the change coming into effect on October 18, 2008 (Saeima 2008). 
+
+Latvia entered into an SBA with the IMF in December 2008 (IMF 2009). The assistance was primarily intended to support market liquidity and maintain the exchange rate between the lats and the euro (IMF 2009). The SBA also included provisions requiring Latvian authorities to ensure the DGF’s adequate funding and reduce its payout time (IMF 2009). In March 2009, the EU adopted Directive 2009/14/EC, which required member states to increase their insured-deposit limits to EUR 100,000 and to cut down payout times (EC/EP 2009). 
+
+To comply with both the EU’s and the IMF’s directives, Latvian authorities adopted a series of amendments to reduce payout times, allow the FCMC to impose risk-based fees, and increase the maximum level of compensation per depositor to EUR 100,000 (Saeima 2009b, Articles 6, 8; Saeima 2009a, Articles 7, 10; Saeima 2011a). 
+
+**2. Part of a Package: Policymakers also adopted other guarantees and nationalized private institutions.** 
+
+In addition to modifying the Latvian deposit-guarantee scheme, policymakers adopted other measures to support the financial system during the GFC, including a bank-debt guarantee for eligible institutions (Petrovic and Tutsch 2009). Additionally, on November 8, 2008, Latvia nationalized Parex, a systemically important bank, with the goal of maintaining financial stability in the face of large depositor withdrawals (FCMC 2009; Petrovic and Tutsch 2009). 
+
+**3. Legal Authority: Latvian lawmakers amended the deposit-guarantee law in October 2008 to raise the insured amount. Lawmakers adopted further amendments in 2009 and 2010 to comply with EU and IMF directives.** 
+
+Latvian lawmakers established the DGF in 1998, with the goal of repaying depositors in the event of a bank failure (Saeima 1998, Article 2). Originally, a board of the DGF oversaw the DGF (Saeima 1998, Article 4). In 2000, the Latvian legislature established the FCMC with the Law on the FCMC, which began operations in 2001 (Saeima 2001, Article 1). This legislation stipulated that the FCMC implement the DGF’s mandate (Saeima 2001, Article 6[6]). 
+
+
+In the wake of the GFC, the Latvian parliament on October 16, 2008, adopted an amendment to the Deposit Guarantee Law that increased deposit-insurance coverage to EUR 50,000 (Saeima 2008). The law became operational two days later (Saeima 2008). 
+
+Latvian authorities used legislation to comply with the EU’s and the IMF’s directives (Saeima 2009b, Articles 6, 8; Saeima 2009a, Articles 7, 10; Saeima 2011a). Its parliament passed an amendment on February 12, 2009, that became operational on February 19, 2009, to reduce the payout time associated with the DGF and to allow the state to fund the DGF in cases in which its funds were inadequate (Saeima 2009a, Articles 7, 10). The government passed another amendment on June 4, 2009, which became operational on June 20, 2009, that allowed the FCMC to both impose risk-based fees and cooperate with third-party banks to make payouts (Saeima 2009b, Articles 6, 8). Later, on December 16, 2010, it passed a third amendment, which came into effect on January 1, 2011, to increase the deposit-guarantee limit to EUR 100,000 (Saeima 2011a). 
+
+## **4. Administration: The FCMC implemented Latvia’s deposit guarantee. The legislature determined the guarantee’s coverage.** 
+
+The DGF was created in 1998 and originally administered by a board of the DGF (Saeima 1998, Article 4). However, in 2000, the government created the FCMC, transferring control of the DGF to the FCMC (Saeima 2001, Articles 1, 6[6]). The FCMC, an autonomous state institution, was Latvia’s financial- and capital-market supervisor (Saeima 2001, Articles 2, 5, 6[6]; Saeima 2011b, Articles 4-5). The FCMC also determined the rates of the fees institutions paid and the procedures for their collection (Saeima 2011b, Article 8). 
+
+The legislature determined the scope of Latvia’s guarantee, as evidenced by amendments to the Deposit Guarantee Law in 2008 and 2010 (Saeima 2008; Saeima 2011a). 
+
+**5. Governance: A board of the FCMC governed the FCMC. The Bank of Latvia and the ministry of finance exercised governance functions over the FCMC. The FCMC was subject to audits and required to submit reports. The consultative council and the ECB also provided feedback to the FCMC.** 
+
+The board of the FCMC governed the FCMC (Saeima 2001, Article 13). The board consisted of five members, one of whom was chairman. The deputy chairman and three members who served as directors of departments made up the other four. The Latvian legislature had to approve the chairman and the deputy chairman (Saeima 2001, Article 13). It was up to the chairman to recommend other board members, pending the approval of the minister of finance and the Council of the Bank of Latvia (BoL), the country’s central bank (Saeima 2001, Article 13). Members of the board served five-year terms (Saeima 2001, Article 13). The board of the FCMC was chaired by the chairman and met at least once per month (Saeima 2001, Article 15). The governor of the BoL and the minister of finance could participate in the board’s meetings in an advisory capacity, along with the heads of public organizations in the financial and capital markets, so long as the meetings were open (Saeima 2001, Article 16). 
+
+
+The FCMC was required to provide the BoL and the ministry of finance with quarterly reports that included aggregated information regarding the financial and capital markets (Saeima 2001, Article 10). Additionally, the FCMC was obliged to immediately report in writing any liquidity or solvency concerns to both the governor of the BoL and the minister of finance (Saeima 2001, Article 10). The governor of the BoL could request further information from the FCMC regarding specific credit institutions (Saeima 2001, Article 11). Furthermore, the FCMC was required to submit an annual report, which would be made public online and in print, to both the Saeima, Latvia’s legislature, and the minister of finance (Saeima 2001, Articles 27-28). The FCMC was also subject to yearly external audits and internal audits every three years, with the results of the external audits being published (Saeima 2001, Articles 27-29). 
+
+The FCMC also had a consultative council, which was an advisory council (Saeima 2001, Article 21). The consultative council comprised individuals from the FCMC and the heads of professional organizations in the financial and capital markets (Saeima 2001, Article 21). It examined drafts, developed policy recommendations, provided budgetary assessments, and supervised the management of the DGF (Saeima 2001, Article 21). When the board made decisions contrary to the consultative council’s recommendations, it was required to provide an explanation as to why (Saeima 2001, Article 21). The chairman of the FCMC headed the consultative council (Saeima 2001, Article 21). 
+
+In 2010, the FCMC created the Funds Management Committee to coordinate processes related to the DGF (FCMC 2011). Representatives from various FCMC offices sat on this committee, which sought to link payouts to risks, improve the procedure for payouts, improve the collection of depositor information, and alter the DGF’s investment policies (FCMC 2011). 
+
+The ECB also provided consultative feedback to the FCMC regarding deposit-guarantee legislation (ECB 2009b; ECB 2009a). The FCMC cooperated with the ministry of finance and the ministry of justice to improve the legal framework of the financial and capital markets, with particular attention to increasing depositor confidence (FCMC 2009). 
+
+**6. Communication: Latvian authorities communicated that the 2008 alteration to the deposit-insurance system aimed to increase depositor confidence and to comply with an EU proposal. Officials communicated that changes to the depositinsurance system in 2009 and 2010 responded to EU and IMF requirements.** 
+
+In 2008, Latvian authorities communicated that they had increased the deposit-insurance cap to EUR 50,000 to bolster depositor confidence and comply with an EU proposal, which urged member states to increase their deposit-insurance limits (FCMC 2009). Later changes to the deposit-insurance system, authorities said, responded to Directive 2009/14/EC and to the IMF’s SBA (FCMC 2009; FCMC 2010; FCMC 2011). 
+
+
+**7. Size of Guarantees: Following an October 2008 amendment, the FCMC used the DGF to insure EUR 50,000 per depositor. Later, another amendment raised this amount to EUR 100,000 to comply with EU Directive 2009/14/EC.** 
+
+Prior to October 18, 2008, the FCMC guaranteed EUR 20,000 per depositor per institution (FCMC 2009). Given widespread financial stress and international calls for sounds depositinsurance systems, Latvian legislators increased the maximum deposit-insurance limit to EUR 50,000 (EC 2008; Saeima 2008). 
+
+In March 2009, EU officials adopted Directive 2009/14/EC, which required member states to increase their deposit-insurance limits first to EUR 50,000 and then to EUR 100,000 by December 31, 2010 (EC/EP 2009). To satisfy the EU’s directive, Latvian authorities amended the deposit-insurance law on December 16, 2010, increasing the deposit-insurance cap to EUR 100,000 (Saeima 2011a). The increase came into effect on January 1, 2011 (Saeima 2011a). 
+
+In 2009, the FCMC estimated that the DGF had covered LVL 2.9 billion in deposits (FCMC 2010). This number grew to LVL 3.4 billion in 2010 (FCMC 2011). By year-end 2011, the FCMC said that the DGF had covered LVL 3.6 billion (FCMC 2012). 
+
+**8. Source(s) and Size of Funding: Member banks made one-time initial contributions and paid quarterly premiums thereafter. The FCMC could invest the DGF’s funds. It could also take out loans and charge additional fees in the event of a shortfall.** 
+
+Upon its establishment in 1998, the DGF received one-time payments from the ministry of finance and the BoL (Saeima 2011b, chap. 5[2]). These payments totaled LVL 1 million, equally split between the two entities (Saeima 2011b, chap. 5[2]). 
+
+Banks and branches of foreign banks joining the DGF were required to pay a one-time initial contribution fee equal to 1.5% of the institution’s initial capital (Saeima 2011b, Article 8[1]). 
+
+Insured institutions were required to pay a 0.05% quarterly premium on their average guaranteed deposits (Saeima 2011b, Article 8[2]). An amendment enacted in June 2009 permitted the FCMC to charge risk-based fees instead of a flat-rate fee (Saeima 2011b, Article 8[2]; Saeima 2009b, Article 3). 
+
+If the DGF’s funds were insufficient, the FCMC could charge an increased fee to ensure a sufficient accumulation of DGF funds, though the increased fees could not be more than double the original (Saeima 2011b, Article 8[6]). The FCMC reserved the right to charge penalty fees and take action against institutions if they did not pay the required fees (Saeima 2011b, Article 12). It was allowed to invest the DGF’s funds as well (FCMC 2009). The DGF’s resources were held in an account with the BoL (Saeima 2011b, Article 13). 
+
+Following an amendment in February 2009, Latvian law allowed the finance ministry to extend loans to the FCMC (Saeima 2009a, Article 7). 
+
+
+In 2008, the DGF totaled LVL 87.6 million (FCMC 2009). In 2009, it grew to LVL 108.3 million, or 3.8% of insured deposits (FCMC 2010). In 2010, the DGF increased to LVL 133.1 million, or 3.9% of insured deposits (FCMC 2011). 
+
+In 2011, the DGF held LVL 149.9 million in assets (FCMC 2012). However, the failure of JSC Latvijas Krājbanka created LVL 335.6 million in liabilities, owed to 220,000 depositors (FCMC 2012). To meet this shortfall, the Latvian government lent the FCMC LVL 185.6 million (FCMC 2012). The FCMC planned to levy additional fees to replenish the DGF and repay the government’s loan (FCMC 2012). Figure 1 illustrates the FCMC’s revenue from 2008 to 2010. 
+
+[FIGURE id=vol4_iss2_16_f1 type=figure label="Figure 1" file=figure_1.png caption="FCMC Revenues, 2008–10"]
+### **Figure 1: FCMC Revenues, 2008–10**
+![Figure 1](assets/vol4_iss2_16/figure_1.png)
+
+
+_Source: FCMC 2011._ 
+
+## **9. Eligible Institutions: The FCMC insured all registered deposit-taking institutions in Latvia, including foreign-bank branches. Following an amendment in 2009, FCMC eligibility was tightened.** 
+
+Pursuant to Latvian law, prior to an amendment passed in June 2009, the FCMC covered all deposits held in Latvian-registered banks, along with all foreign-bank branches and credit unions (Saeima 2009b, Article 1). 
+
+After the passage of this amendment, the eligible institutions changed. All deposit-taking institutions were required to participate in the deposit-guarantee system, including foreign branches of Latvian banks (Saeima 2011b, Article 2[2(1)]). Coverage extended to banks and their branches registered in Latvia, credit unions, and branches of foreign banks in Latvia (Saeima 2011b, Article 2[2(1)]). However, Latvian branches of foreign banks based in EU member states were required to participate in Latvia’s guarantee only if they did not receive coverage in their home country equivalent to Latvia’s coverage, in accordance with the regulatory procedures (Saeima 2011b, Article 2[2(2)]). Foreign banks not domiciled in EU member states were required to received coverage from the FCMC (Saeima 2011b, Article 2[2(1)]). 
+
+
+## **10. Eligible Accounts: The FCMC insured most types of deposit accounts.** 
+
+Latvian law defined a “deposit” as “a credit balance arising from the transfer of funds to the depositor's account or from ordinary banking transactions, and the deposit taker of which is obliged to repay in accordance with the provisions of law or agreement,” along with certain debt securities (Saeima 2011b, Article 1[1]). 
+
+Latvian law excluded deposits of institutions—like central banks, credit institutions, credit unions, governments, investment companies, and pension funds—along with certain deposits that bore interest (Saeima 2011b, Article 17). 
+
+## **11. Fees (A): Eligible institutions paid a one-time initial fee and quarterly premiums on eligible deposits set at 0.05%. An amendment in June 2009 allowed the FCMC to charge risk-based fees.** 
+
+Insured institutions were required to pay a one-time, initial fee when joining the depositinsurance system (Saeima 2011b, Article 8[1]). Latvian law stipulated that, for banks registered in Latvia, this fee be equal to 1.5% of the institution’s initial capital (Saeima 2011b, Article 8[1]). Foreign-bank branches were required to pay this initial fee, with credit unions paying a different fee (Saeima 2011b, Article 8[1]). 
+
+In addition to the initial fee, insured institutions were required to pay quarterly premiums (Saeima 2011b, Article 8[2]). These premiums were set at 0.05% of an institution’s average amount of quarterly insured deposits (Saeima 2011b, Article 8[2]). Beginning in June 2009, the FCMC could have legally implemented a risk-based fee structure, dependent on factors like an institution’s capital, liquidity, and exposure (Saeima 2011b, Article 8[2]; Saeima 2009b, Article 3). 
+
+In 2008, the FCMC collected LVL 17.2 million in quarterly fees (FCMC 2011). In 2009, it collected LVL 14.2 million in fees (FCMC 2011). In 2010, it collected LVL 16.8 million in quarterly premium revenue (FCMC 2011). Following the failure of Latvijas Krājbanka in 2011, the FCMC planned to levy LVL 27 million in fees (FCMC 2012). 
+
+## **Fees (B): The FCMC could charge extra fees in the event of any shortfalls.** 
+
+Pursuant to Latvian law, the FCMC could charge additional fees if the DGF’s funds were insufficient to cover shortfalls (Saeima 2011b, Article 8[6]). These additional fees could not exceed double the amount of the original fee, and the FCMC could only charge them for a year (Saeima 2011b, Article 8[6]). 
+
+Following the failure of Latvijas Krājbanka in 2011, the FCMC planned to charge these additional fees to replenish the DGF and to repay the Latvian government (FCMC 2012). Latvian officials charged a fee of 0.075% in 2012—a 0.05% original fee plus a 0.025% additional fee—which they expected to generate LVL 27 million in revenue (FCMC 2012). The additional fees totaled LVL 9 million, compared to the LVL 18.4 million that the FCMC had expected under the 0.05% fee rate (FCMC 2012). The FCMC intended to replenish the DGF to its pre-failure levels by 2014 (FCMC 2012). 
+
+
+## **12. Process for Exercising Guarantee (A): Once the FCMC activated its deposit guarantee, the FCMC could take between three to nine months to pay out depositors. In 2009, Latvian authorities shortened this payout window to 20 days.** 
+
+The FCMC would activate Latvia’s deposit guarantee when depositor funds became unavailable (Saeima 2011b, Article 14[1]). Funds became unavailable if a court declared the institution insolvent, the FCMC revoked the institution’s license, or the FCMC determined that the institution was unable to fulfill depositor redemptions (Saeima 2011b, Article 1[5]). Once the guarantee was activated, the failed institution would compile a list of depositors to whom compensation was owed (Saeima 2011b, Article 14[2]). This information would then be submitted to the FCMC, which would pay depositors the guaranteed amount either directly or through an authorized agent (Saeima 2011b, Article 14[2-3]). After the payouts, the FCMC acquired a right against the failed institution for the guaranteed renumeration paid (Saeima 2011b, Article 16). At the time of the GFC, Latvian law required the FCMC required to make payouts within three months (Saeima 2003, Article 20). The FCMC could obtain two extensions of no more than three months each at the discretion of the consultative council (Saeima 2003, Article 20). 
+
+In March 2009, the EU issued a directive requiring all member states to shorten their deposit payout times (EC/EP 2009). To comply with this directive, Latvian lawmakers passed an amendment mandating that all payouts be disbursed within 20 business days of an institution’s failure (Saeima 2009a, Article 10). Additionally, the FCMC could request two extensions of no more than 10 days each (Saeima 2009a, Article 10). 
+
+## **Process for Exercising Guarantee (B): The FCMC could contract with third-party institutions to make depositor payouts.** 
+
+An amendment passed in June 2009 allowed the FCMC to select banks to make depositor payouts on its behalf (Saeima 2009b, Article 8). These institutions were selected to secure the most favorable conditions for depositors (Saeima 2009b, Article 8). The guaranteed remuneration could also be paid by the institution to which the depositor intended to transfer the guaranteed amount after a failure (Saeima 2009b, Article 8). 
+
+The ECB questioned the use of third-party institutions in making payouts (ECB 2009b). It worried whether these institutions would have the capacity for payouts, whether this might create distortionary market effect, and whether the selected banks would have the appearance of an implicit government guarantee (ECB 2009b). 
+
+**13. Other Restrictions on Eligible Institutions/Accounts: Heightened monitoring accompanied changes to the Latvian deposit-guarantee scheme.** 
+
+The FCMC increased its off-site monitoring of banks in 2009 and 2010 (FCMC 2011). The measures it began to take included analyses of the reports and statements banks were required to submit daily, monthly, and biannually, depending on the type (FCMC 2011). 
+
+
+## **14. Duration: The changes to the Latvian deposit-guarantee system were made permanent.** 
+
+All changes to the Latvian deposit-insurance system were made permanent, with all of the respective legislation lacking a sunset date (Saeima 2009b, Articles 6, 8; Saeima 2009a, Articles 7, 10; Saeima 2011a). Ultimately, in 2011, the upper limit of depositor compensation was set at EUR 100,000 (Saeima 2011a). As of March 2022, the FCMC continued to insure EUR 100,000 (FCMC n.d.). 
+
+
+## **References and Key Program Documents** 
+
+Documents cited in the text are introduced with a parenthetical author-date citation. Documents that are relevant to this case but have not been cited in text do not include this 
+
+## **Program Summaries** 
+
+(FCMC n.d.) Financial and Capital Market Commission (FCMC). n.d. “Deposit Guarantee Fund.” Accessed February 23, 2022. 
+
+_Web page about Latvia’s deposit guarantee_ . 
+
+https://ypfs.som.yale.edu/library/document/deposit-guarantee-fund 
+
+(IMF 2009) International Monetary Fund (IMF). 2009. “Republic of Latvia: Request for Stand-By Arrangement: Staff Report; Staff Supplement; Press Release on the Executive Board Discussion; and Statement by the Executive Director for the Republic of Latvia.” IMF. _Summary of Latvia’s Stand-By Arrangement with the IMF_ . 
+
+https://ypfs.som.yale.edu/library/republic-latvia-request-stand-arrangement-staff-reportstaff-supplement-press-release 
+
+## **Legal/Regulatory Guidance** 
+
+(EC/EP 2009) European Council and European Parliament (EC/EP). 2009. “Directive 2009/14/EC of the European Parliament and of the Council of 11 March 2009 Amending Directive 94/19/EC on Deposit-Guarantee Schemes as Regards the Coverage Level and the Payout Delay.” _Official Journal of the European Union_ 68/3, March. 
+
+_Directive requiring EU member states to update their deposit-guarantee systems, in accordance with principles established by the ministers of finance_ . 
+
+https://ypfs.som.yale.edu/library/document/directive-200914ec-european-parliamentand-council-11-march-2009-amending 
+
+(Saeima 1998) Saeima. 1998. “Law on Deposit Guarantees for Individuals.” 
+
+_Law establishing Latvia’s deposit-guarantee system_ . 
+
+https://ypfs.som.yale.edu/library/document/law-deposit-guarantees-individuals 
+
+(Saeima 2001) Saeima. 2001. “Law on the Financial and Capital Market Commission.” _Law establishing the Financial and Capital Market Commission_ . 
+
+https://ypfs.som.yale.edu/library/document/law-financial-and-capital-marketcommission 
+
+(Saeima 2003) Saeima. 2003. “Amendments to the Law on Deposit Guarantees for Individuals.” 
+
+_Amendment to Latvia’s deposit-guarantee law_ . 
+
+https://ypfs.som.yale.edu/library/document/amendments-law-deposit-guaranteesindividuals 
+
+
+(Saeima 2008) Saeima. 2008. “Amendments to the Deposit Guarantee Law.” _Amendment increasing the maximum coverage of Latvia’s deposit guarantee_ . https://ypfs.som.yale.edu/library/document/amendments-deposit-guarantee-law 
+
+(Saeima 2009a) Saeima. 2009a. “Amendments to the Deposit Guarantee Law.” _Amendment changing parts of Latvia’s deposit guarantee_ . https://ypfs.som.yale.edu/library/document/amendments-deposit-guarantee-law-0 
+
+(Saeima 2009b) Saeima. 2009b. “Amendments to the Deposit Guarantee Law.” _Amendment to Latvia’s deposit-guarantee system, allowing for the use of agent banks_ . https://ypfs.som.yale.edu/library/document/amendments-deposit-guarantee-law-1 
+
+(Saeima 2011a) Saeima. 2011a. “Amendments to the Deposit Guarantee Law.” _Amendment to Latvia’s deposit-guarantee system, increasing the maximum compensation_ . https://ypfs.som.yale.edu/library/document/amendments-deposit-guarantee-law-2 
+
+(Saeima 2011b) Saeima. 2011b. “Deposit Guarantee Law.” _Revised version of Latvia’s deposit-guarantee legislation_ . https://ypfs.som.yale.edu/library/document/deposit-guarantee-law 
+
+## **Press Releases/Announcements** 
+
+(EC 2008) European Council (EC). 2008. “2894th Council Meeting Economic and Financial Affairs, Luxembourg, 7 October 2008.” Press release no. C/08/279. 2894th Council meeting, Luxembourg. _Press release summarizing the Council’s coordinated response to the GFC_ . https://ypfs.som.yale.edu/library/2894th-council-meeting-economic-and-financial-affairsluxembourg-7-october-2008 
+
+## **Reports/Assessments** 
+
+(AS Latvijas Krājbanka 2010) AS Latvijas Krājbanka. 2010. AS Latvijas Krājbanka Consolidated Annual Report for the Year Ended 31 December 2009. Latvia. _Annual report focusing on Latvia’s sixth-largest bank_ . 
+
+https://ypfs.som.yale.edu/library/document/latvijas-krajbanka-consolidated-annualreport-year-ended-31-december-2009 
+
+(ECB 2009a) European Central Bank (ECB). 2009a. “Opinion of the European Central Bank of 4 February 2009 at the Request of the Latvian Financial and Capital Market Commission on Draft Amendments to Certain Legal Acts in Connection with the Financial Turmoil.” _Feedback from the European Central Bank on Latvia’s amendments to its deposit-insurance system_ . 
+
+https://ypfs.som.yale.edu/library/document/opinion-european-central-bank-4-february2009-request-latvian-financial-and 
+
+(ECB 2009b) European Central Bank (ECB). 2009b. “Opinion of the European Central Bank of 26 March 2009 at the Request of the Latvian Financial and Capital Market Commission 
+
+
+on a Draft Law Amending the Law on Deposit Guarantees.” _European Central Bank evaluation of Latvian amendments to the Deposit Guarantee Law_ . https://ypfs.som.yale.edu/library/document/opinion-european-central-bank-26-march2009-request-latvian-financial-and-capital 
+
+(FCMC 2009) Financial and Capital Market Commission (FCMC). 2009. Annual Report and Activity Report 2008 of the Financial and Capital Market Commission. _Yearly report of the Financial and Capital Market Commission’s activities_ . https://ypfs.som.yale.edu/library/document/annual-report-and-activity-report-2008financial-and-capital-market-commission 
+
+(FCMC 2010) Financial and Capital Market Commission (FCMC). 2010. Annual Report and Activity Report 2009 of the Financial and Capital Market Commission. _Report detailing the Financial and Capital Market Commission’s activities_ . https://ypfs.som.yale.edu/library/document/annual-report-and-activity-report-2009financial-and-capital-market-commission 
+
+(FCMC 2011) Financial and Capital Market Commission (FCMC). 2011. Annual Report and Activity Report 2010 of the Financial and Capital Market Commission. _Annual report highlighting the Financial and Capital Market Commission’s activities_ . https://ypfs.som.yale.edu/library/document/annual-report-and-activity-report-2010financial-and-capital-market-commission 
+
+(FCMC 2012) Financial and Capital Market Commission (FCMC). 2012. Annual Report and Activity Report 2011 of the Financial and Capital Market Commission. 
+
+_Report detailing the Financial and Capital Market Commission’s activities, including with respect to a bank failure_ . 
+
+https://ypfs.som.yale.edu/library/document/annual-report-and-activity-report-2011financial-and-capital-market-commission 
+
+(IMF 2010) International Monetary Fund (IMF). 2010. “Republic of Latvia: 2010 Article IV Consultation Staff Report; Public Information Notice on the Executive Board Discussion; and Statement by the Executive Director for the Republic of Latvia.” _Review of Latvia’s economy by the IMF_ . 
+
+https://ypfs.som.yale.edu/library/republic-latvia-2010-article-iv-consultation-staffreport-public-information-notice 
+
+## **Key Academic Papers** 
+
+(Petrovic and Tutsch 2009) Petrovic, Ana, and Ralf Tutsch. 2009. “National Rescue Measures in Response to the Current Financial Crisis.” _ECB Legal Working Paper Series_ No. 8, July. 
+
+_Piece detailing financial responses to the GFC by country_ . https://ypfs.som.yale.edu/node/4151 
+
+
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

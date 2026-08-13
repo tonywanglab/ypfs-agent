@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% from "macros/markdown_editor.html" import markdown_editor %}
+{% from "macros/form_actions.html" import form_actions %}
+{% block title %}Prompt draft — Eval Harness{% endblock %}
+{% block main_class %}main-wide{% endblock %}
+{% block content %}
+<div class="page-header">
+  <h1>Review prompt draft</h1>
+  <p class="meta">Compare the current prompt to the generated draft, edit if needed, then save as the next version.</p>
+</div>
+
+<section
+  id="prompt-diff-panel"
+  data-prompt-diff-panel
+  data-diff-url="{{ url_for('prompt_diff') }}"
+  data-current-id="{{ current_prompt.prompt_id }}"
+  data-draft-input="#prompt-text-editor"
+>
+  <script type="application/json" id="current-prompt-json">{{ current_prompt.text | tojson }}</script>
+  <div class="section-head">
+    <div>
+      <h2>Current prompt vs generated draft</h2>
+      <p class="section-description">Compared against {{ current_prompt.prompt_id }}. Deleted lines are red; added lines are green.</p>
+    </div>
+  </div>
+  <div data-prompt-diff-body>
+    {% with current_id=current_prompt.prompt_id %}
+      {% include "partials/prompt_diff.html" %}
+    {% endwith %}
+  </div>
+</section>
+
+<section>
+  <form method="post" action="{{ url_for('save_prompt') }}">
+    <input type="hidden" name="base_id" value="{{ current_prompt.prompt_id }}">
+    {{ markdown_editor(
+      name="prompt_text",
+      value=draft.prompt_text,
+      label="Generated prompt text",
+      editor_id="prompt-text-editor",
+      required=true
+    ) }}
+    <label>Version rationale
+      <textarea name="rationale" rows="5">{{ draft.rationale }}</textarea>
+    </label>
+    {{ form_actions("Save", cancel_href=url_for('dashboard'), cancel_label="Discard draft") }}
+  </form>
+</section>
+{% endblock %}

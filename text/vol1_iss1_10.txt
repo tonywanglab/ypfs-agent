@@ -1,0 +1,117 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 1 Issue 1 
+2019 
+Yale Program on Financial Stability Lessons Learned: Scott Yale Program on Financial Stability Lessons Learned: Scott 
+Alvarez, Esq. Alvarez, Esq. 
+Alec Buchholtz 
+Yale School of Management 
+Rosalind Z. Wiggins 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Administrative Law Commons, Banking and Finance Law Commons, Economic History 
+Commons, Economic Policy Commons, Legal Studies Commons, Oral History Commons, and the Policy 
+History, Theory, and Methods Commons 
+Recommended Citation Recommended Citation 
+Buchholtz, Alec and Wiggins, Rosalind Z. (2019) "Yale Program on Financial Stability Lessons Learned: 
+Scott Alvarez, Esq.," Journal of Financial Crises: Vol. 1 : Iss. 1, 200-201. 
+DOI: https://doi.org/10.17132/2693-3179.1008 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/10 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol1/iss1/10
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+Scott Alvarez, Esq. 
+By Alec Buchholtz and Rosalind Z. Wiggins 
+ 
+Alvarez, who was General Counsel of the Federal Reserve System, Board of Governors during 
+2007-2009, gives us his take on how best to prepare for future crises.1 
+Before a crisis hits, counsel and policymakers should thoroughly understand the 
+details of their authorities that may come into play. During a crisis, there is little time 
+to waste on figuring out what one’s authorities are or how far they extend. 
+The longer an organization waits to act during a crisis, the more severe economic conditions 
+may get and the more difficult it might be to implement any plan. If leaders understand the 
+extent of their authorities ahead of time, they can spend less time determining the legalities 
+in the heat of the crisis and approve programs more swiftly. I began talking about Section 
+13(3) lending with Chairman Bernanke, the Board, and the team at the FRBNY at the very 
+beginning of fall 2007 and then kept talking about it. By the time fall 2008 rolled around, “the 
+Board members understood what Section 13(3) was by heart, they knew what the limits 
+were, they had been living with it for year, and it was integrated into their thought process.”  
+When considering use of the Fede ral Reserve’s emergency authority, the most 
+important thing is ensuring that any extension of credit is “secured to the satisfaction” 
+of the Reserve Bank.  
+The word “satisfaction” can have many different meanings, but the general guideline for the 
+Board of Governors and any Reserve Bank considering recourse lending under Section 13(3) 
+of the Federal Reserve Act is to secure the credit to satisfactorily ensure full repayment by 
+the borrower. The value of the pledged assets does not have to equal the value of  the credit 
+line, but the assets should make up any amount that the borrower might not be able to pay 
+from future cash flows, or that are backed in some way by another firm.  
+For example, if a Reserve Bank is looking to provide a $20 billion loan to a commercial bank, 
+and the bank’s estimated cash flow is capable of repaying at least $10 billion of the loan, the 
+remaining $10 billion must either be pledged by bank assets or be insured or endorsed by 
+an outside source.  
+When AIG pledged a 79.9% equity stake via convertible preferred stock (which could be 
+publicly sold off once converted to common stock) in connection with the original $85 billion 
+credit facility, it effectively pledged a mix of its subsidiaries that were deemed financially 
+sound by outsourced financial analysts and the Federal Reserve.  
+                                                           
+1 Lessons Learned are distilled from interviews with the principal conducted by YPFS. 
+200
+
+--- Page 4 ---
+Having some prior sense of your internal capacity will be important to enabling a 
+quick response. 
+In addition , understanding  what teams within an organization are needed for 
+implementation, the teams’ capabilit ies, and what information is needed to enact any 
+response plan plays a crucial role in the ability to act quickly. This is especially important 
+when some of the most devastating events are impossible to anticipate. New York handled 
+most of the operational issues for the Fed’s programs, but the Board was constantly in touch 
+with them and our decisions and actions were very coordinated. 
+Rescuing very large, complex organizations requires significant and particular 
+expertise and human capital. Since government  agencies have a limited number of 
+staffs with only so much experience, they should seek to hire outside firms for their 
+knowledge and skills in financial, legal, operational, and accounting services.  
+During the financial crisis, many of the facilities im plemented were novel , first -time 
+programs for the Federal Reserve and required an army of people to operationalize and 
+execute them. The staff of the Federal Reserve and most federal departments were already 
+working on day -to-day activities when the crisis  hit. So, as the amount of crisis -related 
+activity ramped up, there was little to no bandwidth in terms of time and people to tackle the 
+new demands. Existing staff also did not have the particular expertise in the areas of finance, 
+banking, law and other areas that would be required.  
+Therefore, it is imperative that leaders know in advance exactly what firms they can look to 
+during a crisis for specialized services that might be needed in order to create and implement 
+new programs. It may also be benefici al for agencies to have a standing plan for hiring 
+outside consultants to ensure that all departments are receiving needed assistance from the 
+best and most capable firms. In recognition of the limited pool of expert talent, such plans 
+should include provi sions for dealing with conflicts of interests in order to ameliorate 
+potential problems. 
+In the case of AIG, because the government’s legal teams were stretched so thin and only had 
+limited experience working with non -banking firms like AIG, the government  hired many 
+independent consultants. Outsourcing legal services was especially important to research 
+and create many of the AIG-related contracts, the terms of which had to be renegotiated over 
+the course of three years as a response to changing market con ditions and the pressures 
+imposed by credit rating agencies.  
+______________________________________________________ 
+Dated: January 2019 
+YPFS Lessons Learned No: 2019-01 
+ 
+201
+Journal of Financial Crises Vol. 1 Iss. 1

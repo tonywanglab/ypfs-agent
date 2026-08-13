@@ -1,0 +1,438 @@
+## Belgium and France: Dexia Group Capital Injection, 2008[1] 
+
+_Ayodeji George[2]_ 
+
+Yale Program on Financial Stability Case Study October 4, 2024 
+
+## **Abstract** 
+
+Dexia Group (Dexia, or the Group) was a banking and insurance conglomerate that specialized in public financing with major operations in Belgium, France, and Luxembourg. Following the collapse of Lehman Brothers in mid-September 2008, Dexia faced a liquidity crunch as wholesale funding markets froze. Faced with insolvency concerns, authorities from the bank’s three primary markets, Belgium, France, and Luxembourg, conducted overnight negotiations to agree on capital injection terms. On September 30, 2008, authorities and the bank’s board of directors announced a EUR 6.4 billion (eventually EUR 6 billion) capital injection intended to restore Dexia’s solvency and maintain systemwide stability. The capital injection accompanied a debt guarantee and was premised on the creation of a restructuring plan to reduce the bank’s risk portfolio and prioritize historical business lines. The European sovereign debt crisis of 2011–2012 caused another liquidity crisis at Dexia, leading to the creation of an orderly resolution plan and a further EUR 5.5 billion (USD 7.3 billion) capital injection from France and Belgium on December 31, 2012. This left the majority of Dexia’s shares with the authorities of these two countries, and the bank remains in orderly resolution as of the writing of this case study. Belfius, the recapitalized and rebranded Belgian arm of the bank, is 100% owned by the Belgian government. It is a systemically important financial institution as Belgium’s second-largest retail bank, with an equity book value of EUR 11 billion as of year-end 2022. 
+
+**Keywords:** Belgium, capital injection, France, Global Financial Crisis (GFC), Luxembourg, sovereign debt crisis 
+
+> 1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering ad hoc capital injections. A survey of all the cases in this series (Rhee, Hoffner, et al. 2024) and the individual cases underlying it are available from the Journal of Financial Crises at https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/. Rhee, Oguri, et al. (2022) surveys broad-based capital injection programs. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+This case study concerns the capital injection provided to Dexia SA in 2008, which preceded the creation of an orderly resolution plan in 2012, detailed in George (2024b). 
+
+The Dexia Group (Dexia, or the Group) was a financial conglomerate that was among the 15 biggest banks in the eurozone and the world leader in public sector finance. The group structure consisted of an overarching holding company called Dexia SA, which housed its subsidiaries for the three major markets through Dexia Crédit Local (DCL) in France, Dexia Banque Internationale à Luxembourg (DBIL), and Dexia Bank Belgium (DBB). Alongside these three major subsidiaries, Dexia SA also owned the USbased monoline insurer Financial Security Assurance (FSA) and Denizbank based in Turkey (Bottiglia, Gualandri, and Mazzocco 2010; Dexia 2009; ECB 2008; EC 2013). 
+
+In 2008, Dexia faced losses in the US subprime mortgage market through structured credit securities. The firm, whose activities were largely reliant on wholesale funding markets, booked losses and impairments that year totaling EUR 5.9 billion (USD 8.4 billion).[3] Interbank markets froze in September 2008 following the collapse of Lehman Brothers, leading to a short-term liquidity gap at Dexia. By late September 2008, Belgian and Luxembourgish depositors had withdrawn EUR 15 billion of deposits from a total deposit base of EUR 115 billion (Boudghene et al 2010; Thomas 2012). 
+
+## **Key Terms** 
+
+Purpose: To reinforce Dexia’s ability to “face the events playing out in financial markets,” ensuring continued provision of public financing and maintaining system-wide stability (White 2008) 
+
+||Announcement<br>Date<br>Operational Date|September 30, 2008<br>October 3, 2008|
+|---|---|---|
+||Date of Final|A further EUR 5.5 billion|
+||Capital Injection|capital injection was part of|
+|||the orderly resolution plan of<br>2012|
+||End Date|Ongoing|
+||Source of Funding|Governments of Belgium and|
+|||France alongside existing|
+||Administrator|large shareholders in Dexia<br>Public authorities from<br>Belgium, France, and|
+|||Luxembourg, and Dexia|
+|||board of directors|
+||Size|EUR 6 billion|
+||Capital<br>Characteristics|Ordinary shares for Belgium<br>and France|
+||Bail-in Terms|No bail-in|
+||Outcomes|Dexia entered orderly|
+||Notable Features|resolution in 2012<br>Authorities removed pre-<br>emptive rights for existing|
+|||shareholders|
+
+
+
+By September 29, 2008, Dexia’s short-term financing needs totaled EUR 260 billion, with virtually no access to short-term liquidity from interbank markets. Faced with concerns of insolvency, the Dexia board of directors pursued a capital increase, citing the difficulties 
+
+> 3 According to BIS, USD 1 = EUR 0.70 on September 30, 2008. 
+
+
+faced by financial institutions amid deteriorating market conditions. Following all-night negotiations, the governments of Belgium and France announced a EUR 6 billion capital injection intended to maintain the bank’s solvency and restore stability.[4] Alongside the capital injection, Belgium, France, and Luxembourg also provided a EUR 150 billion financing guarantee of Dexia’s debt issuance and obligations. Following the capital injection, authorities required Dexia’s board of directors to create a restructuring plan intended to downsize the bank’s risk portfolio and shift focus to business lines in its historical markets of Belgium, France, and Luxembourg. On November 14, 2008, Dexia agreed to sell FSA to Assured Guaranty in order to trim its exposure to US real estate markets. Following the sale and purchase agreement, Dexia announced that FSA had contributed EUR 3.1 billion to its 2008 loss. On the same day, Dexia announced its restructuring plan, which the European Commission (EC) ratified on February 26, 2010 (Dexia 2009; Dexia 2011; EC 2008; EC 2010a; Thomas 2012; White 2008). 
+
+European authorities subjected Dexia to a series of stress tests in 2010 and 2011, all of which suggested that Dexia was well capitalized and stable. However, the European sovereign debt crisis of 2011–2012 caused a large shock to Dexia’s liquidity and created major mark-tomarket losses. Dexia’s balance sheet featured EUR 22 billion of sovereign debt at year-end 2010 and EUR 96 billion of short-term financing needs in September 2011. Belgian authorities immediately responded by nationalizing DBB and renaming the bank Belfius. The governments of Belgium and France then worked with the bank’s executives to draft a new orderly resolution plan for the gradual disposal of Dexia’s assets. As part of the plan, Belgian and French authorities provided another capital injection totaling EUR 5.5 billion. After separating from Dexia, Belfius operated as an autonomous nationalized bank and remains fully government owned. The Belfius 2022 annual report stated that the 100% government stake in Belfius held a value of EUR 11.1 billion. The Luxembourgish subsidiary operates individually as well, with the Luxembourg government owning a 10% stake. Dexia SA remains in orderly resolution at the time of the writing of this case study, having applied to have its banking license withdrawn in July 2023 (Belfius 2012; Belfius 2023a; Belfius 2023b; BIL 2023; Cleary Gottlieb 2012; Dexia 2011; Dexia 2013; Dexia 2023a; Dexia 2023b; Smith 2018; Thomas 2012). A timeline of events related to the Dexia intervention is shown in Figure 1. 
+
+[FIGURE id=vol6_iss3_4_f1 type=diagram page=5 label="Figure 1" file=figure_1.png caption="Timeline of Events Related to the Dexia Intervention"]
+### **Figure 1: Timeline of Events Related to the Dexia Intervention**
+
+|Date|Event|
+|---|---|
+|Sept. 29, 2008|Belgian, French, and Luxembourgish authorities enter meetings to determine solution for<br>troubled Belgian financial institutions.|
+|Sept. 29, 2008|Dexia board of directors decides to proceed with a capital increase of EUR 6 billion. Belgian and<br>French authorities agree to take part.|
+|Sept. 30, 2008|Capital injection approved by Dexia board of directors and publicly announced.|
+
+
+
+> 4 The original plan called for a EUR 400 million contribution from Luxembourg as well. The European Commission (EC) exempted the Luxembourg contribution in its formal approval of the measures on February 26, 2010, bringing the total to EUR 6 billion (EC 2010a). 
+
+
+|Oct. 9, 2008|Belgian, French, and Luxembourgish authorities announce a joint guarantee program for Dexia.|
+|---|---|
+|Nov.14, 2008|Dexia’s leadership secures a sale and purchase agreement with Assured Guaranty for FSA and<br>announces its transformation (restructuring) plan. FSA contributed EUR 3.1 billion to the 2008<br>loss for Dexia.|
+|Feb. 2009|Belgium, France, and Luxembourg submit an initial restructuring plan for Dexia. Plan involves<br>the reduction of risks and sale of loss-making subsidiary FSA.|
+|Fall-Spring<br>2010|Dexia passes a series of stress tests suggesting a resilient financial position and publicizes<br>positive indicators on its restructuring process.|
+|May 2010|Dexia exposure to sovereign debt delivers another liquidity shock and unveils significant<br>unrealized mark-to-market losses.|
+|June 30, 2010|Dexia exits financing guarantee program.|
+|Oct. 2011|After losing access to liquidity after ratings agencies put it on negative watch, Dexia was<br>prepared for orderly resolution by Belgian, French, and Luxembourgish authorities.|
+|Oct. 20, 2011|Dexia Banque Belgium sold to the Belgian state for EUR 4 billion. Authorities announce drafting<br>of orderly resolution plan for Dexia SA.|
+|Nov. 26, 2012|Belgium submits final version of restructuring plan for DBB/Belfius.|
+|March 23,<br>2012|90% of Dexia Banque Internationale à Luxembourg is acquired by a Qatari investment fund,<br>with the Luxembourg state acquiring the remaining 10%.|
+|Dec. 14, 2012|EC notified of financing guarantee for Dexia SA and DCL.|
+|Dec. 31, 2012|EC approves Dexia orderly resolution plan and Belgium and France inject EUR 5.5 billion into<br>Dexia SA.|
+
+
+
+_Sources: Belfius 2012; Dexia 2009; Dexia 2012; Dow Jones International News 2008; EC 2008; EC 2010a; EC 2013; Thomas 2012._ 
+
+## **Summary Evaluation** 
+
+A 2010 Palgrave Macmillan study concerning consolidation in the European financial sector stated that the interventions into cross-border groups like Dexia exposed the issues of fragmentation within the European supervisory system. At the time, such groups lacked a single supervisor and single procedure for dealing with cross-border crises (Bottiglia, Gualandri, and Mazzocco 2010). 
+
+French financial journalist Alain Piffaretti notes an argument that, had Dexia been liquidated in 2008, it may have been able to curb its exposure to soon-to-be-impaired sovereign debt before the onset of the European crisis. Piffaretti offers another critique on the validity of trying to maintain a business model that had shown itself to be unviable. He also argues that the guarantees provided to Dexia actually forced the group toward liquidation because of the fees that authorities charged (Piffaretti 2013). 
+
+In October 2011, a _Financial Times_ article articulated several lessons learned from Dexia’s rescue. Specifically, the article cites the difficulty of bank rescues that involve multiple governments. The article cites price tensions between the Belgian and French governments as well as between Belgium’s federal leaders and regional authorities regarding 
+
+
+contributions to the capital injection. As such, the article advocates for a pan-European bank resolution regime (Financial Times 2011; Thomas 2012). 
+
+
+|**Context: Belgium, Dexia Group, 2011–2012**|**Context: Belgium, Dexia Group, 2011–2012**|
+|---|---|
+|**Assets**|**EUR 413 billion**as of Dec. 31, 2011<br>**EUR 113.1 billion**as of Dec. 31, 2012|
+|**Liabilities**|**EUR 413 billion**as of Dec. 31, 2011<br>**EUR 103.1 billion**as of Dec. 31, 2012|
+|**Deposits**|**EUR 19 billion**as of Dec. 31, 2011<br>**EUR 11 billion**as of Dec. 31, 2012|
+|**Capital Ratio (Tier 1)**|**7.6%**as of Dec. 31, 2011<br>**19.9%**as of Mar. 31, 2012|
+|**Nonperforming Loans**|**EUR 2.5 billion**as of Dec. 31, 2011<br>**EUR 2 billion**as of Dec. 31, 2012|
+|**Market Share**|**Unavailable**|
+|**Banking System, % of GDP**|**78.6%**as of Dec. 31, 2011<br>**77.7%**as of Dec. 31, 2012|
+|_Sources: Bloomberg; Dexia 2012; World Bank Global Financial Development_<br>_Database; World Bank Deposit Insurance Dataset._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: Belgian authorities intended for the capital injection to address the short-term liquidity gap caused by the freezing of global funding markets.** 
+
+Dexia primarily relied on wholesale funding markets because of the impossibility of a material increase in its customer deposit-taking activities. The freezing of interbank and capital markets in the aftermath of the collapse of Lehman Brothers caused a significant short-term liquidity gap for Dexia. Impairments on credit assets and exposure to struggling sovereign counterparties worsened Dexia’s liquidity situation. In response to these financial difficulties, Dexia’s board of directors decided to pursue a capital increase of EUR 6.4 billion (Boudghene et al 2010; EC 2008). 
+
+On September 30, 2008, authorities from Belgium, France, and Luxembourg announced that they would inject the necessary EUR 6.4 billion, given that Dexia was unable to source equity contributions from private sources. The Belgian prime minister stated that the state contribution was made so that Dexia “can face the events playing out in financial markets” (White 2008). French authorities participated to ensure the continued financing for local French governments, as well as to contribute to stability in the European financial system (White 2008). 
+
+## **2. Part of a Package: The capital injection accompanied a credit guarantee and the creation of a broader restructuring plan.** 
+
+During the acute phase of the Global Financial Crisis (GFC), Dexia accessed Federal Reserve liquidity through its New York banking office, borrowing $58.5 billion in September 2008. The French and Belgian Central Banks also provided Dexia with emergency liquidity assistance (ELA) totaling EUR 15 billion on October 1, 2008 (EC 2008; Wiggins, Tente, and Metrick 2019). 
+
+Alongside the capital injection, Belgium, France, and Luxembourg collaborated to provide a joint credit guarantee for Dexia. The guarantee covered all of Dexia’s financing measures and debt issuances, provided that they fell due before October 31, 2011 (EC 2008). For further discussion of the broader bank debt guarantee, see Lawson (2020). 
+
+The EUR 6 billion capital injection preceded the creation of a restructuring plan for Dexia. The European sovereign debt crisis of 2011–2012 caused an irreparable shock to Dexia’s asset portfolio in 2011, forcing recapitalization and nationalization of DBB and DBIL by their respective governments, a further EUR 5.5 billion capital injection into Dexia SA, and the creation of an orderly resolution plan. For further detail on the restructuring of Dexia SA, see George (2024). 
+
+
+## **3. Legal Authority: The Act of 7 May 1999 governed capital injections in all Belgian institutions, and the Law of April 2, 1962, dictated the powers of SFPI.** 
+
+The Law of April 2, 1962, established the Federal Participations and Investment Company (SFPI), a quasi-private entity that handled government interventions into Belgian businesses. SFPI had the authority to take equity stakes in Belgian companies and participate in their management. Regarding capital injections, Livre V Part V of the Act of 7 May 1999 established the laws regulating capital increases in Belgian institutions. To support immediate intervention, authorities removed existing shareholders’ preemptive rights (see Key Design Decision No. 13, Other Conditions), which would have given them priority access to purchasing new shares. Article 598 of the Act of 7 May 1999 dictated that when shareholders’ preemptive rights are limited, the price of issuance cannot be less than the average over the course of the 30 preceding days (EC 2008; SFPI 2021; Government of Belgium 1962; Government of Belgium 1999). 
+
+Regarding French participation in the capital injection, a decree issued on September 9, 2004, established the French agency responsible for public shareholdings and outlined its powers (Government of France 2004). 
+
+All State Aid measures required the approval of the European Commission (EC). At the time of the capital injection, Reuters reported that the EC expressed confidence that the intervention complied with all State Aid rules (EC 2008; Reuters 2008). 
+
+In its decision of February 26, 2008, the EC found that Belgium, France, and Luxembourg implemented aid unlawfully regarding the capital injection, guarantee, and liquidity assistance guarantee. This required authorities to form a restructuring plan in order to transform the emergency aid into restructuring aid. The EC formally approved the plan on February 26, 2010 (EC 2010a). 
+
+## **4. Administration: The Dexia board of directors initiated and pursued the capital increase, gaining the support of Belgian, French, and Luxembourgish authorities.** 
+
+The Belgian government injected capital into Dexia using SFPI. SFPI was an independent legal entity created to undertake investment transactions that did not meet economic criteria but held societal value. As such, SFPI had four major mandates: 
+
+- (a) Stimulate the development and establishment of private enterprises 
+
+- (b) Promote economic public initiative 
+
+- (c) Contribute to the execution of the economic strategy of the state 
+
+- (d) Give opinions at the request of the federal government 
+
+A coalition of officials from the governments and central banks of Belgium, France, and Luxembourg collaborated with Dexia’s board of directors on the capital injection (SFPI 2009; 
+
+
+Piffaretti 2013; Thomas 2012). A graphic of the stakeholders present at the capital injection negotiations is shown in Figure 2. 
+
+[FIGURE id=vol6_iss3_4_f2 type=figure page=11 label="Figure 2" file=figure_2.png caption="Participants in Dexia’s Bail-out Negotiations"]
+### **Figure 2: Participants in Dexia’s Bail-out Negotiations**
+![Figure 2](assets/vol6_iss3_4/figure_2.png)
+
+
+## _Sources: Piffaretti 2013; Thomas 2012._ 
+
+Media sources reported price tensions between the Belgian and French governments as well as between Belgium’s federal leaders and regional authorities. These points of contention largely revolved around the breakdown of the capital to be provided to Dexia. Both the French and Belgian authorities aimed to minimize their respective costs related to the resolution of Dexia. The strategic interests of the two differed as well, with the Belgian state looking to promote financial stability and the French looking to preserve a key source of municipal funding (Financial Times 2011; IMF 2014). 
+
+Following the EUR 5.5 billion capital injection, greater than 94% of Dexia’s share capital was owned by the governments of Belgium and France (Dexia 2013). 
+
+## **5. Governance: The capital injection was subject to EC oversight under State Aid rules.** 
+
+Belgium was the consolidated supervisor of Dexia, and a memorandum of understanding (MOU) backed the supervisory college of Belgium, France, and Luxembourg. The capital injection was subject to the oversight of the EC and State Aid rules (EC 2008; EC 2010a; IMF 2014). 
+
+As a 100% state-owned bank, Belfius leadership consulted with SFPI periodically concerning company performance and risk management (Belfius 2023b). 
+
+## **6. Communication and Disclosure: Internally, authorities communicated the urgency of the capital injection measure through letters to the EC while Dexia issued a public statement.** 
+
+Dexia issued a statement on September 30, 2008, announcing the capital increase and its intentions. The announcement did not specify the percentage breakdowns between the governments of Belgium, France, and Luxembourg and the existing shareholders. The Belgian Prime Minister also spoke to VRT News, rationalizing that the state’s actions were 
+
+
+necessary for Dexia to face the events taking place in financial markets. On the same day, EC officials stated that they were confident that the capital injection was compatible with State Aid rules (Dow Jones International News 2008; Reuters 2008; White 2008). 
+
+In early October 2008, the European Commission (EC) received communications from the central banks of the three associated countries providing context for the capital injection. The letters provided justification for the urgency with which the governments pursued the capital injection (EC 2010a). 
+
+The management of Dexia communicated the status of the bank and the restructuring process that followed the capital increase in its annual reports (Dexia 2009; Dexia 2010; Dexia 2011; Dexia 2012; Dexia 2013). 
+
+## **7. Treatment of Creditors and Equity Holders: There were no bail-in measures, as the government bore the full cost of the capital injection and restructuring.** 
+
+The initial EUR 6 billion capital injection into Dexia resulted in approximately 50% of its capital being held by public entities. The original EC decision did not characterize the ARCO contribution to the capital injection as State Aid; however, EC authorities investigated this characterization after learning about the guarantee against losses on equity stakes.[5] In a January 2012 hearing before the Belgian House of Representatives, the minister of finance stated that he “had not been sure” of the guarantees owing to fears that they would not be accepted by the EC. He called the setup of the guarantee a “political compromise” that had been necessary to save Dexia. The investigation found that the guarantee of ARCO from losses violated State Aid rules (Court of Justice of the European Union 2016; Dexia 2009; EC 2013). 
+
+Given that Belgium and France held the majority of Dexia’s shares, they were compelled to provide a further EUR 5.5 billion capital injection to compensate for the massive losses. This effectively nationalized Dexia, with only 4.5% of its capital still floating as of December 2012. The ownership stakes of individual and institutional shareholders decreased from 30% at year-end 2011 to 4% at year-end 2012. This resulted in substantial losses for institutional shareholders ARCO and Holding Communal, forcing them into liquidation. There were no bail-in measures for creditors or depositors, as the governments and public agencies of Belgium and France bore the full cost of the capital injection (Dexia 2012; Dexia 2013; EC 2008; EC 2013; Thomas 2012). 
+
+The capital injection accompanied the removal of preemptive rights for existing shareholders (See Key Design Decision No. 13, Other Conditions) (EC 2008). 
+
+## **8. Capital Characteristics: Belgian and French authorities subscribed to ordinary shares, while Luxembourgish authorities agreed to convertible bonds.** 
+
+Belgian and French authorities subscribed to ordinary Dexia shares, each with a nominal value of EUR 9.90. Dexia’s share price had fallen 30% on the day before the capital injection, 
+
+> 5 For further context on the ARCO contribution, see George (2024b). 
+
+
+September 29. That said, the issue price was determined by the average closing price of Dexia shares over the course of the 30 days preceding the capital injection (Dow Jones International News 2008; EC 2008). 
+
+Though it never came to pass (see Key Design Decision No. 9, Size and Source of Funding), the Luxembourg state’s contribution to the capital injection would have come in the form of hybrid capital from Dexia’s subsidiary, Dexia Banque Internationale Luxembourg SA (BIL). The convertible bonds had a maturity of three years and a 10% rate of interest (EC 2008). 
+
+## **9. Size and Source of Funding: The governments of Belgium and France provided funds totaling EUR 6 billion.** 
+
+In total, the capital injection amounted to EUR 6 billion. Luxembourg originally committed to provide EUR 376 million in the form of convertible bonds with a three-year maturity. The eventual restructuring plan approved by the EC on February 26, 2010, waived this contribution owing to the illegality of the size of the capital increase. The governments of Belgium and France subscribed to 606 million shares at a nominal price of EUR 9.90 each. Taking the EC’s waiving of the Luxembourgish contribution into account, the capital injection totaled EUR 6 billion, an equal contribution of EUR 3 billion each from Belgium and France. The European Commission (EC) regarded EUR 5.2 billion as State Aid (EC 2008; EC 2010a; EC 2010b). 
+
+The Belgian contribution to the capital injection was divided between different regions and government entities. The Belgian state directly invested EUR 1 billion, with the Flemish Region and Holding Communal SA each contributing EUR 500 million. The Walloon region and Acrofin SC each contributed EUR 350 million, while the Bruxelles-Capitale region and Ethias contributed EUR 150 million. This amounted to a Belgian contribution of EUR 3 billion. The EC did not classify the contributions from private firms Ethias, Acrofin, and Caisse Nationale de Prévoyance (CNP) Assurance as State Aid. Ethias had not been nationalized at the time of the capital injection, and the majority of the shareholders for Acrofin and CNP Assurance were private actors. As such, these contributions did not constitute state resources (EC 2010a). 
+
+The French State directly invested EUR 1 billion, which was managed by the Agence des Participations de l’Etat. The Caisse des Dépôts et Consignations (CDC) provided EUR 1.7 billion, and CNP Assurances provided EUR 228 million, bringing the total French contribution to just under EUR 3 billion (EC 2008). 
+
+## **10. Timing: The capital injection occurred immediately after the failure of Lehman Brothers, which had caused international credit markets to freeze.** 
+
+Following the failure of Lehman Brothers on September 15, 2008, Dexia faced difficulties as international credit markets froze. Dexia faced acute pressure on September 29, 2008, 
+
+
+following the bailout of Fortis,[6] leading to bail-out negotiations between the bank and authorities in Belgium, France, and Luxembourg (EC 2008; Thomas 2012). 
+
+Starting in the afternoon on September 29, 2008, overnight negotiations between Belgian, French, and Luxembourgish authorities, as well as existing major shareholders,[7] led to the finalization of a plan early in the morning on September 30, 2008. The plan was approved on the condition that the Dexia chief executive officer resign (see Key Design Decision No. 12, Treatment of Board and Management). Authorities announced the capital injection that same day, after Dexia’s board of directors gave their unanimous approval. The formal share issuance occurred on October 3, 2008 (EC 2008; Piffaretti 2013; Slater 2008; Thomas 2012). 
+
+## **11. Restructuring: The capital injection preceded a restructuring process that was ultimately unsuccessful, leading to the orderly resolution of Dexia.** 
+
+The capital injection preceded the creation of a restructuring plan intended to downsize Dexia’s risk portfolio and prioritize its historical business lines. While the restructuring plan restored stability for a brief period, the European sovereign debt crisis caused acute liquidity pressure that sent the bank into orderly resolution (Dexia 2009; Dexia 2013). A full discussion of the orderly resolution plan for Dexia can be found in the corresponding case study (George 2024b). 
+
+## **12. Treatment of Board and Management: Following the announcement of the capital injection, both the CEO and board chairman resigned.** 
+
+Following the announcement of the capital injection, Dexia’s chief executive officer and board chairman both resigned their posts. Dexia’s board of directors accepted their resignations and asked the two to continue overseeing daily affairs until the remaining board members identified successors (Agence France Presse 2008). 
+
+In the days following the capital injection, Dexia named Pierre Mariani, former chief of staff to then budget minister Nicolas Sarkozy, as CEO, and former Belgian prime minister JeanLuc Dehaene as chairman of the board (Dexia 2010). 
+
+## **13. Other Conditions: The capital increase accompanied the removal of pre-emptive rights for existing shareholders.** 
+
+The capital injection accompanied the removal of preemptive rights for existing shareholders (see Key Design Decision No. 3, Legal Authority). The removal was predicated on the need for immediate intervention (EC 2008). 
+
+## **14. Regulatory Relief: Research did not reveal any regulatory relief.** 
+
+Research did not reveal any regulatory relief associated with the capital injection. 
+
+> 6 For more information on the capital injection provided to Fortis, see (George 2024a). 
+
+> 7 The major shareholders included Holding Communal, Acrofin SC, and Ethias (EC 2008). 
+
+
+## **15. Exit Strategy: The capital injection did not come with a predetermined exit strategy.** 
+
+At the time of the capital injection, no exit strategy was given for the state capital holdings. The new management was entirely focused upon downsizing risk and rebuilding the Bank’s cost structure while giving priority to historical business lines. As such, the state shareholding remained roughly the same until 2011, when the European sovereign debt crisis again caused extreme pressure for Dexia’s liquidity. This crisis led to the introduction of an orderly resolution plan involving a further capital injection of EUR 5.5 billion from Belgium and France. As a result, the Belgian and French states together held 94% of Dexia’s shares. Dexia remains in orderly resolution as of the writing of this case, with Belgium and France continuing to hold the vast majority of the bank’s shares (Dexia 2009; Dexia 2010; Dexia 2011; Dexia 2012; Dexia 2013; Dexia 2023a). 
+
+As part of the restructuring and resolution, Dexia sold DBB (renamed Belfius after the transaction) to Belgium for EUR 4 billion on October 20, 2011.[8] The 2016 Belfius annual report stated that the bank’s leadership considered a partial privatization to be desirable. Given its large role in Belgian public finance, Belfius leadership intended for as much of its ownership as possible to remain in Belgium. After announcing preparations for a partial IPO in its 2017 annual report, the SFPI delayed the partial reprivatization in 2018, citing volatility in financial markets. The impact of COVID-19 on financial markets further disincentivized the reprivatization of Belfius. As of year-end 2022, Belfius was a healthy, systemically important bank with a book value of EUR 11.1 billion. It remains wholly owned by the Belgian state (Belfius 2017; Belfius 2023b; Blenkinsop 2018; Dexia 2012; ECB 2023; SFPI 2018; SFPI 2019). 
+
+> 8 For a full account of the sale of DBB/Belfius as part of the restructuring and resolution of Dexia, see (George 2024b). 
+
+
+## **References and Key Program Documents** 
+
+## **Summary of Program** 
+
+(Belfius 2023a) Belfius. 2023a. “Structure of the Group,” 2023. _Web page reporting that Belfius remains under the ownership of the Belgian state_ . https://elischolar.library.yale.edu/ypfs-documents2/2870 
+
+(BIL 2023) Banque Internationale à Luxembourg (BIL). 2023. “Investor Relations,” 2023. _Web page detailing the ownership structure of BIL_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2869 
+
+(Dexia 2023a) Dexia. 2023a. “The Mission of the Dexia Group,” 2023. _Summary web page describing the mission of Dexia’s management_ . http://elischolar.library.yale.edu/ypfs-documents2/2555 
+
+## **Implementation Documents** 
+
+(EC 2008) European Commission (EC). 2008. “Emergency Aid to Dexia in the Form of a Guarantee for Bonds and Liquidity Assistance,” November 19, 2008. 
+
+_EC State Aid document outlining the approval of the capital injection and asset guarantee_ . http://elischolar.library.yale.edu/ypfs-documents2/2559 
+
+(EC 2010a) European Commission (EC). 2010a. “Commission Decision of 26 February 2010,” February 26, 2010. 
+
+_EC State Aid decision on intervention and restructuring measures implemented for Dexia_ . http://elischolar.library.yale.edu/ypfs-documents2/2563 
+
+## **Legal/Regulatory Guidance** 
+
+(EC 2013) European Commission (EC). 2013. “Commission Decision of 28 December 2012.” Official Journal of the European Union, June 6, 2013. 
+
+_EC State Aid document containing the orderly resolution plan for Dexia_ . https://elischolar.library.yale.edu/ypfs-documents2/2877 
+
+(Government of Belgium 1962) Government of Belgium. 1962. Statuts de La Société Nationale d’Investissement. 
+
+_Law, in French, establishing Belgium’s Federal Participations and Investment Company_ . https://elischolar.library.yale.edu/ypfs-documents2/2880 
+
+(Government of Belgium 1999) Government of Belgium. 1999. Act Containing Corporations Code. 
+
+_Belgian law concerning the operations of companies and financial institutions_ . http://elischolar.library.yale.edu/ypfs-documents2/2565 
+
+
+(Government of France 2004) Government of France. 2004. Décret N°2004-963 Du 9 Septembre 2004 Portant Création Du Service à Compétence Nationale Agence Des Participations de l’Etat. September 9, 2004. 
+
+_Law, in French, establishing the French agency for public share participation_ . https://elischolar.library.yale.edu/ypfs-documents2/2881 
+
+## **Media Stories** 
+
+(Agence France Presse 2008) Agence France Presse. 2008. “Dexia Chairman, CEO Resign after Bailout,” September 30, 2008. 
+
+_Media article announcing the resignations of Dexia’s board chairman and CEO_ . http://elischolar.library.yale.edu/ypfs-documents2/2562 
+
+(Blenkinsop 2018) Blenkinsop, Philip. 2018. “Belgium Postpones Flotation of Belfius Bank.” Reuters, September 10, 2018. 
+
+_News article reporting the postponement of the partial privatization of Belfius_ . https://elischolar.library.yale.edu/ypfs-documents2/2871 
+
+(Dow Jones International News 2008) Dow Jones International News. 2008. “Dexia Issues Statement Regarding Governments’ Rescue Plan,” September 30, 2008. _News article reporting Dexia’s comments on the government intervention_ . http://elischolar.library.yale.edu/ypfs-documents2/2560 
+
+(Financial Times 2011) Financial Times. 2011. “Dexia Spells Out a Lesson,” October 7, 2011. _News article comparing the situation of Dexia to that of Fortis_ . https://elischolar.library.yale.edu/ypfs-documents2/2879 
+
+(Reuters 2008) Reuters. 2008. “EU Confident Dexia Plan Respects State Aid Rules,” September 30, 2008. 
+
+_Media article reporting that the Dexia intervention likely complied with EC regulations_ . http://elischolar.library.yale.edu/ypfs-documents2/2553 
+
+(Slater 2008) Slater, Steve. 2008. “Dexia Gets Bailout, Europe Tries to Calm Bank Fears.” Reuters, September 30, 2008. 
+
+_News article reporting on the capital injection provided to Dexia in 2008_ . http://elischolar.library.yale.edu/ypfs-documents2/2864 
+
+(Smith 2018) Smith, Robert. 2018. “Rescued Belfius and IKB Return to Market with Risky Debt.” _Financial Times_ , January 25, 2018. 
+
+_News article discussing a 2018 Belfius debt issuance_ . https://elischolar.library.yale.edu/ypfs-documents2/2884 
+
+(White 2008) White, Aoife. 2008. “Belgian Bank Dexia Bank Gets 6.4-Billion-Euro Bailout; CEO Bails Out.” Canadian Press, September 30, 2008. 
+
+_News article reporting on the capital injection into Dexia_ . http://elischolar.library.yale.edu/ypfs-documents2/2564 
+
+
+## **Press Releases/Announcements** 
+
+(Cleary Gottlieb 2012) Cleary Gottlieb. 2012. “Dexia Completes €730 Million Sale of Banque Internationale à Luxembourg.” Press release, October 5, 2012. 
+
+_Press release announcing the sale of Dexia Banque Internationale à Luxembourg (DBIL) to a Qatari-led consortium and Luxembourg_ . https://elischolar.library.yale.edu/ypfs-documents2/2873 
+
+(Court of Justice of the European Union 2016) Court of Justice of the European Union. 2016. “The Guarantee Granted by Belgium to the ARCO Group Financial Cooperatives Infringes EU Law.” Press release, December 21, 2016. 
+
+_Press release announcing the EU ruling on the Belgian guarantee of shareholder losses_ . https://elischolar.library.yale.edu/ypfs-documents2/2583 
+
+(Dexia 2023b) Dexia. 2023b. “Dexia Applies for the Withdrawal of Its Banking Licences and Authorisations for Investment Services.” Press release, July 3, 2023. _Press release announcing Dexia’s application for withdrawal of banking licenses_ . https://elischolar.library.yale.edu/ypfs-documents2/2874 
+
+(EC 2010b) European Commission (EC). 2010b. “State Aid: Commission Approves Restructuring Plan for Dexia.” Press release, February 26, 2010. _Press release announcing the EC’s approval of Dexia’s restructuring plan_ . http://elischolar.library.yale.edu/ypfs-documents2/2557 
+
+## **Reports/Assessments** 
+
+(Belfius 2012) Belfius. 2012. Annual Report 2011. _Belfius annual report for the year 2011_ . http://elischolar.library.yale.edu/ypfs-documents2/2590 
+
+(Belfius 2017) Belfius. 2017. Annual Report 2016. _Belfius annual report for the year 2016_ . https://elischolar.library.yale.edu/ypfs-documents2/895 
+
+(Belfius 2023b) Belfius. 2023b. Annual Report 2022. _Belfius annual report for the year 2022_ . http://elischolar.library.yale.edu/ypfs-documents2/2587 
+
+(Dexia 2009) Dexia. 2009. Annual Report 2008. _Dexia annual report for the year 2008_ . http://elischolar.library.yale.edu/ypfs-documents2/2581 
+
+(Dexia 2010) Dexia. 2010. Annual Report 2009. _Dexia annual report for the year 2009_ . http://elischolar.library.yale.edu/ypfs-documents2/2580 
+
+
+(Dexia 2011) Dexia. 2011. Annual Report 2010. _Dexia annual report for the year 2010_ . http://elischolar.library.yale.edu/ypfs-documents2/2579 
+
+(Dexia 2012) Dexia. 2012. Annual Report 2011. _Dexia annual report for the year 2011_ . http://elischolar.library.yale.edu/ypfs-documents2/2577 
+
+(Dexia 2013) Dexia. 2013. Annual Report 2012. _Dexia annual report for the year 2012_ . http://elischolar.library.yale.edu/ypfs-documents2/2576 
+
+(ECB 2008) European Central Bank (ECB). 2008. “Financial Stability Review,” June 2008. _ECB financial stability review published in June 2008_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2888 
+
+(SFPI 2009) Federal Participations and Investment Company (SFPI). 2009. Annual Report 2008. 
+
+_Unofficial translation of the SFPI annual report for year 2008 (in French)_ . http://elischolar.library.yale.edu/ypfs-documents2/2617 
+
+(SFPI 2018) Federal Participations and Investment Company (SFPI). 2018. Annual Report 2017. 
+
+_SFPI annual report for the year 2017 (In French)_ . https://elischolar.library.yale.edu/ypfs-documents2/1879 
+
+(SFPI 2019) Federal Participations and Investment Company (SFPI). 2019. Annual Report 2018. 
+
+_SFPI annual report for the year 2018 (In French)_ . https://elischolar.library.yale.edu/ypfs-documents2/896 
+
+(SFPI 2021) Federal Participations and Investment Company (SFPI). 2021. Annual Report 2020. 
+
+_SFPI annual report for the year 2020 (In French)_ . https://elischolar.library.yale.edu/ypfs-documents2/378 
+
+## **Key Academic Papers** 
+
+(Bottiglia, Gualandri, and Mazzocco 2010) Bottiglia, Roberto, Elisabetta Gualandri, and Gian Nereo Mazzocco. 2010. _Consolidation in the European Financial Industry_ . London: Palgrave Macmillan. 
+
+_Book discussing the impact of the GFC on regulation and supervision of the European Financial Industry_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/2586 
+
+
+(Boudghene et al. 2010) Boudghene, Yassine, Laurent Le Mouël, Martin Löffler, Sandrine Scheller, and Guillaume Schwall. 2010. “The Dexia Restructuring Decision.” Competition Policy Newsletter no. 2, 2010. 
+
+_Article discussing the capital injection and initial restructuring plan for Dexia_ . http://elischolar.library.yale.edu/ypfs-documents2/2556 
+
+(George 2024a) George, Ayodeji. 2024a. “Belgium: Fortis Group Capital Injection, 2008.” _Journal of Financial Crises_ 6, no. 3. 
+
+_YPFS case study examining the ad hoc capital injection provided to Fortis Group in 2008._ https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/3/ 
+
+(George 2024b) George, Ayodeji. 2024. “Belgium, France, Luxembourg: Dexia Group Restructuring, 2011.” _Journal of Financial Crises_ 6, no.1: 91–122. 
+
+_YPFS case study examining the restructuring of Dexia Group._ 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/4 
+
+(IMF 2014) International Monetary Fund (IMF). 2014. “Cross-Border Bank Resolution: Recent Developments,” June 2, 2014. 
+
+_Policy paper discussing cross-border supervision and resolution frameworks_ . https://elischolar.library.yale.edu/ypfs-documents2/2526 
+
+(Lawson 2020) Lawson, Aidan. 2020. “The Belgian Credit Guarantee Scheme (Belgium GFC).” _Journal of Financial Crises_ 2, no. 3: 619–34. 
+
+_YPFS case study describing the Belgian credit guarantee scheme launched in response to the Global Financial Crisis_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/31/ 
+
+(Piffaretti 2013) Piffaretti, Alain. 2013. _Le Scandale Dexia: Enquête Sur La plus Grosse Faillite Bancaire Européenne_ . Paris: Nouveau Monde. 
+
+_Book, in French, documenting the growth and eventual downfall of Dexia SA_ . https://elischolar.library.yale.edu/ypfs-documents2/2882 
+
+(Rhee, Hoffner, et al. 2024) Rhee, June, Benjamin Hoffner, Greg Feldberg, and Andrew Metrick. 2024. “Survey of Ad Hoc Capital Injections.” _Journal of Financial Crises_ 6, no. 3. _Survey of YPFS case studies examining ad hoc capital injections_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/1/ 
+
+(Rhee, Oguri, et al. 2022) Rhee, June, Junko Oguri, Greg Feldberg, and Andrew Metrick. 2022. “Survey of Broad-Based Capital Injection Programs.” _Journal of Financial Crises_ 4, no. 1: 1–48. 
+
+_Survey of YPFS case studies examining broad-based capital injection programs_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/1/ 
+
+(Thomas 2012) Thomas, Pierre-Henri. 2012. _Dexia: Vie et Mort d’un Monstre Bancaire_ . Paris: Les Petits Matins. 
+
+_Book, in French, discussing the failure of Dexia and the lessons to be drawn from it_ . https://elischolar.library.yale.edu/ypfs-documents2/2885 
+
+
+(Wiggins, Tente, and Metrick 2019) Wiggins, Rosalind Z., Natalia Tente, and Andrew Metrick. 2019. “European Banking Union D: Cross-Border Resolution—Dexia Group.” _Journal of Financial Crises_ 1, no. 3: 172–88. _YPFS case study describing the resolution of Dexia Group_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss3/10 
+
+## **Other** 
+
+(ECB 2023) European Central Bank (ECB). 2023. “List of Supervised Entities,” 2023. _List of significant banks supervised by the ECB_ . https://elischolar.library.yale.edu/ypfs-documents2/2876 
+
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

@@ -1,0 +1,1140 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 5 Issue 1 
+2023 
+United States: Swaps to the Bank for International Settlements United States: Swaps to the Bank for International Settlements 
+and Deutsche Bundesbank, 1967 and Deutsche Bundesbank, 1967 
+Vincient Arnold 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Arnold, Vincient (2023) "United States: Swaps to the Bank for International Settlements and Deutsche 
+Bundesbank, 1967," Journal of Financial Crises: Vol. 5 : Iss. 1, 615-644. 
+DOI: https://doi.org/10.17132/2693-3179.1503 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/25 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol5/iss1/25
+
+--- Page 3 ---
+United States: Swaps to the Bank for International 
+Settlements and Deutsche Bundesbank, 19671 
+Vincient Arnold2 
+Yale Program on Financial Stability Case Study 
+July 21, 2023 
+Abstract  
+The devaluation of British sterling in November 1967 caused major disruptions in currency 
+markets; led to concerns that the US dollar, the lynchpin of the global gold standard system, 
+would also devalue; and threatened the stability of financial markets, particularly the market 
+for US dollars overseas. The Federal Reserve and European central banks used a network of 
+preexisting swap lines in the ensuing weeks to stabilize exchange rates, defend the gold 
+standard, and calm global markets. In most cases, central banks used these swaps to stabilize 
+exchange rates. However, the main purpose of several of these swaps was arguably to ensure 
+US dollar liquidity in markets outside the United States  in the wake of the sterling 
+devaluation. For that reason, they are r elevant to the New Bagehot series, which seeks to 
+draw lessons about crisis -management tools that promote financial stability. This case 
+focuses on the Federal Reserve’s collaborations with the Bank for International Settlements 
+(BIS) and West Germany’s central bank, the Deutsche Bundesbank, to provide dollar liquidity 
+to the eurodollar market at the end of 1967. In these arrangements, the parties used the 
+swaps to acquire dollars that they could then lend to European banks. The BIS drew USD 346 
+million on its line with the Fed; in an unusual arrangement, the Fed provided USD 300 million 
+to the Bundesbank by drawing on its swap line. The BIS fully repaid all swap obligations by 
+January 1968. The Fed fully repaid all swap obligations to the Bundesbank by M arch 1968. 
+The Federal Open Market Committee authorized the expansion of the BIS and German 
+facilities to USD 1 billion on March 17, 1968. 
+Keywords: Bank for International Settlements, BIS, Bretton Woods, central bank swap line, 
+Deutsche Bundesbank, eurodollar, Federal Reserve 
+ 
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering central bank swap line programs. Cases are available from the Journal of Financial Crises 
+at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. The author wishes to thank William English and Robert 
+McCauley for their comments on this case study. 
+615
+
+--- Page 4 ---
+Overview  
+On November 19, 1967, the United 
+Kingdom devalued sterling by 14.3% 
+against gold. The devaluation caused major 
+disruptions in currency markets; led to 
+concerns that the US dollar, the lynchpin of 
+the global gold standard system, would also 
+devalue; and thr eatened the stability of 
+financial markets, particularly the market 
+for US dollars overseas  (McCauley and 
+Schenk 2020).  
+Global central banks used a network of 
+preexisting swap lines in the ensuing weeks 
+to stabilize exchange rates, defend the gold 
+standard, and calm global markets. In most 
+cases, central banks used these swaps to 
+stabilize exchange rates.  
+However, the main purpose of several of 
+these swaps was arguably to ensure US 
+dollar liquidity in  markets outside of the 
+United States in the wake of th e sterling 
+devaluation. For that reason, they are 
+relevant to the New Bagehot series, which 
+seeks to draw lessons about crisis -
+management tools that promote financial 
+stability.  
+This case focuses on the Federal Reserve’s 
+collaborations with the  Bank for 
+International Settlements  (BIS) and West 
+Germany’s central bank, the Deutsche 
+Bundesbank, to provide dollar liquidity to 
+the eurodollar market at the end of 1967. In 
+these arrangements, the parties used the 
+swaps to acquire dollars that they could 
+then lend  to European banks. Five other 
+central banks participated in swaps with 
+the Fed in late 1967, but the main purpose 
+of most of these transactions was to defend 
+the dollar (see Key Design Decision No. 2, 
+Part of a Package).  
+Key Terms 
+Purpose: to stabilize currency flows in the 
+eurodollar market (McCauley and Schenk 2020) 
+Participating 
+Parties 
+Fed, BIS, Bundesbank 
+Type of Swap Bilateral reciprocal 
+Currencies 
+Involved 
+US dollars, deutsche marks   
+Launch Date BIS: Aug. 1965; 
+Bundesbank: Aug. 1962  
+End Date End of operations: Jan. 1968  
+Date of First Usage BIS: Nov. 13, 1967; 
+Bundesbank: Not available 
+Interest Rate and 
+Fees 
+BIS: 475-575 bps; 
+Bundesbank: Not available 
+Amount 
+Authorized 
+BIS: USD 300 million, 
+increased to 600 million; 
+Bundesbank: USD 400 
+million, increased to 750 
+million  
+Peak Usage 
+Amount and Date 
+BIS: USD 87 million on Dec. 11, 
+1967; 
+Bundesbank: Not available  
+Downstream 
+Use/Application of 
+Swap Funds 
+The BIS lent dollars 
+downstream to eurodollar 
+market participants via bank 
+deposits;  
+The Bundesbank lent dollars 
+downstream to German 
+commercial banks via swaps  
+Outcomes The BIS fully repaid all swap 
+obligations by January 1968; 
+the facility was expanded to 
+USD 1 billion on March 17, 
+1968; 
+The Fed fully repaid all swap 
+obligations to the Bundesbank 
+by March 1968; the facility was 
+expanded to USD 1 billion on 
+March 17, 1968  
+Notable Features The BIS swap line was 
+complemented by another 
+Fed-BIS swap line for Swiss 
+francs that the Fed used 
+mainly to defend the dollar 
+616
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 5 ---
+We focus on the Fed’s swaps with the BIS and Bundesbank because their stated purpose was 
+to provide liquidity to eurodollar markets.3 Moreover, the Fed described these transactions 
+as having been particularly impactful in lowering eurodollar rates, arguably for financial 
+stability reasons (Coombs 1968a).4 
+The strains in eurodollar markets were partly seasonal. Swiss commercial banks, wanting to 
+show Swiss franc assets at year-end, would sell dollars for Swiss francs to the Swiss National 
+Bank (SNB), leaving a glut of dollars at the SNB5 but a shortage in the market, drying up dollar 
+liquidity and thereby pushing rates higher . Foreign exchange –related (and in this case 
+sterling-related) tensions could also result in eurodollar rate spikes, since the dollar was a 
+vehicle currency (see Appendix A). When, for example, an investor wanted to sell sterling for 
+Swiss francs, they would first sell sterling for dollars and then sell dollars for Swiss francs, 
+leaving the SNB with dollars and removing dollar liquidity from the market (Bordo, 
+Humpage, and Schwartz 2014). 
+Another possible reason for elevated eurodollar rates was a risk premium for holding 
+dollars. In other words, depositors —worried about a possible dollar devaluation —
+demanded higher returns for holding dollars. Our research was unable to uncove r whether 
+the dollar-liquidity-draining currency phenomenon or the dollar risk premium phenomenon 
+was primarily the cause of the 1967 year-end eurodollar market rate spike, and it is entirely 
+possible that the driving force was a combination of both.  
+The devaluation of the pound sterling in late 1967 significantly aggravated market 
+conditions. Investors feared that speculation against sterling would result in contagion and 
+additional pressure would mount against the dollar (Bordo, Humpage, and Schwartz 201 4; 
+Bordo, Monnet, and Naef 2017) . The r esulting market outflows from the dollar and into 
+continental European currencies pushed eurodollar rates even higher. Elevated eurodollar 
+ 
+3 The eurodollar market, which now refers to any non -US market for US dollars, came into existence in 1957, 
+and by 1962 it had become an interbank dollar market in London. It was largely an avenue for regulatory 
+arbitrage, initially to avoid Bank of England regulations, but later to avoid US reserve requirements, bank 
+deposit yield cap regulations, and deposit insurance costs. US bank branches paid higher rates in the eurodollar 
+market than in domestic (US) money markets (McCauley and Schenk 2020).  
+4 Because of the fixed exchange rate system, drawing hard boundaries between the purposes and uses of swap 
+lines during the Bretton Woods era is difficult: pressures in the eurodollar market affected the dollar exchange 
+rate, and liquidity provision to those markets was part of foreign exchange intervention (McCauley and Schenk 
+2020). Indeed, even in the case of the explicitly eurodollar market–focused BIS swap line, the Fed used the line 
+“particularly when the [ eurodollar market] was creating special problems in the exchange market” and with 
+dual consideration for the defense of sterling (to shield st erling from pressures in the eurodollar market) 
+(MacLaury 1969). Inasmuch, the Fed’s swap operations with the BIS and Bundesbank also served to counter 
+feedback into the US market and to safeguard monetary stability. For a discussion of the use of central bank 
+swap lines in foreign exchange (and thereby gold) intervention in the context of fixed exchange rates, see 
+Appendix A. 
+5 In 1962, the Fed established a dollar-for-Swiss franc swap line with the SNB that could be used to absorb the 
+SNB’s excessive amounts of dollars through cover operations. The swap line was for up to USD 100 million to 
+provide dollar liquidity to the SNB in exchange for Swiss francs. The majority of the Fed’s cover operations 
+through 1971 were with the SNB (Bordo, Humpage, and Schwartz 2014). 
+617
+United States: Swaps to the BIS and Bundesbank Arnold
+
+--- Page 6 ---
+rates also threatened spillover effects in foreign exchange markets and domestic (US) money 
+markets (Coombs 1968a; FOMC 1967b; McCauley and Schenk 2020).  
+Figure 1 shows eurodollar yield curves at three inflection points in November and December 
+of 1967. Figure 2 shows a stylized subset of the same data, specifically for the November rate 
+spike that occurred before market tensions eased.  
+Figure 1: Eurodollar Yield Curves, November–December 1967 
+ 
+Source: FOMC 1967b. 
+  
+618
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 7 ---
+Figure 2: Eurodollar Rates, November 17 and 28, 1967 
+ 
+Source: FOMC 1967b. 
+In 1967, the Fed maintained a dollar-for-European-currency swap line with the BIS (the BIS 
+swap line , originally entered into in 1965), which permitted the BIS to request dollars in 
+exchange for equivalent amounts of deutsche marks (DM), Austrian schillings, Belgian 
+francs, French francs, Italian lire, Netherlands guilders, Swedish kronor, or Swiss francs as 
+well as Canadian dollars, Japanese yen, and pounds sterling (Fed 1968). In practice, most of 
+the BIS draws on the swap line involved the BIS drawing dollars against marks (McCauley 
+and Schenk 2020) . 6 The BIS swap line was intended to be used for eurodollar market 
+interventions. 
+In response to the Fed’s request that the BIS reactivate its European swap line, the BIS 
+initially agreed that “no more than a token intervention” in the eurodollar market was 
+appropriate (FOMC 1967a, 6). However, conditions continued to deteriorate , and between 
+November 13 and December 27, the BIS drew a total of USD 346 million from the European 
+swap line in 10 draws, mostly with maturities of one month . Figure 3 shows the BIS’s swap 
+draws with associated repayment periods and interest rates. 
+  
+ 
+6 The Fed also had in place a first swap line with the BIS that solely permitted the exchange of dollars for Swiss 
+francs. Federal Reserve Bank of New York (FRBNY) Vice President Charles Coombs said in a confidential 1965 
+memorandum to the Federal Open Market Committee (FOMC) about talks with the BIS over the European-
+currency swap line that the fact that the (then only) BIS swap line was denominated in Swiss francs was “partly 
+a matter of geographic accident; the BIS happened to be in Switzerland” (Coombs 1965, 2). He said that there 
+was “no inherent reason” that the BIS couldn’t obtain other European currencies and serve to supplement 
+existing swap facilities, such that the Fed c ould obtain foreign currency liquidity from the BIS when it had 
+already drawn its maximum from bilateral swaps with European central banks (Coombs 1965, 2–3). 
+619
+United States: Swaps to the BIS and Bundesbank Arnold
+
+--- Page 8 ---
+Figure 3: BIS Draws on FRBNY Swap Line, November–December 1967 
+ 
+A Date is value date, all in 1967.  
+B Draw period represents the period during which funds were invested in the eurodollar market. 
+Sources: Datawrapper; McCauley and Schenk 2020. 
+The BIS then lent dollars downstream to eurodollar market participant banks via deposits at 
+rates above the rate it paid to the Fed. While we found no explicit reference to risk premiums 
+in 1967, in similar 1966 year-end eurodollar market interventions, the BIS received market 
+rates on its downstream lend ing to commercial banks but paid a lower rate to the Fed in 
+recognition that it was taking uncollateralized credit risk in the form of deposits (whereas 
+collateralized downstream lending is typical  in central bank swap line arrangements ) 
+(McCauley and Schenk 2020).  
+In the autumn of 1967 , as strains in the eurodollar market developed, the Bundesbank 
+entered into dollar swaps, with commercial banks, worth USD 860 million, USD 600 million 
+of which it channeled into the eurodollar market. 7 Half of the Bundesbank’s eurodollar 
+market interventions, USD 300 million, were funded from its swap line with the Fed , which 
+the parties had originally entered into on August 2, 1962, and which in November 1967 was 
+authorized for up to USD 400 million. Unlike most of the Fed’s swap lines , the Fed was the 
+drawing party under the swap line and provided dollars to the Bundesbank that it used for 
+the eurodollar funding operations. These , according to an FRBNY report, were “especially 
+effective in bringing down [eurodollar] rates” (Coombs 1968a, 51; Bundesbank 1968). Since 
+the Fed was the drawing party, it received West German marks from the Bundesbank and 
+deposited dollars as collateral in the Bundesbank’s account at the Fed, which the 
+Bundesbank then moved into Wes t Germany to lend downstream ; normally , collateral 
+currency is held by the lending central bank (see Figure 6 at Key Design Decision No. 2, Part 
+of a Package) (Leimone 1967). Our research was unable to uncover whether the Bundesbank 
+ 
+7 In the spring of 1967, Germany maintained “plenty of dollars” but pledged voluntarily to avoid exchanging 
+those excess dollars for gold at the US Gold Window (McKinsey 1967, 14). 
+A 
+B 
+620
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 9 ---
+action was prompted by a request from the Fed, but the direction of the transaction (Fed 
+drawing) indicates that the Fed paid the Bundesbank for the swap transaction rather than 
+the Bundesbank paying the Fed (which would be expected, given that the Bundesbank used 
+dollars for downstream lending) (see Key Design Decision No. 10, Downstream Use of 
+Borrowed Funds).  
+From July to November 1967, the Fed increased the sizes of its swap lines with the BIS and 
+Bundesbank by USD 300 million and USD 350 million, respectively, as shown in Figure 4. In 
+March 1968, the Fed authorized expansion of each swap line to USD 1 billion (Coombs 
+1968b).  
+Figure 4: Federal Reserve Swap Lines to the BIS and Bundesbank (USD million), 
+1967–1968 
+Date BIS Line Bundesbank Line 
+January 1, 1967 200 400 
+July 20, 1967 300 400 
+November 30, 1967 600 750 
+March 18, 1968 1,000 1,000 
+Note: Entries in italics represent expansions made during the 1967 year -end operations.  The BIS line 
+represents the BIS’s second swap line against European currencies, in practice deutsche marks.  
+Source: Coombs 1968b 
+By January 1968, the BIS had fully repaid the USD 346 million obligation outstandin g as a 
+result of the year -end operations. By March 8, 1968, the Fed had fully repaid its 
+commitments under its drawings on the Bundesbank swap line (Coombs 1968a) . The 
+Federal Open Market Committee (FOMC) voted to allow both lines to lapse in its November 
+17, 1998, meeting, when Board of Governors members described many of the Fed’s various 
+central bank swap lines as “increasingly obsolescent”  in light of  years of disuse and the 
+advent of the European Central Bank (Fed 1999; FOMC 1998, 36).  
+Summary Evaluation 
+The head of foreign exchange operations for the FRBNY report ed that the central bank 
+actions helped to “induce reflows . . . of hot money”  into continental European currency 
+markets (Coombs 1968a)  and that, “in response to [BIS] smoothing operations, the 
+[eurodollar] market continued to function efficiently, with no more than a normal seasonal 
+rise in rates” (Coombs 1968a, 40) . The report also said th at coordinated actions with the 
+Bundesbank in November were “especially effective in lowering [eurodollar] rates—from 
+nearly 7 percent per annum for three months to about [6.25] percent by early December ” 
+(Coombs 1968a, 51). In its 1967 annual report, the Bundesbank said that its dollar-providing 
+operations “contributed to the relaxation of tensions in Euro -currency markets” 
+(Bundesbank 1968, 38). In its 1967 annual report, the BIS said that eurodollar rates fell as a 
+result of the interventions (BIS 1968).  
+Some scholars have said that the Fed’s legal mandate to partake in foreign -exchange 
+operations in the 1960s and 1970s was unclear (Bordo, Humpage, and Schwartz 2014).  
+621
+United States: Swaps to the BIS and Bundesbank Arnold
+
+--- Page 10 ---
+Scholars at the BIS have said that “substantial” BIS dollar lending in November “did not seem 
+to succeed” in signaling forthcoming dollar liquidity from the Fed and the Bundesbank 
+(McCauley and Schenk 2020, 32) . Those scholars said that the eurodollar operations 
+“seemed to exert a more muted impact, but also faced a greater challenge” (from the sterling 
+devaluation) as compared with previous Fed -BIS eurodollar interventions (McCauley and 
+Schenk 2020, 32). On the whole, though, the BIS scholars said the eurodollar interventions 
+were largely successful in limiting eurodollar rate spikes, even  in the context of “a greater 
+challenge” because of pressure on the dollar resulting from the sterling devaluation 
+(McCauley and Schenk 2020, 32). 
+Federal Reserve Board Governor Sherman Maisel was “concerned over a seeming conflict” 
+between the Fed’s BIS eurodollar operations, which promoted credit overseas, and the Fed’s 
+domestic goal of limiting reserve expansion to tighten credit (MacLaury 1969, 1).  
+Figure 5 shows eurodollar rates in the relevant scope of the swap operations.  
+Figure 5: Eurodollar Rates and BIS Deposits, November–December 1967 
+ 
+Source: McCauley and Schenk 2020. 
+  
+622
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 11 ---
+623
+United States: Swaps to the BIS and Bundesbank Arnold
+
+--- Page 12 ---
+Key Design Decisions 
+1. Purpose and Type: This case focuses on the Fed’s swaps with the BIS (through its 
+European swap line) and the Bundesbank  in late 1967; their  purpose was to 
+provide US dollar funding liquidity to address the disruption in eurodollar 
+markets that the sterling devaluation had caused. 
+Swap lines were the main tool that the Fed used to defend the dollar and maintain the gold 
+standard during the 1960s. However, the Fed and other central banks also used swaps to 
+promote liquidity in the eurodollar market. Eurodollar markets were typically stressed at 
+year-end by seasonal supply shocks that resulted in elevated eurodollar rates. The 
+devaluation of the pound sterling contributed to steep spikes in eurodollar rates in late 1967. 
+Elevated eurodollar rates threatened spillover effects in foreign  exchange markets and in 
+domestic (US) money markets (McCauley and Schenk 2020).  
+This case study focuses on two swap lines : the Fed -BIS European swap line and the Fed -
+Bundesbank swap line, which the Fed used to promote liquidity in the eurodollar market in 
+late 1967. Five other central banks participated in swaps with the Fed in late 1967, but the 
+main purpose of most of these transactions was to defend the dollar (see Key Design Decision 
+No. 2, Part of a Package) . We focus on the activities of the BIS and the Bundesbank because 
+of their size and because the Fed described their actions as being particularly impactful in 
+lowering eurodollar rates, arguably for financial stability reasons  (Bordo, Humpage, and 
+Schwartz 2014; Coombs 1968a). 
+The Fed and BIS had established the Fed-BIS European swap line in 1965. It was a bilateral 
+reciprocal line that permitted the BIS to borrow US dollars in exchange for deposits of any of 
+eight European currencies as collateral (deutsche marks, Austrian schillings, Belgian francs, 
+French francs, Italian lire, Netherlands guilders, Swedish kronor, and Swiss francs ) as well 
+as Canadian dollars, Japa nese yen, and pounds sterling 8  (Fed 1968) . During the 1967 
+operations that are the focus of this case, the BIS always provided marks to the Fed as 
+collateral. The swap arrangement was reciprocal and also permitted the Fed to borrow any 
+of the 11 currencies from the BIS in exchange for deposits of dollars as collateral , although 
+in practice, the Fed and BIS swapped dollars and deutsche marks (Leimone 1967).  
+The Fed and the BIS established the swap line in 1965 for a period of six months, but it had 
+been renewed by mutual consent (Fed 1968; Leimone 1967).  
+The Fed-Bundesbank swap line permitted the Bundesbank to borrow dollars in exchange for 
+deposits of marks as collateral.  The arrangement was reciprocal and also permitted the Fed 
+to borrow marks from the Bundesbank in exchange for deposits of dollars as collateral. The 
+Fed and Bundesbank established the swap line in 1962 for a period of six months, but it was 
+renewed by mutual consent (Fed 1968; Leimone 1967). 
+ 
+8 In at least one instance, the BIS entered into swap arrangements with the Fed in more than one foreign 
+currency; it was the Fed’s only swap counterparty to do so by Decem ber 1967 (Leimone 1967). 
+624
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 13 ---
+2. Part of a Package: The Fed and other central banks used extensive swap lines and 
+other measures in late 1967 to defend the dollar following the sterling 
+devaluation.   
+The Fed maintained 16 swap lines globally  in 1967. The main purpose of these swap lines 
+was to defend the dollar and the gold standard. The Fed used swaps at times to address  
+unwanted holdings of short-term fluctuations in official dollar reserves at foreign central 
+banks (cover operations —see discussion at Overview), and at times to fund spo t market 
+intervention (Bordo, Humpage, and Schwartz 2015). Going into the 1967 year-end crisis, the 
+Fed maintained swap lines with 15 central bank (including the BIS) counterparties ,9 the 
+largest of which was with the Bank of England (Coombs 1968b) . (For an illustration of 
+aggregate swap facility usage by counterparty from 1962 to 1971, see Figure 9 at Appendix 
+B.) 
+When the governors of the central banks of the U nited States, Germany, Switzerland, 
+Belgium, Italy, the U nited Kingdom, and the Netherlands convened in Frankfurt on 
+November 26, 1967, to collaborate in response to the sterling devaluation, they decided to 
+coordinate central bank actions to intervene in the forward eurodollar market. Five central 
+banks (the central banks o f Italy, Germany, Switzerland, the Netherlands, and Belgium) in 
+addition to the BIS intervened in the eurodollar forward market at year -end 1967, 
+sometimes in coordination with the Fed. We focus on the action of West Germany’s central 
+bank and BIS in this case because the Fed noted that their actions were particularly targeted 
+and effective (Coombs 1968a). 
+The Fed swapped USD 1.8 billion with European counterparties by late December to stabilize 
+currency flows and to support the eurodollar market. The large st segment of this amount 
+comprised Swiss franc swaps with the BIS and the SNB. (Coombs 1968a). Figure 6 shows the 
+aggregate Fed swap draws outstanding and their associated counterparties.   
+ 
+9 Those counterparties were: Austria, Belgium, the BIS, Canada, Denmark, France, Holland, Italy, Japan, Mexico, 
+Norway, Sweden, Switzerland, the UK, and West Germany (Coombs 1968b). 
+625
+United States: Swaps to the BIS and Bundesbank Arnold
+
+--- Page 14 ---
+Figure 6: Federal Reserve Swap Commitments as of December 27, 1967 (USD millions) 
+Central Bank Currency Amount 
+Outstanding A 
+Percentage of Aggregate 
+Fed Swap Obligations 
+Percentage of 
+Facility Maximum C 
+Italy Lire 500 27.9 66.7 
+BIS B Swiss franc 400 22.3 100 
+Germany Deutsche mark 350 19.5 46.7 
+Switzerland Swiss franc 250 14.0 62.5 
+Netherlands Guilder 170 9.5 75.6 
+Belgium Belgian franc 121 6.8 53.8 
+     
+A This represents the cap for the first BIS (Swiss franc) swap line only. The Fed drew USD 346 million under the 
+BIS (European currency) swap line during this period. 
+B Caps as of March 8, 1968, when data was reported.  
+Source: Coombs 1968a. 
+While the primary goal of the swap operations with European central banks was to operate 
+in forward markets to provide foreign exchange stability, a second-order goal was to induce 
+reflow from continental European currencies back into the eurodollar market (FOMC 
+1968a). In practice, there were many reasons for the swap line activations. Scholars have 
+noted that, “the distinctions between purposes can be hard to draw . . . pressures in offshore 
+dollar markets may affect the dollar exchange rate; as a result, providing funding to these 
+markets could be seen as part of or akin to [foreign exchange] intervention” (McCauley and 
+Schenk 2020, 15) . The FRBNY said tha t foreign exchange interventions and eurodollar 
+market interventions were related: “sudden shifts of funds out of the [eurodollar] market . . . 
+also had destabilizing effects on the exchange markets as well” (Coombs 1968a, 50). Leimone 
+of the Federal Reser ve Bank of Atlanta said, though, that “the drawings of the BIS probably 
+should be distinguished from the others since these drawings were made to channel dollars 
+into the [eurodollar] market” (Leimone 1967, 166). 
+While not directly related to the eurodollar market but to the extent that dollar fragility 
+played a role in eurodollar market tightening, the US sold USD 1.5 billion of gold between 
+November 18 and the end of December, defending the dollar’s gold peg and thus attempting 
+to defend the curr ency; compared with recent previous activity, this was a huge quantity  
+(Schenk 2010, 183). Between October 1, 1967, and January 1, 1968, the US lost 7.8% (USD 1 
+billion) of its monetary gold stock (NBER 2023). 
+While we found no evidence that the BIS did th e same in 1967, the BIS in its eurodollar 
+intervention at year -end in 1966 also sold USD 70  million–75 million in US Treasury bills 
+and injected the dollar proceeds into the market (McCauley and Schenk 2020). 
+3. Legal Authority: The Federal Reserve Act and FOMC regulations, the Statutes of the 
+BIS, and the Bundesbank Act provided the legal and regulatory basis for central 
+bank swap lines for the respective parties. 
+Section 14 of the Federal Reserve Act provides that the Fed may transact “in the open market, 
+at home or abroad, either from or to domestic or foreign banks, firms, corporations, or 
+626
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 15 ---
+individuals, cable transfers and bankers’ acceptances and  bills of exchange  . . .  ,” a section 
+that, since Federal Reserve Board of Governors’ general counsel Howard Hackley’s 1961 
+interpretation, was interpreted by the Fed to authorize foreign exchange transactions, 
+including forward and swap transactions  (Bordo, Humpage, and Schwartz 20 15; US 
+Congress 1913, sec. 14). 
+The FOMC’s Authorization for System Foreign Currency Operations (FX Authorization) 
+authorized the FRBNY to carry out all spot and forward transactions in authorized currencies 
+on behalf of the FOMC. Any agreements or underst andings “concerning the administration 
+of the accounts maintained at the [FRBNY] with foreign banks” were reviewed and approved 
+by the FOMC (Fed 1968, 90 -91). The FX Authorization permitted the investment of swap 
+proceeds in accordance with Section 14(e) of the Federal Reserve Act (Fed 1968). 
+The Fed’s Foreign Currency Directive authorized System Open Market Account (SOMA) 
+operations in foreign currencies to "aid in making the system of international payments 
+more efficient . . . further monetary cooperatio n with central banks . . . and help insure that 
+market movements in exchange rates  . . . reflect the interaction of underlying economic 
+forces” (Fed 1968, 92). 
+The BIS Statutes authorize the BIS to act as correspondent for any central bank, transact in 
+foreign currencies with central banks, and open and maintain deposits with and for central 
+banks (BIS 1930, art. 21). 
+The Bundesbank Act of 1957 gave the Bundesbank the authority to conduct foreign exchange 
+transactions, while reserving authority over decisio ns about foreign exchange transactions 
+for the Board of Directors of the Governing Board (Bundestag 1957, sec. 7[3], 19[8–9]). 
+4. Governance: The FOMC managed the swaps at a high level and disclosed swap 
+details in annual reports.  
+The entering into swap lines, their governance, and any agreements or understandings 
+“concerning the administration of the accounts maintained at the [FRBNY] with foreign 
+banks” were reviewed and approved by the FOMC (Fed 1968, 90-91). Both the Fed (Board 
+of Governors) and the FRBNY specifically disclosed the size of the BIS European and 
+Bundesbank swap lines in their annual reports for 1967 (Fed 1968; FRBNY 1968).  
+The BIS disclosed the size of its swap lines in its annual report for fiscal year 1967 (BIS 1968). 
+The BIS documented details about the use of its swap funds and activities in its Daily Banking 
+Sheets, but did not disclose them to the public  (they are housed in the BIS archives) 
+(McCauley and Schenk 2020). 
+Fed officials worked closely with the Treasury. The Fed was required to advise the Secretary 
+of the Treasury with respect to foreign currency operations; and FOMC staff officers were 
+required to communicate foreign currency operations information to Treasu ry staff (Fed 
+1968). 
+627
+United States: Swaps to the BIS and Bundesbank Arnold
+
+--- Page 16 ---
+If the Fed failed to pay down its obligations on a swap, the Treasury backstopped the Fed, 
+providing the needed foreign currency by selling foreign-currency-denominated certificates 
+or bonds. These actions shifted exposure from the Fed  to the Treasury (albeit while 
+extending maturity), which some scholars have said threatened the Fed’s independence 
+(Bordo, Humpage, and Schwartz 2014). 
+5. Administration: The FOMC authorized foreign currency operations and 
+collaborated with foreign central banks and the BIS.  
+The FX Authorization said that the FRBNY should, as a practice, coordinate foreign currency 
+transactions with foreign central banks but could not agree to maintain any specific balance 
+with a foreign central bank unless authorized by the FOMC. The FX Authorization permitted 
+the investment of swap proceeds in accordance with Section 14(e) of the Federal Reserve 
+Act (Fed 1968) . This prohibited the investment of foreign currency proceeds in foreign 
+government debt 10  (Leimone 1967) . In the event that the FOMC was unavailable, a 
+subcommittee consisting of the chairman and vice chairman of the FOMC and the vice 
+chairman of the Board of Governors could authorize foreign currency operations; any and all 
+subcommittee actions had to be re ported promptly to the FOMC (Fed 1968). Draws on Fed 
+swap lines could be arranged within “a few hours” via telephone consultation (Leimone 
+1967, 162). 
+6. Communication: The Federal Reserve System disclosed the swap line, as did the 
+BIS and Bundesbank, but research did not uncover any press releases about swap 
+draws.  
+The FOMC published a press release for its November 27 , 1967, meeting with a Record of 
+Policy Actions attached that announced the BIS swap line usage and size increases. In its 
+announcement, the FOMC described the expansion of the lines as necessary to (1) discourage 
+large accumulations of dollars in foreign central bank reserves and (2) to encourage reflows 
+out of continental European currencies into the eurodollar market (FOMC 1968a) . The 
+FRBNY published a biannual report on “Treasury and Federal Reserve Foreign Exchange 
+Operations” in its Monthly Review every March and September. In these reports in 1968, the 
+head of foreign exchange operations discussed the BIS swap line and other central  bank 
+actions in the eurodollar market (Coombs 1968a).  
+BIS publications (other than its annual report) were archived and unavailable for review. 
+The Fed and BIS communicated closely about swap draws generally, and the BIS generally 
+alerted the Fed to any potential swap draw and planned downstream use of the resulting 
+funds (Bordo, Humpage, and Schwartz 2015).  
+American media generally covered eurodollar market strains, the sterling devaluation, and 
+Fed swaps, reporting increases in foreign central bank dollar holdings, eurodollar rates, and 
+expansions of the Fed swap network (Heinemann 1967; Lee 1967; New York Times 1967). 
+ 
+10 In practice, this typically resulted in investment into commercial debt with a maturity of fewer than 90 days 
+(Leimone 1967). 
+628
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 17 ---
+7. Eligible Institutions: The BIS and Bundesbank were the only institutions eligible 
+for their respective swap lines. 
+The BIS was the only institution eligible for its specific swap facilities (comprising the CHF 
+and European swap lines) , and the Bundesbank was the only institution eligible for its 
+specific swap line , although the Fed maintained many similar swap lines with other 
+counterparties (see Key Design Decision No. 2, Part of a Package) (FOMC 1968a).  
+At the time, t he BIS was the only counterparty that was not a central bank.  The decision to 
+include the BIS among the Fed’s swap counterparties had to do with the BIS’s special role as 
+a “bank for central banks” and its large dealings in the foreign exchange and eurodollar 
+markets (Leimone 1967, 164). Per Coombs’s memorandum to the FOMC, the Fed viewed the 
+BIS not only as a conduit to the SNB but, increasingly by 1965, as a supplementary provider 
+of European liquidity more generally 11 (Coombs 1965) . To the extent that the BIS held 
+reserves of most European currencies and could lend directly to European banks (including 
+European central banks), it acted similarly to the way the European Central Bank does today 
+with respect to channeling US funds. In other words, the Fed could lend through the BIS in 
+one transaction to multiple central and commercial banks in Europe. 
+8. Size: In November 1967, the FOMC increased the Fed -BIS swap facility cap to USD 
+600 million and the Fed-Bundesbank swap line to USD 750 million.  
+The FRBNY-BIS European swap line stood at USD 300 million before the FOMC’s November 
+27, 1967, meeting at which  FOMC members voted to double the cap to USD 600 million in 
+order to provide a broader margin of  safety for the international monetary system , an 
+enlargement to which the BIS agreed (FOMC 1968a). From 1962 to 1971, the European swap 
+line with the BIS was one of the largest the Fed maintained during this period, and BIS usage 
+of this swap line was second only to usage under the Bank of England’s Fed swap line 
+(McCauley and Schenk 2020) . The parties agreed to  expand the facility to USD 1 billion on 
+March 18, 1968 (Coombs 1968b). 
+The Fed-Bundesbank swap line stood at USD 400 million before the FOMC’s November 27 
+meeting, at which FOMC members voted to increase the cap to USD 750 million in order to  
+improve the safety of the international monetary system , an enlargement to which the BIS 
+agreed (FOMC 1968a). The parties agreed to expand the facility  to USD 1 billion on March 
+17, 1968 (Coombs 1968b). 
+ 
+11 For example, if the Fed wanted to intervene in the Italian lir a-US dollar exchange rate and it had already 
+drawn the maximum from its swap line with Italy, the BIS’s non-Swiss franc European currency swap line with 
+the Fed allowed it to access lir a, providing a supplementary facility through which to intervene in that foreign 
+exchange market. 
+629
+United States: Swaps to the BIS and Bundesbank Arnold
+
+--- Page 18 ---
+9. Process for Utilizing the Swap Agreement: When the BIS drew on the line, it placed 
+deutsche marks in the FRBNY’s account at the BIS. When the Fed drew on its line 
+with the Bundesbank, it placed dollars in the Bundesbank’s account at the Fed. 
+When the BIS drew on the European swap line, it placed deutsche mark as collateral in the 
+FRBNY’s correspondent account at the BIS (McCauley and Schenk 2020). Deutsche marks12 
+served only as collateral —the FRBNY did not use them (McCauley and Schenk 2020) . The 
+invested amounts bear interest at a rate agreed to in advance (Leimone 1967). 
+The BIS then used the dollar proceeds to lend downstream to eurodollar market participants 
+(McCauley and Schenk 2020). Draws on Fed swap lines could be arranged within hours via 
+telephone consultation (Leimone 1967). 
+When the Fed bo rrowed deutsche marks, it credited the Bundesbank’s correspondent 
+account at the Fed with dollars, which the Bundesbank could invest in non -transferable 
+Treasury certificates. The invested amounts bore interest at a rate agreed to in advance . 
+However, in t he 1967 year -end operations, the Bundesbank swapped those dollars with 
+German commercial banks, meaning that it withdrew the dollar collateral deposited by the 
+Fed and moved those funds into West Germany ; we have not been able to determine how 
+this use was  authorized, but it most likely required Fed consent (Leimone 1967) (see Key 
+Design Decision No. 10, Downstream Use of Borrowed Funds). The FRBNY reported that the 
+Bundesbank actions were part of a “coordinated central bank effort to calm the exchange 
+markets” and that the Fed “participated in this operation by drawing $300 million equivalent 
+of German marks on its [Bundesbank] swaps line” (Coombs 1968b, 51). 
+10. Downstream Use of Borrowed Funds: The BIS lent dollars downstream directly to 
+eurodollar market participant commercial banks through deposits, while the 
+Bundesbank lent dollars downstream to German commercial banks through 
+swaps. 
+With its dollar swap proceeds, the BIS offered dollar deposits to eurodollar market 
+participant commercial banks. In November and December 1967, the BIS deposited USD 346 
+million with at least eight banks13 for periods of one month or shorter. Not all deposit offers 
+were accepted by commercial banks. All deposits made to eurodollar market participant 
+banks earned 10 0 basis points more than the rate the BIS paid to the Fed (see Figure 3 at 
+Overview) (McCauley and Schenk 2020). 
+In November and December 1967, the Bundesbank entered into dollar swaps totaling USD 
+860 million (USD 300 million of which came from the Fed ; see Overview) with German 
+commercial banks at “favourable rates” (Bundesbank 1968, 38) . This was an unusual 
+arrangement because the Fed was the drawing party. The Fed drew deutsche marks and 
+deposited dollars as collateral at the Bundesbank’s correspondent account at the FRBNY, 
+ 
+12 In at least one instance, the BIS entered into swap arrangements with the Fed in more than one foreign 
+currency; it was the Fed’s only swap counterparty to do so by December 1967 (Leimone 1967). 
+13 McCauley and Schenk (2020) count at least 30 distinct deposits. While some may have been related, the 
+scholars estimate that there may have been between one dozen and two dozen different banks.  
+630
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 19 ---
+which the Bundesbank then had to repatriate to lend downstream . I n other words, the 
+Bundesbank was using collateral for downstream lending, whereas usually collateral 
+currency is held by the lending central bank and t ypically, the use of dollar collateral under 
+Fed swaps was limited to investment in US Treasury certificates of indebtedness due on the 
+maturity of the swap (Leimone 1967). It is likely that the Bundesbank’s eurodollar market 
+interventions at year -end 1967 required special approval and agreement with the F OMC 
+because of those collateral restrictions.  
+11. Duration of Swap Draws: Most draws on the Fed-BIS European swap line were for 
+durations of one month, while swap draw du rations under the Fed -Bundesbank 
+swap line are unknown.  
+Swap draws were limited to a period of three months, but were renewable up to three times. 
+Swap transaction periods ranged between one month and three months but were mostly one 
+month (McCauley and Schenk 2020) . Our research did not uncover information on the 
+duration of swap draws on the Fed-Bundesbank swap line in the 1967 year-end operations.  
+12. Rates and Fees: The BIS paid the Fed the prevailing eurodollar interest rate less 
+100 basis points, while the rate the Fed paid the Bundesbank is unknown. 
+The BIS paid an interest rate of the eurodollar rate minus 100 b asis points, which resulted 
+in year-end operations interest rates ranging between 475 and 575 basis points (see Figure 
+3 at Overview). Scholars have said that the rate spread (what the BIS earned in the market 
+less what it paid to the Fed) resulted from the BIS taking on uncollateralized bank credit risk 
+(McCauley and Schenk 2020). Our research did not uncover information on the interest rate 
+or fees paid by the Federal Reserve to the Bundesbank when it drew on its swap line  in the 
+1967 year-end operations, but it was likely benchmarked similarly to the rate the BIS paid 
+the Fed.  
+13. Balance Sheet Protection: The BIS credited the FRBNY’s correspondent account 
+with deutsche marks when it borrowed dollars and credited the Bundesba nk’s 
+correspondent account with dollars when it borrowed deutsche marks. 
+When the Fed borrowed deutsche marks, it credited the Bundesbank’s correspondent 
+account at the Fed with dollars, which the Bundesbank could invest in non -transferable 
+Treasury certif icates. The invested amounts bear interest at a rate agreed to in advance . 
+However, in the 1967 year -end operations, the Bundesbank lent those dollars to German 
+commercial banks; we have not been able to determine how this use was authorized , but it 
+most likely required Fed consent (Leimone 1967). While we were unable to view the specific 
+swap agreements with the BIS and Bundesbank, Fed swap s in the 1960s generally had 
+“revaluation clauses,” which protected the lending central bank in the event that the 
+borrowing central bank revalued its currency against gold during the draw period (Bordo, 
+Humpage, and Schwartz 2015, 150-151). While not explicitly balance sheet-related, the Fed 
+frequently sterilized swap draws (Bordo, Humpage, and Schwartz 2015). 
+631
+United States: Swaps to the BIS and Bundesbank Arnold
+
+--- Page 20 ---
+14. Other Restrictions: Research did not uncover other restrictions. 
+Our research uncovered no further restrictions on the use of the BIS line and the Bundesbank 
+line.  
+15. Other Options: Our research did not uncover other options. 
+Our research did not uncover any other options considered by the Fed to provide liquidity 
+to the eurodollar market that we haven’t already covered (for other Fed operations in the 
+eurodollar market, see Key Design Decision No. 2). 
+16. Exit Strategy (A): The FOMC approved an increase in the size of the Fed -BIS 
+European swap line three months after the year-end operations.   
+By January 1968, the BIS had fully repaid the total USD 346 million obligation outstanding 
+under the swap lines as a result of the year -end operations (Coombs 1968a) . That same 
+month, the U nited States imposed restrictions on US lending in Western Europe via the 
+eurodollar market, among a package of measures that aimed to strengthen the US balance of 
+payments. BIS scholars later argued that those restrictions contradicted the Fed -BIS swap 
+goals to the extent that the lending restrictions curtailed dollar liquidity in the eurodollar 
+market, whereas swap operations had aimed to increase dollar liquidity in the eurodollar 
+market (McCauley and Schenk 2020).  
+On March 17, 1968, before the U nited States’ ability to maintain the official gold peg 
+collapsed, the FOMC authorized an increase  in the BIS’s European swap facility to a size of 
+USD 1 billion from  USD 700 million (FOMC 1968b; McCauley and Schenk 2020) . The BIS 
+continued to draw on the European swap line into 1976, after a pause in sizable activity in 
+1971–1972 (see Figure 10 at Appendix B). The FOMC voted to allow the line to lapse in its 
+November 17, 1998 meeting (FOMC 1998). 
+Exit Strategy (B): The FOMC approved an increase in the size of the Fed -
+Bundesbank swap line three months after the year-end operations.   
+On March 17, 1968, before the U nited States’ ability to maintain the official gold peg 
+collapsed, the FOMC authorized an increase in the Fed-Bundesbank swap facility to a size of 
+USD 1 billion from USD 750 million (FOMC 1968b; McCauley and Schenk 2020) . By March 
+1968, the United States had repaid 69% of its swaps -derived foreign obligations and 100% 
+of its Bundesbank -associated swap obligations (Coombs 1968a). The FOMC voted to allow 
+the line to lapse in its November 17, 1998 meeting (FOMC 1998). 
+ 
+  
+632
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 21 ---
+References and Key Program Documents 
+Legal/Regulatory Guidance 
+(BIS 1930) Bank for International Settlements (BIS). 1930. Statutes of the Bank for 
+International Settlements. January 20, 1930. 
+Law authorizing the powers of the Bank for International Settlements. 
+https://ypfs.som.yale.edu/node/22425 
+(Bundestag 1957) Bundestag. 1957. Bundesbank Act of 1957. July 26, 1957. 
+Law (in German) establishing the authorities of the German central bank (1957 version). 
+https://ypfs.som.yale.edu/node/22449/ 
+(US Congress 1913) US Congress. 1913. Federal Reserve Act of 1913, as Amended. 
+December 23, 1913. 
+Legislation delegating powers to the Federal Reserve System. 
+https://ypfs.som.yale.edu/node/22450/ 
+Media Stories 
+(Heinemann 1967) Heinemann, Erich. 1967. “Dollar Defended by Expansion of U.S. Credit 
+Abroad.” New York Times, December 1, 1967. 
+Newspaper article covering the expansion of Federal Reserve swap lines at year-end 1967. 
+https://ypfs.som.yale.edu/node/22451/ 
+(Lee 1967) Lee, John. 1967. “Bank of England Warns of Hardships to Keep Devaluation 
+Gains.” New York Times, December 12, 1967. 
+Newspaper article covering the economic and financial effects of the sterling devaluation in 
+early December 1967. 
+https://ypfs.som.yale.edu/node/22452 
+(McKinsey 1967) McKinsey, Philip. 1967. “How U.S. Reacts: Federal Reserve Plans to 
+Cushion Stress in Markets.” Christian Science Monitor, November 21, 1967. 
+Newspaper article covering stresses in the eurodollar market in the wake of the sterling 
+devaluation. 
+https://ypfs.som.yale.edu/node/22453 
+(New York Times 1967) New York Times. 1967. “Swap Deals Raised to Offset the Flow of 
+Dollars to Swiss,” December 16, 1967. 
+Newspaper article covering expansions in the BIS and SNB swap lines. 
+https://ypfs.som.yale.edu/node/22454/ 
+  
+633
+United States: Swaps to the BIS and Bundesbank Arnold
+
+--- Page 22 ---
+Press Releases/Announcements 
+(FOMC 1968a) Federal Open Market Committee (FOMC). 1968a. “Record of Policy Actions 
+of the Federal Open Market Committee for November 27, 1967, Meeting,” February 26, 
+1968. 
+Record of policy actions taken by the FOMC at the November 27 meeting. 
+https://ypfs.som.yale.edu/node/22455/ 
+Reports/Assessments 
+(BIS 1968) Bank for International Settlements (BIS). 1968. Thirty-Eighth Annual Report. 
+The BIS’s annual report for 1967. 
+https://ypfs.som.yale.edu/node/22458 
+(Bundesbank 1968) Deutsche Bundesbank (Bundesbank). 1968. Report of the Deutsche 
+Bundesbank for the Year 1967. Deutsche Bundesbank. 
+Annual report for the German Bundesbank for the year 1967. 
+https://ypfs.som.yale.edu/node/22459/ 
+(Coombs 1965) Coombs, Charles A. 1965. “Coombs Memorandum to FOMC.” Memorandum, 
+July 28, 1965. 
+Confidential memorandum from Charles Coombs to the Federal Open Market Committee 
+regarding BIS and Bundesbank swap lines. 
+https://ypfs.som.yale.edu/node/22460 
+(Coombs 1968a) Coombs, Charles A. 1968a. “Treasury and Federal Reserve Foreign 
+Exchange Operations (March, 1968).” Federal Reserve Bank of New York Monthly Review, 
+March 1968. 
+Report of the Federal Reserve and Department of the Treasury outlining recent foreign 
+exchange activities. 
+https://ypfs.som.yale.edu/node/22461/ 
+(Fed 1968) Board of Governors of the Federal Reserve System (Fed). 1968. “Annual Report, 
+1967.” Annual Report, May 22, 1968. 
+The Federal Reserve’s 1967 annual report. 
+https://ypfs.som.yale.edu/node/22468/ 
+(Fed 1999) Board of Governors of the Federal Reserve System (Fed). 1999. “Federal 
+Reserve Bulletin February 1999.” 85, no. 2, February 1999. 
+Federal Reserve bulletin outlining actions taken in October 1967. 
+https://ypfs.som.yale.edu/node/22469/ 
+(FOMC 1967a) Federal Open Market Committee (FOMC). 1967a. “Memorandum of 
+Discussion to October 24 FOMC Meeting,” November 24, 1967. 
+Memoranda of discussion covering eurodollar market stresses for the October 24, 1967, FOMC 
+meeting. 
+https://ypfs.som.yale.edu/node/22470 
+634
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 23 ---
+(FOMC 1967b) Federal Open Market Committee (FOMC). 1967b. “Current Economic and 
+Financial Conditions,” December 6, 1967. 
+FOMC report on economic and financial conditions, December 1967. 
+https://ypfs.som.yale.edu/node/22471/ 
+(FOMC 1968b) Federal Open Market Committee (FOMC). 1968b. “Record of Policy Actions 
+of the Federal Open Market Committee for March 14, 1968, Conference Call,” June 12, 1968. 
+Record of policy actions taken at March 14, 1968 FOMC conference call. 
+https://ypfs.som.yale.edu/node/22472 
+(FOMC 1998) Federal Open Market Committee (FOMC). 1998. “Transcript of Minutes,” 
+November 17, 1998. 
+Transcript of minutes from the November 17, 1998, FOMC meeting. 
+https://ypfs.som.yale.edu/node/22473 
+(FRBNY 1968) Federal Reserve Bank of New York (FRBNY). 1968. “Annual Report, 1967,” 
+February 28, 1968. 
+The Federal Reserve Bank of New York’s annual report for 1967. 
+https://ypfs.som.yale.edu/node/22474 
+(Leimone 1967) Leimone, Edward. 1967. “Central Bank Swaps—A Bulwark of International 
+Monetary Cooperation.” Monthly Review Vol. 52 No. 12, December 1967. 
+Article describing the role and applications of Federal Reserve System swap lines. 
+https://ypfs.som.yale.edu/node/22477/ 
+(MacLaury 1969) MacLaury, Bruce. 1969. “MacLaury Memorandum to the Federal Open 
+Market Committee.” Memorandum, January 31, 1969. 
+Memorandum from Bruce MacLaury to the FOMC regarding questions about the System 
+foreign currency operations with the BIS. 
+https://ypfs.som.yale.edu/node/22744/ 
+Key Academic Papers 
+(Bordo, Humpage, and Schwartz 2012) Bordo, Michael D, Owen F Humpage, and Anna J 
+Schwartz. 2012. “Bretton Woods, Swap Lines, and the Federal Reserve’s Return to 
+Intervention.” Working Paper WP 12-32, November 2012. 
+Study examining the Federal Reserve’s involvement in foreign exchange during the Bretton 
+Woods era. 
+https://ypfs.som.yale.edu/node/22478/ 
+(Bordo, Humpage, and Schwartz 2014) Bordo, Michael D., Owen F. Humpage, and Anna J. 
+Schwartz. 2014. “The Evolution of the Federal Reserve Swap Lines since 1962.” NBER 
+Working Paper WP 20755, December 2014. 
+Study examining the Federal Reserve’s historical use of swap lines. 
+https://ypfs.som.yale.edu/node/21530 
+635
+United States: Swaps to the BIS and Bundesbank Arnold
+
+--- Page 24 ---
+(Bordo, Humpage, and Schwartz 2015) Bordo, Michael D, Owen F Humpage, and Anna J 
+Schwartz. 2015. “US Intervention during the Bretton Woods Era, 1962–1973.” In Strained 
+Relations: US Foreign-Exchange Operations and Monetary Policy in the Twentieth Century, 
+72. Chicago: The University of Chicago Press. 
+Book chapter discussing US foreign exchange interventions from 1962 to 1973. 
+https://ypfs.som.yale.edu/node/22479 
+(Bordo and McCauley 2019) Bordo, Michael D., and Robert N. McCauley. 2019. “Triffin: 
+Dilemma or Myth?” IMF Economic Review, 67 no. 4, December 2019. 
+Study critically examining the Triffin-esque view of the collapse of the Gold Standard and 
+Bretton Woods. 
+http://link.springer.com/10.1057/s41308-019-00088-y 
+(Bordo, Monnet, and Naef 2017) Bordo, Michael, Eric Monnet, and Alain Naef. 2017. “The 
+Gold Pool (1961-1968) and the Fall of the Bretton Woods System. Lessons for Central Bank 
+Cooperation.” Working Paper WP 24016, November 2017. 
+Study examining the history of the Gold Pool and its role in the Bretton Woods system. 
+https://ypfs.som.yale.edu/node/22480 
+(Coombs 1968b) Coombs, Charles A. 1968b. “Treasury and Federal Reserve Foreign 
+Exchange Operations.” Federal Reserve Bank of New York Monthly Review, September 
+1968. 
+Report of the Federal Reserve and Department of the Treasury outlining recent foreign 
+exchange activities. 
+https://ypfs.som.yale.edu/node/22481/ 
+(Hetzel 1996) Hetzel, Robert L. 1996. “Sterilized Foreign Exchange Intervention: The Fed 
+Debate in the 1960s.” Federal Reserve Bank of Richmond Economic Quarterly, 82 no. 22 
+Spring 1996, 1996. 
+Study examining the cooperation between the Federal Reserve and the Treasury in foreign 
+exchange operations in the 1960s. 
+https://ypfs.som.yale.edu/node/22482/ 
+(McCauley and Schenk 2020) McCauley, Robert N., and Catherine R. Schenk. 2020. “Central 
+Bank Swaps Then and Now: Swaps and Dollar Liquidity in the 1960s.” BIS Working Paper 
+no. 851, April 2020. 
+Study examining the use of central bank swap lines in the context of Bank for International 
+Settlements operations in the 1960s. 
+https://ypfs.som.yale.edu/node/22483/ 
+(NBER 2023) National Bureau of Economic Research (NBER). 2023. “Monetary Gold Stock 
+for United States,” 2023. 
+Dataset of US monetary gold stock between 1947 and 1970 (FRED dataset no 
+M1476CUSM144NNBR) retrieved from NBER data. 
+https://ypfs.som.yale.edu/node/22475 
+636
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 25 ---
+(Schenk 2010) Schenk, Catherine R. 2010. The Decline of Sterling: Managing the Retreat of 
+an International Currency, 1945-1992. Cambridge: Cambridge University Press. 
+Book discussing the gradual decline of the British currency. 
+https://ypfs.som.yale.edu/node/22485 
+ 
+  
+637
+United States: Swaps to the BIS and Bundesbank Arnold
+
+--- Page 26 ---
+Appendix A 
+Federal Reserve Swaps and Foreign Exchange Intervention in the Bretton Woods Era 
+The Gold Standard and Fixed Exchange Rates in Bretton Woods  
+Under the Bretton Woods system, exchange rates were fixed to one another, ultimately to 
+the US dollar (USD), which itself was pegged to the price of gold. Dollars were convertible on 
+demand for gold at the Treasury at the official peg of USD 35 per ounce. Since the advent of 
+the Bretton Woods system after World War II , the U nited States ran a widening balance o f 
+payments deficit, which, according to US authorities, was at least partially the result of post-
+war reconstruction and security guarantees.  This deficit resulted in a ballooning ratio of 
+external dollar liabilities to gold stock, which put pressure on th e gold peg14 (the resolution 
+of which would be a devaluation) (Bordo, Humpage, and Schwartz 2014). Figure 7 shows the 
+US gold stock and external dollar liabilities from 1951 to 1975.  
+Figure 7: US Gold Stock and External Dollar Liabilities, 1951–1975  
+ 
+Source: Bordo, Humpage, and Schwartz 2014. 
+The US was not the only nation facing such pressures. The UK was by the 1960s also 
+experiencing a widening balance of payments deficit and had already faced speculative crises 
+in 1964 and 1965, the former of which only narrowly avoided devaluation by a multilateral 
+ 
+14 This is because an increasing ratio of dollar liabilities to US gold stock implied that the US may not have been 
+able to convert all its dollar obligations into gold if needed (Bordo, Humpage,  and Schwartz 2012) . Some 
+scholars have suggested alternative explanations for the collapse of the Gold Standard and Bretton Woods. For 
+a dissenting view on this narrative, see Bordo and McCauley 2019. 
+638
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 27 ---
+aid package and the latter of which was narrowly avoided with American aid (Schenk 2010, 
+157–67). 
+In the Bretton Woods system, the do llar was the key vehicle currency. For example, when 
+investors moved out of pounds sterling and into Swiss francs, they sold sterling for dollars 
+and then dollars for Swiss francs, which left the Swiss National Bank (SNB) holding dollars. 
+The Swiss franc, however, was a key safe-haven currency and, consequently, the SNB, which 
+attempted to maintain strict limits on the proportion of its reserves held in dollars, 
+frequently received unwanted dollar inflows (Bordo, Humpage, and Schwartz 2014).  
+In sum, the US dollar and its gold peg was the foundation of the fixed exchange rate system , 
+but both the dollar and sterling faced increasing pressure to devalue as a result of balance of 
+payments pressures. W hen fear spread about the ability of nations to maintain the ir pegs, 
+fund flows moved (1) out of fiat currencies and into gold, and (2) out of troubled currencies 
+and into safe ones (frequently the Swiss franc), often leaving a dollar shortage in the process 
+(and in turn leaving the safe currency-issuing central bank with an excess of dollars). 
+Federal Reserve Swaps During Bretton Woods 
+In March 1962, the US set up a network of reciprocal swap lines15 through the Fed to forestall 
+a run on the US gold stock after the Treasury’s Exchange Stabilization Fund (ESF) 16 had 
+reached its limits. From that point on, the swaps network became the “first line of dollar 
+defense” (Bordo, Humpage, and Schwartz 2014, 3) . The Fed used its swap lines 17 for three 
+distinct (though related) purposes: (1) to provide cover for unwanted d ollar inflows at 
+foreign central banks; (2) to intervene in foreign exchange markets; or (3) to provide dollar 
+liquidity to overseas markets (the focus of this case study) (Bordo, Humpage, and Schwartz 
+2014). (For a discussion of dollar liquidity provision to overseas markets, see Overview.)  
+(1) Cover Operations. When a foreign central bank received unwanted dollar inflows, it 
+could exchange them at the US Gold Window for gold, draining down the US gold 
+stock. In such a case, the Fed defended the US gold stock through “cover operations,” 
+in which the Fed activated  a swap to obtain foreign currency with which to absorb 
+temporary unwanted surges in a foreign central bank’s uncovered dollar balances, 
+so as to  obviate the need for the foreign central bank to convert those dollars for 
+gold at the Treasury (Bordo, Humpage, and Schwartz 2015, 152). A cover operation 
+took place in two distinct transactions: (1) the Fed swapped dollars for a foreign 
+currency, for ex ample, deutsche marks, receiving deutsche marks and providing 
+ 
+15 Prior to the Fed’s network, the Treasury had establi shed swap lines —which, in contrast to the Fed’s, were 
+not all reciprocal—with foreign monetary authorities since 1936 on a case-by-case basis (Bordo, Humpage, and 
+Schwartz 2014; 2015). 
+16 The Treasury historically used the ESF to intervene in foreign exchan ge markets, but it was limited through 
+the Congressional appropriations process. The Fed, on the other hand, had more “elastic capacity” to obtain 
+foreign exchange (Bordo, Humpage, and Schwartz 2014, 3).  
+17 The Fed also, on an ad hoc basis, from time to time engaged in third-currency swaps, wherein it swapped one 
+non-dollar currency to obtain another foreign currency, but these swaps were not a part of the standing 
+network (Leimone 1967). 
+639
+United States: Swaps to the BIS and Bundesbank Arnold
+
+--- Page 28 ---
+dollars; (2) the Fed then sold that foreign exchange back to the foreign central bank 
+for dollars. The foreign central bank ended up with the same amount of dollars as 
+before the transaction, bu t those dollars were now protected against foreign 
+exchange risk. The risk to the Fed was that if, in this example, the Bundesbank chose 
+not to renew the swap, the Fed would have to come up with the deutsche marks by 
+purchasing them in the market or obtain ing them from the Treasury 18  (Hetzel 
+1996). These operations protected the US gold stock. From the beginning of the 
+Fed’s swap network to 1971 (when the US closed the Gold Window) , the Fed drew 
+USD 11.6 billion for cover operations (Bordo, Humpage, and Schwartz 2014).  
+(2) Foreign Exchange Intervention. A foreign central bank could draw dollars from a Fed 
+swap line and use those dollars to buy up its currency—reducing supply and driving 
+up the exchange rate —to defend an exchange rate (which was always a peg in the 
+Bretton Woods context19) (Bordo, Humpage, and Schwartz 2015; Leimone 1967).  
+In 1962, the Fed entered a dollar-for-Swiss franc (CHF) swap line (the “CHF swap line”) with 
+the BIS. This line was initially meant to provide dollar liquidity to the BIS, which would in 
+turn provide such liquidity to the eurodollar market (for a background on the eurodollar 
+market, see Appendix B). The CHF swap line was a tool to bypass Swiss regulations limiting 
+the SNB’s ability to lend (including via swaps) to foreign central banks. This swap line was 
+essentially a pass-through to the SNB, wherein the BIS swapped gold with the SNB for Swiss 
+francs and then, in a second step, swapped Swiss francs with the Fed for dollars. 
+From 1962 to 1971, the BIS was a frequent user of Fed swap lines, accounting for 15% of all 
+draws during this period (Bordo, Humpage, and Schwartz 2014).  
+Originally, the Fed made a clear distinction that the European currencies swap line should 
+be used for eurodollar market operations, not for foreign exchange interventions. In 1966, 
+the FOMC authorized the BIS to use the European swap line for eurodollar interventions, 
+after which point it became the primary funding source for BIS intervention in the eurodollar 
+market (for background on the eurodollar market, see Appendix B) (Bordo, Humpage, and 
+Schwartz 2015; McCauley and Schenk 2020) .20 Figure 8 compares the changing uses of the 
+different BIS and SNB swap lines with the Fed in the 1960s.  
+  
+ 
+18 For the Treasury to obtain foreign currency, it sometimes resorted to the issuance of so -called Roosa Bonds 
+(named after Undersecretary of the Treasury Robert Roosa), which were foreign currency –denominated 
+Treasury bonds. For example, in 1962, the Treasury issued three -month certificates in Italian lira worth USD 
+150 million. Outside the context of swap line backstops, the Treasury could use them to similar effect in 
+diminishing the desire of foreign banks to convert dollars for gold: for a foreign central bank, holding non-dollar 
+US debt protected them against a dollar devaluation (Bordo, Humpage, and Schwartz 2015). 
+19 For example, in June 1962, the Bank of Canada drew down its new swap facility with the Fed and used the 
+dollar proceeds to defend its exchange rate parity (Bordo, Humpage, and Schwartz 2015). 
+20 In 1967, the Fed also drew on its CHF swap line with the BIS, but this is treated separately as a related but 
+distinct cover-providing intervention and not part of the effort to manage dollar liquidity and interest rate s 
+(see Key Design Decision No. 2, Part of a Package).  
+640
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 29 ---
+Figure 8: Federal Reserve Swap Lines with the SNB and BIS in the 1960s 
+Year 
+Originated 
+Counter-
+party 
+Collateral 
+Currencies 
+Authorized 
+Amount  
+(USD millions) 
+Original stated 
+purpose 
+1962 BIS Swiss franc 100 Foreign exchange 
+intervention  
+1965 BIS European 
+currencies 600 Eurodollar market 
+liquidity  
+Source: McCauley and Schenk 2020. 
+Scholars have said that the cover operations via the Fed’s swap network were ultimately 
+ineffective:  
+The US foreign-exchange operations between 1961 and 1973 were paradoxically both a 
+short-term success and a long -term failure. By raising the costs of spe culation and by 
+providing cover for unwanted, temporary, and ultimately reversible dollar flows, these 
+operations forestalled US gold losses and boosted credibility in the Bretton Woods 
+system, but to the extent that these operations substituted for more f undamental 
+adjustments, they only postponed and heightened the inevitable collapse of Bretton 
+Woods. (Bordo, Humpage, and Schwartz 2015, 121)  
+Forms of Foreign Exchange Intervention  
+The Fed and the Treasury used foreign exchange tools to intervene in the foreign exchange 
+markets and defend gold parity , including spot operations, forward operations, IMF 
+drawings, the issuance of foreign currency-denominated Treasury bonds, and the use of the 
+Gold Pool. In 1961, the US Treasury began to use the ESF for foreign exchange intervention 
+in defense of the dollar, but by 1962 it had reached its resource limits and thereafter swaps 
+became the first line of defense for the dollar (the US continued to make use of the Gold Pool) 
+(Bordo, Humpage, and Schwartz 2014). 
+The Gold Pool 
+In the London gold market, buyers and sellers could engage in the private sale of gold (in 
+other words, not through redemptions at government gold windows). As a result, deviations 
+of the London gold market price and the official  gold pegs created arbitrage opportunities 
+for central banks (one could, for example, buy gold on the London gold market and then 
+redeem it for dollars at the US Treasury’s Gold window). In order to defend gold parity, eight 
+central banks pooled gold reser ves (the Gold Pool) in the London gold market in order to 
+defend the 35-dollars-per-ounce peg (and thus their reserves) and safeguard the stability of 
+the international monetary system (Bordo, Monnet, and Naef 2017).  
+According to scholars, the Gold Pool f unctioned successfully for years, but ultimately the 
+November 1967 sterling devaluation caused its collapse. Gold Pool interventions accounted 
+for three-quarters of the US gold stock losses during the 1967 year -end operations (Bordo, 
+Monnet, and Naef 2017). 
+641
+United States: Swaps to the BIS and Bundesbank Arnold
+
+--- Page 30 ---
+Sterling Devaluation Crisis, 1967 
+The US had numerous incentives to support sterling and help the UK avoid a devaluation: (1) 
+the US estimated costs of USD 1 -2 billion in losses to the US gold reserves; (2) a larger 
+devaluation could force the US to suspend its own gold convertibility, thus ending the 
+Bretton Woods system; and (3) the US linked sterling support with British military presence 
+in Southeast Asia, which it wanted to remain21 (Schenk 2010, 157–67). 
+US authorities recognized a relationship between pressure on sterling and further 
+speculation about the strength of the dollar peg. A scholar of sterling’s decline said that 
+“sterling’s fortunes were of crucial importance . . . in Washington because of the potential for 
+contagion from speculation on sterling to spread to the US dollar . . . .” (Schenk 2010, 157).  
+  
+ 
+21  The relationship between American support for sterling and British military presence in Asia was 
+documented in archives. A US national security advis er said, “George Ball really put it to the British  on 
+Singapore and our support of the pound,” and a scholar said that there was a “formal quid pro quo” between 
+the two governments about American support for sterling and British military presence east of the Suez 
+(Schenk 2010, 168). An American government official informally suggested that “a battalion would be worth a 
+billion dollars of sterling support”; he later revised this comment (Schenk 2010, 168). 
+642
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 31 ---
+Appendix B 
+Figure 9: Aggregate Draws on Federal Reserve Swap Lines, 1962–1971 
+ 
+Note: Negative amounts (in blue) indicate draws by the Fed, while positive amounts (in red) indicate drawings 
+by European counterparties (so that the total amounts indicate the aggregate as an asset or a liability of the 
+Fed).  
+Source: Bordo, Humpage, and Schwartz 2014. 
+ 
+Figure 10: BIS Draws on European Swap Line, 1966–1976 (in USD millions) 
+ 
+Source: McCauley and Schenk 2020. 
+ 
+ 
+ 
+ 
+643
+United States: Swaps to the BIS and Bundesbank Arnold
+
+--- Page 32 ---
+Figure 11: Federal Reserve Swap Lines with European Market Participants,A 1967 
+ 
+A Excludes Switzerland. 
+Source: FOMC 1968a. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright 2023 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+644
+Journal of Financial Crises Vol. 5 Iss. 1

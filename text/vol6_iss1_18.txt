@@ -1,0 +1,1049 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 1 
+2024 
+Spain: BFA-Bankia Group Restructuring, 2012 Spain: BFA-Bankia Group Restructuring, 2012 
+Lakshimi Swaminathan 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Swaminathan, Lakshimi (2024) "Spain: BFA-Bankia Group Restructuring, 2012," Journal of Financial 
+Crises: Vol. 6 : Iss. 1, 535-558. 
+DOI: https://doi.org/10.17132/2693-3179.1546 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/18 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol6/iss1/18
+
+--- Page 3 ---
+Spain: BFA-Bankia Group Restructuring, 20121 
+Lakshimi Swaminathan2  
+Yale Program on Financial Stability Case Study 
+March 28, 2024 
+Abstract 
+In 2010 and 2011, seven troubled savings banks ( cajas) merged to form Banco Financiero y 
+de Ahorro s, S.A . (BFA), which the government capitalized with EUR 4.5 billion (USD 5.9 
+billion) in convertible securities , and BFA’s commercial banking subsidiary, Bankia  (BFA, 
+together with Bankia, was referred to as the BFA -Bankia Group). As a double -dip recession 
+extended BFA-Bankia Group’s expected credit losses in Spain’s real estate market in 2012, 
+third-party stress tests determined that the Group was deeply insolvent. On November 27, 
+2012, Fondo de Reestructuracio  n Ordenada Bancaria  (FROB), Spain’s new ly establishe d 
+national resolution authority, and the Bank of Spain (BoS) approved the further restructuring 
+and government takeover of the BFA-Bankia Group. The restructuring required an additional 
+capital injection of EUR 17.9 billion into BFA, funded by the recently created European 
+Stability Mechanism (ESM) through the issuance of ESM securities to BFA. The restructuring 
+also involved the write -down of the shareholders of Bankia, the partial conv ersion of BFA’s 
+subordinated debt to Bankia equity, and the transfer of BFA and Bankia’s real estate assets to 
+an asset management vehicle, Sociedad de Gestio  n de Activos procedentes de la 
+Reestructuracio  n Bancaria (SAREB), for EUR 22. 4 billion. The restru cturing of the BFA -
+Bankia Group stands out owing to the sheer size of the shortfall of regulatory capital that the 
+bank and its parent faced (EUR 24.7 billion), as well as  the gross cost to the government of 
+about EUR 45 billion, including the purchase of assets by SAREB. External pressure from the 
+International Monetary Fund (IMF) and the European authorities, and financial support from 
+the latter were instrumental in the measures the government took. The government retains 
+a 16.1% stake in CaixaBank, which acquired Bankia in 2021. Taking into account the value of 
+that stake and other recoveries, the B ank for International Settlements (BIS) estimated the 
+net cost to the government of the BFA -Bankia Group rescue at EUR 17.2 billion, excluding 
+losses experienced by SAREB on the assets it acquired from the bank . 
+ 
+Keywords: BFA-Bankia, restructuring, SAREB, Spain 
+ 
+ 
+1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering bank resolutions and restructurings. A survey of all the cases in this series (McNamara et 
+al. 2024)  and the individual cases under lying it are available from the Journal of Financial Crises  at 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/. 
+2 Research Associate , YPFS, Yale School of Management . The author would like to thank Carey Mott for his 
+assistance, and Miguel Carcano and Enrique Ezquerra of the Single Resolution Fund for their valuable 
+suggestions on this case. 
+ 
+535
+
+--- Page 4 ---
+Overview  
+This module describes the restructuring of 
+Banco Financiero y de Ahorro s, S.A. (BFA, 
+which together with its banking subsidiary 
+Bankia was referred to as the BFA -Bankia 
+Group) in 2012 using the capital injection, 
+bail-in, and asset separation tools.  Before 
+the restructuring, Spanish authorities had 
+subscribed to EUR 4.5 billion (USD 5.5 
+billion)3 in the form of convertible 
+preference shares in December 2010 as 
+part of a broad -based capital injection  
+(known as the FROB I injections) , which it 
+converted into equity in June 2012, and 
+EUR 4.5 billion in ordinary shares on 
+September 7, 2012 (Sankar 2021).  
+As their expected losses grew in the years 
+after the Global Financial Crisis  (GFC), 
+seven troubled Spanish savings banks 
+(cajas)4 agreed on June 14, 2010, to merge 
+into a new entity known as BFA and formed 
+its commercial banking subsidiary Bankia 
+(collectively, the BFA -Bankia Group) . The 
+two largest cajas in the group, Caja Madrid 
+and Bancaja , accounted for 90% of its 
+assets. The new entity, initially combined 
+through a Spanish proce ss known as an 
+institutional protection scheme  (IPS),5 had 
+nearly EUR 340 billion in assets (EUR 223 
+billion in risk -weighted assets), or 10% of 
+Spain’s financial system assets (Santos 
+2017). 
+ 
+3 Per FXtop.com, EUR 1 = USD 1.21 on June 1, 2010. 
+4 Cajas were organised as private charities with banking licenses and could provide the services of commercial 
+and cooperative banks. They were not owned by shareholders but were governed by members. Profits were 
+used for strengthening capital, and the rest of it was used for charity work (EC 2012e). 
+5 The IPS is a support mechanism among a group of banks that was defined to be “a contractual or statutory 
+liability arrangement which protects those institutions and in particular ensures their liquidity and solvency to 
+avoid bankruptcy where necessary” (Huizinga 2022, 8). 
+Key Terms 
+Purpose: “In view of the systemic nature of 
+BFA/Bankia within the Spanish and European 
+financial sector … for exceptional reasons the BFA 
+Group is to be restructured” (EC 2012e, 14). 
+Size and Nature of 
+Institution 
+Systemically important to the 
+Spanish banking sector with 
+EUR 344 billion in assets 
+Source of Failure Expected losses from real 
+estate portfolio 
+Start Date November 27, 2012 
+End Date December 31, 2017 
+Approach to 
+Resolution and 
+Restructuring 
+Government took 100% 
+control of BFA through capital 
+injections; transfer of real 
+estate assets for EUR 22.4 
+billion to SAREB; partial write-
+down of Bankia shareholders 
+and partial conversion of BFA 
+subordinated debt to equity 
+Outcomes Capital injections: ca. EUR 24 
+billion, including FROB I – EUR 
+4.5 billion convertibles in 
+December 2010, converted 
+into equity in June 2012 and 
+written off in December 2012; 
+and FROB III – EUR 4.5 billion 
+in September 2012 and EUR 
+13.5 billion in December 2012;  
+ 
+Net cost, excluding SAREB 
+asset purchases (BIS 
+estimate): EUR 17.2 billion  
+ 
+(continued) 
+ 
+536
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 5 ---
+On February 18, 2011, Spain announced that 
+it would require all banks to meet enhanced 
+capital principal requirements of 8% or 10%, 
+depending on certain balan ce sheet 
+characteristics, by September 30,  2011. 
+BFA’s supervisor, the Bank of Spain (BoS),  
+found a EUR 5.8 billion capital  shortfall at 
+BFA (EC 2012e). BFA management decided 
+in July 2011, to raise capital through a public 
+offering, which would allow it both to lower 
+its regulatory capital principal ratio to 8% 
+and to meet that target. In May 2011, 99% of 
+the assets and liabilities of the seven 
+founding cajas were transferred to BFA and 
+85% of these assets and liabilities were 
+simultaneously transferred to Bankia. EUR 
+283 billion in assets, remained under BFA’s 
+control outside Bankia (Bankia 2011) . 
+Although these transactions took place in 
+May 2011, they w ere effective as of January 
+1, 2011 (EC 2012a) . BFA floated Bankia on 
+the Madrid Stock Exchange on July 20, 2011, 
+seeking to raise up to EUR 4 billion in equity, 
+but private investors purchase d only EUR 
+3.1 billion (or 47.6% of Bankia’s shares), leaving BFA with the remaining equity (see Figure 
+3). Few foreign investors participated, creating negative perceptions of the bank’s viability 
+(Bankia n.d.; Santos 2017). 
+The demise of BFA and Bankia owed to a capital shortfall that the BFA-Bankia Group never 
+sufficiently filled  (EC 2012e) . In May 2012, BFA-Bankia replaced the old management 
+through four newly appointed top management officials (CaixaBank n.d.; EC 2012e) . Three 
+investment banks carried out a valuation of BFA and estimated its equity was worth negative 
+EUR 13.6 billion. Based on that valuation , Spain’s newly established resolution authority, 
+Fondo de Reestructuración Ordenada Bancaria (FROB) took over BFA on June 25, 2012, 
+becoming the sole shareholder of BFA by converting its preference shares into ordinary 
+equity in BFA and writing down to zero the shares that the cajas held in BFA (Baudino, 
+Herrera, and Restoy 2023; EC 2012e; Santos 2017).  
+On August 31, 2012, BFA posted  a revised EUR 7. 3 billion loss  for the first half of 2012 
+because of higher provisions made for real estate and construction portfolios as mandated 
+by Royal Decree -Law 2/2012 (which was implemented on the same day). This led to a 
+further shortfall of regulatory capital (de Cominges 2016; EC 2012e). As this shortfall would 
+have jeopardized BFA-Bankia’s access to liquidity provided via the Eurosystem’s monetary 
+policy operations, on September 4, 2012, FROB injected EUR 4.5 billion in capital  into BFA 
+(which BFA then loaned to Bankia) as part of a broad-based capital injection program in the 
+Notable Features Both Bankia and BFA, 
+Bankia’s parent, needed to be 
+recapitalized; 
+the government took 100% 
+equity in BFA, the parent, but 
+private shareholders 
+continued to hold 31% of 
+Bankia, the subsidiary; 
+ESM lent the Spanish 
+government EUR 17.9 billion, 
+which FROB used to fund the 
+injection; the ESM then 
+issued securities that FROB 
+injected into BFA in return 
+for BFA ordinary shares; 
+BFA subordinated debt 
+holders and Bankia equity 
+holders shared in losses, 
+making this an early example 
+of bail-in; however, some 
+equity and debt holders were 
+able to recoup losses through 
+legal challenges; 
+Bankia’s bail-out was the 
+largest bank nationalization 
+in Spain’s history 
+537
+Spain: BFA-Bankia Group Restructuring Swaminathan
+
+--- Page 6 ---
+form of ordinary shares (EC 2012a). (For more information on FROB  and its broad -based 
+capital injections, see Sankar [2021]). 
+On September 28, 2012, the BoS announced the result of a new stress test, which showed a 
+capital need for BFA at the parent level of EUR 13.2 billion in the base scenario and EUR 24.7 
+billion in the adverse scenario. On November 27 and 28, 2012, the BFA -Bankia Group 
+received approval from the Spanish and European authorities for its 2012–17 restructuring 
+plan. Under the plan, BFA expected to address a capital need of EUR 24.6 billion, a slight 
+adjustment from the shortfall of EUR 24.7 billion identified in the September stress test. Of 
+that amount, it expected to raise approximately EUR 6.5 billion in new capital by converting 
+preferred shares and subordinated debt into equity; and approximately EUR 17.9 billion in 
+public support for BFA at the parent level, including the EUR 4.5 billion that FROB had 
+provided to BFA in September (BFA 2013). 
+In December 2012, following the restructuring plan , the European Stability Mechanism 
+(ESM) issued EUR 17.9 billion in bonds to FROB: EUR 13.5 billion to enable FROB to acquire 
+new ordinary shares in BFA, and EUR 4.5 billion to replace the Spanish government bonds 
+that FROB had injected into BFA in September (EC 2012e). FROB also agreed to write down 
+to zero the value of the shares it had acquired through the debt -equity conversion in June 
+2012 (BFA 2013). 
+The stress test identified Bankia’s capital need at EUR 15.5 billion. To meet that need, BFA 
+transferred EUR 10.7 billion of the ESM bonds to Bankia in return for contingent convertible 
+bonds in Bankia, which counted as Tier 1 capital for Bankia to make it capital compliant . In 
+the first quarter of 2013, Bankia converted those bonds into ordinary shares . Bankia also 
+received EUR 4.8 billion in ca pital from the bail -in of BFA’s subordinated debt holders (EC 
+2012e).  
+On December 31, 2012, all real estate assets in BFA and Bankia were transferred to the asset 
+management vehicle Sociedad de Gestión de Activos procedentes de la Reestructuración 
+Bancaria (SAREB) for EUR 22. 4 billion using state-guaranteed debt securities issued by 
+SAREB; they carried maturities of one to three years (EC 2012e; Tam and Fulmer 2021) . Of 
+the EUR 22.4 billion, Bankia received EUR 19.5 billion in SAREB securities for its asse ts and 
+BFA received EUR 2.9 billion in SAREB securities for assets owned by it and non-Bankia BFA 
+subsidiaries (BFA 2013). 
+In May 2013, BFA’s subordinated debt holders were partly written off and partly converted 
+to equity in Bankia and new Bankia capital was raised through common shares (Donnelly 
+and Pometto 2024; Hay and Unmack 2012). A company called Solvia Servicios Inmobiliarios, 
+S.L.U. serviced the real estate portfolio on behalf of SAREB, and Haya Real Estate serviced the 
+loan portfolio of BFA-Bankia. SAREB continues to own some former real estate assets of BFA-
+Bankia, of which it is in the process of divesting itself (SAREB 2019). In April 2014, Spanish 
+authorities recovered EUR 1.3 billion when BFA sold 7.5% of Bankia, and in 2017, they 
+recovered EUR 0.8 billion when BFA sold 7% of Bankia (CaixaBank n.d.). 
+538
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 7 ---
+December 31, 2017, marked the end of Bankia’s five -year restructuring plan, with the main 
+goals accomplished. On that same date, Bankia merged with Banco Mare Nostrum (BMN); 
+FROB held a 61.8% stake in the new institution (Reuters 2021; Zahid 2017). In 2021, FROB’s 
+stake came down to 17.3% following BMN-Bankia’s merger with CaixaBank; it was diluted 
+to 16.1% at the end of 2022 (CaixaBank 2023; Reuters 2021). Figure 1 provides a summary 
+of the events that transpired in the restructuring of BFA -Bankia. The Bank for International 
+Settlements (BIS) estimated the net cost to the government of the BFA-Bankia rescue at EUR 
+17.2 billion, taking into account the value of the government’s 16.1% stake in CaixaBank and 
+other recoveries, but excluding losses experienced by SAREB on the assets it acquired from 
+the bank (Baudino, Herrera, and Restoy 2023). 
+Figure 1: Timeline of the Restructuring of BFA-Bankia  
+Date Event 
+Dec. 28, 2010 FROB subscribes to EUR 4.5 billion of convertible preference shares in BFA as part of 
+FROB I capital injections (a broad-based capital injection program)  
+May 23, 2011 Formation of BFA completed through the merger of seven cajas (savings institutions); 
+the effective date is January 1, 2011 
+June 29, 2011 Bankia registers prospectus for an IPO to raise capital privately. Owing to this initiative, 
+it does not receive any capital injections as part of FROB II injections  
+July 20, 2011 Bankia floats an IPO to raise up to EUR 4 billion in capital from private sources, 
+following the need to meet enhanced capital requirements established by the BoS; it 
+ends up raising only EUR 3.1 billion through private subscription to shares. BFA now 
+owns 45.54% of Bankia  
+May 7, 2012 Rodrigo Rato, chairman of Bankia, resigns owing to disagreement over audited financial 
+statements of 2011 
+May 9, 2012 José Ignacio Goirigolzarri (ex-chairman of Banco Bilbao Vizcaya Argentaria) takes 
+charge as chairman of Bankia  
+May 25, 2012 The new management announces it will request from FROB an additional EUR 19 billion 
+of capital, of which EUR 12 billion to EUR 14 billion would be needed for Bankia alone. It 
+also restates 2011 earnings to show a loss of EUR 4.9 billion  
+June 27, 2012 FROB converts convertible preference shares injected in December 2010 into ordinary 
+shares after a valuation assessment reveals BFA-Bankia’s value to be negative EUR 13.6 
+billion. The seven cajas cease to own BFA-Bankia. Through its shares in BFA, FROB 
+assumes a 45.54% stake in Bankia 
+July 20, 2012 The Kingdom of Spain formulates a Memorandum of Understanding (MoU) on Financial -
+Sector Policy Conditionality that details Spain’s plans to recapitalize and stabilize its 
+financial sector. The EC plays an important supervisory role in overseeing Spain’s 
+efforts in this regard 
+Sept. 4, 2012 FROB injects EUR 4.5 billion in BFA in the form of ordinary shares as part of  FROB III 
+capital injections to ensure that BFA-Bankia would be able to maintain its status for 
+Eurosystem monetary policy operations and becomes BFA’s sole shareholder  
+Nov. 27, 2012 FROB and BoS announce the decision to restructure BFA-Bankia 
+  
+539
+Spain: BFA-Bankia Group Restructuring Swaminathan
+
+--- Page 8 ---
+Nov. 28, 2012 European Commission approves the five-year restructuring plan and FROB injects EUR 
+17.9 billion (in the form of bonds contributed by the ESM) in response to a stress test 
+conducted by Oliver Wyman, as required by the MoU on Financial Sector Policy  
+Conditionality 
+Dec. 31, 2012 SAREB purchases real estate and development assets for EUR 22.4 billion from Bankia 
+(EUR 19.5 billion) and BFA (EUR 2.9 billion)  
+Dec. 31, 2017 Bankia’s five-year restructuring plan ends, coincident with Bankia’s merger with BMN  
+2021 Bankia-BMN merges with CaixaBank and FROB owns 17.3% stake in the merged entity, 
+later reduced to 16.1%; full divestment was expected to happen before the end of 2025 
+but has been extended at the time of writing the case 
+Source: Author’s analysis.  
+Summary Evaluation 
+When authorities unveiled BFA-Bankia’s losses in 2012, the Spanish financial system began 
+to doubt the loss estimates at Spanish banks broadly (Santos 2017). As a result, the financial 
+press referred to BFA-Bankia as “the bank that broke Spain” (Mallet and Johnson 2012).  
+Bankia’s IPO failed to convince foreigners that it was viable, as the previous efforts had failed 
+to close the crisis. Moreover, since the additional provisioning requirements proved 
+inadequate, the request for eurozone assistance became inevitable. (Santos 2017).  
+Tano Santos, an academic from Columbia University , has stated that one of the positive 
+outcomes of the Bankia episode and the banking crisis in Spain is that cajas do not exist 
+anymore. This is seen to be a positive outcome , as powerful local politicians had exercised 
+control over a substantial portion of the credit market through these cajas (Santos 2017). An 
+article from the New York Times in January 2014 heralded Bankia to be a sym bol of Spain’s 
+revival owing to its debt reduction and capital raising strategies (Minder 2014). A scholar in 
+Madrid, de Cominges , concluded that it would be impossible for FROB to recover its 
+investment in Bankia by selling its stake without touching taxpayer  money (de Cominges 
+2016). 
+A study from the BIS stated that rapid disposal of the stake of the resolution authority in 
+banks under restructuring and resolution was preferred and that the only exception to this 
+was Bankia, since all the other ailing banks at the time were sold off more quickly than Bankia 
+was (Baudino, Herrera, and Restoy 2023). 
+A report from the Spanish think tan k El Real Instituto Elcano summarized the reasons for 
+Bankia’s downfall: (1) political involvement in the governance of the cajas that enabled risky 
+business strategies and slow government action; (2) the perception that the crisis was solely 
+a liquidity i ssue, rather than a solvency issue as well ; (3) the government ’s slow response, 
+only after external pressure from the I nternational Monetary Fund (IMF)  and European 
+Union (EU); and (4) the scale of the problem being larger than what the authorities were 
+prepared to handle (Otero-Iglesias, Royo, and Steinberg 2016).   
+540
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 9 ---
+Context: Spain, BFA-Bankia, 2012–2013 
+Assets EUR 28.2 billion as of Dec. 31, 2012 
+EUR 25.1 billion as of Dec. 31, 2013 
+Liabilities EUR 28.2 billion as of Dec. 31, 2012 
+EUR 25.1 billion as of Dec. 31, 2013 
+Deposits No information 
+Capital Ratio (Tier 1) No information 
+Nonperforming Loans EUR 19.8 billion as of Dec. 31, 2012 
+EUR 20 billion as of Dec. 31, 2013 
+Market Share 5.97% of lending market as of Dec. 31, 2013 
+Banking System, % of GDP No information 
+Source: FDIC 2014. 
+541
+Spain: BFA-Bankia Group Restructuring Swaminathan
+
+--- Page 10 ---
+Key Design Decisions 
+1. Purpose: FROB decided to proceed with the restructuring of BFA -Bankia on 
+November 27, 2012, as the bank was systemically important in the Spanish and 
+European financial sectors. 
+As a result of BFA-Bankia Group’s failure to meet solvency requirements owing to a 
+deterioration of asset quality, minimal capital generation, and a high nonperforming loan 
+ratio, among other indicators, on November 28, 2012, the European Commission (EC) 
+approved state support (which had been announced in May 2012) under State Aid rules for 
+BFA and Bankia (EC 2012e; EC 2012a; FROB 2023). 
+Earlier that fall, on September 28, 2012, the BoS had announced the results of a new stress 
+test conducted by consulting firm Oliver Wyman, indicating a capital need of EUR 13.2 billion 
+for BFA at the parent level in the base scenario and EUR 24.7 billion in the adverse scenario. 
+On November 27 and 28, 2012, BFA -Bankia Group received approval from the Spanish and 
+European authorities for its 2012 –17 Restructuring Plan. Under that plan, BFA intended to 
+address a capital shortfall of EUR 24.6 billion, a slight adjustment from the shortfall of EUR 
+24.7 billion identified in the September s tress test. BFA expected to raise EUR 6.5 billion in 
+new capital by converting preferred shares and subordinated debt into equity; and EUR 17.9 
+billion in public support for BFA at the parent level, including the EUR 4.5 billion that FROB 
+had provided to B FA in September through the FROB I injections , which was a round of 
+broad-based capital injection program that the Spanish authorities administered to rescue 
+banks that were affected by the GFC (BFA 2013). 
+The stress test identified Bankia’s capital need a t EUR 15.5 billion. To meet that need, BFA 
+transferred EUR 10.7 billion of the ESM bonds to Bankia in return for contingent convertible 
+bonds in Bankia, which counted as Tier 1 capital for Bankia to make it capital compliant; in 
+the first quarter of 2013, Bankia converted those bonds into ordinary shares (EC 2012e).  
+The restructuring plan stated that the BFA-Bankia Group met the conditions of Royal Decree-
+Law 24/2012 to be placed under resolution: it had a capital shortfall of EUR 24.7 billion, 
+according to the September 2012  stress test, the bank had a substantial amount of unpaid 
+State Aid received since 2010, and it was unlikely to be able to repay that State Aid. However, 
+FROB (Spain’s newly established national resolution authority)  and the BoS opted f or the 
+restructuring of BFA-Bankia instead of resolving it , as it was systemically important in the 
+Spanish and European financial sector (EC 2012e).  
+In December 2012, following the restructuring plan, the ESM issued EUR 17.9 billion in 
+bonds to FROB: EUR 13.5 billion to enable FROB to acquire new ordinary shares in BFA, and 
+EUR 4.5 billion to replace the Spanish government bonds that FROB had injected into BFA in 
+September (EC 2012e). FROB also agreed to write down to zero the value of the shares it had 
+acquired through the debt-equity conversion in June 2012 (BFA 2013). 
+542
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 11 ---
+On December 31, 2012, all real estate assets in BFA and Bankia were transferred to the asset 
+management vehicle SAREB  for EUR 22. 4 billion using state-guaranteed debt securities 
+issued by SAREB; they carried maturities of one to three years (EC 2012e; Tam and Fulmer 
+2021). Of the EUR 22. 4 billion, Bankia received EUR 19.5 billion in SAREB securities for its 
+assets and BFA received EUR 2.9 billion in SAREB securities for assets owned by it and non-
+Bankia BFA subsidiaries (BFA 2013). 
+In May 2013, BFA subordinated debt holders were partly written off and partly converted to 
+equity and new Bankia capital was raised through common shares (Donnelly and Pometto 
+2024; Hay and Unmack 2012) . A company  called Solvia Servicios Inmobiliarios, S.L .U. 
+serviced the real estate portfolio on behalf of SAREB. The restructuring plan also outlined a 
+splitting of BFA-Bankia into a core unit named the Steady Bank Unit and a legacy unit named 
+the Legacy Unit; while the Steady Bank Unit would include the existing retail, small and 
+medium enterprise ( SME), and public sector banking business of BFA -Bankia Group in its 
+core areas, the Legacy Unit would include all those assets and liabilities that were to be sold, 
+discontinued, or held to maturity, most of which were from the noncore areas of BFA -
+Bankia’s business (EC 2012a). 
+2. Part of a Package: The restruct uring of Bankia was preceded by recapitalization 
+measures performed by FROB in June 2010. 
+From 2009 until 2013, FROB injected capital into eligible Spanish banks in three phases, 
+FROB I, II, and III. Before  the restructuring of Bankia, FROB injected capita l worth EUR 4.5 
+billion in the form of preference shares in BFA in December  2010, as part of FROB I , to 
+stabilize the cajas, which were in the process of being merged (EC 2012e). This was part of a 
+broader effort of FROB to support the mergers of 25 cajas into seven larger solvent banks 
+through the subscription of convertible preferred shares (Sankar 2021). On September 7, 
+2012, FROB injected EUR 4.5 billion in capital in the form of ordinary shares to ensure that 
+BFA-Bankia would be able to maintain its status for Eurosystem monetary policy operations 
+(EC 2012a). This was part of the FROB III capital injections that took place between 2012 –
+13 for banks that had failed a stress test through the purchase of convertible contingent 
+bonds and subscription to sha res. BFA-Bankia did not require any recapitalizations under 
+FROB II between 2011–12, as it raised capital through Bankia’s IPO. For the recapitalizations, 
+the MoU on Financial Sector Policy Conditionality had classified the entities into three 
+groups. BFA-Bankia was part of Group 1 along with CatalunyaCaixa, NCG Banco, and Banco 
+de Valencia. Group 1 banks were banks that were already owned by FROB (Sankar 2021). Of 
+these banks, BFA-Bankia received the maximum aid of EUR 17.9 billion (EC 2012a; EC 2012b; 
+EC 2012c; EC 2012d). 
+For more details on the broad-based capital injections, see Sankar (2021).  
+3. Legal Authority: The restructuring of Bankia was governed by Spain’s Royal 
+Decree Law 24/2012 on the restructuring and resolution of credit institutions. 
+The restructuring of Bankia was guided by the Royal Decree -Law (RDL) 24/2012 (Bank of 
+Spain 2012). The RDL on restructuring and resolution of credit institutions was approved by 
+543
+Spain: BFA-Bankia Group Restructuring Swaminathan
+
+--- Page 12 ---
+the Spanish government on August 31, 2012,  as Law 9/2012 , and be came effective 
+immediately. This law aimed to transpose certain measures outlined in the European 
+Directive on Crisis Resolution and the MoU on Financial Sector Policy Conditionality between 
+the Spanish authorities and the ESM (Bank of Spain 2012; World Bank 2016).   
+The MoU entailed the following:  
+(1) Identification of individual banks’ capital needs through a comprehensive asset 
+quality review of the banking sector and a bank-by-bank stress test, based on that asset 
+quality review; (2) Recapitalization, restructuring and/or resolution of weak banks …, 
+and, (3) Segregation of assets in those banks receiving public support in their 
+recapitalization effort and the transfer of the impaired assets to an external Asset 
+Management Company (Kingdom of Spain 2012, 3). 
+The RDL designated FROB and the BoS to be Spain’s official national resolution and 
+restructuring authorities. It laid down the legal authority, governance, powers, functions, 
+structure and system of responsibility and accountability of FROB (Bank of Spain 2012). 
+Under the decree, restructuring was meant for entities that authorities believed could repay 
+any official support and become viable once more, potentially through the transfer of toxic 
+assets to an asset management company. Resolution, on the o ther hand, was an alternative 
+to liquidation proceedings for entities that authorities perceived to be unviable (Bank of 
+Spain 2012). Chapter VII of the decree authorized the imposition of losses on shareholders 
+and creditors (Global Regulation n.d.).  
+The decree recognized the creation of an asset management company , SAREB, to separate 
+impaired assets from the entity in order to facilitate its restructuring and outlined its legal 
+authority (Bank of Spain 2012). Moreover, RDL 9/2012 of November 14, 2012, de fined and 
+regulated asset management companies as entities that had to manage impaired assets of 
+entities under restructuring with the goal of long-term value realization (de Cominges 2016).  
+4. Administration: FROB administered the restructuring of BFA and i ts Bankia 
+subsidiary. 
+FROB and the BoS were the designated national resolution authorities, as laid down in RDL 
+24/2012 (Bank of Spain 2012; de Cominges 2016) . The legislative framework and  the 
+blueprint dictating the conditions of asset transfer to SAREB and the design of SAREB was 
+prepared by FROB in consultation with the European Commission (EC), the European 
+Central Bank (ECB), the ESM , the IMF, BoS and the Ministry of Economic Affairs and 
+Competitiveness (EC 2012a). The decision to restructure BFA -Bankia was undertaken by 
+FROB on the basis of the results of the stress  test conducted by an independent consultant, 
+Oliver Wyman, in the context of the MoU on Financial Sector Policy Conditionality between 
+the Spanish authorities and the ESM (EC 2012e). 
+544
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 13 ---
+5. Governance: FROB was managed by a governing committee. 
+RDL 9/2009 established that FROB would be managed by a governing committee of nine 
+members a ppointed by the Ministry of Economy and Finance . Of these,  four had to be 
+recommended by the BoS (one of whom had to be the deputy central bank governor), two 
+had to represent the Ministry of Economy and Finance , and three had to represent the 
+Deposit Guarantee Fund (de Cominges 2016). FROB was a public law entity with its own legal 
+mandate (FROB 2020).  
+The BFA-Bankia Group was monitored closely by the Spanish authorities (FROB and BoS) in 
+conjunction with the EC, ECB, European Banking Authority (EBA), and  the IMF (EC 2012a). 
+To ensure compliance with the commitments in the restructuring plan, a monitoring trustee 
+to assist the EC was appointed by BFA-Bankia under the guidance of FROB (EC 2012e). There 
+also existed a Strategic Coordination Committee compris ing of the Spanish authorities and 
+the EC, ECB, EBA, ESM and the IMF which oversaw the capital needs and issues affecting 
+Bankia (IMF 2012). 
+6. Communication and Disclosure: FROB stated that the restructuring plan would 
+assure the long -term viability of the b ank and that it would aim to minimize 
+taxpayer cost while limiting distortions of competition. 
+The restructuring of BFA and Bankia was heavily covered by the Spanish press, owing to its 
+systemic importance; in fact, the financial press dubbed BFA -Bankia “t he bank that broke 
+Spain” (Mallet and Johnson 2012) . The information pertaining to the restructuring of BFA -
+Bankia was publicly communicated at the time by the Spanish authorities through the press 
+release on FROB’s website as well as the EC State Aid docu ment (EC 2012a; FROB 2023).  
+A FROB communiqué dated August 31, 2012, stated that the restructuring plan would assure 
+the long-term viability of the bank and that it would aim to minimize taxpayer cost while 
+limiting distortions of competition (FROB 2012). Some of the details of the restructuring 
+were also published on Bankia’s website (CaixaBank n.d.). 
+The information pertaining to changes in subordinated obligations was published on FROB’s 
+website, as well as in the Official State Gazette. The official statement from FROB mentioned 
+that investors affected by the restructuring of BFA -Bankia would need to be made aware of 
+their position via disclosure by FROB, both in the aforementioned sources and on the website 
+of the National Markets Securities Commission (FROB 2023). 
+FROB disclosed information pertaining to the restructuring of BFA -Bankia in its annual 
+reports, as well as in the annual reports of SAREB (FROB 2014; SAREB 2014).  
+7. Source and Size of Funding: The European Stability Mechanism lent the Spanish 
+government EUR 41.3 billion to restructure BFA-Bankia. FROB was funded by the 
+state budget and the loan from the ESM. 
+FROB, which financed the restructuring of BFA -Bankia, was funded by the state budget (EC 
+2012e). The total cost of restructuring BFA-Bankia amounted to EUR 45 billion (including 
+545
+Spain: BFA-Bankia Group Restructuring Swaminathan
+
+--- Page 14 ---
+the EUR 22.4 billion SAREB bonds subscribed to by BFA-Bankia) and of this, FROB was able 
+to recover EUR 4.9 billion through the sale of Bankia shares for EUR 2.1 billion and receipt 
+of dividends worth EUR 2.8 billion by 201 9 (Bank of Spain 2019; SAREB 2021) . The cost of 
+nationalizing BFA, Bankia’s parent company, amounted to about EUR 22.4 billion (Gutiérrez 
+2020). FROB I (EUR 4.5 billion) and FROB III (EUR 17.9 billion) capital injections collectively 
+amounted to EUR 22.5 b illion (EC 2012a). Of this total, the Spanish government, through 
+FROB, utilized EUR 17.9 billion  to fund the December 2012 capital injection; the ESM then 
+issued securities that FROB injected into BFA in return for BFA ordinary shares.  FROB 
+utilized EUR 1 7.9 billion for the recapitalization of BFA -Bankia, out of the EUR 39.4 billion 
+loan provided by the ESM to recapitalize the other banks in Group 1 as classified by the MoU, 
+CatalunyaCaixa, NCG Banco, and Banco de Valencia (ESM n.d.a) . These loans carried a 
+maximum maturity of 15 years (ESM 2012). Of the total loan of EUR 41.3 billion taken from 
+the ESM, the Spanish government repaid EUR 17.6 billion between 2014  and 20 18 (ESM 
+n.d.a; ESM n.d.b). SAREB purchased the assets with state-backed bonds with a one- to three-
+year maturity, paying a yield equal to the lower of the Spanish government bond yield for 
+the same maturity (EC 2012e; SAREB 2019) . Figure 2 displays the summary of capital 
+injections administered by the government into BFA-Bankia in 2012. 
+Figure 2: Summary of Government Capital Injections  into BFA-Bankia, as of Year-End 
+2012 
+ 
+Source: Author’s analysis. 
+Assets Liabilities
+Assets Liabilities
+(Early EUR 4.5 bn stake 
+in BFA written off)
+Assets Liabilities
+Assets Liabilities
+~EUR 11 bn ESM debt 
+Earlier EUR 4.5 bn 
+equity in Bankia
+Earlier EUR 4.5 bn 
+equity held by BFA
+BFA
+ESM
+FROB
+Bankia
+~EUR 18 bn loan to 
+Spanish government
+~EUR 18 bn ESM debt 
+securities
+~EUR 18 bn equity in 
+BFA
+~EUR 18 bn owed to 
+ESM
+~EUR 7 bn ESM debt 
+securities
+~EUR 18 bn equity held 
+by FROB
+546
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 15 ---
+8. Approach to Resolution and Restructuring: After injecting EUR 17.9 billion of 
+capital into BFA -Bankia, Spanish authorities wrote down the value of BFA’s 
+shareholders and subordinated creditors and transferred nonperforming assets 
+to SAREB, a state-backed asset management company.   
+The restructuring of BFA -Bankia, which commenced in November 2012, entailed the 
+following: capital injection of EUR 17.9 billion to BFA, of which BFA downstreamed EUR 10.7 
+billion to Bankia; wiping out all of Bankia’s shareholders; imposing losses on subordinated 
+debt holders; and transferring the impaired assets to an asset manag ement vehicle, SAREB 
+(EC 2012a). Figure 3 shows the structure of BFA-Bankia. 
+FROB III Capital Injection into BFA and Bankia 
+The MoU on Financial Sector Policy Conditionality between the Spanish authorities and the 
+ESM required banks to undergo a stress test to determine their capital needs. Following the 
+completion of the stress test, FROB injected EUR 17.9 billion into BFA -Bankia in November 
+2012 (Sankar 2021) . FROB contributed bonds issued by the ESM 6 in this measure (EC 
+2012a). BFA-Bankia Group transferred EUR 10.7 billion of this capital to Bankia in the form 
+of contingency convertible bonds (CoCos) qualifying as capital principal so that Bankia could 
+meet its solvency requirements. Bankia converted these CoCos into ordinary shares in the 
+first quarter of 2013 (EC 2012a). 
+Analytical Separation of BFA and Bankia’s “Legacy Unit” 
+For analytical purposes, Spanish authorities required Bankia to split its assets between a 
+Steady Bank Unit focused on retail banking and SME lending and a Legacy Unit  focused on 
+businesses, assets, and liabilities that were going to be sold, discontinued, or held to 
+maturity. The Legacy Unit consisted of the noncore subsidiaries and equity stakes that were 
+to be divested. The authorities then  transferred Bankia’s nonperforming assets to a state-
+backed asset management company , SAREB (EC 2012a). BFA-Bankia Group continued to 
+manage both units under one legal entity (EC 2012e).   
+Between 2012 and 2017, authorities planned to shrink the Legacy Unit’s balance sheet by 
+30–40% and close a ll remaining bank branches not associated with the Steady Bank Unit’s 
+business lines (EC 2012e). 
+Conversion of Debt into Equity 
+In June 2012, just three months after FROB became the sole shareholder  of BFA and wiped 
+out the existing shareholders, FROB had to inject EUR 4.5 billion into the holding company. 
+However, Bankia, the banking subsidiary, was only 52.4% owned by BFA (which in turn was 
+then owned by FROB), and the remainder was held by private investors. The restructuring 
+ 
+6 In June 2012, the Spanish government sought assistance in the form of a loan from the ESM to cover the capital 
+shortfall noted in several Spanish banks at the time. On December 11, 2012, the ESM transferred funds 
+collectively worth EUR 39.7 billion for the recapitalization of BFA -Bankia, CatalunyaCaixa, NCG Banco and 
+Banco de Valencia. FROB utilized close to EUR 37 billion from this source of funding (ESM n.d.a). 
+547
+Spain: BFA-Bankia Group Restructuring Swaminathan
+
+--- Page 16 ---
+plan dictated that any further capital injection in Bankia would be borne by these private 
+shareholders, and not FROB (EC 2012e).  
+FROB converted EUR 3.2 billion in BFA’s preference shares (haircut 20–30%), EUR 0.4 billion 
+in BFA’s perpetual instruments (haircut 10–20%), and EUR 3.3 billion in BFA’s subordinated 
+debt (also haircut 10 –20%) into Bankia’s ordinary shares in view of the losses incurred by 
+the BFA-Bankia Group. Some dated subordinated debtholders were offered the opportunity 
+to convert into equity or senior debt (EC 2012e).  
+Thus, in May 2013, subordinated debt holders were partly written off and partly converted 
+to common equity (Donnelly and Pometto 2024; Hay and Unmack 2012). 
+Asset Transfer 
+BFA-Bankia transferred EUR 22.4 billion in real estate assets, close to half of their EUR 46.4 
+billion book value,  to an asset management company, SAREB, created in 2012 (for more 
+information on SAREB, see (EC 2012a; Tam and Fulmer 2021) . Some of t hese assets were 
+highly impaired, with a market value of EUR 15.9 billion . SAREB absorbed all real estate 
+assets (both performing and impaired) from all banks with State Aid (EC 2012e). SAREB 
+purchased the assets with state-backed bonds with a one - to three-year maturity, paying a 
+yield equal to  the lower of the Spanish government bond yield for the same (EC 2012e; 
+SAREB 2019). Of the EUR 22.4 billion, Bankia received EUR 19.5 billion in SAREB securities 
+for its assets and BFA received EUR 2.9 billion in SAREB securities for assets owned by it and 
+non-Bankia BFA subsidiaries. Figure 3 shows the ownership structure of Bankia in December 
+2012. 
+  
+548
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 17 ---
+Figure 3: Ownership Structure of Bankia as of December 2012 
+ 
+Source: Author’s analysis.  
+9. Treatment of Creditors and Equity Holders: Equity shareholders of Bankia were 
+wiped out, and BFA wrote off FROB’s 2011 equity injection . The conversion of 
+BFA’s convertible shares into ordinary shares made FROB the sole shareholder of 
+BFA in 2012. In 2013, the hybrid instruments were converted to ordinary shares.  
+After independent valuers established a negative economic value for BFA-Bankia Group on June 
+25, 2012, FROB decided to convert all  of its convertible preference shares in BFA into ordinary 
+equity. This action materialized since the restated accounts of the BFA -Bankia Group posted 
+losses amounting to EUR 5 billion and the negative valuation of EUR 13.6 billion accorded to the 
+BFA-Bankia Group made it impossible for the co mpany to buy back the convertible preference 
+shares issued by FROB. The conversion of convertible preference shares into ordinary shares 
+made FROB the sole shareholder  of the ordinary shares of BFA . On September 3, 2012, FROB 
+injected EUR 4.5 billion into BFA so that it could meet regulatory capital requirements; as these 
+proceeds were lent to Bankia, BFA’s stake in Bankia remained unchanged (EC 2012a).  
+Ultimately, 45.54% of Bankia’s equity was held by FROB through BFA while the remaining 
+54.46%7 was held by shareholders who participated in the July 2011 IPO and by other holders 
+of hybrid instruments, which were converted into ordinary shares in 2013. The MoU required 
+ 
+7 Although the EC and other sources cite the division of equity as 45.54% to FROB and 54.46% to the private 
+shareholders, the 2011 Bankia annual report gives the percentages  as 68.4% to FROB and 31.6% to private 
+shareholders (Bankia 2013; EC 2012a). 
+ 
+549
+Spain: BFA-Bankia Group Restructuring Swaminathan
+
+--- Page 18 ---
+that all losses be borne by the shareholders in proportion to their stake prior to any new capital 
+injection by FROB. Consequently, holders of preference shares (EUR 3.2 billion) and perpetual 
+dated subordinated debt instruments (EUR 3.4 billion) were subjected to deep discounts on the 
+nominal values of their instruments which were bought back  by the BFA -Bankia Group; the 
+proceeds of these buybacks were automatically converted to ordinary shares in Bankia with the 
+sole exception of dated subordinated debt, whose holders were given the opportunity to convert 
+these instruments into more senior de bt instruments and ordinary shares or equivalents to 
+ordinary shares (EC 2012a).  
+Consequently, existing private shareholders were subjected to a 99.5% haircut (Philippon and 
+Salord 2017).  
+There was little bail -in-able senior debt left in Bankia since the Spanish law mandated that 
+senior debt was at the same level of priority as deposits and in any case, there was no 
+appetite at the European level for losses to be imposed on senior debt (Santos 2017).  
+Spanish media reported that close to 350,000 shareholders were affected by FROB’s move 
+to wipe them out through the valuation of each share at EUR 0.01. Most of these shareholders 
+were small savers who were not aware of these risks when Bankia had marketed its offerings 
+to them before it went into its IPO (Tremlett 2013). 
+Consequently, a group of 660 small investors filed a class action lawsuit demanding 
+reimbursement amounting to EUR 6.3 million in 2016 . The suit accused Bankia of having a 
+misleading prospectus (Agence France Presse 2016). Ultimately, by 2020, Bankia set aside 
+EUR 1.9 billion in provisions to pay retail investors in several separate civil lawsuits. 
+Although former Bankia chairman Rodrigo Rato was acquitted of wrongdoing pertaining to 
+Bankia’s listing in 2020, he was sentenced in October 2018 to 4.5 years in prison by Spain’s 
+High Court and later by the Supreme Court for embezzlement of Bankia’s funds. (Aguado and 
+Pinedo 2020; Sanz, White, and Aguado 2017). 
+10. Treatment of Clients: Affected customers were tr ansferred to the nearest core 
+branch. 
+As far as the divestment of assets in the Legacy Unit was concerned, the activities at such 
+branches ceased three months before their closure . The bank informed all the affected 
+customers and clients personally and via mail about the closure and offered the possibility 
+of transferring their accounts to the nearest core branch (EC 2012a). 
+11. Treatment of Assets: Real estate assets were transferred to the asset management 
+vehicle, SAREB, at a transfer price of EUR 22.4 billion. 
+Real estate assets were transferred to an asset management vehicle named SAREB. This asset 
+management vehicle was set up by FROB in consultation with the EC, ESM, IMF, BoS, ECB and 
+the Ministry of Economic Affairs and Competitiveness. The maximum amount of impaired 
+assets that could be transferred to SAREB was capped at EUR 90 billion (taking into 
+consideration the portfolios of all the other institutions being restructured in Spa in at the 
+time, not just BFA-Bankia) (EC 2012e). SAREB was set up as a limited liability company with 
+550
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 19 ---
+its own funding amounting to approximately 8% of the volume of its total assets . T he 
+majority holding was to be held by private investors while the rest o f the stake (45%) was 
+held by FROB (EC 2012e; Sankar 2021) . SAREB paid EUR 22. 4 billion for these assets (EC 
+2012e). These assets were purchased by SAREB on December 31, 2012, using state-
+guaranteed debt securities issued by SAREB; they carried a one to th ree-year maturity (EC 
+2012e; Tam and Fulmer 2021). These bonds, which BFA and Bankia subscribed to, deferred 
+the payment of the difference between the transfer price and the value of the bonds for a 
+period of 36 months (with a possibility of it being offset by SAREB with any amount owed to 
+it by BFA-Bankia under the asset transfer contract). SAREB awarded the servicing of the real 
+estate portfolio of Bankia to Solvia Servicios Inmobiliarios, S.L .U. and the loan portfolio of 
+BFA-Bankia to Haya Real Estate between November and December 2014 (SAREB 2019).  
+12. Treatment of Board and Management: The restructuring process was overseen by 
+a new management. 
+In May 2012, Bankia appointed four new top management officials: a new chairman, a new 
+president who would look into financial and risk management strategies, an official in charge 
+of people, media, and technology, and another official to lead the retail division (CaixaBank 
+n.d.; EC 2012e). This appointment followed the resignation of chairman Rodrigo Rato who 
+resigned over disagreements over the audited financial statements and proposed José 
+Ignacio Goirigolzarri, a former chief executive of Banco Bilbao Vizcaya Argentaria (BBVA), as 
+the successor (Barrón 20 12; Minder 2012) . The change in management accelerated the 
+bank’s restructuring, because  the new chairman announced a capital shortfall of EUR 4.3 
+billion as opposed to a surplus that Rato had reported. Goirigolzarri promptly requested a 
+bailout from the government and submitted to stress tests conducted by the BoS and Oliver 
+Wyman (Donnelly and Pometto 2024). 
+13. Cross-Border Cooperation:  The restructuring of BFA and Bankia involved the  
+cooperation of the EC, ECB, EBA, IMF and the ESM. 
+The restructuring of BFA and Bankia involved cross-border cooperation since the IMF, EC, 
+ECB, EBA, and the ESM  monitored Bankia in connection with the Spanish authorities . 
+Moreover, the design of SAREB was influenced by discussions the Spanish authorities had 
+with the ESM, EC, ECB and the IMF (EC 2012a).  
+14. Other Conditions: FROB implemented several behavioral restric tions on BFA and 
+Bankia during the restructuring period as a result of receiving State Aid. 
+FROB imposed several restrictions on BFA and Bankia during its restructuring. This included 
+a ban on acquisitions, a ban on coupon payments made to preference share holders and 
+subordinated debt holders, a ban on using resources received from the aid towards 
+advertising, restrictions on dividend payments and a ban on undertaking aggressive 
+commercial practices (such as having competitive interest rate offerings). Authorities 
+restricted the bank’s lending activity, prohibiting lending to any new regions, real estate 
+developments, and some wholesale and international activity (EC 2012e).  
+551
+Spain: BFA-Bankia Group Restructuring Swaminathan
+
+--- Page 20 ---
+15. Duration: The bank’s 2012–17 restructuring plan ended in 2017 with most goals 
+accomplished. As of the writing of this case, the Spanish authorities have 
+postponed to 2025 their deadline to divest their stake in the merged institution 
+that the erstwhile Bankia was part of. 
+The EC approved the restructuring plan for Bankia on November 28, 2012, which outlined 
+that by 2017 the balance sheet of Bankia would shrink by more than 60% relative to 2010  
+(FDIC 2014) . FROB held an indirect stake (owned via BFA) of 61% in Bankia which it 
+intended to divest by December 2021 through a merger with BMN (Sankar 2021) . In 
+December 2017, FROB merged Bankia with BMN, with BMN ceasing to exist and the FROB 
+holding a 61.8% stake in the resulting institution, through BFA (Reuters 2021; Zahid 2017). 
+The period of the bank’s 2012 –17 restructuring plan ended on December 31, 2017  
+(CaixaBank n.d.; EC 2012a). In February 2021, the Spanish authorities decided to extend the 
+deadline of divesting their stake in BMN -Bankia to 2023 (which has now been extended to 
+2025); at the time of writing this case, FROB still holds a 17.3% stake in CaixaBank, after 
+BMN-Bankia was merged with CaixaBank in 2021 (CaixaBank 2023; Reuters 2021). 
+  
+552
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 21 ---
+References and Key Program Documents 
+Summary of Program 
+(Bankia n.d.) Bankia. n.d. “Bankia Launches Its IPO after Registering Its Prospectus with the 
+CNMV.” 
+Prospectus detailing the Bankia IPO of July 2011. 
+https://ypfs.som.yale.edu/node/24509/ 
+(CaixaBank 2023) CaixaBank. 2023. “Capital Distribution,” September 30, 2023.  
+Information on CaixaBank’s capital distribution as of September 30, 2023. 
+https://ypfs.som.yale.edu/node/24210 
+(CaixaBank n.d.) CaixaBank. n.d. “Historical Review of Bankia - About Bankia.” Accessed 
+July 21, 2023. 
+Webpage on Bankia. 
+https://ypfs.som.yale.edu/node/24211 
+(EC 2012a) European Commission (EC). 2012a. “State Aid SA.35253 (2012/N) –  Spain – 
+Restructuring and Recapitalisation of the BFA Group,” 2012.  
+EC document on the restructuring of BFA-Bankia. 
+https://ypfs.som.yale.edu/node/24212 
+(EC 2012b) European Commission (EC). 2012b. “State Aid N° SA. 33735 (2012/N) – Spain – 
+Restructuring of Catalunya Banc S.A.,” November 28, 2012.  
+EC State Aid document on the restructuring of Catalunya Banc SA. 
+https://ypfs.som.yale.edu/node/24502/ 
+(EC 2012c) European Commission (EC). 2012c. “St ate Aid N° SA.33734 (2012/N) – Spain 
+– Restructuring of NCG,” November 28, 2012. 
+EC document on the restructuring of NCG. 
+https://ypfs.som.yale.edu/node/24503/ 
+(EC 2012d) European Commission (EC). 2012d. “State Aid N° SA.34053 (2012/N) – Spain – 
+Recapitalisation and Restructuring of Banco de Valencia S.A.,” November 28, 2012.  
+EC document on the restructuring of Banco de Valencia SA. 
+https://ypfs.som.yale.edu/node/24504/ 
+(EC 2012e) European Commission (EC). 2012e. “State Aid SA.35253 (2012/N)  – Spain 
+– Restructuring and Recapitalisation of the BFA Group,” November 28, 2012.  
+EC document on the restructuring of BFA-Bankia. 
+https://ypfs.som.yale.edu/node/24209 
+(ESM n.d.a) European Stability Mechanism (ESM). n.d.a. “How Much Financial Assistance 
+Did the ESM Provide to Spain?” Accessed October 4, 2023.  
+Webpage on the details of the aid provided by the ESM to Spain. 
+https://ypfs.som.yale.edu/node/24193 
+553
+Spain: BFA-Bankia Group Restructuring Swaminathan
+
+--- Page 22 ---
+(ESM n.d.b) European Stability Mechanism (ESM). n.d.b. “Spain: Programme Overview.”  
+Webpage on the disbursement of ESM aid to Spain. 
+https://ypfs.som.yale.edu/node/24513/ 
+(FROB 2020) Fondo de Reestructuración Ordenada Bancaria (FROB). 2020. “About FROB: 
+Nature and Legal Status,” 2020. 
+Webpage describing FROB’s legal status. 
+https://ypfs.som.yale.edu/node/16495 
+Implementation Documents 
+(ESM 2012) European Stability Mechanism (ESM). 2012. “Financial Assistance Facility 
+Agreement,” 2012. 
+Agreement for the loan provided by the ESM to BFA-Bankia. 
+https://ypfs.som.yale.edu/node/24505/ 
+(Kingdom of Spain 2012) Kingdom of Spain. 2012. “Spain – Memorandum of Understanding 
+on Financial-Sector Policy Conditionality,” July 20, 2012. 
+MoU between Spain and the EC that brought about the restructuring of BFA-Bankia. 
+https://ypfs.som.yale.edu/node/17227 
+Legal/Regulatory Guidance 
+(Global Regulation n.d.) Global Regulation. n.d. “Machine Translation of ‘Royal Decree -Law 
+24/2012 August 31, of Restructuring and Resolution of Credit Institutions.’ (Spain).” 
+Accessed December 6, 2023. 
+English translation of of Spain’s 2012 Royal Decree-Law on restructuring. 
+https://ypfs.som.yale.edu/node/24514/ 
+Media Stories 
+(Agence France Presse 2016) Agence France Presse. 2016. “Spain’s Bankia Hit by Class 
+Action Lawsuit over 2011 Listing,” February 4, 2016.  
+News article on a class action lawsuit against Bankia for its misleading IPO. 
+https://ypfs.som.yale.edu/node/24515/ 
+(Aguado and Pinedo 2020) Aguado, Jesus, and Emma Pinedo. 2020. “Ex -IMF Head Rato 
+Acquitted over Bankia IPO, Prompts Legal Change Calls.” Reuters, September 29, 2020.  
+News article on the acquittal of former Bankia head Rodrigo Rato. 
+https://ypfs.som.yale.edu/node/24216 
+(Barrón 2012) Barrón, Íñigo de. 2012. “Rato Resigns as Bankia Chairman Ahead of 
+Government Shake-Up.” El País, May 7, 2012. 
+News article on the resignation of Bankia chairman Rato. 
+https://ypfs.som.yale.edu/node/24516/ 
+554
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 23 ---
+(Gutiérrez 2020) Gutiérrez, Hugo. 2020. “Cronología del ‘caso Bankia’: hitos clave del fiasco 
+del banco.” El País, September 29, 2020.  
+News article on the timeline of Bankia (in Spanish). 
+https://ypfs.som.yale.edu/node/24221 
+(Hay and Unmack 2012) Hay, George, and Neil Unmack. 2012. “Breaking Views: Spain’s 
+Bank Rescue Is Part Bail-in, Part Bail-Out.” Reuters, November 29, 2012. 
+Article on the restructuring of BFA-Bankia after its deteriorating financial position. 
+https://ypfs.som.yale.edu/node/24223 
+(Mallet and Johnson 2012) Mallet, Victor, and Miles Johnson. 2012. “The Bank That Broke 
+Spain.” Financial Times, June 21, 2012. 
+News article on the collapse of BFA-Bankia. 
+https://ypfs.som.yale.edu/node/24192 
+(Minder 2012) Minder, Raphael. 2012. “Executive Chairman Resigns at Bankia, the 
+Troubled Spanish Real Estate Lender.” New York Times, May 8, 2012.  
+News article on the resignation of BFA-Bankia’s chairman. 
+https://ypfs.som.yale.edu/node/24215 
+(Minder 2014) Minder, Raphael. 2014. “Bailed-Out Bankia Is Symbol of Spain’s Financial 
+Revival.” New York Times, January 14, 2014. 
+News article on the status of Bankia after the crisis. 
+https://ypfs.som.yale.edu/node/24214 
+(Reuters 2021) Reuters. 2021. “Spain’s Bankia Stake Sale Dead line Extended by Two 
+Years,” February 16, 2021. 
+News article on FROB’s decision to extend its deadline pertaining to divestment of its stake in 
+Bankia. 
+https://ypfs.som.yale.edu/node/24217 
+(Sanz, White, and Aguado 2017) Sanz, Inmaculada, Sarah White, and Jesus Aguado. 2017. 
+“Ex-IMF Boss Rato Sentenced to Jail in Spain over Credit Card Scandal,” February 23, 2017.  
+Article on the imprisonment of Rodrigo Rato. 
+https://ypfs.som.yale.edu/node/24517/ 
+(Tremlett 2013) Tremlett, Giles. 2013. “Bankia Investors Fear Stock Will Be Declared 
+Worthless.” The Guardian, February 14, 2013. 
+News article on the write-down of Bankia’s shares. 
+https://ypfs.som.yale.edu/node/24218 
+(Zahid 2017) Zahid, Jasim. 2017. “Bankia, BMN Merger Cleared; Banco BPM Completes 
+Deal; Italy Heads for Elections.” S&P Global Market Intelligence, December 29, 2017.  
+News article on the Bankia-BMN merger. 
+https://ypfs.som.yale.edu/node/24219 
+  
+555
+Spain: BFA-Bankia Group Restructuring Swaminathan
+
+--- Page 24 ---
+Press Releases/Announcements 
+(FROB 2012) Fondo de Reestructuración Ordenada Bancaria (FROB). 2012. “Comunicado 
+Del FROB Sobre Los Resultados de Las Cuentas Semestrales Del Grupo BFA/Bankia.” Press 
+release, August 31, 2012. 
+FROB press release on the restructuring of BFA-Bankia (in Spanish). 
+https://ypfs.som.yale.edu/node/24506/ 
+(FROB 2023) Fondo de Reestructuración Ordenada Bancaria (FROB). 2023. “Press Release 
+- BFA/Bankia Restructuring.” Press release from the FROB on the restructuring of BFA -
+Bankia Press release, April 16, 2023. 
+Press release from the FROB on BFA/Bankia’s restructuring. 
+https://ypfs.som.yale.edu/node/24191 
+Reports/Assessments 
+(Bank of Spain 2012) Bank of Spain. 2012. “Briefing Note on Royal Decree -Law 24/2012 on 
+Restructuring and Resolution of Credit Institutions,” September 25, 2012 . 
+Explanation of Royal Decree-Law 24/2012. 
+https://ypfs.som.yale.edu/index.php/node/4454 
+(Bank of Spain 2019) Bank of Spain. 2019. “Financial Stability Review, Issue 36,” 2019.  
+Report on the interventions in BFA-Bankia. 
+https://ypfs.som.yale.edu/node/24507/ 
+(Bankia 2011) Bankia. 2011. “Bankia IPO Prospectus,” 2011.  
+Bankia’s prospectus detailing its intention to raise capital (in Spanish). 
+https://ypfs.som.yale.edu/node/24510/ 
+(Bankia 2013) Bankia. 2013. “BFA-Bankia Report,” 2013. 
+Bankia’s annual report for the financial year 2012 (in Spanish). 
+https://ypfs.som.yale.edu/node/24511/ 
+(BFA 2013) BFA. 2013. “Annual Accounts,” 2013.  
+BFA annual report for 2012 (in Spanish). 
+https://ypfs.som.yale.edu/node/24512/ 
+(FDIC 2014) Federal Deposit Insurance Corporation (FDIC). 2014. Bankia, S.A: Tailored 
+Resolution Plan. 
+Public section of a report on Bankia’s resolution plan published by the FDIC pursuant to Dodd-
+Frank Act requirements. 
+https://ypfs.som.yale.edu/node/24207 
+(FROB 2014) Fondo de Reestructuración Ordenada Bancaria (FROB). 2014. “Annual 
+Accounts 2013,” 2014. 
+FROB annual report for 2013 (in Spanish). 
+https://ypfs.som.yale.edu/node/24194 
+556
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 25 ---
+(IMF 2012) International Monetary Fund (IMF). 2012. “Spain: Financial Sector Reform —
+First Progress Report.” IMF Country Report No. 12/318, November 2012. 
+IMF report on the financial conditions of Spain. 
+https://ypfs.som.yale.edu/node/24508/ 
+(Philippon and Salord 2017) Philippon, Thomas, and Aude Salord. 2017. “Bail -Ins and Bank 
+Resolution in Europe: A Progress Report.” In ternational Center for Monetary and Banking 
+Studies, Geneva Reports on the World Economy, Special Report 4, March 2017. 
+Geneva report on bail-ins in Europe. 
+https://ypfs.som.yale.edu/node/23946 
+(SAREB 2014) Sociedad de Gestión de Activos procedentes de la Reestructuración Bancaria 
+(SAREB). 2014. SAREB Annual Report 2013. 
+SAREB’s annual report for 2013. 
+https://ypfs.som.yale.edu/node/4483 
+(SAREB 2019) Sociedad de Gestión de Activos procedentes de la Reestructuración Bancaria 
+(SAREB). 2019. Annual Activity Report 2018. 
+SAREB annual report for 2018. 
+https://ypfs.som.yale.edu/node/4484 
+(SAREB 2021) Sociedad de Gestión de Activos procedentes de la Reestructuración Bancaria 
+(SAREB). 2021. SAREB Annual Activity Report 2020. 
+SAREB annual report for 2020. 
+https://ypfs.som.yale.edu/node/24213 
+Key Academic Papers 
+(Baudino, Herrera, and Restoy 2023) Baudino, Patrizia, Mariano Herrera, and Fernando 
+Restoy. 2023. “The 2008-14 Banking Crisis in Spain.” Bank for International Settlements, 
+Financial Stability Institute, FSI Crisis Management Series, No. 4, July 2023. 
+Paper on the banking crisis in Spain that followed the GFC, published by the Financial 
+Stability Institute of the Bank for International Settlements. 
+https://ypfs.som.yale.edu/node/24208 
+(de Cominges 2016) Cominges, Álvaro Moreno de Alborán de. 2016. “Bankia: Its Valuation 
+Using Different Methodologies,” 2016. 
+ICADE Business School master’s thesis on Bankia’s valuation. 
+https://ypfs.som.yale.edu/node/24220 
+(Donnelly and Pometto 2024) Donnelly, Shawn, and Gaia Pometto. 2024. “Banking 
+Nationalism and Resolution in Italy and Spain.” Government and Opposition 59, 187–206, 1–
+20. 
+Article comparing the resolutions of banks in Italy and Spain (first published online on August 
+2, 2022). 
+https://ypfs.som.yale.edu/node/23524/ 
+557
+Spain: BFA-Bankia Group Restructuring Swaminathan
+
+--- Page 26 ---
+(Huizinga 2022) Huizinga, Harry. 2022. “Institutional Protection Schemes – What Are Their 
+Differences, Strengths, Weaknesses, and Track Records?” European Parliament – Economic 
+Governance Support Unit (EGOV) In-Depth Analysis, March. 
+Paper examining institutional protection schemes. 
+https://ypfs.som.yale.edu/node/24222 
+(McNamara et al. 2024) McNamara, Christian M., Carey K. Mott, Salil Gupta, Greg Feldberg, 
+and Andrew Metrick. 2024. “Survey of Resolution and Restructuring in Europe, Pre - and 
+Post-BRRD.” Journal of Financial Crises 6, no. 1. 
+Survey of YPFS case studies examining 21st-century bank resolutions and restructurings in 
+Europe before and after the existence of the Bank Recovery and Resolution Directive. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/1 
+(Otero-Iglesias, Royo, and Steinberg 2016) Otero-Iglesias, Miguel, Sebastián Royo, and 
+Federico Steinberg. 2016. “The Spanish Financial Crisis: Lessons for the European Banking 
+Union.” Informe Elcano, no. 20, March 20, 2016.  
+Article discussing the Spanish banking crisis (in Spanish). 
+https://ypfs.som.yale.edu/library/document/spanish-financial-crisis-lessons-european-
+banking-union 
+(Sankar 2021) Sankar, Priya. 2021. “Spain – Fondo de Reestructuración Ordenada Bancaria 
+(FROB) Capital Injections.” Journal of Financial Crises 3, no. 3: 598–649. 
+YPFS case study on capital injections performed by the FROB. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/28 
+(Santos 2017) Santos, Tano. 2017. “El Diluvio: The Spanish Banking Crisis, 2008 -2012.” 
+Columbia University and NBER, July. 
+Paper examining the Spanish banking crisis. 
+https://ypfs.som.yale.edu/node/3125 
+(Tam and Fulmer 2021) Tam, David, and Sean Fulmer. 2021. “Spain: Sociedad de Gestión de 
+Activos Procedentes de La Reestructuración Bancaria (SAREB).” Journal of Financial Crises 
+3, no. 2: 726-756. 
+YPFS case study on the asset management agency SAREB. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/30/ 
+(World Bank 2016) World Bank. 2016. “Bank Resolution and ‘Bail -In’ in the EU: Selected 
+Case Studies Pre and Post BRRD.” World Bank Group – Finance&Markets, December 12, 
+2016. 
+Collection of World Bank case studies about bail-in measures taken in Europe before and after 
+the BRRD. 
+https://elischolar.library.yale.edu/ypfs-documents2/1190 
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, ple ase contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+558
+Journal of Financial Crises Vol. 6 Iss. 1

@@ -1,0 +1,228 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 2 
+2022 
+Lessons Learned: Scott G. Alvarez, Esq., Part 2 Lessons Learned: Scott G. Alvarez, Esq., Part 2 
+Steven Kelly 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, 
+and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Kelly, Steven (2022) "Lessons Learned: Scott G. Alvarez, Esq., Part 2," Journal of Financial Crises: Vol. 4 : 
+Iss. 2, 2022-2026. 
+DOI: https://doi.org/10.17132/2693-3179.1379 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/90 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss2/90
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned  
+Scott G. Alvarez, Esq., Part 2 
+By Steven Kelly 
+Scott G. Alvarez was general counsel of the Federal Reserve Board during the Global Financial 
+Crisis (GFC). He met with the Yale Program on Financial Stability (YPFS) to discuss a litany of 
+legal aspects related to the Fed’s interventions under its emergency liquidity provision author-
+ity under Section 13(3) of the Federal Reserve Act. We summarize some highlights from our 
+April 2022 interview with Mr. Alvarez below; the full transcript of thi s interview is available 
+here. The transcript of an earlier Lessons Learned interview with Mr. Alvarez, conducted in 
+2018, can be accessed here. 
+The genesis and design of each  Section 13(3) facility tends to be a very cooperative 
+process between the Federal Reserve Banks and the Board. The individual Reserve 
+Banks are essential for operationalizing emergency lending facilities. 
+Alvarez emphasized how organic and cooperative the process for developing an emergency 
+lending facility was across the Federal Reserve System during the GFC. While Section 13(3) 
+implementation involves the regional Reserve Bank(s) running the program(s), being satis-
+factorily secured, recommending the interest rates, and more, the Board played a very direct 
+role in the analysis and design of such facilities before ultimately authorizing them. It began 
+with monitoring market and economic developments, a collaborative and ongoing effort be-
+tween Reserve Banks and Board staff.  
+What would usually happen was . . . for the broad-based facilities, we were watching 
+the markets, watching what was going on; economists at the Board and economists 
+at the Reserve Banks were paying attention to that on a moment-by-moment basis. 
+As unusual developments were identified, Alvarez recalled, the Board focus ed on the issue 
+and assigned a team composed of Board staff and  Reserve Bank staff to assess the need for 
+an emergency facility and possibly design the terms:  
+And so, when it looked like there was a market that was becoming illiquid, jamming 
+up, freezing for one reason or another, the interest rates were getting out of whack or 
+the transactions were becoming just too few, generally what would happen was 
+somebody at the Board would raise a concern —[former Fed Vice Chair] Don Kohn 
+was in charge of a lot of the coordination. And Don would have these regular meetings 
+with staff. And we would brainstorm about various things. And then a person or a 
+group of people wo uld be sent off to develop a facility. And they would be in touch 
+with the Reserve Bank people, and there’d be Reserve [Bank] people and Board staff 
+on the same group. And we would be talking by phone and emails to try to figure out 
+what would be a sensible approach and what we could actually operationally do. 
+A facility ultimately gets operationalized by a Reserve Bank—typically the Federal Reserve 
+Bank of New York. However, Alvarez said that in 2008 the Federal Reserve Bank of Boston  
+2022
+
+--- Page 4 ---
+had volunteered to ru n any facility they could. With the New York Fed getting particularly 
+busy, and many money market funds located in the Boston district,  the Asset-Backed Com-
+mercial Paper Money Market Mutual Fund Liquidity Facility (AMLF) was assigned to be run 
+out of Boston. 
+Alvarez also discussed how any possible changes to the facilities after their initial authoriza-
+tions were also subject to ongoing communication across the Fed system. While some facility 
+changes received official Board votes, others were implemented at the regional Fed level. A 
+facility would be presented to the Board informally, with appropriate  details, but also 
+broadly—to get the Board’s view generally. That would help indicate when a change might 
+need to go to a vote at the Board , or when it could be implemented under the existing au-
+thorization granted to the Reserve Bank. Moreover, Alvarez noted: 
+There was a lot of walki ng around the halls to get a sense of what the governors 
+thought and keeping them up to speed, just briefing them on things. And you ’d get a 
+sense of, “Well, do they care enough about this?” If somebody objects, let’s get every-
+body together and talk it through. If everybody says, “this is fine,” then you just move 
+forward. Because time was of the essence on a lot of these things. You know, it was 
+very dynamic in that respect. 
+Section 13(3)’s requirement that the provision of liquidity be “indorsed or otherwise 
+secured to the satisfaction of the Federal Reserve Bank” has a large discretionary com-
+ponent—but cannot be less than reasonably expecting repayment. The Dodd-Frank 
+Act of 2010, by explicitly adding that the Fed  must be secured sufficient to “protect 
+taxpayers from losses,” effectively codified the Fed’s existing interpretation of 13(3). 
+During the GFC, Fed policy makers and legal staff were of the view that, for the Fed to be 
+secured to its satisfaction, it had to be reasonably confident it would be fully repaid. While 
+the central bank may experience some losses in its operations, the ex-ante expectation of loss 
+was seen as a fiscal decision.  The Dodd-Frank Act, among other amendments, added lan-
+guage to 13(3) to require that all discounting be secured sufficiently enough “to protect tax-
+payers from losses.” 
+Alvarez did not view this addition as meaningfully changing the Fed’s implementation of the 
+statute. Alvarez said of their pre-Dodd-Frank interventions during the GFC: 
+The Fed was very aware that we were trying to mitigate the financial crisis using tax-
+payer money—any losses the Fed experienced on its emergency lending would have 
+been borne by the taxpayer through [the] reduced Fed earnings needed to cover those 
+losses. 
+Indeed, he viewed the new language as standing behind the Fed’s practice to not provide 
+assistance in cases where the risk of bearing losses was more appreciable. 
+Alvarez also noted that while the expectation of repayment served as a “kind of floor” on 
+being satisfactorily secured, that determination was the second step in any emergency 
+2023
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 5 ---
+intervention. He said the Fed viewed the first consideration  under Section 13(3) to be  
+whether to provide liquidity at all and that the Fed centered this determination on the sys-
+temic importance of the target of the intervention. Then, the Fed would think about being 
+able to get sufficiently secured. He said of the GFC: 
+Even if there is a lot of s ecurity, the Fed has no obligation to lend under 13(3). It ’s 
+totally discretionary. And the Fed could decide it’s just not going to lend to someone. 
+Indeed, during 2007-2009, we were inundated with requests from people to borrow 
+from the Fed, and they were  pledging everything you can imagine. And the Fed said 
+all but a few handfuls of times, “no, we’re not gonna do it.” And it was largely because 
+the Fed thought that a lot of the borrowers were not systemically important. They 
+could be allowed to fail. 
+Regulation A is but one outline of an authorization to the Reserve Banks to lend under 
+Section 13(3). It does not define the outside limits of the Fed’s statutory authority un-
+der 13(3). 
+Regulation A (Reg A) does not strictly define the limits of the Fed’s statutory authority under 
+Section 13(3), as is sometimes presumed, but instead outlines  “one specific authorization”  
+under the authority. Alvarez noted that Reg A is not written like other bank regulation, which 
+is narrowly prescriptive; rather , Reg A outlines an ongoing authorization to the Reserve 
+Banks if the terms of Reg A are met.  
+However, it may not always be fit ting for the contours of a given cr isis, and it was regularly 
+deviated from during the GFC. As Alverez noted, during the GFC the Board approved many 
+broader additional tools under Section 13(3): “All the broad-based lending facilities are out-
+side of what Reg A authorized.” Alvarez stressed that the rule represented “the way the Fed 
+was feeling about discount window and other kinds of loans at the time it wrote Reg A.”  It 
+does not exhaustively outline the authorities provided by the 13(3) statute—and may not be 
+able to. He noted that, for instance, Reg A had not contemplated broad-based 13(3) facilities 
+in advance of the GFC. 
+But what we were confronting during the financial crisis was a need for lending far 
+beyond what Reg A had authorized, what Reg A contemplated. When Reg A was writ-
+ten, they didn't know that they would need broad -based facilities or other kinds of 
+stuff. And so, the question was, can the Fed do that without amending Reg A? 
+And it seemed pretty clear and simple to me that it could, as long as the Board did the 
+authorization in accordance with Section 13(3). And so, the Reserve Banks were free 
+to ask the Board for authority to lend under different conditions than Reg A had au-
+thorized. And the Board obviously did that. 
+While a Reserve Bank is free to submit a 13(3) program proposal to the Board that does not 
+strictly hew to Reg A, following the regulation more closely  may increase the likelihood of 
+the Board approving the structure—particularly if Reg A is still representative of the Board’s 
+views on emergency liquidity assistance. 
+2024
+Lessons Learned: Scott G. Alvarez, Esq., Part 2 Kelly
+
+--- Page 6 ---
+Utilizing an SPV structure brings several operational benefits. Contrary to a common 
+misconception, the structure is not used to satisfy a legal requirement. 
+While many have attributed the Fed’s frequent use of special purpose vehicles (SPVs) to im-
+plement its 13(3) interventions as having to do with a legal requirement, this has not been 
+the view of the Fed.  
+Many have postulated that the Fed sets up an SPV when it wishes to execute purchases under 
+13(3) owing to a restriction that the statute provides only for lending: the idea being that the 
+SPV executes the purchases, and the Fed lends to the SPV to fund them—thus circumventing 
+this legal restriction . It’s possible that the misconception is attributable to the term “dis-
+count,” a dated banking word. However, the Fed has long interpreted “discount” as being 
+inclusive of both direct advances and purchases of third -party notes—as is consistent with 
+its historical usage.1  
+Indeed, internal legal memos from the GFC era show the Fed evaluating legali ty of the dis-
+counting done via SPVs on a look-through basis—as if the SPV did not exist between the Fed 
+and the SPV’s counterparties.2 Alvarez noted that this evaluation was very important, as the 
+Fed did not want to open itself to accusations that it was simply lending to itself. 
+Alvarez noted that the Fed  viewed use of the SPV structure —including for broad-based fa-
+cilities—as providing management, accounting, and legal advantages to an intervention, es-
+pecially when the Fed operates multiple 13(3) programs in parallel.  
+The idea of doing multiple [SPVs] rather than one is really: it is not easier to have just 
+one SPV for all the facilities and have it be monstrous. 
+Each intervention has its own specific terms, timeline, capital structure, and management 
+team. The management teams may also be in geographically separate Reserve Banks, de-
+pending on which one(s) is administering a given intervention. 
+The SPV structure si mplifies the reporting of income and the management of any sales of 
+assets discounted by the facility. Moreover, the degree of corporate separation from both the 
+Fed and other 13(3) interventions provided by an SPV structure may give those other enti-
+ties some protection in the event a 13(3) program is sued. 
+The “notes, drafts, and bills of exchange” language in Section 13(3) limits the Federal 
+Reserve’s discounting authority to instruments of credit. 
+ 
+1 See also: Federal Reserve Bulletin (March 1958) and June Oversight Report: The AIG Rescue, Its Impact on 
+Markets, and the Government’s Exit Strategy (June 10, 2010). 
+2 See: Legal Memorandum to Board of Governors Re: The Authority of the Federal Reserve  (April 2, 2008) and 
+Memo to File Re: The Authority of the Federal Reserve to Provide Extensions of Credit in Connection with a 
+Commercial Paper Funding Facility (CPFF) (March 9, 2009). 
+2025
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 7 ---
+Under Section 13(3), the Fed may discount “notes, drafts, and bills of exchange,” which limits 
+the Fed to credit transactions. As Alvarez said: 
+To be a note, it has to be an obligation of somebody to repay a set amount at a timing 
+that the parties agree to: Money is given to them, and they have to repay that money. 
+So, there's a lot of ways to document a note, and “bills of exchange” and “drafts” are 
+actually two ways of documenting notes. An advance is another way to document a 
+note. But it’s all credit transactions. 
+While the Fed can accept a much broader range  of assets as collateral, there has to be an 
+underlying credit transaction. According to Alvarez, this would limit the Fed from directly  
+purchasing assets like equities or real assets. 
+For future crisis-fighters, Alvarez says: The statutory authorities really matter! These 
+authorities meaningfully shape crisis-fighters’ response, or lack thereof. 
+And so, I hope that when folks read through the material, they understand not so 
+much, “oh those lawyers were too stodgy, and they didn ’t give their decision makers 
+enough flexibility.” I hope they come away with the idea that, look, it does matter what 
+you write down in the statute! Make it a useful statute that ’s going to allow the gov-
+ernment to respond in a way that is helpful. Otherwise, you do hav e calamities that 
+occur and there is nothing that you can do about them, and, as a decision maker, 
+you're just sort of left to watch, and that ’s painful. Painful for consumers, painful for 
+the economy, not just painful for the decision maker, but painful for the people we’re 
+trying to protect by having this authority. 
+ 
+Dated: July 2022 
+YPFS Lessons Learned No. 2022-09 
+2026
+Lessons Learned: Scott G. Alvarez, Esq., Part 2 Kelly

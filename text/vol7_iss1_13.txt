@@ -1,0 +1,1296 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 7 Issue 1 
+2025 
+Latvia: Parex Bank Emergency Liquidity Program, 2008 Latvia: Parex Bank Emergency Liquidity Program, 2008 
+Bailey Decker 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Finance and Financial Management Commons, Law and Economics Commons, Policy Design, Analysis, 
+and Evaluation Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Decker, Bailey (2025) "Latvia: Parex Bank Emergency Liquidity Program, 2008," Journal of Financial Crises: 
+Vol. 7 : Iss. 1, 309-339. 
+DOI: https://doi.org/10.17132/2693-3179.1623 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/13 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol7/iss1/13
+
+--- Page 3 ---
+Latvia: Parex Bank Emergency Liquidity  
+Program, 20081 
+Bailey Decker2 
+Yale Program on Financial Stability Case Study 
+April 15, 2025 
+Abstract 
+Heading into the Global Financial Crisis, JSC Parex banka was Latvia’s second-largest bank in 
+terms of assets, comprising 13.8% of total assets in the Latvian banking sector.  In autumn 
+2008, Parex faced a capital shortfall owing to massive credit and market losses in addition 
+to liquidity problems and deposit runs of 240 million  Latvian lats (LVL; USD 428.6 million). 
+Parex had two senior syndicated loans maturing in February and June 2009, totaling EUR 
+775 million (USD 992 million) . Latvian authorities said they doubted that Parex would be 
+able to pay back, extend, or replace these loans. Authorities intervened at the beginning of 
+November 2008 to provide liquidity, take over the management, and commit to inject capital 
+at a later date if necessary . To provide liquidity, the Latvian Treasury deposited Treasury 
+securities with Parex that Parex could use as col lateral to borrow cash from the Bank of 
+Latvia; the transaction resulted in a term deposit liability for Parex to the Treasur y. Parex 
+also posted lower -quality collateral to Treasury for the deposits . The parliament amended 
+its Law on Budget and Financial Management to expand the Treasury’s scope for making 
+term deposits in commercial banks. The Treasury granted liquidity support from November 
+2008 to August 2010. In August 2010, the Latvian Privatization Agency split Parex into a new 
+good and remaining bad bank, at which point the liquidity support was also split . The good 
+bank, AS Citadele banka, took four term deposits that were converted t o equity for a 
+recapitalization of LVL 103 million. The bad bank, AS Reverta, took eight term deposits, some 
+of which were converted to equity. In total, Citadele repaid Treasury the full amount of term 
+deposits that it owed, EUR 203.7 million, and EUR 14.7 million in interest—interest accruing 
+since the split of the bank in August 2010 until March 2012. Citadele also paid the Treasury 
+an additional compensation of LVL 3.5 million . In December 2011 all of Reverta’s 
+outstanding term deposits  were converted to debt securities . Reverta repaid  EUR 240.1 
+million of the principal and EUR 154.7 million in interest through 2021. As of the writing of 
+this case, Reverta was still in liquidation. The state ha d lost EUR 339.7 million in liquidity 
+support and lost a total of EUR 767.5 million in the overall rescue of Parex. 
+Keywords: Citadele, emergency liquidity, Latvia, Parex banka, Reverta  
+ 
+1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering ad hoc emergency liquidity provision. A survey of all the cases in this series (Kelly et al. 
+2025) and the individual cases underly ing it are available from the Journal of Financial Crises  at 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/. Wiggins et al. (2022) surveys broad-
+based emergency liquidity programs. 
+2 Research Associate, YPFS, Yale School of Management. 
+309
+
+--- Page 4 ---
+Overview 
+This case study  describes emergency 
+liquidity granted to JSC Parex banka. Parex 
+also received capital injections and 
+underwent restructuring  (Decker 2024a; 
+Decker 2024b).  
+Heading into the Global Financial Crisis  of 
+2007–2009 (GFC) , Parex was Latvia’s 
+second-largest bank  in terms of assets, 
+comprising 13.8% of total assets in t he 
+Latvian banking sector . Parex was 
+especially vulnerable to contagion, as 40% 
+to 50% of deposits were foreign currency, 
+nonresident deposits , a situation that  the 
+European Commission ( EC) and 
+International Monetary Fund ( IMF) 
+characterized as fragile. Parex’s loan 
+portfolio was mostly to residents (Bojāre 
+and Romānova 2017; EC 2008a; IMF 2009; 
+OECD 2016). In autumn 2008, Parex faced 
+increasing a capital shortfall owing to 
+massive credit losses and market losses in 
+addition to liquidity problems and depo sit 
+runs of 240 million Latvian lats (LVL; USD 
+428.6 million)3 (EC 2008a; FCMC 2009a; 
+FCMC 2009b; OECD 2016). Parex’s liquidity 
+indicator4 fell from 44.2% on August 31, 
+2008, to 31.4% on November 4, 200 8; the 
+regulatory minimum was 30%. Parex’s 
+capital adequacy ratio (CAR) fell below the 
+regulatory minimum of 8%  on October 28, 
+2008 (EC 2008a; FCMC 2009b) . The 
+Financial and Capital Market Commission 
+(FCMC) in Latvia then  prohibited Parex 
+from issuing new loans and acquiring new 
+financial instruments.  The F CMC also 
+ 
+3 Per Bloomberg, USD 1 = LVL 0.56 and EUR 1 = LVL 0.71 on November 7, 2008. Latvia joined the European 
+Union in 2004 and adopted the euro on January 1, 2014 (EC n.d.). 
+4 The Financial and Capital Market Commission set regulations for liquidity requirements. Parex had to hold at 
+least 30% of the total amount of its current liabilities as liquid assets; current liabilities were defined as 
+liabilities on demand and whose remaining term did not exceed 30 days (FCMC 200 5; Parliament of Latvia 
+2008b). 
+Key Terms 
+Purpose: To provide Parex necessary liquidity 
+Announcement 
+Date 
+November 14, 2008  
+Operational Date November 11, 2008  
+Termination Date Citadele fully repaid in 
+February 2012; Reverta has 
+EUR 336.9 million 
+outstanding 
+Legal Authority Law on Budget and Financial 
+Management 
+Administrator Treasury, LPA 
+Peak Authorization LVL 1.5 billion  
+Peak Outstanding LVL 676.4 million  
+Collateral Some of Parex’s loan 
+portfolio, Treasury securities 
+Haircut and 
+Recourse 
+Not applicable 
+Interest Rate and 
+Fees 
+Lat-denominated:  
+4.66–20.27%; 
+Euro-denominated:  
+4.66–11.45% 
+Term Three months to seven years; 
+Treasury lent at ever longer 
+maturities until term 
+deposits were converted to 
+debt securities 
+Part of a Package Term deposits were in the 
+form of debt securities that 
+Parex could post as collateral 
+with the BOL to get cash 
+ 
+ 
+(continued) 
+310
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 5 ---
+required the bank to immediately increase 
+its equity capital; Parex’s shareholders 
+responded by investing LVL 3 million in 
+subordinated capital (FCMC 2009b). 
+However, the previous measures were 
+insufficient to address the bank’s problems. 
+Parex had two senior syndicated loans 
+maturing in February and June 2009, totaling 
+EUR 775 million  (USD 992 million) ,5 or 
+nearly one-sixth of the bank’s total liabilities. 
+According to the EC, Latvian authorities 
+doubted that Parex would be able to pay 
+back, extend, or replace these loans. For this 
+reason, Latvian authorities decided to take a 
+51% stake in Parex and provide further public support measures  (EC 2008a; Epstein and 
+Rhodes 2019). According to the FCMC’s 2008 annual report, authorities did not want to give 
+State Aid to Parex with the majority shareholders—Valērijs Kargins and Viktors Krasovickis 
+(the two majority shareholders)—in control; the two majority shareholders owned 85% of 
+Parex. Latvian authorities  observed the experience of other countries and concluded that 
+State Aid would be properly used and recovered only if the government owned Parex (FCMC 
+2009b). 
+Starting in early November 2008, Latvian authorities performed three major interventions 
+to stabilize Parex and the wider Latvian financial sector. First, on November 10, the 
+government took over the bank and replaced management by paying a token amount of LVL 
+2 for a 51% stake from the two majority shareholders ; weeks later, the government 
+increased its participation to 85% and completely wiped out the two majority shareholders 
+(EC 2008a; EC 2009a; FCMC 2009b) . This allowed the government to later split Parex into 
+bad and good banks  (EC 2010). The government initially acquired Parex through Latvian 
+Mortgage and Land Bank (LHZB), a commercial bank used to develop Latvia’s mortgag e 
+lending system and mortgage-backed securities (Baltic Legal n.d.; EC 2008a; LHZB 2010) . 
+The government later transferred Parex’s shares to the Latvian Privatization Agency (LPA) 
+for further recapitalization and its potential sale, because the LPA had experience in selling 
+state-owned bank shares (FCMC 2009a; LPA 2009; Parex 2009a; Parex 2009b). Second, the 
+Latvian Treasury deposited Treasury securities with Parex that Parex could use as collateral 
+to borrow cash from the central bank, the Bank of Latvia (BOL) (BOL 2008b; EC 2008a; EC 
+2010; IMF 2009). Draws on the facility peaked at LVL 676.4 million at the end of 2008 (Parex 
+2010). Third, in 2009–2010, the LPA recapitalized Parex to maintain an 11% CAR (EC 2009b; 
+Parex 2011). For more details on the recapitalization, see Decker (2024a). 
+Other measures included a partial withdrawal freeze for depositors, which the government 
+prolonged in some form until January 2012 (FCMC 2008; IMF 2013; Parex 2011). Latvia also 
+signed a Standby Arrangement (SBA) with the IMF and received support from the European 
+ 
+5 Per FRED, EUR 1 = USD 1.28 on November 7, 2008. 
+Outcomes Citadele completely repaid 
+EUR 203.7 million in 
+liquidity support, plus EUR 
+14.7 million in interest; term 
+deposits in Reverta were 
+converted to debt securities 
+in 2011; of this, Reverta 
+repaid EUR 240.1 million 
+plus EUR 154.7 million in 
+interest; the remaining EUR 
+359.4 million will not be 
+recovered 
+Notable Features Some of the term deposits 
+were converted to equity per 
+the restructuring plan 
+311
+Parex Bank Decker
+
+--- Page 6 ---
+Union (EU) other European countries, which was conditioned on a full government takeover 
+and subsequent restructuring of Parex  (see Key Design Decision No. 2, Part of a Package)  
+(FCMC 2008; FCMC 2009b; IMF 2009; IMF 2013; Reuters 2008). 
+Over the course of 2009  to 2010, the LPA injected a total of LVL 313.6 million6 in Tier 1 
+capital and LVL 50.3 million in Tier 2 capital (Citadele 2011; EC 2009b; EC 2010; Parex 2011; 
+Parex 2012). Recapitalization was also achieved by  converting LVL 152.5 million of state 
+term deposits from the Ministry of Finance into bank capital (EC 2010; Parex 2010; Treasury 
+2011). The Latvian government also invited the European Bank for Reconstruction and 
+Development (EBRD) to become a shareholde r in Parex to reassure stakeholders, given the 
+EBRD’s reputation and experience in bank restructuring (Parliament of Latvia 2015) . The 
+EBRD injected capital in September 2009 and July 2010 and later sold part of its stake  
+(Citadele 2011; EBRD 2009; Parex 2009c; Reverta 2017a). 
+On August 1, 2010, the LPA split Parex into a good bank, AS Citadele banka, and a remaining 
+bad bank, AS Reverta (Reverta) 7 (Parex 2011). Citadele would focus on three core business 
+segments in the Baltics : corporate, retail, and wea lth management. Reverta would keep all 
+noncore and nonperforming assets. Reverta’s goal was to ma ximize asset recovery to repay 
+State Aid until Reverta’s liquidation (EC 2010; Parex 2011). 
+Capital and liquidity support w as also restructured with the split. Citadele took LVL 50.3 
+million of Tier 2 capital and Reverta took the equity capital injected on March 29, 2009. At 
+the time of the split, 16 term deposits were in effect for EUR 635 million ( LVL 446 million). 
+Eight of th ose deposits went to Citadele, four of which worth LVL 12 million were already 
+terminated. Citadele’s remaining four term deposits were  converted into equity for a 
+recapitalization of LVL 103 million  (EC 2010; Treasury 2011). Reverta took the other eight 
+term deposits, of which LVL 49.5 million was ultimately converted to bank capital (EC 2010; 
+EC 2014b). In December 2011, all of Reverta’s outstanding term deposits were converted to 
+debt securities (Parex 2012; Reverta 2013) . These debt securities remained with Reverta 
+when the bad bank went into liquidation in 2017 (Reverta 2018). 
+On April 20, 2015, the LPA closed the sale transaction for 75% of Citadele to Ripplewood 
+Advisors LLC and a group of 12 international co-investors for EUR 74.7 million  (Citadele 
+2015). The EBRD maintained a 25% stake (Citadele 2011). 
+Including capital and liquidity support, Latvia’s support for Parex peaked at EUR 1.7 billion. 
+As of April 2015, unrecovered State Aid totaled EUR 784 million: EUR 35 million in Citadele’s 
+subordinated capital (4.5% of total unrecovered State Aid ), EUR 294 million in Reverta’s 
+share capital (37.5% of total unrecovered State Aid ), and EUR 455 million in bonds in 
+Reverta converted from liquidity support (58.0% of total unrecovered State Aid) (Parliament 
+of Latvia 2015). 
+ 
+6 This figure may be inconsistent owing to lack of clarity about recapitalizations as capital injections or as 
+conversions from liquidity support. See Decker (2024a) for further discussion. 
+7 The bad bank initially kept the name Parex after the split on August 1, 2010, but changed its name to Reverta 
+in May 2012 (EC 2014a; OECD 2016). For clarity, this case study refers to the post-split bad bank as Reverta. 
+312
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 7 ---
+Citadele repaid the last term deposit of State Aid  in February 2015, 10 months ahead of 
+schedule (Citadele 2013; Treasury 2013) . In total, Citadele repaid the full amount of term 
+deposits it had owed since the split, EUR 203.7 million, and EUR 14.7 million in interest —
+interest accruing since the split of the bank in August 2010 until March 2012 . Citadele also 
+repaid the Treasury an additional LVL 3.5 million as “additional compensation for the use of 
+state aid  in line with commitments given to the EC” (Citadele 2013). 
+The EBRD ended its participation in Reverta on March 7, 2017  (Reverta 2017a) . The 
+liquidation of Reverta began on July 6, 2017  (Reverta 2018). In November 2017, the LPA 
+created a new subsidiary and limited liabilit y company , REAP, for the sole purpose of 
+managing Reverta’s assets and claim rights. By the end of 2017, Reverta had EUR 365.3 
+million in outstanding liquidity support, and the LPA wrote off its entire investment in 
+Reverta share capital  (LPA 2019; Reverta 2018) . REAP sold most of the real estate assets 
+taken over by Reverta during the course of 2018  (LPA 2019). As of the writing of this case , 
+Reverta was still in liquidation with a total asset value of EUR 1.7 million as of December 31, 
+2022 (LPA 2023; Reverta 2023). 
+According to a parliamentary report published in December 2015, the state estimated EUR 
+500 million to EUR 600 million in losses (Parliament of Latvia 2015). According to Reverta’s 
+annual report, the state had lost EUR 428.8 million in share capital and EUR 339.7million in 
+liquidity support for a total loss of EUR 767.5 million as of December 2022 (Reverta 2023). 
+Figure 1 shows a timeline of major events in the rescue of Parex. 
+Figure 1: Timeline of Major Events in the Rescue of Parex 
+Date Event 
+November 10, 2008 The two majority shareholders, Parex, and the Latvian government sign an 
+investment agreement that gives LHZB a 51% stake in the bank. The two majority 
+shareholders are removed from management. 
+November 11, 2008 The Treasury makes its first term deposit in Parex for LVL 200 million by injecting 
+government securities that the bank uses as collateral for a central bank loan.  
+Early December 2008 Authorities revise the liquidity facility’s interest rate mechanism. 
+December 3, 2008 LHZB increases it stake in Parex to 85%, wiping out the two majority shareholders.  
+December 23, 2008 The IMF announces a Standby Arrangement with the Republic of Latvia.  
+February 27, 2009 LHZB transfers its shares in Parex to the LPA. 
+May 22, 2009 The LPA recapitalizes Parex, effectively increasing the government’s participation to 
+95%. 
+September 2009 The EBRD makes a capital injection into Parex, comprising LVL 59.5 million in share 
+capital and a subordinated loan of EUR 18.4 million. 
+October 29, 2009 The LPA injects LVL 24.3 million of nonvoting shares into Parex.  
+February 26, 2010 The Cabinet of Ministers approves the conversion of state term deposits to bank 
+capital, thus recapitalizing Parex by LVL 31.5 million. 
+July 29, 2010 The LPA increases Parex’s Tier 1 capital by LVL 99 million, which is designated for the 
+new good bank, Citadele. 
+313
+Parex Bank Decker
+
+--- Page 8 ---
+July 30, 2010 The EBRD takes a 25% stake in Citadele, for LVL 25.8 million. The subordinated loan of 
+EUR 22 million from the EBRD is transferred to Citadele, subject to EC approval.  
+August 1, 2010 The LPA transfers good assets and liabilities into Citadele and leaves the rest behind 
+in the bad bank, renamed Reverta in May 2012. The restructuring plan outlines the 
+split of term deposits and their conversions in the good and bad banks . 
+December 30, 2010 The LPA increases Reverta’s Tier 1 capital by LVL 9.7 million. 
+August 2011 The LPA increases Reverta’s Tier 1 capital by LVL 20 million in ordinary shares.  
+November 2011 The LPA increases Reverta’s Tier 1 capital by LVL 19.8 million in ordinary shares.  
+December 2011 All term deposits in Reverta are converted into debt securities. 
+February 14, 2012 Citadele repays the last term deposit of State Aid 10 months ahead of schedule.  
+August 10, 2012 The EC allows Latvia’s proposed amendments to the restructuring plan.  
+April 20, 2015 Citadele’s sale transaction closes. The new shareholders increase Citadele’s equity 
+capital by EUR 10 million. 
+January 4, 2017 Citadele repays its subordinated loan from the LPA, thereby settling its remaining 
+obligations to the Latvian government. 
+March 7, 2017 The LPA buys the EBRD’s stake in Reverta for EUR 1; the LPA consequently has a 
+96.9% stake and minority shareholders have a 3.1% stake in Reverta.  
+July 1, 2017 Reverta’s liquidation begins. 
+November 14, 2017 The LPA creates a new subsidiary, REAP, to manage Reverta’s assets and claim rights. 
+The LPA writes off its entire investment in Reverta’s share capital.  
+Source: Author’s analysis. 
+Summary Evaluation 
+In a staff report published in January 2009, the IMF said that the initial intervention—
+comprising the 51% government stake, liquidity facility, and recapitalization commitment—
+was a misstep and “failed to stem the deposit run”  (IMF 2009) . Left unresolved by their 
+maturity dates in February and June 2009, Parex’s senior syndicated loans could have led to 
+outflows of EUR 1 billion, according to the IMF. The IMF also said that the FCMC  should 
+reconsider its monitoring and  regulatory approach toward banks primarily funded by 
+nonresident deposits  “to reflect the higher liquidity and m arket risks of [this] business 
+model” (IMF 2009). The IMF suggested that the FCMC could reduce maturity mismatches 
+created by nonresident deposits  by requiring sufficient liquid foreign assets  to meet 
+potential depositor withdrawals, thereby reducing volatility in foreign funding (IMF 2009). 
+314
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 9 ---
+Sources: Bloomberg; World Bank Deposit Insurance Dataset; World Bank Global Financial Development Database.  
+  
+315
+Parex Bank Decker
+
+--- Page 10 ---
+Key Design Decisions 
+1. Purpose: The Treasury’s term deposits and the central bank’s complementary 
+liquidity facility allowed Parex to meet its short-term obligations until authorities 
+could restructure or liquidate the bank.  
+Parex was especially vulnerable to contagion during the GFC , as 40% to 50% of deposits 
+were held by nonresidents, a situation that the EC and IMF characterized as fragile  (Bojāre 
+and Romānova 2017; EC 2008a; OECD 2016). In autumn 2008, Parex faced a capital shortfall 
+owing to massive credit losses and market losses in addition to increasing liquidity problems 
+and deposit runs of LVL 240 million (EC 2008a; FCMC 2009a; FCMC 2009b; OECD 2016) . 
+Parex’s liquidity indicator fell from 44.2% on August 31, 2008, to 31.4% on November 4, 
+2008; the regulatory minimum was 30%. Parex’s CAR fell below the regulatory minimum of 
+8% on October 28, 2008 (EC 2008a; FCMC 2009b). 
+Parex had two senior syndicated loans maturing in February and June 2009, totaling EUR 
+775 million. According to the EC, Latvian authorities doubted that Parex  would be able to 
+pay back, extend, or replace these loans; these senior creditors were preparing to announce 
+default in the beginning of November 2008 , which would have meant that the EUR 775 
+million would have been due immediately. On November 10, 2008, the government replaced 
+management and acquired a 51% stake from Parex’s two majority shareholders for a token 
+amount of LVL 2  (EC 2008a) . After the two majority shareholders failed to meet 
+commitments pursuant to the November 10 takeover, and at the insis tence of the  IMF, EC, 
+and Sweden’s central bank, Latvian authorities acquire d all shares owned by Kargins and 
+Krasovickis on December 3, 2008 , thus increasing the government’s participation to 85%  
+(Decker 2024b; FCMC 2009a). 
+On November 11, 2008, the Latvian Treasury transferred to Parex LVL 200 million in 
+government debt securities, creating a term deposit liability for Parex to the Treasury. Parex 
+could use the securities as collateral at the BOL to back a short-term loan so that the bank 
+would have the necessary liquidity for its operations—mainly to honor nonresident deposit 
+outflows (BOL 2008b; IMF 2009) . The BOL contextualized Parex’s importance to Latvian 
+financial stability by noting Parex’s size as the second-largest Latvian bank (BOL 2008b).  
+However, d eposit runs continued  even after the announcement of the Treasury deposit, 
+central bank liquidity facility, recapitalization measures, and the full takeover of Parex by the 
+government (EC 2009a; EC 2009b; IMF 2009) . Thus, in early 2009, Latvian authorities 
+sought and received  approval from the EC to change the interest rate mechanism and  
+maximum allocation of the liquidity facility (EC 2009a). In its decision, the EC noted that the 
+liquidity facility “[served] the purpose of keeping the b ank afloat until the long -term 
+restructuring (or liquidation) plan [was] drawn up” (EC 2009a). 
+The September 2010 restructuring plan envisioned that  LVL 218.7 million of Reverta’s  
+liquidity support would be converted to capital . With the amended restructuring plan in  
+August 2012 , this amount was reduced to LVL 118.7 million  (EC 2012; EC 2014b) . In 
+actuality, Reverta converted  only LVL 49.5 million of its state term deposits to capital . 
+316
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 11 ---
+Because this conversion was lower than the restructuring plan’ s allocation, the EC 
+questioned whether Reverta had violated State Aid authorization. The EC ultimately decided 
+that Reverta’s emergency liquidity was limited to the minimum necessary for its resolution 
+(see Key Design Decision No. 3, Legal Authority) (EC 2014b). 
+Research did not uncover other options considered for Parex’s liquidity problems instead of 
+term deposits placed by Treasury. The capital injections complemented the term deposits 
+with regard to strengthening Parex’s liquidity and solvency (see Key  Design Decision No. 2, 
+Part of a Package) (EC 2008a; EC 2009b). 
+2. Part of a Package:  To restore confidence in Parex, Latvian authorities provided a 
+partial freeze on withdrawals, capital injections, and guarantees. Parex was later 
+restructured. 
+Broad-Based Liquidity Measures 
+From the end of August until the end of November 2008, the BOL sold EUR 900 million in 
+foreign currency to defend the peg  of the lat to the euro , owing to concerns about liquidity 
+and access to outside private capital markets. During this time, BOL’s official reserves fell by 
+20% to EUR 3.4 billion, one -third of short-term external debt but more than 100% of base 
+money (BOL 2009; IMF 2009) . Nonresident de posit runs on Parex played a large role in 
+systemwide outflows. According to the IMF, any change in the nominal exchange rate would 
+have immediately diminished private sector net worth in Latvia, because the majority of 
+deposits and loans were foreign currency denominated (IMF 2009). 
+On October 24, 2008, the BOL lowered reserve requirements, thereby releasing LVL 200 
+million in liquidity (BOL 2008a; IMF 2009) . The BOL lowered the reserve ratio for bank 
+liabilities with maturities greater than two years from 6% to 5% and for other liabilities from 
+8% to 7% (BOL 2008a; BOL 2009) . The BOL further lowered reserve requirements in 
+November and December 2008, which released an additional LVL 380 million (IMF 2009). 
+In a January 2009 report, the IMF says that the BOL provided LVL 555 million (3.5% of GDP) 
+in liquidity to the entire banking system to meet deposit runs.  Of the total LVL 555 million, 
+LVL 195 million was for an operations facility backed by domestic Treasury bills specifically 
+issued for liquidity support to Parex  (IMF 2009). The author interprets the IMF and BOL 
+documentation to mean that the BOL released a total of LVL 1.1 billion in liquidity from 
+August 2008 to January 2009. 
+Support from the IMF, EU, and European Countries 
+On December 23, 2008, the IMF announced a 27-month8 SBA for 1.5 billion special drawing 
+rights (SDR; EUR 1.7 billion) under its Emergency Financing Mechanism , subject to the 
+Latvian government’s taking full control of Parex  (FCMC 2009b; IMF 2009; Reuters 2008) . 
+ 
+8 The SBA was extended to 36 months at the time of the second review (IMF 2013). 
+317
+Parex Bank Decker
+
+--- Page 12 ---
+Additional support totaling EUR 7.5 million came from multilateral organizations and other 
+European countries (IMF 2009).  
+Per the structural performance criteria and benchmarks under the SBA signed on December 
+23, 2008, Parex’s management had to submit a restructuring plan to the FCMC and EC (IMF 
+2013). The SBA also called for broader financial sector reform (IMF 2009). 
+Partial Freeze, Restructuring, and Recapitalization 
+On December 1, 2008, Latvian authorities granted Parex’s request for a parti al freeze on 
+withdrawals and transfers. The FCMC said that this measure was justified considering the 
+run on deposits and other leveraged funds  from Parex  (FCMC 2008; FCMC 2009b) . 
+Withdrawals were capped at LVL 35,000 per month for individuals and for businesses with 
+10 or fewer employees (AFP 2008; FCMC 2008; Tapinsh 2008). Withdrawals were capped at 
+LVL 350,000 per month for businesses with 11 –250 employees (AFP 2008; FCMC 2008; 
+Tapinsh 2008). The partial freeze did not apply to businesses with more than 250 employees 
+(AFP 2008; Tapinsh 2008) . While the partial freeze was scheduled to end  by mid -2009, 
+authorities prolonged the partial freeze  in some form  until January 2012  (EC 2010; IMF 
+2013; Parex 2011). Reverta’s annual reports say that the bad bank began to repay LVL 9.9 
+million to depositors after the lifting of restrictions on January 2, 2012 (Parex 2012). 
+According to the State Aid measure approved by the EC, Latvian authorities started capital 
+injections on May 22, 2009, to maintain an 11% CAR requirement (see Decker [2024a]) (EC 
+2009b; Parex 2011). On August 1, 2010, the LPA split Parex into a good bank, Citadele, and a 
+bad bank, Reverta (Parex 2011). 
+The restructuring plan approved by the EC in September 2010 outlined a split of Parex into 
+a newly established good bank called Citadele and a remaining bad bank called Reverta (EC 
+2014a; Parex 2011) . Citadele would focus on three core business segments in the Baltics: 
+corporate, retail, and wealth m anagement. Latvian authorities aimed to make Citadele 
+profitable in a sustainable manner by reducing the size of its balance sheet  (EC 2010) . 
+Reverta would keep all noncore and many nonperforming assets in addition to the senior 
+syndicated loans and legacy  subordinated liabilities. Reverta’s goals was to maximizes the 
+recovery of State Aid  (Parex 2011) . For more on the restructuring of Parex , see Decker 
+(2024b).  
+Guarantees 
+On November 14, 2008, creditors of the senior syndicated loans were preparing to announce 
+a default event, which meant that these loans would become due immediately rather than on 
+their maturity dates in February 2009 and June 2009. Latvian authorities negotiated with 
+these creditors to maintain the maturity dates in February and June, pr ovided that the 
+government issued a guarantee for these loans. The government also guaranteed new loans 
+issued to refinance the syndicated loan maturing in February 2009. Latvian authorities told 
+the EC that these guarantees would be cheaper than new borro wings, since the existing 
+senior syndicated loans has pre-crisis interest rates (EC 2008a). 
+318
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 13 ---
+On December 16, 2008, the FCMC increased the coverage limit of the already-existing deposit 
+insurance scheme  (EC 2008b; Parliament of Latvia 1998 ; Parliament of Latvia 2008c). 
+Ultimately, the guarantee did not apply to Parex  owing to falling short of EC commitments  
+(EC 2008b). Latvian authorities nevertheless asse rt that all guaranteed deposits were paid 
+out. 
+In March 2010, Parex signed an investment agreement with the European Investment Bank 
+(EIB) for a credit line up to EUR 100 million to finance small and medium-sized enterprises. 
+The EIB required a government guarantee for the credit line as long as Citadele remained 
+below investment grade  (EC 20 10; Treasury 2011) . After the split, this credit line was 
+transferred to Citadele (EC 2010). 
+3. Legal Authority: The Law on Budget and Financial Management allowed the 
+Treasury to place term deposits at Parex. 
+Latvian Legal Authority 
+Chapter 6 of the existing  Law on Budget and Financial Management (Budget and Finance 
+Law) allowed the finance minister to authorize the Treasury to make term deposits in banks 
+within the framework of money management  (EC 2008a; Parliament of Latvia 2008a, arts. 
+33–34). The parliament made changes to the  Law on Budget and Financial Management ; 
+some parts were effective  November 26, 2008 , and other parts were effective January 1, 
+2009. These changes allowed the finance minist er to authorize the Treasury to place 
+securities or deposits for additional reasons, in accordance with a decision from the Cabinet 
+of Ministers (Parliament of Latvia 2008d, art. 34(1)). These additional reasons were listed in 
+Article 8(1): 
+• Reduce general economic risks; 
+• Provide the missing financing for long-term investments and structural reforms; 
+• Avoid socioeconomic crisis or reduce its impact; 
+• Ensure the availability of financial resources in case of emergency . (Parliament of 
+Latvia 2008d, art. 8.1) 
+The latest version of the law removed one of the additional four reasons that the Treasury 
+could make term deposits: to provide the missing financing for long -term investments and 
+structural reforms (Parliament of Latvia 2009, art. 8(1)). 
+The Cabinet of Ministers indeed authorized the finance minister to make additional term 
+deposits in Parex (Cabinet of Ministers 2008). 
+319
+Parex Bank Decker
+
+--- Page 14 ---
+EC Law 
+As a member of the EU, Latvia must comply with the prohibition on monetary financing 
+contained in Article 123(1) of the Treaty on the Functioning of the European Union (TFEU)9, 
+which reads (emphasis added):  
+Overdraft facilities or any other type of credit facility with the European Central Bank 
+or with the central banks of the Member States (hereinafter referred to as “national 
+central banks”) in favour of Union institutions, bodies, offices or agencies, central 
+governments, regional, local or other public authorities, other bodies governed by public 
+law, or public undertakings of Member States  shall be prohibited, as shall the 
+purchase directly from them by the European Central Bank or national central banks of 
+debt instruments. (EU 2009, art. 123) 
+TFEU Article 123 prohibits the extension of liquidity to insolvent firms (at least without a 
+state guarantee), which is considered a public undertaking (in other words, one that should 
+be supported with state resources). The monetary financing prohibition —including its 
+application to emergency liquidity—is EU-level law, and thus applies even to those nations 
+that are Member States of the EU but not member s of the Eurosystem. For more on the 
+application of the monetary financing prohibition to emergency liquidity assistance , see  
+(Arnold 2025).  
+Article 88 of the European Commi ssion (EC) Treaty obligates member states to obtain EC 
+approval of State Aid (EC 2002). 
+On November 24, 2008, the EC decided Latvia’s aid measures were compatible with the 
+common market; the EC did not raise objections  (see Figure 2) . The EC evaluated Latvia’s 
+intervention according to Article 87 of the EC Treaty. The EC said the liquidity facility was an 
+appropriate measure to revive interbank lending. The EC also noted that no market investor 
+was willing to provide emergency liquidity at the time, given Parex’s predicament (EC 
+2008a). 
+On February 11, 2009, the EC approved Latvian authorities’ proposed changes to the 
+liquidity facility’s maximum allocation and interest rate mechanism. The EC noted that Parex 
+still faced liquidity problems and that the initial interest  rate was too high to keep the bank 
+afloat (see Key Design Decision No. 8, Rates and Fees) (EC 2009a). 
+In July 2014, the EC issued a decision on whether Latvia violated State Aid authorization 
+since its approved restructuring plan  (for details, see Decker [2024b]). The EC initially 
+questioned whether Reverta had violated State Aid authorization since the bad bank’s 
+ 
+9 The TFEU, itself based on the Treaty of Maastricht of 1992 , is one of the EU’s two foundational treaties (the 
+other being the Treaty on European Union). It sets out in detail the principles and objectives of the EU and the 
+scope and functional responsibilities of EU institutions (the Treaty on European Union in contrast defines the 
+EU’s purpose and lays out its institutions and form). As a technicality, before the Lisbon Treaty came into effect 
+in 2009, TFEU Article 123 was Article 101 of the Treaty Establishing the European Community, but the content 
+was unchanged when the Lisbon Treaty relocated the article . 
+320
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 15 ---
+outstanding liquidity support was higher than the envisioned allotment in the restructuring 
+plan. The EC noted two considerations. First, Reverta had a lower asset quality than expected 
+in addition to slower than expected recovery of collateral and litigation with debtors. Second, 
+Reverta’s loss of its banking license in 2011 meant that the bad bank did not need to convert 
+further liquidity support into capital . Considering the difficulty in asset recovery and the 
+unconverted liquidity support , the EC concluded that Reverta’s emergency liquidity was 
+limited to the minimum necessary for its resolution (EC 2014b). 
+Figure 2: Timeline of EC Reviews for State Aid to Parex 
+Date Event 
+November 10, 2008 Latvian authorities communicate public support measures to the EC.  
+November 24, 2008 The EC does not object to Latvia’s interventions. The partial nationalization does not 
+constitute State Aid; the subordinated loans, loan guarantees, and capital injection do 
+constitute State Aid. 
+February 11, 2009 The EC does not object to Latvia’s amended measures surrounding LHZB’s 85% stake 
+in Parex. 
+March 29, 2009 Latvian authorities request changes to the form and amount of the capital injection 
+authorized by the EC. 
+May 11, 2009 The EC approves the LPA’s recapitalization changes, thereby increasing the 
+government’s participation to 95%. 
+The Latvian government provides a restructuring plan to the EC. 
+June 15, 2009 The EC meets with Latvian authorities. 
+July 29, 2009 The EC issues its decision on the recapitalization and 95% takeover of Parex; the EC 
+expresses doubts that Latvia’s State Aid is compatible with the common market. 
+September 15, 2010 The EC finds the restructuring plan compatible with Article 107(3)(b) of the TFEU. 
+March 6, 2012 Latvian authorities request three changes to the restructuring plan.  
+August 10, 2012 The EC grants the three requested changes to the restructuring plan. 
+October 1, 2013 Latvia requests the postponement of the deadline to divest Citadele’s wealth 
+management business. The EC subsequently learns that Latvia violated certain aspects 
+of previous State Aid authorization: extending the maturi ty of some subordinated 
+loans in presplit Parex and later Citadele and exceeding the maximum authorization of 
+liquidity support to Reverta. 
+July 9, 2014 The EC does not object to the postponement of divesting Citadele’s wealth 
+management business, maturity extensions for presplit Parex and Citadele, and 
+increased liquidity support to Reverta. 
+Source: Author’s analysis. 
+4. Administration: The Treasury placed term deposits in Parex. 
+Parex’s finance department collaborated with the Latvian Treasury on the administration of 
+the state-provided term deposits (Parex 2010). 
+Under the Ministry of Finance, the Treasury was responsible for making payments from the 
+state to accounts in banks, called State Treasury budget accounts  (Parliament of Latvia 
+321
+Parex Bank Decker
+
+--- Page 16 ---
+2008a, arts. 23, 33; Parliament of Latvia 2009, arts. 23, 33). The minister of finance could use 
+this mechanism to place depos its in Parex (Parliament of Latvia 2008a, art. 34; Parliament 
+of Latvia 2009, art. 34).  
+5. Governance: The Ministry of Finance reported data to the Cabinet of Ministers. 
+To receive State Aid, Parex  had to comply with certain behavioral restrictions (see Key 
+Design Decision No. 12, Other Conditions). The FCMC monitored Parex’s compliance with 
+these behavioral restrictions and notified the EC if the bank breached them (EC 2008a). 
+According to an EC de cision on September 15, 2010, independent trustees would oversee 
+the restructuring plan implementation and compliance with certain behavioral restrictions 
+imposed by Latvian authorities (see Decker [2024b]). The trustees would prepare detailed, 
+regular rep orts for the Latvian authorities to send to the EC.  The trustees would be 
+independent of the government and the bank, pre - and post-split; the trustees would have 
+no conflicts of interest. The EC had the discretion to approve or reject the proposed trustees 
+(EC 2010). 
+6. Communication and Disclosure : Statements and reports from the government 
+contained partial information about the liquidity facility; annual reports from the 
+banks contained specifics on different instances of term deposits. 
+In early November 2008, Prime Minister Ivars Godmanis spoke to the press and presented a 
+binary choice: either take control of Pare x or allow it to enter bankruptcy. He said that the 
+government had to protect Parex because of its size and importance in the  Latvian banking 
+system as a whole (AFP 2008; Lannin 2008). The governor of the BOL, Ilmars Rimsevics, said: 
+“This was an attempt by the Latvian government to step in earlier rather than later” 
+(Anderson 2008). The Ministry of Finance promised to publicly publish parts of the 77-page 
+takeover agreement that did not contain confidential information  (FCMC 2009b; Petrova 
+2008). Research has not uncovered any portion of the takeover agreement. 
+On November 14, 2008, the BOL issued a press release three days after the Treasury and BOL 
+first supported Parex’s liquidity (BOL 2008b; EC 2008a) . The BOL announced that Latvian 
+authorities were providing a short -term loan against collateral to Parex, given the 
+disfunction and lack of trust in the interbank market. The press release did not dis close the 
+amount, rate, term, or administration of the liquidity facility; the p ress release  did not 
+mention the Treasury’s role in administering the facility (BOL 2008b). 
+On December 29, 2008, the Latvian Journal published an announcement from the Ministry 
+of Finance about an additional term deposit, approved by the Cabinet of Minist ers (Latvian 
+Journal 2008). The Latvian Journal is the official gazette of the Republic of Latvia (Latvian 
+Journal n.d.). This announcement disclosed the amount and purpose of the loan : EUR 287 
+million “intended for the purchase of euro -denominated government debt securities . . . [to 
+ensure] the bank’s ability to fulfill its obligations to depositors and other customers on time” 
+(Latvian Journal 2008). 
+322
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 17 ---
+The Treasury’s annual reports for 2008, 2009, and 2010 contained mentions of liquidity 
+support to Parex and partial information  on the  term deposits  (Treasury 2009; Treasury 
+2010; Treasury 2013) . Parex, Citadele, and Reverta annual reports contain more 
+comprehensive information on specific instances of term deposits, including currency, 
+maturity, interest rate, amortized cost in LVL, and whether a recipient institution paid back 
+the loan to the Treasury (Citadele 2013; Parex 2010; Parex 2011). 
+7. Source and Size of Funding: The government issued debt securities that Parex held 
+as assets , which Parex then used as  collateral to get cash from the BOL.  The 
+maximum allocation of the liquidity facility was LVL 1.5 billion. 
+To provide liquidity in November 2008, the Treasury deposited Treasury securities with 
+Parex that the bank could use as collateral to borrow cash fr om the BOL; the transaction 
+resulted in a term deposit liability for Parex to the Treasury (EC 2008a). According to the 
+Treasury’s annual report for 2008, the government issued LVL 476.1 million in securities to 
+ensure the liquidity of Parex, which signifi cantly increased government debt (Treasury 
+2009). Research finds  no indication that  this mechanism changed with the emergency 
+liquidity granted in 2009 and 2010. 
+In February 2009, the EC approved the maximum allocation of the liquidity facility at LVL 
+1.5 billion (EC 2009a). See Figure 3 for usage of the liquidity facility by year. 
+Figure 3: Parex’s Outstanding Support from Treasury, by Year (LVL millions) 
+ 2008 2009 2010 2011 2012 
+Parex’s Term Deposits 676.4 626.8 — — — 
+Reverta’s Term Deposits — — 450.4 428.0 387.7 
+Citadele’s Term Deposits — — 131.0   32.7  0 
+Sources: Parex 2010; Parex 2011; Parex 2012; Reverta 2013 . 
+The September 2010 restructuring plan envisioned that LVL 218.7 million of Reverta’s 
+liquidity support would be converted to capital. With the amended restructuring plan in 
+August 2012, this amount was reduced to LVL 118.7 million (EC 2012; EC 2014b) . In 
+actuality, Reverta converted only LVL 49.5 million of its state term deposits to capital  (see 
+Figure 4). Because this conversion was lower than the restructuring plan’s allocation, the EC 
+questioned whether Reverta had violated State Aid authorization of ma ximum outstanding 
+liquidity support. The EC noted two considerations. First, Reverta had a lower asset quality 
+than expected in addition to slower than expected recovery of collateral and litigation with 
+debtors. Second, Reverta’s loss of its banking licen se in 2011 meant that the bad bank did 
+not need to convert further liquidity support into capital. Considering the difficulty in asset 
+recovery and the unconverted liquidity support, the EC concluded that Reverta’s emergency 
+liquidity was limited to the minimum necessary for its resolution (EC 2014b). 
+  
+323
+Parex Bank Decker
+
+--- Page 18 ---
+Figure 4: Liquidity Caps and Outstanding Liquidity for Reverta, by Date (LVL millions) 
+Scenario Aug. 1, 2010 Dec. 31, 2010 Dec. 31, 2011 Dec. 31, 2012 Dec. 31, 2013 
+Cap: Worst Case 458 446 419 344 307 
+Cap: Base Case 458 446 419 349 315 
+Cap: Best Case 458 446 419 356 322 
+Actual 446 446 428 385 307 
+Source: EC 2014b. 
+8. Rates and Fees: Latvian authorities first based the rate on the RIGIBID plus a risk 
+premium; they later lowered the rate to the funding cost of the state plus the credit 
+risk of the bank—because the previous rate threatened Parex’s capital. 
+On November 11, 2008, the Treasury made a term deposit of LVL 200 million with an interest 
+rate of 20.27%. The rate was calculated from the following: one -year RIGIBID10 rate at the 
+time of the liquidity extension, plus a risk premium —determined as the five -year median 
+credit default swap (CDS) value of quoted banks with the same rating category as Parex —
+plus 75 basis points (bps) (EC 2008a). 
+In early December 2008, Latvian authorities revised the interest rate mechanism because 
+the high fees could have eroded Parex’s capital and would have been counter to the purpose 
+of the liquidity facility: keep Parex afloat until its restructuring and/or liquidation. The 
+interest rates were based on the funding cost of the state plus a margin for the credit risk of 
+Parex. For lat-denominated term d eposits, Latvian authorities used the annual yield of the 
+most recently issued domestic Treasury bills for the funding cost of the state. The credit risk 
+margin comprised a risk premium of 0.9%: a risk premium of 0.4% (five -year median CDS 
+spread of A -rated banks for the reference period) plus an add -on fee of 0.5% (EC 2009a). 
+Throughout the liquidity facility, these ranged from 11.4% to 12.3% (EC 2008a; Treasury 
+2010). For euro-denominated term deposits, the funding cost of the state was the sum of: the 
+credit spread over euro-denominated swap mid-yield rate as priced at the time of the latest 
+issue of Eurobonds for Latvia—equaling 1.2% at the time—and the swap mid-yield rate for 
+the E uropean Monetary Union benchmark five -year bonds on the day preceding the  
+provision of funding. Throughout the liquidity facility, these ranged from 4.7% to 5.9% (see 
+Figure 5) (EC 2009a; Parex 2010; Parex 2011). 
+Per the restructuring plan that outlined the split into good and bad banks on August 1, 2010, 
+Citadele and Reverta w ould pay state funding costs plus a 50 -bp add-on fee. In April 2011, 
+Latvian authorities imposed an incentive fee on the good bank, Citadele, so that the bank 
+would refinance itself on the markets: the interest rate would be increased by up to 15 bps 
+each quarter (EC 2010). 
+ 
+10 The BOL introduced two money market indexes on January 12, 1998: RIGIBID (Riga Interbank Bid Rate) and 
+RIGIBOR (Riga Interbank Offered Rate)  (BOL 1999). The indexes were based on the interbank bid and offer 
+rates submitted by banks most active in money markets, including Parex (BOL 1999). 
+324
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 19 ---
+Throughout the remainder of the liquidity facility, the rates ranged from 4.66% to 4.68% for 
+term deposits in euros (Cabinet of Ministers 2008; EC 2008a; Latvian Journal 2008 ; Parex 
+2010; Parex 2011). 
+As of January 1, 2011, Citadele’s in terest rate for the state term deposits was lowered from 
+10.0% per annum to 5.0% per annum (Citadele 2011). 
+9. Loan Duration: The duration of term deposits ranged from three months to seven 
+years. The term deposits were restructured with the split into bad an d good 
+banks. 
+Duration of Deposits before the Split 
+The duration of the term deposits ranged from three months to seven years —maturities 
+lengthening with successive term deposits (see Figure 5)  (Parex 2010; Parex 2011) . 
+According to the Treasury’s annual report for 2008, authorities chose three -month 
+maturities for many of the term deposits to align with the Latvian Central Government Debt 
+Management Strategy. Under normal financial market conditions, the Treasury would have 
+issued longer -term deposits. However, in consideration of the partial refinancing of 
+securities under the IMF program, the Treasury said it wanted to reduce one-year and three-
+year maturity profiles (Treasury 2009). 
+Figure 5: Term Deposit Placement in Parex, by Date 
+Agreement Date Maturity Date Duration Currency Fee 
+Nov. 11, 2008 Nov. 11, 2009 1 year LVL 20.3% 
+Nov. 12, 2008 Nov. 19, 2008 7 days LVL Unknown 
+Dec. 23, 2008 Unknown Unknown EUR Unknown 
+Oct. 9, 2009 Jan. 8, 2010 3 months EUR 4.7% 
+Oct. 23, 2009 Jan. 22, 2010 3 months EUR 4.7% 
+Nov. 6, 2009 Feb. 5, 2010 3 months EUR 4.7% 
+Nov. 6, 2009 Feb. 5, 2010 3 months LVL 11.5% 
+Nov. 17, 2009 Feb. 17, 2010 3 months EUR 4.7% 
+Nov. 17, 2009 Feb. 17, 2010 3 months EUR 4.7% 
+Nov. 17, 2009 Feb. 17, 2010 3 months EUR 4.7% 
+Aug. 5, 2010 Aug. 5, 2011 1 years EUR 5.1% 
+Aug. 5, 2010 Aug. 5, 2011 1 year EUR 5.1% 
+Aug. 5, 2010 Feb. 5, 2012 1.5 years EUR 5.1% 
+Aug. 5, 2010 Aug. 5, 2012 2 years EUR 5.1% 
+Aug. 5, 2010 Feb. 5, 2013 2.5 years EUR 5.1% 
+Aug. 5, 2010 Aug. 5, 2013 3 years EUR 5.1% 
+Aug. 5, 2010 Feb. 5, 2014 3.5 years EUR 5.1% 
+Aug. 5, 2010 Aug 5, 2014 4 years EUR 5.1% 
+Aug. 5, 2010 Feb. 5, 2015 4.5 years EUR 5.1% 
+Aug. 5, 2010 Aug. 5, 2015 5 years EUR 5.1% 
+Aug. 12, 2010 Aug. 12, 2015 5 years EUR 5.2% 
+Aug. 12, 2010 Feb. 12, 2016 5.5 years EUR 5.2% 
+325
+Parex Bank Decker
+
+--- Page 20 ---
+Agreement Date Maturity Date Duration Currency Fee 
+Aug. 12, 2010 Aug. 12, 2016 6 years EUR 5.2% 
+Aug. 12, 2010 Feb. 12, 2017 6.5 years EUR 5.2% 
+Aug. 12, 2010 Aug. 12, 2017 7 years EUR 5.2% 
+Aug. 13, 2010 Aug. 13, 2017 7 years EUR 5.2% 
+Note: This table endeavors to combine sources to have a full accounting of term deposits placed by the 
+Treasury; however, the information from the various sources does not perfectly align.  
+Sources: EC 2008a; FCMC 2009a; Parex 2010; Parex 2011; Latvian Journal 2008. 
+Restructuring of Term Deposits 
+When Parex was split into bad and good banks on August 1, 2010, Reverta and Citadele , 
+respectively, 16 term deposits were in effect for EUR 635 million (LVL 446 million). Eight of 
+those 16 deposits went to Citadele, four of which worth LVL 12 million were already 
+terminated. The remaining four term deposits were converted into equity for a 
+recapitalization of LVL 103 million (EC 2010; Treasury 2011). 
+Reverta converted LVL 49.5 million of its term deposits to capital as of December 2011 after 
+which point no further conversions took place (EC 2012) . On December 29, 2011, all of 
+Reverta’s outstanding term deposits were converted to debt securities (Parex 2012; Reverta 
+2013). These debt securities remained with Reverta when the bad bank went into liquidation 
+in November 2017. Given that Reverta had EUR 365.3 million in issued debt securities and 
+EUR 9.8 million in assets as of December 2017, the outstanding liquid ity support would not 
+be recovered (Reverta 2018). 
+Reverta and Citadele could repay their term deposits earlier if the banks themselves or their 
+assets were sold (EC 2010). 
+Citadele Fully Repaid Liquidity Support 
+On February 14, 2012, Citadele repaid the last term deposit of State Aid, 10 months ahead of 
+schedule (Citadele 2013; Treasury 2013) . In total, Citadele repaid the full amount of term 
+deposits it had owed since the split, EUR 203.7 million, and EUR 14.7 mi llion in interest —
+interest accruing since the split of the bank in August 2010 until March 2012. Citadele also 
+paid the Treasury an additional LVL 3.5 million as “additional compensation for the use of 
+State Aid in line with the commitments given to the EC” (Citadele 2013). 
+Reverta Still Owes Liquidity Support 
+In early 2012, all term deposits in Reverta were converted to dematerialized, closed -issue 
+bonds; term deposits by the Treasury were discontinued (Treasury 2013). Public reports 
+from the Treasury indi cate that Reverta repaid interest from 2014 to December 29, 2017 
+(see Figure 6) (Reverta 2023; Treasury 2015; Treasury 2016; Treasury 2017; Treasury 
+2018). 
+326
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 21 ---
+The liquidation of Reverta began on July 1, 2017. Later , on November 1 4, 2017, the LPA 
+created a new  subsidiary and limited liability company, REAP, for the sole purpose of 
+managing Reverta’s assets and claim rights. Thus, Reverta decreased its total debt to the 
+state by EUR 19.3 million (Reverta 2018). Also in November 2017, the Cabinet of Ministers 
+decided not to assess late interest payments by Reverta (Reverta 2023). 
+Figure 6: Emergency Liquidity Assistance Repaid by Reverta (EUR millions)  
+Year Principal Repaid Interest Paid 
+2010 — 13.8 
+2011 10.0 — 
+2012 61.2 28.5 
+2013 32.2 25.1 
+2014 60.0 25.2 
+2015 30.7 22.3 
+2016 40.0 20.0 
+2017 — 19.8 
+2018 5.0 — 
+2021 1.0 — 
+Total Recovered 240.1 154.7 
+Note: If information is not provided for the principal or interest repaid, the author could not find information 
+in Reverta’s annual reports to this effect. 
+Sources: Parex 2011; Parex 2012; Reverta 2013; Reverta 2014; Reverta 2015; Reverta 2016; Reverta 2017b; 
+Reverta 2019; Reverta 2022. 
+As of December 31, 2022, Reverta still owed EUR 3 59.4 million to the Treasury, backed by 
+total assets of EUR 1.7 million (Reverta 2023). 
+10. Balance Sheet Protection: Parex pledged part of its loan portfolio as collateral for 
+the term deposits from the Treasury. 
+In November 2008, the Treasury deposited Treasury securities with Parex that the bank 
+could use as collateral to borrow cash from the BOL; the transaction resulted in a term 
+deposit liability for Parex to the Treasury (EC 200 8a). Available documentation does not 
+explicitly confirm that this mechanism persisted with the emergency liquidity granted in 
+2009 and 2010.11 
+Parex also pledged part of its loan portfolio —standard loans and a small amount of 
+supervised loans (0.006% of t otal pledged loans) —as collateral for its term deposits from 
+the Treasury (EC 2009a; Parex 2010; Parex 2011) . In Latvia, standard loans were repaid 
+without delay, whereas supervised loans could delay repayment up to 30 days (EC 2009a). 
+See Figure 7 for assets pledged from year to year. 
+  
+ 
+11 Reverta’s annual report for 2022 suggests that the Ministry of Finance also received collateral in the form of 
+commercial paper, but other documentation does not confirm this  (Reverta 2023). 
+327
+Parex Bank Decker
+
+--- Page 22 ---
+Figure 7: Total Assets Pledged  by Parex, Reverta, and Citadele  as Collateral for 
+Liquidity Support (LVL millions) 
+Date 12.31.08 12.31.09 12.31.10 12.31.11 12.31.12 12.31.13 
+Parex: Assets Pledged 676.4 626.8 — — — — 
+Parex: Outstanding 676.4 626.8 — — — — 
+Reverta: Assets Pledged — — 446.3 428.0 387.7 364.5 
+Reverta: Outstanding — — 450.4 428.0 387.7 364.5 
+Citadele: Assets Pledged — — 131.0 32.7 0 0 
+Citadele: Outstanding — — 131.0 33.3 0 0 
+Sources: Citadele 2011; Citadele 2012; Parex 2010; Parex 2011; Reverta 2013; Reverta 2014. 
+11. Impact on Monetary Policy Transmission: Research did not uncover an impact on 
+monetary policy transmission. 
+Research did not uncover any impact by the liquidity facility on monetary policy 
+transmission. 
+12. Other Conditions: Latvian authorities conditioned State Aid on certain behavioral 
+restrictions for EC compliance. 
+Latvian authoriti es placed behavioral constraints on Parex to avoid undue distortions of 
+competition for EC compliance with a view to State Aid . The FCMC monitored Parex’s 
+compliance with these restrictions and would take necessary action in the event of 
+noncompliance. The FCMC would also notify the EC. See Figure 8 for behavioral restrictions 
+at the start of the liquidity facility and the partial nationalization of Parex (EC 2008a). 
+Figure 8: Initial Behavioral Restrictions on Parex 
+Category Restriction 
+Size of Total Assets The aggregate amount of assets on Parex’s balance sheet for any calendar 
+quarter cannot accrue proportionally more than the Latvian gross domestic 
+product (GDP). The Latvian Central Statistical Bureau provide s the necessary 
+figures to calculate this restriction. 
+Size of Mortgage Portfolio The size of Parex’s mortgage loan portfolio relative to the aggregate size of all 
+acting Latvian credit institutions’ mortgage loan portfolio for more than one 
+consecutive calendar quarter cannot exceed the proportional ratio between the 
+two as of September 30, 2008. 
+The size of Parex’s loan portfolio relative to the aggregate size of all acting credit 
+institutions’ loan portfolio for more than one consecutive calendar quarter 
+cannot exceed the proportion between the two as of September 30, 2008. 
+Marketing Parex, LHZB, and the two majority shareholders cannot promote the bank’s 
+business through public announcements or other marketing activities that refer 
+to the government guarantees or aid that Parex receive s according to the 
+November 10 agreement. 
+Acquisitions Parex cannot acquire other companies and/or businesses and cannot undertake 
+significant investments while it benefits from State Aid. 
+Source: EC 2008a. 
+328
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 23 ---
+Per the amended investment agreement on December 3, 20 08, the behavioral restraints on 
+Parex remained essentially the same except for one change to match the behavioral 
+constraints imposed on banks under the Latvian guarantee scheme (EC 2008b; EC 2009a) . 
+In effect, Latvian authorities no longer placed balance  sheet restrictions on Parex’s loan 
+portfolios (EC 2009a) . After the split, the good and bad banks had respective behavioral 
+restrictions; for further details, see Decker (2024b). 
+  
+329
+Parex Bank Decker
+
+--- Page 24 ---
+References and Key Program Documents 
+Summary of Program 
+(Baltic Legal n.d.) Baltic Legal. n.d. “Mortgage and Land Bank of Latvia.” Accessed 
+September 18, 2023. 
+Webpage containing information on the establishment and mission of LHZB. 
+https://elischolar.library.yale.edu/ypfs-documents2/2082 
+(FCMC 2009a) Financial and Capital Market Commission (FCMC). 2009a. “Overview of JSC 
+Parex Banka Takeover.” May 5, 2009. 
+Summary timeline of Parex’s takeover. 
+https://elischolar.library.yale.edu/ypfs-documents2/1911 
+Implementation Documents 
+(BOL 2008a) Bank of Latvia (BOL). 2008a. Letter from Bank of Latvia Governor Ilmārs 
+Rimšēvičs to ECB President Jean-Claude Trichet. 
+Letter from the BOL governor to the ECB on the Latvian government’s measures to stabilize 
+the financial sector. 
+https://elischolar.library.yale.edu/ypfs-documents2/1295/ 
+(Cabinet of Ministers 2008) Cabinet of Ministers. 2008. “Minutes of the Meeting of the 
+Cabinet of Ministers of the Republic of Latvia.” November 22, 2008. 
+Minutes of a meeting during which the Cabinet of Ministers discussed additional term deposits 
+in Parex (in Latvian). 
+http://elischolar.library.yale.edu/ypfs-documents2/1838 
+Legal/Regulatory Guidance 
+(EC 2002) European Commission (EC). 2002. European Commission Treaty, Article 88. 
+December 24, 2002. 
+Section of the EC Treaty obligating member state to obtain approval of State Aid affecting the 
+common market. 
+https://elischolar.library.yale.edu/ypfs-documents2/1307 
+(EC 2008a) European Commission (EC). 2008a. “State Aid – NN 68/2008 – Latvia Public 
+Support Measures to JSC Parex Banka.” November 24, 2008. 
+EC decision allowing the initial placement of term deposits in Parex. 
+https://elischolar.library.yale.edu/ypfs-documents2/1298 
+(EC 2008b) European Commission (EC). 2008b. “State Aid – N 638/2008 – Guarantee 
+Scheme for Banks in Latvia.” December 12, 2008. 
+EC decision on Latvia’s Deposit Guarantee Fund. 
+https://elischolar.library.yale.edu/ypfs-documents2/1300 
+330
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 25 ---
+(EC 2009a) European Commission (EC). 2009a. “State Aid – NN 3/2009 – Latvia 
+Modifications to the Public Support Measures to JSC Parex Banka.” February 11, 2009. 
+EC decision on the amended investment agreement increasing the government’s stake to 85%. 
+https://elischolar.library.yale.edu/ypfs-documents2/1300 
+(EC 2009b) European Commission (EC). 2009b. “State Aid – N 189/2009 – Latvia 
+Modifications to the Public Support Measures to JSC Parex Banka.” May 11, 2009. 
+EC decision on capital injections that increased the LPA’s stake to 95%. 
+https://elischolar.library.yale.edu/ypfs-documents2/1301 
+(EC 2010) European Commission (EC). 2010. “Commission Decision on the State Aid C 
+26/09 (Ex N 289/09) Which Latvia Is Planning to Implement for the Restructuring of AS 
+Parex Banka.” September 15, 2010. 
+EC decision on the split of Parex into bad and good banks. 
+https://elischolar.library.yale.edu/ypfs-documents2/1303 
+(EC 2012) European Commission (EC). 2012. “State Aid – SA.34747 (2012/NN) – 
+Amendments to Parex Restructuring Plan – Latvia.” August 10, 2012. 
+EC decision on amendments to Parex’s restructuring plan. 
+https://elischolar.library.yale.edu/ypfs-documents2/1304 
+(EC 2014a) European Commission (EC). 2014a. “State Aid – SA.36612 (2014/C) (Ex 
+2013/NN) – Latvia Aid Granted by Latvia to AS Citadele Banka and AS Reverta (Formerly 
+Known as AS Parex Banka) as Well as Misuse of Aid.” April 16, 2014. 
+EC document containing information on the name change to Reverta. 
+https://elischolar.library.yale.edu/ypfs-documents2/1305 
+(EC 2014b) European Commission (EC). 2014b. “Commission Decision (EU) 2015/162 on 
+the State Aid SA.36612 (2014/C) (Ex 2013/NN) Implemented by Latvia for Parex.” July 9, 
+2014. 
+EC decision on possible violations of State Aid. 
+https://elischolar.library.yale.edu/ypfs-documents2/1740 
+(EU 2009) European Union (EU). 2009. Treaty on the Functioning of the European Union. 
+5/8/2008. 
+Treaty prohibiting monetary financing by Eurosystem national central banks. 
+https://elischolar.library.yale.edu/ypfs-documents2/3841 
+(FCMC 2005) Financial and Capital Market Commission (FCMC). 2005. “Liquidity 
+Requirements Fulfillment Rules.” December 23, 2005. 
+Regulation on liquidity requirements (in Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents2/1314 
+  
+331
+Parex Bank Decker
+
+--- Page 26 ---
+(FCMC 2008) Financial and Capital Market Commission (FCMC). 2008. “On the 
+Determination of Limits on the Performance of Obligations for the Joint-Stock Company 
+‘Parex Banka’.” December 1, 2008. 
+Decision by the FCMC and Cabinet of Ministers to enact a partial freeze on withdrawals and 
+transfers (in Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents2/1308 
+(Parliament of Latvia 1998) Parliament of Latvia. 1998. Law on Deposit Guarantees for 
+Individuals. June 3, 1998. 
+Law establishing Latvia’s deposit insurance scheme (in Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents2/253 
+(Parliament of Latvia 2008a) Parliament of Latvia. 2008a. Law on Budget and Financial 
+Management. January 1, 2008. 
+Legal authority used by the Cabinet of Ministers to commit to recapitalizing Parex on 
+November 24, 2008 (in Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents2/1381 
+(Parliament of Latvia 2008b) Parliament of Latvia. 2008b. “Law on Credit Institutions.” July 
+23, 2008. 
+Law outlining the process of restoring solvency, satisfying creditors’ demands, and preventing 
+bankruptcy (in Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents2/1311 
+(Parliament of Latvia 2008c) Parliament of Latvia. 2008c. Amendments to the Deposit 
+Guarantee Law. October 17, 2008. 
+Amendment to Latvia’s deposit-guarantee system, increasing the maximum compensation (in 
+Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents/12531/ 
+(Parliament of Latvia 2008d) Parliament of Latvia. 2008d. Law on Budget and Financial 
+Management. November 26, 2008. 
+Revised version of the Law on Budget and Financial Management, effective from November 
+26, 2008, to December 31, 2008 (in Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents2/1381/ 
+(Parliament of Latvia 2009) Parliament of Latvia. 2009. Law on Budget and Financial 
+Management. January 1, 2009. 
+Version of the Law on Budget and Financial Management, containing Article 81, effective on 
+the date of the first capital injection (in Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents2/2720/ 
+  
+332
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 27 ---
+Media Stories 
+(AFP 2008) Agence France Presse (AFP). 2008. “Latvia Restricts Withdrawals from Second 
+Biggest Bank: Regulator.” Agence France Presse, December 2, 2008. 
+News article on the partial freeze on withdrawals and transfers from Parex. 
+https://elischolar.library.yale.edu/ypfs-documents2/1316 
+(Anderson 2008) Anderson, Robert. 2008. “Latvia Takes over Parex after Run on Bank.” 
+Financial Times, November 9, 2008. 
+News article containing the BOL governor’s characterization of Parex’s partial 
+nationalization. 
+https://elischolar.library.yale.edu/ypfs-documents2/1317 
+(Lannin 2008) Lannin, Patrick. 2008. “Update 1-Latvia Bails out 2nd Largest Bank as Crisis 
+Hits.” Reuters, November 8, 2008. 
+News article containing the prime minister’s characterization of Parex’s partial 
+nationalization. 
+https://elischolar.library.yale.edu/ypfs-documents2/1321 
+(Petrova 2008) Petrova, Alla. 2008. “Parex Banka Takeover Agreement Signed.” Baltic 
+Course, November 11, 2008. 
+News article reporting the Ministry of Finance’s promise to publicly release parts of the 
+takeover agreement. 
+https://elischolar.library.yale.edu/ypfs-documents2/1324 
+(Reuters 2008) Reuters. 2008. “Latvia Names Ex-Telecom Boss to Head Rescued Parex.” 
+Reuters, December 5, 2008. 
+News article reporting the 85% takeover of Parex and a statement from the finance minister. 
+https://elischolar.library.yale.edu/ypfs-documents2/1325 
+(Tapinsh 2008) Tapinsh, Aleks. 2008. “Latvia Restricts Withdrawals from Bank, 
+Government May Up Stake.” Agence France Presse, December 2, 2008. 
+News article reporting the details of the partial freeze on Parex. 
+https://elischolar.library.yale.edu/ypfs-documents2/1326 
+Press Releases/Announcements 
+(BOL 2008b) Bank of Latvia (BOL). 2008b. “On Providing Liquidity and Stability of the Lats 
+in View of the Situation in the World Financial Markets.” Press release, November 14, 2008. 
+Press release announcing emergency lending to Parex. 
+https://elischolar.library.yale.edu/ypfs-documents2/1848 
+(Citadele 2015) AS Citadele banka (Citadele). 2015. “Sale of Citadele Shares Completed, 
+Share Price: EUR 74.7 Million.” Press release, April 20, 2015. 
+Press release announcing the completion of the sale of Citadele to Ripplewood. 
+https://elischolar.library.yale.edu/ypfs-documents2/1330 
+333
+Parex Bank Decker
+
+--- Page 28 ---
+(EBRD 2009) European Bank for Reconstruction and Development (EBRD). 2009. “EBRD 
+Board Approves Finance Package for Parex Bank.” Press release, April 7, 2009. 
+Press release announcing the EBRD’s investment agreement for Parex. 
+https://elischolar.library.yale.edu/ypfs-documents2/1331 
+(Latvian Journal 2008) Latvian Journal. 2008. “At the Meeting of the Cabinet of Ministers: 
+December 22, 2008.” Release No. 201, December 29, 2008. 
+Article about the topics discussed at the meeting of the Cabinet of Ministers of Latvia on 
+December 22, 2008 (in Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents2/3440 
+(Parex 2009a) Parex banka (Parex). 2009a. “State-Owned Shares of Parex Banka to Be 
+Transferred into Holding of the Latvian Privatisation Agency.” Press release, February 24, 
+2009. 
+Press release on the transfer of shares from LHZB to the LPA. 
+https://elischolar.library.yale.edu/ypfs-documents2/2000 
+(Parex 2009b) Parex banka (Parex). 2009b. “Privatisation Agency Becomes the Majority 
+Shareholder of Parex Banka.” Press release, March 2, 2009. 
+Press release announcing the transfer of Parex from LHZB to the LPA. 
+https://elischolar.library.yale.edu/ypfs-documents2/1929 
+Reports/Assessments 
+(BOL 1999) Bank of Latvia (BOL). 1999. Annual Report 1998. 
+Annual report by the BOL for 1998. 
+https://elischolar.library.yale.edu/ypfs-documents2/1704/ 
+(BOL 2009) Bank of Latvia (BOL). 2009. Annual Report 2008. 
+Annual report by the BOL for 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/1334/ 
+(Citadele 2011) AS Citadele banka (Citadele). 2011. Annual Report 2010 for the Six-Month 
+Period Ended 31 December 2010. 
+Annual report by Citadele for the second half of 2010 (translated by Citadele). 
+https://elischolar.library.yale.edu/ypfs-documents2/1335/ 
+(Citadele 2012) AS Citadele banka (Citadele). 2012. Annual Report 2011. 
+Annual report by Citadele for 2011 (translated by Citadele). 
+https://elischolar.library.yale.edu/ypfs-documents2/1337 
+(Citadele 2013) AS Citadele banka (Citadele). 2013. Annual Report 2012. 
+Annual report by Citadele for 2012 (translated by Citadele). 
+https://elischolar.library.yale.edu/ypfs-documents2/1338 
+  
+334
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 29 ---
+(FCMC 2009b) Financial and Capital Market Commission (FCMC). 2009b. THIS Annual 
+Report and Activity Report 2008. 
+Annual report by the FCMC for 2008. 
+https://elischolar.library.yale.edu/ypfs-documents/12520 
+(IMF 2009) International Monetary Fund (IMF). 2009. “Republic of Latvia: Request for 
+Stand-By Arrangement.” IMF Country Report No. 09/3, January 2009. 
+Summary of Latvia’s Stand-By Arrangement with the IMF. 
+https://elischolar.library.yale.edu/ypfs-documents2/1345 
+(IMF 2013) International Monetary Fund (IMF). 2013. “Republic of Latvia: Ex Post 
+Evaluation of Exceptional Access under the 2008 Stand-By Arrangement.” IMF Country 
+Report No. 13/30, January 2013. 
+Ex post report by the IMF on the 2008 SBA with Latvia. 
+https://elischolar.library.yale.edu/ypfs-documents2/1346 
+(LHZB 2010) Latvian Mortgage and Land Bank (LHZB). 2010. Condensed Consolidated and 
+Bank Financial Statements 2009 (Unaudited). 
+Financial statements by LHZB for 2009. 
+https://elischolar.library.yale.edu/ypfs-documents2/1745 
+(LPA 2009) Latvian Privatization Agency (LPA). 2009. Annual Report 2008. 
+Annual report by the LPA for 2008 (in Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents2/1716 
+(LPA 2019) Latvian Privatization Agency (LPA). 2019. Annual Report 2018. 
+Annual report by the LPA for 2018 (in Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents2/1693 
+(LPA 2023) Latvian Privatization Agency (LPA). 2023. Annual Report 2022. 
+Annual report by the LPA for 2022 (in Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents2/1696 
+(OECD 2016) Organisation for Economic Co-Operation and Development (OECD). 2016. 
+“Latvia: Review of the Financial System.” Committee on Financial Markets, April 2016. 
+Report by the OECD on Latvia’s financial system. 
+https://elischolar.library.yale.edu/ypfs-documents2/1353 
+(Parex 2009c) Parex banka (Parex). 2009c. Interim Report for the First Half of 2009. 
+Half-year report by Parex for 2009. 
+https://elischolar.library.yale.edu/ypfs-documents2/1355 
+(Parex 2010) Parex banka (Parex). 2010. Annual Report 2009. 
+Annual report by Parex for 2009. 
+https://elischolar.library.yale.edu/ypfs-documents2/3443/ 
+335
+Parex Bank Decker
+
+--- Page 30 ---
+(Parex 2011) Parex banka (Parex). 2011. Annual Report 2010. 
+Annual report by Parex for 2010. 
+https://elischolar.library.yale.edu/ypfs-documents2/1357 
+(Parex 2012) Parex banka (Parex). 2012. Annual Report 2011. 
+Annual report by Parex for 2011. 
+https://elischolar.library.yale.edu/ypfs-documents2/1768 
+(Parliament of Latvia 2015) Parliament of Latvia. 2015. “Final Report of the Parliamentary 
+Commission of Inquiry.” December 17, 2015. 
+Parliamentary report on the sale of Citadele (in Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents2/1761 
+(Reverta 2013) Reverta. 2013. Annual Report 2012. 
+Annual report by Reverta for 2012. 
+https://elischolar.library.yale.edu/ypfs-documents2/1770 
+(Reverta 2014) Reverta. 2014. Annual Report 2013. 
+Annual report by Reverta for 2013. 
+https://elischolar.library.yale.edu/ypfs-documents2/1769 
+(Reverta 2015) Reverta. 2015. Annual Report 2014. 
+Annual report by Reverta for 2014. 
+https://elischolar.library.yale.edu/ypfs-documents2/1772 
+(Reverta 2016) Reverta. 2016. Annual Report 2015. 
+Annual report by Reverta for 2015. 
+https://elischolar.library.yale.edu/ypfs-documents2/1773 
+(Reverta 2017a) Reverta. 2017a. Unaudited Condensed Financial Report for the First Half 
+of 2017. 
+Half-year report by Reverta for 2017. 
+https://elischolar.library.yale.edu/ypfs-documents2/2046 
+(Reverta 2017b) Reverta. 2017b. Annual Report 2016 (Unaudited). 
+Annual report by Reverta for 2016. 
+https://elischolar.library.yale.edu/ypfs-documents2/1775 
+(Reverta 2018) Reverta. 2018. Annual Report 2017. 
+Annual report by Reverta for 2017. 
+https://elischolar.library.yale.edu/ypfs-documents2/1771 
+(Reverta 2019) Reverta. 2019. Annual Report 2018. 
+Annual report by Reverta for 2018 (in Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents2/1979 
+336
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 31 ---
+(Reverta 2022) Reverta. 2022. Annual Report 2021. 
+Annual report by Reverta for 2021 (in Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents2/1983 
+(Reverta 2023) Reverta. 2023. Annual Report 2022. 
+Annual report by Reverta for 2022 (in Latvian). 
+https://elischolar.library.yale.edu/ypfs-documents2/1359 
+(Treasury 2009) Treasury of the Republic of Latvia (Treasury). 2009. Public Report for 
+2008. 
+Annual report by the Treasury for 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/1966/ 
+(Treasury 2010) Treasury of the Republic of Latvia (Treasury). 2010. Public Report for 
+2009. 
+Annual report by the Treasury for 2009. 
+https://elischolar.library.yale.edu/ypfs-documents2/1965 
+(Treasury 2011) Treasury of the Republic of Latvia (Treasury). 2011. Public Report for 
+2010. 
+Annual report by the Treasury for 2010. 
+https://elischolar.library.yale.edu/ypfs-documents2/1967 
+(Treasury 2013) Treasury of the Republic of Latvia (Treasury). 2013. Public Report for 
+2012. 
+Annual report by the Treasury for 2012. 
+https://elischolar.library.yale.edu/ypfs-documents2/1969/ 
+(Treasury 2015) Treasury of the Republic of Latvia (Treasury). 2015. Public Report for 
+2014. 
+Annual report by the Treasury for 2014. 
+https://elischolar.library.yale.edu/ypfs-documents2/1970/ 
+(Treasury 2016) Treasury of the Republic of Latvia (Treasury). 2016. Public Report for 
+2015. 
+Annual report by the Treasury for 2015. 
+https://elischolar.library.yale.edu/ypfs-documents2/1971/ 
+(Treasury 2017) Treasury of the Republic of Latvia (Treasury). 2017. Public Report for 
+2016. 
+Annual report by the Treasury for 2016. 
+https://elischolar.library.yale.edu/ypfs-documents2/1972 
+(Treasury 2018) Treasury of the Republic of Latvia (Treasury). 2018. Public Report for 
+2017. 
+Annual report by the Treasury for 2017. 
+https://elischolar.library.yale.edu/ypfs-documents2/1973 
+337
+Parex Bank Decker
+
+--- Page 32 ---
+Key Academic Papers 
+(Arnold 2025) Arnold, Vincient. 2025. “Emergency Liquidity Assistance and Monetary 
+Financing in the European Union: A Case Study in Fiscal Cooperation?” Yale Program on 
+Financial Stability, Systemic Risk Blog, January 30, 2025. 
+Policy note discussing the application of monetary financing regulations on emergency 
+liquidity assistance in Europe. 
+https://som.yale.edu/story/2025/emergency-liquidity-assistance-and-monetary-
+financing-european-union-case-study-fiscal 
+(Bojāre and Romānova 2017) Bojāre, Kristina, and Inna Romānova. 2017. “The Factors 
+Affecting the Profitability of Banks: The Case of Latvia.” International Journal of Economics 
+and Business Administration, V, no. 4: 78–95. 
+Article on the business model and profitability of banks in Latvia. 
+https://elischolar.library.yale.edu/ypfs-documents2/1363 
+(Decker 2024a) Decker, Bailey. 2024a. “Latvia: Parex Bank Capital Injection, 2008.” Journal 
+of Financial Crises 6, no. 3. 
+YPFS case study examining the recapitalization of Parex. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/16/ 
+(Decker 2024b) Decker, Bailey. 2024b. “Latvia Parex Bank Restructuring, 2008.” Journal of 
+Financial Crises 6, no. 1. 
+YPFS case study examining the restructuring of Parex. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1 
+(Epstein and Rhodes 2019) Epstein, Rachel, and Martin J. Rhodes. 2019. “Good and Bad 
+Banking on Europe’s Periphery: Pathways to Catching up and Falling Behind.” West 
+European Politics 42, No. 5: 965–88, January, 965–88. 
+Journal article on bank business models and profitability on Europe’s east and south. 
+https://elischolar.library.yale.edu/ypfs-documents2/1365 
+(Kelly et al. 2025) Kelly, Steven, Vincient Arnold, Greg Feldberg, and Andrew Metrick. 2025. 
+“Survey of Ad Hoc Emergency Liquidity Programs." Journal of Financial Crises 7, no. 1.  
+Survey of YPFS case studies examining the provision of ad hoc emergency liquidity.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/3/ 
+(Wiggins et al. 2022) Wiggins, Rosalind Z., Sean Fulmer, Greg Feldberg, and Andrew 
+Metrick. 2022. “Broad-Based Emergency Liquidity Programs.” Journal of Financial Crises 4, 
+no. 2. 
+YPFS survey examining broad-based emergency lending. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/3 
+  
+338
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 33 ---
+Other 
+(EC n.d.) European Commission (EC). n.d. “Latvia and the Euro.” Webpage containing 
+information on Latvia’s official currency. Accessed August 9, 2023. 
+Latvia joined the European Union in 2004 and adopted the euro on 1 January 2014. 
+https://elischolar.library.yale.edu/ypfs-documents2/3441 
+(Latvian Journal n.d.) Latvian Journal. n.d. “Official Gazette.” Accessed June 8, 2023. 
+Webpage containing information on the purpose of the Latvian Journal. 
+https://elischolar.library.yale.edu/ypfs-documents2/3442 
+ 
+ 
+Copyright 2025 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+ 
+339
+Parex Bank Decker

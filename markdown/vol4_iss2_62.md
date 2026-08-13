@@ -1,0 +1,430 @@
+## United States: Reconstruction Finance Corporation Emergency Lending to Financial Institutions, 1932–1933[1, 2] 
+
+## _Natalie Leonard[3]_ 
+
+Yale Program on Financial Stability Case Study June 15, 2022 
+
+## **Abstract** 
+
+In the lead-up to the Great Depression, bank credit rapidly expanded and bank capital ratios declined. Banks, suffering from fallen commodity prices, failed at a high rate in the 1920s, and these failures rapidly accelerated in 1930. On January 22, 1932, the Reconstruction Finance Corporation (RFC) was created “to provide emergency financing facilities for financial institutions, to aid in financing agriculture, commerce, and industry, and for other purposes.” The original legislation gave the RFC broad authority to provide collateralized loans to almost any bank or corporation, especially small rural banks that could not access the Federal Reserve’s discount window and banks that were closed or in liquidation. Despite its broad authority, the RFC originally adopted narrow standards for its lending. However, Congress broadened its mandate in subsequent legislation, and the RFC loosened its criteria. As of July 1932, the RFC had extended loans to more than 4,000 banks, credit unions, railroads, and mortgage-loan companies. By the end of 1932, the RFC had extended credits totaling $2.3 billion and advanced $1.6 billion on those credits. President Herbert Hoover and the RFC’s board realized that the banks needed more capital in addition to temporary liquidity and shifted the bulk of the RFC’s support to a capital-injection program, which, combined with new federal deposit insurance, was more successful at stabilizing the banks. This case deals with the RFC’s role as a lender of last resort (LOLR) from its inception until President Franklin Roosevelt’s declaration of the March 1933 bank holiday. 
+
+**Keywords:** broad-based emergency liquidity, Great Depression, Reconstruction Finance Corporation, National Credit Corporation, War Finance Corporation 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based emergency-lending programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2  The author would like to thank Joseph R. Mason for helpful comments on an early draft of this case study. 
+
+> 3 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+In the lead-up to the Great Depression, bank credit expanded rapidly and bank capital ratios declined (Ebersole 1933, 465). In October 1929, a severe stock-market crash resulted in a widespread banking panic, as depositors lost confidence in their banks and began withdrawing their savings and hoarding currency (Ebersole 1933, 466). Bank failures continued and rapidly accelerated in November 1930 (Ebersole 1933, 466). While the federal government had allowed bank failures for a decade, believing that there were “too many banks,” by 1931, Congress had begun to discuss the need to step in to assume bank risks to protect the general provision of liquidity (Ebersole 1933, 467). 
+
+The deepening Depression convinced Eugene Meyer, the former managing director of the War Finance Corporation (WFC), which the government created to finance essential industries for World War I, that President Herbert Hoover needed to re-establish the WFC (Nash 1959, 461). Meyer was also governor of the Federal Reserve, which had a close relationship with the Reconstruction Finance Corporation (RFC) in its early days. 
+
+While the newly created Federal Reserve operated a Discount Window to lend to financial institutions during crisis times, several factors limited its ability to respond. First, of the 18,734 operational banks in the United States in 1932 only 7,246 (39%) were member banks of the Federal Reserve and therefore able to borrow from the Discount Window (Anbil and Vossmeyer 2017, 7). Second, banks were reluctant to borrow from the Discount Window because of stigma; other market participants might view borrowing as a sign of weakness (Anbil and Vossmeyer 2017, 1). Despite these factors, 
+
+## **Key Terms** 
+
+Purpose:  To “provide emergency financing facilities for financial institutions, to aid in financing agriculture, commerce, and industry, and for other purposes” (U.S. Congress 1932b) 
+
+||Launch Dates|January 22, 1932|
+|---|---|---|
+|||(Announcement)|
+|||February 22, 1932<br>(Operational)|
+||Expiration Date|June 30, 1957|
+||Legal Authority<br>Peak Outstanding|Reconstruction Finance<br>Corporation Act<br>Approximately $2<br>billion|
+||Participants|Banks, savings banks|
+|||trust companies,|
+|||building-and-loan|
+|||associations, insurance<br>companies, mortgage-<br>loan companies, credit<br>unions, federal land|
+|||banks, joint-stock land|
+|||banks, federal<br>intermediate credit<br>banks, agricultural<br>credit corporations,|
+|||livestock credit|
+|||corporations|
+||Rate|Non-auction|
+||Collateral<br>Notable Features|Wide range<br>Decentralized lending to<br>wide range of banks and<br>nonbanks|
+||Outcomes|Emergency liquidity|
+|||provided, though<br>capitalization program<br>ultimately necessary|
+
+
+
+
+the Discount Window did serve a critical lender-of-last-resort (LOLR) function, lending more than $6 billion cumulatively in 1932 (Anbil and Vossmeyer 2017, 8). 
+
+In light of the continuing stresses on the lending markets, President Hoover first indicated his intentions to create an “emergency Reconstruction corporation of the nature of the former War Finance Corporation” in a message to Congress on December 7, 1931 (Treasury 1959, 1). Congress passed the Reconstruction Finance Corporation Act (the RFC Act) creating the program on January 22, 1932, and President Hoover signed it into law the same day (Treasury 1959, 1). The Act’s subtitle expresses its purpose—"to provide emergency financing facilities for financial institutions, to aid in financing agriculture, commerce, and industry, and for other purposes” (U.S. Congress 1932a). 
+
+Upon signing the act, Hoover stated that the RFC’s purpose was “to stop deflation in agriculture and industry and thus to increase employment by the restoration of men to their normal jobs. It is not created for the aid of big industries or big banks” (Treasury 1959, 1). 
+
+The RFC Act gave the new agency broad lending authority and the ability to act as LOLR for financial institutions that were not eligible to borrow from the Federal Reserve. The RFC was authorized to make loans and advances: 
+
+To aid in financing agriculture, commerce, and industry, including facilitating the exportation of agricultural and other products the corporation is authorized and empowered to make loans, upon such terms and conditions not inconsistent with this Act as it may determine, to any bank, savings bank, trust company, building and loan association, insurance company, mortgage loan company, credit union, Federal land bank, joint-stock land bank, Federal intermediate credit bank, agricultural credit corporation, livestock credit corporation, organized under the laws of any State or of the United States, including loans secured by the assets of any bank that is closed, or in process of liquidation to aid in the reorganization or liquidation of such banks (U.S. Congress 1932a, sec. 5). 
+
+RFC loans were required to be “fully and adequately secured” by collateral (U.S. Congress 1932a, sec. 5). Although it had broad discretion to accept various types of collateral, including promissory notes, and to determine what “fully and adequately secured” meant, the RFC originally applied stringent collateral requirements. According to Olson (1972), the RFC initially accepted 80% of the market value of the highest-grade securities and no more than 50% of the market value of all other types of securities (as cited in Mason 2001b, 10). The RFC standardized interest rates across the system. Interest rates on loans to financial institutions were initially 6% and had decreased to 4% by 1933, pricing RFC rates above those at the Federal Reserve’s discount window (Mason 2001b, 8). RFC collateral requirements were initially comparable with the discount window, though Mason 1999 indicates that they were relaxed beginning in July 1932 (Mason 2001a, 79) 
+
+The RFC’s activities changed substantially over its lifespan, as its jurisdiction and responsibilities were amended and expanded. Under the original legislation, the RFC was to provide emergency loans that could not be obtained through the usual channels owing to 
+
+
+uncertainty and panic in the banking sector (Ebersole 1933, 468). Later regulation reframed the RFC’s mandate as to “provide direct and positive stimulus to business revival through capital loans for new construction” (Ebersole 1933, 469). 
+
+By the end of 1932, the RFC had extended credits totaling $2.3 billion and advanced $1.6 billion on those credits (Ebersole 1933, 475). As of July 1932, these loans had gone to more than 4,000 banks, credit unions, railroads, and mortgage-loan companies (Olson 1988, 16). Despite the RFC’s extensive lending, credit supply was still constrained, as banks hoarded cash and were reluctant to lend. Excess reserves continued to accumulate at the Federal Reserve, and Federal Reserve member-bank loans shrank from $23 billion in 1929 to $11 billion in 1932 (Olson 1988, 16). 
+
+This case study focuses on emergency loans to financial institutions in 1932–33, before the Roosevelt Administration refocused the RFC’s mission and created a Preferred Stock Purchase Program. For a discussion of this program, see Lawson 2021. 
+
+## **Summary Evaluation** 
+
+The RFC’s original, stringent collateral requirements likely undermined the effectiveness of the loan program. Olson (1988, 177–78) argues: 
+
+The collateral requirements were so high that an RFC loan forced a bank to deposit its most valuable and liquid assets as security for the Corporation’s advance. All too often, the Corporation would advance a loan, take over the bank’s best assets for collateral, and leave the bank unable to meet demands by depositors once those demands exceeded the amount of the loan (as cited in Mason 2001b, 9). 
+
+Mason (2001a, 91) analyzes bank-level data and finds that banks that took RFC loans had an increased risk of failure. As the RFC relaxed collateral requirements, that correlation weakened. 
+
+Following an amendment to the RFC Act passed in July 1932, the RFC began to publish monthly reports on “its activities and expenditures . . . with a statement showing the names of the borrowers to whom loans and advances were made, and the amount and rate of interest involved in each case” (U.S. Congress 1932b, 8). After this change, the “number and dollar value of bank loan applications received by the RFC dropped dramatically,” and RFCloan repayment improved. This was likely because banks were concerned to demonstrate financial soundness and avoid the stigma associated with the RFC (Butkiewicz 1995, 209). Butkiewicz (1995, 209) finds that the “publication of the list of loan recipients may have totally offset the initial effectiveness of the RFC’s lending activities.” 
+
+Anbil and Vossmeyer (2017, 4–5) similarly find a strong stigma effect attached to RFC lending after the July 1932 amendments. First, they note that following the change, banks self-sorted between the RFC and the Federal Reserve, with solvent banks that were more concerned with reputation approaching the Federal Reserve’s discount window. Second, the authors find that “revealed banks”—banks whose names were published by the RFC— experienced a 9.8% drop in their portfolios of bonds and securities as compared with banks 
+
+
+that borrowed from the discount window. These banks contracted their portfolios of loans and discounts by 15.3% (Anbil and Vossmeyer 2017, 4–5). 
+
+Olson indicates that steep collateral rules weakened the effectiveness of RFC lending. As people withdrew deposits from weaker banks, those banks “borrowed on their sound assets from the RFC, converted assets into cash at severely depressed prices, and drew on their balances at stronger banks,” thereby weakening stronger banks as well (Olson 1988, 27). By March 4, 1933, the RFC had lent more than $2 billion to financial institutions, railroads, and farmers, yet the bank “crisis [had become] a catastrophe” (Olson 1988, 27, 29).  The RFC lent $1 billion to banks from January to March 1933, at which point loans began to decrease as many banks moved from the loan program to the new preferred stock program (see graph below) (Mason 2001b).  Outstanding loans to financial institutions would eventually peak at $718 million in December 1933. On March 6, 1933, President Franklin Roosevelt declared a national bank holiday, closing all federal- and state-chartered banks. Three days later, he sent the Emergency Banking Act of 1933 to Congress, which provided funding support for the reopening of the banks as soon as examiners found them to be financially secure; the Act was immediately passed (Olson 1988, 30; Greene 2013). 
+
+President Hoover and the RFC board had realized that the banks needed not only temporary liquidity but loss-bearing capital (Olson 1988, 37). The Emergency Banking Act of 1933 enabled the RFC to capitalize banks through preferred-stock subscriptions (Treasury 1959, 4). Subsequently, the bulk of the RFC’s support to the financial sector shifted to a capitalinjection program, which was more successful at stabilizing the banking sector, bolstered by the introduction of federal deposit insurance (See Lawson 2021). 
+
+
+|**Context: United States 1931-1932 **|**Context: United States 1931-1932 **|
+|---|---|
+|**GDP**|$77.39 billion in 1931<br>$59.52 billion in 1932|
+|**GDPper capita**|Data not available|
+|**Sovereign credit rating**<br>**(five-year senior debt)**|Data not available|
+|**Size of banking system **|Data not available|
+|**Size of banking system**<br>**as a percentage of GDP**|Data not available|
+|**Size of banking system**<br>**as a percentage of financial system**|Data not available|
+|**Five-bank concentration of banking system**|Data not available|
+|**Foreign involvement in banking system**|Data not available|
+|**Government ownership of banking system **|Data not available|
+|**Existence of deposit insurance**|FDIC established in 1933; deposits<br>insured upto$2,500 in 1934|
+|_Sources: Bloomberg; World Bank Global Financial Development Database; World_<br>_Bank Deposit Insurance Dataset._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: The RFC was created through an act passed by Congress on January 22, 1932, to provide emergency financing to alleviate the tight credit restrictions that had developed as a result of the Great Depression.** 
+
+The RFC was created through an act of Congress passed January 22, 1932 (U.S. Congress 1932b). The stated purpose of the RFC in the original act was “to provide emergency financing facilities for financial institutions, to aid in financing agriculture, commerce, and industry, and for other purposes” (U.S. Congress 1932b). The effects of the developing Great Depression, which were partially a result of overleverage and debt deflation, compelled many banks to restrict their lending to “reduce further exposure to declining asset values and accumulate loan loss reserves that could offset the capital depletion resulting from expected defaults” (Mason 2001b, 2). The resulting severe credit restrictions meant that many banks and industrial firms found it difficult if not impossible to acquire sufficient funding. Policy makers believed that if they could provide liquidity, “capacity utilization and therefore asset values would increase and general economic recovery would follow” (Mason 2001b, 2–3). The law also provided funding to farmers, who were having difficulty obtaining normal crop-funding loans (U.S. Congress 1932a, sec. 2). 
+
+In a speech delivered on December 11, 1931, President Hoover outlined the RFC’s role as a provider of emergency credit: 
+
+to furnish necessary credit otherwise unobtainable under existing circumstances, and so give confidence to agriculture, to industry and to labor against further paralyzing influences and shocks, but more especially by the reopening of credit channels which will assure the maintenance and normal working of the commercial fabric. (Hoover 1931) 
+
+The RFC was closely modeled on the War Finance Corporation (WFC), a governmentsponsored corporation created to give financial support to industries essential for World War I, and to banking institutions that aided these industries.[4] Ebersole (1933, 467–68) says the RFC was so closely modeled on the WFC that “the only substantial innovations in the original Reconstruction Finance Corporation Act . . . were the greater volume of funds provided, and the inclusion of railroad financing.” For Eugene Meyer, former head of the WFC and member of the Board of Governors of the Federal Reserve, the WFC had “psychological value”: “The knowledge that funds were available in an emergency . . . gave a greater confidence to private finance” (Meyer 1931, 19). 
+
+At the time the act was passed, although the Federal Reserve could serve as LOLR for member banks, there was no federal agency that could make large loans to many depressed sectors of the economy or support state-chartered banks and banks in small rural areas that 
+
+> 4 The WFC, established in 1918, lasted until 1929, two years before the creation of the RFC. The WFC was created to ease the impact of newly issued war-finance federal government securities. Industrial “enterprises encountered difficulties in securing capital that would enable them to convert to war production” (Nash 1959, 457). 
+
+
+were not part of the Federal Reserve System but were in need of loans to manage daily operations (Gou et al. 2013). The RFC was intended to fill this gap; it was authorized to loan to a wide range of financial institutions, even those in receivership, and to accept as collateral any asset the board deemed acceptable, providing an outlet for illiquid assets (Gou et al. 2013). 
+
+Hoover enumerated the eight purposes of the proposed RFC in his memoir. Two related explicitly to financial institutions: 
+
+- (a) to make loans to banks and financial institutions ‘which cannot otherwise secure credit where such advances will protect the credit structure and stimulate employment’ . . . 
+
+- (b) to make loans to closed banks upon their sound assets so as to enable them at least partially to pay out deposits to a multitude of families and small businesses who were in distress because their deposits were tied up pending liquidation or reorganization of these banks (Hoover 1952, 98). 
+
+Emergency lending to financial institutions and railways constituted the primary focus of the RFC prior to the bank holiday in 1933 and the introduction of the preferred-stock-purchase program in March 1933, the period on which this case is focused. Given banks’ large holdings of railway stocks, it was thought that stabilizing railway bonds was important to stabilizing financial institutions (See Appendix). 
+
+The RFC was significantly amended in July 1932 and again in March 1933 (see Key Design Decision No. 2). These amendments broadened the agency’s authority, and the nature of its operations changed in 1933 when Meyer resigned from its board and the Roosevelt administration pursued a wider range of stimulus activities using the RFC (Gou et al. 2013). 
+
+**2. Legal Authority: The RFC drew its legal authority from the Reconstruction Finance Corporation Act of 1932; it was soon amended by the Emergency Relief and Construction Act of 1932 and the Emergency Bank Act of 1933.** 
+
+The RFC drew its legal authority from the Reconstruction Finance Corporation Act (RFC Act) (H. R. 7360), which Congress passed and President Hoover signed into law on January 22, 1932 (U.S. Congress 1932a). The RFC was created as a temporary corporation to be dissolved on January 1, 1942 (U.S. Congress 1932a, sec. 4). However, the RFC Act specified that its authority to make loans extended for only a year after the passage of the act; the president had the authority to “postpone such date of expiration for such additional period or periods as he may deem necessary, not to exceed two years” (U.S. Congress 1932a, sec. 5). 
+
+The RFC Act was amended by the Emergency Relief and Construction Act of 1932, passed on July 21, 1932, and signed into law on July 27, 1932, which expanded the RFC’s authority to make loans to “self-liquidating” projects (U.S. Congress 1932b). The RFC was further amended by the Emergency Bank Act—approved on March 9, 1933—which authorized the RFC to subscribe for preferred bank stock (Treasury 1959, 4). The Insurance Company Act 
+
+
+of June 10, 1933, enabled the RFC to subscribe for preferred stock of insurance companies (Treasury 1959, 5). 
+
+Emergency lending to financial institutions and railways constituted its primary focus prior to the bank holiday and the introduction of the preferred-stock-purchase program in March 1933. Thereafter, the agency’s authority and its operations broadened, and under the Roosevelt administration it pursued a wider range of stimulus activities (Gou et al. 2013) **.** 
+
+## **3. Part of a Package: The RFC was created through a single act of Congress.** 
+
+The RFC was created through a stand-alone act of Congress passed on January 22, 1932 (U.S. Congress 1932a). However, the federal government created a number of other agencies to respond to financial distress during the Great Depression, including the Federal Home Loan Banks (FHLBanks) in 1932 and the Home Owners’ Loan Corporation (HOLC) in 1933 (Wheelock 2008, 140). For more information on the FHLBanks’ operations during the Great Depression, see Leonard (2022). 
+
+## **4. Management: The RFC was an agency of the executive branch, and a board of directors with seven members managed its operations.** 
+
+A board of directors with seven members managed the operations of the RFC (U. S. Congress 1932, 2).  Under the original legislation, the board of directors was to be made up of the secretary of the Treasury, the governor of the Federal Reserve Board, the Farm Loan commissioner, and four other individuals appointed by the president and confirmed by the Senate (U. S. Congress 1932, 2). The board of directors was to be bipartisan, with no more than four members’ being appointed by one political party (Cho 1953, 11). On August 1, 1932, the Act was amended, removing the governor of the Federal Reserve Board and the Farm Loan Commission from the board and increasing the number of presidential appointees to six (U.S. Department of the Treasury 1959, 25). Board members served twoyear terms and were paid salaries of $10,000 a year (U. S. Congress 1932, 2). 
+
+The RFC was an executive agency and a wholly owned government corporation. The RFC therefore had license to design its operations, within the scope of its authority, without further approval from Congress (Mason 2001b, 3).[5] The RFC was not subject to Civil Service hiring regulations, nor was it audited by the Congressional General Accounting Office (Mason 2001b, 3). As per section 15 of the RFC Act, the corporation submitted quarterly reports of its operations to Congress, which were also published in the Federal Reserve Bulletin (U.S. Congress 1932a, sec. 15). 
+
+> 5 Research indicates that the board had discretion over collateral requirements, rates, and maturities, so long as loans were “fully and adequately secured” in the eyes of the RFC (U.S. Congress 1932a, sec. 5). 
+
+
+## **5. Administration: The administration of the RFC was executed through regional offices, which had broad discretion. Originally, the RFC maintained a close alliance with the Federal Reserve.** 
+
+Section seven of the Act provided that unused funds of the RFC could be deposited with the treasurer of the United States in an account established at the Federal Reserve. The Act also provided that the Federal Reserve and its system banks were authorized “to act as depositaries, custodians, and fiscal agents for the Reconstruction Finance Corporation in the general performance of its powers” (U.S. Congress 1932a, sec. 7). 
+
+The administration of the RFC was initially executed through regional offices housed within Federal Reserve banks (Ebersole 1933, 470).  The Fed lent to its member banks and accepted government securities as collateral; the RFC lent to banks and small and state-chartered banks, mortgage companies, and agricultural lenders, and it accepted collateral the Fed would not (Gou et al. 2013). Initially, RFC funds were disbursed through Federal Reserve Banks and district branches (RFC 1932, no. 1). 
+
+Eugene Meyer, the governor of the Federal Reserve Board and the chairman of the board of the RFC, stated that Federal Reserve banks lent “personnel and facilities” to aid the nascent RFC (Meyer 1932, 2). The regional RFC offices handled loan applications, with the exception of those concerning railroads, farm-loan banks, and federal intermediate credit banks, which were executed at the central Washington, DC, office (Ebersole 1933, 470). 
+
+Eventually, RFC field offices were established in principal cities throughout the country, with a main office in Washington, DC (Mason 2001b, 5). Like the former WFC, after which it was modeled, and from which many RFC staff members were recruited, the RFC had 33 field offices across the country (Olson 1988, 15). Field offices were authorized to extend loans up to $100,000, and only unusual loans required approval from the board of directors (Mason 2001b, 5). Field offices valued collateral and fixed collateral requirements for loans. So long as field offices turned a profit, they faced little intervention from the central RFC office in Washington (Mason 2000, 5–6). 
+
+## **6. Eligible Participants: The RFC was authorized to lend broadly to banks (including banks that were closed or in liquidation) and other types of financial institutions.** 
+
+This case study focuses on emergency loans to financial institutions between 1931 and 1933.[6] The RFC Act authorized the RFC to make loans and advances to a broad set of institutions, including many that were not eligible for Federal Reserve lending: 
+
+any bank, savings bank, trust company, building and loan association, insurance company, mortgage loan company, credit union, Federal land bank, joint-stock land bank, Federal intermediate credit bank, agricultural credit corporation, livestock credit corporation, organized under the laws of any State or of the United States . . . or in 
+
+> 6 Over its long lifespan, the RFC’s authority grew to be broad, and to include lending to other types of corporations, and was later expanded to also include loans to finance infrastructure or industry, which is not the subject of this case study. 
+
+
+process of liquidation to aid in the reorganization or liquidation of such banks. (U. S. Congress 1932, sec. 5) 
+
+The RFC was authorized to lend to banks that were closed or in the process of liquidation. However, the RFC Act specified that no more than $200 million was to be allotted for such banks (U.S. Congress 1932a, sec. 5). 
+
+By July 30, 1932, the RFC had lent to banks throughout the country. Seventy percent of RFC bank loans were to banks in towns with populations of fewer than 5,000, and loans had been authorized to 20% of all banks in the country, covering 15 million of the country’s 40 million depositors (Mills 1932, 11). 
+
+The RFC also provided emergency loans to railroad companies—and given the function of railroad bonds for bank-balance sheets, this lending had implications for bank solvency. See Appendix for more details. 
+
+**7. Funding Source: Originally, the RFC was capitalized through a $500 million capital stock subscription from the Treasury. The Treasury was authorized to sell or purchase obligations of the RFC, which were fully guaranteed by the United States government.** 
+
+In the original legislation creating the RFC, the corporation was to have a “capital stock of $500,000,000” subscribed by the US Treasury (U.S. Congress 1932a, sec. 2). However, most of the RFC’s financing came through borrowed funds. In the initial legislation, the RFC was authorized to have outstanding debt “at any one time in an amount aggregating not more than three times its subscribed capital” (U.S. Congress 1932a, sec. 9). This ratio was increased to six and three-fifths times its subscribed capital in the July 1932 act (U.S. Congress 1932b, sec. 9). 
+
+RFC obligations were marketed by the US Treasury, which had the authority to purchase or sell RFC notes or bonds (U.S. Congress 1932a, sec. 9). RFC obligations were unconditionally guaranteed by the US government and paid rates similar to other US-government liabilities with comparable maturities (Mason 2001b, 5). 
+
+**8. Program Size: The maximum program size of the RFC in its original legislation was $2 billion; this was increased in July 1932 to $3.8 billion.** 
+
+Per section nine of the RFC Act, the RFC could issue up to three times its subscribed capital in debt, originally giving it a maximum program size of $2 billion (U.S. Congress 1932a, sec. 9). In July 1932, the RFC Act was amended to allow the RFC to have six and three-fifths times its subscribed capital as outstanding debt; this implied a maximum program size of $3.8 billion (U.S. Congress 1932b, sec. 9). 
+
+Section two of the Act specified that $50 million of the funded amount was to be allotted to the secretary of Agriculture “for the purpose of making loans or advances to farmers in the several States of the United States in cases where he finds that an emergency exists as a result 
+
+
+of which farmers are unable to obtain loans for crop production” (U.S. Congress 1932a, sec. 2).[7] 
+
+Section 5 of the original RFC Act also provided that not more than $200 million could be used for loans to closed banks (U.S. Congress 1932a, sec. 5). 
+
+During roughly its first year of operation, from February 2, 1932, through December 31, 1932, RFC credits totaled $2.3 billion, and advances totaled $1.6 billion (Ebersole 1933, 475). The RFC lent $1 billion to banks from January to March of 1933, at which point loans began to decrease, as many banks moved from the loan program to the new preferred-stock program (see graph below) (Mason 2001b).  Outstanding loans to financial institutions peaked at $718 million in December 1933 (see Figure 1). 
+
+[FIGURE id=vol4_iss2_62_f1 type=chart label="Figure 1" file=figure_1.png caption="RFC Authorizations under Four Corporate Assistance Programs, Quarterly, 19321937"]
+### **Figure 1: RFC Authorizations under Four Corporate Assistance Programs, Quarterly, 19321937**
+![Figure 1](assets/vol4_iss2_62/figure_1.png)
+
+
+_Source: Mason 2001b, 38._ 
+
+7 The Act further provides that “such advances or loans shall be made upon such terms and conditions and subject to such regulations as the Secretary of Agriculture shall prescribe. A first lien on all crops growing, or to be planted and grown, shall, in the discretion of the Secretary of Agriculture, be deemed sufficient security for such loan or advance. All such loans or advances shall be made through such agencies as the Secretary of Agriculture may designate, and in such amounts as such agencies, with the approval of the Secretary of Agriculture, may determine” (U.S. Congress 1932a). Since our focus here is on loans to financial institutions and banks, we do not discuss the details of agriculture loans. 
+
+
+**9. Individual Participation Limits: Originally, loans to a single bank or corporation and its related entities could not exceed 5% of the RFC’s total capital stock and borrowed funds. Later legislation revised that limitation to 2.625%.** 
+
+In the original legislation, loans to any one corporation and its subsidiaries and affiliates could not exceed 5% of the sum of (1) the RFC’s total authorized capital stock and bonds and (2) the aggregate amount of outstanding bonds of the corporation (U.S. Congress 1932a, sec. 5). On July 31, 1932, this limitation was lowered to 2.625% (U.S. Congress 1932b, sec. 5). 
+
+## **10. Rate Charged: The RFC Board initially set interest rates for loans to financial institutions at 6%.** 
+
+The RFC’s board initially set interest rates for loans to financial institutions at 6% (Mason 2001b, 8). Interest rates were lowered in mid-1932 5% and again in 1933 to 4% (Mason 2001b, 8). Despite these cuts, RFC rates remained above those at the Federal Reserve discount window, though both the discount window and the RFC had comparable collateral requirements (Mason 2001b, 8). The RFC deliberately priced its rates above those of the market in order to avoid crowding out private financing (Mason 2001b, 8).  However, it was criticized for these high rates and its strict collateral requirements, with some arguing that it had priced itself out of making loans to the small weak banks it was intended to help (Mason 2001b, 8).  With the introduction of the RFC’s preferred-stock program in March 1933, banks largely switched out of the RFC’s loan program (Mason 2001b, 9). 
+
+**11. Eligible Collateral: Regional field offices valued collateral and fixed-collateral requirements for loans.** 
+
+RFC loans were required to be “fully and adequately secured” (U.S. Congress 1932a, sec. 5), and the RFC Act provided the agency with broad authority to accept a diverse range of collateral (except for foreign securities): 
+
+Such loans may be made directly upon promissory notes or by way of discount or rediscount of obligations tendered for the purpose, or otherwise in such form and in such amount and at such interest or discount rates as the corporation may approve: Provided, that no loans or advances shall be made upon foreign securities or foreign acceptances as collateral or for the purpose of assisting in the carrying or liquidation of such foreign securities and foreign. (U.S. Congress 1932a, sec. 5) 
+
+The total value of outstanding advances “to any one corporation and its subsidiary or affiliated organizations” was not to exceed 5% of the RFC’s subscribed capital stock and issued bonds (U.S. Congress 1932a, sec. 5). This requirement was relaxed from 5% to 2.625% by the Emergency Relief and Construction Act of 1932 (U.S. Congress 1932b, sec. 5). 
+
+According to Anbil and Vossmeyer, despite its broad discretion, the RFC originally only accepted the collateral that met the standards of the Federal Reserve’s discount window: “gold, Treasury securities, and commercial, industrial, and agricultural paper” (Anbil and Vossmeyer 2017, 8). 
+
+
+According to Mason 1999, for the first six months of the RFC’s existence, collateral requirements were kept high at the discretion of the RFC’s chair, Eugene Meyer (Mason 2001a, 78). Meyer also served on the Federal Reserve’s board and worked to equalize collateral requirements and interest rates between the discount window and the RFC. Loans bore maturities of fewer than six months and were set at relatively high interest rates (6%). On July 21, 1932, Meyer was replaced as chair of the RFC’s board, at which point collateral requirements were lowered (Mason 2001a, 79). 
+
+Regional field offices had “the sole right to fix a valuation on the securities put up for collateral with each application” (Mason 2001b, 5). According to Olson (1972), the RFC initially accepted 80% of the market value of the highest-grade securities and no more than 50% of the market value of all other types of securities (Mason 2001b, 10). 
+
+Because of the subjectivity of the procedures used to value collateral, Olson considers the collateral requirements stringent and posits that they may have undermined the effectiveness of the loan program. Olson (1972, 177–78) argues: 
+
+The collateral requirements were so high that an RFC loan forced a bank to deposit its most valuable and liquid assets as security for the Corporation’s advance. All too often, the Corporation would advance a loan, take over the bank’s best assets for collateral, and leave the bank unable to meet demands by depositors once those demands exceeded the amount of the loan. 
+
+Mason (2001a, 91) analyzes bank-level data to estimate the effect of RFC loans on bankfailure rates and finds that banks that took RFC loans had an increased risk of failure. As the RFC relaxed collateral requirements, beginning in July 1932 following Meyer’s Departure, the negative effects of its loans decreased (Mason 2001a, 79). 
+
+## **12. Loan Duration: Under the original RFC Act, loans could be made with maturities not exceeding three years, though loans could be extended or renewed for up to five years. Maturity deadlines were later extended by several amendments.** 
+
+Under the original RFC Act, loans could be made with maturities not exceeding three years, though loans could be extended or renewed for up to five years (Treasury 1959, 51). 
+
+Despite having the authority to make loans of up to three years, the RFC’s board initially restricted loan durations to fewer than six months, though it frequently rolled over loans. This enabled the RFC to exert greater control over borrowers, including in the matter of executive compensation, a stipulation that some banks bristled at (Mason 2001b, 8). Shortterm loans, with maturities of fewer than six months, made RFC loans initially comparable to the Fed’s discount window loans (Mason 2001a, 79). 
+
+Much of RFC lending to banks was on a short-term basis. Of the $1 billion it lent to banks prior to the March 1933 bank holiday, 70% went to banks that borrowed more than once and 15% to banks that borrowed more than five times (Mason 2001b, 10). See Figure 3 for a detailed breakdown of borrowing behavior. 
+
+
+[FIGURE id=vol4_iss2_62_f2 type=figure label="Figure 2" file=figure_2.png caption="Borrowing Behavior of Banks, February 1932–March 1933"]
+### **Figure 2: Borrowing Behavior of Banks, February 1932–March 1933**
+![Figure 2](assets/vol4_iss2_62/figure_2.png)
+
+
+_Source: Mason 2001b, 43._ 
+
+**13. Other Conditions: The RFC had solvency and soundness requirements, and beginning in 1933, it mandated that borrowing banks comply with certain executive-compensation standards. These conditions did not apply to closed banks or banks in the process of liquidating.** 
+
+According to Mason (2001b, 1), the RFC evaluated the solvency and soundness of firms it lent to on the basis of “future market expectations,” which were often difficult or impossible to quantify. Beginning in 1933, the RFC could lend only to banks whose senior officers received reasonable salaries and that consented to keep their salaries reasonable throughout the duration of the loan (U.S. Congress 1933, sec. 4). 
+
+## **14. Impact on Monetary Policy Transmission: The RFC loans to financial institutions considered in this case constituted “banking policy”—sterilized lending to specific institutions—and so had no impact on the monetary base.** 
+
+The RFC loans to financial institutions considered in this case had no impact on monetary policy; they did not change the monetary supply, as they were fully funded by the Treasury and the sale of Treasury bonds (Butkiewicz 1995, 198). Butkiewicz (1995, 198) argues that the RFC’s actions are an example of how banking policy, defined as sterilized lending to specific institutions, can provide economic relief in some conditions. To structurally separate the RFC’s fiscal activities from the Fed’s monetary functions, section nine of the RFC Act explicitly stated that RFC obligations “shall not be eligible for discount or purchase by any Federal Reserve Bank” (U.S. Congress 1932a). 
+
+
+**15. Other Options: Prior to the creation of the RFC, President Hoover created the private National Credit Corporation (NCC), which proved insufficient to address the pressures facing the financial institutions that would become eligible for RFC loans. Then, the RFC was modeled on the War Finance Corporation (WFC).** 
+
+The RFC’s “capital structure, government subscription, organization, [and] management” were directly modeled on those of the WFC, which was created in May 1918 to finance and organize the US government’s procurement of supplies for World War I (Todd 1992, 23; Ebersole 1933, 467). By 1931, the deepening Depression had convinced Meyer, the former managing director of the WFC, that President Hoover needed to re-establish the WFC (Nash 1959, 461). Hoover was initially interested in voluntary solutions. In his inaugural address in 1929, Hoover stated: 
+
+The Government should assist and encourage these movements of collective self-help by itself cooperating with them…expansion of government in business means that the government . . . is driven irresistibly without peace to greater and greater control. (Nash 1959, 462) 
+
+Prior to the creation of the RFC, Hoover had proposed a “voluntary” institution that would encourage a private solution to the developing banking crisis: the National Credit Corporation (NCC)(Ebersole 1933, 466). Created in October 1931, the NCC was a private credit pool organized to lend emergency advances for up to 120 days on governmentsecurity collateral (Todd 1992, 24).  By the end of 1932, the NCC had lent $144 million to 560 banks, but it had not materially eased the crisis (Ebersole 1933, 467). 
+
+In January 1932, the government created the RFC, styled after the WFC, to provide more firepower to address the continuing financial turmoil. Ebersole (1933, 467–68) says the RFC was so closely modeled on the WFC that “the only substantial innovations in the original Reconstruction Finance Corporation Act . . . were the greater volume of funds provided, and the inclusion of railroad financing.” 
+
+The NCC revealed that the banks and railroads needed not only liquidity but also, as the crisis deepened, an organization to assume “the risk of loss— _and the losses_ ” (Ebersole 1933, 467). By the end of 1932, President Hoover and the RFC board realized that the banks needed capital injections (Olson 1988, 37). The Emergency Bank Act of 1933 enabled the RFC to capitalize banks through preferred-stock subscriptions (Treasury 1959, 4). The bulk of the RFC’s support to the financial sector shifted to its capital-injection program, which was more successful at stabilizing the bank sector (see Lawson 2021). 
+
+## **16. Communication: President Hoover stated that the purpose of the RFC was to increase broad employment, rather than to aid “big industries or big banks.”** 
+
+President Hoover first indicated his intentions to create an “emergency Reconstruction corporation of the nature of the former War Finance Corporation” in a message to Congress on December 7, 1931 (Treasury 1959, 1). 
+
+
+Upon signing the act, Hoover stated that the RFC’s purpose was “to stop deflation in agriculture and industry and thus to increase employment by the restoration of men to their normal jobs” (Treasury 1959, 1). In his memoir, Hoover wrote that the purpose of RFC emergency lending was “to make loans to banks and financial institutions which cannot otherwise secure credit where such advances will protect the credit structure and stimulate employment” (Hoover 1952, 98). 
+
+The RFC published circulars that updated potential borrowers on the application process, collateral requirements, rates, and maturities (RFC 1932). 
+
+**17. Disclosure: The original RFC Act required the RFC to publish aggregated loans by borrower class. Legislation enacted in the middle of 1932 required the RFC to report the names of borrowers and the amount and rate of interest on a monthly basis. Stigma likely offset the effectiveness of RFC lending.** 
+
+The RFC was originally required to “make and publish a report quarterly of its operations to the Congress stating the aggregate loans made to each of the classes of borrowers” and the assets and liabilities of the corporation, as per section 15 of the RFC Act (U.S. Congress 1932a, sec. 15). These reports included aggregate loans to each class of borrowers, number of borrowers by state, assets and liabilities of the RFC, and information on employees of the RFC (U.S. Congress 1932a, sec. 15). Quarterly reports were published in the Federal Reserve Bulletin (Board of Governors 1932, 225). 
+
+The Emergency Relief and Construction Act of July 21, 1932, amended the original legislation, requiring the RFC to report monthly on “its activities and expenditures . . . with a statement showing the names of the borrowers to whom loans and advances were made, and the amount and rate of interest involved in each case” (U.S. Congress 1932b, 8). The amendment was passed because of allegations of political favoritism in the RFC’s lending (Mason 2001b, 3). These allegations centered on an incident in Chicago wherein the RFC lent $90 million, the most in its history, to the Central Republic Bank, which closed several months later (Mason 2003, 107).[8] 
+
+President Hoover described the stipulation that the RFC publish the names of its borrowers as a “terribly dangerous clause” and considered vetoing the ERCA because of its inclusion in the bill (Hoover 1952, 110–11). However, he was assured by Senator Robinson that the disclosures would not be published to the broader public but rather be a “confidential communication to the clerks of the Senate and House” (Hoover 1952, 110). 
+
+## **18. Stigma Strategy: Stigma likely offset the effectiveness of RFC lending.** 
+
+Following the passage of the Emergency Relief and Construction Act, which amended the original legislation to require that the RFC publish the names of borrowers, the “number and dollar value of bank loan applications received by the RFC dropped dramatically,” and RFC 
+
+> 8 While contemporaries alleged political favoritism in the RFC’s lending **,** and indeed and federal legislators appealed directly to the RFC for loans, Mason (2003, 119) finds little evidence that “RFC assistance was distributed on the basis of anything more than economic conditions.” 
+
+
+loan repayment accelerated. This was likely because banks were concerned to demonstrate financial soundness and avoid the stigma associated with the RFC (Butkiewicz 1995, 209). Butkiewicz (1995, 209) finds that the “publication of the list of loan recipients may have totally offset the initial effectiveness of the RFC’s lending activities.” 
+
+## **19. Exit Strategy: In the original legislation, the RFC was to last for 10 years, winding down on January 22, 1942.** 
+
+The RFC Act provided that upon expiration of the agency’s period for making loans, the Board was to liquidate its assets and wind down its operations. Any residual funds were to be deposited with the Treasury, the RFC was to be dissolved, and its capital stock was to be canceled and retired (U.S. Congress 1932a, sec. 13). If the board failed to complete the liquidation within 10 years, the obligation to do so would transfer to the Treasury, which would assume all responsibilities and duties of the board (U.S. Congress 1932a, sec. 14). 
+
+However, under the RFC Act, the executive branch was granted “broad executive powers . . . legislative authority can be supplanted by an executive order” (Mason 2003, 102). Thus the president could unilaterally change the RFC by executive order. It was in this way that President Hoover extended the RFC beyond its scheduled expiration on December 8, 1932, and Roosevelt extended it again on March 27, 1933 (Mason 2003, 102). At its outset, in 1932, the RFC was supposed to last 10 years, through January 22, 1942 (U.S. Congress 1932a, sec. 2). However, the RFC’s authorization was continually reauthorized while its powers were shifted and extended, and ultimately it was not disbanded until 1957 (Treasury 1959, 2).[9] 
+
+> 9 Legislation enacted in 1940 extended the program to January 22, 1947 (Treasury 1959, 2). An act approved August 7, 1946 further extended the RFC to June 30, 1947, and an act approved June 30, 1947, extended it to June 30, 1948. Lastly, an act approved May 25, 1948, extended the program to June 30, 1956. By 1953, the RFC Liquidation Act had terminated the RFC’s lending powers and begun the process of winding down the corporation. By 1954, the secretary of the Treasury was exercising all duties previously handled by the administrator of the RFC, and the RFC was disbanded on June 30, 1957 (Treasury 1959, 2). 
+
+
+## **References and Key Program Documents** 
+
+Documents cited in the text are introduced with a parenthetical author-date citation. Documents that are relevant to this case but have not been cited in text do not include this parenthetical reference. 
+
+## **Program Summaries** 
+
+(Board of Governors 1932) Board of Governors of the Federal Reserve System (Board of Governors). 1932. “First Quarterly Report of Reconstruction Finance Corporation.” Federal Reserve Bulletin: April 1932. 
+
+_First Quarterly Report of Reconstruction Finance Corporation from Federal Reserve Bulletin, April 1932_ . 
+
+https://ypfs.som.yale.edu/node/20578 
+
+## **Implementation Documents** 
+
+(RFC 1932) Reconstruction Finance Corporation (RFC). 1932. “Circulars of the Reconstruction Finance Corporation.” _Compiled circulars of the RFC_ . https://ypfs.som.yale.edu/node/18225 
+
+## **Legal/Regulatory Guidance** 
+
+(U.S. Congress 1932a) U.S. Congress. 1932a. “Reconstruction Finance Corporation Act.” H. R. 7360. 
+
+_January 1932 act creating the RFC_ . https://ypfs.som.yale.edu/node/18210 
+
+(U.S. Congress 1932b) U.S. Congress. 1932b. “Reconstruction Finance Corporation Act: As Amended and Provisions of the Emergency Relief and Construction Act of 1932 Pertaining to Reconstruction Finance Corporation.” Government Printing Office. _RFC Act as amended by the July 1932 Emergency Relief and Construction Act_ . https://ypfs.som.yale.edu/node/20229 
+
+(U.S. Congress 1933) U.S. Congress. 1933. “An Act to Authorize the Reconstruction Finance Corporation to Subscribe for Preferred Stock and Purchase the Capital Notes of Insurance Companies, and for Other Purposes.” P.L. 73-35; 48 Stat. 119; 73 S. 1094. _Act enabling the RFC to subscribe for preferred stock_ . https://ypfs.som.yale.edu/node/18214 
+
+## **Press Releases/Announcements** 
+
+(Hoover 1931) Hoover, Herbert. 1931. “Statement Regarding Economic Recovery.” _Speech from President Hoover on the economic recovery_ . https://ypfs.som.yale.edu/node/20580 
+
+
+(Meyer 1931) Meyer, Eugene. 1931. _Financial Control in War: Statement before the War Policy Commission, Senate Office Building, Washington, D.C._ Statements and Speeches of Eugene Meyer. _Statement arguing for an RFC based on WFC_ . https://ypfs.som.yale.edu/node/20233 
+
+(Meyer 1932) Meyer, Eugene. 1932. “Part Played by Federal Reserve System in Meeting Financial Strain Through Which Country Has Passed: Address at President Hoover’s Economic Conference.” 
+
+_Meyer address on the Federal Reserve’s role_ . https://ypfs.som.yale.edu/node/20232 
+
+(Mills 1932) Mills, Ogden L. 1932. “The Financial Crisis and the Reconstruction Finance Corporation.” 
+
+_Speech by Secretary of Treasury on progress of the RFC_ . https://ypfs.som.yale.edu/node/20231 
+
+## **Reports/Assessments** 
+
+(Gou et al. 2013) Gou, Michael, Gary Richardson, Alejandro Komai, and Daniel Park. 2013. “Reconstruction Finance Corporation Act.” _Post summarizing the RFC Act_ . https://ypfs.som.yale.edu/node/20227 
+
+(Greene 2013) Greene, Stephen. 2013. “Emergency Banking Act of 1933.” _Post summarizing the Emergency Banking Act_ . https://ypfs.som.yale.edu/node/20228 
+
+(Treasury 1959) U.S. Department of the Treasury (Treasury). 1959. _Final Report on the Reconstruction Finance Corporation: Pursuant to Section 6 (C), Reorganization Plan No. 1 of 1957_ . 
+
+_Final report of the RFC_ . https://ypfs.som.yale.edu/node/18178 
+
+## **Key Academic Papers** 
+
+(Anbil and Vossmeyer 2017) Anbil, Sriya, and Angela Vossmeyer. 2017. “Liquidity from Two Lending Facilities.” _Finance and Economics Discussion Series_ 2017, no. 117. _Academic article comparing discount window and RFC emergency lending_ . https://ypfs.som.yale.edu/node/18172 
+
+(Butkiewicz 1995) Butkiewicz, James L. 1995. “The Impact of a Lender of Last Resort during the Great Depression: The Case of the Reconstruction Finance Corporation.” _Explorations in Economic History_ , April 1995. _Academic article analyzing impact of RFC emergency lending_ . https://ypfs.som.yale.edu/node/20226 
+
+
+(Cho 1953) Cho, Hyo Won. 1953. “The Evolution of the Functions of the Reconstruction Finance Corporation: A Study of the Growth and Death of a Federal Lending Agency.” The Ohio State University. _Thesis looking at the evolution of the RFC_ . https://ypfs.som.yale.edu/node/20225 
+
+(Ebersole 1933) Ebersole, J. Franklin. 1933. “One Year of the Reconstruction Finance Corporation.” _The Quarterly Journal of Economics_ 47, no. 3: 464–92. _Early academic article summarizing impact of first year of RFC lending_ . https://ypfs.som.yale.edu/node/20224 
+
+(Hoover 1952) Hoover, Herbert. 1952. _The Memoirs of Herbert Hoover: The Great Depression, 1929-1941_ . New York: The Macmillan Company. 
+
+_Memoir of President Hoover on the Great Depression years_ . https://ypfs.som.yale.edu/node/20581 
+
+(Lawson 2021) Lawson, Aidan. 2022. “US Reconstruction Finance Corporation: Preferred Stock Purchase Program” _Journal of Financial Crises_ 3, no. 3. 
+
+_YPFS case examining the RFC’s capital injection program during the Great Depression_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/33/ 
+
+(Leonard 2022) Leonard, Natalie. 2022. “United States: Federal Home Loan Bank Advances, 1932–1941” _Journal of Financial Crises_ 4, no. 2. 
+
+_YPFS case examining the FHLB’s advance lending during the Great Depression_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/54 
+
+(Mason 2001a) Mason, Joseph R. 2001a. “Do Lender of Last Resort Policies Matter? The Effects of Reconstruction Finance Corporation Assistance to Banks During the Great Depression.” 
+
+_Academic study investigating effects of RFC assistance to banks_ . https://ypfs.som.yale.edu/node/18186 
+
+(Mason 2001b) Mason, Joseph R. 2001b. “Reconstruction Finance Corporation Assistance to Financial Intermediaries and Commercial & Industrial Enterprise in the US, 1932-1937.” Edited by Stijn Claessens, Simeon Djankov, and Ashoka Mody. _World Bank Press_ , Resolution of Financial Distress. 
+
+_Academic study on effects of RFC lending_ . https://ypfs.som.yale.edu/node/18187 
+
+(Mason 2003) Mason, Joseph R. 2003. “The Political Economy of Reconstruction Finance Corporation Assistance during the Great Depression.” Explorations in Economic History. _Paper on the political economy of RFC lending_ . https://ypfs.som.yale.edu/node/20497 
+
+(Nash 1959) Nash, Gerald D. 1959. “Herbert Hoover and the Origins of the Reconstruction Finance Corporation.” _The Mississippi Valley Historical Review_ 46, no. 3: 455–68. 
+
+
+_Paper on the evolution of the RFC_ . https://ypfs.som.yale.edu/node/20230 
+
+(Olson 1972) Olson, James Stuart. 1972. _From Depression to Defense, the Reconstruction Finance Corporation, 1932-1940_ . State University of New York Press. _Dissertation on the RFC_ . 
+
+https://ypfs.som.yale.edu/node/20583 
+
+(Olson 1988) Olson, James Stuart. 1988. _Saving Capitalism: The Reconstruction Finance Corporation and the New Deal, 1933-1940_ . Princeton University Press. _Book surveying the actions of the RFC_ . https://ypfs.som.yale.edu/node/18199 
+
+(Todd 1992) Todd, Walker F. 1992. “History of and Rationales for the Reconstruction Finance Corporation.” _Working Papers of the Federal Reserve Bank of Cleveland_ , 15. _Academic article on the history of the RFC_ . https://ypfs.som.yale.edu/node/20223 
+
+(Wheelock 2008) Wheelock, David C. 2008. _The Federal Response to Home Mortgage Distress: Lessons from the Great Depression_ . Federal Reserve Bank of St. Louis. _Academic article on agencies created to respond to the Great Depression_ . https://ypfs.som.yale.edu/node/20262 
+
+
+## **Appendix: Railroad Emergency Lending** 
+
+Prior to the crisis, railroad bonds were implicitly guaranteed thanks to repeated state and federal bailouts (Mason 2000, 12). Nearly all railroad bonds were AAA rated. As the government retired Treasury securities in the 1920s, banks increasingly relied on railroad bonds for safety (Mason 2000, 12). However, starting in the 1930s, the government refused to bail out railroads, and bank reserves fell significantly (Mason 2000, 12). The railroad loan program was thus seen as critical to stabilizing both bank balance sheets and employment and business activity generally (Mason 2000, 12). 
+
+The RFC’s board initially set interest rates for loans to financial institutions at 6% (Mason 2000, 13). Interest rates were lowered in mid-1932 5.5% and again in 1933 to 5% (Mason 2000, 13). However, unlike loans to financial institutions, these interest rates priced the RFC into the market (Mason 2000, 14). Between 1932 and 1934, railroad stock yields were between 6% and 7% (Mason 2000, 14). 
+
+Between January and March of 1932, 29% of all RFC lending was to railroad companies, totaling $54.9 million. By the last quarter of 1935, 40% of RFC lending was to railroad companies ($39.6 million), slightly overtaking RFC lending to banks and trust companies ($38.1 million). Outstanding loans to railroads and railways peaked at $414 million in September 1935. 
+
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

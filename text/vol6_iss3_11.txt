@@ -1,0 +1,1188 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 3 
+2024 
+Iceland: Arion Bank, Islandsbanki, and Landsbankinn Capital Iceland: Arion Bank, Islandsbanki, and Landsbankinn Capital 
+Injections, 2008 Injections, 2008 
+Ayodeji George 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, and Methods Commons, Public 
+Administration Commons, and the Public Economics Commons 
+Recommended Citation Recommended Citation 
+George, Ayodeji (2024) "Iceland: Arion Bank, Islandsbanki, and Landsbankinn Capital Injections, 2008," 
+Journal of Financial Crises: Vol. 6 : Iss. 3, 208-235. 
+DOI: https://doi.org/10.17132/2693-3179.1579 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/11 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol6/iss3/11
+
+--- Page 3 ---
+Iceland: Arion Bank, Islandsbanki, and Landsbankinn 
+Capital Injections, 20081 
+Ayodeji George2 
+Yale Program on Financial Stability Case Study 
+October 4, 2024 
+Abstract 
+Iceland’s three largest banks —Glitnir, Kaupthing, and Landsbanki —grew rapidly in the 
+2000s and failed amid depositor runs when they lost access to foreign funding markets at 
+the onset of the Global Financial Crisis (GFC) . On October 6, 2008, the Icelandic Parliament 
+passed the Emergency Act, and authorities quickly used their new powers to nationalize the 
+three banks. The Ministry of Finance created and capitalized  Arion Bank (for Kaupthing), 
+Islandsbanki (for Glitnir), and Landsbankinn (for Landsbanki), to hold the old banks’ 
+performing domestic assets and all insured domestic deposits , and the prime minister 
+assured all domestic depositors that they would be protected. On December 15, 2009, the 
+state injected EUR 1 billion (USD 1.4 billion) in capital into the new banks. Because fiscal 
+resources were limited, the capital injection was in the form of a new type of government 
+bond. It also gave the old banks contingent bonds and equity stakes in the new banks. The 
+size of the equity stake was based on provisional valuations of the assets in the new and old 
+banks, wit h consulting firms commissioned in November and December 2008 to provide 
+more definitive valuations. Based on these valuations, the government capitalized the new 
+banks and provided the creditors of the old banks with equity stakes as compensation. The 
+total state financing in the three new banks was EUR 1 billion . The creditors of Kaupthing 
+received an 87% stake in Arion Bank , and the creditors of Glitnir received a 95% stake in 
+Islandsbanki. The creditors of Landsbanki received a contingent bond as well a s a briefly 
+held 18% stake in Landsbankinn. The government holds stakes in Landsbankinn and 
+Islandsbanki as of the writing of this case study, while Arion Bank has been fully privatized. 
+Keywords: capital injection, Global Financial Crisis, Iceland, Landsbanki 
+  
+ 
+1 This case study is part of a Yale Program  on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering ad hoc capital injections. A survey of all the cases in this series (Rhee, Hoffner, et al. 2024) 
+and the individual cases underlyin g it are available from the Journal of Financial Crises  at 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/. Rhee, Oguri , et al. (2022) surveys 
+broad-based capital injection programs. 
+2 Research Associate, YPFS, Yale School of Management. 
+208
+
+--- Page 4 ---
+Overview 
+This case study  describes the capital 
+injections provided to Arion Bank, 
+Islandsbanki, and Landsbankinn,  the three 
+Icelandic banks created by the Minist ry of 
+Finance and Economic Affairs  during the 
+Global Financial Crisis of 2007–2009 (GFC). 
+The restructuring of the Icelandic banking 
+sector is detailed in the corresponding 
+resolution and restructuring case study, 
+George (2024).  
+Iceland’s three largest banks —Glitnir, 
+Kaupthing, and Landsbanki —grew rapidly 
+following privatization in the early 2000s . 
+Iceland had joined the European Single 
+Market in 1994 , which facilitated Icelandic 
+banks’ expansion into other European 
+countries. By 2007, the assets of the three 
+largest banks made up 85% of the Icelandic 
+banking sector and several times Iceland’s 
+GDP. Their growth was driven largely by 
+aggressive lending expansion  funded by 
+international financial markets . Critically, 
+this became a major source of vulnerability 
+as global credit tightened in 2007. Icelandic 
+banks were increasingly transacting in 
+foreign currencies such as the euro without a 
+reliable foreign currency lender of last resort. 
+From the onset of the GFC in summer 2007, 
+funding for the banks became increas ingly 
+difficult, as international bond markets 
+closed and foreign deposits started to flow 
+out. Amid the panicked environment that 
+followed the failure of Lehman Brothers  in 
+mid-September 2008 , Landsbanki and the 
+two other banks faced intensified runs from  
+domestic and more importantly foreign 
+depositors. Of the three, Landsbanki was the 
+oldest; literally “the national bank,” it had 
+historically been Iceland’s central bank 
+before the Central Bank of Iceland ( CBI) was 
+established in 1961 and was privatized only 
+in 2003  (Baudino, Sturluson, and Svoronos 
+Key Terms 
+Purpose: To preserve the functioning of the 
+domestic banking system and protect the interests 
+of domestic depositors  
+Announcement 
+Date 
+December 11, 2008  
+Operational Date October 15, 2009  
+Date of Final 
+Capital Injection 
+December 15, 2009  
+End Date Government still holds 
+stakes in two of the three 
+major banks  
+Source of Funding Icelandic Treasury issued 
+government debt as payment 
+for the equity stakes in the 
+new banks  
+Administrator Ministry of Finance and 
+Icelandic State Banking 
+Agency (ISBA)  
+Size EUR 1 billion across the 
+three new banks  
+Capital 
+Characteristics 
+Ordinary shares and Tier 2 
+subordinated loans  
+Bail-in Terms Shareholders and 
+subordinated creditors in the 
+old banks received nothing 
+while senior creditors 
+received partial 
+compensation with 
+contingent bonds and/or 
+equity stakes in the new 
+banks  
+Outcomes The government holds stakes 
+in two of the three major 
+banks with a book value of 
+EUR 2.6 billion  
+ 
+ 
+ 
+(continued) 
+209
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 5 ---
+2020; Benediktsdóttir, Eggertsson, and 
+Þórarinsson 2017; CBI n.d.; Centonze 2011). 
+The crisis led Icelandic authorities to 
+consider urgent measures the weekend of 
+October 3 –5, 2008 . On Monday, October 6, 
+the Icelandic Parliament hurriedly passed 
+the Emergency Act, which reordered the 
+hierarchy of claims in failing banks and 
+granted sweeping new resolution powers to 
+the Icelandic Supervisory Authority 
+(Fjármálaeftirlitið, or FME) (Baudino, 
+Sturluson, and Svoronos 2020; Braithwaite 
+and Anderson 2008; Icelandic Parliament 
+2008). 
+Using its new powers, the FME placed Landsbanki into receivership on October 7, removing 
+the board of directors and appointing a resolution committee to run the bank. On October 9, 
+the FME announced that it was transferring the insured domestic deposits and most 
+domestic assets of Landsbanki to a newly created bank called Landsbankinn (NBI). The state 
+planned to provide  Landsbankinn with initial capital of  up to EUR 1.24 billion  (USD 1.4 
+billion),3 based on 10% of the estimated risk -weighted assets. At the end of 2008, 
+Landsbankinn reported EUR 864 millio n in new capital from the state. However, the state 
+provided just EUR 5 million of that in cash in 2008; the rest was in the form of a government 
+IOU, which it replaced with a government bond the following year. The government left 
+foreign assets and all other liabilities in the old bank, Old Landsbanki. Authorities left foreign 
+deposits (IceSave accounts), in the old bank, causing extended dispute s with foreign 
+governments, particularly those of the United Kingdom and the Netherlands. Regarding the 
+new ban k, the FME published provisional balance sheets on November 14, 2008 (FME 
+2008f). Authorities emphasized that these were preliminary figures that could change and 
+hired Deloitte to provide an independent valuation on December 24, 2008. At the end of 
+2008, the assets in the new bank were estimated to have been transferred at a 60% discount 
+(Baudino, Sturluson, and Svoronos 2020; Benediktsdóttir, Eggertsson, and Þórarinsson 
+2017; CBI 2015; ESA 2014; FME 2008b; FME 2008e; FME 2008f; NBI 2010; Mayer Brown 
+2009; Settle 2008). 
+Regarding the old banks, authorities announced on December 11, 2008, that Oliver Wyman 
+would provide a valuation on a similar basis to that of the new banks. The first complete 
+financial statement did not become available until 2010, when it  indicated that the assets 
+had lost 50% of their pre -crisis value (Benediktsdóttir, Eggertsson, and Þórarinsson 2017; 
+FME 2008a). 
+On December 15, 2009, Icelandic authorities announced that Old Landsbanki, which was 
+owned entirely by senior creditors of the  old bank, would receive contingent bonds and 
+ 
+3 According to the Bank for International Settlements, USD 1 = EUR 0.70 on December 18, 2009.  
+Notable Features The government purchased 
+capital using variable rate 
+bonds that were eligible to 
+be pledged at central bank 
+liquidity facilities; 
+Creditors received some of 
+their post-resolution 
+compensation in the form of 
+a contingent bond; 
+The government incentivized 
+bank resolution committees 
+to provide stability 
+contributions from old bank 
+estates  
+210
+Iceland: Arion Bank Islandsbanki, and Landsbankinn Capital Injections George
+
+--- Page 6 ---
+equity stakes 4 in the new bank as part of a full capitalization of Landsbankinn based on 
+provisional valuations available to authorities. Preexisting shareholders and subordinated 
+debt holders were wiped out (Baudino, Sturluson, and Svoronos 2020; ESA 2014).  
+The government followed a similar process for the other two banks. It retained equity 
+positions in all three banks , but it held the largest stake in Landsbanki, which therefore 
+ended up immediately under government control . On December 1 8, 2009, Icelandic 
+authorities issued a press release announcing that the restructuring of the three banks had 
+concluded (MoF 2009f). The Treasury equity contributions across all three banks totaled 
+EUR 1.17 billion (USD 1.67 billion) (ESA 2014; MoF 2009b; MoF 2009c) . The timeline of 
+capital injection events is shown in Figure 1. 
+Figure 1: Timeline of Events Related to the Resolution of Icelandic Banking Sector 
+Date Event  
+Oct. 3–5, 2008 Icelandic authorities deliberate over the weekend on options for the three banks.  
+Oct. 6, 2008 Icelandic Parliament passes the Emergency Act. 
+Oct. 7, 2008 The FME puts Landsbanki into receivership, removing the board of directors and appointing a 
+resolution committee for each bank. 
+Oct. 8, 2008 The FME puts Glitnir into receivership. 
+Oct. 9, 2008 The FME announces the transfer of insured domestic deposits and performing  domestic assets 
+of Landsbanki to a new bank, Landsbankinn (NBI), created by the Ministry of Finance  and 
+Economic Affairs. FME places Kaupthing into receivership. 
+Oct. 15, 2008 FME transfers Glitnir’s insured domestic deposits and performing domestic assets to New Glitnir. 
+Oct. 22, 2008 FME transfers Kaupthing’s insured domestic deposits and performing assets to New Kaupthing .  
+Nov.–Dec. 
+2008 
+Government commissions outside firms to conduct valuation s of the assets in the new and old 
+banks, which results in a wide range of potential values. 
+Dec. 11, 2008 The FME outlines the measures being taken to restructure the Icelandic banking sector, including 
+the capitalization of the three new banks and plans for compensating creditors in the old banks.  
+July 20, 2009 Ministry of Finance announces agreements with resolution committees of the three major banks. 
+For New Kaupthing and New Glitnir, gover nment authorities and the resolution committees 
+reach full compensation agreements. Regarding New Landsbanki, the result of the agreement is 
+a further period of due diligence. 
+Sep. 4, 2009 Government and Old Kaupthing  resolution committee reach an  agreement regarding 
+compensation for creditors. 
+Sep. 13, 2009 Government and Old Glitnir resolution committee reach an agreement regarding compensation 
+for creditors. 
+Oct. 12, 2009 Government and Old Landsbanki resolution committee reach an initial agreement regarding the 
+compensation for the creditors of the old bank. 
+ 
+4 Old Landsbanki’s equity stake in Landsbankinn was very short-lived as creditors benefited from higher-than-
+expected recoveries through a contingent bond. 
+211
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 7 ---
+Dec. 15, 2009 Authorities inject EUR 1.4 billion of capital into the new banks. 
+Dec. 18, 2009 Icelandic authorities announce completion of restructuring for all three major banks. 
+April 2013 NBI’s contingent commitment to the old bank is priced and paid with a bond issue to Old 
+Landsbanki. Simultaneously, the government receives the old bank ’s equity stake in NBI, 
+increasing its ownership from 81% to 98%, where it remains to date. 
+Dec. 15, 2014 The five-year restructuring period dictated in European Free Trade Association (EFTA) 
+Surveillance Authority (ESA) agreement ends. 
+Nov. 2015 Composition agreement between creditors and old bank estates are finalized. 
+Sources: Baudino, Sturluson, and Svoronos  2020; Braithwaite and Anderson 2008; ESA 2014; FME 2008a; FME 
+2008b; FME 2008c; FME 2008d; Halldórsson 2013; Jónsson and Sigurgeirsson 2016. 
+Summary Evaluation 
+The Icelandic government commissioned a three-person committee of experts called the 
+Special Investigation Committee (SIC) to report the reasons behind the collapse of the three 
+largest banks and assess the government’s response. Chapter 2 of the SIC report criticize s 
+government actions and inactions for being overly concerned with the image crisis facing 
+financial institutions and failing to pay enough attention to the larger question of size and 
+the associated systemic risk of the financial system relative to the economy. The report finds 
+that it would have been impossible to save the banks from collapse, but that more thorough 
+preparations by the government might have lessened the damage to the real economy (SIC 
+2010a; SIC 2010c).  
+Similarly, Benediktsdóttir, Eggertsson, and Þórarinsson (2017) states that the creation of the 
+new banks worked well in the important sense that it preserved the Icelandic public’s access 
+to domestic banking services during the crisis without overextending government finances. 
+The paper also praises the role of bank estates ’ fulfillment of stability conditions , which 
+contributed to  the state’s relatively smooth exit from capital controls. The authors do 
+suggest, however, that the controls could have been lifted more rapidly, which might have 
+further sped up Iceland’s economic recovery.  
+ 
+  
+212
+Iceland: Arion Bank Islandsbanki, and Landsbankinn Capital Injections George
+
+--- Page 8 ---
+Context: Iceland, Arion Bank, 2008–2009 
+Assets EUR 3.8 billion as of Dec. 31, 2008 
+EUR 4.2 billion as of Dec. 31, 2009 
+Liabilities EUR 3.4 billion as of Dec. 31, 2008 
+EUR 3.7 billion as of Dec. 31, 2009 
+Deposits EUR 2.5 billion as of Dec. 31, 2008 
+EUR 2.8 billion as of Dec. 31, 2009 
+Capital Ratio (Tier 1) 10.6% as of Dec. 31, 2008 
+13.7% as of Dec. 31, 2009 
+Nonperforming Loans EUR 113 million as of Dec. 31, 2008 
+EUR 160 million as of Dec. 31, 2009 
+Market Share Data not available as of Dec. 31, 2008 
+Data not available as of Dec. 31, 2009 
+Banking System, % of GDP 198.4% as of Dec. 31, 2008 
+190.6% as of Dec. 31, 2009 
+Sources: Arion Bank 2010; Bloomberg; World Bank Deposit Insurance Dataset ; World Bank 
+Global Financial Development Database. 
+ 
+Context: Iceland, Islandsbanki, 2008–2009 
+Assets EUR 3.9 billion as of Dec. 31, 2008 
+EUR 3.9 billion as of Dec. 31, 2009 
+Liabilities EUR 3.5 billion as of Dec. 31, 2008 
+EUR 3.5 billion as of Dec. 31, 2009 
+Deposits EUR 3 billion as of Dec. 31, 2008 
+EUR 2.6 billion as of Dec. 31, 2009 
+Capital Ratio (Tier 1) 13.1% as of Dec. 31, 2008 
+15.6% as of Dec. 31, 2009 
+Nonperforming Loans EUR 1.1 billion as of Dec. 31, 2008 
+EUR 1.4 billion as of Dec. 31, 2009 
+Market Share Data not available as of Dec. 31, 2008 
+Data not available as of Dec. 31, 2009 
+Banking System, % of GDP 198.4% as of Dec. 31, 2008 
+190.6% as of Dec. 31, 2009 
+Sources: Bloomberg; Islandsbanki 2010; World Bank Deposit Insurance Dataset; World Bank 
+Global Financial Development Database. 
+ 
+ 
+ 
+ 
+213
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 9 ---
+Context: Iceland, Landsbankinn, 2008–2009 
+Assets EUR 6 billion as of Dec. 31, 2008 
+EUR 6.3 billion as of Dec. 31, 2009 
+Liabilities EUR 5.3 billion as of Dec. 31, 2008 
+EUR 5.1 billion as of Dec. 31, 2009 
+Deposits EUR 2.6 billion as of Dec. 31, 2008 
+EUR 2.6 billion as of Dec. 31, 2009 
+Capital Ratio (Tier 1) 13.1% as of Dec. 31, 2008 
+15.2% as of Dec. 31, 2009 
+Nonperforming Loans EUR 5.5 million as of Dec. 31, 2008 
+EUR 14.4 million as of Dec. 31, 2009 
+Market Share Data not available as of Dec. 31, 2008 
+Data not available as of Dec. 31, 2009 
+Banking System, % of GDP 198.4% as of Dec. 31, 2008 
+190.6% as of Dec. 31, 2009 
+Sources: Bloomberg; NBI 2009; NBI 2010 ; World Bank Deposit Insurance Dataset; World 
+Bank Global Financial Development Database. 
+ 
+ 
+214
+Iceland: Arion Bank Islandsbanki, and Landsbankinn Capital Injections George
+
+--- Page 10 ---
+Key Design Decisions 
+1. Purpose: Icelandic authorities created new banks with government capital to 
+ensure continued banking services; they later provided creditors of the old banks 
+with capital stakes in the new ones to partially compensate them for their losses. 
+At the onset of the GFC, the Icelandic banking system was particularly vulnerable because of 
+the disproportionate size of the banks relative to the size of the economy , and the 
+dependence of the banks on foreign funding sources denominated in foreign currencies. The 
+sources of foreign funding for the three largest banks included medium -term notes, foreign 
+deposits, and central bank collateralized borrowing. The foreign currency deposits in 
+Iceland’s banks were eight times larger than the central bank’s foreign exchange reserves. 
+Funding stress in international markets cut off Icelandic banks’ access to wholesale funding 
+markets in the summer of 2007  (Baudino, Sturluson, and Svoronos 2020; Benediktsdóttir, 
+Eggertsson, and Þórarinsson 2017; Centonze 2011; SIC 2010a).  
+The Geyser Crisis of 2006 had revealed the first signs of financial crisis risk in Iceland when 
+fears of overheating made it more difficult for Icelandic banks to access funding through the 
+sale of medium -term notes. Throughout 2007, confidence dwindled in the three largest 
+Icelandic banks, a problem that became acute in the panicked macroeconomic environment 
+of fall 2008. Icelandic banks had lent extensively to investors to fund purchases of their own 
+shares. At the time, this preserved capital ratios that were slightly above regulatory 
+minimums, but ultimately resulted in EUR 4 billion of loans that became worthless following 
+the failure of the banks (Baudino, Sturluson, and Svoronos 2020; Benediktsdóttir, 
+Eggertsson, and Þórarinsson 2017; Centonze 2011; SIC 2010a).  
+Icelandic banks were particularly vulnerable to the deterioration of international short-term 
+funding markets, which became virtually inoperable beginning in the summer of 2007. With 
+the major banks unable to unwind the risks that had developed on bank balance sheets  and 
+the central bank increasingly unable to access foreign currency through swap lines , the 
+Icelandic financial system became isolated from the international community . This left few 
+options by in the fall of 2008 when bank funding issues became catastrophic (SIC 2010a).  
+On September 26, 2008, the Icelandic Supervisory Authority met with the CEOs of the three 
+large banks to encourage them to consider a merger. Such scenarios had been di scussed in 
+March 2008, but the option was dismissed owing to the expense to taxpayers and the high 
+level of uncertainty regarding its effectiveness in restoring confidence. Two of Iceland’s three 
+major banks (Kaupthing and Glitnir) applied for emergency liquidity assistance (ELA) from 
+the Central Bank of Iceland, which provided a small amount of foreign currency liquidity. CBI 
+rejected Glitnir’s request because of insufficient collateral, electing to resolve the bank and 
+inject capital into a new bridge bank instead. Authorities granted Kaupthing’s request, but 
+the EUR 500 million loan was nowhere near enough to prevent the bank from defaulting 
+(Baudino, Sturluson, and Svoronos 2020).  
+215
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 11 ---
+By October 3, 2008, there was a widespread run5 on the Icelandic banking sector, which was 
+on the brink of collapse (Baudino, Sturluson, and Svoronos 2020, 11) . Amidst the deposit 
+runs, the European Central Bank (ECB) issued a margin call of EUR 640 million (USD 864 
+million)6 to Landsbanki that Friday, October 3 (Baudino, Sturluson, and Svoronos 2020; SIC 
+2010b).  
+Per the Emergency Act, Landsbanki handed over power to the government on October 7, 
+followed by Glitnir on October 8 and Kaupthing on October 9. The Ministry of Finance  and 
+Economic Affairs  then established three corresponding new banks : Arion Bank  (for 
+Kaupthing), Islandsbanki (for Glitnir), and Landsbankinn (for Landsbanki) (ESA 2014; FME 
+2008b; FME 2008c; FME 2008d).  
+The Ministry of Finance also commissioned independent firms to value the assets left in the 
+old banks. Authorities announced this valuation plan on December 11, 2008, but a definitive 
+financial statement for the old banks became available only in 2010. The ensuing report 
+found that the value of assets in the old banks was EUR 19.1 billion, down from a pre-failure 
+face value of EUR 40 billion. Landsbankinn originally agreed to issue a fixed income financial 
+instrument to Old Landsbanki, corresponding to the excess value of assets transferred to 
+Landsbankinn on October 9, 2008.  This note would have compensated the creditors in the 
+old bank for any excess value of transferred assets discovered by the sale of assets (Baudino, 
+Sturluson, and Svoronos 2020; Benediktsdóttir, Eggertsson, and Þórarinsson 2017; ESA 
+2014; FME 2008a).  
+However, the FME decided to change this strategy because of disagreements about the 
+legitimacy of the valuations by creditors of the old banks combined with the very low actual 
+recovery rates. So low were the recovery rates for assets from the banks that the institutions 
+were deemed to have been functionally insolvent at the time of split.7 Authorities developed 
+a new plan involving the negotiation of compensation in the form of shares in the new bank 
+alongside Tier 2 subordinated loans and/or contingent bond instruments. The government 
+and the creditors of Landsbanki reached an agreement on October 12, 2009. The agreement 
+stipulated that the principal  amount would not be determined until on or after March 31, 
+2013. The resolution committees for Kaupthing and Glitnir reached agreements with the 
+Ministry of Finance in July 2009 which they finalized in September 2009. Authorities stated 
+that the capitalization of the new banks was a major step forward for the reestablishment of 
+a strong banking system. The government gave creditors of both banks the option to acquire 
+controlling ownership stakes in their respective new banks. Creditors exercised this right in 
+December 2009 (ESA 2014; Flannery 2009; MoF 2009a; MoF 2009b; MoF 2009c; MoF 2009e; 
+MoF 2009f). 
+ 
+5 The bulk of this run occurred in foreign deposit accounts denominated in foreign currencies.  
+6 In October 2008, EUR 1 was equal to USD 1.35 (per FRED)  
+7 This claim was made under the assumption that overseas assets were not worth substantially more than their 
+book values (Flannery 2009). 
+216
+Iceland: Arion Bank Islandsbanki, and Landsbankinn Capital Injections George
+
+--- Page 12 ---
+2. Part of a Package:  The capit alizations occurred as part of a significant 
+restructuring of the three major Icelandic banks, alongside an I nternational 
+Monetary Fund aid package and capital controls.  
+Before the capitalizations, CBI looked to respond to the growing crisis by providing 
+emergency liquidity assistance in foreign currency for Kaupthing. CBI authorities granted 
+Kaupthing ELA because they considered it to be the strongest of the three major banks at the 
+time. The foreign currency loan from the CBI did not prevent a default, forcing authorities to 
+introduce new legislation in order to pursue a different approach (Baudino, Sturluson, and 
+Svoronos 2020). 
+Iceland’s central bank incurred tremendous losses during the crisis, eventually requiring a 
+recapitalization that had an estimated net cost of 6.8% of Iceland’s GDP.8 The main driver of 
+these losses was the “love letter” tran sactions, referring to unsecured bonds issued by the 
+three major banks to serve as collateral for CBI repurchase agreement (repo) transactions. 
+In the spring of 2008, the large bank s issued “love letter” bonds to  each other and smaller 
+Icelandic banks, whi ch posted them as collateral for repo transactions with the CBI. This 
+allowed the large banks to access freshly printed Icelandic króna ( ISK) liquidity at 
+unprecedented levels, and the collateral became claims on the default estates following the 
+collapse of the banks in October 2008. The balance of CBI loans backed by love letters totaled 
+EUR 2.3 billion on October 6, 2008. The claims were transferred from CBI to the Icelandic 
+Treasury at the end of 2008 with a write -off of EUR 500 million. The claims were  written 
+down a further EUR 1.2 billion in 2009. In total, the losses on loans collateralized by love 
+letters totaled EUR 1.7 billion, or 20% of Iceland’s GDP (Jónsson and Sigurgeirsson 2016). 
+The capitalizations occurred as part of a significant restructuring of the three major Icelandic 
+banks. The resolution of the old banks and creation of the new banks is detailed in the 
+corresponding resolution and restructuring case study  George (2024). At the same time, 
+Icelandic authorities also introduced a n expanded deposit guarantee scheme intended to 
+restore public confidence in the safety of their deposits (ESA 2014). A detailed account of 
+this deposit guarantee scheme, called the “Depositors’ and Investors’ Guarantee Fund” can 
+be found in the corresponding case study Kulam (2022).  
+Throughout the restructuring, Icelandic authorities also reckoned with significant balance -
+of-payments issues. As part of the plan to address these issues and stabilize the economy, 
+Iceland sought International Monetary Fund (IMF) support to strengthen the central bank’s 
+foreign currency reserves. Icelandic authorities submitted a letter of intent for a two-year 
+stand-by arrangement on November 15, 2008, which the IMF approved on November 19, 
+2008. The agreement included a USD 2. 1 billion loan , of which USD 827 million became 
+immediately available. The remaining USD 1.3 billion was disbursed in eight equal 
+instalments. Additional loans worth USD 3 billion were secured from trading partners, 
+including Denmark, Finland, Norway, Sweden, Russia, Poland, and the Faroe Islands. The key 
+objectives of the IMF program were to: (a) stabilize and restore confidence in the króna; (b) 
+ 
+8 Estimates of the gross cost to Iceland’s central bank hover at approximately 18% (Benediktsdóttir, 
+Eggertsson, and Þórarinsson 2017; Jónsson and Sigurgeirsson 2016).  
+217
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 13 ---
+restructure the banking system in order to restore its viability; and ( c) ensure sustainable 
+public finances by  mitigating the socialization of losses (Baudino, Sturluson, and Svoronos 
+2020; CBI & MoF 2008; ESA 2014; Ibison and Barker 2008).  
+Alongside the IMF program, authorities introduced capital controls on November 28, 2008, 
+to stem capital outflows, stabilize the exchange rate, and avert a balance-of-payments crisis. 
+Among the flight concerns that the controls addressed was the liquidation of krónur -
+denominated domestic assets into foreign currencies, with distribution to foreign creditors. 
+The capital control s restricted both capital movement and repatriat ed foreign currency 
+export revenues. For the first months after the bank failures, Iceland’s central bank served 
+as the intermediary for all payments to and from Iceland (Baudino, Sturluson, and Svoronos 
+2020; Benediktsdóttir, Eggertsson, and Þórarinsson 2017).  
+3. Legal Authority:  The Icelandic Parliament passed the Emergency Act, which 
+granted new powers to the FME. 
+At the time of the crisis, authorities did not have resolution plans in place for the three banks, 
+and they had only draft paragraphs for potential emergency legislation (Benediktsdóttir, 
+Eggertsson, and Þórarinsson 2017).  
+Facing the collapse of the three largest banks, the government passed the Emergency Act on 
+October 6, 2008 . Most significantly, the act restructured the hierarchy of claims in failed 
+institutions. The Emergency Act accomplished this by amending Icelandic b ankruptcy 
+procedures and the “Deposit Guarantees and Investor -Compensation Scheme .” Icelandic 
+bankruptcy procedures were amended such that depositors receive priority during the 
+process of dividing the estate of a bankrupt financial undertaking. The act in cludes the 
+priority of claims of the deposit insurance fund on insolvent estates in Chapter IV , which 
+contributed to the expansion of Iceland’s deposit guarantee (Icelandic Parliament 2008). 
+The Emergency Act also gives the government the power to establis h new financial 
+institutions and to assume full shareholder and decision-making powers in old ones. The law 
+authorizes the Ministry of Finance to establish and capitalize new banks and restructure old 
+ones that face the probability of being unable to servi ce customers and/or creditors. The 
+FME also gained new powers, granting the supervisory authority the right to assume full 
+shareholder powers and take necessary decisions in troubled financial institutions. Finally, 
+the Emergency Act also restructured the hierarchy of claims such that customer deposits 
+receive priority over all other claimants in resolution proceedings. The Emergency Act had 
+to move through all levels of the Icelandic court system, with a Supreme Court ruling on 
+October 28, 2011, removing a ll legal uncertainty (Icelandic Parliament 2008; Prime 
+Minister’s Office 2011). 
+Existing Icelandic law on financial undertakings gave the estates of the legacy banks three 
+winding-up options: ( a) return the estate to the shareholders, an option that would be 
+available only if all creditors could be paid in full; ( b) reach a composition agreement with 
+creditors, in which they would agree to reduce or waive some of their claims; and ( c) 
+liquidate through bankruptcy. The three estates pursued the second option, taking the view 
+218
+Iceland: Arion Bank Islandsbanki, and Landsbankinn Capital Injections George
+
+--- Page 14 ---
+it would create more value for creditors, but didn’t complete their composition agreements 
+until 2015. Under bankruptcy laws, those agreements had to be approved by a proportion of 
+creditors equal to the proportion of claims waived. So, for example, when general creditors’ 
+recoveries were estimated to be just 15% in the Landsbanki winding -up, the composition 
+agreement needed approval from 85% of general creditors (Jónsson and Sigurgeirsson 
+2016).  
+Upon taking over the operations of the three old banks in October 2008, the FME and each 
+bank’s resolution committee identified several legal deficiencies regarding suspension of 
+payments and liquidation. These deficiencies required several amendments to t he law 
+governing financial companies in Iceland, the Financial Companies Act no. 161/2002. The 
+Icelandic Parliament drafted several amendments that overhauled the liquidation of 
+financial companies, extending the amount of time allowed for the winding -up of a bank’s 
+estate, and calling for the creation of winding-up boards to oversee wind-up proceedings for 
+banks in liquidation. The amendments also allow for financial companies in liquidation to 
+resume operations with permission of the FME or establish a ne w company for parts of its 
+operations. Finally, the amendments allow for liquidations to end with forced contracts or 
+the sale of the financial company’s estate (MoF 2011). 
+The European Free Trade Association ( EFTA) Surveillance Authority ( ESA) received se ven 
+complaints regarding the legality of the Emergency Act. The complaints, largely brought by 
+foreign banks, considered the prioritization of depositors over creditors to be in violation of 
+Article 40 of the EEA agreement on the free movement of capital.  The president of the ESA 
+requested that Icelandic authorities notify the EFTA of all aid measures taken under the 
+Emergency Act. The ESA’s December 15, 2010, decision ruled that the Emergency Act was 
+justified and creditors were not illegally discriminated against (ESA 2014; MoF 2011). 
+4. Administration: The Ministry of Finance created the new banks, and the Icelandic 
+Treasury injected capital. 
+The Ministry of Finance established the new banks and appointed the members of their 
+respective leadership bodies. Th e FME contracted Deloitte and Oliver Wyman to value the 
+assets in both the old and new banks in order to establish the basis for compensation for 
+preexisting creditors and depositors of the banks (FME 2008a).  
+5. Governance: Authorities created the Icelandic State Banking Agency (ISBA) and 
+several oversight committees. 
+The government created the Icelandic State Banking Agency in 2009 to handle the 
+shareholding responsibilities of the state’s holdings in financial undertakings. A three -
+person board of directors consisting of economists and lawyers administered the ISBA, with 
+a fourth director serving as an alternate (MoF 2009d).  
+The Icelandic government also commissioned several oversight committees to investigate 
+the origins of the banking crisis in Iceland and evaluate the handling of it ( see Summary 
+Evaluation). The FME completed its investigation of the origins of the crisis on February 14, 
+2013 (FME 2013).  
+219
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 15 ---
+6. Communication and Disclosure : Authorities ensured continued access to 
+domestic banking serv ices in the new banks and communicated progress on the 
+compensation of creditors in the old banks.  
+Following the deliberations over the weekend of October 3–5, the prime minister delivered 
+a speech on October 6, 2008. The speech sought to reassure domesti c depositors and 
+businesses, stating that authorities intended to ensure continued access to banking services 
+to the maximum extent possible. The address also included an admission that a national  
+failure of the banking system and/or default on sovereign d ebt was a possibility, this being 
+the reason that the government created new resolution powers for the FME. Icelandic 
+authorities continued to announce measures throughout the week, and the prime minister 
+insisted that the state was not bankrupt  (Baudino, Sturluson, and Svoronos 2020; 
+Braithwaite and Anderson 2008; Haarde 2008; Icelandic Parliament 2008; Irish Times 
+2008). 
+Following the acute phase of the crisis, the Ministry of Finance issued regular press releases 
+announcing progress toward reconnecting t he old banks with the new banks. Icelandic 
+authorities announced the agreements with the resolution committees of the old banks 
+throughout the summer of 2009. The Ministry of Finance issued a press release on December 
+18, 2009, announcing that the three ne w banks were fully capitalized and tha t the bank 
+reconstruction period was complete.  The annual reports of the new banks communicated 
+the importance of the agreements as expressions of confidence in the future viability of the 
+banks (Arion Bank 2010; Islandsbanki 2010; MoF 2009a). 
+7. Treatment of Creditors and Equity Holders : Capital in the new banks served as 
+compensation for creditors remaining in the old banks, though it did not make 
+them whole. 
+The Emergency Act  changed existing Icelandic law to  place creditors and equity holders 
+behind depositors in the hierarchy of claims.  All foreign assets, liabilities, and derivatives 
+were left in the old bank at the time of the creation of Landsbankinn. Following the decision, 
+the old bank entered a resolution process, during which it received a waiver on compliance 
+with bank regulatory requirements. The FME instructed the resolution committee to pursue 
+the goal of maximizing the value of assets for the benefit of creditors in Old Landsbanki. The 
+asset valuation, conducted in November 2008, concluded that the post-collapse conservative 
+value was 40% of the previous book value across the three largest banks (Baudino, 
+Sturluson, and Svoronos 2020; Benediktsdóttir, Eggertsson, and Þórarinsson 2017; FME 
+2008a; Icelandic Parliament 2008). 
+The compensation agreement resulted in Old Landsbanki, which was owned by its creditors, 
+taking a 1 8% equity stake in the new bank. The new bank issued three contingent bonds 
+denominated in euros, pounds sterling, and US dollars, with a combined principal value of 
+EUR 1.4 billion. These contingent bonds were linked to the valuation and performance of 
+specific assets in NBI. If the assets at year -end 2012 were to rise in value compared to the 
+estimate given at the time of the agreem ent, the contingent bond would be reissued 
+according to the new valuation, and Old Landsbanki would surrender some or all of its equity 
+220
+Iceland: Arion Bank Islandsbanki, and Landsbankinn Capital Injections George
+
+--- Page 16 ---
+stake in return for the greater value of bonds. In April 2013, Landsbankinn issued additional 
+bonds to Old Landsbanki, worth EUR 581 million. Accordingly, Old Landsbanki surrendered 
+its shareholding, resulting in the state holding a 98% equity stake and New Landsbanki 
+holding 2% of its own shares , of which it distributed 0.5% to employees (ESA 2014; NBI 
+2014).  
+The extent of the losses to the banking sector meant that creditors and equity holders in the 
+old banks faced significant losses to their claims. Senior creditors in the old banks received 
+partial compensation in the form of equity in the new banks while subordinated creditors 
+and equity holders received no compensation (Benediktsdóttir, Eggertsson, and Þórarinsson 
+2017).9 The recovery rates for the three large, failed banks are listed in Figure 2.  
+Figure 2: Ex Post Recovery Rates for  Glitnir, Kaupthing, and Landsban ki Liabilities, 
+According to Their Priority  
+ 
+Source: Benediktsdóttir, Eggertsson, and Þórarinsson 2017, 242 . 
+The write-off for general creditors totaled EUR 28.1 billion, a figure that was twice Iceland’s 
+2007 GDP. All domestic and foreign depositors recovered 100%. Equity and subordinated 
+debt holders were wiped out while other general creditors of the three ban ks recovered 
+29%, on average—14.4% for Landsbanki creditors, 30% for Kaupthing creditors, and 30.2% 
+for Glitnir creditors. Recovery of senior claims in foreign subsidiaries was much higher, at 
+close to 100% (Baudino, Sturluson, and Svoronos 2020; Benedikts dóttir, Eggertsson, and 
+Þórarinsson 2017; Centonze 2011; LBI 2015a). 
+ 
+9 A full discussion of the recovery of claims in the old banks can be found in the corresponding resolution and 
+restructuring case study, George (2024). 
+221
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 17 ---
+The 29% average recovery for general creditors was the result of the composition 
+agreements that authorities negotiated with creditors in fall 2015. The composition 
+agreements imposed sta bility contributions on the creditors of the old banks in lieu of a 
+stability tax of 39% on the book value of assets. The purpose of the proposed stability tax 
+was to ease the impact on the balance of payments of creditors’ domestic asset sales if capital 
+controls were lifted. The stability contribution haircuts varied for each bank but were always 
+substantially lower than the proposed stability tax. For example, the government offered Old 
+Landsbanki creditors a choice between a stability contribution of IS K 16 billion and a 
+stability levy of ISK 163 billion to ISK 182 billion. Creditors who accepted composition 
+agreements committed to refrain from litigation against the Icelandic state while also 
+receiving exemptions from capital controls. The stability con tributions were payable in 
+domestic assets, amount ing to approximately 20% of GDP, and concluded in 2015. While 
+Landsbanki general creditors received 14.4% of face value, every creditor was entitled to a 
+de minimis payment of ISK 1.7 million; creditors owe d less than that amount were paid in 
+full (Baudino, Sturluson, and Svoronos 2020; BIS 2016; LBI 2015a). 
+8. Capital Characteristics:  The state purchased ordinary shares  and provided 
+subordinated loans, while the resolution committees of the old banks acquired 
+ordinary shares as well. 
+The government  purchased common equity in  Islandsbanki and Arion Bank , the 
+corresponding new banks for Glitnir and Kaupthing, respectively, in exchange for 
+government bonds . Ordinary shares in both banks held voting rights , although only 
+shareholders in Arion Bank had written rights to dividends. All three new banks did not pay 
+dividends in 2009 or 2010 . Following the acquisition of shares by Old Kaupthing  and Old 
+Glitnir, the government agreed to take on a minority shareholding and provide further Tier 
+2 capital , in the form of subordinated loans . These loans had no maturity date  and 
+contributed to the calculation of the solvency ratio  (Arion Bank 2010; Is landsbanki 2010; 
+NBI 2010; NBI 2011; MoF 2009a; MoF 2009b; MoF 2009c).  
+The solvency ratio allowed for subordinated Tier 2 debt, which the government provided to 
+Arion Bank and Islandsbanki as part of the agreements with their respective resolution 
+committees. Regarding Landsbankinn, the terms differed, with the government taking a 
+majority stake and eventually holding  98% of Landsbankinn’s share capital (Islandsbanki 
+2010; NBI 2014; MoF 2009f). 
+9. Size and Source of Funding: The Icelandic Treasury provided EUR 1 billion across 
+the three new banks. 
+The Icelandic government committed to provide the initial capitalization for the new banks 
+upon their creation in October 2008. Authorities published provisional balance sheets for 
+the three new banks on November 14, 2008.  
+The resolution committees and government authorities negotiated a capitalization 
+agreement publicized on December 15, 2009. Per the agreement on that day , the FME 
+stipulated that Landsbankinn hold 12% core Tier 1 capital (CT1) in addition to 4% Tie r 2 
+222
+Iceland: Arion Bank Islandsbanki, and Landsbankinn Capital Injections George
+
+--- Page 18 ---
+capital as a ratio of risk -weighted assets. In the case of Landsbanki, its CT1 ratio was 
+approximately 15% as of January 20, 2010 (ESA 2014). 
+The government purchased its equity stakes using government bonds , which were eligible 
+to be pledged at the central bank to access liquidity facilities. Historically, such bonds would 
+have carried a fixed interest rate. However, authorities realized that this would expose the 
+banks’ balance sheets to interest rate risk. Furthermore, in the event of a reduction of 
+interest rates by the central bank, variable interest rate bonds would benefit the government 
+while fixed rate bonds would benefit the banks. Therefore, government authorities decided 
+to create a new class of variable interest rate bonds. These bonds, issued on October 9, 2008, 
+had a duration of 10 years ,10 and the average interest was 13.3% in the first year and 7.8% 
+in the second year (MoF 2011). 
+The total capital injection by the Treasury ultimately came to EUR  1 billion across all three 
+banks. The resolution committees of the three old banks and the Icelandic Treasury jointly  
+capitalized the three new banks, with the equity breakdown differing between each. 
+Regarding New Kaupthing, the government agreed to a EUR 396 million capitalization. After 
+continued negotiations, the resolution committee of Old Kaupthing acquired an 87% stake 
+on August 14, 2009, with the government owning the remaining 13% (see Key Design 
+Decision No. 15 , Exit Strategy).  The state’s 13% ho lding amounted to EUR 49  million, 
+alongside a Tier 2 capital contribution in the form of subordinated loans amounting to  EUR 
+132 million (Arion Bank 2010; ESA 2014; MoF 2009f). 
+Regarding New Glitnir, the government agreed to a EUR 357 million capitalization, of which 
+Old Glitnir acquired a 95% stake. The government  held a 5% stake amount ing to EUR 17 
+million and contributed EUR 137 million in Tier 2 capital for a total of EUR 28 billion in state 
+funding (MoF 2009c; MoF 2009f).  
+In the case of Glitnir, upon granting the creditors of Old Glitnir their compensatory stake in 
+New Glitnir, the government received back the bond that it had used to purchase share 
+capital in New Glitnir. New Glitnir had been using this bond to access cent ral bank liquidity 
+facilities, so the bond’s return signaled a liquidity risk. To account for this, the government 
+agreed to provide funding against New Glitnir’s “solid assets ,” up to ISK 25 billion. The 
+agreement was made until September 30, 2012 (MoF 2011).  
+The government formed a similar agreement with Arion Bank upon the transfer of its equity 
+stake to the creditors of Kaupthing. In March 2009, Arion Bank had agreed to take on the 
+deposits of a small Reykjavík-based savings bank (SPRON) in exchange for a bond issued by 
+an asset management company that succeeded SPRON (Drómi). After Arion Bank returned 
+its government bond during the granting of an equity stake to Kaupthing creditors, the  
+central bank agreed to lend up to ISK 75 billion against the “SPRON bond”  to preserve 
+liquidity access (MoF 2011). 
+ 
+10 The government based this duration on the planned 10-year term of the subordinated loans being negotiated 
+as Tier 2 capital for Arion Bank and Islandsbanki. However, the subordinated bonds were ultimately not issued 
+until 2009, meaning they became due a year after the maturity date of the government bonds (MoF 2011).  
+223
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 19 ---
+The government agreed to a EUR 840 m illion capitalization of Landsbankinn, of which the 
+government controlled a majority stake of 81%. After the issuance of further contingent 
+bonds11 to Old Landsbanki in Ap ril 2013 , the government’s stake increased to 98%  (NBI 
+2014; MoF 2009f).  
+10. Timing: The capitalization occurred as part of the restructuring of the Icelandic 
+banking sector following the acute phase in October 2008.  
+Following the passage of the Emergency Act on October 6, 2008, the Minist ry of Finance 
+created three new banks, Arion Bank, Islandsbanki, Landsbankinn. The government entered 
+negotiations with the resolution committees of the old banks regarding stakes in the capital 
+of the new banks (FME 2008a; FME 2008f; MoF 2009a). 
+On July 17, 2009, Icelandic authorities and the resolution committee of Kaupthing reached 
+agreement on the valuation of assets transferred to Arion Bank. The creditors were 
+compensated with an  87% capital stake in Arion Bank, and the resolution committee 
+announced its purchase of the equity stake on December 1, 2009. The capital injection took 
+place on January 8, 2010 (Arion Bank 2010). 
+Islandsbanki followed a similar trajectory, with Icelandic  authorities reaching agreement 
+with Old Glitnir’s resolution committee in July 2009. On October 15, 2009, Glitnir acquired a 
+95% stake in Islandsbanki (Islandsbanki 2010). 
+Landsbanki required further time to negotiate the contingent bond instrument, and Icelandic 
+authorities and the resolution committee reached an agreement on October 12, 2009 (MoF 
+2009e). 
+11. Restructuring: Icelandic authorities split the three major Icelandic banks into new 
+banks for domestic claims and old banks for foreign liabilities. 
+The collapse of Iceland’s three main banks led the Ministry of Finance, the Treasury, and the 
+FME to use their newly granted crisis powers to secure the continuation of domestic banking 
+services and downsize the banking sector to a level consistent with the s ize of Iceland’s 
+economy. The Ministry of Finance immediately established three new banks, which 
+consisted of the performing domestic assets and insured domestic deposits of the failed 
+banks. These new institutions were capitalized with new equity provided  by the state (ESA 
+2014; FME 2008a).  
+The government wrote down the existing equity investors to zero. The government then left 
+the assets and liabilities of foreign branches and subsidiaries in the old banks, as well as 
+other low-recovery domestic liabilities and all derivatives (Baudino, Stu rluson, and 
+Svoronos 2020; ESA 2014).  
+ 
+11 A full account of the contingent bon d instruments used to compensate creditors in Old Landsbanki can be 
+found in the corresponding resolution and restructuring case study, George (2024). 
+224
+Iceland: Arion Bank Islandsbanki, and Landsbankinn Capital Injections George
+
+--- Page 20 ---
+The FME granted temporary relief to  Landsbankinn from the (overall) 16% capital 
+requirement, conditional upon the submission of a plan for how the ratio would be achieved 
+in the future (ESA 2014).  
+After provisional valuations of assets in the new and old banks, the FME said that it intended 
+to create financial instruments to adequately compensate senior creditors in the old banks 
+when possible (FME 2008a). A full account of the restructuring of the three major Icelandic 
+banks is provided in the corresponding resolution and r estructuring case study  George 
+(2024). 
+12. Treatment of Board and Management: The shareholders in each of the banks 
+elected their board of directors following capitalization agreement s with 
+Icelandic authorities. 
+Upon nationalization, the FME removed the existing management and board of directors and 
+appointed a resolution committee to manage the old banks during the resolution process, 
+with the goal of achieving the best possible outc ome for the old banks’ creditors. The 
+resolution committees consisted of three lawyers and two certified public accountants.  The 
+Ministry of Finance established the new banks and appointed the members of their 
+respective leadership bodies  (Baudino, Sturlus on, and Svoronos 2020; FME 2008b; FME 
+2008a; MoF 2009a). 
+Following the January 8, 2010, capital injection, the shareholders of Arion Bank elected a 
+new board of directors at a meeting on March 18, 2010, one of whom had been a member of 
+the Kaupthing resolution committee. The board of directors then sought a new CEO, and they 
+announced their new appointment on April 23, 2010 (Arion Bank 2010).  
+The shareholders of Islandsbanki also selected a new board of directors following Glitnir’s 
+October 2009 capital acquisition. ISB Holding, a subsidiary Glitnir, selected six of the board 
+members, while the ISBA selected one board member. Of the seven board members, one had 
+been chairman of the Glitnir resolution committee (Islandsbanki 2010).  
+The Icelandic state owned a controlling stake in Landsbankinn following the capital injection. 
+The bank was run by an interim board of directors and interim CEO. A shareholder meeting 
+in February  2010 elected a new board of directors and CEO. Based on the equity stake 
+breakdown, Old Landsbanki creditors selected one of the five board members while the state 
+selected the remaining four (NBI 2009; NBI 2011; MoF 2009f).  
+The Icelandic government called for the appointment of a special prosecutor in December 
+2008 to investigate potential criminal conduct related to the financial crisis. The office of the 
+special prosecutor commenced operations on February 1, 2009. The CEOs of all three major 
+banks received prison sentences. Both the Kaupthing CEO and chairman were charged with 
+market manipulation, receiving a five-and-a-half-year sentence and a five-year sentence , 
+respectively. The Landsbanki CEO received a one -year sentence for misconduct, and the 
+Glitnir CEO received a nine-month sentence for fraud (Bray 2014; Jónsson and Sigurgeirsson 
+2016). 
+225
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 21 ---
+13. Other Conditions: The FME imposed restrictions on the new banks as part of 
+measures to prevent balance-of-payments issues. 
+The FME required banks to maintain a minimum CT1 ratio of 12% and a solvency ratio of 
+16% for at least three years following their receiving an operating license  (Islandsbanki 
+2010).  
+An FME stress test revea led potential strains on the capital bases of the new banks, 
+particularly given that they were heavily reliant on unsecured funding from depositors. As a 
+result, the FME required that the new banks hold cash and liquid assets such that they would 
+be able to withstand a 20% outflow of deposits. Of this 20%, authorities required that at least 
+5% be held in cash (MoF 2011). 
+The FME also restricted the payment of dividends in the first three years after the transfer 
+of ownership, and executive compensation plans required approval from the FME. The FME 
+also monitored the disclosure of information related to internal operations, assessed the 
+qualifications of management, and reserved the right to place further obligations on owners. 
+This was done to ensure short -term interests during the banks’ restructuring did not 
+outweigh the long-term outlook on the banks’ lasting operations (MoF 2011). 
+14. Regulatory Relief : The FME granted interim relief from capital requirements 
+during the negotiation process. 
+Of the three new banks, Landsbankinn was the only one to not receive Tier 2 capital as part 
+of the compensation agreement for creditors of the old bank.  The FME granted temporary 
+relief for Landsbankinn on the 16% capital requirement, conditional upon the submission of 
+a plan illustrating how this capital ratio would be achieved (ESA 2014; MoF 2009f).  
+15. Exit Strategy: Icelandic authorities negotiated share capital stakes as partial 
+compensation for creditors left in the old banks. 
+In its letter of intent to the International Monetary Fund, Icelandic authorities stated their 
+intention to sell the government’s equity stakes when market conditions stabilized. The 
+government sold its stake in Arion Bank in 2018. The bank IPO’d on Nasdaq Iceland and 
+Nasdaq Stockholm on June 15, 2018 (Arion Bank 2019; CBI & MoF 2008).  
+In 2016 , the government received Old Glitnir’s 95% stake in Islandsbanki as part of the 
+Glitnir creditors’ stability contribution.12 This resulted in the government owning 100% of 
+Islandsbanki’s shares. The government has progressively sold parts of its stake and holds a 
+42.9% stake as of 2022  with a book value of EUR 641 million  (Islandsbanki 2017; 
+Islandsbanki 2023; Islandsbanki 2024). 
+Landsbankinn issued further foreign currency –denominated bonds to the creditors of Old 
+Landsbanki in April 2013  to complete the compensation of Old Landsbanki creditors . 
+ 
+12 The Icelandic government created a stability contribution system to avoid balance -of-payments issues. The 
+stability contribution is detailed in the corresponding resolution and restructuring case study, George (2024). 
+226
+Iceland: Arion Bank Islandsbanki, and Landsbankinn Capital Injections George
+
+--- Page 22 ---
+Simultaneously, creditors of the old bank surrendered their equity stake, increasing the 
+state’s ownership in New Landsbanki to 98% . Landsbankinn finished paying off the 
+contingent bond in June 2017. The state’s equity holding remains at 98% with a book value 
+of EUR 2 billion as of the writing of this case study (CBI 2017; NBI 2014; NBI 2023; NBI 2024; 
+Halldórsson 2013).  
+227
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 23 ---
+References and Key Program Documents 
+Summary of Program 
+(CBI n.d.) Central Bank of Iceland (CBI). n.d. “History and Premises.” Accessed February 12, 
+2024. 
+Web page summarizing the history of central banking in Iceland. 
+https://elischolar.library.yale.edu/ypfs-documents2/2767 
+(FME 2008a) Financial Supervisory Authority (Fjármálaeftirlitið) (FME). 2008a. 
+“Restructuring of the Icelandic Banking Sector,” December 11, 2008. 
+Summary of the intervention measures taken for the largest Icelandic banks. 
+http://elischolar.library.yale.edu/ypfs-documents2/1292 
+Implementation Documents 
+(CBI & MoF 2008) Central Bank of Iceland, and Ministry of Finance and Economic Affairs 
+(CBI & MoF). 2008. “Iceland Letter of Intent and Technical Memorandum of 
+Understanding,” November 15, 2008. 
+Letter of Intent requesting assistance from the IMF. 
+http://elischolar.library.yale.edu/ypfs-documents2/1219 
+(Haarde 2008) Haarde, Geir. 2008. “Address to the Nation by H.E. Geir H. Haarde, Prime 
+Minister of Iceland.” 
+Speech announcing the full guarantee of all insured deposits within Iceland. The guarantee 
+did not specify the Icelandic state’s treatment of deposits located in foreign branches. 
+http://elischolar.library.yale.edu/ypfs-documents/13155 
+Legal/Regulatory Guidance 
+(Icelandic Parliament 2008) Icelandic Parliament. 2008. “Act No. 125/2008, On the 
+Authority for Treasury Disbursements Due to Unusual Financial Market Circumstances 
+Etc.” Emergency Act, October 6, 2008. 
+Act granting emergency authorization to the minister of finance to establish a new financial 
+undertaking, take over a financial undertaking or its bankrupt estate—either wholly or in 
+part. 
+http://elischolar.library.yale.edu/ypfs-documents/12757 
+Media Stories 
+(BIS 2016) Bank for International Settlements (BIS). 2016. “Már Guðmundsson: Iceland’s 
+Recovery – Facts, Myths, and the Lessons Learned.” Speech delivered at the Official 
+Monetary and Financial Institutions Forum (OMFIF) City Lecture, London, January 28, 
+2016. 
+Speech by governor of the central bank of Iceland recounting lessons from the banking crisis. 
+http://elischolar.library.yale.edu/ypfs-documents2/2282 
+228
+Iceland: Arion Bank Islandsbanki, and Landsbankinn Capital Injections George
+
+--- Page 24 ---
+(Braithwaite and Anderson 2008) Braithwaite, Tom, and Robert Anderson. 2008. “Iceland 
+in Talks to Prevent Bank Meltdown.” Financial Times, October 5, 2008. 
+News article reporting on talks to find a solution to Iceland’s bank troubles. 
+http://elischolar.library.yale.edu/ypfs-documents2/1247 
+(Bray 2014) Bray, Chad. 2014. “Ex-Chief of Iceland Bank Sentenced to Jail for Role in 2008 
+Crisis.” New York Times, November 19, 2014. 
+News article reporting on the prosecution of Icelandic banking executives following the 
+financial crisis. 
+https://elischolar.library.yale.edu/ypfs-documents2/2889 
+(Halldórsson 2013) Halldórsson, Jón Hákon. 2013. “The Icelandic Government Now Owns 
+98% of Landsbankinn.” Vísir, April 11, 2013. 
+News article reporting on the contingent bond payment to Old Landsbanki and the 
+simultaneous equity stake transfer (in Icelandic). 
+https://elischolar.library.yale.edu/ypfs-documents2/2768 
+(Ibison and Barker 2008) Ibison, David, and Alex Barker. 2008. “Reykjavik Borrows $10bn 
+to Stave off Economic Collapse.” Financial Times, November 21, 2008. 
+News article reporting Iceland’s borrowing activity in response to the banking crisis. 
+http://elischolar.library.yale.edu/ypfs-documents2/1248 
+(Irish Times 2008) Irish Times. 2008. “Iceland’s Prime Minister Denies Country Is in 
+Default.” Irish Times, October 11, 2008. 
+News article detailing the prime minister’s denial of Iceland’s bankruptcy. 
+http://elischolar.library.yale.edu/ypfs-documents2/1252 
+(Settle 2008) Settle, Michael. 2008. “Iceland and UK in Row over Bank Assets.” The Herald, 
+October 10, 2008. 
+News article detailing the feud between Iceland and the UK over bank deposits. 
+http://elischolar.library.yale.edu/ypfs-documents2/1251 
+Press Releases/Announcements 
+(Arion Bank 2019) Arion Bank. 2019. “Highlights of 2018.” Press release, 2019. 
+Press release announcing the major happenings of 2018 for Arion Bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/2766 
+(CBI 2015) Central Bank of Iceland (CBI). 2015. “Decisions of the Financial Supervisory 
+Authority on the Disposal of Assets and Liabilities of Commercial Banks Following the 
+Financial Shock of 2008.” Press release, January 29, 2015. 
+Press release revisiting the valuation procedures for the assets of the three failed Icelandic 
+banks (In Icelandic). 
+http://elischolar.library.yale.edu/ypfs-documents2/1990 
+  
+229
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 25 ---
+(FME 2008b) Financial Supervisory Authority (FME). 2008b. “Decision of the Financial 
+Supervisory Authority on the Appointment of a Receivership Committee for Landsbanki 
+Islands Hf.” 
+Announcement describing the actions taken by Icelandic authorities to ensure that the public 
+would maintain access to deposits and other essential financial services. 
+http://elischolar.library.yale.edu/ypfs-documents/13148 
+(FME 2008c) Financial Supervisory Authority (Fjármálaeftirlitið, FME). 2008c. “Based on 
+New Legislation, the Icelandic Financial Supervisory Authority (FME) Proceeds to Take 
+Control of Glitnir to Ensure Continued Commercial Bank Operations in Iceland.” Press 
+release, October 8, 2008. 
+Press release describing the Icelandic government’s actions to preserve payment services for 
+customers of Glitnir. 
+http://elischolar.library.yale.edu/ypfs-documents/13150 
+(FME 2008d) Financial Supervisory Authority (Fjármálaeftirlitið, FME). 2008d. “Based on 
+New Legislation, the Icelandic Financial Supervisory Authority (FME) Proceeds to Take 
+Control of Kaupþing to Ensure Continued Commercial Bank Operations in Iceland.” Press 
+release, October 9, 2008. 
+Press release describing the Icelandic government’s actions to preserve payment services for 
+customers of Kaupthing. 
+http://elischolar.library.yale.edu/ypfs-documents/13151 
+(FME 2008e) Financial Supervisory Authority (Fjármálaeftirlitið, FME). 2008e. “Decision of 
+the Financial Supervisory Authority (FME) on a Second Amendment to the Decision of the 
+FME Dated 9 October 2008 on the Disposal of Assets and Liabilities of Landsbanki Íslands 
+Hf.” Press release, October 19, 2008. 
+Announcement describing the breakdown of assets and liabilities in Old and New Landsbanki 
+(unofficial translation). 
+http://elischolar.library.yale.edu/ypfs-documents2/1260 
+(FME 2008f) Financial Supervisory Authority (Fjármálaeftirlitið, FME). 2008f. “Opening 
+Balance Sheet for New Banks.” Press release, November 14, 2008. 
+Provisional balance sheets for the three new banks established by Icelandic authorities. 
+http://elischolar.library.yale.edu/ypfs-documents2/1262 
+(FME 2013) Financial Supervisory Authority (Fjármálaeftirlitið, FME). 2013. 
+“Investigations by the Financial Supervisory Authority into Issues Connected with the 
+Banking Collapse Have Now Concluded.” Press release, February 14, 2013. 
+Press release announcing the results of the FME investigation of the origins of the Icelandic 
+bank failures. 
+http://elischolar.library.yale.edu/ypfs-documents2/2004 
+  
+230
+Iceland: Arion Bank Islandsbanki, and Landsbankinn Capital Injections George
+
+--- Page 26 ---
+(MoF 2009a) Ministry of Finance and Economic Affairs (MoF). 2009a. “Capitalisation of the 
+Three Principal Icelandic Commercial Banks and Basis of Agreement with Creditors.” Press 
+release, July 20, 2009. 
+Press release announcing the capitalization of Iceland’s three major banks, asserting lower 
+than anticipated costs to taxpayers. 
+http://elischolar.library.yale.edu/ypfs-documents2/1264 
+(MoF 2009b) Ministry of Finance and Economic Affairs (MoF). 2009b. “Agreement between 
+the Government of Iceland and the Resolution Committee of Kaupthing Finalised.” Press 
+release No. 61/2009, September 4, 2009. 
+Press release announcing the agreement between the Icelandic government and the 
+resolution committee to capitalize New Kaupthing. 
+http://elischolar.library.yale.edu/ypfs-documents2/1267 
+(MoF 2009c) Ministry of Finance and Economic Affairs (MoF). 2009c. “Agreement between 
+the Government of Iceland and the Resolution Committee of Glitnir Finalised.” Press 
+release, September 13, 2009. 
+Press release announcing the resolution agreement between the Icelandic government and 
+the committee representing creditors of Glitnir. 
+http://elischolar.library.yale.edu/ypfs-documents2/1270 
+(MoF 2009d) Ministry of Finance and Economic Affairs (MoF). 2009d. “Icelandic State 
+Banking Agency (ISBA) Commences Operation.” Press release, September 25, 2009. 
+Press release announcing the commencement of operations of the ISBA. 
+http://elischolar.library.yale.edu/ypfs-documents2/1271 
+(MoF 2009e) Ministry of Finance and Economic Affairs (MoF). 2009e. “Agreement between 
+the Government of Iceland and the Resolution Committee of Landsbanki on Compensation 
+Instrument.” Press release No. 69/2009, October 12, 2009. 
+Press release announcing the capitalization agreement between the Icelandic state and 
+Landsbanki creditors. 
+http://elischolar.library.yale.edu/ypfs-documents2/1268 
+(MoF 2009f) Ministry of Finance and Economic Affairs (MoF). 2009f. “Bank Reconstruction 
+Concluded.” Press release No. 82/2009, December 18, 2009. 
+Press release announcing the restructuring of Iceland’s three major banks. 
+http://elischolar.library.yale.edu/ypfs-documents2/1269 
+(Prime Minister’s Office 2011) Prime Minister’s Office. 2011. “Order of Priority Claims 
+under the Emergency Act Deemed Valid by Icelandic Court.” Press release, October 28, 
+2011. 
+Press release announcing the Supreme Court’s approval of Iceland’s Emergency Act. 
+http://elischolar.library.yale.edu/ypfs-documents2/2014 
+  
+231
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 27 ---
+Reports/Assessments 
+(Arion Bank 2010) Arion Bank. 2010. Annual Report 2009. 
+Arion Bank annual report for the year 2009. 
+https://elischolar.library.yale.edu/ypfs-documents2/2765/ 
+(CBI 2017) Central Bank of Iceland (CBI). 2017. Financial Stability Report 2017/2. 
+Financial stability report for Iceland for the second half of the year 2017. 
+http://elischolar.library.yale.edu/ypfs-documents2/2009 
+(ESA 2014) European Free Trade Association (EFTA) Surveillance Authority (ESA). 2014. 
+“EFTA Surveillance Authority Decision on Restructuring Aid Granted to Landsbankinn 
+(Iceland).” Decision No. 290/12/COL of July 11, 2012. Official Journal of the European 
+Union, L 144/121, May 15, 2014. 
+EFTA decision detailing and approving the intervention and restructuring measures taken in 
+Iceland. 
+http://elischolar.library.yale.edu/ypfs-documents2/1552 
+(Flannery 2009) Flannery, Mark J. 2009. “Iceland’s Failed Banks: A Post-Mortem.” Prepared 
+for the Icelandic Special Investigation Commission, November 9, 2009. 
+Appendix 3 of the Special Investigation Commission’s report investigating the bank collapse in 
+Iceland. 
+http://elischolar.library.yale.edu/ypfs-documents2/1274 
+(Islandsbanki 2010) Islandsbanki. 2010. Annual Report 2009. 
+Islandsbanki annual report for the year 2009. 
+https://elischolar.library.yale.edu/ypfs-documents2/2769/ 
+(Islandsbanki 2017) Islandsbanki. 2017. Annual Report 2016. 
+Islandsbanki annual report for the year 2016. 
+https://elischolar.library.yale.edu/ypfs-documents2/2770/ 
+(Islandsbanki 2023) Islandsbanki. 2023. Consolidated Financial Statements 2022. 
+Islandsbanki financial statements for the year 2022. 
+https://elischolar.library.yale.edu/ypfs-documents2/2771 
+(Islandsbanki 2024) Islandsbanki. 2024. Consolidated Financial Statements 2023. 
+Islandsbanki financial statements for the year 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/2772 
+(Mayer Brown 2009) Mayer Brown. 2009. “Summary of Government Interventions: 
+Iceland,” April 21, 2009. 
+Overview of the Icelandic intervention actions during the GFC. 
+http://elischolar.library.yale.edu/ypfs-documents2/1285 
+  
+232
+Iceland: Arion Bank Islandsbanki, and Landsbankinn Capital Injections George
+
+--- Page 28 ---
+(MoF 2011) Ministry of Finance and Economic Affairs (MoF). 2011. “Minister of Finance 
+Report on the Restoration of Banks,” March 2011. 
+Ministry of Finance report on the restructuring of the three major Icelandic banks (in 
+Icelandic). 
+https://elischolar.library.yale.edu/ypfs-documents2/2776 
+(NBI 2009) Landsbankinn (NBI). 2009. Consolidated Financial Statements 2008. 
+Landsbankinn financial report for the period between October 7 and December 31, 2008. 
+http://elischolar.library.yale.edu/ypfs-documents2/2010 
+(NBI 2010) Landsbankinn (NBI). 2010. Consolidated Financial Statements 2009. 
+Landsbankinn financial statements for the year 2009. 
+http://elischolar.library.yale.edu/ypfs-documents2/2011 
+(NBI 2011) Landsbankinn (NBI). 2011. Consolidated Financial Statements 2010. 
+Landsbankinn annual financial statements for 2010. 
+https://elischolar.library.yale.edu/ypfs-documents2/2775 
+(NBI 2014) Landsbankinn (NBI). 2014. Consolidated Financial Statements 2013. 
+Landsbankinn financial statements for the year 2013. 
+http://elischolar.library.yale.edu/ypfs-documents2/1278 
+(NBI 2023) Landsbankinn (NBI). 2023. Consolidated Financial Statements 2022. 
+Landsbankinn financial statements for the year 2022. 
+https://elischolar.library.yale.edu/ypfs-documents2/2773 
+(NBI 2024) Landsbankinn (NBI) (NBI). 2024. “Consolidated Financial Statements 2023,” 
+2024. 
+Landsbankinn financial statements for the year 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/2774 
+(SIC 2010a) Special Investigation Commission (SIC). 2010a. “Chapter 2: Summary of the 
+Report’s Main Conclusions.” In Report of the Special Investigation Commission, Vol.1, April 
+12, 2010. 
+Summary of the SIC’s report investigating the collapse of the three main banks in Iceland. 
+http://elischolar.library.yale.edu/ypfs-documents2/1287 
+(SIC 2010b) Special Investigation Commission (SIC). 2010b. “Chapter 21: Causes of the 
+Collapse of the Icelandic Banks - Responsibility, Mistakes, and Negligence.” In Report of the 
+Special Investigation Commission. Vol. 7. Reykjavík, Iceland: Icelandic Parliament. 
+Chapter describing the Icelandic banks’ behavior in the run up to the GFC, revealing 
+aggressive financing tactics that hastened their growth and overextended their balance 
+sheets throughout the 2000s. 
+http://elischolar.library.yale.edu/ypfs-documents/13176 
+  
+233
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 29 ---
+(SIC 2010c) Special Investigation Commission (SIC). 2010c. “Report of the Special 
+Investigation Commission,” April 12, 2010. 
+Webpage containing information on the composition of the SIC and translated documents. 
+http://elischolar.library.yale.edu/ypfs-documents2/881 
+Key Academic Papers 
+(Baudino, Sturluson, and Svoronos 2020) Baudino, Patrizia, Jon Thor Sturluson, and Jean-
+Philippe Svoronos. 2020. “The Banking Crisis in Iceland.” Bank for International 
+Settlements, Financial Stability Institute Crisis Management Series No. 1, March 2020. 
+BIS paper discussing Iceland’s crisis and responses. 
+http://elischolar.library.yale.edu/ypfs-documents/13131 
+(Benediktsdóttir, Eggertsson, and Þórarinsson 2017) Benediktsdóttir, Sigriður, Gauti B. 
+Eggertsson, and Eggert Þórarinsson. 2017. “The Rise, Fall, and Resurrection of Iceland: A 
+Postmortem Analysis of the 2008 Financial Crisis.” Brookings Papers on Economic Activity, 
+September 7, 2017. 
+Paper describing the policy decisions made by Icelandic public officials during the GFC and 
+covering in detail the process of separating the big three Icelandic banks into old and new 
+assets. 
+http://elischolar.library.yale.edu/ypfs-documents/13032 
+(Centonze 2011) Centonze, Arthur L. 2011. “Iceland’s Financial Meltdown.” Journal of 
+Financial Education 37, no. 1/2: 131–66. 
+Academic paper describing the fall of the Icelandic banks. 
+http://elischolar.library.yale.edu/ypfs-documents2/1290 
+(George 2024) George, Ayodeji. 2024. “Iceland: Landsbanki Restructuring, 2008.” Journal of 
+Financial Crises 6, no. 1: 279–311. 
+YPFS case study describing the restructuring of Iceland’s Landsbanki. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/11/ 
+(Jónsson and Sigurgeirsson 2016) Jónsson, Ásgeir, and Hersir Sigurgeirsson. 2016. The 
+Icelandic Financial Crisis: A Study into the World’s Smallest Currency Area and Its Recovery 
+from Total Banking Collapse. Palgrave Macmillan Studies in Banking and Financial 
+Institutions. London: Palgrave Macmillan. 
+Book describing the Icelandic Financial Crisis in chronological and thematic detail, from the 
+causes and early warning signs of instability to the crisis aftermath and recovery. 
+https://elischolar.library.yale.edu/ypfs-documents/13164/ 
+(Kulam 2022) Kulam, Adam. 2022. “Iceland: Depositors’ and Investors’ Guarantee Fund.” 
+Journal of Financial Crises 4, no. 2: 371–98. 
+YPFS case study about the Icelandic deposit guarantee scheme. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/13/ 
+  
+234
+Iceland: Arion Bank Islandsbanki, and Landsbankinn Capital Injections George
+
+--- Page 30 ---
+(Rhee, Hoffner, et al. 2024) Rhee, June, Benjamin Hoffner, Greg Feldberg, and Andrew 
+Metrick. 2024. “Survey of Ad Hoc Capital Injections.” Journal of Financial Crises 6, no. 3.  
+Survey of YPFS case studies examining ad hoc capital injection programs. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/1 
+(Rhee, Oguri, et al. 2022) Rhee, June, Junko Oguri, Greg Feldberg, and Andrew Metrick. 
+2022. “Broad-Based Capital Injection Programs.” Journal of Financial Crises 4, no. 1. 
+Survey of YPFS case studies examining broad-based capital injection programs. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/1/ 
+ 
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+235
+Journal of Financial Crises Vol. 6 Iss. 3

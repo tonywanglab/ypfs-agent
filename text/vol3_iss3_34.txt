@@ -1,0 +1,1659 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 3 
+2021 
+US Community Development Capital Initiative (CDCI) US Community Development Capital Initiative (CDCI) 
+Adam Kulam 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, Policy 
+Design, Analysis, and Evaluation Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Kulam, Adam (2021) "US Community Development Capital Initiative (CDCI)," Journal of Financial Crises: 
+Vol. 3 : Iss. 3, 786-820. 
+DOI: https://doi.org/10.17132/2693-3179.1207 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/34 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss3/34
+
+--- Page 3 ---
+US Community Development Capital Initiative (CDCI)1 
+Adam Kulam2 
+Yale Program on Financial Stability Case Study 
+October 8, 2019; Revised: November 12, 2021 
+Abstract 
+The United States Department of the Treasury responded to the Global Financial Crisis with 
+an economy -wide stimulus package called the Troubled Asset s Relief Program (TARP). 
+Within the portion of TARP’s budget dedicated  to bank investments, about $570.1 million 
+was disbursed to community development financial institutions (CDFIs) —specifically, 
+banks and credit unions (depositories) —in a program called the Community Development 
+Capital Initiative (CDCI). Through the CDCI, Treasury provided capital to CDFI depositories, 
+encouraged them to lend to small b usinesses, and promoted other community -oriented 
+goals. The CDFI  depositories issued either preferred shares or unsecured subordinated 
+debentures to Treasury at low (2%) interest rates for the first eight years, and high ( 9%) 
+rates thereafter. Two of the 84 participating CDFI depositories remained in the program as 
+of October 2020 . Only one recipient failed . The financial health of participating CDFI  
+depositories is viewed to have generally improved after the investments were conducted.  
+In late 2 016 and ear ly 2017, 26  of the participants were allowed to pay back Treasury 
+capital at a discount usually 7% or 8% beneath notional value. 
+ 
+Keywords: capital injection, Community Development Financial Institution, Community 
+Development Capital Initiative,  Global Financial Crisis , TARP, US Department of  the 
+Treasury  
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering the responses to the Global Financial Crisis that pertain to broad -based capital 
+injections. Cases are available from the Journal of Financial Crises at   
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+786
+
+--- Page 4 ---
+At a Glance 
+After the Global Financial Crisis, t he US 
+Department of the Treasury created the 
+Community Development Capital Initiative 
+(CDCI) to serve low-income and 
+underbanked communities by injecting 
+capital into community development 
+financial institution (CDFI) depositories. 
+CDFI depositories were banks, thrifts, credit 
+unions, and nonprofit loan funds that 
+Treasury had certified to be eligible for 
+financial and technical assistance through 
+the CDFI program . Treasury collaborated 
+with federal regulators to review 
+applications, identify eligible an d viable 
+institutions, fund them, monitor 
+participants, and wind  down investments. 
+The CDCI program was introduced more 
+than a year after the Capital Purchase 
+Program (CPP), a larger Troubled Assets 
+Relief Program ( TARP) initiative that 
+provided capital to  commercial banks  
+during the crisis . Most CDCI funding 
+represented a revision to CPP investments 
+that Treasury had already made in banks 
+and thrifts that were CDFIs —but on better 
+terms. The CDCI was also the first crisis -era 
+program available to credit unions.  
+Throughout 2010, Treasury purchased 
+either preferred stock shares or unsecured 
+debentures from CDFIs , depending on the 
+type of institution . All participants followed  
+similar capital restrictions and payment schedules, transitioning themselves back to  
+private stakeholders withi n an eight- to 30 -year timeframe. Through the CDCI, Treasury 
+extended low -cost capital while prioritizing taxpayer interests  within CDFI  payment 
+schedules. 
+Summary Evaluation 
+Treasury did not announce a maximum investment amount, allocated $780.2 million, and 
+ultimately disbursed approximately $570.1 million to 84 institutions , 36 banks and thrifts 
+Summary of Key Terms 
+Purpose: “To provide support to Main Street banks, 
+thrifts, and credit unions that lend to small 
+businesses and families in underserved 
+communities.”  
+Announcement 
+Date 
+February 3, 2010  
+Application 
+Window 
+February 3, 2010–April 30, 
+2010  
+Funding/ 
+Exchanges 
+Window  
+February 3, 2010–September 
+30, 2010  
+Legal Authority Emergency Economic 
+Stabilization Act of 2008; 
+Troubled Assets Relief 
+Program; Dodd-Frank Wall 
+Street Reform and Consumer 
+Protection Act of 2010  
+Peak Utilization  ~$570.1 million provision of 
+Tier 1, Tier 2 capital; 84 
+participants  
+Eligible 
+Institutions 
+Certified Community 
+Development Financial 
+Institutions (CDFIs) approved 
+by Treasury and their primary 
+federal regulator  
+Administrators US Department of the 
+Treasury; various federal 
+banking agencies  
+US Community Development Capital Initiative 
+(CDCI) 
+787
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 5 ---
+and 48 credit unions , through the CDCI program . As of October 2020, 82 of the original 84 
+institutions had exited the CDCI program: 5 4 fully repaid, 26 repurchased early, one went 
+into bankruptcy, and one exited through a merger. Of the two remaining institutions, both 
+partially repaid and one partially repurchased early. The outstanding balance stood at 
+nearly $1 million, less than 1% of the original disbursement. Due to write-offs, the CDCI is 
+currently estimated to fall $ 70 million short of full -redemption value —given Treasury 
+assumptions about market risks . Participants showed generally improved financial health 
+after receiving Treasury investments.  In late 2016 and early 2017, 2 6 of the participants 
+could pay back Treasury capital at a discount usually at 7% or 8% below notional value . 
+Treasury was criticized for exhibiting poor communication by equivocating the program’s 
+objectives—a general criticism of TARP—and failing to collect regular information from the 
+participants themselves. Though the program is largely over, there is still a need for more 
+scholarship. 
+  
+788
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 6 ---
+United States Context 2009–2010 
+GDP 
+(SAAR, nominal GDP in LCU converted to 
+USD) 
+$14,628.0 billion in Q4 2009 
+$15,240.8 billion in Q4 2010 
+GDP per capita 
+(SAAR, nominal GDP in LCU converted to 
+USD) 
+$47,100 in 2009 
+$48,468 in 2010 
+Sovereign credit rating  
+(five-year senior debt) 
+As of Q4, 2009: 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+As of Q4, 2010: 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+Size of banking system 
+$9,789.1 billion in  
+total assets in 2009 
+$9,292.3 billion in  
+total assets in 2010 
+Size of banking system as a  
+percentage of GDP 
+66.9% in 2009 
+61.0% in 2010 
+Size of banking system as a percentage of 
+financial system 
+Assets equal to 30.2%  
+of financial system in 2009 
+Assets equal to 28.5%  
+of financial system in 2010 
+Five-bank concentration of banking system 
+44.3% of total banking assets  
+in 2009 
+46.0% of total banking assets  
+in 2010 
+Foreign involvement in banking system 
+19.0% of total banking assets  
+in 2009 
+16.0% of total banking assets  
+in 2010 
+Government ownership of banking system 0% of banks owned by the state 
+in 2010 
+Existence of deposit insurance 
+100% insurance on deposits up 
+to $100,000 for 2007 
+100% insurance on deposits up 
+to $250,000 for 2010 
+Sources: Bloomberg; World Bank Global Financial Development Database; Federal Deposit 
+Insurance Corporation. 
+789
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 7 ---
+I. Overview 
+Background 
+In 1994, Congress passed the Riegle Community Development and Regulatory 
+Improvement Act, which established the Community Development Financial Institution 
+(CDFI) Fund  (CDFI Fund n.d. -a). The US  Department of Treasury uses the CDFI Fund to 
+promote local economic development by providing financial and technical assistance to 
+financial institutions that Treasury has certified as CDFIs  (CDFI Fund n.d. -d). CDFI 
+certification requires institutions to conduct at least 60 % of lending and other economic 
+development activities in areas underserved by traditional financial institutions  (Treasury 
+2010i). CDFIs can be regulated banks, credit unions, or nonprofit loan funds. Treasury 
+financial assistance can be in the form of loans,  grants, equity investments, deposits, and 
+credit union shares, which CDFIs are required to match dollar -for-dollar with nonfederal 
+funds (CDFI Fund n.d. -a). Currently, there are more than 1,000 CDFIs located throughout 
+the United States (CDFI Fund n.d.-c). 
+By late 2008, the Global Financial Crisis was in full swing in the United States. On October 3, 
+2008, President George W. Bush signed the Emergency Economic Stabilization Act (EESA), 
+which granted Congress the authority to purchase troubled assets from f inancial 
+institutions (EESA 2008, sec. 3) . Within the EESA, the Troubled Asset s Relief Program 
+(TARP) initially granted Treasury $700 billion—an amount that was later reduced to $475 
+billion, after the passage of the Dodd -Frank Wall Street Reform and Consumer Protection 
+Act on July 21, 2010  (Dodd-Frank 2010) . Treasury disbursed public funds into five 
+program areas: credit markets, the automotive industry, struggling homeowners, the 
+insurance corporation American International Group (AIG), and the banki ng sector  
+(Treasury 2016c) . Of the $250 billion  of TARP funds disbursed to the banking sector, 
+$780.2 million was allocated to the Community Development Capital Initiative (CDCI)  
+(SIGTARP 2010c). 
+In launching the CDCI, Treasury officials emphasized its foc us on local financial institutions 
+and their customers. “It’s a common misconception that TARP funds only went to large 
+Wall Street firms, but the CDCI program is yet another example of how TARP is providing 
+critical assistance to Main Street financial ins titutions,” noted Herbert Allison, Treasury 
+assistant secretary for financial stability (Treasury 2010i). The CDCI arrived at a time when 
+private capital had receded from community development financial institutions ’ primary 
+funding sources—banks, foundations, and socially motivated investors  (Barr 2010). Donna 
+J. Gambrell, director of Treasury’s CDFI Fund, remarked, “At a time when many institutions 
+have pulled back, CDFIs have actually increased their lending and investments in 
+underserved communities. Th ese CDCI investments will enable community banks, thrifts, 
+and credit unions to spur economic development in the communities that have been hit 
+hardest by the economic downturn”  (Treasury 2010i) . At the onset of the program, 
+Treasury framed its re capitalization of  CDFI depositories as an effort to reach their low -
+income and underbanked clients (Treasury 2010i).  
+790
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 8 ---
+Though Treasury’s initial language suggested that the program was meant to impact the 
+participants’ underlying communities via lending and investment, Treasury later revised its 
+wording and claimed that the program was meant to help institutions achieve their 
+individual economic development goals (GAO 2011; Treasury 2010i) . The government’s 
+rhetorical inconsistencies throughout the lifespan of the program —combined with weak 
+participant reporting—made it difficult to assess the ex post benefits and drawbacks of the 
+capital injections . Treasury’s goalpost -shifting is described in greater detail within the 
+“Evaluation” section of the case study. 
+Program Description 
+Treasury first announced the CDCI on February 3, 2010  (Treasury 2010h) . Since its 
+origination, the CDCI was presented as a complement to the already running Capital 
+Purchase Program (CPP), a TARP initiative that extended “capital to viable financial 
+institutions of all sizes throughout the nation”  (Treasury 2016b) . In the init ial press 
+release, the CDCI was referred to as a “TARP enhancement,” and its capital terms 
+(dividend/interest rates, step -up clauses, diversity of eligible institutions) were explicitly 
+framed as more favorable than  those of  the CPP (Treasury 2010h) . CDCI eligibility 
+extended to CPP participants that were certified CDFI depositories and sought lower -cost 
+capital. Treasury and Government Accountability Office (GAO)  frequently combined CDCI 
+and CPP data in public documents. 
+Treasury allocated $780.2 million for the program and held  an application window 
+between February 3 and April 30, 2010 —an end date that was pushed back from April 2  
+(SIGTARP 2010c). Transactions took place between February 3 and September 30 , 2010  
+(Treasury 2010i) . These purchases were conducted with Treasury funds, and the CDFI 
+liabilities and equity were kept on the federal government’s  balance sheet  (Massad and 
+Kashkari 2018).  
+To review applications and actively monitor its capital injections, Treasury partnered with 
+one or more federal regulators: the Federal Deposit Insurance Corporation (FDIC), Board of 
+Governors of the Federal Reserve System, Office of the Comptroller of the Currency (OCC), 
+National Credit Union Administration (NCUA), and Office of Thrift Supe rvision (OTS)  
+(Treasury 2010a).3 These partnerships were necessary because different financial 
+institutions fell under the jurisdiction of different federal regulators (Treasury 2010a).  
+The CDCI channeled public funds to CDFI banks and credit unions (depositories). According 
+to this case study’s  external reviewer,  most CDFIs are nondepositories,  so the CDCI was 
+available to a minority subset  of the total number of CDFIs at the time that the program 
+was announced. Eligible institutions for the CDCI were US financial institutions certified as  
+CDFIs by Treasury’s CDFI F und and regulated by a federal banking or credit union agency  
+(Treasury 2010a). If an institution was eligible, the relevant federal regulator made a 
+recommendation to Treasury about the  institution’s financial viability prior to the CDCI 
+investment (Treasury 2012a). The regulator also consider ed in its viability assessment any 
+private capital raised in conjunction with the CDCI capital injection (Treasury 2012a). Upon 
+receiving applicati ons, Treasury discussed the CDFI  depository’s eligibility and viability 
+with the primary regulator to either deny or accept the application.  
+ 
+3 Under §312 of the Dodd -Frank Wall Street Reform and Consumer Protection Act, the Office of Thrift 
+Supervision merged with the OCC, the Fed, the FDIC, and the Consumer Financial Prote ction Bureau (Dodd-
+Frank 2010). Though the OTS was listed in the original CDCI documentation, its CDCI responsibilities were 
+spread across the other regulators upon the OTS merger. 
+791
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 9 ---
+Participating CDFI  depositories were subject to  extensive terms and conditions  set by 
+Treasury. As long as  Treasury held at least 10% of its initial investment, the CDFI  
+depository had to allow Treasury (along with Treasury’s affiliates) to manage, evaluate, or 
+transfer Treasury’s investment  (Treasury 2010b). The 10%  threshold also entitled 
+Treasury to examine and make copies of the CDFI  depository’s corporate books, and to 
+discuss the affairs, finances, and accounts with the institution’s principal officers.  
+In addition to data access, there were several covenants that the participating CDFI  
+depository had to agree to follow. For example, t he participant had to retain its status as a 
+certified CDFI and needed to provide Treasury with the certification and documents to 
+verify this status, consent to any Making Home Affordable (MHA) modification made by any 
+nonaffiliated mortgage servicer, and  participate in Treasury’s MHA program under certain 
+circumstances (Treasury 2010g).  
+Furthermore, t he CDFI  depository was not allowed to engage in any mergers or other 
+significant corporate transaction, subject to undefined exceptions (Treasury 2010g). It also 
+faced restrictions on common s tock repurchases and dividends, including  an increase of 
+the aggregate per share dividend over the immediately prior fiscal year.  
+Capital terms  were similar across CDFI  depositories yet tailored according to the type of 
+institution.  
+CDCI terms did not explicitly demand any changes to the existi ng board or management. 
+However, there were limits on executive compensation and bonuses. CDCI participants 
+were subject to the same executive compensation bonuses as other TARP participants  
+(Treasury 2012a).  
+Treasury’s shares were generally nonvoting. Ho wever, except for credit unions, Treasury 
+retained the right to vote on any authorization or issuance of capital shares ranking senior 
+to its investment; any amendment to its rights; or any merger, exchange, dissolution , or 
+similar transaction that would a dversely affect its rights. In the event of excessive 
+nonrepayment of CDCI capital dividend/interest, Treasury gained voting rights and could 
+place individuals on the board of the CDFI  banks or thrifts, banks organized as S 
+corporations, and mutual banks —not for credit unions, however  (Treasury 2010b). If a 
+CDFI depository wholly defaulted on its debt, the principal and accrued interest were made 
+immediately due and payable once the “event of default” transpired.  
+Treasury did not initially have an exit strategy for CDCI investments. The scheduled 
+increase in interest rates  was intended to encourage participants to pay back their capital 
+by 2018  (GAO 2016a). However, in August 2016, shortly after the Government 
+Accountability Office noted Treasury’s lack of an exit strategy, Treasury announced an 
+early repayment program to h elp it “dispose of its ownership interests as quickly as 
+practicable” (Montano 2016). Under the program, Treasury allowed participants to repay 
+their capital at “fair value,” which in practic e meant a discount  of usually 7% or 8% 
+(Montano 2016). 
+Outcomes 
+Though Treasury allocated a  maximum investment amount of $ 780.2 million, the CDCI 
+ultimately disbursed $570.1 million to 84 insti tutions: 27 bank s and thrifts, nine  other 
+banks organized as S corporation s, and 48 credit unions  (SIGTARP 2010c). The initial 
+application window extended from February through April 2010  (SIGTARP 2010a). By the 
+close of the application window, Treasury received applications from 56 credit unions and 
+792
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 10 ---
+37 banks and thrifts; 36 of the 37 bank applications came from CPP par ticipants looking to 
+exchange capital (SIGTARP 2010b). The total number of credit unions and other non -CPP 
+participants that applied for CDCI capital has not been made public, as proposals submitted 
+to primary regulators were kept confidential (Treasury 2012a).  
+As of October 2020 , 82 of the original 84 institutions exited the CDCI program: 5 4 fully 
+repaid, 26 fully repurchased early, one went into bankruptcy, and one exited through a 
+merger. Of the two remaining institutions, both partially rep aid and one partially 
+repurchased CDCI capital early (Treasury 2020). 
+Premier Bank failed in early 2013 (Treasury 2019c). SIGTARP arrested the chairman of the 
+board, along with two other board members and the bank president on charges of bank 
+fraud (SIGTARP 2017). The bank obtained Treasury funds by falsifying its financial data 
+and misrepresen ting information to regulators . Treasury lost $6.7 million in TARP fun ds, 
+and the bank’s failure cost the FDIC an estimated $64.1 million. 
+Of the original 84 CDFI depositories, two credit unions have CDCI investments outstanding, 
+with total obligations nearing $ 1 million (Treasury 2020). Total projected losses on the 
+CDCI ar e about $ 70 million —versus $290 million in late 2010  (Treasury 2011b). These 
+losses came from Treasury reselling the securities below their original purchase price and 
+from writing off the capital of one bankrupt institution  (Treasury 2019c). All other CDCI 
+capital left Treasury’s balance sheet through full repayment, early repurchase, or a merger.  
+One of the requirements of CDCI participation was the annual capital survey, which was 
+intended to capture ( via self -reporting) how the CDFI  depositories used their capital  
+(Treasury 2010b). These surveys were subjective; CDFI officials, in their own words, 
+qualitatively described their use of capital with information not found in objective financial 
+reports. From the 2017 survey of 19 CDCI and seven CPP respondents, the top cited uses of 
+capital include d: increas ing lending, or reduc ing lending less than otherwise would have 
+occurred (reported by 73.1%) ; increasing reserves for nonperforming assets (reported by 
+30.8%), and holding as a nonleveraged in crease to total capital (reported by 11.5%)  
+(Treasury 2019a). According to the subjective surveys of the participants, the CDCI aided 
+CDFIs in managing liabilities as well as assets. 
+II. Key Design Decisions 
+1. Part of a Package: The CDCI was created in the likeness of the CPP to complement 
+the CPP. Independent laws and  Treasury initiatives supported small b usinesses 
+thereafter. 
+Most of the funds invested through the CDCI program went to former CPP participants that 
+exchanged their CPP capital for more affordable CDCI capital  (Treasury 2012b) . 
+Furthermore, 10 CPP exchanges qualified for an additional round of investment beyond the 
+original CPP investment, totaling $100.7 million  (SIGTARP 2010c). T he majority of 
+participants in the CDCI program were credit unions that had not been eligible for CPP 
+capital (GAO 2014). CDFIs run less lucrative business models than mainstream financial 
+institutions and encounter difficulties in securing long -term, low-cost capital from private 
+investors in a time of crisis (Barr 2010).  
+The CDCI copied the CPP’s architecture while softening key payment factors : the CDCI 
+decreased initial interest/dividend rates from the CPP’s 5% to 2%, delay ed the step-up 
+793
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 11 ---
+clauses from the CPP’s five years (after the original investment) to eight years, omitted the 
+requirement on stock warrants,  and increased the maximum issuance of governm ent 
+capital from the CPP’s 3% of risk-weighted assets to 5% (GAO 2014). 
+Outside of TARP programs, the US Treasury also supported small businesses through the 
+Small Business Jobs Act of 2010, which permitted Treasury to “make capital investments in 
+eligible institutions in order to increase the availability of credit for small businesses, to 
+amend the Internal Revenue Code of 1986 to provide tax incentives for small business job 
+creation, and for other purposes”  (SBJA 2010). Through this act, Treasury launched the 
+State Small  Business Credit Initiative (SSBCI)  and provided nearly $1.5 billion to states, 
+territories, and municipalities  (CREC/CS 2016). Rather than directly injecting capital into 
+financial institutions, Treasury supported state programs that fell into one of five 
+categories: capital access programs, loan guarantee programs, collateral support programs, 
+loan participation programs, and venture capital programs  (CREC/CS 2016). The SSBCI 
+funded small state pr ograms, which filled in market gaps left by larger federal programs  
+(CREC/CS 2016). 
+The CDFI Fund programs that followed the CDCI varied in their capital mechanisms, which 
+included monetary awards, training programs, tax credits, grants, and bond guarantee 
+programs (CDFI Fund, n.d.-b).4 
+2. Legal Authority: The legal authority for the CDCI was granted under the 
+Emergency Economic Stabilization Act of 2008.  
+The CDCI was legally authori zed by the Emergency Economic Stabilization Act of 2008 —
+specifically Title I: The Troubled Assets Relief Program  (EESA 2008). The broad definition 
+of “troubled assets”  available for purchase  could extend to unsecured subordinated 
+debentures and preferred equity if the secretary of Treasury were to secure the approval of 
+the chairman of the Federal Reserve Board (EESA 2008, sec. 3). 
+3. Communication: Treasury made CDCI information publicly available and 
+equivocated the goal of the program. 
+To communicate the CD CI, Treasury relied heavily on the Internet. Online documentation 
+was robust, and Treasury website contained CDCI Program Documents, Program 
+Agreements for all participating institutions, Frequently Asked Questions (FAQs) about 
+how to participate, and other announcements (Treasury 2016a). The application guidelines 
+webpage held hyperlinks to th e websites of federal regulators, where the program details 
+and an application portal were ultimately accessible  (Treasury 2010a) .5 All of Treasury 
+files were published in either PDF or Excel files. After the application window closed, 
+ 
+4 Under §1204 of Dodd -Frank, the secretary of Treasury was permitted to “establish a multiyear program of 
+grants, cooperative agreements, financial agency agreements, and similar contracts or undertakings to 
+promote initiatives designed: (1.) to enable low - and moderate-income individuals to establish one or more 
+accounts in a federally insured depository institution that are appropriate to meet the financial needs of such 
+individuals; and (2.) to improve access to the provision of accounts, on reasonable terms, for low - and 
+moderate-income individuals” (Dodd-Frank 2010). 
+5 Federal regulators, such as the Office of the Comptroller of the Currency, advertised the CDCI using the main 
+policy details of Treasury’s first press release: CDFI requirements, individual participation limits, low - and 
+fixed-rate dividends , conversion from CPP, and the absence of stock warrants  (Treasury/OCC 2010 ). The 
+narratives presented by regulators appeared consistent with one another.  
+794
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 12 ---
+Treasury announced the CDCI once more via press release on September 30, 2010  
+(Treasury 2010j). 
+The initial response to the announcement of CDCI was mixed because the stated goals of 
+the CDCI were, at first, unclear. As “early public announcements and congressional 
+testimony about the program emphasized that the goal of the program was to increase 
+small business lending,” some prospective applicants expressed concern about the 
+relevance of the CDCI to their operations  (GAO 2011). For example , the National Credit 
+Union Adminis tration and officials from a credit union industry group stressed that their 
+institutions did not make small business loans .6 In subsequent discussions with these 
+officials, Treasury assured applicants that the purpose of the CDCI was “mainly to capitalize 
+[CDFI depositories] so they could achieve their economic development goals”—irrespective 
+of the operations of the CDFI (GAO 2011).  
+4. Administration: Treasury worked with financial regulators to review 
+applications, to monitor outstanding funds, and to wind down investments. 
+Treasury relied on primary financial regulators for assistance through every step of the 
+CDCI’s lifespan. First, Treasury-regulator relati onship was beneficial for Treasury. During 
+the initial application window, potential CDCI participants were required to apply to their 
+regulators (Treasury 2010a). The primary regulators then curated these applicant pools, 
+endorsing the best applicants and  forwarding them to Treasury for review  (Massad and 
+Kashkari 2018). The  combined staff of Treasury and the  primary regulators sought to 
+prescreen institutions for eligibility and viability quickly and fairly  (Massad and Kashkari 
+2018). 
+The CDCI program also helped primary regulators by strengthening some of the 
+institutions they regulated.  In several instances, the CDCI capital prevented prompt 
+corrective action from the primary regulators  (BCFCU/Treasury 2012; CCFCU/Treasury 
+2010; CCFCU/Treasury 2011; NSCFCU/Treasury 2012). 
+Treasury–regulator relationship made it easier for CDFI  depositories to decide whether to 
+apply for funding. The regulators decided whether the CDCI was an appropriate program 
+for the CDFI in question, so the CDFIs could not expend resources by assembling an 
+application to Treasury (Treasury 2010a).  
+5. Governance: Independent assessments on the CDCI were  assigned to the US 
+Government Accountability Office  and to the Special Inspector General for the 
+Troubled Asset Relief Program. 
+The status of the CDCI program as a whole was tracked and reported by both Treasury and 
+the Gover nment Accountability Office  (GAO 2011). As part of the Emergency Economic 
+Stability Act, the GAO had to report to Congress every 60 days on the progress of TARP 
+programs (GAO 2011). Some of these reports described the ongoing status of the CDCI in 
+fine detail ( e.g., discussing the participants’ progress through the entire duration of the 
+program). Other GAO reports were broad and tangentially discussed the CDCI as one of 
+many capital programs. Detailed CDCI statistics (number of institutions repaid v ersus 
+remaining, amount of Treasury capital outstanding, estimated lifetime cost to Treasury, 
+ 
+6 It is not clear whether credit union representatives interpreted the CDCI’s initial goal of “small business 
+lending” as a prerequisite to receive CDCI funding or as a required condition upon receiving CDCI funding  
+(GAO 2011). 
+795
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 13 ---
+etc.) were included in Treasury’s daily TARP updates in early 2011 and monthly reports to 
+Congress after December 2010 (Treasury 2011a; Treasury 2011b). 
+The EESA esta blished the Office of Special Inspector General for the Troubled Asset Relief 
+Program for the purposes of auditing TARP programs  (EESA 2008, sec. 121; SIGTARP n.d.). 
+SIGTARP is a federal law enforcement agency that strives to “prevent fraud and abuse, 
+identify wasteful spending, and drive improvements”  (SIGTARP n.d.). SIGTARP’s quarterly 
+reports contain financial data on the current status of Treasury’s outstanding investments, 
+TARP-related crime, and SIGTARP’s ongoing recommendations for Treasury’s program s 
+(SIGTARP 2014) . These reports contain CDCI investment summaries, details of missed 
+dividend payments, terms of senior securities and dividends, and a history of Treasury’s 
+CDCI contract enforcement (SIGTARP 2014). 
+6. Relevant Regulatory Changes: National Credit Union Administration changed 
+several rules regarding secondary capital to accommodate low-income credit 
+unions (LICUs) that sought capital under the CDCI. 
+Treasury announced the CDCI on February 3, 2010, and on February 19, the National Credit 
+Union Administration published several interim rule changes  regarding secondary capital. 
+The alterations were meant to harmonize NCUA regulations with CDCI terms and to head 
+off regulatory barriers to participation faced by low -income credit unions.  The new rules 
+became effective September 23, 2010 —one week before the CDCI’s funding/exchanges 
+window closed. An industry associate remarked, “Without NCUA’s rapid and well-fashioned 
+regulatory changes, CDCI would never have worked for credit unions” (Rosenthal 2012). 
+The f irst interim rule relaxed redemption schedule limits  for secondary capital obtained 
+through government programs  (NCUA 2010) . According to  12 CFR  § 701.34(d)(3), LICUs  
+could begin to redeem secondary capital (limited to 20% of the original balance) only when 
+the secondary capital accounts had less than  five years of maturity left (NCUA n.d.) . The 
+limit on redemption amount increased as the remaining maturity on the account decreased. 
+However, CDCI injected capital with 13 years of maturity , and a step-up clause kicked in at 
+the eighth year. Therefore, subsection (d)(3)  would have prevented CDCI’s LICU 
+participants from repaying Treasury until after the step -up clauses had  kicked in. The 
+NCUA’s new rule, 12 CFR § 701.34(d)(4), exempted LICUs receiving capital under CDCI 
+from subsection (d)(3) , allowing LICUs to repay the government (and any of the 
+government’s co -investors) in any amount after the first two years of investment . 
+Subsection (d)(4) ’s general  language also applied to future government programs  (NCUA 
+2010). 
+The second interim rule  altered loss distribution procedures for secondary capital 
+accounts, allowing LICUs two methods to subordinate matching secondary capital to 
+government capital provided under the CDCI (NCUA 2010). The purpose was to ensure that 
+the government’s CDCI investment was s enior to—and would absorb losses only after—all 
+other secondary capital . This rule’s language was specific to CDCI and did not apply to 
+other government programs.  
+The final ized interim rules also contained several technical adjustments . For secondary 
+capital accounts with less than five years’ maturity, LICUs were required to report net asset 
+value equal to the lesser of: “(1.) the remaining balance of the account after early 
+redemption and losses; or (2.) the declining percentage calculations set forth in  the net -
+worth schedule that are based on the original balance of the account”  (NCUA n.d.) . The 
+NCUA included this accounting clarification to avoid a scenario in which LICUs that had 
+796
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 14 ---
+partially redeemed CDCI capital could be forced to overstate the net -worth value of the 
+corresponding secondary capital account (NCUA 2010). 
+7. Term: The application window for the CDCI was three months. 
+The application window for the program was about three full months: February 3 through 
+April 30, 2010  (Treasury 2012a) . This window was short because the CDCI needed to be 
+fully functional wi thin TARP’s disbursement period;  Treasury’s funding authority expired 
+on October 3 , 2010  (Treasury 2010i) . Treasury established the application window with 
+the knowledge that it had a f ew months (May through September 2010) for application 
+review, funding, and exchanges (Treasury 2012a). 
+8. Eligible Institutions (1) : Federally regulated  US CDFI depositories were eligible 
+to apply, but Treasury and the regulators selected which ones could pa rticipate 
+in the CDCI, depending on the depository’s viability.  
+The CDCI was available to “banks, savings associations, bank holding companies, savings 
+and loan companies (which engage in solely or predominantly in activities that are 
+permitted for financial holding companies over relevant law), and federally insured low -
+income designated credit unions”  (Treasury 2012a). The basic premise of the CDCI was a 
+securities sale from a CDFI  depository to Treasury, and the primary regulator facilitated 
+the t ransaction at every step. The CDFI first discussed capital needs and the 
+appropriateness of the CDCI with its primary regulator  (Treasury 2010a). Then, the CDFI 
+applied to its primary regulator (through the primary regulator’s website), which then 
+decided whether to pass the CDFI’s application on to Treasury. Upon receiving applications, 
+Treasury discussed the CDFI’s eligibility and viability with the primary regulator to either 
+deny or accept the application.  For state -regulated credit unions, eligibility and viability 
+were decided jointly by state and federal regulators (Treasury 2012a). 
+All TARP applicants were evaluated comprehensively, and overall CDFI financial health was 
+assessed by capital, assets, management, earnings, liquidity, and sensitivity to risk (so -
+called “CAMELS” ratings)  (Massad and Kashkari 2018) . Total application numbers for the 
+CDCI are unknown. 7 If the CDFI  depository agreed to Treasury’s terms and conditions 
+(including Treasury  authority consistent with other TARP legislation), a co ntract was 
+drawn and signed to commence the sale. Treasury document language does not indicate 
+that the CDFI applicant had room to negotiate funding after receiving preliminary 
+acceptance (Treasury 2010a; Treasury 2012a) . Thereafter, the CDFI  depository had to 
+comply with Treasury’s additional reporting requirements and financial restrictions, in 
+addition to the rules issued by the primary regulator.  
+Several CDFI executives, lawyers, and industry insiders reported that the application 
+process was challengi ng ( Guggenheimer 2011 ). They stressed that TARP’s terms and 
+conditions were designed for large banks, creating difficulties for CDFI depositories that 
+lacked in -house lawyers or legal expertise (Rosenthal 2012). Consequently, dozens of 
+ 
+7 Application numbers were reported by some—but not all—regulators. The FDIC reported that it received 64 
+TARP CDCI applications,  forwarded 12 to Treasury, and ultimately enrolled  10 into the CDCI program  (FDIC 
+2011). The Fed reported that 320 institutions applying to Treasury’s Small Business Lending Fund also 
+applied to refinance TARP CPP and CDCI investments, yet 137 were ultimat ely approved for CPP/CDCI (BGFR 
+2012). The NCUA reported that 111 credit unions applied to the NCUA for CDCI funding  (NCUA 2011). While 
+it is a challenge to measure exact program take -up, the bottom line is that Treasury and other regulators 
+denied many applications. 
+797
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 15 ---
+applicants relied on pro bono support to apply to the program and comply with its terms 
+after they were accepted (Guggenheimer 2011). 
+It is worth noting that Treasury never listed preconditions that would prohibit an 
+institution from participating —other than failing to follow the terms outlined i n the CDCI 
+application and documentation. Within the press releases, public FAQ documents, 
+application materials, and the summary of terms documents, Treasury did not address 
+minimum/maximum size of balance sheets, the requirement of participation (once an  
+application was accepted), questions of systemic importance, or any other conditions of 
+ineligibility.  
+9. Eligible Institutions (2) : Institutions that might not otherwise have been 
+approved by their primary regulator could reach viability and become eligible to 
+participate if they could raise capital from  private investors, and were matched 
+with Treasury capital up to 5% of risk-weighted assets (3.5% for credit unions). 
+In some cases, the primary regulator required CDCI recipients to raise capital from priva te 
+markets before they were allowed to secure Treasury funding. As described by Treasury, 
+the regulator could take into account junior private investor capital raised alongside CDCI 
+capital—so long as the private capital was an  amount at least equal to the CDCI funding  
+(Treasury 2012a). If CDCI funding was contingent on a private capital raise, the amount of 
+CDCI funding still could not exceed the CDCI program limits : matching private capital up to 
+5% of risk -weighted assets (3.5% for credit unions). Mor e CDFI  depositories became 
+eligible for the program because the matching capital provision help ed them reach a higher 
+level of viability than what was possible by private capital or Treasury capital alone  
+(Treasury 2010h). The private capital raised had to be junior to Treasury capital.  
+10. Individual Participation Limit: Individual participation limits were dependent on 
+the type of institution. 
+The terms of CDCI’s individual participation limits were similar across banks/thrifts, credit 
+unions, S corporations , and mutual banks (Treasury 2010b). Generally, participants were 
+required to secure private capital only when mandated by their primary regulator. The 
+level of public investments via CDCI could not exceed the level of private co -investment, 
+and private capital had to be subor dinated to the government’s CDCI securities. If a CPP 
+participants wished to exchange CPP capital for CDCI securities, it could do so only after 
+paying off the dividends/interest from Treasury’s prior investment, and applican ts could 
+not have violated any of the CPP terms and conditions before participating the CDCI. The 
+maximum investment amounts can be found in Figure 1. 
+798
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 16 ---
+Figure 1: Maximum CDCI Investment Amount by Type of CDFI Depository 
+ 
+ Banks/Thrifts Credit Unions S Corporations Mutual Banks 
+Maximum 
+investment 
+amount  
+(as % of risk-
+weighted asset) 
+5 3.5 (could not 
+exceed half of 
+the sum of 
+capital and 
+surplus) 
+5 5 (after 
+subtracting 
+other TARP 
+assistance) 
+ 
+Source: Treasury 2010b.  
+Credit unions issued debt in the form of unsecured subordinated debentures, which 
+qualified as Tier 2 (or secondary) capital, to comply with the National Credit Union 
+Administration standards (GAO 2014). The dividend and interest rates were determined by 
+the tax treatment of the given institutions. 
+Banks or thrifts issued perpetual preferred stock shares  (Treasury 2010b). For bank 
+holding companies and savings and loan holding companies, the preferred  stock was 
+cumulative—meaning that the participating bank had to pay Treasury all  dividends owed 
+before paying dividends on any other securities. For banks and thrifts, the preferred stock 
+was noncumulative. Dividends were fixed at a 2% rate until the eighth anniversary of the 
+closing date of the investment and then stepped up to 9% thereafter (Treasury 2010b). 
+Finally, for banks or thrifts, there were no contractual restrictions on transfers of the 
+securities; Treasury reserved the right to sell or auction off these securities  (Treasury 
+2010b). 
+Credit unions  issued unsecured subordinat ed debentures (i.e., debt) with a maturity of 
+either eight or 13 years from the date of the investment  (Treasury 2010e). On the date of 
+maturity, the credit union paid back the principal plus accrued and unpaid interest. This 
+debt paid cumulative interest:  2% annually until the eighth anniversary of the closing date 
+of the investment and 9% annually thereafter (including  a 9% default rate on missed 
+payments from years prior) (Treasury 2010e).  
+S corporations issued unsecured subordinated debentures with a maturity of either 13 
+years for a bank/savings association or 30 years for a bank or savings and loan holding 
+company (Treasury 2010d). On the date of maturity, the S corporation paid back the 
+principal plus accrued and unpaid interest. T he CDCI debt issued by S corporations paid 
+cumulative interest, fixed at a 3.1% interest rate until the eighth anniversary of the closing 
+date of the investment and then 13.8% annually thereafter  (Treasury 2010d). The higher 
+rates made up for the fact that  S corporations banks do not pay corporate taxes  (GAO 
+2014). Assuming a 35% tax rate, these interest rates equated to 2% and 9%, respectively.  
+Mutual banks issued unsecured subordinated debentures with a maturity of 13 years from 
+the date of investment  (Treasury 2010j). On the date of maturity, the mutual bank paid 
+back the principal plus accrued and unpaid interest. As mutual banks also do not  pay 
+corporate taxes, the rates on their debt mirrored the rates on the S corporation debt—3.1% 
+rising to 13.8% after eight years (Treasury 2010j). 
+799
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 17 ---
+11. Dividend/Interest Rates: Dividends/pricing terms were standardized across all 
+participants, and fixed step-up clauses were applied. 
+All interest payments were on a synchronized schedule (payments were made quarterly on 
+February 15, May 15, August 15, and November 15 of each year —on the first business day 
+on/after these dates) (Treasury 2010b).  
+Treasury did not mandate any call options on the debt or warrants on  the shares due to the 
+EESA’s de minimis  exception, which gave Treasury the right to waive warrant 
+requirements for institutions with Treasury investments of $100 million or less  (SIGTARP 
+2010b). 
+If Treasury investment was still standing after eight years,  the institution was prohibited 
+from making common stock dividend payments or repurchases. 8 For credit unions, no 
+special dividends could be declared or paid on any share accounts or other capital 
+instruments. Finally, the CDFI depository could not enter into any transactions with 
+affiliates unless: (1) the transaction was no less favorable to the institution and its 
+subsidiaries than could be obtained from an unaffiliated third party, or (2) the transaction 
+was approved by the audit committee or a compara ble body of independent directors of 
+the CDFI (Treasury 2010b). In addition to the  preliminary agreements, data privileges, and 
+capital caveats, Treasury relied on independent evaluators to track the CDCI. 
+The step -up clauses associated with CDCI capital were fixed and transparent from the 
+announcement of the program  (GAO 2016a). This increase in dividend/interest rates was 
+Treasury’s attempt to transition CDFI depositories from public to private  funding after 
+eight years (GAO 2016a).   
+12. Other Conditions (1): Participating CDFI depositories were subject to various 
+terms, and the CDCI securities held seniority within CDFI payment schedules. 
+Any participating CDFI depository was required to “make representations and warranties 
+described in various Treasury agreements”  (Treasury 2010a). Among the conditions of 
+participation in the CDCI was the requirement that “the applicant (and its covered officers 
+and employees) agree to comply with the rules, regulations, and guidance of Treasury with 
+respect to executive compensation, transparency, accountability and monito ring, as 
+published and in effect at the time of the investment closing” (Treasury 2010a). 
+In the publicly available “summary of terms” documents, Treasury let applicants know 
+what data the CDFI depositories were expected to report after receiving CDCI fund s 
+(Treasury 2010b). As long as Treasury held at least 10% of its initial investment, the CDFI 
+depository had to allow Treasury (along with Treasury’s affiliates) to manage, evaluate, or 
+transfer Treasury’s investment. Treasury also had the right to examine  and make copies of 
+the CDFI’s corporate books, and to discuss the affairs, finances, and accounts with the 
+CDFI’s principal officers (Treasury 2010b).  
+ 
+8 When Treasury purchased preferred shares from banks or thrifts, questions arose regarding what to do 
+about stock dilution for other shareholders. CDCI literature indicates that one of the acceptable scenarios in 
+which a bank or thrift was abl e to repurchase its own shares was if/when CDCI participation dilute d share 
+prices and inadvertently reduce d employee benefits as a result  (Treasury 2010c ). In this case, the CDFI 
+bank/thrift was able to  repurchase shares to offset (but not exceed) the sha re dilution amount —“consistent 
+with past practice” (Treasury 2010c). 
+800
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 18 ---
+Treasury reserved the right to request and access the information through the institution’s 
+federal reg ulator. While Treasury funds were outstanding, the CDFI  depository had to 
+deliver an audited consolidated balance sheet of the fiscal year, and audited consolidated 
+statements of income, retained earnings, and cash flows (prepared with generally accepted 
+accounting principles, or in comparative form from the previous fiscal year)  (Treasury 
+2010b). The CDFI  depository was also required to deliver copies of any quarterly reports 
+given to equity/debt holders. If the CDFI depository was ever audited or received  an 
+assessment on its internal controls, a copy of the assessment had to be delivered to 
+Treasury as well.  
+Finally, the CDFI depository had to complete an annual survey that detailed how it utilized 
+the capital as well as the effects of the capital on its operations and status —this was known 
+as a “capital survey” (Treasury 2010b). Though there was no language about stress tests or 
+triage within CDCI documents, all TARP participants were expected to maintain “good 
+standing” as part of Treasury’s ongoing evaluation of CDCI participants.9 
+With the exception of credit union capital, the CDCI capital terms required CDCI capital to 
+maintain seniority over comparable securities issued by the CDFI  depository. This 
+prioritized the repayment of taxpayer dollars amongst other stakeholders.  
+Banks or thrifts issued preferred shares that were senior to common stock and pari passu 
+(the same ranking) with existing or future authorized and issued preferred shares, and 
+senior to preferred shares which (by their terms) rank ed junior to any existing or future 
+authorized and issued preferred shares (Treasury 2010b).  
+Credit unions issued unsecured subordinated debentures that constituted secondary 
+capital accounts rather than equity ownership (Treasury 2010e). Credit unions are mutual 
+organizations whose members are shareholder -depositors (Fay n.d.). As such, they do not 
+have common equity investors  comparable to those in commercial banks. For credit 
+unions, secondary capital accounts are analogous to common stock, and subordinated debt 
+is a form of secondary capital (GAO 2014). As secondary capital accounts, the CDCI credit 
+union debt was subordinated to all other claims against the credit union, including those of 
+creditors, shareholders, and the National Credit Union Share Insurance Fund (Treasury 
+2010e). The CDCI credit unio n debt was not subject to restoration or replenishment under 
+any circumstances, and it was available to cover operating losses (that exceeded net 
+available reserves) realized by the credit union (Treasury 2010e).  
+S corporation debt ranked senior to the S corporation’s common stock (and any other class 
+of equity permitted to the institution by law) (Treasury 2010d). The S corporations 
+subordinated CDCI debt to: (1) claims of depositors and other debt obligations to general 
+and secured creditors (if the S corporation was a bank or savings association), or (2) senior 
+debt (if the S corporation was a bank or savings and loan holding company).  
+Mutual bank debt ranked senior to mutual capital certificates and other capital instruments 
+authorized under state law (Treasury 2010j). A mutual bank’s debt could be subordinated 
+to claims of depositors and to the mutual bank’s other debt obligations to its general and 
+secured creditors, unless  these obligations were made explicitly pari passu or subordinate 
+to the CDCI securities.  
+ 
+9 “Good standing” refers to “material compliance with all the terms, conditions, and covenants of any TARP 
+financial instrument, but not limited to, executive compensation requirements, reporting requirements, and 
+payment of dividends or interest” (Treasury 2010a). 
+801
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 19 ---
+13. Other Conditions (2): CDCI executive compensation was congruent with TARP 
+legislation. 
+Participating CDFI depositories with  company sizes of  one to 25 employees  could not 
+distribute bonuses, depending on the size of the TARP assistance package —with 
+exceptions for grandfathered bonuses . Stock bonuses could only be paid out in 25% 
+increments alongside the repayment of TARP funds  (Treasury 2010g). There were to be no 
+golden parachutes for the senior executives (or five most highly compensated employees 
+after them) if there were still TARP funds outstanding. Senior executive bonuses (and those 
+of the next 20 highest paid employees) could be subject  to clawback if it was discovered 
+that these bonuses were based on inaccurate metrics. Tax gross -ups could not be paid to 
+the senior executives (or the next 20 most highly compensated employees). The board had 
+to adopt an excessive or luxury expenditures p olicy and post the policy on the institution’s 
+website. The board also had to create a compensation committee of independent directors 
+who reviewed and evaluated compensation plans twice per year to insulate the institution 
+from unnecessary risks, and this  committee had to file annual certifications and 
+disclosures. The chief executive officer  and chief financial officer  had to file annual 
+certifications covering compliance with the executive compensation and corporate 
+governance requirements. If the instit ution had securities registered with the US Securities 
+and Exchange Commission, then shareholders had to be provided with an annual advisory 
+vote on executive compensation (“say on pay”).  
+14. Fate of the Management: CDCI securities were nonvoting, but i n the event of 
+excessive nonrepayment of dividend or interest, Treasury gained voting rights 
+and could replace board members. 
+The CDCI securities were  all issued with nonvoting rights.  For banks, thrifts, and mutual 
+banks, the exceptions to the nonvoting rights were class voting rights on: (1) any 
+authorization or issuance of capital shares ranking senior to the CDCI preferred stock, (2) 
+any amendment to the rights of CDCI preferred stock, or (3) any 
+merger/exchange/dissolution/transaction that would adversely af fect the rights of the 
+CDCI preferred stock (Treasury 2010b).  
+In the event of excessive nonrepayment  (any dividend /interest not paid in  full for eight 
+periods), Treasury gained voting rights and could place  two individuals on the  CDFI 
+depository’s board of directors —as w as the case for  banks/thrifts, S corporation s, and 
+mutual banks (Treasury 2010b). Election rights ended when the dividends were paid in full 
+for four consecutive periods. There were no voting or membership rights  whatsoever for 
+CDCI debt from credit unions (Treasury 2010e). Mutual bank debt was subject to additional 
+“state restrictions” (any state law that restrict ed the voting rights of CDCI debt that could 
+not be modified, waived, or otherwise removed by the appropriate state authorities)  
+(Treasury 2010j). 
+802
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 20 ---
+15. Exit Strategy (1): Events of default included receivership, conservatorship, or 
+liquidation. 
+If a CDFI  depository wholly defaulted on its debt, the principal and accrued interest were 
+made immediately due an d payable once the event of default  transpired. If a credit union 
+defaulted, the National Credit Union Administration place d the credit union into 
+receivership, conservatorship, or liquidation  (Treasury 2010e). For state-chartered credit 
+unions, the approp riate Social Security Administration conducted this event  (Treasury 
+2010e). S corporations and mutual banks faced similar consequences by  their respective 
+regulators (Treasury 2010d). Bank (or savings and loan) holding companies could declare 
+bankruptcy and place any major bank subsidiary into receivership (Treasury 2010d). 
+16. Exit Strategy (2): Treasury considered various exit options but decided in 2016 
+to enable early repurchases at a discount. 
+Weighing the CDFI interests while protecting taxpayer investments, Treasury considered 
+several options for each institution to exit the program.  In August 2016, after the GAO 
+noted Treasury’s lack of an exit strategy, Treasury implemented a program that al lowed 
+institutions to buy back their capital at a discount (Montano 2016). 
+While Treasury preferred that the CDFI  depositories simply paid back the investments in 
+full, partial repayment was possible if the amount was the lesser of 5% of the original 
+injection or  $100,000 (Robinson 2017). The majority of CDFI  depositories paid back by 
+repurchasing the capital outright.  
+Treasury conducted auctions as part of its wind -down strategy for the CPP and 
+acknowledged that this was also an option for the CDCI (GAO 2016a). However, the 
+possibility of auctions was contingent on investor demand for the securities, the quality of 
+the underlying financial institutions, and the approval of primary regulators (GAO 2016a).  
+Debt restructuring was also an option but not with respect to the interest rates on CDCI 
+securities themselves: “Treasury officials noted that, [as of June 2016], they [had] no plans 
+to alter the terms of the program’s rates unless a financial institution was distressed and 
+unable to pay the increased  rate. Treasury officials stated that the increases were designed 
+to encourage institutions to replace public capital with private capital within a reasonable 
+amount of time (8 years) and were a cornerstone of the CDCI program” (GAO 2016a).  
+Restructuring was an option only for distressed CDCI participants that were first willing 
+and able to raise new capital from outside investors (or a merger)  (GAO 2016a). Through 
+the inclusion of a private investor, Treasury received cash or other securities that might b e 
+sold more easily than preferred stock, but the restructured investments were sometimes 
+sold at a discount to par value. Treasury officials noted that Treasury would approve 
+restructurings for CDCI only if the terms represented a fair and equitable financ ial outcome 
+for taxpayers. 
+For the purposes of “winding down TARP programs in a manner that balances speed of exit 
+with maximizing returns to the taxpayer,” Treasury took proposals from CDCI participants 
+to repurchase their outstanding securities at fair v alue (Montano 2016) . Since fair value 
+was typically10 calculated at a discount 7% or 8% under the notional value, this provided 
+ 
+10 One CDFI depository received a 20% discount; M&F Bancorp, Inc. repurchased its preferred shares at $800 
+per share on December 20, 2016 (Treasury 2019c).  
+803
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 21 ---
+CDCI participants with an incentive to pay back early; without the discount , they would 
+have a strong incentive to retain the ch eap CDCI capital until the step -up date  in 2018 , 
+when it would suddenly become very expensive. In November 2016, SIGTARP 
+recommended to Treasury that it not indicate what discount Treasury would accept; this 
+would help Treasury ensure the highest possible taxpayer repayment  (SIGTARP 2017). 
+This early repurchase initiative accepted applications betwe en August 1 and December 9, 
+2016 (Montano, McArdle, and Hall 2016). According to the GAO report released during this 
+period, each CDFI  depository must have proposed to repurchase at least 50 % of their 
+outstanding CDCI securities for Treasury to sign on  (GAO 2016b). One early repurchaser, 
+Arkansas-based Southern Bancorp, described the early repurchase terms as “very 
+favorable” (Southern Bancorp 2017). By the end of the early repurchase period, 27 of the 
+57 CDCI participants remaining in 2016 had used it ; 26 institutions fully repaid and one 
+partially repaid their CDCI investments (Treasury 2019c).  
+III. Evaluation 
+There are three types of evaluations for the CDCI: (1) CDFI associates and participants 
+offering anecdotes on the overall attractiveness of the program, (2) SIGTARP criticiz ing 
+Treasury’s oversight of the investments, and (3) GAO and  a few academics explor ing the 
+effects of the program on participants’ financial health and behavior. 
+Several CDFI repr esentatives have claimed that the announcement of CDFI-targeted TARP 
+funds inspired many depositories to pursue CDFI certification, in part, because they wanted 
+to qualify for CDCI funding  (Gambrell 2011; Ratigan 2014 ; Rosenthal 2012 ). Treasury’s 
+CDFI Fund certified or recertified nearly 200 of the then-total 931 CDFIs in 2010, including 
+95 in the last two months of the CDCI’s application period (Gambrell 2011). Of the 20 banks 
+that received  CDFI certification in 2010, 18 received CDCI funds (Longworth and 
+Newberger 2011). From the CDCI’s  $570.1 million disbursement , more than $500 million 
+went to CDFI banks —61% of this subset went to CDFI banks  certified in 2010 (Longworth 
+and Newberger 2011). A similar dynamic played out for CDFI credit unions; of the 48 credit 
+unions that received CDCI investments, 15 were certified during the first nine months of 
+2010 (Rosenthal 2012). The CDCI’s popularity is evidenced by the high number of 
+institutions that pursued CDFI certification during the program’s application  period, the 
+fact that almost half of CDCI participants  were newly certified  CDFIs, and the majority 
+disbursed funds having gone to newly certified CDFIs. 
+Heads of CDFI depositories have praised the CDCI because the additional funds allowed 
+them to extend more credit to their clients . According to interviews conducted with CDFI 
+banks, they pursued CDFI certification, in part,  to qualify for programs such as the CDCI , 
+which served as a valuable source of capital  (Longworth and Newberger 2011). From a 
+CDFI bank’s perspective, the CDCI offered tier -1 capital at rates that were cheap compared 
+to other TARP funds  (Longworth and Newberger 2011). The relatively low cost of capital 
+enabled CDFI banks to make loans and investments that they otherwise might not  have 
+been able to make (City First Bank of DC 2010; Longworth and Newberger 2011). Similarly, 
+several heads of CDFI credit unions suggested that they used CDCI capital to meet 
+increased credit demand from nonprofit  organizations, underbanked communities, and 
+customers that were otherwise underserved by traditional lenders (Abello 2021; Rosenthal 
+2012). CDFI banks and credit unions alike recognized that signing up to receive secondary 
+capital from the government meant more legal fees and interest costs , which they knew 
+were meant to encourage  repayment within eight years  (Rosenthal 2012; Surgeon et al. 
+2020). Though the CDCI’s terms of repayment and complianc e made the  temporary loan 
+less attractive to CDFI depositories  than grants, which  represented permanent equity that 
+804
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 22 ---
+did not have to be repaid, the CDCI was still appealing because it was a single capital source 
+much larger than what was normally available to CDFI depositories  through grants, fiscal 
+transfers, and other related programs (Rosenthal 2012). 
+According to SIGTARP, Treasury failed to enforce mandatory use of capital reporting, so it 
+is challenging to determine whether CDCI funds were used as intended or not  (Rehm 2011; 
+SIGTARP 2014). Robinson (2017)  criticizes the CDCI’s weakly positive effects on CDFI  
+depositories’ small bu siness lending, but lending was only one of many measures used to 
+assess CDFI financial health (Massad and Kashkari 2018). Pana and Wilson (2012) find that 
+credit unions eligible for TARP funds were more likely to participate in CDCI if they were 
+headquartered in the district of a US House Financial Services C ommittee member. 
+Treasury officials who oversaw the selection process say they sought to head off any 
+political pressure: “all Congressional calls and input were directed to [political appointees] 
+and kept away from those reviewing applications”  (Massad and Kashkari 2018). These 
+officials suggest that all TARP applicants were evaluated comprehensively, and overall 
+CDFI financial health was assessed by CAMELS ratings (Massad and Kashkari 2018). 
+The program’s primary objective was changed from fostering small business lending 
+(through CDFI  depositories) to broadly helping participants achieve their independent 
+goals. At the program’s announcement in February 2010, it was portrayed as a prog ram to 
+help “Community Development Financial Institutions (CDFIs) that lend to small businesses  
+in the country’s hardest-hit communities” (emphasis added) (Treasury 2010h). At its onset, 
+Treasury repeatedly advertised the CDCI as a program for “small busin ess lending” —a 
+phrase that occurs several times throughout the initial press release and public messages. 
+After Treasury heard the concerns of potential CDCI applicants that did not specialize in 
+small business lending, it revised its message about the CDCI’s objective to something more 
+inclusive: “to capitalize CDFIs to carry out their economic development goals”  (GAO 2011). 
+After initially claiming that small business lending was the primary objective of the CDCI 
+(and the primary metric of success), Treasury deferred to CDFI  depositories for a 
+subjective measure of success via self -reporting.11, 12 This shift became an issue when CDFI  
+depositories failed to report their mandatory use of capital because Treasury did not know 
+what a large portion (in 2012, the majority) of CDCI participants were doing with Treasury 
+funds throughout the lifespan of the program  (SIGTARP 2014). Treasury relied on the CDFI 
+depositories to set their own goals, failed to hold participants accountable through 
+reporting standards that were mandated by CDCI contracts, and did not enforce its own 
+voting rights after interest/dividend payments were skipped.  With respect to the initial 
+objective, limited research shows that the CDCI did not spur CDFI  depositories to extend 
+more small business loans (Robinson 2017).  
+In a 2014 quarterly report to Congress, the Special Inspector General for the Troubled 
+Asset Relief Program highlighted oversight issues in Treasury’s handling of CDCI. An 
+increasing number of CDCI participants f ailed to submit the use of capital survey —a 
+mandatory part of receiving Treasury funding  (SIGTARP 2014). Of the 84 CDCI 
+participants, 14 did not send the annual use of capital survey in 2010, 22 in 2011, and 56 in 
+2012. “Never once in the history of the CDCI program have all 84 CDCI banks and credit 
+ 
+11 This notion is reinforced by the absence of any question about “small business lending” i n the annual use of 
+capital surveys (Treasury 2019a). 
+12 In his exit interview, former SIGTARP Neil Barofsky discusses similar issues with the CPP: “What is 
+Treasury’s response [to the lack of lending]? They changed the goal. The [new] goal was to make mone y. The 
+CPP, according to Treasury officials, by any objective measure was a success. What about the objective 
+measure that you announced, to restore lending? It didn’t work. But again, if you change your goals along the 
+way you get to declare everything a success. That doesn’t make it a good government program” (Rehm 2011). 
+805
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 23 ---
+unions complied with the contractual requirement to report  annually to Treasury on the 
+use of their funds” ( SIGTARP 2014). If Treasury did not understand the financial decision -
+making of participating institutions,  the report went,  then Treasury could not offer sound 
+advice/guidance to help them achieve their subjective goals, or accurately gauge the overall 
+success of this program (SIGTARP 2014). Former SIGTARP Neil Barofsky complained about 
+this issue in his 2011 exit interview and suggested that Treasury “should have required 
+lenders to disclose how TARP funds were used” (Rehm 2011). 
+Treasury also failed to act consistently on its own right to attend board meetings and 
+appoint directors in the event of consecutive missed interest/dividend payments (SIGTARP 
+2014). In the instance of PGB Holding, Inc., the CDCI pa rticipant had missed 12 Treasury 
+dividend payments, yet by April 2014, Treasury had failed to place any Treasury 
+representatives on the company’s board  (SIGTARP 2014). On the other hand, when  First 
+American International Corp . missed enough payments to war rant a Treasury observer at 
+its board meetings , Treasury requested an observer  in February 2013 . “The bank rejected 
+Treasury’s request, but subsequently paid the missing dividends”; Treasury’s intent to 
+enforce securities contracts led to better compliance.  Treasury also sent observers to Tri -
+State Bank and Carver Bancorp (SIGTARP 2017). 
+Despite the equ ivocation of program goals, some scholars researched the CDCI under the 
+original premise of small business lending. Robinson (2017) analyzes the financial data of 
+CDCI participants and determines that small business loan growth is positively correlated 
+with high levels of bank capital, liquidity, and high ratios of business loans  to assets 
+(Robinson 2017). Furthermore, growth in business loans is associated with declines in 
+asset quality and increases in profitability. Comparing CDCI participants to minority-owned 
+banks, the paper concludes that “growth in small business lending is strongest among CDCI 
+participants, but participation in the CDCI does not ensure stronger growth in small 
+business lending for any year after participation in the CDCI.” 
+On the ba sis of small business lending growth, the paper dubs the CDCI a “failure” and 
+attributes that failure to the lack of financial incentive s to encourage participants to 
+originate more small  business loans  (Robinson 2017). However, the study lumps all CDFI 
+depositors together—rather than focus ing on those whose stated purpose was to provide 
+small business loans—and includes those that specialize d in other financial  products like 
+mortgage loans or small personal loans. 
+The financial health of most CDCI partic ipants improved since they received investments.  
+Between the end of 2011 and March 31, 2016 —a time when most participants were still in 
+the program—the median of five of six financial health indicators improved (GAO 2016a).13 
+However, the median of two financial health indicators weakened after December 2014. 
+ 
+13 These indicators include:  
+(1.) the Texas ratio, which helps determine the likelihood of a bank’s failure by comparing its troubled 
+loans to its capital and is calculated by dividing a  bank’s nonperforming assets plus loans 90 or more 
+days past due by its tangible equity and reserves. Lower Texas ratios indicate stronger financial health. 
+(2.) Noncurrent loan percentage, which is the sum of loans and leases 90 days or more past due and in 
+nonaccrual status. Lower noncurrent loan percentages indicate stronger financial health. (3.) The net 
+charge-offs to average loans ratio is the total dollar amount of loans and leases charged off (removed 
+from balance sheet because of uncollect ability), less amounts recovered on loans and leases previously 
+charged off divided by the average dollar value of loans outstanding for the period. Lower net charge -off 
+to average loans ratios indicate stronger financial health. (4.) The return on average assets m easure 
+shows how profitable a bank is relative to its total assets and how efficiently management uses its assets 
+806
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 24 ---
+The average institution took about 2,078 days to exit the CDCI. 14 After interviewing CDCI 
+participants, industry insiders, and federal regulators, the GAO offers a few explanations 
+for the program length: CDFI depositories waited until cheaper capital was available before 
+returning to the private market  and relied on CDCI capital to further expand operations, 
+and some were wary of current and future ( e.g.: Basel III regulatory reforms) capital 
+requirements (GAO 2014).  
+According to CCFCU/Treasury capital surveys from 2010 through 2017, o f the  two 
+institutions still on Treasury’s balance sheet, each appears to use Treasury for two broad 
+purposes: to comply with one’s primary financial regulation, and to expand financial 
+services and products (CCFCU/Treasury 2010 – 2017). 
+  
+ 
+to generate earnings. It is calculated by dividing a bank’s net income by the average of its assets over a 
+specific period, such as a quarter or year. Higher returns on average assets indicate stronger financial 
+health. (5.) Common equity tier 1 ratio is a bank’s equity capital excluding any preferred shares, retained 
+earnings, and disclosed reserves as a share of risk -weighted assets. Higher co mmon equity tier 1 ratios 
+indicate stronger financial health. (6.) Reserve to nonperforming loans are the funds a bank holds to 
+cover loan losses divided by loans that are 90 days or more past due. Higher reserves to nonperforming 
+loans indicate stronger financial health. 
+14 This number does not include the CDCI participants remaining as of July 2019 (Treasury 2019b). 
+807
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 25 ---
+IV. References 
+Abello, Oscar Perry. 2021. “Treasury to Make a $9 Billion Down Payment on a More 
+Decentralized Banking System.” Next City, January 5, 2021.   
+https://ypfs.som.yale.edu/library/treasury-make-9-billion-down-payment-more-
+decentralized-banking-system. 
+Barr, Michael S. 2010. “Community Development Financial Institutions (CDFIs): Their 
+Unique Role and  Challenges Serving Lower -Income, Underserved, and Minority 
+Communities.” US Department of Treasury. Written testimony before the House Financial 
+Services Committee, March 9, 2010.   
+https://ypfs.som.yale.edu/library/assistant-secretary-financial-institutions-michael-s-
+barr-written-testimony-house-financial. 
+Board of Governors of the Federal Reserve System  (BGFR). 2012. “Annual Report 2011, 
+Supervision and Regulation.” July 11, 2012.   
+https://ypfs.som.yale.edu/library/frb-annual-report-2011-supervision-and-regulation. 
+Buffalo Cooperative Federal Credit Union and US Department of Treasury 
+(BCFCU/Treasury). 2012. “Capital Survey.”   
+https://ypfs.som.yale.edu/library/buffalo-cooperative-federal-credit-union-2012-capital-
+survey. 
+Center for Regional Economic Competitiveness and Cromwell Schmisseur  (CREC/CS). 
+2016. Program Evaluation of the US Department of Treasury State Small Business Credit 
+Initiative. Washington, DC: US Department of Treasury, October 13, 2016.   
+https://ypfs.som.yale.edu/library/program-evaluation-state-small-business-credit-
+initiative. 
+City First Bank of DC. 2010. “City First Bank Only DC Area Bank to Receive $5.8 Million 
+from US Treasury Department’s Community Developme nt Capital Initiative to Stimulate 
+Lending.” Press release, September 23, 2010.   
+https://ypfs.som.yale.edu/library/city-first-bank-only-dc-area-bank-receive-58-million-
+us-treasury-departments-community. 
+Community Development Financial Institution Fund  (CDFI Fund) . n.d. -a. “About Us.” 
+Accessed December 2, 2020.   
+https://ypfs.som.yale.edu/library/cdfi-fund-website-about-us. 
+———. n.d. -b. “CDFI Fund Programs Overview.” Accessed December 2, 2020.  
+https://ypfs.som.yale.edu/library/community-development-financial-institutions-fund-
+programs-overview. 
+———. n.d. -c. “CDFI History Graphic.” Accessed December 2, 2020.  
+https://ypfs.som.yale.edu/library/community-development-financial-institutions-history-
+graphic. 
+———. n.d. -d. “How Do the CDFI Fund’ s Programs Work?” Accessed December 2, 2020.  
+https://ypfs.som.yale.edu/library/how-do-cdfi-funds-programs-work. 
+808
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 26 ---
+Cooperative Center Federal Credit Union and US Department of Treasury 
+(CCFCU/Treasury). 2010. “Capital Survey.”   
+https://ypfs.som.yale.edu/library/cooperative-center-federal-credit-union-2010-capital-
+survey. 
+———. 2011. “Capital Survey.”   
+https://ypfs.som.yale.edu/library/cooperative-center-federal-credit-union-2011-capital-
+survey. 
+———. 2013. “Capital Survey.”   
+https://ypfs.som.yale.edu/library/cooperative-center-federal-credit-union-2013-capital-
+survey. 
+———. 2014. “Capital Survey.”   
+https://ypfs.som.yale.edu/library/cooperative-center-federal-credit-union-2014-capital-
+survey. 
+———. 2015. “Capital Survey.”   
+https://ypfs.som.yale.edu/library/cooperative-center-federal-credit-union-2015-capital-
+survey. 
+DC Federal Credit Union and US Department of Treasury (DCFCU/Treasury). 2010. “Capital 
+Survey.”   
+https://ypfs.som.yale.edu/library/dc-federal-credit-union-2010-capital-survey. 
+———. 2012. “Capital Survey.”   
+https://ypfs.som.yale.edu/library/dc-federal-credit-union-2012-capital-survey. 
+———. 2013. “Capital Survey.”   
+https://ypfs.som.yale.edu/library/dc-federal-credit-union-2013-capital-survey. 
+———. 2014. “Capital Survey.”   
+https://ypfs.som.yale.edu/library/dc-federal-credit-union-2014-capital-survey. 
+———. 2015. “Capital Survey.”   
+https://ypfs.som.yale.edu/library/dc-federal-credit-union-2015-capital-survey. 
+———. 2016. “Capital Survey.”   
+https://ypfs.som.yale.edu/library/dc-federal-credit-union-2016-capital-survey. 
+———. 2017. “Capital Survey.”   
+https://ypfs.som.yale.edu/library/dc-federal-credit-union-2017-capital-survey. 
+Dodd-Frank Wall Street Reform and Consumer Protection Act  of 2010 (Dodd-Frank). 2010. 
+Public Law 111–203, 124 Stat. 1376, July 21, 2010.   
+https://ypfs.som.yale.edu/node/2521. 
+Emergency Economic Stabilization Act  of 2008  (EESA). 2008. Public Law 110 –343, 122 
+Stat. 3765, October 3, 2008.   
+https://ypfs.som.yale.edu/node/3365. 
+809
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 27 ---
+Executive Office of the President of the United States, Office of Management and Budget  
+(OMB). 2015. Analytical Perspectives, Budget of the United States Government , Fiscal Year 
+2015. Washington, DC: US Government Printing Office.  
+https://ypfs.som.yale.edu/library/analytical-perspectives-budget-united-states-
+government-fiscal-year-2015. 
+Fay, Bill. n.d. “Banks, Credit Unions & Savings Institutions – What Are the Differences.” 
+Debt.Org. Accessed November 24, 2020.   
+https://ypfs.som.yale.edu/library/banks-credit-unions-savings-institutions. 
+Federal Deposit Insurance Corporation  (FDIC). 2011. “Annual Report 2010, Management’s 
+Discussion and Analysis.” May 5, 2011.   
+https://ypfs.som.yale.edu/library/fdic-2010-annual-report-managements-discussion-and-
+analysis. 
+Gambrell, Donna J. 2011.  “Archived Message from the Director.” US Department of 
+Treasury, Community Development Financial Institutions Fund, January 1, 2011.   
+https://ypfs.som.yale.edu/library/cdfi-fund-archived-message-director-january-1-2011. 
+Guggenheimer, Elizabeth M. 2011. “ Focusing on Pro Bono: Economic Recovery Pro Bono.” 
+American Bar Association, Business Law Today, September 30, 2011.   
+https://ypfs.som.yale.edu/library/focusing-pro-bono-economic-recovery-pro-bono. 
+Longworth, Susan, and Robin Newberger. 2011. “Recently Ce rtified CDFI Banks and the 
+CDFI Banking Sector.”  Federal Reserve Bank of Chicago,  ProfitWise News and Views , 
+December 2011.   
+https://ypfs.som.yale.edu/library/recently-certified-cdfi-banks-and-cdfi-banking-sector. 
+Massad, Timothy G ., and Neel T . Kashkari. 2018. “Implementing TARP: The Administrative 
+Architecture of the Troubled Assets Relief Program.” Brookings Institution, Yale Program 
+on Financial Stability, September 11, 2018.   
+https://ypfs.som.yale.edu/node/3929. 
+Montano, Trevor. 2016. “CDCI Early Repurchase Option.” US Department of Treasury, letter 
+to participants, August 1, 2016.   
+https://ypfs.som.yale.edu/library/cdci-early-repurchase-letter-participants. 
+Montano, Trevor, Mark McArdle, and Justin Hall. 2016. “CDCI Early Repurchase Option  
+Deadline Extension Notification .” US Department of Treasury, letter to participants, 
+November 18, 2016.   
+https://ypfs.som.yale.edu/library/cdci-early-repurchase-option-deadline-extension-
+notification. 
+National Credit Union Administration (NCUA). n.d. Designation of Low Income Status; 
+Acceptance of Secondary Capital Accounts by Low -Income Designated Credit Unions . 
+Accessed 12 CFR § 701.34. April 26, 2021.   
+https://ypfs.som.yale.edu/library/12-cfr-ss-70134. 
+———. 2010. “Secondary Capital Accounts.” Federal Register  75, no. 184 (September 23, 
+2010): 57841–44.   
+https://ypfs.som.yale.edu/library/national-credit-union-administration-12-cfr-part-701. 
+810
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 28 ---
+———. 2011. Annual Report 2010: Reliance and the Road Ahead. Alexandria, VA: NCUA.  
+https://ypfs.som.yale.edu/library/national-credit-union-administration-2010-annual-
+report. 
+North Side Community Federal Credit Union and US Department of Treasury 
+(NSCFCU/Treasury). 2012. “Capital Survey.”   
+https://ypfs.som.yale.edu/library/north-side-community-federal-credit-union-2012-
+capital-survey. 
+Office of the Special Inspector General for the Troubled Asset Relief Program (SIGTARP). 
+n.d. Website: “About Us.” Accessed December 7, 2020.   
+https://ypfs.som.yale.edu/library/sigtarp-about-us-webpage. 
+———. 2010a. Quarterly Report to Congress. Washington, DC: SIGTARP, April 20, 2010.   
+https://ypfs.som.yale.edu/library/sigtarp-quarterly-report-congress-april-20-2010. 
+———. 2010b. Quarterly Report to Congress. Washington, DC: SIGTARP, July 21, 2010.   
+https://ypfs.som.yale.edu/library/sigtarp-quarterly-report-congress-july-21-2010. 
+———. 2010c. Quarterly Report to Congress . Washington, DC: SIGTARP, October 26, 2010.   
+https://ypfs.som.yale.edu/library/sigtarp-quarterly-report-congress-october-26-2010. 
+———. 2014. “Banks and Credit Unions in Tarp’s CDCI Program Face Challenges.” 
+Quarterly Reports to Congress, Washington, DC: SIGTARP, April 30, 2014.   
+https://ypfs.som.yale.edu/library/banks-and-credit-unions-tarps-cdci-program-face-
+challenges. 
+———. 2017. Quarterly Report to Congress . Washington, DC: SIGTARP, January 27, 2017.   
+https://ypfs.som.yale.edu/library/sigtarp-quarterly-report-congress-january-27-2017. 
+Pana, Elisabeta, and Linus Wilson. 201 2. “Political Influence and TARP Investments in 
+Credit Unions.” Quarterly Journal of Finance 2, no. 4: 1–26.   
+https://ypfs.som.yale.edu/library/political-influence-and-tarp-investments-credit-unions. 
+Ratigan, Terry. 2014. “CDFI Certification: A Building Block for Credit Union Growth.” Credit 
+Union National Association, Community Credit Union Committee White Paper, May 2014.   
+https://ypfs.som.yale.edu/library/cdfi-certification-building-block-credit-union-growth. 
+Rehm, Barbara A. 2011. “On Way Out, Barofsky Has Harsh Words for Treasury and About 
+Tarp.” American Banker, March 27, 2011.   
+https://ypfs.som.yale.edu/library/way-out-barofsky-has-harsh-words-treasury-and-
+about-tarp. 
+Robinson, Breck L. 2017. “A Capital Infusion Program for Community Development: The 
+Case of the Community Development Capital Initiative.” Board of Governors of the Federal 
+Reserve System, Partnership for Progress.   
+https://ypfs.som.yale.edu/library/capital-infusion-program-community-development-
+case-community-development-capital. 
+Rosenthal, Clifford. 2012. “Credit Unions, Community Development Finance, and the Great 
+Recession.” Federal Reserve Bank of San Francisco , Community Development Investment 
+Center Working Paper No. 2012–01 (February).   
+https://ypfs.som.yale.edu/library/credit-unions-community-development-finance-and-
+great-recession. 
+811
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 29 ---
+Small Business Jobs Act  of 1010  (SBJA). 2010. Public  Law 111 –240, 124 Stat. 2504,  
+September 27, 2010.   
+https://ypfs.som.yale.edu/library/small-business-jobs-act-2010. 
+Southern Bancorp. 2017. “Annual Report 2016.” June 9, 2017.  
+https://ypfs.som.yale.edu/library/southern-bancorp-2016-annual-report. 
+Surgeon, George P., Laurie J. Spengler, Darrin L. Williams, Radek Halamka, and Nathan 
+Pittman. 2020. “Raising Core Equity Capital for Community Development Banks — A New 
+Capital Model.” Insights from Southern Bancorp’s Capital Campaign.  
+https://ypfs.som.yale.edu/library/raising-core-equity-capital-community-development-
+banks-new-capital-model. 
+US Department of Treasury (Treasury). 2010a. “Application Guidelines for TARP 
+Community Development Capital Initiative.”   
+https://ypfs.som.yale.edu/library/cdci-application-guidelines. 
+———. 2010b. “Community Development Capital Initiative : CDFI Bank/Thrift Senior 
+Preferred Stock Summary of CDCI Senior Preferred Terms.”   
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-cdfi-
+bankthrift-senior-preferred-stock-summary. 
+———. 2010c. “Form of Certificate of Designations of Fixed Rate Non -Cumulative 
+Perpetual Preferred Stock.”   
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-bankthrift-
+certificate-designation-fixed-rate-non. 
+———. 2010d. “Obama Administration Announces Enhancements for TARP Initiative for 
+Community Development Financial Institutions.” Press release, February 3, 2010.   
+https://ypfs.som.yale.edu/library/obama-administration-announces-enhancements-tarp-
+initiative-community-development-financial. 
+———. 2010e. “Community Development Capital Initiative : CDFI Mutual Depository 
+Institutions Senior Securities Summary of Terms of CDCI Senior Securities.” April 26, 2010.   
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-cdfi-mutual-
+depository-institutions-senior. 
+———. 2010f. “Community Development Capital Initiative : CDFI Subchapter S Corporation 
+Senior Securities Summary of Terms of CDCI Senior Securities.” April 26, 2010.   
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-cdfi-
+subchapter-s-corporation-senior-securities. 
+———. 2010g. “Community Development Capital Initiative : CDFI Credit Unions Senior 
+Securities Summary of Terms of CDCI Senior Securities.” April 27, 2010.   
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-cdfi-credit-
+unions-senior-securities-summary-cdci. 
+———. 2010h. “Form of Certificate of Designations of Fixed Rate Cumulative Perpetual 
+Preferred Stock.” Stock certificate, April 27, 2010.   
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-bankthrift-
+certificate-designation. 
+———. 2010i. “Memorandum to CDCI Participants.” September 6, 2010.   
+https://ypfs.som.yale.edu/library/memorandum-cdci-participants. 
+812
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 30 ---
+———. 2010j. “Treasury Announces Special Financial Stabilization Initiative Investments 
+of $570 Million in 84 Community Development Financial Institutions in Underserved 
+Areas.” Press release, September 30, 2010.   
+https://ypfs.som.yale.edu/library/treasury-announces-special-financial-stabilization-
+initiative-investments-570-million-84. 
+———. 2011a. “Daily TARP Update (Figures as of 02/09/2011).” February 9, 2011.   
+https://ypfs.som.yale.edu/library/document/daily-tarp-update-figures-02092011. 
+———. 2011b. “Troubled Asset Relief Program (TARP): Monthly 105(a) Report – 
+December 2010.” January 10, 2011.   
+https://ypfs.som.yale.edu/library/troubled-asset-relief-program-tarp-monthly-105a-
+report-december-2010. 
+———. 2012a. “Community D evelopment Ca pital Initiative : Program Purpose and 
+Overview.” July 21, 2012.   
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-program-
+purpose-and-overview. 
+———. 2012b. “Community Development Capital Initiative : Frequently Asked Questions.” 
+November 15, 2012.   
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-frequently-
+asked-questions. 
+———. 2015. “Community Development Capital Initiative : Program Status.” December 11, 
+2015.  
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-program-
+status. 
+———. 2016a. “Bank Investment Programs: Program Purpose and Overview.” November 
+15, 2016.   
+https://ypfs.som.yale.edu/library/bank-investment-programs-program-purpose-and-
+overview. 
+———. 2016b. “TARP Programs.” November 15, 2016.   
+https://ypfs.som.yale.edu/library/tarp-programs. 
+———. 2016c. “Community Development Capital Initiative Webpage.” November 18, 2016.   
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-webpage. 
+———. 2019a. “Use of Capital Survey : Annual Use of Capital Survey, 2017 – Capital 
+Purchase Program and Community Development Capital Initiative.” July 24, 2019.   
+https://ypfs.som.yale.edu/library/cdci-cpp-use-capital-survey. 
+———. 2019b. TARP Monthly Report to Congress , July 2019 . Washington, DC: US 
+Department of Treasury, August 12, 2019.   
+https://ypfs.som.yale.edu/library/tarp-monthly-report-congress-july-2019. 
+———. 2019c. Monthly Report to Congress, August 2019. Washington, DC: US Department of 
+Treasury, September 10, 2019.   
+https://ypfs.som.yale.edu/library/tarp-monthly-report-congress-august-2019. 
+813
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 31 ---
+———. 2020. Monthly Report to Congress, October 2020. Washington, DC: US Department of 
+Treasury, November 10, 2020.   
+https://ypfs.som.yale.edu/library/tarp-monthly-report-congress-october-2020. 
+US Department of Treasury and Office of the Comptroller of the Currency  (Treasury/OCC). 
+2010. “Road to Recovery: Banks Can Use Recovery Act to Pave the Way.” Community 
+Developments: Investments, Spring 2010.   
+https://ypfs.som.yale.edu/library/occ-spring-2010-newsletter-road-recovery-banks-can-
+use-recovery-act-pave-way. 
+US Government Accountability Office  (GAO). 2011. “Troubled Asset Relief Program: Status 
+of Programs and Implementation of GAO Recommendations.” Report to Congressional 
+Addressees, GAO-11-74, January 2011.   
+https://ypfs.som.yale.edu/library/troubled-asset-relief-program-status-programs-and-
+implementations-gao-recommendations. 
+———. 2014. “Community Development Capital Initiative: Status of the Prog ram and 
+Financial Health of Remaining Participants.” Report to Congressional Committees, GAO-14-
+579, June 2014.   
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-status-
+program-and-financial-health-remaining. 
+———. 2016a. “Trouble d Asset Relief Program: Most Community Development Capital 
+Initiative Investments Remain Outstanding.” Report to Congressional Committees, GAO-16-
+626, July 2016.   
+https://ypfs.som.yale.edu/library/troubled-asset-relief-program-most-community-
+development-capital-initiative-investments. 
+———. 2016b. “Troubled Asset Relief Program: New Effort to Wind Down the Community 
+Development Capital Initiative.” Report to Congressional Committees, GAO-17-96, 
+November 2016.   
+https://ypfs.som.yale.edu/library/troubled-asset-relief-program-new-effort-wind-down-
+community-development-capital-initiative. 
+V. Key Program Documents 
+Summary of Program 
+(Treasury 2012a ) US Department of Treasury (Treasury). 2012a. “Community 
+Development Capital Initiative: Program Purpose and Overview.” July 21, 2012.  
+Describes Treasury’s focus on Community Development Financial Institutions (CDFIs), which 
+faced challenges to obtaining credit during the economic downturn.  
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-program-
+purpose-and-overview. 
+(Treasury 2016 c) US Department of Treasury (Treasury). 2016c. “Community 
+Development Capital Initiative Webpage.” November 18, 2016.  
+Treasury’s directory of webpages describing the CDCI program.  
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-webpage. 
+814
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 32 ---
+(Treasury 2019a) US Department of Treasury (Treasury). 2019 a. “Use of Capital Survey : 
+Annual Use of Capital Survey, 2017 – Capital Purchase Program and Community 
+Development Capital Initiative.” July 24, 2019.  
+Describes how CDCI program participants used  the funds that they received from Treasury . 
+https://ypfs.som.yale.edu/library/cdci-cpp-use-capital-survey. 
+Implementation Documents 
+(Massad and Kashkari 2018) Massad, Timothy G ., and Neel T . Kashkari. 2018. 
+“Implementing TARP: The Administrative Architecture of the Troubled Assets Relief 
+Program.” Brookings Institution, Yale Program on Financial Stability , September 11, 2018 . 
+Describes the design features of TARP, including the application process of CDCI . 
+https://ypfs.som.yale.edu/node/3929. 
+(Treasury 2010a) US Department of Treasury (Treasury). 2010 a. “Application Guidelines 
+for TARP Community Development Capital Initiative.”   
+Describes eligible institutions, conditions for participation, assets purchased by Treasury, 
+other information, and confidentiality.  
+https://ypfs.som.yale.edu/library/cdci-application-guidelines. 
+(Treasury 2010b) US Department of Treasury (Treasury). 2010 b. “Community 
+Development Capital Initiative: CDFI Bank/Thrift Senior Preferred Stock Summary of CDCI 
+Senior Preferred Terms.”  
+Describes the terms of participation for CDFI banks and thrifts . This document also describes 
+the terms of the securities that Treasury was willing to purchase.  
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-cdfi-
+bankthrift-senior-preferred-stock-summary. 
+(Treasury 2010c) US Department of Treasury (Treasury). 2010 c. “Form of Certificate of 
+Designations of Fixed Rate Non-Cumulative Perpetual Preferred Stock.”  
+Template of the legal contract that the bank/thrift was required to sign before participating 
+in the CDCI program —specifically for the issuance of noncumulative perpetual preferred 
+stock. 
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-bankthrift-
+certificate-designation-fixed-rate-non. 
+(Treasury 2010f) US Department of Treasury (Treasury). 2010f. “Community Development 
+Capital Initiative : CDFI Subchapter S Corporation Senior Securities Summary of Terms of 
+CDCI Senior Securities.” April 26, 2010.  
+Describes the terms of participation for CDFI S corporations . This document also describes the 
+terms of the securities that Treasury was willing to purchase.  
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-cdfi-
+subchapter-s-corporation-senior-securities. 
+815
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 33 ---
+(Treasury 2010 g) US Department of Treasury (Treasury). 2010 g. “Community 
+Development Capital Initiative : CDFI Credit Unions Senior Securities Summary of Terms of 
+CDCI Senior Securities.” April 27, 2010.  
+Describes the capital terms for credit unions participating in the CDCI program . The 
+information covers: the issuer, initial holder, security, size of the offering, ranking, regulatory 
+capital, maturity, interest rate, redemption, restric tions on dividends and redemptions, 
+remedies upon event of default, voting rights, closing conditions, CDFI covenants, access and 
+information, events of default, transparency legislation, affiliate transactions, and warrants . 
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-cdfi-credit-
+unions-senior-securities-summary-cdci. 
+(Treasury 2010 h) US Department of Treasury (Treasury). 2010 h. “Form of Certificate of 
+Designations of Fixed Rate Cumulative Perpetual Preferred Stock.”  Stock certificate, April 
+27, 2010.  
+Template of the legal contract that the bank/thrift was required to sign before participating 
+in the CDCI program —specifically for the issuance of cumulative perpetual preferred stock . 
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-bankthrift-
+certificate-designation. 
+(Treasury 2010 i) US Department of Treasury (Treasury). 2010 i. “Memorandum to CDCI 
+Participants.” September 6, 2010.  
+Treasury issued a note about executive compensation and corporate gover nance 
+requirements, net operating losses, and affirmative and negative covenants for CDCI 
+participants. 
+https://ypfs.som.yale.edu/library/memorandum-cdci-participants. 
+(Treasury 2012 b) US Department of Treasury (Treasury). 2012 b. “Community 
+Development Cap ital Initiative : Frequently Asked Questions.”  November 15, 2012.  
+Treasury answered common questions about CDCI program participation, terms of 
+repayment, and the application process.  
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-frequently-
+asked-questions. 
+Legal/Regulatory Guidance 
+(Dodd-Frank 2010) Dodd-Frank Wall Street Reform and Consumer Protection Act  of 2010 
+(Dodd-Frank). 2010. Public Law 111–203, 124 Stat. 1376, July 21, 2010.  
+Legislation limiting Treasury’s total TARP funding to $475 billion.  
+https://ypfs.som.yale.edu/node/2521. 
+(EESA 2008) Emergency Economic Stabilization Act of 2008 (EESA). 2008. Public Law 110–
+343, 122 Stat. 3765, October 3, 2008.  
+Legislation g ranting Congress the authority to purchase trouble d assets from financial 
+institutions. The EESA legally authorized the CDCI.  
+https://ypfs.som.yale.edu/node/3365. 
+(NCUA n.d.) National Credit Union Administration (NCUA). n.d. Designation of Low Income 
+Status; Acceptance of Secondary Capital Accounts by Lo w-Income Designated Credit Unions . 
+12 CFR § 701.34. 12 CFR § 701.34. Accessed April 26, 2021.  
+Describes the redemption schedule for secondary capital and other capital limits faced by low-
+income credit unions.  
+https://ypfs.som.yale.edu/library/12-cfr-ss-70134. 
+816
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 34 ---
+(NCUA 2010) National Credit Union Administration (NCUA). 2010. “Secondary Capital 
+Accounts.” Federal Register  75, no.  184 (September 23, 2010 ): 57841 –44. 
+Describes the NCUA’s regulatory changes for the treatment of secondary capital accounts . 
+NCUA eased limits on redemption and allowed credit unions to subordinate other secondary 
+capital to the government’s CDCI capital.  
+https://ypfs.som.yale.edu/library/national-credit-union-administration-12-cfr-part-701. 
+Press Releases/Announcements 
+(Montano 2016) Montano, Trevor. 2016. “CDCI Early Repurchase  Option.” US Department 
+of Treasury, August 1, 2016.  
+Describes the option for CDCI participants to repurchase capital early at a discount . 
+https://ypfs.som.yale.edu/library/cdci-early-repurchase-letter-participants. 
+(Montano, McArdle, and Hall 2016) Mon tano, Trevor, Mark McArdle, and Justin Hall. 2016. 
+“CDCI Early Repurchase Option Deadline Extension Notification.”  US Department of 
+Treasury, letter to participants, November 18, 2016.  
+Describes the extension of the window for the early repurchase of CDCI capital . 
+https://ypfs.som.yale.edu/library/cdci-early-repurchase-option-deadline-extension-
+notification. 
+ (Treasury 2010 d) US Department of Treasury (Treasury). 2010. “Obama Administration 
+Announces Enhancements for TARP Initiative for Community Development Financial 
+Institutions.” Press release, February 3, 2010.  
+Announces the opportunity for Community Development Financial Institutions (CDFIs) to 
+participate in the Troubled  Assets Relief Program (TARP) . This opportunity was the 
+Community Development Capital Initiative (CDCI) . CDCI capital had more favorable terms 
+than those available through the Capital Asset Purchase (CAP) program.  
+https://ypfs.som.yale.edu/library/obama-administration-announces-enhancements-tarp-
+initiative-community-development-financial. 
+(Treasury 2010 j) US Department of Treasury (Treasury). 2010. “Treasury Announces 
+Special Financial Stabilization Initiative Investments of $570 Million in 84 Community 
+Development Financial Institutions in Underserved Areas.”  Press release, September 30, 
+2010.  
+Describes the total disbursement of Treasury’s CDCI program and a profile of the recipients . 
+https://ypfs.som.yale.edu/library/treasury-announces-special-financial-stabilization-
+initiative-investments-570-million-84. 
+Media Stories 
+(Barr 2010) Barr, Michael S. 2010. “Community Development Financial Institutions 
+(CDFIs): Their Unique Role and Challenges Serving Lower -Income, Underserved, and 
+Minority Communities.” US Department of Treasury. Written testimony before the House 
+Financial Services Committee, March 9, 2010.  
+Describes the role of Community Development Financial Institutions (CDFIs) in serving lower -
+income, underserved, and minority communities.  
+https://ypfs.som.yale.edu/library/assistant-secretary-financial-institutions-michael-s-
+barr-written-testimony-house-financial. 
+(Guggenheimer 2011) Guggenheimer, Elizabeth M. 2011. “Focusing on Pro Bono: Economic 
+Recovery Pro Bono.” American Bar Association, Business Law Today, September 30, 2011.  
+Highlights efforts by Lawyers Alliance of New York to secure federal lo ans under the Troubled 
+817
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 35 ---
+Assets Relief Program for community development credit unions in underserved communities 
+The CDCI’s participants relied heavily on pro bono legal support to apply to the program and 
+to meet compliance standards.  
+https://ypfs.som.yale.edu/library/focusing-pro-bono-economic-recovery-pro-bono. 
+(Treasury/OCC 2010) US Department of Treasury and Office of the Comptroller of the 
+Currency (Treasury/OCC). 2010. “Road to Recovery: Banks Can Use Recovery Act to Pave 
+the Way.” Community Developments: Investments, Spring 2010.  
+Advertises the CDCI program to qualifying CDFIs, and highlight s the main features of 
+Treasury program.  
+https://ypfs.som.yale.edu/library/occ-spring-2010-newsletter-road-recovery-banks-can-
+use-recovery-act-pave-way. 
+ Key Academic Papers  
+(GAO 2011) US Government Accountability Office (GAO). 2011. “Troubled Asset Relief 
+Program: Status of Programs and Implementation of GAO Recommendations.” Report to 
+Congressional Addressees, GAO-11-74, January 2011.  
+Describes the initial market response to the Community Development Capital Initiative . 
+https://ypfs.som.yale.edu/library/troubled-asset-relief-program-status-programs-and-
+implementations-gao-recommendations. 
+(GAO 2014) US Government Accountability Office (GAO). 2014. “C ommunity Development 
+Capital Initiative: Status of the Program and Financial Health of Remaining Participants.” 
+Report to Congressional Committees, GAO-14-579, June 2014.  
+Describes the status of the CDCI program as of April 30, 2014 . The report covers: the decrease 
+in the estimate d lifetime cost of the program, how market conditions would affect Treasury’s 
+exit strategy, and the mixed health of remaining participants.  
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-status-
+program-and-financial-health-remaining. 
+(GAO 2016a) US Government Accountability Office (GAO). 2016 a. “Troubled Asset Relief 
+Program: Most Community Development Capital Initiative Investments Remain 
+Outstanding.” Report to Congressional Committees, GAO-16-626, July 2016.  
+Describes the status of the CDCI program, the financial health of the remaining participants, 
+and the amount of capital outstanding after Treasury offered to repurchase capital early . 
+https://ypfs.som.yale.edu/library/troubled-asset-relief-program-most-community-
+development-capital-initiative-investments. 
+(Longworth and Newberger 2011)  Longworth, Susan, and Robin Newberger. 2011. 
+“Recently Certified CDFI Banks and the CDFI Banking Sector.”  Federal Reserve Bank of 
+Chicago, ProfitWise News and Views, December 2011.  
+Contains excerpts of interviews with heads of CDFIs who applied to Treasury’s CDCI program . 
+https://ypfs.som.yale.edu/library/recently-certified-cdfi-banks-and-cdfi-banking-sector. 
+(Robinson 2017) Robinson, Breck L. 2017. “A Capital Inf usion Program for Community 
+Development: The Case of the Community Development Capital Initiative.” Board of 
+Governors of the Federal Reserve System, Partnership for Progress.  
+Investigates the CDCI, the characteristics of the participants, and their subse quent small 
+business lending behavior. The authors argue that participation in the CDCI program did not 
+lead to the desired result: an increase in small business lending by participating banks . 
+https://ypfs.som.yale.edu/library/capital-infusion-program-community-development-
+case-community-development-capital. 
+818
+US Community Development Capital Initiative (CDCI) Kulam
+
+--- Page 36 ---
+(Rosenthal 2012) Rosenthal, Clifford. 2012. “Credit Unions, Community Development 
+Finance, and the Great Recession.” Federal Reserve Bank of San Francisco , Community 
+Develo9pment Investment Center  Working Paper  No. 2012–01 (February).  
+Describes the size of the CDCI relative to other federal programs geared toward credit unions, 
+and explains the challenges that credit unions faced in applying to the CDCI . 
+https://ypfs.som.yale.edu/library/credit-unions-community-development-finance-and-
+great-recession. 
+Reports/Assessments 
+(BGFR 2012) Board of Governors of the Federal Reserve System (BGFR). 2012. “Annual 
+Report 2011, Supervision and Regulation.” July 11, 2012.  
+Describes the total number of applicatio ns to the US Treasury’s CDCI and CAP programs . 
+https://ypfs.som.yale.edu/library/frb-annual-report-2011-supervision-and-regulation. 
+(CREC/CS 2016) Center for Regional Economic Competitiveness and Cromwell Schmisseur 
+(CREC/CS). 2016. Program Evaluation of t he US Department of Treasury State Small 
+Business Credit Initiative. Washington, DC: US Department of Treasury, October 13, 2016.  
+Describes Treasury’s actions to assist small businesses outside of its TARP initiatives. 
+https://ypfs.som.yale.edu/library/program-evaluation-state-small-business-credit-
+initiative. 
+(FDIC 2011) Federal Deposit Insurance Corporation  (FDIC). 2011. “Annual Report 2010, 
+Management’s Discussion and Analysis.” May 5, 2011.  
+Describes the FDIC’s involvement in evaluating applications f or participation in Treasury’s 
+CDCI program.  
+https://ypfs.som.yale.edu/library/fdic-2010-annual-report-managements-discussion-and-
+analysis. 
+(Gambrell 2011) Gambrell, Donna J. 2011. “Archived Message from the Director.” US 
+Department of Treasury, Community Development Financial Institutions Fund , January 1, 
+2011.  
+Describes community financial institutions’ interest in pursuing Treasury’s CDCI program . 
+https://ypfs.som.yale.edu/library/cdfi-fund-archived-message-director-january-1-2011. 
+(NCUA 2011)  National Credit Union Administration (NCUA). 2011. Annual Report 2010 : 
+Reliance and the Road Ahead. Alexandria, VA: NCUA.  
+Describes the 111 credit unions that applied to the National Credit Union Administration 
+(NCUA) for CDCI funding.  
+https://ypfs.som.yale.edu/library/national-credit-union-administration-2010-annual-
+report. 
+(SIGTARP 2010a) Office of the Special Inspector General for the Troubled Asset Relief 
+Program (SIGTARP). 2010 a. Quarterly Report to Congress . Washington, DC: SIGTARP, April 
+20, 2010.  
+Describes the extension of the CDCI program’s initial application window from February to 
+the end of April 2010.  
+https://ypfs.som.yale.edu/library/sigtarp-quarterly-report-congress-april-20-2010. 
+(SIGTARP 2010b) Office of the Special Inspector General for the Troubled Asset Relief 
+Program (SIGTARP). 2010 b. Quarterly Report to Congress . Washington, DC: SIGTARP, July 
+21, 2010.  
+819
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 37 ---
+Describes the application totals for Treasury’s CDCI program.  
+https://ypfs.som.yale.edu/library/sigtarp-quarterly-report-congress-july-21-2010. 
+(SIGTARP 2010c) Office of the Special Inspector General for the Troubled Asset Relief 
+Program (SIGTARP). 2010 c. Quarterly Report to Congress . Washington, DC: SIGTARP, 
+October 26, 2010.  
+Describes the total disbursement and number of participants in Treasury’s CDCI program . 
+https://ypfs.som.yale.edu/library/sigtarp-quarterly-report-congress-october-26-2010. 
+(SIGTARP 2014) Office of the Special Inspector General for the Troubled Asset Relief 
+Program (SIG TARP). 2014. “Banks and Credit Unions in Tarp’s CDCI Program Face 
+Challenges.” Quarterly Reports to Congress , Washington, DC: SIGTARP, April 30, 2014 . 
+Describes Treasury’s inability to collect information from CDCI program participants . The 
+report also con tains CDCI investment summaries, details of missed dividend payments, terms 
+of senior securities and dividends, and a history of Treasury’s CDCI contract enforcement . 
+https://ypfs.som.yale.edu/library/banks-and-credit-unions-tarps-cdci-program-face-
+challenges. 
+(SIGTARP 2017) Office of the Special Inspector General for the Troubled Asset Relief 
+Program (SIGTARP). 2017. Quarterly Report to Congress . Washington, DC: SIGTARP, 
+January 27, 2017.  
+Describes SIGTARP’s recommendations to Treasury to conceal its disc ount rates for the early 
+purchase of CDCI capital.  
+https://ypfs.som.yale.edu/library/sigtarp-quarterly-report-congress-january-27-2017. 
+(Treasury 2015) US Department of Treasury (Treasury). 2015. “Community Development 
+Capital Initiative : Program Status.”  December 11, 2015.  
+Describes the number of institutions remaining in the CDCI program on December 11, 2015, 
+and expresses Treasury’s willingness to wind down the program.  
+https://ypfs.som.yale.edu/library/community-development-capital-initiative-program-
+status. 
+ 
+Copyright 2019, 2021 © Yale University. All rights reserved. To order copies of this material or to 
+receive permission to reprint any or all of this document, please contact the Yale Program on 
+Financial Stability at ypfs@yale.edu.  
+ 
+820
+US Community Development Capital Initiative (CDCI) Kulam

@@ -1,0 +1,1632 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 7 Issue 2 
+2025 
+How US Bank Regulation Failed SVB and Its Supervisors How US Bank Regulation Failed SVB and Its Supervisors 
+Greg Feldberg 
+YPFS, Yale School of Management 
+Carey K. Mott 
+Center on Global Energy Policy, Columbia University 
+Jill Cetina 
+Mays Business School, Texas A&M University 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Finance and Financial Management Commons, Law and Economics Commons, Policy Design, Analysis, 
+and Evaluation Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Feldberg, Greg; Mott, Carey K.; and Cetina, Jill (2025) "How US Bank Regulation Failed SVB and Its 
+Supervisors," Journal of Financial Crises: Vol. 7 : Iss. 2, 313-355. 
+DOI: https://doi.org/10.17132/2693-3179.1658 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/12 
+This Note is brought to you for free and open access by the Journal of Financial Crises and EliScholar – A Digital 
+Platform for Scholarly Publishing at Yale. For more information, please contact journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This note is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/
+iss2/12
+
+--- Page 3 ---
+POLICY NOTE 
+ 
+ 
+How US Bank Regulation Failed SVB and Its Supervisors1 
+Greg Feldberg,2 Carey K. Mott,3 and Jill Cetina4  
+June 25, 2025 
+Abstract 
+It is well known that Silicon Valley Bank  (SVB) failed in March 2023 because of a toxic 
+combination of uninsured deposits and underwater securities. This article argues that the 
+bank’s failure could have been avoided if SVB had been subject to two global standards 
+established by the Basel Committee on Banking Supervision. First, the interest-rate risk in 
+the banking book ( IRR-BB) standard, never fully implemented in the United States, would 
+have identified the bank’s extremely risky asset-liability management strategy and required 
+remedial action 10 quarters before it failed. Second, the liquidity coverage ratio (LCR), from 
+which US regulators had exempted banks of SVB’s size, would have required the bank to hold 
+tens of billions of dollars more liquidity at least four quarters before it failed. The article also 
+argues that the Federal Deposit Insurance Corporation would have saved USD 13.6 billion if 
+SVB and other banks that failed in 2023 had been subject to the Basel Committee’s total loss-
+absorbing capacity (TLAC) standard , which requires banks to issue bonds that can be 
+converted to equity . SVB’s failure resulted in official s ector protection of uninsured 
+depositors through the US authorities’ invoking of the systemic risk exception and the 
+Federal Reserve’s creation of the Bank Term Funding Program. Given public expectation of 
+government and central bank policy intervention in a crisis and elevated levels of US public 
+sector debt, bank supervision must emphasize ex  ante crisis prevention.  The conclusion is 
+that US bank regulation needs to include quantitative limits on interest-rate risk, liquidity 
+risk, and TLAC for more US  banks—not just the systemic US banks. Such rules are 
+particularly important given ongoing risks related to still above-target inflation, Treasury 
+market fragility,  growing risks to investor confidence in Treasuries, and the Fed’s use of 
+unconventional monetary policy, which increases the volatility of both US banking system 
+liquidity and uninsured deposits.  
+ 
+Keywords: bank regulation , bank supervision , interest-rate risk, liquidity coverage rati o, 
+Silicon Valley Bank, total loss-absorbing capacity  
+ 
+1 This note builds on five blog posts that were originally published on the Yale School of Management’s Systemic 
+Risk blog between March and July 2023.  
+2 Greg Feldberg, Director of Research, Yale Program on Financial Stability  (YPFS), Yale School of Management. 
+3 Carey K. Mott, Research Assistant with the Center on Global Energy Policy , Columbia University, and former 
+Senior Research Associate, YPFS.  
+4 Jill Cetina, Associate Director of Commercial Banking and Executive Professor of Finance, Mays Business 
+School, Texas A&M University. 
+313
+
+--- Page 4 ---
+POLICY NOTE 
+ 
+ 
+I. Introduction 
+Silicon Valley Bank (SVB) was the first big US bank to fail since the Global Financial Crisis of 
+2007–09. The two factors that coincided for SVB and caused the run  on the bank were its 
+extraordinary overreliance on deposits that were not insured by the Federal Deposit 
+Insurance Corporation (FDIC), on the one hand, and the significant amount of unrealized 
+losses the bank had on long-term securities, on the other. When the bank announced a stock 
+sale to raise funds to cover realized losses on some securities, the market quickly turned its 
+attention to the much larger unrealized losses on the bank’s books and uninsured depositors 
+began to worry that their money was at risk. Within t wo days, the bank experienced an 
+extraordinarily swift deposit run and regulators shut it down. 
+SVB’s Bad Gamble, in Short 
+SVB sowed the seeds of its failure during the COVID-19 crisis, when massive government 
+fiscal stimulus and Federal Reserve quantitative easing created a surge in reserves at the Fed 
+and uninsured deposits for the entire banking system.  The venture capital industry, SVB’s 
+core clientele, boomed, and SVB’s management saw a profitable trade—they took those low-
+interest deposits from clients and invested in residential mortgage-backed securities (MBS) 
+with maturities of more than 10 years. Deposits rose 65% in 2020 and 85% in 2021; SVB’s 
+holdings of residential mortgage-backed securities rose 90% in 2020 and 250% in 2021. Per 
+Figure 1, most of SVB’s securities holdings were mortgage -backed securities, classified as 
+held-to-maturity (HTM), with maturities of more than 10 years. It also had a smaller portfolio 
+of available-for-sale (AFS) securities, mostly Treasuries with maturities of less than 10 years 
+(Figure 1). 
+Figure 1: SVB’s Gamble on Long-Term Securities (USD billions) 
+ 
+Sources: Company financial reports; YPFS analysis. 
+314
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 5 ---
+POLICY NOTE 
+ 
+ 
+For a while, the bank’s investment strategy was profitable, and the equity market celebrated 
+SVB. One widely read financial blog published an article in May 2021 titled “SVB Financial 
+Group is the Best Bank Stock Nobody’s Talking About. ” The author noted the bank’s stock 
+had more than doubled over the past year, and went on to say: 
+A best-ever quarter in the first period of 2021 underpins the stock’s performance, but 
+this story is far from over. The future remains bright for this banker of the ‘innovation 
+economy.’ . . . Basically, even though average interest rates are far lower now than they 
+were pre-pandemic, Silicon Valley Bank’s assets and loans have grown so much they’re 
+still netting more in interest income despite the low rate environment. (Rossolillo 2021) 
+SVB’s stock continued to rise in 2021, peaking at more than four times its 2020 low. But the 
+party was soon over. In response to significantly above -target inflation, the Fed raised the 
+benchmark federal funds rate rapidly in 2022, resulting in mark -to-market losses on SVB’s 
+huge portfolio s of negatively convex long-term mortgage -backed securities and US 
+Treasuries. By the end of the year, it had USD 15 billion in unrealized losses on those 
+securities, almost equal to its entire equity capital (Figure 2). The ventur e capital industry 
+also slowed down, leading SVB’s customers to withdraw cash. SVB’s deposits fell 9%, putting 
+net interest income under pressure, as the bank replaced lost deposits with more expensive 
+wholesale funding. 
+Figure 2: SVB’s Accumulating Unrealized Losses (USD billions) 
+ 
+Sources: Company financial reports; YPFS analysis. 
+Of course, m ark-to-market losses on held -to-maturity securities do not have to be 
+debilitating if a bank has sufficient other liquidity and is able to hold those securities to 
+maturity, implying that  its assets and liabilities are well  matched. But in SVB’s case, they 
+weren’t. In a few days in March 2023, the bank fell apart rapidly. On March 8, SVB announced 
+it had sold USD 21 billion of US Treasuries that ha d been booked as available -for-sale, 
+315
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 6 ---
+POLICY NOTE 
+ 
+ 
+virtually its entire AFS portfolio—presumably to meet pressing liquidity needs—and that it 
+planned to raise USD 2.25 billion in new capital to cover the realized losses on those sales.  
+There would be no buyers for that  equity raise. The stark reality that the bank now had no 
+further options to raise liquidity than to sell held-to-maturity securities, which would result 
+in the immediate realization of much larger losses, sent the bank in a tailspin. SVB had not 
+pledged those securities to use as collateral at the Fed’s discount window or with lenders in 
+the repo, or repurchase agreement, market . Still, it  is unlikely that this would have been 
+sufficient to cover the bank’s growing depositor demands . SVB d epositors withdrew USD 
+42 billion on March 9 and sought another USD 100 billion the next morning, Friday, March 
+10. Regulators took over the bank during the day on Friday, an extraordinary move , but 
+unavoidable given the circumstances. 
+With the full benefit of hindsight, the bank’s failure appears inevitable. Most of the securities 
+it owned paid fixed rates and had maturities of more than 10 years. It was simple financial 
+math that they would lose value quickly if inflation got out of hand and the Fed raised interest 
+rates. Yet, the bank’s management didn’t think that would happen. They expressed the view 
+during 2021 and 2022 that they were prepared for further Fed rate cuts, not rate hikes. Their 
+portfolio reflected a huge one -way bet on lower rates . SVB  also believed their newfound 
+deposits were stable. 
+The Thought Experiment: Prudential Rules in Hindsight 
+This paper asks whether certain rules, if they had applied to SVB, could have prevented SVB’s 
+management from taking that huge one-way bet on interest rates. 
+It is clear from Figures 1 and 2 that SVB’s entire securities portfolio was locked in by the 
+second half of 2021, a year and a half before its failure, as was its heavy reliance on uninsured 
+deposits for funding. Sometime in 2021, the bank could have prevented its eventual demise 
+by taking steps to avoid  or mitigate those risk concentrations. For example, it could have 
+declined deposits to avoid further rapid balance  sheet growth. It already managed a 
+substantial amount of its customers’ cash off its own balance sheet, in money market funds. 
+The managed cash was roughly equal to the bank’s on-balance-sheet, uninsured deposits. To 
+avoid taking excessive risks with uninsured deposits, management could have simply 
+decided to place much more of its customers’ cash off its balance sheet, in money market 
+funds, rather than accepting billions of dollars of deposits on its balance sheet. Alternatively, 
+it could have held these balances at the Fed or in much shorter-term securities to avoid such 
+a large exposure to rising interest rates.  
+Either strategy would have resulted in lower profits in the short term. But it  is the role of 
+bank management and the board to prudently manage the trade -off between short -term 
+profits and long -term viability. It  is also the role of bank supervisors to identify excessive 
+risk-taking that could compromise a bank’s safety and soundness. Thus, a key focus of the 
+public discussion after SVB and two other large US banks failed in 2023 was whether 
+weaknesses in supervision or regulation had been part of the problem.  
+316
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 7 ---
+POLICY NOTE 
+ 
+ 
+We focus our analysis on a discrete and arguably answerable question: If certain regulations 
+had been in place and enforced, would they have made a difference? Could these regulations 
+have prevented the dramatic risk management failures at SVB and related failures of 
+supervisory oversight if regulators had applied them to the bank two or three years earlier? 
+More specifically , could they have prevented  the massive accumulation of uninsured 
+deposits and held-to-maturity securities on SVB’s balance sheet? 
+Our conclusion, with the obvious benefit of hindsight, is that better prudential regulation 
+could have made a difference. We focus  on two global standar ds established by the Basel 
+Committee on Banking Supervision (BCBS) that were not applied to SVB or the other US 
+banks that failed in 2023, Signature and First Republic:  
+• In Section II, we show that t he interest-rate risk  in the banking book ( IRR-BB) 
+standard, never fully implemented in the United States, would have identified SVB’s 
+extremely risky asset -liability management (ALM) strategy and required remedial 
+action 10 quarters before it failed.  
+• In Section III, we show that th e liquidity coverage ratio (LCR), from which US 
+regulators had exempted banks of SVB’s size, would have required the bank to hold 
+tens of billions of dollars more cash at least four quarters before it failed.  
+This article also shows, in Section IV, that SVB would have appeared sound under the other 
+Basel liquidity standard, the net stable funding ratio (NSFR). We argue that this result 
+reflects potential weaknesses in the NSFR standard. 
+Section V argues that the FDIC would have saved USD 13.6 billion if SVB and other banks that 
+failed in 2023 had been subject to the Basel Committee’s total loss -absorbing capacity 
+(TLAC) standard, which requires banks to issue debt that can be bailed in to support the 
+bank’s resolution.  
+II. Interest-Rate Risk in the Banking Book  
+The transformation of depositors’ savings into investments  is foundational to banking and 
+permits higher levels of economic growth. But that transformation also creates challenges 
+for asset-liability management owing to the typical maturity mismatch between short-term 
+deposits and longer-term loans and securities. Changes in the level of interest rates can affect 
+a bank’s profitability and economic value in complex ways. Poor management of that 
+interest-rate risk has been at the root o f past financial crises, most notably the US savings 
+and loan (S&L) crisis of the early 1980s.  
+US Reluctance to Implement the Basel Standard 
+In 2004, the Basel Committee on Banking Supervision developed a global standard for the 
+management of interest-rate risk in the banking book (BCBS 2004) . It strengthened that 
+317
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 8 ---
+POLICY NOTE 
+ 
+ 
+standard in 2016 on the expectation that interest rates, then near all -time lows, would 
+eventually rise (BCBS 2016a). 
+The BCBS IRR-BB standard uses measures of the impact of potential changes in interest rates 
+on a bank’s net interest income (NII) and economic value of equity (EVE). EVE is a long-term 
+metric that computes the net present value of a bank’s total assets minus the net present 
+value of total liabilities, including deposits.  
+The current Basel standard includes five key features: 
+• A framework for banks’ EVE calculation, including caps on the quantity of deposits 
+they can assume to be core and caps on the average assumed maturity by depo sit 
+category. 
+• A predefined set of six interest-rate-shock scenarios. 
+• A test that establishes that a bank is an “outlier” if the worst impact of those shocks 
+on its EVE would exceed 15% of Tier 1 capital. 
+• An expectation that supervisors will require outlier  banks to hold more capital or 
+take other mitigating actions. 
+• Public disclosure of banks’ interest-rate sensitivity measures. 
+Other jurisdictions, such as Canada, the UK, and the euro area, published rules to implement 
+the Basel IRR -BB standard , but US reg ulators never did. Way back in 1991, Congress 
+specifically directed US regulators to impose a mandatory capital charge to address interest-
+rate risks in US banks, in response to lessons learned from the S&L crisis. In 1992, regulators 
+did propose a capital charge for outliers based on a simpler test of economic value. But they 
+retreated in 1996 in response to industry pressure and never revisited the proposal.  
+Why the reluctance? US regulators said in 1996 that their decision “not to pursue a 
+standardized measure and explicit capital charge for interest-rate risk at this time . . . reflects 
+concerns about the burden, accuracy, and complexity of a standardized measure and 
+recognition that industry techniques for measuring interest-rate risk  are continuing to  
+evolve” (Fed 1996).  
+The quarterly filings that bank regulators require US banks to publish do not include NII or 
+a standard EVE calculation for the six BCBS interest -rate risk scenarios. However, under a 
+1997 rule, the Securities and Exchange Commission (SEC) does require all publicly listed US 
+banks to disclose their sensitivity to interest -rate shocks in their annual Form 10-K filings 
+(US SEC 1997) . However, there is no uniformity in how US banks compute these disclosed 
+interest-rate sensitivities. 
+Given the US experience with the S&L crisis, which was set off by the Fed’s sharp tightening 
+cycle under Chair Paul Volcker, US regulators should have taken interest -rate risk more 
+318
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 9 ---
+POLICY NOTE 
+ 
+ 
+seriously. The Office of Financial Research, an independent data and research a rm of the US 
+Treasury, flagged potential ALM risks facing US banks in its 2014 annual report (OFR 2015). 
+This report highlighted: 
+[A] reversal of banking system deposits is a potential risk once interest rates rise. U.S. 
+banks have seen dramatic growth in their non-interest-bearing deposits relative to total 
+banking system liabilities. There is a non -negligible risk that these deposits could shift 
+to alternative, higher-yielding investments as rates rise. 
+The report also emphasized the potential role of supervisory stress tests in addressing such 
+risks:  
+Supervisory stress tests currently assume credit losses are the driver that will pressure 
+capital. It is also possible that the driver of a bank’s stress is not a macroeconomic shock, 
+but a funding stress that arises inside the financial sector or a credit shock that could be 
+magnified by funding stress. Potential liquidity and solvency interactions receive little 
+consideration. For example, banks have increased securities holdings in held -to-
+maturity portfolios by nearly half a trillion dollars since the crisis. Under stress, banks 
+may need to use these securities to generate liquidity, either by selling them (which 
+could result in a capital loss) or by financing them through repos (which could reduce a 
+bank’s leverage ratio and LCR). 
+Subsequently, in 2015, one of the authors of this article expanded on these ideas by 
+examining how four distinct types of shocks —funding, credit, liquidity, and interest rate 
+risk/collateral—could interact to impact banks’ capita l and liquidity ratios. This analysis 
+further noted that US supervisory stress tests at the time did not account for mark-to-market 
+shocks on banks’ growing securities portfolios, potentially leaving vulnerabilities 
+unaddressed (Cetina 2015). 
+Yet, for over a decade, as highlighted in a Peterson Institute blog post-SVB, no US supervisory 
+stress test has considered rising inter est rates (Honohan 2023) . Instead, US supervisory 
+stress tests have focused on banks’ potential trading book and loan losses. Thus, in the US , 
+there are no incremental capital requirements for large US banks with high levels of interest-
+rate risk. 
+Limited Guidance on IRR-BB in Examination Manuals 
+The US has implemented some elements of the Basel IRR -BB standard for the largest banks 
+through its supervisory processes, rather than through regulation. For example, the 
+examination Handbook of the Office of the Comptroller of the Currency (OCC), the supervisor 
+of banks with national charters, advises examiners to make sure the largest banks test their 
+NII and EVE against the Basel Committee’s six prescribed interest -rate scenarios. However, 
+neither the OCC nor any other US regulator requires banks to make  these calculations in a 
+standardized manner (OCC 2020). 
+319
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 10 ---
+POLICY NOTE 
+ 
+ 
+Interestingly, the previous edition of the Handbook stated that for banks with more than USD 
+250 billion in assets, an EVE reduction in any scenario that exceeded 15% of the bank’s Tier 
+1 capital would be considered an outlier , and an examiner should take that into account in 
+forming conclusions about the bank’s risk management. However, in 2019, the OCC revised 
+the scope of its guidance on interest -rate risk as part of the regulatory tailoring initiative 
+mandated by Congress so that it applies only to banks with more than USD 700 billion in 
+assets (Fed, FDIC, and OCC 2019). Banks with between USD 250 billion and USD 700 billion 
+in assets are still required to run the six Basel scenarios, bu t the OCC Handbook no longer 
+applies the 15% outlier test or describes consequences for an examiner’s evaluation of risk 
+management for banks of that size. SVB never had more than USD 250 billion in assets. 
+The Federal Reserve’s Commercial Bank Examination Manual is even more limited in its 
+discussion of interest rate risk and states that Fed examiners may focus only on a bank’s 
+compliance with “self-imposed parameters ” (Fed 2023b). Based on the Federal Reserve’s 
+manual, it can be difficult for a bank supervisor to challenge a bank’s level of interest -rate 
+risk as excessive if the bank is operating within the NII and EVE risk limits that the bank’s 
+board approved.  
+Limited Focus on IRR-BB in Supervisory Ratings  
+The supervisory ratings framework fo r banks in the US includes a rating for the sensitivity 
+of a bank’s balance sheet to market risk —including interest -rate risk. It is the “S” in the 
+“CAMELS” rating.5 However, the composite US bank supervisory CAMELS ratings are not 
+simply an average of th e individual  component ratings but instead reflect examiners’ 
+judgment as to how the individual components ratings are combined to provide a summary 
+measure of a bank’s overall financial condition. Thus, in theory , a poor S rating —which 
+includes a bank’s interest-rate risk—could drive an institution’s composite CAMELS rating 
+down and , in turn,  have m eaningful r eal-world r amifications for a supervised entity . For 
+example, an institution with a “4” CAMELS composite rating means that close  supervisory 
+attention is required and, in most cases, a formal enforcement action may be necessary.  
+However, other research suggests that S ratings have had little impact on banks’ CAMELS 
+composite ratings. Gopalan and Granja (2023) find that composite CAMELS ratings were not 
+significantly affected by exposures to interest -rate risks even after the Federal Reserve 
+began raising interest rates in 2022. Similarly, Gaul and Jones (2021) find in their analysis of 
+US bank supervisory data from 1984 to 2020 that only about 1% of the variation in a bank’s 
+CAMELS composite rating is attributable to the variation in the bank’s S rating. This result 
+seems quite low for interest-rate risk, as maturity transformation is a foundational banking 
+risk. It also suggests that the absence of the US implementation of thresholds for excessive 
+interest rate per the Basel IRR -BB standard risk may limit effective US bank supervision  of 
+this risk.  
+ 
+5 US bank examiners use the CAMELS ratings framework to evaluate bank safety and soundness. It includes a 
+composite measure, on a five -point scale, and six subcomponents, also on a five -point scale: capital adequacy, 
+asset quality, management, earnings, liquidity, and sensitivity to market risk.  
+320
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 11 ---
+POLICY NOTE 
+ 
+ 
+In sum, publicly listed US banks do face SEC requirements to annually disclose their interest-
+rate sensitivity but not to publi sh these metrics as part of their quarterly regulatory filings 
+for bank regulators. Moreover, these metrics and their calculation are not standardized per 
+the BCBS methodology , there are no supervisory thresholds with consequences , and US 
+banks with high l evels of interest -rate risk are rarely subject to having their composite 
+supervisory rating downgraded.  
+Thought Experiment: IRR-BB as a Warning Signal for SVB 
+Data from SVB’s 10-K filings suggest that the Basel Committee’s outlier test for interest-rate 
+risk would have flagged Silicon Valley Bank in four out of the five years between 2017 and 
+2021 if US regulators had held the bank to that standard  (Figure 3). The bank’s EVE losses 
+would have been unacc eptably high under a falling -rate scenario in 2017 and 2018  and 
+unacceptably high under a rising-rate scenario in 2020, 2021, and the first three quarters of 
+2022. SVB stopped publicly reporting this information in the fourth quarter of 2022.  
+Figure 3: SVB’s Economic Value of Equity (EVE) Sensitivity, 2017–21 
+ 
+Sources: Company financial reports; YPFS analysis. 
+In September 2020, the IRR-BB EVE metric immediately pointed to trouble under rising-rate 
+scenarios when SVB started piling new deposits into long -term securities. Figures 4 and 5 
+show the impact of 200–basis point (bp) and 100-bp parallel shocks on SVB’s EVE over time, 
+including a falling -rate scenario (green lines) and a rising -rate scenario (blue lines) , based 
+on SVB’s 10-K and 10-Q filings. Figure 4 shows that the modeled declines in EVE would have 
+exceeded the Basel threshold, represented by the dotted red line, starting in the third quarter 
+of 2020. Figure 5 shows that the EVE declines also would have exceeded the bank’s internal 
+SVB Financial Model Results
+$ billions
+2017 2018 2019 2020 2021
+Base Economic Value of Equity 7.3         8.8         8.1         11.2        20.7        
+EVE at stressed +200 bps 8.1         9.3         7.5         9.5          15.0        
+EVE decline at stressed +200 bps N/A N/A (0.6)       (1.7)        (5.7)        
+EVE decline in percent 11% 6% -8% -15% -28%
+EVE at stressed -200 bps 5.7         7.6         8.6         11.5        21.3        
+EVE decline at stressed -200 bps (1.6)       (1.3)       N/A N/A N/A
+EVE decline in percent -22% -14% 5% 3% 3%
+SVB Balance Sheet
+Total Capital 4.6         5.6         6.6         8.2          16.7        
+Tier 1 Capital 4.2         5.2         6.3         7.7          16.2        
+Basel 2016 threshold: 15% of Tier 1 Capital 0.6         0.8         0.9         1.2          2.4          
+Basel pre-2016 threshold: 20% of Total Capital 0.9         1.1         1.3         1.6          3.3          
+Max EVE decline under stress (1.6)       (1.3)       (0.6)       (1.7)         (5.7)         
+Max EVE decline: Percent of Tier 1 Capital -37% -24% -10% -22% -35%
+Max EVE decline: Percent of Total Captial -34% -23% -9% -21% -34%
+EVE decline exceeds Basel 2016 threshold? YES YES NO YES YES
+EVE decline exceeds pre-Basel 2016 threshold? YES YES NO YES YES
+Capital shortfall: Basel 2016 standard (0.9)       (0.5)        0.3          (0.6)          (3.3)          
+Source: SVB 10-Ks
+321
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 12 ---
+POLICY NOTE 
+ 
+ 
+“outer” limit, which its board set at 10% of EVE in a 100 -bp parallel shock, in the third 
+quarter of 2020 . SVB would have come back into compliance with the internal limit in the 
+fourth quarter but gone out of compliance again throughout 2021 and 2022. Of course, in 
+2022, the Fed raised interest rates not 100 bps or 200 bps, but 400 bps.  
+Meanwhile, there is no doubt SVB was an outlier when compared to other US banks. The 
+median OCC-supervised bank with more than USD 10 billion in assets would have seen a 5% 
+increase in its EVE in the face of a 200-bp shock in the 21-month period through June 2021, 
+according to the Office of the Comptroller of the Currency’s semiannual  Interest Rate Risk 
+Statistics Reports, which are based on statistics gathered from hundreds of ban ks recently 
+examined by the OCC (OCC 2024). The 25th-percentile bank loss was just 1%, and the highest 
+estimated loss for any bank in the survey was 17%. SVB’s estimated EVE losses in both the 
+100-bp and 200-bp rising-rate scenarios were consistently worse than the worst large bank 
+in the OCC’s survey  from September 2020 until the bank stopped publicly reporting this 
+information, with the exception of the blip in December 2020 (Figure 6). 
+Figure 4: Impact of 200-bp Parallel Shocks on SVB’s EVE vs. Basel Threshold (% EVE) 
+ 
+Note: SEC reporting shows changes in estimated EVE; Basel shows Tier 1 equity.  
+Sources: Company Forms 10-K and 10-Q.  
+  
+322
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 13 ---
+POLICY NOTE 
+ 
+ 
+Figure 5: Impact of 100-bp Parallel Shocks on SVB’s EVE vs. Internal Limits (% EVE)  
+Sources: Company Forms 10-K and 10-Q. 
+Figure 6: SVB’s EVE Sensitivity vs. the Worst Bank with More than USD 10 billion in 
+Assets in the OCC’s Biannual Survey (% EVE) 
+ 
+Sources: Company Forms 10-K and 10-Q; OCC statistical reports; authors’ analysis.  
+IRR-BB Conclusions 
+The Federal Reserve’s May 2023 report on SVB’s failure  targeted its supervisors for not 
+demanding that the bank address its interest-rate risk deficiencies: 
+SVBFG management was focused on the short -run impact on profits  . . . With regard to 
+interest-rate risk-management, supervisors identified interest-rate risk deficiencies in 
+the 2020, 2021, and 2022 CAMELS exams but did not issue supervisory findings (MRA/ 
+MRIA). The deficiencies were only communicated as written advisories or verbal 
+observations. (Fed 2023a)  
+323
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 14 ---
+POLICY NOTE 
+ 
+ 
+On the other hand, examiners are typically at a disadvantage when challenging management 
+of a profitable bank about risks that may or may not  manifest. A  specific, quantitative 
+regulatory standard with an outlier test, like the Basel IRR-BB standard, would have been a 
+useful tool for SVB’s supervisors in 2017 –18 and again in 2020 –22. The Basel outlier 
+standard, backed up by comprehensive regulatory dat a on interest rate risk , would have 
+provided solid evidence that SVB was not operating in a safe and sound manner. Strong rules 
+can both empower competent supervis ors and act as  a floor on bank management and 
+supervisory incompetence. 
+III. Liquidity Coverage Ratio  
+The liquidity coverage ratio is a Basel standard introduced after the Global Financial Crisis . 
+It requires banks to hold sufficient high -quality liquid assets (HQLA s) to manage expected 
+net cash outflows in a 30-day stress scenario.  
+In the original version of the rule implementing the Basel LCR standard that US regulators 
+finalized in 2014, banks with USD 250 billion in assets or USD 10 billion in foreign exposures 
+had to maintain their LCR ratios above 100%. SVB would have been subject to that ratio 
+because its foreign exposures met the threshold. 
+However, in 2019, the US bank regulators, following an act of Congress, determined that 
+most banks with between USD 50 billion and USD 250 billion in assets would no longer be 
+subject to the LCR or other enhanced prudential standards applied to the most systemically 
+important banks (Fed, FDIC, and OCC 2019; Fed 2019). As a result of this regulatory tailoring 
+in the US, banks of SVB’s size and smaller and banks without a bank holding company (BHC) 
+were no longer subject to the LCR. 
+Thought Experiment: LCR as a Warning Signal for SVB 
+SVB’s first quarter 2023 public financials suggest that its LCR would have been 75% at the 
+end of 2022, substantially below the 100% threshold, if regulators had required the bank to 
+report it. See our calculations in Appendix A. The Federal Reserve’s material loss review of 
+the SVB failure also noted that SVB’s supervisors did not believe that SVB’s liquidity buffer 
+was adequate. One clear conclusion from our analysis is that it is a challenge to calculate the 
+LCR working with the available public data for a company that is not required to disclose 
+LCR data. Given SVB’s undercapitalization, a more solid liquidity buffer could have reassured 
+uninsured depositors.  
+But the bank would have long been out of compliance with the LCR standard. On April 28, 
+2023, the Federal Reserve issued Vice Chair Michael Barr’s report on the failure of SVB (Fed 
+2023a). The report, on page 88, included the Fed’s calculation of SVB’s LCR on a monthly 
+basis from March 2022 to February 2023 , based on confidential data available only to the 
+Fed. Over those 12 months, the report said, the bank’s LCR never exceeded 100%, ranging 
+from a high of 99% in March 2022 to a low of 73% in September 2022.  
+324
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 15 ---
+POLICY NOTE 
+ 
+ 
+Figure 7 represents an admittedly rough effort to fit our methodology to the quarter -end 
+data in the Barr report. Figure s 8 takes those figures and estimate s how much additional 
+HQLA the company would have needed to meet a 100% LCR requirement . Figure 9 shows 
+the HQLA gaps assuming  a 125% LCR, including the typical management buffer that US 
+global systemically important bank s (G-SIBs) that are subject to the rule tend to maintain . 
+(See BCBS [2025] for a dashboard of updated LCR averages on a regional basis .) The 
+conclusion: If subject to the LCR, SVB would have needed to take actions to increase its HQLA 
+by USD 20 billion more than a year before it failed and would have been flagged as having a 
+USD 40 billion HQLA deficiency six months before it failed.  
+Figure 7: SVB’s LCR over Time 
+ 
+Sources: Company financial reports; Fed 2023a, 88; YPFS analysis.  
+  
+325
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 16 ---
+POLICY NOTE 
+ 
+ 
+Figure 8: SVB’s HQLA Shortfalls vs. 100% LCR 
+ 
+Sources: Company financial reports; Fed 2023a, 88; YPFS analysis. 
+Figure 9: SVB’s HQLA Shortfalls vs. 125% LCR 
+ 
+Sources:  Company financial reports; Fed 2023a, 88; YPFS analysis. 
+  
+326
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 17 ---
+POLICY NOTE 
+ 
+ 
+Of course, if the bank were subject to the rule, its supervisors would not have allowed its LCR 
+to fall so far or allow its HQLA buffer to become so concentrated in negatively convex agency 
+MBS due to the LCR’s limits on these securities. Bank management and supervisors shouldn’t 
+just react when a bank breaches a limit —they should act when limit breaches become 
+foreseeable. The LCR rule also brings additional supervisory oversight. As the Barr report 
+noted: 
+The LCR rule also requires a firm to have the operational capability to monetize its liquid 
+assets and to test this capability periodically. In addition, the LCR rule places limits on 
+the composition of assets that qualify as high -quality liquid assets. If  SVBFG had been 
+subject to the LCR, it may have adopted more proactive monitoring or managing of its 
+liquidity position and mix of liquid assets. (Fed 2023a, 88) 
+On the other hand , if subject to the rule, SVB may have chosen to improve its LCR through 
+other means, in addition to holding more HQLAs. It may have followed a more responsible 
+funding strategy, with more long-term debt (LTD) and less uninsured deposits, as the bank 
+itself said in its 2022 10-K, published less than a month before it failed:  
+It is possible that, as a result of further growth, we may  . . . become subject to LCR and 
+NSFR requirements or other heightened liquidity requirements in the future, which 
+would require us to maintain high -quality liquid assets in accordance with specific 
+quantitative requirements and increase the use of long -term debt as a funding source . 
+(SVB 2023a, 87) 
+The bulk of SVB’s unrealized securities losses were in its HTM portfolio. US GAAP does not 
+permit any interest-rate derivatives to qualify for hedge accounting for HTM securities. Thus, 
+because the mark -to-market gains and losses for any interest -rate derivatives would pass 
+directly through a bank’s income statement, US banks do not hedge HTM securities. This can 
+result in bank management poorly managing the in terest-rate risk associated with HTM 
+securities. However, the US LCR rule requires using market valuations for HTM securities for 
+purposes of measuring a bank’s HQLA. Thus, application of the LCR to SVB could have helped 
+reduce the outsized interest-rate risk in its HTM portfolio. Specifically, SVB’s unrealized HTM 
+losses would have required it to take remedial action to strengthen its liquidity buffer or 
+disincentivized such behavior. 
+Moreover, if the bank had been subject to the LCR, it would have been required to publicize 
+more data about its liquidity risks. The market, not just bank supervisors, may have been 
+more focused on the risks it faced. Uncertainty about both solvency and liquidity and the 
+ability to recover one’s deposit in full is an essential element of a bank run.  
+To be clear, no LCR-covered bank could have survived the run SVB faced in March 2023, but 
+SVB was not covered by the LCR . The role of the LCR is not to allow a bank to manage any 
+potential crisis but to promote sound liquidity risk  management to help prevent it from 
+facing a crisis.  
+327
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 18 ---
+POLICY NOTE 
+ 
+ 
+LCR Conclusions 
+SVB’s failure carries an important lesson about the liquidity of underwater long-term assets 
+and discount window readiness. In contrast to SVB, large banks in the US that were subject 
+to the LCR managed the spring 2023 crisis in part because they were subj ect to heightened 
+oversight and had built substantial liquidity buffers. While some LCR-covered US banks had 
+substantial unrealized securities losses due to rising interest rates, the LCR standard did 
+force these banks to increase their HQLA s before 2023 . Cipriani, Eisenbach, and Kovner  
+(2024) analyzes bank runs using Fedwire data and finds that no US banks with assets more 
+than USD 250 billion experienced runs . The authors conclude that the absence of runs for 
+these banks in the spring of 2023 is evidence of a too -big-to-fail effect . However, their 
+analysis focuses solely on bank balance sheet characteristics and does not test for regulatory 
+differences as a possible explanatory variable. Given SVB’s and First Republic’s assets—more 
+than USD 200 billion but  less than  USD 250 billion —the paper’s finding s leave open the 
+possibility that the 2019 narrowed scope of application of the US LCR rule due to regulatory 
+tailoring may have also played a role. 
+There is broad agreement in the US that most banks are small and should not need to follow 
+enhanced prudential standards designed for large, complex, and internationally active 
+banks. But, with more than USD 200 billion in assets, SVB was not small. Meanwhile, the US 
+remains unusual among developed nations in applying the LCR only to the very largest 
+banks. Most jurisdictions —the UK, Europe, most of Asia —have maintained full LCR 
+disclosure and threshold requirements for most or all banks. Yet, there has been little public 
+discussion in the US since the 2023 banking failures about the possibility of extending LCR 
+regulation to midsized US banks and the role of the 2018 regulatory tailoring in the 2023 US 
+bank failures.  
+So, the key takeaway from the SVB failure is that banks like SVB should be subject to the LCR, 
+not that the LCR itself failed or needs to be fundamentally reconsidered. 
+Still, some tweaks to the LCR’s design may deserve consideration. Concentrated uninsured 
+deposits could merit a higher runoff rate. It may also be appropriate to limit the duration of 
+securities held in banks’ HQLA s. The lesson specific to SVB is that HTM securities are not 
+perfectly liquid and agency MBS are negatively convex and subject to significant extension 
+risk. As deposits also contain an embedded option that allows the depos itor to withdraw 
+funds at any time, agency MBS funded by uninsured deposits is akin to a bank being doubly 
+short interest-rate volatility. Liquidity is the ability to ensure the availability of funds to meet 
+commitments at a reasonable price at all times without damaging capital. Finally, unrealized 
+gains and losses on available-for-sale securities are incorporated in capital  only for banks 
+with more than USD 700 billion in assets, not for banks of SVB’s size. 
+IV. Net Stable Funding Ratio  
+The net stable funding ratio is the other international standard introduced in the wake of the 
+Global Financial Crisis to address banks’ funding and liquidity risks . It measures banks’ 
+328
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 19 ---
+POLICY NOTE 
+ 
+ 
+maturity transformation risk over one year —that is, the extent to which banks fund lon g-
+term assets with short -term liabilities. Maturity transformation is the core business of 
+banking, of course, and it creates the most basic risks that banks must manage.  
+The NSFR requires  banks’ available stable funding (ASF) to exceed their required sta ble 
+funding (RSF) over a 12-month time frame. The NSFR complements the LCR. While the LCR 
+focuses on short-term liquidity risk , the NSFR focuses on a bank’s structural asset -liability 
+management. 
+In contrast to the LCR , SVB would have complied with the NSF R. We estimate the bank’s 
+NSFR would have been 132%, as explained in Appendix B (Figure 12). That would have put 
+it comfortably above the regulatory 100% target and above the  global average  of about 
+120% (which excluded US banks until 2023; see BCBS [2025]). Based on that estimate, SVB’s 
+NSFR would not have raised any alarms about the bank’s extraordinary exposures to 
+uninsured deposits on the liability side of its balance sheet and long-dated agency mortgage-
+backed securities on the asset side. 
+However, that result does not mean that SVB managed its funding risks appropriately. 
+Rather, the result reflects potential weaknesses in the  2020 NSFR final rule itself and in the 
+2014 Basel standard on which US regulators based the rule (BCBS 2014; Fed, FDIC, and OCC 
+2020). First, how stable should the rules consider uninsured wholesale deposits to be, given 
+the runs in this episode and earlier episodes? Second, are the haircuts on HTM securities 
+sufficient? Specifically, under the NSFR , if a n HTM security quali fies as a HQLA, it will 
+generally receive a lower required stable funding factor , meaning less stable funding is 
+required to support its assumed high liquidity . Third, does it make sense to continue to 
+exclude unrealized gains and losses on AFS securities from regional banks’ capital measure, 
+even as reported capital is assigned a 100% available-stable-funding factor under the NSFR? 
+Note that no US banks were subject to the NSFR at the time of SVB’s failure. T he US NSFR 
+rule required only the very largest US banks to begin publicly reporting their NSFRs in the 
+second quarter of 2023. Even if the NSFR had been in place in 2023 , SVB would have been 
+exempted under the same tailoring rule that exempted banks of SVB’s size and those without 
+bank holding companies from the LCR (Fed, FDIC, and OCC 2019).  
+NSFR Conclusions 
+It is surprising that a bank like SVB taking extraordinary maturity transformation risks could 
+have passed a regulatory metric designed specifically to identify such outliers.  A few 
+reasonable tweaks to the NSFR could have created more cautionary outcomes.  
+Most important is the treatment of uninsured wholesale deposits. The rapid growth of SVB’s 
+uninsured deposits was one of the biggest red flags the company’s finances should have 
+raised. Perhaps the rule could be revised to penalize newer uninsured wholesale deposits—
+give them a lower or even  0% ASF factor for the first year, for example. That would  have 
+helped flag rising risks in all fast-growing banks, not just in SVB. 
+329
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 20 ---
+POLICY NOTE 
+ 
+ 
+On the other hand, there were clearly idiosyncratic aspects of SVB’s deposit base. The rule 
+allows firms and their supervisors to adjust assumptions about funding factors in such cases, 
+although it isn’t clear how often supervisors do this. SVB’s uninsured deposits were almost 
+entirely from VC-funded companies. Many of these companies run negative cash flows every 
+month and sustain their businesses through periodic injections of new capital. For that 
+reason, considering those deposits to be 50% “available” over a 12-month horizon may seem 
+extremely optimistic —and note that the rule considers such nonfinancial companies’ 
+deposits to be 50% available whether or not they are operational. Assuming 25% instead 
+would have lowered SVB’s NSFR in our model below 100%, all other assumptions remaining 
+the same; assuming 0% would have lowered its NSFR to 66%. 
+The other issue that SVB’s failure raises is the treatment of underwater HTM securities that 
+qualify as HQLA s. The rule requires minimal ava ilable stable funding for such securities 
+because it assumes an active repurchase agreement funding market. In other words, it 
+assumes the repo market will fund 100% of Level 1 HQLAs and 85% of Level 2A HQLAs; it 
+requires stable funding for the remainder—0% for Level 1 and 15% for Level 2A. 
+But if these securities have unrealized losses, the repo market (or other funding sources) 
+won’t fund their full carrying value. One tweak to the rule would require 100% stable funding 
+for the difference between fair market value and carrying value for these securities. So, even 
+Treasuries and high-quality agency mortgage-backed securities would require some stable 
+funding in current market conditions, which would lead to unrealized losses. The rule could 
+continue to requ ire some stable funding based on collateral quality for the remaining fair 
+value, to reflect the risk that funding may become expensive for such securities through 
+higher haircuts.  
+Boosting the required stable funding in our model for Treasuries (Level 1)  from 0% to, say, 
+15%—including both a 100% charge on a 10% loss and a small new 5% charge for the 
+remaining fair value—and boosting the required stable funding for agency mortgage-backed 
+securities (Level 2A) from 15% to 50%—including a 100% charge on a 20% loss and a higher 
+30% charge for the remaining fair value—would have lowered SVB’s NSFR to 100%. 
+V. Total Loss-Absorbing Capacity6 
+The FDIC could have saved USD 13.6 billion in the resolution of SVB and two other large 
+banks that failed in 2023 if regulators had earlier held the banks to the total loss -absorbing 
+capacity standard, based on reasonable assumptions (see Appendix C). 
+In 2023 , US regulators resolved three large, failed banks: SVB, Signature Bank, and First 
+Republic Bank. The FDIC estimated then that coverage of uninsured depositors, discounts on 
+ 
+6 A version of this note was originally published on the Yale School of Management’s Systemic Risk blog on July 
+6, 2023. The authors wish to thank Jordan Thursby, Paolo Colonna, and Stephanie Quiet for their hel pful input 
+and comments on the original version of this note. The views and analysis are those of the authors and remain 
+personal to them. 
+330
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 21 ---
+POLICY NOTE 
+ 
+ 
+the purchase price of the banks, and potential losses on the assets it assumed would cost its 
+Deposit Insurance Fund (DIF) a total of USD 31.5 billion, roughly half of which it recoup ed 
+later from other large banks (Mitchell 2023). 
+Under the 2016 TLAC standard agreed by the Basel Committee on Banking Supervision, 
+regulators began requiring the world’s largest banks to maintain a minimum level of long -
+term, unsecured debt to complement their regulatory capital. Together, this debt and 
+regulatory capital (equity) represent a bank’s TLAC. If a bank’s losses exceed its capital, the 
+additional layer of debt can be “bailed in,” that is, converted to equity, providing an additional 
+cushion against the bank’s insolvency.  
+The conversion of TLAC facilitates the open -bank resolution of bank holding companies. 
+Regulators now expect the largest bank holding companies to have resolution plans under 
+which they can enter bankruptcy without shutting th eir banking and investment banking 
+subsidiaries. TLAC complements these plans because it recapitalizes these subsidiaries and 
+keeps them open.  
+Currently, US regulators require all banks to meet minimum capital requirements. But they 
+require only eight US global systemically important banks to meet the TLAC requirement, 
+which includes the layer of long -term debt on top of capital. In late 2022, US regulators 
+proposed extending the rule to  the five or so additional domestic banks with greater than 
+USD 250 billion in assets (Fed and FDIC 2022).  
+Following the 2023 bank failures —all three of which were below th is USD 250 billion 
+threshold—the banking regulators, in August 2023, issued a rule to subject banks with USD 
+100 billion or more in assets to long -term debt requirements comparable to those that G -
+SIBs face under TLAC; the proposed TLAC rule has yet to be finalized (Fed, FDIC, and OCC 
+2023).  
+The bank resolutions in 2023 offer an opportunity to study how a rule with a broader scope 
+of application might have worked if it already had been in place.  
+Background on TLAC 
+Under the Basel TLAC standard, G-SIBs are required to hold an additional cushion on top of 
+their minimum regulatory capital requirements  (BCBS 2016b) . In addition to common 
+equity, TLAC includes unsecured debt with a remaining maturity of more than one yea r, so 
+long as that debt is subordinated to deposits and other excluded liabilities. As of 2022, a G -
+SIB’s total TLAC under the Basel standard should be the greater of (1) 18% of its risk -
+weighted assets (RWAs)—that is, the bank’s loans, securities, and oth er assets, weighted to 
+reflect the risk of loss to the bank—or (2) 6.75% of its leverage exposures—that is, the bank’s 
+total assets and off-balance-sheet exposures.  
+Beyond these minimum standards, implementation varies by country. The US applies a 
+minimum 18% of RWA and 7.5% of leverage exposures —again, though, only to G-SIBs. The 
+Basel standard also sets an expectation that LTD will form at least one -third of the TLAC 
+331
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 22 ---
+POLICY NOTE 
+ 
+ 
+requirement (see the standard, BCBS [2015, 3]). Following Basel, the US requires its G -SIBs 
+to have 6% of RWA in LTD, or one-third of the 18% requirement.  
+Unlike the US, the EU requires banks of all asset sizes to meet a minimum requirement for 
+their own funds and eligible liabilities, or “MREL,” and regulators vary this requirement by 
+the size of the bank. With some minor exceptions, liabilities qualifying for MREL are the same 
+as for TLAC: long -term, unsecured debt with at least a year of residual maturity  (Benoit 
+2016). The primary difference is where those liabilities fall in the creditor  hierarchy. For 
+example, unlike TLAC, MREL includes some liabilities, such as senior preferred bonds, that 
+rank pari passu with protected liabilities, such as common claims.7  
+As of 2022, European G-SIBs have to hold a minimum level of MREL at the Basel s tandard: 
+18% of RWAs or 6.75% of leverage exposures. So-called “top-tier banks”—non-G-SIB banks 
+with assets exceeding EUR 100 billion and other designated banks —have to hold 13.5% of 
+RWAs or 5% of leverage exposures in MREL, roughly 75% the level required of G-SIBs8 (Bank 
+of Portugal 2020) . EU regulators also have flexibility and discretion to apply an MREL 
+standard based on a bank’s size and financial condition, meaning most G -SIBs and top -tier 
+banks have institution-specific requirements. 
+Thought Experiment: TLAC as Savings for the FDIC 
+How much more of the losses could the failed banks’ non -depositor creditors have borne, 
+and how much could the FDIC thus have saved, if US regulators had held them to a TLAC 
+requirement? 
+Of course, it’s impossible to  know what requirement regulators would have imposed on 
+these banks if they had imposed one. We could simply have assumed that regulators would 
+have applied the same rule that they applied to G -SIBs: TLAC equal to at least 18% of risk -
+weighted assets or 7. 5% of leverage exposures. But we thought it’s more likely regulators 
+would have taken a tailored approach, as they did in other areas, and applied a European-
+like standard.9  
+ 
+7 The EU, unlike the US, does not apply a minimum debt ratio to its TLAC (see Benahmed [2022, 7]). However, 
+it does set an additional subordination requirement, called a bank’s total liabilities and own funds (TLOF), 
+which is set at 8% of RWAs. 
+8 European authorities also designate some banks with less than EUR 100 billion in assets as other systemically 
+important institutions , which are subject to the lower MREL standard  (EBA 2023). Furthermore, European 
+banks face additional MREL requirements due to capital  buffers and supervisory add -ons; in practice, the 
+average MREL requirement for large European non -G-SIBs was about 20% of RWA at the end of 2022, 
+according to the Single Resolution Board  (SRB 2023, 5) . Practically all European banks will meet the EU’s 
+capital conservation buffer , at 2.5%, if not an entire combined buffer requirement  (CBR), which includes the 
+capital conservation buffer, a countercyclical buffer, a systemic risk buffer, and a systemically important bank 
+buffer (EBA 2017; ECB 2024). 
+9  Our ca lculations do not apply a TLOF -like standard, not only because these three banks had different 
+corporate structures but for the more essential point that US law statutorily subordinates a bank’s other 
+liabilities to its depositors  (US Congress 2021) . US re gulators impose subordination requirements on 
+ 
+332
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 23 ---
+POLICY NOTE 
+ 
+ 
+Ultimately, the precise level of required TLAC should reflect its purpose, and non -G-SIBs 
+would probably hold TLAC for a different purpose than would G-SIBs. The G-SIBs typically 
+have multiple banking and investment banking subsidiaries that would need to be 
+recapitalized—by converting TLAC into equity —in order to stay open through the holding 
+company’s bankruptcy.  
+In contrast, a non-G-SIBs’ TLAC might be used to facilitate the FDIC’s most common form of 
+resolution, known as a purchase -and-assumption transaction. In purchase-and-assumption 
+transactions, the FDIC arranges for a bigger bank to purchase the bank and assume most of 
+its liabilities, leaving the remaining assets and liabilities with the FDIC. This is the approach 
+it took in these bank failures, e xcept that it first had to create two bridge banks before it 
+could line up buyers for SVB and Signature.  
+Crucially, the FDIC did impose losses on existing shareholders and creditors of the three 
+banks. That meant total losses for the three banks’ shareholders (about USD 43 billion, based 
+on separate calculations of the book value and market value at year -end), preferred equity 
+holders (USD 7.3 billion), and other creditors ( USD 4.7 billion). The refore, the total bail-in 
+for shareholders and creditors was about USD 55 billion (see Figure 10).  
+  
+ 
+intermediate holding companies only, that is, the US holding companies of the US operations of foreign banks, 
+which are not bound by US statutory subordination (Fed 2017). 
+333
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 24 ---
+POLICY NOTE 
+ 
+ 
+Figure 10: Costs of Resolution to DIF and Bail-in Investors 
+ 
+Sources: Company financial reports; FDIC press releases; YPFS analysis. 
+In the immediate aftermath of these failures, at the time the authors performed their 
+analysis, the FDIC’s bank-funded DIF was also depleted by an estimated USD 31.5 billion.10 
+Roughly half, or USD 15.8 billion, resulted from the FDIC’s coverage of uninsured depositors 
+in SVB and Signature under the systemic risk exception (SRE). The FDIC is obliged to recoup 
+the costs of protecting uninsured depositors under this exceptional treatment through 
+special assessments, which it is in the process of levying on 113 banks  (Gruenberg 2023; 
+Mitchell 2023). The remaining half, or USD 15.7 billion, was a loss borne b y the DIF due to 
+the discounts offered to the purchasers of the failed banks (not including any loss -sharing 
+agreements with the buyers of the failed banks) and the estimated losses on the assets the 
+FDIC assumed and will eventually liquidate. With a TLAC requirement, there would have 
+been more creditors available to absorb losses, providing a first line of defense for the DIF.11  
+ 
+10 Since the failures, the FDIC has con tinued to update its loss estimates and the amount attributable to the 
+protection of uninsured depositors; see, for example, FDIC (n.d.). 
+11 Although the DIF was designed to absorb losses in the event of bank failures, its limited capacity would prove 
+insufficient in the event of widespread contagion, which might be aggravated by doubts about its capacity to 
+insure losses. Therefore, regulators should be interested in minimizing the impact that any single bank failure 
+has on the fund’s resources. 
+Costs of Resolution Silicon Valley 
+Bank
+Signature 
+Bank
+First Republic 
+Bank
+As of Dec. 31, 2022 ($ millions)
+Date Closed Mar. 12, 2023 Mar. 12, 2023 May 1, 2023
+Date Purchased Mar. 27, 2023 Mar. 19, 2023 May 1, 2023
+Buyer First Citizens NY Comm BC JPMC
+Cost to DIF
+Assets Purchased 72,000              38,400              186,000            
+Cost (assets + assumed liabilities) 55,500              35,900              182,600            
+Discount at Purchase Price (16,500)             (2,500)               (3,400)               
+FDIC's Estimated Loss to DIF (≥discount) (20,000)             (2,500)               (13,000)             
+Total Estimated Cost to DIF (35,500)             
+Costs of Bail-in for Investors    
+Common Equity: Market Value (13,602)             (7,251)               (22,297)             
+Common Equity: Book Value (inc. CCB) (16,180)             (12,006)             (14,475)             
+Preferred Equity: Book Value (3,646)               -                    (3,633)               
+Debt: Book Value (3,379)               (571)                  (779)                  
+Total Bail-in: Market Value (20,627)             (7,822)               (26,709)             
+Total (55,158)             
+Total Bail-in: Book Value (23,205)             (12,577)             (18,887)             
+Total (54,669)             
+Note: minority interests are excluded from CET1 & AT1. 
+Sources: Dec. 31, 2022 Call Reports, 10-Ks, FDIC press releases, Refinitiv. 
+334
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 25 ---
+POLICY NOTE 
+ 
+ 
+This distinction between using TLAC to keep banks open and using it solely to protect the 
+insurance fund is apparent in the Euro pean Banking Authority’s most recent report on the 
+MREL capacity of European banks. The largest European banks plan for an open -bank 
+resolution, in which TLAC converts to equity and the bank stays open; most smaller banks 
+plan for a transfer to an acquiring bank, similar to a purchase-and-assumption agreement, in 
+which TLAC is available to absorb losses (EBA 2020, 9). 
+TLAC Conclusions 
+We conclude that, had the three banks raised sufficient LTD and equity to meet a version of 
+the TLAC standard  akin to that implemented in Europe , those investors would have borne 
+more of the losses—potentially saving about USD 13.6 billion (Figure 13, Appendix C). 
+Meanwhile, our understanding of the actual write -downs performed during the FDIC -
+brokered purchase -and-assumption transactions suggests that the fundamental logic of 
+TLAC is sound. The FDIC forced losses on the bondholders and shareholders of these three 
+banks, where it may once have protected them in a systemic risk exception event. Perhaps 
+more interesting is that the FDIC performed these bail -ins both under an SRE designation 
+(SVB and Signature) and not (First Republic).  
+In 2019, when Martin Gruenberg was an FDIC board member but no t the chair, he said that 
+in a resolution without a buyer, and little or no unsecured debt, the least -cost resolution 
+would require uninsured depositors to take losses. It’s reasonable, then, to view the FDIC’s 
+ex ante least -cost option for resolution as r equiring a bank’s investors to bear more of the 
+losses, protecting uninsured depositors. Our analysis shows that, unsurprisingly, these 
+banks had not issued enough LTD to bail -in, and the extent of their TLAC shortfalls provide 
+insight into how regulators may consider applying TLAC requirements to smaller US banks. 
+In analyzing their LTD shortfall, we make four observations.  
+First, in most US banking groups, the top -tier parent company issues all of the long -term, 
+unsecured debt, and all deposits and other  short-term, unsecured debt are issued by the 
+operating subsidiary. Therefore, TLAC-eligible senior debt must be issued by a bank holding 
+company, which structurally subordinates it to the debt issued by the holding company’s 
+subsidiaries. This “clean hold ing company requirement ” allows a resolution authority to 
+bail-in the holding company’s debt so that the operating subsidiaries may continue as going 
+concerns. First Republic and Signature, however, did not operate a BHC structure like SVB, 
+technically rendering all of their outstanding debt instruments ineligible for TLAC.  If 
+regulators apply LTD requirements to more banks, they must consider whether the banks 
+will be required to establish a BHC structure that issues LTD. This is a question of how easy 
+it is to resolve the entity, since by law , bail-in-able debt is statutorily subordinated to 
+protected liabilities. Recall that after the 2018 tailoring rule , the lack of a BHC also implied 
+that First Republic and Signature could never be subject to the LCR no matter how large they 
+grew.  
+335
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 26 ---
+POLICY NOTE 
+ 
+ 
+Second, due to these organizational differences, any TLAC re quirement should complement 
+resolution strategies. As we’ve noted, G-SIBs need TLAC to replenish their capital, such that 
+the operating subsidiaries may stay open while the holding company goes through 
+bankruptcy. Smaller banks need enough TLAC to execute their resolution strategies under 
+Title 1 of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 , which 
+typically includes the sale of the business to a larger buyer. In response to proposals to apply 
+TLAC to more banks, First Republic stated that its non-BHC structure meant that it did “not 
+present the risks and complexities with respect to financial stability or resolvability” (Roffler 
+2023, 4). To be sure, it was sold faster than the other two banks. But it also had less than USD 
+1 billion in LTD to bail in and cost the FDIC’s DIF an estimated USD 13 billion.  
+Third, a bail-in is supposed to prevent losses to insured depositors, and in this respect, there 
+is no fundamental difference between holding the loss-absorbing capacity in debt or equity.12 
+However, regulators will need to consider the proper debt-equity ratio in any tailored TLAC 
+requirement. The five largest US banks not currently subject to the TLAC requirement 
+recommended that regulators allow them to raise either debt or equity (Non-GSIB Banks 
+2023, 23). We expect US regulators would set a debt target at one -third the TLAC target, as 
+the Financial Stability Board (FSB) recommends, and perhaps for good reason—in principle, 
+debtholders are more attuned than equity investors to downside risk. 13 The existence of 
+both debt and equity also helps regulators clearly distinguish between going concern capital 
+and gone concern LTD. Of course, a bank with more equity should enjoy lower costs of debt 
+funding, too.  
+Fourth, ensuring a minimum amount of TLAC and LTD requires continuous monitoring by 
+banks and their supervisors. For example, one month before SVB’s fateful press release, First 
+Republic redeemed USD 500 million of its senior debt, roughly two-thirds of its outstanding 
+TLAC-able debt (SVB 2023c). The current US rules prevent G-SIBs from redeeming LTD if 
+doing so would cause them to breach their TLAC or LTD requirements. In Eur ope, 
+redemption of any MREL -eligible liability requires the resolution authority’s approval and 
+supervisory consultation.14 The ex ante cost of this maintenance and supervision may seem 
+onerous until we see the ex post cost of paying out depositors and managing contagion.  
+A fundamental power of resolution authorities like the FDIC is the power to subordinate the 
+claims of long -term unsecured debt to those of short -term unsecured debt. This ability to 
+ 
+12 From the bank’s perspective, TLAC -eligible debt is generally more expensive than other types of debt but 
+cheaper than equity. However, the composition of debt and equity changes the bank’s  incentives (Mendicino, 
+Nikolov, and Suarez 2020). More equity may reduce risk-shifting behavior, but it may also reduce returns and 
+thus encourage risk-taking. More debt may discipline bank management since it would incentivize monitoring 
+by creditors, and therefore may prevent the bank’s insolvency long before a bail -in would be necessary, but it 
+also affects the leverage ratio of these banks. Because preferred equity counts toward capital requirements 
+without diluting shareholders, regulators should carefully consider how bail-in-able these instruments are. 
+13 Debt is generally easier to price, and price volatility for a bank’s debt may offer regulators a market -based 
+signal for directing supervisory resources. 
+14 For banks engaged in market making, the European rules grant renewable, year-long exceptions to this prior 
+permission mechanism. 
+336
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 27 ---
+POLICY NOTE 
+ 
+ 
+retrospectively discriminate among creditors is designed to reduce the run  incentive of 
+depositors and other short-term debt holders.  
+More importantly, the resolutions of these three banks demonstrate that the FDIC is willing 
+to bail in shareholders and creditors. Nevertheless, the DIF will bear losses above this bail -
+in to protect uninsured depositors. These losses are later socialized via special assessments 
+on banks that, in turn, will seek to recoup these costs from consumers and other customers.  
+The question boil s down to a difficult policy choice between increasing self -insurance 
+through TLAC or increasing socialized insurance through the DIF. Bankers tend to prefer the 
+latter: TLAC is a certain cost; and that debt and equity funding is considerably more 
+expensive than deposit funding, and probably more expensive than any future special 
+assessments. Regulators may lean more on TLAC, particularly for the larger banks, to avoid 
+the risk of depleting the DIF and rendering the FDIC less able to cope with further contagion 
+during times of financial stress.  
+VI. Conclusions 
+The post -mortem reports by the regulators of SVB and other failed banks , material loss 
+reviews by inspectors general, and analysis by the Government Accountability Office focused 
+almost exclusively on the failures of the banks’ manage ment and supervisors to address or 
+even recognize the risks these banks were taking. All of these reports said little to nothing 
+about the tailoring of banking r egulation, presumably viewing the regulatory framework 
+itself as somehow out of scope.  
+Our analysis points to the need for stronger banking rules to empower supervisors. Whether 
+you believe that SVB’s supervisors had no idea of the risks the bank was taking, or you 
+believe that they understood the risks but were unable or unwilling to challenge the 
+management of a very profitable bank in a critical industry, regulation that considered 
+excessive interest-rate risk and liquidity risk with clear consequences could have made a 
+difference. In this case, both the IRR-BB and the LCR standards would have identified SVB as 
+an outlier among large US banks. If the rules had been in place, supervisors also would have 
+had a presumption to take action. 
+Other countries’ banking systems did not experience these types of challenges despite 
+significant increases in central bank policy rates and quantitative tightening  elsewhere 
+following the pandemic. Despite taxpayer losses in excess of 3% of US GDP during the 1980s 
+savings and loan crisis, the US prudential framework for banks still lacks guardrails on 
+excessive interest -rate risk, a key risk to banks. Further, tailoring of US bank regulation 
+means that management of liquidity risk and inclusion of interest-rate marks in bank capital 
+differs markedly based on bank size. Finally, unconventional monetary policy remains a tool 
+that the Fed may use again the future , even as these operations can increase asset -liability 
+management risk at US banks through the creation and shrinkage of liquidity at the Fed and 
+uninsured banking system deposits. 
+337
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 28 ---
+POLICY NOTE 
+ 
+ 
+SVB’s failure resulted in official sector protection of uninsured depositors through the 
+systemic risk exception and the Federal Reserve’s creation of the Bank Term Funding 
+Program. Following the failures of SVB, First Republic, and Signature, the l osses to the DIF 
+and the FDIC’s special assessment on healthy US banks were significant and could have been 
+lower if these banks also had been subject to TLAC requirements.  
+Given the public expectation of government and central bank policy intervention in a crisis  
+and already elevated levels of  US official sector debt, US bank supervision must emphasize 
+ex ante crisis prevention  against the full breadth of bank risks, including interest -rate and 
+liquidity risk.  
+US bank regulation needs to include quantitative limits on interest -rate risk, liqui dity risk, 
+and TLAC for more US banks —not just the systemic US banks. Such rules are particularly 
+important given ongoing risks related to still above -target inflation, Treasury market 
+fragility, growing risks to investor confidence in Treasuries, and the Fed’s use of 
+unconventional monetary policy , which increases the volatility of both banking system 
+liquidity and deposits.  
+  
+338
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 29 ---
+POLICY NOTE 
+ 
+ 
+VII. References 
+Bank of Portugal. 2020. “Interaction between Regulatory Minimum Requirements and 
+Capital Buffers.” Financial Stability Report, June 2020. 
+https://elischolar.library.yale.edu/ypfs-documents2/5408/ 
+Basel Committee on Banking Supervision (BCBS). 2004. “Principles for the Management 
+and Supervision of Interest Rate Risk.” Bank for International Settlements, July 2004. 
+https://elischolar.library.yale.edu/ypfs-documents2/5409/ 
+———. 2013. “Basel III: The Liquidity Coverage Ratio and Liquidity Risk Monitoring Tools.” 
+Bank for International Settlements, January 2013.  
+https://elischolar.library.yale.edu/ypfs-documents2/5473 
+———. 2014. “Basel III: The Net Stable Funding Ratio.” Bank for International Settlements, 
+October 2014.  
+https://elischolar.library.yale.edu/ypfs-documents2/5410/ 
+———. 2015. “TLAC Quantitative Impact Study Report.” Bank for International 
+Settlements, November 2015.  
+https://elischolar.library.yale.edu/ypfs-documents2/5411/ 
+———. 2016a. “Standards: Interest Rate Risk in the Banking Book.” Bank for International 
+Settlements, April 2016.  
+https://elischolar.library.yale.edu/ypfs-documents2/5412/ 
+———. 2016b. “Standard: TLAC Holdings.” Bank for International Settlements, October 
+2016.  
+https://elischolar.library.yale.edu/ypfs-documents2/5413/ 
+———. 2025. “BCBS Dashboards.” Bank for International Settlements, 2025. 
+https://elischolar.library.yale.edu/ypfs-documents2/5402/ 
+Benahmed, Riad. 2022. “Loss-Absorbing Capacity Requirements in Resolution for G-SIBs in 
+the EU and the US: A Cross-Jurisdictional Comparison.” ACPR, Bank of France, Working 
+Paper on Resolution, December.  
+https://elischolar.library.yale.edu/ypfs-documents2/5414/ 
+Benoit, Mesnard. 2016. “Loss Absorbing Capacity in the Banking Union: TLAC 
+Implementation and MREL Review,” July 7, 2016.  
+https://elischolar.library.yale.edu/ypfs-documents2/5415/ 
+Board of Governors of the Federal Reserve System (Fed). 1996. “FRB: Supervisory Letter on 
+Joint Policy Statement on Interest Rate Risk,” May 23, 1996. 
+https://elischolar.library.yale.edu/ypfs-documents2/5417/ 
+339
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 30 ---
+POLICY NOTE 
+ 
+ 
+———. 2017. “Total Loss-Absorbing Capacity, Long-Term Debt, and Clean Holding 
+Company Requirements for Systemically Important U.S. Bank Holding Companies and 
+Intermediate Holding Companies of Systemically Important Foreign Banking 
+Organizations.” 82 Fed. Reg. 8266, January 24, 2017. 
+https://elischolar.library.yale.edu/ypfs-documents2/5431/ 
+———. 2019. “Requirements for Domestic and Foreign Banking Organizations.” Tailoring 
+Rule, 2019.  
+https://elischolar.library.yale.edu/ypfs-documents2/5432/ 
+———. 2020. “Final Rule to Implement a Net Stable Funding Ratio Requirement for Large 
+Banking Organizations.” Draft Final Rule, October 20, 2020. 
+https://elischolar.library.yale.edu/ypfs-documents2/5450/ 
+———. 2023a. “Re: Review of the Federal Reserve’s Supervision and Regulation of Silicon 
+Valley Bank,” April 28, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4025/ 
+———. 2023b. “Section 3300.1: Interest Risk Management.” In Commercial Bank 
+Examination Manual. Washington, DC: The Federal Reserve. 
+https://elischolar.library.yale.edu/ypfs-documents2/5418/ 
+———. 2024. “12 CFR Part 249 Subpart D -- Total Net Cash Outflow.” National Archives, 
+December 12, 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/5419/ 
+———. 2025. “Capital Adequacy of Bank Holding Companies, Savings and Loan Holding 
+Companies, and State Member Banks (Regulation Q).” 12 CFR Part 217, January 22, 2025. 
+https://elischolar.library.yale.edu/ypfs-documents2/5451/ 
+Board of Governors of the Federal Reserve System and Federal Deposit Insurance 
+Corporation (Fed and FDIC). 2022. “Resolution-Related Resource Requirements for Large 
+Banking Organizations.” 87 Fed. Reg. 64170. R-1786, October 24, 2022. 
+https://elischolar.library.yale.edu/ypfs-documents2/5420/ 
+Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, 
+and Office of the Comptroller of the Currency (Fed, FDIC, and OCC). 2014. “Liquidity 
+Coverage Ratio: Liquidity Risk Measurement Standards.” 79 Fed. Reg. 61440, October 10, 
+2014.  
+https://elischolar.library.yale.edu/ypfs-documents/13123/ 
+———. 2019. “Changes to Applicability Thresholds for Regulatory Capital and Liquidity 
+Requirements.” 84 Fed. Reg. 59230, November 1, 2019. 
+https://elischolar.library.yale.edu/ypfs-documents2/5445/ 
+340
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 31 ---
+POLICY NOTE 
+ 
+ 
+———. 2020. “Agencies Issue Final Rule to Strengthen Resilience of Large Banks.” Joint 
+press release, October 20, 2020.  
+https://elischolar.library.yale.edu/ypfs-documents2/5416/ 
+———. 2023. “Long-Term Debt Requirements for Large Bank Holding Companies, Certain 
+Intermediate Holding Companies of Foreign Banking Organizations, and Large Insured 
+Depository Institutions.” 88 Fed. Reg. 64524, September 19, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/5497 
+Capital One Financial Corporation, Charles Schwab Corporation, PNC Financial Services 
+Group, Truist Financial Corporation, and U.S. Bancorp (Non–G-SIB Banks). 2023. “Comment 
+Letter to the Board of Governors of the Federal Reserve System and Federal Deposit 
+Insurance Corporation,” January 23, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/5545 
+Cetina, Jill. 2015. “Incorporating Liquidity Shocks and Feedbacks in Bank Stress Tests.” OFR 
+Brief Series 15, no. 6: 7.  
+https://elischolar.library.yale.edu/ypfs-documents2/5421/ 
+Cipriani, Marco, Thomas M. Eisenbach, and Anna Kovner. 2024. “Tracing Bank Runs in Real 
+Time.” Federal Reserve Bank of New York Staff Report No. 1104, September 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/4763/ 
+Cleary Gottlieb Steen & Hamilton LLP (Cleary Gottlieb). 2015. “Comparing the Federal 
+Reserve’s TLAC Proposal to the FSB TLAC Final Standards.” Alert Memorandum, November 
+20, 2015.  
+https://elischolar.library.yale.edu/ypfs-documents2/5422/ 
+European Banking Authority (EBA). 2017. “2015_1759 Group Solvency - Combined Buffer 
+Requirements.” Single Rulebook Q&A, July 28, 2017. 
+https://elischolar.library.yale.edu/ypfs-documents2/5424/ 
+———. 2020. “EBA Quantitative MREL Report.” EBA/REP/2022/09. EBA Reports, 
+December 31, 2020.  
+https://elischolar.library.yale.edu/ypfs-documents2/5425/ 
+———. 2023. “Other Systemically Important Institutions (O-SIIs).” Risk Monitoring, June 
+12, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/5426/ 
+European Central Bank (ECB). 2024. “Capital Conservation Buffer.” European Systemic Risk 
+Board, March 20, 2024.  
+https://elischolar.library.yale.edu/ypfs-documents2/5427/ 
+341
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 32 ---
+POLICY NOTE 
+ 
+ 
+Federal Deposit Insurance Corporation (FDIC). n.d. “Special Assessment Pursuant to 
+Systemic Risk Determination.” Accessed January 24, 2025. 
+https://elischolar.library.yale.edu/ypfs-documents2/5429/ 
+Financial Stability Board (FSB). 2015. “Principles on Loss-Absorbing and Recapitalisation 
+Capacity of G-SIBs in Resolution: Total Loss-Absorbing Capacity (TLAC) Term Sheet,” 
+November 9, 2015.  
+https://elischolar.library.yale.edu/ypfs-documents2/5434/ 
+First Republic Bank (First Republic). 2023. “Form 10-K.” Press release, February 13, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/5202 
+Gaul, Lewis, and Jonathan Jones. 2021. “CAMELS Ratings and Their Information Content.” 
+OCC Working Paper No. WP-2021-01, January 6, 2021. 
+https://elischolar.library.yale.edu/ypfs-documents2/5470 
+Gopalan, Yadav, and Joao Granja. 2023. “How (In)Effective Was Bank Supervision During 
+the 2022 Monetary Tightening?” University of Chicago, Becker Friedman Institute for 
+Economics Working Paper No. 2023-130, September 29, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/5472 
+Gruenberg, Martin J. 2023. “Oversight of Financial Regulators: Financial Stability, 
+Supervision, and Consumer Protection in the Wake of Recent Bank Failures.” Testimony of 
+the FDIC Chairman before the US Senate Committee on Banking, Housing, and Urban 
+Affairs, May 18, 2023. https://elischolar.library.yale.edu/ypfs-documents2/5428/ 
+Honohan, Patrick. 2023. “The Fed’s Recent Bank Stress Tests Used Scenarios with Little 
+Variation. None Examined Higher Interest Rates.” The Peterson Institute for International 
+Economics, March 27, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/5437/ 
+Mendicino, Caterina, Kalin Nikolov, and Javier Suarez. 2020. “Equity Versus Bail-In Debt in 
+Banking: An Agency Perspective.” ESRB Working Paper Series, No. 2017/50, July 2020. 
+https://www.ssrn.com/abstract=3723397 
+Mitchell, Patrick. 2023. “Re: Notice of Proposed Rulemaking on Special Assessments 
+Pursuant to Systemic Risk Determination.” Federal Deposit Insurance Corporation, May 11, 
+2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/5438/ 
+Office of Financial Research (OFR). 2015. Annual Report 2014. 
+https://elischolar.library.yale.edu/ypfs-documents2/5443/ 
+  
+342
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 33 ---
+POLICY NOTE 
+ 
+ 
+Office of the Comptroller of the Currency (OCC). 2020. “Interest Rate Risk (Version 1.0).” In 
+Comptroller’s Handbook. Safety and Soundness Series. Washington, D.C.: Office of the 
+Comptroller of the Currency.  
+https://elischolar.library.yale.edu/ypfs-documents2/5455/ 
+———. 2024. “Interest Rate Risk Statistics Report [Fall 2024],” October 21, 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/5442/ 
+Roffler, Michael J. 2023. “Comment Letter to the Board of Governors of the Federal Reserve 
+System and Federal Deposit Insurance Corporation,” January 23, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/5435/ 
+Rossolillo, Nicholas. 2021. “SVB Financial Group Is the Best Bank Stock Nobody’s Talking 
+About.” Motley Fool, May 16, 2021.  
+https://elischolar.library.yale.edu/ypfs-documents2/5407/ 
+Silicon Valley Bank Financial Group (SVB). 2022. “Systemic Risk Report—FR Y-15 [SVB 
+Financial Group],” December 31, 2022.  
+https://elischolar.library.yale.edu/ypfs-documents2/5423/ 
+———. 2023a. “SVB Q4 2022 Financial Highlights,” January 19, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/5448/ 
+———. 2023b. “Form 10-K,” February 24, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/5447/ 
+———. 2023c. “SVB Financial Group Announces Proposed Offerings of Common Stock and 
+Mandatory Convertible Preferred Stock.” Press release, March 8, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/5546/ 
+Single Resolution Board (SRB). 2023. “SRB MREL Dashboard Q4.2022,” May 15, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/5449/ 
+US Congress. 2021. “Section 5. Deposit Insurance.” Federal Deposit Insurance Act, August 
+31, 2021. 12 CFR Part 330, August 31, 2021.  
+https://elischolar.library.yale.edu/ypfs-documents2/5430/ 
+US Securities and Exchange Commission (US SEC). 1997. “Questions and Answers about the 
+New ‘Market Risk’ Disclosure Rules,” July 31, 1997.  
+https://elischolar.library.yale.edu/ypfs-documents2/5454/ 
+ 
+  
+343
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 34 ---
+POLICY NOTE 
+ 
+ 
+VIII. Appendixes 
+Appendix A: LCR Calculations for SVB 
+Appendix A describes our liquidity coverage ratio (LCR) calculations for Silicon Valley Bank 
+(SVB) (Figure 11). The caveat is that we were limited to public reports —the company’s 10-
+K, Y-15 systemic risk report, call reports, and investor presentations. The Fed eral Reserve 
+did require the company to submit the FR 2052A liquidity monitoring report, but that is not 
+publicly available. We believe we made the most of the information that was publicly 
+available.15  
+  
+ 
+15 Note that this piece focuses on SVB. A similar analysis of First Republic Bank suggests it also would have been 
+out of compliance with the LCR if it had been required to meet it. I ts Form 10-K for 2022 notes that, although 
+the LCR didn’t apply, the bank had USD 26 billion in high -quality liquid assets  (HQLAs). But that would be its 
+HQLA ignoring the haircuts and cap on Level 2 assets that the LCR rule imposes. Based on the rule, its  HQLA 
+would have been about USD 10 billion. Meanwhile, First Republic had USD 176 billion in deposits, of which 
+about one-third was insured; USD 51 billion in commitments; USD 10 billion in short-term Federal Home Loan 
+Bank commitments; and minimal inflows . Assuming a 3% drawdown for insured deposits and 10% for 
+uninsured deposits (generously) gets an LCR of roughly 50%, before the 70% adjustment for banks with less 
+than USD 250 billion in assets (First Republic 2023). 
+344
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 35 ---
+POLICY NOTE 
+ 
+ 
+Figure 11: LCR Calculations 
+ 
+Sources: Company financial reports; YPFS analysis.  
+345
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 36 ---
+POLICY NOTE 
+ 
+ 
+LCR Numerator: High-Quality Liquid Assets 
+High-quality liquid assets ( HQLAs) were relatively easy to calculate. Level 1 assets are 
+considered the most liquid assets and enter the numerator with no haircut. They include 
+reserve balances with the central bank, government debt, and government -guaranteed 
+securities. At the end of 2022, SVB  had USD 31.7 billion in Level 1 assets: USD 7.8 billion in 
+reserve balances ; USD 16.2 billion in US Treasuries ; and USD 7.7 billion in mortgage 
+securities issued by Ginnie Mae, which the government fully guarantees. Level 2A assets are 
+considered somewhat riskier and receive a 15% haircut. They include government agency 
+debt and agency mortgage -backed securities. SVB had more than USD 60 billion in agency 
+mortgage-backed securities. However, under the LCR rules, Level 2 A assets can’t be more 
+than 40% of total HQLA, so SVB’s Level 2A assets would have been capped at USD 21.2 billion.  
+Total HQLA: USD 52.9 billion.  
+LCR Denominator: Cash Outflows 
+The denominator is harder to calculate and open to some interpretation. If SVB had been 
+subject to the rule, its management would have had to hammer out all of the issues in the 
+following paragraphs with its Fed supervisors, using far more detailed data disclosures than 
+the company was required to make to the public.  
+To compute outflows , the LCR rules assume stressed runoff rates for each type of bank 
+liability based on experience in past crises and on management and supervisory judgment. 
+SVB had USD 173.1 billion in  deposits at the end of 2022. Of those, USD 165.4 billion were 
+uninsured: USD 151.5 billion were uninsured deposits in US offices that exceeded the Federal 
+Deposit Insurance Corporation (FDIC) insurance limit; another USD 13.9 billion were foreign 
+deposits, which the FDIC doesn’t insure (see the company’s last Form 10-K [SVB 2023b]). 
+We assume d the remaining USD 7.7 billion was insured. Under the US rules, stressed 
+outflows for insured deposits range from 3% to 40%: 3% for retail and small business 
+customers, and 5% to 40% for wholesale customers that are not financial companie s. We 
+assumed an average 5% runoff of insured deposits. That yield ed a small outflow of USD 
+0.4 billion.  
+Calculating outflows on the USD 165.4 billion in uninsured deposits was the largest part of 
+SVB’s LCR and require d the most judgment. These were also the depositors who ran the 
+bank, so it is important to understand how the rule would have treated them ex ante.  
+Within the uninsured deposit category, the LCR rules makes key distinctions:  
+• Retail clients are considered more loyal (sticky) and less likely to run than wholesale 
+clients.  
+• Among wholesale accounts, operational deposits—deposits that customers need to 
+place with a bank in order to use services such as payment settlement systems, and 
+don’t bear interest —are considered stickier than nonoperational deposits —which 
+346
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 37 ---
+POLICY NOTE 
+ 
+ 
+are interest bearing; the rules assume these depositors are more likely to switch to 
+other banks to get better rates.  
+• Also among wholesale accounts, nonfinanc ial company deposits are considered 
+stickier than financial company deposits. 
+SVB reported its end -2022 short-term wholesale funding in its Y -15 Systemic Risk Report , 
+as the Fed requires  (SVB 2022) . Uninsured, nonfinancial wholesale deposits were USD 
+109.6 billion; uninsured, financial wholesale deposits were USD 28.8 billion. It is typically 
+difficult to estimate from public filings how much of a bank’s deposits are operational, but 
+the company in a January 2023 investor presentation said that 47% of clients’ funds were in 
+“operating cash typically held in on -balance sheet, noninterest -bearing deposits ” (SVB 
+2023a, 11). Accepting the company’s definition of “operating” and applying that proportion 
+yielded USD 65 billion in operational uninsured deposits fro m both financial and 
+nonfinancial customers, which have a 25% runoff factor under the rule; USD 58.1 billion in 
+nonoperational uninsured deposits from nonfinancial customers (40%); and USD 15.3 
+billion in nonoperational uninsured deposits from financial cu stomers (100%). The 
+combined outflow from uninsured wholesale clients came to USD 54.7 billion. 
+We assume d the remaining USD 27.1 billion of uninsured deposits were retail or small 
+business. Applying the 10% runoff factor under the rule yielded an outflow of USD 2.7 billion. 
+The LCR rules also require a bank to assume that its customers draw down on a portion of 
+their outstanding lines of credit and other commitments. The drawdown rates are 5% for 
+commitments to retail customers, 10% or 30% for nonfinancial  wholesale customers, and 
+40% for financial entities other than banks (Fed 2024, part 249.32 [e][1]). SVB had USD 62.2 
+billion in such commitments at the end of 2022; assuming a 20% average drawdown rate, 
+the outflow would have been USD 12.5 billion.  
+Finally, SVB had USD 13.6 billion in short -term borrowings, of which USD 13 billion were 
+advances from the Federal Home Loan Bank (FHLB) of San Francisco. The outflow for such 
+borrowings was 25%, or USD 3.4 billion. 
+The total cash outflow came to USD 73.7 billion. 
+LCR Denominator: Cash Inflows 
+Next, inflows. The LCR allows banks to subtract contractual inflows  from their estimate of 
+30-day outflows, according to the LCR guidelines (BCBS 2013, para. 142).  
+Contractual inflows may include loans that are scheduled to mature during the 30 -day 
+period. The rules then allow banks to treat half of such repayments as in flows. However, a 
+close look at SVB’s USD 73.6 billion portfolio of performing loans suggests that it should have 
+counted on very little of those loans to be repaid over 30 days. 
+347
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 38 ---
+POLICY NOTE 
+ 
+ 
+First, of that total, USD 46 billion were revolving loans (SVB 2023b, 132–33). Borrowers are 
+expected to roll over such loans , and they are not included in inflows, per the US final rule: 
+“With respect to revolving credit facilities, already drawn amounts would not have been 
+included in a covered company's inflow amount ” (Fed, FDIC, and OCC 2014). To make clear 
+why such loans should not be considered inflows in SVB’s case, note that about USD 40 billion 
+of the total represent ed loans to private equity or venture capital funds. According to the 
+company: “The vast majority of this por tfolio consists of capital call lines of credit, the 
+repayment of which is dependent on the payment of capital calls by the underlying limited 
+partner investors in the funds managed by these firms ” (SVB 2023b, 70). Surely, it makes 
+sense that the rules would not expect SVB to be able to demand that venture capital investors 
+repay their revolving loans in stressed market conditions. 
+Eliminating the revolving loans left USD 27.6 billion in term loans. These included USD 6.1 
+billion in “investor-dependent” loans. Borrowers of these loans may have required 
+additional equity financing from venture capital firms or other investors, or in some cases a 
+successful sale to a third party or an IPO, according to the company’s 10-K (SVB 2023b, 70). 
+Further, the risk of “prolonged market volatility  . . . particularly applies to Investor 
+Dependent loans, where repayment is dependent on the borrower’s ability to fundraise or 
+exit” (74). Without specific backing from the Basel Committee on Banking Supervision 
+guidelines or the agencies’ final rule, it wouldn’t have been prudent to assume repayment of 
+investor-dependent loans in stressed market conditions. Of the remaining USD 21.5 billion 
+in term loans, less than USD 3 billion would have matured in under one year (SVB 2023b, 
+73). Assuming one-twelfth of those loans paid back at maturity within 30 days and applying 
+the 50% haircut in the rule gave a cash inflow of USD 0.1 billion. 
+SVB reported USD 5.3 billion in deposits at other financial institutions. Under the rules, banks 
+can’t include operational deposits in their inflow estimates, since “these deposits are 
+required for operational reasons, and are therefore not available to the depositing bank to 
+repay other outflows” (BCBS 2013, para. 98). The US regulators’ final rule in 2014 similarly 
+excluded “any inflows derived from amounts that a covered company holds in operational 
+deposits at other regulated financial companies . . . [T]he agencies reasoned that it would be 
+unlikely that a covered company would be able to withdraw these funds in a crisis to meet 
+other liquidity needs, and therefore excluded them ” (Fed, FDIC, and OCC 2014) . However, 
+it’s impossible to tell from the public filings how much of SVB’s bank deposits were 
+operational. We assume d 50% were operational. That yielded an inflow of USD 2.6 billion, 
+using the 100% factor in the rule. 
+Cash inflows: USD 2.8 billion. Net outflows: USD 71 billion. 
+The resulting LCR is 75%: 52.9/71. 
+  
+348
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 39 ---
+POLICY NOTE 
+ 
+ 
+Appendix B: NSFR Calculations for SVB 
+As in the liquidity coverage ratio (LCR) calculations, we made the most of publicly available 
+information. Interpretations of the rule were largely based on the memo that Federal 
+Reserve Board staff published with the press release in 2020 (Fed 2020). The company may 
+have reported different figures if supervisors had required it to report its net stable funding 
+ratio (NSFR). 
+The NSFR applies multipliers, called factors, to reflect the relative stability of each funding 
+source in the numerator and the relative long -term nature of each asset that n eeds funding 
+in the denominator. For example, in the numerator, capital and long -term debt are 
+considered 100% stable and insured retail deposits are considered 95% stable; the more of 
+these liabilities, the better. Uninsured wholesale deposits get a much lower stable funding 
+factor of 0% to 50%, depending on nuances that we discuss below. 
+In the denominator, loans  with more than one year left to mature typically require a lot of 
+stable funding. Their required stable funding factors range from 65% for relatively low-risk, 
+nonfinancial loans to 100% for long-term financial loans.  
+Most securities, however, are considered short -term holdings and require far less stable 
+funding. The most liquid securities, which regulators consider to be Level 1 high-quality 
+liquid assets (HQLAs)—central bank reserves, US Treasuries, and other government-backed 
+securities—don’t require any stable funding at all. Level 2A HQLAs require 15% stable 
+funding. These include agency mortgage-backed securities (MBS) issued by the government-
+sponsored enterprises, Fannie Mae and Freddie Mac, which dominated Silicon Valley Bank’s 
+(SVB’s) portfolio.  
+NSFR Numerator: Available Stable Funding 
+SVB had USD 17.9 billion in regulatory capital and USD 5.4 billion in long -term debt at the 
+end of 2022, contributing a total of USD 23.3 billion in available stable funding based on the 
+100% funding factor in the rule. Insured retail deposits of USD 7.7 billion contributed USD 
+7.3 billion (95%); uninsured small business and retail deposits of USD 27.1 billion, based on 
+our estimates, contributed USD 24.4 billion (90%).  
+The bank also reported USD 13 billion in short -term funding from the Federal Home Loan 
+Banks. The rule (Fed, FDIC, and OCC 2020, 105)  attributes a 50% available stable funding 
+factor to such debt, resulting in a contribution of USD 6.5 billion. 
+The rule appropriately considers uninsured wholesale deposits to be far less stable than 
+insured deposits. And it considers deposits that customers need for their operations (for 
+example, payment settlement) to be more stable than other deposits. Operation al deposits 
+from financial or nonfinancial companies receive a 50% funding factor. Nonoperational 
+deposits receive a 50% factor if they are from nonfinancial companies and a 0% factor if they 
+are from financial companies.  
+349
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 40 ---
+POLICY NOTE 
+ 
+ 
+As with the LCR, one of the challenges in estimating NSFRs with only public information was 
+the allocation of uninsured wholesale deposits between the operational and nonoperational 
+categories. Again accepting the company’s definition of “operating” from its January 2023 
+investor presenta tion suggested a 47%/53% breakdown between operational and 
+nonoperational deposits (SVB 2023a). These assumptions yielded available funding of USD 
+32.5 billion from operational deposits and USD 29 billion from nonoperational deposits held 
+by nonfinancial companies.  
+Total available stable funding: USD 123 billion.  
+NSFR Denominator: Required Stable Funding 
+As noted, the NSFR rules are generous for securities that qualify as HQLAs, because they 
+assume repurchase agreement ( repo) funding availability. And the NSFR—like the LCR, in 
+fact—doesn’t distinguish between held -to-maturity securities and securities that a bank 
+holds for sale or trading. Thus, the NSFR rule would have treated SVB’s agency MBS as Level 
+2A HQLAs with a required stable funding factor of just 15% of their carrying value.  
+The bank held USD 85.1 billion in agency MBS. Of that, USD 2 billion were pledged to the 
+Federal Home Loan Banks for more than one year; the rule considers such encumbered 
+securities to be unavailable, so they required 100% stable funding. The remaining USD 83.1 
+billion—of which 97% was held -to-maturity—would have required just USD 12.5 billion in 
+stable funding.  
+The bank held an additional USD 8.1 billion of Level 2B HQLAs, like municipal bonds, also 
+held-to-maturity. They carried a 50% required stable funding factor, so they would have 
+required USD 4.1 billion in stable funding. 
+SVB had USD 62.5 billion in undrawn commitments to provide credit or liquidity to its clients. 
+These carried a 5% funding factor, resulting in USD 3.1 billion in required stable funding. We 
+also assume d USD 3 billion in required stable funding to back SVB’s deposits with other 
+banks and USD 2.7 billion to back nonmarketable securities. 
+Loans would have contribute d the bulk of SVB’s required stable funding, even though they 
+made up only one-third of the bank’s balance sheet. More than half of the bank’s loans were 
+revolving loans ( USD 40.5 billion total) from SVB’s Global Fund Banking business line. We 
+assumed these would have had a 100% required funding factor in the rule, assuming clients 
+had the ability to roll them over indefinitely; relaxing that assumption could have reduced 
+required funding by about USD 20 billion. The bank’s 2022 Form 10-K noted that repayment 
+of much of its loans were dependent upon clients’ receipt of funding from third parties (SVB 
+2023b, 19). During stressed conditions, it seems fair to say that SVB couldn’t have been sure 
+when clients would have repaid these loans. 
+There was another USD 5.5 billion in revolving loans and USD 18.4 billion in other loans to 
+nonfinancial institutions, mostly carrying an 85% required funding factor. These would have 
+required USD 4.7 billion and USD 14.2 billion in stable funding, respectively. A small amount 
+350
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 41 ---
+POLICY NOTE 
+ 
+ 
+of non-revolving financial loans would have required USD 0.4 billion. Residential mortgages 
+(USD 9.1 billion) would have required USD 5.9 billion, based on a 65% risk factor.  
+Total required funding for loans: USD 65.8 billion. 
+Total required stable funding: USD 93.1 billion. 
+The resulting NSFR is 132%: 123/93.1. 
+Figure 12: NSFR Calculations 
+ 
+Sources: Company financial reports; YPFS analysis. 
+351
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 42 ---
+POLICY NOTE 
+ 
+ 
+Appendix C: TLAC Calculations for SVB and Other Failed Banks 
+We sought to calculate whether the Basel Committee on Banking Supervision’s existing total 
+loss-absorbing capacity (TLAC) rules, as tailored by European regulators, could have saved 
+the Federal Deposit Insurance Corporation’s Deposit Insurance Fund money by allowing it 
+to bail in more long-term debt (LTD) creditors. In short, our analysis show ed that the three 
+failed banks did not have sufficient LTD at the level or composition that regulators would 
+have required for an effective bail-in.  
+Not all LTD can ef fectively absorb losses; following the Financial Stability Board’s 2015 
+recommendations, regulators require any TLAC debt to be unsecured and subordinated to 
+depositors and other protected creditors (FSB 2015). Seeking a simple and straightforward 
+bail-in, US regulators in their implementation of the Basel standard have gone a step further 
+by requiring debt instruments to be “plain vanilla, ” that is, without convertibility or 
+derivative-linked features, such as call options. European Union (EU) regulators, on the other 
+hand, are more generous in what qualifies as TLAC, accepting more Tier 2 instruments, 
+structured notes, and other convertible  regulatory capital instruments, which the US does 
+not accept16 (Cleary Gottlieb 2015). 
+Of course, TLAC would be one requirement of many already applied by regulators. For 
+example, these three banks were also subject to a capital conservation buffer of 2.5% of their 
+risk-weighted assets ( RWAs), which they had to meet entirely with common equity Tier 1 
+(CET1) capital (Fed 2025). If they breached their minimum capital requirements plus this 
+buffer (that is, a total CET1 ratio of 7%), regulators would force th e banks to pause capital 
+distributions. To ensure that TLAC is unencumbered, banks cannot count CET1 for both their 
+required buffers and their TLAC requirement. (This is  also true of global systemically 
+important banks (G-SIBs), which are subject to more and larger buffers [Fed 2017].) For our 
+calculation, we earmarked 2.5% of the banks’ RWAs to meet this buffer, meaning it could not 
+count toward TLAC (BCBS 2016b). 
+Our analysis applie d the EU’s threshold for similarly sized banks, which is 13.5% of risk -
+weighted assets. 17 We also appl ied the US rules for eligible instruments and debt -equity 
+composition. That is, we expected an LTD target of 4.5% of RWAs, or one-third of the 13.5% 
+TLAC target, and an equity target of 9% of RWAs.  
+Based on our calculations, these three US banks would have had a combined equity and LTD 
+shortfall of USD 13.6 billion under these assumptions:  
+ 
+16 There are many differences in the US and EU rules. For example, regulators in the US and EU only count LTD 
+with a residual maturity of at least one year, but the US goes further by haircutting eligible LTD by 50% if it 
+matures in less than two years (Cleary Gottlieb 2015).  This is a material  difference in rulemaking, but for the 
+purposes of our analysis, we left this issue aside , since all the eligible LTD issued by these three banks had 
+remaining maturities of greater than two years. 
+17  We did not use the leverage exposure measure since these  banks, unlike G -SIBs, were not subject to 
+consistent leverage reporting requirements. 
+352
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 43 ---
+POLICY NOTE 
+ 
+ 
+Silicon Valley Bank. At year -end 2022, Silicon Valley Bank ’s (SVB’s) liabilities included 
+enough TLAC -eligible equity and debt instruments to exceed the EU’s minimum 13.5% 
+threshold. However, those instruments were mostly CET1 or preferred stock, and long-term 
+debt made up just 3% of RWAs. To meet that part of the US stan dards, SVB would have had 
+to raise an additional USD 1.7 billion in LTD or convert some of its excess capital into LTD. 
+Signature Bank. At the same point in time,  Signature’s TLAC ratio was only 7.1%, 
+substantively all of which was in CET1. To comply with a 13.5% TLAC threshold and a 4.5% 
+LTD threshold, Signature would have had to raise another USD 3.5 billion in LTD. On the 
+capital side, we assume d Signature would set aside enough CET1 to continue its capital 
+distributions. Excluding the CET1 that would have met the capital conservation buffer (2.5% 
+of RWA) would have placed Signature in a TLAC -capital deficit of USD 2.3 billion. The 
+combined shortfall was USD 5.8 billion. 
+First Republic. First Republic had only USD 779 million in long -term senior notes 
+outstanding, and a TLAC ratio of 9.5% at year -end 2022. To meet our hypothetical 
+requirements, First Republic would have had to raise an additional USD 6.1 billion in LTD.  
+  
+353
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.
+
+--- Page 44 ---
+POLICY NOTE 
+ 
+ 
+Figure 13: TLAC Deficit Calculations 
+ 
+Sources: Company financial reports; YPFS analysis. 
+354
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 45 ---
+POLICY NOTE 
+ 
+ 
+ 
+This open access article is distributed under the terms of the CC-BY-NC-ND 4.0 license, which allows 
+sharing of this work provided the original author and source are cited. The work may not be changed 
+or used commercially. 
+ 
+ 
+355
+How US Bank Regulation Failed SVB and Its Supervisors Feldberg et al.

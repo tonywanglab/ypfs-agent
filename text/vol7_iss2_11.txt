@@ -1,0 +1,864 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 7 Issue 2 
+2025 
+Emergency Liquidity Assistance and Monetary Financing in the Emergency Liquidity Assistance and Monetary Financing in the 
+European Union: A Case Study in Fiscal Cooperation? European Union: A Case Study in Fiscal Cooperation? 
+Vincient Arnold 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Finance and Financial Management Commons, Law and Economics Commons, Policy Design, Analysis, 
+and Evaluation Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Arnold, Vincient (2025) "Emergency Liquidity Assistance and Monetary Financing in the European Union: 
+A Case Study in Fiscal Cooperation?," Journal of Financial Crises: Vol. 7 : Iss. 2, 293-312. 
+DOI: https://doi.org/10.17132/2693-3179.1657 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/11 
+This Note is brought to you for free and open access by the Journal of Financial Crises and EliScholar – A Digital 
+Platform for Scholarly Publishing at Yale. For more information, please contact journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This note is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/
+iss2/11
+
+--- Page 3 ---
+POLICY NOTE 
+ 
+Emergency Liquidity Assistance and  
+Monetary Financing in the European Union:  
+A Case Study in Fiscal Cooperation?1 
+Vincient Arnold 2  
+June 25, 2025 
+Abstract 
+In the European Union (EU), primary EU treaty law prohibits central banks from engaging in 
+monetary financing, which includes lending to insolvent firms. This legal prohibition exists 
+alongside, and in parallel to, various regulatory provisions of the Eurosystem. As a result, EU 
+Member State central banks face unique legal limitations when acting in their roles as 
+lenders of last resort, providing emergency liquidity assistance (ELA). In practice, European 
+central banks —both members of the Eurosystem and no t—lend to firms of questionable 
+solvency with some frequency, often creatively employing fiscal guarantees to limit their 
+balance sheet exposure and shift the lending risk to the fiscal authority, thereby reducing the 
+risk of monetary financing as describe d in EU law. Through stylized case studies, this note 
+explores instances where ELA intersects with issues of solvency, highlighting the challenges 
+that European central banks face. It also discusses the role of fiscal guarantees as a policy 
+tool for such situations, describing their benefits, risks, and limitations. The note concludes 
+that policymakers should make plans for such scenarios ahead of time in line with applicable 
+regulations on solvency and should maintain coordination with fiscal authorities w hen 
+appropriate.  
+Keywords: emergency liquidity assistance , European Union, financial crises , financial 
+regulation, monetary financing 
+  
+ 
+1 A version of this note was originally published on the Yale School of Management’s Systemic Risk  blog on  
+January 30, 2025. 
+2 Research Associate at the Yale Program on Financial Stability; email: vincient.arnold@yale.edu. The views 
+expressed are those of the author and not necessarily those of the institutions with which the author is 
+affiliated. 
+293
+
+--- Page 4 ---
+POLICY NOTE 
+ 
+Introduction 
+Central banks are often faced with a cruel irony: they are (almost always) mandated not to 
+lend to insolvent firms and, by nature of being the lender of last resort (LOLR), face a pool of 
+potential borrowers that are uniquely likely to be insolvent. The question of solvency is 
+therefore one of considerable importance to central bankers and illustrates the impo rtant 
+role of bank examiners and supervisory authorities. In principle, central bankers should not 
+veer into fiscal policy by lending to insolvent firms. In practice, central banks frequently lend 
+to insolvent firms, sometimes because they thought the firm was solvent when it wasn’t, and 
+sometimes despite an ex ante acknowledgement of insolvency. This often creates challenges 
+for central banks:3 Depending on their operating framework and legal system, they may be 
+in violation of legal rules or norms; publicization of their intervention might hurt their 
+credibility; their political independence might be threatened; they may create perverse 
+incentives for certain classes of creditors in other banks; and in extremis, they risk taking 
+capital losses above what is viewed as appropriate for central bank interventions.   
+The aim of this note is not to provide a playbook for assessing solvency —how it should be 
+measured, by which authority, etc. Nor will it deal with the related consideration of viability 
+or normative questions about whether a central bank should care about solvency, viability, 
+etc. This note stipulates that in the vast majority of legal and regulatory frameworks around 
+the world, particularly those in Europe, central banks generally do face constraints—legal 
+and regulatory—on lending to insolvent and/or unviable firms. The question, then, is what 
+to make of lending to insolvent firms gone wrong. 
+The European Union (EU) provides a particularly fruitful setting for this question, since in 
+the EU, central bank financing of an insolvent firm is legally prohibited as monetary 
+financing, a term normally associated with the direct purchase of govern ment debt by 
+monetary authorities. This note will explore through stylized case studies how the EU 
+handles the legal and procedural limits on monetary financing as it relates to emergency 
+liquidity assistance (ELA).4 (To be clear, ELA has a specific meaning in the Eurosystem: while 
+central bank lending for monetary policy is the responsibility of the European Central Bank 
+[ECB], central bank lending for the purposes of financial stability, termed ELA, is the 
+responsibility of the central banks of the me mber nations that are part of the Eurosystem  
+[ECB 2024].) Then, drawing on those case studies, the note will sketch out some advantages 
+and vulnerabilities associated with a common policy intervention employed in such 
+situations: fiscal guarantees.  
+ 
+ 
+3 It should also be noted that plenty of emergency liquidity assistance is in practice granted by non –central 
+banks, but we will not discuss that here since no monetary financing concerns attach to such lending.  
+4 I exclude here the more fam iliar types of monetary financing, which often center on the monetary authority 
+providing direct finance to governments. Such funding will be discussed only insofar as it informs legal norms 
+around monetary financing in ELA or is suspected to have occurred via ELA.  
+294
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 5 ---
+POLICY NOTE 
+ 
+In Principle: The Brussels View on ELA and Monetary Financing 
+The EU is a particularly useful setting to analyze norms and rules about monetary financing 
+because the EU’s prohibition of it is a, and sometimes the, binding constraint on emergency 
+lending.  
+Article 123 of the Treaty on the Functioning of the European Union (TFEU)   
+Discussion of European regulations necessarily involves the Venn diagram that is Europe: 
+Member States of the European Union (not all in the euro area); members of the euro area 
+(all of which are also members of the EU); and European nations that are part of neither the 
+EU nor the euro area. Here, the EU is the operative group. The EU’s general prohibition on 
+monetary financing is sometimes discussed as European Central Bank —and therefore euro 
+area—regulation. That characterization, however, is misleading. While the ECB has 
+implemented procedural arrangements on the provision on ELA and, in 2013, provided a 
+public communication with respect to ELA operations in the form of an agree ment among 
+ECB member nations, ECB agreements are not legally binding but rather are soft law  (ECB 
+2013).5  
+In contrast, the prohibition on monetary financing is found in Article 123(1) of the Treaty on 
+the Functioning of the European Union (TFEU6), which reads [emphasis added]:  
+Overdraft facilities or any other type of credit facility with the European Central Bank 
+or with the central banks of the Member States (hereinafter referred to as ‘national 
+central banks’ [NCBs]) in favour of Union institutions, bodies, offices or agencies, central 
+governments, regional, local or other public authorities, other bodies governed by public 
+law, or public undertakings of Member States  shall be prohibited, as shall the 
+purchase directly from them by the European Central Bank or national central banks of 
+debt instruments. (EU 2012) 
+ 
+5 According to the EU , “soft law is the term applied to EU measures, such as guidelines, recommendations, 
+declarations and opinions, which – in contrast to regulations, directives, and decisions – are not binding on 
+those to whom they are addressed” (EU 2024). While not strictly legally binding, soft law does often have policy 
+effects (similar to agency guidance or published FAQs in the United States).  
+6 The TFEU—itself based on the Treaty of Maastricht of 1992—is one of the EU’s two foundational treaties (the 
+other being the Treaty on European Union), which sets out in detail the principles and objectives of the EU and 
+the scope and functional responsibilities of EU institutions (the Treaty on European Union  in contrast defines 
+the EU’s purpose and lays out its institutions and form) (EU 2018). As a technicality, before the Lisbon Treaty’s 
+going into effect in 2009, TFEU Article 123 was Article 101 of the Treaty Establishing the European Community, 
+but the content was unchanged when the Lisbon Treaty relocated the article. 
+295
+ELA and Monetary Financing in the European Union Arnold
+
+--- Page 6 ---
+POLICY NOTE 
+ 
+As such, Article 123 is binding on all Member States, irrespective of their participation in the 
+Eurosystem. In other words, this is a statutory implementation of EU-level law to which even 
+non-Eurozone EU members7 (for example, Denmark, the UK before 2020) are subject.8  
+The Long Arm of Article 123 
+The operative phrase of TFEU Article 123 is “public undertakings.” That is, public action that 
+should legally be taken by the Member State governments ( in other words,  through fiscal 
+resources rather than monetary resources). Th e Brussels View—what I’ve termed the EU’s 
+view on monetary financing —is that bank recapitalizations and restructurings, which 
+lending to an ex ante insolvent firm would be, are a public undertaking and thus should be 
+supported with public (or, state) resources. Various public documents make this clear. For 
+example, in a 2018 speech, then–ECB executive board member Yves Mersch said [emphasis 
+in original]:  
+The ECB has repeatedly stated  . . .  that financing by central banks, even when granted 
+independently and at their full discretion, of credit institutions other than in connection 
+with their central banking tasks, in particular the support of insolvent  credit and/or 
+other financial institutions, is incompatible with the monetary financing prohi bition. 
+Financing insolvent institutions is a government task – indeed the ECB has identified 
+criteria to distinguish between government tasks and central banking tasks. The ECB 
+has also repeatedly clarified that while central banks may be involved in admi nistering 
+resolution measures, they should not finance them . National central banks could also 
+administer resolution measures on a genuine agency basis on behalf and for the account 
+of a third party , that is, the government or one of its entities.  In this case, however, the 
+central bank would not itself provide liquidity, but simply carry out these tasks like an 
+agent. (Mersch 2018) 
+In other words, the Brussels View  is that central banks may be as involved as they find 
+convenient in administering liquidity—even to insolvent institutions —but they cannot 
+finance lending to an insolvent institution. Operationalized, this means that the fiscal 
+authority (or some other organ of the state, such as the  ministry of economy, sovereign 
+wealth fund, etc.) must bear the counterparty risk. 
+It is also worth noting that monetary policy operations do not fall within the scope of State 
+Aid rules pursuant to Article 107(1) of the TFEU; ELA operations are also excluded, subject 
+ 
+7 This of course excludes the very few nations that have unilaterally adopted the euro and are neither Member 
+States of the EU nor members of the Eurosystem.  Further, it excludes the four nations (Andorra, Monaco, San 
+Marino, and Vatican City) that have, with the approval of the EU, adopted the euro but are neither EU Member 
+States nor members of the Eurosystem.  
+8 Explicitly, TFEU Article 139(2) excludes Article 123 in the list of TFEU articles that do not apply to Member 
+States with a derogation: even non-euro Member States must comply by virtue of being signatories to the TFEU. 
+296
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 7 ---
+POLICY NOTE 
+ 
+to specific LOLR  conditions being met.9 Accordingly, the provision of ELA to an insolvent 
+credit institution would constitute prohibited State Aid. 
+In 2017, the ECB published its ELA Agreement. In the agreement —which, for the avoidance 
+of doubt, is soft law in the EU and not legally binding as such—the ECB clarifies its views on 
+ELA and monetary financing, writing:  
+The violation of the prohibition of monetary financing laid down in Article 123 TFEU 
+may constitute an interference with the objectives and tasks of the  ESCB [European 
+System of Central Banks]. The provision of ELA as notified under Sections 3.2(b) and 3.3 
+is, therefore, assessed ex ante as regards compliance with the prohibition of monetary 
+financing. ELA transactions akin to an overdraft facility or any other type of credit facility 
+for the State, in particular, any financing of the public sector’s obligations vis-à-vis third 
+parties, or the central bank de facto taking over a State task, violate the prohibition of 
+monetary financing. (ECB 2017, paras. 5.2–5.3) 
+The agreement reference s the ECB Governing Council’s ability to prohibit the extension of 
+ELA by a national central bank ( that is , a central bank of a country participating in the 
+Eurosystem) on the basis of monetary financing, insofar as ELA inconsistent with the 
+prohibition on monetary financing interferes with the ECB’s tasks and responsibilities , as 
+laid out in Article 14.4 of the Statue of the European System of Central Banks and of the 
+European Central Bank (ESCB Statute) (EU 2009). The prohibition on monetary financing is 
+binding hard law at the EU level, even when other aspects of the ELA Agreement are not.10  
+The ECB has since updated its ELA guidance, most recently as of the time of writing in 
+September 2024. In relevant part, the 2024 ELA Agreement preserves the 2017 EL A 
+ 
+9 Communication from the Commission  “on the application, from August 2013, of State aid rules ( . . . )” (EC 
+2013).  
+In accordance with paragraph 62 of the Banking Communication:  
+The ordinary activities of central banks related to monetary policy, such as open market operations and 
+standing facilities, do not fall within the scope of the State aid rules. Dedicated support to a specific credit 
+institution (commonly referred to as “emergency liquidity assistance ”) may constitute aid unless the 
+following cumulative conditions are met (footnote 20: In such cases, the measures will subsequently be 
+assessed as part of the restructuring plan):  
+(a) the credit institution is temporarily illiqui d but solvent at the moment of the liquidity provision 
+which occurs in exceptional circumstances and is not part of a larger aid package;  
+(b) the facility is fully secured by collateral to which appropriate haircuts are applied, in function of its 
+quality and market value;  
+(c) the central bank charges a penal interest rate to the beneficiary; and  
+(d) the measure is taken at the central bank's own initiative, and in particular is not backed by any 
+counter-guarantee of the State. (EC 2013)  
+10 This is an important dist inction: while the ELA Agreement itself is not hard law in the EU by nature of it s 
+being an ECB “agreement,” Article 14.4 of the ESCB Statute is primary law insofar as it is annexed in a protocol 
+(no. 4) to the TFEU. Since the EU is a supranational organiz ation and not a single sovereign country, its 
+foundational (or primary) law is not a constitution but rather treaties ratified by its Member States. In other 
+words, EU treaties are the EU’s primary law, and its secondary law comprises the body of law that is derivative 
+of those treaties (for example, regulations, directions, etc.) (EC n.d.). 
+297
+ELA and Monetary Financing in the European Union Arnold
+
+--- Page 8 ---
+POLICY NOTE 
+ 
+Agreement’s explicit permitting of the ECB Governing Council to prohibit the extension of 
+ELA by an NCB on the basis of monetary financing.11   
+Although this agreement was published and amended after the resolution of the cases 
+examined here, it is instrumental for understanding the ECB’s view on ELA interacting with 
+the monetary financing prohibition. 
+In Practice: Stylized Cases of Alleged Monetary Financing via the 
+ELA Mechanism 
+Determination of a bank’s solvency and/or viability is deeply complex and r equires two 
+things in short supply during a crisis: time and detailed information. In practice, during the 
+acute phase of a crisis, distinguishing between solvent and insolvent 12 may be impractical  
+(Goodhart 1999).  
+The nightmare scenario for central banks, then, happens not infrequently: a potentially 
+systemic institution applies to the central bank for emergency liquidity at the 11th hour, and 
+the authorities have limited or insufficient information about the instit ution’s condition. 
+Many central banks in such scenarios choose to err on the side of caution but balance the 
+risks they take in lending to a potentially insolvent firm by obtaining guarantees from the 
+state.  
+Following are some stylized examples of central  banks’ handling of lending to potentially 
+insolvent banks, and how they handled risks associated with monetary financing (all before 
+the publication of the ECB’s 2013 ELA procedures). 
+Ireland 2009 
+In mid -January 2009, the Irish government nationalized Ang lo Irish Bank (Anglo) after it 
+faced severe losses and deposit outflows. In March, the Central Bank of Ireland (CBIR) 
+provided Anglo with ELA, under which the CBIR accepted a broader range of collateral than 
+would be permitted in standing ECB liquidity operations. It continued this lending for years. 
+When it became clear that Anglo was running out of even non -ECB-eligible collateral, the 
+finance ministry recapitalized the bank with nonmarketable promissory notes, which drew 
+much criticism from the European Commission (EC). Through 2010 and 2011, that ELA 
+ 
+11 For a detailed analysis of the changes to the ELA Agreement writ large, see Gortsos (2024). 
+12 Defining solvency and its importance (and distinction to viability) is outside the scope of this note, but suffice 
+it to say that determining it, however construed, is a practically difficult task under time and resource 
+constraints. For numerous reasons, theory notwithstanding, solvency determination can be impractical. First, 
+to determine if assets exceed liabilities, policymakers need to be able to value assets, which may not be possible 
+if entire markets for certain assets are frozen and the price discovery mechanism has collapsed. Lending 
+authorities may also have limited or imperfect supervisory information. Even if supervisory information exists 
+and price discovery is still possible, it is often time that is the binding constraint, with LOLRs given mere hours 
+in many cases to determine solvency.  
+298
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 9 ---
+POLICY NOTE 
+ 
+enjoyed a state guarantee. Eventually, Irish authorities resolved the bank. On the Anglo case 
+generally, see Honohan (2010). 
+The Anglo case was a controversial touchstone for European and international think ing on 
+monetary financing via ELA. While the initial intent of the emergency liquidity was for it to 
+be short term, it ended up being extended for four years and accounting for a large share of 
+Anglo’s funding needs. The Anglo case even prompted some Bank for International 
+Settlements (BIS) researchers to argue that, despite frequent use of ELA by central banks to 
+help unwind insolvent banks, it might be time to retire the practice and provide ELA only to 
+going-concern institutions  (Baudino, Murphy, and Svo ronos 2020) . BIS researchers also 
+argue that central banks should be transparent about the fiscal implications of any liquidity 
+advanced to banks.  
+The finance ministry’s issuance of nonmarketable government promissory notes to Anglo 
+has received particular criticism with respect to monetary financing. In this case, the 
+monetary financing allegation relates to both the more familiar form of monetary 
+financing—when the central bank buys government debt directly 13—and to the Brussels 
+View interpretation of monetary financing as it relates to ELA specifically. With respect to 
+the Brussels View, the monetary authority was advancing liquidity to a potentially insolvent 
+institution, potentially in violation of TFEU Article 123. 
+With respect to the direct financing of government debt, in essence, the fiscal authority 
+owned Anglo at the time (after nationalization) and needed to provide it with a capital 
+injection so that it could obtain liquidity at the CBIR. To do so, the fiscal authority would 
+typically issue debt publicly, in standard auction form. However, Ireland had very limited 
+fiscal space and, as a result of the crisis, was facing a nearly nonexistent market for its 
+sovereign debt; issuing debt publicly, then, was impractical. To avoid those financing 
+conditions, the government provided nonmarketable promissory notes to Anglo, against 
+which the CBIR readily advanced liquidity (Whelan 2012). As a result, in function if not form, 
+the CBIR was financing government debt directly ( that is, without market intermediation). 
+In essence, the fiscal cost saved by the CBIR ’s discounting of nonmarketable promissory 
+notes relative to standard debt issuance woul d be the spread between the rate on the 
+promissory notes and the rate that the Irish state would have obtained in the market 
+(unknown, but sufficiently high for the Irish state to not even try). That said, when Anglo was 
+put into resolution, the Irish stat e exchanged outstanding promissory notes with the CBIR 
+for marketable floating-rate sovereign notes , thereby limiting the monetization impacts of 
+the promissory note issuance. For more on the fiscal costs of the Anglo case related to ELA 
+and promissory notes, see Whelan (2012). 
+In October 2010, the president of the ECB wrote to the Irish minister of finance that ELA 
+could be prohibited on the basis of monetary financing:  
+The provision of [ELA] by the Central Bank of Ireland, as by any National Central Bank  
+ 
+13 For non–monetary policy reasons (in which case it might not even be government debt in the first place), but 
+to provide the government concessional funding costs relative to the market, or t o absorb quantities of 
+government debt that markets cannot absorb. 
+299
+ELA and Monetary Financing in the European Union Arnold
+
+--- Page 10 ---
+POLICY NOTE 
+ 
+of the Eurosystem, is closely monitored by the ECB’s Governing Council as it may 
+interfere with the objectives and tasks of the Eurosystem and the prohibition of 
+monetary financing under the Treaties. (Trichet 2010a) 
+The next month, the president of the E CB warned again  about lending to insolvent 
+institutions as being subject to monetary financing prohibitions and conditioned further 
+approval for CBIR ELA on Irish fiscal reforms and a state guarantee  of the ELA  (Trichet 
+2010b).  
+Denmark 2008 
+In Denmark in 2008, Roskilde Bank took larger -than-expected losses and appealed to the 
+Danmarks Nationalbank (DNB)  for emergency liquidity facilities. The DNB’s lending to 
+Roskilde was guaranteed by both the private deposit insurer ( Private Contingency 
+Association, or PCA) for the first 750 million Danish krone r (DKK) and the fiscal authority 
+for any losses over DKK 750 million. While the DNB initially thought Roskilde was solvent, 
+the bank fell below its statutory solvency requirement a few weeks after the  provision of 
+emergency liquidity. Eventually, the PCA converted its guarantee into an equity stake when 
+the bank was restructured. Monetary financing concerns were not raised by the DNB, the 
+Danish government, the ECB, or the EC. Notably, this was not a c ase of ELA, given that the 
+DNB was not a member of the Eurosystem. On the Roskilde case generally, see NAO (2009). 
+While it appears the DNB was never officially charged with monetary financing, Danish 
+authorities later said (para. 110) they “had no knowled ge of the European Central Bank’s 
+strict interpretation of monetary financing rules relative to insolvent banks given that [the 
+DNB’s] risk was to be covered by a state guarantee”  (NAO 2009, para. 110 ). Illustratively, 
+Denmark was not a member of the euro area at the time. The EC noted that the state would 
+likely bear any losses on the facility, so there would be no monetary financing concerns (to 
+the extent there was incompatible State Aid, it would be in the domain of government 
+competition distortion).  
+Latvia 2008 
+When the large Latvian bank Parex began showing signs of trouble in 2008, the Latvian 
+ministry of finance provided government securities (sovereign bonds) to Parex as term 
+deposits, taking loans as collateral. (These government securities were presumed to be 
+standard marketable securities, unlike in the case of Anglo Irish in Ireland.) Parex was in 
+turn able to use those government securities as collateral at the Bank of Latvia (BOL), 
+obtaining liquidity in both Latvian lats and euros. 
+In this case, the EC did not raise monetary financing concerns. As we know, these concerns 
+come in two main forms: (1) a central bank’s lending to an insolvent institution; and (2) the 
+more traditional monetary financing concern, the central bank ’s discounting of u nfunded 
+sovereign debt. Here, the first form of monetary financing was not possible (despite Parex’s 
+ultimate disposition as insolvent), as the initial and ultimate liability was to the fiscal 
+authority. The second form, though, familiar from Anglo’s case,  could theoretically be 
+applicable, given that Parex was able to make use of the BOL’s liquidity -provision capacity, 
+300
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 11 ---
+POLICY NOTE 
+ 
+specifically its ability to provide euro liquidity, on the basis of providing government 
+securities as collateral. Documentation here is un clear, but again, in the absence of any 
+evidence to the contrary, these securities were presumed to be standard marketable 
+securities, which would explain the EC’s silence on this point. (This would not have been a 
+case of ELA, given that the BOL was not a member of the Eurosystem in 2008; Latvia adopted 
+the euro in 2014.) On the Parex case generally, see EC (2008). 
+Cyprus 2011 
+Laiki Bank—one of Cyprus’s largest banks —faced severe challenges in 2010 –2011, during 
+the European sovereign debt crisis. Laiki was able to provide acceptable collateral to the ECB 
+and obtain liquidity through monetary policy operations until October 2011, when  the EU 
+decided to haircut Greek sovereign bonds, resulting in significant losses for Laiki. 
+Throughout the rest of 2011 and through 2012,  as Laiki’s deposit outflows worsened, Laiki 
+continued to rely on Central Bank of Cyprus (CBC) ELA for its funding, wi th the ELA 
+eventually replacing deposit funding. In May 2012, the Cypriot government capitalized Laiki 
+with an unfunded sovereign bond, becoming a majority shareholder. In June 2012, the ECB 
+stopped accepting Cypriot sovereign bonds as collateral, exhausti ng Laiki’s ability to obtain 
+any ECB liquidity; outstanding ECB liquidity was transferred to  the CBC ELA. As such, Laiki 
+became wholly reliant on ELA from the CBC. On March 21, 2013, the ECB withdrew its 
+approval for CBC ELA, requiring Laiki to repay its b orrowings in five days, and conditioned 
+further approval for ELA on Cyprus’s implementing a joint EU/International Monetary Fund 
+(IMF) program to ensure banking system solvency. On March 25, the CBC resolved Laiki 
+through a purchase and assumption transaction involving another Cypriot bank, the Bank of 
+Cyprus, and the sale of Laiki’s Greek operations. In 2017, the Bank of Cyprus —having 
+undergone its own restructuring and recapitalization —repaid its outstanding ELA (the  
+majority inherited from Laiki) to the  CBC. On the Laiki case generally, see  CBC (2013a) and 
+Schaefer-Brown (2024). 
+The CBC in 2013 issued a public statement saying that before the ECB’s March 25 prohibition, 
+the ECB Governing Council had not objected to the CBC’s provision of ELA to Laiki, citing the 
+CBC’s own view that Laiki was solvent despite capital shortages as a result of “the prospect 
+of recapitalisation through the financial assistance programme” (CBC 2013b). The CBC then 
+said that the ECB’s eventual decision to stop approving the ELA was a result of Cyprus’s 
+failure to implement intended assistance packages; once the recapitalization plan was 
+rejected by the Cypriot Parliament on March 15, 2013, that impending recapitalization was 
+no longer reliable, and Laiki became insolvent as a result (and the ECB withdrew its consent 
+for CBC ELA eight days later). This statement contained no explicit reference to the monetary 
+financing prohibition. 
+Documents leaked to the New York Times , however, show that monetary financing 
+concerns—both with respect to ELA to an insolvent institution and to the use of an unfunded 
+sovereign bond as collateral for ELA—were top of mind for ECB officials as early as 2012. A 
+then-confidential document of meeting minutes from the ECB Governing Council in March 
+2012 on Cypriot ELA requests cautioned continued ELA on the basis of solvency concerns: 
+301
+ELA and Monetary Financing in the European Union Arnold
+
+--- Page 12 ---
+POLICY NOTE 
+ 
+“information is lacking in order to verify the solvency and financial soundness of [Laiki] and 
+hence its status as a counterpart for ELA . . .” (NYT 2014b). 
+In an email dated July 31, 2012, just months after the recapitalization, with the subject line 
+“ELA collateral,” an ECB official wrote to a CBC official on the question of using the unfunded 
+sovereign bond as collateral for CBC ELA [emphasis added]:  
+As illustrated by the Irish case, using special purpose government bonds as collateral, 
+whether under monetary policy operations or under ELA, may raise monetary 
+financing concerns and I would therefore advise to first make sure that all alternatives 
+have been exhausted. (NYT 2014a) 
+A few months later, in September 2012, a letter from the CBC to the president of the ECB 
+shows that the ECB had req uested alternatives to CBC ELA against the unfunded sovereign 
+bond [emphasis added]:  
+It will be recalled that in the discussion on ELA at the Governing Council meeting on 6 
+September 2012 it was decided that the Central Bank of Cyprus would report as soon as 
+possible on the potential contingency liquidity measures that could increase the funding 
+capacities of [Laiki] excluding the unfunded government bond issued to recapitalise 
+it. (NYT 2013) 
+Here again, similar to the Anglo case, two major ELA -related monetary financing concerns 
+were present: first, the straightforward Article 123 prohibition on lending to insolvent firms; 
+second, the “traditional” monetary financing concern related to unfunded sovereign bonds 
+being discounted, without intermediation, by the central bank.  
+United Kingdom 2007 
+In early fall of 2007, the large UK -based bank Northern Rock was facing funding difficulties 
+as the markets for short-term debt began to freeze against the backdrop of the beginning of 
+the Global Financial Crisis (GFC) . On September 14, the Bank of England (BoE) announced 
+that it would provide Northern Rock with emergency liquidity. When Northern Rock 
+requested expanded liquidity facilities, the BoE amended the liquidity facilities on October 
+9, providing unlimited liquidity against all of Northern Rock’s assets. Notably, given the risk 
+this posed to the BoE and the potential insolvency of Northern Rock, the BoE obtained a fiscal 
+guarantee on its lending. The government later nationalized Northern Rock, and the 
+Treasury assumed the lending facilities from the BoE, at that point fully eliminating any risk 
+of monetary financing. On the Northern Rock case generally, see Plenderleith (2012). 
+After the October 9 amendments and fiscal guarantee, the governor of the BoE noted that the 
+fiscal authority was the entity bearing the risk in the lending  (House of Commons 2008) . 
+While the BoE did not explicitly note that the bank had, by October 9, become insolvent (or 
+that its solvency was ambiguous), BoE leadership did not feel sufficiently guaranteed in their 
+lending alone and thus requested the fiscal guarantee (which applied only to lending on the 
+facilities after October 9). Notably, this was not a case of ELA, given that the BoE was not a 
+member of the Eurosystem. The EC raised no monetary financing concerns. 
+302
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 13 ---
+POLICY NOTE 
+ 
+Spain 2009 
+In Spain in 2009, the regional savings bank, or caja, Caja de A horros Castilla –La Mancha 
+(CCM) faced severe challenges as the Spanish real estate market, to which it was highly 
+exposed, took losses in the context of the GFC. When CCM exhausted its ECB -eligible 
+collateral, it turned to the Bank of Spain (BoS)  for ELA. At first, the BoS advanced EUR 900 
+million in liquidity secured against CCM’s assets. When a proposed merger later fell through, 
+the BoS expanded its ELA with a credit line of up to EUR 9 billion.  
+Although the BoS insisted that CCM was solvent a t the time, concurrent reporting suggests 
+that one of the precipitating events in the failure of CCM’s merger with another caja was the 
+determination by CCM’s auditors that the bank was insolvent and their refusal to certify 
+CCM’s year-end accounts for sub mittal to the BoS. The audit report showed that CCM had 
+negative equity of EUR 3 billion. The BoS, before providing the EUR 9 billion credit line, 
+requested a fiscal guarantee. The government passed Royal Decree-Law 4/2009, which gave 
+the fiscal authority the authorization to guarantee up to EUR 9 billion on the BoS’s lending. 
+On the CCM case generally, see EC (2010). 
+The BoS maintained publicly that it had lent to a solvent institution. Nonetheless, in 
+testimony to parliament days after the emergency credit line extension, the governor of the 
+BoS said [emphasis added]:  
+The [TFEU] prevents central banks from extending an urgent provision of liquidity to an 
+institution in difficulties, such as Caja Castilla La Mancha, without adequate collateral. 
+Given the volumes that could be committed, the Spanish Treasury had to provide explicit 
+guarantees to the issuing bank, so as not to infringe the Treaty ’s prohibition on central 
+banks extending “monetary financing” to Treasuries. (Fernández Ordóñez 2009) 
+This refers to the Brussels View stated earlier: monetary financing in relation to ELA is 
+viewed through the lens of using mone tary resources (that is, creating reserves) in place of 
+fiscal resources for “public undertakings.” Here, though, as the BoS’s governor points out, the 
+fiscal authority’s guarantee of the lending ensured that any risk from advances to an 
+insolvent institution was borne by the state. A review of the BoS’s handling of the CCM failure 
+by the EC shed some light on how the EC thought about the lending and guarantees: Notably, 
+the EC reviewed the fiscal guarantee of the BoS lending as restructuring aid, not liquidity aid, 
+consistent with the view that liquidity advancement to insolvent firms is a form of 
+restructuring and/or recapitalization (see [EC 2010]). Nonetheless, that restructuring aid, as 
+it were, was guaranteed by the state (a “public under taking”). It is no surprise then that, 
+consistent with the BoS’s lending risk residing with the fiscal authority, the EC’s State Aid 
+report found no violations of the prohibition on monetary financing.  
+303
+ELA and Monetary Financing in the European Union Arnold
+
+--- Page 14 ---
+POLICY NOTE 
+ 
+The Case for Cooperation: The Role of Guarantees and the Fiscal 
+Authority 
+Fiscal Authority Guarantees: Opportunities  
+As surveyed in a number of these recent case studies, one apparent solution to the monetary 
+financing problem is fiscal authority guarantees. Although numerous tests and guidelines of 
+varying complexity and abstraction attempt to answer the question of when, in difficult cases 
+of judgment, a central bank ought to lend, central bankers themselves often do away with 
+the head-scratching and obtain a fiscal guarantee.  
+Indeed, the IMF has written about the use of central bank liquidity in resolution and notes 
+that the proper practical safeguard against monetary financing when the line between ELA 
+and resolution financing becomes blurry is the involvement of the fiscal authority [emphasis 
+added]:  
+ELA to a bank in resolution may need to be backed by an indemnity or a guarantee 
+from the government to protect the central bank balance sheet if, for example, there is 
+significant uncertainty over the (new) bank’s ability to repay. The central bank balance 
+sheet should not be used for purposes other than for providing liquidity on a 
+prudently collateralized basis , i.e., the  central bank should not provide capital or 
+unsecured loans to a bank in resolution. (Croitoru, Dobler, and Molin 2018) 
+Although the concern of this policy note is not liquidity in resolution, that state -guaranteed 
+ELA is a common and accepted pathway to achieve liquidity in resolution in the EU validates 
+various EU countries’ use of state guarantees of ELA when unsure if the bank is a goi ng or 
+gone concern. As researchers at the economic think tank Bruegel have pointed out, the EU’s 
+resolution framework leaves unclear which entity should provide liquidity to banks in 
+resolution if the bank in question is sufficiently large such that its “liquidity needs . . . exceed 
+the size of the [Single Resolution Fund] and its backstop ” (Demertzis et al. 2018) . As they 
+point out, in  such cases, in  practice, a state guarantee of ELA is the usual path . Indeed, the 
+researchers conclude that “since the ECB cannot provide liquidity to banks without 
+collateral, public guarantees need to be established” (Demertzis et al. 2018).14 In their view, 
+ultimately, European banking union should be completed and such guarantees would then 
+be provided fully by a euro area fiscal body, but until then [emphasis added]:  
+As long as banking union remains incomplete and liquidity provisioning is still to a 
+significant part done by national central banks through ELA, it might be appropriate 
+to continue relying on some guarantee from the respective national treasury(ies)  
+combined with a larger guarantee from the [European Stability Mechanism]. (Demertzis 
+et al. 2018) 
+ 
+14 However, this i s not to characterize the authors’ proposal as being narrowly limited to national fiscal 
+guarantees. The authors also suggest that, beyond one or multiple national fiscal authorities, guarantees could 
+be extended by the Single Resolution Fund or the European Stability Mechanism.  
+304
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 15 ---
+POLICY NOTE 
+ 
+This is, of course, not to say that the only use of state -guaranteed ELA is for liquidity in 
+resolution, but it is to say that attaching a fiscal guarantee to ELA allows the tool to be used 
+equally as a standard-fare emergency liquidity tool for solvent banks and, just as acceptably, 
+as a wind-down tool. It is therefore an attractive intervention for EU countries dealing with 
+banks that are difficult to categorize as going or gone concern.  
+As discussed, monetary financing is only a concern for independent central banks. As long as 
+they have fiscal guarantees, centra l banks can be more agnostic to the recipient bank’s 
+solvency status. Once the fiscal authority agrees to underwrite the lending, any resulting 
+taxpayer losses would not be a matter of monetary financing  but rather of fiscal policy . 
+Should a government dec ide that it wishes to use the fiscal resources at its disposal to 
+recapitalize a bank, that is its prerogative. 
+However, a number of problems remain.  
+Limitations of Fiscal Guarantees 
+Fiscal Guarantees as Insufficient 
+There are two distinct reasons that fiscal guarantees might not be sufficient for avoiding legal 
+infringement allegations in the EU.  
+First, in the EU, a fiscal guarantee per se may be insufficient to avoid charges of monetary 
+financing (or illegal State Aid, depending on the narrowness of one’s legal interpretation). A 
+speech by ECB executive board member Yves Mersch in 2018 provides the logic [emphasis 
+added]:  
+In no circumstances would a guarantee “cure” the lack of financial soundness of a given 
+counterparty, or the lack of collateral or a combination of the two, which is often the case 
+in a resolution scenario. If a public guarantee can prevent insolvency, it is only after 
+having tested its value in the markets. If a public guarantee serves to cut out t he 
+markets and replace them with central bank liquidity it would contravene the 
+principle of an open market economy with free competition and could be seen as 
+a circumvention of the monetary financing prohibition. (Mersch 2018) 
+Again, this is a State Aid question, not a monetary financing question.15 The underlying logic 
+is that whether truly monetary financing or fiscal financing, if the government—in any of its 
+permutations—is supplying necessary credit to an institution but not to others for an 
+extended period, then this distorts competition and is effectively industrial policy à la 
+finance. Industrial policy is straightforwardly outside the scope of this note. This is a State 
+Aid question that EU policymakers must navigate separately.  
+ 
+15 Although the remaining clause, “could be seen as a circumvention of the monetary financing prohibition” is 
+a confounding one, and seemingly contradictory to some ECB precedent . On the one hand, this could plausibly 
+refer to simply announcing a guarantee as insufficient to absolve any monetary financing concerns; on the other 
+hand, the EC has effectively said that a guarantee is, at least in combination with other interventions, sufficient 
+to avoid monetary financing (see the Spain-CCM and Anglo Irish case studies in this note).  
+305
+ELA and Monetary Financing in the European Union Arnold
+
+--- Page 16 ---
+POLICY NOTE 
+ 
+Second, and potentially more broadly applicable outside the EU, is the lesson learned from 
+the Anglo Irish and Laiki Bank cases discussed in this note. Should the fiscal authority lack 
+the means to credibly provide the full guarantee, and should it then rely on the monetary  
+authority to buy its debt, it would be attempting to resolve one form of monetary financing 
+with another. In other words, capitalizing a bank through reserve  creation is one form of 
+monetary financing but backstopping that reserve  creation with what amoun ts to simply 
+more reserve  creation (through direct central bank financing of unmarketable sovereign 
+debt) does not resolve the inherent tension. Assuming the nation in question arrived at this 
+point by virtue of exhausted fiscal space, resources would like ly need to be provided by an 
+international lender of last resort.  
+Fiscal Guarantees as Impractical 
+Fiscal guarantees are of little use when they’re not available, and they’re not always de facto 
+available for one of two common reasons: (1) the fiscal auth ority refuses to guarantee the 
+lending (in which case the game is probably up); or (2) the fiscal authority in principle agrees 
+directionally but with some limitations that make it impractical for it to be able to issue the 
+guarantee timely enough to avoid  the failure of the institution at hand ( for example , 
+requiring approval from the legislature). 
+Although of course jurisdiction dependent, there may be workarounds available for this 
+latter challenge. 
+While not a case of bank insolvency and not in the EU, the Swiss National Bank’s (SNB ’s) 
+recent experience with Credit Suisse is illustrative of the challenges of fiscal guarantees writ 
+large. In that case, the SNB’s proposed ad hoc liquidity facility featured a fiscal guarantee, but 
+that required parliamentary approval (SFC 2023). As regulators had no time to convene the 
+legislature, the executive used an emergency authority power to bypass the legislature (such 
+an executive action required ex post parliamentary approval, which it received). But while 
+in S witzerland an emergency executive ordinance allowed the executive to waive the 
+parliamentary approval process and order a public guarantee (and in Spain we saw similar 
+authority), such standing executive authority may not exist in all legal systems.   
+The particular powers vested in the executive necessary for enjoining a fiscal authority 
+guarantee will vary widely by jurisdiction and are matters of political and legal norms. The 
+practical upshot for authorities in crisis-fighting roles is to know those legal constraints and 
+authorities ahead of time and to build emergency plans around them to avoid unnecessary 
+and potentially protracted legal and political debates.  
+Fiscal Guarantees as Lacking Credibility 
+Fiscal guarantees are of little use if they lack cr edibility. Owing to conditions commonly 
+associated with lending to potentially insolvent firms, adverse selection with respect to 
+credible fiscal guarantees is likely. A common reason for a central bank to lend to a 
+potentially insolvent firm is that the f irm is systemically important and therefore often —
+though not always —very large relative to the financial system and/or economy. In such 
+cases, the larger the size of the recipient institution relative to the size of the fiscal authority’s 
+306
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 17 ---
+POLICY NOTE 
+ 
+resources, the less credible a fiscal authority guarantee is. As a result, in the most systemic 
+of situations, fiscal guarantees’ credibility may be at their weakest. While I am unaware of 
+any instances in which a fiscal guarantee of central bank lending w as deemed to lack 
+credibility, we know from existing research that fiscal guarantees in general (us ually in the 
+form of bank liability guarantees) often suffer from this flaw (McNamara et al. 2022).16  
+Use of Nonfiscal Authority Guarantees 
+Last, while fiscal authority guarantees are the most common form of guarantee observed in 
+modern financial crisis interventions, they are not the only ones. Guarantees can be issued 
+by government agencies, sovereign wealth funds, deposit insurers, state-sponsored firms, or 
+private firms or consortia. For legal, political economy, and administrative reasons, such 
+nonfiscal authority guarantees may be attractive. For example, they can avoid lengthy 
+political processes, provide positive market signaling effects, and keep risk  off the fiscal 
+authority’s balance sheet. However, such guarantees may also face an uphill credibility 
+battle. Further, particularly in times of systemic stress, those guarantees can be procyclical. 
+For example, if a deposit insurer guarantee were called upon, the deposit insurer could be 
+forced to levy an ad hoc fee on its members to fund the payout, resulting in contagion and 
+systemically reducing the capital of the financial system.  
+Private sector guarantees of central bank lending are most likely to t ake the form of 
+guarantees issued by private deposit insurance groups or banking industry groups. 17 In the 
+case of Denmark ’s Roskilde, the first tranche of the central bank emergency lending was 
+guaranteed by a private deposit insurer.  
+Considerations for Policymakers 
+In general, central bankers and financial policymakers should be aware of the risks involved 
+in the extension of emergency lending with respect to monetary financing —and should be 
+mindful of solvency regulations as expressed in their own guidance (and, in the Eurosystem, 
+to applicable ECB guidance). While not a substitute for collateral, and insufficient by itself to 
+ensure safe harbor, a fiscal guarantee may provide some protection from monetary financing 
+allegations specifically. When solvency is in question and the intervention may straddle the 
+line between the standard LOLR function and restructuring and resolution liquidity, 
+involvement of the fiscal authority may be prudent. In the case of depleted fiscal resources, 
+recourse to a supranati onal organization ( for example, the European Stability Mechanism , 
+IMF) may be necessary.  
+ 
+16 For example, it is not hard to imagine the central bank of a small country lending to its largest domestic bank 
+with a fiscal guarantee, while the nation suffers a debt or balance of payments crisis. In s uch a situation, the 
+fiscal guarantee would likely lack credibility and could be counterproductive, absent international support.  
+17 Up-to-date data on deposit insurance programs is difficult to come by, but World Bank data from 2013 
+suggest that most deposit insurance programs for which data are available are administered either publicly or 
+jointly by public and private bodies (most are funded by the private sector). However, in a minority of nations, 
+they remain private. F or example, in Brazil, the Deposit Guarantee Fund  is private; in Switzerland, esisuisse, 
+the national deposit insurance group, is also private.  
+307
+ELA and Monetary Financing in the European Union Arnold
+
+--- Page 18 ---
+POLICY NOTE 
+ 
+It is perhaps noteworthy that while the legal codification of monetary financing with respect 
+to the LOLR role described at the beginning of this note is particular to the EU, the principles 
+apply broadly: It is often the case, even in regimes not explicitly prohibiting the extension of 
+central bank advances to insolvent entities, that those central banks take recourse to the 
+fiscal authority for guarantees (variously for political insurance or balance sheet 
+protection).18 Fiscal guarantees are obtained (or, at the very least, requested) with 
+frequency, both within and outside the EU. In other words, while the legal motivation for 
+fiscal guarantees of emergency lending is peculiar to the EU, the resulting policy intervention 
+is a regular feature of emergency lending and something for which central bankers and their 
+fiscal counterparts should have a “break the glass” plan.     
+ 
+18 See, for example , the cases of an appeal for a fiscal guarantee (ultimately unsuccessful) from the Fed eral 
+Reserve when lending to Bear Stearns  in 2008  (Paulson 2010) ; the fiscal guarantee for ad hoc emergency 
+lending to a consortium of banks by the National Bank of Moldova in 2014 (Inquiry Commission 2019); and the 
+fiscal guarantee obtained by the Swiss National Bank for one of its core emergency liquidity facilities for Credit 
+Suisse in 2023 (SNB 2023).  
+308
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 19 ---
+POLICY NOTE 
+ 
+References 
+Baudino, Patrizia, Diarmuid Murphy, and Jean-Philippe Svoronos. 2020. “The Banking Crisis 
+in Ireland.” FSI Crisis Management Series, No. 2, October 27, 2020.  
+https://elischolar.library.yale.edu/ypfs-documents/10507 
+Central Bank of Cyprus (CBC). 2013a. “Rescue Programme for Laiki Bank.” Press release, 
+March 30, 2013.  
+http://elischolar.library.yale.edu/ypfs-documents2/2057 
+———. 2013b. “Provision of Emergency Liquidity Assistance to the Two Largest Cypriot 
+Banks.” Press release, June 17, 2013.  
+https://elischolar.library.yale.edu/ypfs-documents2/5340 
+Commission of Inquiry for the Elucidation of All the Circumstances of the Bankruptcy of the 
+Banking System in the Republic of Moldova and the Investigation of Bank Fraud (Inquiry 
+Commission). 2019. “Report of the Commission of Inquiry on Bank Fraud and the 
+Bankruptcy of the Banking System in the Republic of Moldova.” Parliamentary Commission 
+Report, October 17, 2019 (in Romanian).  
+https://elischolar.library.yale.edu/ypfs-documents2/2421 
+Croitoru, Oana, Marc Dobler, and Jonah Molin. 2018. “Resolution Funding: Who Pays When 
+Financial Institutions Fail?” IMF Technical Notes and Manuals No. 18/01, June 2018. 
+https://elischolar.library.yale.edu/ypfs-documents2/5475 
+Demertzis, Maria, Inês Gonçalves Raposo, Pia Hüttl, and Guntram Wolff. 2018. “How to 
+Provide Liquidity to Banks after Resolution in Europe’s Banking Union.” Bruegel Policy 
+Contribution No. 21, November 2018.  
+https://elischolar.library.yale.edu/ypfs-documents2/5335 
+European Central Bank (ECB). 2013. “ELA Procedures,” October 17, 2013. 
+https://elischolar.library.yale.edu/ypfs-documents/12957 
+———. 2017. “Agreement on Emergency Liquidity Assistance,” May 17, 2017. 
+https://elischolar.library.yale.edu/ypfs-documents2/5341 
+———. 2024. “Agreement on Emergency Liquidity Assistance,” September 27, 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/5342 
+European Commission (EC). 2008. “State Aid – NN 68/2008 – Latvia Public Support 
+Measures to JSC Parex Banka,” November 24, 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/1298 
+———. 2010. “State Aid NN 61/2009 – Spain – Rescue and Restructuring of Caja Castilla-La 
+Mancha,” June 29, 2010.  
+https://elischolar.library.yale.edu/ypfs-documents2/3840 
+309
+ELA and Monetary Financing in the European Union Arnold
+
+--- Page 20 ---
+POLICY NOTE 
+ 
+———. 2013. “Communication from the Commission on the Application, from 1 August 
+2013, of State Aid Rules to Support Measures in Favour of Banks in the Context of the 
+Financial Crisis (‘Banking Communication’).” No. 2013/216/01, July 30, 2013. 
+https://elischolar.library.yale.edu/ypfs-documents2/5344 
+———. n.d. “Types of EU Law.” Accessed February 27, 2025. 
+https://elischolar.library.yale.edu/ypfs-documents2/5339 
+European Union (EU). 2009. “Protocol (No. 4) on the Statute of the European System of 
+Central Banks and of the European Central Bank.” January 1, 2009. 
+https://elischolar.library.yale.edu/ypfs-documents2/731 
+——— 2012. “Consolidated Version of the Treaty on the Functioning of the European 
+Union.” No. 2012/326/47, October 26, 2012. https://elischolar.library.yale.edu/ypfs-
+documents2/5343 
+———. 2018. “Summary of Treaty on European Union.” April 4, 2018. 
+https://elischolar.library.yale.edu/ypfs-documents2/5338 
+———. 2024. “Soft Law.” European Industrial Relations Dictionary, November 28, 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/5337 
+Fernández Ordóñez, Miguel. 2009. “Appearance before the Commission of Economy and 
+Finance of the Congress of Deputies.” April 2, 2009 (in Spanish). 
+https://elischolar.library.yale.edu/ypfs-documents2/3853 
+Goodhart, C.A.E. 1999. “Myths about the Lender of Last Resort.” International Finance 2, no. 
+3 (November): 339–60. 
+https://elischolar.library.yale.edu/ypfs-documents2/5336 
+Gortsos, Christos. 2024. “Lending of Last Resort (LLR) to Credit Institutions in the Euro 
+Area under the Emergency Liquidity Assistance (ELA) Mechanism: Status Quo and 
+Proposed Amendments.” European Banking Institute Working Paper Series No. 185, 
+November 25, 2024.  
+https://elischolar.library.yale.edu/ypfs-documents2/5486/ 
+Honohan, Patrick. 2010. “The Irish Banking Crisis Regulatory and Financial Stability Policy 
+2003-2008.” Report to the Minister for Finance by the Governor of the Central Bank, May 
+31, 2010.  
+https://elischolar.library.yale.edu/ypfs-documents/730/ 
+House of Commons Treasury Committee (House of Commons). 2008. “The Run on the 
+Rock.” Fifth Report of Session 2007–08, Volume I, January 24, 2008. 
+https://elischolar.library.yale.edu/ypfs-documents/14251/ 
+310
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 21 ---
+POLICY NOTE 
+ 
+McNamara, Christian M., Carey K. Mott, Greg Feldberg, and Andrew Metrick. 2022. “Blanket 
+Guarantees Survey.” Journal of Financial Crises 4, no. 4: 103–32. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/4 
+Mersch, Yves. 2018. “The Limits of Central Bank Financing in Resolution.” Speech delivered 
+at the IMFS Distinguished Lecture Series, Goethe University, Frankfurt, Germany, January 
+30, 2018.  
+https://elischolar.library.yale.edu/ypfs-documents2/3842 
+National Audit Office (NAO). 2009. “Report to the Public Accounts Committee on the Danish 
+Financial Supervisory Authority’s Activities in Relation to Roskilde Bank A/S.” June 2009. 
+https://elischolar.library.yale.edu/ypfs-documents2/1061 
+New York Times (NYT). 2013. “Letter from Central Bank of Cyprus to E.C.B.” 2013. 
+https://elischolar.library.yale.edu/ypfs-documents2/4723 
+———. 2014a. “E.C.B. Advice on Cyprus Bank.” October 2014. 
+https://elischolar.library.yale.edu/ypfs-documents2/4718 
+———. 2014b. “Minutes from E.C.B. Meeting on Cyprus Liquidity.” October 2014. 
+https://elischolar.library.yale.edu/ypfs-documents2/4714 
+Paulson, Henry M., Jr. 2010. On the Brink: Inside the Race to Stop the Collapse of the Global 
+Financial System. New York: Business Plus, Hachette Book Group. 
+https://elischolar.library.yale.edu/ypfs-documents/8332 
+Plenderleith, Ian. 2012. “Review of the Bank of England’s Provision of Emergency Liquidity 
+Assistance in 2008–09.” Presented to the Court of the Bank of England, October 2012. 
+https://elischolar.library.yale.edu/ypfs-documents/8450 
+Schaefer-Brown, Stella. 2024. “Cyprus: Laiki Bank and Bank of Cyprus Restructuring, 2013.” 
+Journal of Financial Crises 6, no. 1: 123–49.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/5/ 
+Swiss Federal Council (SFC). 2023. “Ordinance on Additional Liquidity Assistance Loans 
+and the Granting of Federal Default Guarantees for Liquidity Assistance Loans from the 
+Swiss National Bank to Systemically Important Banks.” March 16, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4395 
+Swiss National Bank (SNB). 2023. “Financial Stability Report 2023.” June 22, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/3746 
+Trichet, Jean-Claude. 2010a. Letter from the ECB President to Brian Lenihan, Irish Minister 
+of Finance, October 15, 2010.  
+https://elischolar.library.yale.edu/ypfs-documents2/972 
+311
+ELA and Monetary Financing in the European Union Arnold
+
+--- Page 22 ---
+POLICY NOTE 
+ 
+———. 2010b. Letter to Brian Lenihan, Irish Minister of Finance, November 19, 2010. 
+https://elischolar.library.yale.edu/ypfs-documents2/4488 
+Whelan, Karl. 2012. “ELA, Promissory Notes and All That: The Fiscal Costs of Anglo Irish 
+Bank.” University College Dublin, September 2012.  
+https://elischolar.library.yale.edu/ypfs-documents2/4490 
+ 
+ 
+This open access article is distributed under the terms of the CC-BY-NC-ND 4.0 license, which allows 
+sharing of this work provided the original author and source are cited. The work may not be changed 
+or used commercially. 
+ 
+ 
+312
+Journal of Financial Crises Vol. 7 Iss. 2

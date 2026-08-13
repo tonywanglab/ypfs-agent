@@ -1,0 +1,408 @@
+## UK Bank Recapitalisation Scheme[1] 
+
+Alec Buchholtz[2] 
+
+Yale Program on Financial Stability Case Study July 3, 2018; Revised: November 12, 2021 
+
+## **Abstract** 
+
+Following the collapse of Lehman Brothers and the ensuing global credit crunch in late 2008, Her Majesty’s Treasury (HMT) announced a large economic package to provide support to the UK banking sector. As part of the package, the eight largest banks committed themselves to raising their total Tier 1 capital by £25 billion through either private fundraising or government assistance. Thus, the economic package featured a new Bank Recapitalisation Scheme to invest up to £50 billion in capital into UK banking and credit institutions that could not raise their assets in the private sector. Government capital was invested into either ordinary or preference shares of the participating institution. As additional requirements of participating in the scheme, institutions had to commit themselves to three years of competitive lending toward homeowners and small businesses, allow HMT to appoint new nonexecutive directors, and withhold all 2008 executive and board member bonuses. In 2009 alone, HMT invested approximately £37 billion into Lloyds Banking Group (LBG) and the Royal Bank of Scotland (RBS), where all invested interest was held by the government subsidiaries of UK Financial Investments, and later UK Government Investments. While the government remains a majority shareholder in RBS, it has sold off all invested interests in LBG. 
+
+**Keywords:** recapitalization, capital injection, ordinary shares, preference shares, Tier 1 capital, European Commission, United Kingdom 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based asset management company programs. Cases are available from the _Journal of Financial Crises_ at 
+
+> https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **At a Glance** 
+
+In late 2007, following a leak that Northern Rock had reached out to the Bank of England (BOE) for liquidity support, a run on the bank’s deposits ensued, leading to an emergency loan by the BOE. Over the subsequent months, Northern Rock and Her Majesty’s Treasury (HMT) sought to find a private sector solution, but ultimately ended with the nationalization of the company in February 2008. Throughout the spring, HMT began examining the health of all financial institutions and found that a larger systemic problem was possible. Following Lehman Brothers’ bankruptcy and the resulting global credit crunch in September, share prices of major UK banks, such as the Royal Bank of Scotland 
+
+||**Summary of Key Terms**<br>Purpose: “... to shield the economic capital of the<br>banking system and to ensure that banks were<br>sufficiently strongly capitalized to meet potential|**Summary of Key Terms**<br>Purpose: “... to shield the economic capital of the<br>banking system and to ensure that banks were<br>sufficiently strongly capitalized to meet potential||
+|---|---|---|---|
+||stress.”<br>Announcement Date<br>Approval Date|October 8, 2008<br>October 13, 2008||
+|||(European Commission)||
+||Operational Date<br>Expiration Date|October 13, 2008<br>Original: April 13, 2009||
+|||Extended: June 30, 2013||
+||Program Size|£50<br>billion<br>in<br>two||
+|||tranches of £25 billion||
+||Usage|£37.8 billion loaned to||
+|||three domestic financial||
+|||institutions||
+
+
+
+(RBS) and Halifax Bank of Scotland (HBOS), significantly dropped and their investors and depositors were withdrawing funds. It became clear to the BOE, HMT, and the Financial Services Authority that a major recapitalization of the banking sector was required. 
+
+Prior to the Bank Recapitalisation Scheme’s operation, the UK government received commitments from the eight largest banks to increase their total Tier 1 capital by £25 billion. If a bank could not raise capital in the private sector, it was able to request capital assistance under the scheme. The £50 billion scheme was split into two tranches of £25 billion, the first tranche intended for the largest banks to draw upon and the second tranche for smaller banks, if needed. HMT injected capital into fundamentally sound institutions in return for either ordinary or preference shares. Only ordinary shares granted voting rights to the government, while preference shares paid out a 12% annual interest rate until 2013 and 7% annually plus three-month Libor thereafter. Additional obligations of participation in the scheme required the withholding of 2008 executive and board member bonuses, a three-year commitment to support competitive lending to small businesses and homeowners, and that the government would determine dividend policies. 
+
+On October 13, 2008, the European Commission approved the state aid package for HMT to recapitalize banks. The Bank Recapitalisation Scheme expired six months later, in April 2009, with no extensions requested by the UK government. Three institutions—Lloyds TSB and HBOS (which merged to form Lloyds Banking Group [LBG]) and RBS—received capital from the scheme. The shares received were placed under the management of UK Financial 
+
+
+Investments (UKFI) for the benefit of HMT and taxpayers. In March 2018, UKFI transferred all government interests it held into UK Government Investments (UKGI). 
+
+## **Summary Evaluation** 
+
+The Recapitalisation Scheme was considered crucial in revitalizing Lloyds-HBOS and RBS. However, there also were criticisms of the design of the scheme. The UK government did not require all major banks to participate, and this decision may have created a stigma against any bank that received a government capital injection. The scheme did not account for further drops in company share prices, leaving the value of the government shares it received as a fraction of the original price. Moreover, the creation of UKFI to manage the government’s investments and its respective goals may have been contradictory to some of the scheme’s goals that authorized the government to have a say over a participating institution’s remuneration, dividend policies, and membership of the board of directors. 
+
+
+|**UK Context 2009–2010**|**UK Context 2009–2010**|
+|---|---|
+|**GDP**<br>**(SAAR, Nominal GDP in LCU converted to USD)**|$2.424 trillion in 2009<br>$2.482 trillion in 2010|
+|**GDP per capita**<br>**(SAAR, Nominal GDP in LCU converted to USD)**|$38,713 in 2009<br>$39,436in 2010|
+|**Sovereign credit rating (5-year senior debt)**|Data for 2009:<br>Moody’s: Aaa<br>S&P: AAA<br>Fitch: AAA<br>Data for 2010:<br>Moody’s: Aaa<br>S&P: AAA<br>Fitch: AAA|
+|**Size of banking system**|$4.730 trillion in 2009<br>$4.635 trillion in 2010|
+|**Size of banking system as a percentage of GDP**|195.15% in 2009<br>186.72% in 2010|
+|**Size of banking system as a percentage of financial**<br>**system**|Data not available for<br>2009<br>Data not available for<br>2010|
+|**5-bank concentration of banking system**|75% in 2009<br>76% in 2010|
+|**Foreign involvement in banking system**|15% in 2009<br>15%in 2010|
+|**Government ownership of banking system**|Data not available for<br>2009<br>Data not available for<br>2010|
+|**Existence of deposit insurance**|100% insurance on<br>deposits up to $4,000;<br>90% on next $66,000 in<br>2007<br>100% insurance on<br>deposits up to $93,000<br>afterOctober 2008|
+|_Sources: Bloomberg; World Bank Global Financial Development Database; World Bank_<br>_Deposit Insurance Dataset._||
+
+
+
+
+## **I. Overview** 
+
+## **Background** 
+
+In late 2007, Northern Rock reached out to UK authorities—the Bank of England (BOE), Her Majesty’s Treasury (HMT), and the Financial Services Authority (FSA)—otherwise known as the Tripartite Authorities, for liquidity support (HMT 2007). This information leaked and led to a massive run on the retail deposit business, where £4.6 billion was withdrawn, and prompting HMT to extend an emergency loan to the bank. With no luck in finding a buyer, Northern Rock was nationalized by HMT in February 2008 under the Banking (Special Provisions) Act of 2008, which granted the government the temporary ability to nationalize banks (HMT 2012). 
+
+In light of Northern Rock’s nationalization, the Tripartite Authorities undertook a full examination of the UK banking system, finding in the summer of 2008 that “broader systemic problems” were on the horizon, mostly due to solvency issues in large banks and building societies. On September 15, 2008, the US investment banking arm of Lehman Brothers filed for bankruptcy, leading to a fast deterioration of the global banking system. Global credit markets tightened as banks adjusted their balance sheets and contractions in the UK economy led to a freeze in the overall lending market. According to the BOE’s October 2008 Financial Stability Report, banks felt significant “funding pressure” following the failures of Washington Mutual and Lehman Brothers, where banks sought to deleverage their balance sheets rapidly, resulting in concerns over the capitalization and solvency of UK banks (BOE 2008). Share prices of Halifax Bank of Scotland (HBOS) and the Royal Bank of Scotland (RBS) fell significantly in the following weeks, while other companies sought to disband or merge certain business units with other banks (HMT 2012). 
+
+Seeking to reignite lending and to provide a backstop against further losses in the banking sector, HMT announced an economic package on October 8, 2008, aimed at combating the systemic problems across the lending market and mortgage market (HMT 2008a). The £500 billion bailout package included a series of system-wide programs intent on recapitalizing banks, guaranteeing bank loans and other debt, and providing extra liquidity to credit institutions. At the time, the BOE’s Monetary Policy Committee (MPC) believed that while the announcement would boost confidence in the UK’s banking sector, the impacts of the Recapitalisation Scheme’s “scale and timing” were still unclear (MPC 2008). 
+
+## **Program Description** 
+
+On October 12, the UK notified the European Commission (EC) of the new government Bank Recapitalisation Scheme, which the EC promptly approved a day later under the authority of Article 87(3)(b) of the EC Treaty. The overall bank support package required the largest UK banks and credit institutions to commit themselves to boosting their total Tier 1 capital by £25 billion, either by raising funds in the private sector or by requesting assistance from the government under the Recapitalisation Scheme (EC 2008a). 
+
+
+The scheme’s objective was to “shield the economic capital of the banking system and to ensure that banks are sufficiently strongly capitalized to meet potential stress.” The scheme, a cash facility backed by a £50 billion fund, was split into two tranches of £25 billion, with the first tranche intended for injecting capital to the largest UK banks and the second tranche intended for systemically important smaller banks, if capital necessary (EC 2008a). 
+
+To be considered eligible to participate in the scheme, an institution had to have been deemed solvent and fundamentally sound by the FSA. The type of institution eligible to participate could have been a domestic bank, a UK-subsidiary of a foreign institution, or a building society. Capital injections under the scheme were in exchange for either ordinary or preference shares in the participating institution, with the ultimate goal of ensuring taxpayers were adequately compensated and that banks were motivated to repurchase those shares once their capital positions were strengthened. Building societies that participated issued permanent interest-bearing shares (PIBS) in return (EC 2008a). If the institution issued ordinary shares in exchange for the capital injection, the UK government sought the maximum discount rate of 10% on the share price. 
+
+All preference shares issued to the UK government paid out an annual dividend of 12% for the first five years. Thereafter, if the UK government held any preference shares, the dividend payout was 7% annually, plus the three-month London Interbank Offered Rate (Libor). As long as preference shares existed, no dividends were paid out to ordinary shares. In terms of voting power, ordinary shares allowed the UK government to vote at any annual shareholder’s meeting of the company if dividends were not declared or paid in full. Preference shares did not provide shareholder voting rights (EC 2008a). 
+
+Any participating institution had to abide by special requirements under the Recapitalisation Scheme (EC 2008a): 
+
+- (1) Institutions could not pay out 2008 bonus compensation for executives and directors. 
+
+- (2) The UK government could dismiss a board member if there was a loss of confidence by the rest of the board of directors. 
+
+- (3) The UK government worked with the institution to appoint new independent nonexecutive directors; the number of directors was based on the extent of the financial assistance. 
+
+- (4) Banks had to commit themselves to support lending to small businesses and homeowners via competitively priced loans for three years. 
+
+- (5) The UK government could review and determine the dividend policy and bonus or additional compensation packages of employees. 
+
+Last, if an institution continued to benefit from the support under the Recapitalisation Scheme six months after the initial capital injection, it had to provide a liquidation or 
+
+
+restructuring plan to the EC. However, an institution could redeem any shares issued to the UK government five years after the issuance of the shares or on a quarterly dividend payment date, with at least one-month prior notice to the FSA for redemptions on preference shares (EC 2008a). The Recapitalisation Scheme was to expire in six months, on April 13, 2009 but was extended till October 15, 2009 (EC 2009). 
+
+## **Outcomes** 
+
+Eight major banks—Abbey National, Barclays, HBOS, HSBC Bank, Lloyds TSB, Nationwide Building Society, RBS, and Standard Chartered—committed themselves to increasing their total Tier 1 capital by £25 billion (EC 2008b). Following approval from the EC on October 13, the UK government announced capital injections in RBS, Lloyds TSB, and HBOS; Lloyds and HBOS were in the process of merging at the time (Darling 2008a). In November 2008, the UK government created UK Financial Investments (UKFI), a subsidiary of the UK government, to manage the UK government’s interests in any invested institutions, for the benefit of HMT and taxpayers, including the interest received under the Recapitalisation Scheme (HMT 2008c). 
+
+RBS received £20.5 billion under the scheme, issuing £15 billion in ordinary shares and £5.5 billion in preference shares, resulting in a 58% stake in RBS by the UK government. That stake increased to 68% once the UK government converted the preference shares to ordinary shares in January 2009 to remove the high dividend rate that RBS had to pay annually. In November, due to further losses incurred and write-downs by RBS, the government had to once again step in to inject an additional £25.5 billion, in the form of B shares, which increased its stake in RBS to about 83%. The government also set aside £8 billion under a Contingent Capital Commitment if RBS’ Tier 1 capital ratio further worsened (HMT 2011a). 
+
+While the UK government invested in Lloyds and HBOS individually in October 2008, by January, the government held £13 billion in ordinary shares and £4 billion in preference shares, equal to a 43.4% stake in Lloyds Banking Group (LBG), once the merger was complete. The preference shares were converted to ordinary shares in March, with no change in the government’s stake (HMT 2011a). 
+
+In December 2008, the UK altered the requirement that banks had to file a restructuring or liquidation plan, and instead required that they submit a report that showed “that they remain fundamentally sound and how they plan to repay state capital (EC 2008b). The UK government sought multiple six-month extensions of the Recapitalisation Scheme, as well as the Guarantee Scheme, from the EC, until it the Recapitalisation Scheme was finally allowed to expire on February 20, 2010. 
+
+By the end of 2010, the price of holding stakes in both RBS and LBG became £2.8 billion annually for UKFI because the share price of each company had not recovered since the original recapitalizations. It was not until September 2013 that UKFI began to gradually sell off the government’s stake in LBG. Following two accelerated book builds and two separate trading plans, UKFI sold off the entire government stake in LBG by May 2017. Although the 
+
+
+UK government has received net proceeds of £4.6 billion thus far from sales of its stake in RBS, which started in June 2015, it still remained a majority shareholder (~62.4%) in RBS, as of June 30, 2018 (HMT 2018). Overall, the share prices in both RBS and LBG never rebounded from the crisis, resulting in a permanent reduction in the share value for the government. 
+
+On March 29, 2018, UKFI transferred any remaining interests it held to UK Government Investments (UKGI), a limited wholly owned company of HMT, which for the purposes of the Recapitalisation Scheme only included what remained of the UK government’s stake in RBS[3] (UKGI 2018). 
+
+## **II. Key Design Decisions** 
+
+## **1. The UK government announced a £500 billion bailout package, which included a Bank Recapitalisation Scheme.** 
+
+According to the governor of the BOE, Mervyn King, the Recapitalisation Scheme in conjunction with the other two programs under the bank support package—the Guarantee Scheme and the Special Liquidity Scheme—would greatly resolve many of the UK’s problems in the crisis at the time. King said, “A major recapitalisation of the UK banking system of at least £50 billion is a necessary condition for regenerating confidence in the financial system” (HMT 2008a). 
+
+During a House of Commons debate, Chancellor of the Exchequer Alistair Darling made it clear that through the Recapitalisation Scheme, it was not the government’s goal to “run Britain’s banks—[it] want[s] to rebuild them”. Moreover, he said that to stabilize and rebuild the banking sector, the government would “maintain [its] stake for as long as it takes to do that,” with the “aim to sell the public share in the participating banks as soon as feasibly possible” (Darling 2008a). 
+
+## **2. There is no legislation on recapitalization or on the government acquiring shareholder interests in a company.** 
+
+It does not appear that the UK has any specific legislation in regard to HMT’s ability to recapitalize banks and receive shareholder interest in companies. 
+
+## **3. Under Article 87(3)(b) of the EC Treaty, EC authorized the UK the ability to inject capital into credit institutions.** 
+
+Given that the financial crisis led to a contracted credit market, access to liquidity became difficult for many financial institutions and “eroded the confidence in the creditworthiness 
+
+> 3 Other investments included UK Asset Resolution, the holding company that held the remainder of Bradford & Bingley’s mortgage business and Northern Rock Asset Management’s business. The two businesses were runoffs from the two nationalized banks. 
+
+
+of counterparties”. Because of the role financial institutions played in lending to the real economy, the EC was particularly concerned that liquidity worries in the banking sector would spill over into the rest of the British economy as well (EC 2008a). Under Article 87(3)(b) of the Treaty, the EC approved the Recapitalisation Scheme since it concerned the entire UK banking industry and the EC considered it as aid “necessary to remedy a serious disturbance in the British economy” (EC 2008a). 
+
+The EC also took the scale of the measure, the timeliness of the measure, and the extent of the measure into consideration. The EC stated that the objective of the scheme and its scope to only capitalize solvent companies were adequate to revitalize the lending market. Its position was that capital invested in preference shares that paid high annual dividends incentivized institutions to redeem shares as soon as possible (EC 2008a). 
+
+Finally, the EC noted that while a Special Liquidity Scheme had already been in place in the UK and the sole implementation of a guarantee scheme had been sufficient to resolve credit market problems in other countries like Denmark, liquidity shortages and write-downs might not have been completely covered by a guarantee scheme in other situations, such as what was occurring in the UK. Thus, the implementation of the Recapitalisation Scheme as an additional measure was likely to boost confidence in the UK banking system when working in tandem with the other programs submitted under the banking package (EC 2008a). 
+
+## **4. All of the UK government’s equity interests in credit institutions were placed under the management of UKFI. All UKFI interests were later transferred to UKGI.** 
+
+In November 2008, the UK government created UK Financial Investments to manage all UK government interest in individual banks or credit institutions. The overarching objective of UKFI was “to protect and create value for the taxpayer as shareholder, with due regard to financial stability and acting in a way that promotes competition”. UKFI’s board comprised a mix of nonexecutive private sector members, two senior government officials from HMT, and the shareholder executive, who managed all interests with a long-term perspective and independently from government supervision (HMT 2008c). 
+
+However, in April 2016, UK Government Investments was created as another government subsidiary that aimed to bring together the investments, which included remaining shares under the Recapitalisation Scheme, and the functions of UKFI and the shareholder executive. All remaining interests were transferred to UKGI in May 2018, following UKFI’s integration into the organization (UKGI 2018). 
+
+
+**5. Participating institutions were required to boost their total Tier 1 capital by £25 billion. The UK government held a £50 billion fund under the Bank Recapitalisation Scheme to provide capital into institutions seeking government assistance.** 
+
+Once HMT had announced that three banks would participate in the Recapitalisation Scheme, £37 billion was raised through sales of gilts and other Treasury bills, according to the UK Debt Management Office (DMO) (UK DMO 2008). 
+
+**6. To be eligible to participate in the Bank Recapitalisation Scheme, a bank or credit institution had to be sufficiently capitalized and have substantial business in the UK.** 
+
+A bank had to be “sufficiently capitalized” and a UK-incorporated bank, which included UK subsidiaries of foreign banking institutions, that had substantial business in the UK, or a building society. “Substantial business” in the UK meant that the bank was eligible to sign up for the BOE’s standing facilities according to the framework for the BOE operations in the sterling money markets, which meant banks with liabilities in excess of £500 million (EC 2008a). These liabilities included “non-interest bearing deposits and the interest earned from the deposits [that was] used by the Bank towards funding its operations” (Winters 2012). 
+
+**7. To be eligible to participate in the Bank Recapitalisation Scheme, a bank or credit institution must have been deemed solvent and fundamentally sound by the FSA.** 
+
+In a statement to the UK Parliament’s House of Commons, Chancellor Darling clarified that an institution had to meet certain requirements prior to being allowed to access capital under the Recapitalisation Scheme. The institution had to be deemed solvent by the FSA; “have a substantial business model and delivery plan”; demonstrate “clear, broad-based, and sustainable” funding and sources; and have a “senior management team [that] must be credible” to carry out any presented business plan (Darling 2008b). 
+
+**8. The UK government injected Tier 1 capital by investing in either ordinary or preference shares of the participating institutions.** 
+
+According to the EC decision, if an institution chose to raise funds via ordinary shares, the institution first had to undertake a placing and open offer, whereby it offered additional shares to existing shareholders for purchase. The UK government acted as the underwriter on any of these offers. Any shares that were not purchased by those existing shareholders, were invested in by the UK government under the Recapitalisation Scheme, where the government sought the “maximum permitted discount of 10% to the share price” (EC 2008a). 
+
+The FSA was responsible for determining how much capital was to be injected into a participating institution. The FSA calculated the capital assistance by using a variety of bank-specific stress tests, aimed at substantiating that any amount built outside confidence 
+
+
+in the bank and that the bank would have enough capital to absorb losses in the case of a recession, tightened banking conditions, or to continue normal lending practices. Moreover, the FSA aimed to ensure banks had a ratio of “capital to risk-weighted assets of total Tier 1 Capital of at least 8% or greater and Core Tier 1 capital … of at least 4% after the stressed scenario” (FSA 2008). 
+
+**9. Ordinary shares granted the UK government shareholder voting rights and was offered with a maximum 10% discount to the share price prior to placing an open offer.** 
+
+This term was also applied when converting preferred shares to ordinary shares (EC 2008a; EC 2009). 
+
+## **10. The preference shares paid an annual interest at the rate of 12% but did not impose dividends.** 
+
+The preference shares paid an annual interest at the rate of 12% for the first five years and three-month Libor plus 700 basis points thereafter (EC 2009; Panetta et al. 2009). Some considered this interest rate more punitive compared to the US capital injection programs contributing to stigma for the UK scheme (Farrell and Woll 2014; Culpepper and Reinke 2014). 
+
+**11. UK government imposed other behavioral conditions, including limits on executive pay and bank activity, support for lending to homeowners and small businesses, and assisting mortgage workouts.** 
+
+Other conditions participating banks must follow were: 
+
+- (1) no cash bonuses to directors for the current year’s performance and where it is contractually owed the bonuses were to be relinquished voluntarily; 
+
+- (2) compliance with an Association of British Insurers best practice code on executive pay, commitment to a new FSA code on risk based remuneration at the nonexecutive level, and remuneration structures to be reviewed to ensure that incentives reflect long-term value creation and risk; 
+
+- (3) if board members lose the confidence of the board, they could be dismissed at reasonable and fair cost and UK authorities worked with the board on its appointment of new independent directors; 
+
+- (4) commitments to maintain, over the next three years, lending to homeowners and to small businesses, at a level at least equivalent to that of 2007; 
+
+- (5) commitments to support schemes to help people struggling with mortgage payments to stay in their homes, and to support the expansion of financial capability initiatives; and 
+
+- (6) the activity of all participating banks limited to the higher of the average historical growth of the balance sheets in the UK banking sector during the 
+
+
+period 1987 - 2007, or the annual rate of growth of UK nominal GDP in the preceding year (EC 2008a). 
+
+**12. Initially, if the UK government held any shares in a participating institution six months after the capital injection, the institution was required to submit a restructuring or liquidation plan to the European Commission. This requirement was later modified.** 
+
+Participating banks instead provided a report illustrating that they remain fundamentally sound and the plan to repay injected capital (EC 2008b). 
+
+**13. Initially, the Recapitalisation Scheme was to expire on April 13, 2009 but EC approved an extension through October 15, 2009. Any participating institution was allowed to redeem shares once the bank was stabilized with a strengthened capital position.** 
+
+No further information was found on this. 
+
+## **III. Evaluation** 
+
+The Recapitalisation Scheme was considered crucial in revitalizing Lloyds-HBOS and RBS. 
+
+However, there also were criticisms of the design of the scheme. In a _Washington Post_ interview with Cornelia Woll, a political science professor at Sciences-Po in Paris, Woll pointed out that the terms of the UK Recapitalisation Scheme was more punitive than capital injection program in the US. Therefore, UK government sent a clear signal to the banks that it is less likely to take risks in the future. However, Woll points out that in the UK, there was a stigma to participating in the Recapitalisation Scheme, since only the worst-off banks would require government assistance after failing to recover through private sector arrangements (Farrell and Woll 2014). 
+
+This point about stigma is critical to an analysis of the Recapitalisation Scheme used in the UK in comparison to the schemes created in other jurisdictions. In their analysis of capital injection programs in the US and UK, Culpepper and Reinke (2014) note that the UK allowed for voluntary participation under the scheme, while the US required all major banks, whether healthy or not, to participate. In the UK, the only banks that would volunteer were those with weak capital positions and the inability to find private sector assistance. A second difference they find between the US and UK programs is that the UK had little to no power to make regulatory or judicial threats to its largest bank since the largest banks’ proportion of their UK revenue to their total revenue was comparatively lower than the those in the US. On the other hand, revenue for the largest US banks depended largely on US business; thus, the government could make credible threats to those that did not participate under its own capital injection program. They also point out that this difference may have been a reason why in the US, the CEOs of the largest banks met with Secretary of the Treasury Hank Paulson when discussing recapitalizations, 
+
+
+whereas in the UK, banks would just send their “UK man” rather than the CEO or chairman; this showed a lack of independence by UK banks to cooperate with government authorities. Finally, Culpepper and Reinke believe that fees attached to recapitalization in UK were more of a drawback to participation rather than beneficial to taxpayers (Culpepper and Reinke 2014). 
+
+At the time of their paper’s publishing, the authors estimated that the UK had lost £12 billion ($14 billion) and a book loss of £32 billion (Culpepper and Reinke 2014). For a summary of Culpepper and Reinke’s comparison, please see Figure 1. 
+
+[FIGURE id=vol3_iss3_32_f1 type=figure label="Figure 1" file=figure_1.png caption="US vs. the UK in Capital Injection Program Designs"]
+### **Figure 1: US vs. the UK in Capital Injection Program Designs**
+
+||**Design Features of the American and British Bailout Plans**|**Design Features of the American and British Bailout Plans**|**Design Features of the American and British Bailout Plans**|
+|---|---|---|---|
+|||United States|UnitedKingdom|
+|Participation in state<br>recapitalizations:<br>Self-selection or not?|Design|Required participation of major<br>banks|Voluntary participation of<br>majorbanks|
+||Effect|All nine major banks (including<br>healthy banks Wells Fargo,<br>JPMorgan)|Self-selection of least resilient<br>banks only (RBS, Lloyds-<br>HBOS)|
+|Funding of<br>recapitalizations and<br>guarantees:<br>Government subsidy<br>or cross-subsidy<br>from banks?|Design|Low, flat, upfront fees paired<br>with long-term warrants|Steep upfront fees without<br>warrants; risk-based fees for<br>guarantees|
+||Effect|Generous help for sick banks;<br>tough terms for healthy and<br>lucky banks|High nominal charges for<br>rescued, mostly state-owned<br>banks|
+||Gains vs.<br>Losses|$8 billion–$10 billion gain from<br>the Troubled Assets Relief<br>Program’s bank part (excl. auto<br>bailout and mortgage relief), of<br>which $4 billion came from sales<br>of warrants from JPMorgan,<br>WellsFargo, and GoldmanSachs|£12 billion ($14 billion)<br>currently estimated losses;<br>current book loss of £32 billion<br>($51 billion) from RBS, Lloyds-<br>HBOS|
+
+
+
+_Source: Culpepper and Reinke 2014._ 
+
+Dalvinder Singh, a professor at the University of Iowa College of Law, points out that one condition of recapitalization was that it was to allow the government to make decisions on retaining or inputting new members on a participating institution’s board of directors and install new nonexecutive directors. However, the placement of government shares into the UKFI was counteractive to that condition since UKFI’s powers did not include “intervening in day-to-day management decisions of the Investee Companies.” Thus, Singh argues that recapitalized banks legally maintained much more independence than the scheme dictated, where decisions of directors and executives would lie with the board and shareholders and could only be affected by UKFI through persuasion, rather than force (Singh 2011). 
+
+
+## **IV. References** 
+
+Bank of England (BOE). 2008. “Financial Stability Report.” October 2008. Issue No. 24. https://www.bankofengland.co.uk/-/media/boe/files/financial-stabilityreport/2008/october- 
+
+2008.pdf?la=en&hash=DA2C19274CA14E7F6CAE953CEF3FD046B553265C. 
+
+Culpepper, Pepper D., and Raphael Reinke. 2014. “Structural Power and Bank Bailouts in the United Kingdom and the United States.” _Politics & Society_ 42, no. 4 (December): 427–54. http://journals.sagepub.com/doi/abs/10.1177/0032329214547342. 
+
+Darling, Alistair. 2008a. “Commons Debate: Financial Markets.” UK House of Commons. _Official Report_ , October 13, 2008, vol. 480, cols. 543–61. 
+
+https://publications.parliament.uk/pa/cm200708/cmhansrd/cm081013/debtext/810130004.htm. 
+
+———. 2008b. “Statement by the Chancellor on the Bank Recapitalisation Scheme.” Her Majesty’s Treasury, November 18, 2008. 
+
+http://webarchive.nationalarchives.gov.uk/20090903185615/http://www.hmtreasury.gov.uk/statement_chx_181108.htm. 
+
+European Commission (EC). 2008a. “Financial Support Measures to the Banking Industry in the UK.” State Aid N507/2008 – UK, October 13, 2008. 
+
+http://ec.europa.eu/competition/state_aid/cases/227824/227824_881394_17_2.pdf. 
+
+———. 2008b. “Modifications to the Financial Support Measures to the Banking Industry in the UK.” State Aid N650/2008 – UK, December 22, 2008. 
+
+http://ec.europa.eu/competition/state_aid/cases/228924/228924_928084_11_2.pdf. 
+
+———. 2009. “Prolongation of the Financial Support Measures to the Banking Industry in the UK.” State Aid N 193/2009 – UK, April 15, 2009. 
+
+https://ec.europa.eu/competition/state_aid/cases/230718/230718_964179_16_2.pdf. 
+
+Farrell, Henry, and Caroline Woll. 2014. “Interview: Bailing Out Banks Is Not a Lucrative Business.” _Washington Post_ , June 24, 2014. 
+
+https://www.washingtonpost.com/news/monkey-cage/wp/2014/06/24/bailing-outbanks-is-not-a-lucrative-business/?utm_term=.c6b71bd9e41b. 
+
+Financial Services Authority (FSA). 2008. “FSA Statement on Capital Approach Utilised in UK Bank Recapitalisation Package.” Press release, November 14, 2008. 
+
+https://webarchive.nationalarchives.gov.uk/20081231025343/http://www.fsa.gov.uk/pa ges/Library/Communication/Statements/2008/capapp.shtml. 
+
+Her Majesty’s Treasury (HMT). 2007. “Liquidity Support Facility for Northern Rock plc.” News release, September 14, 2007. https://www.bankofengland.co.uk/-/media/boe/files/news/2007/september/liquidity- 
+
+
+support-facility-for-northern-rock- 
+
+plc.pdf?la=en&hash=7896EC3DAD4808F5E9BCB563229AA2EB5E495F27. 
+
+———. 2008a. “Recapitalisation of the UK Banking System.” News release, October 8, 2008. https://www.bankofengland.co.uk/- 
+
+/media/boe/files/news/2008/october/recapitalisation-of-the-uk-banking- 
+
+system.pdf?la=en&hash=7045BDA66C106E7DCA4911C8EF96EADBFFCFBB85. 
+
+———. 2008c. “New Company to Manage Government’s Shareholding in Banks.” Press notice, November 3, 2008. 
+
+https://web.archive.org/web/20120708153544/http:/webarchive.nationalarchives.gov.u k/+/http:/www.hm-treasury.gov.uk/press_114_08.htm. 
+
+———. 2011b. “HM Treasury Annual Report and Accounts 2010–11.” Accounts presented to the House of Commons pursuant to Section 6(4) of the Government Resources and Accounts Act 2000. London: The Stationery Office, July 14, 2011. 
+
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachme nt_data/file/221559/annual_report_accounts140711.pdf. 
+
+———. 2012. “Review of HM Treasury’s Management Response to the Financial Crisis.” March 29, 2012. 
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/220506 /review_fincrisis_response_290312.pdf. 
+
+———. 2018. “RBS Share Sale Returns 2.5 Billion to UK Taxpayers.” News story, June 5, 2018. 
+
+https://www.gov.uk/government/news/rbs-share-sale-returns-25-billion-to-uktaxpayers. 
+
+Monetary Policy Committee (MPC). 2008. “Minutes of the Special Monetary Policy Committee Meeting, October 8, 2008.” Bank of England, published October 22, 2008. https://www.bankofengland.co.uk/minutes/2008/monetary-policy-committee-october2008. 
+
+Panetta, Fabio, Thomas Faeh, Giuseppe Grande, Corrinne Ho, Michael King, Aviram Levy, Federico M. Signoretti, Marco Taboga and Andrea Zaghin. 2009. “An Assessment of Financial Sector Rescue Programmes.” Banca Italia, July 2009. Number 47. https://www.bancaditalia.it/pubblicazioni/qef/2009-0047/QEF_47.pdf?language_id=1. 
+
+Singh, Dalvinder. 2011. “U.K. Approach to Financial Crisis Management.” _Transnational Law & Contemporary Problems_ 19,  no. 3: 866–922. https://heinonline.org/HOL/Page?handle=hein.journals/tlcp19&id=1&collection=journals &index=. 
+
+UK Debt Management Office (UK DMO). 2008. “UK Bank Re-Capitalisation: Revision to DMO’s Financing Remit 2008-09.” Press notice, October 13, 2008. https://www.dmo.gov.uk/media/2176/pr131008.pdf. 
+
+
+UK Government Investments (UKGI). 2018. “UK Government Investments Completes Integration of UK Financial Investments.” Press release, March 29, 2018. https://www.ukgi.org.uk/2018/03/29/uk-government-investments-completesintegration-of-uk-financial-investments/. 
+
+Winters, Bill. 2012. “Review of the Bank of England’s Framework for Providing Liquidity to the Banking System.” Presented to the Court of the Bank of England, October 2012. https://www.bankofengland.co.uk/-/media/boe/files/news/2012/november/the-banksframework-for-providing-liquidity-to-the- 
+
+banking.pdf?la=en&hash=E1FB0EBE65F13E2A4E224B737C8244E039AD7502. 
+
+## **V. Key Program Documents** 
+
+## **Summary of Program** 
+
+(EC 2008a) Financial Support Measures to the Banking Industry in the UK _State aid decision by the European Commission announcing the approval of the UK’s £500 billion economic package to aid the UK banking sector. The package included a Guarantee Scheme, a Bank Recapitalisation Scheme, and a Special Liquidity Scheme._ 
+
+http://ec.europa.eu/competition/state_aid/cases/227824/227824_881394_17_2.pdf. 
+
+## **Implementation Documents** 
+
+(EC 2008a) Financial Support Measures to the Banking Industry in the UK _State aid decision by the European Commission announcing the approval of the UK’s £500 billion economic package to aid the UK banking sector. The package included a Guarantee Scheme, a Bank Recapitalisation Scheme, and a Special Liquidity Scheme._ 
+
+http://ec.europa.eu/competition/state_aid/cases/227824/227824_881394_17_2.pdf. 
+
+(EC 2008b) Modifications to the Financial Support Measures to the Banking Industry in the UK 
+
+_State aid decision by the European Commission announcing modifications to the October 2008 measures taken by the UK to stabilize the financial system._ 
+
+http://ec.europa.eu/competition/state_aid/cases/228924/228924_928084_11_2.pdf. 
+
+## **Press Releases/Announcements** 
+
+(Darling 2008b) Statement by the Chancellor on the Bank Recapitalisation Scheme _A statement by Chancellor of the Exchequer Alistair Darling on the Recapitalisation Scheme and the terms and conditions of participation within the scheme._ 
+
+http://webarchive.nationalarchives.gov.uk/20090903185615/http://www.hmtreasury.gov.uk/statement_chx_181108.htm. 
+
+(EC 2008c) State Aid: Commission Approves UK Support Scheme for Financial Institutions _An announcement by the European Commission announcing the approval of the UK’s £500_ 
+
+
+_billion economic package to aid the UK banking sector._ http://europa.eu/rapid/press-release_IP-08-1496_en.htm. 
+
+(HMT 2008a) Treasury Statement on Financial Support to the Banking Industry _Press release by Her Majesty’s Treasury announcing extension of an economic package to the UK banking sector and specifically a £50 billion Recapitalisation Scheme to strengthen the capital position of reeling banks._ 
+
+http://webarchive.nationalarchives.gov.uk/+/http://www.hmtreasury.gov.uk/press_105_08.htm. 
+
+(HMT 2011) Bank Intervention and Recapitalisation 
+
+_Her Majesty’s Treasury provides an overview of the economic package and its three programs announced in October 2008._ 
+
+http://webarchive.nationalarchives.gov.uk/20110406080828/http://www.hmtreasury.gov.uk/fin_stability_recapitalisation.htm. 
+
+## **Media Stories** 
+
+( _Guardian_ 2008) Treasury’s Official Announcement on the Banks 
+
+_News story summarizing HM Treasury’s bailout support package for the UK economy and banking sector._ 
+
+https://www.theguardian.com/business/2008/oct/08/creditcrunch.banking1. 
+
+(Sawyer and Whittall 2008)  UK Government Unveils £50 Billion Bank Recapitalisation Plan _News story summarizing the £50 billion Bank Recapitalisation Scheme created by HM Treasury to provide capital injections into bank and credit institutions._ 
+
+https://www.risk.net/derivatives/structured-products/indexes/1501249/ukgovernment-unveils-ps50-billion-bank. 
+
+## **Key Academic Papers** 
+
+(Culpepper and Reinke 2014) Structural Power and Bank Bailouts in the United Kingdom and the United States 
+
+_Academic paper comparing bank rescue packages during the global financial crisis in US and UK._ 
+
+http://journals.sagepub.com/doi/abs/10.1177/0032329214547342. 
+
+(Singh 2011) U.K. Approach to Financial Crisis Management _Academic paper analyzing the measures used by UK authorities in responding to the global financial crisis_ . 
+
+https://heinonline.org/HOL/Page?handle=hein.journals/tlcp19&id=1&collection=journals &index=. 
+
+## **Reports/Assessments** 
+
+(Farrell and Woll 2014) Interview: Bailing Out Banks Is Not a Lucrative Business _An interview with a political science professor on her then-new book about the different_ 
+
+
+_approaches countries take while bailing out banks during financial crises. The interviewee specifically makes comparisons between the capital injection programs created in the US and UK._ 
+
+https://www.washingtonpost.com/news/monkey-cage/wp/2014/06/24/bailing-outbanks-is-not-a-lucrative-business/?utm_term=.c6b71bd9e41b. 
+
+(Morse 2009) Maintaining Financial Stability across the United Kingdom’s Banking System _A report by the UK’s National Audit Office on how the UK had thus far responded to the financial crisis in the banking sector and what the cost on taxpayers was._ https://www.nao.org.uk/report/maintaining-financial-stability-across-the-unitedkingdoms-banking-system/. 
+
+(Winters 2012) Review of the Bank of England’s Framework for Providing Liquidity to the Banking System 
+
+_One of three independent reviews requested by the Court of the Bank of England in 2012, specifically highlighting the institutional framework for providing liquidity to banks by the Bank of England._ 
+
+https://www.bankofengland.co.uk/-/media/boe/files/news/2012/november/the-banksframework-for-providing-liquidity-to-the- 
+
+banking.pdf?la=en&hash=E1FB0EBE65F13E2A4E224B737C8244E039AD7502. 
+
+Copyright 2018, 2021 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

@@ -1,0 +1,74 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## Ewald Nowotny 
+
+By Mary Anne Chute Lynch and Rosalind Z. Wiggins 
+
+_Ewald Nowotny was appointed governor of the National Bank of Austria in September 2008 at the start of the Global Financial Crisis (GFC), having previously served as a vice president of the European Investment Bank in Luxembourg, the house bank of the European Union. Nowotny participated in the implementation of the multilateral stabilization framework known as the Vienna Initiative, which helped restore stability in the financial markets of Central, Eastern, and Southeastern Europe during the GFC. Working with the Austrian central bank, the European Commission, and the International Monetary Fund (IMF), he steered the Austrian economy away from recession. During the European Sovereign Debt Crisis, Nowotny and other central bankers helped safeguard the financial and macroeconomic stability of the euro, shaping new institutions such as the European Systemic Risk Board (ESRB) to protect the European Union’s financial system. He retired in 2019 because of term limits and returned to his position as professor at the Vienna University of Economics. This Lessons Learned is based on an interview held in November 2022; the full transcript is available here._ 
+
+## **Crises can impact a country in unexpected ways, indirectly and through contagion channels. In such circumstances, unconventional tools may be required.** 
+
+Nowotny explained that at first the Austrian central bank did not think it would be significantly impacted by the GFC, because “in Austria, people did not invest in American markets.” But because the country’s banks were very exposed to banks in Central and Eastern Europe that had relied heavily on the global wholesale funding markets, which dried up as the crisis developed, they ran into problems. 
+
+There was fear that the parents of foreign banks would pull their funding from their banks in these regions, Nowotny related. 
+
+We did have a problem in 2009 when a discussion started about the big exposure of Austrian banks in Eastern Europe, because this was considered as being a major risk. Then, Austrian banks were attacked, and these markets were attacked, and we had to create a special program, which was called the Vienna Initiative, to secure liquidity to the banks in this region, which was successful. 
+
+The Vienna Initiative was a coordinated response that focused on a pressing need and addressed a gap in the infrastructure: funding for EU countries that were not in the eurozone and so could not borrow from the ECB as lender of last resort. According to Nowotny, the program provided a de facto guarantee of the liquidity of the banks in Central and Eastern Europe. “It was guaranteed by the European Union, the IMF, national governments, and the central banks as potential lenders of last resort to the banks involved.” 
+
+
+The guarantee was never activated, but even so, its impact was significant to banks in Central and Eastern Europe, said Nowotny, demonstrating the power of guarantees: 
+
+By giving a guarantee that they will be kept liquid, [the banks] gained access to the money market. These guarantees have never been used, but otherwise, they would have fallen into great troubles. . . . 
+
+If this guarantee were needed, we would have had to print money, but it was never needed. It was never needed because it’s just a matter of trust. This is the money market where the banks are lending to each other. If they trust that they will get their money back, they are prepared to lend, and so, the guarantee helps to keep this money market going. 
+
+Nowotny counted the program as a clear success: 
+
+Otherwise, there could have been the first banking crisis in Central Europe, and we would have [had] a crisis of the whole region, and quite a number of banks. It was not only the Austrian banks. There were Italian banks, French banks that were heavily exposed in this region, so it would have vast affects. 
+
+## **The first and most powerful action in a crisis is to provide liquidity to ensure stability and prevent collapse.** 
+
+The most effective action during the GFC, the Sovereign Debt Crisis, and the COVID-19 crisis, said Nowotny, was providing liquidity; each crisis had its own unique characteristics. The GFC “was basically a liquidity crisis,” Nowotny said. “It came from the US and from banks that had invested in the US housing markets, and so it was important to Europe.” The European Central Bank (ECB) took immediate action to provide liquidity and to ensure US dollar liquidity for German and French banks invested in the US by entering a swap agreement between the ECB and Federal Reserve. The European Commission (EC) worked with the national governments and central banks to provide liquidity to banks in Central and Eastern Europe that were not eligible to access ECB funding. 
+
+Nowotny described the Sovereign Debt Crisis as “the most difficult one” on multiple levels. The crisis impacted northern and southern eurozone countries very differently and created the overriding issue of a threat to the unity of the eurozone, Nowotny said. After Greece announced that its deficits were much larger than officially stated, “nobody was prepared to lend money to them. That would have led to bankruptcy of the Greek banks,” said Nowotny, which could have led to Greece being forced to leave the eurozone, which could have started a cascade of problems for other southern countries in Europe, especially Italy, Spain, and Portugal, which also had big deficits, he pointed out. 
+
+
+With help from the IMF, loans from the EC, and refinancing with the ECB, jointly referred to as the “Troika,” a rescue package with tight controls was created for Greece, Nowotny said. Under intense pressure, 
+
+a clear political decision was made that the integrity of the eurozone, of the European market union, should be saved. Therefore, Greece should be saved, and this was through a number of steps.” 
+
+The first action was starting an IMF program. The second action was to give loans from the European Commission. The third action was that the ECB still allowed Greek banks access to refinancing with the ECB. 
+
+The ECB accepted government bonds as collateral even if they were not investment grade. The support came with tight controls overseen by the Troika. 
+
+Germany argued that the efforts were not in the ECB’s mandate and took its objection to the Constitutional Court of Germany and the European Court of Justice. The problem for the ECB was that the central bank could not finance governments. The ECB argued that this was not fiscal policy, Nowotny stated, but rather monetary policy to stabilize markets and avoid “fragmentation,” underscoring the extremely fragile unity of the eurozone at this time. Austria, Germany, the Netherlands, and Luxembourg were not directly affected by the Sovereign Debt Crisis, Nowotny pointed out, “but we all had an interest in the survival of the European Monetary Union, so we agreed with the programs.” 
+
+He added: 
+
+We are interconnected, so for the northern countries, it is important that the southern countries stay within the eurozone, and they are big customers for our exports. We have enlightened self-interest that they are not getting into catastrophic situations.” 
+
+By prioritizing the EU over national interests, the existential crisis was avoided and new institutions such as the European Stability Mechanism (ESM) and European Systemic Risk Board (ESRB), which were lacking before the Global Financial Crisis, have been created and strengthened. 
+
+Nowotny emphasized that one of the big lessons from the first and the second crises was adopting macroprudential policies, particularly the Basel III regulations that “forced the banks to have more capital,” and the ESRB, which was created in 2010 to provide macroprudential oversight of the EU financial system. “This helped put the banks in much better shape than they had been at the first financial crisis,” he observed. There is “no banking problem any longer because they have adequate capital.” 
+
+The nature of the pandemic also greatly impacted the response, according to Nowotny. “The third crisis, the Corona crisis, in some way was the easiest one because, from our point of view, everybody, every country, was concerned the same way. There was broad 
+
+
+agreement that you have to do something.” In 2020, the ECB implemented a new purchase program, the Pandemic Emergency Purchase Program, costing EUR 750 billion, to fund huge asset purchases by the ECB. The circumstances of the pandemic made the north-south divide recede so that doing what was needed was easier. However, “now, after the Corona crisis, we have the risk of coming back to this north-south divide,“ he observed. 
+
+## **Monitor and taper liquidity cautiously as the economy rebounds to avoid inflation.** 
+
+The infusion of capital in the Sovereign Debt Crisis and COVID crisis was good business for the public and for the state, Nowotny said, but it came with a cost: 
+
+[Inflation is] one of the problems that we are seeing now because it meant that money was very cheap, not only for governments but also for the private sector, for housing loans, and for financial investments. The northern countries, Austria, Germany, they were rather concerned about the stability aspects of this purchasing program, because the ECB (and also the Fed) de facto became market makers of last resort. . . . 
+
+After the euro crisis of 2012 there was a period of very low inflation and very low interest rates, and this was the right thing to do. But my criticism was that this policy was followed too long. I think the ECB, one year or two years earlier, should have switched to a stricter monetary policy. That means higher interest rates, especially stopping negative interest rates . . . I never was a friend of negative interest rates, and my proposition was to try to get rid of the negative interest rate as fast as possible. Now, it is plus 2%, but it was a bit late. I would have acted earlier.” 
+
+The ECB’s Pandemic Emergency Purchase Program during the COVID-19 crisis also caused problems with financial stability and created a bubble on the housing market, Nowotny said. “It was very cheap,” to borrow, because of low interest rates. “Interest rates are higher now, but we also have made it more difficult to borrow. We have restricted leverage so you cannot finance a loan-to-value ratio of 100%.” 
+
+The forecasts of the ECB before 2021 had been that there will be very low interest rates and very low inflation rates for a long period of time, Nowotny said, noting there were external factors that nobody could foresee—COVID-19 and the war in Ukraine. “Now there is a consensus that it will take quite some time to get back to lower rates of inflation, to reach a target rate of inflation of about 2%.” The ECB is neither buying new bonds, nor reducing the balance sheet, Nowotny pointed out. Following the example of the Fed, “I think that the ECB will further increase interest rates,” and start reducing the balance sheet, the asset purchases in 2023. “This is the most critical part,” Nowotny said. 
+
+Dated: December 2025 
+
+YPFS Lessons Learned No. 2022–28

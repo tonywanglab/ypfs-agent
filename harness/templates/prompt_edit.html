@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% from "macros/markdown_editor.html" import markdown_editor %}
+{% from "macros/form_actions.html" import form_actions %}
+{% block title %}Edit {{ prompt.prompt_id }} — Eval Harness{% endblock %}
+{% block main_class %}main-wide{% endblock %}
+{% block content %}
+<div class="page-header">
+  <h1>Edit {{ prompt.prompt_id }}</h1>
+  <p class="meta">
+    Edit this immutable version, then save it as the next prompt version.
+    Nothing is written until you approve below.
+  </p>
+</div>
+
+<section>
+  <form method="post" action="{{ url_for('save_prompt_version', prompt_id=prompt.prompt_id) }}">
+    {{ markdown_editor(
+      name="prompt_text",
+      value=prompt_text,
+      label="Editable prompt text",
+      editor_id="prompt-text-editor",
+      required=true
+    ) }}
+    <label>Version rationale
+      <textarea name="rationale" rows="4" placeholder="Why create a new prompt version?">{{ rationale }}</textarea>
+    </label>
+    {{ form_actions("Save", cancel_href=url_for('dashboard')) }}
+  </form>
+</section>
+{% endblock %}

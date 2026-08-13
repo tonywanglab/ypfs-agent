@@ -1,0 +1,852 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 1 
+2020 
+Guarantees and Capital Infusions in Response to Financial Crises Guarantees and Capital Infusions in Response to Financial Crises 
+B: U.S. Guarantees During the Global Financial Crisis B: U.S. Guarantees During the Global Financial Crisis 
+June Rhee 
+Yale School of Management 
+Andrew Metrick 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Administrative Law Commons, Banking and Finance Law Commons, Bankruptcy Law 
+Commons, Corporate Finance Commons, Economic History Commons, Economic Policy Commons, 
+Finance Commons, Finance and Financial Management Commons, Law and Politics Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, 
+and Methods Commons, Public Affairs Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Rhee, June and Metrick, Andrew (2020) "Guarantees and Capital Infusions in Response to Financial Crises 
+B: U.S. Guarantees During the Global Financial Crisis," Journal of Financial Crises: Vol. 2 : Iss. 1, 51-68. 
+DOI: https://doi.org/10.17132/2693-3179.1049 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/4 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol2/iss1/4
+
+--- Page 3 ---
+Guarantees and Capital Infusions in Response to 
+Financial Crises B:  
+U.S. Guarantees During the Global Financial Crisis1  
+ 
+June Rhee2 
+Andrew Metrick3 
+ 
+ 
+Yale Program on Financial Stability Case Study 2015-3b-v1 
+July 15, 2015 
+Abstract 
+During 2008-09, the federal government extended multiple guarantee programs in an effort 
+to restore the financial market and contain the panic and crisis in the market. For example, 
+the Treasury provided a temporary guarantee program for the money market funds, the 
+FDIC decided to stand behind certain debts and non -interest-bearing transaction accounts, 
+and the Treasury, the FDIC, and the Federal Reserve agreed to share losses in certain assets 
+belonging to Citigroup. This case reviews these guarantee programs implemented during the 
+global financial crisis by the government and explores the different rationale that shaped 
+certain design features of each program.   
+ 
+ 
+ 
+ 
+__________________________________________________________________ 
+1  This case study is one of three Yale Program on Financial Stability (YPFS) case modules considering the 
+Guarantees and Capital Infusions in Response to Financial Crises. The others are:  
+• Guarantees and Capital Infusions in Response to Financial Crises A: Haircuts and Resolutions  
+• Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Financial 
+Crisis 
+Cases are available from the Journal of Financial Crises. 
+2  Director, MMS in Systemic Risk and Senior Editor, Yale Program on Financial Stability (YPFS), Yale School of 
+Management. 
+3  Janet L. Yellen  Professor of Finance and Management, and YPFS Program Director, Yale School of 
+Management. 
+51
+
+--- Page 4 ---
+1. Introduction  
+During 2008-09, the federal government extended multiple guarantee programs in an effort 
+to restore the financial market and contain the panic and crisis in the market. For example, 
+to stop a disruption and run in the money market funds (MMFs ), the Treasury provided a 
+guarantee for the investors of the fund ensuring that the value of their shares would not fall 
+below $1.00 per share. Additionally, the Congress raised the maximum guaranteed value of 
+the FDIC -insured accounts from $100,000 to $2 50,000 per account. The Federal Deposit 
+Insurance Corporation (FDIC) also established the Debt Guarantee Program (DGP) standing 
+behind certain newly issued senior unsecured debt to restore the interbank lending market, 
+and the Transaction Account Guarantee  Program (TAGP) covering non -interest-bearing 
+transaction accounts to prevent runs in small banks by maintaining depositor confidence. 
+Later under the Troubled Asset Relief Program (TARP), the Treasury, the FDIC, and the 
+Federal Reserve jointly decided to guarantee and share losses of certain assets belonging to 
+Citigroup and Bank of America. However, the guarantee program for Bank of America was 
+not finalized. Overall, the guarantees provided by the government exceeded the total value 
+of TARP, making guarantees the single largest element of the government’s response to the 
+financial crisis (COP 2009).  
+Compared to the direct purchases of bank assets, a guarantee does not require any upfront 
+cost from the government and the taxpayers. When government agencies agreed to provide 
+the guarantee programs discussed above, taxpayers paid no immediate price. This low 
+upfront cost allowed the government to guarantee large pools of assets large pool of assets 
+and the programs were to play an important role in calming t he panicked financial market. 
+For example, lenders who were unwilling to risk their money in distressed and uncertain 
+markets became much more willing to participate after the U.S. government promised to 
+backstop any losses (Ibid., 2009). 
+These guarantees, however, have their downside. Despite the low upfront cost, guarantees 
+still carry a considerable risk to taxpayers. There is always a possibility that, if the 
+guaranteed assets radically declined in value, especially in a volatile and unstable market, 
+taxpayers could suffer enormous losses. They could also create moral hazard and price 
+distortions in the market (Ibid., 2009). 
+By reviewing different designs of the guarantee programs established during the financial 
+crisis, we are able to learn what features of the program most efficiently balanced the upside 
+and downside of a guarantee and which designs can be effective in dealing with a future 
+crisis.  
+The remainder of the case is organized as follows : Section 2 discusses the temporary 
+guarantee provided for the MMFs by the Treasury to prevent any further “breaking the buck” 
+in the market. Section 3 describes the temporary liquidity guarantee program established by 
+the FDIC to promote interbank lending and prevent runs in smaller banks. Section 4 provides 
+details on the guarantee and loss sharing program jointly set forth by the Treasury, the FDIC, 
+and the Federal Reserve to save Citigroup.  
+Questions  
+1. In limiting the source of funding for the MMF guarantee program only to ESF, what 
+was the government’s reas on in the decision that a $50 billion ESF could effectively 
+stop a run in a $3 trillion MMF market? 
+52
+Journal of Financial Crises Vol. 2 Iss. 1
+
+--- Page 5 ---
+2. Why did the government decide to include all eligible MMFs rather than considering 
+the differences in run potential between institutional vs. retail holders, and prime vs. 
+non-prime funds?  
+ 
+3. What was the reason behind the decision to limit eligible MMFs to funds having a 
+market-based NAV on September 19, 2008 , of $0.995 or greater, and guaranteeing 
+only the shares held as of September 19, 2008?  
+ 
+4. Did the MMF guarantee during the crisis set a precedent that raises the prospect or 
+creates moral hazard of the Treasury using Exchange Stabilization Fund (ESF) for 
+other domestic activities that can be plausibly linked to ensuring international 
+financial stability? 
+ 
+5. Why were certain guarantee programs designed as opt -in rather than opt -out 
+programs, and vice versa? What features and objectives of a guarantee program are 
+made more effective with an opt-in rather than an opt-out, and vice versa?  
+ 
+6. Under the Temporary Liquidity Guarantee Program (TLGP), what is the reason 
+behind the coverage limit (date, amount, etc.) of the DGP, as opposed to unlimited 
+coverage of the guarantee in the TAGP?  
+ 
+7. For the Asset Guarantee Program (AGP), did the Federal Reserve, the Treasury , and 
+the FDIC have differing rationale and guiding principles behind each guarantee 
+program and when invoking systemic risk exception, and if so, what were  the 
+dynamics among the three organizations? 
+ 
+8. Did the government intended to utilize AGP (or guarantee and loss-sharing provided 
+for Citigroup) only for Citigroup and Bank of America, or did it have an intention of 
+possibly expanding it to other institutions? If not, then why limit it to only those two 
+organizations? 
+ 
+9. How would the government’s response to Citigroup’s troubles be different now with 
+the Dodd-Frank Wall Street Reform and Consumer Protection Act and the Financial 
+Stability Oversight Council in charge of developing the specific criteria and analytical 
+framework for assessing systemic significance?  
+2.  Temporary Guarantee Program for Money Market Funds 
+A money market fund (MMF) is a type of mutual fund regulated primarily by Rule 2a-7 of the 
+Investment Company Act of 1940, and is mandated to invest in high -liquid and low -risk 
+securities. These securities include government securities, certificates of deposit, and 
+commercial paper of companies. MMFs strive to maintain their  net asset value (NAV)  at a 
+constant $1.00 per share and only the yield goes up and down. NAV in the context of MMF is 
+calculated based on the closing market prices of the securities held in the fund’s portfolio, 
+less any liabilities, and dividing this value by the number of shar es outstanding in the fund. 
+Before the 2008 financial crisis, MMFs had  been widely believed to be as safe as bank 
+deposits, and leading up to the crisis, MMFs were important providers of liquidity to financial 
+intermediaries (SEC 2015). 
+However, if the fund’s portfolio performs poorly, MMF’s NAV may fall below $1.00 , and this 
+is referred to as “breaking the buck,” which is a rare occurrence. On September 16, 2008, a 
+day after Lehman Brothers filed for bankruptcy, Reserve Primary Fund (RPF), a $62 billion 
+53
+U.S. Guarantees During the Global Financial Crisis Rhee and Metrick
+
+--- Page 6 ---
+prime and oldest MMF in the U.S., broke the buck. It had been 14 years since the last MMF 
+had broken the buck. RPF’s NAV fell to $0.97, and its troubles started when it had to write 
+off $785 million of commercial paper and medium -term notes issued by Lehman Brothers 
+(Bloomberg 2008). 
+In the days after RPF broke the buck, investors redeemed more than $300 billion from prime 
+MMFs, and the commercial paper market shut down for even the high -quality issuers. For 
+example, on September 18, 2008, Putnam Investments, one of the oldest MMFs serving only 
+the institutional investors, announced that it was closing and liquidating Putnam Prime 
+Money Market Fund, which was a $12.3 billion fund (NY Times September 18, 2008).  
+On September 19, 2008, to stop the run on MMFs, then-president George W. Bush approved 
+the use of existing authorities by the then -Treasury Secretary Henry Paulson to make 
+available as necessary the assets of the Exchange Stabilization Fund (ESF) for up to $50 
+billion to “insure the holdings of an y publicly offered eligible money market mutual fund — 
+both retail and institutional —that pays a fee to participate in the program.” This approval 
+was done without seeking Congressional authorization (Treasury 9/19/2008).  
+Funded by the $50 billion available in the ESF, and not backed by full faith and credit of the 
+U.S., the Treasury was to guarantee more than $3 trillion of MMF shares. At its peak, this 
+program guaranteed $3.2 trillion in assets (Treasury 2010). In addition, the Federal Reserve 
+introduced a series of liquidity programs to help stop the run on MMFs (FSOC 2012).  
+ESF was established by the Gold Reserve Act of 1934, as amended in 1977, and provides as 
+follows:  
+the Department of the Treasury has a stabilization fund …Consistent with the 
+obligations of the Government in the International Monetary Fund (IMF) on orderly 
+exchange arrangements and an orderly system of exchange rates, the Secretary …, 
+with the approval of the President, may deal in gold, foreign exchange, and other 
+instruments of credit and securities. 
+No loan or credit can be extended by the ESF for more than six months in any twelve-month 
+period, unless the President provides a written determination to the Congress that “unique 
+or emergency circumstances” necessitate a term greater than six months. Currently, the 
+Emergency Economic Stabilization Act of 2008 (EESA), enacted October 3, 2008, requires 
+that the Treasury reimburse the ESF for any funds used related to  the Treasury’s guarantee 
+of MMFs, and prohibits the Treasury from using the ESF in the future to guarantee MMFs. 
+Under the MMF guarantee program, the Treasury allowed all eligible MMFs to participate in 
+the program, and each fund decided to participate in the program. To be eligible to 
+participate in the program, a MMF must: 
+(i) be registered under the Investment Company Act of 1940; 
+(ii) offer securities registered under the Securities Act of 1933; 
+(iii) have a policy of maintaining a stable net asset value or share price of $1.00 per share 
+(iv) be operated in compliance with Rule 2a -7 under the Investment Company Act of 
+1940; and 
+(v) have a market-based net asset value per share on September 19, 2008 , of $0.995 or 
+greater. 
+54
+Journal of Financial Crises Vol. 2 Iss. 1
+
+--- Page 7 ---
+Eligible funds included both taxable and non -taxable funds. Eligible funds had to apply and 
+pay a fee 4 to participate in the program. The application include d submitting an executed 
+version of the Treasury’s form of Guarantee Agreement and certain related documentation 
+including an acknowledgement and undertaking by the fund’s investment adviser to the 
+Treasury via e-mail.  
+Under the guarantee program, investors’ holdings in participating MMFs as of September 19, 
+2008, were protected. Payment under the program was triggered by a “guarantee event.” A 
+guarantee event occurred when the participating MMF’s share NAV fell below $0.995. When 
+a guarantee event occurred, the Treasury was to use the ESF to ensure that investors in the 
+failing MMF received $1.00 per covered share up to the extent of their holdings in that MMF 
+as of September 19, 2008.  
+In order to ensure payment under the guarantee program, after a guarantee event, the MMF 
+were required to, among other things, initiate actions necessary to commence the liquidation 
+process of the fund within five business days and complete the liquidation of the fund on or 
+before the 30th day following the guarantee event unless the Treasury consented in writing 
+to a later date. The guarantee event w ould be deemed not to have occurred, however, if the 
+MMF’s NAV return ed to an amount greater than or equal to $0.995 before the start of 
+liquidation. The guarantee agreements specifically limited aggregate coverage to the amount 
+of funds available in the ESF on the date of a guarantee event, with investor claims in excess 
+of available funds subject to pro-ration.   
+The original termination date for the program was April 30, 2009 with the Secretary’s option 
+to extend the program up to the close of business on September 18, 2009. In order to 
+maintain coverage throughout the extended period of the program, MMFs had to renew their 
+participation in the program after each extension. After two extensions, the MMF guarantee 
+program expired on September 18, 2009. 
+Rationale and Assessment of the Program 
+The Treasury stated that this program was designed to address temporary dislocations in 
+credit ma rkets. More specifically, its purpose was to “enhance market confidence by 
+alleviating investors’ concerns about the ability of money market mutual funds to absorb 
+losses.” According to Treasury, it was intended specifically to “stop a run on money market 
+mutual funds in the wake of the failure of Lehman Brothers” and to alleviate concerns 
+regarding the industry because MMFs “are an important investment vehicle for many 
+Americans and a fundamental source of financing for our capital markets and financial 
+institutions. Maintaining confidence in the money market mutual fund industry is critical to 
+protecting the integrity and stability of the global financial system” (Treasury September 
+2009). 
+“While the program had no direct cost to taxpayers, it earned more than $1 billion in income” 
+(Geithner Testimony 2009). Also, later assessment by the Financial Stability Oversight 
+Council of the guarantee program acknowledges that it ultimately helped MMFs to continue 
+to function as intermediaries in the financial markets (FSOC 2012).  
+__________________________________________________________________ 
+4 If a fund’s market-value-based net asset value per share on September 19, 2008, was greater than or equal to 
+$0.9975, the fund’s fee for participation in the Program until December 18, 2008, is 0.01% of the product of the 
+number of the fund’s shares outstanding on September 19, 2008 , and $1. If the fund’s market -value-based net 
+asset value per share on September 19, 2008 , was less than $0.9975 but greater than or equal to $0.995, the 
+fee is 0.015% of such product. 
+55
+U.S. Guarantees During the Global Financial Crisis Rhee and Metrick
+
+--- Page 8 ---
+3.  Temporary Liquidity Guarantee Program 
+On October 14, 2008, as part of a coordinated response by the U.S. government to the 
+disruption in the financial system and the collapse of credit markets, the FDIC adopted the 
+Temporary Liquidity G uarantee Program (TLGP) (Bair 2008). The FDIC issued an interim 
+rule for TLGP on October 29, 2008, with a request for comments, and published the final rule 
+incorporating these comments on November 21, 2008.  
+In implementing the TLGP, the FDIC relied on Se ction 13(c)(4)(G) of the Federal Deposit 
+Insurance Act invoking the systemic risk exception to the least -costly resolution 
+requirement. Under the Act, the FDIC may take actions necessary to avoid or mitigate 
+systemic risk when the Secretary of the Treasury, upon the written recommendations of the 
+Board of Directors of the FDIC and the Board of Governors of the Federal Reserve (each 
+recommendation through a vote of not less than two -thirds of the members of such Board), 
+in consultation with the President det ermines that (i) the FDIC’s compliance with the least -
+cost resolution rule with respect to an insured depository would have serious adverse effects 
+on economic conditions or financial stability; and (ii) the assistance by the FDIC would avoid 
+or mitigate such adverse effects.  
+The TLGP consisted of the Debt Guarantee Program (DGP) and the Transaction Account 
+Guarantee Program (TAGP). The goal of the two programs differed in that the DGP was 
+mainly to restore normal functioning to the interbank lending market, and the TAGP was to 
+reassure bank customers ’ confidence in safe banking, particularly in smaller banks. The 
+rationale behind these two programs will be discussed in further detail below. While the 
+guarantee states that it is backed by full faith and credit of the U.S. government, the FDIC 
+stressed that the program does not rely on taxpayer funding or on the Deposit Insurance 
+Fund (DIF), whose primary purpose is to insure deposits and depositors at insured banks 
+and to resolve failed banks. The program was designed such that it would be funded entirely 
+from its own fees and would require no expenditure of the FDIC or other government funds 
+(Final Rule 2008).  
+The DGP guaranteed newly issued senior unsecured debt 5 of the FDIC -insured depository 
+institutions, U.S. bank holding companies, U.S. financial holding companies, U.S. savings and 
+loan holding companies, and affiliates of FDIC -insured depository institutions through 
+maturity or June 30, 2012, whichever came first. The amount of debt to be guaranteed by the 
+DGP was capped at 125% of senior unsecured debt outstanding as of September 30, 2008 , 
+and that was scheduled to mature on or before June 30, 2012. This termination date was 
+later extended to December 31, 2012, in 2009. The DGP, unlike the MMF guarantee program 
+discussed in the previous section, enrolled the eligible institutions and banks automatically 
+and each institution had an option to opt out from the program (Ibid., 2008). The list of banks 
+opting out of the program was published on the FDIC’s webpage. 
+“Senior unsecured debt” does not include short-term senior unsecured debt with a maturity 
+of thirty days or less, due to comments received for the interim rule where it was voiced that 
+the fee for the DGP would be prohibitively expensi ve for short -term maturity instruments 
+such as federal funds. Fees were calculated on a sliding rate scale based on an instrument’s 
+maturity, where the fees for shorter term debt were less than 75 basis points, and for longer 
+term debts were slightly highe r. The program imposed limitation s on  a participating 
+institution in issuing non -guaranteed debt by requiring the entity to max out on the DGP 
+__________________________________________________________________ 
+5 These debts were the ones issued between October 14, 2008 , and June 30, 2009, but then this period was 
+extended through October 31, 2009. 
+56
+Journal of Financial Crises Vol. 2 Iss. 1
+
+--- Page 9 ---
+guaranteed amount before issuing non -guaranteed debt, to disclose that such debt was not 
+guaranteed, and to pay additional fees (Ibid., 2008).   
+The TAGP, on the other hand, guaranteed non -interest-bearing transaction accounts at the 
+FDIC-insured depository institutions. The FDIC defined a “non-interest-bearing transaction 
+account” as a transaction account on which t he insured depository institution pays no 
+interest and does not reserve the right to require advance notice of intended withdrawals. It 
+included both commercial and consumer accounts and there was no limit to the guaranteed 
+amount. This program, like the DGP, covered all eligible accounts unless the bank where the 
+account was held opted out from the program. Beginning on December 6, 2008, institutions 
+that did not opt  out of the TAGP paid annual fees on balances in non -interest-bearing 
+transaction accounts that exceed ed $250,000. This was because $250,000 was already 
+covered under the FDIC’s standard insurance coverage rules. The original termination date 
+of the TAGP was December 31, 2009, but this was extended twice and the program ultimately 
+expired on December 31, 2010.  
+After December 31, 2010, the Dodd-Frank Wall Street Reform and Consumer Protection Act 
+(Dodd-Frank Act) provided temporary unlimited deposit insurance coverage for non -
+interest-bearing transaction accounts through December 31, 2012, regardless of the balance 
+in the account and the ownership capacity of the funds. This coverage essentially replaced 
+the expired TAGP, and was available to all depositors, including consumers, businesses, and 
+government entities. The coverage was separate from, and in addition to, the standard 
+insurance coverage provided for a depositor’s other accounts held at an FDIC-insured bank. 
+Following Figure 1 summarizes the key terms of the DGP and the TAGP.  
+Figure 1: Comparison of DGP and TAGP  
+ DGP TAGP 
+What is covered? Newly issued senior unsecured 
+debt, issued between October 14, 
+2008 to October 31, 2009, of the 
+FDIC-insured depository 
+institutions, U.S. bank holding 
+companies, U.S. financial holding 
+companies, U.S. savings and loan 
+holding companies, and affil iates 
+of FDIC -insured depository 
+institutions. 
+Non-interest-bearing transaction 
+accounts at the FDIC -insured 
+depository institutions. 
+Coverage limit 125% of senior unsecured debt 
+outstanding as of September 30, 
+2008, and that is scheduled to 
+mature on or before June 30, 
+2012. 
+No limit.  
+Opt-in or opt-out Opt-out. Opt-out. 
+Expiration Original termination date, June 
+30, 2012, was extended and the 
+program terminated December 
+31, 2012. 
+Original termination date, 
+December 31, 2009, was extended 
+twice and the program ultimately 
+expired on December 31, 2010. 
+ 
+57
+U.S. Guarantees During the Global Financial Crisis Rhee and Metrick
+
+--- Page 10 ---
+Rationale and Assessment of the Program 
+Over the course of the DGP ’s existence, 122 entities issued TLGP debt. The DGP, at its peak, 
+guaranteed $345.8 billion of outstanding debt at participating institutions (FDIC 2013). Over 
+7,100 banks and thrifts—86% of FDIC insured institutions—initially stayed in the TAGP, and 
+at the peak of the program in December 2009, the TAGP guaranteed deposits amounted to 
+$834 billion (Cave 2011). 
+In the press release announcing the TLGP, the FDIC stated that the program was a “part of a 
+coordinated response by the U.S. government to the disruption in the financial system and 
+the collapse of credit markets.” As seen in the legal authority backing the program, it was an 
+initiative to counter the system-wide crisis in the nation’s financial sector. More specifically, 
+the program was to hold down the cost of any future bank failure and to solve the liquidity 
+problem in the financial market by injecting more capital into the banking system, freeing up 
+credit markets for creditworthy businesses and consumers, and giving banks the self -
+assurance to resume normal lending. It was an attempt to unlock interbank credit markets 
+and restore rationality into the credit spread (Bair 2008). 
+The final rule for the TLGP states that the DGP, in particular, was designed to be a time -
+limited program to restore normal functioning to the market by helping institutions to obtain 
+stable, longer-term sources of funding where liquidity is most lacking. The DGP was further 
+extended to the unsecured senior debt issued up to October 31, 2009, because the FDIC was 
+of an opinion that the credit market had not yet fully stabilized by mid -year 2009 
+(Amendment 2009). 
+At the same time, the FDIC makes clear that the TLGP’s purpose was not to promote 
+innovative, exotic, or complex funding structures, but to provide liquidity to the interbank -
+lending market. The specific limitations and design features of the program were to reduce 
+the risk of adverse selection (i.e. limitation on the issuance of non -guaranteed debt) (Final 
+Rule 2008). It has been mentioned that the reason why the program only covers newly issued 
+debt was to open up interbank lending without di srupting the market or intervening in the 
+market too much. The FDIC stated that it seeks balance between suppressing uncontrolled 
+growth or funding reckless lending of the banks, and opening up interbank lending, ensuring 
+banks have the liquidity to lend to quality credits and keeping the bank business open (FDIC 
+10/14/2008).  
+On the other hand, the TAGP was to reassure bank customers ’ confidence in safe banking 
+that is vital to public confidence in the banking system. It was to provide stability to the 
+insured banks, particularly smaller ones, enabling their commercial customers to continue 
+to do business without disruption (Bair 2008).  
+The FDIC collected $10.4 billion in fees and surcharges under the DGP, and as of December 
+31, 2012, the FDIC had paid $15 3 million in losses resulting from six participating entities 
+defaulting on debt issued under the DGP. The majority of these losses ($113 million) arose 
+from banks with outstanding DGP notes that failed in 2011 and were placed into 
+receivership. On the other hand, the FDIC collected $1.2 billion in fees under the TAGP, but 
+cumulative estimated TAGP losses on failures as of December 31, 2012, totaled $2.1 billion 
+(FDIC 2013). 
+Overall, considering the profits and losses from both the DGP and the TAGP, the TLG P fees 
+exceeded the losses (Ibid ., 2013). From inception of the TLGP, it was the FDIC’s policy to 
+recognize revenue to the DIF for any portion of guarantee fees in excess of amounts needed 
+to cover potential losses upon expiration of the TLGP guarantee period or earlier (COP 2009). 
+58
+Journal of Financial Crises Vol. 2 Iss. 1
+
+--- Page 11 ---
+As the guarantee program came to an end, the official at the FDIC emphasized “while TLGP 
+clearly led to a positive outcome, it is important that financial institutions replace their 
+reliance on government -guaranteed debt with pri vate borrowing.” Banks now have been 
+gradually able to rely again on longer-term debts, and non-guaranteed debts returned to the 
+pre-crisis level (Cave 2011). 
+4. Asset Guarantee Program under T ARP  
+The Asset Guarantee Program (AGP) was a joint effort by the Treasury, the Federal Reserve, 
+and the FDIC. Although the Treasury, the Federal Reserve, and the FDIC jointly announced 
+this guarantee program, the Treasury was the only agency that referred to this tripartite 
+initiative as the AGP. The latter two agencies instead referred to this agreement as “a package 
+of guarantees, liquidity access, and capital.” The program was to protect the value of certain 
+assets held by qualifying financial institutions by agreeing to absorb a portion of losses on 
+those assets. It was to support institutions whose failure would have caused serious harm to 
+the financial system and the broader economy. Two institutions were to receive assistance 
+under the AGP —Bank of America and Citigroup — but the AGP arrange ment for Bank of 
+America never finalized (SIGTARP 2011). 
+Citigroup 
+On October 28, 2008, the Treasury acquired $25 billion of preferred stock of Citigroup, as 
+well as related warrants, as part of capital purchases made under the Capital Purchase 
+Program (CPP) established under the Troubled Asset Relief Program (TARP). CPP was 
+available to a broad range of financial institutions. However, on November 17, 2008, 
+Citigroup’s stock price dropped. Figure 2 shows a steeper drop of Citigroup’s stock price 
+compared to its peers during the week of November 17. The Treasury, the Federal Reserve , 
+and the Office of the Comptroller of the Currency (OCC) all had expressed concern that 
+depositors might start a run on Citigroup and the bank would suffer a severe liquidity crisis. 
+This concern was substantiated on November 21, 2008 , with significant corporate 
+withdrawals. The same day the Federal Reserve Bank of New York (FRBNY) witnessed that 
+counterparties began to pull back from Citigroup because of its perceived decline in cre dit 
+worthiness (Ibid., 2011).  
+After Citigroup came back for additional assistance, the FRBNY requested that it submit a 
+proposal for additional assistance. Citigroup’s proposal requested that the government 
+guarantee 100% of the total value of $306 billio n in a pool of specified troubled assets, and 
+in return it would issue the government $20 billion in preferred stock that pays 5% annual 
+dividend and can be repaid or converted into common stock at Citigroup’s preference in five 
+years. First loss would hav e resulted in a loss for the government , and the pool of assets 
+included assets that the “public most feared” (Ibid., 2011). 
+Rejecting Citigroup’s initial offer, on November 23, 2008, the Treasury, the Federal Reserve 
+and the FDIC agreed on a guarantee pro gram according to the terms set forth by the 
+government. The Treasury, the Federal Reserve, and the FDIC were to share potential losses 
+on certain parts of Citigroup assets valued initially at approximately $306 billion. The 
+Treasury later named this program the AGP. The specific terms of the AGP were agreed upon 
+well after the announcement of the government’s preliminary framework of the $306 billion 
+asset pool guarantee (Ibid., 2011). 
+On December 23, 2008, the government’s representatives provided Citigroup with a draft of 
+the asset pool agreement including asset criteria on types of assets eligible for the 
+59
+U.S. Guarantees During the Global Financial Crisis Rhee and Metrick
+
+--- Page 12 ---
+guaranteed pool. While there was no statutory or regulatory deadline for completing the 
+Master Agreement, Citigroup wanted to complete it before its ea rnings were released in 
+January 2009. A Master Agreement was signed on January 15, 2009, but according to the 
+FRBNY it was not feasible to finalize the assets in the pool and complete a thorough due -
+diligence review of the assets by then (Ibid., 2011). 
+The Treasury, the Federal Reserve , and the FDIC expressed concerns over setting the loss 
+positions and pricing appropriately or executing final documentation without a conclusive 
+listing of assets in the guaranteed pool. Taking these concerns into consideration, the Master 
+Agreement was structured in a way that did not specify the precise value or composition of 
+the guaranteed asset pool, but included a post-signing process for negotiating and finalizing 
+those details (Ibid., 2011). 
+On November 17, 2009, almost one year after the announcement of the guarantee program, 
+and just about a month before the AGP terminated, the asset pool was finalized at $300.75 
+billion. During the screening and replacement of Citigroup’s suggested assets in the asset 
+pool, the FRBNY hired PricewaterhouseCoopers LLP (PwC) and BlackRock as consultants for 
+deciding which assets are to be included in the guaranteed asset pool. However, in December 
+2009, regulators approved Citigroup’s exit from the AGP (Ibid., 2011). Figure 3 summarizes 
+the timeline of major events in the guarantee program for Citigroup.  
+Figure 2: Citigroup and Peers Cumulative Stock Price for the Week of November 17, 2008 
+(cumulative change is from November 14, 2008) 
+ 
+Source: SIGTARP 2011. 
+ 
+  
+60
+Journal of Financial Crises Vol. 2 Iss. 1
+
+--- Page 13 ---
+Figure 3: Timeline of Major Events in the AGP 
+ 
+Source: SIGTARP 2011. 
+ 
+Under the AGP, Citigroup would have absorbed initial losses arising from the covered asset 
+pool up to $39.5 billion. Citigroup would then absorb 10% of any losses in excess of that. The 
+Treasury was first in line among the federal agencies to absorb losses up to $5 billion. The 
+FDIC then would absorb the next $10 billion of the losses, and the Federal Reserve w ould 
+cover any further federal liability by way of a non -recourse loan to Citig roup. These 
+arrangements were to be in effect for 10 years for residential mortgage -related assets and 
+five years for other assets. As compensation for these guarantees, the Treasury and the FDIC 
+received $4 billion and $3 billion, respectively, of preferr ed stock in Citigroup, which bore 
+dividends at 8% per annum. Any residual financing provided by the Federal Reserve would 
+complete the remainder of the term of the guarantee arrangements. Asset s eligible for the 
+guaranteed pool had to satisfy the following conditions set forth by the government:  
+(i) the asset was owned by a Citigroup affiliate and had been included on its balance 
+sheet as of November 21, 2008;  
+(ii) no foreign assets could be included;  
+(iii) no equity securities (such as shares of stock in other entities) or derivatives of 
+such equity securities could be included;  
+(iv) all assets in the pool were to have been issued or originated before March 14, 
+2008;  
+(v) Citigroup and its affiliates could not be the obligor of any assets; and  
+(vi) the assets were not to be guaranteed by any governmental authority pursuant to 
+another agreement. 
+Rationale Behind the Program 
+In the joint statement set forth on November 23, 2008, the Treasury, the FDIC , and the 
+Federal Reserve stated that in guaranteeing certain assets of Citigroup, “the U.S. government 
+is taking the actions necessary to strengthen the financial system and protect U.S. taxpayers 
+and the U.S. economy.” They also promised to use all their resources to preserve the strength 
+of the banking institutions and promote the process of repair  and recovery and to manage 
+risks. They set forth the following guiding principles:  
+(i) To support a healthy resumption of credit flows to households and businesses; 
+(ii) To exercise prudent stewardship of taxpayer resources; 
+October 28, 2008 
+(Injection of $25 
+billion) 
+November 23, 2008 
+(Announcement of the 
+guarantee program)
+January 15, 2009 
+(Master 
+Agreement signed)
+List of 
+guaranteed 
+assets being 
+negotiated
+November 17, 2009 
+(List of guaranteed assets 
+is finalized)
+December 23, 
+2009 
+(Government 
+approves exit from 
+AGP)
+61
+U.S. Guarantees During the Global Financial Crisis Rhee and Metrick
+
+--- Page 14 ---
+(iii) Careful circumscription of the involvement of government in the financial sector; 
+and 
+(iv) To bolster the efforts of financial institutions to attract private capital. 
+Even before the announcement of Citigroup assistance, the Federal Reserve Chairman 
+Bernanke stated that it was “not even a close call to assist” Citigroup, and FRBNY President 
+Timothy Geithner said, “We’ve told the world we’re not going to let any of our major 
+institutions fail. We are going to have to make it really clear we’re standing behind Citigroup.” 
+FRBNY Pr esident Geithner describes a series of calls among representatives of Federal 
+agencies involved in saving Citigroup as “a continuous conversation with the principals on 
+all sorts of ideas on how to do it. We were guided by two objectives: One, we needed a 
+definitive strategy that would work, and, two, we had to do it in a way that would be most 
+economical and fair for the U.S. Government and protect its interests” (SIGTARP 2011). 
+Guarantee by the Treasury 
+The Treasury relied on Section 102 of EESA to implement the AGP. It allows the Treasury to 
+assume a loss position on certain assets held by the qualifying financial institution. The 
+section also allows that “If the Secretary establishes the program authori zed under section 
+101 [authorizing the Treasury to purchase troubled assets from any financial institutions] , 
+then the Secretary shall establish a program to guarantee troubled assets originated or 
+issued prior to March 14, 2008 ,” and “the Secretary may de velop guarantees of troubled 
+assets and the associated premiums for such guarantees.” The expected value of premium 
+was to be no less than the expected value of the losses to TARP from the guarantee, and the 
+guaranteed portfolio had to adhere to a set of portfolio management guidelines set forth by 
+the government. 
+At the onset of the program, the Treasury stated that the program would not be “widely 
+available” and would be applied with extreme discretion in order to improve market 
+confidence in the systemic ally significant institution and in financial markets broadly.  The 
+Treasury explained that “systemically significant ” means that “failure would impose 
+significant losses on creditors and counterparties, call into question the financial strength of 
+other si milarly situated financial institutions, disrupt financial markets, raise borrowing 
+costs for households and businesses, and reduce household wealth” (Treasury 12/31/2008). 
+It would determine the eligibility of participants and the allocation of resources on a case -
+by-case basis, and consider the following factors in deciding what is systemically significant: 
+(i) The extent to which destabilization of the institution could threaten the viability 
+of creditors and counterparties exposed to the institution, wh ether directly or 
+indirectly;  
+(ii) The extent to which an institution is at risk of a loss of confidence and the degree 
+to which that stress is caused by a distressed or illiquid portfolio of assets;  
+(iii) The number and size of financial institutions th at are similarly situated, or that 
+would be likely to be affected by destabilization of the institution being considered 
+for the program;  
+(iv) Whether the institution is sufficiently important to the nation’s financial and 
+economic system that a loss of c onfidence in the firm’s financial position could 
+potentially cause major disruptions to credit markets or payments and settlement 
+systems, destabilize asset prices, significantly increase uncertainty, or lead to similar 
+62
+Journal of Financial Crises Vol. 2 Iss. 1
+
+--- Page 15 ---
+losses of confidence or financial market stability that could materially weaken overall 
+economic performance; and 
+(v) The extent to which the institution has access to alternative sources of capital and 
+liquidity, whether from the private sector or from other sources of government funds. 
+(Ibid., 12/31/2008). 
+In a later report by the Treasury on the Citigroup’s guarantee program, it noted the concern 
+with Citigroup’s failure was that the loss of confidence in a financial institution could result 
+in significant market disruptions that threaten the similarly situated financial institutions 
+and thus impair broader financial markets, pose a threat to the overall economy, and could 
+lead to “threaten the viability of otherwise financially sound businesses, institutions, and 
+municipalities, resulting in spillovers on employment, output and incomes.” Additionally, 
+extending the guarantee was part of a broader effort to support Citigroup as the company 
+executes its restructuring plans (Section 129 EESA Report). 
+Guarantee by the FDIC 
+The FDIC once again r elied on the systemic risk exception under the Federal Deposit 
+Insurance Act to share and “ring -fence losses” in selected assets of Citigroup. When the 
+FDIC’s Board of Directors met to consider whether or not to recommend that the Treasury 
+invoke the syste mic risk exception and allow the FDIC to participate in this open bank 
+assistance, the FDIC staff recommended that the Board find that Citigroup’s failure would 
+have serious adverse effects on domestic and international economic conditions and 
+financial st ability. The FDIC’s Board unanimously voted to recommend that the Treasury 
+invoke a systemic risk exception for Citigroup, thereby authorizing the FDIC’s participation 
+in open bank assistance to Citigroup (SIGTARP 2011). 
+While the vote by the FDIC Board to  invoke a systemic risk exception for Citigroup was 
+unanimous, Director John M. Reich, an FDIC Board member, expressed the concern that there 
+had been “some selective creativity exercised in the determination of what is systemic and 
+what’s not,” and that there “has been a high degree of pressure exerted in certain situations, 
+and not in others, and I’m concerned about parity.” In terms of Citigroup, an FDIC official said 
+that the FDIC directors and other government entities “made a judgment call” (Ibid., 2011). 
+Moreover, during the vote, the FDIC noted that this was “based largely on information from 
+Citigroup’s primary regulators, the Federal Reserve Board and the Office of the Comptroller 
+of the Currency.” Although the FDIC acknowledged that Citigroup’s fa ilure would have 
+serious consequences for the functioning of the global payment system, Chairman Bair said, 
+“We were told by the New York Fed that problems would occur in the global markets if Citi 
+were to fail. We didn’t have our own information to verify this statement, so I didn’t want to 
+dispute that with them” (Ibid., 2011).  
+A couple of days before the vote by the FDIC, Treasury Secretary Paulson already had stated 
+publicly that “If Citi isn’t systemic, I don’t know what is” (Geithner 2014). Secretary Paulson 
+also consulted with President Bush about making an emergency systemic risk determination 
+for five Citigroup subsidiary banks, which would then authorize the FDIC to take appropriate 
+action under the systemic risk exception. “Citigroup’s failure wo uld threaten the viability of 
+creditors and counterparties exposed to the institution, impair the liquidity of even well -
+capitalized institutions, dislocate the credit markets, and undermine business and household 
+confidence in the broader economy” (SIGTARP 2011). 
+After the announcement of the guarantee program and when negotiating the specific terms 
+of loss sharing and the guarantee, the FDIC maintained that Citigroup should take a first loss 
+63
+U.S. Guarantees During the Global Financial Crisis Rhee and Metrick
+
+--- Page 16 ---
+position equal to 110% of the initial regulatory estimate of embedded cre dit losses (initial 
+regulatory estimate was $37 billion), or $42 billion, before the FDIC would start to cover 
+losses. This point was taken into consideration as the government parties discussed the 
+structure and order of the government loss positions. FDI C stated that it found Citigroup’s 
+ultimate first loss position of $37 billion acceptable because Treasury was willing to take a 
+$5 billion second loss position through TARP (Ibid., 2011). 
+Guarantee by the Federal Reserve 
+The Federal Reserve relied on Section 13(3) of the Federal Reserve Act, before its 
+amendment by the Dodd -Frank Act. It allowed the Federal Reserve, by the affirmative vote 
+of not less than five members, to authorize any Federal Reserve bank, during such pe riods 
+as said board may determine, to discount for any individual, partnership, or corporation, 
+notes, drafts, and bills of exchange when such notes, drafts, and bills of exchange are 
+indorsed or otherwise secured to the satisfaction of the Federal Reserve bank. In return the 
+Federal Reserve bank obtained evidence that such individual, partnership, or corporation is 
+unable to secure adequate credit accommodations from other banking institutions, and all 
+such discounts were to be subject to limitations, restrictions, and regulations as the Board of 
+Governors of the Federal Reserve saw fit to prescribe.  
+The Board of Governors of the Federal Reserve voted unanimously to recommend to the 
+Secretary of the Treasury that a potential Citigroup failure posed a syste mic risk, and the 
+Federal Reserve Board Chairman Bernanke said he believed that Citigroup’s underlying 
+financial situation had not changed, but its biggest problems were credit and confidence. The 
+FRBNY officials testified that this was similar to Lehman’s situation preceding its failure. The 
+Federal Reserve acknowledged Citigroup’s systemic significance based on the following 
+factors (SIGTARP 2011):  
+(i) As of September 30, 2008, Citigroup, including its insured depository institution 
+subsidiaries, was the  second-largest banking organization in the United States and 
+had total consolidated assets of slightly more than $2 trillion. Citigroup held more 
+than $794 billion of deposits at the end of the third quarter of 2008, making it one of 
+the largest deposit h olders in the world. Citigroup held a large amount of foreign 
+deposits and performed consumer banking across the globe in more than 100 
+countries. It was the world’s largest provider of foreign currency exchange services 
+and held large deposits for several Fortune 500 companies at the time; 
+(ii) Citigroup was a major supplier of credit in the U.S. and abroad. At the time, it was 
+the largest consumer finance lender in the world, the third-largest mortgage servicer, 
+the fourth-largest student lender, and the world’s largest credit card lender;  
+(iii) Citigroup provided a wide range of investment banking, capital markets, asset 
+management, and retail brokerage services through its subsidiary Citigroup Global 
+Capital Markets, Inc. Citigroup’s brokerage arm, Smith Barney, was one of the largest 
+in the United States by the end of the third quarter of 2008; 
+(iv) Citigroup was a major securitizer of credit and a major player in a wide range of 
+derivatives markets, both as counterparty to over-the-counter trades and as a broker 
+and clearing firm for trades on exchanges; and  
+(v) Citigroup had significant amounts of commercial paper and long-term senior and 
+subordinated debt outstanding, and was a major participant in numerous domestic 
+and international payment, clearing, and central counterparty arrangements.  
+64
+Journal of Financial Crises Vol. 2 Iss. 1
+
+--- Page 17 ---
+The Federal Reserve especially noticed that Citigroup was one of the largest financial 
+institutions in the U.S. and had extensive and diversified operations both in the U.S. and 
+abroad (Section 129 EESA Report). I t believed that Citigroup ’s failure would have 
+destabilized the global financial system by seriously impairing already disrupted credit 
+markets, including short -term interbank lending, counterparty relationships in qualified 
+financial contract markets, ban k and senior subordinated debt markets, and derivatives. 
+Chairman Bernanke also believed at the time that Citigroup failure “would have been 
+Lehman times two or three in terms of the financial sector and the economy” (SIGTARP 
+2011). 
+An FRBNY official also noted that the timing for the announcement of the guarantee program 
+was crucial. In order to indicate to the global market that the U.S. government was 
+guaranteeing Citigroup’s tail risk, or unknown losses, it was aiming to announce the program 
+before the markets opened in Asia. According to the official, the term sheet worked by 
+“convincing the skittish market that the Federal Government was taking the risk, even 
+though the risk really remained with Citigroup,” because the Citigroup loss position was 
+greater than anticipated losses. While the parties failed to meet that deadline, the 
+announcement was made within hours of the opening of the Asian markets (Ibid,. 2011).   
+The Federal Reserve Board, on the other hand, did not expect this program to generate any 
+real losses for the Federal Reserve and the U.S. taxpayers since a substantial protection of 
+loss was already provided by Citigroup, the Treasury, and the FDIC. Before any financing 
+would be provided under the Federal Reserve facility, the three entities’ loss position would 
+have to be exhausted first and any financing provided under its own facility would have had 
+to be fully collateralized (Section 129 EESA Report). 
+Assessment of the Program 
+On November 24, 2008, the first trading day after the government announcement of the 
+guarantee provided for Citigroup, several market indicators reversed their adverse trends 
+from the previous week. For example, Citigroup’s stock price increased from $3.77 to $5.95 
+a share, temporarily reversing the stock’s downward trend. At the same time, Citigroup’s 
+credit default swap spread, or the price of insuring its debt, declined from 4.6% to 3.6% 
+(SIGTARP 2011). 
+However, not all governme nt participants were convinced that this proposed plan was 
+sufficient to fix the problem with Citigroup. “I don’t think this [additional assistance] is going 
+to fix Citi. And unless you figure out a way to stabilize the situation, we are going to be back 
+in here writing more checks,” FDIC Chairman Bair noted during the FDIC Board systemic risk 
+discussions about Citigroup on November 23, 2008. “We all need to be realistic about some 
+of the underlying problems at this institution. It’s not just because the ma rket is having 
+problems; this institution has some problems very specific to itself…We all need to work 
+together on how we need to fix that.” In an email to Citigroup’s regulators on February 22, 
+2009, Chairman Bair emphasized FDIC’s view that Citigroup re quired “greater senior 
+management bank experience” and the need for management changes “at the top of the 
+house” (Ibid., 2011). 
+The study by the Office of the Special Inspector General for the Troubled Asset Relief 
+Program (SIGTARP) established by EESA, observed that the conclusion of government actors 
+to save Citigroup was strikingly ad hoc. It note d that the consensus that Citigroup was too 
+systemically significant to be allowed to fail appeared to be based as much on gut instinct 
+and fear of the unknown as on objective criteria.  
+65
+U.S. Guarantees During the Global Financial Crisis Rhee and Metrick
+
+--- Page 18 ---
+On the other hand, SIGTARP f ound that the government constructed a plan that not only 
+achieved the primary goal of restoring market confidence in Citigroup, but also carefully 
+controlled the overall risk of government loss on the  asset guarantee. It acknowledged that 
+the government drove a particularly hard bargain on behalf of taxpayers and the eventual 
+selection of assets for inclusion in the pool was driven largely by government -imposed 
+criteria. This included a take-it-or-leave-it proposal that required Citigroup to absorb the 
+first $37 billion in losses in the asset pool as well as 10% of any losses in excess of that 
+amount in return for approximately $7 billion in Citigroup preferred stock; and $20 billion 
+capital injection in return for preferred stock, even though Citigroup did not request such an 
+injection (Ibid., 2011). AGP is now closed and has so far resulted in a positive return of over 
+$3 billion for the taxpayers (Treasury Webpage).  
+  
+66
+Journal of Financial Crises Vol. 2 Iss. 1
+
+--- Page 19 ---
+References 
+12 UCSC Section 343, before amended by the Dodd-Frank Act 
+Amendment of the Debt Guarantee Program to Provide for the Establishment of a Limited 
+Six-Month Emergency Guarantee Facility, 74 FR 54743, October 23, 2009  
+Asset Guarantee Program, Treasury Webpage  
+Chairman's Statement on the Temporary Liquidity Guarantee Program, October 23, 2008  
+Emergency Economic Stabilization Act of 2008, 110 P.L. 343,122 Stat. 3765, 2008 Enacted 
+H.R. 1424, 110 Enacted H.R. 1424, §102 
+Exchange Stabilization Fund, Resource Center, U.S. Department of Treasury 
+Extraordinary Financial Assistance Provided to Citigroup, Inc., Office of the Special Inspector 
+General for the Troubled Asset Relief Program, January 13, 2011  
+FDIC Announces Plan to Free Up Bank Liquidity, October 14, 2008   
+Final Rule Regarding Amendment of the Temporary Liquidity Guarantee Program to Extend 
+the Transaction Account Guarantee Program, 75 FR 36506, June 28, 2010  
+Frequently Asked Questions About Treasury’s Temporary Guarantee Program for Money 
+Market Funds, September 29, 2008, U.S. Department of Treasury  
+Geithner, Timothy F. Stress Test: Reflections on Financial Crises, (2014) 
+Guarantees and Contingent Payments in TARP and Related Programs , Congressional 
+Oversight Panel, November Oversight Report, November 6, 2009 
+Joint Statement by Treasury, Federal Reserve, and the FDIC on Citigroup, November 23, 2008   
+Money Market Funds, SEC Webpage 
+The Next Phase of Government Financial Stabilization and Rehabilitation Policies , U.S. 
+Department of Treasury, September 2009  
+Professional Money Fund Is Closed by Putnam, The New York Times, September 19, 2008  
+Proposed Recommendations Regarding Money Market Mutual Fund Reform , Financial 
+Stability Oversight Council (FSOC), November 2012 
+Report Pursuant to Section 129 of the Emergency Economic Stabilization Act of 2008: 
+Authorization to Provide Residual Financing to Citigroup, Inc. For a Designated Asset 
+Pool Report to Congress Pursuant to Section 102 of the Emergency Economic 
+Stabilization Act, U.S. Department of Treasury, December 31, 2008   
+Reserve Primary Money Fund Falls Below $1 a Share (Update4) , Bloomberg, September 16, 
+2008 
+67
+U.S. Guarantees During the Global Financial Crisis Rhee and Metrick
+
+--- Page 20 ---
+Secretary of the Treasury Timothy F. Geithner Written Testimony before the Congressional 
+Oversight Panel, U.S. Department of Treasury, September 10, 2009  
+Secretary Written Testimony before the House Committee on Oversight and Government 
+Reform, U.S. Department of Treasury, January 27, 2010  
+Section 131 of P.L. 110-343  
+Statement by Federal Deposit Insurance  Corporation Chairman Sheila Bair , U.S. Treasury, 
+Federal Reserve, FDIC Joint Press Conference, October 14, 2008  
+Statement of Jason C. Cave, Deputy Director for Complex Financial Institutions Monitoring, 
+Office of Complex Financial Institutions, Federal D eposit Insurance Corporation on 
+the Temporary Liquidity Guarantee Program , Congressional Oversight Panel, 
+Washington, D.C., March 4, 2011  
+Temporary Liquidity Guarantee Program, Final Rule, 12 CFR Part 370, Federal Register, Vol 
+73, No. 229, Nov 26, 2008. 
+Treasury Announces Expiration of Guarantee Program for Money Market Funds, September 
+18, 2009, U.S. Department of Treasury  
+Treasury Announces Extension of Temporary Guarantee , March 31, 2009, U.S. Department 
+of Treasury  
+Treasury Announces Extension of Temporary Guarantee Program for Money Market Funds, 
+November 24, 2008, U.S. Department of Treasury  
+Treasury Announces Guaranty Program for Money Market Funds , September 19, 2008, U.S. 
+Department of Treasury  
+Treasury to Guarantee Money Market Funds, The New York Times, September 19, 2008  
+Treasury's Guarantee Program for Money Market Mutual Funds: What You Should Know , 
+FINRA Investor Alert  
+ 
+Development of this case has been supported by a generous grant from the Alfred P. Sloan 
+Foundation to the Yale Program on Financial Stability. 
+Copyright, 2015, 2020 © Yale University. All rights reserved. To order copies of this material 
+or to receive permission to reprint any or all of this document, please contact the Yale 
+Program for Financial Stability at ypfs@yale.edu. 
+ 
+ 
+ 
+68
+Journal of Financial Crises Vol. 2 Iss. 1

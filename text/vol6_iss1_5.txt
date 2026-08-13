@@ -1,0 +1,1022 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 1 
+2024 
+Cyprus: Laiki Bank and Bank of Cyprus Restructuring, 2013 Cyprus: Laiki Bank and Bank of Cyprus Restructuring, 2013 
+Stella Schaefer-Brown 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Schaefer-Brown, Stella (2024) "Cyprus: Laiki Bank and Bank of Cyprus Restructuring, 2013," Journal of 
+Financial Crises: Vol. 6 : Iss. 1, 123-149. 
+DOI: https://doi.org/10.17132/2693-3179.1533 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/5 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol6/iss1/5
+
+--- Page 3 ---
+Cyprus: Laiki Bank and Bank of Cyprus  
+Restructuring, 20131 
+Stella Schaefer-Brown2 
+Yale Program on Financial Stability Case Study 
+March 28, 2024 
+Abstract 
+In 2011, Cyprus’s second-largest bank, Marfin Popular Bank—later renamed Cyprus Popular 
+Bank but commonly known as Laiki Bank —lost billions of euros  on Greek government 
+securities when the European Union decided to haircut Greek government bonds . This 
+damaged Laiki Bank’s equity and shut its access to market liquidity. In late 2011, supervisors 
+estimated the bank’s capital shortfall at EUR 3.1 billion. As Laiki Bank faced severe liquidity 
+problems from depositor withdrawals, the Central Bank of Cyprus (CBC) began to extend 
+emergency liquidity assistance (ELA) to the bank in October 2011. In January 2012, the bank 
+submitted a recovery plan to the CBC that included EUR 1.8 billion of capital raised from 
+private investors ; when Laiki Bank was unable to raise private capital , it asked the 
+government to inject EUR 1.8 billion. The government agreed and, on June 30, 2012, acquired 
+EUR 1.8 billion in new common shares by issuing an unfunded sovereign bond to Laiki Bank. 
+As a result, the government held 84% of Laiki Bank’s share capital. Without the government 
+bond, Laiki Bank would have reported negative equity. In 2013, to satisfy the conditions for 
+sovereign aid from the European Central Bank (ECB), European Commission, and 
+International Monetary Fund, and after the ECB implemented a decision to cease providing 
+ELA to Laiki, the CBC put the bank into resolution . In resolution, the bank transferred most 
+of its assets, insured deposits , and some uninsured deposits to the Bank of Cypru s, the 
+country’s largest bank, which the government also restructured. The bank sold its Greek 
+assets and deposits to Piraeus Bank, one of the largest Greek banks . The government also 
+seemingly wrote off its entire EUR 1.8 billion investment in Laiki Bank. The government had 
+to resolve and restructure Laiki Bank because the ECB’s decision would have put it into 
+bankruptcy, and neither the existing Cypriot Deposit Protection Scheme nor the government 
+itself was equipped to cover all of Laiki’s insured depositors. In January 2017, the Bank of 
+Cyprus fully repaid its ELA and was admitted to listing and trading on the London Stock 
+Exchange. As of 2021, the liquidation of Legacy Laiki appeared to still be in progress. 
+Keywords: bail-in, Bank of Cyprus, Cyprus, Laiki Bank, resolution 
+ 
+1This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering bank resolutions and restructurings. A survey of all the cases in this series (McNamara et 
+al. 2024)  and the individual cases underlying it are  available from the Journal of Financial Crises  at 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1. 
+2 Research Associate , YPFS, Yale School of Management . The author thank s Loukas Kaskarelis and Wim Van 
+Aken from the European Stability Mechanism (ESM) for their helpful comments and suggestions. 
+123
+
+--- Page 4 ---
+Overview 
+This module describes the restructuring of 
+two Cyprus banks,  Marfin Popular Bank —
+later renamed Cyprus Popular Bank but 
+commonly known as  Laiki Bank—and Bank 
+of Cyprus, and the resolution of Laiki Bank. 
+The Greek government debt crisis , which 
+began in 2009, hit Cypriot banks hard. The 
+two largest banks, Bank of Cyprus and Laiki 
+Bank, lost EUR 1.8 billion and EUR 2.3 billion 
+(USD 2.40 billio n and USD 3.07 billion) ,3 
+respectively, on their Greek government 
+bonds after the European Union (EU) 
+decision in October 2011  to haircut Greek 
+government bonds  (EC 2012). Beginning in 
+October 2011 and  lasting until the bank ’s 
+resolution in 2013 , Laiki Ba nk received 
+collateralized loans from the European 
+Central Bank (ECB) and emergency liquidity 
+assistance (ELA) from the Central Bank of 
+Cyprus (CBC) to make sure the bank could 
+continue to fund itself as depositors 
+withdrew their funding (CBC 2013f).  
+In l ate 2011,  in response to the crisis,  the 
+European Banking Authority identified a 
+EUR 1.97 billion capital shortfall at Laiki 
+Bank in a stress test of 71 banks across 
+Europe using numbers from September 
+2011 (CBC 2011; Laiki Bank 2012c) . 
+Supervisors later raised that estimate to EUR 
+3.1 billion. In January 2012, Laiki Bank  
+presented a recovery plan to the CBC that 
+included deleveraging, a voluntary exchange 
+offer to bondholders, and a capital increase 
+of EUR 1.8 billion through private inv estors 
+(CBC 2013f; Laiki Bank 2012c) . When the 
+bank failed to raise capital from private 
+investors, the government agreed in May 
+ 
+3 Per Bloomberg EUR 1.00 = USD 1.33 on October 3, 2011. 
+Key Terms 
+Purpose: The purpose of the resolution of Laiki 
+Bank and the restructuring of Bank of Cyprus was 
+to “address the exceptional challenges that Cyprus 
+[was] facing and restore the viability of the 
+financial sector” (Eurogroup 2013b, 1) 
+Size and Nature of 
+Institution 
+Laiki Bank and the Bank of 
+Cyprus were the two largest 
+banks in Cyprus;  
+as of 2013, Bank of Cyprus 
+had EUR 15 billion in 
+deposits; 
+as of March 2012, Laiki Bank 
+had EUR 20 billion in 
+deposits and, as of March 
+2013, EUR 6.4 billion of 
+insured deposits  
+Source of Failure Impairments of the banks’ 
+Greek government bonds 
+and deposit outflows  
+Start Date March 25, 2013  
+End Date July 30, 2013  
+Approach to 
+Resolution and 
+Restructuring 
+Purchase and assumption 
+transaction in which most 
+assets and insured deposits 
+of Laiki Bank were 
+transferred to the Bank of 
+Cyprus and the Greek 
+branches of both banks were 
+sold to Piraeus Bank;  
+the bondholders and 
+shareholders of both Cypriot 
+banks were completely 
+bailed in, and the uninsured 
+deposits of both banks were 
+partially bailed in  
+Outcomes As of January 2017, Bank of 
+Cyprus had repaid its ELA 
+and was admitted to list and 
+trade on the London Stock 
+Exchange 
+ 
+(continued) 
+124
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 5 ---
+2012 to recapitalize the bank and, in June  
+2012 and became an 84% shareholder 
+(Noonan 2013).4 
+In August, officials from Laiki Bank 
+submitted a restructuring plan to the CBC 
+that would (1) create a “good” bank, 
+separating nonperforming loans into a “bad” 
+bank, and an asset management company; 
+and (2) force losses on senior bondholders 
+while protecting depositors. But the 
+government amended the plan in response 
+to feedback from the European Union and 
+International Monetary Fund (IMF). The new 
+plan was to p ut the healthy parts of the bank into a new subsidiary that could be sold once 
+separated from the bank’s Greek branch. But this plan also failed, as depositors continued to 
+pull their funds, partly due to concerns that the government would impose haircuts on 
+depositors (CBC 2013f; Noonan 2013). Over the course of 2012, Laiki Bank lost EUR 2 billion 
+in deposits in its Greek branch and one-third of its domestically raised deposits (IMF 2014). 
+These outflows significantly reduced the amount of liability holders available to share losses 
+in the bail-in when the bank was ultimately restructured (Dübel 2013).  
+In early 2013, ECB authorities estimated that the recapitalization needs of Bank of Cyprus 
+and Laiki Bank were EUR 8 billion, approximately 44% of the GDP of Cyprus. Also in early 
+2013, the EU and the IMF encouraged the government to downsize the banking sector 
+because it would not be able to afford a recapitalization (Draghi 2015). In March 2013, the 
+ECB threatened to withdraw its approval of ELA to Laiki Bank, putting further pressure on 
+the government to agree to terms of a bail-out by the troika (CBC 2013f).  
+Throughout this time , Cypriot authorities were in negotiation with the troika—IMF, 
+European Commission (EC), and ECB—for a bail-out deal for the government (CBC 2013f). 
+There would have been precedent for the troika to protect all depositors , since it had done 
+so in other countries and Laiki Bank’s recapitalization needs stemmed from the EU’s decision 
+to haircut Greek government bonds (Association of Cyprus Banks 2013). But the troika made 
+it a condition of its assistance that Cyprus rescue the two banks without official funds, which 
+required Cyprus to impose substantial losses on depositors (Eurogroup 2013b).  
+On March 15, 2013, the finance minister of Cyprus negotiated a controversial resolution plan 
+for the two banks . This deal involved Cyprus raising EUR 5.8 billion through a tax on all 
+banking sector deposits, including a 9.9% tax on uninsured deposits and a 6.75% tax on 
+insured deposits (Noonan 2013; O’Brien 2013) . This plan was rejected by the Cypriot 
+Parliament on March 19 (IMF 2014).  
+ 
+4 A full account of the ad  hoc capital injection provided to Piraeus Bank is detailed in  Schaefer-Brown 
+(forthcoming). 
+Notable Features The terms of the 
+restructuring were largely 
+dictated by the IMF, EC, and 
+ECB, which withheld both 
+ELA for the bank and a EUR 
+10 billion sovereign aid 
+package until the 
+government worked out a 
+restructuring with significant 
+bail-in; 
+this featured the bail-in of 
+most uninsured depositors 
+and bondholders 
+125
+Cyprus: Laiki Bank and Bank of Cyprus Restructuring Schaefer-Brown
+
+--- Page 6 ---
+When the Cypriot Parliament rejected this plan , Cyprus reached out to Russia for help. 
+Previously, Russia had loaned Cyprus EUR 2.5 billion , which Cyprus received in three 
+tranches from 2011 to 2012. However , Russia did not provide Cyprus with further funds 
+when asked for help in March 2013 (ESM 2019).  
+Ultimately, to satisfy the troika, Cyprus put Laiki Bank through resolution in late March. The 
+CBC took over and coordinated the transfer of Laiki Bank’s insured deposits, along with most 
+assets (including the EUR 1.8 billion Cyprus government bond  from the June 2012 
+recapitalization) and some senior liabilities, through a purchase and assumption transaction 
+to the Bank of Cyprus. The CBC also coordinated the sale of Laiki Bank’s Greek operations to 
+Piraeus Bank  (CBC 2013 e; CBC 2013 f). The governmen t of Cyprus seemingly received 
+nothing for its 84% stake in Laiki Bank as the liquidation of Legacy Laiki presumably goes 
+first to the bailed -in uninsured depositors and estimates have put the value of the Legacy 
+Bank well below fully repaying depositors. Laiki Bank’s uninsured depositors have remained 
+in the legacy bank as it has been liquidated. The legacy bank received 18% of the share capital 
+of the restructured Bank of Cyprus as compensation . Uninsured depositors ultimately 
+received about 6 cents on the euro (Cyprus Mail 2019; Dübel 2013). The European Stability 
+Mechanism (ESM) argued that the government had managed to resolve the bank with 
+minimal use of taxpayer money through a full bail-in of shareholders and bondholders and a 
+partial bail-in of uninsured deposits (ESM 2013).  
+At the same time, t he government recapitalized the Bank of Cyprus by bailing in its 
+shareholders and bondholders and converting nearly half of its uninsured deposits into 
+equity; Bank of Cyprus depositors received about 81% of the equity of the restructured Bank 
+of Cyprus. Immediately following these measures, the Bank of Cyprus had an adequate 
+common equity Tier 1 ratio of 12% (ESM 2013) . On July 30, 2013, the Bank of Cyprus 
+announced that the recapitalization process was complete (BoC 2013).  
+On March 25, 2013, the EU and IMF announced an agreement to provide EUR 10 billion in 
+financial assistance to Cyprus through the first quarter of 2016 (Eurogroup 2013b; ESM 
+2013). The troika estimated that Cyprus needed approximately EUR 17 billion, but since this 
+was about the size of the Cypriot GDP and was therefore unsustainable, the troika settled on 
+a EUR 10 billion aid package (ESM 2019). As a condition for aid, the troika stipulated Cyprus 
+could not use these funds to recapitalize Laiki Bank or Bank of Cyprus  (Eurogroup 2013b). 
+Cyprus ultimately drew EUR 6 .3 billion from the ESM and EUR 1 billion from the IMF (ESM 
+n.d.). 
+The Bank of Cyprus fully repaid its ELA in January 2017 (BoC 2017b). Later in January 2017, 
+the Bank of Cyprus was admitted to listing and trading on the London Stock Exchange  (BoC 
+2017a). A Reuters article from January 2017 categorized Bank of Cyprus’s first public issue 
+since the 2013 bail -in as a strong indicator that the Bank of Cyprus turnaround story had 
+won over investors. A Bank of Cyprus official stated the bank had made “tremendous  
+progress,” citing its repayment of ELA and inflows of cash deposits  (Gledhill 2017). As of 
+2021, the liquidation of Legacy Laiki appeared to still be in progress (Hazou 2021). Figure 1 
+shows a timeline of key events in this intervention. 
+126
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 7 ---
+Figure 1: Timeline of the Restructuring of Bank of Cyprus and the Resolution of Laiki 
+Bank  
+Date Event  
+2011 Supervisors identify a EUR 3.1 billion capital shortfall at Laiki Bank. 
+October 2011 Laiki Bank begins receiving ELA from the CBC and collateralized loans from the ECB. 
+January 20, 
+2012 
+Laiki Bank submits capital plan to the CBC. 
+April 2, 2012 Laiki Bank board of directors approves capital plan. 
+May 16, 2012 The CBC confirms the systemic importance of Laiki Bank in a letter to the EC. 
+May 18, 2012 The minister of finance issued a decree allowing for Laiki Bank’s share capital increase. 
+May 22, 2012 Laiki Bank issues a prospectus for its share capital increase.  
+June 2012 The Cypriot government injects EUR 1.8 billion into Laiki Bank. 
+June 25, 2012 Cyprus requests aid from the troika. 
+August 2012 Laiki Bank officials submit a restructuring plan. 
+March 2013 Laiki Bank stops receiving ELA from the CBC and collateralized loans from the ECB. 
+The Cypriot government puts Laiki Bank through resolution, transferring Laiki Bank’s insured 
+deposits to Bank of Cyprus while most uninsured deposits remain in the legacy bank, which 
+receives equity in the Bank of Cyprus. 
+March 25, 2013 The EU and the IMF announce a EUR 10 billion aid package for Cyprus . 
+July 30, 2013 Bank of Cyprus announces that it has completed its recapitalization through the bail -in of 
+shareholders, bondholders, and some uninsured deposits. 
+January 2017 Bank of Cyprus fully repays its ELA and is admitted to listing and trading on the London Stock 
+Exchange. 
+Sources: BoC 2013; BoC 2017a; BoC 2017b; CBC 2013f; Eurogroup 2013b; EC 2012; ESM 2013; Laiki Bank 2012a; 
+Laiki Bank 2012c; Noonan 2013.  
+Summary Evaluation  
+Cyprus commentators at the time noted that the troika required Cyprus to impose losses on 
+depositors in Cyprus as a condition for aid, after protecting them in other countries . “It is 
+important to point out that the bank recapitalization needs originated after the October 2011 
+EU political decision to apply a  haircut on Greek Government Bonds,” the Association of 
+Cyprus Banks wrote in its 2012 –13 annual report. The same annual report stated  that “the 
+haircut wiped out EUR 4.5 billion from the capital of the three largest Cypriot banks ” and 
+that “d espite the lo ss caused by that decision, the troika insisted that the EUR 5.8 billion 
+required for the recapitalization of [Laiki Bank and Bank of Cyprus] would be extracted from 
+private sources (bail-in)” (Association of Cyprus Banks 2013, 22).  
+There was widespread c riticism of the troika’s first proposal, which would have imposed a 
+tax on insured as well as uninsured deposits at all Cyprus banks, from diverse sources such 
+127
+Cyprus: Laiki Bank and Bank of Cyprus Restructuring Schaefer-Brown
+
+--- Page 8 ---
+as the UK chancellor, the Russian president, and the Wall Street Journal  editorial board  
+(O’Brien 2013; WSJ 2013; Waterfield and Squires 2013).  
+There was also controversy over the central bank’s decision to allow Laiki Bank, when it was 
+known as Marfin Popular Bank, to convert its Greek subsidiary into a branch  in 2011 . 
+According to an investigative report prepared for the CBC in March 2013, it would have been 
+easier to ring-fence a subsidiary’s assets and liabilities , which would have limited Cyprus’s 
+official exposure when it resolved and took over Laiki Bank. However, the report noted that 
+the CBC did not have legal authority to block the conversion at the time (A&M 2013). 
+A report from the CBC on March 30, 2013, immediately following the resolution of Laiki, 
+defended the actions of the governor of the central bank in resolving the bank . The report 
+said that given the political decisions of the Eurogroup, the governor “prevented a disorderly 
+bankruptcy of Laiki and consequently the country itself” through his “timely statements and 
+actions” (CBC 2013f). 
+Around the same time, in  April 2013, the president of Cyprus criticized the governor of the 
+central bank, saying that the governor had “failed to regulate” the banking system effectively 
+(Kambas 2013). Laiki Bank continued to receive ECB ELA throughout 2012 despite being 
+insolvent. Then, the “ECB’s warning that it would pull the plug on ELA to Cyprus’ banks” 
+forced Cyprus into accepting “tough rescue terms” (Kambas 2013).  The president 
+highlighted the governor’s decision not to annul the ELA to Laiki Bank and his aim of holding 
+elections in February 2013 as evidence of the governor’s failing to effectively regulate and 
+supervise the banking system (Kambas 2013). The president of Cyprus also launched a study 
+on what caused the collapse of the Cypriot economy. This study conclude s that Laiki Bank 
+was insolvent before the haircut of Greek bonds (NYT 2014). 
+A paper from late 2013 uses Laiki Bank as a case study and makes a few observations. One 
+observation is that junior bond creditor participation should have been prioritized before 
+government participation in terms of recapitalization. Specifically, in 2012 , when the 
+government recapitalized Laiki Bank , the junior bond holders should have been bailed  in 
+rather than being offered a voluntary exchange of cash or new bonds at a discount. The nine-
+month delay between recapitalization and restructuring allowed uninsured depositors and 
+creditors to continue to run, which reduced the amount of “bail-in-able” funds available for 
+the resolution. An additional observation is that it may have been better to use a bridge bank 
+instead of a purchase and assumption  operation in resolving Laiki Bank. This could have 
+bought Cyprus more time to do a more thorough asset evaluation and could have reduced 
+the losses of Laiki Bank’s creditors. This paper notes this would have required an additional 
+capital injection, which was an issue for Cyprus’s international investors (Dübel 2013). 
+The same paper notes that the transfer of ECB claims from Laiki to the Bank of Cyprus was a 
+contentious point in Laiki Bank’s resolution plan because the Bank of Cyprus needed to come 
+up with collateral to back the ECB loans. In June 2013, the government of Cyprus proposed 
+unwinding this transaction and instead transferring Laiki Bank’s ECB claims and 
+corresponding collateral to a separate unwinding unit. However, the troika rejected this plan 
+(Dübel 2013). 
+128
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 9 ---
+A CBC presentation in May 2022 highlights issues faced and lessons learned in regard to the 
+Cypriot financial crisis. One issue the presentation highlights is that there was an impact on 
+the real economy and economic activity slowed down. Another issue address ed by the CBC 
+was that the new shareholders of the Bank of Cyprus were “dissatisfied and aggrieved former 
+depositors” who became shareholders by force (CBC 2022, 9-12). Additionally, the bailed-in 
+deposits resulted in defaults on loan repayments, and the situation led to “thousands of court 
+actions against” the CBC, Bank of Cyprus, and the government (CBC 2022, 9–12).  
+According to sources at the ESM, s ince the COVID -19 pandemic, Cyprus has made positive 
+developments in terms of financial stability and debt. Cyprus regained investment-grade 
+ratings from all major rating agencies in September 2023, which the country had lost in 2012. 
+The resolution and restructuring of Bank of Cyprus and Laiki Bank set a new precedent for 
+handling a large and troubled banking sector. It moved away from the traditional approach 
+in Europe of taxpayer -funded rescues and in troduced the notion of an upfront bail -in of all 
+bank creditors, including senior creditors. This had not been customary in the EU; 
+previously, only junior creditors had been required to take los ses. In December 2013, the 
+European Parliament and representatives of national governments struck an agreement on 
+the Bank Recovery and Resolution Directive ( BRRD), which spells out how investors are in 
+line to take losses when a bank fails. The move to bail-in senior bank creditors in Cyprus was 
+part of significant changes in the banking landscape (ESM 2019).  
+129
+Cyprus: Laiki Bank and Bank of Cyprus Restructuring Schaefer-Brown
+
+--- Page 10 ---
+Context: Cyprus, Laiki Bank, 2012–2013 
+Assets EUR 31.4 billion as of Jun. 30 2012 
+Liabilities EUR 30.1 billion as of Jun. 30 2012 
+Deposits EUR 17.9 billion as of Jun. 30, 2012 
+EUR 6.4 billion insured deposits as of 2013 
+Tier 1 Ratio Unknown 
+Nonperforming Loans Unknown 
+Market Share Unknown 
+Banking System, % of GDP 675% as of 2012 
+Context: Cyprus, Bank of Cyprus, 2012–2013 
+Assets EUR 31.0 billion as of Dec. 31, 2012 
+EUR 30.3 billion as of Dec. 31, 2013 
+Liabilities EUR 30.7 billion as of Dec. 31, 2012 
+EUR 27.6 billion as of Dec. 31, 2013 
+Deposits EUR 28.4 billion as of 2012 
+EUR 15.0 billion as of 2013 
+Tier 1 Ratio 0.6% as of Dec. 31, 2012 
+10.2% as of Dec. 31, 2013 
+Nonperforming Loans EUR 14.04 billion as of Dec. 31, 2013 
+Market Share Unknown 
+Banking System, % of GDP 675% as of 2012 
+Sources: BoC 2014; EC 2012; ESM; Laiki Bank 2012b.  
+ 
+130
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 11 ---
+Key Design Decisions 
+1. Purpose: The purpose of this resolution and restructuring was to “address the 
+exceptional challenges that Cyprus [was] facing and restore the viability of the 
+financial sector” (Eurogroup 2013b, 1). 
+The Greek government debt crisis , which began in 2009, hit Cypriot banks hard . In 2011, 
+Bank of Cyprus and Laiki Bank lost EUR 1.8 billion and EUR 2.3 billion, respectively, on their 
+Greek government bonds (EC 2012). In January 2012, the bank presented a plan to the CBC 
+that included deleveraging and a capital increase of EUR 1.8 billion through private investors 
+(CBC 2013f). When that plan failed, the government recapitalized the bank in June 2012 and 
+became an 84% shareholder (Noonan 2013).  
+In August 2012, officials submitted a restructuring plan for Laiki Bank, drafted by KPMG, that 
+involved forcing lo sses onto senior bondholders but not onto  depositors (Noonan 2013). 
+This plan would have involved transferring  bad loans from Laiki Bank to an asset 
+management company. However, the European Union (EU) and the International Monetary 
+Fund (IMF) voiced concerns about whether Cyprus could “foot the bill” of a bad bank. 
+Therefore, the restructuring plan shifted; the new plan was to put the healthy bank into a 
+new subsidiary, which would be the bank’s main holding company (Noonan 2013). 
+In 2013, the recapitalization needs of Cyprus’ banking system continued to be too large for 
+the state to bear. In early 2013, the capital needs of the two largest banks, Bank of Cyprus 
+and Laiki Bank, were approximately EUR 8 billion , which was 44% of Cyprus’ GDP (Draghi 
+2015). In February, following Cypriot elections, Cyprus faced increasing pressure from the 
+European Central Bank to act quickly in addressing its struggling banking system. Before this 
+point, Laiki Bank had been heavily relying on ECB ELA (Noonan 2013). 
+A new preliminary plan proposed by the troika to the finance minister of Cyprus on March 
+15 involved Cyprus raising EUR 5.8 billion through a tax on all banking depositors; this 
+included a 9.9% tax on uninsured deposits and a 6.75% tax on insured deposits. This plan 
+was rejected by the Cypriot Parliament on March 19 (Noonan 2013).  
+Then on March 21, the ECB’s board of directors took steps in implementing its decision to 
+stop providing ELA to Laiki Bank. Laiki Bank would not have been able to repay the ECB 
+quickly enough. Therefore, the central bank said that Laiki Bank would have gone through a 
+disorderly bankruptcy and the government of Cyprus would have been required to repay the 
+EUR 6.4 billion of insured deposits at Laiki Bank. This would have caused the bankruptcy of 
+Cyprus itself (CBC 2013f) . Given this situation, the government of Cyprus put Laiki Bank 
+through resolution. This process involved the transfer of insured deposits to the Bank of 
+Cyprus and the recapitalization of Bank of Cyprus. The shareholders and bondholders of both 
+banks were bailed in, and uninsured deposits were partially bailed in (ESM 2013; IMF 2014). 
+131
+Cyprus: Laiki Bank and Bank of Cyprus Restructuring Schaefer-Brown
+
+--- Page 12 ---
+2. Part of a Package:  The Central Bank of Cyprus and the European Central Bank  
+rolled over Laiki Bank’s EUR 9 billion in ELA to the Bank of Cyprus in the 
+restructuring. 
+Leading up to its resolution, Laiki Bank relied on ELA and other collateralized lending from 
+the ECB and CBC starting in October 2011. In June 2012, the government recapitalized Laiki 
+Bank, providing EUR 1.8 billion in an unfunded sovereign bond in return for an 84% stake in 
+the bank (CBC 2013f). However, the government bond did not help Laiki Bank’s liquidity 
+situation because the ECB refused to accept them as collateral for ELA. Laiki Bank ultimately 
+pledged EU R 20 billion in collateral to cover EUR 9.95 billion in official lending (Noonan 
+2013). 
+In March 2013, the ECB agreed to approve the rollover of Laiki Bank’s outstanding EUR 9 
+billion in ELA if the authorities recapitalized the bank  and agreed to a financial assistance 
+package from the troika. In its March 25, 2013, statement announcing its agreement with the 
+Cypriot government, the Eurogroup also noted that the ECB would provide liquidity to the 
+Bank of Cyprus in line with applicable rules (CBC 2013f; Eurogroup 2013b) 
+In mid-March 2013, the CBC declared a bank holiday of approximately 10 days  (CBC 2014; 
+EC 2013) . Th e CBC made this decision due to fears of bank runs following the March 16 
+announcement of the proposal to impose a tax on all Cypriot bank depositors (EC 2013; ESM 
+n.d.; Noonan 2013) . When the bank holiday ended on March 28 , the banks opened with 
+temporary capital controls and limits on deposit withdrawals , which were to be gradually 
+lifted.  
+Once it had put in motion the plan to  restructure the banks, Cyprus received EUR 10 billion 
+in financial assistance from the ESM and the IMF. This assistance was not used to recapitalize 
+Laiki Bank or Bank of Cyprus (ESM 2013).  
+In late 2013, f ollowing recapitalization, the Bank of Cyprus prepared an additional 
+restructuring plan with the help of external advisors (ESM 2013). The CBC appointed Oliver 
+Wyman as a restructuring  consultant primarily to assist with the restructuring of Bank of 
+Cyprus (Reuters Staff 2013b). 
+3. Legal Authority:  To resolve Laiki Bank , the government of Cyprus needed to 
+quickly pass a number of bills. 
+The resolution of Laiki Bank followed the Bank Resolution Framework outlined in the Cyprus 
+Resolution of Credit and Other Institutions Law of 2013 , which the Cypriot House of 
+Representatives passed in March 2013 . Additionally, Laiki Bank’s resolution plan 
+necessitated the Cypriot government to immediately pass a series of bills through 
+Parliament, including the bill for the resolution of banks (Republic of Cyprus 2013; Republic 
+of Cyprus 2015). Specifically, the bail -in of the shareholders , bondholders, and depositors  
+was possible only due to these resolution laws  (BoC 2013) . One of the resolution laws 
+enacted in March 2013 took into account the European Commission’s proposal for the BRRD. 
+The CBC made additional decrees in its role as the resolution authority , which were 
+132
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 13 ---
+approved by the Cypriot Parl iament (CBC 2013a; CBC 2013b; CBC 2013c , CBC 2013f, CBC 
+2022, CBC n.d).  
+4. Administration: The Central Bank of Cyprus acted as the resolution authority in 
+the resolution of Laiki Bank and the Bank of Cyprus. 
+When the government of Cyprus recapitalized Laiki Bank in June 2012 , it became an 84% 
+shareholder, and therefore, Laiki Bank became state -owned and state-run. Based on this, 
+when representatives from Laiki Bank refused to sign an agreement regarding the sale of 
+their Greek branches, the Cypriot Central Ba nk governor signed in their stead (Noonan 
+2013). When the ECB’s board of directors took steps to cut o ff ELA to Laiki Bank , the 
+government of Cyprus stepped in and coordinated the resolution of Laiki Bank, including the 
+Bank of Cyprus’s absorbing Laiki Bank’s insured deposits and its subsequent recapitalization 
+(CBC 2013f). 
+5. Governance: The president of Cyprus launc hed an investigation into the collapse 
+of the Cypriot economy. 
+Following the bail -in, as discussed in the Summary Evaluation, the president of Cyprus 
+launched a study on what caused the collapse of the Cypriot economy. This study specifically 
+looks at Laiki Bank, usin g it as an indicator for the rest of the Cypriot economy. An 
+investigative committee appointed by the Ministerial Council conducted the study by 
+examining confidential documents from the CBC. This study concludes that Laiki Bank was 
+insolvent before the haircut of Greek bonds (NYT 2014). 
+6. Communication and Disclosure: The Central Bank of Cyprus  and Eurogroup put 
+out press releases announcing a joint decision to resolve Laiki Bank. 
+In December 2012, reports of possible haircuts for depositors caused depositors to pull their 
+money out of the already struggling Laiki Bank (Noonan 2013). On March 26 and March 30, 
+2013, the CBC put out press releases announcing the resolution of Laiki Bank and then 
+clarifying the process. These reports specifically addressed joint accounts, the bail -in of 
+shareholders and bondholders of Bank of Cyprus, and the partial bail-in of uninsured 
+deposits of both banks. However, these reports don’t mention the shareholders and 
+bondholders of Laiki Bank (CBC 2013d; CBC 2013e). 
+As discussed in Summary Evaluation, much of the communication from Cypriot authorities 
+in the immediate aftermath of the resolution involved disagreements about who was 
+responsible for the problem and whether  it had been successfully addressed (CBC 2013f; 
+Kambas 2013). 
+The Eurogroup put out statements on March 16 and March 25, 2013, pertaining to 
+agreements with the Cypriot government.  The first emphasized the Eurogroup’s desire to 
+reach an agreement with Cypr iot authorities regarding financial assistance.  The second 
+announced the final resolution and restructuring agreement with the bail-in of shareholders 
+and bondholders, and partial bail-in of uninsured depositors (Eurogroup 2013a; Eurogroup 
+2013b). On May 15, 2013, the IMF issued a press release regarding its aid to Cyprus and 
+133
+Cyprus: Laiki Bank and Bank of Cyprus Restructuring Schaefer-Brown
+
+--- Page 14 ---
+discussed the “bold steps” of resolving of Laiki Bank and restructuring the Bank of Cyprus 
+(IMF 2013). 
+Laiki Bank’s data reporting ended in the third quarter of 2012, and no annual report for 2012 
+was presented (Dübel 2013). 
+7. Source and Size of Funding: The restructuring required no new taxpayer support 
+in Cyprus and depended entirely on bailing in shareholders, bondholders, and 
+uninsured depositors; existing official support to Lai ki Bank rolled over to the 
+Bank of Cyprus.  
+The resolution and restructuring was possible due to the complete bail -in of the 
+shareholders and bondholders of both banks and the partial bail -in of uninsured deposits 
+(ESM 2013). If Laiki Bank had been allowed  to fail and go through bankruptcy, the Cypriot 
+Deposit Protection Scheme would have been unable to cover all of the insured deposits of 
+Laiki Bank—the scheme had EUR 125 million and Laiki Bank had EUR 6.4 billion in insured 
+deposits (CBC 2013f). 
+No official funds were used in the restructuring  (ESM 2013). However, the ECB agreed to 
+allow the CBC to roll over EUR 9 billion in ELA from Laiki Bank to the Bank of Cyprus . The 
+Eurogroup’s March 25, 2013, statement also noted that the ECB would provide liquidity to 
+the Bank of Cyprus in line with applicable rules  (Eurogroup 2013b). The Bank of Cyprus’s 
+2013 annual report noted that, in August 2013, the ECB reinstated the bank for monetary 
+policy operations. It reported outstanding funding of EUR 1.4 billion from the ECB and EUR 
+9.6 billion through ELA at the end of the year (BoC 2014). 
+One potential source of collateral with the ECB was the EUR 1 billion in government -
+guaranteed bonds that Laiki Bank issued in November 2012 to secure central bank funding. 
+The Bank of Cyprus took over that debt to continue to secure central bank loans . Since the 
+debt was both an asset and liability , the bank did not report the items on its balance sheet  
+(BoC 2014). The option of using government-guaranteed bonds had been recommended by 
+the ECB in July 2012 (NYT 2014).  
+8. Approach to Resolution and Restructuring: The government of Cyprus facilitated 
+the resolution of Laiki Bank, with the Bank of Cyprus and Piraeus Bank absorbing 
+Laiki Bank’s assets, insured deposits, and some uninsured deposits. 
+On March 25, 2013, a new plan emerged following pressure from the EU , and ultimately, 
+Cyprus put Laiki Bank through resolution in late March 2013 (CBC 2013f; ESM 2013) . The 
+plan involved the insured deposits and most assets of Laiki Bank being acquired by the also-
+troubled Bank of Cyprus and Piraeus Bank. Figure 2 shows Laiki Bank and Bank of Cyprus’ 
+balance sheets prior to the restructuring process. 
+  
+134
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 15 ---
+Figure 2: Balance Sheets for Laiki Bank as of June 30, 2012 , and Bank of Cyprus as of 
+December 31, 2012 (EUR billions) 
+ 
+Sources: BoC 2014; Laiki Bank 2012b. 
+The resolution of Laiki Bank minimized the use of taxpayers’ money with a full bail -in of 
+shareholders and bondholders, and a partial bail -in of uninsured deposits. All deposits of 
+EUR 100,000 or less were protected. This process involved Laiki Bank being split into two 
+units: most uninsured deposits were kept in one unit called “Legacy Laiki,” while the insured 
+deposits were transferred to the Bank of Cyprus along with most assets and so me liabilities 
+through a purchase and assumption transaction (ESM 2013; IMF 2014). In exchange, Legacy 
+Laiki received shares of the Bank of Cyprus. The plan was then for uninsured deposits in 
+Legacy Laiki to be compensated through the liquidation of the assets of Legacy Laiki, 
+including the Bank of Cyprus shares.  Laiki Bank’s Greek operations were sold to Piraeus 
+Bank (Dübel 2013; Noonan 2013) . Cypriot authorities negotiated the sale of all Cypriot 
+banks’ Greek activities to ring -fence the Cypriot banks’ exposure to Greece.  Piraeus Bank 
+purchased all of these activities; Figure 3 shows the breakdown of these acquisitions (World 
+Bank 2016). 
+  
+135
+Cyprus: Laiki Bank and Bank of Cyprus Restructuring Schaefer-Brown
+
+--- Page 16 ---
+Figure 3: Breakdown of Piraeus Bank’s Acquisitions (EUR billions) 
+ 
+Sources: BoC 2014; Piraeus 2014; Hellenic Bank 2014; Michaelides and Orphanides 2016 . 
+After this, the Bank of Cyprus was recapitalized through the bail -in of its shareholders and 
+bondholders, and the conversion of 47.5% of uninsured deposits (deposits of more than EUR 
+100,000) into equity. After this recapitalization, the Bank of Cyprus was adequately 
+capitalized and had a core Tier 1 ratio of approximately 12%. Following recapitalization, the 
+Bank of Cyprus created an additional restructuring plan with the help of external advisors in 
+late 2013 (ESM 2013) . On July 3 0, 2013, the Bank of Cyprus announced that this 
+recapitalization process had been completed (BoC 2013). Figure 4 shows the balance sheet 
+of the bank of Cyprus in December 2013 and the assets and liabilities from Laiki Bank.  
+  
+136
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 17 ---
+Figure 4: Balance Sheet for Bank of Cyprus as of December 31, 2013 (EUR billions) 
+ 
+Source: BoC 2014. 
+Figure 5 shows the breakdown of Laiki Bank and Bank of Cyprus assets and liabilities during 
+the resolution process.  
+  
+137
+Cyprus: Laiki Bank and Bank of Cyprus Restructuring Schaefer-Brown
+
+--- Page 18 ---
+Figure 5: Restructuring Approach for Laiki Bank and Bank of Cyprus 
+ 
+Source: Dübel 2013. 
+138
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 19 ---
+9. Treatment of Creditors and Equity Holders: As part of the resolution and 
+restructuring process , the bondholders  and shareholders of both the Bank of 
+Cyprus and Laiki Bank were completely bailed in. 
+To minimize the cost of resolving Laiki Bank to taxpayers, its shareholders and bondholders 
+were fully bailed in. In connection with absorbing assets and insured deposits of Laiki Bank, 
+the Bank of Cyprus was capitalized through the full bail -in of its shareholders and 
+bondholders. The bail-in process converted the bonds, securities, and ordinary shares into 
+different tiers of equity (Classes B–D, respectively). The uninsured deposits were converted 
+into Class A equity. The shares of Classes B  through D would not receive voting rights or 
+dividends until total dividends for Class A shares reached the original contribution plus 
+interest at the three-month Euro Interbank Offered Rate (EURIBOR) plus 10% (CBC 2013e). 
+The initial CBC decree stipulated that the different classes of shares would convert to 
+ordinary shares at a later “reconversion date”; once this happened, all shares would receive 
+dividends (BoC 2014; CBC 2013a) . According to the Bank of Cyprus ’s 2013 annual report, 
+the reconversion took place before the end of 2013. This bail-in allowed the Bank of Cyprus 
+to become adequately capitalized and gain a core Tier 1 ratio of approximately 12% (ESM 
+2013).  
+Legacy Laiki, the bad bank that kept most of the uninsured deposits and claims of Laiki Bank, 
+received an 18% equity stake in Bank of Cyprus in exchange for  Laiki Bank’s  assets and 
+insured deposits (IMF 2014).  
+10. Treatment of Clients:  All insured deposits and some uninsured deposits of Laiki 
+Bank were protected , but most uninsured deposits of both banks were at least 
+partially bailed in. 
+Insured deposits of Laiki Bank were transferred either to the Bank of Cyprus or Piraeus Bank 
+Some uninsured depositors were also made whole. According to a March 30, 2013, statement 
+by the CBC, the Laiki  Bank deposits transferred to the Bank of Cyprus included “ the entire 
+amount of deposits belonging to financial institutions, the gove rnment, municipalities, 
+municipal councils and other public entities, insurance companies, charities, schools, 
+educational institutions, and deposits belonging to JCC Payment Systems Ltd ” (CBC 2013e). 
+JCC Payment System s was the largest payments process or in Cyprus. The resolution also 
+protected outstanding repo transactions.  All Greek deposits were transferred to Piraeus 
+Bank. All d eposits within the U.K. remained at the U.K. subsidiary of the Bank of Cyprus, 
+avoiding losses to uninsured deposits (IMF 2014). For clients with outstanding debt to Laiki 
+Bank, there was a netting of their deposits against that debt; in other words, if their deposits 
+exceeded the insured limit , a portion of their debt equal to their uninsured deposits 
+remained as an asset of the legacy Laiki Bank (CBC 2013b).  
+When the insured deposits and protected uninsured deposits of Laiki Bank were transferred 
+to the Bank of Cyprus , most uninsured deposits were left behind in the bad bank, Legacy 
+Laiki. In exchange for Laiki Bank’s assets, Legacy Laiki received an 18% equity stake in the 
+Bank of Cyprus; the uninsured deposits at Legacy Laiki were to be compensated through the 
+liquidation of the assets remaining in Legacy Laiki, including the shares of the Bank of Cyprus 
+139
+Cyprus: Laiki Bank and Bank of Cyprus Restructuring Schaefer-Brown
+
+--- Page 20 ---
+(ESM 2013; IMF 2014). This process continued through 2019 when the Cyprus Mail reported 
+that the uninsured depositors of Laiki Bank were expected to receive 6 cents on the euro for 
+their deposits (Cyprus Mail 2019). In 2021, the Cyprus Mail reported that the CBC had filed 
+for the liquidation of Legacy Laiki on January 8 of that year (Hazou 2021).  
+After absorbing the insured deposits of Laiki Bank, the Bank of Cyprus was reca pitalized, 
+part of which came from the bail-in of the Bank of Cyprus’s uninsured deposits. All depositors 
+with more than EUR 100,000 in the Bank of Cyprus had their deposits over the EUR 100,000 
+threshold frozen until it was determined how much capital was  needed (Reuters Staff 
+2013a). Ultimately, 47.5% of deposits at the Bank of Cyprus over EUR 100,000 were 
+converted into equity (ESM 2013). This included EUR 3.8 billion in deposits, which was about 
+25% of all Bank of Cyprus deposits and affected approximately 20,000 depositors . Following 
+these measures, the government of Cyprus, the CBC, and the Bank of Cyprus faced thousands 
+of unsuccessful court actions (CBC 2022).  
+11. Treatment of Assets: The assets of Laiki Bank were either transferred to the Bank 
+of Cyprus or left behind in Legacy Laiki. 
+Before the resolution of Laiki Bank , the CBC coordinated the sale of Laiki Bank’s Greek 
+operations (Noonan 2013). During resolution, some assets of Laiki Bank were transferred to 
+the Bank of Cyprus along with uninsured deposits. The Bank of Cyprus received Laiki Bank’s 
+“good assets” while Legacy Laiki kept the “dubious assets” and “bad assets” (Dübel 2013). 
+Before resolution, Laiki Bank had EUR 3 1.4 billion in assets ; in the resolution and 
+restructuring process, EUR 15.1 billion in assets were transferred to Bank of Cyprus (BoC 
+2014; Philippon and Salord 2017). A 2013 case study of Laiki Bank states that “good assets” 
+were transferred to Bank of Cyprus while “dubious assets” and “bad assets” stayed at Legacy 
+Laiki. The “bad assets” were to be written off immediately while the “ dubious assets” were 
+to be written off over time  (Dübel 2013) . Assets that remained in Legacy Laiki on ce 
+liquidated contributed to compensating the uninsured deposits that remained in Legacy 
+Laiki (ESM 2013). 
+Cypriot authorities negotiated the sale of all Greek -related loans and fixed assets of Cypriot 
+banks to ring-fence exposure to Greece. The original g oal of the ring-fencing was to protect 
+Cypriot bank assets from “Grexit” risks (World Bank 2016).  
+12. Treatment of Board and Management: The management of Laiki Bank and the 
+Bank of Cyprus resigned or were replaced by the government of Cyprus. 
+In June 2012, w hen the government of Cyprus injected EUR 1.8 billion into Laiki Bank , the 
+finance minister also appointed seven new directors to Laiki Bank (Noonan 2013). In March 
+2013, when Laiki Bank was put through resolution, all of Laiki Bank’s directors resigned. The 
+management of Laiki Bank was not involved in the decision to put Laiki Bank through 
+resolution. Reuters talked with five of Laiki Bank’s 11 directors in the weeks after resolution 
+of Laiki Bank was announced. Some directors told Reuters that they heard the news on their 
+local TV stations (Noonan 2013). Also in March 2013, in connection with the restructuring 
+140
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 21 ---
+of the Bank of Cyprus , the CBC appointed a special manager and removed the board of 
+directors and senior management of the Bank of Cyprus from their posts (CBC 2022). 
+13. Cross-border Cooperation:  The resolution of Laiki Bank was negotiated by the 
+troika and Cypriot authorities. 
+The troika agreed to provide emergency loans to Cyprus ; these funds were not used to 
+recapitalize Bank of Cyprus or Laiki Bank . Leading up to March 2013 , the ECB had made 
+threats to cut off the Cypriot banks from emergency funds  if Cyprus didn’t come up with a 
+restructuring plan that was acceptable to the troika . Up until this point , Laiki Bank was 
+heavily relying on ELA through the CBC (Noonan 2013). Then on March 21, the ECB’s board 
+of directors took steps in implementing its decision to stop providing ELA to Laiki Bank. This 
+led the government of Cyprus to put Laiki Bank through resolution (ESM 2013) . The 
+resolution of Laiki Bank and restructuring of both Laiki Bank and Bank of Cyprus came about 
+as the result of a decision made between the government of Cyprus and the EU (CBC 2013f). 
+Along with this, the ESM and the IMF approved EUR 10 billion in assistance to Cyprus (ESM 
+n.d.). 
+The EUR 10 billion assistance was part of a program with four key objectives:  
+• Downsizing the banking system;  
+• Modernizing the financial supervisory framework;  
+• Tightening the government’s budget;  
+• Taking steps to fight money laundering (ESM 2019).  
+As discussed in the Summary Evaluation, there was controversy over the central bank’s 
+decision to allow Laiki Bank to convert its Greek subsidiary into a branch in 2011. It would 
+have been easier to ring-fence a subsidiary’s assets and liabilities, which would have limited 
+Cyprus’s official exposure when it resolved and took over Laiki Bank (A&M 2013). 
+14. Other Conditions: The CBC specified conditions for the Bank of Cyprus ’s dividend 
+payments. 
+The bail -in process at the Bank of Cyprus converted the bonds, securities, and ordinary 
+shares into different tiers of equity (Classes B  through D, respectively). The different tiers 
+came with specific dividend rules. The CBC outlined the bail -in process for the Bank of 
+Cyprus. Uninsured deposits were converted into Class A equity, and Class B through D shares 
+would not receive dividends until total dividends for Class A shares reached the original 
+contribution plus interest at a rate of three-month EURIBOR plus 10% (CBC 2013e). The 
+initial CBC decree stipulated that the different classes of shares would convert to ordinary 
+shares at a later “reconversion date”; once this happened, all shares would receive dividends 
+(BoC 2014; CBC 2013a) . According to the Bank of Cyprus ’s 2013 annual report, the 
+reconversion took place before the end of 2013. 
+141
+Cyprus: Laiki Bank and Bank of Cyprus Restructuring Schaefer-Brown
+
+--- Page 22 ---
+15. Duration: The resolution and restructuring process began on March 25, 2013, and 
+the bail-in process was completed on July 30, 2013. 
+The troika announced the Laiki Bank resolution plan on March 2 5, 2013 (CBC 2013f; ESM 
+2013). On July 30, 2013, the Bank of Cyprus announced that the bail -in process of depositors 
+had been completed (BoC 2013). This recapitalization adequately capitalized the Bank of 
+Cyprus, resulting in the Bank of Cyprus having a  core Tier 1 ratio of approximately 12%. As 
+of February 2020, Cyprus had repaid its debts to t he IMF. Cyprus will repay the ESM from 
+2025 to 2031 (ESM n.d.). 
+  
+142
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 23 ---
+References and Key Program Documents 
+Summary of Program 
+(ESM 2013) European Stability Mechanism (ESM). 2013. “Financial Assistance for Cyprus.” 
+September 2013. 
+Frequently asked questions about financial assistance in Cyprus. 
+http://elischolar.library.yale.edu/ypfs-documents2/2063 
+(ESM n.d.) European Stability Mechanism (ESM). n.d. “Programme Timeline for Cyprus.” 
+Accessed September 28, 2023. 
+Cyprus intervention timeline on the ESM website. 
+http://elischolar.library.yale.edu/ypfs-documents2/2065 
+Legal/Regulatory Guidance 
+(CBC 2013a) Central Bank of Cyprus (CBC). 2013a. “Unofficial Translation of the Bailing-in 
+of Bank of Cyprus Public Company Limited Decree of 2013.” March 29, 2013. 
+Unofficial translation of a Central Bank of Cyprus decree on the bailing-in of Bank of Cyprus. 
+https://ypfs.som.yale.edu/node/24606 
+(CBC 2013b) Central Bank of Cyprus (CBC). 2013b. “Unofficial Translation of the Sale of 
+Certain Operations of Cyprus Popular Bank Public Co Ltd Decree of 2013.” March 29, 2013. 
+Unofficial translation of a decree from the Central Bank of Cyprus on the sale of certain 
+operations of Laiki Bank. 
+https://ypfs.som.yale.edu/node/24607 
+(CBC 2013c) Central Bank of Cyprus (CBC). 2013c. “Unofficial Translation of the Issuance of 
+Share Capital of Bank of Cyprus as Compensation of Cyprus Popular Bank Decree of 2013.” 
+July 30, 2013. 
+Unofficial Translation of a decree from the Central Bank of Cyprus on the issuance of share 
+capital for the Bank of Cyprus. 
+https://ypfs.som.yale.edu/node/24608 
+(CBC n.d.) Central Bank of Cyprus (CBC). n.d. “Resolution.” Accessed February 15, 2024. 
+Webpage from the Central Bank of Cyprus regarding their resolution law. 
+https://ypfs.som.yale.edu/node/24609 
+(Laiki Bank 2012a) Laiki Bank Group (Laiki Bank). 2012a. “Prospectus Cyprus Popular 
+Bank Public Co Ltd.” May 22, 2012. 
+Laiki Bank 2012 prospectus. 
+https://elischolar.library.yale.edu/ypfs-documents2/2728/ 
+  
+143
+Cyprus: Laiki Bank and Bank of Cyprus Restructuring Schaefer-Brown
+
+--- Page 24 ---
+(Republic of Cyprus 2013) Republic of Cyprus. 2013. Draft Law on the Resolution of Credit 
+and Other Institutions Law of 2013. 
+Draft law of the law on the resolution of banks (unofficial translation by the Central Bank of 
+Cyprus. 
+https://ypfs.som.yale.edu/node/24605 
+(Republic of Cyprus 2015) Republic of Cyprus. 2015. The Resolution of Credit and Other 
+Institutions Laws of 2013 to 2014. 
+Law on Bank Resolution in Cyprus from 2013 (unofficial translation by the Central Bank of 
+Cyprus). 
+https://ypfs.som.yale.edu/node/24603 
+Media Stories 
+(Cyprus Mail 2019) Cyprus Mail. 2019. “Just 6 Cents on the Euro for Laiki Haircut Victims.” 
+Cyprus Mail, August 12, 2019. 
+Article about the fate of Laiki uninsured depositors. 
+http://elischolar.library.yale.edu/ypfs-documents2/2074 
+(Gledhill 2017) Gledhill, Alice. 2017. “Convincing Comeback for Bank of Cyprus.” Reuters, 
+January 13, 2017. 
+Reuters article on the Bank of Cyprus comeback. 
+https://ypfs.som.yale.edu/node/24612 
+(Hazou 2021) Hazou, Elias. 2021. “Liquidation Filing for Legacy Laiki Took Seven Years.” 
+Cyprus Mail, January 25, 2021. 
+Article on the liquidation of Legacy Laiki. 
+http://elischolar.library.yale.edu/ypfs-documents2/2066 
+(Kambas 2013) Kambas, Michele. 2013. “Cyprus Central Bank Failed in Its Job, President 
+Tells ECB.” Reuters, April 16, 2013, sec. Business News. 
+Article criticizing Cyprus’ Central Bank. 
+http://elischolar.library.yale.edu/ypfs-documents2/2067 
+(Noonan 2013) Noonan, Laura. 2013. “Insight: Inside Laiki - Countdown to Catastrophe.” 
+Reuters, April 2, 2013, sec. Special Reports. 
+Article on the resolution of Laiki. 
+http://elischolar.library.yale.edu/ypfs-documents2/2069 
+(NYT 2014) New York Times (NYT). 2014. “Laiki Popular Bank: How a Bank’s 
+Mismanagement Toppled an Economy.” October 2014. 
+New York Times publication of a leaked study on the Cypriot crisis initiated by former 
+president Nicos Anastasiades. 
+https://ypfs.som.yale.edu/node/24637 
+  
+144
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 25 ---
+(O’Brien 2013) O’Brien, Matthew. 2013. “Everything You Need to Know about the Cyprus 
+Bank Disaster.” Atlantic, March 18, 2013. 
+Article on Cyprus’s tax on depositors. 
+https://ypfs.som.yale.edu/node/24617/ 
+(Reuters Staff 2013a) Reuters Staff. 2013a. “Cypriot Laiki Bank to Be Closed Down, Bank of 
+Cyprus Restructured.” Reuters, March 24, 2013, sec. Business News. 
+Article on the resolution of Laiki. 
+http://elischolar.library.yale.edu/ypfs-documents2/2073 
+(Reuters Staff 2013b) Reuters Staff. 2013b. “Cyprus C.Bank Appoints Oliver Wyman as 
+Restructuring Advisers.” Reuters, October 9, 2013. 
+Article on advisor appointed to aid in Bank of Cyprus restructuring. 
+https://ypfs.som.yale.edu/node/24618/ 
+(Waterfield and Squires 2013) Waterfield, Bruno, and Nick Squires. 2013. “Cypriots Braced 
+for Harsh Banking Curbs.” Telegraph, March 26, 2013. 
+Article on the Cypriot bail-in. 
+https://ypfs.som.yale.edu/node/24619/ 
+(WSJ 2013) Wall Street Journal (WSJ). 2013. “A Better Cyprus Deal.” Wall Street Journal, 
+March 26, 2013. 
+Editorial from the Wall Street Journal on the deal between the Cypriot government and 
+the EU regarding the resolution of Laiki Bank and the restructuring of the Bank of 
+Cyprus. 
+https://ypfs.som.yale.edu/node/24620/ 
+Press Releases/Announcements 
+(BoC 2013) Bank of Cyprus (BoC). 2013. “Recapitalization through Bail-in and Resolution 
+Exit Bank of Cyprus Announcement.” Press release, July 30, 2013. 
+Announcement on the bail-in and resolution of Bank of Cyprus. 
+http://elischolar.library.yale.edu/ypfs-documents2/2054 
+(BoC 2017a) Bank of Cyprus (BoC). 2017a. “Listing on the London Stock Exchange.” Press 
+release, January 19, 2017. 
+Announcement from the Bank of Cyprus on its listing on the London Stock Exchange. 
+https://ypfs.som.yale.edu/node/24600 
+(CBC 2011) Central Bank of Cyprus (CBC). 2011. “EBA Capital Exercise.” Press release, 
+December 8, 2011. 
+Announcement from the Central Bank of Cyprus on the EBA capital exercise. 
+https://ypfs.som.yale.edu/node/24602 
+  
+145
+Cyprus: Laiki Bank and Bank of Cyprus Restructuring Schaefer-Brown
+
+--- Page 26 ---
+(CBC 2013d) Central Bank of Cyprus (CBC). 2013d. “Central Bank of Cyprus CBC 
+Announcement.” Press release, March 26, 2013. 
+CBC announcement on the resolution of Laiki Bank. 
+http://elischolar.library.yale.edu/ypfs-documents2/2055 
+(CBC 2013e) Central Bank of Cyprus (CBC). 2013e. “Clarifications for the Better 
+Understanding of the Resolution Measures Implemented under the Resolution of Credit 
+and Other Institutions Law, 2013 at the Bank of Cyprus and Laiki Bank.” Press release, 
+March 30, 2013. 
+CBC announcement clarifying the resolution measures regarding Laiki Bank and Bank of 
+Cyprus. 
+http://elischolar.library.yale.edu/ypfs-documents2/2056 
+(CBC 2013f) Central Bank of Cyprus (CBC). 2013f. “Rescue Programme for Laiki Bank.” 
+Press release, March 30, 2013. 
+Press release from the Central Bank of Cyprus regarding the rescue of Laiki Bank. 
+http://elischolar.library.yale.edu/ypfs-documents2/2057 
+(Draghi 2015) Draghi, Mario. 2015. “European Central Bank Letter.” Letter from European 
+Central Bank President Mario Draghi to members of the European Parliament, April 20, 
+2015. 
+European Central Bank response letter to the European Parliament (translated by the ECB). 
+http://elischolar.library.yale.edu/ypfs-documents2/2061 
+(Eurogroup 2013a) Eurogroup. 2013a. “Eurogroup Statement on Cyprus–March 16.” Press 
+release, March 16, 2013. 
+Eurogroup statement on Cyprus. 
+https://ypfs.som.yale.edu/node/24611 
+(Eurogroup 2013b) Eurogroup. 2013b. “Eurogroup Statement on Cyprus–March 25.” Press 
+release, March 25, 2013. 
+Eurogroup statement on Cyprus. 
+http://elischolar.library.yale.edu/ypfs-documents2/2060 
+(IMF 2013) International Monetary Fund (IMF). 2013. “Press Release: IMF Executive Board 
+Approves E1 Billion Arrangement under Extended Fund Facility for Cyprus.” Press release, 
+May 15, 2013. 
+IMF press release on Cyprus. 
+https://ypfs.som.yale.edu/node/24614 
+(Laiki Bank 2012b) Laiki Bank Group (Laiki Bank). 2012b. “Announcement.” Press release, 
+August 31, 2012. 
+Announcement from Cyprus Popular Bank. 
+https://ypfs.som.yale.edu/node/24610 
+  
+146
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 27 ---
+Reports/Assessments 
+(A&M 2013) Alvarez & Marsal (A&M). 2013. “Investigation Report Bank of Cyprus - Marfin 
+Popular Bank Group - Review of Cross-Border Merger.” Report prepared for the Central 
+Bank of Cyprus, March 26, 2013. 
+Report on Laiki Bank prepared for the Central Bank of Cyprus. 
+https://ypfs.som.yale.edu/node/24598 
+(Association of Cyprus Banks 2013) Association of Cyprus Banks. 2013. Annual Report 
+2012-2013. 
+Annual report from 2012–2013 from the Association of Cyprus Banks. 
+https://ypfs.som.yale.edu/node/24599 
+(BoC 2014) Bank of Cyprus (BoC). 2014. Annual Financial Report 2013. 
+Annual report of the Bank of Cyprus for 2013. 
+http://elischolar.library.yale.edu/ypfs-documents2/2053 
+(BoC 2017b) Bank of Cyprus (BoC). 2017b. Annual Financial Report 2016. 
+Bank of Cyprus annual report for 2016. 
+https://ypfs.som.yale.edu/node/24601 
+(CBC 2014) Central Bank of Cyprus (CBC). 2014. Annual Report 2013. 
+Central Bank of Cyprus annual report for 2013. 
+https://ypfs.som.yale.edu/node/24604 
+(CBC 2022) Central Bank of Cyprus (CBC). 2022. “Experiences from the Implementation of 
+Bail-in Resolution Measures in Cyprus.” FinSAC Annual International Conference, May 17, 
+2022. 
+Presentation from the Central Bank of Cyprus on the bail-in of depositors. 
+http://elischolar.library.yale.edu/ypfs-documents2/2058 
+(EC 2012) European Commission (EC). 2012. “State Aid SA.34827 (2012/NN)– Cyprus 
+Rescue Recapitalisation of Cyprus Popular Bank.” September 13, 2012. 
+European Commission letter on the recapitalization of Cyprus Popular Bank. 
+http://elischolar.library.yale.edu/ypfs-documents2/2062 
+(Hellenic Bank 2014) Hellenic Bank. 2014. Hellenic Bank Annual Report 2013. 
+Hellenic Bank annual report for 2013. 
+https://ypfs.som.yale.edu/node/24613 
+(IMF 2014) International Monetary Fund (IMF). 2014. “Cross–Border Bank Resolution: 
+Recent Developments.” Policy paper, June 2014. 
+2014 Report from the IMF on recent resolutions. 
+http://elischolar.library.yale.edu/ypfs-documents2/2526 
+147
+Cyprus: Laiki Bank and Bank of Cyprus Restructuring Schaefer-Brown
+
+--- Page 28 ---
+(Laiki Bank 2012c) Laiki Bank Group (Laiki Bank). 2012c. Annual Report 2011. 
+Laiki Bank’s annual report from 2011. 
+https://ypfs.som.yale.edu/node/24615 
+(Philippon and Salord 2017) Philippon, Thomas, and Aude Salord. 2017. “Bail–ins and Bank 
+Resolution in Europe: A Progress Report.” International Center for Monetary and Banking 
+Studies, Geneva Reports on the World Economy, Special Report 4, March 2017. 
+Geneva report on bail-ins in Europe. 
+https://ypfs.som.yale.edu/node/23946 
+(Piraeus 2014) Piraeus Bank (Piraeus). 2014. Annual Financial Report 2013. 
+Piraeus Bank’s annual report for 2013. 
+https://ypfs.som.yale.edu/node/24616/ 
+Key Academic Papers 
+(Dübel 2013) Dübel, Hans-Joachim. 2013. “The Capital Structure of Banks and Practice of 
+Bank Restructuring: Eight Case Studies on Current Bank Restructurings in Europe.” Study 
+commissioned by the Center for Financial Studies, University of Frankfurt, October 8, 2013. 
+Paper of bank restructuring case studies. 
+https://elischolar.library.yale.edu/ypfs-documents2/2059/ 
+(EC 2013) European Commission (EC). 2013. “The Economic Adjustment Programme for 
+Cyprus.” European Economy, Occasional Paper No. 149, May 2013. 
+European Commission Paper on the Economic Adjustment Program for Cyprus. 
+http://elischolar.library.yale.edu/ypfs-documents2/2115 
+(ESM 2019) European Stability Mechanism (ESM). 2019. “Crisis in Cyprus: ‘No Negotiating 
+Power, No Credibility.’” In Safeguarding the Euro in Times of Crisis: The Inside Story of the 
+ESM, 261–75. Luxembourg: Publications Office of the European Union. 
+Chapter from an ESM book on the crisis in Cyprus. 
+https://ypfs.som.yale.edu/node/24596 
+(McNamara et al. 2024) McNamara, Christian M., Carey K. Mott, Salil Gupta, Greg Feldberg, 
+and Andrew Metrick. 2024. “Survey of Resolution and Restructuring in Europe, Pre- and 
+Post- BRRD.” Journal of Financial Crises 6, no.1. 
+Survey of YPFS case studies examining 21st-century bank resolutions and restructuring in 
+Europe before and after the existence of the Bank Recovery and Resolution Directive. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/1 
+(Michaelides and Orphanides 2016) Michaelides, Alexander, and Athanasios Orphanides, 
+eds. 2016. The Cyprus Bail-in: Policy Lessons from the Cyprus Economic Crisis. London: 
+Imperial College Press. 
+Collection of essays on the financial crisis in Cyprus. 
+https://ypfs.som.yale.edu/node/24597 
+148
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 29 ---
+(Schaefer-Brown, forthcoming) Schaefer-Brown, Stella. Forthcoming. “Cyprus: Laiki Bank 
+Capital Injection, 2012” Journal of Financial Crises. 
+YPFS case study on Laiki Bank’s capital injection in 2012. 
+(World Bank 2016) World Bank. 2016. “Bank Resolution and ‘Bail-in’ in the EU: Selected 
+Case Studies Pre and Post BRRD.” Report No. 112265, December 12, 2016. 
+Paper from the World Bank on bank resolution and “bail-in” in the EU. 
+https://ypfs.som.yale.edu/node/24621/ 
+ 
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+149
+Cyprus: Laiki Bank and Bank of Cyprus Restructuring Schaefer-Brown

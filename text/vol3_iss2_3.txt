@@ -1,0 +1,906 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 2 
+2021 
+Spain: Deposit Guarantee Fund Asset Management Spain: Deposit Guarantee Fund Asset Management 
+Manuel León Hoyos 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance and Financial 
+Management Commons, Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, 
+Policy History, Theory, and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+León Hoyos, Manuel (2021) "Spain: Deposit Guarantee Fund Asset Management," Journal of Financial 
+Crises: Vol. 3 : Iss. 2, 81-103. 
+DOI: https://doi.org/10.17132/2693-3179.1192 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/3 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss2/3
+
+--- Page 3 ---
+Spain: Deposit Guarantee Fund  Asset Management 1 
+Manuel León Hoyos2 
+Yale Program on Financial Stability Case Study 
+October 16, 2019; Revised: June 23, 2021 
+Abstract 
+The global oil shock in 1973 -74 occurred at a time when Spain was embarking on a 
+liberalization of its financial system that resulted in many new entrants, particularly small - 
+and medium-sized institutions. The banking crisis that followed from 1977-85 affected 52 of 
+the country’s 110 banks, most of them of small- and medium-sized, that comprised over 20% 
+of bank deposits . Spain established the Deposit Guarantee F und in November 1977 to 
+provide limited deposit insurance, and, in March 1978, established a Banking Corporation to 
+take control of and reorganize troubled banks. However, because the Banking Corporation 
+lacked the legal authority to recapitalize institutions, Spain reconstituted the Deposit 
+Guarantee Fund in 1980 with broad new powe rs. One key power was the ability to acquire 
+and dispose of non -performing assets from insolvent institutions.  During the course of the 
+crisis, the Fund intervened in 29 banks. It acquired a total of 373 billion pesetas ($2.2 billion) 
+in nonperforming assets, real estate, and shareholdings. It disposed of more than 50% of bad 
+assets within  five year s, but by 2000 still had a small amount of assets . By 1986, it had 
+accumulated losses of 90 billion pesetas. 
+ 
+Keywords: Spain, crisis, banks, asset management company, Fund, NPLs
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering the responses to the Global Financial Crisis that pertain to broad-based asset 
+management company programs. 
+Cases are available from the Journal of Financial Crises at https://elischolar.library.yale.edu/journal-of- 
+financial-crises. 
+ 
+2 Research Associate, YPFS, Yale School of Management.  
+81
+
+--- Page 4 ---
+At a Glance  
+During the 1960s and early 1970s, Spain 
+experienced strong economic growth. However, 
+by the mid -1970s difficulties arose . The global 
+increase in oil prices in 1973-74 contributed to 
+double-digit inflation in Spain. Reform s in 1971 
+and 1974 paved the way for  swift financial 
+liberalization without adequate regulation and 
+supervision. 
+In 1977, Spain entered a banking crisis that 
+lasted until 1985 . It affected 52 of the country’s 
+110 ban ks, m ost of them small - and mediu m-
+sized, that together comprised over 20% of bank 
+deposits. In November 1977, Spain established a 
+Deposit Guarantee Fund run by the Bank of Spain 
+to provide limited deposit insurance , and, in 
+March 1978 , a Banking Corporati on to take 
+control of and reorganize troubled banks  was 
+added. However, because the Banking 
+Corporation lacked the legal authority to 
+recapitalize institutions, Spain reconstituted the 
+Deposit Guarantee Fun d in 1980 as an 
+independent public agency with broad new 
+powers. One key power was the ability to acquire 
+and dispose of non -performing assets fro m 
+insolvent institutions . During the course of the  
+crisis, t he Fund intervened in 29 banks . It 
+acquired a total of 373 billion pesetas ($2.2 
+billion) in assets, including 270 billion pesetas in 
+loans at face value, 31 billion pesetas in real 
+estate, and 72 billion in shareholdings. It 
+disposed of more tha n 50% of  non-performing 
+assets within five years, but still had a small 
+amount of assets by 2000. 
+Summary Evaluation 
+There is limited evaluation of the Fund despite its central, multi-purpose role in dealing with 
+the Spanish banking crisis (1977-85). Observers have praised its structure and approach to 
+dealing with the crisis, but contextual factors such as a weak legal framework for transferring 
+titles and seizing collateral restricted its efforts at rapid asset disposal . By 1986, the Fund 
+Summary of Key Terms 
+Purpose: “To guarantee deposits in banking 
+institutions in the way and to the extent that the 
+government establishes, and also to carry out any 
+such actions as it considers necessary to reinforce 
+the solvency and proper functioning of the banks, 
+in the [defense] of their interests of their 
+depositors and the Fund itself” 
+Launch Dates Established: March 28, 1980 
+Wind-down Dates Date of Last Asset Disposal:  
+Unknown. Still operating as 
+of 2000 
+Size and Type of 
+NPL Problem  
+Nonperforming loans to total 
+loans of 5.7% in 1985 
+All loan types 
+Program Size Not specified at outset 
+Eligible 
+Institutions 
+Nonviable banks that could 
+not be recapitalized by 
+shareholders 
+Closed banks only 
+Usage 373 billion pesetas  acquired 
+at face value ($2.2 billion) 
+Outcomes 90 billion pesetas in 
+accumulated losses as of 
+1986 
+Ownership 
+Structure 
+Public 
+Notable Features Multiple functions carried 
+out by one public -private 
+entity in the face of a crisis 
+limited to small - and 
+medium-sized banks 
+Spain: Deposit Guarantee Fund Asset Management  
+82
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 5 ---
+had accumulated losses of 90 billion pesetas in total, including its asset  management 
+operations.  
+  
+83
+Spain: Deposit Guarantee Fund Asset Management León Hoyos
+
+--- Page 6 ---
+Deposit Guarantee Fund Asset Management: Spain Context 
+GDP 
+(SAAR, Nominal GDP in LCU converted to USD) 
+$214.6 billion in 1979 
+$232.8 billion in 1980 
+GDP per capita 
+(SAAR, Nominal GDP in LCU converted to USD) 
+$5,770 in 1979 
+$6,209 in 1980 
+Sovereign credit rating (five-year senior debt) 
+ 
+No ratings data as of 1979 and 
+1980 
+Size of banking system 
+ 
+$162.0 billion in 1979 
+$178.8 billion in 1980 
+Size of banking system as a percentage of GDP 
+ 
+75.5% in 1979 
+76.7% in 1980 
+Size of banking system as a percentage of financial 
+system 
+Data not available in 1979 and 
+1980 
+Five-bank concentration of banking system Data not available in 1979 and 
+1980 
+Foreign involvement in banking system Data not available in 1979 and 
+1980 
+Government ownership of banking system % in 1979 
+% in 1980 
+Existence of deposit insurance Yes in 1979  
+Yes in 1980  
+Sources: Bloomberg, World Bank, Sheng 1996. 
+84
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 7 ---
+I. Overview 
+Background 
+During the 1960s and early 1970s, Spain experienced strong economic growth. Annual GDP 
+growth averaged 7% from 1961 to 1974 .3 However, in the mid -1970s, developments 
+emerged that ultimately brought  this period of rapid economic expansion  to a h alt. The 
+global increase in oil prices in 1973 and 1974 contributed to double-digit inflation in Spain. 
+The dea th of Francisco Franco in 1975 accelerated the political transformation from 
+dictatorship to democracy. Additionally, reforms in 1971 and 1974 paved the way for a swift 
+financial liberalization in the Spanish banking system. These reforms facilitated the opening 
+of new branches and deregulated deposit interest rates and multiple lending rates (De Juan 
+2019; Sheng 1996). 
+Between 1973 and 1983, the number of bank offices more than tripled , with significant 
+growth in small and medium-sized institutions. Employment in the banking sector increased 
+from 150,000 in 1975 to more than  180,000 in 1980 . This expansion came alongside 
+regulation and supervision that were considered inadequate. And while the banking sector 
+became more innovative and complex, a number of the new entrants lacked banking 
+experience, and in some cases, ethical standards (Sheng 1996). 
+In 1977, problems in th e Spanish banking system —composed of 110 banks—became 
+apparent. A number of insolvent banks characterized their problems as temporary liquidity 
+problems. The Bank of Spain, as lender of last resort, dealt with liquidity problems using its 
+rediscount facili ty but identified that in many cases, these liquidity problems masked 
+solvency issues. Failed banks had typically breached limits on exposure to related parties or 
+single entities (De Juan 2019; Sheng 1996). 
+The Bank of Spain lacked experience in dealing with banks in crisis, which made it difficult 
+to identify bank losses accurately. The small group of examiners performed supervision 
+primarily on regulatory compliance (De Juan 2019). At the same time, the Bank of Spain had 
+no ability to sanction wrongdoers, and had no means, nor the legal powers to prevent a bank 
+failure (Sheng 1996). 
+In November of 1977, as a first respons e to the escalating problems in the banking sector , 
+the Spanish legislature created the Deposit Guarantee Fund (Fund), administ ered as an 
+account within the Bank of Spain. 4 It provided deposit insurance for up to 500,000 pesetas 
+(approximately $10,000).5 Its ongoing operations were funded equally by the Bank of Spain 
+and banks, which each contributed 0.1% of all bank deposits (Deposit Guarantee Fund 1981). 
+These funds, however, could only be used to return funds to depositors after a bank was 
+closed (Sheng 1996). In January 1978, Spain passed legislation that allowed the Fund, for 
+ 
+3 See Appendix A: Macroeconomic indicators (1970-89) for data on GDP growth, inflation, and the exchange 
+rate. 
+4 See Appendix B for the timeline of legislation during the Spanish Banking crisis (1977-85). 
+5 Based on an average exchange rate of 1997 approximately Spanish pesetas 50 = $1 USD (Sheng 1996).  
+85
+Spain: Deposit Guarantee Fund Asset Management León Hoyos
+
+--- Page 8 ---
+reasons of public interest and with a three -fourths approval  from the Fund’s advisory 
+committee, to use the funds when a distressed bank was in danger of insolvency, rather than 
+wait for the bank’s liquidation (Spain 1978). 
+In March 1978, the Bank of Spain created a public-private management company called the 
+Banking Corporation (Corporació n Bancaria S.A.) to complement the deposit insurance 
+scheme of the Fund. The Corporation would  be a resolution authority: it would take over, 
+clean up, and sell banks in crisis  (Sheng 1996). The Corporation started with a fund of 5 00 
+million pesetas, which came from equal contributions by the Bank of Spain and the banking 
+industry (Malo de Molina and Martín -Aceña 2011 ). If the existing shareholders were 
+unwilling or unable to recapitalize a bank, t he Corporation gained ownership and , 
+eventually, management rights of the bank by buying a controlling interest of shares for one 
+peseta—a symbolic price—per share (Sheng 1996). It would then seek a buyer for the bank. 
+The Bank of Spa in required this intervention as a condition for accessing its newly created 
+liquidity facility (De Juan 2019). The first bank intervention by the Corporation occurred in 
+March 1978 (Seminario 1984). 
+However, the Corporation lacked the legal authority to recapitalize insolvent institutions and 
+struggled to sell “rehabilitated” banks. The Corporation did not close until many years later 
+due to legal battles.  In 1980, the Spanish government reconstituted the Deposit Guarantee 
+Fund as a separate legal entity and granted it legal powers to intervene and “rehabilitate” 
+banks in a crisis. Unlike the Corporation, the government gave the Fund the power to inject 
+capital and to purchase and manage non -performing assets (Sheng 1996; Malo de Molina 
+and Martín-Aceña 2011). 
+Program Description 
+In March of 1980, the passage of  Royal Decree -Law 4/1980 reconstituted the Fund as a 
+public body governed by the rules of private law (Spain 1980). The enhanced Fund combined 
+the deposit guarantee scheme with the management activities previously performed by the 
+Corporation, but now with increased legal powers . Initially, it was independent from the 
+Corporation, but later the Fund acquired the Corporation’s working teams (Malo de Molina 
+and Martín -Aceña 2011). More specifically, beyond deposit insurance, the Fund  was now 
+empowered “… to carry out any such actions as it considers necessary to reinforce the 
+solvency and proper functioning of the banks, in the [defense] of their interests of their  
+depositors and the Fund itself” (Spain 1980). The Fund became known as the “Bank Hospital” 
+(De Juan 2019). 
+The new powers enabled the Fund to recapitalize a distressed bank, make it viable, and sell 
+it to another bank within a year. The Fund could gain bank ownership, extend credit to banks 
+at any rate or in any form, acquire all types of assets (shares, loans, real estate, etc.) at book 
+value, provide guarantees to acquirin g banks , absorb losses to restore  solvency, and 
+recapitalize banks and nonbanks. While the Bank of Spain continued to provide emergency 
+liquidity as lender of last resort, it was through the Fund that insolvency problems were 
+addressed (De Juan 2019). 
+86
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 9 ---
+The Board of Directors of the newly constituted Fund followed the model  adopted by the 
+Corporation, with eight  members—half from the Bank of Spain and half from the banking 
+industry. The Deputy Governor of the Bank of Spain served as the chair and would cast the 
+decisive vote in the event of a tie (De Juan 2019). The Secretary General of the Fund acted as 
+the executive director and managed a staff of 120 employees at its peak (Klingebiel 2000). 
+Contributions to the Fund remained equally distributed between the Bank of Spain and the 
+banking industry. Banks’ contributions ranged from  0.1% to 0.3% of deposits. Legislation 
+also authorized the Bank of Spain to make long-term loans to the Fund at the rediscount rate, 
+and with no limit (De Juan 2019). The Fund’s total debt was 506 billion pesetas at the end of 
+1986 (Deposit Guarantee Fund 1987). The Fund closely coordinated its operations with the 
+Bank of Spain. In providing initial liquidity support to troubled banks, the Bank of Spain 
+would evaluate their viability. Those banks identified as needing additional capital would be 
+asked to have their shareholders provide capital. Banks whose shareholders were unwilling 
+or unable to provide that capital were then forced to transfer control of the banks to the Fund 
+at a nominal price; otherwise, they faced the loss of liquidity support from the Bank of Spain 
+and possible suspension of their banking charter (Sheng 1996).  
+Once the Fund gained  majority ownership via this mechanism , new management would 
+come in and clean up the bank. The Fund would force the banks’ directors to resign. If they 
+refused to resign, the Fund fired them directly after gaining control of the bank. In all cases, 
+the Fund recruited new executives  from the market, appointed  a new Board,  and 
+restructured management (De Juan 2019 ). The new ly appointed management would 
+introduce administrative reforms and enhance operational efficiency. The Fund’s 
+interventions rested on the assumption that banks would remain viable even after the Fund 
+concluded its support (Sheng 1996). The Fund would then implement a financial package to 
+attract a buyer. 
+The main measure that the Fund took to attract buyers was to acquir e a bank’s non-
+performing assets at face value. In doing so, the Fund absorbed substantial losses that 
+typically exceeded the bank’s capital  (De Juan 2019 ). The Fund purchased the non -
+performing assets of the insolvent banks a t face value because Spanish authorities 
+considered it impossible to agree on a market price (De Juan 2019). The Fund would end up 
+purchasing a large portion of non-performing assets, which it could sell even after the Fund 
+released control of the bank (Sheng 1996). 
+After a bank wa s “rehabilitated,” the Fund prepared to sell it  to a “healthy” bank that could 
+meet the qualifications and solvency requirements. By law, the offer had to be publicized and 
+occur within a year after  the Fund gained control of the bank  (De Juan 2019). If a suitable 
+buyer appeared right away, the Fund would try to sell the bank immediately with the 
+intention to avert any further loss of confidence in the bank and depletion of its capital base. 
+In some cases, an external accounting firm would cond uct a comprehensive audit and 
+identify potential buyers (Sheng 1996). 
+The Fund, together with the Bank of Spain, arranged a prospectus for the sale of a troubled 
+bank with a deadline for bids. The prospectus would be sent to selected domestic and foreign 
+87
+Spain: Deposit Guarantee Fund Asset Management León Hoyos
+
+--- Page 10 ---
+banks and included the maximum value of and specific conditions in which bad assets could 
+be carved out by the Fund. This turned out to be a key issue in negotiations between the Fund 
+and potential buyers. The offer also outlined the specifics on the support to be provided by 
+the Fund and the Bank of Spain (e.g. subsidized interest rates, regulatory forbearance, 
+guarantees against “hidden liabilities,” etc.). Potential buyers could make counterproposals, 
+which the Fund’s Board of Directors would review. Buyers were  required to renounce any 
+future claims or legal actions against the Fund that would result from differences between 
+expected and realized asset returns. Lastly, the Board would communicate to the Ministry of 
+Finance the offer chosen. The n, the  Ministry had fifteen days to exercise its option to 
+purchase the shares when the national interest was a concern. This two -stage mechanism 
+provided checks and balances to the restructuring efforts (Sheng 1996). 
+As for the loans that the Fund could not sell to the new investors of a bank, sale of mortgage 
+loans and real estate were most successful (Klingebiel 2000). In every instance, the Fund 
+tried to minimize losses by maximizing recovery of assets  acquired at face value, and by 
+repossessing any guarantees collected as collateral for nonperforming loans (Sheng 1996). 
+Outcomes 
+The Spanish banking crisis of 1977-85 affected 52 of the country’s 110 banks—most of them 
+of small- and medium-size—that comprised over 20% of bank deposits  (De Juan 2019). Of 
+all the banks affected by the crisis, 90% were established between 1973 and 1978. None of 
+the banks established during the financial liberalization of the 1970s survived as an 
+independent bank. By 1985, 85% of total deposits were held by eight banking groups. The 
+seven largest Spanish banks were minimally affected by the crisis and together with the 
+Spanish Bankers’ Association, established in 1977 , assisted in resolving  almost all of  the 
+small failed banks, although under considerable pressure  from the government  (Sheng 
+1996). 
+  
+88
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 11 ---
+Figure 1: Banks Affected by the Crisis, 1978-84 
+ 
+Source: De Juan 2019. 
+Three small banks were liquidated. The Fund intervened in 29 banks with assets amounting 
+to 1% of the financial system. Spain dealt with 20 banks related to the “politically sensitive” 
+Rumasa industrial conglomerate outside of the Fund , through a special nationalization and 
+reprivatization program in 1983 (Klingebiel 2000; Sheng 1996).6 
+By law, the Fund had to release control of a bank within a year of takeover, encouraging quick 
+resolution and resale. By 1985, 22 banks were sold to domest ic banks and five to foreign 
+banks (Sheng 1996 ). Banks rest ructured by the Fund were sold a fter an average of 13 
+months, including the 20 banks of the Rumasa gr oup. Many cases were resolved within six 
+months (Sheng 1996; De Juan 2019). Initially, Spanish domestic banks were not interested 
+in acquiring the “rehabilitated” banks . However, after the Fund sold two banks to foreign 
+institutions, Spanish banks—in light of foreign competition—were incentivized to buy banks 
+from the Fund, even by absorbing short -term losses in some cases (Sheng 1996; Klingebiel 
+2000). None of the banks sold by the Fund suffered a relapse (De Juan 2019). 
+ 
+6 In 1983, the Rumasa group of more than 20 0 industrial companies and 20 banks of small and medium size 
+was nationalized instead of being rehabilitated via the Fund. The case was politically sensitive, in part because 
+the Rumasa group employed over 50,000 people. The financial resources required to  rescue Rumasa would 
+have greatly exceeded the Fund’s capacity: the companies were highly leveraged , and the banks exhibited 
+negative capital of 21 billion pesetas ($146 million). Spanish authorities viewed intervening in Rumasa’s banks 
+via the Fund as likely to trigger the failure of its industrial companies. However, they rejected any Fund 
+assistance for Rumasa’s non-bank companies as inappropriate to the Fund’s mission (Sheng 1996). 
+ 
+Year Number 
+of Banks 
+Treated 
+Deposits and Credits in 
+$ Million* 
+Number of 
+Accounts 
+(Thousands) 
+Number 
+of 
+Branches 
+Staff 
+Deposits Credits Total 
+1978 4 245 145 390 185 120 1,977 
+1979 2 214 51 265 201 61 1,026 
+1980 9 1,361 325 1,686 775 371 6,553 
+1981 4 564 294 858 362 151 2,143 
+1982 11 3,415 872 4,287 1,829 726 10,761 
+1983 21 4,859 1,686 6,545 1,946 1,193 13,204 
+1984 1 270 16 286 110 33 625 
+Total 52 10,928 3,389 14,317 5,408 2,655 36,289 
+Exchange rate of 1984 was Spanish Pesetas 175 = $1 USD. 
+89
+Spain: Deposit Guarantee Fund Asset Management León Hoyos
+
+--- Page 12 ---
+Figure 2: Bank Interventions by Deposit Guarantee Fund, 1978-85 
+ 
+ 
+ 
+Interventions from 1978 until March 1980 were performed by the Corporation (Corporación 
+Bancaria S.A.). 
+ 
+Source: Sheng 1996. 
+In all instances, bank shareholders took the first losses by losing their equity. Depositors only 
+experienced losses when the three small banks were liquidated. Losses absorbed by the 
+Fund after taking control of banks were split equally among the Bank of Spain a nd the 
+banking industry. Contributions from the banks totaled 0.12% of liabilities per year (10% of 
+annual profits). By the end of 1 984, these contributions reached only $0.5 billion , 
+significantly less than the total losses incurred by the Fund. Therefore, the Bank of Spain had 
+to lend an additional $2.9 billion to the Fund through long -term loans at a 7.25% annual 
+interest rate (Sheng 1996).  
+The Fund would restructure the banks with the objective to sell them. To clean up the banks, 
+the Fund acquired 373 billion pesetas in total assets: 270 billion in loans, 31 billion in real 
+estate, and 73 billion in shareholdings. The Fund continued with the asset purchases through 
+1985, and in line with the rapid -asset-disposition objective, disposed of more than 50% of 
+them within five years. By 1986, it registered losses of 25.7 billion pesetas for cleaning up 
+the banks and a cumulative 90 billion pesetas of overall losses. By 2000, the Fund only held 
+a small fraction of the assets it had acquired (Klingebiel 2000).  
+90
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 13 ---
+The Fund’s estimates suggested it would be able to repay the Bank of Spain’s loans 
+completely by the end of the 1990s, based on its reserves (Sheng 1996). However, it is not 
+clear from public sources whether the Bank of Spain or Spanish taxpayers ultimately bore 
+losses on these loans to the Fund. The Fund’s debt was 506 billion pesetas at the end of 1986 
+and 349 billion pesetas at the end of 1989 (El Pais 1990; Deposit Guarantee Fund 1987). 
+II. Key Design Decisions 
+1. Part of a Package: The Deposit Guarantee Fund was a multi-purpose facility that 
+combined purchases of non-performing assets with other types of interventions 
+such as deposit insurance, capital injections, and guarantees. 
+Two early attempts by the Spanish government to address the banking crisis that emerged 
+in 1977 —the initial establishment  of the Deposit Guarantee Fund merely as a  deposit 
+insurance provider and the establishment of the Banking Corporation in 1978 to take control 
+of troubled banks —addressed liquidity problems but could not solve underlying solvency 
+issues. Spain therefore decid ed to significantly expand the legal authority of the Fund to 
+include the ability to purchase assets, inject capital, and provide  guarantees to acquiring 
+banks, so that these tools could be used in tandem to rehabilitate failed banks. 
+After the Bank of Spa in identified a significant capital shortage in a bank, the Fund would 
+take over ownership of the distressed banks . The Fund would assess the bank’s financial 
+situation, replace management, and determine a financial assistance package to return the 
+bank to viability and reprivatize the bank. One significant component of the Fund’s ability to 
+resell the banks was the purchase of assets, which would make the bank more attractive in 
+a bidding procedure among solvent banks (De Juan 2019).  
+2. Legal Authority: Spain passed the Royal-Decree Law 4/1980 on March 28, 1980, 
+to significantly expand the legal authority of the Fund, giving it the ability to 
+purchase assets among other new powers. 
+In March 1980, the passage of Royal Decree-Law 4/1980 established the Deposit Guarantee 
+Fund for Banking Institutions as a public body governed by the rules of private law  and 
+significantly expanded its authority (Spain 1980). The enhanced Fund combined the deposit 
+guarantee scheme with the management  function performed up until this point by the 
+Banking Corporation, but now with increased legal powers. The Fund became known as the 
+“Bank Hospital” (De Juan 2019). 
+3. Special Powers: The Fund had the authority to recapitalize distressed banks, take 
+over bank ownership, provide credit or guarantees, and acquire any type of asset.  
+Special authority was granted to the Fund when it was reconstituted in 1980, after it became 
+clear that the Banking Corporation’s powers, specifically its inability to recapitalize banks, 
+were “inadequate … for dealing with impending crises” (Sheng 1991). The Fund was granted 
+authority to recapitalize distressed banks, take over bank ownership, extend credit to banks 
+at any rate or in any form, acquire assets at book value, provide guarantees to an acquiring 
+91
+Spain: Deposit Guarantee Fund Asset Management León Hoyos
+
+--- Page 14 ---
+institution, and absorb losses to restore banks to solvency (De Juan 2019 ). The Fund 
+remained responsible for the administration of the deposit insurance scheme (Sheng 1991).  
+4. Mandate: The Fund had a broad mandate to protect depositors, restructure 
+banks, and restore bank solvency; for its asset management functions, it had the 
+objective to quickly dispose of assets and maximize recovery.  
+In 1980, the Fund’s mandate expanded beyond its initial objective to protect depositors and 
+prevent bank runs. The Fund was mandated “to carry out all the operations deemed 
+necessary to reinforce the solvency and operation of the banks, in [defense] of the interest 
+of the depositors and of the Fund itself” (Sheng 1996; Spain 1980).  
+After the Fund became the primary owner of a distressed bank, it developed a financial 
+assistance package, which could include the purchase of assets and long -term lending. The 
+financial assistance package was an important factor for the eventual sale of a bank , as the 
+Fund could carve out bad assets that a buyer would be unwilling to take on (Klingebiel 2000). 
+After reaching a sales agreement, the Fund would purchase the nonperf orming assets at 
+book value and then manage and liquidate the assets (De Juan 2019). The Fund was required 
+to resell the bank within one year, and it had the objective to maximize recovery value on the 
+problem assets it acquired (Klingebiel 2000).  
+5. Communication: Spain described the expansion of the Fund’s authority as part of 
+its efforts to protect depositors, particularly small depositors. 
+The stated purpose of the Fund as it was reconstituted in 1980 was “to guarantee the 
+deposits held in banking i nstitutions in the way and to the extent that the g overnment 
+establishes, and also to carry out any such actions as it considers necessary to reinforce the 
+solvency and proper functioning of the banks, in the [defense] of their interests of their 
+depositors and of the Fund itself” (Spain 1980). 
+The Deposit Guarantee Fund issued annual reports detailing its operations  (Deposit 
+Guarantee Fund 1981; 1987). The Fund also had an Administration and Control department 
+responsible for financial recordkeeping and preparing the annual budget and financial plan 
+(Sheng 1996). Furthermore, the governance structure of the Fund and its relationship to the 
+Bank of Spain “fostered a public perception of fairness” (Sheng 1996).  
+6. Ownership Structure: The Deposit Guarantee Fund was government-owned.  
+The Fund was publicly owned and “operated as an independent public agency under 
+private law” (Klingebiel 2000).  
+7. Governance/Administration: The Fund was governed by a Board of Directors 
+composed half of representatives of the Bank of Spain and half of representatives 
+of the banking industry. 
+The Board of Direct ors consisted of eight members —four bankers from industry and four 
+Directors from the Bank of Spain. The Deputy Governor of the Bank of Spain served as chair 
+92
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 15 ---
+and cast the decisive vote in  the case of a tie. The four bankers ser ved in their individual 
+capacities and not as representatives of their banks. They were nominated by the Bank of 
+Spain and appointed by the Ministry of Economy (De Juan 2019). 
+The operations of the Fund were closely coordinated with the Bank of Spain, especially in 
+the initial and final stages of a bank intervention. 
+The responsibilities of the Board of Directors of the Fund included: 
+a) Informing and advising the Bank of Spain on the Fund’s operations; 
+b) Preparing and approving  the Fund’s financial statements, and request ing advances 
+from the Bank of Spain to the Fund when necessary; 
+c) Notifying the Bank of Spain which banks experienced financial difficulties that could 
+require Fund intervention; 
+d) Determining the form of payment of annual premiums contributed by the banks; 
+e) Stipulating the requirements for admitting new banks to the Fund, and infor ming of 
+any changes in membership; 
+f) Requesting external audits of member banks and determining  the frequency and 
+extent of the se audits, and if necessary requesting external audits of associated 
+companies; 
+g) Suspending payment of deposit guarantees to any depositor directly associated with 
+the financial troubles of a bank; 
+h) Authorizing asset purchases from banks in crisis , explicit ly limiting further 
+involvement of the Fund, and without precluding requests to the bank ma nagement 
+to take further remedial actions (Sheng 1996). 
+The Fund was comprised of three departments: Legal, Administration and Control, and Asset 
+Management. The Legal Department could start legal or criminal action against former 
+administrators of banks the Fund intervened on or temporarily controlled. It also served as 
+legal counsel for the other departments (Sheng 1996).  
+The Department of Administration and Control oversaw internal matters of the Fund and of 
+the banks controlled by the Fund. It was responsible for the recovery of claims, maintaining 
+timely records, and servicing obligations of fixed assets (e.g. property taxes). The 
+Department coordinated the sale of assets and bank reprivatizations  with the other 
+Departments. It  prepared the Fund’s annual budget and financial plan, and requested 
+advances from the Bank of Spain to the Fund when necessary (Sheng 1996).  
+The Asset Management Department administered the sale of assets owned by the Fund that 
+were not directly related to banking . It assessed their financial viability, minimized any 
+93
+Spain: Deposit Guarantee Fund Asset Management León Hoyos
+
+--- Page 16 ---
+additional financial commitments, and attempted to sell the best assets as fast as possible. 
+The Department appraised, or subcontracted appraisal of, the fixed assets of the Fund. It also 
+focused on improving the least attractive assets while it searched for buyers (Sheng 1996). 
+8. Size: There was no pre-defined limit on the scope of the Fund’s purchases of non-
+performing assets. 
+The legislation that established the Fund did not set a size limit  on the Fund ’s asset 
+purchases. In total, it acquired 270 billion pesetas in loans at face value, 31 billion pesetas in 
+real estate, and 72 billion in equity in banks (Klingebiel 2000).  
+9. Funding Source: The Fund was funded primarily by loans from the Bank of Spain; 
+the Fund would repay those loans over time with the help of annual, equal equity 
+contributions from the Bank of Spain and the banking industry. 
+The Fund met its annual costs with the help of equal contributions from the Bank of Spain 
+and the banking industry. Also, by law, the Bank of Spain could make long-term loans to the 
+Fund at the rediscount rate, with no limit (De Juan 2019 ). Ultimately, the Bank of Spain 
+provided substantial loans to the Fund, which the Fund expected to pay back over time 
+through asset sales and the continuing contributions from the banks and the Bank of Spain.  
+The industry’s and the Bank of Spain’s annual contributions each equaled between 0.1% and 
+0.3% of all bank deposits  of member banks  (De Juan 2019 ). Initially, annual contributions 
+were set at 0.1% (Spain 1980). Contributions from the banks totaled 0.12% of liabilities per 
+year (10% of annual profits).  By the end of 1 984, these contributions reached only $0.5 
+billion, significantly less than the total losses absorbed. Therefore, the Bank of Spain had to 
+lend $2.9 billion to the Fund through long-term loans at a 7.25% annual interest rate (Sheng 
+1996). 
+The Fund’s estimates suggested it would be able to repay the Bank of Spain’s loans 
+completely by the en d of the 1990s, based on its reserves (Sheng 1996). However, it is not 
+clear from public sources whether the Bank of Spain or Spanish taxpayers ultimately bore 
+losses on these loans to the Fund. The Fund’s debt was 506 billion pesetas at the end of 1986 
+and 349 billion pesetas at the end of 1989 (Deposit Guarantee Fund 1987; El Pais 1990). 
+10. Eligible Institutions: The Fund intervened in banks identified as non-viable 
+whose shareholders did not recapitalize them. 
+Typically, the Bank of Spain would provide initial liquidity support to struggling banks and 
+in doing so determine the viability of the recipients. In some cases, the Bank of Spain 
+determined that a bank would be viable if remedial actions were taken, and agreed to a plan 
+of action. In other cases, the central bank identified and assessed the extent of insolvency 
+and demanded recapitalization by existing shareholders with the threat that the Fund would 
+take control unless such recapitalization occurred . The Bank of Spain allowed Fund 
+appraisers to be involved in the assessments so the Fund could be better prepared to tackle 
+specific problems, even before acquiring full control of the bank (Sheng 1996). 
+94
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 17 ---
+Insolvent banks were pressured to recapitalize or give c ontrol to the Fund. Banks whose 
+shareholders were unwilling to recapitalize them could stop receiving liquidity support from 
+the Bank of Spain and even lose their license to operate. The General Corporate Law was 
+amended to reduce the quorum of shareholders necessary to approve recapitalizations. This 
+allowed the Fund to expedite the process of interventions in insolvent banks (Sheng 1996). 
+The Fund gained control of a bank at a shareholders meeting, which had to be convened 
+within seven days of the Bank of  Spain requesting  it. The Bank of Spain would inform 
+shareholders of the scope of the problems the institution faced, such as the extent of losses 
+and the effect of write -offs on bank capital and reserves. If the bank had no capital and its 
+shareholders were unwilling to recapitalize it, they had to “volunteer” to sell capital to the 
+Fund for a symbolic pr ice of one peseta per share. This price could be more if the bank ’s 
+capital was not fully depleted or if shareholders were “innocent” and deserved protect ions 
+(Malo de Molina and Martín -Aceña 2011 ; Sheng 1996 ). A process called the “accordion 
+operation” consisted of first, an erosion or dilution of shares held by former shareholders, 
+followed by recapitalization provided by the Fund, with the fund taking majority ownership 
+(De Juan 2019 ). It served two purposes: to amortize potential bank losses and to penalize 
+shareholders by s ignificantly diluting or wr iting off their participation (De Juan 2019 ). In 
+some instances, the Fund gained control only after applying the accordion  operation to the 
+holding company (Sheng 1996). 
+The government directly nationalized the politically sensitive Rumasa group, rather than use 
+the Fund. The group included 20 of the 52 banks affected by the crisis (Klingebiel 2000). 
+11. Eligible Assets: The Fund could purchase all types of assets, including shares, 
+loans, and real estate. 
+The Fund purchased problem  assets that were considered  undesirable to potential 
+acquirers, as its goal was to ultimately reprivatize the intervened bank (Sheng 1996). It could 
+acquire any type of asset, including  loans, shares, real estate, or other asset types  (De Juan 
+2019). The Fund did not acquire performing loans, as those were part of the acquisition and 
+reprivatization (Klingebiel 2000).  
+12.  Acquisition – Mechanics: The Fund determined the specific assets to purchase 
+from insolvent banks based on negotiations with the institutions acquiring these 
+banks. 
+The Fund, together with the Bank of Spain , arranged a prospectus for the sale of a troubled 
+bank with a set deadline for bids. The prospectus would be sent to selected domestic and 
+foreign banks and included the maximum value  of and specific conditions under which bad 
+assets could be carved out by  the Fund. This tur ned out to be the key issue in  recurrent 
+negotiations between the Fund and potential buyers. 
+The offer also outlined the specifics on the support provided by the Fund and the Bank of 
+Spain (e.g. subsidized interest rates, regulatory forb earance, guarantees against “hidden 
+liabilities,” etc.). Potential buyers could make counterproposals, which the Fund Board of 
+Directors would review. Buyers were required to renounce any future claims or legal actions 
+95
+Spain: Deposit Guarantee Fund Asset Management León Hoyos
+
+--- Page 18 ---
+against the Fund that would result fr om differences between expected and realized asset 
+returns. Lastly, the Board would communicate to the Ministry of Finance the offer chosen. 
+Then, the Ministry had fifteen days to exercise its option to purchase the shares when the 
+national interest was a concern. This two-stage mechanism provided checks and balances to 
+the restructuring efforts (Sheng 1996). 
+13.  Acquisition – Pricing: The Fund purchased assets at face value. 
+The Fund purchased the non -performing assets of the insolvent banks at book value—that 
+is, at the nominal value of loans less provisions —because Spanish authorities deemed it 
+impossible to determine a market price. In doing so, the Fund absorbed any related losses. 
+As those losses were typically greater than a bank’s equity, this policy wa s the main 
+restructuring measure that the Fund adopted. According to the former head of the Fund, “the 
+share capital increases carried out were intended for recapitalization and were insufficient 
+for this purpose” (De Juan 2019 ). Overall, real estate and other asset purchases accounted 
+for about 80% of Fund transactions and bank equity purchases accounted for 20%. The 24 
+restructured banks had initial capital of 56 billion pesetas; they wrote off 40 billion pesetas 
+on bad loans a nd received 71 billion in capital from the government (see Appendix C). In 
+comparison, the Fund spent more than 300 billion pesetas to acquire non-performing assets 
+and real estate in order to facilitate transactions with acquiring banks.  
+14.  Disposal: The Fund’s objective was to dispose of the assets purchased as fast as 
+possible, while maximizing their recovery value. 
+In terms of asset management, the main goal of the Fund  was to dispose of the assets 
+purchased as fast as possible while maximizing their rec overy value (Klingebiel 2000). By 
+law, the Fund had to release control of the banks  in which it intervened within a year, but 
+the assets acquired could be sold beyond that timeframe (Sheng 1996).   
+The Fund sold assets including (a) stock holdings of the Fund in firms or holding companies 
+or liquidations; (b ) real estate ; (c) securities; and (d) loans. As for the loans that the Fund 
+could not sell to the new investors of a bank, sale of mortgage loans and real estate were the 
+most successful (Klingebiel 2000).  
+At the time of this writing, there was public data available on the amount the Fund recovered 
+on the disposal of assets.  By the end of 1986 the Fund had accumulated losses of 90 billion 
+pesetas (Deposit Guarantee Fund 1987). 
+15.  Timeframe: The Fund did not have a pre-established sunset date. 
+The Fund did not have a defined sunset date . It was legally required to offer the intervened 
+banks for sale within a year, but the asset  management activities did not have a defined 
+timeframe. The Fund continued to manage assets as of 2000 (Klingebiel 2000).  
+96
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 19 ---
+III. Evaluation 
+There is limited evaluation of the Fund despite its central, multi-purpose role in dealing with 
+the Spanish banking crisis (1977-85). The institutional reforms adopted in Spain to deal with 
+the banking crisis evolved rapidly as financial conditions deteriorated. Although the 
+authorities initially underestimated the extent and depth of the banking crisis and provided 
+only limited deposit guarantees, they soon developed a n approach to reso lving individual 
+bank failures that Andrew Sheng, a former World Bank official,  has characterized as “ fair, 
+flexible, and pragmatic ” (Sheng 1996). Sheng points to the Fund’s private -public structure 
+and close relationship with the Bank of Spain as having “ mitigated the likelihood of 
+bureaucratization and politicization and fostered a public perception of fairness.” Moreover, 
+Sheng argues that the separation of  the problems of the Rumasa group from the scope of 
+Fund intervention  indicates they were realistic  in assessing the appropriate limits of the 
+Fund's capabilities  (Sheng 1996 ). The Fund focused on smaller banks, which were 
+“politically easier” to resolve than the banks in the Rumasa group, according to Daniela 
+Klingebiel, another World Bank official (Klingebiel 2000). 
+Klingebiel has argued that the Fund was established with appropriate funds and appropriate 
+powers. She concludes that  it was relatively successful compared to asset management 
+companies established in other countries because it had a target ed mission to dispose of 
+assets as fast as possible while maximizing the recovery value of the assets. She also notes 
+that the extent of non -performing loans in the Spanish banking system —under 10%—was 
+relatively limited compared to other banking crises (Klingebiel 2000).  
+However, there were several challenges associated with the Fund’s operations. The Spanish 
+framework for foreclosures and seizures of collateral was inadequate and hampered the  
+rapid sale of assets. Additionally, the Fund encountered problems with transfer of titles, and 
+there was lackluster demand for real estate assets.  Despite succeeding in selling 26 banks, 
+the Fund was much less successful in achieving its aim of “rapid disposal of bad assets” that 
+had been carved out from banks’ balance sheets. This difficulty occurred in the context of  a 
+generally benign macro-environment and increasing real estate prices (Klingebiel 2000). 
+In the opinion of Aristóbulo de Juan, former CEO of the Fund and the Corporation, the Fund 
+played a leading and effective role in resolving the majo rity of bank problems in Spain.  He 
+has pointed to several features that he believes were critical to its operations, including the 
+contribution of private-sector entities to the cost of the rescues and the transfer of assets at 
+face value to avoid the technical and litigation -related challenges that an appraisal -based 
+approach would involve (De Juan 2019).  
+97
+Spain: Deposit Guarantee Fund Asset Management León Hoyos
+
+--- Page 20 ---
+IV. References 
+De Juan, Aristóbulo. 2019. From Good to Bad Bankers. Lessons Learned from a 50-Year Career 
+in Banking. Madrid, Spain: Palgrave Macmillan. 
+https://ypfs.som.yale.edu/library/good-bad-bankers-lessons-learned-50-year-career-
+banking-0. 
+Cuervo García, Alvaro. 1988. “La  crisis bancaria en España: 1977-1985: causas, sistemas de 
+tratamiento y coste.” Barcelona: Ariel.  
+https://ypfs.som.yale.edu/library/la-crisis-bancaria-en-espana-1977-1985-causas-
+sistemas-de-tratamiento-y-coste. 
+Deposit Guarantee Fund. 198 1. “Fondo de Garantía de Depósitos en Establecimientos 
+Bancarios - Memoria Correspondiente al Ejercicio 198 0.” (1980 Annual Report). Madrid. 
+https://ypfs.som.yale.edu/library/deposit-guarantee-fund-1980-annual-report. 
+Deposit Guarantee Fund. 198 7. “Fondo de Garantía de  Depósitos en Establecimientos 
+Bancarios - Memoria Correspondiente al Ejercicio 198 6.” (1986 Annual Report ). Madrid. 
+https://ypfs.som.yale.edu/library/deposit-guarantee-fund-1986-annual-report. 
+El País. 1980. “Aprobado un Nuevo Mecanismo de Salvación en Bancos en Crisis.” 
+https://ypfs.som.yale.edu/library/aprobado-un-nuevo-mecanismo-de-salvacion-en-
+bancos-en-crisis. 
+El País. 1990. “El Fondo de Garantía de Depósitos mantiene activos por 36.000 millones de  
+pesetas.” 
+https://ypfs.som.yale.edu/library/el-fondo-de-garantia-de-depositos-mantiene-activos-
+por-36000-millones-de-pesetas. 
+Klingebiel, Daniela. 2000. “The Use of Asset Management Companies in the Resolution of 
+Banking Crises. Cross -Country Experience.” Washington, DC: World Bank. 
+https://ypfs.som.yale.edu/library/use-asset-management-companies-resolution-banking-
+crises-cross-country-experiences. 
+Malo de Molina, José Luis, and Pablo Martín -Aceña. 2011. The Spanish Financial System: 
+Growth and Development Since 1900.  Palgrave Macmillan. 
+https://ypfs.som.yale.edu/library/spanish-financial-system-growth-and-development-
+1900. 
+Seminario, Unive rsidad Internacional Menéndez Pelayo. 1984. Crisis bancarias, soluciones 
+comparadas: Seminario desarrollado en la Universidad Internacional Menéndez Pelayo. 
+Santander, julio 1983 . Asociación Española de Banca Privada (AEB).  
+https://ypfs.som.yale.edu/library/crisis-bancarias-soluciones-comparadas-seminario-
+desarrollado-en-la-universidad. 
+Sheng, Andrew. 1996. Bank Restructuring: Lessons from the 1980s . Washington, DC: World 
+Bank. 
+98
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 21 ---
+https://ypfs.som.yale.edu/library/bank-restructuring-lessons-1980s. 
+Spain. 1978. “Royal Decree 54/1978. Real Decreto 54/1978, de 16 de enero, por el que se 
+modifica el Real Decreto 3048/1977, de 11 de noviembre, por el que se crea el «Fondo de 
+Garantía de Depósitos en Establecimientos Bancarios».” Official Journal of the State. 
+https://ypfs.som.yale.edu/library/real-decreto-541978-de-16-de-enero-por-el-que-se-
+modifica-el-real-decreto-30481977-de-11-de. 
+———. 1980. “Royal -Decree Law 4/1980 of March 28th, Granting the Deposit Guarantee 
+Fund for Banking Institutions Legal Personality, and Other Auxiliary Measures.” Fondo de 
+Garantía de Depósitos de Entídades de Crédito. 
+https://ypfs.som.yale.edu/library/real-decreto-ley-41980-de-28-de-marzo-por-el-que-se-
+dota-de-personalidad-juridica-al-fondo. 
+V. Key Program Documents 
+Legal/Regulatory Guidance 
+Royal Decree 54/1978. Real Decreto 54/1978, de 16 de enero, por el que se modifica el 
+Real Decreto 3048/1977, de 11 de noviembre, por el que se crea el «Fondo de Garantía de 
+Depósitos en Establecimientos Bancarios» (Spain 1978). 
+The legislation amending the decree that established the Fund in 1977. 
+https://ypfs.som.yale.edu/library/real-decreto-ley-41980-de-28-de-marzo-por-el-que-se-
+dota-de-personalidad-juridica-al-fondo. 
+Royal-Decree Law 4/1980 of March 28th, Granting the Deposit Guarantee Fund for Banking 
+Institutions Legal Personality, and other Auxiliary Measures (Spain 1980). 
+The legislation providing the Fund with the legal authority to intervene in distressed banks 
+and recapitalize them. 
+https://ypfs.som.yale.edu/library/real-decreto-ley-41980-de-28-de-marzo-por-el-que-se-
+dota-de-personalidad-juridica-al-fondo. 
+Media Stories 
+Aprobado un Nuevo Mecanismo de Salvación en Bancos en Crisis (El País 1980). 
+A newspaper article announcing the expansion of the Fund’s activities. 
+https://ypfs.som.yale.edu/library/aprobado-un-nuevo-mecanismo-de-salvacion-en-
+bancos-en-crisis. 
+Key Academic Papers 
+From Good to Bad Bankers. Lessons Learned from a 50 -Year Career in Banking  (De Juan 
+2019). 
+A book by a leading Spanish official with a chapter about the bank crisis of the late 1970s and 
+1980s.  
+https://ypfs.som.yale.edu/library/good-bad-bankers-lessons-learned-50-year-career-
+banking-0. 
+99
+Spain: Deposit Guarantee Fund Asset Management León Hoyos
+
+--- Page 22 ---
+La crisis bancaria en España: 1977-1985: causas, sistemas de tratamiento y coste. 
+A book about the bank crisis in Spain and the resolution methods (Cuervo 1988). 
+https://ypfs.som.yale.edu/library/la-crisis-bancaria-en-espana-1977-1985-causas-
+sistemas-de-tratamiento-y-coste. 
+Use of Asset Management Companies in the Resolution of Banking Crises. Cross-Country 
+Experience (Klingebiel 2000). 
+A paper analyzing the effectiveness of the design and operations of different AMCs. 
+https://ypfs.som.yale.edu/library/use-asset-management-companies-resolution-banking-
+crises-cross-country-experiences. 
+The Spanish Financial System: Growth and Development since 1900 (Malo de Molina and 
+Martín-Aceña 2011). 
+A book about the Spanish financial system and its evolution from the 20th century. 
+https://ypfs.som.yale.edu/library/spanish-financial-system-growth-and-development-
+1900. 
+Bank Restructuring: Lessons from the 1980s (Sheng 1996). 
+A World Bank report on bank resolution with a chapter about the Spanish financial crisis of 
+the late 1970s and 1980s.  
+https://ypfs.som.yale.edu/library/bank-restructuring-lessons-1980s. 
+Reports/Assessments 
+Crisis bancarias, soluciones comparadas: Seminario desarrollado en la Universidad 
+Internacional Menéndez Pelayo (Seminario 1984). 
+A book, in Spanish, about the Spanish banking crisis and the government’s response. 
+https://ypfs.som.yale.edu/library/crisis-bancarias-soluciones-comparadas-seminario-
+desarrollado-en-la-universidad. 
+  
+100
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 23 ---
+VI. Appendixes 
+Appendix A: Spain Macroeconomic Indicators: 1970-89 
+ 
+ 
+Source: Sheng 1996, 88.   
+101
+Spain: Deposit Guarantee Fund Asset Management León Hoyos
+
+--- Page 24 ---
+Appendix B: Legislation Timeline 
+ 
+ 
+Legislation Timeline 
+Date Law Purpose 
+Aug/09/1974  Bank reforms of 1974 led to liberalization of the banking industry. 
+The new measures facilitated opening new banks. Deposit interest 
+rates and many lending rates were deregulated. 
+Nov/11/1977 Royal Decree 
+3048/1977 
+The Deposit Guarantee Fund is created. It was merely a deposit 
+insurance for up to 500,000 pesetas ($6,500 at the time). 
+Jan/16/1978 Royal Decree 
+54/1978 
+The Fund was able to anticipate funds for banks facing problems, 
+for reasons of public interest and with a vote of 3/4 of the Board. 
+Therefore, the Fund did not have to wait for insolvency. 
+Mar/01/1978  The Banking Corporation (Corporación Bancaria S.A.) is created. 
+It was a private management company owned equally with the 
+private banks, introduced to handle banks in crisis. 
+The fund was 500 million pesetas ($6.5 million). Equal 
+contributions came from the banking industry and the Bank of 
+Spain. 
+Mar/06/1978 Decree-Law 
+5/1978 
+The Bank of Spain is authorized to temporarily suspend the 
+executive/administration of a bank. 
+It was applied to: Asturias, Promoción de Negocios, and Occidental 
+y Comercial Occidental, which were sold to other bank institutions 
+soon after being intervened. 
+Mar/28/1980 Royal Decree-
+Law 
+4/1980 
+The Deposit Guarantee Fund for Banking Institutions is 
+institutionalized as a public body governed by the rules of private 
+law. The Fund combined the management functions carried out by 
+the Corporation with the deposit guarantee function.  
+The insured deposits increase from 500,000 pesetas to 750,000 
+pesetas. 
+Jun/13/1981 Royal Decree 
+1.620/1981 
+Insured deposits increase from 750,000 to 1,500,000 pesetas. 
+The ceiling for the Bank of Spain to make contributions to the Fund 
+is removed. 
+Sep/24/1982 Royal Decree-
+Law 18/1982 
+The Deposit Guarantee Fund for Credit Cooperatives is created. 
+Both the Fund for Credit Cooperatives and Savings Banks are given 
+legal powers similar to the Deposit Guarantee Fund for Banking 
+Institutions. 
+It is established that if the Bank of Spain anticipates contributions 
+to the Fund for more than four times the amount given by the 
+banks, then the Bank of Spain could increase the banks’ percentage 
+of annual contributions from 0.1% to up to 0.2%. 
+Feb/23/1983 Royal Decree-
+Law 2/1983 
+Nationalization (expropriation) of the Rumasa group—20 banks 
+102
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 25 ---
+Appendix C: Deposit Guarantee Fund Control and Subscription of New Values 
+ Source: Sheng 1996, 97. 
+ 
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to 
+receive permission to reprint any or all of this document, please contact the Yale Program 
+for Financial Stability at ypfs@yale.edu.  
+103
+Spain: Deposit Guarantee Fund Asset Management León Hoyos

@@ -1,0 +1,514 @@
+## Ghana Non-Performing Asset Recovery Trust (NPART)[1] 
+
+## _Riki Matsumoto_[2] 
+
+Yale Program on Financial Stability Case Study March 10, 2020; Revised Date: June 23, 2021 
+
+## **Abstract** 
+
+The Ghanaian financial sector was in severe distress in 1985 after a decade of high and variable rates of inflation, low economic growth, and financial policies ill-suited to the country’s goals. Ghana, with World Bank support, implemented a Financial Sector Adjustment Program (FINSAP) between 1988-1997. To comply with the FINSAP, the Government established the Non-Performing Assets Recovery Trust (NPART) as a temporary public asset management company under Provisional National Defence Council Law 242 on February 28, 1990, with an initial 6-year statutory life, for the purpose of: 1) facilitating the restructuring and recapitalization of major state-owned banks; 2) expediting the restructuring of public- and private-enterprises; and 3) maximizing recovery value of non-performing assets (NPAs) to reduce the Government’s fiscal burden. NPART was given a Cedi 18 billion ($500 million) Aggregate Recovery Target out of a total of Cedi 50 billion in acquired NPAs. By NPART’s cessation on June 30, 1997, recovery was approximately Cedi 19.6 billion, or about 10% above the target. Evaluations indicated that the aggregate condition of restructured state-owned banks had improved, representing a satisfactory performance overall. However, NPART was also criticized for lacking institutional independence, transparency, and an overall legal framework. Moreover, the use of NPART to facilitate corporate restructuring became politically difficult and most of the assets were ultimately liquidated. 
+
+**Keywords** : Ghana, World Bank, Asset Management Company, Non-Performing Assets, Corporate Restructuring, Developing Economies 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based asset management programs. 
+
+> Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-offinancial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## Ghana Non-Performing Asset Recovery Trust (NPART) 
+
+## **At a Glance** 
+
+Between 1970-82, Ghana experienced political instability accompanied by economic stagnation and inflation. The Ghanaian financial sector was also in severe distress, characterized by an insolvent banking system and high levels of nonperforming assets (NPAs). As a result, Ghana implemented several IMF and World Bank programs with a macroeconomic stability focus. 
+
+## **Summary of Key Terms** 
+
+||**Purpose:**To hold non-performing assets transferred|**Purpose:**To hold non-performing assets transferred|
+|---|---|---|
+||to NPART on behalf|of the State; to take any|
+||necessary action to recover all amounts outstanding;<br>to administer and manage the Non-Performing<br>AssetsRecoveryFund.<br>**Launch Dates**<br>Announcement: February<br>28,1990||
+||**Wind-down Dates**|Ceased Operations: June|
+|||30,1997|
+||**Size and Type of**|Cedi 62.7 billion (approx.|
+||**NPL Problem**|10% of GDP or 40% of|
+|||banking assets) of NPLs<br>caused by credit-allocation<br>policies and currency<br>devaluations|
+||**Program Size**|Nolegal limit|
+||**Eligible Institutions**|Formally all banks eligible|
+|||Open-and closed-bank|
+||**Usage**<br>**Outcome**|NPAs worth Cedi 50 billion<br>transferred<br>Recovered Cedi 19.6 billion<br>NPAs|
+|||NPL ratio in restructured|
+|||banks fell from 72.5% to|
+||**Ownership**<br>**Structure**|28.5% between 1989 and<br>1993<br>Public|
+||**Notable Features**|PNDCL 242 gave NPART|
+|||broad legal authority;|
+|||established a specialized|
+|||loan-recoverytribunal|
+
+
+
+Ghana implemented a World Bank Financial **NPL Problem** 10% of GDP or 40% of Sector Adjustment Program (FINSAP) in banking assets) of NPLs caused by credit-allocation 1988 financed by Financial Sector policies and currency Adjustment Credits (FINSAC) I and II. To devaluations comply with the FINSAP, Ghana enacted **Program Size** No legal limit PNDCL 242 on February 28, 1990. PNDCL **Eligible Institutions** Formally all banks eligible 242 established the Non-Performing Assets Open- and closed-bank Recovery Trust (NPART), a public asset **Usage** NPAs worth Cedi 50 billion transferred management company with an initial 6-year **Outcome** Recovered Cedi 19.6 billion statutory life. Initially, NPART recapitalized NPAs and restructured distressed state-owned NPL ratio in restructured banks. Non-performing assets were banks fell from 72.5% to transferred from banks’ portfolios at book 28.5% between 1989 and 1993 value, excluding interest. NPAs were **Ownership** Public replaced with Bank of Ghana-issued FINSAP **Structure** bonds, which yielded 7-9% per annum with **Notable Features** PNDCL 242 gave NPART maturities of between two and five years. broad legal authority; Later, NPART was also involved in established a specialized corporate restructuring by facilitating loan-recovery tribunal financial work-out arrangements for selected potentially viable enterprises. This included debt moratoriums, rescheduling, and conversion into subordinated debt. During NPART’s operation, approximately 13,000 accounts were transferred; these were comprised of corporate loans to public- and private-sector enterprises across disparate industries, mostly collateralized by plant, equipment, and machinery. NPART was given a Cedi 18 billion Aggregate Recovery Target out of a total of Cedi 50 billion in acquired NPAs (the exchange rate for US $1 varied from Cedi 181 in February 1988 to Cedi 2000 in July 1997). By NPART’s 
+
+
+cessation, recovery was approximately Cedi 19.6 billion, or about 10% above the target, representing a satisfactory performance. 
+
+## **Summary Evaluation** 
+
+Standardized performance indicators (i.e., NPL ratio, return on equity) indicated that by 1995, the overall condition of restructured state-owned banks had improved. However, NPART was also criticized for lacking institutional independence, transparency, and an overall legal framework. Moreover, the use of NPART to facilitate corporate restructuring became politically difficult and most assets were ultimately liquidated instead. 
+
+
+|**Non-Performing Asset Recovery Trust: Ghana Context**|**Non-Performing Asset Recovery Trust: Ghana Context**|
+|---|---|
+|**GDP**<br>**(SAAR, Nominal GDP in LCU converted to**<br>**USD)**|$5.3 billion in 1989<br>$5.9 billion in 1990|
+|**GDP per capita**<br>**(SAAR, Nominal GDP in LCU converted to**<br>**USD)**|$366 in 1989<br>$399 in 1990|
+|**Sovereign credit rating (five-year senior**<br>**debt)**|Data not available in 1989<br>Data not available in 1990|
+|**Size of banking system**|$160 million in 1989<br>$240 million in 1990|
+|**Size of banking system as a percentage of**<br>**GDP**|3% of 1989 GDP<br>4% of 1990 GDP|
+|**Size of banking system as a percentage of**<br>**financial system**|Data not available in 1989<br>Data not available in 1990|
+|**Five-bank concentration of banking system**|Data not available in 1989<br>Data not available in 1990|
+|**Foreign involvement in banking system**|Data not available in 1989<br>Data not available in 1990|
+|**Government ownership of banking system**|Data not available in 1989<br>Datanot availablein 1990|
+|**Existence of deposit insurance**|None in 1989<br>None in 1990|
+|_Sources: Bloomberg; World Bank Global Financial Development Database; World Bank_<br>_Deposit Insurance Dataset._||
+
+
+
+
+## **I. Overview** 
+
+## **Background** 
+
+Between 1970-82, the Ghanaian economy experienced political instability and a severe macroeconomic crisis characterized by low economic growth, negligible domestic savings and investment, and high and variable inflation (World Bank 1988). Figure 1 depicts the high inflation and recurrent recessions characteristic of the period. 
+
+[FIGURE id=vol3_iss2_7_f1 type=figure label="Figure 1" file=figure_1.png caption="Ghana’s Economic Crisis"]
+### **Figure 1: Ghana’s Economic Crisis**
+![Figure 1](assets/vol3_iss2_7/figure_1.png)
+
+
+_Source: International Monetary Fund and International Financial Statistics 1968-1999a; 19681999b_ . 
+
+In 1983 the Ghanaian government, then a military junta called the Provisional National Defence Council (PNDC) under the rule of Flight Lieutenant Jerry Rawlings, adopted the Economic Recovery Program (ERP) intended to improve the country’s general economic management, with a specific emphasis on macroeconomic stability (World Bank 1997b). The ERP was supported by a series of structural adjustment programs with the World Bank and the International Monetary Fund aimed at reducing macroeconomic imbalances and liberalizing the external sector (World Bank 1997b). However, it quickly became clear to stakeholders that the sustainability of Ghana’s long-term economic recovery would also require the restructuring of the highly distressed and mostly government-owned financial sector (Antwi-Asare and Addison 2000). 
+
+
+## _Ghana’s Financial Sector_ 
+
+The Government and the Bank of Ghana (BOG), with support from the World Bank, carried out a major financial sector review in 1987 (World Bank 1997b). The review described a technically insolvent banking system dominated by state-owned banks that were burdened with non-performing assets and excessive intermediation costs; a low level of financial intermediation reflecting a poor record of domestic resource mobilization; a lack of public confidence in the banking sector; the virtual absence of a money or capital market; and the weakness of the BOG’s banking system supervision and regulatory framework (World Bank 1997b). The Government also strictly regulated loan and deposit rates, leading to inefficient credit allocation (World Bank 1997b). For example, in the 1980s, the Government maintained sectoral interest rate ceilings in an effort to promote certain sectors such as agriculture (World Bank 1997a). The artificially low interest rates combined with doubledigit inflation meant that rates were often negative in real terms, limiting bank profitability and slowly degrading any existing capital base. 
+
+As shown in Figure 2, Ghana’s banking sector consisted of six commercial banks, three sectoral development banks, a merchant bank, a small cooperative bank, and approximately a hundred rural banks that were owned and managed by their local communities (World Bank 1988). 
+
+[FIGURE id=vol3_iss2_7_f2 type=figure label="Figure 2" file=figure_2.png caption="Ghana’s banking sector"]
+### **Figure 2: Ghana’s banking sector**
+![Figure 2](assets/vol3_iss2_7/figure_2.png)
+
+
+The primary commercial banks GCB, SCB, and Barclays dominated the banking sector and accounted for approximately 57% of the banking systems’ Cedi 156 billion in assets, roughly equivalent to $862 million or 25% of GDP (World Bank 1988).[3] The Government-owned GCB accounted for about half of systemwide assets and deposits. Barclays, SCB, and BCCG were local subsidiaries of large international banks. All but one commercial bank, BCCG, were either partly or wholly owned by the government (World Bank 1988). 
+
+> 3 Exchange rate for US $1: Cedi 181 (February 1988), Cedi 383 Auction Rate (November 1991), Cedi 920.75 (May 1994), Cedi 2000 (July 1997). Ghana suffered from high inflation rates throughout the duration of the program. 
+
+
+Figure 3 shows the technical insolvency of Ghana’s banking sector according to aggregate balance sheet statements published by the World Bank, including the three foreign bank subsidiaries (World Bank 1995). 
+
+[FIGURE id=vol3_iss2_7_f3 type=figure label="Figure 3" file=figure_3.png caption="Insolvency in Ghana’s banking sector"]
+### **Figure 3: Insolvency in Ghana’s banking sector**
+![Figure 3](assets/vol3_iss2_7/figure_3.png)
+
+
+_Source: World Bank 1995._ 
+
+The financial-sector review also revealed the source of the banking sectors’ non-performing assets as highly distressed Ghanaian public- and private-sector enterprises. The Government, in agreement with the World Bank, realized that any successful bank restructuring process on a long-term, sustainable basis would require the implementation of a corporate restructuring program as well (World Bank 1991). 
+
+_The World Bank Financial Sector Adjustment Program_ 
+
+The diagnoses from the financial sector review formed the basis for the adoption of a comprehensive World Bank technical assistance program, known as a Financial Sector Adjustment Program (FINSAP). The FINSAP aimed to provide technical assistance for Ghana to: restructure the six distressed state-owned banks; strengthen the BOG’s regulatory and supervisory framework; develop capital and financial markets; and generally improve the strength of the financial sector (World Bank 1997b). The World Bank (1997b) arranged $106.6 million in funding for the first phase of the FINSAP (1988-91) and $100 million for the second phase (1991-97). Both credit amounts were made to the Government at World Bank terms with 40-year maturities. The two credit programs, known as Financial Sector Adjustment Credits I and II, were co-financed by the African Development Bank, the Swiss Government, and the Overseas Economic Cooperation Fund of Japan (World Bank 1997b). 
+
+
+The objectives of the bank restructuring component of the programs were outlined under a comprehensive Policy Matrix.[4] 
+
+The bank restructuring component of FINSAC I began with “comprehensive external diagnostic audits” of Coop Bank, the commercial banks—save for the smaller BCCG—and the development banks (World Bank 1988). This would provide a basis for determining the prospect of restructuring and any necessary financial measures by the Government. The Government went ahead with restructuring seven state-owned banks, which were all distressed. The General Framework provided the broad guidelines for the bank restructuring program and was approved by the Government in July 1989 (World Bank 1991). The General Framework included a “one-time” financial package of measures tailored to specific requirements for each distressed bank to “restore solvency, and to provide sufficient capital and adequate liquidity” (World Bank 1991). The understanding was that the restructuring, recapitalization, and removal of non-performing assets would eventually prepare the major banks for public sector divestiture (World Bank 1991). 
+
+Detailed portfolio audits of the distressed banks had revealed that the aggregate amount of non-performing assets was approximately Cedi 62.7 billion in 1989 (World Bank 1995). The Government, the World Bank’s International Development Agency (IDA), and external consultants in early 1989 concluded that the best option for restructuring, while minimizing the fiscal burden to the Government, would be the establishment of a Government-owned public asset management company (AMC; World Bank 1995). 
+
+Under FINSAC I, the Government also commissioned a study to evaluate the magnitude and extent of Ghanaian corporate distress, and to “recommend a program to facilitate the restructuring of potentially viable enterprises” (PVEs; World Bank 1991). The report concluded that a significant number of examined enterprises were potentially viable if restructured. Following the report, identified PVEs were recommended to undergo restructuring under the corporate restructuring program (CRP; World Bank 1991). 
+
+## **Program Description** 
+
+## _NPART Legal Authority_ 
+
+Recognizing the need to support the FINSAP, Ghana’s Government enacted the NonPerforming Assets (Loans, Investments) Recovery Trust Law, 1990, Provisional National Defence Council Law 242 (PNDCL 242) on February 28, 1990, pursuant to the PNDC Proclamation 1981 (PNDCL 242 1990). The PNDCL 242 established a temporary stand-alone government agency, the Non-Performing Assets Recovery Trust (NPART) which became “operational later that year” (World Bank 1995). Under the law, NPART had the legal power to “acquire, hold, and dispose of any movable or immovable property or enter into any contract or transaction” (PNDCL 242 1990). The NPART’s mandate was to: 1) hold any transferred non-performing assets on behalf of the Government; 2) take such action as 
+
+> 4 See Appendix A: FINSAC I and II Policy Implementation Matrix for Bank Restructuring. 
+
+
+necessary to recover all outstanding value; and 3) administer and manage the NonPerforming Assets Recovery Fund (PNDCL 242 1990). 
+
+The 1990 law required that NPART should carry out its mandate within a 5-year time frame, plus a built-in 1-year extension (World Bank 1995). To facilitate NPART’s loan recovery, a special judiciary tribunal called the “Non-Performing Assets Recovery Tribunal” was also established under Part II of PNDCL 242 (1990). The Tribunal became operational by October 1992, allowing NPART to initiate liquidation proceedings (World Bank 1997a). 
+
+## _NPART Operating Policies_ 
+
+NPART’s financial and operational guidelines, as well as its organizational structure were outlined under a document titled “NPART Operating Policies” (World Bank 1995). Under the guidelines, non-performing loans (NPLs) were transferred at book value excluding interest, with NPART authorized to recover value from debtors and administer the proceeds (Klingebiel 2000). All NPLs to state-owned enterprises (SOEs) and other Government guaranteed obligations were removed from banks’ portfolios and offset against Government claims (i.e., deposits), with any remaining balances converted into BOG-issued FINSAP bonds (Antwi-Asare and Addison 2000). The NPLs to the private sector were to be replaced through the issuance of FINSAP bonds, after a process of verification (World Bank 1997a). The BOGissued FINSAP bonds yielded 7-9% per annum (Antwi-Asare and Addison 2000).[5] 
+
+Furthermore, the FINSAP bonds issued to the banks provided “for some of these bonds to be discounted at the Bank of Ghana, if liquidity became a problem” (World Bank, June 1997). Thus, this additional usage of indirect monetary instruments “addressed both the solvency and short-term liquidity needs of affected banks, while also avoiding the risks of high-cost borrowing” (World Bank 1997a). 
+
+NPART was governed and supervised by a Board of Trustees (the Board) which consisted of members appointed by the PNDC. The Board was responsible for all aspects of management and supervision of NPART, including hiring of employees, consultants, and advisors (PNDCL 242 1990). As a World Bank-IDA program, NPART also received substantial technical assistance, mainly through a team of external consultants, “two of whom had previous relevant experience with the Resolution Trust Corporation of the United States” (World Bank 1995). 
+
+Public disclosure requirements under the NPART Operating Polices were relatively limited. Annual audited financial reports were submitted to the Board of Trustees, the Ministry of Finance, the BOG, and the FINSAP Implementation Secretariat (Klingebiel 2000). Additionally, annual reports on NPART’s management were submitted to the Provisional Defense Council for review (PNDCL 242 1990). 
+
+> 5 The bonds were referred to as both FINSAP and FINSAC bonds in various World Bank documents. 
+
+
+## _NPART Recovery of Non-Performing Assets_ 
+
+Pursuant to Part I, Section 7 of PNDCL 242, NPART could sell non-performing assets “at the best price realizable” and “take such actions as may be necessary for the recovery of nonperforming assets” (PNDCL 242 1990). NPART was also empowered to “negotiate and reschedule payments of transferred non-performing assets” and finally, “take any other action which is incidental” to NPART’s objectives (PNDCL 242 1990). Under NPART’s action program, recovery efforts focused on the 250 largest accounts (in excess of Cedi 20 million each) representing 89 percent or Cedi 44.3 billion of the aggregate Cedi 49.5 billion in nonperforming assets (World Bank 1991). 
+
+Moreover, NPART also assisted FINSAP’s corporate restructuring program. NPART was required to designate distressed enterprises into non-viable or potentially viable categories (World Bank 1991). The objective of the CRP was to eventually encourage the private sector to promote the rehabilitation of the PVEs, through new venture-capital companies (World Bank 1991). Figure 4 depicts the overall structure of FINSAP, and how NPART was utilized as a tool under the bank restructuring component. 
+
+[FIGURE id=vol3_iss2_7_f4 type=diagram label="Figure 4" file=figure_4.png caption="FINSAP structure"]
+### **Figure 4: FINSAP structure**
+![Figure 4](assets/vol3_iss2_7/figure_4.png)
+
+
+_Source: World Bank 1991._ 
+
+## **Outcomes** 
+
+The NPART was authorized and established on February 28, 1990, as a temporary government entity (World Bank 1995). The initial authorization required that NPART should carry out its mandate within a 6-year time frame, however a “slackening in the pace of recovery” in 1995, as well as the “need to wind up residual operations” meant NPART’s mandate was “extended by 18 months” (World Bank 1997b). Throughout the duration of 
+
+
+NPART’s operations, about 13,000 accounts were transferred for management (Klingebiel 2000). The assets transferred to NPART consisted of corporate loans to public- and privatesector enterprises across disparate industries and sectors, most of which were collateralized by plant, equipment, and machinery (Klingebiel 2000). A total of Cedi 50 billion in face value was transferred (World Bank 1997b). 
+
+Figure 5 shows the total value of non-performing assets transferred to NPART from the banks participating in FINSAP. The largest contributors of non-performing assets were the two commercial banks, GCB (Cedi 14.3 billion) and SSB (Cedi 12.6 billion), and a sectoral development bank, BHC (Cedi 12.9 billion). The GCB was especially notable as the dominant state-owned bank that controlled about half of the Ghanaian banking sectors’ assets and deposits (World Bank 1997b). 
+
+[FIGURE id=vol3_iss2_7_f5 type=figure label="Figure 5" file=figure_5.png caption="Non-Performing Assets Transferred to NPART by Ghanaian Banks"]
+### **Figure 5: Non-Performing Assets Transferred to NPART by Ghanaian Banks**
+![Figure 5](assets/vol3_iss2_7/figure_5.png)
+
+
+_Source: Brownbridge & Gockel 1996._ 
+
+As a result of the financial measures implemented under the General Framework, 6 of the 7 state-owned restructured banks were able to meet capital adequacy requirements by the end of 1990 (World Bank 1991). The same 6 restructured state-owned banks were able to substantially reduce their percentage of NPLs in relation to total outstanding portfolio as shown in Figure 6. 
+
+
+[FIGURE id=vol3_iss2_7_f6 type=diagram label="Figure 6" file=figure_6.png caption="Non-Performing Loan Ratio of Restructured Banks"]
+### **Figure 6: Non-Performing Loan Ratio of Restructured Banks**
+![Figure 6](assets/vol3_iss2_7/figure_6.png)
+
+
+## _Source: World Bank 1995_ 
+
+Of the 250 largest accounts that NPART’s action program focused on, 203 accounts constituting Cedi 38.45 billion of NPART’s total assets had been resolved by April 1993 (Klingebiel 2000). Those accounts were resolved as follows (Klingebiel 2000):[6 ] 
+
+- Foreclosures for 94 firms with Cedi 14.5 billion; 
+
+- Restructuring for 89 firms with Cedi 12.9 billion; 
+
+- Payment at full/discounted value for 10 firms with Cedi 0.4 billion; 
+
+- Write-offs for 3 firms with Cedi 1.5 billion; 
+
+- Other for 7 firms with Cedi 9.2 billion. 
+
+By the time NPART had ceased operations on June 30, 1997, it had recovered approximately Cedi 19.6 billion in value for the Government which was about 10% above the initial Aggregate Recovery Target of 36%.[7] 
+
+Overall, the outcome represented a “satisfactory performance” under the World Bank’s program implementation report Policy Matrix (World Bank 1997b).[8] A comparative survey 
+
+> 6 Klingebiel 2000 cited these figures in a World Bank paper. As NPART was terminated in June 30, 1997, the final values may have been different. 
+
+> 7 See Appendix B: NPART recoveries. 
+
+> 8 See Appendix A: FINSAC I and II Policy Implementation Matrix for Bank Restructuring. 
+
+
+of standardized performance indicators suggested that, by 1995, the collective operational performance of the restructured state-owned banks was similar to the performance of foreign-owned banks (World Bank 1997b). 
+
+The standardized performance indicators included: ratio of operating costs to average total assets; ratio of arrears (principal and interest) as a percentage of total outstanding portfolio; percentage of non-performing portfolio (i.e., loans affected by arrears) in relation to total outstanding portfolio; ratio of actual loan collections as a percentage of scheduled collections; return on shareholders’ equity; and return on average total assets (World Bank 1991). 
+
+Finally, while NPART was initially intended to facilitate corporate restructuring, the process became “mired in political problems and assets were basically sold-off” (Klingebiel 2000). 
+
+## **II. Key Design Decisions** 
+
+## **1. Part of a Package: NPART was implemented as part of the Financial Sector Adjustment Program (FINSAP) alongside other World Bank and IMF programs.** 
+
+The World Bank-IDA FINSAP was a comprehensive and complex reform of Ghana’s financial sector during a period of intense financial distress and macroeconomic imbalances. FINSAP’s package of financial reforms was implemented alongside other World Bank and IMF structural adjustment programs, which aimed to reduce macroeconomic imbalances and liberalize the external sector (World Bank 1997b). 
+
+FINSAP was structured in two phases. Under FINSAC I, the bank restructuring component was focused on facilitating the transfer of non-performing assets from distressed banks to NPART. Under FINSAC II, the bank restructuring component was focused on facilitating the disposal of non-performing assets transferred to NPART. The program phases were sequenced: the initial recapitalization and resolution of distressed banks under FINSAC I was a prerequisite for further reforms, such as public divestiture, under FINSAC II. 
+
+In the World Bank’s initial FINSAC I proposal, they considered different options to resolve financial deficits and to restore solvency to distressed banks. Examples of considered options include capital injections, debt rescheduling, and “transfer to the Government of nonperforming loans to state enterprises and/or guaranteed by Government” (World Bank 1995). Cedi 22.6 billion in loans to public enterprises was removed from bank portfolios under FINSAC I and replaced by claims on the government (World Bank 1997). 
+
+The decision to use a public asset management company for the recovery of non-performing assets, as opposed to alternative strategies, was a direct result of technical discussions between the Government, the World Bank IDA, and external independent consultants. 
+
+
+## **2. Legal Authority: Ghana’s government enacted the Non-Performing Assets Recovery Trust Law, 1990 (PNDCL 242), establishing NPART and giving it broad legal powers.** 
+
+The use of NPART as a public asset management company was authorized by Ghana’s Provisional National Defence Council after the Non-Performing Assets (Loans, Investments) Recovery Trust Law, 1990—Provisional National Defence Council Law 242 (PNDCL 242)— was adopted on February 28, 1990, pursuant to the PNDC Proclamation 1981 (PNDCL 242 1990). The PNDC authorized NPART after recognizing the need to rescue the distressed banks experiencing adverse effects on the credit and investment quality of their portfolios (PNDCL 242 1990). Part I of PNDCL 242 stated the establishment, objectives, and functions of NPART, while Part II established the Non-Performing Assets Recovery Tribunal. 
+
+The PNDC gave broad legal powers to NPART such as the authority to exercise powers and actions as it “deems advantageous or necessary for or in connection with the achievement of its mandate” (PNDCL 242 1990). Pursuant to Part III, Section 27 of PNDCL 242, the PNDC Secretary responsible for Finance and Economic Planning could “by legislative instrument make such regulations as may be necessary for the effective and full implementation” of PNDCL 242 (1990). Finally, NPART was exempt from “the payment of all taxes, rates, and duties” (PNDCL 242 1990). 
+
+## **3. Special Powers: Part II of PNDCL 242 established the Non-Performing Assets Recovery Tribunal alongside NPART.** 
+
+Part II of PNDCL 242 established a special judiciary tribunal called the Non-Performing Assets Recovery Tribunal (the Tribunal) to facilitate NPART’s loan recovery (PNDCL 242 1990). The Tribunal was set up due to Ghana’s weak legal framework for bank resolution, debt recovery, and creditors’ rights, which hampered NPART’s ability to recover value for the Government (Klingebiel 2000). Pursuant to Part II, Section 16 of PNDCL 242, the Tribunal was comprised of a chairman and two other persons. The chairman of the Tribunal was required to be a “judge of the Superior Courts not below the rank of a Justice of the Court of Appeal” or a “person qualified to be appointed to such office” (PNDCL 242 1990). The two remaining positions were to be filled by other persons appointed by the PNDC “in consultation with the Chief Justice” (PNDCL 242 1990). 
+
+Part II, Section 17 of PNDCL 242 outlined the Tribunal as having exclusive jurisdiction to hear and determine all matters arising under PNDCL 242 or relating to any non-performing asset transferred to NPART (PNDCL 242 1990). The Tribunal had all the powers of the High Court of Justice in the exercise of its jurisdiction. 
+
+Part II, Section 18 of PNDCL 242 also outlined that any judgement or order from the Tribunal, with respect to its legal jurisdiction, was considered final. Any Court entertaining actions or proceedings with the intent to question the Tribunal’s judgements, findings, or rulings was considered unlawful (PNDCL 242 1990). Procedurally, the Tribunal was considered “duly constituted” if the Chairman and “one other member” were present (PNDCL 242 1990). Under Part II, Section 19 of PNDCL 242, decisions of the Tribunal were determined by a 
+
+
+majority of the members (PNDCL 242 1990). If convicted, obstructing the Tribunal’s activities resulted in either a “fine not exceeding Cedi 500,000,” “imprisonment for a term not exceeding 12 months,” or to both (PNDCL 242 1990). The Tribunal became operational by October 1992, allowing NPART to initiate liquidation proceedings (World Bank 1997a). 
+
+## **4. Mandate: NPART was set up as an asset disposal agency but later took on the task of restructuring corporate borrowers.** 
+
+Beyond acting as an asset disposal agency, NPART also assisted FINSAP’s Corporate Restructuring Program. NPART was required to evaluate distressed enterprises and place them into non-viable or potentially viable categories (World Bank 1991). Non-viable enterprises were liquidated or sold by NPART, while potentially viable enterprises (PVEs) were candidates for the CRP. Participation in the CRP was limited to enterprises that were “temporarily experiencing financial distress but with clear medium-term prospects for profitable operation” demonstrated by a specific restructuring proposal (World Bank 1988). NPART’s role in the CRP included facilitating financial work-out arrangements for selected PVEs, with the voluntary participation of Ghanaian banks as follows (World Bank 1991): 
+
+- a) NPART conducted debt moratoriums, rescheduling, and conversion into subordinated debt. 
+
+- b) Participating Ghanaian banks extended additional credit and/or injected equity with the expectation that enterprise owners would make their own financial contributions within their capability. 
+
+The objective of the CRP was to eventually encourage the private sector to promote the rehabilitation of the PVEs through new venture-capital companies, although this proposal was later rejected (World Bank 1997a). 
+
+## **5. Communication: Public disclosure of NPART’s activities was limited, and NPART was not required to do so under PNDCL 242.** 
+
+The PNDCL 242 was notified to the Ghana Gazette on September 21, 1990 (PNDCL 242 1990). Public disclosure requirements under the NPART Operating Polices were relatively limited. Annual audited financial reports were submitted to the Board of Trustees, the Ministry of Finance, the BOG, and the FINSAP Implementation Secretariat (Klingebiel 2000). Additionally, annual reports on NPART’s management were submitted to the Provisional Defense Council for review (PNDCL 242 1990). 
+
+## **6. Ownership Structure: NPART was owned by the Republic of Ghana.** 
+
+NPART’s founding legislation did not describe the capital structure of NPART, but the World Bank (1997) described it as “wholly-owned” by the Ghanaian government. NPART’s first objective was “to hold for and on behalf of the State any non-performing asset of a bank which is transferred to the Trust” (PNDCL 242 1990). 
+
+
+## **7. Governance/Administration: NPART was governed by the Board of Trustees pursuant to Part I of PNDCL 242.** 
+
+The governing body of NPART, the Board of Trustees, consisted of the following members appointed by the PNDC (PNDCL 242 1990). 
+
+- a Chairman; 
+
+- representatives from the Ministry of Finance and Economic Planning and the BOG; 
+
+- the Chief Administrator of the Trust; 
+
+- a chartered accountant from the private sector; 
+
+- a lawyer with expertise in corporate law, and; 
+
+- three experts. 
+
+The Board was responsible for the formulation of policies and the supervision of management of NPART and had the authorization to exercise all legal powers conferred to NPART (PNDCL 242 1990). Under Part I, Section 10 of PNDCL 242, decisions of the Board were determined by a simple majority of members present and voting. During instances of a split vote, the Chairman or the member presiding was entitled to cast the deciding vote. 
+
+Moreover, Part I, Section 10 of PNDCL 242 stipulated that any member of the Board that had a conflict of interest, directly or otherwise, in any issues or decisions, was required to disclose in writing the nature of the conflict. The member was barred from any discussion regarding the issue and was also prohibited from voting. Members who failed to disclose a conflict of interest would be removed from the board and on conviction, be liable to a fine less than Cedi 500,000 or imprisonment for less than two years (PNDCL 242 1990). 
+
+Part I, Section 13 of PNDCL 242 stated that NPART may “engage” employees, consultants, and advisors as necessary for the function of its mandate, on any terms and conditions that the Board may determine (PNDCL 242 1990). As mentioned previously, the IDA provided extensive technical assistance to support the functions of NPART, including hiring external consultants with previous experience at the US Resolution Trust Corporation (World Bank 1995). Such external advisory support assisted in duties such as “loan classification, asset evaluation and, asset recovery management for NPART” (World Bank 1991). 
+
+**8. Governance/Administration: The FINSAP Implementation Secretariat conducted external oversight of FINSAP implementation and use of FINSAC, including NPART.** 
+
+The World Bank installed an Implementation Secretariat to facilitate the effective and successful implementation of the World Bank-IDA’s FINSAP objectives. The Secretariat was responsible for “providing guidance, oversight, coordination, and monitoring for all activities pertaining” to the FINSAP objectives (World Bank 1991). 
+
+
+The Secretariat was headed by an Executive Director “backed up by a foreign advisor and initially comprised of three sections, each headed by a Section Chief” (World Bank 1991). The sections were: 1) Bank Restructuring and NPART; 2) Corporate Restructuring; and 3) Non-Bank Financial Institutions and Administration and Legal Affairs (World Bank 1991). 
+
+## **9. Size: NPART did not have a legally specified limitation on its total size.** 
+
+While PNDCL 242 did not set a legal limit to the total size of NPART, the Government obviously had fiscal constraints. World Bank implementation reports stated that the book value of NPART’s total portfolio of non-performing assets was about Cedi 50 billion (World Bank 1997b). There was also no legal individual firm participation limit. 
+
+## **10.Funding Source: Government debt funded asset purchases, while FINSAC I and II provided funding for technical assistance to NPART.** 
+
+About Cedi 47.5 billion in FINSAP bonds were issued by the BOG, set to mature between 2 to 5 years and yielding 7-9% per annum (in many instances, the bonds were rolled over for bonds with interest rates of about 15 percent; World Bank 1994). There is little discussion about these bonds in the years since NPART was established. Moreover, later World Bank reports do not mention the Ghanaian government needing assistance for this debt. 
+
+The credit disbursed by the World Bank-IDA provided the funding for technical assistance, staffing, and other operational costs. For example, FINSAC II technical expertise cost estimates were approximately USD 1,080,000 for foreign loan recovery experts and Cedi 32,500,000 for housing (World Bank 1991). Cost estimates were based on the actual cost of hiring two full-time and one part-time external expert for NPART over three years (World Bank 1991). 
+
+The tranching of credit disbursed by the World Bank-IDA ensured satisfactory progress in the implementation of the overall FINSAP and in particular, of the bank restructuring (World Bank 1997a). As it relates to NPART, credit disbursements were conditional on the “implementation by NPART of the action program for the recovery of non-performing assets and for liquidation” including meeting the ART timetable (World Bank 1991). 
+
+## **11.Eligible Institutions: NPART had the ability to direct any bank in Ghana to participate in the program.** 
+
+Pursuant to PNDCL 242 (1990), “any bank in Ghana shall at the direction in writing of the [NPART] transfer to the [NPART] such of its non-performing assets.” As such, NPART had broad legal authority to direct banks to transfer non-performing assets. In practice, all of Ghana’s major banks transferred loans to NPART. Though NPLs clustered in seven banks, even the foreign- and privately owned Barclays Bank of Ghana offloaded NPLs to NPART (Antwi-Asare and Addison 2000). 
+
+
+## **12. Eligible Assets: A broad set of assets was eligible for participation in NPART’s activities.** 
+
+Documents surveyed did not detail the character of NPLs. The World Bank (1991) hinted at the composition of NPART’s portfolio when it blamed government-directed credit allocation and the exchange rate adjustment in 1983 for the country’s NPLs. Some of these policies directed banks to loan to unsustainable public enterprises. In any case, the law left the BOG to determine how non-performing assets would be classified after the government compensated banks for public-enterprise debt (PNDCL 242 1990). Following international regulatory practices, the Bank of Ghana classified non-performing assets in three categories: substandard, doubtful, and loss (World Bank 1995). Non-performing assets were considered eligible for transfer if they were “in existence at the commencement of [PNDCL 242]” or, in existence “as determined by the audited account of the bank on [December 31, 1989], provided that such loans and advances or equity investments were actually on the books of the bank on [June 30, 1987], even if not identified or determined at that time to be nonperforming” (PNDCL 242 1990). At the recommendation of the Board, the December 31, 1989, cutoff date for eligibility could be extended by a further period of one year, by “legislative instrument” (PNDCL 242 1990). Klingebiel (2000) said that the eligibility requirements were “nontransparent and vague.” 
+
+## **13. Acquisition - Mechanics: The Bank of Ghana issued FINSAP bonds to offset transferred non-performing assets as needed, while the Government offset NPLs made to public enterprises with loans, deposits, and equity.** 
+
+Under PNDCL 242, NPART could choose which loans to take. Once NPART received NPLs, it split them depending on their private or public status. The banks’ NPLs to state-owned enterprises (SOE) and other Government-guaranteed obligations were removed from banks’ portfolios, transferred to NPART, and offset against government loans, equity, or deposits, with any remaining balances converted into FINSAP bonds (World Bank 1997; Antwi-Asare and Addison 2000). The banks’ NPLs to the private sector were replaced through the issuance of FINSAP bonds by the Bank of Ghana (World Bank 1997a). 
+
+The FINSAP bonds issued to the banks provided “for some of these bonds to be discounted at the Bank of Ghana, if liquidity became a problem” (World Bank 1997a). This additional usage of indirect monetary instruments “addressed both the solvency and short-term liquidity needs of affected banks, while also avoiding the risks of high-cost borrowing” (World Bank 1997a). The World Bank (1994) claimed that, had this “swap not occurred and banks were required to make loan-loss provisions according to the [reformed] guidelines, state-owned banks would have continued to show losses and negative net worth.” 
+
+## **14.Acquisition - Pricing: PNDCL 242 gave NPART broad authority in acquiring and pricing of non-performing assets, which it utilized to acquire assets at book value, excluding interest.** 
+
+Pursuant to PNDCL 242 (1990), the transfer price for the non-performing asset “may be determined by [NPART]” at “such rate; in such form; and subject to such other terms and 
+
+
+conditions as [NPART] may determine.” In practice, Klingebiel (2000) says, NPART acquired all non-performing assets at book value excluding accrued interest. 
+
+## **15.Management and Disposal: PNDCL 242 gave NPART broad authority in disposing non-performing assets, which it used to mainly focus on disposing the largest 250 accounts.** 
+
+Pursuant to PNDCL 242 (1990), NPART could sell non-performing assets “at the best price realizable” and “take such actions as may be necessary for the recovery of non-performing assets.” NPART was also empowered to “negotiate and reschedule payments of transferred non-performing assets” and finally, “take any other action which is incidental” to NPART’s objectives (PNDCL 242 1990). 
+
+In practice, the Government and IDA staff agreed to an action program with a target recovery of non-performing assets and monitorable timetable. The action program set an Aggregate Recovery Target of Cedi 18 billion, compared to a total portfolio of about Cedi 50 billion (World Bank 1995). This was considered realistic based on an account-by-account review of its portfolio by NPART. 
+
+The World Bank summarized the action program as follows (World Bank 1991): 
+
+- a) NPART’s recovery efforts focused on the 250 largest accounts (in excess of Cedi 20 million each) representing 89 percent or Cedi 44.3 billion of the aggregate Cedi 49.5 billion in non-performing assets; 
+
+- b) NPART screened each account for classification into 4 categories (foreclosure, sale, workout/restructuring, and write-off); 
+
+- c) Following this classification of each account, NPART assigned a realistic recovery estimate (percentage and amount) to each individual account; and 
+
+- d) NPART produced the Aggregate Recovery Target (initially estimated at approximately Cedi 18 billion) reviewed by the Government and IDA. 
+
+NPART then proceeded to attempt recovery in accordance with Annual Recovery Targets set at 12% in 1991, 22% in 1992, 26% in 1993, 23% in 1994, and the remaining 17% in 1995 (World Bank 1995). The recovery targets themselves were subject to subsequent periodic review and adjustments (World Bank 1991). 
+
+NPART’s Operating Policies stipulated that loan recovery “should allow for reasonable workout arrangements with the debtor” and where work-out arrangements were not feasible, NPART was to “dispose of productive assets on a going concern basis” (Klingebiel 2000). Finally, if sale on a going-concern basis failed or appeared unlikely, the asset would be liquidated (Klingebiel 2000). 
+
+NPART’s process of asset sale was through negotiated sales by advertising the “assets subject to foreclosures in the local papers upon which interested buyers approached NPART” 
+
+
+(Klingebiel 2000). Purchasers of those assets were “mainly domestic investors and some foreign investors” (Klingebiel 2000). 
+
+## **16.Timeframe: NPART had a sunset clause of 5-years plus a built-in 1-year extension, but this was extended by an additional 18 months.** 
+
+Pursuant to Part III, Section 29 of PNDCL 242, NPART was authorized on February 28, 1990, as a temporary government entity with a “corporate body” (PNDCL 242 1990). The initial authorization required that NPART should carry out its mandate within a 5-year time frame with a built-in 1-year extension upon the recommendation of the PNDC Secretary and the order of the PNDC (PNDCL 242 1990). However a “slackening in the pace of recovery” in 1995, as well as the “need to wind up residual operations” meant NPART’s mandate was “extended by 18 months” (World Bank 1997b). 
+
+## **III. Evaluation** 
+
+NPART successfully aided the recovery of Ghana’s banking system at the expense of its own debt-recovery performance. As mentioned previously, NPART recovered approximately Cedi 19.6 billion in value, or about 10% above the initial aggregate recovery target. This represented a “satisfactory performance” under the World Bank’s program implementation report (World Bank 1997b). The World Bank stated that “the method used for the recovery of non-performing assets by the establishment of the NPART, a specialized unit with a timebound life, has been quite successful” in the Lessons Learned section of their FINSAC I evaluation report (World Bank 1995). 
+
+The World Bank Financial Sector Review also stated that the removal of NPLs was “most significant for Ghana’s financial turnaround” (World Bank 1994). While the yield on the FINSAP bonds were much lower than rates paid on other BOG securities, “the impact of these bonds on assets and profitability [was] considerable” given that they replaced NPLs which required substantial loan-loss provisions, with risk-free assets (World Bank 1994). The review noted that if the NPLs had not been replaced with FINSAP bonds, and banks were required to implement loan-loss provisions under the new FINSAP guidelines, state-owned banks would have continued to be insolvent (World Bank 1994). 
+
+However, later academic assessments by the World Bank have suggested that NPART may not have achieved its objectives beyond satisfying the aggregate recovery target. World Bank economist Daniela Klingebiel analyzed the effectiveness of NPART and concluded that it did not achieve the objective of facilitating the restructuring of Ghana’s corporate sector (Klingebiel 2000). Specifically, she cited NPART’s lack of political independence and professional management at the decision-making level. As a note, the members of NPART’s Board of Trustees were selected by recommendation of the Secretary of the PNDC responsible for Finance and Economic Planning. Furthermore, over 50% of non-performing assets transferred to NPART were loans to state-owned enterprises (Klingebiel 2000). Such politically sensitive assets are generally difficult to restructure for a government agency like NPART that lacked institutional independence (Klingebiel 2000). 
+
+
+Additionally, the transferred non-performing assets comprised 51% of the banking system’s total assets, which posed a large burden on NPART’s compromised management ability (Klingebiel 2000). The broad eligibility criteria under PNDCL 242 meant that NPART also received a disparate set of non-performing assets that were difficult to recover (Klingebiel 2000). The weak legal framework for bank resolution, debt recovery, and creditors’ rights also hampered NPART’s ability to recover value for the Government (Klingebiel 2000). Specifically, commercial laws remained “obsolete,” and it was “difficult to secure collateral for loans [… and] foreclose on defaulted loans” (World Bank 1997a). The Government attempted to mitigate the implications of a weak legal framework for NPART by granting it broad legal powers. However, analyses disagreed on the efficacy of the Tribunal. The World Bank stated that the NPART tribunal “helped to expedite judgements and execute decisions in foreclosure cases,” but whether this experience contributed to the broader judicial system was uncertain (World Bank 1997a). Klingebiel (2000) stated that “NPART was slow to make use of the Tribunal, which turned out to often side with the debtor.” This may have ultimately contributed to the mixed performance of NPART overall. 
+
+## **IV. References** 
+
+Antwi-Asare, T. O., and E. K. Y. Addison. 2000. _Financial Sector Reforms and Bank Performance in Ghana_ . ODI Research Studies. London: Overseas Development Institute. https://ypfs.som.yale.edu/node/17341. 
+
+Brownbridge, Martin, and Augustine Fritz Gockel. 1996. “The Impact of Financial Sector Policies on Banking in Ghana.” IDS working papers 38. Brighton: Institute of Development Studies. https://ypfs.som.yale.edu/node/17342. 
+
+International Monetary Fund and International Financial Statistics. 1968–1999a. “GDP Growth (Annual %).” World Development Indicators. World Bank. FP.CPI.TOTL.ZG. DataBank. https://ypfs.som.yale.edu/node/17532. 
+
+———. 1968–1999b. “Inflation, Consumer Prices (Annual %).” World Development Indicators. World Bank. FP.CPI.TOTL.ZG. DataBank. https://ypfs.som.yale.edu/node/17532. 
+
+Klingebiel, Daniela. 2000. “The Use of Asset Management Companies in the Resolution of Banking Crises Cross-Country Experiences.” SSRN Scholarly Paper ID 282518. Rochester, NY: Social Science Research Network. https://ypfs.som.yale.edu/library/use-assetmanagement-companies-resolution-banking-crises-cross-country-experiences. 
+
+_Non-Performing Assets (Loans, Investments) Recovery Law_ . 1990. _Provisional National Defence Council Laws_ . Vol. 242. https://ypfs.som.yale.edu/node/17343. 
+
+World Bank. 1988. “Proposed Credit of SDR 72.1 Million to the Republic of Ghana for a Financial Sector Adjustment Project.” Report and recommendation P-4781-GH. Washington, D.C.: World Bank. https://ypfs.som.yale.edu/node/17349. 
+
+
+———. 1991. “Proposed Credit of SDR 74.0 Million to the Republic of Ghana for a Second Financial Sector Adjustment Program.” Report and recommendation P-5659-GH. Washington, D.C.: World Bank. https://ypfs.som.yale.edu/node/17350. 
+
+———. 1995. “Financial Sector Adjustment Credit I to the Republic of Ghana.” Project Completion Report 14158. Credit 1911-GH. Washington, D.C.: World Bank. https://ypfs.som.yale.edu/node/17351. 
+
+———. 1997a. “Financial Sector Adjustment Credits I and II to Ghana.” Performance Audit Report 16789. Credits 1911-GH and 2318-GH. Washington, D.C.: World Bank. https://ypfs.som.yale.edu/node/17353. 
+
+———. 1997b. “Second Financial Sector Adjustment Credit.” Implementation Completion Report 17249. Credit 2318-GH. Washington, D.C.: World Bank Group. https://ypfs.som.yale.edu/node/17355. 
+
+## **V. Key Program Documents** 
+
+## **Legal/Regulatory Guidance** 
+
+Non-Performing Assets (Loans, Investments) Recovery Law (NPART Law 1990) 
+
+_Legislation authorizing NPART and describing some features of its operation including the eligibility of certain asset classes and institutions_ . https://ypfs.som.yale.edu/node/17343. 
+
+**Reports/Assessments** 
+
+The Impact of Financial Sector Policies on Banking in Ghana (Brownbridge and Gockel 1996) 
+
+_Study by foreign researchers evaluating NPART’s success_ . https://ypfs.som.yale.edu/node/17342. 
+
+- The Use of Asset Management Companies in the Resolution of Banking Crises Cross Country Experiences (Klingebiel 2000) 
+
+_A paper that evaluates AMCs and identifies certain factors that lead to success_ . https://ypfs.som.yale.edu/library/use-asset-management-companies-resolution-bankingcrises-cross-country-experiences. 
+
+Proposed Credit of SDR 72.1 Million to the Republic of Ghana for a Financial Sector Adjustment Project (World Bank 1988) 
+
+_Report describing the crisis conditions in Ghana before NPART_ . https://ypfs.som.yale.edu/node/17349. 
+
+Proposed Credit of SDR 74.0 Million to the Republic of Ghana for a Second Financial Sector Adjustment Program (World Bank 1991) 
+
+_Report describing the reform efforts in Ghana, including NPART_ . https://ypfs.som.yale.edu/node/17350. 
+
+
+Financial Sector Adjustment Credit I to the Republic of Ghana (World Bank 1995) 
+
+_Report evaluating the performance of programs implemented as part of the World Bank’s first loan to Ghana_ . 
+
+https://ypfs.som.yale.edu/node/17351. 
+
+Financial Sector Adjustment Credits I and II to Ghana (World Bank 1997a) 
+
+_Report evaluating World Bank programs and describing NPART’s progress_ . https://ypfs.som.yale.edu/node/17353. 
+
+Second Financial Sector Adjustment Credit (World Bank 1997b) 
+
+_Report evaluating the performance of programs implemented as part of the World Bank’s second loan to Ghana_ . 
+
+https://ypfs.som.yale.edu/node/17355. 
+
+## **Research Papers** 
+
+- Financial Sector Reforms and Bank Performance in Ghana (Antwi Asare and Addison 2000) _Study evaluating NPART’s efficacy and providing figures on its implementation_ . https://ypfs.som.yale.edu/node/17341. 
+
+The Third Generation: NAMA, AMCON, and SAREB (Cerruti and Neyens 2016) 
+
+_A World Bank study containing case studies on a number of public AMCs_ . https://ypfs.som.yale.edu/library/public-asset-management-companies. 
+
+## **VI. Appendixes** 
+
+## **Appendix A: FINSAC I and II Policy Implementation Matrix for Bank Restructuring** 
+
+**Republic of Ghana - Financial Sector Adjustment Credit I (Credit 1911-GH) - FINSAP I Policy Implementation Matrix - “Bank Restructuring” section - (World Bank, June 25, 1997)** 
+
+|**Republic of Ghana - Financial Sector Adjustment Credit I (Credit 1911-GH) - FINSAP**<br>**I Policy Implementation Matrix - “Bank Restructuring” section - (World Bank, June**<br>**25, 1997)**|**Republic of Ghana - Financial Sector Adjustment Credit I (Credit 1911-GH) - FINSAP**<br>**I Policy Implementation Matrix - “Bank Restructuring” section - (World Bank, June**<br>**25, 1997)**|
+|---|---|
+|||
+|**Issues/Actions Required**|**Implementation**|
+|Carry out full diagnostic studies by<br>international auditing firms.|Completed by 1989.|
+|Implement safeguard measures to prevent<br>further deterioration.|February 1989 directive issued by Bank of<br>Ghana, which also had been closely<br>monitoring compliance by banks<br>undergoing restructuring.|
+
+
+
+
+|||
+|---|---|
+|Recruitment of an advisor on bank<br>restructuring.|Restructuring advisory team started work<br>in January 1989 under Swiss grant.|
+|Formulation of framework and timetable<br>satisfactory to IDA, specifying the<br>modalities for the restructuring of banks,<br>in particular: i) measures for dealing with<br>banks’ portfolios of non-performing loans,<br>including loans to state-owned<br>enterprises; ii) rescheduling and<br>conversion of Government’s loans to<br>banks.|General Framework document approved by<br>Government in July 1989. Implementation<br>modalities included: i) enabling legislation<br>for NPART and the Special Tribunal; ii)<br>operational guidelines for NPART; and iii)<br>transitional measures to arrest<br>deterioration and achieve a return to<br>profitability of restructured banks.|
+|Agreement with IDA on specific proposals<br>and targets for a reduction of banks’ non-<br>performing portfolios (including off-<br>balance sheet items).|The cleaning up of banks’ portfolios through<br>replacement of non-performing assets by<br>Government bonds and/or other offsetting<br>operations was achieved by 1991-92 for six<br>of the seven restructured banks, except for<br>the COOP bank*.<br>*Note COOP was eventually taken into<br>receivership by BoG.|
+|Finalization of specific restructuring plans<br>acceptable for commercial and<br>development banks.|Restructuring plans for six of the seven<br>distressed banks were completed by end-<br>1990, reviewed by IDA, and implemented<br>since. The one exception was COOP bank.|
+
+
+
+**Republic of Ghana - Financial Sector Adjustment Credit II (Credit 2318-GH) - FINSAP II Policy Implementation Matrix - “Bank Restructuring and Loan Recovery by NPART” section - (World Bank. June 25, 1997)** 
+
+|**Issues/Actions Required**|**Implementation**|
+|---|---|
+|Commence liquidation of|Before negotiations, the Government, in consultation with|
+|non-viable enterprises in|IDA, developed an action project for the recovery of non-|
+
+
+
+
+|||
+|---|---|
+|accordance with NPART’s<br>action project.|performing assets and for liquidations, including agreed<br>upon annual recovery targets.<br>In fulfillment of second and third tranche release<br>conditions, NPART’s recoveries were satisfactory,<br>aggregating Cedi 19.6 billion (by March 31, 1997),<br>compared to the initial target of Cedi 18 billion (World<br>Bank, December 22, 1997).|
+|Consolidate, deepen, and<br>streamline the ongoing<br>bank restructuring project<br>started under FINSAC I.|Before negotiations, the government agreed to establish a<br>project, including performance indicators, for monitoring<br>the performance of banks. For the release of the second<br>tranche, the Government agreed that the Bank of Ghana<br>would comply with the requirement of annual inspection of<br>banks in accordance with the Banking Law.<br>During 1992-93, annual on-site inspections were carried<br>out for all banks operating in Ghana (commercial,<br>development, and merchant banks).|
+
+
+
+## **Appendix B: NPART recoveries** 
+
+|**Appendix B: NPART recoveries**||
+|---|---|
+|**Year**|**Recoveries (Cedi billion)**|
+|1991|3.31|
+|1992|3.36|
+|1993|3.23|
+|1994|4.09|
+|1995|2.35|
+|1996|2.34|
+
+
+
+_Source: Antwi-Asare and Addison 2000, table A5.7._ 
+
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

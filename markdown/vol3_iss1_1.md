@@ -1,0 +1,277 @@
+## **Stress Tests and Policy[1]** 
+
+## _Greg Feldberg[2]_ 
+
+## _Andrew Metrick[3]_ 
+
+## **ABSTRACT** 
+
+Ten years after the Federal Reserve’s crisis-era bank stress test, it is time to recalibrate the stress tests for “peacetime.” Outside of a crisis, supervisors should tailor stress tests to focus on their comparative advantages by taking a macroprudential focus, with severe scenarios that enable them to learn about emerging risks in both traditional and shadow banking sectors. In peacetime also, supervisors should emphasize risk-management practices and be wary of forcing rapid changes in capital levels for individual banks, while linking stress-test results with countercyclical capital buffers across the system. 
+
+**Keywords:** stress tests, dividends, macroprudential policy, risk, SCAP 
+
+> 1 A version of this paper was presented for discussion at the Federal Reserve Bank of Boston’s annual Stress Testing Conference on July 9, 2019. 
+
+> 2 Research Scholar and Director of Research, Yale Program on Financial Stability, Yale School of Management. 
+
+> 3 Janet L. Yellen Professor of Finance and Management and Director, YPFS, Yale School of Management. 
+
+
+## **I. Introduction** 
+
+The United States Federal Reserve’s (the “Fed”) Supervisory Capital Assessment Program (SCAP) in the spring of 2009 was a revelation for bank supervisors. They escaped their traditional, balance-sheet-driven model to ask, in a forward-looking way, what will it take for these firms to survive if the crisis gets even worse? Fed Vice Chair Randy Quarles recently called this the Fed’s newly found role to provide “analysis of last resort” in a crisis (Quarles, 2019). Since the previous autumn, amidst the worst financial crisis in decades, the government had invested tens of billions of dollars in banks that passed a more traditional, point-in-time viability test through the Capital Purchase Program, but investors remained skittish. The supervisory stress-test exercise, because it credibly sized the potential capital needs of the largest banks, is broadly seen as having done much more to reassure markets than those earlier efforts. 
+
+Just over 10 years later, stress testing has become deeply rooted in supervision and changed its practice. While the SCAP exercise had a very straightforward goal—to restore confidence in bank capital so banks could continue lending even if economic conditions worsened— supervisors here and abroad expect more of such exercises today. Stress tests have contributed to U.S. banks doubling their capital, increased the transparency about supervisory practices to the public, and helped banks improve their capital planning and risk management. The Fed may use the results of the annual tests to prevent a bank that would fall below regulatory minimums under stress from passing profits on to shareholders. They also use stress tests to inform macroprudential policy. The Bank of England uses them to calibrate its countercyclical capital buffer. 
+
+There is nonetheless a broad feeling that the exercise remains anchored in the global financial crisis. It also remains a contentious process, as bankers bristle at a perceived loss of control over basic capital planning decisions and what they see as an opaque process. One of the architects of the Fed’s first stress test wrote a few years ago about the need to develop a “peacetime” approach—one that seeks to ensure, with the crisis passed, that banks can not merely survive but keep lending and providing key services even in the face of a severe but plausible systemic shock (see Schuermann, 2016). The Fed has begun to take steps to update its approach for peacetime, while seeking to maintain its focus on the need to always be prepared for war. 
+
+Right at the outset, it is important to note just how far we are from an ideal cost-benefit framework for bank-capital levels. To determine a socially optimal level for bank capital, we would want to know, at a minimum, what are the effects of bank-capital policy on lending and on the probability and severity of financial crises. Liang (2017) and the Minneapolis Fed 
+
+
+(2017) discuss various approaches that economists have taken to conduct cost-benefit analyses on capital levels. Academic estimates of the optimal level for bank capital that take systemic risks into account range from 9 percent to as high as 25 percent, considerably higher than pre-crisis levels (see Liang, 2017). But these things are hard enough to estimate even before we try to account for the possibility that capital policy could increase systemic risks by, in particular, driving the migration of activity from banks to nonbanks or off-balance sheet activities—where regulators may not be paying as much attention. 
+
+In this paper, we partially sidestep these difficult issues by focusing on the dynamic nature of stress tests: that is, we take the overall level of bank-capital requirements as a given, and focus on how much volatility is appropriate around these requirements. Today, with the results of stress tests in hand, supervisors often require banks to change their capital ratios. In this world, the key policy questions are “How do we decide these required changes?” and “How fast must these changes occur?” While one cannot write down a complete cost-benefit framework to answer these questions, we make several observations in Section II that can be used to guide policy. Next, guided by those observations, we turn in Section III to a discussion of some recent and proposed changes in stress-testing practice. Section IV addresses a key question: Have we struck the right balance between companies and their regulators in determining the appropriate level of capital? Section V summarizes our conclusions and recommendations. 
+
+## **II. Observations** 
+
+_Observation 1: Individual banks know more than supervisors do about their banks’ idiosyncratic risks, but supervisors know more than banks do about systemwide risks._ 
+
+Banks will always know more than any outside party about their businesses, the profitability of their products, and the risks they are taking. To be sure, supervisors can use their statutory powers to learn a great deal, by acquiring data and confidential internal materials from the firms they supervise. The stress tests have inspired the Fed to acquire substantially more granular, structured data on a quarterly basis from the largest financial institutions than ever before. But the bankers retain the advantage. 
+
+Bankers’ information advantage is particularly apparent in the analysis of complex, idiosyncratic business lines. For example, bank examiners would find it relatively straightforward to analyze the risks of a homogenous portfolio of credit card or homemortgage loans, but they might face serious challenges getting a handle on multi-billiondollar securities and derivatives portfolios that span numerous trading desks and legal 
+
+
+entities. Of course, those portfolios can be a challenge for bankers as well. The capital hole that the largest banks had to fill in 2008 was largely caused by their own failure to understand the risks they had retained in highly rated securities and derivative exposures against which they held little or no capital before the crisis. 
+
+On the other hand, because of their access to confidential information and the broad scope of their authorities, supervisors will always know more about many aspects of banks than those banks know about each other. This advantage extends to analyzing horizontal exposures and risks, evaluating models, and assessing the quality of risk management. Supervisors use this information in microprudential oversight (providing insights to firms about best practices and common exposures) and in macroprudential oversight (identifying industrywide trends and potential risks). Stress tests offer further opportunities to develop and disseminate such insights. 
+
+This observation suggests that there are some comparative advantages in stress-test modeling. Banks should focus on their own risk management and capital planning, tailored to the specific risks each bank faces; regulators should focus on macroprudential concerns, such as linkages and systemwide risks, using models and scenarios that are homogeneous across banks. 
+
+Of course, this division of labor is consistent with current practice, with the necessary caveat that we cannot expect profit-maximizing banks to act as their own prudential regulators, so there will of course always need to be some give-and-take between the two parties. 
+
+Another implication of focusing supervisory and bank-run stress tests on the comparative advantages of each is that the supervisory scenarios could be very scary and tough, experimenting with nightmarish hypotheticals. Meanwhile, with the regulators focused on ensuring that systemwide capital (capital across all systemically important banks, including the weakest among them) is maintained at high levels—raising those levels countercyclically in booming financial and economic conditions—the role of the bank-run stress tests in determining their own capital needs—a more microprudential goal—could be enhanced. 
+
+## _Observation 2: In bank supervision, transparency is a double-edged sword._ 
+
+There are two types of transparency under discussion for stress tests: transparency of outputs (how did each bank do?), and transparency of inputs (how did the Fed come up with these numbers?). In the public discourse, there is a tendency to treat transparency as an obvious good thing, and anyone opposed to transparency as having some kind of nefarious motive. This tendency is reinforced by both research and practice in securities markets, where efficient functioning is promoted by reliable disclosure of information. 
+
+
+But banks are different from securities markets. A primary function of banks is to manufacture safe debt (“money”) backed by complex long-term assets. Bank balance sheets are far too complex to be analyzed by depositors, so our regulatory system has filled that role with insurance and supervision. Supervisors hold their communications with banks in strict confidence and regulations forbid banks from sharing results of exams with outside parties. This confidentiality helps maintain an open dialogue and information-sharing between supervisors and bankers. Based on longstanding regulations, examination ratings and informal actions—efforts by supervisors to address management deficiencies—are nonpublic. Examiners are authorized to go public only after initiating formal enforcement actions that address serious problems, abuses, violations of law, or noncompliance by regulated companies. 
+
+Since the global financial crisis, stress testing has emerged as the rare exception to that tradition of confidentiality. In the United States and some other countries, stress testing practices have provided the public with unprecedented access to supervisors’ thinking about the management of individual financial institutions. In wartime, the revelation of stressed results helped reassure markets. In peacetime, the Fed extended its post-test disclosure to include both quantitative results and its qualitative assessment of each bank’s capital planning processes. But this transparency has potential costs. Even in peacetime, banks argue, disclosure of a bad stress-test result could harm its vital function of safe-debt creation. And banks are concerned that such disclosure could cause volatility for their core businesses. Furthermore, as peacetime moves towards a risk of crisis, public revelation of a particularly bad stress-test result could spark a panic. Thus, with regard to the transparency of outputs (“how did each bank do?”), we urge caution toward disclosing much further information about banks’ stress-test results. 
+
+The specific arguments in favor of transparency of inputs come in several flavors. First, that it would lead to better models. Second, that it would enable banks to actually do a better job of getting ready for the most important risks as seen by supervisors. Third, that such transparency is in fact required for consistency with administrative law and regulatory practice. On the anti-transparency side there are two main arguments. First, fairly obviously, that banks would use such transparency to game the system. Second, that even in the absence of self-interested gaming behavior, transparency of models could lead to banks all tilting their portfolios in the same direction, leading to a “model monoculture” and a larger set of correlated risks (see Bernanke, 2013, and Schuermann, 2013). 
+
+Reasonable people can disagree about how to weigh these costs and benefits for additional transparency of inputs. But reasonable people cannot claim that the answer is an easy one, and should not ignore the trade-offs. 
+
+
+_Observation 3: Even with perfect models accepted by everyone, banks and their regulators will rationally disagree on the optimal speed of adjustment after a stress test._ 
+
+We believe that it is important to acknowledge that there will always be a conflict here. Even if there was perfect agreement about models and scenarios, banks and regulators will still disagree on both optimal levels of capital and on the speed of adjustment to those levels. Focusing on the speed of adjustment, the reasons for the disagreement are simple: even in a counterfactual world where banks did not care about the steady-state level of capital, they would still find it costly to make changes to that level. Raising capital—or retaining extra profits by cutting dividends—sends warning signals to markets that all firms try to avoid. The costs of such adjustments may be private for the banks, but they are still real. Banks would not internalize the public benefits of a faster adjustment, and so they will always want to go slower than regulators will. This conflict strikes us as unavoidable. 
+
+The main implication of this observation is a call for some understanding of both sides in the overall stress-test debate. Often, it seems to us that complaints by banks about modeling and scenarios are really just complaints about the resulting needs for banks to adjust their capital plans quickly in response to stress-test results. And, the regulators’ answers to these complaints do not always acknowledge the high costs of these changes, because the complaint has instead been buried in a technical objection to the model. Let’s stop that. Both sides have a point. Regulators have to maximize social welfare; banks explicitly have a different mandate. With their social-welfare objective, regulators should ultimately have the last word on capital levels, but they should be mindful of the costs of trying to get quickly to those levels. If stress tests show that a particular bank is undercapitalized in some tail-risk scenario, is it really necessary to force that bank to skip a dividend payment in the very next quarter? It seems like such rules could do more harm than good for financial stability. 
+
+_Observation 4: In peacetime, regular stress testing is critical to keep risk managers’ and supervisors’ eyes on the ball._ 
+
+In a crisis, supervisory stress testing takes on a special urgency: it can contribute to the very survival of a bank amidst uncertainty. In peacetime, stress tests—both supervisory and bank-run—are more like fire drills. They keep risk managers and supervisors focused on the biggest risks banks face. As currently implemented, they provide an opportunity for risk managers and supervisors to have very detailed, quantitative discussions about the implications of those risks, and they have become the preferred tool for supervisors to assess the quality of banks’ risk-management practices (see Schuermann, 2016). Supervisors believe the annual Comprehensive Capital Analysis and Review (CCAR) exercise has had a substantial positive impact on banks’ risk management and corporate governance in the 
+
+
+peacetime period since the financial crisis (see Clark, 2019). Of course, there is a risk that models over time will become stale, as there is a tension between improving models and changing effective capital charges. 
+
+_Observation 5: Migration of financial activity away from banks, without appropriate oversight of the nonbank financial sector, will weaken financial stability._ 
+
+A critical unintended consequence of heightened regulation is the migration of financial activities to nonbanks or off-balance-sheet entities. Of course, some migration may be consistent with policy, in that regulators may prefer some activities be undertaken by someone other than systemically important banks. 
+
+Still, the experience of the financial crisis highlighted the risks when activities take place in less regulated institutions and markets. In many cases, risks that had appeared to migrate away from banks ended up back in the banking system through explicit or implicit linkages. Stress tests should seek to capture these kinds of linkages by stressing banks’ off-balance sheet exposures and loans to nonbank financial institutions. 
+
+Since the crisis, supervisors are more attuned to migration issues and have put in place new monitoring and analysis tools for nonbank financial intermediation. The term “shadow banking” became popular after the crisis to describe market-based financial intermediation activities that had introduced unanticipated systemic risks, particularly those activities that relied on short-term wholesale funding. The annual reports and monitoring efforts of the Financial Stability Oversight Council and Office of Financial Research have taken a broad view of potential financial stability risks, both from banking and nonbanking financial activities. 
+
+It’s important to remember that regulatory arbitrage was a key driver in the growth of shadow banking before the crisis. For example, based on the regulatory capital rules at the time, banks could conserve capital by financing assets off-balance-sheet through commercial paper conduits. One of the early events in the crisis was the collapse in the asset-backed commercial paper market, which forced U.S. and European banks to bring billions of dollars of assets back onto their balance sheets (see Covitz, Liang, and Suarez, 2013). 
+
+Meanwhile, stress tests can be an important tool for learning about migration. Scenarios and models could be designed to probe the interconnections between banks and nonbanks, and to learn about the ebb and flow of specific activities. Would a scenario that imagined a crash in mortgage-linked collateralized debt obligations (CDOs) prior to the crisis have helped us to see where those risks lay, both inside and outside of regulated banks? Maybe. 
+
+
+## **III. Recent Changes and Proposals** 
+
+How should we think about the financial stability implications of the recent and proposed changes to the stress-test regime, as the pendulum starts to swing back? The Fed has recently made or proposed some fundamental changes in its annual stress-test regime. These go to the proposed “Stress Capital Buffer,” the reduced scope of the exercise, increased transparency, and the elimination of the so-called “qualitative objection.”[4] Here are some thoughts on the latest changes and proposals under discussion, based on our five observations. 
+
+1. It’s a good idea to incorporate a Stress Capital Buffer into the stress test. Today’s capital rules include a capital conservation buffer, a 2.5% surcharge that sits atop regulatory minimums. There is also a countercyclical capital buffer that the Fed may implement to require banks to hold more capital when systemwide risks appear high. In April 2018, the Fed proposed replacing the capital conservation buffer with the higher of 2.5% or a Stress Capital Buffer (SCB), which would be based on a bank’s stressed losses under the Fed’s severely adverse scenario. The countercyclical capital buffer would be additive to the SCB. The SCB would also require banks to prefund four quarters of dividends. The SCB proposal is currently on hold as the Fed reviews comments on its proposal. We hope it will remain part of the plan. The SCB seems a sensible approach to combine the strengths of static regulatory capital minimums and dynamic capital standards based on stress-test results. 
+
+2. Consider ways to tie the supervisory stress test to macroprudential policy goals. These could include (1) using stress-test scenarios to further probe bank and nonbank linkages, as noted in Observation 5. They could also include (2) tying the countercyclical capital buffer to the results of the supervisory stress tests in some way, as the Bank of England has done (Observation 1). Regulators’ comparative advantage is looking at the financial system on a systemic level—let’s use that advantage. The Fed models should be designed to be maximally informative for the countercyclical capital buffer, and then used directly—but not formulaically—in setting it. 
+
+At the same time, the countercyclical capital buffer would be a more effective countercyclical tool if, also following the Bank of England, the Fed built and maintained a non-zero countercyclical capital buffer in normal times, rather than wait for the fairly frothy signals of above-normal risks that the Fed has said guide its analysis. The Fed could then have the 
+
+> 4 Most of these proposals were included in the Fed’s April 2018 notice of proposed rulemaking with request for comment (see Board of Governors of the Federal Reserve System, 2018a). 
+
+
+discretion to allow banks to draw down on such a buffer during stressed times, such as the pandemic crisis. 
+
+’ 3. Consider some easing of the immediate impact of stress tests on banks capital planning, to ensure banks do not face rapidly shifting capital requirements during peacetime. This would be consistent with Observations 1 and 3. A central complaint of banks is that the results of the stress tests can seem volatile, even capricious, particularly when they require rapid changes in capital planning. They have a point. There is no great benefit to making banks quickly change capital plans in peacetime, and there can be significant costs. 
+
+Inevitably, if capital requirements are tied to the results of stress tests, they will introduce some volatility into capital planning. But there are mitigants. If the Fed follows through with the proposed Stress Capital Buffer, adjustments should be slow, and banks should have time to revise their capital plans. 
+
+4. Maintain the G-SIB buffer under stress. Some large banks have proposed that the G-SIB buffer should be available for global systemically important banks (G-SIBs) to draw down in the stress-test exercise (see Financial Services Forum, 2018, pp. 7-8). Under the Fed’s April 2018 proposal, the G-SIB buffer would continue to be part of the regulatory buffer throughout the severely adverse scenario—not something that banks could draw down. 
+
+The Fed’s proposal seems to have this right. Banks argue that G-SIBs have already reduced the risks G-SIBs pose to financial stability through their compliance with various other postcrisis regulatory policies, including the stress tests and, specifically, the Global Market Shock scenario that stress tests include for most G-SIBs. 
+
+But the G-SIB capital buffer is intended to mitigate the risks that a failing G-SIB would pose to the financial system as a whole, not as another buffer to draw down in a crisis (see Board of Governors of the Federal Reserve System, 2018a). This is related to Observation 1: Supervisory stress tests serve a macroprudential purpose. The financial crisis experience shouldn’t be forgotten. At the bottom of the next financial cycle, we may again be confronted with a G-SIB (or a handful of G-SIBs) with depleted capital and a market that fears losses could get still worse. At that time, we will be glad we have required G-SIBs to hold extra capital to prevent fear of their failure from worsening a bad situation and, in the extreme, inspiring consideration of another taxpayer bailout. 
+
+5. Reconsider the exemption for large but less systemically important banks. The population of banks covered by the stress tests has varied from 30 to 35 in recent years. Under a change in the 2019 stress-test exercise that responded to an act of Congress, only about 15 
+
+
+companies will continue the annual exercise, while most of the others that participated in the 2018 exercise will shift to a two-year cycle. 
+
+This revision appears consistent with a structural macroprudential policy approach, focusing supervisory resources on the financial institutions that pose the greatest potential systemic risk, as per Observation 1. There may be benefits, as per Observation 3, to reducing the regulatory burden and the potentially excessive capital volatility for banks that are merely large but not huge, and that are relatively less complex and interconnected than the G-SIBs. And shifting to a two-year cycle shouldn’t allow these arguably medium-risk banks to dismantle their risk-management infrastructure or discontinue the use of stress testing in capital planning, so it’s possible (though not assured) that they may still be able to keep their eyes on the ball (Observation 4). 
+
+But we doubt the benefits to these firms of shifting to a two-year cycle outweigh the costs to the exercise, measured by the narrowing of the Fed’s macroprudential scope and the weakening of a key cyclical macroprudential tool. Remember Observation 5: using stress tests to track migration of activities away from the banking sector. Unforeseen exposures to mortgage-linked CDOs created the largest unanticipated capital losses to banks, insurance companies, and others in the financial crisis (see Cordell, Feldberg, and Sass, 2019). There is no guarantee that any of the tools now available to supervisors would have helped them identify such a blind spot if there were a do-over. But to increase our odds of capturing the next hidden tail risk in the financial system, we should want supervisors to be able to look across as many institutions as possible in their stress testing. 
+
+Along similar lines, a senior Fed official argued last year that the narrowing of scope “potentially pushes away from the broader cyclical perspective. Less of the banking industry will be covered by the stress tests, and assessments of the strength of the industry will be based on a smaller part of the whole” (see Hirtle, 2018). It is worth asking whether the Fed and other regulators will be able to fill these knowledge gaps through their ongoing oversight of these banks and their macroprudential surveillance of the broader financial system. 
+
+6. Be careful about increasing transparency of inputs. Since SCAP, the Fed has always released detailed information about its stress scenarios and the impacts on individual banks. It has continued to expand disclosures about inputs—the models and methodologies it uses. In March, in keeping with the 2018 proposed rule, it took a big step forward by releasing indicative loan loss rates, loss results based on standardized portfolios, and enhanced descriptions of its models, in its announcement of the 2019 stress-test scenarios (Board of Governors of the Federal Reserve System, 2019d). This upfront transparency about the Fed’s scenarios and assumptions could make it easier for bank risk managers to evaluate the 
+
+
+capital implications of the tests for their institutions and manage the inherent volatility that stress-test-based capital standards introduce into their capital planning (Observation 3). Nonetheless, while banks have said “thank you,” they have also asked for even more. They say they need more details about the Fed’s models in order to improve their ability to meet supervisory expectations and manage volatility. They argue that such disclosure might also subject those models to more rigorous public review (see The Clearing House Association, 2018). 
+
+Still, going back to Observation 2, too much transparency about the models may have unwanted side effects. It’s worth noting that the regulator of Fannie Mae and Freddie Mac, the two massive housing government-sponsored enterprises, was required by statute in the years before the global financial crisis to subject them to stress tests that were public, and for which the scenarios were published in advance for public comment when revised. That experiment didn’t end well (see Frame, Gerardi, and Willen, 2015). Dan Tarullo, the former Fed governor who drove the bank stress tests in their early years, recently said the new disclosures went too far. “While the code itself has not been released, I suspect that the smart people who work on such things for the big banks now have most of what they need to reverse engineer the model’s loss functions” (see Tarullo, 2019). The result, he fears, will be more regulatory arbitrage: armed with this knowledge, banks “will find clever ways to reshape their assets so as to reduce capital requirements without reducing risk.” 
+
+At the extreme, too much disclosure could encourage banks to focus their efforts on following the Fed’s models rather than continuously updating their own models. Such a “model monoculture” could blind risk managers to emerging risks and, worse, make it more likely that everyone misses a critical tail risk built into the models, as happened with the credit rating agencies’ structured finance credit loss models in the run-up to the global financial crisis. Too much disclosure could also make it easier for banks to game the Fed’s models by structuring new assets or products in ways that limit the ability of the models to pick up the true risks. 
+
+One way the Fed could be more transparent is in describing its very high-level view of the state of financial stability risks. In other words, the Fed could commit to making a statement of its countercyclical policy stance for the purposes of the stress test. That statement could describe the Board’s judgment about the current status of the credit and financial cycle to provide the basis for its scenario decisions, comparable to but distinct from the Federal Open Market Committee’s comments about the direction of inflation and the economy that provide 
+
+
+the basis for monetary policy.[5] With such transparency in place, the Fed could avoid more extreme proposals to subject Fed stress scenarios to the public notice process.[6] 
+
+7. Consider bringing back the “qualitative objection.” In March, the Fed announced it would limit the use of the “qualitative objection” in the annual Comprehensive Capital Analysis and Review (CCAR) exercise, except for banks that have been part of the process for four years or less (see Board of Governors of the Federal Reserve System, 2019c). That qualitative objection represented a significant break from tradition. 
+
+Two years ago, the Fed eliminated the qualitative objection for large but non-complex firms; they’ve now eliminated it for everyone else. In the Fed’s view, firms subject to CCAR since it began have improved their capital planning processes sufficiently and to the point where the threat of publicly limiting distributions is no longer necessary. The Fed also argues that CCAR retains its essence as a rigorous assessment of capital planning processes. As in traditional supervisory practices, firms may be subject to rating downgrades or, at the extreme, public enforcement actions if they fail to meet supervisors’ expectations. The Fed recently revised its supervisory rating system for large financial institutions to include the assessment of capital planning and positions as a core component, informed by stress-test results (see Board of Governors of the Federal Reserve System, 2018b). 
+
+Still, the qualitative objection had been a powerful tool for microprudential supervisors to ensure that risk managers were not becoming complacent during good times (Observation 4). As in formal enforcement actions against banks, which supervisors disclose to the public, the possibility of public embarrassment following an objection to planned capital actions had been a significant motivator for banks to improve their risk management practices and had lent credibility to supervisory stress-test exercises. A former senior Fed official recently argued that, by removing the qualitative objection, the Fed has now “weakened its capacity to hold [banks] accountable for dangerously bad practices” (see Clark, 2019). Perhaps, 
+
+> 5 The Bank of England essentially does this. In publishing its 2019 scenarios, it noted: “Reflecting the [Financial Policy Committee]’s assessment that the underlying vulnerabilities are broadly unchanged on the year, the stress-test scenario is very close to that in the 2018 [stress test]” (see Bank of England, 2019). Greenwood et al (2017) suggest that the Fed be required to disclose after each annual stress test a summary of the effective risk weights and capital charges on specific types of assets that resulted from the test. 
+
+> 6 One industry group has proposed changes by the Fed “(1) subjecting the supervisory stress scenarios to the notice-and-comment rulemaking process; (2) amending its existing Policy Statement on the Scenario Design Framework for Stress Testing to develop an empirically grounded framework to establish “guardrails” or outer boundaries on the severity of the supervisory stress scenarios; or (3) adopting a clear policy statement that more closely tethers GMS [the Global Market Shock scenario used to stress trading portfolios for some banks] to the adverse macroeconomic scenario” (see Financial Services Forum, 2018, p. 7). 
+
+
+following Observation 3, a reintroduced qualitative objection could come with a softened, delayed impact on bank capital measures. 
+
+## **IV. Balancing the Costs and Benefits for Banks and Regulators** 
+
+Moving beyond the current debates, a key controversy remains: Have we struck the right balance between the needs of banks and their regulators (and taxpayers) in stress-test policy? 
+
+While stress testing has become common supervisory practice in the post-crisis world, it is worth keeping in mind that key aspects of the Fed’s approach remain unusual. Most obviously, the Fed has built up a huge infrastructure so that it can rely as much as possible on its own models and methodologies, in the name of rigor, consistency, and independence. There are big differences in legal and administrative frameworks across countries that affect how they implement stress tests. Other countries may supply the scenarios but rely much more on companies for the conduct of the tests. There is a range of practices around scenario-setting, disclosure, and the ultimate policy goals of the exercise. 
+
+Compared to microprudential bank capital rules, stress tests provide additional insights and the ability to fine-tune capital to risks. Some argue that U.S. bank regulators have imposed too many capital standards; it is possible there is an optimal, smaller number of regulatory constraints. On the other hand, there is a risk of relying too heavily on one or a few approaches. Both risk-weighted and non-risk-weighted ratios are subject to gaming, for example. The uncertainty about future outcomes suggests the need for built-in redundancies, or “robust control.” 
+
+During the financial crisis, the Fed used the first stress test to determine how much capital, if any, banks would need to raise from investors to survive the stress scenario. Stress tests today can limit the extent to which individual banks can share profits with their shareholders. Bankers would like more freedom to set their own capital. They point out that the Fed expects banks’ boards of directors to be “responsible and accountable” for capital decisions—so why not let them do their job? (see Financial Services Forum, 2018, p. 4). 
+
+This issue has two basic components. Whose models will be used? And how will the capital decision be made? 
+
+Whose models? The original, SCAP stress test used a mix of models. To estimate losses, the Fed combined information from three sources: “top-down” estimates by agency economists, based on forecasts of industry-wide losses; “bottom-up” estimates by supervisors using 
+
+
+confidential supervisory information; and “bottom-up” estimates made by the banks themselves. Pre-provision net revenue was constructed using “top-down” supervisory estimates and “bottom-up” estimates based on bank-provided information (see Hirtle, Schuermann, and Stiroh, 2009). 
+
+Since then, a different compromise has emerged. The Fed conducts its own stress tests, and the banks conduct theirs, subject to careful supervisory oversight. The firm’s stress tests are intended to reflect the particular risks facing each bank holding company. The Fed checks its work carefully through the supervisory process. 
+
+In the Fed’s annual exercise, the banks provide the data, and the Fed conducts the analysis. As the Fed’s expertise and resources have increased, it has come to rely almost entirely on its own models and methodologies in the name of rigor, consistency, and independence. Its models are subjected to an internal validation process—comparable to processes that it expects banks themselves to conduct for themselves—and reviewed by external experts. 
+
+The banks have little input into the Fed’s exercise. Only rarely does the Fed loosen its grip on the process to allow firm-provided or third-party model estimates to enter into its analysis. These are cases where supervisory models are not possible or appropriate, typically because available supervisory data are insufficient (see Board of Governors of the Federal Reserve System, 2019d, p. 6). Those rare cases include, for example, granular components of pre-provision net revenue about which companies have superior historical data and insights; and information about trading and counterparty losses that are sufficiently granular or complex that the firm’s internal models may be preferred to the Fed’s. In those cases, the Fed’s approach is trust-but-verify: examiners will monitor the performance of those inputs and seek additional data from banks before including them in the Fed’s exercise. 
+
+The banks have said very clearly that they would like a bigger role in this process. But how could this work? As noted in Observation 1, banks know more about their own risks, regulators know more about systemwide risks. The compromise as currently constructed seems appropriate. If the supervisory stress tests evolve to focus more on macroprudential ends, and the bank-run tests continue to focus on microprudential ends—in other words, if the link between supervisory stress-test results and capital planning is loosened to some extent—the banks may come to see the issue of model disclosure as less urgent. And we could avoid too much disclosure (Observation 2). 
+
+On the other hand, there may be a process that would allow supervisors to incentivize firms to provide better information to the supervisory stress tests without being gamed. A constructive dialogue about scenarios, assumptions, formulas, and models could lead to a 
+
+
+more cooperative, less adversarial relationship between banks and supervisors. Borrowing from SCAP’s use of multiple models, it may be conceivable to build a process through which banks could replace some Fed models with their own, subject to careful Fed approval, without sacrificing the Fed’s goal of consistency across the institutions subject to the test. Of course, such processes would need to be robust for the most poorly managed firms. 
+
+At the end of the day, poor microprudential oversight can lead to macroprudential risks because of the systemic importance of some firms. And the quality of risk management was a direct determinant of individual large banks’ performance through the global financial crisis (see Stanton, 2011). 
+
+Who decides? A simple rule-of-thumb, following Observation 1, would be that a bank’s board of directors should have more power over capital planning in peacetime, while regulators should be able to intervene quickly as war approaches. That’s essentially the process today: Automatic triggers under Basel III now limit dividends and share repurchases as a bank’s capital approaches regulatory minimums. Regulators still reserve the right to overrule capital distributions that exceed what banks committed to in their capital plans; the industry argues that should be unnecessary as long as a bank’s capital continues to exceed regulatory minimums (see Financial Services Forum, 2019, p. 6). 
+
+## **V. Conclusion** 
+
+We have made five observations about stress-testing that may help inform the transition from wartime to peacetime stress tests: (1) Individual banks know more than supervisors about their banks’ idiosyncratic risks, but supervisors know more than banks about systemwide risks; (2) In bank supervision, transparency is a double-edged sword; (3) Even with perfect models accepted by everyone, banks and their regulators will rationally disagree on the optimal speed of adjustment after a stress test; (4) In peacetime, regular stress testing is critical to keep risk managers’ and supervisors’ eyes on the ball; and, (5) Migration of financial activity away from banks, without appropriate oversight of the nonbank financial sector, will weaken financial stability. 
+
+Based on these observations, we have suggested: 
+
+- 1) sticking with the stress capital buffer proposal; 
+
+- 2) promoting the macroprudential goals of the supervisory stress test by probing bank and nonbank linkages, and by tying it to a revised countercyclical capital buffer, calibrated for normal times; 
+
+
+- 3) considering some easing of the immediate impact of stress tests on banks’ capital planning, to ensure banks don’t face rapidly shifting capital requirements during peacetime; 
+
+- 4) holding firm on the G-SIB buffer, which is there to mitigate the additional risks that the failure of a large and systemic financial institution would pose to financial stability; 
+
+- 5) reconsidering the move to ease stress-test requirements for apparently medium-risk big banks; 
+
+- 6) slowing down the transparency train to avoid gaming, herding, and complacency in bank risk management; and, 
+
+- 7) considering the resurrection of the qualitative objection, possibly with softer capital impacts. 
+
+We have also suggested some expansion of banks’ role in supervisory stress testing and in determining their capital measures. 
+
+Taken together, these suggestions would add up to a slightly different settling of competing interests than the current structure, but perhaps one better suited to peacetime. 
+
+Meanwhile, the really important question underlying stress tests sometimes goes unasked: Would this process have made a difference in 2005, as the housing boom rapidly deteriorated into financial mania? Would it have fortified systemic capital and prevented official capital injections? Would it have helped supervisors identify many systemically important banks’ hidden exposures to tail risk in structured credit products and credit derivatives, their backdoor exposures to asset-backed commercial paper programs, the unanticipated vulnerability of the repo market? Will it now help us identify the next tail risk, even if it is similarly hidden where our regular supervisory and risk management practices are still not making us look? 
+
+It is very possible that stress testing—with its heightened focus on analyzing the most granular exposures hidden on and off bank balance sheets—would have captured some of those pre-crisis market pathologies before the financial crisis was preordained. It is possible, in particular, that stress testing could have helped track the migration of risks from banks to markets, other companies, and back to themselves in opaque ways (Observation 5). 
+
+Even today, market-based finance accounts for a larger share of finance and the economy in the U.S. than in any other large industrialized country. For that reason, it is particularly risky for U.S. regulators to focus so much of their supervisory energy on the banking sector. Stress testing of other significant financial institutions is essential. Supervisors have begun to extend stress testing to nonbanks, such as insurance companies and mutual funds. It can also 
+
+
+be extended to financial markets. For example, Paddrik and Young (2017) applied the Fed’s stress-test scenarios to derivatives market data to assess the ability of a central counterparty to withstand a severe credit shock. Such exercises require more and better data about individual firms’ exposures and their connections to each other in key markets. There may be many such opportunities to extend stress-test practices beyond bank balance sheets to increase the chance we will not be caught by surprise next time. 
+
+## **VI. References** 
+
+Bank of England. “Stress testing the UK banking system:  key elements of the 2019 annual cyclical scenario.” March 2019. Available at https://www.bankofengland.co.uk//media/boe/files/stress-testing/2019/stress-testing-the-uk-banking-system-keyelements-of-the-2019-stress-test.pdf. 
+
+Bernanke, Ben S. “Stress Testing Banks: What Have We Learned?” At the Maintaining Financial Stability: Holding a Tiger by the Tail financial markets conference sponsored by the Federal Reserve Bank of Atlanta, Stone Mountain, Georgia, April 8, 2013. 
+
+Board of Governors of the Federal Reserve System (2018a). “Amendments to the Regulatory Capital, Capital Plan, and Stress Test Rules.” Notice of proposed rulemaking with request for comment, Federal Register Vol. 83, No. 80, April 25, 2018, pp. 18160-88. 
+
+Board of Governors of the Federal Reserve System (2018b). “Large Financial Institution Rating System; Regulations K and LL.” Final rule, _Federal Register_ Vol. 83, No. 225, Nov. 21, 2018, pp. 58724-39. 
+
+Board of Governors of the Federal Reserve System (2019a). “Amendments to Policy Statement on the Scenario Design Framework for Stress Testing.” Final Rule, _Federal Register_ Vol. 84, No. 40, Feb. 28, 2019, pp. 6651-64. 
+
+Board of Governors of the Federal Reserve System (2019b). “Stress Testing Policy Statement.” Final Rule, _Federal Register_ Vol. 84, No. 40, Feb. 28, 2019, pp. 6664-71. 
+
+Board of Governors of the Federal Reserve System (2019c). “Federal Reserve Board announces it will limit the use of the ‘qualitative objection’ in its Comprehensive Capital Analysis and Review (CCAR) exercise, effective for the 2019 cycle.” Press Release, March 6, 2019. Available at https://www.federalreserve.gov/newsevents/pressreleases/bcreg20190306b.htm. 
+
+
+Board of Governors of the Federal Reserve System (2019d). “Dodd-Frank Act Stress Test 2019: Supervisory Stress Test Methodology.” March 2019. Available athttps://www.federalreserve.gov/publications/files/2019-march-supervisory-stresstest-methodology.pdf. Clark, Tim P. “Is the Fed in Retreat?” _Politico_ , April 9, 2019. Available at https://www.politico.com/agenda/story/2019/04/09/federal-reserve-stress-tests-banks000889. 
+
+The Clearing House Association. “Re: Stress Testing Transparency Proposals (Docket Nos. OP-1586, OP-1587 and OP-1588).” Comment letter, Jan. 22, 2018.017, pp. 479-565. 
+
+Cordell, Larry, Greg Feldberg, and Danielle Sass. “The Role of ABS CDOs in the Financial Crisis.” _Journal of Structured Finance_ Vol. 25, No. 1, Spring 2019. 
+
+Covitz, Daniel, Nellie Liang, and Gustavo A. Suarez. “The Evolution of a Financial Crisis: Collapse of the Asset-Backed Commercial Paper Market.” _The Journal of Finance_ , Vol. 68, No. 3, June 2013, pp. 815-848. 
+
+Federal Reserve Bank of Minneapolis. _The Minneapolis Plan to End Too Big To Fail_ . December 2017. 
+
+Financial Services Forum. “Re: Amendments to the Regulatory Capital, Capital Plan, and Stress Test Rules (Federal Reserve Board Docket No. R-1603, RIN 7100 AF-02).” Comment letter, June 25, 2018. 
+
+Frame, W. Scott, Kristopher Gerardi, and Paul Willen. “The Failure of Supervisory Stress Testing: Fannie Mae, Freddie Mac, and OFHEO.” Federal Reserve Bank of Boston Working Paper No. 15-4, Oct. 19, 2015. 
+
+Greenwood, Robin, Jeremy C. Stein, Samuel G. Hanson, and Adi Sunderam. “Strengthening and Streamlining Bank Capital Regulation.” Brookings Papers on Economic Activity, Fall 2 
+
+Hirtle, Beverly. “Structural and Cyclical Macroprudential Objectives in Supervisory Stress Testing.” Remarks at the Effects of Post-Crisis Banking Reforms, Federal Reserve Bank of New York, June 22, 2018. 
+
+Hirtle, Beverly, Til Schuermann, and Kevin Stiroh. “Macroprudential Supervision of Financial Institutions: Lessons from the SCAP.” Federal Reserve Bank of New York Staff Report no. 409, November 2009. 
+
+
+Liang, Nellie. “Financial Regulations and Macroeconomic Stability.” Keynote address at the International Finance and Banking Society, Said Business School, Oxford University, July 15, 2017. 
+
+Paddrik, Mark, and H. Peyton Young. “How Safe are Central Counterparties in Derivatives Markets?” Office of Financial Research Working Paper 17-06, November 2, 2017. 
+
+Quarles, Randal K. “Statement by Randal K. Quarles, Vice Chair for Supervision, Board of Governors of the Federal Reserve System, before the Committee on Banking, Housing, and Urban Affairs.” U.S. Senate, May 15, 2019. 
+
+Schuermann, Til. “Stress Testing in Wartime and in Peacetime,” in Ronald W. Anderson, ed., _Stress Testing and Macroprudential Regulation: A Trans-Atlantic Assessment_ . CEPR Press, London, 2016, pp. 125-140. 
+
+Schuermann, Til. “The Fed’s Stress Tests Add Risk to the Financial System.” _Wall Street Journal_ , March 19, 2013. 
+
+Stanton, Thomas H. _Why Some Firms Thrive While Others Fail: Governance and Management Lessons from the Crisis_ . Oxford University Press, July 5, 2012. 
+
+Tarullo, Daniel K. “Taking the Stress Out of Stress Testing.” Remarks at Americans for Financial Reform Conference on Big Bank Regulation Under the Trump Administration, Washington, D.C., May 21, 2019. 
+
+Copyright 2019, 2021 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu.

@@ -1,0 +1,1550 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 1 
+2022 
+The Rescue of the US Auto Industry, Module E: Emergency The Rescue of the US Auto Industry, Module E: Emergency 
+Assistance for Chrysler Financial Assistance for Chrysler Financial 
+Alexander Nye 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, Finance and 
+Financial Management Commons, Growth and Development Commons, Policy Design, Analysis, and 
+Evaluation Commons, Public Administration Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Nye, Alexander (2022) "The Rescue of the US Auto Industry, Module E: Emergency Assistance for Chrysler 
+Financial," Journal of Financial Crises: Vol. 4 : Iss. 1, 221-255. 
+DOI: https://doi.org/10.17132/2693-3179.1262 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/6 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss1/6
+
+--- Page 3 ---
+The Rescue of the US Auto Industry, Module E: 
+Emergency Assistance for Chrysler Financial1 
+Alexander Nye2 
+Yale Program on Financial Stability Case Study 
+February 24, 2020; Revised Date: April 8, 2022 
+Abstract 
+In the fall of 2008, due to the confluence of the Global Financial Crisis and years of structural 
+decline in the auto industry , Chrysler was nearing bankruptcy. Chrysler’s related finance 
+company, Chrysler Financial, was also in dire straits. On December 19, 2008, President Bush 
+announced the Automotive Industry Financing Program and that the US Treasury would 
+extend Chrysler a $4 billion Bridge Loan to give the company time to prepare a viable 
+restructuring plan. Two weeks later, the Treasury arranged $1.5 billion in low -interest 
+financing for Chrysler Financial to fund the securitization of new consumer car loans and the 
+facility subjected Chrysler Financial to several management restrictions, most of which 
+related to executive compensation. Chrysler Financial drew down the entire $1.5 billion 
+between January 16 and April 9, 2009. When Chrysler entered bankruptcy  on April 30, 
+GMAC, General Motors’ related auto finance company, took over most of Chrysler Financial’s 
+business. Chrysler Financial continued to do business at a much smaller scale  and Treasury 
+expected Chrysler Financial to wind  down its business. Although the loan bore a five -year 
+term, Chrysler Financial paid off the loan in July after accessing another government 
+program, the Term Asset-Backed Securities Loan Facility (TALF)  and continued to operate . 
+In December 2010, TD Bank bought Chrysler Financial from Cerberus, its major shareholder, 
+for $6.3 billion. Commentators do not have much to say on the impact of the government’s 
+ 
+1 This case is one of eight Yale Program on Financial Stability (YPFS) modules considering the various elements 
+of the government’s rescue of the US auto Industry and published in 2022: 
+• “The Rescue of the US Auto Industry, Module A: Automotive Bridge Loans” by Alexander Nye. 
+• “The Rescue of the US Auto Industry, Module B: Restructuring General Motors Through Bankruptcy” 
+by Kaleb B. Nygaard. 
+• “The Rescue of the US Auto Industry , Module C: Restructuring Chrysler Through Bankruptcy” by 
+Alexander Nye. 
+• “The Rescue of the US Auto Industry , Module D: Emergency Assistance to Ally Financial (formerly 
+GMAC)” by Riki Matsumoto and Kaleb B. Nygaard.  
+• “The Rescue of the US Auto Industry , Module E: Emergency Assistance for Chrysler Financial” by 
+Alexander Nye.  
+• “The Rescue of the US Auto Industry, Module F: Auto Supplier Support Program” by Riki Matsumoto.  
+• “The Rescue of the US Auto Industry , Module G: The Auto Warranty Commitment Program” by 
+Benjamin Henken.  
+• “The Rescue of the US Auto Industry , Module Z: Overview” by Rosalind Z . Wiggins, Greg Feldberg, 
+Alexander Nye, and Andrew Metrick.  
+Cases are available from the Journal of Financial Crises at https://elischolar.library.yale.edu/journal-of-
+financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+221
+
+--- Page 4 ---
+aid for Chrysler Financial, although the $1.5 billion facility coincided with several months of 
+increased sales.   
+Keywords: AIFP, auto finance, Chrysler, Chrysler Financial, manufacturing, securitization, 
+TALF, TARP 
+222
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 5 ---
+At a Glance  
+In late 2008, due to the confluence of the 
+financial crisis and years of structural 
+decline in the auto industry , Chrysler , a 
+large auto manufacturer,  was nearing 
+bankruptcy ( Klier and Rubenstein 2012, 
+35–37). Treasury provided Chrysler 
+Holding (direct parent of Chrysler and 
+Chrysler Financial) with a $4 billion Bridge 
+Loan under the Emergency Economic 
+Stabilization Act of 2008 (Office of 
+Financial Stability 2018 ; Canis et al. 2009 , 
+9; Nye 2021a). That funding was based on 
+the idea that saving auto finance companies 
+required saving the auto manufacturers to 
+which they were tied, and vice versa ( COP 
+2009, 74–76).  
+Chrysler’s related finance company, 
+Chrysler Financial, was chafing under 
+nearly frozen asset-backed securities (ABS) 
+markets and asked the US government for 
+$2.5 billion in aid to fund new loans (Kolka 
+2009, 30). In January 2009, the US 
+government agreed to provide Chrysler 
+Financial $1.5 billion in financing to fund 
+new consumer automotive loans (Treasury 
+2009a). 
+This financing was structured in a manner that mimicked auto loan securitizations and was 
+offered to Chrysler Financial under favorable interest rates (Bansal and Krolicki 2008; Nye 
+2021b). The financing also imposed several restrictions on Chrysler Financial ’s 
+management, mostly related to executive compensation. 
+The financing facility was announced and became operational on January 16, 2009 (Treasury 
+2009a). Once Chrysler Financial received the financing, Chrysler  sales grew for  several 
+months (Mitchell 2009). Chrysler Financial fully drew on the facility by April  9, 2009 (GAO 
+Summary of Key Terms 
+Purpose: To finance the day-to-day operations of 
+Chrysler Financial through the first quarter of 2009 
+by financing new consumer auto loans in connection 
+with the overall restructuring of Chrysler. 
+Announcement date January 16, 2009 
+Operational date January 16, 2009 
+Maturity date  January 16, 2014 
+Date repaid July 14, 2009 
+Legal authority Emergency Economic 
+Stabilization Act of 2008 
+(EESA), § 101 (a)(1), § 3 (9) 
+Rate  Year 1: 1-month LIBOR plus 
+100 basis points 
+ Years 25: 1-month LIBOR 
+plus 150 basis points 
+Collateral Two classes of variable 
+funding floating-rate asset-
+backed notes issued by a 
+trust holding liens on all 
+property related to the auto 
+loans financed by the TARP 
+loan to Chrysler Financial     
+Funder US Department of the 
+Treasury  
+Participants Chrysler Financial Services 
+Americas LLC, Chrysler 
+Balloon Depositor II LLC, 
+Chrysler LB Receivables 
+Trust 
+Amount used $1.5 billion 
+ 
+Emergency Assistance for  
+Chrysler Financial 
+ 
+223
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 6 ---
+2009c, 62). Upon finding that it would not receive additional aid, the company paid off the 
+loan on July 14, 2009 , through its participation in the Term Asset -Backed Securities  Loan 
+Facility (TALF) (PR Newswire 2009e). 
+When Chrysler entered bankruptcy on April 30, 2009, Chrysler Financial did not join that 
+action (Kellogg and Bennett 2009). Instead, a large portion of its assets were sold to, and its 
+floorplan finance operations taken over by, GMAC, the financing partner of General Motors 
+(COP 2010, 59). Treasury indirectly supported GMAC and Chrysler Financial in the transition 
+(GMAC LLC 2009 , PDF pp. 1–2; Docket 6273 2009, PDF p.  62). Chrysler Financial was 
+expected to be wound down, but Cerberus  Capital Management, its ultimate parent, sold it 
+to TD Bank in 2010 (COP 2011, 9–12).  
+Summary Evaluation 
+The effectiveness of the aid to Chrysler Financial is not clear. Chrysler Financial survived 
+2009, and Chrysler survived long enough to enter a planned bankruptcy (Kellogg and 
+Bennett 2009 ). There were questions as to the extent the program actually  benefited 
+Chrysler or Chrysler dealers (Reuters News 2009; Stein 2009).  Commentators do not have 
+much to say on the impact of the government’s aid for Chrysler Financial, although the $1.5 
+billion facility coincided with several months of increased sales.   
+224
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 7 ---
+Context: United States 2008–2009 
+GDP 
+(SAAR, Nominal GDP in LCU converted 
+to USD) 
+$14,559.5 billion in 2008 
+$14,628.0 billion in 2009 
+GDP per capita 
+(SAAR, Nominal GDP in LCU converted 
+to USD) 
+$48,383 in 2008 
+$47,100 in 2009 
+Sovereign credit rating (5-year senior 
+debt) 
+ 
+As of Q4, 2008: 
+ 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+As of Q4, 2009: 
+ 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+Size of banking system 
+ 
+$9,938.3 billion in total assets in 2008 
+$9,789.1 billion in total assets in 2009 
+Size of banking system as a percentage 
+of GDP 
+ 
+68.3% in 2008 
+66.9% in 2009 
+Size of banking system as a percentage 
+of financial system 
+ 
+Banking system assets equal to 30.5% 
+of financial system in 2008 
+Banking system assets equal to 30.2% 
+of financial system in 2009 
+5-bank concentration of banking 
+system 
+ 
+44.9% of total banking assets in 2008 
+44.3% of total banking assets in 2009 
+Foreign involvement in banking 
+system 
+18% of total banking assets in 2008 
+16% of total banking assets in 2009 
+Government ownership of banking 
+system 
+ 
+0% of banks owned by the state in 
+2008 
+0% of banks owned by the state in 
+2009 
+Existence of deposit insurance 
+100% insurance on deposits up to 
+$250,000 in 2008 
+100% insurance on deposits up to 
+$250,000 in 2009 
+Sources: Federal Deposit Insurance Corporation; World Bank Bank Regulation and 
+Supervision Survey; World Bank Global Financial Development Database; Bloomberg. 
+ 
+225
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 8 ---
+I. Overview 
+Background 
+By the time that two of America’s largest auto makers, General Motors (GM) and Chrysler, 
+obtained a $17.4 billion financing commitment from the George W. Bush administration on 
+December 19, 2008, they had been in dire straits for several years (Klier and R ubenstein 
+2012, 35–36; Paulson 2010, 361). This was due to a combination of declining market share, 
+miscalculated labor arrangements, slim profit margins, and reliance on gas-guzzling vehicles 
+for profit ( COP 2011, 9 –11; Canis et al. 2009, 1 –2). The Global Financial Crisis had been 
+raging for more than a year, and consumer confidence and access to credit was evaporating 
+(COP 2011, 911). The companies and the rest of the American auto industry were insolvent 
+and unable to fund themselves (COP 2011, 911).  
+Credit was and is the lifeblood of the American auto industry (Canis et al. 2009, 46 50). 
+Dealers use cheap financing to buy cars for their showrooms. Before the crisis, 
+manufacturers themselves typically provided this “floorplan financing” t hrough captive (or 
+de facto captive) finance companies such as General Motors Acceptance Corporation (GMAC) 
+for GM, Ford Motor Credit for Ford, and Chrysler Financial for Chrysler  (Canis et al. 2009, 
+46–50).3 Credit is equally important to fund consumer purchases , because “90 percent of 
+consumers finance automobile purchases through loans, either directly from the 
+manufacturers” financing arms or through third-party financial institutions” (COP 2009, 7). 
+Both kinds of credit typically take the form of loans from third -party banks and the same 
+captives. If these two kinds of financing are not available, sales in the US auto market can 
+collapse (Canis et al. 2009, 46–50). 
+Before the crisis, the companies providing auto financing frequently obtained funding by 
+securitizing the loans ; for example, by packaging loans into asset -backed securities (ABS), 
+bonds that are sold to provide immediate cash that can be re -lent (GM Financial n.d.). Prior 
+to the crisis, securitization financed about a third of all US auto loans (Campbell et al. 2011, 
+PDF p. 3).  
+Chrysler Financial: From Crown Jewel to Chief Liability 
+In 2007, Daimler-Chrysler sold an 81% stake in Chrysler Holding (the direct parent company 
+of Chrysler and Chrysler Financial) to private-equity company Cerberus Capital Management 
+(Cerberus) (Bel Bruno and AP Newswires 2007). The sale of Chrysler Holding does not  
+appear to have been caused by the crisis, but it was complicated by the crisis , making it 
+difficult to access the needed funding (Bel Bruno and AP Newswires 2007).  
+ 
+3 In 2008, GMAC, which was GM’s former captive auto finance company , and Chrysler Financial were both 
+controlled by Cerberus Capital Management (Cerberus), but each was still informally acting as a captive finance 
+company for their respective brands (COP 2010, 9) 
+226
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 9 ---
+Daimler was losing money on Chrysler and expected losses to continue to grow due to 
+Chrysler’s future benefit liabilities (Isidore 2007). For that reason, it sold Chrysler for one -
+fifth of what it had paid nine years earlier (Isidore 2007). 4 After the sale, DaimlerChrysler 
+and DaimlerChrysler Financial were rename d Chrysler and Chrysler Financial, respectively 
+(Isidore 2007; Chrysler Financial Auto Securitization Trust 2009-B 2009, 16). This split from 
+Daimler would cause Chrysler Financial to lose its business providing auto financing for 
+Mercedes and Maybach in North America. 
+Credit conditions were bad and getting worse by fall of 2008. From early 2008 through at 
+least mid-2009, the market for ABS was essentially nonexistent (COP 2010, 34, 55). Chrysler 
+Financial had tried to renew its $30 billion line of credit from 22 large banks but had to settle 
+for just $24 billion on August 4, 2008. Credit was also growing increasingly expensive (Koons 
+2008). The banks lent the $24 billion at an interest rate of between LIBOR plus 110 basis 
+points and LIBOR plus 225 basis points, a rate that was unexpectedly high and which would 
+have made offering attractive consumer financing difficult (Rappaport 2008 ; Boudette 
+2008). Also, as a condition of its new financing, Chrysler Financial rapidly tightened lending 
+requirements, increased interest rates, stopped leasing vehicles to consumers, and began 
+charging Chrysler dealerships additional fees for older unsold inventory (Banks 2008).  
+These factors crippled Chrysler’s ability to sell vehicles, which had been under pressure since 
+early 2008 when Cerberus had directed it  to reduce the number of dealerships.  (Banks 
+2008). It is especially important to note that Chrysler Financial had a significantly lower 
+debt-to-equity ratio than its peers, but Treasury considered i ts situation to be worse than 
+that of GMAC because all of its outstanding debt was set to mature in July 2009 ( COP 2010, 
+22; Picarillo and Laterza 2009). 
+The Path to Aiding Chrysler Financial 
+Throughout 2008, automotive sales for the Big Three —GM, Chrysler, and Ford —rapidly 
+declined due to a combination of factors: “ rising gasoline prices, tightening credit markets, 
+eroding consumer confidence, high unemployment, and discretionary spending conc erns” 
+(COP 2009). Automobile sales in the United States and abroad were down 18 percent lower 
+than the previous year ’s. The tightened credit market was particularly significant because 
+the overwhelming majority of c onsumers finance auto purchases, directly through the 
+manufacturer’s financing arm or from a third party. (COP 2009 ,7). “The particularly weak 
+condition of the financing arms of Chrysler and GM —Chrysler Financial and GMAC, 
+respectively—exacerbated the manufacturers ’ plummeting sales as the credit markets 
+seized up” (Bureau of Economic Analysis 2019; COP 2009, 7). 
+In response  to the manufacturers’ requests , in December, the Bush administration 
+announced a $4 billion Bridge Loan to Chrysler Holding to pay for Chrysler’s operating costs 
+and a $13.4 billion loan to GM under the Troubled Asset s Relief Program (TARP) ( see Nye 
+2021a for more on the late-2008 funding for the auto industry; Kolka 2009, 30). As discussed 
+in Key Design Decision No. 1, use of TARP funds was controversial and at first President Bush 
+ 
+4 Daimler had paid $37 billion for Chrysler, but sold the automaker to Cerberus for $7.4 billion ( Isidore 2007).  
+227
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 10 ---
+and Treasury Secretary Henry M. Paulson, Jr., did not believe that Congress had authorized 
+TARP funds to be used for an auto bailout . However, the Bush administration  ultimate 
+determined that the statute was broad enough to provide relief.  Among other arguments, 
+Treasury relied on the nexus between GM and Chrysler and  their respective finance 
+companies, GMAC and Chrysler Financial, and the critical role that financing  played in the 
+industry to support funding under TARP (COP 2009, 70; Wiggins, Metrick, and Nye 2021).  
+At the end of December 2008, Treasury also promised up to $6 billion in aid for Chrysler 
+Financial’s competitor, GMAC (Shepardson 2009). Officials from the two Chrysler companies 
+complained that the aid put Chrysler Financial , and therefore Chrysler , at a “competitive 
+disadvantage” ( Shepardson 2009 ).5 On January 16, 2009, days after the complaints were 
+aired to the press, Treasury announce d $1.5 billion in aid from TARP to Chrysler Financial 
+as a measure to improve consumer access to credit and prop up auto sales Treasury 2009a).  
+Program Description 
+Use of the Federal Reserve’s Broad-Based Liquidity Programs 
+In an attempt to stabilize itself, Chrysler accessed two broad Federal Reserve programs that 
+assisted Chrysler Financial’s auto finance business . The Commercial Paper Funding Facility 
+(CPFF), which launched on October 27, 2008 , was designed to backstop the commercial 
+paper market and revive term lending . The CPFF provided funding for third parties to 
+purchase highly rated unsecured and asset -backed commercial paper from eligible issuers 
+(Wiggins 2020). Between October 27, 2008, and September 8, 2009, $4.82 billion of Chrysler 
+Financial Auto Conduit Receivables were purchased under the auspices of the CPFF 
+(BdofGov n.d.).  
+Another broad Fed program accessed by Chrysler Financial was the Term Asset -Backed 
+Securities Loan Facility ( TALF), which was intended to stimulate the renewed issuance of 
+consumer and small business loans by facilitating the securitization of such loans at more 
+normal interest rate spreads (Rhee 2020). Specifically, the TALF allowed eligible institutions 
+to borrow from the Federal Reserve Bank of New York (FRBNY) using, as collateral , among 
+other types, newly-issued auto loan asset -backed securities  (ABS) (Rhee 2020). Chrysler 
+Financial issued enough auto ABS, some funded under TALF, so that on July 14, 2009 it was 
+able to repay the remaining principal , interest, and amounts due under the vested notes 
+owing with respect to the Chrysler Financial Trust Loan . (GAO 2009 c; Langlois 2009). It 
+seems the conditions and cost of the TALF loans may have been preferable to continuing to 
+pay the fees associated with , and comply with, the executive compensation restrictions of 
+the Chrysler Financial Trust Loan.  
+The Two Interventions Customized for Chrysler 
+ 
+5 As part of Chrysler’s requests for aid from TARP, Chrysler had asked for $2.5 billion to aid Chrysler Financial’s 
+floorplan and consumer financing operations (Kolka 2009, 30). This request was subsequently lowered to $1.5 
+billion in aid that would be allocated to only consumer financing (Kolka 2009, 30).  
+228
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 11 ---
+Two government interventions were customized for Chrysler and Chrysler Financial. In 
+early 2009 Chrysler Financial accessed a $1.5 billion lending facility from Treasury under 
+the Troubled Asset s Relief Program (TARP) (Office of Financial Stabilit y 2018) . After 
+Chrysler Financial drew down that funding, the company became involved in Treasury’s 
+restructuring of Chrysler via the bankruptcy code ; this led to the second intervention. (COP 
+2010, PDF pp.  26, 46) de Starting in late  April 2009, as part of Chrysler’s bankruptcy 
+proceedings, Treasury facilitated  the replacement of Chrysler Financial by GMAC as 
+Chrysler’s auto finance partner (Treasury n.d., 5; COP 2010, 27,49).6 
+Treasury’s $1.5 billion Funding Facility under TARP 
+Pursuant to a loan agreement, dated January 14, 2009 , between Treasury and Chrysler LB 
+Receivables Trust, a bankruptcy-remote trust established by Chrysler Financial (“Chrysler 
+Financial Trust”), Treasury provided $1.5 billion in aid for Chrysler Financial that would fund 
+a new pool of Chrysler Financial ABS (the Chrysler Financial Trust Loan) (Bansal and Krolicki 
+2008; Chrysler Financial Services and Treasury 2009 , PDF p . 5; Treasury 2009 a). The 
+ultimate purpose of the program was the same as the original $17.4 billion Bridge Loan  
+program that provided funding to GM and Chrysler: to provide financing to “restore stability 
+to the domestic automobile industry in the United States” and “restore liquidity to its 
+business” (Nye 2021a ; Chrysler Financial Service s and Treasury 2009 , PDF p.  5). The 
+proximate purpose of the program was to finance retail loans made by Chrysler Financial on 
+or after January 1, 2009, with respect to the purchase of Chrysler vehicles, including cars, 
+light-duty trucks, and recreational vehicles  to “stimulate manufacturing and sales” of such 
+vehicles Treasury n.d. ; Chrysler Financial Services and Treasury 2009 , PDF p.  5). It was 
+thought that the extension and securitization of new consumer loans would temporarily help 
+keep Chrysler Financial and thus, Chrysler, afloat (Treasury n.d.; Chrysler Financial Services 
+and Treasury 2009 , PDF pp. 5, 47–73; Dombey and Simon 2009) . Tangentially, this would 
+preserve jobs of American workers employed directly by the manufacturers and in related 
+industries and “safeguard the ability of the [manufacturers and their affiliates]  to provide 
+retirement and health care benefits for their retirees and their dependents” (Chrysler 
+Financial Services and Treasury 2009, PDF p. 5).  
+Authority: Funding for the Chrysler Financial Trust Loan came from Treasury’s Automotive 
+Industry Financing Program (AIFP), which Treasury authorized under TARP pursuant to the 
+Emergency Economic Stabilization Act of 2008 (EESA). This was the same authority 
+ 
+6 On March 30, 2009, Treasury had released a Determination of Viability for GM and Chrysler (Treasury 2009b). 
+In the Chrysler document, the US government announced its expectations for Chrysler Financials’ future 
+(Treasury 2009 b, PDF p. 5). In spite of Chrysler’s reliance on Chrysler Financial for nearly ha lf of its sales, 
+Treasury cited the possibly divergent customer mix, “ separation and independence of Chrysler Financial and 
+increased credit standards,” and “substantial financing challenges” faced by Chrysler Financial as causes for its 
+suggestion that Ch rysler’s “future demand may depend on [its] finding alternate lending sources” ( Treasury 
+2009b, PDF p. 5). This meant that Chrysler would likely further distance itself from Chrysler Financial, and 
+Chrysler Financial would have to survive as a third-party auto finance company that would not follow Chrysler 
+into the bankruptcy process (COP 2010, 27, 49).  
+229
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 12 ---
+Treasury relied on for all of its direct aid to the aut o industry (Office of Financial Stability 
+2018). 
+Loan Terms: Treasury agreed to loan up to $1.5 billion to Chrysler Financial Trust. Treasury 
+would make advances under the Chrysler Financial Loan commitment in specified amounts 
+on several funding dates specified in the agreement upon Chrysler Financial Trust’s request. 
+Once advances were repaid, they could not be re -borrowed. The initial funding date was 
+January 16, 2009 (Chrysler Financial Services and Treasury 2009, PDF p. 60).7 The loan was 
+for a term of five years and all advances were fully repayable on January 16, 2014, along with 
+any outstanding interest and/or fees (Treasury n.d.). Advances could be prepaid by Chrysler 
+Financial Trust in wh ole or in part. However, in the event of any prepayment, Chrysler 
+Financial Trust would be responsible for making Treasury whole for any losses or costs that 
+it suffered in redeploying funds maintained for advances (Chrysler Financial Services and 
+Treasury 2009, PDF pp. 7, 11).  
+Each advance under the loan was evidenced by two classes of Variable Funding Floating Rate 
+Asset Backed Notes (promissory notes) issued to Treasury by Chrysler Financial Trust 
+(Chrysler Financial Services and Treasury 2009, PDF pp. 10, 137, 145).8 (See Figure 1.) Class 
+A promissory notes  required Chrysler Financial Trust to pay Treasury the outstanding 
+principal and interest on the advance on a monthly basis ( Chrysler Financial Services and 
+Treasury 2009, PDF pp. 90, 171172; Treasury 2009a, PDF pp. 1–2). Principal and interest 
+accrued at a rate of LIBOR plus 100 basis points for the first year and LIBOR plus 150 basis 
+points for the second through fifth years. For Class A notes, overdue installments of interest 
+accrued interest at a penalty rate of LIBOR plus 4% for the first year and LIBOR plus 4.5% 
+for years two through five (Chrysler Financial Services and Treasury 2009, PDF p. 184). 
+  
+ 
+7 We have not been able to determine other funding dates, or their frequency, as this information was included 
+on Appendix A to the agreement, which is fully redacted in the public copy of the agreement. However, we do 
+know that Chrysler Financial Trust drew on the facility multiple times before April 9, 2009 (Chrysler Financial 
+Services and Treasury 2009, PDF p. 60; GAO 2009a, 62). 
+8 Treasury could have received a third class of these notes (called Class C notes) in the event that Chrysler 
+Financial wanted to deploy supplemental loans that enhanced the credit of the ABS master trust through 
+overcollateralization (although it is not clea r whether these loans would have been extended by the US 
+government or some other entity) ( Treasury 2009a, PDF p. 2). However, Chrysler Financial appears to have 
+chosen not to draw on these supplemental loans (Chrysler Financial Services and Treasury 2009, PDF pp. 154-
+162, 171–179). The Class C notes appear to have carried the same interest rate and many of the terms  of the 
+other notes (Chrysler Financial Services and Treasury 2009, PDF pp. 154162, 171179). 
+230
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 13 ---
+Figure 1: Attributes of Promissory Notes  
+ 
+ 
+Source: Chrysler Financial Services and Treasury 2009. 
+ 
+Class B note s, also issued to Treasury by Chrysler Financial Trust in connection with all 
+advances, functioned as additional consideration , fulfilling Treasury’s requirement that it 
+had to receive “a warrant for common or preferred stock, or a senior debt instrument” when 
+it purchased troubled assets from financial institutions under EESA Section 113(d)(1)(b) 
+(EESA, § 113(Chrysler Financial Services and Treasury 2009, PDF p. 179).). Class B notes had 
+the same terms and maturity dates as the Class A Notes.  Treasury re ceived 5% of the 
+maximum loan amount, or $15 million, at closing and on each anniversary of the closing, up 
+to a total of $75 million. The Class B notes ranked below the Class A notes in the payment 
+waterfall (See Figure 2).   
+Note category Class A  Variable Funding Floating 
+Rate Asset Backed Notes 
+Class B Variable Funding Floating Rate 
+Asset Backed Notes 
+Principal • Minimum principal: $100 million 
+• Maximum principal: $1.5 billion 
+• Actual principal: $1.5 billion 
+• $75 million, with $15 million vested at 
+closing and on each anniversary of the 
+loan closing in which the loan is 
+outstanding 
+Interest rate • Year 1: 1-month LIBOR plus 100 
+basis points (bps)  
+• Years 2–5: 1-month LIBOR plus 150 
+bps 
+• (penalty rate adds 300 bps) 
+• Year 1: 1-month LIBOR plus 100 bps  
+• Years 2–5: 1-month LIBOR plus 150 
+bps 
+• (penalty rate adds 300 bps) 
+Term • Five years (beginning January 16, 
+2009) 
+• Five years (beginning January 16, 
+2009) 
+Purpose • To enable the securitization trust to 
+fund retail loans made on or after 
+January 1, 2009, to finance the 
+purchase of Chrysler automobiles 
+• Issued as additional consideration for 
+the Treasury in lieu of warrants, to 
+fulfill the EESA Section 113(d)(1)(b) 
+requirement 
+Security (Class 
+A and Class B 
+notes) 
+• All pooled receivables and related 
+property 
+•  The collection account and its 
+contents  
+• Hedges entered or acquired by 
+Chrysler Financial Trust 
+• Any right to payment facilitated by 
+the financing 
+• Same as Class A 
+231
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 14 ---
+Figure 2: Payment Priority 
+Name and type of 
+obligation 
+Principal  Recipient  Priority  
+Trustee fees Assessed monthly, but 
+must in total be less than 
+or equal to $100,000 per 
+annum 
+Pro rata among priority 1 to the Indenture 
+Trustee and the Owner Trustee 
+1 
+Servicing fees The servicer fee assessed 
+and any unpaid monthly 
+servicer fees 
+Pro rata among priority 1 to the Servicer 
+(Chrysler Financial) 
+1 
+Hedging fees Net payments assessed 
+monthly (excluding 
+termination payments)  
+Hedge counterparties 2 
+Interest, fees, and 
+costs of relevant 
+Notes 
+Assessed monthly  Class A note holders (Treasury); Class B 
+note holders (Treasury); Class C note 
+holders (Chrysler Retail Residual 
+Depositor LLC, which could then transfer 
+them to Chrysler Retail Residual Trust) 
+3 
+Principal on relevant 
+Notes 
+Outstanding principal 
+amount under relevant 
+notes until said 
+outstanding principal has 
+been reduced to zero 
+Class A note holders (Treasury); Class B 
+note holders (Treasury); Class C note 
+holders (Chrysler Retail Residual 
+Depositor LLC, which can then transfer 
+them to Chrysler Retail Residual Trust) 
+4 
+Trustee fees 
+overflow 
+Any fees owed beyond the 
+$100,000 per annum cap 
+Indenture Trustee and Owner Trustees 5 
+Termination fees 
+under hedges 
+ Hedge counterparties 6 
+Distributions to 
+Trust certificate 
+holders 
+ Certificate holder (assumed to be Chrysler 
+Financial) 
+7 
+ 
+Source: Chrysler Financial Services and Treasury 2009 
+Collateral/Security: The loan and Treasury’s right to payment of principal and interest under 
+the notes were secured by all the property of the Chrysler Trust, the pool of loans that it 
+purchased and the related receivables, the funding account and any hedges. These were held 
+by the Indent ure Trustee, who held perfected first -priority liens on all of Chrysler Trust’s 
+property for Treasury’s benefit (Chrysler Financial Services and Treasury 2009, PDF pp. 15, 
+72, 79–81, 288–289). 9 
+Mechanics: As illustrated in Figure 3, the legal structure of the loan mimicked that of an auto 
+securitization, with the US Treasury playing the role of the bond-buying investor. (See Figure 
+2). Proceeds of the loan were received by Chrysler Trust, a bankruptcy-remote ABS master 
+ 
+9 The indenture trustee’s (Deutsche Bank Trust Company Americas) role was to act as trustee on behalf of those 
+holding the various notes (Class A, Class B, and Class C) issued by Chrysler Trust ( Chrysler Financial Services 
+and Treasury 2009, PDF p. 60). The  indenture trustee had a number of other duties to Treasury and Chrysler 
+Trust under an indenture agreement (Chrysler Financial Services and Treasury 2009, PDF pp. 79–81). 
+232
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 15 ---
+trust (Chrysler Financial Services and Treasury 2009 , PDF pp. 171172). The Chrysler 
+Financial Loan promoted the sale of Chrysler vehicles through the following process: 
+ 
+ 
+Source: Created by YPFS; based on Chrysler Financial Services and Treasury 2009. 
+Chrysler Financial would make loans to consumers buying Chrysler vehicles, then bundle 
+these loan receivables into a pool that it would sell to a bankruptcy-remote special purpose 
+entity (SPE) created for this purpose, which was called Chrysler Balloon Dep ositor II LLC 
+(the “SPE” or the “Depositor”) ( Chrysler Financial Services and Treasury 2009 , PDF pp. 53, 
+64–65, 67). The SPE purchased the pooled receivables from Chrysler Financial using funds 
+it received from Chrysler Financial Trust , which held the proceeds from the Treasury loan 
+(Chrysler Financial and Treasury 2009, PDF p. 137–141, 274). Chrysler Financial Trust then 
+issued to Treasury two classes of notes providing for the repayment of the loan and for 
+additional consideration for Treasury. Thus, Chrysler Financial funded a new pool of 
+Chrysler Financial ABS, with Chrysler Financial Trust  acting as a purchaser for a uto loan 
+receivables (Chrysler Financial Services and Treasury 2009 , PDF pp. 5, 171173, 225–230; 
+Bansal and Krolicki 2008). This allowed Chrysler Financial to originate new loans and leases 
+for consumers at better terms, increasing its volume from the low levels of late 2008 
+(Chrysler Financial Services and Treasury 2009, PDF pp. 10, 47–73, 242–257).  
+Chrysler Financial serviced the pooled receivables held by Chrysler Financial Trust and used 
+the related proceeds from those receivables to fund the administrative fees associated with 
+the securitization, Chrysler Financial’s servicing fees, hedging costs, and the Chrysler 
+Financial Trust ’s loan repayments to Treasury as the holder of Chrysler Financial Trust ’s 
+notes (Chrysler Financial Services and Treasury 2009, PDF pp. 75–97, 115–117, 283). 
+Parent Company Guarantee: The loan documents also included a guarantee agreement under 
+which Chrysler Financial’s parent company, Chrysler Holding, guaranteed penalties that 
+Chrysler Financial might become obligated to pay if it violated “dividend and distribution 
+restrictions” contained in the loan agreement Treasury n.d. , PDF p.  3; Chrysler Financial 
+Services and Treasury 2009 , PDF p p. 237–241). We have not been able to determine the 
+substance of these restrictions; they have been redacted in the loan documents released to 
+the public (Chrysler Financial Services and Treasury 2009, PDF p. 342; Treasury 2009a, PDF 
+p. 3). 
+Executive Compensation Requirements: The executive compensation requirements imposed 
+by the loan aimed to limit the benefits and compensation enjoyed by Chrysler Financial 
+senior employees and executives. These restrictions were of two types: ( 1) regulations 
+Figure 3: Simplified Mechanics of the Facility 
+Source: Central Statistics Office 2019. 
+ 
+233
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 16 ---
+regarding compensation to senior executive officers issued by the Treasury in connection 
+with EESA programs10 and (2) restrictions contained in the loan agreement. It is not clear , 
+however, what restrictions were contained in the loan agreement, because these terms have 
+been redacted from the public version of the agreement. However, the term sheet for the 
+Chrysler Financial Trust loan (Loan Term Sheet) included the following: 
+(A) Chrysler Financial shall comply with EESA terms,  
+(B) Chrysler Financial shall comply in all respects with the limits on annual executive 
+compensation deductibles imposed by Section 162(m)(5) of the Code, as applicable;  
+(C) Chrysler Financial shall reduce by 40.00% the aggregate amount of bonus 
+compensation that may be paid to Senior Executive Officers [the top five highest-paid 
+officers] or Senior Employees [the next 20 most highly compensated employees] in 
+fiscal year 2009 from the aggregate bonus compens ation actually paid to such 
+employees in 2007, subject to certain adjustments; 
+(D) Chrysler Financial shall not adopt or maintain any compensation plan that would 
+encourage manipulation of its reported earnings to enhance the compensation of any 
+of its employees; and 
+(E) Chrysler Financial shall maintain all suspensions and other restrictions of 
+contributions to Benefit Plans that are in place or initiated as of the closing date” 
+Treasury n.d., PDF pp. 3–4). 
+In particular, the 40% bonus reduction appeared to be unusually restrictive compared to 
+similar TARP programs at the time. Treasury press releases referred to the proposed 
+executive compensation terms as “enhanced restrictions on executive compensation” 
+Treasury 2009a).11  
+Corporate Governance Terms: Pursuant to the loan agreement, Chrysler Financial was 
+required to suspend payment of dividends. It also had to comply with corporate governance 
+requirements imposed by EESA, which included, a semi-annual risk review by the 
+compensation committee and certain disclosures.12 
+Reporting Requirements and Administrative Burden: The reporting requirements included in 
+the loan between the US Treasury and Chrysler Financial Trust  were limited to standard 
+ 
+10 These terms were automatically imposed under 31 CFR 30 and Section 111 of EESA on organizations that 
+received TARP money (Treasury 2009d; EESA 2008).These rules defined Senior Executive Officer (SEO) as the 
+top five highest-paid officers and Senior Employees as the next 20 most highly compensated employees. Among 
+other conditions, th e rules prohibit or limit cash compensation, total compensation, short -term stock 
+incentives, severance payments, and the adoption of any new benefit plan for  SEOs who did not comply with 
+the rules.  
+11 As part of the loan agreements, Chrysler Financial and  its individual SEOs and executive officers were 
+required to sign individual waivers foregoing any claims against the company and Treasury for any changes to 
+any compensation (Chrysler Financial Services and Treasury 2009, PDF pp. 12 (Sec. O), 39–43.)  
+12 See pages A8-A9 of the Special Master’s letter for a list of these requirements (Feinberg 2009, 11–12). 
+234
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 17 ---
+conditions (notification of defaults, litigation, changes in control, right of lender to perform 
+due diligence, etc.) (Chrysler Financial Services and Treasury 2009, PDF pp. 22–31).  
+Replacing Chrysler Financial with GMAC 
+In early April 2009, Treasury realized that Chrysler’s bankruptcy filing would cause 
+Chrysler’s bankers to withdraw all $22 billion of its remaining credit lines (Rattner 2011, 
+147). Given its significant relationship with Chrysler and other concerns regar ding the 
+company, Treasury sought to arrange a more secure financing source for Chrysler. A plan 
+was proposed to have GMAC replace Chrysler Financial. Chrysler Financial would go into 
+“runoff mode,” continuing to hold the loans that it had made but not making new ones (COP 
+2011, 11; COP 2010, 48; Rattner 2011, 147). Treasury would not save Chrysler Financial. 
+Chrysler made this plan public, announcing at the time that it “will enter into an agreement 
+with GMAC that will provide dealer and customer financing  after bankruptcy, in lieu of 
+Chrysler Financial, which agreed to cooperate in the transition of its current dealer 
+agreements to GMAC” (Canis et al. 2009, PDF p. 31; Docket 1261 2009, PDF pp. 8–11).13  
+Outcomes 
+Outcomes of the $1.5 billion Facility 
+Chrysler began to feel the benefits of the loan soon after implementation. From January to 
+February of 2009, the number of loans written by Chrysler Financial “more than quadrupled” 
+(Mitchell 2009 ). Chrysler Financial and its parent began to announce that loans would 
+become more available and lending conditions would be relaxed. The companies also 
+announced that the proceeds of the loan would be used to support an up  to 60 month, 0% 
+interest loan program along with other incentive programs (Shepardson and Priddle 2009; 
+Mitchell 2009). As of early February, however, Chrysler’s dealers complained that many of 
+their customers were still unable to access these incentive programs, as they were only 
+“available to customers with top-tier credit ratings” (Kellogg 2009a). 
+Although the aid from the US government was lightening the financial load on Chrysler 
+Financial, the company continued to be squeezed; Chrysler Financial’s financial burden was 
+increasingly felt by Chrysler and its dealerships. Less than a month after the Treasury loan 
+closed, the Wall Street Journal reported that Chrysler Financial “has focused increasingly on 
+protecting its own bottom line, often at the expense of the auto company” ( Kellogg 2009a). 
+Chrysler Financial continued to face significant problems , as evidenced by the fact that it 
+asked for additional TARP funds in March 2009 ( Kellogg 2009 b). The Washington Post 
+reported that Treasury offered Chrysler Financial an  additional $750 million in loans 
+(Krisher and Manning 2009). However, the Associated Press wrote that a “government 
+official with knowledge of the negotiations” said Chrysler Financial was unwilling to agree 
+to the accompanying executive pay cuts Treasury demanded (Krisher and Manning 2009). 
+The deal never came together or fell apart during negotiations over these pay cuts and soon 
+ 
+13 For more details of the terms of Chrysler’s transition of its auto financing relationship from Chrysler Financial 
+to GMAC see the Master Auto Finance Agreement at Chrysler Group LLC and GMAC 2009, PDF pp. 212–222. 
+235
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 18 ---
+Chrysler Financial indicated that it no longer needed such aid from the government (Krisher 
+and Manning 2009).  
+Chrysler Financial reached the $1.5 billion maximum loan amount by April 9, 2009, and 
+subsequently returned to raising lending rates, this time by an average of more than  1% 
+(Kellogg 2009b; GAO 2009c, 62). The company repaid the loan in full (with interest and fees) 
+quickly and made the last payment on July 14, 2009 ( GAO 2009c, 62,  132). As a result, 
+taxpayers received an extra $22.4 million (beyond the $1.5 billion they lent) ( GAO 2009c, 
+134). Chrysler Financial stated that its speedy repayment was due to its successful 
+participation in the Term Asset-Backed Securities Loan Facility (TALF) (Langlois, 2009).  
+Outcomes of GMAC’s Replacement of Chrysler Financial  
+With the filing of Chrysler’s Chapter 11 petition at the end of April 2009, Chrysler Financial’s 
+funding sources dried up (Docket 482 2009, PDF p. 8). As a result, Chrysler Financial stopped 
+providing floorplan financing to dealers and financing to consumers (Kellogg 2009 b). 
+Chrysler Financial “announced that it would no longer provide additional advances under 
+the wholesale lines of such Dealers,” and Chrysler’s attorney worried about the fact that 
+Chrysler Financial had liens “on most of these Dealers’ assets [including, among other things, 
+new and used cars, parts, and other inventory]” (Docket 482 2009, PDF p. 8–9). Even worse, 
+Chrysler Financial’s cont racts with dealers apparently barred any party “from placing new 
+liens on Chrysler Financial’s collateral without a waiv er from Chrysler Financial” ( Docket 
+482 2009, PDF p.  8–9). Chrysler Financial asserted that imposing new liens, like those of 
+GMAC, would “result in an event of default under the financing documents between Chrysler 
+Financial and the Dealers,” permitting C hrysler Financial “to exercise its remedies against 
+the Dealers and their assets" (Docket 482 2009, PDF p. 8–9).14 Chrysler’s attorneys asserted 
+that Chrysler’s “businesses cannot survive without financing for their Dealers and the 
+Debtors cannot procure this substitute financing without the consent of Chrysler Financial” 
+(Docket 482  2009, PDF pp. 8–9, 14). Accordingly, “Chrysler had to convince Chrysler 
+Financial to waive the ‘new liens’ prohibition” in order for the GMAC transition to proceed 
+(Docket 483 2009, PDF p. 12). 
+Treasury effectively subsidized Chrysler’s solution to this problem by increasing the $4.1 
+billion debtor-in-possession loan15 that it had provided to Chrysler by $896 million, some of 
+which Chrysler would use to pay Chrysler Financial to waive a number of its potential claims 
+ 
+14 In theory, convincing Chrysler Financial to waive these liens would not be difficult; the security from Chrysler 
+Financial’s various pre -existing auto finance contracts with Chrysler protec ted it from some of the negative 
+effects of a Chrysler bankruptcy. The 2007 Master Auto  Finance Agreement governing Chrysler Financial’s 
+services for Chrysler also made $1.5 billion ($500 million in cash and a $1 billion Chrysler note pledged to 
+Chrysler Financial) in collateral available to Chrysler Financial in case of certain bankruptcy events and PBGC 
+demands (Docket 482 2009, PDF p. 10). However, Chrysler’s obligations toward Chrysler Financial outstripped 
+the $1.5 billion by the time of the April 30, 2009, bankruptcy filings (Docket 482 2009, PDF p. 10). 
+15 The debtor-in-possession (DIP) loan was a three -way agreement between Chrysler, Treasury, and Export 
+Development Canada (EDC) dated May 5, 2009 (Chrysler LLC and Lenders 2009, PDF p. 21). See Nye 2021b for 
+details. 
+236
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 19 ---
+against Chrysler once Chrysler had successfully restructured (Chrysler LLC and Lenders 
+2009, PDF p. 21; Docket 1903 2009; Docket 6273 2009, PDF p. 62). 
+Although Treasury originally intended for GMAC to acquire all of Chrysler Financial’s assets, 
+Treasury noticed that Chrysler Financial had substantial debts coming due in July 2009 (COP 
+2010, 26). To avoid ex posing GMAC to these debts, Treasury determined that it would 
+finance “GMAC’s acquisition of only a part of Chrysler Financial’s business.”  
+In July 2009, the Treasury and Chrysler also amended the documents underpinning the $4 
+billion in Bridge Loan from late 2008 as part of the transition (Chrysler Holding and Treasury 
+2008, PDF pp. 383–401). The amendment required Chrysler to pay Treasury 40% of any 
+distributions Chrysler Holding received from its stake in Chrysler Financial, including the 
+first $1.38 billion (Chrysler Holding and Treasury 2008, PDF pp. 383–401). 
+Outcome of Winding Down the Old Chrysler(s)  
+By September 2009 , Treasury issued a directive to Chrysler Financial “to liquidate its 
+business” and the Special Master for TARP Executive Compensation noted that Chrysler 
+Financial planned to wind down operations by the end of 2011 ( GAO 2009b, 6 ; Feinberg 
+2009). In late spring 2010, Cerberus offered Treasury $1.9 billion to settle Chrysler Holding’s 
+debts and facilitate Treasury’s exit from its potential 40% interest in Chrysler Financial’s 
+proceeds (COP 2011, 16; Treasury 2010). Chrysler Holding still owed Treasu ry $3.5 billion 
+under the Bridge Loan , and Treasury wished to exit Chrysler Holding quickly, hoping to 
+recoup some revenues for the taxpayers ( COP 2011, 16). Treasury subsequently accepted 
+the offer on May 17, 2010 (COP 2011, 16). On December 21, 2010, TD Bank announced that 
+it would buy Chrysler Financial from Cerberus for about $6.3 billion ( COP 2011, 16 –17). 
+Chrysler Financial was rebranded as TD Auto Finance and as of the date of this case continues 
+to operate (TD Auto Finance 2015). The alliance between Chrysler and GMAC did not last 
+and was terminated in early 2013 when Chrysler replaced GMAC with Chrysler Capital, a 
+captive full -service finance provider for Chrysler and associated companies executed in 
+connection with Santander Bank (Chrysler Group 2014, 155; Chrysler Capital 2016).  
+II. Key Design Decisions 
+1. Treasury committed financing to Chrysler Financial from TARP using EESA based 
+on the idea that Chrysler Financial’s existence was intractably intertwined with 
+Chrysler’s. 
+It should be noted that at first President Bush and Secretary Paulson did not believe  that 
+Congress had authorized TARP funds to be used for an auto bailout since the act was 
+generally thought to be targeted to the financial industry  (Wiggins, Metrick, and Nye 2021, 
+12). In broad terms , TARP authorized the Secretary of the Treasury to purchase “troubled 
+assets” from “financial institutions” (Wiggins, Metrick , and Nye 2021 , 12). However, while 
+descriptive, the definitions are not entirely restrictive and in particular, the definition of 
+“troubled assets” can be expanded by determination of the Secretary of the Treasury in 
+accordance with certain procedures set out in the statute. (Wiggins, Metrick, and Nye 2021, 
+237
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 20 ---
+12). The definition of financial institutions is arguably broad enough to incl ude the auto 
+manufacturers, as the Secretary determined  (Wiggins, Metrick, and Nye  2021, 12). Among 
+other arguments, President Bush and Secretary Paulson relied on the nexus between GM and 
+Chrysler and their respective finance companies, GMAC and Chrysler Financial, and the 
+critical role that financing played in the industry to support funding under TARP for all four 
+companies. 
+The official determination by the Secretary of Treasury that authorized TARP funding for 
+auto manufacturers defined “certain […] co mpanies […] engaged in the manufacturing of 
+automotive vehicles and the provision of credit in connection with the manufacturing and 
+purchase of such vehicles” as “financial institutions” for the sake of EESA (Secretary of 
+Treasury 2008 , PDF p. 1). This enabled Treasury to purchase the “troubled assets” of 
+Chrysler Financial. This decision was criticized by some (Wiggins, Metrick, and Nye 2021). 
+When litigation over the bankruptcy court’s approval of Chrysler’s restructuring reached the 
+Second Circuit Court of Appeals, Treasury expounded on the Secretary’s determination: 
+[T]he Secretary of the Treasury, in determining what is a financial institution, looks 
+at the interrelatedness [of the company and its financing arm].  
+Chrysler Financial can’t survive without Chrysler . . . . Without [Chrysler], the financial 
+institution goes down . . . . [Chrysler Financial] is the financial institution and the 
+relationship [with Chrysler is the one] that the Secretary of the Treasury based his 
+determination on, and that determination is entitled to deference by this court under 
+administrative law principles (COP 2009, 75–76). 
+(See COP 2009, 70, and Wiggins, Metrick, and Nye 2021, 11–15, for a discussion of the use of 
+TARP for the auto industry.)  
+2. The support for Chrysler Financial was part of a multi -faceted program to assist 
+Chrysler and GM.  
+Under the auspices of the AIFP, the government would ultimately provide funding to not only 
+the auto manufacturers and auto finance companies but also to other related stakeholders 
+such as suppliers and customers. Because of the interdependence of companies in the 
+industry, such aid was thought necessary to ensure both the success of the restructuring 
+plans and the survival of the manufacturers. Assistance was provided to suppliers, to finance 
+companies to maintain financing for new car purchases, and to special purpose vehicles that 
+guaranteed warranties on new cars. Th e government also helped the two auto companies 
+restructure using the bankruptcy code, committing billions of dollars in debtor -in-
+possession and post-petition financing (Klier and Rubenstein 2013, 148–150). 
+3. Treasury authorized $1.5 billion in lending to a id Chrysler Financial’s consumer 
+financing.  
+As part of Chrysler’s requests for aid from TARP, the manufacturer had asked for $2.5 billion 
+to aid Chrysler Financial’s floorplan and consumer financing operations ( Kolka 2009, 30). 
+This was subsequently lower ed to a request for $1.5 billion in aid that would be allocated 
+238
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 21 ---
+exclusively to consumer financing (Kolka 2009, 30). On January 16, 2009, days after Chrysler 
+complained about being put at an “competitive disadvantage” by Treasury’s announcement 
+of up $6 billion in aid for Chrysler Financial’s competitor, GMAC , Treasury announced $1.5 
+billion in aid from TARP to Chrysler Financial to improve consumer access to credit and 
+stimulate Chrysler auto sales Treasury 2009a). The $1.5 billion was a relatively small amount 
+compared with the $6 billion commitment to GMAC (Canis et al. 2009, 48). However, the $1.5 
+billion commitment for Chrysler Financial and the $6 billion committed to GMAC were in 
+addition to the initial $17.4 billion authorized by the Bush administr ation for aid to 
+automotive companies (White House 2008).  
+Despite the Treasury’s commitment to Chrysler Financial, several dealerships complained 
+about the lack of support for floorplan financing. While the $1.5 billion Chrysler Financial 
+Trust Loan and facility could stimulate consumer financing, dealerships found it increasingly 
+difficult to finance their inventories  (Kellogg 2009a; Wernle 2009). However, additional 
+funding was not forthcoming from Treasury, possibly because Treasury and Chrysler wished 
+to shrink Chrysler’s dealer network which both considered to be oversized and unprofitable 
+(Rattner 2011, 194). 
+4. The Chrysler Financial Trust loan had a five-year term but could be prepaid.  
+The term of th e $1.5 billion loan to Chrysler Financial Trust was slightly shorter than the 
+common loan terms for automobile asset-backed securities in a normal market (for example, 
+72 months in 2016) ( Lei et al. 2017 ). The term was also longer than that on the three-year 
+term loans TALF announced at the close of 2008, which would have made it more attractive 
+than waiting for TALF to be implemented (Leinfuss 2008).  
+Treasury also allowed Chrysler Financial to prepay its advances under the Chrysler Financial 
+Trust loan in whole or in part (Chrysler Financial Services and Treasury 2009, PDF pp. 7, 11). 
+However, in the event of any prepayment, Chrysler Financial had to make Treasury whole 
+for any losses or costs that it suffered in redeploying funds maintained for advances 
+(Chrysler Financial Services and Treasury 2009, PDF pp. 7, 11).  
+5. Chrysler retail auto financing had to comply with certain terms to benefit from the 
+Chrysler Financial Trust loan and financing program. 
+The Master Auto Finance Agreement  Term Sheet describing the financing program  (MAFA 
+Term Sheet) stated that financing extended to retail consumers on or after January 1, 2009, 
+which meet “certain geographic, credit quality and other standard overconcentration limits.” 
+(Chrysler Group LLC and GMAC 20 09, Treasury 2009 a, PDF p.  1). However, beyond the 
+eligibility date for retail loans, more information on this topic does not appear in the Chrysler 
+Financial Loan Agreement itself. (Chrysler Financial Services and Treasury 2009). 
+It is unclear why Treasury settled on January 1, 2009 , as the earliest eligible date, as the 
+Chrysler Financial Trust loan was executed on January 16, 2009 ( Treasury 2009, PDF p. 1). 
+However, this date is consistent with a goal of having the Chrysler Financial Trust  loan 
+stimulate new auto purchases, rather than subsidizing existing ones. There is no publicly 
+239
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 22 ---
+available information on additional requirements, how they were enforced, or why they 
+were put in place. 
+6. The legal structure of the Chrysler Financial Trust loan and facility mimicked that 
+of an auto securitization, with the Treasury playing the role of the bond -buying 
+investor. 
+The legal structure is important because it was a much more complicated structure for 
+lending than that of any of the other programs under the AIFP. However, there is no public 
+information available to explain why this structure was chosen (GM Financial n.d.). 
+The interest and principal of the $1.5  billion Chrysler Financial Trust  loan was secured by 
+the receivables and related property arising from the auto loans that Chrysler Financial 
+would be making to retail customers Treasury 2009a ). These receivables would have 
+included the proceeds of defaulted c ustomer loans that were subse quently liquidated. 
+Treasury n.d., PDF pp. 3–4).  
+7. Treasury could transfer the Chrysler Financial Trust loan, but the C hrysler 
+Financial Trust faced restrictions on hypothecating the loan’s underlying 
+collateral.  
+Treasury could engage in repurchase agreements with or pledge the collateral received in 
+connection with the Chrysler Financial Trust loan (by way of Chrysler Financial T rust) 
+(Chrysler Financial Services and Treasury 2009 , PDF p.  27). However, Chrysler Financial 
+Trust was prohibited from assigning (in addition to selling, transferring, hypothecating, etc.) 
+any of its obligations or rights under the loan without Treasury’s prior written consent 
+(Chrysler Financial Services and Trea sury 2009, PDF pp. 26–27). In theory, this could have 
+kept Chrysler Financial from diverting the proceeds of the loan and would have centralized 
+liability for violating the agreement in Chrysler Financial Trust. Also, these terms allowed 
+Treasury to transfer the loan to another party if need be. 
+8. The Chrysler Financial Trust Loan had lower interest rates than Chrysler  
+Financial’s other recent loans but  had significant terms that would trigger 
+penalty interest rates. 
+The Chrysler Financial Trust loan had an interest rate of the one-month LIBOR plus 100 basis 
+points for the first year and the one -month LIBOR plus 150 basis points for the second 
+through fifth years. The interest rate was significantly less than what Chrysler Financial had 
+to pay when it renewed its $24 billion credit line in August 2008 (Bansal and Krolicki 2008) 
+and less than what Chrysler paid to Treasury under the Bridge Loan (Nye 2021a). However, 
+the Class B promissory notes to be issued by the trust with respect to any advance under the 
+Chrysler Financial Trust Loan provided further upside to Treasury for extending the loan to 
+Chrysler Financial, worth as much as 5% of the advance amount. 
+The Chrysler Financial Trust loan also provided for penalty rates in cases of default or 
+overdue payments (Chrysler Financial and Treasury 2009, PDF pp. 7–8). The loan added 300 
+basis points to the interest rate for overdue payments (resulting in a penalty rate of 400 basis 
+240
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 23 ---
+points in year one and 450 basis points in years two through five). The penalty was 
+significantly smaller than the one imposed under the auto Bridge Loans to the manufacturers 
+Chrysler and GM, which added a 500 basis point penalty (Nye 2021a). 
+9. Treasury received the Class B notes as additional consideration for its 
+commitments. 
+The Class B promissory notes served as an alternative method for fulfilling EESA Section 
+113(d)(1)(b)’s requirement that the Secretary of the Treasury could only purchase the 
+troubled assets of financial institutions that do not have their securities traded on a national 
+securities exchange if the Secretary of Treasury received “a  warrant for common or 
+preferred stock, or a senior debt instrument” from the financial institution in question 
+Treasury n.d., PDF p. 4; EESA, § 113). Because Chrysler Financial was a private company, it 
+did not have its securities traded on a national securities exchange at that time. The Class B 
+promissory notes fulfilled the requirement as a “senior debt instrument” that would act as 
+additional consideration  with respect to the $1.5 billion loan (EESA, § 113 ; Picarillo and 
+Laterza 2009).16 The Class B notes carried Maturity and interest rate terms and conditions 
+that were similar to the Class A notes . The Class B Note issued to Treasury had a face value 
+of $75 million —set at 5% of the maximum loan amount —and would vest over five years , 
+with $15 million vested on issuance and an additional $15 million vesting annually on the 
+anniversary of issuance whil e the loan was outstanding ( Chrysler Financial Services and 
+Treasury 2009, PDF pp. 145–146, 171–187; Treasury 2009a, PDF p. 4).  
+10. Chrysler Financial was subject to restrictions on its executive compensation.  
+The press release announcing the Chrysler Financial Trust Loan and financing program  
+indicated that Chrysler Financial would be required to “be in compliance with the executive 
+compensation and corporate governance requirements of Section 111 of the Emerge ncy 
+Economic Stabilization Act, as well as enhanced restrictions on executive compensation” 
+Treasury 2009a). The accompanying Loan Term Sheet included a requirement that bonuses 
+of senior executive officers (SEOs) and senior employees for the 2009 fiscal year be reduced 
+to no more than 60% of their 2007 levels Treasury n.d., PDF p. 3). It is worth noting that this 
+condition appears to be more onerous than the restrictions imposed on Chrysler and GM, 
+which were subject to ESSA provisions but not to specific compensation caps.  
+EESA Section 111, provided for review of compensation by the Special Master for TARP 
+Executive Compensation  (the “Special Master”) “to determine whether the compensation 
+structure for each senior executive officer and certain most highly compensated employees 
+‘will or may result in payments inconsistent with the purposes of section 11 of EESA or TARP, 
+or [is] otherwise contrary to the  public interest (31 C.F.R. §30.16(a)(3)) (Treasury 2015, 1, 
+6).” This is often referred to as the Public Interest Standard (Treasury 2015, 6). The executive 
+ 
+16 The author inferred that the purpose of the Class B Notes was to satisfy the TARP requirements because there 
+was a lack of other instruments within the assistance for Chrysler Financial that would fulfill such requirements 
+and because the language Treasury used for the Class B Notes in the Loan Term Sheet is similar to the language 
+it used for the Additional Notes in the Bridge Loans term sheets.  
+241
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 24 ---
+compensation of the SEOs of Chrysler and GM were also subject to such review (Feinberg 
+2009). As r equired, on October 22, 2009, the Special Master issued its review of Chrysler 
+Financial’s proposed executive compensation, which took into account that at the time, the 
+company was “following Treasury’s directive to liquidate its business in an orderly fashion” 
+(Treasury 2015, A5).  
+The Special Master was found that t he company proposed cash salaries that represented 
+decreases from 2008 levels of between 10% to 67% for its SEOs and highly compensated 
+employees. Total cash compensation for this group would be reduced by 30% from 2008 
+levels and total compensation would be reduced by 56%. The Special Master found these 
+terms to be consistent with the Public Interest Standard (Treasury 2015, 1, A6). The Special 
+Master also limited all other compensation and perquisites to no more than $25,000 and 
+ordered that there be no increases in severance arrangements. The Special Master also ruled 
+that severance paid in excess of its ruling would have to be recl aimed (Treasury 2015, A7). 
+The Special Master found that the proposed compensation for the company’s other highly 
+compensated employees (the 26 th through 100 th highly compensated employees) was 
+consistent with the rule (Feinberg 2009). 
+11. The loan agreement provided for a Class C Note that was ultimately never used.  
+The inclusion of a provision for Class C Notes anticipated that Chrysler Financial might 
+arrange for supplemental subordinated loans. The third-party holders of these loans would 
+receive Class C Notes to represent the funding that they provided. The Class C Notes would 
+accrue interest and would be  subordinate to the Class A and Class B Notes, with related 
+secondary payment priorities. However, we have not been able to determine why these 
+provisions were never used or why the credit enhancement and hedging contemplated by 
+the Class C Notes were given such attention in the Chrysler Financial Loan Agreement.  
+(Chrysler Financial Services and Treasury 20009). 
+12.  Chrysler Holding offered a limited guarantee of Chrysler Financial that served as 
+a claw back mechanism in some cases of noncompliance. 
+Pursuant to the Chrysler Financial Trust loan agreement, Chrysler Financial was required to 
+suspend payment of dividends while the loan was outstanding and could incur certain 
+penalties payable to Treasury. Chrysler Holding, Chrysler Financial’s parent company, 
+guaranteed to any amount s paid to it by Chrysler Financial in violation of the dividend and 
+distribution restrictions Treasury n.d., PDF p. 3). This functioned as a claw back provision in 
+the event that amounts due to Treasury were not properly paid.  
+242
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 25 ---
+Treasury communicated the support for Chrysler Financial providing details of the loan and 
+its intended purpose. 
+In January 2009, Treasury released a short press release announcing the Chrysler Financial 
+Trust loan and financing program  for new vehicle purchases and also providing the Loan 
+Term Sheet. Treasury 2009a, Treasury 2009a ). The press release described the loan as “a 
+$1.5 billion loan to a special purpose entity created by Chrysler Financial to finance the 
+extension of new consumer auto loans […] secured by a senior secured interest in a pool of 
+newly originated consumer automotive loans” Treasury n.d. ). Treasury also noted that 
+Chrysler Financial would have to comply with the executive compensation and corporate 
+governance restri ctions under EESA in addition to “enhanced restrictions on executive 
+compensation” Treasury 2009a ). (Treasury also l ater published some (redacted) loan 
+documents.) 
+In March, in its Determination of Viability for Chrysler, Treasury foreshadowed the need for 
+Chrysler to modify its auto financing arrangement with Chrysler Financial  describing 
+Chrysler Financial as having “substantial financing challenges of its own” such that “future 
+demand may depend on Chrysler finding alternate lending sources” (Treasury 2009b, PDF 
+p. 5). Treasury also pointed to Chrysler Financial’s “separation and independence” from 
+Chrysler as a barrier to increasing demand for Chrysler’s cars ( Treasury 2009b, PDF p. 5). 
+This foreshadowing came to fruition when, in connection with Chrysler entering bankruptcy 
+in April, it entered into a new financing arrangement with GMAC.  
+13. Treasury indirectly subsidized GMAC’s assumption of Chrysler Financial’s auto  
+financing relationship with Chrysler.  
+When Chrysler entered bankruptcy on April 30, 2009, Chrysler Financial did not join the 
+action (Kellogg and Bennett 2009). However, a large portion of Chrysler Financial’s assets 
+were sold to, and its floorplan finance operations taken over by, GMAC, the f ormer captive, 
+and then current, financing arm of General Motors , also then controlled by Cer berus (COP 
+2010, 59). Treasury supported this reorganization and indirectly subsidized both GMAC and 
+Chrysler Financial during the transition.  
+Rather than directly enter into a loss-sharing facility with GMAC, on May 15, 2009, Treasury 
+and Export Development Canada amended their debtor -in-possession (DIP) loan 17 to 
+Chrysler, increasing the $4.1 billion facility by $896 million  and the Treasury increased it s 
+funding to GMAC by $7.5 billion to “support GMAC's ability to originate new loans to Chrysler 
+dealers and consumers and help address GMAC's capital needs as identified through the 
+Supervisory Capital Assessment Program (SCAP) ” (Chrysler LLC and Lenders 20 09, PDF p. 
+21; Docket 1903 2009; Treasury 2009c). 
+As for Chrysler Financial, some of the increased DIP loan would also be used to effectively 
+pay the company to cap its potentially large “superpriority administrative expense claims ” 
+ 
+17 The debtor-in-possession (DIP) loan was a three -way agreement betwe en Chrysler, Treasury, and Export 
+Development Canada (EDC) dated May 5, 2009 (Chrysler LLC and Lenders 2009, PDF p. 21). See Nye 2021b for 
+details. 
+243
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 26 ---
+and pay for an agreement that Chrysler’s post -bankruptcy successor (which would later be 
+known as New Chrysler) would assume Chrysler’s obligations under the Risk Sharing 
+Agreement between Chrysler and Chrysler Financial after Chrysler successfully restructured 
+(Docket 6273 2009, PDF p. 62).18  
+III. Evaluation  
+There has not been much academic discussion of the Chrysler Financial support on a stand -
+alone basis, so it is difficult to assess its separate impact. However, there is some evidence 
+that it fulfilled its original purpose “to finance the extension of new consumer auto loans as 
+part of a broader program to assist the domestic automotive industry in becoming financially 
+viable.”  
+Once the Chrysler Financial Trust loan was executed, sales of Chrysler vehicles ticked up 
+slightly in February 2009 (+4,501), showed a major boost in March (+34,343), and stabilized 
+somewhere in the mid -70,000 units per month range ( –24,219) in April after the loan was 
+fully drawn down (data from PR Newswire 2009a-d). However, the drop in sales in April may 
+have occurred because some Chrysler Financial loan rates increased by over 1% as the loan 
+was fully drawn that month (Kellogg 2009b). By then, however, the TALF was operational, 
+which allowed Chrysler Financial to continue securitizing new loans. Thus, given its limited 
+purpose, the Chrysler financial Trust loan and financing program can be said to have 
+achieved its goal of maintaining and even stimulating Chrysler vehicle sales as the 
+government worked with the company on a broader rescue plan. 
+Once TALF was available, Chrysler Financial was able to use TALF to fund an exit from the 
+Chrysler Financial Trust loan (Langlois 2009).19 Commentators note that the TALF seemed 
+to improve the liquidity of the auto ABS market with triple-A-rated auto ABS spreads 
+plummeting in the month after its December 2008 second announcement ( Rhee 2020 ). 
+Besides an uptick in sales (which could have been due to TALF), there does not seem to have 
+been any significant public reaction to the Chrysler Financial Trust loan and financing 
+program. 
+It’s unclear how the Chrysler Financial Trust loan and financing program impacted Chrysler 
+Financial other than in increased sales. Even as Chrysler announced that the loan allowed  
+customers with credit scores as low as the 620s “to apply for affordable loans,” sales  
+continued to decline for Chrysler relative to 2008 (Shepardso n and Priddle 2009). The 
+impact of the loan and financing program is also obscured by the fact that Chrysler and 
+ 
+18 The superpriority administrative expense claims were Chrysler’s obligations to Chrysler Financial related to 
+the management of its bankruptcy proceedings; they enjoyed a high payment priority under 11 US 
+Code § 503,507. Under the Risk Sharing Agreement,  Chrysler would convey the $1.5 billion in collateral to  
+Chrysler Financial and commit to several other agreements in favor of Chrysler Financial in exchange for 
+Chrysler waiving the “new liens” prohibition (Docket 483, PDF pp. 9–10, 12). 
+19 One commentator  alleged that the loan to Chrysler Financial “ [was] also intended as a bridge to further 
+funding from a $200bn Federal Reserve programme intended to support consumer credit,” in other words, 
+TALF (Dombey and Simon 2009). 
+244
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 27 ---
+Chrysler Financial behaved more independently from each other in early 2009 than Treasury 
+had anticipated. Chrysler Financial provided wholesale financing to 62% of Chrysler 
+dealerships and handled 50% of Chrysler’s consumer financing (Docket 483, PDF p.  8). 
+However, Chrysler Financial seemed to have a relationship with Chrysler defined more by 
+conflict than by cooperation. While Chrysler attempted to sell the vehicles piling up in its 
+inventory to dealerships, there were multiple media reports of Chrysler Financial’s 
+attempting to frustrate dealership access to the floorplan financing they needed to purchase 
+vehicles from Chrysler (Kellogg 2009a; Wernle 2009).  
+IV. References 
+Banks, Cliff. 2008. “Dying Dealerships.” WardsAuto, November 1, 2008.  
+https://ypfs.som.yale.edu/library/dying-dealerships. 
+Bansal, Paritosh, and Kevin Krolicki. 2008. "Update 3: Chrysler Renews Credit Facilities but 
+Cuts Amount." Edited by Martin Golan and Kim Coghill. Factiva, August 4, 2008.  
+https://ypfs.som.yale.edu/library/update-3-chrysler-renews-credit-facilities-cuts-amount.  
+Bel Bruno, Joe, and Associated Press Newswires.  2007. “Banks Postpone Chrysler Funding 
+Plan.” Factiva, July 25, 2007.   
+https://ypfs.som.yale.edu/library/banks-postpone-chrysler-funding-plan. 
+Board of Governors of the Federal Reserve System (BdofGov). n.d. “Purchases of Commercial 
+Paper under the CPFF.”  
+https://ypfs.som.yale.edu/library/purchases-commercial-paper-under-cpff. 
+Boudette, Neal E. 2008. “Chrysler to Show Dealers Electric Car.” Wall Street Journal, 
+September 19, 2008.   
+https://ypfs.som.yale.edu/library/chrysler-show-dealers-electric-car 
+Bureau of Economic Analysis. 2019. “Motor Vehicle Retail Sales: Domestic Autos 
+(DAUTOSA).” FRED, Federal Reserve Bank of St. Louis.  
+https://ypfs.som.yale.edu/library/motor-vehicle-retail-sales-domestic-autos-dautosa. 
+Campbell, Sean, Daniel Covitz, William Nelson, and Karen Pence. 2011. “Securitization 
+Markets and Central Banking: An Evaluation of the Term Asset -backed Securities Loan 
+Facility.” Journal of Monetary Economics 58, No. 5: 518–31. July 2011.  
+https://ypfs.som.yale.edu/library/securitization-markets-and-central-banking-evaluation-
+term-asset-backed-securities-loan. 
+Canis, Bill, James M. Bickley, Hinda Chaikind, Carol A. Pettit, Patrick Purcell, Carol Rapaport, 
+and Gary Shorter. 2009. “U.S. Motor Vehicle Industry: Federal Financial Assistance and 
+Restructuring.” May 29, 2009.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CRS%20Auto%20Governm
+ent%20Aid.pdf. 
+245
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 28 ---
+Chrysler Capital. 2016. “Fact Sheet.” February 17, 2016. Accessed February 19, 2019.  
+https://ypfs.som.yale.edu/library/fact-sheet-chrysler-capital. 
+Chrysler Fin ancial Auto Securitization Trust 2009 -B. 2009. “Chrysler Financial Auto 
+Securitization Trust 2009 -B prospectus supplement to prospectus dated November 16, 
+2009.” November 20, 2009.    
+https://ypfs.som.yale.edu/library/chrysler-financial-auto-securitization-trust-2009-b-
+prospectus-supplement-prospectus-dated. 
+Chrysler Financial Services Americas LLC and US Department of the Treasury (Chrysler 
+Financial Services and Treasury) . 2009. “Chrysler Financial  Loan Agreement  (January 14, 
+2009).” 05202009-chrysler_financial.pdf. May 20, 2009.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/05202009-
+chrysler_financial_1.pdf.  
+Chrysler Group LLC. 2014. “Chrysler Group LLC and Consolidated Subsidiaries 2013 Annual 
+Report on Form 10-K.” March 6, 2014.   
+https://ypfs.som.yale.edu/library/chrysler-group-llc-form-10-k-annual-report-pursuant-
+section-13-or-15d-securities-exchange. 
+Chrysler Group LLC and GMAC. 2 009. “2009-04-30 Master Auto Finance Agreement Term  
+Sheet dated April 30, 2009.” available as GMAC Quarterly Report, Exhibit 10.7,  August 7, 
+2009.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/$3.pdf.  
+Chrysler Holding LLC and US Department of the Treasury (Chrysler Holding and Treasury). 
+2008. “Loan and Security Agreement by and Between the Borrower Listed on Appendix A as 
+Borrower and the United States Department of the Treasury as Lender.” December 31, 2008. 
+[with amendments] (December 31, 2008).” Updated May 26, 2010.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-01-
+02%20to%202010-05-26%20Chrysler%20LSA%20as%20of%2005-26-10.pdf.  
+Chrysler LLC and Lenders. 2009. “$4,100,000,000 Second Lien Secured Priming Superpriority 
+Debtor-In-Possession Credit Agreement Among Chrysler LLC, a Debtor and Debtor-in-
+Possession under Chapter 11 of the Bankruptcy Code, as the Borrower, and The Lenders Parties 
+Hereto From Time To Time.” May 5, 2009. [And amendments]. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Chrysler%20DIP%20thru%
+20Third%20Amendment%20(Posted)_0.pdf.  
+Chrysler LLC, GMAC LLC, US Department of the Treasury, and U.S. Dealer Automotive 
+Receivables, Transition LLC. 2009. “ Master Transaction Agreement dated as of May 21, 
+2009.” GMAC Quarterly Report, Exhibit 10.3, August 7, 2009.  
+https://ypfs.som.yale.edu/library/master-transaction-agreement-dated-may-21-2009-
+between-united-states-department-treasury.  
+Congressional Oversight Panel (COP). 2009. “September Oversight Report: The Use of TARP 
+Funds in the Support and Reorganization of the Domestic Automotive Industry.” September 
+9, 2009.   
+246
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 29 ---
+https://ypfs.som.yale.edu/library/september-oversight-report-use-tarp-funds-support-
+and-reorganization-domestic-automotive. 
+———. 2010. “March Oversight Report: The Unique Treatment of GMAC under the TARP.” 
+March 10, 2010.   
+https://ypfs.som.yale.edu/library/september-oversight-report-use-tarp-funds-support-
+and-reorganization-domestic-automotive. 
+———. 2011. “January Oversight Report: An Update on TARP Support for the Domestic 
+Automotive Industry.” January 2011.   
+https://ypfs.som.yale.edu/library/congressional-oversight-panel-january-oversight-
+report-update-tarp-support-domestic. 
+Emergency Economic Stabilization Act of 2008 (EESA). Public Law 110-343, 122 Stat. 3765. 
+October 3, 2008. 
+Docket 482. 2009. Motion Of Debtors And Debtors In Possession Pursuant To Sections 105, 
+363, 503 And 507 Of The Bankruptcy Code And Bankruptcy Rule 9019 For An Order (A) 
+Authorizing Them To Enter Into The Risk Sharing Agreement Term Sheet Among Chrysler 
+LLC, Chrysler Financial, And New Chrysler; (B) Waiving The Stay Under Bankruptcy Rule 
+6004(H); And (C) Waiving The Notice Requirements Under Bankruptcy Rule 6004(A), In re 
+Chrysler LLC, 405 B.R. 84 (No. 09-50002), Docket No. 482.  
+https://ypfs.som.yale.edu/library/motion-chrysler-debtor-posession-enter-risk-sharing-
+agreement-term-sheet-new-chrsyler-and.  
+Docket 483. 2009. Amended Motion to Approve Motion of Debtors and Debtors in Possession 
+Pursuant to Sections 105, 363, 503 and 50 7 of the Bankruptcy Code and Bankruptcy Rule 
+9019 for an Order (A) Authorizing Them to Enter Into the Risk Sharing Agreement Term 
+Sheet Among Chrysler LLC, Chrysler Financial and New Chrysler; (B) Waiving the Stay Under 
+Bankruptcy Rule 6004(h); and (C) Waiving the Notice Requirements Under Bankruptcy Rule 
+6004(a), In re Chrysler LLC, 405 B.R. 84 (No. 09-50002), Docket No. 483.   
+https://ypfs.som.yale.edu/library/amended-motion-approve-motion-debtors-and-debtors 
+-possession-pursuant-sections-105-363-503.  
+Docket 1261. 2009. Emergency Motion to Approve Emergency Motion of Debtors and 
+Debtors in Possession Pursuant to Sections 105 and 363 of the Bankruptcy Code for an Order 
+(A) Authorizing Them to Enter Into the Master Transaction Agreement Among Chrysler LLC, 
+the United States Department of the Treasury, GMAC LLC, and U.S. Dealer Automotive 
+Receivables Transition LLC; (B) Waiving the Stay Under Bankruptcy Rule 6004(h); and (C) 
+Waiving the Notice Requirements Under Bankruptcy Rule 6004(a), In re Chrysler LLC, 405 
+B.R. 84 (No. 09-50002), Docket No. 1261.  https://ypfs.som.yale.edu/library/emergency-
+motion-approve-emergency-motion-debtors-and-debtors-possession-pursuant-sections.  
+Docket 1903. 2009. Objection Assumption And Assignment Of Designated Agreements And  
+To Cure Cost Amount Set Forth In Notice Of (I) Debtors Intent To Assume And Assign Certain 
+Executory Contracts And Unexpired Leases And (II) Cure Costs Related Thereto, In re 
+Chrysler LLC, 405 B.R. 84 (No. 09-50002), Docket No. 1903.  
+247
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 30 ---
+https://ypfs.som.yale.edu/library/objection-assumption-and-assignment-designated-
+agreements-and-cure-cost-amount-set-forth. 
+Docket 6273. 2009. Amended Disclosure Statement / Disclosure Statement with Respect to 
+Second Amended Joint Plan of Liquidation of Debtors and Debtors i n Possession,  In re 
+Chrysler LLC, 405 B.R. 84 (No. 09-50002), Docket No. 6273.  
+https://ypfs.som.yale.edu/library/amended-disclosure-statement-disclosure-statement-
+respect-second-amended-joint-plan.  
+Dombey, Daniel, and Bernard Simon. 2009. “Chrysler Lifted by $1.5bn US Loan. ” Financial 
+Times, January 16, 2009.   
+https://ypfs.som.yale.edu/library/chrysler-lifted-15bn-us-loan. 
+Feinberg, Kenneth R. 2009. “Re: Proposed Compensation Payments and Structures for Senior 
+Executive Officers and Most Highly Compensated Employees. ” Letter from Kenneth R. 
+Feinberg to Tracy Hackman, October 22, 2009.   
+https://ypfs.som.yale.edu/library/letter-kenneth-r-feinberg-tracy-hackman-re-proposed-
+compensation-payments-and-structures. 
+GM Financial. n.d. "Understanding Securitization." Digital image.  
+https://ypfs.som.yale.edu/library/understanding-securitization-gm-financial-
+promotional-material. 
+GMAC LLC. 2009. “Form 8-K Filed on May-22-2009.” GMAC 8-K, May 22, 2009.  
+https://ypfs.som.yale.edu/library/gmac-llc-form-8-k-filed-may-22-2009.  
+Government Accountability Office  (GAO). 2009a. “Auto Industry: Summary of Government 
+Efforts and Automakers Restructuring to Date: Report to Congressional Committees.” April 
+2009.    
+https://ypfs.som.yale.edu/library/united-states-government-accountability-office-report-
+congressional-committees-auto. 
+———. 2009b. “Troubled Asset Relief Program: Continued Stewardship Needed as Treasury 
+Develops Strategies for Monitoring and Divesting Financial Interests in Chrysler and GM .” 
+November 2009.   
+https://ypfs.som.yale.edu/library/troubled-asset-relief-program-continued-stewardship-
+needed-treasury-develops-strategies.  
+———. 2009c. “Financial Audit: Office of Financial Stability (Troubled Asset Relief Program) 
+Fiscal Year 2009 Financial Statements.” December 2009.  
+https://ypfs.som.yale.edu/library/financial-audit-office-financial-stability-troubled-asset-
+relief-program-fiscal-year-2009.  
+Isidore, Chris. 2007. “Daimler pays to dump Chrysler.” CNN Money, May 14, 2007.   
+https://ypfs.som.yale.edu/library/daimler-pays-dump-chrysler. 
+248
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 31 ---
+Kellogg, Alex P. 2009a. “Chrysler Revival Hobbled by Former Finance Arm. ” Wall Street 
+Journal (via Factiva), February 3, 2009.   
+https://ypfs.som.yale.edu/library/chrysler-revival-hobbled-former-finance-arm.  
+———. 2009b. “Chrysler Financial Lifts Rates.” Wall Street Journal, April 14, 2009.  
+https://ypfs.som.yale.edu/library/chrysler-financial-lifts-rates.  
+Kellogg, Alex P., and Jeff Bennett. 2009. “WSJ 2nd Update: Chrysler Fincl No Longer Offering 
+Consumer Auto Loans.” Factiva, May 01, 2009.   
+https://ypfs.som.yale.edu/library/wsj-2nd-updatechrysler-fincl-no-longer-offering-
+consumer-auto-loans. 
+Klier, Thomas H., and James Rubenstein. 2012. “Detroit Back from the Brink? Auto Industry 
+Crisis and Restructuring, 2008–11.” Economic Perspectives 36, No. 2: 35–54. April 2012.  
+https://ypfs.som.yale.edu/library/detroit-back-brink-auto-industry-crisis-and-
+restructuring-2008-11. 
+———. 2013. “Restructuring of the U.S. Auto Industry in the 2008 –2009 Recession.” 
+Economic Development Quarterly 27, No. 2: 144–159. March.  
+https://ypfs.som.yale.edu/library/restructuring-us-auto-industry-2008-2009-recession-0. 
+Kolka, Ronald E. 2009. Affidavit of Ronald E. Kolka in Support of First Day Pleadings, In re 
+Chrysler LLC, 405 B.R. 84 (No. 09-50002), 2009 WL 1266134.  
+https://ypfs.som.yale.edu/library/affidavit-ronald-e-kolka-support-first-day-pleadings-re-
+chrysler-llc-405-br-84-no-09-50002.  
+Koons, Cynthia. 2008. “Extra Credit : Short-Term Financing Issues Strain Auto F in Units. ” 
+Factiva, August 7, 2008.   
+https://ypfs.som.yale.edu/library/extra-credit-short-term-financing-issues-strain-auto-
+fin-units. 
+Krisher, Tom, and Stephen Manning. “AP Source: Chrysler Financial Turned Down 
+Government Loan Due to Executive Pay Limits.” Factiva, April 20, 2009.  
+https://ypfs.som.yale.edu/library/ap-source-chrysler-financial-turned-down-government-
+loan-due-executive-pay-limits. 
+Langlois, Shawn. 2009. “Chrysler Financial pays back TARP with TALF .” MarketWatch. July 
+14,2009. 
+https://www.marketwatch.com/story/chrysler-financial-pays-back-tarp-with-talf. 
+Lei, Aaron, Jerry Fang, Jie Liang, Volker Laeger, James M. Manzi, and Darrell Wheeler. 2017. 
+“Exploring the Differences and Similarities of Auto ABS in China and Other Developed 
+Markets.” RatingsDirect, February 8, 2017.   
+https://ypfs.som.yale.edu/library/exploring-differences-and-similarities-auto-abs-china-
+and-other-developed-markets. 
+249
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 32 ---
+Leinfuss, Nancy. 2008. “Asset-Backed: Wide spreads, low supply mark year-end.” Factiva, 
+December 31, 2008.   
+https://ypfs.som.yale.edu/library/asset-backed-wide-spreads-low-supply-mark-year-end. 
+Mitchell, Josh. 2009. “US Tsy Moving to Give More Aid To Chrysler Financial – Source.” 
+Factiva, April 8, 2009.   
+https://ypfs.som.yale.edu/library/us-tsy-moving-give-more-aid-chrysler-financial-source. 
+Nye, Alexander. 2021a. “The Rescue of the US Auto Industry, Module A: Automotive Bridge 
+Loans.” Journal of Financial Crises 3, No. 2.   
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/2/. 
+——— 2021b.“The Rescue of the US Auto Industry, Module C: Restructuring Chrysler 
+Through Bankruptcy.”  Journal of Financial Crises 3, No. 2.   
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/4/. 
+ 
+Office of Financial Stability.  2018. “Troubled Asset Relief Program Transactions Report – 
+Investment Programs for Period Ending October 5, 2018.” October 10, 2018.  
+https://ypfs.som.yale.edu/library/tarp-transactions-report-investments-period-ending-
+october-5-2018. 
+Paulson, Henry M. , Jr. 2010. On the Brink: Inside the Race to Stop the Collapse of the Global 
+Financial System. New York: Business Plus, Hachette Books.   
+https://ypfs.som.yale.edu/library/brink-inside-race-stop-collapse-global-financial-system. 
+Picarillo, Steve, and David Laterza.  2009. “Chrysler Financial Services Americas LLC. ” 
+Bloomberg Terminal, February 18, 2009.   
+PR Newswire (U.S.). 2009a. “Chrysler LLC Announces January 2009 U.S. Sales.” Factiva, 
+February 03, 2009.   
+https://ypfs.som.yale.edu/library/chrysler-llc-announces-january-2009-us-sales. 
+ ———. 2009b. “Chrysler LLC Reports February 2009 U.S. Sales, Citing I mprovement in 
+Retail Share; Launches Dodge Truck Month with 'No Charge HEMI(R)' Option.” Factiva, 
+March 03, 2009.  
+https://ypfs.som.yale.edu/library/chrysler-llc-reports-february-2009-us-sales-citing-
+improvement-retail-share-launches-dodge. 
+———. 2009c. “Recording a Six Month High; Chrysler LLC Reports March 2009 Sales 
+Results.“ Factiva, April 01, 2009.   
+https://ypfs.som.yale.edu/library/recording-six-month-high-chrysler-llc-reports-march-
+2009-sales-results. 
+———. 2009d. “Chrysler LLC Reports April 2009 U.S. Sales.” Factiva, May 1, 2009.  
+https://ypfs.som.yale.edu/library/chrysler-llc-reports-april-2009-us-sales.  
+———. 2009e. “Chrysler Financial Announces Full Repayment of Troubled Asset Relief 
+Program (TARP) Loans.” Factiva, July 14, 2009.  
+250
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 33 ---
+https://ypfs.som.yale.edu/library/chrysler-financial-announces-full-repayment-troubled-
+asset-relief-program-tarp-loans. 
+Rappaport, Liz. 2008. “Finance Unit Of Chrysler Fails to Renew Some Funding. ” Wall Street 
+Journal, August 4, 2008.   
+https://ypfs.som.yale.edu/library/finance-unit-chrysler-fails-renew-some-funding. 
+Rattner, Steven.  2011. Overhaul: An Insider’s Account of the Obama Administration ’s 
+Emergency Rescue of the Auto Industry. Boston, MA: Mariner Books.  
+https://ypfs.som.yale.edu/library/overhaul-insiders-account-obama-administrations-
+emergency-rescue-auto-industry. 
+Reuters News.  2009. “Interview-Update 1-Auto Dealers Say US Must Tackle Credit 
+Crunch.” Factiva, March 17, 2009.   
+https://ypfs.som.yale.edu/library/interview-update-1-auto-dealers-say-us-must-tackle-
+credit-crunch. 
+Rhee, June. 2020. “The Term Asset -Backed Securities Loan Facility (TALF) (U.S. GFC ).” The 
+Journal of Financial Crises 2, No. 3, 281–306.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/11. 
+Secretary of Treasury , US Department of the Treasury (Secretary of Treasury) . 2008. 
+“Determination, December 19, 2008, and Letters from Henry M. Paulson, Jr., to Members of 
+the House of Representatives, December 23, 2008.”   
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2008-12-
+19%20Paulson%20determination%20to%20Congress.pdf. 
+Shepardson, David. 2009. “Chrysler Stung by $6B Fed Help for GMAC.” Factiva, January 13, 
+2009.   
+https://ypfs.som.yale.edu/library/chrysler-stung-6b-fed-help-gmac. 
+Shepardson, David, and Alisa Priddle. 2009. “Treasury loans Chrysler Financial $1.5 billion.” 
+Factiva, January 17, 2009.   
+https://ypfs.som.yale.edu/library/treasury-loans-chrysler-financial-15-billion. 
+Stein, Gabrielle. 2009. “Floorplan ABS Faces Uncertain Roads Ahead. ” Asset Securitization 
+Report, February 2, 2009.   
+https://ypfs.som.yale.edu/library/floorplan-abs-faces-uncertain-roads-ahead. 
+TD Auto Finance LLC. 2015. “History.” Accessed August 09, 2019.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/TDAF%20TD%20Auto%20
+Finance%20U.S.%20_%20About%20Us_%20History.pdf. 
+Treasury, US Department of the. n.d. “Automotive Industry Financing Program Chrysler LB 
+Receivables Trust Secured Term Loan Summary of Terms.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/011608%20term%20sheet
+%20chrysler%20fin.pdf. (Treasury n.d.) 
+251
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 34 ---
+———. 2009a. “Treasury Announces TARP Investments in Chrysler Financial.” Press 
+Release, January 16, 2009.   
+https://ypfs.som.yale.edu/library/treasury-announces-tarp-investments-chrysler-
+financial.  
+———. 2009b. “Determination of Viability Summary: Chrysler, LLC.” March 30, 2009.  
+https://ypfs.som.yale.edu/node/4070.  
+———. 2009c. “Treasury Announces Treasury Announces Additional Investment in GMAC 
+LLC.” Press Release, May 21, 2009. 
+https://home.treasury.gov/news/press-releases/tg154 
+———. 2009d. “The Special Master for TARP Executive Compensation Issues First Rulings.” 
+Press Release, October 22, 2009. https://ypfs.som.yale.edu/library/special -master-tarp-
+executive-compensation-issues-first-rulings.  
+———. 2010. “Chrysler Financial Parent Company Repays $1.9 Billion in Settlement of 
+Original Chrysler Loan TARP Repayments Reach $189 Billion.” Press Release, May 17, 2010. 
+Accessed February 19, 2019.   
+https://ypfs.som.yale.edu/library/chrysler-financial-parent-company-repays-19-billion-
+settlement-original-chrysler-loan-tarp.  
+———. 2015. “Q–16: What is the Office of the Special Master for TARP Executive 
+Compensation, and what are its powers, duties and responsibilities? ” Code of Federal 
+Regulations, title 31 (2015): 348–54.   
+https://ypfs.som.yale.edu/library/16-what-office-special-master-tarp-executive-
+compensation-and-what-are-its-powers-duties.  
+Wernle, Bradford. 2009. “Chrysler’s ‘ Good Soldier’: Finance Arm Did Me In.” Automotive 
+News. March 23, 2009.   
+https://ypfs.som.yale.edu/library/chryslers-good-soldier-finance-arm-did-me. 
+White House, The. 2008. “Fact Sheet: Financing Assistance to Facilitate the Restructuring of 
+Auto Manufacturers to Attain Financial Viability.” December 19, 2008.  
+https://ypfs.som.yale.edu/node/3608. 
+Wiggins, Rosalind Z. 2020. “The Commercial Paper Funding Facility (U.S. GFC ),” The Journal 
+of Financial Crises 2, No. 3, 174–201.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/7. 
+Wiggins, Rosalind Z., Alexander Nye and Andrew Metrick. “Assistance to the U.S. Auto 
+Industry Module Z: Overview”. Journal of Financial Crises. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/9/ 
+ 
+252
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 35 ---
+Key Program Documents 
+Summary of Program 
+(Treasury n.d. ) Automotive Industry Financing Program Chrysler LB Receivables Trust 
+Secured Term Loan Summary of Terms   
+Treasury document outlining the initially proposed terms of lending to Chrysler Financial’s ABS 
+master trust, Chrysler LB Receivables Trust.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/011608%20term%20sheet
+%20chrysler%20fin.pdf. 
+Implementation Documents 
+(Chrysler Financial Services and Treasury 2009) Chrysler Financial Loan Agreement 
+(January 14, 2009)   
+Agreements executing len ding to the Chrysler Financial ABS master trust which includes 
+documents setting up the ABS master trust, a Trust Indenture, a Depositor Agreement, a Sale 
+and Servicing Agreement, a Limited Guarantee Agreement, a Trust Agreement, and a Purchase 
+Agreement.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/05202009-
+chrysler_financial_1.pdf. 
+(Chrysler Holding and Treasury 2008) Chrysler Original Loan and Security Agreement (with 
+amendments) (December 31, 2008)  
+Agreements (including amendments) to execute lending to Chrysler by Treasury.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-01-
+02%20to%202010-05-26%20Chrysler%20LSA%20as%20of%2005-26-10.pdf. 
+(Treasury 2009b) “Determination of Viability Summary: Chrysler, LLC” (March 30 2009)   
+Short evaluation of Chrysler’s viability plan as well as the conditions under which the 
+government will grant Chrysler further funding. It assumes Chrysler Financial’s continued 
+independence.   
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Chrysler-Viability-
+Assessment_1.pdf. 
+Legal/Regulatory Guidance 
+(Feinberg 2009) Re: Proposed Compensation Payments and Structures for Senior Executive 
+Officers and Most Highly Compensated Employees (03/23/2010)  
+Guidance on Chrysler Financial executive compensation and details on the plans for winding 
+down Chrysler Financial.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/20100323%20Chrysler%20
+Financial%202010%20Top%2025%20Determi nation%20(3-23-10).pdf. 
+253
+The Rescue of the US Auto Industry, Module E Nye
+
+--- Page 36 ---
+Press Releases/Announcements 
+(Treasury 2009a) Treasury Announces TARP Investments in Chrysler Financial ()   
+January 16, 2009, statement announcing aid to Chrysler Financial that summarizes the terms 
+of the loans.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Treasury%20Announces%2
+0TARP%20Investments%20in%20Chrysler%20Financial.pdf. 
+Reports 
+(Canis et al. 2009) US Motor Vehicle Industry: Federal Financial Assistance and 
+Restructuring (05/29/2009)  
+Congressional Research Service analysis of the lead -up to and execution of the auto industry 
+bailout as well as the various solutions for restructuring.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CRS%20Auto%20Governm
+ent%20Aid.pdf. 
+(COP 2009) September Oversight Report: The Use of TARP Funds in the Support and 
+Reorganization of the Domestic Automotive Industry  
+Congressional Oversight Panel analyzing and providing recommendations related to the 
+creation, implementation, and issues raised by the use of TARP funds in the automotive bailout. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Congressional_Oversight_Pa
+nel_September_2009_Report_20090909.pdf. 
+(COP 2010) March Oversight Report: The Unique Treatment of GMAC Under the TARP  
+Congressional Oversight Panel analysis of the use of TARP funds in the support of GMAC and 
+Chrysler Financial. Analysis centers on GMAC but also covers Chrysler Financial in spring 2009. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/cop_report_20100310.pdf. 
+(COP 2011) January Oversight Report: An Update on TARP Support for the Domestic 
+Automotive Industry   
+Congressional Oversight Panel updating analysis and recommendations related to the creation, 
+implementation, and issues raised by the automotive bailout.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/cop_report_20110113.pdf. 
+(GAO 2009a) Troubled Asset Relief Program : Continued Stewardship Needed as Treasury 
+Develops Strategies for Monitoring and Divesting Financial Interests in Chrysler and GM  
+Oversight report detailing the conditions of the support provided to the automotive industry 
+and evaluating the government’s actions in the auto rescue through November 2009. This 
+includes the first mention by the GAO of Chrysler Financial’s wind-down.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/297972.pdf. 
+(GAO 2009c) Financial Audit: Office of Financial Stability (Troubled Asset Relief Program) 
+Fiscal Year 2009 Financial Statements  
+December 2009 o versight report that includes the first mention by the GAO of the date that 
+Chrysler Financial reached the maximum loan amount.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/299252.pdf. 
+254
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 37 ---
+(Office of Financial Stability 2018) TARP Transactions Report – Investments for the Period 
+Ending 10/05/2018  
+Transaction-level detail for all TARP programs except housing programs.  
+https://ypfs.som.yale.edu/library/tarp-transactions-report-investments-period-ending-
+october-5-2018. 
+ Copyright 2015, 2016, 2020, 2022 © Yale University. All rights reserved. To order copies 
+of this material or to receive permission to reprint any or all of this document, please 
+contact the Yale Program on Financial Stability at ypfs@yale.edu.  
+ 
+255
+The Rescue of the US Auto Industry, Module E Nye

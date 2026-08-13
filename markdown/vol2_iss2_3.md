@@ -1,0 +1,621 @@
+## The Federal Reserve’s Financial Crisis Response B: Lending & Credit Programs For Primary Dealers[1] 
+
+_Rosalind Z. Wiggins[2] Patricia C. Mosser[3] Andrew Metrick_[4] 
+
+Yale Program on Financial Stability Case Study 2015-1B-V2 July 1, 2015; Revised: July 15, 2020 
+
+## **Abstract** 
+
+Beginning in the summer 2007 the Federal Reserve (the Fed) deployed numerous conventional and innovative programs to address the credit crisis occurring in the wholesale lending markets that was beginning to affect the broader financial markets and threaten the economy at large. Two of those programs, the Term Securities Lending Facility (TSLF) and the Primary Dealer Credit Facility (PDCF) were aimed at providing liquidity to primary dealers and required the Fed to rely on its authority under Section 13(3) of the Federal Reserve Act. Section 13(3) is a Depression Era amendment that permits the Fed expanded powers in “unusual and exigent” circumstances, which it had not invoked in 76 years. We discuss the TSLF and the PDCF and the impact that these programs had on the Fed’s efforts to combat the brewing crisis, to provide much needed liquidity to the primary dealers, and to help revive the wholesale lending markets. 
+
+_____________________________________________________________________ 
+
+> 1 This case study is one of five Yale Program on Financial Stability case modules considering the Federal Reserve’s credit and lending responses to the global financial crisis: 
+
+- The Federal Reserve’s Financial Crisis Response A: Lending & Credit Programs for Depository Institutions. 
+
+- The Federal Reserve’s Financial Crisis Response B: Lending & Credit Programs for Primary Dealers. 
+
+- The Federal Reserve’s Financial Crisis Response C: Providing U.S. Dollars to Foreign Central Banks. 
+
+- The Federal Reserve’s Financial Crisis Response D: Commercial Paper Markets. 
+
+- The Federal Reserve’s Financial Crisis Response E: The Term Asset-Backed Securities Loan Facility. 
+
+Cases are available from the Journal of Financial Crises, https://elischolar.library.yale.edu/journal-of-financialcrises/. 
+
+2 Director, The Global Financial Crisis Project and Senior Editor, Yale Program on Financial Stability (YPFS), Yale School of Management. 
+
+> 3 Senior Research Scholar, School of International and Public Affairs, Columbia University. 
+
+> 4 Janet L. Yellen Professor of Finance and Management, and YPFS Program Director, Yale School of Management. 
+
+
+## **1.  Introduction** 
+
+On August 9, 2007, the French bank BNP Paribas[5] announced that it was suspending redemptions from two of its investment funds which held substantial portfolios of subprime mortgages because of an inability to value the funds. This announcement set off a panic among investors leading to a sudden contraction in lending as institutions pulled back from any elements with increased risk. The downturn in the subprime mortgage market quickly collapsed the asset-backed commercial paper (ABCP) market and then spread to other elements of the wholesale funding markets, including the significant repurchase agreement (repo) market that was, critical to nonbank institutions. Soon, banks and other financial institutions were experiencing difficulty meeting their funding needs. 
+
+In response, the Federal Reserve (the Fed) deployed numerous conventional and innovative programs to add liquidity to the markets. It began by using its conventional monetary policy tools as lender of last resort, the federal funds rate, and the discount rates applicable to wholesale lending by depository institutions. By early 2008, however, it had become increasingly concerned about the nonbank primary dealers, such as the five major investment banks. On March 7, 2008, the Fed announced a series of 28-day term-repo loans, particularly for agency mortgage-backed securities (MBS), under its standing Open Market Operations (OMOs) authority to provide primary dealers the longer-term funding that the markets were not providing. 
+
+Next, on March 11, the Fed announced the Terms Securities Lending Facility (TSLF), which would lend Treasury securities to the primary dealers in exchange for illiquid securities, thereby providing a pair of funding mechanisms similar to those available to depository institutions in the Discount Window and the Term Auction Facility. However, on March 16, 2008, with the collapse of Bear Stearns—the fifth largest investment bank—imminent but for the merger with JP Morgan Chase that was facilitated by Fed loans, the Fed also announced the Primary Dealer Credit Facility (PDCF), pursuant to which the Fed would provide secured loans directly to the primary dealers. In the case of both the TSLF and the PDCF, the Fed had to rely on its emergency authority under Section 13(3) of the Federal Reserve Act (FRA)[6] , a provision rarely used. 
+
+Despite these efforts to increase liquidity, the wholesale markets continued to be constrained and then worsened. On September 15, 2008, Lehman Brothers, the fourth largest investment bank, announced that it had filed for bankruptcy protection, initiating the largest such action in U.S. history. A tsunami of panic cascaded throughout the financial markets. In response, the Fed announced that it was significantly expanding the terms of both the TSLF and the PDCF to provide continued liquidity. In total, between the two facilities, the Fed provided a total of $383 billion to the primary dealers (maximum amount 
+
+_____________________________________________________________________ 
+
+> 5 A U.S. subsidiary of BNP Paribas, BNP Paribas Securities Corp., which conducted business as a broker-dealer, was also a primary dealer. 
+
+> 6 12 U.S. Code Section 343—Discounts of obligations arising out of actual commercial transactions, as amended. 
+
+
+outstanding), a total that rises to $463 billion when the amounts borrowed under the SingleTranche Repos are added. 
+
+In this case, we examine these efforts by the Fed to provide liquidity to primary dealers. We examine the Fed’s use of its traditional repo powers and then focus on the TSLF and the PDCF, their designs, and the reasons for their implementation. Further, we consider what alternatives the Fed may have had and whether the programs achieved their intended impact. Section 2 discusses briefly the severe contraction in wholesale lending markets that began in late 2007 and evolved into the financial crisis; Section 3 explains the critical role of the primary dealers in monetary policy and the financial system; Section 4 provides an overview of the Fed’s powers under Section 13(3) of the FRA; Section 5 discusses the SingleTranche Repos; Section 6 considers the TSFL in detail; and Section 7 discusses the PCDF in detail. 
+
+## **Questions** 
+
+1. Did the PDFC and the TSLF serve the purposes that the Fed intended? 
+
+2. Were there other types of programs that the Fed could have implemented given its objectives? 
+
+3. Would the Federal Reserve be able to implement the same programs today? If not, what type of response could it provide? 
+
+4. What elements of the programs were designed to address issues of stigma? Were these measures adequate? 
+
+5. Do you agree with the Fed’s conclusions that the requirements of Section 13(3) were met with respect to the TSLF and the PDCF? 
+
+6. What new risks did the Fed assume in lending to the primary dealers under these programs? How did the programs seek to manage these increased risks? 
+
+## **2. The Crisis in the Wholesale Lending Markets** 
+
+By the early 2000s, unregulated shadow banking, in which financial institutions loan funds among themselves, had grown to be a significant portion of the U.S. financial lending markets. This fact was to greatly impact the contagion effects of the crisis and would also play an important role in the Fed’s ability to stem the crisis. (See Gorton and Metrick 2012 for further discussion of the shadow banking system.) 
+
+As shown in Figure 1, a 2004 bond association survey revealed that the wholesale secured lending and borrowing markets totaled $7.8 trillion with roughly half (49%) being bilateral repo, 17% tri-party repo, and 30% securities lending. U.S. broker-dealers accounted for 40.6% of this wholesale market, investment managers and hedge funds another 9%. (See Figure 2.) 
+
+
+[FIGURE id=vol2_iss2_3_f1 type=figure label="Figure 1" file=figure_1.png caption="Secured Borrowing and Lending Markets, June 30, 2004"]
+### **Figure 1: Secured Borrowing and Lending Markets, June 30, 2004**
+
+|Type|$ millions|Percent of Total|
+|---|---|---|
+|Bilateral Rep|3,857,740|49%|
+|Tri-party Repo|1,350,000|17%|
+|Securities Lending|2,355,413|30%|
+|NASD/NYSE|275,148|4%|
+|Total|7,838,301|100%|
+
+
+
+## _Source: Gorton and Metrick 2012, 18._ 
+
+These wholesale lending markets played a significant role in the interconnected financial markets. In particular, repos constituted 38 percent of the short-term financing of brokerdealers at the end of 2007 (Adrian, Burke, and McAndrews, 2009, 2). By contrast, repos were less than 10 percent of the financing of commercial banks where deposits represented 59 percent of their liabilities (Ibid.). 
+
+[FIGURE id=vol2_iss2_3_f2 type=figure label="Figure 2" file=figure_2.png caption="Participants in the Bilateral Repo Market, June 30, 2004"]
+### **Figure 2: Participants in the Bilateral Repo Market, June 30, 2004**
+
+|Type of Counterparty|$ millions|% of Total|
+|---|---|---|
+|U.S. Dealers|1,566,276|40.6%|
+|U.S. Investment Managers, Hedge Funds|348,393|9.0%|
+|Other U.S.||21.4%|
+|Subtotal U.S. Counterparties|2,738,523|71%|
+|Off-Shore Hedge Funds|318,920|8.3%|
+|Other Non-U.S. Counterparties|800,298|20.7%|
+|Subtotal Non-U.S. Counterparties|1,119,218|29%|
+|Total All Counterparties|3,857,741|100.0%|
+
+
+
+_Source: Gordon and Metrick 2012, 18._ 
+
+By late 2007, after the first troubles sparked by the downturn in the subprime mortgage market were experienced—notably Bear Stearns closed one of its funds and BNP Paribas halted redemptions on three of its funds because it could not value them—panic about subprime mortgages began to spread far and fast through the wholesale lending markets. 
+
+
+The tri-party repo market was particularly vulnerable because of two usage patterns that had developed in the years preceding 2008. First, dealers were increasingly pursuing highleveraged strategies and financing long-term assets with short-term funding. The percentage of overnight repo funding utilized by brokers, including primary dealers, had steadily increased from around 50 percent prior to 2004, to a high of 75 percent in 2008. Outstanding overnight repos grew from $450 billion in July 1994 to $3 trillion in March 2008 right after the creation of the PDCF (Ibid., 9). 
+
+Secondly, the quality of securities used as collateral for repos had been declining to encompass less-liquid types of securities in greater proportion. The use of less-liquid types of collateral, such as structured securities, below investment-grade corporate debt and equities, whole loans, and trust receipts, increased the risk associated with a possible failure that might force the sale of such assets (Ibid.). 
+
+Problems in the subprime mortgage market spread to other mortgage markets and then to wholesale lending markets. Haircuts on repo collateral began to rise and ABCP issuers had trouble rolling over their outstanding paper. 
+
+Money market mutual funds (MMMFs), which were major holders of ABCP, faced pressure to maintain their $1 par value, and several required funding support from their sponsors in order to do so (Gorton and Metrick 2012, 5-6). These pressures prompted many MMMFs and other short-term investors to retreat from ABCP. As shown on Figure 3, the impact was significant; a $1 trillion reduction in outstanding ABCP occurred between late 2007 and 2009 (Covitz and Surez 2013). 
+
+[FIGURE id=vol2_iss2_3_f3 type=figure label="Figure 3" file=figure_3.png caption="Financial and Asset-Backed Commercial Paper Outstanding (seasonally adjusted)"]
+### **Figure 3: Financial and Asset-Backed Commercial Paper Outstanding (seasonally adjusted)**
+![Figure 3](assets/vol2_iss2_3/figure_3.png)
+
+
+_Source: Gorton & Metrick 2012, 15._ 
+
+MMMFs were also the main U.S. funders of repos[7] , which many banks and nonbank financial institutions (such as investment banks, and broker-dealers) depended on to finance their 
+
+_____________________________________________________________________ 
+
+> 7 “A repo contract is an arrangement in which one party, the depositor or lender, provides cash to the other party, the borrower or bank. The contract is often overnight and is collateralized. So, the borrowing bank 
+
+
+operations. By the second quarter of 2007, repo financing by broker-dealers had grown to be approximately $2.2 trillion, and broker-dealers relied on this market for approximately 50 percent of their financing (Gorton and Metrick 2012, 5-6).[8 ] During the beginning months of 2008, repo markets showed signs of severe contraction. Lenders had reacted to the events of late 2007 by increasing haircuts, demanding greater compensation for lending against riskier collateral, or refusing to make loans against certain types of collateral at all (Ibid.). Unsecured wholesale lending was curtailed, and term lending was shrinking rapidly with terms being greatly shortened. The decline in repos was sudden and sharp. Net funding to banks and broker-dealers fell from $2.2 trillion in 2007 Q2 to $900 billion in 2009 Q1 (Ibid.). 
+
+The Fed first addressed these market disruptions by utilizing its traditional monetary policy tools and providing increased liquidity to depository institutions. As the new year progressed, however, it became more concerned about the impact that the market problems were having on other financial institutions and, in particular, on the primary dealers. 
+
+Although programs such as the Term Auction Facility (TAF)[9] (which had been initiated in December 2007) were thought to have been somewhat successful in maintaining a flow of liquidity in the markets, these early programs were also limited in that only depository institutions were eligible to borrow from them. Additionally, there was no guarantee that liquidity provided to depository institutions would then be lent on to primary dealers and other financial institutions. In this environment, the Fed introduced several measures to directly provide liquidity to the primary dealers. 
+
+## **3. The Critical Role of the Primary Dealers** 
+
+Primary Dealers are those securities dealers that have been approved to buy Treasury securities directly from the Federal Reserve Bank of New York (FRBNY) and resell them to 
+
+_____________________________________________________________________ 
+
+> provides bonds with a market equal to or greater than the amount of cash the depositor is providing. If the deposit is over-collateralized, there is said to be a “haircut.” E.g., if the borrower deposits $90 million dollars and the backing bonds are worth a market value of $100 million, then there is a 10 percent haircut” (Gorton and Metrick, 2012, 1, fn1). 
+
+> 8 This amount continued to escalate and on March 4, 2008, primary dealers reported financing $4.5 trillion in assets with repos (Fleming, Hrung, and Keane, 2010, 5). 
+
+> 9 At its inception, the Term Auction Facility made auction loans to depository institutions that were secured by investment-grade securities. The eligible collateral was later expanded. 
+
+
+the secondary market; they provide a vital role in monetary policy.[10] As of November 30, 2007, there were 20 primary dealers, including the largest U.S. investment banks.[11] 
+
+By early 2008, the Fed had become very concerned about how the brewing financial crisis was affecting the primary dealers. Of particular concern were the five largest investment banks,[12] which were experiencing funding difficulties as the wholesale lending markets seized. The investment banks followed business plans that were highly-leveraged,[13] and they were dependent on overnight funding of hundreds of billions of dollars in commercial paper, repo, and securities lending to open for business. 
+
+If the investment banks continued to experience rising funding costs and continued liquidity problems, there was the risk that one might fail and not only disturb a key monetary policy transmission channel but also have additional significant negative impacts on the financial industry as a whole. This was of particular concern because, by 2007, it was recognized that the financial industry had become far more interconnected and global than ever before. 
+
+This was to be an important consideration in the Fed’s actions regarding the near collapse of Bear Stearns and in the significant ripple effects that the Lehman bankruptcy occasioned. In order to address these concerns, beginning in March 2008, the Fed implemented a series of programs designed to provide liquidity directly to the primary dealers. With the exception of the Single-Tranche Repo Lines under its OMOs, it had to rely on its seldom used emergency authority under Section 13(3) of the Federal Reserve Act (FRA)[14] to do so. 
+
+## **4. The Federal Reserve’s Powers and Section 13(3) of the FRA** 
+
+In its role as lender of last resort and keeper of monetary policy, the Fed has three basic tools: reserve requirements, the discount rate, and Open Market Operations (OMOs). The Fed sets 
+
+_____________________________________________________________________ 
+
+> 10 According to the FRBNY’s website, the primary dealers’ role includes (i) to participate consistently in open market operations to carry out U.S. monetary policy pursuant to the direction of the Federal Open Market Committee (FOMC) and (ii) to provide the FRBNY’s trading desk with market information and analysis helpful in the formulation and implementation of monetary policy. Primary dealers are also required to participate in all auctions of U.S. government debt and to make reasonable markets for the FRBNY when it transacts on behalf of its foreign official account-holders. 
+
+> 11 See the Figure 8 for a list of primary dealers that borrowed from the PDCF, which is the same as the list as of November 30, 2007, with the exception of those three firms that became primary dealers late in the program as indicated in the note thereto. 
+
+> 12 As of November 30, 2007, the five largest U.S. investment banks were all primary dealers through one ⎯ subsidiary or another Bear, Stearns & Co., Inc.; Goldman Sachs & Co.; Lehman Brothers Inc.; Merrill Lynch Government Securities Inc.; and Morgan Stanley & Co. Incorporated. 
+
+> 13 For example, Total assets/shareholders equity, a measure of leverage, rose from 28 percent at Bear Stearns in 2000 to 34 percent as of June 2007. Similar figures for Lehman Brothers were 26 percent to 31 percent. And by comparison, for Goldman Sachs, the most conservative of the major investment banks, from 18 percent to 22 percent (Milliken Institute). 
+
+> 14 Section 13(3) was enacted in 1932 out of concern that widespread bank failures would make it impossible for many firms to obtain loans, thus depressing the economy. It was used sparingly during the four years after the section was added and then not again until the events of 2008, 76 years later (Porter 2009, 502). See also discussion at page 8. 
+
+
+the amount of reserves that depository institutions are required to maintain with it to secure their operations. These funds are made available for loan to depository institutions through the Fed’s standing mechanism, the Discount Window, at rates established by the Fed. Through adjustments via its OMOs the Fed influences the demand for and amount of balances that depository institutions hold at the Fed, and therefore the federal funds rate, i.e., the interest rate at which depository institutions lend reserve balances to other depository institutions overnight. The Federal funds rate is also the rate at which the Fed provides loans to depository institutions through its Discount Window. 
+
+Typically, pre-crisis OMOs were repo (occasionally reverse-repo) transactions undertaken by the Fed with primary dealer counterparties with maturities from one to seven days. These repo and reverse-repo transactions were undertaken to change the supply of reserves available to depositories and thus keep the federal funds rate at the monetary policy target interest rate determined by the Federal Open Market Committee (FOMC).[ 15] The collateral for OMOs repos were U.S. Treasury securities, agency securities, and agency mortgagebacked securities.[16] 
+
+Because authority to lend via the Discount Window does not extend to nondepository institutions, the Fed’s initial response to provide liquidity to nondepository institutions was based on its OMOs authority. As discussed below (See Single-Tranche Repos.), beginning in March 2008, the Federal Reserve conducted a series of 28-day repos to increase the availability of term financing to primary dealers, to alleviate the strains in the financial markets, and to support the flow of credit to U.S. households and businesses.(Fed PR, March 7, 2008). However, as the financial crisis deepened and the need to deploy “significant force” to shore up the primary dealers and combat the financial crisis became evident, the Fed invoked Section 13(3) of the FRA. 
+
+## **Section 13(3) of the FRA** 
+
+Section 13(3) of the FRA was a key authority relied upon by the Fed to enact programs for Primary Dealers. Before amendment by the Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203, 124 Stat. 1376) the section read in part as follows: 
+
+In unusual and exigent circumstances, the Board of Governors of the Federal Reserve System, by the affirmative vote of not less than five members, may authorize any Federal reserve bank, during such periods as the said board may determine, at rates established in accordance with the provisions of section 14, subdivision (d) of this Act, to discount for any individual, partnership, or corporation, notes, drafts, and bills of exchange when such notes, drafts, and bills of exchange are indorsed or otherwise secured to the satisfaction of the Federal reserve bank: _Provided_ , That before discounting any such note, draft, or bill of exchange for an individual or a partnership or corporation the Federal reserve bank shall obtain evidence that such individual, 
+
+_____________________________________________________________________ 
+
+> 15 The Board of Governors of the Federal Reserve System is responsible for the discount rate and reserve requirements, and the FOMC is responsible for open market operations 
+
+> 16 In addition, prior to the crisis, the Fed periodically purchased U.S. Treasury securities to adjust the overall size of its balance sheet, typically in response to change in growth of currency. 
+
+
+partnership, or corporation is unable to secure adequate credit accommodations from other banking institutions. All such discounts for individuals, partnerships, or corporations shall be subject to such limitations, restrictions, and federal regulations as the Board of Governors of the Federal Reserve System may prescribe. (12 U.S.C. § 343 2006) 
+
+Section 13(3) was enacted in 1932 so that the Fed would have some authority to respond if a rash of bank failures interrupted the ability of nonbanks to obtain credit, depressing the economy. The Fed could invoke Section13(3) to lend to any “individual, partnership, or corporation” if the other requirements of Section 13(3) were met. In the four years after the Section was added, the Fed made a total of 123 loans totaling just $1.5 million. Section 13(3) was not used again until 2008, 76 years later. (Porter 2009, 502). 
+
+As shown in Figure 4, amendments to Section 13(3) adopted by Section 1101 of Dodd-Frank would, among other things, (i) require the Fed to obtain the approval of the Secretary of the Treasury prior to extending emergency credit under Section 13(3), (ii) require the Fed to disclose the justification and terms of any such program or facility within seven days after approval, and (iii) limit the Fed’s use of its emergency authority to participants in a program or facility with “broad-based eligibility” (a key component of which is that at least five or more persons or entities would be eligible to participate in such program or facility), and not lend to any insolvent company.[17] 
+
+_____________________________________________________________________ 
+
+> 17 The Fed’s new definition of broad-based eligibility reads as follows: 
+
+> (4) _Broad-based eligibility_ . (i) A program or facility established under this paragraph (d) must have broadbased eligibility in accordance with terms established by the Board. (ii) For purposes of this paragraph (d), a program or facility has broad-based eligibility only if the program or facility is designed to provide liquidity to an identifiable market or sector of the financial system; (iii) A program or facility will not be considered to have broad-based eligibility for purposes of this paragraph (d) if: (A) The program or facility is designed for the purpose of assisting one or more specific companies avoid bankruptcy, resolution under Title II of Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111– 203, 12 U.S.C. 5381 et seq.), or any other Federal or State insolvency proceeding, including by removing assets from the balance sheet of one or more such company; (B) The program or facility is designed for the purpose of aiding one or more failing financial companies; or (C) Fewer than five persons or entities would be eligible to participate in the program or facility. (Fed Res Final Rule 2015) 
+
+
+[FIGURE id=vol2_iss2_3_f4 type=figure label="Figure 4" file=figure_4.png caption="Elements of invoking FRA Section 13(3) authority after Dodd-Frank Act"]
+### **Figure 4: Elements of invoking FRA Section 13(3) authority after Dodd-Frank Act**
+
+1. Credit is to be extended only in “unusual and exigent circumstances.” 
+
+2. The Board must act by the affirmative vote of at least five of its members. 
+
+3. The extension of credit to be indorsed or otherwise secured to the satisfaction of the Reserve Bank. 
+
+4. The lending Reserve Bank must obtain evidence before extending the credit that the borrower “individual, partnership, or corporation” is unable to secure adequate credit accommodations from other banking institutions. 
+
+_The following provisions were added by the Dodd-Frank Act_ 
+
+1. The Board must obtain the approval of the Secretary of the Treasury prior to extending the emergency credit. 
+
+2. Within seven days after the approval of such a program or facility, the Board must disclose the justification for and the terms of such program. 
+
+3. The program or facility must be one with broad-based eligibility in that it is not structured to remove assets from the balance sheet of one or more companies, not established for the purpose of assisting one or more companies to avoid bankruptcy, resolution under Title II of the Dodd-Frank Act, or any other Federal or State insolvency proceeding, and not less than five persons would be eligible to utilize it. 
+
+4. Credit may not be extended to any person or entity that is insolvent or to any person or entity that is borrowing for the purpose of lending the proceeds of the loan to a person or entity that is insolvent. 
+
+## _Source: Fed Res Final Rule 2015._ 
+
+Based on the Fed’s definition of “broad-based” included in its final regulations implementing Section 1101 of Dodd-Frank, it does appear that the provision of liquidity to the primary dealers during the crisis would have passed muster. Although a relatively small group, the primary dealers can definitely be said to be “an identifiable market or sector of the financial system.” Indeed, they can be said to stand in pivotal positions in many markets as key market-makers and or intermediaries, and they consistently number five or more. 
+
+
+## **Determinations** 
+
+Based on the market situation that then existed, the Fed repeatedly found the “unusual and exigent circumstances” required for its reliance on Section 13(3). Minutes of the FOMC meeting on March 10, 2008, approving the TSLF indicate—“The section 13(3) legal basis for this operation requires an affirmation that market conditions are significantly impaired. If we couldn’t honestly make that affirmation, our legal basis would disappear” (FOMC Trans, March 10, 2008, 14). Facts recited to support this conclusion include: 
+
+“CHAIRMAN BERNANKE. . . We live in a very special time. We have seen, as you know, significant deterioration in term funding markets and more broadly in the financial markets in the last few days. Some of this is credit deterioration, certainly, given increased expectations of recession; but there also seem to be some self-feeding liquidity dynamics at work as well. So the question before us is whether there are actions we can take, other than monetary policy, to break or mitigate this adverse dynamic.” (Ibid.) 
+
+Minutes of the Board of Governors meeting held on March 16, 2008, also reflect a similar finding in connection with approving the PDCF: 
+
+_New credit facility for primary securities dealers._ Given the unusual and exigent circumstances, the Board authorized the New York Reserve Bank to establish a facility to extend credit to primary securities dealers. . . . 
+
+The Board’s decision to establish a facility for primary securities dealers was based on recent, rapidly changing developments. These developments demonstrated that there had been impairment of a broad range of financial markets in which primary dealers finance themselves. The available evidence also indicated that the dealers might have difficulty obtaining necessary financing for their operations from alternative sources. 
+
+On September 14, 2008, the Board further found that such unusual and exigent circumstances had continued since its March 16[th] determination and relied on this finding to authorize major changes to the PDCF and the TSLF (Fed Res Bd Gov Mins September 14, 2008). (See Also Porter, 2009, 502-509, which provides an analytical discussion of the Fed’s utilization of Section 13(3) during the financial crisis.) 
+
+While some commentators have been critical of some of the actions that the Fed took to combat the financial crisis in reliance on Section 13(3), its actions to provide funding to the primary dealers through the PDCF and the TSLF have generally not been criticized. This is likely because these facilities are more in line with the Fed’s monetary policy role and also because they involved lending in a manner closely similar to its traditional OMOs. (See Figure 5.) The Fed has received the most criticism when it relied on Section 13(3) to provide liquidity to a specific firm (such as Bear Stearns, AIG, or Citicorp), or to indirectly purchase assets, such as in the case of the Commercial Paper Funding Facility (Mehra 2010.) 
+
+
+## **5. Primary Dealer Support: Single-Tranche Repo Loans** 
+
+For much of the early months of 2008, the Fed staff considered how to provide liquidity to the primary dealers. The repo markets were under tremendous pressure and, since the U.S. financial system had become less bank-centric, with the evolution of the wholesale lending market, a liquidity problem impacting nonbanks (investment banks, insurance companies, and hedge funds) might create a problem that the Fed could not immediately address with its traditional monetary policy tools. Moreover, the highly-developed interconnectivity between financial institutions and markets also meant that a problem with one significant player or key market could lead to system-wide issues (FOMC Trans, March 10, 2008, 5). 
+
+[FIGURE id=vol2_iss2_3_f5 type=figure label="Figure 5" file=figure_5.png caption="Details of the Federal Reserve’s Liquidity Programs for Primary Dealers, 2007-09"]
+### **Figure 5: Details of the Federal Reserve’s Liquidity Programs for Primary Dealers, 2007-09**
+
+||**OMOs Repos**|**TSLF**|**PDCF**|
+|---|---|---|---|
+|**Date Announced**|**March 7, 2008**|**March 11, 2008**|**March 16, 2008**|
+|||Auction loans of||
+|||Treasury securities||
+||Single-Tranche Repo|against eligible|Auction loans against|
+|Type|auction|collateral|eligible collateral|
+|Term*|28 days|28 days|Overnight|
+||||OMOs-eligible|
+|||OMOs-eligible|collateral. Beginning in|
+|||collateral, investment|September 2008, any|
+||Treasuries, Agency debt|<br>grade securities|collateral accepted in|
+||and Agency guaranteed|including private label|the tri-party repo|
+|Eligible Collateral*|MBS.|ABS|market.|
+||||DW Primary Credit rate|
+|Rate|DW Primary Credit rate|Single Price|+ High frequency rate|
+|Authority|Sec. 14|Sec. 14 + Sec. 13(3)|Sec. 13(3)|
+|Size: Total ($billions)*|100|200|100|
+|Size Initial offering||||
+|($billions)|15|50/tranche|50|
+|Availability|Weekly|Weekly|Daily|
+|||Provide liquidity to||
+|||PDs/Address collateral|Provide liquidity to PDs|
+||Provide liquidity to PDs|problem and Stimulate|in need/Backstop the|
+|Purpose|in need|lending markets|repo markets|
+|Impact on Reserves?|Y|N|Y|
+
+
+
+_*Initial terms shown. Criteria may have changed during the program. Source: Fleming 2012, 164._ 
+
+## **Open Market Operation Repos** 
+
+The Single-Tranche Repos were a series of OMOs transactions conducted under Section 14 of the FRA (the Fed’s basic authority to conduct open market operations). These operations were not an emergency lending program authorized by section 13(3) of the Federal Reserve Act. 
+
+
+As part of its ongoing open market operations to maintain the Federal funds rate near the target, the Fed provided overnight repos to primary dealers. Such operations were a small portion of the dealers’ overall funding needs, but the existence of the mechanism provided the Fed with a readily available and proven mechanism for introducing additional liquidity into the system. The repos were arranged through the primary dealers’ clearing banks, which held custody of the collateral and revalued it each day. Occasionally the Fed had also used term repos, usually with 14-day terms, to relieve strains in collateral markets during periods of market turmoil and during  “flights to quality” when many investors retreat from assets that are no longer considered “safe.”. 
+
+On March 7, 2008, the Federal Reserve announced that its Open Market Trading Desk would conduct a series of single-tranche term repurchase transactions (Single-Tranche Repos) to provide _longer-term_ funding to primary dealers for up to a $100 billion. These repos would be in addition to its overnight repo transactions, increasing the liquidity available to primary dealers (Fed. Res. PR, Mar. 7, 2008). While the Fed had arranged single-tranche repos in other times, this move was an indication of how serious it considered the contraction in the funding markets facing the primary dealers. 
+
+The Single-Tranche Repos differed from conventional OMOs repos in several ways: 
+
+- Single-tranche auctions in which primary dealers could offer any combination of eligible collateral for up to the full amount available provided the primary dealers greater flexibility to finance less-liquid types of collateral. 
+
+- Repos were for 28-day terms instead of overnight, addressing the reluctance of the market to provide longer term funding. 
+
+- The Fed would accept any of the types of securities that were eligible as collateral in its conventional repo operations—Treasuries, Federal Agency debt or Federal Agency mortgage-backed securities.[18] 
+
+The transactions were conducted through competitive auctions at market rates. Primary dealers were not required to bid in the auctions; however, they all were required to acknowledge the operation by connecting their systems. This worked against any perceived stigma that might have caused resistance. 
+
+The Single-Tranche Repo program was well received, providing some relief to the constrained agency MBS market. Maximum outstanding under the program rose to $80 billion, during April 2008. The last auction was conducted in December 2008, and by the end of January 2009 use of the facility had ceased. By comparison, the maximum amount outstanding under the TSLF reached $236 billion, and under the PDCF it reached $147 billion (Fleming 2012, 164, FRBNY website). 
+
+_____________________________________________________________________ 
+
+> 18 Acceptable Federal Agency securities here include debt issued by the Federal Home Loan Mortgage Corporation (FHLMC), the Federal National Mortgage Association (FNMA), the Federal Home Loan Banks, and mortgage-backed securities issued by the FHLMC, FNMA, and the Government National Mortgage Association. 
+
+
+## **6. The Term Securities Lending Facility (TSLF)** 
+
+The Term Securities Lending Facility (TSLF) was approved by the FOMC[19] on March 10, 2008 and announced on March 11, 2008. The first auction was held on March 27, 2008. As shown in Figure 6, when paired with the PDCF (discussed below) the TSLF made the Fed’s liquidity programs for primary dealers closely mirror those offered to depository institutions— Discount Window lending and the Term Auction Facility (securities-based lending).[20] 
+
+[FIGURE id=vol2_iss2_3_f6 type=figure label="Figure 6" file=figure_6.png caption="Comparison of the Federal Reserve’s Liquidity Programs for Depository Institutions and Primary Dealers, 2007-10"]
+### **Figure 6: Comparison of the Federal Reserve’s Liquidity Programs for Depository Institutions and Primary Dealers, 2007-10**
+
+|**Eligible**|**Name of Program**|**Purpose of Program**|**Date Announced**|
+|---|---|---|---|
+|**Participants**||||
+|Depository|Discount Window|Provided collateralized loans|Ongoing|
+|Institutions||secured by illiquid collateral||
+|||OMOs||
+||Term Auction Facility|Provided collateralized loans|December 12,|
+|||secured by illiquid collateral|2007|
+||Asset-backed Commercial|Provided funds to purchase|September 18,|
+||Paper Money Market|ABCP from MMMFs|2008|
+||Mutual Fund Liquidity|||
+||Facility|||
+|Primary Dealers|Single-Tranche Open|Provided secured loans in|March 7, 2008|
+||Market Operations|exchange for OMOs-eligible||
+|||collateral||
+||Term Securities Lending|Loaned Treasuries in|March 11, 2008|
+||Facility|exchange for OMOs-eligible||
+|||collateral and illiquid||
+|||collateral*||
+||Primary Dealer Credit|Provided loans secured by|March 16, 2008|
+||Facility|illiquid collateral||
+
+
+
+_*Initial terms shown. Criteria may have changed during the program. Source: Fleming 2012, 164._ 
+
+Two key reasons cited by the Fed for implementing the TSLF were: (1) that the alarming deterioration in the lending cycle had become a danger to the monetary policy transmission mechanism and, (2) that what were systemic liquidity issues risked becoming systemic solvency issues and jeopardizing even more financial intermediaries (FOMC Trans, March 10 2008, 5). 
+
+The TSLF was a security-for-security lending facility very similar to the daily OMOs securities lending operations and thus, was familiar to the primary dealers. Also, because the TSLF 
+
+_____________________________________________________________________ 
+
+> 19 The Federal Open Markets Committee is responsible for the Fed’s OMO operations. 
+
+> 20 Just days after the announcement of the TSLF, but prior to the first auction being held, the markets roiled with the near collapse of Bear Stearns and its announced sale to JP Morgan. Concern about the market’s reaction to the news about Bear Stearns prompted the Fed to suddenly announce, on March 14, 2008, the Primary Dealer Credit Facility (PDCF), a new, third, program for providing direct loans to primary dealers. (See page 16 for a discussion of the PDCF.) 
+
+
+swapped bonds for bonds, it enabled the Fed to sidestep issues regarding the impact on its reserves that would have had to be addressed if instead the Fed had chosen to significantly scale up its cash funding programs.[21] There was also the concern that given the expected size of the program, $200 billion, the need to sterilize its effects might have given rise to negative back-end effects on the pricing markets. 
+
+## **The Vicious Dynamic and Reversing the Cycle** 
+
+Beyond providing liquid securities directly to the primary dealers, it was thought that the TSLF would also reduce liquidity risk in the markets overall. As the crisis developed, repo financing by broker-dealers began to fail. Net funding to banks and broker-dealers fell from $2.2 trillion in 2007 Q2 to $900 billion in 2009 Q1 (Gorton and Metrick 2012). The Fed targeted this dangerous cycle and hoped that lending against Treasuries would help slow or even reverse “the dynamic process of reduced liquidity, greater price volatility, higher haircuts, margin calls, and forced liquidation” that was ongoing (FOMC Trans, March 10, 2008, 6). This debilitating cycle was explained to the FOMC as follows: 
+
+“That dynamic goes something like this: Asset price declines—say, triggered by deterioration in the outlook—lead to margin calls. Some highly leveraged firms are unable to meet these calls. Dealers respond by liquidating collateral. This puts downward pressure on asset prices and increases price volatility. Dealers raise haircuts further to compensate for the heightened volatility and the reduced liquidity in the market. This, in turn, puts more pressure on other leveraged investors. A vicious circle ensues of higher haircuts, fire sales, lower prices, higher volatility, and still lower prices, and financial intermediaries start to break as a liquidity crisis potentially leads to insolvency when assets are sold at fire sale prices.” (Ibid., 4-5) 
+
+The TSLF permitted dealers to swap illiquid mortgage–backed collateral that the market was refusing to loan against for Treasury securities, providing the dealers with collateral that they could then use to secure funding in the wholesale lending market. This would better enable the primary dealers to finance their balance sheets, which would stabilize the primary dealers and make them more willing to make markets across a range of securities. Better market-making would increase the value of the securities and increase the market’s willingness to accept other types of collateral, reviving a range of markets. The resulting increased liquidity would result in lower haircuts generally (Ibid., 6). 
+
+## **Features of the TSLF** 
+
+The TSLF was modelled after the Term Auction Facility (TAF)[22] , which the Fed introduced in December 2007 for depository institutions, and also after the daily OMOs securities lending 
+
+_____________________________________________________________________ 
+
+> 21 “Moreover, as both programs are scaled up [the cash-based TAF program for $100 billion and the SingleTranche Repo Loans for $100 billion], there is a large impact on reserves that must be offset by Treasury redemptions, sales, or reverse repurchase operations. Frankly, there are limits to our ability to adjust our portfolio quickly without our actions becoming a source of disruption to financial markets” (FOMC March 10, 2008, 5). 
+
+> 22 Under the TAF, which was authorized pursuant to the Fed’s primary monetary powers and role as lender of last resort, the Fed provided cash loans to depository institutions that were secured by illiquid collateral that 
+
+
+operations[23] , but with some significant differences. Although with the TSLF, the Fed sought to address the same market problem as it had with the TAF, it also had as an objective reviving the wholesale lending markets. Thus, the TSLF provided Treasury securities, rather than cash, in exchange for other less-liquid securities. The primary dealers received collateral that they could presumably utilize in market borrowings. (See Figure 6 for a comparison of Fed programs for depository institutions and primary dealers.) 
+
+Key features of the TSLF included: 
+
+- Available only to primary dealers who could swap their less-liquid collateral for Treasury securities held in the Fed’s System Open Market Account (SOMA). 
+
+- Loans were for periods of 28 days. 
+
+- To access the TSLF, primary dealers bid a fee via a single-prove auction with a minimum set by the FRBNY.[24] 
+
+- Dealers could submit up to two bids. The minimum bid was $10 million, each bid could be for no more than 20 percent of the offering amount, and each dealer could be awarded no more than 20 percent of the offering amount. 
+
+- The auctions were single-priced, so that accepted dealer bids were awarded at the same stop-out rate, which was the lowest rate at which bids are accepted. 
+
+- Treasury collateral was allocated to dealers on a pro rata basis, so that a dealer awarded 10 percent of the offering amount received a 10 percent share of each Treasury security offered. 
+
+- The Fed reserved the right to substitute lent general collateral each day so as to avoid providing collateral that may trade with scarcity value in the repo market. 
+
+(See Fleming, Hrung, and Keane 2010 for further details regarding the operation of the TSLF auctions.) 
+
+## **Eligible Collateral** 
+
+To mitigate credit risk to the Fed, TSLF transactions, similar to OMOs securities lending, were fully collateralized with appropriate haircuts applied. However, because TSLF lending was for longer maturities and involved less liquid collateral, the program was designed to ensure 
+
+_____________________________________________________________________ 
+
+> the market would no longer lend against. (See Wiggins et al. 2015 for a discussion of the Fed’s lending and credit programs for depository institutions.) 
+
+> 23 “What are the differences between the SOMA Securities Lending program and the TSLF? The SOMA Securities Lending program offers specific Treasury securities held by SOMA for loan against Treasury GC on an overnight basis. Dealers bid competitively in a multiple-price auction held every day at noon. The TSLF will offer Treasury GC held by SOMA for a 28-day term. Dealers will bid competitively in single-price auctions held weekly and borrowers will pledge program-eligible collateral” (FRBNY, Term Securities Lending Facility: Frequently Asked Questions, June 25, 2009). 
+
+> 24 The minimum fee for Schedule 1 and Schedule 2 auctions was 10 and 25 basis points (per annum), respectively. 
+
+
+that loans were over-collateralized. The market value of eligible collateral was posted on a daily basis, and dealers would be required to make collateral substitutions over the term of a loan if the pledged collateral deteriorated in value or fell out of the eligible collateral pool[25] (Fleming, Hrung, and Keane 2010, 7-8). 
+
+TSLF eligible collateral consisted of two types, (i) all collateral eligible for Fed OMOs triparty repurchase agreements—Treasury securities, Agency debt, and Agency MBS (Schedule 1), and (ii) all Schedule 1 collateral, investment grade corporate securities, municipal securities, MBS, and asset-backed securities (Schedule 2). Auctions were to be run for separate tranches of Schedule 1 and Schedule 2 collateral. Initially, $100 billion was allocated for each type of collateral, with initial auctions pegged at $50 billion each (FOMC Transcript March 10, 2008, 7-9). 
+
+The Fed chose to include mortgage-backed securities in addition to the already eligible Schedule 1 collateral to increase the impact of the program (Ibid., 6). While they did think that a TSLF limited to Schedule 1 collateral would produce a positive response (as had the TAF, which had a similar constraint on the collateral it would accept for loans), it was also thought that including the large market of private label mortgage-backed securities (MBS) could have an even greater impact on monetary policy transmission mechanism and could also produce significant spillover benefits (Ibid.). Reasons cited for not further expanding the eligible collateral beyond that of Schedule 2 were (i) that other markets, such as commercial-backed mortgage securities and corporate or municipal bonds, were not under the same high degree of duress, and (ii) that to include other asset classes would have increased the operational complexity and risk of the program, for example, by compelling additional tranched auctions (Ibid., 6-7). 
+
+Prior to the first TSLF auction, however, after consultation with market participants (presumably including the primary dealers), the Fed decided to base the first auction exclusively on Schedule 2 collateral. It also expanded the list of Schedule 2 collateral to include agency collateralized-mortgage obligations (CMOs) and AAA/Aaa-rated commercial mortgage-backed securities (CMBS), in addition to the previously announced AAA/Aaa-rated private-label residential mortgage backed securities (RMBS) and OMOs-eligible collateral (FRBNY PR, March 20, 2008). The first auction size was also raised to $75 billion (Ibid.). 
+
+During the first weeks of September 2008, officials of the Fed and Treasury Department were actively entrenched in assisting Lehman Brothers and AIG in finding strategies for survival. The efforts on behalf of Lehman would ultimately fail, and it would, on September 15[th] , declare the largest bankruptcy in U.S. history. AIG would be saved only by the largest government bailout in U.S. history. 
+
+_____________________________________________________________________ 
+
+> 25 The TSLF contained other provisions designed to manage collateral risk. Collateral that was on watch for downgrades was not accepted. Also, non-agency MBS securities had to be rated at least AAA-rated and then could not be private-label MBS with CDO-type structures and characteristics. If securities accepted as collateral were put on review for downgrade, the Fed could demand that the borrower replace them with other securities acceptable to the Fed (FOMC Transcript, March 10, 2008, 6-9). 
+
+
+Realizing that these events would likely increase the stress on the markets, on September 14th, the Fed announced that it was again expanding Schedule 2 eligible collateral to include all investment-grade debt securities. (It also made a related significant expansion to collateral eligible under the PDCF.) Additionally, the Schedule 2 bi-weekly auctions were changed to occur on a weekly basis, and the amount allocated to the Schedule 2 auctions was increased to a total of $150 billion.[26] The amount allocated to Schedule 1 auctions remained at $50 billion (Fed. Reserve PR, September 14, 2008). Every auction for Schedule 1 collateral was to be for $25 billion. Schedule 2 auctions ranged from $35 billion to $75 billion (Fleming, Hrung, and Keane 2008, 13). 
+
+Because the TSLF was a security-for-security swap, its operation did not expand the Fed’s balance sheet or require sterilizing of its effects. However, it was recognized that the Fed was potentially absorbing increased credit risk as the SOMA portfolio accepted lower-quality collateral (FOMC Trans, March 10, 2008, 7). 
+
+## **Managing Counterparty Risk** 
+
+By limiting participation in the TSLF to the primary dealers the Fed limited it to a small, select group of institutions that it had vetted, so counterparty risk was thought to be at minimum (Ibid., 8). The Fed also reserved the right to exclude any primary dealer from participation in the TSLF (a decision to be made by the FRBNY which administered the program). This was an authority that the Fed traditionally retained with respect to its OMOs and which it had on occasion used to exclude primary dealers who were failing (e.g., Drexel), or whose market conduct was inappropriate (e.g., Salomon Brothers). 
+
+## **Legal Authority** 
+
+There were two basis of authority for the TSLF. The first was Section 14 of the Federal Reserve Act, which provides for OMOs activities and which supported the program since a main objective was to maintain the critical function that the primary dealers played in the monetary transmission channel and the market for U.S. securities.[27] All of the Schedule 1 collateral transactions were clearly permitted under this section. The Fed staff also considered Schedule 2 collateral transactions to be justified to the extent that they intended on improving the market for U.S. securities (FOMC Trans, March 10, 2008, 9). However, given ⎯ the secondary objective embodied in the TSLF that of providing liquidity to the primary dealers ⎯ the Fed also relied on Section 13(3)[28] . 
+
+_____________________________________________________________________ 
+
+> 26 Between late March and September 2008, the NYFed conducted weekly auctions alternating between Schedule 1 and Schedule 2 collateral (NYFED PR, March 24, 2009). 
+
+> 27 “The TSLF is intended to promote liquidity in the financing markets for Treasury and other collateral and thus to foster the functioning of financial markets more generally” (Bd of Gov Fed Res PR, March 11, 2008). 
+
+> 28 “MR. ALVAREZ. Yes. President Hoenig, you are correct. We are relying in part on section 14, the open market operations piece, even for accepting collateral that is not section 14 collateral because it does have an effect in improving the market for U.S. government securities, but there is a very strong component of this that is providing liquidity to the primary dealers, and to satisfy that we are relying on section 13(3) authority” (FOMC Transcript, March 10, 2008, 9). 
+
+
+## **Impact of the TSLF** 
+
+At its peak in October 2008, there was $230 billion in Treasury securities outstanding under the TSLF. The TSLF was extended several times and auctions against Schedule 1 collateral were suspended as of July 1, 2009. The last TSLF auction against Schedule 2 collateral closed on February 1, 2010. All TSLF securities loans were repaid in full, with interest, according to their terms. 
+
+While there has not been much research regarding the effectiveness of the TSLF, some researchers have concluded that the TSLF was successful in that it operated as intended by providing increased liquidity to those dealers that needed it, and also by stimulating the lending markets. Auctions had a high level of dealer participation indicating that the TSLF was filling a real need. This may also indicate that the TSLF’s design mitigated stigma of the type associated with the Discount Window that made banks reluctant to use it. Later undersubscribing of TSLF auctions indicated possible improved market conditions and that liquidity needs had lessened or were being met elsewhere (Fleming, Hrung, and Keane 2008, 13). 
+
+Researchers have also found that the TSLF’s operations were associated with a narrowing of repo spreads between less-liquid and more-liquid collateral, which is to be expected. When the volume of Treasuries in the market increases, related financing rates decline. The auctions also had the effect of causing rates on lower quality collateral to decline. Also changes in the amount outstanding under the facility correlated negatively with changes in repo spreads (Ibid., 16). 
+
+It should, however, be noted that the TSLF was only part of a bigger multi-faceted solution. It successfully mitigated part of the liquidity problem suffered by primary dealers by addressing the issue of restricted collateral requirements. The PDCF and the Single-Tranche Repos addressed another part of that problem, an inability to fund repos. Yet, the primary dealers were only part of their overall organizations, which had additional liquidity and solvency problems to manage; other Fed programs targeted these issues. 
+
+_____________________________________________________________________ 
+
+
+## **7. The Primary Dealer Credit Facility** 
+
+On Friday, March 14, 2008, the Fed announced that it would provide to Bear Stearns, the fifth largest U.S. investment bank and a primary dealer, up to $85 billion in bridge funding through JP Morgan Chase Bank N.A. so that Bear could continue to pay its debts and explore options with other financial institutions that might enable it to avoid bankruptcy (Fed Reserve website). The Fed considered what impact this might have on the markets given the severe strains already impacting the tri-party repo market, among others, and decided that, notwithstanding its announcement of up to $300 billion in liquidity in the prior ten days,[29] to calm the markets it would have to provide liquidity in a more impactful manner. 
+
+The Prime Dealer Credit Facility (PDCF) had been under consideration by the Fed for some time prior to its announcement as it had been exploring whether it could provide to the primary dealers a standing overnight facility similar to how the Discount Window operated for depository institutions. The PDCF was established under Section 13(3) of the FRA and operated through the existing triparty clearance system that the Fed and primary dealers used for OMOs repos. It was to provide a backup source of funds for entities that selfdetermined that such funding was needed and, like the Discount Window, would be available daily, unlike the term loans under the TSLF or the Single-Tranche Repos. 
+
+PDCF loans were fully secured by eligible collateral, applicable haircuts, and full recourse to the borrower. The loans were offered at a Primary Credit rate at the FRBNY, the same rate that depository institutions paid at the Discount Window. 
+
+## **Eligible Collateral** 
+
+In March 2008, primary dealers’ repo financing (both overnight and longer-term) totaled more than $4.5 trillion (Adrian, Burke, McAndrews 2009, 6). This amount would decrease as dealers reduced their balance sheets by selling assets and would stand at $2.5 trillion as of September 2008. As shown in Figure 7, by then, overnight repos had increasingly become a greater portion of the repo financing done by primary dealers, reaching in excess of 70 percent (Ibid.). 
+
+_____________________________________________________________________ 
+
+> 29 The Single-Tranche Repo Loan program ($100 billion) was announced on March 7, and the TSLF (up to $200 billion) was announced on March 11. 
+
+
+[FIGURE id=vol2_iss2_3_f7 type=chart label="Figure 7" file=figure_7.png caption="Overnight Repos as a Percentage of Total Primary Dealer Repo Financing, January 5, 2005-July 22, 2009"]
+### **Figure 7: Overnight Repos as a Percentage of Total Primary Dealer Repo Financing, January 5, 2005-July 22, 2009**
+![Figure 7](assets/vol2_iss2_3/figure_7.png)
+
+
+_Source: Federal Reserve Bank of New York; author’s calculations; Adrian, Burke, and McAndrews 2009, 3._ 
+
+Originally, eligible collateral under the PDCF was limited to only investment-grade securities. However, in September 2008, with the tri-party repo markets further stressed by the rumors that Lehman Brothers, a major participant, might file for bankruptcy, the Fed became concerned about the severe stress in the markets and the possible impact on the two major clearing banks, Bank of New York and JP Morgan Chase. Each morning the clearing banks unwound trillions of dollars in repos and assumed the risk of the transactions until the funds and the collateral were redeposited with it at the end of the day. If Lehman failed during midday, the clearing banks would be at risk for millions in losses and the effects would spread far and be traumatic to an already weakened market. The effects would be similar if the clearing banks refused to unwind Lehman’s repos. Either way, counterparties would be forced to sell collateral quickly to avoid losses. 
+
+On September 14, 2008, the Fed significantly extended the list of collateral eligible under the PDCF to include all of the types of instruments that could be pledged in the tri-party repo systems of the two major clearing banks. This range was greater than under either the TSLF or the OMOs and included less-liquid types of collateral, such as below-investment-grade corporate debt and equities, whole loans, and trust receipts (Bd Gov Fed Res PR, September 14, 2008). The move signaled that should a traumatic event occur, the Fed was prepared to substitute itself as counterparty and lend against the collateral, hopefully preventing it from being sold at fire-sale prices. This was made administratively feasible by utilizing the existing tri-party repo infrastructure. The clearing banks received the funds from the Fed and the securities from the borrower and each day unwound the repos and repriced the collateral. 
+
+
+## **Other Design Features** 
+
+Unlike the TSLF, the PDCF was clearly designed to meet the needs of particular institutions on a particular day and as such suffered some element of stigma similar to other facilities such as the Discount Window (See Wiggins and Metrick 2015A discussing the issue of stigma). Yet, there was also a risk that as circumstances worsened primary dealers might overuse the facility. Therefore, several design features sought to demotivate primary dealers from using the PDCF for financing unnecessarily, as a primary funding source, and to mitigate against moral hazard. 
+
+- The lending rate was the Discount Rate, which was in excess of the target Federal Funds rate and which was a rate in excess of the overnight repo rate for most collateral.[30] 
+
+- The NYFed counselled borrowers on usage and sometimes urged them to first access market means. 
+
+- A frequency-based penalty fee was applied after every 30, then 45 days of use, and escalated at each interval. 
+
+Additionally, through an agreement with the SEC, which was the primary regulator for dealers that were investment banks, the Fed and the SEC applied increased prudential scrutiny to the borrower’s operations. FRBNY personnel were sent into the firms’ offices to gather information that would inform the Fed’s judgments of the firms as borrowers should the need arise. 
+
+## **Use and Impact of the PDCF** 
+
+When first instituted, the PDCF was heavily used, primarily by Bear Stearns. Usage peaked at $40 billion in April 2008 and steadily declined afterwards. Following Bear’s acquisition by JP Morgan, the facility was largely dormant until September 2008 when Lehman filed for bankruptcy. On September 17, 2008, usage spiked from zero to $59.7 billion, evidence that it was doing what it was intended to do (Adrian, Burke and McAndrews 2009, 7). 
+
+As shown in Figure 8, usage of the PDCF peaked at $140 billion in October 2008. Data also show that the facility was frequently used by many primary dealers. One dealer (Citibank Global Markets Inc.), accessed the facility 174 times, and another (Barclays Capital Inc.) borrowed a maximum amount of $47.9 billion, followed closely by Morgan Stanley & Co. at 
+
+_____________________________________________________________________ 
+
+> 30 It is worth noting, however, that overnight repo is largely price insensitive. Lenders may use haircuts for lower quality collateral, but they don’t really adjust rates much for either collateral or counterparty risk. Risk Management for tri-party lenders is to run; they don’t raise process first. At the time the PDCF was put in place, there was little tri-party market for private MBS collateral, so it is hard to know if the rate was truly a penalty. 
+
+
+$47.6 billion total borrowings. (See Figure 9). Usage steadily declined during the next nine months bottoming out in early 2009. 
+
+[FIGURE id=vol2_iss2_3_f8 type=figure label="Figure 8" file=figure_8.png caption="Discount Window and Primary Dealer Credit Facility Usage, January 1, 2008-July 15, 2009"]
+### **Figure 8: Discount Window and Primary Dealer Credit Facility Usage, January 1, 2008-July 15, 2009**
+![Figure 8](assets/vol2_iss2_3/figure_8.png)
+
+
+_Source: Federal Reserve Statistical Release H.4.1, “Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks.”; Adrian, Burke & McAndrews, 2009, 7._ 
+
+
+[FIGURE id=vol2_iss2_3_f9 type=figure label="Figure 9" file=figure_9.png caption="Primary Dealer Credit Facility Borrowings"]
+### **Figure 9: Primary Dealer Credit Facility Borrowings**
+
+|Dealer|Number of|Averageamount|Maximum|
+|---|---|---|---|
+||borrowings|borrowed|amount|
+||||borrowed|
+|Citigroup Global MarketsInc.|174|10.1|18.6|
+|Morgan Stanley & Co.Inc.|122|11.2|47.6|
+|Banc of America SecuritiesLLC|118|5.4|11.0|
+|Mizuho Securities USAInc.|108|0.4|2.2|
+|Merrill LynchGovernment|99|15.0|33.2|
+|SecuritiesInc.||||
+|CountrywideSecuritiesCorp.|75|1.0|1.7|
+|Barclays CapitalInc.|74|5.5|47.9|
+|Bear, Stearns & Co.,Inc.|69|13.9|28.5|
+|Cantor Fitzgerald &Co.|61|0.5|0.7|
+|Goldman,Sachs &Co.|52|8.3|18.0|
+|BNP Paribas SecuritiesCorp.|43|1.5|4.6|
+|Lehman BrothersInc.|10|8.3|28.0|
+|UBSSecuritiesLLC|8|4.4|6.5|
+|JPMorgan SecuritiesInc.|3|1.0|3.0|
+|Credit Suisse Securities (USA)LLC|2|0.8|1.0|
+|Daiwa Securities AmericaInc.|1|0.4|0.4|
+|Deutsche Bank SecuritiesInc.|1|0.5|0.5|
+|Dresdner Kleinwort Securities|1|0.1|0.1|
+|LLC||||
+|Allprimary dealers|1,021|7.2|47.9|
+
+
+
+_*Amounts in billions of dollars. Excludes other broker-dealer credit (that is, lending to the London-based subsidiaries of broker-dealers). Not listed are dealers that never borrowed from the facility, two of which (Greenwich Capital Markets, Inc. and HSBC Securities [USA] Inc)] were primary dealers throughout the program, and three of which (Jefferies & Company, Inc.; Nomura Securities International, Inc.; and RBC Capital Markets Corp.) became primary dealers late in the life of the program, in June or July 2009._ 
+
+_Source: Fleming 2012, 164._ 
+
+Another indication of the PDCF’s effectiveness is that credit default swaps for the primary dealers eligible for the facility fell for three months following the creation of the PDCF, as shown in Figure 10, signaling that the market perceived the firms to be less risky with the facility available (Adrian, Burke, and McAndrews 2009, 7). Once the financing markets improved, the dealers sought out less costly funding, and utilization of the facility declined. The facility was closed in February 2010, and all loans were repaid in full, with interest. 
+
+
+[FIGURE id=vol2_iss2_3_f10 type=chart label="Figure 10" file=figure_10.png caption="Credit Default Swap Spreads, January 1, 2008-July 20, 2009"]
+### **Figure 10: Credit Default Swap Spreads, January 1, 2008-July 20, 2009**
+![Figure 10](assets/vol2_iss2_3/figure_10.png)
+
+
+_Source: Datastream, Adrian, Burke, and McAndrews, 2009, 7._ 
+
+The PDCF provided funding to primary dealers at a time of severe liquidity constraints and disruption in the repo market. In that regard, it served the purpose for which it was intended. The fact that the dealers so heavily used the PDFC with its costly funding is some indication that less costly funding was not readily available elsewhere. And the design held up as usage declined as the repo markets recovered. However, the PDCF was just part of the Fed’s solution to the liquidity crisis that impacted primary dealers. It took all of the targeted programs and, ultimately, recapitalization to correct the liquidity and solvency problems plaguing the financial system. 
+
+## **References** 
+
+Adrian, Tobias, Christopher R. Burke, and James J. McAndrews, _The Federal Reserve’s Primary Dealer Credit Facility_ , Federal Reserve Bank of New York, Current Issues in Economics and Finance, vol. 15, No. 4, August 2009. 
+
+Baxter, Thomas C. and Sarah J. Dahlgren, _The Federal Reserve Bank of New York's Involvement with AIG, Joint written testimony of Thomas C. Baxter and Sarah Dahlgren before the Congressional Oversight Panel, Washington, D.C.,_ May 26, 2010. 
+
+Board of Governors of the Federal Reserve, Press Release, March 11, 2008. 
+
+Covitz, D. N. Liang and G. A. Suarez, The evolution of Financial Crisis: Collapse of the AssetBacked Commercial Paper Market. The Journal of Finance, 68:815-848 (2013). 
+
+Federal Reserve Open Market Committee, Transcript of the Federal Open Market Committee Conference Call on March 10, 2008. 
+
+
+Federal Reserve System, _Extensions of Credit by Federal Reserve Banks_ , 12 CFR Part 201, 2015 (Final Rule). 
+
+Federal Reserve, Office of Inspector General, Board Report: _The Federal Reserve’s Section 13(3) Lending Facilities to Support Overall Market Liquidity: Function, Status, and Risk Management,_ November 16, 2010. 
+
+Federal Reserve Press Release, Press Release, March 7, 2008. 
+
+Federal Reserve Bank of New York, _Term Securities Lending Facility: Program Terms and Conditions,_ Effective June 25, 2009. 
+
+__________, website—http://www.newyorkfed.org/ 
+
+__________, Term Securities Lending Facility: Terms and Conditions, http://www.newyorkfed.org/markets/tslf_terms.html 
+
+Fleming, Michael, J., _Federal Reserve Liquidity Provision during the Financial Crisis of 20072009_ , Annu. Rev. Fin. Econ. 2012.4:161-177. 
+
+Fleming, Michael J., Warren B. Hrung, Frank M. Keane, _Repo Market Effects of the Term Securities Lending Facility_ , Federal Reserve Bank of New York Staff Reports, No. 426, January 2010. 
+
+Gorton, Gary and Andrew Metrick, _Who Ran on Repo,_ October 4, 2012, electronic copy available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2157174 
+
+Hördahl, Peter and Michael King 2008, _Developments in Repo Markets During the Financial Turmoil,_ BIS Quarterly Review (December), 37-53. 
+
+Mehra, Alexander, _Legal Authority in Unusual and Exigent Circumstances: The Federal Reserve and the Financial Crisis_ , U. of Penn. Journal of Business Law, Vol. 13:1 (2010), 221 (Finalized Five Updated after Publication) (available at: http://ssrn.com/abstract=1821002). 
+
+Porter, Thomas O. II, _The Federal Reserve’s Catch-22: 1 A Legal Analysis of the Federal Reserve’s Emergency Powers, 13 N.C. Banking Institute (2009) page 483._ 
+
+The Wall Street Journal, _The Real AIG Outrage_ , Updated March 17, 2009 12:01 a.m. ET available at http://www.wsj.com/articles/SB123725551430050865. 
+
+United States Department of the Treasury website, https://www.treasury.gov/initiatives/financial-stability/TARPPrograms/aig/Pages/default.aspx. 
+
+Wiggins, Rosalind Z. and Andrew Metrick, _The Federal Reserve’s Financial Crisis Response A: Lending & Credit Programs for Depository Institutions_ , Yale Program on Financial Stability Case 2015-1A-v1, February 1, 2016. 
+
+
+Development of this case has been supported by a generous grant from the Alfred P. Sloan Foundation to the Yale Program on Financial Stability. 
+
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu.

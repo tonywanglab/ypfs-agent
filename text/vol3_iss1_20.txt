@@ -1,0 +1,98 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 1 
+2021 
+Lessons Learned: Robert Hoyt, Esq. Lessons Learned: Robert Hoyt, Esq. 
+Yasemin Esmen 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Bankruptcy Law Commons, Economic History Commons, Economic Policy Commons, 
+Finance and Financial Management Commons, Policy History, Theory, and Methods Commons, Public 
+Administration Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Esmen, Yasemin (2021) "Lessons Learned: Robert Hoyt, Esq.," Journal of Financial Crises: Vol. 3 : Iss. 1, 
+518-519. 
+DOI: https://doi.org/10.17132/2693-3179.1135 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/20 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss1/20
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+Robert Hoyt, Esq. 
+By Yasemin Sim Esmen 
+Robert Hoyt was General Counsel at the U.S. Department of Treasury between 2006 and 2009. 
+He oversaw legal aspects of policies implemented to manage the crisis, including the rescues of 
+Bear Stearns, AIG, and the U.S. Auto industry, the conservatorship of Fannie Mae and Freddie 
+Mac, and the failure of Lehman Brothers, as well as the creation and implementation of the 
+Troubled Asset Relief Program (TARP.) This Lessons Learned is based on a phone interview with 
+Mr. Hoyt. 
+From a legal standpoint, we need to get creative to help the government do what they 
+need to do to fight the crisis while respecting the word of law.  
+Bear Stearns was in trouble and J.P. Morgan was ready to buy it , but valuing the assets that 
+Bear Stearns held was an impediment. To meet this challenge, the government loaned money 
+to a legal entity that held these assets, which, in turn, secured the loan. J.P. Morgan was able 
+to complete the transaction and prevented bankruptcy for Bear Stearns. The sa me was not 
+true for Lehman Brothers, as the only suitor, Barclays, pulled out of the deal and there were 
+no other buyers. A government loan would not have solved their problems because Lehman 
+Brothers was undercapitalized and a loan would only lose tax-payers’ money. Hoyt said, 
+In the case of Lehman Brothers, we had the ability to support a private market 
+transaction, but the transaction had to be there. It was not within our power to create 
+the transaction or simply write a check. 
+The case with government-sponsored enterprises (GSEs,) was different in the sense that the 
+government could intervene with Fannie Mae and Freddie Mac. In the summer of 2008, 
+Congress amended the regime for them and gave the government the authori ty for their 
+conservatorship or receivership.  
+We need to find sustainable legal solutions and programs. 
+Article 13(3) of the Federal Reserve Act, which gave the Federal Reserve the authority to 
+make extraordinary loans, was used to help with many of the r escues at that time, such as 
+Bear Stearns and AIG. “We figured out a way to use 13(3) effectively to fight the crisis,” Hoyt 
+said. 
+However, Hoyt and his team decided it was not very sustainable, both legally and politically, 
+to continue using this article and realized that they needed Congress’s approval to reach a 
+sustainable program to help fight the crisis. This paved the way for TARP. 
+The TARP was in the amount of $700 billion. The idea of the executive branch of the 
+government committing this much money without approval from the Congress did 
+518
+
+--- Page 4 ---
+not seem in the spirit of the Constitution. Furthermore, this was all happening in the 
+midst of a presidential campaign, and the idea of bailouts was controversial. It was 
+not ideal from a political perspective to continue with section 13(3) without 
+approval from Congress. 
+We need more tools, legally, to fight a potential future crisis than we have now, at the 
+time of this interview (November 25, 2019). 
+The government cannot make  laws to prevent a crisis but can make  laws to effectively fight 
+it. However, in the aftermath of the crisis, Congress amended Section 13(3) of the Federal 
+Reserve Act, which was used very broadly to fight the crisis and help institutions. In its new 
+form, this article cannot be used in t he same way it was used during the 2008 -09 financial 
+crisis. The Exchange Stabilization Fund and the Systemic Risk Exception were similarly 
+amended, preventing them from being used as they were during 2008-09 to fight the crisis. 
+So, the Congress, in the aftermath of the crisis, took away the tools that had worked 
+and did not replace them with new tools. They did approve reforms intended to 
+make another crisis less likely. But if there is another financial crisis, whoever is in 
+my seat will have a much more difficult time because there will be fewer tools 
+available. 
+_____________________________________ 
+Dated April 2021 
+YPFS Lessons Learned No: 2019-39 
+ 
+ 
+519
+Journal of Financial Crises Vol. 3 Iss. 1

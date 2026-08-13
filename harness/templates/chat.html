@@ -1,0 +1,120 @@
+{% extends "base.html" %}
+{% block title %}Experiment — Eval Harness{% endblock %}
+{% block content %}
+<h1>Start a run</h1>
+<p class="muted">Choose the system prompt version to run against.</p>
+
+{% if not openrouter_configured %}
+<section class="warn-banner">
+  <strong>OPENROUTER_API_KEY is not set.</strong>
+  Add it to <code>.env</code> at the repo root, then restart <code>python -m harness web</code>.
+</section>
+{% endif %}
+
+{% with panel_id="queued-runs-panel", title="Queued runs", tasks=queued_runs, empty_message="No queued or running runs. Submitting below queues another without waiting for others to finish.", task_kind="experiment" %}
+  {% include "partials/active_tasks_panel.html" %}
+{% endwith %}
+
+<div class="chat-layout">
+  <aside class="chat-config">
+    <form method="post" action="{{ url_for('chat_run') }}" id="experiment-form"
+      data-active-job="experiment"
+      data-active-job-track-only
+      data-active-job-return="{{ url_for('chat') }}"
+      data-status-url-template="{{ url_for('task_status', task_id='__JOB_ID__') }}"
+      data-job-id-field="task_id">
+      <input type="hidden" name="task_id" value="{{ task_id }}">
+      <div>
+        <fieldset>
+          <legend>Configuration</legend>
+
+          <label>
+            System prompt
+            <select name="prompt_id" required>
+              {% for p in prompts %}
+                <option value="{{ p.prompt_id }}"
+                  {% if p.prompt_id == selected_prompt_id %}selected{% endif %}>
+                  {{ p.prompt_id }}
+                </option>
+              {% endfor %}
+            </select>
+          </label>
+
+          <label class="samples-control">
+            <span class="samples-label-row">
+              <span>Samples</span>
+              <output class="samples-value" id="samples-value" for="samples-range">{{ default_samples }}</output>
+            </span>
+            <input
+              type="range"
+              id="samples-range"
+              name="samples"
+              min="1"
+              max="20"
+              step="1"
+              value="{{ default_samples }}"
+              required
+              aria-describedby="samples-hint"
+            >
+            <span class="muted samples-hint" id="samples-hint">Repeat the same query this many times.</span>
+          </label>
+        </fieldset>
+
+        <label class="chat-query-label">
+          Query
+          <textarea name="query" rows="6" required placeholder="Ask the agent a policy question…"></textarea>
+        </label>
+
+        {% if cases %}
+        <details class="case-picker">
+          <summary>Load a seed case</summary>
+          <ul class="item-list">
+            {% for c in cases %}
+              <li>
+                <button type="button" class="case-load" data-case-id="{{ c.case_id }}">
+                  {{ c.case_id }}
+                </button>
+              </li>
+            {% endfor %}
+          </ul>
+        </details>
+        {% endif %}
+      </div>
+
+      <div class="form-actions">
+        <button type="submit" class="primary chat-submit" id="chat-submit">
+          <span class="chat-submit-content">
+            <span class="chat-submit-label">Queue run</span>
+          </span>
+        </button>
+      </div>
+    </form>
+  </aside>
+
+  <section class="chat-help">
+    <h2>How it works</h2>
+    <ul class="item-list">
+      <li>Each sample runs with empty history and the selected prompt version.</li>
+      <li>The agent is fixed to <code>{{ fixed_agent_model }}</code>.</li>
+      <li>Versioned prompts come from immutable <code>prompt_v{N}</code> rows.</li>
+      <li>Multiple samples live in one run — switch between them on the run detail page.</li>
+      <li>Queuing a run doesn't block this page — queue as many as you like and keep configuring the next one.</li>
+      <li>Select text in a run's answer to leave feedback, then propose a new prompt version from that run's page.</li>
+    </ul>
+    <p class="meta">Form default: prompt={{ selected_prompt_id }}</p>
+  </section>
+</div>
+
+<script>
+  const seedCases = {{ cases | tojson }};
+  document.querySelectorAll(".case-load").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const match = seedCases.find((c) => c.case_id === btn.dataset.caseId);
+      if (!match) return;
+      const textarea = document.querySelector('textarea[name="query"]');
+      textarea.value = match.prompt;
+      textarea.focus();
+    });
+  });
+</script>
+{% endblock %}

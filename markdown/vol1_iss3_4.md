@@ -1,0 +1,263 @@
+## Ireland and Iceland in Crisis D: Similarities and Differences[1] 
+
+_Arwin G. Zeissler[2] Daisuke Ikeda[3] Andrew Metrick[4]_ 
+
+Yale Program on Financial Stability Case Study 2014-5A-V1 December 1, 2014, Revised: October 1, 2015, October 30, 2019 
+
+## **Abstract** 
+
+On September 29, 2008—two weeks after the collapse of Lehman Brothers—the government of Ireland took the bold step of guaranteeing almost all liabilities of the country’s major banks. The total amount guaranteed by the government was more than double Ireland’s gross domestic product, but none of the banks were immediately nationalized. The Icelandic banking system also collapsed in 2008, just one week after the Irish government issued its comprehensive guarantee. In contrast to the Irish response, the Icelandic government did not guarantee all bank debt. Instead, the Icelandic government controversially split each of the three major banks into a new bank that was solvent and held all domestic assets and deposits, and an old bank that retained everything else and was placed into bankruptcy. Given the different responses of the Irish and Icelandic governments to the crisis and the different economic adjustment options afforded by the currency regimes of each country, economists have looked at Ireland and Iceland to study possible responses to other financial crises. 
+
+__________________________________________________________________ 
+
+> 1 This module is one of four produced by the Yale Program on Financial Stability (YPFS) examining issues impacting Ireland and Iceland in the years surrounding the global financial crisis. The following are the other modules in this case series. 
+
+- _Ireland and Iceland in Crisis A: Increasing Risk in Ireland_ 
+
+- _Ireland and Iceland in Crisis B: Decreasing Loan Loss Provisions in Ireland_ 
+
+- _Ireland and Iceland in Crisis C: Iceland’s Landsbanki Icesave_ 
+
+Cases are available from the Journal of Financial Crises. 
+
+> 2  Project Editor, Case Study and Research, YPFS, Yale School of Management. 
+
+3 Director and Senior Economist, Deputy Head of Economic Studies Group, Institute for Monetary and Economic Studies, Bank of Japan. **The views expressed are those of the author( s) and do not necessarily reflect the official views of the Bank of Japan.** 
+
+> 4 Janet L. Yellen Professor of Finance and Management, and YPFS Program Director, Yale School of Management. 
+
+
+## **1.   Introduction** 
+
+On September 29, 2008, two of Ireland’s main banks requested an emergency meeting with the country’s prime minister and finance minister, worried that the probable imminent default of what had been Ireland’s fastest growing bank would lead to a rapid loss of funding for all Irish banks. The Irish government took the unprecedented step of introducing a comprehensive guarantee of almost all liabilities of the country’s large banks, including all deposits, all secured debt, and even most unsecured debt. The total amount guaranteed by the government was more than double the country’s gross domestic product, but none of the banks were immediately nationalized. The guarantee proved costly over time, as the value of loans and other bank assets proved insufficient to repay all liabilities, finally forcing the Irish government to accept an €85 billion bailout in 2010 from its fellow European Union members and the International Monetary Fund, and cementing Ireland’s status as one of the countries at the heart of the European sovereign debt crisis. 
+
+The Icelandic banking system also collapsed in 2008, just one week after the Irish government issued its far-ranging guarantee. Iceland’s financial regulator received emergency powers on October 6 to take over the operations of any failing bank, and it immediately used these new powers to take control of the country’s three major banks (which collectively held 90% of the assets of Iceland’s banking system) over the next few days. In marked contrast to the Irish response, the Icelandic government did not guarantee all bank debt. Instead, the Icelandic government split each of the major banks into a new bank that was solvent and held all domestic assets and domestic deposits, and an old bank that consisted of everything else and was then placed into bankruptcy. Despite these efforts by the government to limit its liability, Iceland needed an emergency loan from the International Monetary Fund just one month later in November 2008. 
+
+The similar rapid growth trajectory of the major banks in Ireland and in Iceland had garnered much global attention in the decade before the financial crisis of 2007-09, and the spectacle of their sudden, almost simultaneous collapse in 2008 was also a source of great interest. Given the different responses of the Irish and Icelandic governments to the crisis and the different economic adjustment options afforded by the currency regimes of each country, economists have looked at Ireland and Iceland as a laboratory to study possible optimal responses to other financial crises, such as the European sovereign debt crisis. 
+
+The remainder of the case is organized as follows. Section 2 compares select demographic and economic data for Ireland and Iceland, as well as summarizes the state of both countries’ banking systems in the years before their 2008 collapse. Section 3 describes the Irish government’s decision to guarantee almost all liabilities of its major banks in September 2008, followed only one week later by the Icelandic government’s takeover of the country’s largest banks. Section 4 concludes with a discussion of how different policy actions taken by the Irish and Icelandic governments in response to the crisis and use of different currencies (Ireland is a member of the Eurozone, whereas Iceland uses its own currency) may help explain differences in the speed and strength of the economic recoveries in Iceland and Ireland. 
+
+## **Questions** 
+
+1. What were key similarities and differences in the size, asset composition, and funding of the Irish and Icelandic banks in the years before the financial crisis? 
+
+2. Is guaranteeing bank liabilities and/or taking over failing banks a beneficial government response to a crisis? 
+
+
+3. Is having one’s own currency or being part of a larger currency block helpful in a postcrisis period? 
+
+4. Is the Icelandic prescription feasible for larger nations? 
+
+## **2.  Before** 
+
+As well as having almost identical names, the Republic of Iceland and the Republic of Ireland are both small European island nations who received outsized global attention in 2008 for the collapse of their banks. This section, and Figures 1 through 6 compares and contrasts select demographic, economic, and financial information of these countries from the Organization for Economic Cooperation and Development (OECD) (Unless stated otherwise, the data in this section represent average amounts for the 2005-07 time period.). 
+
+## **Population and Income** 
+
+Iceland had a population of 304,000 on a land area of about 40,000 square miles, making it the most sparsely populated country in Europe. Ireland’s population was 4,259,000, about 14 times as many people as Iceland, albeit on a smaller land area of only 27,000 square miles. (See Figure 1). 
+
+Iceland and Ireland were both among the 30 nations with the highest income per capita with gross domestic product (GDP) per capita of $36,000 and $42,000, respectively. By comparison, GDP per capita in the United States was $46,000 during the period (See Figure 2). 
+
+## **Key Macroeconomic Indicators** 
+
+The years 2005 through 2007 were prosperous times in Iceland and Ireland, marked by strong economic growth, government surpluses, and low unemployment. Real (inflationadjusted) GDP growth averaged 6.0% and 5.5% per year in Iceland and Ireland, respectively, more than double the 2.6% average growth rate of the United States economy (See Figure 3). 
+
+The government of Iceland ran a surplus all three years during the period, averaging 5.5% of its GDP. Ireland’s government also ran a surplus each year, albeit a smaller one averaging only 1.6% of GDP. In contrast, the United States government ran a deficit each year, averaging 3.7% of its GDP (See Figure 4). 
+
+Unemployment rates were low from 2005 through 2007, a benefit of the strong global economy at the time. Iceland averaged a remarkably low unemployment rate of 2.6%, and Ireland averaged 4.4%, both below the average unemployment rate of 4.8% in the United States (See Figure 5). 
+
+Given that Iceland enjoyed faster economic growth and lower unemployment than Ireland and the United States from 2005 through 2007, it is not surprising that Iceland’s average inflation rate (5.3% per year) was higher than that of Ireland (2.6%) and the United States (3.2%) (See Figure 6). 
+
+
+## **State of the Financial Sector** 
+
+The banking systems in both Ireland and Iceland had grown rapidly for many years before their sudden and dramatic collapse within weeks of one another in the fall of 2008. Some part of this growth in the banks is attributable to the real and inflationary economic growth discussed above. However, the banks in both countries grew at a much faster rate than the overall economy in their respective countries. 
+
+The aggregate loan balances of Ireland’s “covered” banks (six of the country’s major banks, together with the smaller Postbank, which had their liabilities covered by the government guarantee in September 2008) more than tripled from €120 billion in 2000 to €400 billion by 2007, which is equal to a compound annual growth rate of about 19%. As a result, total loans and advances by just the covered banks grew from 1.1 times Ireland’s GDP in 2000 to over 2.0 times GDP by 2007. Total assets in the banking system were about 4.5 times GDP. For context, the total assets of all commercial banks in the United States at year-end 2007 were roughly equal to the country’s GDP, according to Federal Reserve data. 
+
+As Irish loan growth outstripped the country’s economic and population growth, it could not be funded by growth in domestic retail deposits alone. Irish banks financed much of the growing gap between loans and deposits by borrowing in the wholesale market. Because Ireland was a Eurozone member, and wholesale funding for Eurozone banks was readily available at this time in large amounts and at low interest rates, the Irish banks received much of their wholesale funding from foreign lenders (discussed more fully in Zeissler, et al. 2014A). 
+
+Iceland’s banking system was dominated by three banks: Glitnir, Kaupthing, and Landsbanki (collectively, “GKL”). GKL’s assets grew almost ten-fold from December 2003 to June 2008, a compound annual growth rate of almost 67% (more than triple that of Ireland). GKL total assets grew from two times Iceland’s GDP at year-end 2003 to 10 times GDP by June 2008. Including assets held by small banks and other financial intermediaries, the total assets of the Icelandic financial system amounted to over 12 times GDP by December 2007. 
+
+Asset growth in Iceland exceeded economic and population growth to an even greater extent than in Ireland, so the Icelandic banks increasingly funded themselves with short-term loans from financial institutions in the United States (US), the United Kingdom (UK), and the Eurozone. However, these wholesale funds were denominated in dollars, pounds, and euros, not the Icelandic krona, thereby compounding rollover risk with currency risk. After the Fitch credit rating agency downgraded Iceland’s outlook to negative in February 2006 and several investment firms issued cautionary reports about the banking system the following month, US money market funds refused to extend the maturity of certain loans to the Icelandic banks. The GKL banks responded to this criticism and the partial withdrawal of funding by aggressively gathering retail deposits across Europe to replace part of their wholesale deposits, (described more fully in Zeissler, et al. 2014C). 
+
+Though Ireland and Iceland both had very rapid expansion of their credit and banking systems, economists have noted that Ireland had a larger boom in real estate and construction, whereas Iceland had a larger stock market boom (Benediktsdottir et al. 2011, 202; Dwyer 2011). 
+
+Ireland’s banks had a notable concentration in mortgage loans and in loans to property developers, both of which were collateralized by the underlying real estate. New home prices almost tripled between 1995 and 2007, even after adjusting for inflation, and inflationadjusted commercial property values actually did triple during the same period, thereby 
+
+
+[FIGURE id=vol1_iss3_4_f1 type=figure label="Figure 1" file=figure_1.png caption="Population"]
+### **Figure 1: Population**
+![Figure 1](assets/vol1_iss3_4/figure_1.png)
+
+
+_Source: OECD._ 
+
+[FIGURE id=vol1_iss3_4_f2 type=figure label="Figure 2" file=figure_2.png caption="GDP per Capita"]
+### **Figure 2: GDP per Capita**
+![Figure 2](assets/vol1_iss3_4/figure_2.png)
+
+
+_Source: OECD._ 
+
+[FIGURE id=vol1_iss3_4_f3 type=figure label="Figure 3" file=figure_3.png caption="GDP per Capita"]
+### **Figure 3: GDP per Capita**
+![Figure 3](assets/vol1_iss3_4/figure_3.png)
+
+
+_Source: OECD._ 
+
+[FIGURE id=vol1_iss3_4_f4 type=figure label="Figure 4" file=figure_4.png caption="Government Surplus/(Deficit)"]
+### **Figure 4: Government Surplus/(Deficit)**
+![Figure 4](assets/vol1_iss3_4/figure_4.png)
+
+
+_Source: OECD._ 
+
+[FIGURE id=vol1_iss3_4_f5 type=chart label="Figure 5" file=figure_5.png caption="Unemployment Rate"]
+### **Figure 5: Unemployment Rate**
+![Figure 5](assets/vol1_iss3_4/figure_5.png)
+
+
+_Source: OECD._ 
+
+[FIGURE id=vol1_iss3_4_f6 type=chart label="Figure 6" file=figure_6.png caption="Inflation Rate"]
+### **Figure 6: Inflation Rate**
+![Figure 6](assets/vol1_iss3_4/figure_6.png)
+
+
+_Source: OECD._ 
+
+
+giving the banks extra security in their lending. However, Irish real estate values peaked in 2007 and then began to drop, with the value of land (and especially land to be developed) falling even faster than the value of housing. In many cases, collateral values dropped below the face value of the associated loans. 
+
+Iceland’s banks often made loans that were collateralized by stock in companies listed on the Icelandic stock exchange. This was a positive factor for a time, as the OMXI-15 index increased from a low of 1,000 in mid-year 2001 to a peak of 9,000 in July 2007. However, Icelandic stock prices lost over half their value by July 2008, thereby reducing the value of the collateral and, in turn, the value of some loans. Furthermore, the GKL banks made up 75% of the capitalization of the OMXI-15 index, setting up a reinforcing downward spiral: lower bank stock prices, lower collateral values, lower loan values, lower bank stock prices, and so on. 
+
+## **3.  During** 
+
+As noted in Section 2, asset prices in Ireland and Iceland peaked in 2007 and turned downward, sharply in some cases, causing creditors and shareholders of the major banks in those countries to become concerned about the solvency of these institutions. The Irish and Icelandic banks also faced liquidity concerns, since they had funded much of their rapid asset growth with short-term borrowing that could be withdrawn with little or no notice. Both of these banking systems collapsed within a month of the bankruptcy of Lehman Brothers on September 15, 2008, as wholesale funding dried up in the ensuing global panic. 
+
+## **Ireland** 
+
+The Irish banking system collapsed first. The country’s Central Bank and Financial Regulator (which together made up the Central Bank and Financial Services Authority of Ireland) and the Department of Finance began to discuss contingency arrangements to support the Irish banks if needed after the British bank Northern Rock encountered liquidity difficulties in the fall of 2007. These talks continued over the next year, and they were based on the belief that the fundamental problem of the Irish banks was one of liquidity, rather than solvency, and on the desire that no Irish bank should be allowed to fail. 
+
+The tumultuous three-day period from Saturday, September 27, 2008, through Monday, September 29, witnessed the partial nationalization of the British mortgage lender Bradford & Bingley, the partial nationalization of Fortis in a complicated multi-government rescue by the Benelux countries, the rescue of the German bank Hypo Real Estate (which owned Irishbased Depfa) by the Deutsche Bundesbank and a group of German banks, the US Federal Deposit Insurance Corporation-brokered distress sale of the bank Wachovia, and a 7% drop in the US stock market after the US House of Representatives initially voted down the Troubled Asset Relief Program. 
+
+Anglo Irish Bank, widely considered to be the most vulnerable of Ireland’s major banks, saw its stock price tumble that Monday. Bank of Ireland and Allied Irish Banks then requested a meeting with the Irish prime minister and the finance minister, worried that an Anglo Irish default would lead to a rapid loss of funding for the other banks. As a result, the government of Ireland took the bold step of becoming the first country during the crisis to introduce a comprehensive guarantee of almost all liabilities of the covered banks, including all deposits (even those not eligible for deposit insurance), senior unsecured debt, and even subordinated debt with a maturity date, excluding only undated (perpetual) subordinated debt. (See Figure 7 for a breakdown of the liabilities covered by the guarantee.) The total amount guaranteed was €375 billion, more than double Ireland’s GDP (Commission of 
+
+
+Investigation 2011, 77, §4.7.1). However, none of Ireland’s banks were immediately nationalized, though several would later be partially or fully nationalized in 2009 and 2010. 
+
+[FIGURE id=vol1_iss3_4_f7 type=figure label="Figure 7" file=figure_7.png caption="Bank Liabilities Guaranteed by Ireland’s Government on September 30, 2008"]
+### **Figure 7: Bank Liabilities Guaranteed by Ireland’s Government on September 30, 2008**
+![Figure 7](assets/vol1_iss3_4/figure_7.png)
+
+
+_Source: Commission of Investigation 2011, 77._ 
+
+## **Iceland** 
+
+On Monday, September 29, 2008, the same day that Bank of Ireland and Allied Irish Banks made their appeal to the Irish government, the Icelandic government announced that it would contribute €600 million to Glitnir in exchange for 75% of the bank’s capital. Glitnir had large debts due in mid-October, but no way to repay them without an infusion of government money. 
+
+Rather than restore confidence, this government action made investors wary about the future of Kaupthing and Landsbanki, which then faced accelerated outflows. On Friday (October 3) of the same week, the UK financial regulator demanded that Landsbanki send GBP 200 million to the Bank of England by Monday and transfer GBP 53 million to Landsbanki’s UK subsidiary. The European Central Bank initially demanded that Landsbanki post €400 million additional margin on Monday, though it subsequently canceled the margin call. Landsbanki’s effort to borrow the needed foreign currency from the Central Bank of Iceland was rejected because the central bank had loaned much of its remaining foreign currency reserves to Kaupthing, which was also facing a liquidity shortfall. 
+
+On Monday, October 6, Iceland’s parliament passed Act 125/2008, known as the Emergency Act, which gave the country’s Financial Supervisory Authority (FME) the power to take over the operations of a failing bank. After the UK government shut down Landsbanki’s UK deposit gathering branch on the evening of October 6, the FME used the newly enacted Emergency Act to assume control of Landsbanki on Tuesday, October 7. FME also took control of Glitnir on October 7, followed by Kaupthing on Thursday, October 9. The GKL banks, which held some 90% of all banking assets in Iceland, collapsed in a single week. 
+
+Unlike some countries that split failed banks into “good” banks and “bad” banks depending on asset quality, the Icelandic government split each of the GKL banks into a “new” bank and 
+
+
+an “old” bank. All domestic assets and domestic deposits were immediately transferred into the new banks, and domestic banking operations were not disturbed. Even after being written down to fair value, domestic assets exceeded domestic liabilities, and each of the new banks was solvent. Foreign assets, foreign deposits, and domestic non-deposit liabilities remained in the old banks, which then filed for bankruptcy. 
+
+## **4.  After** 
+
+The Icelandic economy is generally considered to have recovered better from its banking crisis than did the Irish economy, at least in the short run. The International Monetary Fund (IMF) published articles to this effect in 2011 entitled “Iceland’s Recovery: Can the Lessons Be Applied Elsewhere?” and “Iceland’s Unorthodox Policies Suggest Alternative Way out of Crisis.” Observers have focused on two important explanations: the governments of Ireland and Iceland responded rather differently to the banking crises in their respective countries, and their exchange rate regimes were (and remain) different (Dwyer 2011; Benediktsdottir et al. 2011, 213-214). 
+
+## **Different Crisis Response** 
+
+Ireland decided to guarantee all deposits and all but the most junior of debt instruments issued by its major banks, but it did not immediately nationalize any of the banks. However, as the extent of the decrease in the value of bank loans and other bank assets subsequently became apparent, Ireland was forced to completely take over Anglo Irish Bank in January 2009 and to inject capital into all the major banks, which raised doubts about the credibility of the government guarantee (Dwyer 2011). 
+
+In contrast, Iceland took over its major banks quickly and guaranteed only part of the banks’ liabilities (i.e., domestic deposits), requiring private creditors to shoulder most of the losses. This action did not endear Iceland to foreign creditors, but it also meant that the bank rescue was not an ongoing burden on government finances (Dwyer 2011). In reality, Iceland could not have issued a blanket guarantee of bank liabilities. Iceland’s banking system was more than twice as large relative to the size of its economy as Ireland’s was. The government of Iceland, including its central bank and deposit insurance fund, did not have the financial resources to stand behind a banking system with assets 10-12 times as large as the country’s GDP (Benediktsdottir et al. 2011, 213-214). 
+
+## **Different Currencies** 
+
+The fact that Iceland has its own currency—the krona—hastened the collapse of its banking system in 2008 as foreign creditors demanded repayment in dollars, pounds, and euros that Iceland’s banks could not readily provide in sufficient amounts. However, the fact that Iceland has its own currency also hastened its economic recovery. At December 31, 2007, it took 62 krona to buy one US dollar (and 91 krona to buy one euro). By December 31, 2009, it took 125 krona to buy one US dollar (and 180 krona to buy one euro). In other words, the value of the krona had dropped in half relative to major global currencies by year-end 2009. This large decrease in the value of its currency made Icelandic labor and goods cheaper relative to those of other countries, thereby boosting its exports to the rest of the world, an important factor in an export-oriented economy such as Iceland (The impact of krona depreciation on Icelandic inflation is discussed below.) 
+
+As noted previously, Ireland is part of the Eurozone. Though participation in the Eurozone was helpful as a source of abundant, cheap financing free of currency risk in the years before 
+
+
+the financial crisis, it also meant that Ireland could not benefit from a flexible exchange rate that cushioned the blow in Iceland after the crisis, since Ireland was but one of 15 countries using the euro in 2008 (Dwyer 2011). 
+
+## **IMF Bailouts for Both** 
+
+In November 2008, Iceland received a loan of US$2.1 billion from the IMF and an additional loan of US$2.5 billion from Iceland’s fellow Nordic countries (Denmark, Finland, Norway, and Sweden). A controversial condition of the IMF loan was that Iceland restrict capital outflows. 
+
+The government of Ireland needed its own bailout two years later, receiving a total of €85.0 billion from the European Union (€45.0 billion), the IMF (€22.5 billion), and Ireland’s own pension reserve fund (€17.5 billion) in November 2010. The funds were to be used as follows: €35 billion to support the banking system and €50 billion to finance general government operations. Ireland is considered as one of the countries at the center of the European sovereign debt crisis. 
+
+## **Effect on Key Macroeconomic Indicators** 
+
+Though one country may enjoy faster economic growth or lower unemployment on an ongoing basis than another country for various structural reasons, reviewing again the macroeconomic indicators in Figures 3 through 6 provides anecdotal evidence that Iceland emerged from its banking crisis sooner and in better shape than Ireland did. Iceland’s flexible currency and controversial crisis response likely contributed to its stronger recovery, though the influence of these and other factors is open for scholars to debate. 
+
+Not surprisingly, the financial crisis caused an economic slowdown in both Iceland and Ireland, as it did in many other countries. From 2008 through 2010, both countries saw their inflation-adjusted GDP contract at an average annual rate of 3.2%, with the steepest contraction in 2009, the first full year after their banking systems collapsed. Both economies were expanding again by 2011, but Iceland’s economy grew faster than Ireland’s each year from 2011 through 2013, especially as Ireland’s economy stagnated in 2012 and 2013. 
+
+As noted in Section 2, the Icelandic and Irish governments ran a budget surplus each year from 2005 through 2007. This came to an end with the crisis in 2008, and both governments have found themselves in a deficit position each year from then on, with expectations of continued deficits through at least 2015. Consistent with the Icelandic government’s rapid resolution of its failed banks, its worst deficit came in 2008 at 13.5% of GDP, with deficits generally decreasing thereafter. In contrast, Ireland’s deficits continued to deepen after 2008, reaching over 30% of GDP in 2010, the year of Ireland’s EU-IMF bailout. From 2008 through 2012, Iceland’s government deficits totaled 45% of GDP, not as bad as the deficits recorded by Ireland over that same period, which totaled 80% of GDP. 
+
+Iceland has historically enjoyed a lower unemployment rate than Ireland, but the gap in favor of Iceland widened since 2008. Following the crisis, the annual unemployment rate in Iceland reached 7.6% in 2010, an increase of 5.0% over its pre-crisis (2005-07) average of 2.6%. In Ireland, with much of its construction labor out of work, the unemployment rate rose for a longer time and to a higher level, reaching 14.7% in 2012, fully 10.3% above its pre-crisis average of 4.4%. 
+
+A negative aspect of the rapid depreciation of the krona in 2008 and 2009 was that Icelandic residents dealt with 12+% inflation rates in both years. However, Icelandic inflation had dropped to approximately 4% by 2013, about the same level as in 2005. In contrast, Ireland 
+
+
+experienced deflation in both 2009 and 2010, thereby adding to the difficulties faced by Irish borrowers, including the government. 
+
+
+## **Update** 
+
+The OECD published generally favorable outlooks for both Iceland and Ireland in May 2014 (See Figure 8.) 
+
+[FIGURE id=vol1_iss3_4_f8 type=figure label="Figure 8" file=figure_8.png caption="OECD Economic Forecast Summary — May 2014"]
+### **Figure 8: OECD Economic Forecast Summary — May 2014**
+
+## **Iceland** 
+
+Economic growth was considerably more robust than expected in 2013, reflecting strong exports and buoyant tourist spending. Significant employment gains and policy decisions to reduce household debt will stimulate private consumption and further fuel the recovery in 2014. As a result, unused production capacity will disappear in the course of 2015. 
+
+Fiscal consolidation will continue in 2014. The household debt relief plan will increase spending, but this will be financed by revenue measures, mainly a higher tax on banks’ total debt. It will be necessary to raise nominal interest rates as spare capacity in the economy disappears. Reforms to raise output potential, notably by stimulating investment, would ease supply constraints, thereby weakening inflationary pressures. In particular, lifting capital controls would send a positive signal to foreign investors. 
+
+## **Ireland** 
+
+The recovery is projected to strengthen over 2014-15. Investment has turned around, including in the housing market, and is expected to grow solidly, although from a low base. Exports, aided by stronger trading partner growth, are projected to pick up. Steady employment growth will help bring the unemployment rate down further. Spare capacity will help keep wage and price inflation subdued. 
+
+To keep high public debt firmly on a declining path the government should implement its structural consolidation plans through to 2015. The process of restoring health in the banking sector should be reinforced by continuing to reduce the elevated level of nonperforming loans and repairing the bank credit channel. Improving the public employment service and activating the long-term unemployed must remain a priority to ensure the recovery benefits society as broadly as possible. Growth potential should be boosted by complementing high attractiveness to foreign investment with further efforts to foster innovation across the whole economy and to ease firms’ access to capital. 
+
+As noted earlier in the case, the IMF program for Iceland included capital controls, which is something the IMF rarely advocates, to prevent destabilizing capital outflows and a disorderly collapse of the krona (IMF 2011). This was important because bank and corporate debt was largely denominated in foreign currency, and many Icelandic households had also borrowed large amounts of such debt. The tightly enforced capital controls succeeded in moderating Icelandic inflation and keeping the krona exchange rate fairly stable. In fact, the Icelandic government successfully accessed international capital markets in 2011, issuing a US$1 billion bond (Baldursson & Portes 2013). 
+
+
+With foreigners owning krona-denominated assets equal to approximately 40% of GDP (half left over from the carry trade, and half as claims on the bankrupt GKL banks), the Icelandic government found it difficult to lift the capital controls which currently remain in place. However, in December 2014, the Icelandic finance ministry announced a plan for removing the capital controls in 2015 (Valdimarsson 2014). 
+
+## **References** 
+
+- Baldursson, Fridrik and Richard Portes. 2013. _Gambling for Resurrection in Iceland: The Rise and Fall of the Banks_ . September. 88-91. 
+
+- Benediktsdottir, Sigridur, Jon Danielsson, and Gylfi Zoega. 2011. _The Iceland Collapse_ . April. i-ii, 185-187, 211-214. 
+
+- Commission of Investigation into the Banking Sector in Ireland. 2011. _Misjudging Risk: Causes of the Systemic Banking Crisis in Ireland_ . March. Executive Summary, Chapters 2 and 5. (Commission of Investigation 2011) 
+
+- Dwyer, Gerald. 2011. _Economic Effects of Banking Crises: A Bit of Evidence from Iceland and Ireland_ . March. Accessed at https://www.frbatlanta.org/cenfis/publications/notesfromthevault/1103.aspx 
+
+- International Monetary Fund. 2011. “Iceland’s Recovery: Can the Lessons Be Applied Elsewhere”, _IMF Survey_ . October 24. (IMF 2011) Accessed at https://www.imf.org/external/pubs/ft/survey/so/2011/surveyartf.htm 
+
+- Jonsson, Asgeir. 2011. “Iceland’s Banks Come in From the Cold”, _Wall Street Journal_ . June 16. Accessed at http://www.icyte.com/saved/www.wsj.com/872056?key=8a93d7d6cfbee8fbc39a8 e274f38590e3ddaf4a7 
+
+- Lewis, Michael. 2009. “Wall Street on the Tundra”, _Vanity Fair_ . April. Accessed at http://www.vanityfair.com/politics/features/2009/04/iceland200904 
+
+- ____________. 2011. “When Irish Eyes Are Crying”, _Vanity Fair_ . March. Accessed at http://www.icyte.com/cytes/show/872994?key=ada5f0a259344cd9f4290e73453 dfc5cd73f9b09 
+
+- Valdimarsson, Omar. 2014. “Iceland May Begin Exiting Capital Controls Early Next Year”, _Bloomberg_ . December 10. Accessed at http://www.bloomberg.com/news/2014-1209/iceland-may-begin-dismantling-capital-controls-early-next-year.html 
+
+- Zeissler, Arwin, Karen Braun-Munzinger, and Andrew Metrick. 2014A. _Ireland and Iceland in Crisis A: Increasing Risk in Ireland_ , Yale Program on Financial Stability Case Study 2014-4A-V1, December. 
+
+- Zeissler, Arwin, Thomas Piontek, and Andrew Metrick. 2014C. _Ireland and Iceland in Crisis C: Iceland’s Landsbanki Icesave_ , Yale Program on Financial Stability Case Study 2014-4CV1, December. 
+
+
+Development of this case has been supported by a generous grant from the Alfred P. Sloan Foundation to the Yale Program on Financial Stability. 
+
+Copyright 2014, 2015, 2019 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu.

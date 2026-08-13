@@ -1,0 +1,144 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 3 
+2020 
+Lessons Learned: Lorie Logan Lessons Learned: Lorie Logan 
+Mercedes Cardona 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Policy Design, Analysis, and Evaluation Commons, Political 
+Economy Commons, Political Science Commons, and the Public Affairs Commons 
+Recommended Citation Recommended Citation 
+Cardona, Mercedes (2020) "Lessons Learned: Lorie Logan," Journal of Financial Crises: Vol. 2 : Iss. 3, 
+969-971. 
+DOI: https://doi.org/10.17132/2693-3179.1119 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/51 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol2/iss3/51
+
+--- Page 3 ---
+Yale Program on Financial Stability  
+Lessons Learned 
+ 
+Lorie Logan 
+ 
+By Mercedes Cardona 
+ 
+Lorie Logan is executive vice president in the Markets Group of the Federal Reserve Bank of 
+New York, the System Open Market Account (SOMA) manager pro tem for the Federal Open 
+Market Committee (FOMC), and head of Market Operations, Monitoring, and Analysis (MOMA). 
+Ms. Logan played a prominent role in the development and implementation of the Federal 
+Reserve’s crisis -fighting policies during 2007 -09, including the expansion of the Federal 
+Reserve’s balance sheet and the creation of liquidity facilities to mitigate systemic ris ks to the 
+financial system. This “Lessons Learned” is based on an interview with Ms. Logan. 
+Once the crisis has passed, the learning has to start and continue.  
+Logan talked about how t he NY Fed’s understanding and outreach to the financial markets 
+has expanded both in size and in dept h since the crisis. Before 2008, its activities in market 
+analysis and monitoring had been very  focused on the primary dealer community and the 
+banks. Since the crisis, the regulators expanded their outreach and relationships across the 
+financial sector to the buy-side and electronic trading firms:  
+From an operational perspective, we took some really important lessons in terms of 
+how to be ready and positioned. During the crisis we developed a number of new 
+liquidity operations and tools. We wanted to be able to have a system for maintaining 
+the ones that were most important through normal times to have them here and 
+ready, but also to have other tools that maybe weren ’t important in the 
+implementation framework at the time bu t could be important under certain states 
+of the world. So, we developed a full operational readiness framework for cataloging, 
+for assessing which operations to have ready, and to maintain and to practice. 
+Out of that came a regime of small-value testing that we do on a regular basis of tools 
+that may not be important today but could be important in the future. Just recently, 
+we needed to conduct repo operations again, which we hadn ’t done in over a decade 
+since the crisis. But we had been doing these smal l-value tests of them, and that was 
+critically important in our ability to respond quickly in September.  
+969
+
+--- Page 4 ---
+Preparation is key to future readiness. 
+Logan stressed that having distilled lessons from the crisis, it is critical that organizations 
+work to keep that knowledge fresh and to expand upon it. She particularly pointed to  three 
+key areas: operational readiness, experienced personnel, and active learning:  
+If I had to write a memo to myself, I would focus on at least three things. The first is 
+around preparation and testing. Testing your operations, your infrastructure and 
+your thinking. This really comes from lessons I took from the crisis that formed the 
+basis of our operational readiness framework, our small -value testing process and 
+lessons I’ve learned from the Applied Critical Thinking Team that Meg  [McConnell] 
+has developed. Doing regular tabletop exercises to stimulate your thinking about 
+scenarios and getting comfortable making judgements with imperfect information 
+along the way. So , preparation and spending a good amount of your time preparing 
+for what could happen, as opposed to what you’re working on today. 
+Another critical area that Logan cited was developing the right sort of experienced 
+personnel: 
+The second is really about people. My experience from the crisis i s the sense to be 
+surrounded with an experienced, diverse, well-rounded team. It’s really important to 
+be around people who can come at a problem in different ways and who bring 
+different viewpoints to the table. And that’s really important: to have a team that will 
+challenge thinking, who aren’t afraid to bring up points and views that are different. 
+This diversity of thought is just absolutely essential. 
+Lastly, Logan pointed to a less concrete, but still vital, element that recognizes the essential 
+nature of crises . They are unique , unpredictable, and require that fast -paced decisions be 
+made with limited information. She stressed “active learning”  as key to the ability to perform 
+under extreme pressure and uncertain circumstances . She expounded on these ideas  this 
+way:   
+And lastly, just a core principle of humility  [is necessary] . You have to be humble 
+about what you know and what you don’t know; to be curious about things you think 
+you know about and things you don ’t know about. And be flexible to make decisions 
+and knowing that you ’re mak ing decisions most of the time with imperfect 
+information. Having that humility and that curiosity will allow you to adjust in real 
+time as more information comes in. 
+A crisis will impact the organization in unexpected ways. 
+Logan also talked about how the crisis impacted the Fed beyond i ts crisis fighting 
+infrastructure. “There’s been a real and permanent shift in thinking about transparency and 
+970
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 5 ---
+accountability,” said Logan. “Transparency’s vitally important and is a key component of the 
+way we think about the work that we do.” She continued:  
+The market analysis and monitoring that we do has certainly changed. It was very 
+focused on the primary dealer community and the banks and the dealers that we 
+directly dealt with before the crisis, and since the crisis, we ’ve really expanded our 
+outreach and our relationship across the financial sector to the buy-side to electronic 
+trading firms. Our whole understanding and outreach of the financial markets has 
+expanded both in size and in depth. 
+Logan believes that this cultural shift can be seen in all major areas of the Federal Reserve. 
+She especially notes the shift in transparency citing the quarterly press conferences 
+conducted by the Chairman, the summaries of economic projections that the Fed now issues, 
+the stress-tests disclosures, and transaction-level data as examples of information sharing 
+that serve to make the Fed less opaque.  
+While acknowledging that some of these changes have come about because of statutory 
+mandate, Logan credits the measures with not only changing the way the markets and public 
+view the Fed but also with leading to important internal changes , such as enhanced cross -
+departmental communication. She commented: 
+On the monetary policy implementation side, where  I have responsibility, 
+there’s a lot more interaction between supervision and markets and 
+understanding liquidity that was developed during the crisis and has been 
+maintained. Those are just a few examples of ways that collaboration and 
+communication have changed.  
+Another valuable development has been enhanced communications across agencies through 
+bodies such as the Financial Stability Oversight Council and informally, Logan said, 
+From where I sit, [the Financial Stability Oversight Council]  has been a really 
+important development and has generated a lot more cross -agency 
+communication even at the staff level but also in joint work that emanates 
+from those relationships and from the committee itself. 
+ 
+Dated: October 2020 
+YPFS Lessons Learned No: 2019-45 
+ 
+ 
+ 
+971
+Lessons Learned: Lorie Logan Cardona

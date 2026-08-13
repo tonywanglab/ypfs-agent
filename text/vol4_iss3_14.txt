@@ -1,0 +1,162 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 3 
+2022 
+Lessons Learned: Nathan Sheets Lessons Learned: Nathan Sheets 
+Yasemin Sim Esmen 
+Rosalind Z. Wiggins 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy History, Theory, and Methods Commons, and the Public 
+Administration Commons 
+Recommended Citation Recommended Citation 
+Sim Esmen, Yasemin and Wiggins, Rosalind Z. (2022) "Lessons Learned: Nathan Sheets," Journal of 
+Financial Crises: Vol. 4 : Iss. 3, 219-221. 
+DOI: https://doi.org/10.17132/2693-3179.1432 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/14 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss3/14
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+Nathan Sheets 
+By Yasemin Esmen and Rosalind Z. Wiggins 
+Between 2007 and 2011, Nathan Sheets was director of the Division of International Finance 
+at the Board of Governors of the Federal Reserve System. He oversaw the operations of the 
+division and advised the Federal Open Market Committee  (FOMC) on economic and financial 
+developments in foreign countries. Sheets also regularly represented the Federal Reserve Board 
+at international meetings and in its contac ts with foreign central banks. Under his helm, the 
+division was involved in helping establish and manage the US dollar liquidity swap lines with 
+foreign central banks.  This Lessons Learned abstract is based on an interview with Sheets on 
+December 11, 2019; the full transcript may be accessed here. 
+The world’s financial system is interconnected. Strong collaboration among US 
+institutions, foreign central banks, and international organizations is key to managing 
+a crisis.  
+The crisis began in the US financial system, and its effects slowly migrated to other countries, 
+but at first it was viewed as a US problem . Sheets recalled: “When the crisis first erupted, 
+particularly in Europe, it was viewed as a US crisis with some spillovers into the European 
+markets.” However, in late 2007, he pointed out, building tensions, spikes in the Libor -OIS 
+spread, and volatility in the fed funds rate were clear signs that the effects had already spread 
+widely, and that global financial market s were desperate for US dollar liquidity. The swap 
+lines and some other tools were necessary to get funds where they were most needed.  
+At first, Sheets recalled, the European Central Bank (ECB) adopted a laid-back position with 
+respect to the swap line (the first the Fed implemented)—“Originally, the European Central 
+Bank wanted the swap lines structured in a way that made it seem like the ECB was only 
+passively acting as an agent for the Federal Reserve in Europe.”  However, after the Lehman 
+Brothers bankruptcy in September 2008 , there was no question that the impact would be 
+widespread. There were “enormous global spillovers, [and] there was a broader realization 
+that there would be adverse spillovers to other parts of the world, and that other parts of the 
+world had similar kinds of underlying problems in their financial system.” 
+At that point, Sheets explained, “the ECB really became a partner with th e Federal Reserve 
+in fighting the crisis ,” and, in general, the cooperation between the major economies 
+increased:   
+It was a little bit uneven and it was a little bit choppy in terms of the global ownership 
+of the crisis and, to some extent, even the glob al coordination during that first year. 
+However, once you hit that Lehman inflection point, all central banks were 100% in 
+and full partners in fighting the crisis. It was a realization that, yes, maybe there were 
+certain US-oriented features to this, but it was transmitting and escalating around the 
+world because regulatory policies in essentially all of the major economies, at least in 
+advanced economy jurisdictions, had fallen short. 
+219
+
+--- Page 4 ---
+Sheets spoke highly of the extraordinary steps taken by the major countries; the multifaceted 
+coordinated actions eventually stemmed the tide:  
+From the swap lines that were introduced in December of 2007 all the way through 
+to the uncapping of swap lines ,1 from the associated policies that were put in place 
+after the Lehman collapse, to the G-7 declaration, where the G7 countries essentially 
+jointly guaranteed the liabilities of their banking systems, which was an 
+extraordinary intervention, none of these interventions had an immediate conclusive 
+effect on the stresses that were being felt and that characterized the financial crisis. 
+However, all of those things put together laid the foundation for an improvement of 
+conditions which we finally saw in the first half of 2009. . . 
+According to Sheets, the swaps and other acti ons were well received by the markets : “The 
+market seemed in particular to take heart from the message that the major central banks 
+were aware of the challenges and were working closely together to address the stresses. That 
+was received and was appreciated by market participants.”  
+The structure and price of central bank swap lines can protect the lending central 
+bank and mitigate against moral hazard while effectively providing its currency  to 
+financial institutios in other countries.  
+Sheets recalled that, although the Fed had taken some early steps  in 2007 to ease funding 
+conditions and increase liquidity, “ it was not clear that this liquidity was getting to the 
+European institutions that were hungry for it as directly as it might.”  Building tensions ; 
+spikes in the Libor-OIS spread, which was an indication of tightness in funding markets; and 
+volatility in the fed funds rate were clear signs that the global financial market was desperate 
+for liquidity, and this led to consideration of the swap lines. 
+Sheets noted that there was robust discussion in FOMC meetings about the need for the swap 
+lines, whether they would encourage moral hazard , and their risk to the Fed . The FOMC 
+concerns regarding risk and moral hazard were addressed in the structure and price of the 
+lines. The Fed lent to the central bank, not to individual banks in the foreign jurisdiction , 
+explained Sheets: The foreign central bank would then use “its regulatory, supervisory, and 
+other tools to evaluate the credit worthiness of the institutions [in its jurisdiction] that were 
+applying [for loans].” According to Sheets, this structure allowed the Fed to rely on th e 
+foreign central banks and their knowledge of their domestic banks while limiting its risk. The 
+Fed was not a party to the loan to the domestic commercial banks, Sheets noted:  
+ 
+1 In total, during the crisis, the Fed established swap agreements with 14 countries of various sizes. Shortly 
+after the Lehman Brothers, the Fed uncapped its swap lines with five major central banks: the Bank of Canada, 
+the Bank of England, the Bank of Japan, the ECB, and the Swiss National Bank, committing to provide any 
+amount of US dollars that the central banks requested , secured by an equivalent amount of their domestic 
+currency. The swap lines were the most heavily used of all the Fed’s crisis facilities and reached a peak 
+outstanding amount in October 2008 of more than $580 billion. A Bank for International Settlements  study 
+considered the Fed swap lines to be “ very effective in relieving US dollar liquidity stresses and stresses  in 
+foreign exchange markets.” Central bank co-operation and international liquidity in the financial crisis of 2008 –
+9 (BIS: May 2010). https://www.bis.org/publ/work310.pdf 
+220
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 5 ---
+That feature of the structure of the lines was also seen, very importantly, as protecting 
+the Federal Reserve’s balance sheet, because the Federal Reserve had exposure to a 
+major foreign central bank, not to any individual institution. If, indeed, some 
+institution had failed, the foreign central bank would have had an exposure to de al 
+with, but that foreign central bank would still have been responsible for unwinding 
+the swap with the Federal Reserve. 
+Another important factor of concern to the FOMC was moral hazard, which was addressed 
+through the pricing, Sheets said: 
+The moral hazard concerns were partially attenuated by the pricing of the liquidity. 
+It was priced above what the liquidity would have cost during normal times , and 
+indeed, as the crisis ended, the rate on the swap line was reduced. So, there was 
+pricing to help with the moral hazard. 
+The combination of these features, explained Sheets, helped protect the Fed  and prompted 
+appropriate, but not abusive, use of the lines. 
+We need to learn the lessons from the last crisis to be better equipped to deal with the 
+next one.  
+Sheets identified several lessons that he viewed as critical for making sure that the world’s 
+regulators are prepared for the next crisis.   
+First: Be more curious  in an aggressive and thorough manner. Dig deeper than usual. “We 
+must ask what is going on and why, what the underlying drivers are , and not just assume 
+that the markets are allocating optimally.” 
+Second: Strengthen regulation. We need to ma ke sure banks are sufficiently capitalized  to 
+maintain a strong regulatory system. And “ as we strengthen regulation, [we need] to also 
+make sure that the support for regulation does not get meaningfully watered down―because 
+that tends to be a bit like a swinging pendulum over time.” 
+Third: Develop a familiarity with history, an awareness of what went wrong during the crisis 
+and of how we addressed it.  Almost inevitably, shocks are going to happen. “It is really  
+important that the next round of policymaker s be aware of, and conversant with, what we 
+did and why, and where they think we got it right and where they think we could have done 
+better.” 
+Dated: September 2022 
+YPFS Lessons Learned No. 2019-55 
+Copyright © Yale University. 
+ 
+221
+Lessons Learned: Nathan Sheets Sim Esmen and Wiggins

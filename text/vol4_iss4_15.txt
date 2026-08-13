@@ -1,0 +1,679 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 4 
+2022 
+Thailand: FIDF Blanket Guarantee, 1997 Thailand: FIDF Blanket Guarantee, 1997 
+Ayodeji George 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, Finance and 
+Financial Management Commons, Growth and Development Commons, Policy Design, Analysis, and 
+Evaluation Commons, Public Administration Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+George, Ayodeji (2022) "Thailand: FIDF Blanket Guarantee, 1997," Journal of Financial Crises: Vol. 4 : Iss. 
+4, 300-317. 
+DOI: https://doi.org/10.17132/2693-3179.1451 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/15 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss4/15
+
+--- Page 3 ---
+Thailand: FIDF Blanket Guarantee, 19971 
+Ayodeji George2 
+Yale Program on Financial Stability Case Study 
+December 22, 2022 
+Abstract 
+The Thai government’s decision to allow the baht to float in July 1997 was the pivotal event 
+of the Asian Financial Crisis. The baht fell 20% by the end of the month, further pressu ring 
+Thai financial institutions that had borrowed heavily in US dollars and other foreign 
+currencies. In early August , Thailand’s Finance Minister and the Bank of Thaila nd (BOT) 
+announced the suspension and restructuring of insolvent financ e companies and a blanket 
+guarantee covering depositors and creditors of all domestic banks and the remaining finance 
+companies, administered by  the BOT’s Financial Institutions Develop ment Fund (FIDF) . 
+However, t he blanket guarantee was initially unsuccessful in restoring public confidenc e 
+because of early inconsistencies in messaging and skepticism  about the credibility of the 
+guarantee given the extent of financial institutions’ liabilities. Bank runs continued for 
+months after the government announced the guarantee and ended only in November, when 
+the government began to use its new authority to take over insolvent banks and assume their 
+liabilities, rather than closing them and directly paying guaranteed depositors and creditors. 
+No guaranteed depositors or creditors lost money  after the government announced the 
+blanket guarantee. The FIDF ultimately lost THB 1 .4 trillion (USD 34 billion) in bailing out 
+guaranteed banks and finance companies, THB 554 billion of which specifically went toward 
+the blanket guarantee. In 2003, the FIDF reduced the blanket guarantee’s coverage to include 
+only depositors and no other creditors. The blanket guarantee ended with the enactment of 
+the Deposit Protection Agency Act in 2008, which established a limited deposit insurance 
+scheme that protected deposits up to THB 1 million (USD 32,000).     
+Keywords: Asian Financial Crisis, blanket guarantee, FIDF, Thailand 
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering blanket guarantee programs. Cases are available from the Journal of Financial Crises at   
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+300
+
+--- Page 4 ---
+Overview
+Thailand and other  Southeast Asian 
+countries experienced an economic boom in 
+the early 1990s  (Corsetti et al 1999) . Thai 
+financial institutions borrowed  liberally 
+from foreign sources, largely in US dollars, to 
+finance extensive real estate lending. 
+Thailand’s current-account deficit peaked at 
+8.5% of its GDP in 1996. This made Thailand 
+particularly vulnerable to speculative 
+attacks on its currency  (Haksar and 
+Giorgianni 2000; Sharma 2013).  
+In 199 6, growing numbers of real estate 
+borrowers began to default on their l oans, 
+pressuring Thai financial institution s. The 
+Bangkok Bank of Commerce (BBC), 
+Thailand’s ninth -largest bank, collapsed on 
+May 10, 199 6. This led to the first of many 
+speculative foreign currency attacks  that 
+year (Sharma 2013).  
+The BOT expended significant resources 
+throughout 1996 and 1997 to defend the 
+baht (Sharma 2013). On June 25, 1997, t he 
+finance minister  announced t hat the 
+government no longer had  the necessary 
+reserves to continue to defend its currency. 
+On the same day, news reports revealed that 
+the government had abandoned its efforts to 
+support the country’s largest finance 
+company, Finance One (Corsetti et al 1999).  
+On June 26, 1997, the BOT issued 30 -day 
+suspensions, or orders to cease operations, 
+to 16 financ e companies (including Finance 
+One) on the basis of their impaired capital 
+and limited liquidity  (Sharma 2013) . The 
+measure failed to stop depositor runs on 
+other finance companies and small banks, in 
+part because the Financial Institutions Development Fund ( FIDF), a  body within the BOT 
+concerned with financial health,  did not protect depositors and creditors  of the suspended 
+companies. Rather, it exchanged their deposits for promissory notes issued by a state-owned 
+finance company  and allowed other creditors to incur substantial losses  (Santiprabhob 
+2003). Meanwhile, on July 2, 1997, the government allowed the baht to float (IMF 1997a). 
+Key Terms 
+Purpose: To resolve “the crisis of confidence ” 
+among depositors and creditors (FIDF 1997) 
+Launch Dates Authorization:  
+August 5, 1997; 
+Announcement:  
+August 5, 1997  
+End Date(s) February 6, 2008  
+Eligible Institutions All non-suspended 
+banks, finance 
+companies, and foreign 
+bank branches  
+Eligible Liabilities All depositors and 
+creditors except 
+subordinated debt 
+holders and off-balance-
+sheet creditors  
+Fees 0.3-0.4% of covered 
+liabilities   
+Coverage THB 10.6 trillion  
+Outcomes No depositors lost 
+money; the FIDF 
+ultimately lost  
+THB 1.4 trillion in 
+bailing out covered 
+financial institutions, 
+THB 554 billion of 
+which helped 
+depositors  
+Notable Features The guarantee covered 
+principal and interest 
+using local currency, but 
+set caps on the interest 
+rates  
+301
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 5 ---
+The currency depreciated 20% by the end of July. Both the finance minister and central bank 
+governor resigned, and the government formally request ed support from the International 
+Monetary Fund (IMF) on July 28, 1997 (Boughton 2012; Nabi and Shivakumar 2001).  
+The new central bank governor promised a blanket guarantee of the principal and interest 
+for depositors and creditors of all finance companies on August 5, 1997. The guarantee came 
+with the suspension of an additional 42 troubled finance companies, bringing the total 
+number of suspended firms to 58 (Koetsawang 1997). The central bank governor  assured 
+that the guarantee was “no lip service” in his August 5 press co nference (Dow Jones 
+Newswires 1997) . As such , the board of the FIDF  rescinded a previous guarantee on 
+promissory notes that it had extended to 10 specific banks (Ingsrisawang 1997). The central 
+bank governor reiterated the government’s commitment to deposi tors on August 6, urging 
+the public not to panic  (Miller 1997). The assistant bank governor attributed the extension 
+of the blanket guarantee to discomfort within the central bank with the amount of Thai 
+deposits being transferred to foreign banks. The amount of withdrawals was reported by the 
+government to be between THB 15 billion and THB 20 billion per week (McDowell 1997). 
+On August 7, 1997, the Ministry of Finance announced a blanket guarantee for creditors and 
+depositors in all banks and the 33  remaining non-suspended finance companies 
+(Government of Thailand 1997) . The guarantee , which the Bank of Thailand  Act (BOT Act) 
+gave the FIDF the power to administer, was extended to assure the public of the solvency of 
+financial institutions and increase confidence in the stability of the financial system  by 
+protecting depositors and creditors of financial institutions. However, the original guarantee 
+outlined on August 7, 1997, did not specify the exact liabilities covered, leading to confusion 
+and doubt among the public about the government’s ability and willingness to honor the 
+guarantee (FIDF 1997; Nabi and Shivakumar 2001).  
+Later in August , the IMF  agreed to a three-year standby loan agreement worth  2.9 billion 
+special drawing rights (SDR; about USD 3.9 billion) (IMF 1997b). The blanket guarantee was 
+a key commitment from the Thai government in exchange for the loan agreement  
+(Government of Thailand 1997).  
+Depositors and creditors of  the 42 institutions suspended in August 1997 , as well as 
+depositors in finance companies suspended in June 1997,  were given the option of 
+exchanging their claims for fully guaranteed notes from the state -owned banks Krung Thai 
+Thanakit (KTT) and Krung Thai Bank  (KTB) (Minister of Finance and BOT 1997) . The FIDF 
+was responsible for payment of both principal and interest  on guaranteed notes (Nabi and 
+Shivakumar 2001) . However, the FIDF capped the amount of interest it would cover to 
+discourage banks from using the guarantee to compete for deposits with high rates  (FIDF 
+1997). Figure 1 details the different forms of protection and the financial institutions which 
+it covered. 
+  
+302
+Thailand George
+
+--- Page 6 ---
+Figure 1: Coverage by Institution Type 
+Financial Institution Status Type of Coverage 
+Institutions suspended on June 16, 1997 Depositors eligible for note exchange scheme; 
+creditors not covered 
+Institutions suspended on August 5, 1997 Depositors and creditors eligible for note 
+exchange scheme 
+Remaining institutions Depositors and creditors covered by FIDF 
+blanket guarantee 
+Source: Author’s analysis. 
+Runs continued on small banks and finance companies  despite the announcement of the 
+blanket guarantee (Santiprabhob 2003) . A government decree on October 25, 1997, 
+amended the BOT Act to allow the FIDF to draw funds directly from the government . The 
+decree specified depositors and creditors that were eligible for the blanket guarantee . The 
+guarantee did not cover subordinated debt holders, off -balance-sheet cre ditors, and 
+shareholders’ funds (Emergency Decree B.E. 2485 1997; Government of Thailand 1997, box 
+1).  
+The October legislation created a new agency to take control of insolvent  financial 
+institutions and assume their liabilities  (Emergency Decree B.E. 254 0 1997) . Under the 
+previous laws, the FIDF’s only option was to liquidate a financial institution and directly pay 
+guaranteed depositors and creditors . With the new legislation, the FIDF could avoid such 
+direct payouts by taking over an institution , reselling it or merg ing it with another 
+institution, and using government resources to fill any gap between the value of its assets 
+and the liabilities owed to depositors and other guaranteed creditors. The FIDF’s first such 
+intervention was in the Bangkok Metropolitan Bank (BMB), the ninth -largest bank at that 
+time, in November 1997:  
+That intervention was a major shift in approach from the previous method of 
+suspending and closing insolvent Fls. Und er the intervention approach, the bank, 
+pending a decision on its future, was allowed to service its depositors and debtors as 
+normal, thereby minimizing the impact on the real economy and preventing the 
+government from compensating depositors and creditors outright under the blanket 
+guarantee. (Santiprabhob 2003, 17) 
+The government thus avoided paying depositors directly under the blanket guarantee by 
+taking control of insolvent financial institutions. The FIDF incurred significant expenses from 
+its various crisis responses , accumulating THB 1.4 trillion in debt  (USD 34 billion) to cover 
+losses.3 Of this total, THB 554.1 billion was specific ally used to help guaranteed depositors 
+ 
+3 In June 2002, USD 1 was equivalent to THB 41.58 (per Federal Reserve) . 
+303
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 7 ---
+(BOT n.d.a; BOT n.d.b). By 2015, the FIDF was liable for approximately THB 1 trillion of this 
+debt (Sangwongwanich 2015). 
+Though no end date was set for the blanket guarantee, the IMF rescue package included a 
+stated goal of creating a more limited deposit insurance program  once the economic 
+situation had stabilized and the system had been restructured. Authorities said in 1999 that 
+they would try to incentivize banks and other finance companies to exit the guarantee by 
+making it voluntary, but they ultimately never made that change. Rather, in 2003, the FIDF 
+reduced the blanket guarantee’s coverage to include only depositors and not creditors. The 
+FIDF guarantee officially ended when t he Deposit Protection Agency Act, enacted on 
+February 6, 2008, installed a limited deposit insurance program that covered deposits up to 
+THB 1 million (about USD 31,817)4 (BOT n.d.b; Deposit Protection Agency Act 2008).   
+Summary Evaluation 
+The Thai government enacted the FIDF guarantee to restore public confidence in the 
+soundness of the financial system following the suspension of 58 of its 91 finance companies 
+(FIDF 1997; Government of Thailand 1997) . A 2001 World Bank report concluded that the 
+guarantee and other government measures were unsuccessful in this task, as market 
+confidence continued to deteriorate into 1998. The Thai government struggled to restore  
+public confidence because of the size of liabilities the program covered and inconsistencies 
+in government messaging. Limited deposit runs continued even after the announcement of 
+the blanket guarantee. The mechanism for funding and executing the guarantee as well as  
+handling suspended institutions was also unclear. It took considerable time to establish the 
+framework for handling suspended institutions because of  the slow progress of 
+parliamentary measures (Nabi and Shivakumar 2001; Santiprabhob 2003).  
+The public viewed the government’s June 1997 announcement about the first 16 finance 
+company suspensions as non -transparent, according to Veerathai Santiprabhob, an IMF 
+official during the crisis who later became the central bank governor. He said in a 2003 paper 
+that the BOT did not publicly disclose the criteria used to decide which institutions were 
+suspended, leading to skepticism over the strength of the institutions that remained.  The 
+August suspension was more successful in slowing deposit runs among the remaining 
+financial institutions because the government announced the blanket guarantee in the same 
+announcement and because it said it would protect some types of creditors of suspended 
+institutions that it had not protected in the first round of suspensions (Santiprabhob 2003).  
+The Bangkok Post reported a major policy reversal on August 5, 1997, in which the 
+government rescinded its original promise to guarantee promissory notes issued by 10 weak 
+finance firms. This policy change followed changes in the leadership of both the BOT and 
+MOF (Ingsrisawang 1997). 
+Only with the legislation of October 1997 did the government have the authority to take over 
+and resolve insolvent f inancial institutions , rather than closing them and directly paying 
+ 
+4 In February 2008, USD 1 was equivalent to THB 31.43 (per Federal Reserve) . 
+304
+Thailand George
+
+--- Page 8 ---
+guaranteed depositors and creditors. In November 1997, the BOT used that authority to take 
+control of the Bangkok Metropolitan Bank (BMB) after it showed signs of weakness. Rather 
+than suspend the bank’s operations, Thai authorities allowed the bank to continue to service 
+its depositors and creditors. This demonstration of their ability to intervene without hurting 
+depositors helped stop the deposit runs and strengthened the public’s confid ence in the 
+blanket guarantee . Santiprabhob suggests that if this intervention approach had been 
+instituted alongside the blanket guarantee sooner, it could have lessened the severity of the 
+crisis. The World Bank report suggested that a royal decree would have accelerated the 
+process but may also have triggered a parliamentary vote of no confidence given the fragile 
+political climate (Nabi and Shivakumar 2001; Santiprabhob 2003). 
+  
+305
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 9 ---
+306
+Thailand George
+
+--- Page 10 ---
+Key Design Decisions 
+1. Purpose: Thai authorities extended the blanket guarantee to assure  the public 
+about the soundness of commercial banks and remaining finance companies when 
+it closed 58 troubled finance companies. 
+The BOT suspended 16 finance companies in June 1997 and 42 more in August 1997. At the 
+time of the second suspension, Thai authorities extended a blanket guarantee to depositors 
+and creditors of all banks and the remaining finance companies to assure the public about 
+the soundness of the rest of the financial system (FIDF 1997).  Thai depositors were 
+continuously transferring funds into larger institutions and foreign banks during this period. 
+Thai authorities feared that this flight to quality would cause otherwise healthy finance 
+companies to become unstable . At the time the guarantee was announced, the government 
+reported that weekly withdrawals t otaled between THB 15 billion and THB 20 billion per 
+week (McDowell 1997; Sherer 1997). 
+2. Part of a Package:  The guarantee was released as one piece of a broader IMF -
+backed effort to restore stability to the Thai financial system. 
+The Thai government announc ed that it was pursuing an IMF agreement on July 28, 1997, 
+following the resignation of the central bank governor and finance minister. The new central 
+bank governor announced the blanket guarantee for depositors and creditors on August 5, 
+1997, alongside the announcement by the new finance minister of the suspension of 42 
+finance companies (Boughton 2012; Dow Jones Newswires 1997). 
+In an August 14, 1997 , letter of intent to the IMF , the Thai government committed to a  
+Financial Restructuring Program to rest ore public confidence in the financial system. The 
+blanket guarantee was a central part of that program. The program also included the 
+isolation of the weakest institutions, through suspension and restructuring; an institutional 
+framework for restructuring  the financial system ; and reforms to improve the efficiency, 
+profitability, and solvency of the system.  The IMF approved the rescue package o n August 
+20, 1997. The package also included fiscal, monetary, and exchange rate policies intended to 
+prevent the flow of capital out of the country  and establish a fiscal surplus  (Government of 
+Thailand 1997; Nabi and Shivakumar 2001). 
+3. Legal Authority: The Prime Minister signed emergency decrees giving the BOT the 
+power to take over and restructure insolvent financial institutions and amending 
+the Bank of Thailand Act to enable the FIDF to  draw funds directly from the 
+government to fully guarantee depositors and creditors. 
+The BOT Act established the FIDF to reconstruct and develop the financial system to accord 
+it strength and stability . From the original passing of the BOT Act, t he FIDF had the legal 
+authority to extend guarantees with the condition of charging all covered institutions a fee 
+(BOT 2018, ch. 5). On October 22, Thailand’s prime minister signed an emergency decree 
+amending the Bank of Thailand Act . The decree, which Parliament passed  a few days later , 
+307
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 11 ---
+empowered the FIDF to draw funds directly from the government, giving more credibility to 
+the blanket guarantee (Emergency Decree B.E. 2485 1997; Nabi and Shivakumar 2001). 
+Also on October 22, the Emergency Decree on Financial Sector Restructuring established the 
+framework for handling suspended institutions  (Emergency Decree B.E. 2540 1997) . The 
+prime minister signed a decree amending the Commercial Banking and Finance Companies 
+Acts to provide new legal powers to the BOT  (Emergency Decree B.E. 2505 1997) . The 
+amendments gave the BOT more control over financial institutions to change their 
+management. It also empowered the BOT to write down the value of closed institution s’ 
+shares in order to protect depositors and creditors (FIDF 1997; Government of Thailand 
+1997, box 1; Sutham 1997).    
+4. Administration: The FIDF administered the guarantee. 
+The FIDF administered the guarantee . The BOT Act empowered the FIDF to administer 
+guarantees (BOT 2018, ch. 5).  The program did not require any form of application and the 
+eligible liabilities of all remaining institutions were immediately covered in full (FIDF 1997).5  
+5. Governance: The Finance Minister appointed the committee that oversaw the FIDF. 
+A five-to-nine-member Fund Management Committee  oversaw the FIDF. T he finance 
+minister appointed the members of this committee . The governor of the BOT served as the 
+chairman of the committee , and the committee appointed a n officer of the BOT to serve as 
+the manager of the FIDF . The FIDF’s accounts were audited annually by the Office of the 
+Auditor-General. The auditor presented an audit report to the  Finance Minister and sent a 
+copy to the BOT (BOT 2018, ch. 5). 
+The Finance Minister, BOT, and Fund Management Committee established a set of criteria to 
+monitor quantitative performance, indicative targets, and structural performance  of 
+financial institutions in order to monitor the effectiveness of the Financial Restructuring 
+Program (Government of Thailand 1997).  
+The BOT and Minister of Fina nce resolved to improve transparency to help market 
+participants make informed economic decisions. Starting on August 29, 1997, the BOT 
+committed to publishing data on the key elements of its assets and liabilities on a fortnightly 
+basis. The BOT also work ed closely with financial institutions and regulatory bodies to 
+ensure the publishing of “regular and comprehensive data on their financial condition .” 
+Finally, the BOT and Finance Minister reviewed the FIDF’s Special Dissemination Standards 
+to achieve greater efficiency and transparency (Government of Thailand 1997). 
+ 
+5 The KTT and KTB overs aw the note exchange scheme for eligible claimants in suspended institutions. The 
+FIDF was responsible for compensation of all depositors and creditors (Nabi and Shivakumar 2001).   
+ 
+308
+Thailand George
+
+--- Page 12 ---
+6. Communication: The Bank of Thailand said that the guarantee was meant to 
+restore confidence in the financial system. 
+On July 28, 1997, the Thai government announced that it was seeking support from the IMF 
+(Nabi and Shivakumar 2001) . The central bank governor assured that depositors and 
+creditors would be protected during a press conference on August 5 (Dow Jones Newswires 
+1997). The Finance Minister officially announced the blanket guarantee on paper on August 
+7, 1997 (FIDF 1997). On August 14, 1997, Thailand submitted a letter of intent to the IMF 
+detailing its plan for crisis response, of which the blanket guarantee was a part (Government 
+of Thailand 1997). On August 20, 1997, the IMF officially announced the three-year standby 
+loan agreement extended to Thailand (IMF 1997b).   
+The public did not respond as intended to the communication of the blanket guarantee, and 
+market confidence continued to falter. The public was not entirely certain of the extent of 
+guarantees and which liabilities were covere d. This led to a lack of confidence in the 
+credibility of the blanket guarantee (Nabi and Shivakumar 2001; Sharma 2013). 
+7. Source(s) and Size of Funding:  The government funded the blanket guarantee 
+through borrowing and fees charged to covered financial institutions.  
+The August 7, 1997 , announcement of the blanket guarantee stated that it was financed by 
+“borrowing and bond issuance with government guarantee” (FIDF 1997). The FIDF also said 
+that fees charged to covered financial institutions would play a part in the funding of the 
+blanket guarantee (see Fees section).  
+To give additional credibility to the guarantee, the prime minister amended the Bank of 
+Thailand Act in October 1997  using an emergency decree to allow the FIDF to draw funds 
+directly from the government (Emergency Decree B.E. 2485 1997). 
+Though the blanket guarantee was included in the language of the letter of intent that 
+Thailand submitted to the IMF, the resulting standby loan was not used to fund the blanket 
+guarantee in any part (IMF 1997b).  
+The FIDF ultimately accumulated THB 1.4 trillion (USD 34 billion) in debt to cover its losses 
+from bailing out guaranteed banks and finance companies. Of that total, THB 554.1 billion 
+helped depositors protected by the blanket guarantee (BOT n.d.a). 
+8. Eligible Institutions:  The full guarantee covered all banks and non-suspended 
+finance companies. 
+The blanket guarantee announced on A ugust 7, 1997, was extended to creditors and 
+depositors in all operating financial institutions  (FIDF 1997). This originally applied to all 
+operating financial institutions following the suspensions on August 5, 1997. The only 
+requirement was the payment of a fee based upon the value of covered assets (BOT 2018, ch. 
+5). 
+309
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 13 ---
+The August 14, 1997, letter of intent introduced a scheme to exchange claims on suspended 
+banks with notes issued by  state-owned banks KTB and KTT that the FIDF guaranteed6 
+(Government of Thailand 1997, box 1).  
+9. Eligible Liabilities: The guarantee cover ed principal and interest on all deposits 
+and non-subordinated liabilities, but there were caps on the amount of interest it 
+covered. 
+The August 1997 announcement of the rescue  package extended a guarantee covering all 
+deposits and non-subordinated liabilities in all operating financial institutions following the 
+second round of suspensions of August 5, 1997 (Government of Thailand 1997; Haksar and 
+Giorgianni 2000). Depositors a nd creditors in all operating financial institutions were fully 
+protected by the FIDF (FIDF 1997).  
+The FIDF was responsible for covering the full principal amount for accounts in all non -
+suspended institutions (Government of Thailand 1997 , box 1). However, the responsibility 
+for covering interest payments varied. For depositors in commercial banks, the FIDF covered 
+interest up to a maximum rate of the average three-month fixed rate offered by the five 
+largest commercial banks plus 300 basis points (FIDF 1997). In September 2007, the BOT 
+imposed this cap on all commercial bank deposits (BOT 1999). 
+For depositors in all other types of financial institution, the FIDF covered interest up to a 
+maximum rate of the five largest banks’ average three-month fixed rate plus 600 basis points. 
+For creditors in all types of financial institution, the FIDF covered interest as specified in the 
+contracts up to a maximum rate not exceeding the average minimum lending rate of the five 
+largest commercial banks, minus 400 basis points (FIDF 1997).    
+On October 25, 1997, the government’s emergency decree on Financial Sector Restructuring 
+defined depositors and creditors and specified that the blanket guarantee excluded 
+subordinated debt, off -balance-sheet creditors, and shareholders’ funds  (Government of 
+Thailand 1997 , box 1) . The emergency decree defined depositors to i nclude “holders of 
+negotiable certificate of deposit and promissory notes issued to borrow or receive money 
+from the public ” (Emergency Decree B.E. 2485 1997, 3) . Creditors were defined to include 
+creditors other than depositors, “whose creditor status arose from the financial institution . 
+. . lending, purchasing of promissory note or holding of other debt instruments where the 
+financial institution is the borrower, payer or issuer” (Emergency Decree B.E. 2485 1997, 3). 
+The FIDF limited its coverage to depositors in 2003 (BOT n.d.b). 
+ 
+6 For the 42 institutions that were suspended on August 5, 1997, both dep ositors and creditors had access to 
+the note exchange scheme. For the 16 finance companies suspended on June 26, 1997, only depositors had 
+access to the note exchange scheme (Government of Thailand 1997, box 1).  
+ 
+310
+Thailand George
+
+--- Page 14 ---
+10. Fees: Member institutions were charged a percentage  of the total value of their 
+covered liabilities. 
+The BOT Act required covered institutions to make contributions to the FIDF while covered 
+by a guarantee. This contribution amounted to a percentage of each financial institution’s 
+covered liabilities  (BOT 2018, ch. 5). The FIDF collected the fees on a semi -annual basis. 
+According to the letter of intent that the government signed with the IMF, the rate was 0.15% 
+in December 1997 and 0.20% in June 1998 and December 1998  (Government of Thailand 
+1997, box 1). These fees were a part of the funding for the blanket guarantee (FIDF 1997). 
+11. Process for Exercising Guarantee: In the event of insolvency, the FIDF would honor 
+the claims of creditors and depositors in baht within 30 days. 
+The FIDF stated that in the event of a firm’s insolvency, depositors and creditors covered by 
+the guarantee would be compensated within 30 days  of the submission of claims , in baht 
+(FIDF 1997; Government of Thailand 1997).  
+12. Other Restrictions: The BOT instituted a  temporary deposit rate cap for member 
+institutions, set limits on foreign borrowing, required companies to raise capital, 
+and increased monitoring and oversight.   
+The Thai government, in its letter of intent, outlined several measures to prevent potential 
+moral hazard among covered financial institutions. The first of these measures, in September 
+2007, was a temporary deposit rate cap of 300 basis points above the average deposit rate 
+of the five largest commercial banks . In June, the BOT had temporarily set a ceiling of 12 % 
+on saving deposits, with separate guidelines for finance companies; it raised the cap to 14% 
+in July. The FIDF also took steps to monitor and limit foreign borrowing  and strengthened 
+its monitoring of asset growth and general oversight  (BOT 1999; Government of Thailand 
+1997).  
+All covered  financial institutions were required to raise their capital. The government 
+waived previous limits on foreign ownership to encourage banks to seek foreign 
+participation (Government of Thailand 1997, box 1). Undercapitalized institutions that could 
+not raise their capital were taken over by the FIDF (BOT 1999). 
+13. Duration: The government did not originally identify an end date for the 
+guarantee. 
+The government did not originally identify an end date for the blanket guarantee. In 1997, 
+authorities stated that they would replace the guarantee with  a limited deposit insurance 
+scheme following the stabilization and restructuring of the financial system. Authorities set 
+a goal of incentivizing exit from the guarantee by 1999 through increased fees or m aking 
+participation voluntary , although they did not follow through on those goals . The FIDF 
+limited its coverage to depositors in 2003 (BOT n.d.b; Government of Thailand 1997) . 
+Deposit insurance was enacted on February 6, 2008 , with the passage of the Dep osit 
+Protection Agency Act , at which time the blanket guarantee effectively ended. The new 
+311
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 15 ---
+limited deposit insurance scheme covered deposits up to THB 1 million (Deposit Protection 
+Agency Act 2008).   
+312
+Thailand George
+
+--- Page 16 ---
+References and Key Program Documents 
+Summary of Program 
+(BOT n.d.a) Bank of Thailand (BOT). n.d.a. “Background of the Fund Debt.” 
+Summary of the accumulation of debt by the FIDF during its crisis response measures. 
+https://ypfs.som.yale.edu/node/22085 
+(BOT n.d.b) Bank of Thailand (BOT). n.d.b. “Financial Institutions Development Fund.” 
+Accessed January 22, 2021. 
+Official BOT overview of the FIDF’s history and 21st-century operations. 
+https://ypfs.som.yale.edu/node/20172 
+(Government of Thailand 1997) Government of Thailand (Government of Thailand). 1997. 
+“Thailand Letter of Intent, August 14, 1997,” August 14, 1997. 
+Letter of intent for Thailand’s 34-month SBA with the IMF. 
+https://ypfs.som.yale.edu/library/thailand-letter-intent-august-14-1997 
+(IMF 2000) International Monetary Fund (IMF). 2000. “Recovery from the Asian Crisis and 
+the Role of the IMF,” June 2000. 
+A brief outlining the macroeconomic recovery of several nations affected by the AFC and 
+detailing the actions of the IMF. 
+https://ypfs.som.yale.edu/node/2791 
+Legal/Regulatory Guidance 
+(BOT 2018) Bank of Thailand Act (BOT). 2018. Bank of Thailand Act B.E. 2485 (1942) 39. 
+Legislation originally authorizing the FIDF, with amendments up to 2018. 
+https://ypfs.som.yale.edu/library/bank-thailand-act 
+(Commercial Banking Act 1962) Commercial Banking Act. 1962. Commercial Banking Act. 
+B.E. 2505. 
+Law governing commercial banking in Thailand. 
+https://ypfs.som.yale.edu/library/commercial-banking-act 
+(Deposit Protection Agency Act 2008) Deposit Protection Agency Act. 2008. Deposit 
+Protection Agency Act, B.E. 2551, February 6, 2008. 
+Legislation establishing the Deposit Protection Agency. 
+https://ypfs.som.yale.edu/library/deposit-protection-agency-act-be-2551 
+(Emergency Decree B.E. 2485 1997) Emergency Decree B.E. 2485. 1997. “Emergency 
+Decree Amending the Bank of Thailand Act, B.E. 2485 (No. 2),” October 22, 1997. 
+Emergency decree allowing the FIDF to make unsecured loans, relinquish collateral already 
+held, and raise member fees. 
+https://ypfs.som.yale.edu/library/amending-bank-thailand-act-be-2485-no-2 
+313
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 17 ---
+(Emergency Decree B.E. 2505 1997) Emergency Decree B.E. 2505. 1997. “Emergency 
+Decree Amending the Commercial Banking Act, B.E. 2505,” October 25, 1997. 
+An emergency decree amending the Commercial Banking Act to give the government more 
+control over troubled financial institutions. 
+https://ypfs.som.yale.edu/library/emergency-decree-amending-commercial-banking-act-
+be-2505-no-3-be-2540 
+(Emergency Decree B.E. 2540 1997) Emergency Decree B.E. 2540. 1997. “Emergency 
+Decree on Financial Sector Restructuring, B.E. 2540,” October 25, 1997. 
+Emergency decree establishing the framework for financial sector restructuring and creating 
+the FRA and AMC. 
+https://ypfs.som.yale.edu/library/emergency-decree-financial-sector-restructuring-be-
+2540 
+(Finance Company Act 1979) Finance Company Act. 1979. The Undertaking of Finance 
+Business, Securities, and Credit Foncier Business Act. B.E. 2522. 
+Law governing finance companies and credit fonciers in Thailand. 
+https://ypfs.som.yale.edu/library/undertaking-finance-business-securities-and-credit-
+foncier-business-act 
+Media Stories 
+(Dow Jones Newswires 1997) Dow Jones Newswires. 1997. “Thailand/IMF 
+Bailout/Amplifier-3: To Guarantee Deposits,” August 5, 1997. 
+News update mentioning the announcement by the central bank governor of a blanket 
+guarantee. 
+https://ypfs.som.yale.edu/node/22086 
+(FIDF 1997) Financial Institutions Development Fund (FIDF). 1997. “Insurance for 
+Depositors and Creditors of Financial Institutions.” Press Release, August 7, 1997. 
+Press release announcing and detailing the blanket deposit and credit guarantee. 
+https://ypfs.som.yale.edu/node/20173 
+(Ingsrisawang 1997) Ingsrisawang, Cholada. 1997. “Bank of Thailand—Plan to Guarantee 
+Ailing Firms’ Notes Reversed,” August 5, 1997. 
+Article detailing the reversal of the guarantee specific to the promissory notes of 10 firms. 
+https://ypfs.som.yale.edu/node/22087 
+(Koetsawang 1997) Koetsawang, Anchalee. 1997. “Thailand Details Measures on Financial 
+Institution,” August 5, 1997. 
+News article detailing the suspension of 42 finance companies by the Bank of Thailand. 
+https://ypfs.som.yale.edu/node/22088 
+(McDowell 1997) McDowell, Patrick. 1997. “Deposits Guaranteed; TV Warned on News 
+Coverage,” August 8, 1997. 
+Associated Press article detailing the announcement of a blanket guarantee. 
+https://ypfs.som.yale.edu/node/22089 
+314
+Thailand George
+
+--- Page 18 ---
+(Miller 1997) Miller, Lee, and Bloomberg News (Miller). 1997. “Thailand Aims to Stem Run 
+On Banks -- Government Guarantees Deposits, Urges Calm,” August 6, 1997. 
+Bloomberg article outlining the Thai government’s announcement of a blanket guarantee and 
+other crisis response measures. 
+https://ypfs.som.yale.edu/library/thailand-aims-stem-run-banks-government-guarantees-
+deposits-urges-calm 
+(Sangwongwanich 2015) Sangwongwanich, Pathom. 2015. “FIDF Set to Clear Debt Ahead of 
+Schedule.” Bangkok Post, August 13, 2015, sec. Business. 
+Article describing the FIDF’s debt burden and repayment plan. 
+https://ypfs.som.yale.edu/node/20166 
+(Sherer 1997) Sherer, Paul. 1997. “Thailand Closes 42 Finance Companies’ Reckless 
+Lending to Developers Crushes Weak Players under Mountain of Bad Debt,” August 6, 1997. 
+Article detailing the suspension f 42 finance companies and the liquidity support measures 
+that preceded the decision. 
+https://ypfs.som.yale.edu/node/22090/ 
+Press Releases/Announcements 
+(IMF 1997a) International Monetary Fund (IMF). 1997a. “News Brief: IMF Welcomes 
+Thailand’s Exchange Rate Action.” Press Release, July 2, 1997. 
+IMF release discussing Thailand’s decision to float the baht. 
+https://ypfs.som.yale.edu/library/news-brief-imf-welcomes-thailands-exchange-rate-
+action 
+(IMF 1997b) International Monetary Fund (IMF). 1997b. “Press Release: IMF Approves 
+Stand-by Credit for Thailand.” Press Release, August 20, 1997. 
+Press release highlighting that the IMF approved stand-by aid to Thailand. 
+https://ypfs.som.yale.edu/library/press-release-imf-approves-stand-credit-thailand 
+(Minister of Finance and BOT 1997) Ministry of Finance and Bank of Thailand (Minister of 
+Finance and BOT). 1997. “Thailand Financial Restructuring Package.” Press release, 
+October 14, 1997. 
+Joint statement by the Ministry of Finance and the Bank of Thailand on the 1997 Financial 
+Restructuring Package. 
+https://ypfs.som.yale.edu/library/thailand-financial-restructuring-package 
+Reports/Assessments 
+(BOT 1999) Bank of Thailand (BOT). 1999. “Annual Economic Report 1998,” 1999. 
+Annual report describing the terms of government capital offered through credit support 
+facilities and the legislation relevant to participation in those facilities. 
+https://ypfs.som.yale.edu/library/annual-economic-report-1998 
+(Haksar and Giorgianni 2000) Haksar, Vikram, and Lorenzo Giorgianni. 2000. “Financial 
+Sector Restructuring.” Thailand: Selected Issues, 27–44. IMF Staff Country Report No. 
+315
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 19 ---
+00/21, February 2000. Washington, DC: International Monetary Fund. 
+Staff report describing Thailand’s economic crisis and measures taken by the government. 
+https://ypfs.som.yale.edu/library/thailand-selected-issues 
+(Santiprabhob 2003) Santiprabhob, Veerathai. 2003. Lessons Learned from Thailand’s 
+Experience with Financial-Sector Restructuring. Bangkok, Thailand: Thailand Development 
+Research Institute. 
+Study commissioned by one of Thailand’s think tanks analyzing the government’s response to 
+the crisis. 
+https://ypfs.som.yale.edu/library/lessons-learned-thailands-experience-financial-sector-
+restructuring 
+Key Academic Papers 
+(Boughton 2012) Boughton, James. 2012. “Chapter 11: Asian Flu: Crisis in the Pacific.” 
+Tearing Down Walls: The International Monetary Fund 1990-1999. 2012. 
+Chapter about the Asian Financial Crisis from Tearing Down Walls: The International 
+Monetary Fund 1990-1999. 
+https://ypfs.som.yale.edu/library/chapter-11-asian-flu-financial-crisis-pacific 
+(Corsetti et al 1999) Corsetti, Giancarlo, Paolo Pesenti, and Nouriel Roubini. 1999. “What 
+Caused the Asian Currency and Financial Crisis?” December 1999. 
+A paper exploring the causes of the AFC and evaluating the effectiveness of policy responses. 
+https://ypfs.som.yale.edu/library/what-caused-asian-currency-and-financial-crisis-part-ii-
+policy-debate 
+(Nabi and Shivakumar 2001) Nabi, Ijaz, and Jayasankar Shivakumar. 2001. “Back from the 
+Brink: Thailand’s Response to the 1997 Economic Crisis.” Directions in Development, June 
+2001. 
+World Bank study describing the causes and response of Thailand to the currency, financial, 
+and economic crises. 
+https://ypfs.som.yale.edu/library/back-brink-thailands-response-1997-economic-crisis 
+(Sharma 2013) Sharma, Shalendra D. 2013. “Thailand: Crisis, Reform and Recovery.” The 
+Asian Financial Crisis: Crisis, Reform and Recovery. Manchester University Press. 
+Book chapter discussing Thailand’s response to the AFC. 
+https://ypfs.som.yale.edu/library/thailand-crisis-reform-and-recovery 
+(Sutham 1997) Sutham, Apisith John. 1997. “The Asian Financial Crisis and the 
+Deregulation and Liberalization of Thailand’s Financial Services Sector: Barbarians at the 
+Gate.” Fordham International Law Journal 21, no. 5: 53. 
+Article examining some of Thailand’s policy responses to the AFC. 
+https://ypfs.som.yale.edu/library/asian-financial-crisis-and-deregulation-and-
+liberalization-thailands-financial-services 
+ 
+316
+Thailand George
+
+--- Page 20 ---
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+ 
+317
+Journal of Financial Crises Vol. 4 Iss. 4

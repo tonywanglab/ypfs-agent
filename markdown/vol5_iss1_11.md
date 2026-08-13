@@ -1,0 +1,330 @@
+## Eurozone: Central Bank Swap to Denmark, 2008[1] 
+
+## _Salil Gupta[2]_ 
+
+Yale Program on Financial Stability Case Study July 21, 2023 
+
+## **Abstract** 
+
+Danish banks faced substantial losses on loans to the slowing construction sector in the runup to the Global Financial Crisis (GFC) of 2007–09. The acceleration of the crisis in 2008 raised funding costs and froze foreign funding markets for Danish banks. The Danish central bank, the Danmarks Nationalbank (DN), responded by injecting liquidity and seeking to reassure bank counterparties about the soundness of the financial system. In October 2008, the DN established a swap agreement with the European Central Bank (ECB) under which it could receive up to EUR 12.0 billion (USD 16.8 billion) in exchange for Danish krone. The swap line helped the DN provide euro liquidity to financial institutions in Denmark without having a negative impact on its foreign exchange reserves. At its peak, the DN had EUR 5.9 billion in ECB swaps outstanding under the swap line. The ECB signed similar agreements during the GFC with the central banks of Japan, the United Kingdom, and several other European countries outside the euro area. These swap lines are now backed by standing agreements and have become an “integral part of the ECB stabilization toolkit” and enhance the ECB’s role as “regional lender-of-last-resort” as per a VoxEU column in 2021 by Albrizio et al. The DN also established a swap agreement with the Federal Reserve to receive up to USD 15.0 billion in dollars during the GFC. 
+
+**Keywords:** central bank currency swaps, Denmark, ECB, foreign reserves, liquidity 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering central bank swap line programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+Danish banks took substantial write-downs on loans to the slowing construction sector in the runup to the Global Financial Crisis (GFC) of 2007–09. The onset of the crisis raised funding costs and froze foreign funding markets for Danish banks, which led the Danmarks Nationalbank (DN) to inject liquidity and take other measures to reassure creditors. Denmark’s large commercial banks, comprising 80% of sector assets, were well capitalized, but its small and medium banks had narrower excess capital buffers and relied heavily on money market funding (IMF 2008). 
+
+Danish banks had become increasingly reliant on international capital markets by 2008 for their funding (Doughtery 2008). The shortage of dollars and euros, in the panic following the collapse of Lehman Brothers, led creditors to withdraw from foreign currency loans across Denmark, putting further depreciation pressure on the Danish krone (Jørgensen et al. 2011). 
+
+The European Central Bank (ECB) provided Denmark with access to EUR 12 billion (USD 16.8 billion)[3] through a currency swap facility to “improve liquidity in euro shortterm markets” (DN 2009b, 8; ECB 2008c). The ECB and DN’s swap agreement was disclosed to the public on October 27, 2008 (Brogger 2008b). 
+
+The DN held a total of nine auctions, with the last one taking place on August 21, 2009. At its peak, the DN had EUR 5.9 billion (DKK 43.9 billion)[4] in ECB swaps outstanding 
+
+## **Key Terms** 
+
+Purpose: To “improve liquidity in euro shortterm markets” without a “negative impact on its [DN’s] reserves” 
+
+||Participating<br>Parties|ECB, DN|
+|---|---|---|
+||Type of Swap|Temporary, bilateral,|
+|||unidirectional; later made|
+|||standing|
+||Currencies|Euro, Danish krone|
+||Involved<br>Launch Date|Oct. 27, 2008|
+||End Date|“As long as needed”; last<br>usage: Aug. 21, 2009|
+||Date of First Usage|Not disclosed|
+||Interest Rate and<br>Fees|Market rate + 75 bps|
+||Amount|EUR 12 billion|
+||Authorized||
+||Peak Usage|EUR 5.9 billion (2008–09)|
+||Amount and Date<br>Downstream Use/<br>Application of<br>Swap Funds<br>Outcomes|Liquidity to local banks<br>Helped calm FX markets and<br>provided a strong positive<br>signal; Danish banks were<br>provided access to euros.|
+||Notable Features|Strong signaling effect of ECB<br>facilities|
+
+
+
+under the swap line. Danish banks that were the DN’s monetary policy counterparties were allowed to participate in the euro auctions by submitting a maximum of three bids with amounts and rates. The highest bid rate was accepted first, followed by the others in 
+
+> 3 Per Yahoo Finance, EUR 1.00 = USD 1.40 as of December 31, 2008. 
+
+> 4 Per Yahoo Finance, EUR 1.00 = DKK 7.44 as of December 31, 2008. 
+
+
+descending order until the full amounts were allotted. All participants paid the same marginal rate, which was the lowest bid rate accepted, to protect banks with less market information. The minimum average rate for the euro auctions by the DN was 75 basis points higher than the market rate for swaps of the same maturity  (Jørgensen et al. 2011). 
+
+After the start of the GFC, the Fed set up similar foreign currency swap agreements to provide US dollar liquidity to several other central banks to address significant strains in dollar funding markets (Wiggins and Metrick 2016; ECB 2008a). According to an ECB memo, the ECB and the DN’s swap agreement was similar to the Fed’s swap agreements for dollar liquidity and a swap agreement that the ECB had established with the Swiss National Bank for Swiss franc liquidity (ECB 2008a). On September 24, 2008, the DN signed a temporary, reciprocal swap agreement with the Fed for USD 5 billion to address pressures in the shortterm dollar funding markets (Fed 2008). The DN used its swap lines with the Fed and ECB to provide foreign currency through auctions to all its monetary policy counterparties as summarized in Figure 1 (Jørgensen et al. 2011). As per Figure 1, the DN was able to provide a total of DKK 120 billion of foreign currency loans to Danish counterparties, comprising DKK 80 billion (USD 15 billion[5] ) in USD loans and DKK 40 billion in EUR loans at peak between December 2008 and January 2009. 
+
+[FIGURE id=vol5_iss1_11_f1 type=figure label="Figure 1" file=figure_1.png caption="Outstanding Loans (Euro and US Dollar) for DN’s Auctions"]
+### **Figure 1: Outstanding Loans (Euro and US Dollar) for DN’s Auctions**
+![Figure 1](assets/vol5_iss1_11/figure_1.png)
+
+
+_Source: Jørgensen et al. 2011, 121_ . 
+
+> 5 Per Yahoo Finance, USD 1.00 = DKK 5.33 as of December 31, 2008. 
+
+
+The DN was able to use its swap lines with the ECB and the Fed to provide euro and dollar loans to its domestic banks. The facilities improved euro and dollar funding availability for banks that did not have direct access to the ECB’s or Fed’s facilities, according to a paper by DN officials. The DN earned no income from the swap agreements with the ECB and Fed, and these facilities caused an increase in the DN’s balance sheet (Jørgensen et al. 2011). 
+
+## **Summary Evaluation** 
+
+The flight to liquidity had drawn flows away from the Danish krone and led to reserve outflows from Denmark (IMF 2008). The DN and ECB swap facility also “supported the [Danish] krone indirectly by calming the market for FX [foreign exchange] swaps” and providing a “strong positive signal” of ECB backing to the market, according to the head of the DN (Bernstein 2010, 5). The swaps facility was “very helpful in addressing the banks’ liquidity needs” without supporting the krone directly (Bernstein 2010, 5). 
+
+The DN held nine auctions on the ECB swap line between October 2008 and August 21, 2009. At its peak, the DN had EUR 5.9 billion in ECB swaps outstanding under the swap line (Jørgensen et al. 2011). The DN reported outstanding swaps of EUR 4 billion with the ECB at the end of 2008 (DN 2009b). The fact that banks never utilized the full EUR 12 billion allotment probably reflects the fact that some Danish banks had direct access to the ECB’s euro lending facilities; for banks without that access, the swaps improved the availability of euro funding, according to a paper by DN officials (Jørgensen et al. 2011). In contrast, the Fed’s first dollar auction was oversubscribed by three times. A total of 14 banks and mortgage credit institutions participated in the DN’s euro auctions, with the auctions witnessing concentrated participation, with 50% of the counterparties accounting for 97% of the total euro allotments. The DN’s euro lending was also found to be 75 basis points higher or more expensive than the collateralized market rate. 
+
+Overall, the ECB’s various swap lines “played a useful role in tensions in the euro area market” and was an example of a coordinated central bank response during the GFC (ECB 2014, 11). The IMF indicated that such FX swap lines were “liquidity easing measures,” which were in line with the “standard central bank lender-of-last-resort function” (IMF 2009, 45). Swap and repo lines were concluded to be an “integral part of the ECB stabilization toolkit” and enhanced its role as the “regional lender-of-last-resort” (Albrizio et al. 2021, 5). 
+
+
+
+[FIGURE id=vol5_iss1_11_f2 type=figure label="Exhibit 2" file=exhibit_2.png caption=""]
+![Exhibit 2](assets/vol5_iss1_11/exhibit_2.png)
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose and Type: The ECB entered a unilateral swap agreement with the Danmarks Nationalbank to improve liquidity in short-term euro markets without adversely affecting Denmark’s foreign reserves.** 
+
+The ECB and DN created a swap line in October 2008 to “improve liquidity in euro shortterm markets” (ECB 2008c). The draft memo of the ECB-DN agreement stated specifically that the DN did not intend to use the swap line for foreign currency interventions (ECB 2008a). 
+
+The general purpose of these facilities was to contain “global contagion and reduc[e] systemic risk and spillover effects on euro area markets” as a result of the impact of the burgeoning crisis on the non-euro area countries (ECB 2014, 75). The ECB was also looking to “support various measures taken by these central banks” (outside the euro area) (ECB 2009, 104). The ECB and DN reactivated the swap line in March 2020 and increased the maximum borrowing limit to EUR 24 billion from EUR 12 billion (ECB 2020). As per the Appendix, the DN now has a standing, non-reciprocal swap agreement with the ECB (ECB 2022b). 
+
+**2. Part of a Package: The ECB had initiated liquidity operations by October 2008, along with the DN introducing targeted interventions in the FX market and liquidity facilities for its domestic institutions.** 
+
+Between October and December 2008, the ECB  carried out a series of liquidity management actions, including streamlining rates on standing facilities,[6] conducting long-term refinancing operations (LTROs), reducing the credit threshold for eligible collateral, and providing US dollar and Swiss franc liquidity through swap agreements with the Federal Reserve and the Swiss National Bank, respectively (ECB 2009). 
+
+Denmark was the first EU nation to technically enter a recession in 2008 (Ibison 2008, 1), and it had recently engineered the takeover of two local banks, Roskilde Bank and Ebh Bank (Forbes 2008). In September 2008, the DN set up a swap line with the Fed for USD 15 billion to provide US dollar liquidity to Danish financial institutions (ECB 2008c). In October 2008, the DN introduced a temporary credit facility with a borrowing limit of DKK 800 million per entity to provide krone liquidity to domestic financial institutions (DN 2008c). The government, on October 5, 2008, also announced that it would provide blanket coverage of banks’ deposits and senior unsecured debt for a period of two years (Hoffner 2022). The Danish private bank consortium contributed DKK 35 billion of the funds for this guarantee, and the plan paid out DKK 12 billion by its close (Hoffner 2022). The guarantee explicitly excluded covered bonds, the main source of funding for mortgages in Denmark; the government launched a New Guarantee Scheme in early February 2009 that included covered bonds (McNamara et al. 2020). The central bank said that the guarantees helped 
+
+> 6 ECB’s Governing Council in 2007 launched two three-month operations to support the normalization of the money markets (ECB 2009, 99). 
+
+
+ensure market confidence in Danish banks (Bernstein 2010). The Danish government’s guarantee was followed shortly by similar programs by the US and other European governments. 
+
+The DN had intervened in the foreign exchange market for DKK 65 billion between September and October 2008 to stabilize the krone (DN 2009c). The DN was “obliged to intervene” in the FX market to maintain the euro/krone exchange rate within a  2.5% fluctuation band as a member of the ERM II (ECB 2008a). By October 2008, DN had raised the benchmark lending rate by 50 basis points to 5.5% to “defend the krone’s peg to the euro” (Brogger 2008a) (DN 2008a). 
+
+As the krone strengthened toward the end of October 2008, the DN was able to repurchase foreign currencies and build back its reserves. The DN’s balance sheet showed foreign reserves increasing to DKK 212 billion by the end of 2008, with DKK 108 billion in combined foreign exchange loans by the DN to banks and mortgage institutions utilizing the Fed and ECB swap lines (DN 2009b). 
+
+## **3. Legal Authority: The DN operated under the Danmarks Nationalbank Act of 1936 and the Danish Act on Foreign Exchange of 1988.** 
+
+The DN had legal authority under the Danmarks Nationalbank Act of 1936, which stipulates price stability, a secure payments system, and financial stability as the key objectives of the central bank. Section 2(3) of the Danish Act on Foreign Exchange of 1988 states that foreign exchange policy for Denmark is decided after negotiations between the DN and the Royal Bank Commissioner.[7] Denmark’s fixed exchange rate policy decision was agreed to at the informal meeting in Vienna of the Ecofin Council in September 1998 (DN 2009b). 
+
+The DN was acting under Article 1 of the Law on Danmarks Nationalbank. The ECB was functioning under Article 105(5) of the Treaty establishing the European Community and Article 23 of the Statute of the European System of Central Banks (ECB 2008b). 
+
+## **4. Governance: The ECB Governing Council had final approval of the disclosed swap agreement, with the DN tasked with initiating draws on the swap line.** 
+
+The Governing Council of the ECB approved the establishment of the swap line requested by the DN (ECB 2008a). All swap transactions required the prior approval of the ECB and the DN (ECB 2008b). According to an ECB memo, the ECB and the DN’s swap agreement was similar in purposes to the Fed’s swap facilities with major European central banks for dollar liquidity and the ECB/Swiss National Bank (SNB) agreement for Swiss franc liquidity. The DN also had a swap agreement with the Fed to access dollar liquidity, with a maximum size of USD 15 billion (ECB 2008a). 
+
+> 7 The Royal Bank Commissioner is the Minister for Economic and Business Affairs in Denmark, representing the formal link between the Danish government and the DN (DN 2009a). 
+
+
+## **5. Administration: The DN was responsible for initiating the swap draw. An ECB Executive Board member would oversee the administration of the swap agreement.** 
+
+The draft memo for the ECB and DN’s swap agreement was prepared by the ECB’s Governing Council, and it was discussed by the market operations, legal, and risk management teams at both central banks. The ECB’s Executive Council was tasked with agreeing to the swap, deciding on the size of the agreement, delegating responsibility if approved, and deciding on the public disclosure request by the DN. The DN was tasked with initiating the request for each swap draw (ECB 2008a). Each swap draw was for a maximum maturity of six months (ECB 2008b). 
+
+The DN was to create a krone-denominated account for the ECB to be used to execute the swap agreement and for operations under the ERM II agreement. The DN was expected to provide the ECB with an account of any changes to the account and an annual report (ECB 2008b). 
+
+The ECB’s October 19 memo regarding the possibility of the swap stated that if the agreement was signed, “it would be advisable, similarly to what was decided for other swap agreements, to also decide to delegate responsibility for implementation decisions to the Executive Board member to whom the DG/M [Deputy General Manager] reports.” This would include decisions to authorize drawdowns under the swap agreement. If any euros were drawn by the DN through the swap line, the foreign exchange change would be accounted for by the ECB’s liquidity management (ECB 2008a). 
+
+At its peak, the DN had EUR 5.9 billion in ECB swaps outstanding under the swap line. Financial institutions that were the DN’s monetary policy counterparties were allowed to participate in the euro auctions by submitting a maximum of three bids with amount and rates. The highest bid rate was accepted first, followed by the others in descending order until the full bid amounts were allotted. All participants paid the same marginal rate, which was the lowest bid rate accepted, to protect banks with lower market information (Jørgensen et al. 2011). 
+
+## **6. Communication: The DN announced the agreement on October 27, and provided further details in its monetary policy reports.** 
+
+The ECB’s October 19 memo states that the DN had a preference to disclose the swap agreement publicly once it was finalized and agreed upon. There was also an indication that such a public disclosure may invite requests from other countries for a similar swap agreement (ECB 2008a). The ECB’s press release via email on October 27, 2008, disclosed the currency facility with the DN (Brogger 2008b). The agreement was signed by DN Governor Bernstein on October 28, 2008, and by ECB’s member of the executive board on October 29, 2008 (ECB DN 2008b). On October 28, 2008, the DN announced a reciprocal swap line with the ECB for EUR 12 billion and was to “remain in place as long as needed” (DN 2008b). 
+
+
+The DN provided further information about its swap lines with the ECB and the Fed in its monetary policy reports in 2009 (DN 2009). 
+
+In Denmark, the currency crisis reignited debate amongst political party leaders on the pros and cons of Denmark joining the common euro currency. Danish leaders (including PM Rasmussen) took the opportunity to promote the need to “jettison the krone in favor of the euro” (Doughtery 2008, 2). 
+
+## **7. Eligible Institutions: The DN was the only institution eligible for this swap agreement.** 
+
+The DN initiated the request to establish a swap agreement from the ECB (ECB 2008a). The DN was the only institution eligible to borrow under the arrangement, receiving euros in exchange for krone. It acted as an intermediary between the ECB and Danish financial institutions that participated in its euro auctions (DN 2009a). 
+
+## **8. Size: The swap agreement was for a maximum amount of EUR 12 billion.** 
+
+The swap agreement provided that the DN could borrow up to EUR 12 billion in exchange for a deposit of krone in a similar amount and for “as long as needed” (ECB 2008c). At its peak, the DN had EUR 5.9 billion in ECB swaps outstanding under the swap line (Jørgensen et al. 2011, 128, 131). The DN reported outstanding swaps of DKK 28.8 billion (EUR 4 billion) with the ECB at the end of 2008 (DN 2009b). 
+
+The DN had a similar agreement with the Federal Reserve for USD 15 billion (ECB 2008a). 
+
+In March 2020, the ECB-DN swap line was increased to EUR 24 billion and reactivated because of the COVID-19 pandemic (ECB 2020). 
+
+**9. Process for Utilizing the Swap Agreement: A member of the ECB’s Executive Board was likely delegated the power to approve a draw under the swap agreement.** 
+
+Draws under the swap would be initiated by the DN under the terms of the agreement. The ECB’s term sheet memo stated that a member of the ECB’s Executive Board would likely be delegated the responsibility for implementing the swap agreement and approving each draw under the agreement. According to an ECB memo, the ECB and the DN’s swap agreement was similar in purposes to the Fed’s swap agreements for dollar liquidity and the ECB-SNB agreement for Swiss franc liquidity (ECB 2008a). 
+
+## **10. Downstream Use of Borrowed Funds: The DN used the swap line to provide foreign currency loans to its domestic banks.** 
+
+The DN was able to use its swap lines with the ECB and the Fed to provide loans of foreign currency to its domestic banks (Jørgensen et al. 2011). The EUR 12 billion swap limit was very helpful in addressing the liquidity needs of Danish banks, according to the head of the DN (Bernstein 2010). The announcement of the ECB’s swap lines were also successful in reducing the deviation from the covered interest-rate parity between the krone and euro by 
+
+
+43 basis points (Jørgensen et al. 2011). As per Figure 1, the DN was able to provide a total of DKK 120 billion of foreign currency loans to Danish counterparties, comprising DKK 80 billion (USD 15 billion[8] ) in USD loans and DKK 40 billion in EUR loans at peak between December 2008 and January 2009. 
+
+## **11. Duration: The agreement set the maximum maturity of swap draws at six months; the maturity of each swap draw was not disclosed.** 
+
+Swap draws could have maturities up to six months (ECB 2008b). The maturity of each swap draw was not disclosed. 
+
+## **12. Rates and Fees: The DN’s euro auctions were priced on average 75 basis points higher than the market rate for swaps of similar maturity.** 
+
+The DN was to not charge the ECB any fees for maintaining the krone-denominated account or pay any interest on this amount to the ECB. The euro-krone exchange rate would be mutually agreed on by the parties on each purchase (ECB 2008b). 
+
+The interest rate paid by the DN on its euro holdings was redacted from the disclosed agreement and calculated on a 360-day basis, including the value date but excluding the maturity date (ECB 2008b). 
+
+The DN’s net interest costs for 2008 were not affected by the ECB and Fed swap facilities. The DN described itself as an “intermediary” between the ECB and Fed, as lenders, and Danish financial institutions, as borrowers. On the maturity of a swap draw, the DN forwarded banks’ repayments and interest payments to the ECB and the Fed (DN 2009a). In its 2008 annual report, the DN reported DKK 467.2 million interest payable to the ECB and the Fed, offset by a corresponding amount of interest received on foreign exchange loans to domestic banks (DN 2009b). 
+
+The minimum average rate for the euro auctions by the DN was 75 basis points higher than the market rate for swaps of the same maturity, according to a paper by DN officials (Jørgensen et al. 2011). 
+
+## **13. Balance Sheet Protection: The ECB had separate accounting norms to reflect any changes to its balance sheet before and after activation of the swap line.** 
+
+If the DN were to default on any leg of the swap transaction, the shortfall would be rolled over into a new overnight swap transaction, and the DN would credit the krone equivalent of the shortfall to the ECB’s account with the DN (ECB 2008b). The ECB was authorized to invoke such a rollover swap transaction on any given day to cover a shortfall in maturity payments (ECB 2008b). The interest rate and exchange rate for the rollover transaction would be determined mutually by the two parties. 
+
+> 8 Per Yahoo Finance, USD 1.00 = DKK 5.33 as of December 31, 2008. 
+
+
+As part of the swap agreement with the DN, the balance sheet implications for the ECB were stated to be similar to past agreements. If the swap line was not activated, the ECB did not need to record an “off-balance-sheet item.” If the swap line was activated, the increase in foreign exchange reserves would be reflected on the ECB’s balance sheet and the forward leg of the transaction would be reflected off-balance-sheet. Here is the full text of this disclosure: 
+
+The effect of the arrangement on the balance sheet of the ECB would be similar to that of other swap arrangements executed in the past. As long as the arrangement is not activated, there would be no impact for the ECB balance sheet and no requirement to record the arrangement as an off-balance sheet item. In the case of a drawing under the arrangement, however, the ECB’s foreign reserve holdings, as recorded in the balance sheet, would increase and the net claims within the Eurosystem would be impacted by the spot leg of the euro side of the transaction. The forward leg would be recorded off balance sheet. (ECB 2008a, 2) 
+
+The draft memo also provided for an alternative facility to be used, prior to activating the swap line, called the Very Short-Term Financing (VSTF) facility. As per the ERM II manual of procedures, foreign exchange swaps were to be considered the “fourth line of defense” to maintain the central target rate for a currency on an “ad hoc basis” or in “very exceptional circumstances.” The DN had a ceiling of EUR 670 million from the use of this VSTF facility (ECB 2008a). There is no record of the DN using this facility to draw euros. 
+
+## **14. Other Restrictions: The ECB said the DN would not use the swap line to carry out foreign exchange interventions.** 
+
+The ECB’s Executive Board memo regarding the Denmark swap agreement stated that “the swap line is not requested from the Danmarks Nationalbank to carry out interventions” (ECB 2008a, 1). 
+
+## **15. Other Options: The DN had signed a swap agreement with the Fed to address short-term liquidity needs.** 
+
+On September 24, 2008, the DN signed a temporary, reciprocal swap agreement with the Fed for USD 5 billion to address pressures in the short-term dollar funding markets (Fed 2008). As per Figure 1, the DN was able to provide DKK 80 billion (USD 15 billion[9] ) in USD loans at peak to Danish counterparties between December 2008 and January 2009. 
+
+## **16. Exit Strategy: DN officials described the euro swap facility as temporary, although the agreement specified no expiration date, and the parties said the agreement would last as long as necessary.** 
+
+DN officials described the swap agreement as temporary in official publications (DN 2009c). However, the agreement identified no specific time limit and was to remain in place “as long 
+
+> 9 Per Yahoo Finance, USD 1.00 = DKK 5.33 as of December 31, 2008. 
+
+
+as needed” (ECB 2008b). In contrast, the DN’s agreement with the Fed had an expiration date. That facility expired on February 1, 2010, after having been extended twice (DN 2009c). 
+
+The euro swap agreement could be unilaterally terminated with one month’s prior notice (ECB 2008b). Each swap transaction could also be terminated or renewed with two days’ prior notice (ECB 2008b). 
+
+The euro swap line was reactivated on March 20, 2022, to provide euro liquidity to Danish financial institutions, with an increase in the transaction size limit from EUR 12 billion to EUR 24 billion (ECB 2020). The ECB website, at the time of writing, lists the swap line as a standing agreement (ECB 2022a). 
+
+
+## **References and Key Program Documents** 
+
+## **Implementation Documents** 
+
+(ECB 2008a) European Central Bank (ECB). 2008a. “Possible Swap Agreement between the ECB and the Danmarks Nationalbank.” Memo, October 19, 2008. _Memo by the ECB of the swap request by the DN_ . https://ypfs.som.yale.edu/node/22367 
+
+(ECB 2008b) European Central Bank (ECB). 2008b. “Euro Danish Swap Agreement,” October 28, 2008. _Swap agreement between the ECB and DN_ . https://ypfs.som.yale.edu/node/22370 
+
+(ECB 2020) European Central Bank (ECB). 2020. “ECB and Danmarks Nationalbank Reactivate Swap Line to Provide Euro Liquidity,” March 20, 2020. 
+
+_Press release about the swap line between the ECB and DN during the covid crisis_ . https://ypfs.som.yale.edu/node/22368 
+
+## **Media Stories** 
+
+(Brogger 2008a) Brogger, Tasneem. 2008a. “Denmark Raises Main Rate Half a Point to 5.5% to Boost Krone.” _Bloomberg News_ , October 24, 2008. _Central bank’s rate hike to defend its currency_ . https://blinks.bloomberg.com/news/stories/K98EM50D9L35 
+
+(Brogger 2008b) Brogger, Tasneem. 2008b. “Denmark Strikes $15 Billion Swap Agreement With ECB.” _Bloomberg News_ , October 27, 2008. 
+
+_Press coverage of the DNB’s swap line with the ECB_ . https://blinks.bloomberg.com/news/stories/K9EA8I0UQVII 
+
+(Doughtery 2008) Doughtery, Carter. 2008. “Denmark Is Rethinking Its Spurning of the Euro - Oct 2008.” _New York Times_ , October 28, 2008. _Article describing Denmark’s thinking behind euro adoption_ . https://ypfs.som.yale.edu/node/22372 
+
+(Forbes 2008) Forbes. 2008. “Banking Bailout, Danish Style,” September 22, 2008. _Article describing the second bailout by the DN during the GFC_ . https://ypfs.som.yale.edu/node/22743 
+
+(Ibison 2008) Ibison, David. 2008. “Danes Save Bank to Secure Financial Stability.” _Financial Times_ , August 25, 2008. _Report on the rescue of Roskilde Bank_ . https://ypfs.som.yale.edu/node/22371 
+
+
+## **Press Releases/Announcements** 
+
+(Bernstein 2010) Bernstein, Nils. 2010. “The Danish Krone during the Crisis,” March 22, 2010. 
+
+_Speech by Nils Bernstein, Governor of the National Bank of Denmark, at the Copenhagen Business School._ 
+
+https://ypfs.som.yale.edu/node/22373 
+
+(DN 2008a) Danmarks Nationalbank (DN). 2008a. “Interest Rate Increase,” October 24, 2008. 
+
+_Notification of the DN’s increase in rates to defend their currency_ . https://ypfs.som.yale.edu/node/22374 
+
+(DN 2008b) Danmarks Nationalbank (DN). 2008b. “Danmarks Nationalbank and European Central Bank Cooperation to Provide Euro Liquidity.” Press release, October 27, 2008. _Press release on DN’s cooperation with the ECB_ . https://ypfs.som.yale.edu/node/22375 
+
+(ECB 2008c) European Central Bank (ECB). 2008c. “Danmarks Nationalbank and European Central Bank Cooperation to Provide Euro Liquidity.” Press release, October 27, 2008. _Press release of the ECB and DN’s swap line_ . https://ypfs.som.yale.edu/node/22369 
+
+(ECB 2022a) European Central Bank (ECB). 2022a. “Central Bank Liquidity Lines,” 2022. _Web page that details ECB’s existing swap and repo lines_ . https://ypfs.som.yale.edu/node/22219 
+
+(ECB 2022b) European Central Bank (ECB). 2022b. “Central Bank Liquidity Lines,” December. 
+
+_List of ECB’s latest swap and repo lines as established tools to provide liquidity_ . https://ypfs.som.yale.edu/node/22655/ 
+
+## **Reports/Assessments** 
+
+(DN 2008c) Danmarks Nationalbank (DN). 2008c. “Monetary Review 4Q 2008,” December 5, 2008. 
+
+_DN’s monetary review for the fourth quarter in 2008_ . https://ypfs.som.yale.edu/node/22376 
+
+(DN 2009a) Danmarks Nationalbank (DN). 2009a. “Monetary Review 3Q 2009,” 2009. _DN’s monetary review for the third quarter in 2009_ . https://ypfs.som.yale.edu/node/22728/ 
+
+(DN 2009b) Danmarks Nationalbank (DN). 2009b. “Reports and Accounts 2008,” March 2, 2009. 
+
+_DNB’s financial statements for the full year 2008_ . https://ypfs.som.yale.edu/node/22388 
+
+
+(DN 2009c) Danmarks Nationalbank, ed. (DN). 2009c. _Monetary Policy in Denmark 2009_ . 3rd ed. Copenhagen. _Document describing the monetary policy of the DN in third quarter 2009_ . https://ypfs.som.yale.edu/node/22378 
+
+(ECB 2009) European Central Bank (ECB). 2009. “ECB Annual Report 2008,” 2009. _Annual report for 2008_ . https://ypfs.som.yale.edu/node/22262/ 
+
+(ECB 2014) European Central Bank (ECB). 2014. “Experience with Foreign Currency Liquidity Providing Central Banks Swaps,” April 14, 2014. _Article in the ECB monthly bulletin about swap programs with other central banks_ . https://ypfs.som.yale.edu/node/2598/ 
+
+(Fed 2008) Federal Reserve (Fed). 2008. “Federal Reserve and Other Central Banks Announce Additional Measures to Address Elevated Pressures in Funding Markets.” Press Release, September 24, 2008. 
+
+_Press release disclosing the Federal Reserve’s swap agreements with global central banks to address pressures in the short term dollar markets_ . https://ypfs.som.yale.edu/node/21671/ 
+
+(IMF 2008) International Monetary Fund (IMF). 2008. “Denmark: 2008 Article IV Consultation—Staff Report; Staff Statement.” IMF Country Report No. 08/379, 2008. _Report assessing key risks facing the global financial system with a view to identifying those that represent systemic vulnerabilities_ . 
+
+https://ypfs.som.yale.edu/node/21945/ 
+
+(Jørgensen et al. 2011) Jørgensen, Anders, Paul Lassenius Kramp, Carina Moselund Jensen, and Lars Risbjerg. 2011. “The Money and Foreign-Exchange Markets during the Crisis.” _Monetary Review 2nd Quarter 2011_ , 68. 
+
+_Review of Denmark’s crisis experience and its response_ . https://ypfs.som.yale.edu/node/22392 
+
+## **Key Academic Papers** 
+
+(Albrizio et al. 2021) Albrizio, Silvia, Iván Kataryniuk, Luis Molina, and Jan Schaffer. 2021. “The Effectiveness of ECB Euro Liquidity Lines,” December 21, 2021. _Study to assess the effectiveness of the ECB’s liquidity lines_ . https://ypfs.som.yale.edu/node/22377 
+
+(Hoffner 2022) Hoffner, Benjamin. 2022. “Denmark: General Guarantee Scheme, 2008.” _Journal of Financial Crises_ 4, no. 4, 2022. 
+
+_Case study exploring scheme to fully insure deposits and other senior liabilities of Danish banks_ . 
+
+https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1442&context=journal-offinancial-crises 
+
+
+(IMF 2009) International Monetary Fund (IMF). 2009. “Global Financial Stability Report 2009,” 2009. 
+
+_Responding to the Financial Crisis and Measuring Systemic Risk_ . https://ypfs.som.yale.edu/node/22389 
+
+(McNamara et al. 2020) McNamara, Christian, Greg Feldberg, David Tam, and Andrew Metrick. 2020. “Bank Debt Guarantee Programs.” _Journal of Financial Crises_ 2, no. 3, 2020. _Survey of bank guarantee programs after the GFC_ . 
+
+https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1121&context=journal-offinancial-crises 
+
+(Wiggins and Metrick 2016) Wiggins, Rosalind Z., and Andrew Metrick. 2016. “The Federal Reserve’s Financial Crisis Response C: Providing US Dollars to Foreign Central Banks.” _SSRN Electronic Journal_ . 
+
+_Article describing how the Federal Reserve worked with global central banks to provide dollar liquidity_ . 
+
+http://www.ssrn.com/abstract=2723598 
+
+
+## **Appendix** 
+
+[FIGURE id=vol5_iss1_11_f3 type=diagram label="Figure 2" file=figure_2.png caption="ECB’s Network of Swap Lines (as of December 2022)"]
+### **Figure 2: ECB’s Network of Swap Lines (as of December 2022)**
+![Figure 2](assets/vol5_iss1_11/figure_2.png)
+
+
+_Source: ECB 2022b._ 
+
+Copyright 2023 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

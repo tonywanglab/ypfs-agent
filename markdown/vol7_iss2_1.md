@@ -1,0 +1,719 @@
+## Survey of Bank Holidays and Fund Suspensions[1] 
+
+_Rosalind Z. Wiggins,_[2] _Owen Heaphy,_[3] _Anmol Makhija,_[4] _Stella Schaefer-Brown,_[5] _Greg Feldberg,_[6] _and Andrew Metrick_[7] 
+
+Yale Program on Financial Stability Survey 
+
+June 25, 2025 
+
+## **Abstract** 
+
+In this paper, we analyze seven case studies involving bank holidays and two involving mutual fund suspensions produced by the Yale Program on Financial Stability. Our main purpose is to assist policymakers who are considering utilizing a bank holiday in designing the most effective program as efficiently as possible. We find that a bank holiday may be most useful when designing and implementing a comprehensive remedy to an underlying problem distressing banks, particularly when an exogenous shock rather than balance sheet weaknesses is the cause of general distress to the system. A holiday is also useful to “ringfence” one or more banks and differentiate them from banks that are not distressed. In either case, the holiday only pauses the run. For a successful outcome, and to avoid a restart of runs, policymakers should be prepared to implement corrective actions to address the fundamental problem and commit to reopening only viable banks. However, we also conclude that, given the nature of bank holidays and depositor expectations regarding access to runnable assets, in most cases, the utility of a bank holiday is limited by the high risk of contagion and depositor behavior. For the banking sector, authorities are best advised to establish credible ex ante deposit insurance, effectively communicated and bolstered by a rigorous bank supervisory regime and a tailored resolution process, to prevent bank runs from occurring in the first place. We also find that suspensions of mutual fund investors’ withdrawals can function similarly to bank holidays and carry a stigma that may lead administrators to avoid implementing them. 
+
+**Keywords:** bank holidays, capital, deposit insurance, emergency liquidity, gates, restructuring, suspensions, withdrawal restrictions 
+
+> 1 This survey reviews a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project case studies considering bank holidays and fund suspensions. The cases underlying the survey are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2. 
+
+> 2 Director, Global Financial Crisis Project, and Lecturer in Management, YPFS, Yale School of Management. 
+
+> 3 Research Associate, YPFS, Yale School of Management. 
+
+- 4 Former Research Associate, YPFS, Yale School of Management. 
+
+- 5 Senior Research Associate, YPFS, Yale School of Management. 
+
+- 6 Research Scholar and Director of Research, YPFS, Yale School of Management. 
+
+> 7 Janet L. Yellen Professor of Finance and Management and YPFS Program Director, Yale School of Management. 
+
+
+Introductory Note: This survey is an analysis of important considerations for policymakers seeking to establish a bank holiday or mutual fund suspension program. It is based on insights derived from case studies of nine specific bank holiday and fund suspension programs the Yale Program on Financial Stability has completed and from the existing literature on the topic. While this survey can help inform a decision about whether or not to establish a bank holiday or fund suspension program, our main purpose is to assist policymakers who have already made that decision in designing the most effective program possible. In analyzing the programs that are the focus of this survey, we used a color-coded system to highlight certain particularly noteworthy design features. 
+
+|**Treatment**|**Meaning**|
+|---|---|
+|BLUE – INTERESTING|A design feature that is interesting and that<br>policymakers may want to consider. Typically,<br>this determination is based on the observation<br>that the design feature involves a unique and<br>potentially promising way of addressing a<br>challenge common to this type of program that<br>may not be obvious. Less commonly, empirical<br>evidence or a consensus will indicate that the<br>design feature was effective in this context, in<br>which case we will describe that evidence or<br>consensus.|
+|YELLOW – CAUTION INDICATED|A design feature that policymakers should<br>exercise caution in considering. Typically, this<br>determination is based on the observation that<br>the designers of the feature later made<br>significant changes to the feature with the<br>intention of improving the program. Less<br>commonly, empirical evidence or a consensus<br>will indicate that the design feature was<br>ineffective in this context, in which case we will<br>describe that evidence or consensus.|
+|_FOOTNOTE IN ITALICS_|Where the reason that a given design feature<br>has been highlighted is not apparent from the<br>text, it is accompanied by an italicized footnote<br>that explains why we chose to highlight it.<br>Where necessary, these footnotes will be used<br>to identify any considerations that should be<br>kept in mind when thinking about the feature.|
+
+
+
+This highlighting is not intended to be dispositive. The fact that a design feature is not highlighted or is highlighted yellow does not mean that it should not be considered or that it will never be effective under any circumstances. Similarly, the fact that a design feature is not highlighted or is highlighted blue does not mean that it should always be considered or will be effective under all circumstances. The highlighting is our subjective attempt to guide 
+
+
+readers toward certain design features that (1) may not be obvious but are worth considering or (2) require caution. 
+
+
+## **Introduction** 
+
+In a banking crisis, depositors may rush to withdraw their money if they lose confidence in the viability of the banks and there is no credible government insurance. In a classic bank run, the bank may be on the verge of nonviability[8] within days. If depositors believe that other banks also are unstable, the run can spread throughout the system. Facing continued runs, policymakers provide liquidity and reassurance, which may work to calm the situation. But if it does not, policymakers may have few options and, in extreme situations, may impose a bank holiday to stop the run and buy time to address the underlying problem. 
+
+In this survey, we review seven case studies involving bank holidays, defined as an almost total stoppage of bank operations affecting one or more banks. (We will sometimes refer to the latter case as a “broad-based” holiday.) The cases we cover occurred between 1933 and 2020 and involved six countries: the United States, Argentina, Cyprus, Ecuador, Greece, and India. (See Figure 1 for a complete listing of the cases surveyed.) One of the seven cases considered a moratorium on an individual bank (India–Yes Bank 2020); one involved banks and credit unions within a single American state (US–Rhode Island 1991); and all others concerned broad-based holidays impacting most of a country’s banking system. Of this latter group, one case study addressed the national holiday imposed in the United States during the Great Depression (US 1933), and the others examined emerging-market countries that imposed bank holidays in recent decades (Argentina 2001, Cyprus 2013, Ecuador 1999, and Greece 2015). Apart from Ecuador 1999 and US–Rhode Island 1991, the bank holidays surveyed were motivated by exogenous shocks that did not originate in the banking systems. 
+
+We also review two cases involving mutual funds that suspended investor redemptions. Like depositors at banks, investors in mutual funds may rush to redeem their shares if they believe their funds are at risk. Funds, however, are subject to different regulatory regimes than banks; they typically do not benefit from a lender of last resort or any kind of deposit insurance. Notably, while a governing authority or regulator implements bank holidays, the fund administrator itself may initiate fund suspensions (a total halt to redemptions) or gates (a restriction on the amount that can be withdrawn); an authority typically must approve the action. In a crisis, a gate may serve a purpose similar to a bank holiday, pausing redemptions so that a fund may evaluate its situation and apply corrective measures (Lestz 2011). Funds may also use gates in times of stress to avoid a suspension.[9] 
+
+> 8 In most cases, officials considered more than the literal, or accounting, solvency of a bank when assessing whether a bank could reopen. Instead, they tended to evaluate the importance of the institutions as a going concern, with consideration given to the effect of future policy interventions. For this survey, we use “solvency” when policymakers are specifically accounting whether an institution has assets in excess of its liabilities and “viability” when policymakers are making more general judgments about the soundness of a financial institution. For a discussion of the viability versus solvency distinction, see Kelly et al. (2025). 
+
+> 9 During noncrisis times, gates are useful to: 
+
+(1) reduce the risk of over-concentration in certain investments (due to sales of more liquid investments to raise cash while retaining less liquid investments that cannot be easily sold) by providing limits on overall redemptions without having to resort to a suspension; (2) permit investors to be relatively assured of redeeming a certain proportion of their investment on a given redemption date . . .; and (3) reduce the 
+
+
+[FIGURE id=vol7_iss2_1_f1 type=figure page=7 label="Figure 1" file=figure_1.png caption="Case Studies, Abbreviated Names, and Type of Holiday or Suspension"]
+### **Figure 1: Case Studies, Abbreviated Names, and Type of Holiday or Suspension**
+
+||**Short-form**|**Type of Holiday or**||
+|---|---|---|---|
+|**Case Name**|**Case Name**|**Suspension**|**Reference**|
+|||||
+|**Bank Holidays **||||
+|Argentina: National Bank<br>Holidays, 2001|Argentina 2001|Broad-Based|Heaphy (2025)|
+|Cyprus: National Bank<br>Holiday, 2013|Cyprus 2013|Broad-Based|Schaefer-Brown (2025a)|
+|Ecuador: National Bank<br>Holiday, 1999|Ecuador 1999|Broad-Based|Decker (2025)|
+|Greece: National Bank<br>Holiday, 2015|Greece 2015|Broad-Based|Schaefer-Brown (2025b)|
+|India: Yes Bank<br>Moratorium, 2020|India–Yes Bank 2020|Ad Hoc|Gupta (2025)|
+|United States: National Bank<br>Holiday, 1933|US 1933|Broad-Based|George (2025)|
+|United States: Rhode Island<br>Limited Bank Holiday, 1991|US–Rhode Island 1991|Broad-Based, Limited|George and Alden (2025)|
+|||||
+|**Fund Suspensions**||||
+|Argentina: Mutual Fund<br>Suspensions, 2019|Argentina–Funds 2019|<br>Broad-Based,<br>Voluntary|Heaphy and Makhija<br>(2025)|
+|United States: Reserve Primary<br>Fund Suspension, 2008|US–Reserve Fund<br>2008|Ad Hoc, Voluntary|Makhija (2025)|
+
+
+
+_Source: Authors’ analysis._ 
+
+In US–Reserve Fund 2008, the fund “broke the buck” (meaning its net asset value, or NAV, fell below 99.5 cents per share) after sustaining losses when the investment bank Lehman Brothers failed. In response, the fund’s managers delayed processing redemption requests and rejected new redemptions (Gardephe 2010). It then liquidated without reopening. In Argentina–Funds 2019, several funds suspended redemptions when they were unable to implement government debt restructuring that applied to institutional, but not individual, investors. The fund association worked with the regulator to swiftly craft a solution that enabled most of the funds to lift their suspensions within two weeks. 
+
+## **A Note about Deposit Insurance** 
+
+Although the facts of our cases do not exactly illustrate this point—none of our cases involved banks that had credible deposit insurance in place ex ante—an extensive body of literature has established that credible preexisting deposit insurance can help prevent bank runs and thus the need for bank holidays. Introducing or expanding insurance during a crisis 
+
+> ‘piggy bank’ or ‘ATM’ effect, that a more liquid fund might be subject to substantial redemption requests, because it has better liquidity terms. (Lestz 2011) 
+
+
+can also make bank holidays more effective. For these reasons, most developed economies now mandate that banks carry deposit insurance. During crises, countries have often been able to avoid bank holidays by introducing a new deposit insurance scheme or expanding an existing one. An earlier New Bagehot survey of account guarantees describes such programs (for more information, see McNamara, Kulam, et al. [2022]). 
+
+Six of our seven bank cases involved a preexisting deposit insurance scheme. In five of those cases—Argentina 2001, Ecuador 1999, Cyprus 2013, Greece 2015, and US–Rhode Island 1991—that scheme was not perceived as credible, and runs persisted, resulting in the governments’ declaring a bank holiday. In US–Rhode Island 1991, the failure of the statechartered, privately operated deposit insurance scheme led the state to declare a bank holiday regarding 45 affected banks and credit unions; they were legally prohibited from operating without deposit insurance. The state allowed institutions to reopen only once they qualified for federal insurance. Banks that failed to meet federal standards did not reopen. 
+
+In India–Yes Bank 2020, the government increased deposit insurance by 400% in the weeks before the central bank imposed a moratorium on Yes Bank and took it into administration. Thanks in part to that preemptive measure, runs on other banks were minimal. 
+
+In contrast, in the US 1933 case, universal deposit insurance was not in place when the national bank holiday was imposed. However, as part of its response to widespread bank failures, the government de facto guaranteed deposits of all banks that reopened. The reopening succeeded: depositor confidence returned, and funds flowed back into banks. Within months, Congress created the Federal Deposit Insurance Corporation (FDIC), granting it both insurance and resolution powers.[10] This institutional framework stabilized the system and virtually eliminated deposit runs. The US government has not declared a bank holiday since the 1930s. 
+
+Deposit insurance is typically capped so it covers only retail or small business deposit accounts at banks. Larger deposits and runnable liabilities at nonbanks are not covered and could pose systemic risks. For example, nondeposit investors ran on US mutual funds during the Global Financial Crisis of 2007–09 (GFC) (see US–Reserve Fund 2008), and uninsured bank depositors ran on regional US banks in March 2023. In both cases, the US government guaranteed investors or depositors (Fed 2023). 
+
+Given the strong preventive effect of such programs, policymakers should establish and fund deposit insurance at credible levels with adequate terms before a crisis, and they should effectively communicate such programs and their limits to the public. Overpromising, as occurred with a loan guarantee in Ecuador 1999, may cause the public to question whether the government can make good on its commitment or force the government to renege, voiding the mitigating effect. 
+
+> 10 The FDIC was established in 1933 with coverage up to USD 2,500 per account. Congress has raised the threshold over time including an increase during the Global Financial Crisis from USD 100,000 to USD 250,000, where it now stands. 
+
+
+## **A Note about Emerging-Market Economies** 
+
+Four of our banking cases involved emerging-market economies (EMEs) (Argentina 2001, Cyprus 2013, Ecuador 1999, and Greece 2015). They faced heightened challenges stemming from the balance-of-payment, sovereign debt, and external funding issues that triggered their bank holidays. Some countries established capital controls to address their currency issues. 
+
+EMEs also may lack credible deposit insurance or effective bank supervision and resolution frameworks. In some cases, dissonance among governmental agencies (Ecuador 1999 and Cyprus 2013) or lack of judicial validation (Argentina 2001 and Ecuador 1999) can undermine the authorities’ credibility and disrupt their bank holiday strategies, fueling further runs. While governments may face resource constraints for many reasons, we recommend that they work to establish credible deposit insurance, strengthen bank regulatory and resolution infrastructure and improve interagency coordination before a banking crisis so that a bank holiday may be avoided or outcomes may be improved. 
+
+Figure 2 summarizes key findings and recommendations from the cases surveyed. For a more comprehensive discussion, see the Conclusion. 
+
+[FIGURE id=vol7_iss2_1_f2 type=figure page=9 label="Figure 2" file=figure_2.png caption="Summary of Key Findings and Recommendations"]
+### **Figure 2: Summary of Key Findings and Recommendations**
+
+|**Recommendation**||
+|---|---|
+||**Findings **|
+|Buy Time|A bank holiday is a high-risk tool that can be an effective “measure of last<br>resort” in extreme situations to buy time to enable a comprehensive remedy.|
+|Apply a Coordinated and<br>Comprehensive Remedy|The primary benefit of a holiday is that it allows for the implementation of a<br>coordinated response to the underlying distress.|
+|Reopen Only Viable Banks|Authorities should take steps to reopen only banks that are viable—potentially<br>by injecting new capital—so that runs do not restart.|
+|Manage Withdrawal<br>Restrictions|If authorities cannot expeditiously apply corrective actions to resolve the<br>underlying distress, reopening the banks with withdrawal restrictions enables<br>control of banking activity until a full resolution can be achieved.|
+|Strengthen the Banking<br>System Ex Ante|Policymakers should take steps in advance to create stable banks and<br>regulatory infrastructure, mitigate runs, and avoid the need for a bank holiday.|
+
+
+
+_Source: Authors’ analysis._ 
+
+We discuss 12 Key Design Decisions that are critical in understanding and evaluating bank holidays and fund suspensions. 
+
+
+## **Key Design Decisions** 
+
+## **1. Purpose: What was the purpose of the bank holiday or fund suspension or gate?** 
+
+In our cases, one holiday was initiated for a single distressed bank (India–Yes Bank 2020), two were imposed because of weaknesses in many banks (Ecuador 1999, US 1933,), and four were the result of shocks to the entire banking system (Argentina 2001, Cyprus 2013, Greece 2015, and US–Rhode Island 1991). Although the distresses that led to bank holidays varied, in each case, the purpose of the holiday was to stop the runs or forestall expected runs and create a pause that allowed authorities to design a solution to the underlying problem and stabilize the system. 
+
+In India–Yes Bank 2020, the Reserve Bank of India (RBI) and Ministry of Finance imposed a 30-day moratorium on Yes Bank, the fourth-largest private bank in the country, after the bank experienced runs following reports about liquidity problems, nonperforming assets, and a scandal involving its founder. The moratorium permitted the authorities to formulate a resolution plan for Yes Bank to protect its depositors, forestalled further deterioration to the bank, and prevented contagion in the banking system. 
+
+In Ecuador 1999, the government imposed a broad bank holiday, over the objections of the governor and board of the Central Bank of Ecuador (CBE), after its closure of a medium-sized institution triggered widespread runs. The governor and board of the CBE resigned en masse in protest; they had recommended that the government just close several nonviable banks that had been experiencing runs. Unfortunately, despite adopting the US dollar as Ecuador’s official currency in early 2000 to stabilize the system and prevent hyperinflation, the country was not able to restore confidence in the system and could reopen the banks only by imposing withdrawal restrictions of various types. 
+
+In US 1933, the government imposed a federal holiday only after most states had already imposed banking holidays or withdrawal restrictions during the preceding months. The uncoordinated local actions had sparked regional runs as depositors withdrew funds from nearby banks fearing they too might close. By the time of President Franklin D. Roosevelt’s inauguration in March 1933, the nation suffered from a general lack of confidence in the banking system. As one of his first acts as president, Roosevelt issued an executive order “to place all banks on a uniform basis of restricted operations and to permit the development of adequate means of dealing with the national emergency” (US Government 1933, 1). Congress acted quickly to provide the tools necessary, and the US Treasury coordinated with the Federal Reserve and state authorities to orchestrate a quick, successful reopening of “sound” banks. Of the 17,000 commercial banks operating in the United States before the holiday, roughly 12,000 were successfully reopened and survived. 
+
+In three of our other cases (Argentina 2001, Cyrus 2013, and Greece 2015), the bank holiday was a response to an exogeneous event that sparked runs or crippled much of the banking sector. In these cases, the government had little choice but to impose a bank holiday to give policymakers time to design a collective remedy that might not only stabilize the banking sector but also solve the broader issue. 
+
+
+In Argentina 2001, the government defaulted on its external debt. The bank holiday, and later long-lasting withdrawal restrictions and capital controls, enabled the government to avoid a flight of dollars out of the country and manage the banking system in the midst of sovereign debt issues and significant political and civil upheaval. Similarly, in Cyprus 2013 and Greece 2015, the authorities imposed broad-based bank holidays to safeguard the financial system when banks’ access to funding was severely limited and had to be renegotiated. The banks were reopened following successful renegotiations. 
+
+In US–Rhode Island 1991, 45 financial institutions were stripped of their legally required deposit insurance when the collapse of two institutions in quick succession bankrupted the state’s private deposit insurance fund (Rhode Island Share and Deposit Indemnity Corporation, or RISDIC). The governor’s declaration of the bank holiday closed and “ringfenced” the affected institutions, mitigating possible contagion to viable banks unaffected by RISDIC’s failure, and enabled the state to coordinate rehabilitative measures. 
+
+## **Mutual Funds** 
+
+In our two fund cases, the funds voluntarily initiated suspensions to protect fund assets. In US–Reserve Fund 2008, the Reserve Primary Fund asked the Securities and Exchange Commission (SEC) for permission to delay paying redemptions and to close the fund to additional redemption requests when it could not raise sufficient liquidity in the turmoil following Lehman Brothers’ bankruptcy. Of note, the fund administrator delayed seeking SEC permission to impose a suspension, employing methods that the regulator questioned before doing so.[11] 
+
+In Argentina–Funds 2019, the government’s statute freezing certain government bonds owned by institutions but not individuals created uncertainty about how funds were to differentiate between underlying investor classes holding the same bonds. Several impacted funds voluntarily suspended redemptions and engaged their industry association to work with their regulator (Comisión Nacional de Valores, or CNV) to design an acceptable accounting method so that the funds could address redemptions involving the affected bonds. A solution was reached quickly, and the funds lifted their suspensions. Fitch Ratings, a credit rating agency, noted that the mutual fund industry had no option but to gate redemptions while it adjusted its operational capabilities to comply with the new regulations (Fitch Ratings 2019). 
+
+11 The US SEC’s attempt to address the stigma of gating or suspensions following the US–Reserve Fund 2008 case proved unsuccessful but is instructive. The commission adopted new fund rules that permitted funds to voluntarily adopt a “redemption gate” (suspend redemptions) if their weekly liquidity ratio fell below 30% to provide the fund a “cooling off” period to address the effects of a short-term investor panic and preserve liquidity (SEC 2022). However, in March 2020, during the COVID-19 pandemic, administrators of mutual funds experiencing significant redemptions refused to utilize the gates and instead actively managed their assets to avoid reaching the threshold, which led to disturbances in the short-term funding markets. In addition, redemptions increased as the funds approached the threshold, resulting in an exacerbation effect. In March 2023, the SEC amended the regulation to remove the ability to impose a redemption gate based on a liquidity ratio (SEC 2023). 
+
+
+## **2. Part of a Package: Was any public or private assistance provided to the bank or fund to address the problem? Did the government implement any other actions to address the problem?** 
+
+Because a bank holiday does not address root problems, the success of reopening depends on the steps authorities take to address underlying problems. In all of our cases, authorities used additional tools during the holiday (a) to rectify the root causes of distress and prevent further runs when banks reopened or (b) to manage withdrawals if the problems remained. In this survey, we use the term “corrective actions” to encompass both types of interventions. The most common corrective actions were liquidity provision; deposit insurance or guarantees; capital injections; resolution or restructuring; and withdrawal restrictions, account freezes, or capital controls (see Figure 3). 
+
+The specific actions taken depended on three main factors: (a) what the law allowed; (b) how much funding was available; and (c) other factors such as currency issues, economic instability, and political unrest. Often, authorities applied more than one corrective action concurrently or consecutively. 
+
+[FIGURE id=vol7_iss2_1_f3 type=figure page=12 label="Figure 3" file=figure_3.png caption="Corrective Actions Taken"]
+### **Figure 3: Corrective Actions Taken**
+
+||**Liquidity/**|**Deposit In**|**surance or**||||||||
+|---|---|---|---|---|---|---|---|---|---|---|
+||**Lender of**|**Guar**|**antee**||**Capital**||||**Foreign**||
+|**Short-form**|**Last**||_Change?_|**Withdrawal**|**Injections**|**Verification**|**Resolution or**|**Currency**|**Currency**|**Capital**|
+|**Case Name**|**Resort**|||**Restrictions**|**and Source**|**of Solvency**|**Restructuring**|**Devaluation**|**Restrictions**|**Controls**|
+||||||||||||
+|**Bank Holidays**|||||||||||
+|Argentina<br>2001|✓|✓|No change|✓|Government||✓|✓|✓|✓|
+||||||||||||
+|Cyprus 2013|✓|✓|No change|✓|None||✓|||✓|
+||||||||||||
+|Ecuador<br>1999|✓|✓|Temporarily<br>increased|✓|Government|✓|✓|✓|✓|✓|
+||||||||||||
+|Greece 2015|✓|✓|No change|✓|None||✓|||✓|
+||||||||||||
+|India–Yes<br>Bank 2020|✓|✓|Increased<br>prior (no<br>direct link)|✓|Government,<br>private||✓||||
+||||||||||||
+|US 1933|✓|Implied<br>guarantee|Adopted<br>after||Government|✓|✓||||
+||||||||||||
+|US–Rhode<br>Island 1991||✓|Yes|✓|Government|✓|✓||||
+||||||||||||
+|**Fund Suspensions**|||||||||||
+|Argentina–<br>Funds 2019|✓|Not<br>applicable|Not<br>applicable|✓|None||||||
+||||||||||||
+|US–Reserve<br>Fund 2008||Not<br>applicable|Not<br>applicable|✓|None||✓||||
+||||||||||||
+
+
+
+_Source: Authors’ analysis._ 
+
+Although not decisive, the level of coordination among government agencies can affect the success of corrective actions and thus the outcome of the bank holiday. When governmental units cooperate, even extraordinary actions can be quickly implemented and supported, as seen in the US 1933 case. In contrast, Argentina 2001, Cyprus 2013, and Ecuador 1999 show 
+
+
+how conflict among central banks, executives, legislatures, and courts can delay action, undermine policy effectiveness, and signal confusion and instability to depositors and the broader public. Next, we discuss the major types of corrective actions used in the cases we surveyed. 
+
+## **Provision of Liquidity** 
+
+In six of our bank cases (all but US—Rhode Island 1991), the central bank provided enhanced lending to banks before the holiday, upon reopening, or both. Specific liquidity provisions varied across our cases and were generally based on the fiscal resources available to a given country. India–Yes Bank 2020 illustrates the need for liquidity, as upon Yes Bank’s reopening, the RBI provided the bank with an emergency liquidity line of credit of 600 billion Indian rupees (INR), of which it borrowed INR 500 billion and repaid the full amount within six months. 
+
+Countries with sufficient fiscal depth may be able to raise the needed funds quickly. In US 1933, Congress passed the Emergency Banking Act (EBA) during the holiday to temporarily suspend the gold standard. President Roosevelt advised the Federal Reserve to issue currency liberally to banks that were cleared to reopen and informed the Fed that the government would protect it from losses. Congress also authorized another agency, the Reconstruction Finance Corporation (RFC), to provide secured loans to any bank, with the approval of the treasury secretary and president. The EBA also authorized the Fed to both lend to nonfinancial entities (against government securities as collateral) and issue Federal Reserve bank notes as emergency currency (which were liabilities of the Fed rather than new reserves and therefore noninflationary). Use of these tools was limited thanks to the success of the reopening, but they may have helped boost public confidence. They also illustrate that the effects of a bank holiday extend beyond the banking system itself. Rather than rely solely on banks to resume lending, the government and central bank created direct credit facilities to support and stabilize the economy. 
+
+Emerging-market economies can face tougher constraints because of limited fiscal capacity and currency vulnerabilities; these constraints may require more drastic or restrictive measures. In Ecuador 1999, even before the government adopted the US dollar as its official currency in early 2000 to stabilize the system and prevent hyperinflation, the central bank had limited capacity to provide meaningful liquidity support. As a result, the government imposed withdrawal restrictions and capital controls when banks reopened. 
+
+Like Ecuador, Argentina’s ability in 2001 to provide liquidity to its banks before and after two bank holidays was complicated by a currency crisis. Market concerns that the central bank would be unable to maintain the one-to-one peg of the Argentine peso to the US dollar triggered significant deposit outflows, as more than two-thirds of Argentine bank deposits were denominated in dollars. As further withdrawal restrictions failed to stop the runs, the government issued a decree requiring banks to convert their assets and liabilities from US dollars to Argentine pesos at an asymmetric rate. With dollars in short supply, the government then offered advances in Argentine pesos to financial institutions to help them meet depositor demands; the financial institutions then agreed to purchase new government 
+
+
+bonds later. Argentina also received emergency liquidity support from the World Bank and Inter-American Development Bank (IADB). 
+
+The banking crises in Cyprus 2013 and Greece 2015 were precipitated by a broad-based loss of access to external funding. Greece’s international development package was thrown into question after a European Central Bank (ECB) decision to no longer accept Greek sovereign bonds as collateral made it difficult for Greek banks to borrow from the ECB’s standing lending facilities, their major funding source. The ECB’s decision also affected Cypriot banks, which held significant amounts of these securities. Both countries had to renegotiate their external financing packages with the ECB, European Union (EU), and International Monetary Fund (IMF) to be able to provide liquidity to reopen their banks (and in some cases, provide capital).[12] 
+
+For mutual funds, preexisting lender-of-last-resort authority, guarantees, or other government insurance do not exist; funds are expected to rely on credit arrangements with banks or support commitments from their sponsoring organizations. However, in a crisis, governments will sometimes create temporary liquidity facilities to support the mutual fund industry, as occurred in our two cases involving mutual fund suspensions. 
+
+In 2008, news that the Reserve Primary Fund “broke the buck” rapidly led to widespread contagion and runs throughout the money market mutual fund (MMMF) industry and further disrupted the short–term funding market. The Federal Reserve rushed to provide lending programs[13] to enable the funds to meet redemption requests. The US Treasury Department also took the unusual step of enacting a temporary guarantee program for money market funds that was used by roughly 1,500 individual funds (none of which were forced into liquidation). However, the Reserve Primary Fund was ineligible as its NAV had dropped below the qualifying threshold. 
+
+In Argentina 2019, on the same day as the coordinated industry-wide suspension of redemption rights was announced, the central bank (Banco Central de la República Argentina, or BCRA) launched two new facilities to provide liquidity to the mutual fund industry through which the BCRA would accept from mutual funds the four types of public debt securities affected by the government’s debt reprofiling. 
+
+12 The Greek central bank had to resort to the emergency liquidity assistance (ELA) mechanism, a type of shortterm loan that carries a higher rate and is subject to regular review and approval by the ECB. ELA reached EUR 88.3 billion by the end of July 2015 (69% of total Eurosystem funding during this period), when the 22-day holiday was lifted after the negotiation of a new aid package. 
+
+13 The Fed set up two lending programs for MMMFs during the Reserve Primary Fund’s failure during the GFC: Four days before the fund suspended redemptions, the Fed launched the Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF), which loaned USD 150 billion to banks to purchase assetbacked commercial paper from MMMFs in its first two weeks of operation before usage waned as markets improved. The following month, the Fed also announced the Money Market Investor Funding Facility (MMIFF), which could loan up to USD 540 billion to special purpose vehicles to purchase certificates of deposit, bank notes, and commercial paper from eligible money market investors. 
+
+
+## **Deposit Insurance and Guarantees** 
+
+Six of our seven bank cases involved a preexisting deposit insurance scheme; US 1933 was the exception, although Congress adopted coverage within months after banks reopened. In US–Rhode Island 1991, the collapse of the state-chartered private deposit insurance fund prompted the governor to close 45 credit unions and banks that could not lawfully operate without insurance. Institutions that qualified for federal insurance began to reopen on a case-by-case basis in less than a month without sparking further runs. Those that could not qualify for federal insurance were resolved. 
+
+In times of crisis, governments may increase deposit insurance to signal security of accounts. Although our research did not reveal a direct connection to Yes Bank, India’s Parliament raised the limit on deposit insurance from INR 100,000 to INR 500,000 in the weeks before the RBI imposed a moratorium on Yes Bank and took it into administration. Then–RBI Governor Shaktikanta Das evaluated the moratorium as “nondisruptive” to the broader banking system, suggesting runs on other banks were prevented (Das 2020). Parliament later made the increased level of insurance permanent. 
+
+However, deposit insurance may not be effective to stop runs if it is not perceived as credible, and in any event, it will not cover amounts over the _insured_ limits. The same is true of guarantees. In Cyprus 2013, although Cypriot accounts were covered by a deposit insurance scheme (up to the required EUR 100,000 insurance limit), runs were precipitated by the public’s perception that the funding of the insurance was insufficient and haircuts on both insured and uninsured depositors were possible. Similarly, in Ecuador 1999, although the government increased the deposit insurance coverage and guaranteed loans, bank runs continued, leading the government to declare a one-week bank holiday. When the banks reopened, the government was unable to provide liquidity support to the banks or fund the government’s deposit insurance agency. A second run ensued, and the insurance agency— which accumulated a liability of USD 850 million within four months after the end of the holiday—announced that it would lower coverage of deposits from the enhanced level. Only after the government imposed extensive withdrawal restrictions did the runs stop. 
+
+## **Recapitalization, Restructuring, and Liquidation of Banks** 
+
+Governments face a conundrum in determining whether to close weak banks, since closures can pose the risk of contagion. As illustrated in Ecuador 1999, timing can be crucial: the IMF opined that the policy decision not to resolve the failing Banco del Progreso had “backfired” (IMF 2000). The central bank had recommended that the government resolve the bank and tighten fiscal policies earlier, rather than initiate the broad-based bank holiday, which was followed by an extended period of withdrawal restrictions and freezes. During this period, the government recapitalized the banks using government bonds, which the banks could use once they reopened[14] (Jácome H. 2004). 
+
+> 14 The government also required banks to place 1% of their deposit base into the liquidity support fund established with the USD 70 million loan from the Development Bank of Latin America and the Caribbean, 
+
+
+Once a bank holiday is imposed, authorities must consider whether to reopen some or all of the banks. In all of our bank cases except Argentina 2001 and Greece 2015, the authorities made a distinction between viable banks that they permitted to reopen immediately and those they did not. In three of these cases (Ecuador 1999, India–Yes Bank 2020, and US 1933), authorities organized the recapitalization of weak banks from public and private sources before reopening them; publication of these efforts generally helped to strengthen credibility. In India–Yes Bank 2020, the bank was cleared to reopen quicker than expected following the use of creative structuring, including a capital injection of INR 100 billion from a consortium of eight public and private Indian banks. New and existing investors with more than 100 shares were required to maintain 75% of their shareholding for three years from the date of the restructuring plan, providing long-term stability. To incentivize new investment, the government waived the capital gains tax for the investors. Rating agencies upgraded the bank in the second half of 2020, and deposits rebounded to pre-crisis levels in 2023. 
+
+Greece, which had closed a number of troubled banks in the years leading up to the bank holiday, permitted all its banks to reopen without an explicit viability assessment. In Argentina 2001, the government established a broad-based capital injection program (beginning in 2002, after the country’s second bank holiday and while withdrawal restrictions were still in place) to compensate financial institutions for imbalances in their balance sheets resulting from asymmetric pesoization and to fund the dismantling of restrictions on term deposits _._ However, delays in defining the role of the administering agency delayed the capitalization (see Key Design Decision No. 7, Details of Holidays, Suspensions, or Gates). 
+
+In all cases where an explicit assessment of viability was undertaken, nonviable banks were either restructured then reopened or liquidated. In US–Rhode Island 1991, the 19 institutions that could not qualify for federal deposit insurance, which would have required a determination of solvency, either reopened through mergers or were liquidated. In Cyprus 2013, the sovereign needed to negotiate financing from the IMF, EU, and ECB to stabilize its banking system. These negotiations resulted in the resolution of the second-largest Cypriot bank, which involved transferring its insured deposits to the largest bank and liquidating the remaining bad bank. The largest bank was recapitalized by bailing in its uninsured depositors. In US 1933, following the general reopening of viable banks, the Treasury worked with federal and state authorities to inject capital into banks needing capital so that they could reopen. Banks found to be nonviable were liquidated. Just weeks after the general reopening, roughly 5,000 of the 17,000 banks that had been operating before the crisis had been permanently closed and liquidated (see Key Design Decision No. 9, Verification of Solvency; Rhee, Hoffner, et. al. [2024]; Rhee, Oguri, et al. [2022]; and McNamara, Mott, et al. [2024]). 
+
+which functioned as a supplemental reserve requirement on top of the conventional 8% reserve requirement (Jácome H. 2004). 
+
+
+## **Withdrawal Restrictions, Account Freezes, and Capital Controls** 
+
+In four of our cases, governments chose to reopen banks even though the underlying distress had not been resolved. When the banks reopened, the authorities imposed withdrawal restrictions, account freezes, or capital controls to slow and manage withdrawals, avoid recurring runs, and buy time to design further solutions (see Key Design Decisions No. 7, Details of Holidays, Suspensions, or Gates, and No. 8, Treatment of Depositors or Investors). In Argentina 2001 and Ecuador 1999, governments facing currency crises established separate limitations on foreign currency accounts to help them manage foreign reserves. Cyprus 2013 and Greece 2015 each involved a system-wide liquidity crunch that required the government to renegotiate external financing; banks were reopened before these deals were finalized. 
+
+While withdrawal restrictions may be unavoidable, they seriously undermine confidence in the banking system as they violate depositors’ expectations of access and can precipitate new runs up to the maximum permitted withdrawals. This is what happened in Ecuador 1999; as the government unfroze demand and savings accounts from April to December, runs reignited across about one-third of the banking system. Furthermore, fear that such measures, or worse, may be imposed after a holiday may spur depositors to run ex ante: For instance, in Argentina 2001, withdrawal restrictions and concern that the government would expropriate funds (as it had done during a 1989 crisis) helped fuel preemptive runs before the bank holiday was imposed. Withdrawal restrictions also often face strong political backlash and stir public unrest. In both Argentina 2001 and Ecuador 1999, rioting and disagreements about crisis management led to the resignation of several high-level officials across various agencies. 
+
+## **3. Legal Authority: What laws authorized the bank holiday, fund suspension, and any additional corrective actions?** 
+
+All the countries in our banking cases relied on existing laws to impose the bank holidays. Those laws were either (a) included in a specific banking law or (b) authorized by a more general law providing for interventions during national emergencies. In Cyprus 2013, Ecuador 1999, India–Yes Bank 2020, and US–Rhode Island 1991, authorities relied on existing banking laws. In Argentina 2001 and Greece 2015, bank holidays were based on provisions concerning national emergencies. In US 1933, President Roosevelt relied on the Trading with the Enemy Act of 1917—a World War I statute that granted the president the power to prevent the offshoring of the nation’s gold and to uniformly prohibit or exercise greater control over transactions at all US banks during times of war. That legal basis was controversial, but Congress later retroactively ratified the holiday (Awalt 1969). 
+
+In six of our seven cases (excluding India–Yes Bank 2020), the executive issued additional decrees or the legislature passed laws to authorize the corrective actions needed to address the underlying distresses that made the bank holiday necessary. In India–Yes Bank 2020, the moratorium authority was available ex ante in the existing bank regulation framework. However, India’s Central Board of Direct Taxes had to amend rules in the Finance Act 2019 
+
+
+to allow the Ministry of Finance to exempt investors who injected new capital into Yes Bank from capital gains taxes on their profits. 
+
+Figure 4 shows the acting authorities and legal bases relied on for instituting bank holidays and corrective actions, which may face legal challenges. In Argentina 2001 and Ecuador 1999, judges ruled that measures imposing losses on depositors that resulted from currency conversions and certain withdrawal restrictions were unconstitutional. In Argentina 2001, in nearly 200,000 cases, courts granted injunctive relief restoring to depositors the full amounts of their accounts and allowing them to continue making large withdrawals. In response, the Argentine president imposed the country’s second bank holiday during the crisis, providing that the holiday would end once Congress approved legislation that would delay execution of the injunctions. Ultimately, Congress passed legislation that did so, permitting depositors to access their funds only once all steps of the judicial process had been concluded (see Key Design Decision No. 8, Treatment of Depositors or Investors). 
+
+[FIGURE id=vol7_iss2_1_f4 type=figure page=18 label="Figure 4" file=figure_4.png caption="Legal Authorities for Bank Holidays and Corrective Actions"]
+### **Figure 4: Legal Authorities for Bank Holidays and Corrective Actions**
+
+||**Bank Holiday**|**Bank Holiday**||
+|---|---|---|---|
+|**Short-form Case**|||**New Legal Authority for**|
+|**Name**|**Acting Party**|**Authorizing Law**|<br>**Corrective Actions**|
+|||||
+|Argentina 2001|President with endorsement of<br>the Cabinet of Ministers|Constitution|President issued decrees<br>freezing deposits; Congress<br>passed new law altering<br>injunction procedures|
+|Cyprus 2013|Central bank|Cyprus Bank Holidays Law<br>of 1959; Central Bank of<br>Cyprus Law of 2002|Parliament passed new law<br>for capital controls;<br>authorities reached a new<br>agreement with the ECB, EU,<br>and IMF.|
+|Ecuador 1999|Superintendency of Banks<br>(executive branch)|Constitution|President issued decrees<br>freezing deposits|
+|Greece 2015|President, following proposal<br>from the Cabinet of Ministers<br>and ratification by Parliament|Constitution|Greek authorities agreed to<br>new economic adjustment<br>program|
+|India–Yes Bank 2020|Ministry of Finance with<br>recommendation from central<br>bank|Banking Regulation Act of<br>1949|Ministry of Finance amended<br>tax code|
+|US 1933|President|Trading with the Enemy Act<br>of 1917|Congress passed new laws<br>giving executive power over<br>banking system and<br>suspending gold standard|
+|US–Rhode Island<br>1991|Governor|Rhode Island General Laws<br>(on financial institutions)|General Assembly and<br>governor created the<br>Depositors’ Economic<br>Protection Corporation<br>(DEPCO) for restructuring|
+
+
+
+_Source: Authors’ analysis._ 
+
+
+## **Mutual Funds** 
+
+The funds and their regulators in our cases relied on existing laws. In US–Reserve Fund 2008, the Securities and Exchange Commission, following a well-defined regulatory regime, retroactively approved the fund’s request to delay redemption payments. The Federal Reserve and Treasury also relied on their existing emergency authorities when they created liquidity programs to support money funds following Reserve Fund’s failure. 
+
+In Argentina–Funds 2019, after the government extended the maturities on certain shortterm sovereign debt instruments held by institutions but not individuals, funds experiencing heightened redemption requests did not have a legally sufficient mechanism with which to effectively respond to the new law and calculate redemptions. Numerous funds voluntarily suspended redemptions, and the mutual fund association worked with the government regulator (CNV) to, within days, adopt a solution that provided a mechanism for the funds to treat identical securities differently based on type of investor. 
+
+## **4. Administration: Who administered the bank holiday and corrective actions or fund suspension?** 
+
+In our seven bank cases, the governing body that implemented the bank holiday—the central bank (Cyprus 2013 and India–Yes Bank 2020) or the executive (Argentina 2001, Ecuador 1999, Greece 2015, US–Rhode Island 1991, and US 1933)—also administered the operational details of the bank holiday, reopening, and corrective actions (see Key Design Decision No. 5, Governance). Administrative decisions included: determining the length of the holiday, extensions, and conditions of reopening, which banks could reopen, availability of liquidity, type and duration of withdrawal restrictions, account freezes, capital controls, and any exceptions. In US 1933, most banks were state chartered, which required the Treasury department to harmonize processes and standards with the 48 state authorities to ensure a coordinated remediation effort. 
+
+In all of our banking cases, the restructuring and resolution function for nonviable banks was delegated to a specialized agency. In three cases (Argentina 2001, Ecuador 1999, and US– Rhode Island 1991), the government created a new agency for that purpose. In Ecuador 1999 and Argentina 2001, the effectiveness of the new entities, the Deposit Guarantee Agency (Agencia de Garantía de Depósitos, or AGD) and Financial System Restructuring Unit, respectively, suffered owing to a lack of funding and operational difficulties. 
+
+In India–Yes Bank 2020, the moratorium was part of the RBI’s prescribed bank resolution process. Moratorium status is similar to receivership in the United States, in that the bank may not, except as specified in the government’s Order of Moratorium, “make any payment to any depositors or discharge any liabilities or obligations to any other creditors” (MoF 2020). The bank is protected from claims and governed by an administrator to protect its assets. Similarly, in Cyprus 2013, the central bank acted as administrator for Laiki Bank and Bank of Cyprus, liquidating the former and restructuring the latter. 
+
+
+## **Mutual Funds** 
+
+The two funds in our cases administered their suspensions and associated actions under regulatory oversight. In Argentina, individual funds reopened using the governmentdesigned solution or any other approved method that allowed them to differentiate individual from institutional investors. Similarly, the Reserve Primary Fund managed the payment of redemptions on the delayed basis that the SEC had approved. However, after the fund’s board later voted to liquidate the fund, it was compelled to manage the liquidation of its assets according to an SEC-proposed and court-approved plan, which gave greater protection for investors relative to the fund’s initial plan. 
+
+## **5. Governance: Who authorized the bank holiday or fund suspension and any corrective actions?** 
+
+In all our bank cases, the imposition of the holiday was undertaken by either the central bank (Cyprus 2013 and India–Yes Bank 2020) or the executive (Argentina 2001, Ecuador 1999, Greece 2015, US–Rhode Island 1991, and US 1933).[ 15] Typically, the executive or legislature delegated authority over the management and terms of the holiday to the country’s treasury or finance ministry. In the two mutual fund cases, the suspensions were initiated by each fund and was subject to review by the regulatory authority that also oversaw the funds’ implementing activities. 
+
+## **6. Communication and Disclosure: How were the bank holidays, fund suspensions or gates, and corrective actions communicated?** 
+
+Bank holidays pose significant communication challenges. Effective communications can support policy efforts to manage a bank holiday, while poor communication may undermine these efforts and damage the government’s credibility. The longer the bank holiday or restrictions persist, the greater the communications challenges will be, especially if the government’s strategy involves complex, long-term corrective actions, as in Argentina 2001 and Ecuador 1999. Authorities must communicate in a timely, accurate, consistent, and credible manner (Unsal and Garbers 2021). In our cases, authorities said the holiday and withdrawal restrictions were necessary to stabilize the banking system (Cyprus 2013, Greece 2015, and US 1933) or broader economy (Argentina 2001, Ecuador 1999).[16] In US 1933, President Roosevelt also stressed the need for a comprehensive nationwide solution 
+
+> 15 In Argentina 2001 and Greece 2015, the president acted upon the proposal or endorsement of the Cabinet of Ministers; and in Ecuador 1999, the president gained control over the banks by declaring a national emergency after the Superintendency of Banks, also part of the executive branch, had declared the holiday. 
+
+> 16 For example, in Argentina 2001, the minister of economy stated, “Everything that we do will be to protect the savings of Argentines, to preserve convertibility, to preserve the one-to-one rate so that the economy can function well” in a televised press conference (Lyons, Plumb, and Helen 2001). Similarly, in Cyprus 2013, the government’s announcement said the bank holiday was “to safeguard the stability of the Cypriot banking system” (CBC 2013). 
+
+
+to replace the patchwork of ad hoc state and local bank holidays and withdrawal restrictions (Roosevelt 1934). 
+
+Of course, the effectiveness of any communication strategy depends on the strength or weaknesses of the underlying policies. Appropriate disclosure of information and details about the authorities’ actions can influence depositor behavior, enhance the central bank or government’s credibility, and help contain contagion (Duvvuri 2011). In cases where the bank holiday proved most successful—allowing banks to reopen quickly without withdrawal restrictions or renewed runs—the authorities seemed to apply appropriate corrective actions and communicated details effectively. This approach included credible and timely disclosures about the closures, corrective actions, and the overall viability of the system (India–Yes Bank 2020, US 1933, and US–Rhode Island 1991). 
+
+While some miscommunications may have occurred in these cases, the overall communication strategies appear to have contributed positively to the outcomes. These cases also featured statements emphasizing the need to protect depositors or shareholders, which seemed to generate confidence in the government’s actions. In contrast, when such assurances lacked credibility, they appeared to undermine trust and exacerbate the crisis (Argentina 2001 and Ecuador 1999). 
+
+Greece 2015 is unusual in that policymakers achieved a successful outcome from the bank holiday despite limited communications, possibly because the government’s focus was on renegotiating its external financing. 
+
+In US 1933, six days after he declared the bank holiday, President Roosevelt made the first “fireside chat” radio broadcast, in which he explained to the public in plain wording what the government had done to stabilize the banks and when they would reopen. He asked the public to have faith and return deposits to banks that reopened. The public response was generally positive, as deposits rapidly returned. The speech became iconic and served a model for other authorities. 
+
+Unclear (US–Rhode Island 1991), incomplete, or noncredible (Argentina 2001, Ecuador 1999) communications can undermine a government’s efforts by failing to generate public cooperation or goodwill; at extremes, they can stir civil unrest. In two of our cases, poor communications played a significant role in the runs that triggered the bank holidays. In Cyprus 2013, the announcement by the president and Eurogroup of a new funding proposal—including a one-time tax on all insured and uninsured depositors, which the legislature later rejected—sparked widespread runs, which forced the government to declare a bank holiday. Similarly, in Argentina 2001, a month after restructuring its debt in a manner the IMF found “not consistent with fiscal reality,” the government announced withdrawal restrictions in an attempt to curb runs. These measures failed to restore the public’s faith in the banking system, ultimately leading the government to impose a bank holiday (IMF 2004). IMF economists wrote that the Argentine authorities' "policy measures successively introduced during 2001 lacked direction and credibility and confirmed fears about [an] impending crisis” (IMF 2003, 6). 
+
+
+In Ecuador 1999, the president delivered the following message: “The government will never seize or confiscate anybody’s accounts. We have to protect our international money reserve. That reserve belongs to all Ecuadorians” (BBC 1999). That message failed to reassure depositors, and a run ensued. Ecuador’s messaging about its deposit insurance and loan guarantee also suffered from a lack of credibility. The public questioned whether the government could make good on its commitments or renege at the critical time, neutralizing the intended effect of these tools. 
+
+Our cases also demonstrate that misinformation or confusion can be widespread when many authorities are involved in the remedy (US 1933), when the corrective actions have not yet been determined, or when the resolution is lengthy. In US–Rhode Island 1991, Rhode Island Governor Bruce Sundlun modeled his first address regarding the RISDIC crisis after President Roosevelt’s iconic 1933 speech; however, depositors faced uncertainty for weeks as the governor and legislators heatedly and publicly debated the amount and timing of payouts. 
+
+Such communications challenges need not be fatal to the policy effort. Authorities should be diligent in managing coordination and accuracy and in finding ways to mitigate any negative effects. For example, in US 1933, public endorsements of the bank holiday by other administration officials, state leaders, and business executives were perceived positively and helped restore confidence. In US–Rhode Island 1991, while the final payout to depositors in closed banks took more than three years, a local newspaper played a key role in building trust. Its award-winning column called “Crisis Line” facilitated a dialogue between depositors and the government and kept depositors informed about the status of their accounts. We recommend that policymakers view communications as a strategic tool to support their bank holiday and corrective actions, familiarize themselves with good communication practices, and use them as proactively as possible. 
+
+## **Mutual Funds** 
+
+The two mutual funds in our cases actively communicated with investors regarding gating, lifting of gates, valuation, and payment of redemptions. However, in US–Reserve Fund 2008, the SEC alleged that, among other things, the fund’s administrator made fraudulent statements in its required disclosures regarding the fund’s NAV and the availability of credit support, and that it delayed making such disclosures in an attempt to stem redemptions. The SEC’s communications to the public emphasized its mission to protect investors. 
+
+In Argentina–Funds 2019, the finance minister initially framed the debt rescheduling as a necessary step to address short-term liquidity pressures. The CNV moved quickly to clarify protections for retail mutual fund investors. However, the timing and coordination of these messages were uneven, with some investors learning of the changes only through emails or online account access. While the central bank improved transparency by publishing data and program details, the overall communication strategy lacked coherence and timeliness, undermining public and market confidence. 
+
+
+## **7. Details of Holidays, Suspensions, or Gates: What were the details of the bank holidays, suspensions or gates, and corrective actions?** 
+
+The duration of the bank holidays (not including withdrawal restrictions) in our cases ranged from six to 22 days. See Figure 5 for the duration and characteristics of the bank holidays surveyed. 
+
+[FIGURE id=vol7_iss2_1_f5 type=figure page=23 label="Figure 5" file=figure_5.png caption="Duration and Characteristics of the Bank Holidays"]
+### **Figure 5: Duration and Characteristics of the Bank Holidays**
+
+||**Duration of Holiday**|**Permitted**|**Duration of Withdrawal**||
+|---|---|---|---|---|
+||**(No. of**|**Broad-based**|**Restrictions for**|**Term Deposits**|
+|**Short-form Case Name**|**calendar days)**|**Withdrawals**|**Reopened Banks**|**Extended**|
+|Argentina 2001|6, 7*||More than 1 year|✓|
+|Cyprus 2013|10|✓|Full year||
+|Ecuador 1999|7||Full year|✓|
+|Greece 2015|22|✓|More than 1 year|✓|
+|India–Yes Bank 2020|13|✓|None||
+|US 1933|7; banks reopened in<br>phases across the<br>following 3 days||Generally, none;<br>some state variation||
+|US–Rhode Island 1991|6+; banks reopened<br>as they qualified for<br>deposit insurance||None||
+
+
+
+*Note: Argentina 2001 had two nonconsecutive holidays, the first spanning December 21–26, 2001, and the second spanning April 19–25, 2002. Withdrawal restrictions also preceded the holiday, starting December 1, 2001, and lasted until December 2, 2002, for demand deposits. 
+
+_Source: Authors’ analysis._ 
+
+## **Terms of the Holiday** 
+
+**Bank Operations and Payments during the Bank Holiday.** In theory, a bank holiday is intended to halt all banking activity until authorities can implement a common solution to underlying problems. In practice, holidays are usually not absolute. The definition of the holiday varies across jurisdictions. Authorities often permit banks to continue some operations during the holiday and to make some payments based on considerations of financial stability or social welfare. Although not always stated, such allowances imply that the banks were permitted to continue to fulfill their normal operating obligations such as payroll and rent. These concessions were spelled out in India–Yes Bank 2020, where the bank was expressly permitted to continue to pay its normal operating bills, such as employee salaries, rent, taxes, and contractors, up to INR 50,000 per account, while it was being restructured. 
+
+
+In US 1933, banks were permitted to “meet the needs of their communities” for food, medicine, other “necessities of life,” relief of distress, payment of usual salaries and wages, necessary current expenditures for the purpose of maintaining employment, and other similar essential purposes (US Government 1933). In Cyprus 2013, authorities permitted payments based on similar social welfare considerations, such as tuition fees and payments by government services for humanitarian reasons. They also allowed “systemically relevant payments,” defined as payments that, if missed, created a risk of default for the credit institution or otherwise threatened financial instability (EC 2013). In Argentina 2001, the government made exceptions for payroll and retirement payments, while the bank holiday in Greece 2015 exempted pension payments. 
+
+**Limited Withdrawals by Depositors during the Bank Holiday.** Bank holidays sometimes permit limited withdrawals (a) up to a specified amount on a stated frequency (Cyprus 2013, Greece 2015, and India–Yes Bank 2020); or (b) for specified purposes, with permission from an administrator or the bank (Argentina 2001, Ecuador 1999, US 1933, and US–Rhode Island 1991). When limited withdrawals are permitted, they are usually for small amounts; the purpose is to allow depositors to meet basic needs, while limiting runs and maintaining banking system liquidity. In Greece 2015, depositors were permitted to withdraw EUR 60 per day from ATMs and had unlimited access to electronic banking. In India–Yes Bank 2020, depositors could withdraw up to INR 50,000. In Cyprus 2013, depositors could make withdrawals only through ATMs, subject to their bank’s ATM withdrawal limit—EUR 260 in the case of Cyprus’s second-largest bank, Laiki Bank. In Argentina 2001, Ecuador 1999, US 1933, and US–Rhode Island 1991, no broad-based withdrawals were permitted during the banking holidays. 
+
+In most of our bank cases, authorities allowed depositors to apply for emergency withdrawals of larger amounts for high-ticket, time-sensitive items, which were not always clearly defined. In India–Yes Bank 2020, depositors could apply to the RBI to withdraw funds for medical treatment, higher education, marriage, or any other “unavoidable emergency” up to INR 500,000; this was the only case with a stated upper limit for emergency withdrawals. In US–Rhode Island 1991, depositors could submit emergency withdrawal applications to their bank or the Depositors’ Economic Protection Corporation (DEPCO) for six reasons: (a) mortgage payments if they faced immediate foreclosure on their primary residence, (b) overdue rent or threat of immediate eviction, (c) nonelective medical treatments or procedures, (d) payments for medical insurance for self or family members, (e) food expenses, and (f) utility services if facing immediate termination. 
+
+**Withdrawal Restrictions after Reopening.** In US–Rhode Island 1991 and India–Yes Bank 2020, reopened banks were permitted to resume normal operations without withdrawal restrictions or account freezes. In US 1993, this was true of federally chartered banks; however, some states imposed restrictions on state-chartered banks, despite efforts by the Treasury Department to establish a common approach. 
+
+In four of our cases involving banks, withdrawal restrictions, account freezes, or term extensions continued in some form after the end of the holiday for close to a year: Argentina 
+
+
+2001, Cyprus 2013, Ecuador 1999, and Greece 2015. All these countries experienced significant runs—up to the permitted limits—when banks reopened (see Figure 5). 
+
+In Argentina 2001, the government retained withdrawal restrictions on all demand deposits after the two week-long bank holidays in December 2001 and April 2002. At the same time, the government extended the maturity of time deposits. All foreign-denominated demand and time accounts were converted to and payable only in pesos (see Key Design Decision No. 8, Treatment of Depositors or Investors). 
+
+## **Mutual Funds** 
+
+In our two mutual fund cases, investor redemptions were entirely paused. In US–Reserve Fund 2008, the fund also delayed payment on shares that investors had submitted for redemption before the suspension was imposed. The suspension was in effect for approximately three months and ended once the fund’s board voted to liquidate. The applicable periods were approved by the SEC with effect as of the date of application by the fund. 
+
+In Argentina–Funds 2019, the suspensions affected all classes of investors, and each suspension was lifted on a fund-by-fund basis once the regulator issued guidance and created tools to allow funds to differentiate between institutional and individual investors. 
+
+## **8. Treatment of Depositors or Investors: What were the effects on bank depositors and fund investors?** 
+
+## **Recovery of Funds and Outcomes for Depositors** 
+
+Ideally, all depositors will have complete access to the full value of their accounts when banks are permitted to reopen. This was the outcome in India–Yes Bank 2020 and in US– Rhode Island 1991 for depositors of banks that secured federal deposit insurance permitting them to reopen. In US–Rhode Island 1991, the government took steps to provide some portion of their funds to depositors of banks that took longer to reopen or that were liquidated, eventually making all depositors whole. 
+
+In US 1933, depositors at federally chartered banks had full access to their accounts when permitted to reopen immediately after the holiday. However, some US state authorities permitted banks to reopen with restrictions and, despite efforts toward a coordinated response, 1,685 state banks (approximately 10% of all commercial banks) were permitted to reopen with withdrawal restrictions following the holiday. Some banks reopened after the initial phased reopening, and many banks were liquidated. After complaints, the RFC ensured that depositors received immediate access to their funds from banks in liquidation. 
+
+In the other bank cases, the authorities imposed broad-based withdrawal restrictions, account freezes, or capital controls upon reopening. In Ecuador 1999, those restrictions extended to repurchasing agreements and investment fund accounts. In Argentina 2001 and Ecuador 1999, the governments also imposed limits on withdrawals from foreign currency 
+
+
+accounts to improve their ability to access and manage foreign reserves. Some of these restrictions lasted for more than a year. 
+
+**Timing Issues.** Prolonged restrictions on withdrawals can severely harm depositors’ financial well-being and erode public trust in both the banking system and the government. In Greece 2015, a 22-day bank holiday was followed by years of withdrawal restrictions and capital controls that were not fully lifted until September 2019, more than four years later. In Argentina 2001, the government imposed withdrawal limits in December 2001, sparking significant public backlash; nonetheless, the government maintained the restrictions until the following year, with two interim bank holidays, and term deposits remained restricted until early 2003. Protracted bank holidays also contributed to political and social unrest in Ecuador 1999. 
+
+**Differences by Insured Status and Type of Account.** In our cases, guaranteed depositors were always made whole. As noted in Key Design Decision No. 7, Details of Holidays, Suspensions, or Gates, some authorities subjected term deposits to longer-lasting restrictions, and some imposed tougher restrictions on foreign currency accounts. 
+
+Even when banks did not reopen after the end of the bank holiday and were subject to restructuring or liquidation, we observed better outcomes for insured deposit account holders. In Greece 2015, Argentina 2001, and Ecuador 1999, depositors of unguaranteed accounts were repaid but subjected to some haircut or devaluation. In Cyprus 2013, the holiday ended after a new funding proposal was negotiated that included a plan to restructure the largest Cypriot bank and resolve the second largest. As part of this plan, the insured depositors of the second-largest bank were protected and transferred to the largest bank, the Bank of Cyprus. The uninsured deposits in Bank of Cyprus were converted to equity and used to recapitalize the bank, while the uninsured deposits of Laiki Bank, the secondlargest bank, remained with the legacy bank while in liquidation. Uninsured depositors at Laiki Bank eventually received 6 cents on the euro. The only uninsured deposits protected were those in the United Kingdom, which were transferred to the UK subsidiary of the Bank of Cyprus. This type of unexpected treatment among different uninsured depositors may create credibility issues for authorities. 
+
+In US 1933, deposit insurance did not exist at the time. A sizable number of banks were permanently closed and liquidated after the holiday ended. Following complaints, the government issued collateralized loans to nonviable institutions to ensure that the banks could grant depositors access to their funds. 
+
+In US–Rhode Island 1991, financial institutions that could not qualify for federal insurance and remained closed were some of the largest in the state, with a total of USD 1.2 billion in 350,000 accounts. Some of these banks merged with stronger banks to receive federal insurance, while others were taken over by DEPCO for resolution. DEPCO guaranteed the full amount of depositor accounts, including previously unguaranteed amounts, although unguaranteed amounts were paid out over time. 
+
+
+In Cyprus 2013, fixed-term deposits could not be terminated before their maturity unless the funds were used to repay a loan with the same credit institution. The authorities kept this restriction in place after the initial holiday ended and did not lift it until April 2015. 
+
+**Differences by Type of Depositor.** As noted in Key Design Decision No. 7, Details of Holidays, Suspensions, or Gates, authorities often exempt or grant early access to depositors with small account balances, pensioners, or other selected groups. In Ecuador 1999, the government announced a partial deposit freeze upon the end of the bank holiday, with a staggered unfreezing schedule that favored depositors with less than 2 million Ecuadorian sucres (ECS) and other groups such as insurance entities, the elderly, those affected by medical emergencies, savings and credit cooperatives, international agencies, and diplomatic missions. The unfreezing of deposits began just weeks after the announcement of the freeze, and by mid–2000, more than 90% of depositors had received their full deposits back. 
+
+**Losses to Depositors.** In all holidays, depositors may suffer harm from the temporary loss of access to their funds. Authorities also may impose losses on depositors through (a) haircuts on account balances, (b) currency devaluations, or (c) substitutions of government bonds or emergency currencies that may have limited liquidity or may be subject to losses in a secondary market. 
+
+In our cases, authorities did not impose losses equally on all types of depositors. In fact, none of our cases included a direct broad-based haircut on all depositor accounts. In Cyprus 2013, the authorities proposed, but ultimately did not implement, a plan to tax all insured and uninsured depositors. 
+
+Depositors in Argentina 2001 eventually received the full nominal value of their accounts in cash (pesos) or government bonds but were subject to significant devaluation due to the government’s asymmetric conversion to pesos. To make the government bonds attractive, authorities created a secondary market and allowed depositors to use them to repay certain types of loans and national taxes. However, roughly 200,000 depositors sued the government and won, receiving payouts at market rates without the effect of pesoization. The successful lawsuits significantly undermined the government’s strategy and forced the executive to impose a second bank holiday. 
+
+In Ecuador 1999, depositors were repaid in US dollars at a much lower value than before the crisis—losing about 73% of their money owing to currency devaluation. 
+
+In Argentina 2001, Cyprus 2013, and Ecuador 1999, governments used some type of currency substitute to compensate depositors. In Ecuador 1999, while all depositors eventually received compensation equal to the nominal value of their accounts, the government employed two cash alternatives or currency substitutes to compensate depositors: AGD bonds (bonds issued to banks by the government in lieu of cash to be used to liquidate depositors’ accounts) and certificates of reprogrammed deposits (certificados de depósito reprogrammable, or CDRs) (negotiable securities that were discounted based on the market’s perception of the financial strength of the issuing bank). Term depositors at 
+
+
+open banks were repaid fully in cash, whereas some term depositors at closed banks could be repaid in AGD bonds.[17] Depositors could request CDRs from their bank against the frozen part of their account; however, depositors holding accounts worth the same amount could receive different CDR payouts based on the strength of their banks. Both AGD bonds and CDRs were subject to limitations on how they could be used, and the discounting of CDRs created an arbitrage opportunity to the detriment of depositors and the government.[18] 
+
+Currency substitutes risk creating a sense of unfairness and confusion in the public. The US government in US 1933 had made provisions to have banks, through their clearinghouse associations, issue certificates in lieu of cash, and some states considered issuing statewide scrip; both tools had been used in earlier crises. However, these tools were ultimately used only minimally to avoid confusing the public and because policymakers preferred a nationwide solution. 
+
+**Treatment of Bank Investors.** Bondholders and shareholders of liquidated banks often experience losses. In our cases, those included investors in contingent convertible bonds in India–Yes Bank 2020; their bonds were a type of alternative Tier 1 (AT1) capital, meaning investors knew in advance that they might suffer losses in a restructuring. In Cyprus 2013, external financing from the IMF, EU, and ECB depended on the government’s agreement to liquidate the second-largest Cypriot bank and recapitalize the largest bank, forcing losses on uninsured depositors in both banks. 
+
+## **Mutual Fund Investors** 
+
+The outcomes for investors in our two fund cases differed. In US–Reserve Fund 2008, the fund entered liquidation following the suspension. However, the SEC challenged the fund’s initial liquidation plan in court, as the fund had reserved a large portion of fund assets to cover its legal fees. The court ruled in favor of the SEC’s alternate plan, which was more favorable to investors. Investors had received 79 cents per dollar by early December 2008 and 99 cents two years later. 
+
+In Argentina–Funds 2019, both retail and institutional investors received the full value of their investments, although payments to institutional investors were delayed under the terms of the maturity extension that the government had placed on certain classes of shortterm debt. Moreover, the CNV ruled that retail investors with affected assets could either (a) hold their shares to the original maturity or (b) redeem their fund shares in the affected 
+
+> 17 However, some depositors at open banks were repaid in bonds before the ruling. Depositors could use the bonds to pay certain liabilities owed to the bank or government and could sell the bonds to a third party for cash, sometimes subject to a discount. 
+
+> 18 _Depositors could use CDRs to service bank loans and buy durable consumer goods and real estate, and a government decree in November 1999 required all banks to accept CDRs as payments at face value, up to the amount of credit lines granted to each bank by the National Financial Corporation (Corporación Financiera Nacional, or CFN), which guaranteed the CDRs. Many depositors who needed cash sold their CDRs at a discount to bank borrowers, who then used them, at par value, to repay their eligible liabilities, benefiting from the spread. The traffic in CDRs was significant. According to the IMF, the November 1999 decree negatively impacted banks’ liquidity and portfolio structure and led to “the technical bankruptcy of the CFN” (IMF 2000). The rules were later changed to require the banks and CFN to accept CDRs at market value instead of par_ . 
+
+
+securities for compensation in-kind, meaning payment in securities of equal value to their initial investments. Institutional investors had the same choice, subject to the extended maturities. 
+
+## **9. Verification of Solvency: Did the authorities verify the solvency or assess the viability of banks before reopening? What methods did they use?** 
+
+In five of our seven bank cases, our research found either an official report verifying the solvency or viability of financial institutions (Ecuador 1999, US 1933, and US–Rhode Island 1991) or explicit official references to viability considerations (Greece 2015, India–Yes Bank 2020). Either the government or a third party handled the verification, and in all cases, it seems that results were disclosed. Having a third party conduct the review can be particularly valuable when the government has credibility issues, as occurred in Ecuador 1999. 
+
+In US–Rhode Island 1991, verification of solvency was part of the process for the financial institutions subject to the holiday to qualify for federal insurance that was needed for them to reopen. Because several institutions had initiated their applications before RISDIC’s failure, they were able to reopen expeditiously.[19] In Greece 2015, as part of the multilateral funding program that enabled the banks to reopen, the ECB conducted a comprehensive assessment of the four significant Greek banks a few months after the end of the holiday. Following the assessment, banks had to provide plans to address their capital shortfalls to be considered for capital injections (see (Schaefer-Brown 2024)). 
+
+In the case of India–Yes Bank 2020, the authorities didn’t announce an official verification of the bank’s solvency before reopening. Rather, the recapitalization of the bank by public and private investors, the 50% rise in the bank’s stock price following the early termination of the moratorium, and the bank’s financial disclosures served to reassure the market of its viability. 
+
+In US 1933, two factors contributed to the successful ending of the nationwide bank holiday and the reopening of the banks. First, the government categorized the banks into three groups: (a) those that were “sound” and ready to reopen, (b) those that could reopen with government assistance, and (c) those that might not reopen and would need to be reorganized or liquidated. Those in the first group, having been licensed to reopen by the Treasury Department or a state authority, were then reopened in phases over three days. Second, the reopening plan was effectively communicated to the public, with President Roosevelt assuring the public that any bank reopening was sound, no matter when it reopened. 
+
+Authorities prioritized the expediency of reopening over the risks and cost to the government of inaccurate viability evaluations. Because of time constraints, decisions were 
+
+> 19 For example, the National Credit Union Administration (NCUA) received 33 applications from credit unions in November 1990 and conducted a five-week examination of all applications. On December 21, the NCUA found 22 credit unions eligible, and these institutions reopened on January 7, 1991, just six days after the governor declared the bank holiday. 
+
+
+often based on outdated bank examiner reports. Uncertainty about asset valuations was also significant, given the ongoing stresses. And authorities reopened some weak banks early owing to considerations of geographical distribution and politics, rather than solvency or viability. 
+
+Conti-Brown and Vanatta (2021) find that the Roosevelt administration’s distinction between viable and nonviable banks and its commitment to closing nonviable banks added credibility to the government’s claim that the reopened banks were sound. Nonetheless, at the time, Treasury officials were concerned that the phased reopening could stigmatize banks that reopened relatively late, and recent research by Jaremski, Richardson, and Vossmeyer (2023) has confirmed this: they find that banks that reopened earlier enjoyed a premium compared to similarly healthy banks that opened days later (Conti-Brown and Vanatta 2021; Jaremski, Richardson, and Vossmeyer 2023). 
+
+In Ecuador 1999, following the government’s imposition of a year-long partial deposit freeze, authorities hired international auditors to review the health of all financial institutions and classify them as compliant with regulatory capital standards, deficient capital, or negative capital; banks with negative capital were immediately taken over by the government’s deposit insurance agency. The results of these audits, announced in July 1999, spurred a temporary resurgence in public confidence in the banking system; but confidence fell again in September when Ecuador defaulted on its debt. Starting in March 2000, the Banking Board of the Superintendency of Banks reviewed all banks again, requiring banks with solvency indexes below the regulatory threshold of 9% to normalize within 60 days or be taken over by the insurance agency. By the next month, the insurance agency had intervened in or closed 14 institutions found to be nonviable, including the two largest Ecuadorian banks (comprising 65% of onshore assets), wiping out their equity holders. 
+
+## **Mutual Funds** 
+
+In both fund cases, the funds assessed their financial health in communications to shareholders and regulators. In the case of US–Reserve Fund 2008, the SEC alleged that the fund manager had violated federal securities laws by issuing erroneous disclosures about its net asset value. The fund later blamed an “administrative error” for its misreporting of the NAV and admitted that it should have alerted the public and the authorities earlier that it had broken the buck (SEC n.d.). Our research did not reveal that any Argentine funds broke the buck because of the government’s 2019 debt restructuring. 
+
+## **10. Other Conditions: Did the authorities impose any other significant conditions as part of the bank holiday?** 
+
+Other conditions varied across the cases surveyed but were generally linked to specific corrective actions. In several cases where banks were restructured (Cyprus 2013, India–Yes Bank 2020), authorities stepped into decision-making roles by appointing new boards. In two cases with sovereign debt crises (Argentina 2001 and Greece 2015), the governments enacted measures to keep capital within the country and support the domestic economy. For 
+
+
+more information on both restructuring and capital controls (see Key Design Decision No. 2, Part of a Package). 
+
+During the US National Bank Holiday in 1933, federal and state authorities attempted to disincentivize hoarding and unnecessary withdrawals of currency and gold. Roosevelt’s proclamations banned buying or selling gold in any form other than jewelry, and some state legislatures passed other measures. News sources report that USD 200 million in gold had been returned to the banking system five days after the national holiday. 
+
+## **11. Exit Strategy: How was the situation resolved?** 
+
+We identified two exit strategies among our bank holiday cases: (a) authorities were able to apply effective corrective actions to address the underlying distress and reopen viable banks as soon as possible without restrictions, leaving the remaining banks in workout until they could be reopened or resolved; and (b) authorities were unable to quickly correct the underlying problem but chose to reopen viable banks with restrictions to provide depositors some access to their accounts while continuing to pursue a full resolution to the fundamental problem. 
+
+In our cases, the law gave the authorities broad discretion to determine the duration of the bank holiday; the nature of the underlying distress and other factors greatly influenced the length of the bank holiday and any withdrawal restrictions. Some of these considerations were statutory limits (India–Yes Bank 2020), fiscal constraints, the complexity of the necessary corrective actions (Argentina 2001, Cyprus 2013, Ecuador 1999, and Greece 2015), and the need for additional regulation (US 1933, US–Rhode Island 1991). Considering the many unknowns surrounding a bank holiday, policymakers may see a benefit in initially announcing a relatively short holiday and then extending it, if needed, rather than announcing a prolonged shutdown at the beginning. This was done in Cyprus 2013 and Greece 2015. And in India–Yes Bank 2020, the law allowed the authorities to suspend a bank for up to six months. They initially announced that the suspension would last up to 30 days— but then lifted it after just 13 days, and the bank recovered successfully. 
+
+The bank holidays in our cases were generally of short duration. Authorities are typically aware of the economic risks of keeping banks closed for extended periods. The shortest holiday among our cases was a six-day holiday in Argentina 2001, and the longest was a 22day holiday in Greece 2015; both were system-wide. In both cases, as well as in Cyprus 2013, substantial withdrawal restrictions, sometimes accompanied by capital controls, persisted for a year or more, and depositors had to wait extended periods for full access to their accounts. 
+
+In most cases, the authorities initially announced a definitive deadline for the holidays but extended them later to facilitate further corrective actions. In US 1933, President Roosevelt announced a four-day holiday (March 6 to March 9, 1933) of all transactions at all deposittaking institutions. He considered an indefinite holiday unwise. But on March 9, Roosevelt extended the banking holiday “in full force and effect until further proclamation by the President” (Roosevelt 1933). Three days later, on March 12, following further actions via 
+
+
+Executive Order, the president explained the reopening plan to the public. “Sound” banks began reopening on March 13, pursuant to a three-phase schedule, and by March 15, banks representing 90% of the country’s banking resources had resumed operations. 
+
+In US–Rhode Island 1991, Governor Sundlun declared the bank holiday on January 1, 1991, his first day in office; the bank holiday did not have a definitive ending. The governor encouraged the 45 impacted banks and credit unions to qualify for federal deposit insurance as soon as possible or seek other means to secure such insurance indirectly by selling themselves, merging with an insured institution, or recapitalization. By the end of January, 26 financial institutions had reopened with federal deposit insurance and no restrictions; a further 15 also later reopened. Institutions subject to the holiday remained so until they qualified to reopen or were resolved, which in some cases took years. 
+
+In Argentina 2001, Cyprus 2013, Ecuador 1999, and Greece 2015, authorities were unable for reasons of resources or politics to apply corrective actions during the holiday that fully resolved the underlying problem that led to the holiday: sovereign debt crises for Argentina and Ecuador and liquidity crises for Cyprus and Greece. In each case, authorities reopened the banks but imposed withdrawal restrictions or capital controls to manage the flow of funds. In these cases, restrictions and controls remained in place for extended periods as authorities addressed the underlying problems. In Argentina 2001, Cyprus 2013, and Ecuador 1999, withdrawal restrictions were in place for a full year after the holiday. In Greece 2015, authorities began to lift withdrawal restrictions and capital controls in 2017 but did not fully remove them until 2019. 
+
+## **Fund Suspensions** 
+
+The Reserve Primary Fund never reopened. Although the fund administrator had said at one point that it would provide credit support to the fund to maintain its USD 1.00 NAV, as sponsors of other funds did, the SEC later alleged that these statements had been fraudulent since the administrator had made no concrete efforts to make that happen. The SEC also challenged the liquidation plan the administrator put forward as not in the best interest of investors; eventually, a plan that the SEC proposed was approved by a court and implemented. Investors recovered about half their funds at the end of October 2008 and 79 cents for every dollar by early December; they waited two years for recoveries to reach 99 cents (see Key Design Decision No. 8, Treatment of Depositors or Investors). The fund was terminated in late December 2015. 
+
+In Argentina–Funds 2019, funds reopened at different times depending on how quickly they were able to set up the operational capacity to segregate funds and provide exempt treatment to individual investors. Funds with larger numbers of individual investors and higher percentages of the affected securities faced greater operational challenges. Most funds resumed normal redemption activity within two weeks after the initial announcement date. However, institutional investors remained subject to the terms of the maturity extension placed on certain classes of government short-term debt. 
+
+
+## **12. Regulatory Changes: Were any regulatory changes implemented because of the crisis?** 
+
+Crises, including bank holidays, are often followed by regulatory reform. In US 1933, Congress also passed the Glass-Steagall Banking Act, which comprehensively reformed the US banking system, creating more formal separation between commercial banking activities and investment activities. The law also created the Federal Open Market Committee of the Federal Reserve to set monetary policy and the Federal Deposit Insurance Corporation (FDIC), which began providing coverage for up to USD 2,500 per depositor on January 1, 1934, and which has been a strong deterrent to bank runs. 
+
+Similarly, in India–Yes Bank 2020, in the year after the holiday, India’s Parliament passed an amendment to the deposit insurance bill, which ensured the payment of the newly increased insurance amount of INR 500,000 within 90 days of any bank’s being placed in a moratorium. The finance minister stated that this legislative change would benefit small depositors. The RBI also updated its guidelines for auditor selection and tenure for banks in India in response to issues that Yes Bank’s rescue raised. The central bank also reduced the minimum tenure to change auditors to three years and introduced restrictions on the ability to audit multiple entities within the same or related corporate groups. The RBI also upgraded technology systems to allow for real-time supervision, to quicken the feedback and supervision processes of banks and nonbanks. 
+
+In the aftermath of the RISDIC crisis in Rhode Island, nearly half of all privately insured credit unions nationwide transitioned to federal deposit insurance. The 1991 Federal Deposit Insurance Corporation Improvement Act (FDICIA) also introduced reforms for federal deposit insurance that included risk-based premiums. Following the failure of the Reserve Primary Fund in 2008, the SEC made several amendments to its money market fund rules. These amendments included revised standards for credit, liquidity, and interest rate risk management; diversification requirements; stress testing; monthly portfolio disclosures; and procedures for funds that break the buck. 
+
+## **Conclusion** 
+
+This paper surveys seven bank holiday cases and two fund suspension cases; each case represents an extreme situation. Holidays were most effective when the authorities were able to use the time to design and implement a solution to fundamental issues and determine which banks could safely reopen. 
+
+**A bank holiday is a high-risk tool but can be an effective “measure of last resort” in extreme situations to buy time to enable a comprehensive remedy.** Halting banking and payment systems poses risks to a country’s financial system and broader economy. Thus, bank holidays are rare, especially in advanced economies, and typically represent a last resort when all other options have failed. A bank holiday is most useful when a banking system is experiencing widespread distress and a comprehensive and coordinated solution, 
+
+
+rather than ad hoc or fragmented remedies, would be beneficial, as in the cases of Argentina 2001, Cyprus 2013, Greece 2015, and US 1933. 
+
+If only a limited number of banks are in distress, and where contagion has not become prevalent, similar to the events in India–Yes Bank 2020, applying a more tailored approach— recapitalizing or resolving the affected bank(s)—as was done in that case, may be a better solution. We thus recommend that policymakers explore less disruptive and more circumscribed solutions if available and employ bank holidays only in extreme circumstances. 
+
+A bank holiday can also be useful to ring-fence distressed banks and differentiate them from healthy ones. Subjecting distressed banks to a bank holiday identifies which banks are affected and can mitigate contagion from impacting other institutions. This effect was demonstrated in US–Rhode Island 1991 and Argentina–Funds 2019. One could hypothesize the utility of a bank holiday in other situations where a broad shock (such as a natural disaster or cyberattack) incapacitates a large number of banks or sparks runs. In such a case, ring-fencing the affected banks until the problem can be diagnosed and a solution determined might allow for a more effective response. 
+
+**The primary benefit of a holiday is that it allows for the implementation of a coordinated response to the underlying distress.** A bank holiday does not cure the underlying distress but rather temporarily pauses banking activity, allowing policymakers to stabilize the situation and create space to implement corrective actions. Such measures can address the essential problems and restore confidence in the banks’ viability (Collyns and Kincaid 2003). Further, a broad-based holiday allows for a coordinated comprehensive solution that can signal the stability of the entire system, something that may not be achieved through the remediation of an individual bank (Fed n.d.). 
+
+Policymakers should strive to implement corrective actions (deposit insurance and guarantees; liquidity; recapitalization, restructuring, or resolution; and assessments of viability) that address the core vulnerabilities in the system and to match the scope of corrective actions to the scope of the underlying problem. Multiple corrective actions may be required. The US 1933 case is a good example of a coordinated national response that required multiple corrective actions. When President Roosevelt declared a nationwide bank holiday, most banks in all 48 states were already subject to a mishmash of ad hoc municipal and state bank holidays and withdrawal restrictions. The public had lost confidence in banks and begun to hoard cash and gold. The national bank holiday enabled the federal government to implement an aggressive nationwide response including emergency liquidity, a review of bank viability, and ad hoc bailouts on a massive scale that resulted in the successful reopening of viable banks and restoration of the public’s confidence. 
+
+Such a comprehensive response may especially be needed when an exogenous shock causes the distress to the system, such as a sovereign debt crisis (Argentina 2001) or the sudden drying up of liquidity (Cyprus 2013 and Greece 2015), resulting in widespread runs. Fund suspensions were employed in a similar manner in Argentina–Funds 2019 in response to a sudden law change. In such cases, the government has to address the exogenous shock as 
+
+
+well as stabilize the banks; often, the ability to do so depends on factors and actors outside the government’s control and can require a lengthy process. In such cases, the bank holiday provides the opportunity for the government to control banking activity while addressing the shock (which may mean reopening banks with withdrawal restrictions). Because the shock originates outside the system, stigma and contagion may be more contained in such situations and trust in the banks less damaged when they reopen since the primary focus is on the government addressing the exogenous problem. 
+
+Policymakers should also weigh the need for a comprehensive response to the banking system distress against the ease and effectiveness of a more focused intervention and their available resources; a broad-based holiday implicates all banks. In Ecuador 1999, the president imposed a broad bank holiday rather than place a large, failing bank into receivership, as the central bank had recommended. The result was an extended economic and financial crisis, during which the board of the central bank resigned in protest. If resources for robust corrective actions are limited, as was the case in Ecuador, policymakers might consider a more tailored approach, bypassing the bank holiday and instead imposing withdrawal restrictions, which the government in Argentina 2001 did. However, any withdrawal restrictions must be sufficiently robust to provide the government the level of control necessary for a successful strategy. If not, as in Argentina 2001 (where the effect of the restrictions was gutted by the large number of court claims awarding relief inconsistent with the withdrawal restrictions), total holidays may still be needed. 
+
+Even when authorities impose a bank holiday or restrictions on only one or a few banks, contagion is a risk, which in turn can trigger fear about the health of the entire financial system (Duvvuri 2024). Depositors are aware that financial institutions are interconnected. Policymakers should anticipate such risks and, if possible, introduce corrective actions that will address such concerns and mitigate contagion. The Indian government’s expansion of deposit insurance in the Yes Bank 2020 case before placing the bank under a moratorium served that purpose. In the US–Reserve Fund 2008 case, widespread redemptions among prime funds subsided after the Fed implemented the new facilities to provide liquidity to eligible funds (SEC 2010; SEC 2023; Shapiro 2012; US GAO 2023). 
+
+Several of our cases also suggest that a history of bank holidays or restrictions can aggravate contagion in a crisis and detract from the efficacy of the tools. In Argentina 2001, Cyprus 2013, and Ecuador 1999, a record of previous bank holidays or withdrawal restrictions fueled runs during new periods of distress, before the bank holiday was declared. Research from the SEC also found that its regulation permitting, but not requiring, fund administrators to impose a redemption gate (suspension) on a fund at a certain liquidity threshold to provide a “cooling off” period had the opposite effect. Administrators avoided using this feature, and investors ran in anticipation that a redemption gate would be imposed at the threshold (SEC 2022, 7252). Policymakers should consider these aggravating effects when deciding whether to impose a bank holiday and work to mitigate them. 
+
+**Authorities should take steps to reopen only banks that are viable—potentially by injecting new capital—so that runs do not restart.** The success of any bank holiday is dependent on the ability of the government to (a) apply appropriate corrective actions to 
+
+
+address the underlying problem and then (b) reopen only viable banks. Our cases and the literature suggest that this formula will promote successful reopening and that differentiation—between viable banks, which reopen, and unsound banks, which do not—is critical to restore trust in the banks (see US 1933 and US–Rhode Island 1991). Doing otherwise, especially reopening nonviable banks, risks a restart of runs and a continued lack of trust in the banking system. Policymakers should be prepared to inject capital into banks that need it to be viable before reopening and support reopened banks with additional liquidity if needed (see US 1933). 
+
+Policymakers should also communicate to depositors and the public the efforts undertaken to ensure viability, which will help contain contagion. In the India–Yes Bank 2020 case, the RBI issued reassuring statements regarding the stability of the system when Yes Bank reopened. In US 1933, authorities provided broad-based liquidity so that the reopened banks could satisfy withdrawal requests, de facto guaranteed all deposits, and communicated to the public the steps taken to ensure that the reopened banks were “sound.” 
+
+**If authorities cannot expeditiously apply corrective actions to resolve the underlying distress, reopening the banks with withdrawal restrictions will enable control of banking activity until a full resolution can be achieved.** Fiscal or political challenges can hinder authorities’ ability to quickly resolve banking problems. However, banks are critical to a country’s economy, and governments are typically under pressure to reopen their banks swiftly once they have implemented a bank holiday. In four of our cases—Argentina 2001, Cyprus 2013, Ecuador 1999, and Greece 2015—the authorities reopened banks without having resolved the underlying stresses as a result of either limited fiscal capacity, political will, lack of infrastructure, or circumstances outside their control, such as the time needed to (a) renegotiate external funding (Argentina 2001 and Ecuador 1999) or (b) address currency stresses (Cyprus 2013 and Greece 2015). However, recognizing the run risk, the governments continued to restrict some banking activities, imposing withdrawal restrictions, account freezes, or term extensions, to control withdrawals of funds until a more definitive solution to the underlying problem could be implemented. In Argentina 2001 and Ecuador 1999, banking crises were made worse by simultaneous currency crises, prompting the governments to also impose capital controls to prevent money from leaving the country. 
+
+Reopening banks with withdrawal limits may enable authorities to manage outflows while working toward a broader solution. However, restrictions of any type present a high risk of disaffection from depositors and the public and can damage the public’s trust in the government and banking system (see Key Design Decisions No. 2, Part of a Package, and No. 8, Treatment of Depositors or Investors). If restrictions are needed, policymakers should consider those which minimize losses to depositors and appear fair and should contemplate lifting restrictions as soon as possible. Doing so is likely to promote increased cooperation and minimize negative perceptions from the public compared to broad restrictions maintained in place for long periods. 
+
+Whichever approach is employed, communicating clearly and effectively to depositors and the public the efforts being made to resolve the situation and reestablish depositor access to 
+
+
+the full amount of their funds is highly recommended to engage public cooperation and minimize civic unrest. 
+
+**Policymakers should take steps in advance to create stable banks and regulatory infrastructure, mitigate runs, and avoid the need for a bank holiday.** Credible deposit insurance should prevent bank runs, when effectively communicated and fortified by a rigorous bank supervisory regime and a tailored resolution process. Such tools should empower authorities to effectively address troubled banks proactively and minimize or eliminate the need for a bank holiday. The availability of such tools will also promote stable banks that may best be able to withstand exogenous shocks that might make a bank holiday or withdrawal restrictions unavoidable. 
+
+
+## **References** 
+
+Awalt, Francis Gloyd. 1969. “Recollections of the Banking Crisis in 1933.” _Business History Review_ 43, no. 3: 347–71. 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4149 
+
+Board of Governors of the Federal Reserve System (Fed). 2023. “Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley Bank.” April 28, 2023. https://elischolar.library.yale.edu/ypfs-documents2/4025 
+
+———. n.d. “Bank Suspensions, 1921-1936.” https://elischolar.library.yale.edu/ypfs-documents2/5501 
+
+British Broadcasting Company (BBC). 1999. “Ecuador’s President Addresses Nation on Economic Crisis.” British Broadcasting Company, March 12, 1999. https://elischolar.library.yale.edu/ypfs-documents2/4415/ 
+
+Central Bank of Cyprus (CBC). 2013. “The Enforcement of Restrictive Measures on Transactions in Case of Emergency Law of 2013 (Unofficial Translation).” Press release, March 28, 2013. 
+
+https://elischolar.library.yale.edu/ypfs-documents2/5179 
+
+Collyns, Charles, and G. Russell Kincaid, eds. 2003. “Managing Financial Crises: Recent Experience and Lessons for Latin America.” IMF Occasional Paper No. 217, April 10, 2003. https://elischolar.library.yale.edu/ypfs-documents2/5503 
+
+Conti-Brown, Peter, and Sean H. Vanatta. 2021. “The Logic and Legitimacy of Bank Supervision: The Case of the Bank Holiday of 1933.” _Business History Review_ 95, no. 1: 87– 120. 
+
+https://elischolar.library.yale.edu/ypfs-documents/11196/ 
+
+Das, Shaktikanta. 2020. “Indian Economy at a Crossroad: A View from Financial Stability Angle.” Speech delivered virtually at the Seventh Banking & Economics Conclave organized by the State Bank of India, July 11, 2020. 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1605 
+
+Decker, Bailey. 2025. “Ecuador: National Bank Holiday, 1999.” _Journal of Financial Crises_ 7, no. 2. 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/5/ 
+
+Duvvuri, Subba Rao. 2011. “Bank Resolution Framework Challenges in the Indian Context.” Inaugural address delivered at the International Association of Deposit Insurers (IAD)– Deposit Insurance and Credit Guarantee Corporation (DICGC) International Conference, 
+
+
+organized by the DICGC, November 14, 2011, Jodhpur, India. https://elischolar.library.yale.edu/ypfs-documents2/4326 
+
+———. 2024. “Lessons Learned Interview by Salil Gupta, November 29, 2023.” Yale Program on Financial Stability Lessons Learned Oral History Project. Transcript. https://elischolar.library.yale.edu/ypfs-documents2/5169 
+
+European Commission (EC). 2013. “The Economic Adjustment Programme for Cyprus.” European Economy, Occasional Paper No. 149, May 2013. https://elischolar.library.yale.edu/ypfs-documents2/2115 
+
+Fitch Ratings. 2019. “Argentina Sovereign Default Highlights Mutual Fund Gating Risk.” Fitch Wire, September 13, 2019. 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4670 
+
+Gardephe, Paul G. 2010. Memorandum Opinion and Order – _In re the Reserve Fund Securities and Derivative Legislation_ . February 24, 2010. https://elischolar.library.yale.edu/ypfs-documents2/4058 
+
+George, Ayodeji. 2025. “United States: National Bank Holiday, 1933.” _Journal of Financial Crises_ 7, no. 2. 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/8/ 
+
+George, Ayodeji, and Sophia Alden. 2025. “United States: Rhode Island Limited Bank Holiday, 1991.” _Journal of Financial Crises_ 7, no. 2. https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/10/ 
+
+Gupta, Salil. 2025. “India: Yes Bank Moratorium, 2020.” _Journal of Financial Crises_ 7, no. 2. https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/7/ 
+
+Heaphy, Owen. 2025. “Argentina: National Bank Holidays, 2001.” _Journal of Financial Crises_ 7, no. 2. 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/3/ 
+
+Heaphy, Owen, and Anmol Makhija. 2025. “Argentina: Mutual Fund Suspensions, 2019.” _Journal of Financial Crises_ 7, no. 2. 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/2/ 
+
+International Monetary Fund (IMF). 2000. “Ecuador: Selected Issues and Statistical Annex.” IMF Staff Country Report No. 00/125, October 18, 2000. https://elischolar.library.yale.edu/ypfs-documents/14912 
+
+———. 2003. “Argentina: 2002 Article IV Consultation-Staff Report.” IMF Country Report No. 03/226, July 2003. https://elischolar.library.yale.edu/ypfs-documents2/4740 
+
+
+———. 2004. “Evaluation Report: The IMF and Argentina, 1991–2001.” IMF Independent Evaluation Office, September 30, 2004. 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4743 
+
+Jácome H., Luis Ignacio. 2004. “The Late 1990s Financial Crisis in Ecuador: Institutional Weaknesses, Fiscal Rigidities, and Financial Dollarization at Work.” IMF Working Paper No. 04/12, January 2004. 
+
+https://elischolar.library.yale.edu/ypfs-documents/14913 
+
+Jaremski, Matthew S., Gary Richardson, and Angela Vossmeyer. 2023. “Signals and Stigmas from Banking Interventions: Lessons from the Bank Holiday in 1933.” NBER Working Paper No. 31088, October 2023. https://elischolar.library.yale.edu/ypfs-documents2/4152 
+
+Kelly, Steven, Vincient Arnold, Greg Feldberg, and Andrew Metrick. 2025. “Ad Hoc Emergency Liquidity Programs in the 21st Century.” _Journal of Financial Crises_ 7, no. 1: 57– 106 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/3 
+
+Lestz, David J. 2011. “Gates, A Primer.” _Bloomberg Law Reports–Securities Law_ 5, nos. 34 and 35 (September). 
+
+https://elischolar.library.yale.edu/ypfs-documents2/5508 
+
+Lyons, John, David Plumb, and Helen Murphy. 2001. “Argentina to Limit Withdrawals, Overseas Transfers.” Bloomberg News, December 1, 2001. https://elischolar.library.yale.edu/ypfs-documents2/4744 
+
+McNamara, Christian M., Adam Kulam, Greg Feldberg, and Andrew Metrick. 2022. “Account Guarantee Survey.” _Journal of Financial Crises_ 4, no. 2: 40–85. https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/2 
+
+McNamara, Christian M., Carey K. Mott, Salil, Gupta, Greg Feldberg, and Andrew Metrick. 2024. “Survey of Resolution and Restructuring in Europe: Pre- and Post-BRRD.” _Journal of Financial Crises_ 6, no. 1: 1–34. 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/1 
+
+Makhija, Anmol. 2025. “United States: Reserve Primary Fund Suspension, 2008.” _Journal of Financial Crises_ 7, no. 2. 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/9/ 
+
+Ministry of Finance (MoF). 2020. “Ministry of Finance (Banking Division) Notification - Extraordinary - Official Gazette.” CG-DL-E-05032020-216550, March 5, 2020. (In Hindi.) https://elischolar.library.yale.edu/ypfs-documents2/1558 
+
+Rhee, June, Junko Oguri, Greg Feldberg, and Andrew Metrick. 2022. “Broad-Based Capital Injection Programs.” _Journal of Financial Crises_ 4, no. 1: 1–48. https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/1 
+
+
+Rhee, June, Benjamin Hoffner, Greg Feldberg, and Andrew Metrick. 2024. “Survey of Ad Hoc Capital Injections.” _Journal of Financial Crises_ 6, no. 3: 1–34. 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/1/ 
+
+Roosevelt, Franklin D. 1933. “Proclamation 2040—Continuing in Force the Bank Holiday Proclamation of March 6, 1933.” American Presidency Project, March 9, 1933. https://elischolar.library.yale.edu/ypfs-documents2/4148 
+
+———. 1934. _On Our Way_ . New York: John Day Company. https://elischolar.library.yale.edu/ypfs-documents2/4145 
+
+Schaefer-Brown, Stella. 2024. "Greece: Piraeus Bank Capital Injection, 2015." _Journal of Financial Crises_ 6, no. 3: 191–207. 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/10/ 
+
+———. 2025a. “Cyprus: National Bank Holiday, 2013.” _Journal of Financial Crises_ 7, no. 2. https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/4/ 
+
+———. 2025b. “Greece: National Bank Holiday, 2015.” _Journal of Financial Crises_ 7, no. 2. https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/6/ 
+
+Securities and Exchange Commission (SEC). 2008. “Exhibit 5 - SEC’s Proposed Distribution Plan.” September 15, 2008. 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4077 
+
+———. 2010. “Money Market Fund Reform.” Final Rule, 75 Fed. Reg. 10060. March 4, 2010. https://elischolar.library.yale.edu/ypfs-documents2/4116 
+
+———. 2022. “Money Market Fund Reforms.” Proposed Rule, 87 Fed. Reg. 7248. February 8, 2022. https://elischolar.library.yale.edu/ypfs-documents2/5505 
+
+———. 2023. “Money Market Fund Reforms; Form PF Reporting Requirements for Large Liquidity Fund Advisers; Technical Amendments to Form N–CSR and Form N–1A.” Final Rule, 88 Fed. Reg. 51404. August 3, 2023. 
+
+https://elischolar.library.yale.edu/ypfs-documents2/5506 
+
+Shapiro, L. Mary. 2012. “Perspectives on Money Market Mutual Fund Reforms.” Testimony before the Senate Committee on Banking, Housing, and Urban Affairs, June 21, 2012. https://elischolar.library.yale.edu/ypfs-documents2/4078 
+
+Unsal, D. Filiz, and Hendre Garbers. 2021. “Central Bank Communication through COVID19—Focusing on Monetary Policy.” IMF Special Series on COVID-19, February 3, 2021. https://elischolar.library.yale.edu/ypfs-documents2/5507 
+
+
+US Government. 1933. “Documents and Statements Pertaining to the Banking Emergency.” March 31, 1933. 
+
+https://elischolar.library.yale.edu/ypfs-documents/11236/ 
+
+US Government Accountability Office (US GAO). 2023. “Money Market Mutual Funds: Pandemic Revealed Unresolved Vulnerabilities.” Report No. GAO-23-105535, February 2023. 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4122 
+
+Copyright 2025 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

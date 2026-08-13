@@ -1,0 +1,538 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 3 
+2020 
+The United Kingdom's Secured Commercial Paper Facility (U.K. The United Kingdom's Secured Commercial Paper Facility (U.K. 
+GFC) GFC) 
+Claire Simon 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Administrative Law Commons, Banking and Finance Law Commons, Economic Policy 
+Commons, Finance Commons, and the Macroeconomics Commons 
+Recommended Citation Recommended Citation 
+Simon, Claire (2020) "The United Kingdom's Secured Commercial Paper Facility (U.K. GFC)," Journal of 
+Financial Crises: Vol. 2 : Iss. 3, 474-487. 
+DOI: https://doi.org/10.17132/2693-3179.1076 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/21 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol2/iss3/21
+
+--- Page 3 ---
+Secured Commercial Paper Facility (UK)1 
+ 
+Claire E. Simon2 
+Yale Program on Financial Stability Case Study 
+August 22, 2017, revised: October 10, 2020 
+Abstract 
+In mid -2009, the Bank of England (Bank) opened the Secured Commercial Paper Facility 
+(SCPF) as part of its larger Asset Purchase Facility (APF). Through the facility, the Bank 
+offered to purchase secured commerci al paper (SCP), a form of asset backed commercial 
+paper, issued by approved programs from both dealers acting as princip al in the primary 
+market and after issue from secondary market holders. The facility was designed to establish 
+the Bank as a ready buyer of SCP in the primary market and as a backstop purchaser in the 
+secondary market. In extending the APF to include purchases of SCP, the Bank aimed to give 
+smaller companies and companies below investment grade quality access to funding, and to 
+improve access to short term working capital for companies that affected the UK economy. 
+To be eligible to participate, programs had to have  underlying assets that provided short 
+term credit to borrowers making a material contribution to the UK economy. Only one 
+program was deemed eligible, and the Bank made regular, small purchases of SCP from that 
+program between November 2010 and November 2 011. The SCPF was formally closed on 
+August 4, 2016. 
+Keywords: secured commercial paper, backstop purchaser, Bank of England 
+  
+ 
+1 This case study is part of the  Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering the responses to the global financial crisis that pertain to  a market liquidity programs.  
+Cases are available from the Journal of Financial Crises  at https://elischolar.library.yale.edu/journal -of-
+financial-crises/. 
+2 Claire Simon - Research Associate, YPFS, Yale School of Management.  
+474
+
+--- Page 4 ---
+At a Glance  
+In order to increase the availability of 
+credit to corporate borrowers during the 
+Global F inancial Crisis, in January 2009, 
+Her Majesty’s Treasury authorized the 
+Bank of England (Bank) to begin 
+purchasing private assets through a newly 
+created Asset Purchase Facility (APF). The 
+Bank soon began purchasing investment  
+grade sterling commercial paper under the 
+Commercial Paper Fa cility (CPF) but 
+excluded asset backed commercial paper 
+from pa rticipation. In August, after 
+soliciting advice on extending the APF, the 
+Bank opened the Secured Commercial 
+Paper Facility (SCPF), through which it offered to purchase secured commercial paper (SCP), 
+a form of asset backed commercial paper, from eligible programs in both the primary and 
+secondary market. 
+Though the operational format for the SCPF was largely identical to that of the CPF, there 
+were some impo rtant distinctions. Purchases under the SCPF were restricted to programs 
+with underlying assets that provided credit to borrowers that made a material contribution 
+to economic activity in the UK. In addition, limits were set regarding the weighted average 
+life and the final maturity of programs’ assets. The Bank intended for the SCPF to be 
+temporary, and stated that it would provide a 12 month notice of the SCPF’s withdrawal once 
+it was satisfied that liquidity had returned to corporate credit markets. Only  one program 
+was deemed eligible for participation in the SCPF, and the Bank made modest purchases of 
+SCP between November 2010 and November 2011. The SCPF was formally closed on August 
+4, 2016. 
+Summary Evaluation 
+The Secured Commercial Paper Facility (SCPF) was dwarfed in size by the Commercial Paper 
+Facility (CPF), the Corporate Bond Secondary Market Scheme, and the Bank’s gilt purchases 
+through the Asset Purchase Facility ( APF), and thus SCPF has been ignored in assessments 
+of those purchases.  
+Summary of Key Terms 
+Purpose: To improve the functioning of markets for 
+the raising of short term working capital  
+Announcement Date   July 30, 2009 
+Facility Opened August 3, 2009 
+Facility Closed August 4, 2016 
+Peak Quarterly 
+Purchases 
+£30 million 
+Managed by Bank of England; HM 
+Treasury 
+Secured Commercial Paper Facility 
+475
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 5 ---
+Secured Commercial Paper Facility:  United Kingdom Context 
+GDP 
+(SAAR, Nominal GDP in LCU 
+converted to USD) 
+$3,102.8 billion in 2007 
+$2,948.0 billion in 2008 
+ 
+Source: Bloomberg 
+GDP per capita 
+(SAAR, Nominal GDP in LCU 
+converted to USD) 
+$50,567 in 2007 
+$47,287 in 2008 
+ 
+Source: Bloomberg 
+Sovereign credit rating (5-
+year senior debt) 
+ 
+As of Q4 2007: 
+ 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+As of Q4 2008: 
+ 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+Source: Bloomberg 
+476
+Secured Commercial Paper Facility (U.K.) Simon
+
+--- Page 6 ---
+Size of banking system 
+ 
+$4,895.3 billion in total assets in 2007 
+$5,299.6 billion in total assets in 2008 
+ 
+Source: Bloomberg 
+Size of banking system as a 
+percentage of GDP 
+157.8% in 2007 
+179.8% in 2008 
+ 
+Source: Bloomberg 
+Size of banking system as a 
+percentage of financial 
+system 
+Data not available for 2007/2008  
+ 
+Source: World Bank Global Financial Development 
+Database 
+5-bank concentration of 
+banking system 
+ 
+76.8% of total banking assets in 2007 
+79.1% of total banking assets in 2008 
+ 
+Source: World Bank Global Financial Development 
+Database 
+Foreign involvement in 
+banking system 
+14% of total banking assets in 2007 
+19% of total banking assets in 2008 
+ 
+Source: World Bank Global Financial Development 
+Database 
+Government ownership of 
+banking system 
+Data not available for 2007 
+1% of banks owned by the state in 2008 
+ 
+Source: Call et al. “Bank Ownership – Trends and 
+Implications” 
+477
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 7 ---
+Existence of deposit 
+insurance 
+100% insurance on deposits up to $4,000; 90% on 
+next $66,000 in 2007 
+100% insurance on deposits up to $93,000 after 
+October 2008  
+ 
+Source: World Bank Deposit Insurance Dataset, OECD  
+ 
+  
+478
+Secured Commercial Paper Facility (U.K.) Simon
+
+--- Page 8 ---
+I. Overview 
+Background 
+In January 2009, Her Majesty’s Treasury approved the plan for the Bank of England (Bank) 
+to begin purchasing private assets to restore liquidity to corporate credit markets. Purchases 
+were undertaken by the Bank through the Asset Purchase Facility (APF). One of the first 
+programs announced under the APF was the Commercial Paper Facility (CPF). Through the 
+CPF, the Bank purchased sterling-denominated, investment grade commercial paper at issue 
+from dealers in the primary market and from secondary  market holders. However, asset 
+backed commercial paper was not eligible for sale into the facility (Bank of England, “Market 
+Notice: Asset Purchase Facility,” 2009). In mid-2009, the Bank began to explore whether the 
+APF could be extended in order to improve access to short term working capital for 
+companies making a material contribution to the UK eco nomy through purchases  of asset 
+backed commercial paper (Bank of England, “Asset Purchase Facility: Consultation on 
+Proposals for Working Capital Facilities,” 2009).  
+Program Description 
+In July 2009, the Bank announced that it would begin purchasing secured commercial paper 
+(SCP) under a new Secured Commercial Paper Facility (SCPF). Secured commercial paper 
+can be defined as  “a form of asset backed commercial paper (ABCP) based  on a bundle of 
+relatively short term loans to a variety of borrowers” (Fisher 2010). In extending the APF to 
+purchase SCP, the Bank aimed to provide access to funding for smaller companies and 
+companies below investment grade credit quality that may have been excluded from earlier 
+asset purchase programs like the CPF (Bank of England, “News Release: Asset  Purchase 
+Facility,” November 15, 2010).    
+Similar to its use of the CPF, the Bank became a ready purchaser of high  quality assets from 
+dealers acting as principal and served as a backstop purchaser in the secondary market. SCP 
+programs had to apply to th e Bank in order to participate in the program. In assessing a 
+program’s eligibility, the Bank carefully examined its underlying assets, the maturity of the 
+underlying asset pools, the potential cr 3edit risk, and the program’s contribution to the UK 
+economy (Bank of England, “Market Notice: Asset Purchase Facility —Secured Commercial 
+Paper Facility,” 2009). 
+The B ank specified that direct short term credit to companies and short term credit to 
+consumers would likely fit the SCPF’s asset criteria. It also caut ioned that pools with term 
+asset backed securities (ABS) bonds , emerging market transactions, and synthetic assets 
+would generally render a program ineligible. The term ABS bonds restriction aligned with 
+the Bank’s desire to purchase short term assets. To be eligible for the facility, a program’s 
+assets could not have a weighted average life over nine months, and no single underlying 
+asset could have an expected final maturity of more than a year and a half (Bank of England, 
+“Market Notice: Asset Purchase Facility—Secured Commercial Paper Facility,” 2009). 
+Once a program was deemed eligible by the Bank, it offered to purchase sterling -
+denominated SCP with a maturity of one week to nine months via dealers in the primary 
+ 
+3 Compared to CPFF in the US very restrictive. Any lessons learned from the CPFF example that was 
+implemented here? 
+479
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 9 ---
+market and with an original maturity of nine months or less from investors in the secondary 
+market. The minimum individual security the Bank would purchase was £1 million nominal. 
+The bank restricted the proportion of a program’s outstanding securities that were eligible 
+for purchase by the SCPF. The Bank defined this limit as “based on the proportion of the 
+underlying assets in the programme providing credit to borrowers that make a material 
+contribution to economic activity in the UK” (Bank of England, “Market Notice: Asset 
+Purchase Facility—Secured Commercial Paper Facility,” 2009). Purchases under the SCPF 
+could be financed by advances from the Debt Management Office (DMO) or by central bank 
+reserves as part of the Monetary Policy Committee’s quantitative easing program (Bank of 
+England, “Asset Purchase Facility: Consultation on Proposals for Working Capital Facilities,” 
+2009). 
+Pricing for the facility was establi shed at a spread above the risk free rate, which was 
+determined by the B ank daily based on the maturity matched overnight index swap (OIS) 
+curve. The Bank discounted purchases in the primary market based on the maturity matched 
+OIS rate. When the facility was opened, the Bank announced that it would purchase SCP at 
+issue from dealers at a 100  basis point spread to the OIS ra te. For secondary holders, the 
+Bank purchased SCP at the lower of the above described primary market pricing mechanism 
+and the amortized cost from the security’s issue price. The Bank also charged secondary 
+holders selling SCP to the facility an additional  25 bp fee (Bank of England, “Market Notice: 
+Asset Purchase Facility—Secured Commercial Paper Facility,” 2009). 
+Outcomes 
+The Bank acknowledged that because the SCPF’s eligibility criteria was narrow, it would take 
+some time for institutions to establish SC P programs that could participate in the facility 
+(Bank of England, “Asset Purchase Facility: Quarterly Report 2009 Q4,” 2009). In November 
+2010, the Bank announced that a program had been deemed eligible for participation in the 
+SCPF and that it would beg in purchases shortly (Bank of England, “News Release: Asset 
+Purchase Facility,” November 15, 2010). The program continued to draw on the facility 
+through the fourth quarter of 2011. The SCPF made regular, small purchases of SCP from the 
+program, financed b y a deposit from the DMO. No total purchases in a single quarter 
+exceeded £30 million (Bank of England, “Asset Purchase Quarterly Report,” 2010-2011). The 
+SCPF was formally closed on August 4, 2016 (Bank of England, “Market Notice: Asset 
+Purchase Facility: Corporate Bond Purchase Scheme,” 2016). 
+II. Key Design Decisions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+1. The SCPF intended to improve the function of markets for the raising of short term 
+working capital. 
+As an extension of the CPF, the SCPF conducted purchases in both the primary and secondary 
+markets. The Bank purchased SCP at a spread to the OIS rate and charged secondary market 
+holders a fee, which was similar to the pricing mechanism of the CPF. Bo th the CPF and the 
+SCPF were designed to assist companies that made material contributions to the UK 
+economy, and both facilities restricted participation to commercial paper that was sterling 
+denominated. As detailed below, the SCPF was established to purchase short term assets. In 
+his authorization of asset purchases, the Chancellor of the Exchequer required that the Bank 
+solely purchase assets for which there would be a viable demand once corporate credit 
+480
+Secured Commercial Paper Facility (U.K.) Simon
+
+--- Page 10 ---
+markets recovered (Darling 2009). As a result, bo th the CPF and SCPF established credit  
+rating requirements. For the SCPF, the Bank required that programs have a short term credit 
+rating of A-1/P1/F1 or higher (Bank of England, “Market Notice: Asset Purchase Facility —
+Secured Commercial Paper Facility,” 2 009). Split ratings with one rating lower than 
+minimum disqualified the program , but ratings on negative watch did not (Mayer Brown 
+2009). 
+Though the two facilities were designed similarly, they were funded differently. The CPF was 
+originally funded by Tre asury bills issued by the Debt Management Office (DMO), but its 
+funding source changed once the Bank began quantitative easing shortly after the facility 
+opened. From that point until the facility was closed, all purchases were funded by the 
+creation of ne w central bank money (Benford et al. 2009). The SCPF, in contrast, was only 
+ever funded by Treasury bills issued by the DMO (Bank of England, “Asset Purchase 
+Quarterly Report,” 2010-2011).  
+In extending the SCPF, the Bank solicited consultation and comment s from the interested 
+industry participants through a consultative paper put forth on June 8, 2009.  
+2. The CPF was announced without a size limit or an end date.  
+The CPF was part of an Asset Purchase Facility (APF) that had a ceiling initially set at £50 
+billion. However, for the CPF, rather than setting a specific timeline or target purchase 
+amount, the Bank of England designed the facility to last for as long as the highly abnormal 
+conditions persisted in corporate credit markets that were impairing financ e of real 
+economic activity (Bank of England, “Market Notice: Asset Purchase Facility,” 2009). 
+3. The Bank purchased a minimum of £1 million of secured commercial paper from 
+eligible programs. 
+Sponsors of programs that wanted to sell SCP had to apply to the Bank in order to be deemed 
+eligible for the SCPF. In assessing eligibility, the Bank carefully examined a program’s 
+underlying assets. Once a program was accepted for participation in the SCPF, the Bank 
+offered to pur chase individual securities of at least £1 million. Program sponsors were 
+required to provide the Bank with regular updates on the program’s assets, and sponsors 
+could not add new asset pools into the program vehicle without first contacting the Bank 
+(Bank of England, “Market Notice: Asset Purchase Facility —Secured Commercial Paper 
+Facility,” 2009).  
+The Bank acknowledged that, given the strict eligibility requirements, it could take some 
+time to establish programs that could participate in the SCPF. As a r esult, the Bank 
+announced that it would wait to give the required 12 -month notice of termination of the 
+SCPF until at least the third month after the facility opened. Ultimately, the SCPF did not close 
+until 2016 (Bank of England, “Market Notice: Asset Purchase Facility—Secured Commercial 
+Paper Facility,” 2009). 
+4. Programs were required to have underlying assets that provided credit to 
+borrowers making a contribution to the UK economy. 
+The Bank of England set up the SCPF specifically to purchase SCP that “ass ist[ed] in the 
+provision of credit to support economic activity in the UK.” The Bank determined whether a 
+481
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 11 ---
+program supported economic activity in the UK by examining its underlying assets. While 
+the SCP had to be sterling denominated, there was no currency restriction on the underlying 
+assets (Bank of England, “Market Notice: Asset Purchase Facility —Secured Commercial 
+Paper Facility,” 2009). 
+The Bank gave the following examples of assets that would likely meet its requirements: 
+trade receivables, equipment l eases, cre dit card receivables, and short term loans to 
+consumers (Bank of England, “Market Notice: Asset Purchase Facility—Secured Commercial 
+Paper Facility,” 2009). 
+5. Only secured c ommercial paper backed by short term assets was eligible for 
+purchase under the SCPF.  
+The SCPF sought to purchase SCP backe d by assets that provided short term credit to 
+companies and consumers in the UK. On the other hand, the Bank was concerned not to 
+encourage the sort of risk -taking from extreme maturity transformation, which had caused 
+so many problems leading up to the crisis. Therefore, a restriction was put in place on the 
+degree of maturity mismatch between the underlying assets and the securities they backed 
+(Fisher 2010). A program was considered eligible for the SCPF only if the weighted average 
+life of its underlying assets was less than nine months, and no single underlying asset could 
+have an expected final maturity of over a year and a half (Bank of England, “Market Notice : 
+Asset Purchase Facility—Secured Commercial Paper Facility,” 2009). 
+Additionally, eligible SCP must have been issued through Crest, Euroclear, or Clearstream; it 
+could not have nonstandard features such as extendible maturity or subordination ; and the 
+Bank ensured appropriate diversification of asset pools (Mayer Brown 2009). However, any 
+announcement on specific diversity requirements have not been found. 
+6. Purchases were discounted based on the OIS rate to establish the Bank as a 
+backstop purchaser of secured commercial paper.  
+As discussed earlier, the Bank discounted purchases in the primary market based on the OIS 
+curve. It published the discount rate online daily. When the SCPF opened, the Bank offered 
+to purchase SCP at a 100 bp spread to the OIS rate at issue from dealers. For purchases from 
+counterparties on the secondary market, the Bank purchased assets at the lower of the price 
+determined by this method or the amortized cost from issue price. Secondary counterparties, 
+unlike primary issuers, were c harged a 25  bp fee (Bank of England, “Market Notice: Asset 
+Purchase Facility—Secured Commercial Paper Facility,” 2009). 
+This pricing structure was similar to that of the CPF, which purchased commercial paper “at 
+spreads that were significantly below those in the market at the time, but which were 
+significantly above those expected to prevail in normal conditions” (Fisher 2010). It also 
+aligned with the Bank’s stated intention of maintaining the SCPF only as long as “the highly 
+abnormal conditions in corporate credit markets persist and materially impair the financing 
+of real economic activity” (Bank of England, “Market Notice: Asset Purchase Facility —
+Secured Commercial Paper Facility,” 2009). Establishing prices that were attractive during 
+the credit crunch but that would become less appealing as liquidity was restored was 
+consistent with the explicitly stated purpose of the SCPF to establish the Bank as a “backstop 
+purchaser” (Bank of England, “Market Notice: Asset Purchase Facility—Secured Commercial 
+Paper Facility,” 2009). 
+482
+Secured Commercial Paper Facility (U.K.) Simon
+
+--- Page 12 ---
+7. The Bank restricted the amount of secured commercial paper it would buy from a 
+given program.   
+Consistent with its stated purpose, the Bank imposed limits on purchases under the SCPF 
+based on the proportion of a program’s underlying assets that provided credit to borrowers 
+making a material contribution to the UK economy (Bank of England, “Market Notice: Asset 
+Purchase Facility—Secured Commercial Paper Facility,” 2009). In its proposal for extending 
+the APF to purchase SCP, the Bank gave the following example: “if 80% of the assets met the 
+criterion, up to 80% of the securities issued by the programme would be eligible for 
+purchase” (Bank of England, “Asset Purchase Facility: Consultation on Proposals for Working 
+Capital Facilities,” 2009). This provision differed from the US asset purchase program, which 
+required that issuers be US entities or subsidiaries of US entities but did not establish rules 
+regarding underlying assets or the degree to which those underlying assets co ntributed to 
+the US credit market (Mayer Brown, “Bank of England Announces UK Secured Commercial 
+Paper Facility,” 2009).   
+This provision was the only restriction placed on the amount the Bank would buy under the 
+SCPF. This reflected the Bank’s desire to act as a backstop purchaser, or market maker of last 
+resort, until liquidity returned to SCP markets (Bank of England, “Market Notice: Asset 
+Purchase Facility—Secured Commercial Paper Facility,” 2009). The decision not to set a limit 
+for the amount of purch ases through the SCPF was also consistent with the Bank’s overall 
+strategy concerning asset purchases, which “was not to purchase a specific quantity of assets, 
+but rather to improve the functioning of those markets. In that respect, the knowledge that 
+the Bank stands ready to purchase assets may be as beneficial as actual purchases” (Dale 
+2010). 
+III. Evaluation  
+The SCPF has been largely ignored in studies of the Bank of England’s Asset Purchase Facility. 
+Its quarterly purchases oscillated between £25  million and £30  million in the year it 
+conducted regular asset purchases from November 2010 to November 2011 (Bank of 
+England, “Asset Purchase Quarterly Report,” 2010 -2011). The facility was not used in 2009 
+or the first three quarters of 2010, which the Bank partially attributed to changes in market 
+conditions. Normalized pricing in the US asset backed commercial paper market meant that 
+existing programs could fund themselves and had the capacity to fund further assets, which 
+rendered the need to create new program s for participation in the UK SCPF obsolete (Bank 
+of England, “Asset Purchase Facility: Quarterly Report 2009 Q4,” 2009).  
+Mayer Brown 2009 points out some design flaws with SCPF. First is that its relatively narrow 
+eligibility criteria may have limited it s use. It specifically notes that (1) the eligibility issue 
+could deter usage as a backstop since if investors could not identify the eligible portion then 
+they might be reluctant to rely on the SCPF as a “backstop” to purchase or roll over the CP 
+they hold; and (2) the requirements limited the extent to which existing ABCP programmes 
+could use the SCPF. Second, the initial spread of 100 bps over OIS was considered to b e 
+expensive for some conduits in the current market. Lastly, a hard -to-implement 
+concentration formula was presented in the consultation paper (Mayer Brown 2009).   
+483
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 13 ---
+IV. References 
+Bank of England. 2009. “Asset Purchase Facility: Consultation on Proposals for Working 
+Capital  Facilities.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Bank_of_England_Asset_Pur
+chase_Facility_Consultation_on_Proposals_for_Working_Capital_Facilities.pdf. 
+Bank of England. 2010 -2011. “Asset Purchase Facility: Quarterly Report.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Asset%20Purchase%20Faci
+lity%20Quarterly%20Report%20_%20Bank%20of%20England.pdf. 
+Bank of England. 2009. “Asset Purchase Facility: Quarterly Report 2009 Q4.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/apfquarterlyreport1001_20
+09_Q4.pdf. 
+Bank of England. 2009. “M arket Notice: Asset Purchase Facility.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Bank_of_England_Market_N
+otice_Asset_Purchase_Facility_2009_03_19.pdf. 
+Bank of England. 2009. “Market Notice: Asset Purchase Facility : Secured Commercial Paper 
+Facility.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Market_Notice_Asset_Purch
+ase_Facility_Secured_Commercial_Paper_Facility_2009_07_30.pdf. 
+Bank of England. November 15, 2010. “News Release: Asset Purchase Facility.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Bank_of_England_News_Rel
+ease_2010_11_15.pdf. 
+Benford, James, Stuart Berry, Kalin Nikolov, Chris Young, and Mark Robson. 2009. 
+“Quantitative Easing.” Bank of England Quarterly Bulletin, 49(2): 90 -100. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/quantitative-easing.pdf. 
+Dale, Spencer. 2010. “QE —One Year On.” Speech given at CIMF and MMF Conference, 
+Cambridge, UK, March 12, 2010. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Dale_QE_One_Year_On_2010
+_03_12.pdf. 
+Darling, Alistair.  2009. Letter to Mervyn King, January 29, 2009. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Letter_from_Chancellor_to_
+Governor_Bank_of_England_January_2009_1.pdf. 
+Fisher, Paul. 2010. “The Corporate Sector and the Bank of England’s Asset Purchases.” 
+Speech given at the Association of Corporate Treasurers , Winter Paper 2010, February 18, 
+2010. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Fisher_The_Corporate_Secto
+r_and_the_Bank_of_England%E2%80%99s_Asset_Purchases_2010_02_18.pdf. 
+Mayer Brown. 2009. “Bank of England Announces UK Secured Commercial Paper Facility.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Mayer 
+Brown_Aug0509_BOE_ Announces_UK_Secured_Commercial_Paper_Facility.PDF. 
+484
+Secured Commercial Paper Facility (U.K.) Simon
+
+--- Page 14 ---
+V. Key Program Documents 
+Summary of Program 
+Asset Purchase Facility: Consultation on Proposals for Working Capital Facilities  – Bank of 
+England document soliciting advice for cre ation of the SCPF . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Bank_of_England_Asset_Pur
+chase_Facility_Consultation_on_Proposals_for_Working_Capital_Facilities.pdf. 
+Bank of England Announces UK Secured Commercial Paper Facility – Mayer Brown document 
+summarizing key provisions of SCPF. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Mayer 
+Brown_Aug0509_BOE_ Announces_UK_Secured_Commercial_Paper_Facility.PDF. 
+Market Notice: Asset Purchase Facility —Secured Commercial Paper Faci lity (07/30/2009) 
+– Bank of England document outlining structure and guidelines of SCPF . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Market_Notice_Asset_Purch
+ase_Facility_Secured_Commercial_Paper_Facility_2009_07_30.pdf. 
+Implementation Documents 
+Asset Purchase Facility Documentation  – Compilation of all previous APF documentati on. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Asset%20Purchase%20Faci
+lity%20-%20Documentation%20_%20Bank%20of%20England.pdf. 
+SCPF Application Form  – Application required to determine eligibility for SCPF . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/appform-questionaire-
+cpf.pdf. 
+Settlement Procedures for Counterparties Participating in the Bank of England’s Asset 
+Purchase Facility (APF)  – Settlement procedures governing the SCPF dated June 15, 2009.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Settlement_Procedures_For
+_Counterparties_Participating_in_the_Bank_of_England's_Asset_Purchase_Facility_2009_03_
+05_0.pdf. 
+Terms and Conditions for Counterparties in the Bank of England’s Asset Purchase Facility  – 
+Terms an d conditions governing the SCPF dated July 29, 2009.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Terms_and_Conditions_for_
+Counterparties_in_the_Bank_of_England's_Asset_Purchase_Facility_2009_03_05.pdf. 
+Press Releases/Announcements 
+Market Notice: Asset Purchase Facility: Corporate Bond Purchase Scheme (08/04/2016) – 
+Bank of England announcement of SCPF’s formal closing . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Market_Notice_Asset_Purch
+ase_Facility_Corporate_Bond_Purchase_Scheme_2016_08_04.pdf. 
+News Release: Asset Purchase Facility (11/15/2010) – Bank of England announcement that 
+a program had been appro ved for participation in SCPF . 
+485
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 15 ---
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Bank_of_England_News_Rel
+ease_2010_11_15.pdf. 
+Reports/Assessments 
+Asset Purchase Facility: Quarterly Reports  – Paper discussing the SCP Facility as a potential 
+answer to the question of whether to extend the BOE’s Asset Purchase Facility (APF). The paper 
+also includes a proposal for a Supply Chain Finance Facility (SCF).  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Bank_of_England_Asset_Pur
+chase_Facility_Consultation_on_Proposals_for_Working_Capital_Facilities.pdf. 
+ 
+Copyright 2015, 2016, 2020  © Yale University. All rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu.  
+486
+Secured Commercial Paper Facility (U.K.) Simon

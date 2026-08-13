@@ -1,0 +1,1281 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 1 
+2024 
+Italy: Restructuring of Four Banks, 2015 Italy: Restructuring of Four Banks, 2015 
+Salil Gupta 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Gupta, Salil (2024) "Italy: Restructuring of Four Banks, 2015," Journal of Financial Crises: Vol. 6 : Iss. 1, 
+312-343. 
+DOI: https://doi.org/10.17132/2693-3179.1540 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/12 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol6/iss1/12
+
+--- Page 3 ---
+Italy: Restructuring of Four Banks, 20151 
+Salil Gupta2 
+Yale Program on Financial Stability Case Study 
+March 28, 2024 
+Abstract 
+The Italian government and Bank of Italy (B oI) presented a collective plan to resolve the 
+crisis at four regional banks in Italy in November 2015, to safeguard the local economies in 
+which these small and medium -size banks were located. The four banks had suffered from 
+low or negative equity capital due to losses in loans to small and medium enterprises and 
+retail clients and were placed under special administration between 2013 and 2015, with 
+unsuccessful attempts to raise private capital. Italian regulators split each bank into a bridge 
+or new bank, comprising all the good assets and liabilities of the original banks incl uding 
+customer loans and deposits, to ensure continuation of each bank’s operating activities. For 
+simplicity, the nonperforming loans (NPLs) of each bank were transferred to a single bad 
+bank. Italy’s National Resolution Fund—set up just before the resolution —was capitalized 
+by contributions from the banking sector, provided a total of EUR 3.6 billion in 2015 to 
+protect senior creditors and depositors, and recapitalize the bridge banks. Due to insufficient 
+funds, the Resolution Fund received an immediate loan of EUR 4 billion from Italy’s three 
+largest banks, and another l ine of credit  of EUR 1.65 billion  expiring in 18 months , from 
+Italy’s state-owned lender, Cassa Depositi e Prestiti . Due to the absence of a transitional 
+period that would have given banks time to build up liabilities available for bail-in, the Italian 
+authorities chose to delay the full implementation of the E uropean Union’s Bank Recovery 
+and Resolution Directive, which would have required the bail-in of at least 8% of liabilities, 
+until January 1, 2016 . The BoI’s resolution plan provided capital to the bridge banks up to 
+about 9% of risk -weighted assets and determined the write -down of all the equity and 
+subordinated debt holders of the four banks. There was significant negative public reaction 
+to the write-down of subordinated bonds held by mostly retail investors , which  led to a 
+compensation plan by the government. All four bridge banks were s old in 2017 , with NPL 
+tranches sold to a specialized fund, Atlante, and additional capital injections provided by the 
+Resolution Fund. The BoI provided aid of nearly EUR 5.2 billion to the four banks from 2015 
+to 2017 and did not recover any capital in the sales. 
+Keywords: Bail-in, BoI, BRRD, Italy, Resolution Fund 
+ 
+1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering bank resolutions and restructurings. A survey of all the cases in this series (McNamara et 
+al. 2024)  and the individual cases under lying it are available from the Journal of Financial Crises  at 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/. 
+2 Research Associate, YPFS, Yale School of Management. 
+312
+
+--- Page 4 ---
+Overview 
+This module is about the resolution of four 
+regional banks in Italy by the Bank of Italy 
+and the Italian government in 2015.  
+In November 2015, the Bank of Italy (BoI) 
+and the Italian government acted to 
+collectively resolve four small regional 
+banks that were already under special 
+administration—Banca Marche , Banca 
+Popolare dell'Etruria e del Lazio (Etruria), 
+Cassa di Risparmio di Ferrara (Carife), and 
+Cassa di Risparmio d ella Provincia d i 
+Chieti (Carichieti) (EC 2015a; EC 2015b; 
+EC 2015c; EC 2015d). These banks in total 
+represented just 1% of system -wide 
+deposits, but they had a significant impact 
+on their local economies (BoI 2015a). The 
+four banks had business models focused 
+on lending to small and medium 
+enterprises (SMEs) and retail clients , and 
+funding sources comprised mostly retail 
+deposits (see Figure 8 in Appendix A). The 
+branches of the four banks also 
+represented a high percentage of the total 
+provincial and regional bank branches in 
+the respective regions of Italy. 
+The four banks were placed under special 
+administration between 2013 and 2015  
+due to financial and capital losses from 
+increased loan losses to th eir SME and 
+retail clients. A special administrator was 
+appointed to each of the banks  after 
+management was replaced and  had a 
+range of responsibilities including 
+improving the quality of the loan portfolio, 
+raising capital, reorganizing the bank, and 
+reducing costs and head counts. The four 
+banks faced inadequate capital  and 
+liquidity levels while in special 
+administration, owing to  deposit flight 
+and an inability to raise private capital 
+(see Appendix A for details of each bank). 
+Key Terms 
+Purpose: To avoid “prolonging the paralysis of the four 
+banks” and to safeguard local economies where these 
+regional banks operated (BoI 2015a) 
+Size and Nature of 
+Institution 
+Small and medium-size banks 
+with regional lending to SMEs and 
+retail clients 
+Source of Failure Financial losses from loan loss 
+provisioning, inability to raise 
+capital, deposit flight (see 
+Appendix A) 
+Start Date November 22, 2015 
+End Date October 3, 2022 with the final 
+sale of RGCS to Cerved SpA 
+Approach to 
+Resolution and 
+Restructuring 
+Asset separation creating new 
+bridge banks with good assets, to 
+be sold in a bidding process; 
+single bad bank acquired NPLs for 
+liquidation; loss sharing with 
+equity and subordinated 
+bondholders; National Resolution 
+Fund for capital 
+Outcomes BoI contributed EUR 5.2 billion of 
+aid to four regional banks, with 
+EUR 3.6 billion in 2015 and EUR 
+1.56 billion in 2017; UBI bought 
+three bridge banks in April 2017; 
+BPER bought Nuova Carife in June 
+2017; bad bank or RGCS bought 
+NPLs of bridge banks in 2016–
+2017, required a capital injection 
+in 2020, and sold its platform in 
+2022; Atlante fund also bought 
+NPLs of bridge banks 
+Notable Features BoI and Italian government 
+resolved banks after running them 
+in special administration for as 
+long as two years; public outcry 
+over write-down of subordinated 
+debt holders led to government 
+reimbursement; first application 
+of BRRD, although without the 
+bail-in tool (not applicable at the 
+resolution date); resolution 
+implemented in the BRRD 
+framework avoided bailing in 
+senior depositors and creditors 
+313
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 5 ---
+On November 22, 2015, the BoI and Italian government acted to resolve the four banks by 
+splitting them into four “good” or bridge banks with good assets, deposits, and other senior 
+liabilities, and a single  “bad” bank , or asset management vehicle,  for the nonperforming 
+loans3 (NPLs) (BoI 2015a). The BoI also created a National Resolution Fund to fund the four 
+bridge banks and the single bad bank (EC 2015a; EC 2015b; EC 2015c; EC 2015d). The bridge 
+banks remained open with valid banking license s, and the BoI was required to sell 100% of 
+its stake to private buyers no later than April 30, 2016. The banking license would be revoked 
+no later than two year s after the resolution date , after which  the bridge bank would enter 
+insolvency proceedings (EC 2015a) . With two amendments of the initial European 
+Commission (EC) decision, the deadline for the sale of the bridge banks was extended to 
+December 2016 (EC 2016b). 
+Each bridge bank was controlled by the BoI as the National Resolution Authority. The 
+Resolution Fund first contributed EUR 1.7 billion in cash to protect the depositors and other 
+senior creditors at the original four banks . These contributions repres ented a total loss for 
+the fund—it received in return senior claims on the residual bank legal entities, which were 
+immediately liquidated . Existing equity and subordinated debt holders were written off. 
+Second, the fund contributed EUR 1.8 billion to recapitalize the bridge banks to bring the 
+banks’ capital to the regulatory minimum of 9% of risk-weighted assets (RWA) (BoI 2015a).  
+The bad bank, an asset management vehicle without a banking license called REV Gestione 
+Crediti SpA (RGCS), was established  in November 2015 and took over the NPLs of all four 
+banks between February 2016 and January 2017 at a written-down value of EUR 1.5 billion 
+(from original book value of EUR 8.5 billion) ;4 it was capitalized by the Resolution Fund for 
+EUR 140 million . The bad bank would sell the NPLs over time , provide proceeds to the 
+Resolution Fund,  and then cease to exist  (BoI 2015a) . The Resolution Fund received an 
+immediate loan of EUR 4 billion from Italy’s three largest banks —Banca Intesa Sanpaol o, 
+UniCredit, and Unione di Banche Italiane ( UBI Banca)—including EUR 1.65 billion expiring 
+in 18 months guaranteed by the  Cassa Depositi e Prestiti  (CDP), an Italian state lender  
+(Reuters 2015) . RGCS funded its purchase of the NPLs through a transitional financing 
+agreement with a pool of Italian banks (BoI 2021). 
+The BoI created the Resolution Fund and transposed the European Union’s (EU’s) Bank 
+Recovery and R egulation Directive (BRRD) 2014/59/EU into Italian law by Legislative 
+Decree 180/2015 on November 16, 2015 (EC 2015a; EC 2015b; EC 2015c; EC 2015d) . BoI 
+pursued a bridge bank strategy to ensure the continuity of the essential functions of the bank 
+to its local economies  and allow for the transfer of ownership rights from the banks under 
+resolution to third parties when market conditions were more favorable (BoI 2016a). 
+ 
+3 NPLs that were worst in quality were transferred to the bad bank, while other NPLs (unlikely to pay or past 
+due) remained in the bridge banks. 
+4 BoI determined these values based on provisional valuation s carried out by the central bank acting as the 
+National Resolution Authority. In line with the legal framework, this provisional valuation was followed by an 
+external valuation by independent experts, which determined the final values in the resolution. The E uropean 
+Commission’s decisions on State Aid were based on the updated valuations provided by independent experts.  
+314
+Italy: Restructuring of Four Banks Gupta
+
+--- Page 6 ---
+Although the legislature passed its BRRD law in November, Reuters reported that the Italian 
+authorities wanted to delay implementation of BRRD until January 2016 to allow time to 
+resolve the four regional banks without imposing losses on senior bondholders and deposits 
+above EUR 100,000, which the bail -in tool under the BRRD framework may have required  
+(Reuters 2015). The authorities concluded that there was not enough time to require banks 
+to raise a sufficient amount of debt that would be available for bail-in. The BRRD would have 
+required a bail-in of at least 8% of liabilities before providing any public capital, such as from 
+the Resolution Fund (World Bank 2016). The International Monetary Fund (IMF) and Fitch 
+Ratings have noted that this  is the reason Italian authorities chose to delay the 
+implementation of the BRRD and the bail -in tool to January 2016 (ENPNews 2015; IMF 
+2020). Instead, the government used the Resolution Fund to help the bridge banks reach the 
+regulatory capital target (9% of total RWA ), fully protecting senior bondholders and 
+depositors (BoI 2015a; BoI 2015b) . The Resolution Fund was capitalized through ad hoc 
+contributions from the banking sector (World Bank 2016). 
+But the government ultimately backtracked on the write-down of subordinated debt holders. 
+The subordinated debt that was written down had been sold to retail investors (ENPNews 
+2015). Almost 130,000 retail investors and pensioners lost their investments as part of the 
+resolution measure, which “drew fierce criticism in Italy” and led to a parliamentary inquiry 
+(BBC News 2015). Research by banking scholar Cristina Rovera indicates that a bulk of the 
+subordinated securities were issued between 2006 and 2013, shortly before the Italian 
+banks entered special administration (Rovera 2022). The IMF notes that a large number of 
+Italian retail investors were incentivized to invest in subordinated debt due to the favorable 
+tax treatment (IMF 2020). 
+In January 2017, UBI Banca, Italy’s third-largest bank, agreed to buy the equity of the bridge 
+banks of Marche, Etruria, and Carichieti, with total assets of EUR 23.3 billion, by paying EUR 
+1.0 (EC 2017a; Sanderson 2017) . The BoI’s Resolution and Crisis Management  team 
+continued to look for buyers for Nuova Carife (BoI 2017). The BoI’s terms in 2017 provided 
+up to EUR 1.56 billion of support through a  capital injection of up to EUR 810 million from 
+the Resolution Fund, additional guarantees of up to EUR 750 million to UBI,5 and the transfer 
+of other nonperforming loans to specialized investors (EC 2017a).  
+The EC noted that the 2017 measures by the B oI provided additional total aid of EUR 1.56 
+billion to the three bridge banks that were sold to UBI . The EC also estimated that the total 
+State Aid provided to the three banks was between EUR 4.1  billion and EUR 4.9 billion, 
+representing 19–22% of the total assets (EC 2017a).  
+In March 2017, BPER Banca SpA committed to buy the equity of the bridge bank of Carife for 
+EUR 1.0. Nuova Carife reduced its full-time employee count by roughly 40%, to provide an 
+additional capital injection to “reach a net equity of EUR 153 million  equivalent to a CET16 
+ratio at least equal to [5%-10%] at the end of 2017” (brackets in original) and transfer other 
+ 
+5 Figures provided were the best estimates at the time. The final real figures were slightly different and updated 
+later.  
+6 Core equity Tier 1 capital. 
+315
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 7 ---
+nonperforming loans to specialized investors  (EC 2017b, 6). Atlante fund was set  up as an 
+underwriter of last resort to buy NPL tranches from the four bridge banks as part of the sale 
+agreements to UBI and BPER (EC 2017a; EC 2017b; World Bank 2016) . Figure 1 shows a 
+timeline of events relevant to the restructuring of Italy’s four troubled banks.  
+Figure 1: Timeline of the Restructuring of Four Banks in Italy 
+Date Event  
+May 2013 Carife is placed in special administration, with its management suspended and an 
+interim administrator appointed to restructure the bank. 
+June 2013 Marche fails to raise additional capital of EUR 400 million. 
+October 2013 Marche is placed in special administration amidst breaches of law, financial losses, and 
+inability to raise capital. 
+2014 Marche’s special administration is extended by ministerial decree to October 2015 and 
+further by the BoI to December 2015. 
+September 2014 Carichieti is placed in special administration due to legal breaches by the management 
+and deposit flight. 
+February 2015 Etruria is placed in special administration, with concerns of loan loss provisioning and 
+deposit flight. 
+September 2015 Carife’s administrator has been unable to raise capital, and the bank now has a 
+negative net equity position. 
+November 18, 2015 Set-up of the National Resolution Fund is to be managed by the BoI. 
+November 22, 2015 BoI and Italian government initiate a plan to resolve the crisis in four regional Italian 
+banks by creating four good bridge banks and a single bad bank  (or RGCS), backed by 
+the National Resolution Fund. 
+December 2015 BoI initiates the process to sell the bridge banks of the four resolved banks. 
+January 2016 BoI invites expressions of interest for the sale of the bridge banks to other investors . 
+April 2016 BoI notes a one-month delay in sending information memorandums to potential 
+investors and a two-month delay in closing the books of the four banks for 2015. 
+June 2016 BoI appoints a monitoring trustee to implement the 2015 resolution. 
+October 2016 BoI signals to EC that the sale process of bridge banks will take longer than expected. 
+October 2016 EC amends its decision to extend the deadline for the sale of the bridge banks . 
+2016 -2017 The bad bank, or RGCS, acquires loans of bridge banks for EUR 2.1 billion. 
+May 2017 Marche, Etruria, and Carichieti’s bridge banks are sold to UBI, with NPLs sold to 
+Atlante (a private equity fund owned by the Italian banking industry). 
+June 2017 Carife’s bridge bank is sold to BPER Banca SpA, with NPLs sold to Atlante and CFS. 
+October 2018 A fund with maximum endowment of EUR 1.5 billion is set up for potential 
+reimbursement related to all four bridge banks  
+March 2019 The financing and collateral agreement is renewed by RGCS, which provides loans at 
+110% of outstanding debt exposure. 
+316
+Italy: Restructuring of Four Banks Gupta
+
+--- Page 8 ---
+January-June 2020 RGCS suffers from a capital shortfall in the first half of 2020 and requires 
+recapitalization by the Resolution Fund, its sole shareholder. 
+March 2020 The loan agreement to the RGCS is renewed, with a guaranteed loan amount of EUR 
+1.1 billion. 
+October 2020 Resolution Fund provides EUR 50 million to increase RGCS’s paid -in capital to EUR 241 
+million. Because of the uncertainty of RGCS’s earning profits on the portfolio of loans, 
+the Resolution Fund introduces a write-down of shareholdings worth EUR 141 million. 
+March 2022 RGCS renews the agreement to provide loans at 110% of debt exposure up to June 
+2024. 
+October 3, 2022 RGCS sells its operating platform and provides credit administration, management, 
+and recovery services to Cerved SpA. 
+December 2022 The loan amount guaranteed to the RGCS is at EUR 1.1 billion versus EUR 999 million 
+in March 2022. 
+Source: Author’s analysis.  
+Summary Evaluation 
+The IMF’s 2020 assessment indicate s that Italy has adopted many of the recommendations 
+in the 2013 Financial Sector Assessment Program including the adoption of the BRRD and a 
+new resolution regime (see Figure 9 in Appendix B). As a response to the EU’s State Aid rules, 
+Italian authorities have adopted a series of industry-backed mechanisms to provide support 
+to troubled financial institutions. The IMF finds that although these mechanisms have helped 
+mitigate financial stability risks, they have increased the overall costs on the banking system 
+(IMF 2020). 
+The IMF indicate s that Italy has a long history of addressing troubled institutions through 
+special administration. IMF’s data notes that roughly half of the 28 banks that were placed 
+in special administration in Italy since 2013 had returned to a going concern status, 
+indicating the limited effectiveness of the resolution tool. Additionally, the IMF notes that the 
+delay in publishing audited financial statement of banks , up  to four months after  special 
+administration has ended, can reduce their access to fund and adversely affects their ability 
+to maintain client relationships.  The EC’s proposed amendments to the BRRD in 2016 
+recommended limiting such moratorium powers to five days during the early stage of an 
+intervention. The moratorium powers provided in the Italian legislation have been used only 
+in exceptional circumstances (five instances since 2010) (IMF 2020) . The BoI notes that 
+there had been no observed difficulty in accessing funding during or after special 
+administration (IMF 2020). The IMF notes that public solvency support outside of resolution 
+(“open bank assistance”) should be used as a last resort since such measures underestimate 
+the losses at distressed banks and skew incentives for risky activities. The IMF believes that 
+solvency support should be extended only to address the broader risk of financial stability 
+and include mechanisms to recover losses by the state from  unsecured creditors or the 
+broader financial system through ex post levies (IMF 2020).  
+The resolution of the four regional banks was the first test of the BRRD policies implemented 
+in Italy. The BoI shared resolution activities with the Single Resolution Board (SRB) from 
+317
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 9 ---
+January 1, 2016, as per Regulation (EU) No. 806/2014. Legal scholar Lorenzo Stanghellini, 
+while reviewing the implementation of the BRRD in Italy for the Journal of Financial 
+Regulation, finds the coordinated com munication of the resolution by the BoI, E uropean 
+Central Bank, Italian government, and EC as “expected but  . . . remarkable.” Stanghellini 
+further indicate s that it might be appropriate to create a de facto higher priority for 
+unsecured creditors (uncover ed depositors and general creditors) over unsecured 
+bondholders, to limit the adverse impact on depositors to only extreme cases . Italy 
+effectively created a priority for uncovered depositors in 2019 (Stanghellini 2016). 
+In November 2015, Reuters described the resolution measures as a “halfway house” between 
+the old world of taxpayer funded bailouts of banks and the new regime of the BRRD, under 
+which creditors bear the losses (Unmack 2015). Fitch, a rating agency, stated that that the 
+Italian resolution ap proach would require extraordinary contributions from Italian banks 
+and adversely affect the banking sector’s profitability. It also noted that financial disclosures 
+were unavailable for the four banks between 2013 and 2015, while they were under special 
+administration, with limited disclosures about the resolution measures due to the four 
+bank’s insolvency and poor asset quality (ENPNews 2015). 
+Professor Dirk Meyer at Helmut Schmidt University  has highlighted that there was 
+considerable opposition to a bail -in of shareholders and creditors in the bank resolution in 
+Italy. As per the BoI, Italian households held more than EUR 200 billion of bank bonds, at a 
+higher proportion than other households in the Eurozone (Meyer 2022). Italian households 
+also held 38% of subordinated bank bonds as of September 2018, which is relatively high 
+compared to 20% in Germany and 10% in France (Micossi 2019). 
+Later in 2016 and 2017, the BoI, SRB , and EC interpreted  the BRRD rules differently to 
+minimize the adverse impact on retail creditors of Banca Monte dei Paschi  di Siena, Veneto 
+Banca, and Banca Popolare di Vicenza. This has indicated that the bail -in provisions of the 
+BRRD are difficult to enforce (Brei et al.  2023). The full force of the BRRD would have 
+required Italy to impose losses up to 8% of liabilities before the provision of public capital, 
+potentially imposing losses on depositors and senior bondholders (IMF 2020). 
+In her book , Ethics in Banking : Is It  Possible?, Rovera highlights the lack of oversight by 
+regulators in the sale of subordinated bonds of the four regional banks to less sophisticated 
+or retail investors (Rovera 2022). The World Bank notes that Italian banks had created a risk 
+by placing th eir subordinated debt with retail customers, many of whom were unaware of 
+their bondholder status (World Bank 2016). The IMF also notes that the public controversy 
+with concerns of mis-selling financial products, led to various reimbursement plans by the 
+Italian authorities, increasing the risk of moral hazard (IMF 2020). The initial losses imposed 
+on subordinated bondholders had a negative impact on public trust, since t his represented 
+the first time in Italy that creditors of a bank were subject to a haircut (Boccuzzi and Lisa 
+2022, 62). The World Bank questions the use of the bail-in tool when almost all of the junior 
+debt is held by retail investors (World Bank 2016). 
+In the case of the four regional banks, the regular contributions by Italian banks were not 
+sufficient to capitalize the Resolution Fund. This indicated the need for resolution funds to 
+318
+Italy: Restructuring of Four Banks Gupta
+
+--- Page 10 ---
+be larger in the future, to be adequately equipped to deal with the resolution of systemically 
+important banks.  The new legal framework, as per Article 44 of BRRD, provides the 
+resolution authority with discretion in the application of bail -in tools, so as to avoid its use 
+when there is a financial stability risk (Bodellini 2017). 
+Professor Federica Maci at the University of Foggia, Italy , concludes that the State Aid rules 
+and discussions with the EC were immediately effective in attempting to resolve the crisis at 
+the four regional banks. Maci notes that the European regula tors have followed a principle 
+of minimum harmonization in banking crisis management, allowing member states to adopt 
+different levels of protection versus those provided in the BRRD  (Maci 2018) . Professor 
+Stefano Micossi states that the bank failures in I taly have highlighted the conflicts of 
+complying with EU rules and managing socioeconomic stability domestically (Micossi 2019). 
+ 
+319
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 11 ---
+Context: Italy, Four Banks, 2012–15 
+Assets 
+Marche: EUR 22.7 billion as of 2012 
+Etruria: EUR 12.3 billion as of 2014 
+Carife: EUR 6.9 billion as of 2012 
+Carichieti: EUR 4.7 billion as of 2013 
+Loans 
+Marche: EUR 17.3 billion as of 2012 
+Etruria: EUR 6.1 billion as of 2014 
+Carife: EUR 4.6 billion as of 2012 
+Carichieti: EUR 2.1 billion as of 2013 
+Deposits 
+Marche: EUR 7.2 billion as of 2012 
+Etruria: EUR 6.4 billion as of 2014 
+Carife: EUR 3.4 billion as of 2012 
+Carichieti: EUR 2.5 billion as of 2013 
+Capital  
+(Subordinated Debt) 
+Marche: EUR 0.43 billion as of 2015 
+Etruria: EUR 0.27 billion as of 2015 
+Carife: EUR 0.06 billion as of 2015 
+Carichieti: EUR 0.03 billion as of 2015 
+Nonperforming Loans 
+Marche: EUR 4.55 billion as of 2015 
+Etruria: EUR 1.89 billion as of 2015 
+Carife: EUR 1.59 billion as of 2015 
+Carichieti: EUR 0.50 billion as of 2015 
+Market Share 
+(% of National Deposits) 
+Marche: 0.52% in 2015 
+Etruria: NA in 2015 
+Carife: 0.26% in 2015 
+Carichieti: 0.15% in 2015 
+Banking System, % of GDP 130.7% as of 2014 
+128.0% as of 2015 
+Sources: EC 2015a; EC 2015b; EC 2015c; EC 2015d. 
+ 
+   
+320
+Italy: Restructuring of Four Banks Gupta
+
+--- Page 12 ---
+Key Design Decisions 
+1. Purpose: The BoI indicated to the EC that the resolution was necessary to ensure  
+(a) continuity in the essential functions of the banks, (b) protection of depositors, 
+and (c) financial stability. 
+The BoI and the Italian government acted to resolve the crisis situation at four regional banks 
+that had been in special administration,7 to safeguard the interests of the local economies in 
+which these small or medium -sized banks were located. The resolution plan protected all 
+households and business savings in the form of depositors and senior creditors at the four 
+banks. The Italian government presented a collective solution to the four banks to ensure the 
+“business continuity and financial recovery of the four banks ,” to avoid “prolonging the 
+paralysis,” and to resolve the crisis (BoI 2015a, 1, 4) . The EC noted that the resolution was 
+preserving financial stability, in line with the objectives of Article 31 of the BRRD (EC 2015a). 
+The four banks had approximately 1% of the national deposits in Italy. 
+Italy recognized that its measures represented State Aid and had requested the EC to verify 
+these steps as per Article 107(3)(b) of the Treaty on the Functioning of the European Union 
+(TFEU). The BoI indicated that the situ ation at the regional banks threatened financial 
+stability and the economy of Italy. The BoI noted that regular insolvency proceedings would 
+be value destructive and affect the ability to completely protect depositors. The BoI further 
+stressed that liquida tion of the banks would require the Italian Deposit Guarantee Scheme  
+(DGS) to cover insured deposits, which would put immense pressure on the Italian banking 
+system (BoI 2015a). Private solutions to the four banks, while under special administration, 
+required capital support from the Italian Deposit Fund (Fondo Interbancario di Tutela dei 
+Depositi, or FITD). The EU’s Single Resolution Mechanism (SRM) requires loss sharing with 
+8% of the liabilities before provision of any public capital  (IMF 2020) . Instead, the 
+government presented a resolution plan to provide capital to each bank up to the regulatory 
+capital target (9% of total RWA ) from the Resolution Fund , thereby fully protecting senior 
+bondholders and depositors (BoI 2015b; BoI 2015 a). The EC approved the resolution plan 
+for the four banks, while asking Italy to ensure that there would be no new State Aid in the 
+eventual wind-down phase of the banks (EC 2016a). 
+The BoI had utilized Article 32(1) of the BRRD to present the conditions for resolution of 
+Marche, which included that (1) the institution was failing or likely to fail (FOLTF), (2) there 
+were no private alternatives,  and (3) it was in public interest (EC 2015a). The BoI, as the 
+resolution authority, conducted a provisional valuation as per Article 36 of the BRRD and 
+found a capital shortfall of EUR 2.5 billion and subordinated debt of EUR 788 million across 
+the four banks  (see Figure 4). Hence, the subordinated debt was  insufficient to fully 
+recapitalize the four banks . The BoI conducted provisional valuations of the assets and 
+liabilities of the four distressed banks as per Article 25 of Legislative Decree 180/2015. The 
+ 
+7 Special administration was announced by the Italian Ministry of Economy and Finance after proposal by the 
+BoI under Articles 70(a) and 1(b), and 98 of the Italian Banking Act – Testo Unico Bancario (EC 2015a). 
+321
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 13 ---
+definitive valuation was conducted by independent experts after the resolution, consistent 
+with principles set out under Articles 36 and 74 of the BRRD (BoI 2016b). 
+2. Part of a Package: The four regional banks were collectively provided additional 
+aid in the form of (a) term extensions for sale of the bridg e banks, (b) creation of 
+a single bad bank (RGCS)  to transfer loans of the bridge banks, (c) sale of the 
+bridge banks, and (d) recapitalization of the single bad bank (RGCS)  by the 
+Resolution Fund.  
+The deadline for the sale of the bridge banks was extended by five months to September 30, 
+2016, due to legal issues arising from the write-down of retail bondholders and the valuation 
+of the bank s’ assets by external agents. The resolution action in 2015 provided EUR 410 
+million of aid based on provisional valuation carried out by the BoI (see Figure 2). In October 
+2016, the EC lowered this figure for aid provided to EUR 348 million, based on new figures 
+provided by the independent valuation expert , and contacted the European Commission to 
+signal that the  sale process of the bridge banks would take longer than expected. In 2015, 
+the EC had conducted a very conservative or “safe harbor” valuation assessment of the NPLs 
+and their transfer values to the single bad bank.  The 2016 amendment noted that the final  
+valuation of NPLs would be the safe harbor assessment at 20.5% of the book value , higher 
+than previous transfer value estimates at 17.7% of book value (EC 2016b).  
+As a result of the valuation of the independent expert in 2016, the book value of the NPLs of 
+four banks was revised upwards to EUR 9.24 billion and the transfer value to the asset 
+management vehicle revised upwards to EUR 2.0 -2.5 billion, as also seen in Figure 2 (EC 
+2016b).  
+Figure 2: Break up of NPLs across Four Italian Banks (EUR millions) 
+ 
+Source: EC 2016b. 
+Between 2016 and 2017, the nonperforming loans of the bridge banks were transferred to 
+the single bad bank, or RGCS, for EUR 2.1 billion. A pool of Italian banks provided the funding 
+to the RGCS. The Resolution Fund provided an “autonomous, first demand guarantee” to the 
+lenders (BoI 2021).  
+On May 10, 2017, three bridge banks (Marche, Etruria,  and Carichieti) were sold to Unione 
+di Banche Italiane as the sole bidder. UBI agreed to purchase the equity of the three bridge 
+322
+Italy: Restructuring of Four Banks Gupta
+
+--- Page 14 ---
+banks for EUR 1 .0. The BoI’s terms  in 2017  provided EUR 1.56 billion through  capital 
+injections of EUR 810 million from the Resolution Fund and additional guarantees of EUR 
+750 million to UBI to protect against any further capital loss and fraud liabilities.  The 
+Resolution Fund  provided unlimited guarantees to UBI for misrepresentation and fraud 
+liabilities from the 2015 resolution actions, and undisclosed guarantees to cover losses from 
+the three bridge banks. The Italian tax authority approved the availability of EUR 600 million 
+of accumulated deferred tax assets (DTA) to UBI from the bridge banks. The Resolution Fund 
+had a profit-sharing mechanism with UBI for use of the DTA (EC 2017a). At the same time, 
+Atlante fund purchased the NPLs of the three banks with gross book value of EUR 2.2 billion 
+through senior and mezzanine bonds of securitized NPLs (EC 2017a; Reuters 2017).  
+Atlante fund was set  up as a private equity vehicle backed by the main Italian banks, 
+including a n 8% minority stake held by Casa Depositi e Prestiti , an Italian state lender  
+(Garrido, Kopp, and Weber 2016) . Atlante was tasked w ith purchasing NPLs and saving a 
+few regional banks that were unable to raise capital independently (Borrelli 2016). Atlante 
+I raised EUR 4.25 billion from banks and insurers to recapitalize troubled banks, and Atlante 
+II raised EUR 3.5 billion to purchase bad bank debt (Za and Mandala 2016). 
+On June 30, 2017, Nuova Carife was sold to BPER Banca SpA, along with a capital injection of 
+EUR 290 million by the Resolution Fund. At the same time, NPLs of EUR 34 0 million from 
+Nuova Carife were sold to Atlante and Credit Fondiario SpA (CFS) (EC 2017b; Magno 2017). 
+The Resolution Fund provided unlimited guarantees to BPER for misrepresentation and 
+fraud liabilities from the 2015 resolution actions and undisclosed guarantees to cover losses 
+from Nuova Carife. There was a profit sharing agreement between the Resolution Fund and 
+BPER for the use of DTA and sale of real estate and other assets (EC 2017b). 
+In the first half of 2020, the single bad bank, or RGCS, suffered from a capital shortfall and 
+required recapitalization by its sole shareholder, the Resolution Fund. In October 2020, the 
+Resolution Fund provided EUR 50 million to increase RGCS’s paid -in capital to EUR 241 
+million. Due to the uncertainty of RGCS ’s earning profits on the bridge bank’s port folio of 
+loans, the Resolution Fund wrote down its shares in RGCS by EUR 141 million (BoI 2021). In 
+March 2022, BoI renewed its loan agreement with  the RGCS, to provide loans at 110% of 
+debt exposure for 12 months maturity . As of December 2022, t he loan am ount guaranteed 
+to the RGCS was at EUR 1.1 billion, compared to March 2022 at EUR 999 million (BoI 2022). 
+3. Legal Authority: The BoI utilized th e Italian Resolution Decree, which 
+incorporates the EU’s new BRRD mechanism, to present a resolution plan for the 
+four regional banks. 
+The resolution mechanisms applied to the four banks were decided by the BoI and approved 
+by Italy’s Ministry of Economy and Finance (EC 2015a). The Italian government launched the 
+Resolution Decree as per Legislative Decree 180/2015 in November 2015, incorporating the 
+core principles of the B RRD, including resolution planning, procedures, tools, safeguards, 
+and funding (see Figure 3) (BoI 2015a; IMF 2020).  
+323
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 15 ---
+The BRRD required each EU member to establish a Resolution Fund starting in 2015. The 
+law also provided for the creation of a Single Resolution Mechanism as per Regulation (EU) 
+No. 806/2014 and the Single Resolution Fund (SRF). Italian banks were to contribute EUR 
+5.7 billion of the total EUR 55 billion to be raised by the SRF, eq uivalent to 1% of covered 
+deposits (BoI 2016b). 
+The BoI, similar to the BRRD, determines if a bank is FOLTF if no supervisory or private 
+sector measures are available to resolve the situation  (see Appendix B). The B oI also 
+possesses the ability to write do wn or convert capital instruments to provide additional 
+capital to the bank. The BoI can choose to initiate resolution prior to balance sheet insolvency 
+and does not require the application of early intervention measures  (see Figure 9 in 
+Appendix B) (IMF 2020).  
+An Italian bank can be placed in special administration as per Articles 70 (a) and 1(b) and 98 
+of the Italian Banking Act, Tes to Unico Bancario or Consolidated Law on Banking (TUB) —
+pre-BRRD legislation used by the BoI. A bank is placed in special administration after 
+“serious capital losses and/or serious capital irregularities” (Borrelli 2016). Following are 
+the dates when each bank entered special administration:  
+• Carife on May 27, 2013 (EC 2015c), 
+• Marche on October 15, 2013 (EC 2015a), 
+• Carichieti on September 5, 2014 (EC 2015d), and 
+• Etruria on February 10, 2015 (EC 2015b). 
+The conditions necessary to place a bank under special administration are established under 
+the TUB and include “serious capital losses and/or serious irregularities” (BoI 2023). 
+The BoI established the Resolution Fund by Measure No. 1226609 as of November 18, 2015 
+(BoI 2016b). The BoI conducted provisional valuations of the assets and liabilities of the four 
+distressed banks as per Article 25 of Legislative Decree 180/2015. The independent experts 
+were appointed after the resolution and performed their definitive valuation according to  
+Articles 36 and 74 of the BRRD (BoI 2016b). 
+  
+324
+Italy: Restructuring of Four Banks Gupta
+
+--- Page 16 ---
+Figure 3: Articles of the BRRD Used by the BoI to Resolve the Four Regional Banks 
+ 
+Sources: EC 2015a; EC 2015b; EC 2015c; EC 2015d. 
+The EC noted that the Italian banking system was suffering from a high NPL level of 17.3% 
+of total lending in 2014, due to weak economic growth and a “very cumbersome and slow 
+legal insolvency procedure.” (EC 2015a, 10) The EC noted that Italy had taken initial steps to 
+reform the insolvency laws to allow for faster resolution of NPLs (EC 2015a) . The EC 
+approved Italy’s 2015 resolution decisions given the several commitments including the sale 
+of the bridge banks, followed by stopping new businesses, a wind -down phase if not sold, 
+and finally a liquidation phase. Italy agreed to waive its rights under Article 342 of the Treaty 
+on the Functioning of the EU  (EC 2016a). The TFEU prohibits State Aid unless for special 
+reasons to eliminate advantages from government support within the EU. FITD is the private 
+Italian deposit guarantee scheme  for noncooperative banks  formed by a consortium of 
+private banks to provide deposit insurance to failing banks (Todino 2019).  
+4. Administration: The BoI appointed a board of directors for each of the bridge 
+banks and external valuation and auditing agents for the bad bank. 
+On November 18, 2015, the National Resolution Fund was set up to be managed by the BoI. 
+The BoI appointed the board of directors at each of the bridge banks, as a shareholder in each 
+bank through the Resolution Fund and through control of the bridge banks as per the BRRD 
+(BoI 2021).  
+Roberto Nicastro, the former Director General of Uni Credit, Italy’s largest systemically 
+important bank, was assigned as chair of the board of directors for each of the bridge banks 
+by the BoI (BoI 2015a). By June 2016, the BoI had appointed a n independent monitoring 
+administrator to follow  the commitments relating to State Aid  in the 2015 resolution plan 
+for the four banks (EC 2016b). 
+Three external experts (BDO Italia, Deloitte & Touche, and KPMG) were appointed as per 
+Article 25(3) of Legislative Decree 180/2015 to provide the independent valuations on the 
+distressed banks to the BoI. PricewaterhouseCoopers  was also retained to provide an 
+external audit, as a previously existing auditor for one of the banks . The Resolution Fund’s 
+accounts were audited by the Board of Auditors at the BoI (BoI 2016b). 
+325
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 17 ---
+5. Governance: The BoI managed the Resolution Fund and monitore d the bridge 
+banks.  
+The BoI managed the Resolution Fund, including controlling the setting up of the endowment 
+fund with capital from 600 banks as of December 2015. The Resolution Fund was capitalized 
+with funds separate from those of the BoI, and its fun ds were to be used solely for the 
+resolution process. For 2015, the ordinary contributions to the BoI were EUR 588 million. 
+The BoI called on extraordinary contributions to fund the resolution of the four regional 
+banks, with the total capital calls amounting to EUR 2.4 billion (BoI 2016b). 
+The bridge banks were expected to monitor credit risk through alerts and reports to the BoI’s 
+Supervisory Department, and the Resolution and Crisis Management Unit . The boards of 
+directors of the bridge banks could take corrective actions based on this information, which 
+was also shared with the monitoring trustee. If a bridge bank was failing to meet any targets, 
+remedial action had to be formulated and presented by the bank to the monitoring trustee, 
+who in turn provide d updates to the EC. The monitoring trustee was expected to submit a 
+final report at the end of the bridge bank’s existence (EC 2015a).  
+Point 88 of the EC’s 2013 Banking Communication require s that the EC be able to monitor 
+the resolution process and its impact on competition. The monitoring trustee, appointed by 
+the BoI, was expected to be independent, ensure compliance with the EC’s expectations, and 
+provide a report on the bridge banks by Ma rch 2016. If the bridge banks had not yet been 
+sold, the monitoring trustee was expected to provide the EC with reports by May 2016, and 
+continue to do so at six-month intervals until the bridge banks were completely liquidated 
+(EC 2015a). 
+6. Communication and Disclosure: The BoI stated that the resolution was required 
+for (a) the broader interest of the local economies, (b) to protect depositors, (c) to 
+preserve the jobs of bank employees, and (d) to require no taxpayer funds. 
+The BoI disclosed its reasons fo r the resolution measures through a press release on 
+November 22, 2015 (BoI 2015a). Italy’s Prime Minister Matteo Renzi provided the following 
+reasoning for the intervention:  “The Italian government intervened when it saw that four 
+banks risked closing and losing thousands of jobs and deposits” (BBC News 2015, 2). 
+Italy’s resolution imposed losses on 130,000 shareholders and subordinated bondholders, 
+including some pensioners and savers, which drew criticism from the opposition in the 
+Italian Parliament (BBC News 2015). It was also reported that BoI’s plan requiring no state 
+funds might have been “too good to be true” due to the capital provision by state lender CDP 
+to the Resolution Fund and increased taxpayer costs as a result of future potential levies to 
+the banking system by the Resolution Fund (Unmack 2015). 
+The BoI communicated its decisions through press releases, official announcements, its 
+annual report s, financial stability report s, and the Resolution Fund’s annual report s (BoI 
+2015a). The BoI also provided a list of frequently asked questions on its website to provide 
+clarifications on the resolution of the four regional banks (BoI 2023). There were mandatory 
+reporting requirements to the monitoring trustee or administrator (EC 2015a). 
+326
+Italy: Restructuring of Four Banks Gupta
+
+--- Page 18 ---
+The European Commission filed a document each on the four regional banks to provide its 
+approval of State Aid administered by Italy in 2015 (EC 2015a; EC 2015b; EC 2015c; EC 
+2015d). The EC also provided its decisions of approval through individual disclosures in 
+2016 and 2017 on the additional State Aid by Italy (EC 2016a; EC 2017a). 
+7. Source and Size of Funding: The National Resolution Authority was capitalized by 
+ex ante contributions of the banking system and immediately required EUR 4 
+billion in loans from three large Italian banks and a state lender, CDP.  
+The Resolution Fund initially made a contribution of EUR 3.6 billion for the resolution of four 
+Italian banks (BoI 2021). The fund immediately wrote down EUR 1.7 billion of that amount 
+to protect depositors and senior creditors; it then invested EUR 1.8 billion to recapitalize 
+each bridge bank to 9% of RWA (BoI 2015b).  
+The BoI declared that the Italian state did not bear any direct cost for the Resolution Fund. 
+Three major Italian Banks (UniCredit, UBI Banca, and Banca Intesa Sanpaolo) provided EUR 
+4 billion at “market rates” and a maximum maturity of 18 months (BoI 2015a). The loan to 
+the Resolution Fund was guaranteed by a right to obtain financial support of EUR 1.7 billion 
+from Cassa Depositi e Prestiti, a state-owned lender. The CDP was obligated to intervene if 
+the Resolution Fund’s resources were insufficient to meet its debt service obligations for the 
+next tranches of the loan (BoI 2016c). The Resolution Fund also had raised EUR 2.4 billion  
+from ex ante contributions from the entire Italian banking sector, but sufficient funds were 
+not available given its recent set-up in November 2015 (World Bank 2016). The total loan of 
+EUR 4 billion from the three major Italian banks was divided into thre e tranches: EUR 2.4 
+billion, EUR 1.6 billion, and EUR 100 million (BoI 2016b).  
+In December 2016, the BoI called on Italian banks for two ordinary annual contributions for 
+a total of EUR 1.53 billion, which was renewed in the form of a four -year loan in May 2017. 
+As of December 2016, the outstanding amount was EUR 1.55 billion after a partial repayment 
+of the bridge loan. In 2018, 2019, and 2020, the BoI called on additional contribution of EUR 
+310 million in three separate installments (BoI 2021).  
+The ordinary and extraordinary compulsory contributions of banks to the Resolution Fund 
+were specified under Articles 82 and 83 of Legislative Decree 180/2015 (EC 2015a). As per 
+Italian Law 208/2015, the BoI can call on additional funds if the Resolution Fund i s 
+determined to be inadequate. The total amount is determined by Article s 70 and 71 of 
+Regulation (EU) No. 806/2014 (BoI 2021).  
+The Italian government covers the funding gap between transferring assets and liabilities to 
+a bridge bank. Article 100(5) of t he BRRD requires the establishment of a Resolution Fund 
+or financing agreement. The Resolution Fund was financed through current ordinary 
+contributions for 2015 and ex post contributions for three years as per Articles 103 and 104 
+of the BRRD. In order to limit the overall cost, in 2015, Italy committed to not provide 
+additional funding to the Resolution Fund or bridge banks, except for the limited funding 
+provided for the liquidating of the residual entities (EC 2015a). 
+327
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 19 ---
+8. Approach to Resolution and Restructuring: The BoI utilized the bridge bank tool, 
+bad bank tool, and sale-of-business tool of the BRRD for the resolution of the four 
+regional banks.  
+For each of the four banks, Italy decided to use the bridge bank resolution tool and the asset 
+separation tool, in line with Article s 40, 41, and 42 of the Bank Recovery and Resolution 
+Directive (EC 2015a; EC 2015b; EC 2015c; EC 2015d). The BRRD, which was transposed into 
+Italian law by Legislative Decree 180/2015 on November 16, 2015, requires loss sharing 
+with equity and subordinated debt holders for banking resolutions (BoI 2015a).  
+As per the plan on November 22, 2015, the four banks were split by their balance sheets into 
+a “good” bridge bank each and a single “bad” bank. Each bridge bank was capitalized to 9% 
+of risk-weighted assets by the Resolution Fund, which was administered by the BoI (BoI 
+2015a). The bridge banks were controlled by the BoI and owned by the Resolution Fund (EC 
+2015a).  
+The Resolution Fund made a n initial total commitment of EUR 3.6 billion to the four banks 
+in 2015, as per the following breakout (see also Figure 4): 
+(1) EUR 1.7 billion of capital for loss absorption across the four banks 
+(2) EUR 1.8 billion to recapitalize all four bridge banks 
+(3) EUR 140 million to capitalize the single bad bank (BoI 2015a) 
+Figure 4: Breakup of Resolution Measures across the Four Banks (EUR millions)  
+ 
+Sources: EC 2015a; EC 2015b; EC 2015c; EC 2015d. 
+The resolution approach used by the BoI at each of the four banks is illustrated by the 
+resolution of Marche. The resolution consisted of the following steps as illustrated in Figure 
+5:  
+(a) The bridge bank, New or Nuova  Marche, received EUR 1.005 billion from  the 
+Resolution Fund to absorb losses, protecting depositors and other senior liabilities.  
+328
+Italy: Restructuring of Four Banks Gupta
+
+--- Page 20 ---
+(b) All of the assets of Marche, including EUR 12.4 billion of good assets and EUR 0.916 
+billion of NPLs, and “good” liabilities, including EUR 14.3 billion in deposits , were 
+first transferred to New Marche. The NPLs of EUR 0.916 billion were then transferred 
+from Marche to a single bad bank , or RGCS, with New Marche retaining a claim on 
+the bad bank on the asset side of its balance sheet.  
+(c) New Marche received EUR 1.041 billion in recapitalization from the Resolution Fund. 
+The Resolution Fund had a senior claim on New Marche ’s assets in exchange for its 
+capital contribution.  
+(d) Subordinated debt of EUR 250 million qualified as regulatory capital and was written 
+down directly (Article 59 of the BRRD). The remaining EUR 178 million stayed in the 
+residual Marche entity, with no assets to be liquidated. 
+(e) New Marche was to be sold by the special administrator through a n open,  
+transparent bidding process by November 2017 (Article 41 of the BRRD). 
+(f) A single bad bank, or RGCS, acquired all its NPLs.  
+(g) The residual bank was shut down and lost its banking license; remaining subordinate 
+debt investors and the Resolution Fund lost their entire investments (BoI 2015a).  
+Figure 5: Marche Resolution  
+ 
+Sources: BoI 2015a; EC 2015a. 
+329
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 21 ---
+The provisional valuation of the BoI estimated gross book value of Marche’s loan portfolio to 
+be EUR 4.55 billion, with more than 90% loans in the corporate sector and 74% of loans non-
+collateralized. The NPL portfolio was held on Marche’s books at the time of resolution at EUR 
+2.14 billion and was written  down and transferred to the single bad bank at a valuation of 
+EUR 916 million. In payment, the bridge bank received debt of the bad bank (RGCS) that the 
+Resolution Fund guaranteed, as seen in Steps 1 and 2 of Figure 5 (EC 2015a).  
+9. Treatment of Creditors and Equity Holders: Shareholders and subordinated debt 
+holders were written down  entirely to absorb the losses at the four banks. 
+Depositor and senior bondholder claims were transferred to the bridge banks and 
+fully protected. However, the government later reimbursed subordinated debt 
+holders and equity holders up to EUR 100,000. 
+The shareholders and subordinated bondholders bore EUR 870 million of the losses for the 
+four banks (EC 2015a; EC 2015b; EC 2015c; EC 2015d) . The Resolution Fund bore EUR 1.7 
+billion of further losses (BoI 2023). 
+The subordinated debt that counted as Additional Tier 1 or Tier 2 regulatory capital was fully 
+written down, consistent with Article 59 of the BRRD . The rem aining subordinated debt 
+remained in the residual entity (see K ey Design Decision No. 8, Approach to Resolution and 
+Restructuring), where it was liquidated (EC 2015a). Hence, all subordinated debt holders 
+were fully written down. Figure 6 details the treatment of subordinated debt holders. 
+Figure 6: Treatment of Subordinated Debt Holders across Four Italian Banks (EUR 
+millions)  
+ 
+Sources: EC 2015a; EC 2015b; EC 2015c; EC 2015d. 
+There was significant negative public reaction to the bail -in of subordinated bonds held by 
+retail investors (Garrido, Kopp, and Weber 2016) . In 2015, the  Solidarity Fund  (Fondo di 
+Solidarietà) was established to be managed by the FITD and  to provide a flat compensation 
+amounting to 80% to 95% of the purchase price of the bond to retail investors. In 2018, the 
+Italian authorities established the Financial Relief Fund (Fondo di Ristoro Finanziario), with 
+EUR 25 million , to provide compensation to equity holders up  to EUR 100,000.  The 
+compensation plan aimed to provide automatic payment to retail investors with an annual 
+income up to EUR 35,000 and create a special commission to judge ca ses for higher-income 
+330
+Italy: Restructuring of Four Banks Gupta
+
+--- Page 22 ---
+investors (Fonte and Bernabei 2019) . The Italian 2019 budget introduced the  Savers 
+Compensation Fund  (Fondo Indennizzo Risparmiatori) to compensate retail investors, 
+regardless of potential mis -selling, and allocated EUR 525 million p er year until 2021 (IMF 
+2020).  
+This latter fund did not constitute State Aid due to its voluntary nature  of contributions by 
+banks (Garrido, Kopp, and Weber 2016) . The European Commission ’s Margrethe Vestager 
+stated to EU state members that Italy could provide compensation to retail investors that 
+were mis-sold bank bonds and lost their life savings in bank resolutions between November 
+2015 and January 2018  (Reuters 2019) . The plan also rece ived approval from the EU’s 
+competition authorities and the associations representing Italian savers (Fonte and 
+Bernabei 2019).  
+All depositors and senior bondholders were protected as per the resolution plan outlined in 
+Key Design Decision No. 8, Approach to Resolution and Restructuring. 
+10. Treatment of Clients:  The existing depositors of each of the four regional banks 
+were transferred to their respective bridge banks.  
+Deposits of EUR 27.8 billion were transferred in aggregate from the four regional banks t o 
+the four bridge banks. The bridge banks were not allowed to pursue any new clients if they 
+were not sold by April 30, 2016 (EC 2015a).  
+11. Treatment of Assets:  The good assets of the four banks were transferred to each 
+bridge bank, and bad assets (NPLs) were transferred to a single bad bank, or RGCS, 
+for sale. 
+All of the “good” assets of the four banks, including EUR 24.5 billion of customer loans , and 
+EUR 1.5 billion of claims on the bad bank in the form of NPLs and “good” liabilities were 
+transferred to the bridge banks in total.  
+For simplicity, a single bad bank in the form of an asset management vehicle was used to take 
+on the EUR 1.5 billion of NPLs of all four banks (see Figure 7). The bad bank was capitalized 
+by EUR 140 million from the Resolution Fund. The bad debts were written down from a value 
+of EUR 8.5 billion to EUR 1.5 billion, with the expectation of future sales in order to maximize 
+the recovery of funds (BoI 2015a). Between 2016 and 2017, the nonperforming loans of the 
+bridge banks were transferred to the single bad bank, or RGCS, for EUR 2.1 billion, according 
+to the results of the definitive valuation carried out by the independent expert . A pool of 
+Italian banks provided the funding to the single bad bank, or RGCS (BoI 2021). As seen in 
+Figure 7, any future sales by the RGCS will be claimed by the bridge banks and contribute to 
+reducing the Resolution Fund’s cost of resolution. There was no further information 
+disclosed about the success of asset sales of RGCS.  
+  
+331
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 23 ---
+Figure 7: Treatment of Assets for Bridge Banks and Bad Bank (EUR billions)  
+ 
+ 
+ 
+Source: BoI 2015a. 
+12. Treatment of Board and Management: The BoI initiated sanction proceedings 
+against all the bank executives charged with administrative irregularities. 
+Sanction proceedings in Italy are governed by Article 145 of the Consolidate d Law on 
+Banking and Laws 689/1981, 241/1990, and 262/2005 (BoI 2023).  
+The four banks were placed under special administration between 2013 and 2015  due to 
+financial and capital losses from increased loan losses to their SME and retail clients. A 
+special administrator was appointed to each of the banks after management was re placed 
+and had a range of responsibilities including selling nonperforming loans, raising capital, 
+reorganizing the bank, and reducing costs and head counts (EC 2015a; EC 2015b; EC 2015c; 
+EC 2015d). Lastly, each bank’s financials during special administrat ion are not disclosed to 
+the public, only to the BoI (Rovera 2022).  
+13. Cross-border Cooperation: There was no disclosed cross-border cooperation as part 
+of the resolution.  
+There was no disclosed cross-border cooperation required since this involved the resolution 
+of four regional banks in Italy. 
+  
+332
+Italy: Restructuring of Four Banks Gupta
+
+--- Page 24 ---
+14. Other Conditions: The BoI’s resolution plan included commitments by the Italian 
+government on sale timelines,  restrictions on investment  and executive 
+compensation at the bridge banks , and limits to new business once in the wind-
+down phase.  
+The bridge ba nks were established for a limited time, expected to be sold in an open and 
+transparent bidding process, and would be wound down if not sold by April 2016. The bridge 
+banks would lose their banking licenses by November 22, 2017, and would then be subject 
+to insolvency proceedings if not sold. The BoI also committed to the EC that in the case a sale 
+did not materialize, the sale of the bank’s business would occur in lots, with volume limits 
+per buyer to limit distortions to competition . If placed in orderly wind -down, the bridge 
+banks could not acquire any new business or clients, and only carry out activities to 
+maximize recovery values of the loan book and limit capital losses (EC 2016a). 
+The bridge banks were restricted to purchasing only investment -grade or euro area 
+sovereign securities. The bridge banks also had maximum limits to executive compensation 
+(including wage, pension, bonus) of 15 times Italy’s national average sa lary or 10 times the 
+bank’s employee average salary. The bridge bank could, after approval from the BoI and EC, 
+acquire businesses in “exceptional circumstances” to restore financial stability or market 
+competitiveness. The bridge banks were also to refrain from advertising their support from 
+the Resolution Fund (EC 2015a).  
+15. Duration: The government extended its deadline to sell the bridge banks from 
+January 2016 to November 2017, and the BoI was successful in doing so between 
+January and June 2017.  
+In resolution cases, t he EC has competition concerns arising from the existence of both a 
+residual entity and a bridge bank . Article 107(1) of the TFEU describes any State Aid as 
+incompatible if it distorts the competition in the production of goods (or banki ng services) 
+amongst member states in the EU region . The EC concluded that, in line with case law ,8 the 
+provision of funds by a resolution fund (even one financed by private sources)  counted as 
+State Aid (EC 2015a). 
+To address this concern, Italy committed to a removal of the banking licenses of the residual 
+entities by December 20, 2015, and to launch insolvency proceedings by June 30, 2016. The 
+residual entit ies were also not allowed to pursue any new activities to limit any further 
+competition concerns. Similarly, for the bridge bank s, Italy committed to a sale by April 30, 
+2016, or to enter insolvency proceedings by November 2017. The bridge banks ’ banking 
+licenses would remain active to resolve the loan portfolio but with a limit of two years (EC 
+2015a).  
+By April 2016, the BoI had distributed the information memorandum for the sale of bridge 
+banks to potential investors, including incurring a delay of one month. The BoI reported that 
+ 
+8 Case C-345/02 Pearle and others EU:C:2004:448, paragraphs 37 and 38 (EC 2015a). 
+333
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 25 ---
+it had incurred a two -month delay in closing the 2015 accounts of the four banks and was 
+yet to appoint a monitoring trustee for each bank (EC 2016a).  
+In January 2017, UBI Banca, Italy’s third-largest bank , agreed to buy the good banks of 
+Marche, Etruria, and Carichieti, with total assets of EUR 23.3 billion, by paying EUR 1.0. The 
+Resolution Fund provided a further capital injection to the three bridge banks prior to the 
+sale to UBI. The three bridge banks also sold EUR 2.2 billion of NPLs to a banking industry 
+rescue fund, Atlante (Za and Mandala 2017).  
+In June 2017, Nuova Carife was sold to BPER Banca SpA, along with a capital injection of EUR 
+290 million by the Resolution Fund. At the same time, NPLs of EUR 340 million from Nuov a 
+Carife were sold to Atlante and CFS (Magno 2017). The EC noted that the 2017 measures by 
+the BoI provided additional total aid of EUR 1.56 billion  through capital injections and 
+guarantees to the four regional banks (EC 2017a). 
+In the case of the four regional banks, the regular contributions by Italian banks were not 
+sufficient to capitalize the Resolution Fund. This indicated the need for resolution funds to 
+be larger in the future, to be adequately equipped to deal with the resolution of systemically 
+important banks (Bodellini 2017). 
+  
+334
+Italy: Restructuring of Four Banks Gupta
+
+--- Page 26 ---
+References and Key Program Documents 
+Implementation Documents 
+(BoI 2015a) Bank of Italy (BoI). 2015a. “Information on Resolution of Banca Marche, Banca 
+Popolare dell’Etruria e del Lazio, Carichieti, and Cassa di Risparmio di Ferrara Crises.” 
+November 22, 2015. 
+Document providing details of the resolution of four regional banks that were in special 
+administration. 
+https://ypfs.som.yale.edu/node/23976/ 
+Media Stories 
+(BBC News 2015) BBC News. 2015. “Italy Bank Rescue Marred by Suicide and Lost 
+Savings.” December 10, 2015. 
+Article disclosing the public reaction to the rescue of the four regional banks in Italy. 
+https://elischolar.library.yale.edu/ypfs-documents2/2450 
+(Borrelli 2016) Borrelli, Silvia Sciorilli. 2016. “Q&A with Bank of Italy Governor Ignazio 
+Visco.” Politico, August 4, 2016. 
+Article presenting the transcript of an interview of the BOI’s Governor Visco on Italy’s 
+nonperforming loan problem. 
+https://ypfs.som.yale.edu/node/23977/ 
+(ENPNews 2015) Electronic News Publishing Newswire (ENPNews). 2015. “Fitch: Italian 
+Resolution Approach Is Costly for Banking Sector.” Electronic News Publishing Newswire, 
+November 27, 2015. 
+Article stating the opinion of ratings agency Fitch on the rescue of four regional banks in 
+Italy. 
+https://elischolar.library.yale.edu/ypfs-documents2/2432 
+(Fonte and Bernabei 2019) Fonte, Giueseppe, and Stefano Bernabei. 2019. “Italian Savers 
+Approve Compensation Scheme in a Boost to Economy Minister.” Reuters, August 8, 2019. 
+Article describing the approval of the Italian voters to a plan to reimburse retail investors 
+from past bank resolutions. 
+https://ypfs.som.yale.edu/node/24554 
+(Magno 2017) Magno, Leo Antonio. 2017. “BPER Banca Completes Acquisition of Nuova 
+Carife.” S&P Global Market Intelligence, July 1, 2017. 
+Article disclosing the acquisition of Carife’s bridge bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/2437 
+(Reuters 2015) Reuters. 2015. “FACTBOX-Italy Rescues Four Small Banks.” Reuters, 
+November 25, 2015. 
+Article detailing the steps presented in the rescue plan for four regional banks in Italy. 
+https://elischolar.library.yale.edu/ypfs-documents2/2434 
+335
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 27 ---
+(Reuters 2017) Reuters. 2017. “Atlante Closes Buy of 2.2 Bln Euros in Problem Loans from 
+3 Rescued Banks.” Reuters, May 10, 2017. 
+Article disclosing the purchase of a portfolio of nonperforming loans by the rescue fund 
+Atlante, before completing the purchase of three bridge banks by UBI Banca. 
+https://ypfs.som.yale.edu/node/23979/ 
+(Reuters 2019) Reuters. 2019. “State Can Compensate Small Savers over Misselling of Bank 
+Bonds - EU’s Vestager.” Reuters, March 5, 2019. 
+Article describing the EU’s approval of Italy’s plan to reimburse retail investors from past 
+bank resolutions. 
+https://ypfs.som.yale.edu/node/24555 
+(Sanderson 2017) Sanderson, Rachel. 2017. “UBI Banca Offers Just €1 to Buy 3 Rescued 
+Italian Banks.” Financial Times, January 12, 2017. 
+Article describing UBI Banca’s offer to buy the three bridge banks for a nominal amount, 
+along with a capital injection and purchase of nonperforming loans. 
+https://elischolar.library.yale.edu/ypfs-documents2/2435 
+(Todino 2019) Todino, Mario. 2019. “EU General Court Annuls Commission’s Banca Tercas 
+State Aid Decision.” Jones Day, April 2019. 
+Article providing a legal update to the provision of aid by an Italian deposit insurance 
+authority. 
+https://ypfs.som.yale.edu/node/24559 
+(Unmack 2015) Unmack, Neil. 2015. “Italy’s Zero-Cost Bailout Is Too Good to Be True.” 
+Reuters, November 23, 2015. 
+Article providing an assessment of the rescue plan for four regional banks in Italy. 
+https://elischolar.library.yale.edu/ypfs-documents2/2445 
+(Za and Mandala 2016) Za, Valentina, and Andrea Mandala. 2016. “Italian Bank Rescue 
+Fund Atlante to Buy More Bad Loans.” Reuters, November 22, 2016. 
+Article discussing the ability and willingness of a rescue fund Atlante to buy nonperforming 
+loans in the Italian system. 
+https://elischolar.library.yale.edu/ypfs-documents2/2438 
+(Za and Mandala 2017) Za, Valentina, and Andrea Mandala. 2017. “Italy’s UBI to Buy 
+Rescued Banks, Raise Cash in Latest Clean-Up.” Reuters, January 12, 2017. 
+Article describing the sale of three bridge banks. 
+https://elischolar.library.yale.edu/ypfs-documents2/2446 
+Press Releases/Announcements 
+(BoI 2015b) Bank of Italy (BoI). 2015b. “Press Release.” December 30, 2015. 
+Document disclosing the initiation of the sale process for each of the four bridge or Nuova 
+banks by the Bank of Italy. 
+https://ypfs.som.yale.edu/node/23982/ 
+336
+Italy: Restructuring of Four Banks Gupta
+
+--- Page 28 ---
+(BoI 2016a) Bank of Italy (BoI). 2016a. “Call for Expression of Interest in Relation to the 
+Transfer of Nuova Cassa di Risparmio di Ferrara SpA, Nuova Banca delle Marche SpA, 
+Nuova Banca dell’Etruria e del Lazio SpA, Nuova Cassa di Risparmio di Chieti SpA.” January 
+19, 2016. 
+Document describing the steps for filing expressions of interest to the BOI to be able to bid for 
+the bad loans of the four banks. 
+https://ypfs.som.yale.edu/node/24097/ 
+(BoI 2017) Bank of Italy (BoI). 2017. “Sale of Good Banks to UBI.” Press release, January 18, 
+2017. 
+Document disclosing the sale of three bridge banks to UBI Banca. 
+https://ypfs.som.yale.edu/node/24101/ 
+(BoI 2023) Bank of Italy (BoI). 2023. “Questions and Answers on the Solution of the Crises 
+at the Four Banks under Resolution.” Accessed November 14, 2023. 
+Webpage providing clarifications by the Bank of Italy on the resolution of the four regional 
+banks in 2015. 
+https://elischolar.library.yale.edu/ypfs-documents2/2447 
+(EC 2015a) European Commission (EC). 2015a. “Commission Decision of 22.11.2015 on the 
+State Aid SA.39543 (2015/N) Implemented by Italy: Aid for the Resolution of Banca 
+Marche.” November 22, 2015. 
+Document presenting the rescue plan for Banca Marche by the Bank of Italy. 
+https://ypfs.som.yale.edu/node/24102 
+(EC 2015b) European Commission (EC). 2015b. “Commission Decision of 22.11.2015 on 
+the State Aid SA.41134 (2015/N) Implemented by Italy: Aid for the Resolution of Banca 
+Etruria.” November 22, 2015. 
+Document presenting the rescue plan for Banca Etruria by the Bank of Italy. 
+https://ypfs.som.yale.edu/node/24103/ 
+(EC 2015c) European Commission (EC). 2015c. “Commission Decision of 22.11.2015 on the 
+State Aid SA.41925 (2015/N) Implemented by Italy: Aid for the Resolution of Carife.” 
+November 22, 2015. 
+Document presenting the rescue plan for Carife by the Bank of Italy. 
+https://ypfs.som.yale.edu/node/24104/ 
+(EC 2015d) European Commission (EC). 2015d. “Commission Decision of 22.11.2015 on 
+the State Aid SA.43547 Implemented by Italy: Aid for the Resolution of Carichieti.” 
+November 22, 2015. 
+Document presenting the rescue plan for Carichieti by the Bank of Italy. 
+https://ypfs.som.yale.edu/node/24152/ 
+  
+337
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 29 ---
+(EC 2016a) European Commission (EC). 2016a. “Commission Decision of 29.04.2016 on the 
+State Aid SA.39543 (2015/N), SA.41134 (2015/N), SA.41925 (2015/N), SA.43547 
+(2015/N) Implemented by Italy: Amendment to the Resolution of Banca Marche, Banca 
+Etruria, Carife and Carichieti.” April 29, 2016. 
+Document disclosing an amendment to the resolution plan for four regional banks by the 
+Bank of Italy. 
+https://ypfs.som.yale.edu/node/24153/ 
+(EC 2016b) European Commission (EC). 2016b. “State Aid SA.39543 (2015/N), SA.41134 
+(2015/N), SA.41925 (2015/N), SA.43547 (2015/N) – Italy Second Amendment to the 
+Resolution of Banca delle Marche S.p.A., Banca Popolare dell’Etruria e Del Lazio Soc. Coop., 
+Cassa di Risparmio di Ferrara S.p.A. and Cassa di Risparmio della Provincia di Chieti S.p.A.” 
+October 7, 2016. 
+Document disclosing a second amendment to the resolution plan for four regional banks by 
+the Bank of Italy. 
+https://ypfs.som.yale.edu/node/24154/ 
+(EC 2017a) European Commission (EC). 2017a. “State Aids SA.39543 (2017/N-2), 
+SA.41134 (2017/N-2), SA.43547 (2017/N-2) – Italy – Sale of the Bridge Banks Marche, 
+Etruria and Carichieti to UBI Banca (Third Amendment to the Resolution of the Banks 
+Marche, Etruria and Carichieti).” April 30, 2017. 
+Document presenting the conditions for the sale of three bridge banks, including a capital 
+injection by the Resolution Fund and additional guarantees to UBI Banca. 
+https://ypfs.som.yale.edu/node/24155/ 
+(EC 2017b) European Commission (EC). 2017b. “State Aid SA.41925 (2017/N -2) – Italy – 
+Sale of the Bridge Bank Nuova Carife to BPER (Third Amendment to the Resolution of 
+Carife).” June 29, 2017.  
+Document describing the sale of a bridge bank to a private buyer.  
+https://ypfs.som.yale.edu/node/24556 
+Reports/Assessments 
+(BoI 2016b) Bank of Italy (BoI). 2016b. “Annual Report of the National Resolution Fund.” 
+Italian resolution authority’s annual report for the full year 2015 (translated by the Bank of 
+Italy). 
+https://ypfs.som.yale.edu/node/24156/ 
+(BoI 2016c) Bank of Italy (BoI). 2016c. “Annual Report of the National Resolution Fund.” 
+Italian resolution authority’s annual report for the full year 2015 (translated by the Bank of 
+Italy). 
+https://ypfs.som.yale.edu/node/24156/ 
+(BoI 2021) Bank of Italy (BoI). 2021. “Annual Report of the National Resolution Fund.”  
+Italian resolution authority’s annual report for the full year 2020 (translated by the Bank of 
+Italy). 
+https://elischolar.library.yale.edu/ypfs-documents2/2448 
+338
+Italy: Restructuring of Four Banks Gupta
+
+--- Page 30 ---
+(BoI 2022) Bank of Italy (BoI). 2022. “Annual Report of the National Resolution Fund.”  
+Italian resolution authority’s annual report for the full year 2022 (translated by the Bank of 
+Italy). 
+https://elischolar.library.yale.edu/ypfs-documents2/2449 
+(Garrido, Kopp, and Weber 2016) Garrido, José, Emanuel Kopp, and Anke Weber. 2016. 
+“Cleaning-up Bank Balance Sheets: Economic, Legal, and Supervisory Measures for Italy.” 
+IMF Working Paper No. 16/135, July 2016. 
+Paper studying the various resolution plans for banks in Italy, including the rescue of the four 
+regional banks in 2015. 
+https://ypfs.som.yale.edu/node/24280/ 
+(IMF 2020) International Monetary Fund (IMF). 2020. “Italy: Financial Sector Assessment 
+Program-Technical Note-Financial Safety Net and Crisis Management Arrangements.” 
+Monetary and Capital Markets Department, IMF Country Report No. 20/235, no. 
+9781513552163. 
+Report describing the financial stability framework in Italy, and the changes since 2013. 
+https://ypfs.som.yale.edu/node/24557 
+Key Academic Papers 
+(Boccuzzi and Lisa 2022) Boccuzzi, Giuseppe, and Riccardo De Lisa. 2022. “Banking Crises 
+in Italy: An Application and Evaluation of the European Framework.” Palgrave Studies in 
+Financial Instability and Banking Crisis Regulation. Cham, Switzerland: Palgrave Macmillan. 
+Book containing Chapter 9 which discusses the first application of the BRRD in context of the 
+resolution of four regional banks in Italy. 
+https://elischolar.library.yale.edu/ypfs-documents2/2443 
+(Bodellini 2017) Bodellini, Marco. 2017. “Greek and Italian ‘Lessons’ on Bank 
+Restructuring: Is Precautionary Recapitalisation the Way Forward?” Cambridge Yearbook 
+of European Legal Studies 19 (December): 144-64, September 12, 2017. 
+Study assessing the effectiveness of the bail-in tool in context of the resolution of banks in Italy 
+and Greece. 
+https://ypfs.som.yale.edu/node/24589 
+(Brei et al. 2023) Brei, MIchael, Leonardo Gambacorta, Marcella Lucchetta, and Bruno 
+Maria Parigi (Brei et al.). 2023. “How Effective Are Bad Bank Resolutions? New Evidence 
+from Europe.” Journal of Financial Stability 67 (August), 101–53. 
+Study assessing the use of bank recapitalization and asset separation in bank resolutions in 
+Europe over a 20-year period and finding positive ex post reduction in funding costs for 
+resolved banks. 
+https://elischolar.library.yale.edu/ypfs-documents2/2442 
+  
+339
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 31 ---
+(Maci 2018) Maci, Giampiero. 2018. “Banking Crisis Management in the European 
+Resolution Framework: From ‘Bail-out’ to ‘Bail-In.’” Journal for Applied Finance and Banking 
+8, no. 4. 
+Study assessing the effectiveness of the bail-in mechanism in context of its use for the rescue of 
+four regional banks in Italy. 
+https://elischolar.library.yale.edu/ypfs-documents2/2441 
+(McNamara et al. 2024) McNamara, Christian M., Carey K. Mott, Salil Gupta, Greg Feldberg, 
+and Andrew Metrick. 2024. “Survey of Resolution and Restructuring in Europe, Pre- and 
+Post-BRRD.” Journal of Financial Crises 6, no. 1.  _ 
+Survey of YPFS case studies examining 21st-century bank resolutions and restructurings in 
+Europe before and after the existence of the Bank Recovery and Resolution Directive.  _ 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/1 
+(Meyer 2022) Meyer, Dirk. 2022. “Italian Bank Rescue: EU Resolution Directive and an 
+‘Italian Way.’” In European Union and Monetary Union in Permanent Crisis I: An Inventory, 
+133–57. Hamburg, Germany: Springer Fachmedien Wiesbaden. 
+Chapter 9 discussing the rescue of banks by the Italian authorities, with emphasis on the 
+implementation of the BRRD. 
+https://elischolar.library.yale.edu/ypfs-documents2/2440 
+(Micossi 2019) Micossi, Stefano. 2019. “Testing the EU Framework for the Recovery and 
+Resolution of Banks: The Italian Experience.” Luiss School of European Political Economy 
+Policy Brief, February 15, 2019. 
+Study assessing the flexibility and effectiveness of EU rules for bank resolutions in context of 
+five Italian bank resolutions. 
+https://ypfs.som.yale.edu/node/24590 
+(Rovera 2022) Rovera, Cristina. 2022. “The Rescue of Banks in Crisis.” In Ethics in Banking: 
+Is It Possible? Cham, Switzerland: Springer. 
+Book chapter discussing the rescue of banks in crisis, including the four regional banks in 
+Italy. 
+https://elischolar.library.yale.edu/ypfs-documents2/2439 
+(Stanghellini 2016) Stanghellini, Lorenzo. 2016. “The Implementation of the BRRD in Italy 
+and Its First Test: Policy Implications.” Journal of Financial Regulation 2, no. 1 (March): 
+154–61.  
+Academic study evaluating the costs and challenges to the implementation of a new bank 
+resolution mechanism in Italy. 
+https://ypfs.som.yale.edu/node/24591 
+(World Bank 2016) World Bank. 2016. “Bank Resolution and ‘Bail-In’ in the EU: Selected 
+Case Studies Pre and Post BRRD.” Report No. 112265, December 12, 2016. 
+Study presenting an assessment of the bail-in tool across European resolutions. 
+https://ypfs.som.yale.edu/node/23437/ 
+  
+340
+Italy: Restructuring of Four Banks Gupta
+
+--- Page 32 ---
+Appendixes 
+Appendix A 
+Figure 8: Background on the Four Regional Banks in Italy 
+ 
+ 
+Sources: EC 2015a; EC 2015b; EC 2015c; EC 2015d. 
+Banca Marche  
+The bank was placed under provisional management in August 2013, after its capital ratio of 
+6.64% decreased below the minimum requirements set by Italian regulators due to negative 
+earnings results (EC 2015a). The bank had also failed to raise additional capital of EUR 400 
+million in June 2013 (EC 2015a) . In October 2013, Marche was placed in special 
+administration, and its governance bodies were dissolved (EC 2015a). This action was taken 
+due to administrative irregularities such as breaches of law, financial losses, and deficiencies 
+(EC 2015a) . The period for special administration was extended by one year after a 
+ministerial decree to October 2015, and later by a dec ision of the Bank of Italy ( BoI) to 
+December 2015 (EC 2015a) . The goal of special administration was to address 
+organizational challenges, prevent new lending, and achieve overall annual cost savings of 
+10% (EC 2015a). The special administration was successful in reducing risk-weighted assets 
+by 15% and reducing operational costs through a 30% reduction in assets (EC 2015a). As of 
+September 2015, the net equity of Marche had dropped to EUR 13 million, which was 
+insufficient by prudential norms (EC 2015a). Marche’s liquidity buffer at EUR 221 million 
+had dropped to 1.4% of assets in November 2015, providing inadequate safety margins for 
+a daily payments system with a minimum buffer of EUR 200 million (EC 2015a) . The 
+potential withdrawal of deposits by any large corporate clients would have led to a negative 
+liquidity position at Marche, triggering the need for a resolution by the BoI (EC 2015a). 
+Banca Popolare dell’Etruria e del Lazio (Etruria) 
+This entity represented a banking group comprising three local banks, two small insurance 
+companies, a special purpose vehicle, a municipal company, and a precious metals brokerage 
+341
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 33 ---
+(EC 2015b) . In February 2015, Etruria was placed under special administrati on due to 
+capital losses related to loan loss provisioning, which reduced the group’s funds below 
+minimum capital requirements (EC 2015b). The immediate trigger for capital losses at the 
+group were the recently adopted stricter nonperforming loan (NPL) recognition norms (EC 
+2015b). During special administration, Etruria’s management was removed, a portfolio of 
+NPLs was transferred to another bank, and Banca Lecchese (local bank holding) was sold to 
+an investment fund (EC 2015b). As of September 2015, the net equity of Etruria had dropped 
+to EUR 22.5 million, as deposit flight continued to threate n the funding of the bank (EC 
+2015b).  
+Cassa di Risparmio di Ferrara (Carife) 
+This entity was a banking group based in the Ferrara region of Italy and accounted for 33% 
+of all the bank branches in the province (EC 2015c). In May 2013, Carife was placed in special 
+administration by the Ministry of Economy and Finance, after a recommendation from the 
+BoI (EC 2015c) . The B oI dissolved the management of Carife and appointed an interim 
+administrator, who was working  to restructure Carife (EC 2015c) . In the three years of 
+special administration, Carife was significantly downsized , with assets dropping by 50% to 
+EUR 3.5 billion, customer loans reduced by 43% to EUR 2.6  billion, and deposits down 21% 
+to EUR 2.8 billion (EC 2015c). The special administrator was unsuccessful in raising private 
+funds for Carife since 2013 (EC 2015c) . As of September 2015, Carife had a net equity 
+position of  negative EUR 24 million (EC 2015c ). By November 2015, Carife’s liquidity 
+position had dropped to EUR 36 million , or 1% of assets , representing insufficient safety 
+margins for the payment system and making the group vulnerable to a negative liquidity 
+position from further withdrawal of funds by large corporate clients (EC 2015c). 
+Cassa di Risparmio della Provincia di Chieti (Carichieti) 
+This small regional banking group in the Italian region of Abruzzo was founded in 1862 (EC 
+2015d). The group represented 27% of bank branches in the Chieti province and almost 10% 
+of bank branches in the Abruzzo region (EC 2015d) . In September 2014, the group was 
+placed in special administration to fix administrative irregularities and legal violations by 
+management (EC 2015d) . The special administrator helpe d reorganize the bank, reduce 
+costs, and review all lending practices (EC 2015d) . The special administrator was 
+unsuccessful in raising private capital for the group (EC 2015d) . As of September 2014, 
+Carichieti had a net equity position of EUR 68 million, which did not satisfy prudential 
+requirements (EC 2015d). The group’s liquidity position had also continued to deteriorate 
+and remained critical due to deposit flight (EC 2015d).  
+  
+342
+Italy: Restructuring of Four Banks Gupta
+
+--- Page 34 ---
+Appendix B 
+Figure 9: Initiation of Resolution Procedures in Italy  
+Source: IMF 2020. 
+ 
+ 
+ 
+ 
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+343
+Journal of Financial Crises Vol. 6 Iss. 1

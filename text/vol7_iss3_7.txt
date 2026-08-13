@@ -1,0 +1,187 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 7 Issue 3 
+2025 
+Lessons Learned: Katalin Mérő Lessons Learned: Katalin Mér  
+Salil Gupta 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Gupta, Salil (2025) "Lessons Learned: Katalin Mérő," Journal of Financial Crises: Vol. 7 : Iss. 3, 92-95. 
+DOI: https://doi.org/10.17132/2693-3179.1671 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss3/7 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol7/iss3/7
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+Katalin Mérő 
+By Salil Gupta 
+Between 1990 and 2010, Katalin Mérő served in various roles for Hungary’s central bank, 
+Magyar Nemzeti  Bank, and the Hungarian Financial Supervisory Authority. She led  the 
+Economics, Risk Assessment, and Regulatory Directorate between 2005 and 2019 and was the 
+deputy head of the Financial Stability Department. She was also a member of the Joint Board 
+of Ap peal of European Supervisory Authority from 2011 to 2021. Mérő graduated from the 
+Corvinus University of Budapest and received a PhD in 2005 from the Budapest University of 
+Technology and Economics. Since 2016, she has served  as an associate professor at B udapest 
+Business School, University of Applied Sciences in Budapest. This Lessons Learned summary is 
+based on an interview held in October 2022; the full transcript is available here.  
+For a banking system that is evolving from one that is government controlled to a 
+private model based on international best practices and standards, researching the 
+experiences and available structures of other systems can result in a more efficient 
+evolution.  
+The evolution of the Hungarian banking system has valuable lessons for other evolving 
+systems. During the socialist period, Hungary’s central bank provided commercial loans to 
+the economy, while a large bank, OTP, was tasked with taking deposits and providing loans 
+to households. The system was characterized by limited regulation and undercapitalization. 
+The collapse of the Soviet Union in 1991 provided Hungary with the opportunity to create a 
+more stable and sound banking system. 
+After 1991, Hungary created five new commercial banks to take over the central bank’s 
+previous role of providing corporate loans. This created a two-tier banking system in which 
+commercial and retail clients were each serviced by separate banks. It took a few more years 
+for the creation of a single banking system with adequate regulatory infrastructure that 
+catered to both corporations and households in Hungary. 
+Mérő explained: 
+In the late ’80s, it was not a stable banking sys tem, of course. This is the legacy, and 
+there were several bank consolidation waves in Hungary in which the capital of the 
+banks was raised to eliminate the losses. There was a regulatory package introduced, 
+as I remember it , in 1991, which was worked out with the help of the World Bank 
+experts. The Hungarian regulators worked out the new regulatory reform, which was 
+in line with international best practices. The banking law, the central bank law, the 
+accounting law, the bankruptcy law, all changed in one huge regulatory wave. We 
+called it regulatory shock therapy. 
+Hungary’s banking system received several recapitalization (or “consolidation”) packages 
+from the government because of legacy nonperforming loans provided to state -owned 
+92
+
+--- Page 4 ---
+companies in the 1980s. After the government’s clean -up efforts, some banks were 
+privatized and sold to foreign owners.   
+In the early 1990s, Hungary had almost no banking regulation, with a simple 5% capital 
+requirement, and no provisioning rules for banks. Mérő recalls that the banking system was 
+technically insolvent, owing to the central bank’s poor business assessments i n providing 
+commercial loans and very high compensation levels. This led to the creation of an 
+independent body dedicated to banking regulation. This regulatory body was later expanded 
+to include the securities market and eventually formed Hungary’s Financ ial Supervisory 
+Authority.  
+In 2013, the Hungarian central bank was merged with the Financial Supervisory Authority. 
+The central bank was responsible for macroprudential policies, such as adopting Basel III 
+capital rules, and determining capital buffers for individual banks.    
+Mérő believes that it would have been helpful for Hungary to have joined the European 
+banking union, since the union adds an element of discipline to banking supervision. In such 
+a scenario, the European Central Bank ( ECB) would have  been directly responsible for 
+supervising the largest banks in Hungary. The ECB would also have been able to make 
+recommendations on regulatory rules, with the final power of authorization remaining with 
+the Hungarian central bank. Hungary would have bene fitted by adopting international best 
+practices and employing better-trained staff. 
+Although loans in foreign currencies may seem attractive because of lower interest 
+rates, it is essential that policymakers analyze all possible negative scenarios to 
+uncover both exchange rate and systemic risks and then balance those risks against 
+the benefits.   
+Hungary underestimated the risks of allowing households to take mortgage loans in foreign 
+currencies. In 2000, the Hungarian government first introduced a governm ent-supported 
+lending facility to improve the mortgage offerings for households and support home 
+ownership. The government provided subsidies for such mortgages that increased under a 
+later version of the program. However, by the mid -2000s government subsi dies were cut 
+back and banks began offering foreign-currency-denominated mortgages, in Swiss francs 
+and euros. At the time, Hungarian forint –denominated loans had relatively high interest 
+rates of 8%, compared to euro-denominated loans at rates of 1 to 2%, which became popular.  
+One of the mistakes regulators made was to underestimate the risks of allowing households 
+to acquire foreign-currency-denominated mortgages without a thorough analysis of the 
+wider systemic implications and all possible scenarios . They assumed that Hungary would, 
+as planned, adopt the euro as its common currency before the longer -dated euro -
+denominated mortgage loans matured. Not only were the central bank and  the Financial 
+Supervisory Authority late in noticing the buildup in foreign currency loans, but after a 
+change in government, Hungary adopted a constitutional amendment keeping it out of the 
+eurozone.  
+ 
+93
+Journal of Financial Crises Vol. 7 Iss. 3
+
+--- Page 5 ---
+Mérő pointed out:  
+I think, at that time, it was our belief that by the expiry of the loans , Hungary would 
+be a member of the eurozone. We d idn’t know when, but at some point in time, 
+between issuing the loan and repaying the loan, there would be the eurozone 
+membership. . . .  
+I think that the major mistake was our mistake. [The] central bank’s and the Financial 
+Supervisory Authority’s as well. We recognized very, very late several things. . . . 
+However, the problem was that we analyzed the exchange rate co -movement 
+between the Swiss franc and the euro, and previously the German mark. Because the 
+euro is in a way a successor of the German mark. We calculated the correlation 
+between the two with a  30-year backward window. We found that there [was] a more 
+than  90% correlation between the German mark rate or the euro and the Swiss franc. 
+That’s why we didn’t recognize that the Swiss franc and the euro’s co-movement can 
+disappear from the market, because during crisis time, the Swiss franc is a currency 
+that is a safe haven for investors. This was a mistake. 
+In October 2007, the Financial Supervisory Authority identified the problem with foreign 
+currency loans and wrote a warning letter to the heads of the major banks. Owing to the lack 
+of data sharing and unclear division of responsibilities between regulators, the Hungarian 
+regulators were unable to recognize the maturity mismatch in a timely manner.   
+Mérő believes that a deeper analysis of increased mortgage lending in foreign currencies by 
+regulators would have identified the systemic risks sooner.  
+I think this FX lending was a mistak e, definitely. I think it’s a lesson that there is no 
+free lunch, [even when it] seems like a free lunch. . . . If there are more loans for the 
+lower price, it means more risk. 
+A financial crisis knows no borders. International cooperation and adopting bes t 
+practices can help regulators prepare for and deal with a crisis that may originate 
+outside one’s borders.  
+Hungary falsely assumed that the contagion from the US subprime crisis would not impact 
+its economy, due to the lack of securitized assets in its system. Before September 2008, 
+Hungary’s regulators were preparing for the adoption of the Basel II capital ru les. Mero 
+states that Hungary’s regulators were blindsided by the collapse of Lehman Brothers mid -
+month and the worsening Global Financial Crisis. Hungary experienced a sudden stop in 
+foreign exchange lending, along with maturity mismatches in the banking system. 
+Refinancing activity dried up because of the overleveraged nature of Hungarian households 
+and banks at the time. Mérő recalled:  
+Lehman Brothers collapsed in September of 2008, and by that time we were ready 
+with the Basel II implementation, but we  were not prepared for the Global Financial 
+Crisis, because we [thought] that in Hungary we are not affected, until the moment 
+94
+Lessons Learned: Katalin Mér? Gupta
+
+--- Page 6 ---
+Lehman Brothers collapsed. It was a shock for us that Lehman Brothers collapsed, 
+and the Global Financial Crisis emerged. I can say that we were not prepared for it. It 
+was a surprise and a shock for the Hungarian regulators, authorities, financial 
+markets, for everybody. . . . 
+There were negotiations with the parent banks not to withdraw their support from 
+the Central European subs idiaries because it was of the utmost importance not to 
+withdraw the funds because even the parent banks were in trouble. They were full of 
+toxic assets. Their governments helped them, and the foreign governments, of course, 
+didn’t want their banks to finance Central Europe. 
+That’s why there was the so-called Vienna Initiative to manage this situation, in which 
+the owners of the banks, and the governments, agreed that the Western European 
+banks would not withdraw funds from the Central Europe area and would  continue 
+to finance their subsidiaries. This was the most urgent step to solve that problem, 
+[where] short -term finance could have disappeared from the balance sheet of the 
+banks.  
+Mérő said that such international cooperation during crisis periods is very important to help 
+stabilize the financial system. She also pointed to the efforts taken by Hungary after the crisis 
+to strengthen its infrastructure by adopting “all the tools which are offered, or which  are in 
+line with the Capital Requirements Directive (CRD) and the Capital Requirements Regulation 
+(CRR), [which is] the European version [of] Basel III’s regulation.” These steps helped 
+prepare the system for the next crisis and gave the central bank tools it could effectively 
+deploy during the COVID-19 crisis. 
+Dated: October 2025 
+YPFS Lessons Learned No. 2022–15 
+ 
+95
+Journal of Financial Crises Vol. 7 Iss. 3

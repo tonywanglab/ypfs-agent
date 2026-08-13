@@ -1,0 +1,421 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 3 
+2020 
+Denmark's Loan Bills Temporary Credit Facility (Denmark GFC) Denmark's Loan Bills Temporary Credit Facility (Denmark GFC) 
+Keni Sabath 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, Growth and 
+Development Commons, Macroeconomics Commons, Public Administration Commons, Public 
+Economics Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Sabath, Keni (2020) "Denmark's Loan Bills Temporary Credit Facility (Denmark GFC)," Journal of Financial 
+Crises: Vol. 2 : Iss. 3, 535-545. 
+DOI: https://doi.org/10.17132/2693-3179.1079 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/25 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol2/iss3/25
+
+--- Page 3 ---
+Denmark Loan Bills Temporary Credit Facility1 
+ 
+Keni Sabath2 
+Yale Program on Financial Stability Case Study 
+December 31, 2018, revised: October 10, 2020 
+Abstract 
+The loan bills temporary credit facility was first implemented in May 2008, before the Global 
+Financial Crisis had truly hit Denmark. It continued to be utilized as part of a broader effort 
+to increase interbank lending after the collapse of Lehman Brothers in September 2008. The 
+objective of the loan bills scheme was to facilitate lending among financial institutions. Each 
+week, loan bills could be pledged as collateral for a seven -day loan from Denmark’s central 
+bank, Danmarks Nationalbank. One banking in stitution could borrow from another 
+institution by issuing a loan bill, and the institution buying the bill could raise liquidity by 
+using it as collateral for a loan from Danmarks Nationalbank. The buying institution could 
+also count the loan bill toward its statutory liquidity, as required by section 152 of the Danish 
+Financial Business Act. While reports show that the program may have helped improve 
+money market liquidity for some financial institutions, loan bills were not widely used. On 
+February 26, 2011, the credit facility for loan bills expired. 
+Keywords: Denmark, loan bill, temporary credit facility 
+  
+ 
+1 This case study is part of  the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering the responses to the global financial crisis that pertain to market liquidity programs.  
+Cases are available from the Journal of Financial Crises  at https://eli scholar.library.yale.edu/journal-of-
+financial-crises/. 
+2 Keni Sabath – Research Associate, YPFS, Yale School of Management. 
+535
+
+--- Page 4 ---
+At a Glance  
+The loan bills temporary credit facility was first 
+implemented in May 2008, before the Global Financial 
+Crisis had truly hit Denmark, and continued to be 
+utilized during the interbank market freeze after the 
+collapse of Lehman Brothers. The objective of the loan 
+bills scheme was to facilitate lending among the 
+institutions. Each week, loan bills could be pledged as 
+collateral for a seven-day loan from Denmark’s central 
+bank, Danmarks Nationalbank. A bank or mortgage 
+credit institute could borrow from another institution 
+by issuing a loan bill, and the institution buying the bill 
+could raise liquidity by using it as collateral for a loan 
+from Danmarks Nationalbank. The buying institution 
+could also count the loan bill toward its statutory 
+liquidity, as required by section 152 of the Danish 
+Financial Business Act. 
+Summary Evaluation 
+While report s show that the program may have 
+helped improve money market liquidity for some 
+financial institutions, loan bills were not widely used. 
+The International Monetary Fund (IMF) and others 
+have gone so far as to consider the loan bills scheme a 
+failure in addressing the needs of the Danish banking 
+sector. However, both the Danish government and critics agree that the lack of usage of 
+temporary credit facilities in Denmark was in part due to the more successful and more 
+widely used bank rescue packages that guaranteed interbank loans, five months later.  
+  
+Summary of Key Terms 
+Purpose: To facilitate lending amongst financial 
+institutions to support liquidity for banks 
+Announcement 
+Date   
+May 23, 2008 
+Operational Date May 23, 2008 
+End of Issuance 
+Window 
+May 21, 2009 
+(initial) 
+Sep. 30, 2010 (second) 
+Feb. 26, 2011 (final) 
+Legal Authority N/A 
+Peak Utilization DKK 6 billion ($1 billion) 
+in loan bills issued; little 
+to no borrowing against 
+loan bills (exact number 
+pending) 
+Participants Several (exact number 
+pending) 
+Administrators Danmarks Nationalbank 
+Denmark Loan Bills 
+536
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 5 ---
+Loan Bills Temporary Credit Facility:  Denmark Context 
+ 
+GDP 
+(SAAR, Nominal GDP in 
+LCU converted to USD) 
+ 
+ 
+$355.62 billion in 2008 
+Source: Bloomberg 
+ 
+GDP per capita  
+(SAAR, Nominal GDP in 
+LCU converted to USD) 
+ 
+$64,322 per capita in 2008 
+Source: Bloomberg 
+ 
+Sovereign credit rating (5-
+year senior debt) 
+ 
+As of Q4 2008: 
+Fitch: AAA 
+Moody’s: AAAu 
+S&P: AAAu 
+Source: Bloomberg 
+ 
+Size of banking system 
+ 
+ 
+$750.5 billion in total assets 
+Source: Bloomberg 
+ 
+Size of banking system as 
+a percentage of GDP 
+ 
+211.04% in 2008 
+Source: Bloomberg 
+ 
+Size of banking system as 
+a percentage of financial 
+system 
+ 
+Data not available for given year 
+Source: World Bank Global Financial Development 
+Database 
+537
+Denmark Loan Bills Temporary Credit Facility Sabath
+
+--- Page 6 ---
+5-bank concentration of 
+banking system 
+ 
+89% of total banking assets in 2008 
+Source: World Bank Global Financial Development 
+Database 
+ 
+Foreign involvement in 
+banking system 
+18% of total banking assets in 2008 
+Source: World Bank Global Financial Development 
+Database 
+ 
+Government ownership of 
+banking system 
+ 
+1% of banks owned by the state in 2008 
+Source: Call et al. “Bank Ownership – Trends and 
+Implications” 
+Existence of deposit 
+insurance 
+100% insurance on deposits up to $133,333 in 2010 
+Source: World Bank Deposit Insurance Dataset, OECD 
+ 
+  
+538
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 7 ---
+I.  Overview 
+Background 
+The loan bills temporary credit facility was first implemented in May 2008, before the Global 
+Financial Crisis and the interbank  market freeze had truly hit Denmark. Confidence amo ng 
+the institutions was still relatively high. However, financial institutions had become more 
+reluctant to lend to each other. Observing this phenomenon, Denmark ’s central bank —
+Danmarks Nationalbank—chose to approve a new type of securit y, the loan bill, as eligible 
+collateral for loans at the central bank.  
+This marked the first time Danmarks Nationalbank ’s framework for credit operations was 
+adjusted in response to the Global Financial Crisis; however , it would be followed by more 
+changes in the next few months. During the interbank market freeze of September 2008, 
+Danmarks Nationalbank used additional mone tary policy instruments to increase market 
+liquidity. These included adding a second temporary credit facility (the excess -capital 
+temporary credit facility, also known as the solvency scheme) and an expansion of the 
+collateral base to include more securities than were normally eligible as collateral for loans 
+from Danmarks Nationalbank. 3 These steps were taken to “prevent solvent banks from 
+experiencing difficulties due to insufficient liquidity” (Financial Stability 2009, 1st Half, 18). 
+By the end of October 2008, the government would guarantee all bank liabilities, including 
+borrowing in the interbank market. 
+Program Description 
+The objective of the loan bills scheme was to facilitate lending among institutions. Every 
+Friday, loan bills could be pledged as collateral for a seven -day loan from Danmarks 
+Nationalbank. One banking institutio n could borrow from another institution by issuing a 
+loan bill, and the institution buying the bill could raise liquidity by using it as collateral for a 
+loan from Danmarks Nationalbank. The buying institution could also count the loan bill 
+toward its stat utory liquidity, as required by section 152 of the Danish Financial Business 
+Act.  
+The introduction of loan bills was followed by the temporary expansion of the accepted 
+collateral base for loans from Danmarks Nationalbank to banking institutions and mortgage-
+credit institutes. The loan bills had to meet Danmarks Nationalbank’s standard terms. These 
+included requiring that loan bills were zero-coupon securities issued by banking institutions 
+in the Kingdom of Denmark. In addition, the maximum maturity for loan bills was set at one 
+year. The loan bills also had to be issued with VP Securities, Denmark’s central securities 
+depository, as the account controller. The collateral value was calculated as the nominal 
+value of the bills minus a haircut of 10 percent.  
+Initially, the interest rate for lending against loan bills was fixed as Danmarks Nationalbank’s 
+usual lending rate plus one percentage point. On October 7, 2008, the interest rate for loan 
+bills at Danmarks Nationalbank was changed to Danmarks Nationalbank’s usual lending rate 
+ 
+3 During the financial crisis, the collateral base for loans from Danmarks Nationalbank  to financial institutions 
+was temporarily expanded to include special loan bills, quoted and unquoted shares, investment fund shares, 
+bank bonds with government guarantee, as well as SPV bonds issued on the basis of government -guaranteed 
+loans to the institutions (Financial Stability 2010, 66). 
+539
+Denmark Loan Bills Temporary Credit Facility Sabath
+
+--- Page 8 ---
+plus two percentage points. The purpose of this adjustment was to align the terms and 
+conditions with the other temporary credit facilities. On March 13, 2009, the interest rate 
+was reduced to Danmarks Nationalbank ’s usual lending rate plus one percentage point, a 
+decision influenced by a downward trend in interest rates overall. On July 17, 2009, loan bills 
+were included in the temporary collateral basis, and the interest rate was abolished. The 
+purpose was to align the terms and conditions for pledging of unquoted unsecured debt with 
+government guarantees and loan bills. 
+The loan bills credit facility was initially set to expire on May 21, 2009. On November 11, 
+2008, the credit facility for loan bills was extended until September 3 0, 2010. The purpose 
+of this adjustment was to align the expiry dates of the temporary credit facilities. In April 
+2010, the temporary expansion of collateral basis (including loan bills) was extended to 
+February 26, 2011. On February 26, 2011, the credit facility for loan bills expired.  
+Outcomes 
+Loan bills were not widely issued. A 2009 Financial Stability report showed low issuance in 
+the facilities’ initial year of operation. Between DKK25 and DKK30 billion in loan bills were 
+issued overall; issuance pe aked in October 2008, when about DKK16 billion were issued . 
+(See Figure 1) At the end of April 2009, Danish banking institutions had issued a total of 
+DKK6 billion in loan bills to other institutions (21).  
+Also by April 2009, no institutions had borrowed against loan bills from the central bank. 
+The 2009 report notes that this was part of a broader trend where securities eligible as part 
+of the temporary expanded collateral base were not used. Although the temporary facilities 
+(and corresponding expanded collateral policies) were supposed to help Danish institutions 
+meet liquidity requirements through alternative collateral, the use of these unconventional 
+collateral types was limited. Usual eligible assets continued to account for the vast majority 
+of the DKK332 billion in assets pledged as collateral for loans from Danmarks Nationalbank.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+540
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 9 ---
+Figure 1: Comparison of securities by issuance types (loan bills in bright orange).  
+ 
+ 
+Source: Financial Stability 2010, p. 65  
+ 
+The Danish government attributed this relative lack of temporary -credit-facilities usage to 
+the success of the Original Guarantee Scheme under Bank Package I. As a result of Bank 
+Rescue Package I, which guaranteed interbank loans, the “banking institutions  started 
+lending to each other in the money market again” and the “need to borrow from Danmarks 
+Nationalbank [became] modest” (Financial Stability 2009, 1st Half, 21).  
+After the temporary expansion of collateral (including loan bills) expired in February 2011, 
+a partial reintroduction of the temporary collateral expansion was put into place on August 
+10, 2011. It allowed banks and mortgage-credit institutes to pledge certain shares in jointly 
+owned corporations as collateral with Danmarks Nationalbank. Thi s new temporary 
+expansion of collateral expired on July 1, 2014. 
+541
+Denmark Loan Bills Temporary Credit Facility Sabath
+
+--- Page 10 ---
+II. Key Design Decisions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+1. May 23, 2008, Danmarks Nationalbank established its first temporary cred it 
+facility in response to the Global Financial Crisis via the creation of loan bills.  
+Danmarks Nationalbank created this credit facility by expanding the collateral basis to 
+include a new type of security, the loan bill, which could be pledged as collateral to Danmarks 
+Nationalbank for loans on a weekly basis. Banks and mortgage-credit institutes were eligible 
+to participate in this seven-day loan.  
+2. The interest rate for the loan bills facility varied over time.  
+The interest rate was initially fixed as Danmarks Nationalbank’s usual lending rate plus one 
+percentage point. On October 7, 2008, the interest rate for loan bills at Danmarks 
+Nationalbank changed to Danmarks Nationalbank ’s usual lending rate plus two percentage 
+points. The purpose of this adjustm ent was to align the terms and conditions for all of 
+Denmark’s temporary credit facilities (the loan bills facility, the excess -capital facility, and 
+the other temporary expansion of collateral basis). On March 13, 2009, the interest rate was 
+reduced to Danmarks Nationalbank’s usual lending rate plus one percentage point. A general 
+downward trend in interest rates influenced this decision. On July 17, 2009, loan bills were 
+included in the temporary collateral basis, and the interest was abolished. 
+3. The collateral value of loan bills was calculated as the nominal value of the bills 
+minus a haircut of 10 percent.  
+4. The Danish Financial Supervisory Authority permitted loan bills to be included 
+as part of an institution’s statutory liquidity.  
+Because the institution buying the loan bill could later raise liquidity by using it as collateral 
+for a loan from Danmarks Nationalbank, the buying institution was permitted to include the 
+bill in its statutory liquidity under Section 152 of the Danish Financial Business Act, until one 
+month before the expiry of the facility. 
+5. The expiration date for the loan bills facility was extended twice. 
+The loan bills credit facility was initially set to expire on May 21, 2009. On November 11, 
+2008, the credit facility for loan bills was extended until September 30, 2010. The purpose 
+of this adjustment was to align the expiry dates of the temporary credit  facilities. In April 
+2010, the option of pledging loan bills as collateral was extended to February 26, 2011.  
+III. Evaluation  
+The central bank said that the purpose of the loan bills facility was to spur interbank lending 
+rather than inject central bank liqu idity: “Extensive use of the credit facility was not a 
+criterion of success” (Overview of Temporary Facilities, 1). Roughly DKK25-30 billion in loan 
+bills were issued in 2008-09. The IMF and other observers concluded that loan bills were not 
+widely used ( Carstensen 2011, 108). In September 2008, just a few months after the loan  
+bills scheme was first implemented, the government created the excess -capital facility in 
+542
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 11 ---
+part because of the failure of the loan -bill scheme to meet banking needs that were 
+intensified after the fall of Lehman Brothers. In October, the government guaranteed bank 
+debt, including interbank debt, obviating the need for the program. 
+A 2009 report from Danmarks Nationalbank elaborates on its disappointment with the 
+program, noting that th e loan-bill scheme “assume[d] that the banking institutions want to 
+lend to each other,” however, “confidence among the banking institutions weakened during 
+the summer of 2008 as the scope of the problems in the financial sector became more 
+apparent” (Financial Stability 2009, 1st Half, 19). The purpose of the excess -capital facility 
+in particular was to prevent banking institutions with adequate capital from incurring 
+liquidity problems as a result of insufficient assets , which could be pledged as collater al to 
+Danmarks Nationalbank. Unlike the loan -bill scheme, the excess -capital scheme was meant 
+to help institutions access loans raised directly from Danmarks Nationalbank —not from 
+other banks. To achieve this, the excess -capital facility allowed Danmarks N ationalbank to 
+offer uncollateralised credit in the form of credit line, the value of which depended on the 
+applying institutions ’ excess capital adequacy (F inancial Stability 2009, 1st Half, 20). The 
+credit line could be counted toward the institution ’s s tatutory liquidity requirement 
+(Financial Stability 2010, 66). 
+The International Monetary Fund (IMF) has noted that the loan  bills scheme was 
+unsuccessful in part because “it failed to address banks’ strong liquidity preference and 
+aversion to counterparty  risk” (IMF 2008, 12-13). Others have argued that the temporary 
+credit facilities in general had limited usage because Denmark was simultaneously 
+experiencing a currency crisis. The combination of not being a Eurozone member and having 
+a fixed exchange rate regime may have led to high demand for euro and dollar liquidity by 
+Danish banks, and increasing pressure on the Danish krone (Woll  2014, 158). As a result, 
+monetary policy instruments used by the Danish central bank had less of an impact on the 
+banking industry than the instruments used in the United States or UK (Woll 2014, 158). The 
+Danish government has also attributed this relative lack of temporary-credit-facilities usage 
+to the success of the Original Guarantee Scheme under Bank Package I. They arg ue that as a 
+result of Bank Rescue Package I, the “banking institutions started lending to each other in 
+the money market again” and the “need to borrow from Danmarks Nationalbank [became] 
+modest” (Financial Stability 2009 1st half, 21).   
+IV. References 
+Carstensen, Martin B. 2011. “New Financial Regulation in Denmark after the Crisis —or the 
+Politics of Not Really Doing Anything. ” Danish Foreign Policy Review . 2011: 106 -129. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Carstensen_2011.pdf. 
+Danmarks Nationalbank. Financial Stability , 1 st Half 2009. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Denmark_FSR_2009A.pdf. 
+Danmarks Nationalbank. Financial Stability 2010. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Denmark_FSR_2.pdf. 
+Danmarks Nationalbank. Overview of temporary credit facilities initiatives at Danmarks 
+Nationalbank. 
+543
+Denmark Loan Bills Temporary Credit Facility Sabath
+
+--- Page 12 ---
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Overview%20of%20tempor
+ary%20credit%20facilities%20initiatives%20at%20Danmarks%20Nationalbank.pdf. 
+International Monetary Fund. Staff Report for the 2008 Article IV Consultation. IMF Country 
+Report No. 08/379. December 2008.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/cr08379.pdf. 
+Woll, Cornelia. The Power of Inaction: Bank Bailouts in Comparison. Ithaca: Cornell University 
+Press, 2014. ProQuest Ebook Central, 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Woll_2014.pdf. 
+V. Key Program Documents 
+Summary of Program 
+International Monetary Fund. Staff Report for the 2008 Article IV Consultation . – 
+International Monetary Fund informational report on its 2008 consultation with Denmark. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/cr08379.pdf. 
+Reports/Assessments 
+Danmarks Nationalbank. Financial Stability, 1st Half 2009. – Danmarks Nationalbank 
+financial stability document  on the Danish economy in early 2009. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Denmark_FSR_2009A.pdf. 
+Danmarks Nationalbank. Financial Stability 2010.  – Danmarks Nationalbank financial 
+stability document  on the Danish economy in 2010 . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Denmark_FSR_2.pdf 
+ 
+ 
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu.  
+ 
+ 
+ 
+544
+Journal of Financial Crises Vol. 2 Iss. 3

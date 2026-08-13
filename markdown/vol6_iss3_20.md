@@ -1,0 +1,376 @@
+## Spain: Caja de Ahorros Castilla–La Mancha Capital Injection, 2009[1] 
+
+_Lakshimi Swaminathan_[2] _and Vincient Arnold_[3] 
+
+Yale Program on Financial Stability Case Study October 4, 2024 
+
+## **Abstract** 
+
+Caja de Ahorros Castilla–La Mancha (CCM) was a small Spanish savings bank with just 1% market share in deposits and loans. Following years of rapid credit expansion in the real estate sector and reliance on wholesale funding markets to carry out its operations between 2000 and 2008, CCM found itself on the brink of insolvency in early 2009, with a Tier 1 capital ratio of just 1.3%, compared with the 8% regulators required. The authorities placed the bank under administration in 2009. Consequently, the Spanish Savings Bank Deposit Guarantee Fund (Fondo de Garantía de Depósitos de Ahorros, or FGD) agreed to provide a EUR 1.3 billion capital injection on April 27, 2009, in the form of preference shares to shore up the bank’s Tier 1 capital ratio. This injection took place on May 4, 2009. The total cost to the FGD for intervening in CCM amounted to EUR 4.2 billion, including a prepaid asset guarantee and liquidity line; it ultimately recovered just EUR 174 million of that sum. The downfall of CCM and the eventual policy response left a negative impression that paved the way for the creation of the Fund for Orderly Bank Restructuring (Fondo de Restructuración Ordenada Bancaria, or FROB). 
+
+**Keywords:** capital injection, CCM, emergency liquidity assistance, GFC, FGD, restructuring, Spain 
+
+> 1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering ad hoc capital injections. A survey of all the cases in this series (Rhee, Hoffner, et al. 2024) and the individual cases underlying it are available from the Journal of Financial Crises at https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/. Rhee, Oguri, et al. (2022) surveys broad-based capital injection programs. 
+
+> 2 Research Associate, YPFS, Yale School of Management. The authors wish to thank Sophie Alden for research assistance. 
+
+> 3 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+This case study is about the capital injection provided to Caja de Ahorros Castilla–La Mancha (CCM) in 2009. The capital injection was provided after CCM received emergency liquidity assistance (ELA) and accompanied the restructuring process. These interventions are described in detail in Arnold and Swaminathan (forthcoming). 
+
+CCM was a regional savings bank ( _caja_ )[4] that made up about 1% of the total assets in Spain’s financial system (EC 2010). Between 2000 and 2008, CCM expanded its real estate lending (40% of its total loan portfolio during its peak) and relied heavily on wholesale funding for its operations. During the Global Financial Crisis of 2007–2009 (GFC), CCM’s access to the interbank funding market dried up, and it fell short of eligible collateral to use for European Central Bank (ECB) funding. The confluence of these factors caused CCM’s capital adequacy ratio to fall below the regulatory requirement of 8% to 1.3% after a Bank of Spain (BoS) on-site inspection that required the bank to recognize additional nonperforming loans (EC 2010; IMF 2012). At the end of 2008, CCM’s total capital stood at EUR 242 million, well below the legally required level of EUR 1.6 billion (EC 2010). 
+
+The central bank concluded that merging CCM with another institution would be the best alternative to overcome CCM’s issues. However, by February 2009, rated below investment grade by Fitch Ratings, CCM found it impossible to raise capital in the wholesale markets. CCM’s proposed merger with another savings bank, Unicaja, fell through after CCM’s auditors refused to 
+
+## **Key Terms** 
+
+Purpose: The capital injection was carried out with an intention to shore up the solvency requirement of CCM as the authorities concluded that CCM would not be able to overcome financial difficulties alone 
+
+||Announcement|April 27, 2009|
+|---|---|---|
+||Date||
+||Operational Date<br>Date of Final<br>Capital Injection|May 4, 2009<br>A single capital injection on<br>May 4, 2009|
+||End Date|CCM agreed to a|
+|||restructuring and sale to|
+|||CajAstur on June 30, 2010|
+||Source of Funding|Savings Bank Deposit<br>Guarantee Fund (FGD)|
+||Administrators|FGD, subject to BoS approval|
+||Size<br>Capital<br>Characteristics|EUR 1.3 billion<br>Preference shares|
+||Bail-in Terms|No bail-in|
+||Outcomes|Banking business (good|
+|||bank) was sold off to<br>CajAstur, and FGD was|
+|||reimbursed by way of<br>transfer of nonbanking<br>assets to FGD. However, this|
+|||intervention, which also|
+|||included an asset guarantee|
+|||and additional liquidity<br>provision, wiped out 90% of<br>FGD’s funds;|
+|||_(continued)_|
+
+
+
+> 4 _Cajas_ were organized as private charities with banking licenses and could provide the services of commercial and cooperative banks. They were not owned by shareholders but were governed by members. Profits were used for strengthening capital, and the rest of it was used for charity work (EC 2012). 
+
+
+certify its 2008 annual report to the BoS. The audit report showed a EUR 3 billion solvency gap at CCM, citing deeper losses and solvency issues than CCM was willing to recognize (Cacho 2009; Santos 2017). With no access to ECB liquidity, no ability to raise further funding, and without the planned rescue from Unicaja, CCM had little recourse; as a result, the BoS provided a first ELA line of up to EUR 900 million to CCM in February 2009. On March 28, 2009, the BoS placed CCM under administration and subsequently decided to implement a restructuring plan with the intention of integrating CCM with 
+
+||Outcomes|The total cost to the FGD for|
+|---|---|---|
+||_(continued)_|intervening in CCM|
+|||amounted to EUR 4.2 billion,<br>against which it ultimately<br>recovered just EUR 174<br>million|
+||Notable Features|First bank to be recapitalized<br>in Spain after the onset of the<br>GFC. The underpreparedness<br>of authorities led to the|
+|||establishment of the FROB in|
+|||June 2009 for future|
+|||resolution and restructuring|
+|||measures|
+
+
+
+another financially sound institution. On March 31, 2009, the BoS provided a new ELA credit line of up to EUR 9 billion after having its earlier ELA paid back. The new ELA came with a state guarantee of up to EUR 3 billion (EC 2010). 
+
+The Savings Bank Deposit Guarantee Fund (Fondo de Garantía de Depósitos de Caja de Ahorros, or FGD) had been expected to provide assistance to facilitate CCM’s merger with another institution (Fernández Ordóñez 2009). The BoS extended this ELA after these proposed private solutions with FGD support did not come to fruition (BoS 2009a; Fernández Ordóñez 2009). The purpose of the BoS’s ELA was to support CCM’s financial health and prevent a huge future expense to the taxpayers (BoS 2009a); the support was to remain in place until the restructuring of CCM was completed. Although the state guarantee expired in April 2009 once the FGD committed to provide aid, the ELA from the BoS remained in place for about 15 months—until June 2010, when CCM’s general assembly approved a restructuring (EC 2010; IMF 2012). CCM utilized EUR 1.2 billion from this ELA (EC 2010). 
+
+On April 27, 2009, the FGD agreed to provide a EUR 1.3 billion capital injection in the form of preference shares (EC 2010). The capital injection took place on May 4, 2009, maintaining the capital adequacy ratio at 8.2% (CCM 2010). In 2010, the central bank approved the restructuring in which Banco Liberta, the banking subsidiary of CajAstur, the savings bank of a different province, would take over the banking business of CCM (IMF 2012). The FGD committed to provide EUR 350 million as a liquidity contribution and a EUR 2.5 billion guarantee of a portfolio of CCM’s impaired assets to facilitate the transaction. The restructuring resulted in the legacy CCM entity’s receiving 25% of shares in Banco Liberta, which was renamed Banco CCM. The legacy CCM entity was transformed into a charitable organization, CCM Foundation (IMF 2012). 
+
+The FGD’s EUR 1.3 billion capital injection remained as a stake in CCM. CCM’s obligation to the FGD for the capital injection and the EUR 350 million liquidity contribution were partially offset by way of a transfer of CCM nonbanking assets to the FGD. In addition, 60% of CCM’s stake in Banco Liberta was pledged to the FGD as collateral (IMF 2012). However, a recent analysis concludes that the FGD ultimately recovered just EUR 174 million on the total EUR 4.2 billion that it committed to CCM for the recapitalization, asset guarantee, and ELA line 
+
+
+(Baudino, Herrera, and Restoy 2023). Figure 1 provides a timeline of significant events in the CCM recapitalization and restructuring. 
+
+[FIGURE id=vol6_iss3_20_f1 type=diagram page=6 label="Figure 1" file=figure_1.png caption="Timeline of CCM Interventions"]
+### **Figure 1: Timeline of CCM Interventions**
+
+|**Date**|**Event**|
+|---|---|
+|July 2008|The BoS directs CCM to draft a report on its future business plan. The report<br>highlights the need to ensure the bank’s future viability, preferably by merging with<br>or being acquired by another savings bank.|
+|Oct. 2008|At the direction of the BoS, CCM begins to search for acquirer.|
+|Dec. 31, 2008|CCM’s capital adequacy ratio reaches 1.3%, below the 8% regulatory requirement.<br>Capital is approximately EUR 242 million, below the EUR 1.6 billion mandated<br>requirement.|
+|2008–early 2009|BoS begins to monitor CCM on site and begins assessment of its viability.|
+|Feb. 2009|Fitch downgrades CCM's credit rating from BBB+ to non-investment-grade BB+. BoS<br>provides ELA of up to EUR 900 million to CCM.|
+|Feb. 18, 2009|The president of CCM issues a public statement about CCM’s stability, claiming that<br>CCM faces a brutal campaign against its message, that depositors are safe and secure,<br>and that CCM is exploring options to keep it operational.|
+|Feb. 25, 2009|CCM issues a press release saying that it is exploring a merger with Unicaja.|
+|March 23, 2009|CCM submits to BoS its 2008 year-end accounts report, prepared by<br>PricewaterhouseCoopers.|
+|March 25, 2009|CCM and Unicaja meet with the BoS to discuss the 2008 year-end accounts report<br>when CCM confirms that its auditor, Ernst & Young, had not reviewed or verified the<br>report. Unicaja becomes reluctant to move forward with a merger.|
+|March 28, 2009|BoS places CCM under administration, replacing its managing board with three<br>interim directors.|
+|March 29, 2009|The Spanish government approves Royal Decree Law No. 4/2009, allowing a state<br>guarantee to CCM of BoS credit up to EUR 9 billion.|
+|March 30, 2009|CCM issues press releases stating that, on March 29, its board of directors was<br>replaced by the BoS and that it had obtained a liquidity line from the BoS to ensure<br>payment operability and its ability to meet depositor withdrawals.|
+|March 31, 2009|The BoS provides an additional ELA credit line of up to EUR 9 billion after having its<br>earlier ELA reimbursed. The new ELA comes with a state guarantee of up to EUR 3<br>billion.|
+|April 27, 2009|Spain’s Savings Bank Deposit Guarantee Fund provides a capital injection worth EUR<br>1.3 billion in preference shares, which increases CCM’s Tier 1 capital ratio to 11%. The<br>state guarantee of EUR 3 billion on the ELA expires.|
+|July–Aug. 2009|CCM calls  preference shares worth EUR 120 million and buys back EUR 85 million in<br>preference shares.|
+
+
+
+
+|Aug. 31, 2009|CCM issues a press release reporting that its operating conditions have improved<br>significantly, its liquidity position has stabilized, and delinquencies have been<br>reduced.|
+|---|---|
+|Sept. 29, 2009|Spanish authorities submit a preliminary restructuring plan for CCM.|
+|Nov. 3, 2009|CCM and the BoS announce that the BoS has selected CajAstur as the buyer of<br>CCM’s banking assets.|
+|June 30, 2010|The general assembly of CCM approves the restructuring plan and the ELA expires.|
+
+
+
+_Source: Authors’ analysis._ 
+
+## **Summary Evaluation** 
+
+Since CCM was the first Spanish bank to receive intervention after the onset of the GFC, the Spanish authorities were underprepared (Santos 2017). Although we were not able to study the efficacy of the recapitalization measure in isolation, we were able to find academic studies that commented on the whole intervention. 
+
+The CCM episode caused the Spanish authorities to consider setting up a resolution and restructuring fund, leading to the creation of the Fund for Orderly Bank Restructuring (Fondo de Restructuración Ordenada Bancaria, or FROB) on June 26, 2009 (Day 2009; Santos 2017). 
+
+Tano Santos, a professor at Columbia Business School, notes that taxpayers hadn’t funded the deposit insurance fund that recapitalized CCM. Still, he argues that the intervention cast serious doubt about the credibility of the Spanish authorities, citing an independent estimate from PricewaterhouseCoopers (PwC) of CCM’s equity gap at EUR 3 billion, substantially larger than the BoS estimate of EUR 0.5 billion; ex post valuations confirmed PwC’s estimates. Further, Santos notes that throughout the crisis, many public officials insisted that CCM’s troubles were only liquidity issues, not solvency issues (Santos 2017). 
+
+In the State Aid decision letter, the European Commission (EC) noted that CCM had not complied with the EC’s principles of burden-sharing, which required that the creditors of CCM also be asked to participate in the losses in CCM’s restructuring. The EC argued that coupon payments that CCM made to creditors in 2009 as well as the two buybacks of preference shares at par value from creditors in July and August 2009 violated this principle (EC 2010; Segovia 2009b). The Spanish newspaper _El Confidencial_ argued that CCM’s intervention by the BoS set a dangerous precedent, as it involved the violation of burdensharing principles and criticized the BoS’s lack of transparency in its interventions. The newspaper also argues that the selection of the buyer CajAstur was arbitrary (Segovia 2009a; Segovia 2009b). 
+
+An IMF 2010 report discussing the restructuring of CCM noted that CCM was: 
+
+taken over by Cajastur in November 2009 through a competitive tender procedure in line with the statutory requirements of the Deposit Guarantee Scheme for Saving Banks. 
+
+
+Nonetheless, the operation raised market criticisms regarding the cost and transparency of the transaction, which preserved a role for the stakeholders of CCM in the new institution. (IMF 2010, 74) 
+
+
+**Context: Spain, Caja de Ahorros Castilla–La Mancha, 2008–2009 EUR 26 billion** as of Dec. 31, 2008 **Assets EUR 25.5 billion** as of Dec. 31, 2009 **EUR 25.9 billion** as of Dec. 31, 2008 **Liabilities EUR 25.7 billion** as of Dec. 31, 2009 **EUR 19.7 billion*** as of Dec. 31, 2008 **Deposits EUR 18.8 billion*** as of Dec. 31, 2009 **Capital Ratio (Tier 1) No information Nonperforming Loans No information No information** on the lending market as of Dec. 31, 2008 **Market Share No information** on the lending market as of Dec. 31, 2009 **184.9%** as of Dec. 31,2008 **Banking System, % of GDP 194.2%** as of Dec. 31, 2009 * Excluding central bank deposits _. Sources: Bloomberg; CCM 2009b; World Bank Global Financial Development Database; World Bank Deposit Insurance Dataset._ 
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: On April 27, 2009, the managing board of the FGD decided to provide a capital injection to shore up the solvency ratio of CCM.** 
+
+On April 27, 2009, the managing board of the FGD agreed to provide a capital injection of EUR 1.3 billion in preference shares to shore up the solvency ratio of CCM, after the authorities concluded that CCM could not continue to operate on its own (CCM 2009a; EC 2010). The objective of the measure was to rescue CCM by increasing its capital buffer to fulfill the legal requirement and minimize costs for the FGD (EC 2010). The capital injections followed an ELA to enable continuity of its operations and fulfillment of its obligations and commitments (Fernández Ordóñez 2009). For more information on the ELA, refer to a separate case study by Arnold and Swaminathan (Forthcoming). 
+
+The government created the FGD to protect savings bank depositors. One of its core objectives was to maintain financial stability. The EC noted that one of the FGD’s key goals in recapitalizing CCM was to preserve the role of Spanish savings banks in their social mission (EC 2010). 
+
+**2. Part of a Package: The BoS made up to EUR 9 billion available through emergency liquidity assistance. The bank had EUR 1.2 billion outstanding on the ELA facility as of June 2010 when CCM’s restructuring plan was approved; after the capital injection, the FGD provided an asset guarantee of up to EUR 2.5 billion and a liquidity contribution of EUR 350 million.** 
+
+The BoS provided an ELA line of up to EUR 900 million in February 2009 and a second ELA line of up to EUR 9 billion on March 31, 2009, of which the Spanish government guaranteed up to EUR 3 billion (EC 2010; El País 2009). This was done under the newly enacted Royal Decree-Law 4/2009, which enabled the government to guarantee up to EUR 9 billion of ELA provided by BoS (Carlos and Zapatero 2009). After the FGD’s capital injection, as a part of restructuring CCM, the FGD provided a five-year guarantee (with the possibility of a twoyear extension) of up to EUR 2.5 billion on a EUR 7.7 billion portfolio of CCM's impaired assets, consisting mainly of loans to the real estate development sector, acquired by Banco Liberta (EC 2010). Banco Liberta was responsible for the first EUR 1.2 billion in losses on the impaired assets, after which the guarantee would cover up to EUR 2.5 billion in additional losses (IMF 2012). The FGD advanced EUR 2.5 billion to Banco Liberta in installments (IMF 2012); Banco Liberta was to repay that amount at the end of five years, less any losses ultimately realized on the impaired assets. The FGD also provided a nine-month loan of EUR 350 million for those assets not being transferred to Banco Liberta (EC 2010, 9, 16). See Key Design Decision No. 11, Restructuring, for more information. 
+
+
+## **3. Legal Authority: Royal Decree Law 2606/1996 empowered the FGD to administer capital injections.** 
+
+The FGD was created by Royal Decree Law (RDL) 2860/1980 of December 4, 1980. RDL 2606/1996 gives the FGD a separate legal status. The FGD guarantees depositors of all savings banks ( _cajas_ ); other guarantee funds cover commercial banks and cooperative banks (EC 2010; MEF 1996). Membership is mandatory for savings banks. RDL 2606/1996 also lists maintaining financial stability as one of the objectives for FGD (EC 2010; MEF 1996). 
+
+The Spanish authorities argued that the capital injection did not constitute State Aid and that they did not have to comply with EC’s State Aid rule. Specifically, they noted that (a) the FGD was a private mutual fund funded by the private sector, (b) FGD’s decisions were not attributable to the Spanish state, (c) FGD’s actions did not confer particular advantage to any one of the _cajas_ , and (d) the FGD was allowed to provide financial support to avoid reimbursement by member banks to their depositors (EC 2010). However, the EC disagreed (EC 2010). The EC determined that state resources were used for financing as the contributions that savings banks made to the FGD were mandatory and partly determined by law; the capital injection was still imputable to the Spanish state, since the FGD had to rely on state directives before making its decisions; and it was selective in nature, giving CCM advantages to distort competition (EC 2010). However, the EC determined that the measures taken by Spain were ultimately compatible with the internal market. 
+
+## **4. Administration: The board of the FGD administered the capital injection, subject to approval from the Bank of Spain.** 
+
+FGD is governed and managed by a board consisting of eight members appointed by the minister of the economy. Four of the eight represent BoS, and the other four represent member institutions (MEF 1996). 
+
+The FGD guarantees the amounts deposited in credit institutions, and it can also perform the preemptive actions necessary to avoid the guarantee on deposits being triggered (EC 2010). Such preemptive actions are allowed only when guarantees are likely to be triggered (EC 2010). The FGD must factor in the financial cost of any preemptive measure relative to the cost of reimbursing depositors before any such measure is agreed to by the board (EC 2010). Any decision to recapitalize needs to be adopted by a qualified majority (two-thirds of the board members) (EC 2010). The board of FGD unanimously approved a capital injection to CCM on April 27, 2009 (EC 2010). 
+
+## **5. Governance: The Spanish authorities committed to submit yearly reports to the EC as part of the monitoring process.** 
+
+The Spanish authorities committed to submit yearly reports to the EC on the liquidation of assets transferred to the FGD and on the social support activities of the CCM Foundation from June 2010 as part of the restructuring decision (EC 2010). 
+
+
+## **6. Communication and Disclosure: The Bank of Spain and CCM announced details of the recapitalization and subsequent restructuring to the public in press releases, sometimes noting that the FGD role ensured that no public funds were involved.** 
+
+CCM announced the EUR 1.3 billion capital injection from the FGD on April 29, 2009. The savings bank noted that the FGD injection would push CCM’s solvency ratio to 11%, above the regulatory minimum (Reuters 2009). 
+
+The capital injection was described in CCM's 2009 annual report as well as in the EC State Aid document (CCM 2009b; EC 2010). CCM also released a press release to inform the public of the capital injection (CCM 2009a). The EC State Aid document stated that the Spanish authorities committed to furnishing yearly reports on the social support activities of the CCM Foundation, on the liquidation of assets transferred to the FGD, and on the accomplishment of objectives laid out in the restructuring plan (EC 2010). 
+
+On November 3, 2009, the Bank of Spain and the National Securities Market Commission (Comisión Nacional del Mercado de Valores, CNMV) announced in press releases that the BoS had selected CajAstur as the buyer of CCM’s banking assets (BoS 2009b; CNMV 2009). The BoS announcement noted that the FGD role ensured that no taxpayer funds were involved. 
+
+**7. Treatment of Creditors and Equity Holders: The intervention of CCM did not involve any bail-in, and creditors and depositors continued to enjoy their privileges without any burden-sharing, leading the EC to criticize the measure.** 
+
+In its June 2010 State Aid report, the EC pointed out that CCM called two previously issued preference shares after the capital injection. CCM had repurchased EUR 120 million in preference shares issued in 2001 on August 31, 2009, and EUR 85 million in preference shares issued in 2005 between July 15 and August 31, 2009. The EC emphasized that despite the absence of distributable profits, both calls were offered at par value. Additionally, CCM made discretionary coupon payments on hybrid capital in 2009, although it was incurring losses in 2008. (EC 2010). The EC noted that this was not consistent with its policies on hybrid instruments and its principles on burden-sharing, since the creditors were not made to bear any of the losses (EC 2010). Santos (2017) also points out that CCM had no legal obligation to do this and that the BoS had rights to bail in the debt before any recapitalization of the entity. 
+
+**8. Capital Characteristics: The capital injection was in the form of preference shares without voting rights that paid no interest for the first five years.** 
+
+The EUR 1.3 billion capital injection took the form of preference shares without voting rights (CCM 2010; EC 2010). The preference shares were perpetual, but CCM could redeem them from the fifth year after the date of issuance with prior authorization from the BoS (CCM 2010). These shares were treated as Tier 1 capital by the BoS (EC 2010). 
+
+The preference shares paid no interest during the first five years. After that, the interest rate increased to 3% until the 10th year of issuance. After the 10th year, the interest rate was the average rate of preference shares issued in the Spanish market by companies with a credit 
+
+
+rating identical to CCM’s within the three-month period before the end of the 10th year (EC 2010). If this rate could not be determined, then the rate would be equal to that of the state’s 10-year bond rate as of the 10th year plus 300 basis points (EC 2010). The payment of the interest was limited to the existence of sufficient distributable profits (CCM 2010). The EC noted that the objective of the very low level of remuneration CCM paid on the preference shares was to help the bank increase its capital buffer to meet legal requirements (EC 2010). The EC noted that the low interest rates and long term on the preference shares did not provide a sufficient incentive for the bank to repay the government for the capital injection. However, it also noted that “it is possible to accept that a distressed bank pays a lower remuneration than is normally necessary, provided that this is required to ensure financial stability and is accompanied by the presentation of a thorough and far-reaching plan” (EC 2010). The EC also noted that CCM later partly reimbursed the FGD for the capital injection through the transfer of its nonbanking assets (EC 2010). 
+
+## **9. Size and Source of Funding: The FGD injected EUR 1.3 billion in preference shares into CCM on May 4, 2009. It was later partially reimbursed through the transfer of CCM nonbanking assets.** 
+
+The FGD elected to inject preference shares worth EUR 1.3 billion into CCM in April 2009 (EC 2010). The issue of these shares took place on May 4, 2009 (CCM 2009b) and was authorized by the BoS. The term of this authorization depended on the restructuring plan and the fulfillment of objectives highlighted in that plan, pursuant to the approval of the BoS before December 31, 2009 (CCM 2009b). RDL 2606/1996 empowers the FGD to act in full capacity in the management of the savings banks ( _cajas_ ) (EC 2010). 
+
+The FGD’s financing was based on the periodic contributions of member credit institutions to the FGD, which was legally determined and based on potential needs of the FGD to fulfill its statutory goals. Until 1994, the BoS also contributed to the FGD (EC 2010). 
+
+By June 2010, the parties decided that the EUR 1.3 billion capital injection would be partially reimbursed by way of a transfer of nonbanking assets of CCM to the FGD and part of CCM’s stake in Banco Liberta was pledged to FGD as collateral (EC 2010; IMF 2012). Columbia Business School’s Tanos Santos notes in a presentation that this intervention wiped out 90% of the funds at FGD (Santos 2012). The total cost to the FGD (including the capital injection and the asset protection scheme for CCM) amounted to EUR 4.2 billion, of which it recovered just EUR 174 million (Baudino, Herrera, and Restoy 2023). 
+
+## **10. Timing: The FGD capital injection occurred after the BoS placed CCM under administration.** 
+
+In 2008 and the first quarter of 2009, the BoS monitored CCM on site and concluded that the optimal solution to solve CCM’s underlying problems was to consolidate it with another sound credit institution (EC 2010). Because CCM was unable to raise capital in the wholesale markets after Fitch lowered its bond rating to below investment grade in February 2009, the BoS elected to grant an ELA line (EC 2010). On March 31, 2009, after this temporary ELA was reimbursed, the BoS provided a new ELA line of up to EUR 9 billion (EC 2010). The state 
+
+
+guaranteed up to EUR 3 billion of this ELA (EC 2010). On March 28, 2009, the BoS had placed CCM under administration and concluded that restructuring was necessary (EC 2010). 
+
+On April 27, 2009, the FGD chose to inject EUR 1.3 billion in preference shares to raise CCM’s solvency ratio to 11% (EC 2010). No specific law had to be passed, since RDL 2606/1996 had empowered the FGD to administer capital injections (EC 2010). Issued on May 4, 2009, these shares were fully subscribed to by the FGD (CCM 2009b). 
+
+## **11. Restructuring: The capital injection preceded a restructuring plan to integrate CCM’s banking activities with another solvent institution.** 
+
+The capital injection preceded the creation of a restructuring plan intended to integrate CCM’s banking activities with another solvent institution. The plan focused on seeking out the best bidder through a competitive auction process, with a special emphasis on the buyer being a _caja_ (owing to better likelihood of success and because of their legal form) (EC 2010). The restructuring plan was finalized in June 2010, after the CCM general assembly approved the acquisition of the banking business of CCM by Banco Liberta, a subsidiary of CajAstur (IMF 2012). 
+
+Under the restructuring plan, Spanish authorities and the Spanish government–appointed directors of CCM restructured the bank in the form of a structured acquisition by another _caja_ of CCM’s banking activities (the “good bank”) and by the FGD’s assumption of CCM’s nonbanking activities (the “bad bank”). 
+
+## **Good Bank** 
+
+_The Acquisition Measure._ CajAstur, through its banking subsidiary Banco Liberta, would acquire a net EUR 23.2 billion of assets from CCM (EC 2010). To reach its required 8% Tier 1 capital ratio, CajAstur would inject EUR 410 million into Banco Liberta, while CCM would transfer EUR 442 billion of assets and liabilities to Banco Liberta (EC 2010). The parties would fully reimburse the outstanding EUR 1.2 billion of ELA to the BoS (EC 2010). 
+
+_Asset Guarantee Measure._ As part of the restructuring, the FGD provided a five-year guarantee (which could be rolled over for an additional two years) on a EUR 7.7 billion portfolio of impaired assets (loans and credit facilities) acquired by Banco Liberta, for losses of up to EUR 2.5 billion in excess of the first EUR 1.2 billion in losses (to be borne by Banco Liberta) (EC 2010). 
+
+_Liquidity-in-Resolution Measure._ The FGD also provided liquidity to support CCM’s restructuring (EC 2010). This EUR 350 million loan was meant to help settle some CCM subordinated liabilities that could not contractually be transferred to its acquirer (CajAstur through its banking subsidiary Banco Liberta) (EC 2010). The loan allowed EUR 442 million of CCM banking assets to be transferred to Banco Liberta so the latter could reach its 8% Tier I capital ratio requirement (EC 2010). The duration of the loan was nine months (EC 2010). The FDG charged the fixed portion of a nine-month mid-swap rate plus 20 basis points, which the EC said did not appear to be risk-appropriate pricing but deemed that such pricing was 
+
+
+driven by the need to “satisfy legal constraints” regarding the subordinate liabilities’ ineligibility for transfer to Banco Liberta (EC 2010). 
+
+## **Bad Bank** 
+
+The FGD assumed CCM’s nonbanking assets and liabilities (those that were neither its core banking activities nor its charity work), which it set off against its EUR 1.3 billion capital injection and EUR 350 million liquidity provision (both of which came from the FGD) (EC 2010). The FGD would sell the assets over seven years, subject to a loss-sharing agreement with CCM, whereby CCM would be required under adverse loss scenarios to transfer a share of its equity in Banco Liberta to the FGD (EC 2010). 
+
+## **Continuity of CCM’s Charitable Work** 
+
+The remaining CCM organization surrendered its banking license and reorganized into a charitable foundation, the CCM Foundation, which would continue CCM’s legacy charity work in Castilla–La Mancha (EC 2010). The CCM Foundation would retain a 25% stake in Banco Liberta (60% of which guaranteed FGD losses on the bad bank—see Bad Bank measure), the dividends from which (subject to an annual cap of EUR 11 million) would support the CCM Foundation’s regional charity work (EC 2010). 
+
+## **12. Treatment of Board and Management: The BoS replaced the entire board of directors when it put CCM under administration before the capital injection.** 
+
+Before the capital injection took place, the BoS put CCM under administration, dismissed the entire board of directors and appointed three interim directors from the BoS on March 28, 2009 (Barrón 2009; EC 2010). This replacement decision was taken as a part of the intervention to restructure and recapitalize CCM (Barrón 2009). In February 2016, the National Court of Spain sentenced ex-president of CCM Juan Pedro Hernández Moltó and exgeneral director Ildefonso Ortega to two years in prison for falsifying figures in the book of accounts (Barrón 2016). 
+
+## **13. Other Conditions: The capital injection did not involve any other restrictions.** 
+
+The capital injection did not involve any restrictions. However, the FGD committed to not lend any additional financial support to any of the entities involved in the restructuring of CCM (EC 2010). 
+
+## **14. Regulatory Relief: The capital injection did not entail any regulatory relief.** 
+
+The capital injection into CCM did not entail any regulatory relief. 
+
+**15. Exit Strategy: The banking business of CCM was taken over by Banco Liberta, a subsidiary of CajAstur. The capital injection was partially offset through a transfer** 
+
+
+## **of nonbanking assets from CCM to FGD. The legacy CCM entity was converted into a charitable organization and received 25% of Banco Liberta shares.** 
+
+The restructuring plan, which was approved on June 30, 2010, 14 months after the capital injection, was to merge CCM with a solvent institution (IMF 2012). The sale process (which commenced in March 2009) ended in October 2009 after an auction determined Spanish savings bank CajAstur’s bid to be the best one (EC 2010; IMF 2012; Sanz de Miguel 2010). One of CajAstur’s subsidiaries, Banco Liberta, acquired CCM’s banking business after it entered restructuring (IMF 2012). The legacy CCM entity was transformed into a charitable organization, CCM Foundation. It received 25% of shares in Banco Liberta, which was renamed Banco CCM (IMF 2012). The restructuring provided for the CCM Foundation to use any dividends from the Banco Liberta shares to finance activities consistent with the savings bank’s traditional social mission, with an annual cap of EUR 11 million to fund existing commitments. 
+
+After the takeover, CCM’s remaining nonbanking assets were transferred to the FGD to partially repay the EUR 1.3 billion capital injection and EUR 350 million loan (EC 2010). These assets consisted mainly of holdings in real estate, unlisted companies, and venture capital funds (CCM 2010). The FGD planned to sell these assets over a seven-year period, and losses incurred after the completion of the sale process were to be shared between the FGD and CCM. This loss-sharing mechanism may result in CCM being obliged to transfer to the FGD up to 60% of its 25% stake in Banco Liberta, in other words, a 15% stake. A company within the CajAstur group was appointed to manage the sale process (EC 2010). 
+
+A recent analysis concludes that the FGD ultimately recovered just EUR 174 million on the EUR 4.2 billion that it committed in total to CCM for the recapitalization, asset guarantee, and liquidity contribution (Baudino, Herrera, and Restoy 2023). 
+
+
+## **References and Key Program Documents** 
+
+## **Summary of Program** 
+
+(EC 2010) European Commission (EC). 2010. “State Aid NN 61/2009 – Spain – Rescue and Restructuring of Caja Castilla-La Mancha,” June 29, 2010. _Report from the EC detailing the emergency liquidty assistance granted to CCM_ . https://elischolar.library.yale.edu/ypfs-documents2/3840 
+
+(EC 2012) European Commission (EC). 2012. “State Aid SA.35253 (2012/N) – Spain – Restructuring and Recapitalisation of the BFA GroupRoyal Decree 2606/1996,” November 28, 2012. 
+
+_EC document on the restructuring of BFA-Bankia_ . https://elischolar.library.yale.edu/ypfs-documents2/2334/ 
+
+## **Legal/Regulatory Guidance** 
+
+(Carlos and Zapatero 2009) Carlos, Juan, and José Zapatero. 2009. “Royal Decree Law No. 4/2009,” March 29, 2009. 
+
+_Spanish law that authorizes the granting of guarantees_ . https://elischolar.library.yale.edu/ypfs-documents2/3947 
+
+(MEF 1996) Ministry of Economy and Finance (MEF). 1996. “Royal Decree 2606/1996, of December 20, on Credit Institution Deposit Guarantee Funds.” Boletín Oficial del Estado 307 (December 21), December 1996. 
+
+_Web page describing the legal and the governance mechanisms of the FGD_ . https://elischolar.library.yale.edu/ypfs-documents2/3847 
+
+## **Media Stories** 
+
+(Barrón 2009) Barrón, Íñigo de. 2009. “The Government Comes to the Aid of Caja Castilla La Mancha in the Face of Its Liquidity Problems.” El País, March 29, 2009. _Article detailing the provision of the EUR 9 billion ELA to CCM (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/3830 
+
+(Barrón 2016) Barrón, Íñigo de. 2016. “Two Years in Prison for the Former President of Caja Castilla La Mancha.” El País, February 24, 2016. 
+
+_Article detailing the imprisionment of Hernández Moltó, CCM’s former president (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/3831 
+
+(Cacho 2009) Cacho, Jesús. 2009. “The Bank of Spain Intervenes CCM Due to the Auditor’s Refusal to Sign the 2008 Accounts.” El Confidencial, March 30, 2009. 
+
+_Newspaper article describing accounting disagreements between CCM and CCM’s auditor (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/3833 
+
+
+(Day 2009) Day, Paul. 2009. “Spain Says Studying Bank Assistance Fund.” Reuters, April 23, 2009. 
+
+_Article detailing the discussion on creating a resolution fund for Spain_ . https://elischolar.library.yale.edu/ypfs-documents2/3836 
+
+(El País 2009) El País. 2009. “The Government Rescues Caja Castilla La Mancha with 9,000 million.” _El País_ , March 30, 2009. 
+
+_Article on the first ELA given to CCM (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/3837 
+
+(Reuters 2009) Reuters. 2009. “Spain’s CCM Sets Share Sale to Boost Capital.” Reuters, April 29, 2009. 
+
+_Article on the sale of shares of CCM_ . https://elischolar.library.yale.edu/ypfs-documents2/3843 
+
+(Segovia 2009a) Segovia, Eduardo. 2009a. “The Intervened CCM Breaks the Market with a 4.25% Deposit and Unleashes the Anger of the Banks.” _El Confidencial_ , July 17, 2009. _News article on the status of depositors at CCM (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/3846 
+
+(Segovia 2009b) Segovia, Eduardo. 2009b. “Caja Castilla–La Mancha Faces the European Commission with Its Purchase of Preferreds.” _El Confidencial_ , September 14, 2009. _News article on the criticism of the EC on the violation of the burden-sharing conditions by CCM (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/3845 
+
+## **Press Releases/Announcements** 
+
+(BoS 2009a) Bank of Spain (BoS). 2009a. “Banco de España Replaces Directors of the Caja Castilla La Mancha.” Press release, March 29, 2009. 
+
+_Press release from the Bank of Spain announcing the replacement of the board of directors at CCM_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/3829 
+
+(BoS 2009b) Bank of Spain (BoS). 2009b. “The Bank of Spain Approves the Project Presented by Caja Castilla La Mancha for Integration with Cajastur.” Press release, November 3, 2009. 
+
+_Press release from the BoS approving CCM’s intergration with CajAstur (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/3856 
+
+(CCM 2009a) Caja de Ahorros Castilla–La Mancha (CCM). 2009a. “Communication of Relevant Fact.” Press release, April 29, 2009. 
+
+_Press release from the CCM regarding the ad hoc capital injection (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/3855 
+
+
+(CNMV 2009) National Securities Market Commission (Comisión Nacional del Mercado de Valores) (CNMV). 2009. “Cajastur Has Been Selected by the Bank of Spain to Integrate Castilla La Mancha.” Press release, November 3, 2009. 
+
+_Press release from the Spanish national stock market commission on the takeover of CCM (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/3854 
+
+## **Reports/Assessments** 
+
+(CCM 2009b) Caja de Ahorros Castilla–La Mancha (CCM). 2009b. Annual Report 2008. _Annual report of CCM for the year 2008 (machine translated to English)_ . https://elischolar.library.yale.edu/ypfs-documents2/3834 
+
+(CCM 2010) Caja de Ahorros Castilla–La Mancha (CCM). 2010. Annual Report 2009. _Annual report of CCM for the year 2009_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/3835 
+
+(Fernández Ordóñez 2009) Fernández Ordóñez, Miguel. 2009. “Appearance before the Economy and Finance Commission of the Congress of Deputies,” April 2, 2009. 
+
+_Transcript pertaining to the appearance of the Bank of Spain’s governor before the Economic and Finance Commission of the Congress of Deputies (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/3853 
+
+(IMF 2010) International Monetary Fund (IMF). 2010. “Spain: 2010 Article IV Consultation: Staff Statement; Staff Supplement; Staff Report; Statement by the Executive Director for Spain; and Public Information Notice on the Executive Board Discussion.” IMF Country Report No. 10/254, July 30, 2010. 
+
+_Report mentioning the restructuring of CCM_ . https://elischolar.library.yale.edu/ypfs-documents/12049/ 
+
+## **Key Academic Papers** 
+
+(Arnold and Swaminathan, forthcoming) Arnold, Vincient, and Lakshimi Swaminathan. Forthcoming. “Spain: Caja de Ahorros Castilla–La Mancha Emergency Liquidity Assistance, 2009.” _Journal of Financial Crises_ . 
+
+_YPFS case study discussing emergency liquidity assistance provided to CCM by the BoS_ . 
+
+(Baudino, Herrera, and Restoy 2023) Baudino, Patrizia, Mariano Herrera, and Fernando Restoy. 2023. “The 2008–14 Banking Crisis in Spain.” Bank for International Settlements, Financial Stability Institute, FSI Crisis Management Series, No. 4, July 2023. _Paper on the banking crisis in Spain that followed the GFC, published by the Financial Stability Institute of the Bank for International Settlements_ . https://elischolar.library.yale.edu/ypfs-documents2/2333/ 
+
+
+(IMF 2012) International Monetary Fund (IMF). 2012. “Spain: Safety Net, Bank Resolution, and Crisis Management Framework—Technical Note.” IMF Country Report No. 12/145, June 2012. 
+
+_Technical note on the FROB and the policy framework to combat financial crises in Spain_ . https://elischolar.library.yale.edu/ypfs-documents/10355/ 
+
+(Santos 2012) Santos, Tano. 2012. “National Banking in a Monetary Union: The Case of Spain.” Columbia Business School, April 27, 2012. 
+
+_PowerPoint presentation on the banking crisis in Spain_ . https://elischolar.library.yale.edu/ypfs-documents2/3844 
+
+(Santos 2017) Santos, Tano. 2017. “El Diluvio: The Spanish Banking Crisis, 2008-2012.” Columbia University and NBER, July 13, 2017. 
+
+_Paper examining the Spanish banking crisis_ . https://elischolar.library.yale.edu/ypfs-documents/750/ 
+
+(Sanz de Miguel 2010) Sanz de Miguel, Pablo. 2010. “Challenges in Restructuring of Savings Banks.” Eurofound, March 15, 2010. 
+
+_Commentary on the restructuring of Spanish banks_ . https://elischolar.library.yale.edu/ypfs-documents2/3849 
+
+(Rhee, Hoffner, et al. 2024) Rhee, June, Benjamin Hoffner, Greg Feldberg, and Andrew Metrick. 2024. “Survey of Ad Hoc Capital Injections.” _Journal of Financial Crises_ 6, no. 3. _Survey of YPFS case studies examining ad hoc capital injections_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/1/ 
+
+(Rhee, Oguri, et al. 2022) Rhee, June, Junko Oguri, Greg Feldberg, and Andrew Metrick. 2022. “Broad-Based Capital Injection Programs.” _Journal of Financial Crises_ 4, no. 1. _Survey of YPFS case studies examining broad-based capital injection programs._ https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/1 
+
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

@@ -1,0 +1,1059 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 7 Issue 1 
+2025 
+Containing Runs on Solvent Banks: Prioritizing Recovery over Containing Runs on Solvent Banks: Prioritizing Recovery over 
+Resolution Resolution 
+Edoardo David Martino 
+University of Amsterdam 
+Enrico C. Perotti 
+University of Amsterdam 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Finance and Financial Management Commons, and 
+the Law and Economics Commons 
+Recommended Citation Recommended Citation 
+Martino, Edoardo David and Perotti, Enrico C. (2025) "Containing Runs on Solvent Banks: Prioritizing 
+Recovery over Resolution," Journal of Financial Crises: Vol. 7 : Iss. 1, 1-30. 
+DOI: https://doi.org/10.17132/2693-3179.1598 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/1 
+This Article is brought to you for free and open access by the Journal of Financial Crises and EliScholar – A Digital 
+Platform for Scholarly Publishing at Yale. For more information, please contact journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+Cover Page Footnote Cover Page Footnote 
+We wish to thank Viral Acharya, Charles Goodhart and Sebastiano Laviola (discussant) for their very 
+useful comments. A previous version of this article was presented at the FSB Workshop on Systemic 
+Implications of the Banking Turmoil in Basel; Single Resolution Board Seminar; Strengthening the 
+Resilience of European Banking Sector Workshop in Brussels; Bank of England Seminar; Bundesbank 
+Seminar, CEPR Webinar; 41st EALE conference in Turin. We gratefully acknowledge the comments of all 
+participants. The usual disclaimer appliesA timely recapitalization option requires stronger supervisory 
+powers to activate a timely going concern recapitalization, such as by equity conversion of AT1 CoCo 
+debt. A contingent liquidity measure would be redemption charges activated automatically upon large 
+outflows of uninsured deposits. The goal is to interrupt any self-fulfilling expectation of further outflows. 
+The measure mirrors new SEC norms created for institutional MMFs, the natural benchmark for uninsured 
+corporate deposits. The combination creates a framework for credible interim intervention and a chance 
+to steer solvent banks towards recovery early on rather than settling for forbearance and increasing the 
+probability of resolution and bailouts. 
+This article is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-crises/
+vol7/iss1/1
+
+--- Page 3 ---
+Containing Runs on Solvent Banks:  
+Prioritizing Recovery over Resolution 
+Edoardo D. Martino1 and Enrico Perotti2,3  
+Abstract 
+The sudden banking defaults in the spring of 2023 proved current prudential norms 
+insufficient to prevent bank distress. Capital and liquidity norms need to be adjusted. The 
+experience also shows how a lack of credible supervisory tools led to forbearance and finally 
+chaotic public bailouts. An intervention gap arises when viable but undercapitalized banks 
+are at the mercy of runs. Once outflows start to escalate, all that is left is to prepare for 
+resolution and assign losses. We call for new Pillar II— that is, activated by the supervisor—
+stabilizing measures, as contingent capital and liquidity tools. 
+A timely recapitalization option requires stronger supervisory powers to activate a timely 
+going-concern recapitalization, such as by equity conversion of additional Tier 1 contingent 
+convertible debt. One contingent liquidity measure is the automatic activation of redemption 
+charges upon large outflows of uninsured deposits. The goal is to interrupt any self-fulfilling 
+expectation of further o utflows. The measure mirrors new US Securities and Exchange 
+Commission norms created for institutional money market funds, the natural benchmark for 
+uninsured corporate deposits. The combination creates a framework for credible interim 
+intervention and a c hance to steer solvent banks toward recovery early on rather than 
+settling for forbearance and increasing the probability of resolution and bailouts. 
+Keywords: bank recovery, bank resolution, contingent capital, redemption charges 
+JEL Classifications: G21, G33, K20
+ 
+1 Edoardo D . Martino, Assistant Professor of Law, Amsterdam Center for Law & Economics, University of 
+Amsterdam, the Netherlands and Research Associate, European Banking Institute, Frankfurt, Germany. Email: 
+e.d.martino@uva.nl. 
+2 Enrico Perotti, Professor of International Finance, Amsterdam Business School, University of Amsterdam, the 
+Netherlands. DNB senior consultant, CEPR Fellow. Email: e.c.perotti@uva.nl. 
+3 We wish to thank Viral Acharya , Charles Goodhart, and Sebastiano L aviola (discussant) for their very useful 
+comments. A previous version of this article was presented at the FSB Workshop on Systemic Implications of 
+the Banking Turmoil in Basel; Single Resolution Board Seminar; Strengthening the Resilience of European 
+Banking Sector Workshop in Brussels; Bank of England Seminar; Bundesbank Seminar, CEPR Webinar; 41st 
+EALE conference in Turin. We gratefully acknowledge the comments of all participants. All remaining errors 
+are our own.  
+1
+
+--- Page 4 ---
+I. Introduction 
+The key reforms of the Basel III agreements since 2008 had three goals: limit risk incentives, 
+avoid bailouts , and contain spillover (contagion) effects.  The first goal was served by 
+stronger Basel III capital and liquidity norms that produced a more resilient banking sector. 
+Bailout and contagion risks were supposed to be addressed by bail-in capital and new Pillar 
+II—that is, activated by the supervisor—powers for capital guidance. Yet the experience with 
+massive bank runs in 2023 imposes new conclusions. 
+Capital and liquidity requirements need to be recalibrated based on the new evidence. But 
+next to this primary need, there are more specific implications. First, supervisory hesitation 
+to intervene on undercapital ized banks in a timely manner is driven by fears of triggering 
+panics. Regulatory forbearance buys time but ultimately extends value deterioration and 
+increases losses. Second, it has become painfully evident how even at an early phase of 
+distress, there are hardly any (bailout-free) policy tools to contain runs. Finally, the diffusion 
+of social media usage led to an extraordinary acceleration of self -reinforcing panic runs 
+(Cookson et al. 2023). At a time of rising rates and diffused losses on safe assets held in the 
+banking book, a large share of the banking sector faces huge liquidity risk from uninsured 
+depositors with no tools for containment  (Jiang et al. 2024) . Extensive reforms since 2008 
+have raised the level of the dams against flooding. However, o nce high water threatens to 
+run over, there are no remedies (stored sandbags) other than absorbing losses by bailouts.4 
+The key timing of remedial actions on capital is once losses bite into a bank ’s conservation 
+buffer. The limited tools available in this phase (at best, a suspension of dividends) are hardly 
+ever activated, due to chilling concerns that any public action may lead to self -sustaining 
+runs. 
+We propose a new framework to prioritize bank recovery over bank resolution, beneficial in 
+several asp ects. The main goal is to give solvent but undercapitalized banks a chance to 
+recover early enough, removing the bias toward forbearance. Second, it will improve the 
+credibility of going-concern supervisory powers, prompting more risk -absorbing capital 
+once conservation buffers are about to be breached. Finally, it will ensure that private bail-
+in requirements are implemented. At the same time, reform proposals should ensure reliable 
+access to own funds for depositors and a transparent process for bail-inable investors. These 
+interim measures should be activated upon specific quantifiable indicators. The trigger may 
+lead to an automatic activation or empower supervisors to do so, with the aim to foster the 
+recovery of viable but undercapitalized banks. 
+The rest of the article unfolds as follows. Section II describes some visible shortcomings of 
+the current regime. Once capital levels start to deteriorate, there are no credible tools to 
+ 
+4 Since 2008, the total amount of bai l-in for uninsured bank deposits is zero, in both the E uropean Union and 
+the U nited States. The notable exception is the Cyprus bank crisis resolution managed by international 
+institutions, where large uninsured deposits banks (mostly foreign) were partial ly bailed in. 
+2
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 5 ---
+increase risk absorption or control run incentives. We discuss separately the poor incentives 
+resulting from excess leverage and forbearance (Martynova, Perotti, and Suarez 2022)  and 
+the run incentives created by unconditional sequential service (Diamond and Dybvig 1983; 
+Matta and Perotti 2024) . Section III proposes two key inte rim measures on capital and 
+liquidity, namely (a) a credible regime for going-concern recapitalization and  (b) the 
+introduction of contingent redemption charges, automatically triggered by uninsured 
+deposit outflows. Section IV proposes the principles guiding the activation and calibration of 
+these interim measures. Section V compares these proposals with other reform options in 
+terms of risk allocation and risk incentives. Section VI concludes. 
+II. A Regulatory Blind Spot  
+Several reform proposals since March 2023 have focused on robust ex  ante prudential 
+measures. On the one han d, higher capital and liquidity norms (Admati and Hellwig 2024); 
+on the other hand, an expansion of deposit insurance coverage (Heider et al. 2023) , 
+mirroring the de facto bailout of all the Silicon Valley Bank  (SVB) uninsured depositors—
+accounting for 94% of the bank’s deposit base.  
+Higher buffers are most effective but hard to implement; public insurance reduces runs only 
+at high fiscal costs and moral hazard incentives.  We argue that higher capital and liquidity 
+buffers are indispensable. Yet it is also  essential to strengthen interim measures aimed at 
+preventing unnecessary resolution. The current recovery and resolution framework is not 
+credible and has poor preventive effects (Martino and Parchimowicz 2021; Martynova, 
+Perotti, and Suarez 2022). Too often, resolution reform has been seen narrowly as ensuring 
+orderly liquidation, a ready plan for smoothly allocating gone-concern losses. This approach 
+leans toward a passive acceptance of insolvency risk and leads to excessive bailouts. 
+We argue that a new emphasis on preventive measures is crucial to avoid potentially viable 
+banks’ sliding into insolvency once undercapitalized. At present , we have a blind 
+intervention spot: once distress starts, we have no credible tools to promote recovery or 
+contain run incentives, so outflows can easily escalate into self-fulfilling runs. 
+Consider the current sequence of Pillar II intervention steps. A stress test evaluation may 
+lead to conclude that the bank is insolvent, or potentially solvent but undercapitalized 
+(Figure 1). In the first case, the supervisor must put in resolution the in solvent bank; the 
+second case calls for a path to going-concern recapitalization. However, at present, there are 
+no effective tools to support such a recovery, short of public risk absorption. We call this a 
+serious intervention gap. 
+Notionally, once supervisors become aware of bank -specific losses, they are empowered to 
+initiate a Pillar II “capital guidance process,” indicating capital surcharges based on the result 
+of stress tests.5 However, bank shareholders are under no legal obligation to contribute new 
+ 
+5 This process is organized differently across jurisdictions, with different consequences in case of 
+noncompliance. 
+3
+Containing Runs on Solvent Banks Martino and Perotti
+
+--- Page 6 ---
+equity, though they face the risk of insolvency. The main Pillar II capital tool is to restrict the 
+right to distribute dividends. Even this limited step is avoided as supervisors fear triggering 
+runs. 
+Figure 1: Bank Status and Regulatory Practices 
+ 
+Source: Authors’ elaboration. 
+We discuss sequentially the risk incentives resulting from excess leverage and forbearance 
+(Martynova, Perotti, and Suarez 2022)  and the run incentives created by unconditional 
+sequential service (Diamond and Dybvig 1983; Matta and Perotti 2024). 
+The Bank Recapitalization Game 
+Once supervisors recognize a capital shortfall under an adverse scenario , they activate the 
+regime of capital guidance, demanding an appropriate capital increase. 6 The bank complies 
+via retained earnings or a private recapitalization. However, bank shareholders often resist 
+retaining risk-absorbing equity as long as dividends are still allowed. They may claim that 
+maintaining their payout is necessary to avoid sending adverse signals  and fearin g the 
+stigma attached to such a n adverse public signal (Gorton and Ordoñez 2020). For the same 
+ 
+6 Capital surcharges reflect microprudential buffers and bank-specific guidance, as well as on macroprudential 
+surcharges. 
+4
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 7 ---
+reason, supervisors postpone suspending payout rights (Gambacorta, Oliviero, and Shin 
+2023).7 
+Unresolved losses lead easily into a phase of debt overhang, where private incentives to 
+recapitalize deteriorate further. An undercapitalized bank with a viable business model may 
+well be solvent once its deposit franchise (charter value) is recognized. The challenge is that 
+private refinancing incentives are much weaker when forbearance is expected, leading to a 
+strategic waiting game where bank shareholders, managers, and regulators seek to buy time 
+hoping to induce others to shoulder (increasing) losses . In this “capital forbearance” game 
+(Martynova, Perotti, and Suarez 2022), bank shareholders have incentive to play for a lucky 
+recovery or public support. 
+The lack of a credible measure leads to an “intervention gap” until resolution (Cecchetti and 
+Schoenholtz 2023). Supervisors hesitate to take actions indicating weak bank solvency as 
+they fear a loss of confidence (Ahnert and Georg 2018). They are left with exerting discreet 
+“moral suasion” (sending increasingly stern letters demanding recapitalization)  and finally 
+declaring the bank insolvent. Bank investors can buy time to “gamble for resurrection,” with 
+poor risk incentives leading to a steady loss of value. As it became clear in the period before 
+the March 2023 runs, once the bank enters a phase of e levated debt overhang, a private 
+recapitalization becomes unrealistic while risk incentives deteriorate rapidly. 
+Unfortunately, in this phase, time is not on the side of regulators. There are few intervention 
+tools, and fears of triggering runs are by now well justified. Forbearance serves as a delaying 
+tactic but discourages private recovery actions. In the absence of new risk -absorbing 
+capacity, it is ultimately a gamble that leads to even larger expected fiscal losses even for an 
+initially solvent but undercapitalized bank. 
+Supervisors are currently confronted with two suboptimal options. Available tools (such as 
+a suspension of dividend payout) offer little immediate relief while sending a signal about 
+bank losses, thus triggering a run. On the other hand, prolonged forbearance worsens capital 
+deterioration, increasing the probability of a run at a rising fiscal cost (Figure 2). 
+The dynamic we describe in this section stands also when considering alternative tools 
+whereby undercapitalized banks have the p ossibility to seek help to prompt recovery. 
+Especially in the US, discount windows represent the most common of such tools. However, 
+discount windows are rarely used by banks because of their opt -in design, which requires 
+banks to actively seek help from t he Federal Reserve, sending a public signal to the rest of 
+the market. Banks usually shy away from t he stigma attached to such a public signal 
+(Armantier et al. 2015; Ennis 2019).  
+In the upcoming sections, we detail our proposals aimed at timely recovery over resolution 
+and avoiding forbearance. In Appendixes A and B, we detail the background situation 
+ 
+7 After Deutsche Bank faced a legal restriction to pay a single coupon on its CoCo debt due to insufficient book 
+equity, supervisors responded to a fall in bond prices by pressing for a revised legal interpretation of minimum 
+requirement for own funds and eligible liabilities ( MREL) norms to allow the payment, and in the same year 
+allowed the bank to pay out a dividend. 
+5
+Containing Runs on Solvent Banks Martino and Perotti
+
+--- Page 8 ---
+informing such a proposal, discussing the key insights from the European Union ( EU) 
+experience with  contingent convertible  (CoCo) debt as well as the recent Credit Suisse 
+additional Tier 1 (AT1) conversion. 
+Figure 2: Intervention Gap and Regulatory Game 
+ 
+Source: Authors’ elaboration. 
+III. Design and Complementarity of Interim Measures  
+We turn to discuss specific contingent tools to pro tect bank capital and liquidity in early 
+distress. We propose an early distress measure on capital and an acute distress measure on 
+liquidity. We first detail the necessity to make going-concern bail-in of AT1 instruments 
+credible and effective. Thereafter, we argue that measures to contain uninsured runs should 
+instead be automatic, as they address a core stability issue. Appendix C details the economic 
+and legal definition of “solvent but undercapitalized” banks, necessary to legitimize interim 
+recovery tools. 
+On the capital side, we propose strengthening the Pillar II mandate on the going-concern loss 
+absorption of contingent convertible debt. On the liquidity side, we propose introducing 
+simple liquidity fee rules (that is, contingent charges) on uninsured deposits in case of large 
+outflows. The two measures complement each other, allowing qualifying banks to recover 
+without public funding while minimizing the risk of unnecessary runs. 
+6
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 9 ---
+Going-concern Bail-in 
+Any reform aiming at a credible preventive recapitalization require s two steps. First, an 
+increase in capital norms to be mandatorily satisfied by a minimum of CoCo capital, 
+convertible on a higher trigger than currently admissible —at least above the minimum 
+capital conservation buffer o f 7% of book equity over risk -weighted assets. Second, it will 
+involve an enhanced Pillar II mandate to both enable and force authorities to activate 
+conversion, upon a supervisory assessment that the bank is undercapitalized but solvent. A 
+timely reduction in leverage will grant immediate breathing space and remove r un 
+incentives. Such a preventive recapitalization can be seen as a form of “in loco bancaruptae,” 
+a going-concern recapitalization that does not require default. 
+An efficient conversion process may be delayed too long by concerns that it may serve as a 
+coordinating event for self-fulfilling runs. Accordingly, we turn to outline a complementary 
+and necessary component of our reform proposal to favor recovery over resolution. 
+Figure 3 depicts the effect of going-concern recapitalization, timed when new privat e risk 
+absorption is not forthcoming due to debt overhang. For such a tool to become credible, the 
+regulatory norms and contractual feature of AT1 contingent capital have to be redefined to 
+ensure that the going-concern loss absorption will happen promptly .8 This requires 
+resolving the current legal ambiguity over the executability of the conversion trigger ahead 
+of default. 
+Figure 3: Capital Adequacy and Going-concern Bail-in 
+ 
+Source: Authors’ elaboration. 
+ 
+8 See Appendixes A and B for details on the EU and Swiss experiences and failures with AT1 going-concern loss 
+absorption. 
+7
+Containing Runs on Solvent Banks Martino and Perotti
+
+--- Page 10 ---
+There are legitimate concerns that any decisive going-concern bail-in will require equally 
+credible tools to contain subsequent panic, potentially generating runs. However, this is not 
+a state of things that we should passively accept. Rather, the interim recapitalization through 
+the going-concern bail-in of CoCos should be made credible by complementary reforms 
+addressing the panic concerns. The following sections discuss the key nodes of uninsured 
+deposit outflows and how redemption charges can contain runs. This, in turn, makes going-
+concern bail-in more credible. 
+Run Incentives 
+Typically, a run does not come completely unannounced. Looking at US banks that failed 
+from 1934 to 2022 , Ohlrogge ( forthcoming) shows significant outflows of uninsured 
+deposits in the four years before the failure, showing how runs should be understood as a 
+dynamic process. Unfortunately, recent runs have proven much faster, as they were driven 
+by intense social media concerns leading to a fulminating run coordination.  Such a context 
+virtually renders current supervisory options useless, imposing a strict blackmail for fiscal 
+bailouts of uninsured claims. 
+Yet too often , a bank run is seen as a black box, a self -escalating process that cannot be 
+contained once it is triggered. This is a simplistic and self-defeating view. To be able to deal 
+lucidly with this threat, it is important to break down the dynamics of run incentives. The 
+key determinant is the net rollover payoff, the difference between the expected value of 
+joining the queue and rolling over (Matta and Perotti 2024). 
+Runs tend to start after some adverse signal induces depositors with an immediate need for 
+liquidity to withdraw. These early outflows include investors that front -run and extremely 
+“risk intolerant” depositors who will not accept even an infinitesimal risk of default. But the 
+key issue is whether the larger group of depositors with no cash needs becomes concerned 
+about a full escalation. Under current norms guaranteeing unconditional sequential service 
+of all depositors, there are no exit costs. Therefore, the net rollover payoff if many choose to 
+withdraw is negative even for solvent banks. Once the expectation that others will run set s 
+in, withdrawing becomes a one-way sure bet, triggering a full-blown panic. This is the classic 
+self-fulfilling logic of panic runs, which may take down even solvent banks (Diamond and 
+Dybvig 1983). 
+Thus, a decisive intervention introducing some conditionality to the sequential service of 
+uninsured depositors may be effective in taming the perception of an escalation in outflows. 
+At present, bank supervisors (unlike money market mutual fund  supervisors) have no tool 
+to stop a run in progress. 
+Figure 4 depicts the progress of uninsured outflows, at first building slowly then finally  
+escalating into a self -fulfilling run. The key inflection point is when depositors with no 
+immediate liquidity needs start to fear a large escalation. 
+8
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 11 ---
+Figure 4: Withdrawal Stabilization through Redemption Charges 
+ 
+Source: Authors’ elaboration. 
+Containing Escalation of Outflows 
+It is essential to protect bank liquidity upon large outflows of uninsured deposits. Next to 
+higher reserves for uninsured deposits, it is important to introduce interim measures to 
+address the problem when it presents its elf. We propose introducing “liquidity pricing” in 
+the form of flat redemption charges upon large withdrawals. This procedure allows savers 
+and firms to withdraw anytime, suffering only a minor discount to face value in extreme 
+events. 
+The approach follows the money market fund (MMF) reform after the Global Financial Crisis 
+of 2007–2009, revamped in March 2020. MMFs had been the main destination for corporate 
+cash pools, so they are a natural benchmark for corporate needs. The 2016 MMF reforms 
+focused on sl owing down outflow s by temporary suspensions. Funds were mandated to 
+impose such gates upon rapid outflows to avoid encouraging front -running, once liquid 
+reserves were almost exhausted. This regime was functionally similar in the US and the EU.  
+However, in March 2020 , money market fund managers proved reluctant to impose gates. 
+Instead, t hey sold less -liquid claims to avoid triggering a mandatory suspension of 
+redemptions, leading to fire sales. Lack of an automatic trigger leads to failure to suspend 
+redemption in time, undermining the credibility of gates (Matta and Perotti 2024). A similar 
+issue is the reluctance of banks to benefit from discount window lending, fearing stigma and 
+the related adverse reaction of other market participants. 
+9
+Containing Runs on Solvent Banks Martino and Perotti
+
+--- Page 12 ---
+After a long debate, the US Securities and Exchange Commission (SEC) decided to eliminate 
+gates, which were seen as too disruptive . In their place , the new norms aim at containing 
+runs by introducing the equivalent of “congestion charges .” Investors now regain 
+unconstrained access to their funds even in a run, but at a small discount from net asset 
+value. This contingent penalty is automatically trig gered by large outflows, thus avoiding a 
+discretionary choice by the fund administrators. Allowing withdrawals even in a run but at 
+a discount ensures access to own funds but also serves as a reliable brake on run incentives, 
+protecting those who do not run.  
+Imposing temporary redemption charges on uninsured deposits outflows target s the one-
+sided incentive to withdraw at par, directly reducing run incentives. Critically, charges may 
+also shift expectations of further withdrawals by others, avoiding escalation driven by fear 
+of dilution rather than solvency concerns  (Matta, Oostdam , and Perotti , forthcoming). 
+Contingent charges serve as a Pigouvian tax on withdrawals with no liquidity needs, as they 
+internalize (and therefore eliminate) the strategic complementarity they may cause (Perotti 
+and Suarez 2011) . Full swing pricing removes r un incentives driven by dilution risk, since 
+illiquidity is fully priced , However, the level of charges should not be so large as to create 
+difficulties for those with authentic liquidity needs. Allocating revenues from charges to all 
+unpaid depositors after default enables to reduce run incentives even for moderate level of 
+charges (Matta, Oostdam, and Perotti, forthcoming).  
+Contingent charges will not (and should not) alter the behavior of depositors with immediate 
+liquidity needs. Their role is to resha pe the response by depositors with no liquidity needs 
+and stop the risk of a self -fulfilling escalation (Figure 5). Charges aimed at discouraging the 
+escalation of run incentives still support the principle of unconditional access to liquidity, at 
+a modest price in distress times. 
+10
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 13 ---
+Figure 5: Depositors’ Reaction to Adverse Information 
+ 
+Source: Authors’ elaboration. 
+Collateral pre-positioning represents a widely discussed alternative as a mean for banks to 
+ensure against runs. However, such practice is characterized by operational frictions 
+(McLaughlin 2024). Moreover, the fear of stigma for large pre -positioning prevents banks 
+from making use of this opportunity (Gorton, Ross, and Ross 2024) . This is in line with the 
+arguments we developed in this article, as both banks and supervisors do not want to send 
+public signals early on so that forbearance and delay remain the dominant strategy.  
+Resolving the Regulatory Gap 
+An automatic stabilizing tool that discourages sudden outflows will reduce concerns that 
+public measures may lead to inevitable escalation. This increases the effectiveness of capital-
+related interim measures and reduces the incentives to forbear. Both measures represent a 
+form of preventive partial bail -in that will preserve going-concern value for solvent 
+intermediaries. 
+Effective interim measures can change the perverse dynamics discussed in Section II. Figure 
+6 depicts the key nodes for a solvent but undercapitalized bank when recovery measures are 
+in place. 
+The key insight is that once effective contingent tools are available, the supervisor has a 
+credible alternative to forbearance and can be firmer in  promoting a timely private 
+recapitalization. 
+Contingent charges should target depositors with no liquidity needs and no extreme risk 
+intolerance, to reshape their incentives to withdraw and stop the risk of a self -fulfilling 
+11
+Containing Runs on Solvent Banks Martino and Perotti
+
+--- Page 14 ---
+escalation. This happens throu gh both a direct and indirect channel. First, the incentive to 
+stay (net rollover risk) is increased by the temporary exit cost imposed by the charge. 
+Moreover, charges clearly discourage immediate exit by everyone, reducing the expectation 
+that other depositors will be inclined to front-run to avoid dilution. As depositor fears about 
+escalation subsume, charges imposed at the critical infle ction point can reverse the self -
+fulfilling prophecy. 
+Therefore, c harges appear superior to gating when immediate acce ss to liquidity is 
+unconditionally more important than absolute safety, as is likely the case for corporate 
+deposits. Charges eliminate the inaction problem of gates that is driven by the fear of stigma 
+as they apply automatically. Conversely, they overcom e the forbearance incentives, 
+increasing the credibility of the measure and reducing the risk of self-fulfilling runs. 
+To make sure the imposition of charges is effectively timed, daily liquidity disclosure to the 
+supervisor is quintessential. The ideal tr igger should be automatic and based on actual 
+outflows, rather than any measure than may be subject to discretionary choices by bank 
+management. In addition, it is prudent to stipulate a secondary regulatory trigger, to be 
+based (just as in the case of CoC o conversion) on a supervisory assessment that the bank is 
+in principle solvent. This allows supervisors to fill the regulatory gap. 
+Figure 6 sketches the possible responses to a potentially solvent but undercapitalized bank  
+run. Currently, supervisors can only forebear or decide to voice their concerns about the 
+bank status. Both options are likely to ultimately trigger runs and consequential bailouts. On 
+the one hand, forbearance makes the capital deterioration continue up to the point when an 
+adverse piece of news triggers the run. This was the case for SVB and, in part, Credits Suisse. 
+On the other hand, raising public concerns and possibly triggering recovery measures such 
+as going-concern bail-in would be helpful but remains currently not viable because of panic 
+concerns. 
+12
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 15 ---
+Figure 6: Interim Interventions Favoring Recovery 
+ 
+Source: Authors’ elaboration. 
+Our proposals fill this regulatory gap. The supervisors will be entrusted with enhanced Pillar 
+II powers, up to the performance of a going-concern bail-in. This early and effective move is 
+made viable by the contingent redemption charges that are activated upon large 
+withdrawals. Although awareness of contingent charges may lead to some earlier outflows 
+as some depositors prefer front running, their activation will discourage escalation. 
+The combination of interim measures on both capital and liquidity provides the supervisor 
+with viable tools to ensuring the recovery of solvent but undercapitalized banks.  
+IV. Prompting Recovery with Interim Measures 
+What are the appropriate thresholds to trigger going-concern bail-in and liquidity charge? 
+How can we ensure that interim measures are used in a legitimate, effective , and 
+proportionate manner? These questions are crucial for our proposa l and for the bank 
+prudential framework at large. In this section, we offer preliminary reflections on both 
+questions. 
+Principles for the Calibration of Interim Measures 
+Interim measures should be triggered upon signals justifying the activation of these 
+measures. This makes sense from both an economic and a legal perspective. Figure 7 displays 
+four quantifiable signals that should legitimately trigger interim measures to prompt the 
+recovery of solvent banks. 
+13
+Containing Runs on Solvent Banks Martino and Perotti
+
+--- Page 16 ---
+Figure 7: The Activation of Interim Measures 
+ 
+Source: Authors’ elaboration. 
+“Daily outflows ” represents the key signal for trigg ering redemption charges. These are 
+targeted at stopping unnecessary escalation, so they must be automatically triggered once 
+the level of outflows is excessive. “Daily outflows” is a strong signal that is easy to measure 
+as long as banks appropriately and  timely disclose it to the supervisor. Charges on panic 
+redemptions, such as the fees imposed by the SEC on MMF excess outflows, should be 
+activated automatically to avoid any credibility issue. We argue that they are best intended 
+to support recovery for viable banks. Yet they should be seen as legitimate market stabilizers 
+for any bank, even ahead of a declaration of gone-concern resolution.9 
+To ensure its timely activation, banks must disclose daily information on outflows to the 
+supervisor (at a much higher frequency than to the market). The supervisor should activate 
+the redemption charges if the bank fails to do so in response to high outflows. As charges will 
+apply to excess withdrawals on any bank, they should be seen as market stabilizers without 
+implying a supervisory assessment that the bank is viable.10 Otherwise, depositors bailed in 
+after default could claim legal recourse against the supervisory action as misleading them. 
+We propose the same calibration that the SEC designed for US MMF s. Charges are triggered 
+upon the daily withdrawal of 5% of uninsured depositors. Once this contingency 
+materializes, a flat 3% charge applies. In the design of the measure, it is best to steer away 
+from more refined and dynamic calibration mechanisms, such as swing pricing —where the 
+charge is contingent on the liquidity of banks’ assets. Its complexity does not fit the complex 
+nature of banking and would jeopardize the effectiveness of the interim measures. 
+ 
+9 Once the bank is declared insolvent and put in resolution, unpaid depositors may have some precedence on 
+accumulated charge revenues. 
+10 Redemption charges are not an arbitrary imposition on an  asset, rather a form of congestion charge 
+legitimized by public interest in market integrity. 
+14
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 17 ---
+How should the revenues generated by charges be used? Given their purpose, they should 
+be directed primarily at reducing run incentives besides increasing solvency. We propose 
+that charges be collected in a segregated account. If the bank does not recover and gets into 
+resolution in the following 30 days, the account balance should be used to mitigate the losses 
+of uninsured depositors who did not withdraw —a longer maturity may be also justified. 11 
+Otherwise, the account ba lance should be fully released to further reduce the bank 
+leverage.12 
+The activation of going-concern capital bail-in is more delicate to design and calibrate as it 
+is justified only for potentially solvent banks. Banks deemed insolvent, thus with no recovery 
+prospects, should go as soon as possible into resolution. We consider three different 
+imperfect measures triggering going-concern bail-in, and more generally Pillar II recovery 
+measures. 
+We first consider the outcome of a supervisory stress -test. This represents a precise but 
+infrequent measure. I t can detect early deterioration of banks ’ viability. Because of these 
+characteristics, we propose that a serious shortfall in the adverse scenario or any shortfall 
+in the baseline scenario should trigger an assessment on the bank’s viability. If the bank turns 
+out to be solvent, the supervisor should be empowered with additional Pillar II tools for 
+prompt recovery. This comprises current Pillar II tools, including payout restriction s, and 
+the new, additional, power to trigger the CoCo conversion. 
+Signals from stress testing should be complemented by warning signals provided by market 
+value indicators (Acharya, Kulkarni, and Richardson 2011) . Although regulators are 
+reluctant to use automatic market value trigger s as they are prone to be distorted, they 
+should be considered as significant information.  Adverse market signals in the form of a 
+sharp drop in share price or a jump in credit default swap spread should trigger a 
+supervisory evaluation and empower the supervisor to prompt recovery measures (Hart and 
+Zingales 2011). 
+Finally, the traditional measure of book equity provides a notionally correct but in practice 
+opaque signal. As it is prone to accounting manipulation, it will not signal capital 
+deterioration i n time. Given its role in capital regulation, book equity should retain a 
+complementary role. We propose retaining the automatic trigger based on book equity in 
+line with current practice, provided its threshold be raised considerably to ensure that 
+conversion will support the recovery of a solvent but undercapitalized bank. 
+The regulatory trigger should be set at least at 7% of book equity. This equals the core equity 
+requirement of 4.5% plus the capital conservation buffer of 2.5% that applies to all banks at 
+all times and is designed to ensure that banks build up capital buffers to withstand periods 
+ 
+11 This is consistent with the idea of reversible rewards, developed in Ben-Shahar and Bradford (2013). 
+12 In this case, accounting norms should make sure that the  revenues stemming from charges are not 
+categorized as “distributable items ” so that these effectively accrue to capital and cannot be channeled to 
+shareholders. 
+15
+Containing Runs on Solvent Banks Martino and Perotti
+
+--- Page 18 ---
+of stress. If the bank is systemically important or is deemed particularly risky, the AT1 bonds 
+should carry a correspondingly higher conversion threshold at issuance. 
+A Recovery Procedure to Ensure Legitimacy and Effectiveness 
+How can we be sure that interim measures we propose will be able to break the forbearance 
+incentives? And how can we be sure that such intrusive measures in the management of 
+solvent corporations are used in a legitimate and proportionate way? 
+At first sight, these two questions point at different things; however, at a closer scrutiny, they 
+turn out to be intrinsically related. The supervisor will decide to act only if its powe rs are 
+widely perceived as legitimate, to avoid ex  post challenges and loss of reputation capital. 
+Moreover, an attentive design in terms of legitimacy and proportionality helps ensur e that 
+only solvent but undercapitalized banks are targeted by recovery measures. 
+For these reasons, we propose to design a new formal recovery procedure. A bank that is 
+declared solvent but undercapitalized should enter the procedure in which the supervisor 
+has enhanced powers to prompt recovery. These powers should include th e AT1 going-
+concern bail-in, to ensure deleverage, as well as other supervisory powers related to the risk 
+profile, business model, and risk management of the bank.13 
+To understand the rationale of the bank recovery procedure, it is useful to draw a functional 
+comparison with the existing procedures to handle distress in nonfinancial firms. Figure 8 
+summarizes this functional comparison. 
+First, insolvent firms can be liquidated according to a judicial procedure to ensure the 
+maximization of creditors ’ recovery. The US Chapter 7 procedure represents the most 
+paradigmatic example. For banks, this is equivalent to orderly liquidation. 
+Figure 8: Distress Procedures for Nonfinancial Firms and Banks 
+Nonfinancial Firms Banks 
+Chapter 7 – Liquidation Orderly liquidation 
+Chapter 11 – Reorganization Resolution 
+Private (prepacked) workouts Recovery 
+ 
+Source: Authors’ elaboration. 
+Second, if there is residual going-concern value in the firm, many legal systems favor 
+reorganization procedures, aiming at striking a balance between creditors ’ rights and the 
+ 
+13 Some of these powers are already allocated to the supervisor but are rarely used because of the forbearance 
+incentives that we discuss in Section II. A formal recovery procedure will ensure that these powers are made 
+effective. 
+16
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 19 ---
+preservation of such a going-concern value. The US “Chapter 11” procedure can be taken as 
+an example. For banks, this is equivalent to resolution procedures. 
+Third, firms that are solvent but face significant distress and debt overhang may want to 
+engage in prepacked private workouts, engaging in debt restructuring ahead of insolvency  
+(Gertner and Scharfstein 1991). The existence of this possibility is valuable as it prevents the 
+deterioration of going-concern value. However, this is completely unavailable for banks 
+because of the runnable nature of their liabilities. Our proposal to establish a recovery 
+procedure aims at dev ising a tool that is functionally equivalent to private restructuring, 
+offering a genuine possibility of recovery to undercapitalized banks. 
+The detailed design of such a recovery procedure is beyond the scope of this article. Here, 
+we limit ourselves to s et down three key principles of a credible and legitimate recovery 
+procedure: 
+(1) Legitimate activation: The supervisor should have the mandate to initiate recovery 
+upon the occurrence of reliable signals, such as large outflows, stress  test results, 
+market-value indicators, auditors ’ assessment, book value of equity. Recovery can 
+initiate if the “solvent but undercapitalized” status of the bank is signaled by more 
+than one of these heterogeneous indicators. 
+(2) Short-term mandate: The supervisor should no t act as de facto management , to 
+ensure proportionality and limit legal risk. Therefore, we propose a short recovery 
+window of 30–60 days. 
+(3) Availability of limited emergency liquidity assistance (ELA): This will ensure the 
+credibility and feasibility of the  recovery. This is in line with the central bank 
+mandate in liquidity provision as the recovery should take place far from the point 
+of nonviability. At the same time, providing ELA also reinforces the legitimacy of the 
+additional recovery powers granted to the supervisor.14 
+V. Comparing Solutions by Risk Allocation 
+The experience of March 2023 has reignited the debate over banking regulation reforms, 
+such as widening deposit insurance or higher capital and liquidity requirements. These 
+proposals focus on ex ante solutions, the equivalent of increasing the height of dams of 
+expanding flood reservoirs. We argue that such reforms do not entirely capture the dynamic 
+evolution of bank distress that we depicted in the previous sections, and that contingent, 
+interim, measures (the storing of sandbags by the dam) may need more attention. 
+ 
+14 This is in line with the experience of Credit Suisse, where the Swiss Financial Market Supervisory Authority 
+was empowered to write down AT1 CoCos because of the ELA granted to the bank. See Appendix B for further 
+details. 
+17
+Containing Runs on Solvent Banks Martino and Perotti
+
+--- Page 20 ---
+Figure 9 summarizes  the main reform options including state -contingent options and 
+highlighting how the allocation of risk affects moral hazard and run incentives, trading off 
+liquidity, capital, and fiscal costs (Perotti 2023b). 
+Figure 9: Potential Reforms to Strengthen Deposit Stability 
+ 
+Source: Authors’ elaboration. 
+Deposit insurance and higher capital norms have the strongest effects and highest cost and 
+would face extensive resistance. The advocacy for stricter capital norms is as noble and well-
+grounded as politically unviable. The outcome of the Basel Endgame negotiations and the 
+likely impact of the new Trump administration demonstrate the complexity of such an 
+ambitious goal (Davies 2024).  
+On the other side of the “ex ante” measure spectrum, the idea of full deposit insurance gained 
+support in both academic and policy circles  in the aftermath of the SVB and Credit Suisse 
+collapses (FDIC 2023, 44) . Full deposit insurance was offered f or SVB ’s uninsured 
+depositors, accounting for a staggering 94% of the SVB deposit base, on an ad hoc basis after 
+the “financial stability” exception was triggered. This, indeed, stopped the run but reinforced 
+bailout expectations on all banks. Based on our  analysis, the impact of expanding deposit 
+insurance to currently uninsured depositors would have extremely negative effects on risk 
+incentives, resulting in ambiguous effects on the bank ’s insolvency risk. Excessive risk 
+incentives and related bailout expectations would make recovery impossible. 
+Interim measures targeted at going-concern preservation and recovery may be embedded 
+as prompt responses containing the escalation of runs. This calls for solid pre -resolution 
+18
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 21 ---
+regulatory powers to activate pricing and gating in response to uninsured runs on banks 
+deemed solvent. 
+In any run, allowing outflows at par value directly dilutes those who do not to withdraw. As 
+a result, once outflows start , all depositors have an incentive to run if they expect others to 
+do the same. To de -escalate run incentives , it is critical to penalize or slow down rapid 
+outflows at the right time. Thus, the choice of the precise volume of outflows that would 
+activate the temporary charges is quite an important  calibration. Just as in the case of 
+contingent conversion of AT1 debt, it is highly advisable to introduce a regulatory trigger 
+that may be activated at an early stage when banks deemed to be solvent become exposed to 
+rumors that may trigger an escalation. Comparable norms have a lready been applied to 
+money market fund s. This is a significant precedent since MMFs were the main historical 
+destination of corporate cash pools and can serve as a natural benchmark. Critically, modest 
+charges can maintain access to safe liquidity for businesses at a modest price and protect 
+taxpayers from avoidable unnecessary runs.  
+Revenues from occasional redemption charges may be assigned to aid the process of 
+recovery. Assigning them to the bankruptcy estate will contribute to a general if modest 
+relief. If the bank suffering outflows ultimately recovers, they will contribute to the  
+recapitalization process. If the bank ultimately fails, charges will be a bail-in contribution to 
+the resolution process. An alternative would be to preassign these revenues to back undrawn 
+uninsured deposits, in default or possibly even in a direct trans fer after the charges are 
+suspended. A direct rollover benefit will further reduce run incentives and back the recovery 
+process. Paradoxically, the rollover premium will increase in the scale of outflows, further 
+containing the strategic escalation driving a self-fulfilling run. 
+Charges are likely to affect run incentives in terms of their timing. Some depositors are alert 
+and may withdraw earlier when the chance of charges arises, even when they do not need 
+immediate liquidity. Indeed, the anticipation of gates will accelerate outflows, with the effect 
+that charges will be activated promptly. The trade -off is between faster but contained runs, 
+versus the usual buildup of outflows progressively escalating then bursting into an 
+uncontrollable final run. 
+An al ternative interim measure proposal is to mandatorily require banks to pre -position 
+collateral against their runnable liabilities in times of stress  (Barr 2024; G -30 2024) . 
+However, this proposal seems to run in to all the problems and limitations currently 
+preventing recovery. Based on the analyses of Sections II and III, it is reasonable to think that 
+pre-positioning requirements will be triggered too late or be too lax, with considerable 
+difficulty in enforcement to prevent adverse signals and stigma. More over, the valuation of 
+collateral in times of stress is delicate and, in systemic events, can result in sizeable risk for 
+the central banks, with indirect fiscal effects. This would represent yet a new form of bailout. 
+Finally, the requirement to pre-position collateral against all runnable liabilities may restrict 
+too much banks’ abilities to engage in socially beneficial intermediation. However, moderate 
+pre-positioning requirements represent an excellent complement to our proposals, 
+especially in relation to the ELA necessary to finance recovery.  
+19
+Containing Runs on Solvent Banks Martino and Perotti
+
+--- Page 22 ---
+VI. Conclusions 
+The sequence of distressed bank runs in March 2023 has made painfully clear that 
+supervisors have no effective tools and poor incentives to take early actions out of fear of 
+triggering runs. We have advanced the notion of a strengthened regime of contingent 
+intervention aimed at avoiding unnecessary default ( in loco bancaruptae ) and giv ing a 
+chance of recovery for banks deemed to be in principle viable. The contingent measures 
+involve targeting run in centives by preemptive partial bail -in of investors or uninsured 
+depositors, acting as automatic stabilizers triggered by large outflows. Credible preventive 
+measures pressure bank shareholders for a timely response, limit forbearance, and improve 
+the chances of a bank’s recovery over its resolution. Contingent measures complement ex 
+ante capital and liquidity buffers and will not rely as much on book equity measures. They 
+are vastly preferable to an expansion of deposit insurance for uninsured corporate deposits 
+that would lead to higher moral hazard and risk creation. Deposits serve a primary safety 
+role for households, so household deposit insurance is a legitimate public goal. On the other 
+hand, businesses can bear a modest amount of price risk on their cash pools and have 
+historically held cash in MMFs for a better yield at a modest price risk. As a final piece of 
+evidence, almost $300 billion in corporate deposits shifted in March–April 2023 from banks 
+into MMFs, which are subject to redemption fees (Masters, Clarfelt, and Duguid 2023). 
+  
+20
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 23 ---
+VII. References 
+Acharya, Viral V., Nirupama Kulkarni, and Matthew Richardson. 2011. “Capital, Contingent 
+Capital, and Liquidity Requirements.” In Regulating Wall Street: The Dodd-Frank Act and the 
+New Architecture of Global Finance, edited by Viral V. Acharya, Thomas F. Cooley Matthew 
+Richardson, and Ingo Walter, 143–180. Hoboken, NJ: John Wiley & Sons 
+Admati, Anat, and Martin Hellwig. 2024. The Bankers’ New Clothes: What’s Wrong with 
+Banking and What to Do about It - New and Expanded Edition. Princeton, NJ: Princeton 
+University Press. 
+Ahnert, Toni, and Co-Pierre Georg. 2018. “Information Contagion and Systemic Risk.” 
+Journal of Financial Stability 35 (April): 159–71.  
+https://doi.org/10.1016/j.jfs.2017.05.009 
+Armantier, Olivier, Eric Ghysels, Asani Sarkar, and Jeffrey Shrader. 2015. “Discount Window 
+Stigma during the 2007–2008 Financial Crisis.” Journal of Financial Economics 118, no. 2: 
+317–35.  
+https://doi.org/10.1016/j.jfineco.2015.08.006 
+Barr, Michael S. 2024. “On Building a Resilient Regulatory Framework” Speech delivered at 
+the Central Banking in the Post-Pandemic Financial System 28th Annual Financial Markets 
+Conference, Federal Reserve Bank of Atlanta, Fernandina Beach, FL, May 20, 2024.”  
+https://fedinprint.org/item/fedgsq/98259 
+Ben-Shahar, Omri, and Anu Bradford. 2013. “Reversible Rewards.” American Law and 
+Economics Review 15, no. 1: 156–86.  
+https://doi.org/10.1093/aler/ahs018 
+Cecchetti, Stephen G., and Kermit L. Schoenholtz. 2023. “Making Banking Safe.” CEPR 
+Discussion Paper No. 18302.  
+https://cepr.org/publications/dp18302 
+Chan, Stephanie, and Sweder van Wijnbergen. 2014. “CoCos, Contagion and Systemic Risk.” 
+CEPR Discussion Papers, 10960. Tinbergen Institute Discussion Paper No. 14-110/VI/DSF 
+79, October 29, 2014.  
+https://ideas.repec.org/p/tin/wpaper/20140110.html 
+Cookson, J. Anthony, Corbin Fox, Javier Gil-Bazo, Juan Felipe Imbet, and Christoph Schiller. 
+2023. “Social Media as a Bank Run Catalyst.” Université Paris-Dauphine Research Paper No. 
+4422754, June 24, 2023.  
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4422754 
+Credit Suisse. 2017. Proposed Offering of CHF 200 million 3.875% Perpetual Tier 1 
+Contingent Write-down Capital Notes. March 20, 2017. 
+http://www.kccllc.net/document/8871900230324000000000001 
+21
+Containing Runs on Solvent Banks Martino and Perotti
+
+--- Page 24 ---
+Dang, Tri Vi, Gary Gorton, and Bengt Holmström. 2020. “The Information View of Financial 
+Crises.” Annual Review of Financial Economics 12 (November): 39–65. 
+https://www.annualreviews.org/content/journals/10.1146/annurev-financial-110118-
+123041 
+Davies, Daniel. 2024. “Endgame for Endgame? Trump vs Basel III.” Financial Times, 
+November 14, 2024.  
+https://www.ft.com/content/899f499e-2249-40f8-9d0c-fa72ffb98869 
+Dewatripont, Mathias, Peter Praet, and André Sapir. 2023. “The Silicon Valley Bank 
+Collapse: Prudential Regulation Lessons for Europe and the World.” VoxEU Column, March 
+20, 2023.  
+https://cepr.org/voxeu/columns/silicon-valley-bank-collapse-prudential-regulation-
+lessons-europe-and-world 
+Diamond, Douglas W, and Philip H. Dybvig. 1983. “Bank Runs, Deposit Insurance, and 
+Liquidity.” Journal of Political Economy 91, no. 3): 401–19.  
+https://doi.org/10.1086/261155 
+Ennis, Huberto M. 2019. “Interventions in Markets with Adverse Selection: Implications for 
+Discount Window Stigma.” Journal of Money, Credit and Banking 51, no. 7: 1737–64. 
+https://doi.org/10.1111/jmcb.12583 
+Federal Deposit Insurance Corporation (FDIC). 2023. “Options for Deposit Insurance 
+Reform.” May 1, 2023. 
+https://www.fdic.gov/analysis/options-deposit-insurance-reform 
+FINMA. 2023. “Lessons Learned from the CS Crisis.” December 19, 2023. 
+https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/myfinma/fin
+ma-publikationen/cs-bericht/20231219-finma-bericht-
+cs.pdf?sc_lang=en&hash=3F13A6D9398F2F55B90347A64E269F44 
+Gambacorta, Leonardo, Tommaso Oliviero, and Hyun Song Shin. 2023. “Low Price-to-Book 
+Ratios and Bank Dividend Payouts: Economic Policy Implications.” Economic Policy 38, no. 
+115: 675–701.  
+https://doi.org/10.1093/epolic/eiad028 
+Gertner, Robert, and David Scharfstein. 1991. “A Theory of Workouts and the Effects of 
+Reorganization Law.” Journal of Finance 46, no. 4: 1189–1222. 
+https://doi.org/10.1111/j.1540-6261.1991.tb04615.x 
+Glasserman, Paul, and Enrico Perotti. 2017. “The Unconvertible CoCo Bonds.” In Achieving 
+Financial Stability: Challenges to Prudential Regulation, edited by Douglas D. Evanoff, 
+George G. Kaufman, Agnese Leonello, and Simone Manganelli, 317–29. Singapore: World 
+Scientific Publishing Co. 
+Gorton, Gary, and Guillermo Ordoñez. 2020. “Fighting Crises with Secrecy.” American 
+22
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 25 ---
+Economic Journal: Macroeconomics 12, no. 4: 218–45. 
+https://doi.org/10.1257/mac.20190169  
+Gorton, Gary B., Chase P. Ross, and Sharon Y. Ross. 2024. “Where Collateral Sleeps.” S&P 
+Global Market Intelligence, October 29, 2024. 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4923083 
+Group of Thirty (G-30). 2024. “Bank Failures and Contagion: Lender of Last Resort, 
+Liquidity, and Risk Management.” Report of the G-30 Working Group on the 2023 Banking 
+Crisis, January 2024. 
+https://gceps.princeton.edu/wp-content/uploads/2024/05/wp329_Dudley_G30_Lessons-
+23-Crisis_RPT.pdf 
+Hart, Oliver, and Luigi Zingales. 2011. “A New Capital Regulation for Large Financial 
+Institutions.” American Law and Economics Review 13, no. 2: 453–90. 
+https://doi.org/10.1093/aler/ahr001 
+Heider, Florian, Jan Pieter Krahnen, Loriana Pelizzon, Jonas Schlegel, and Tobias Tröger. 
+2023. “European Lessons from Silicon Valley Bank Resolution: A Plea for a Comprehensive 
+Demand Deposit Protection Scheme (CDDPS).” Leibniz Institute for Financial Research, 
+SAFE Policy Letter No. 98, March 2023.  
+https://ideas.repec.org/p/zbw/safepl/98.html 
+Jiang, Erica Xuewei, Gregor Matvos, Tomasz Piskorski, and Amit Seru. 2024. “Monetary 
+Tightening and US Bank Fragility in 2023: Mark-to-Market Losses and Uninsured Depositor 
+Runs?” Journal of Financial Economics 159 (September): 103899.  
+https://doi.org/10.1016/j.jfineco.2024.103899 
+Kashyap, Anil K., Raghuram G. Rajan, and Jeremy C. Stein. 2008. “Rethinking Capital 
+Regulation.” In “Maintaining Stability in a Changing Financial System,” Proceedings of the 
+Jackson Hole Economic Policy Symposium, Federal Reserve Bank of Kansas City, Jackson 
+Hole, WY, August 21–23, 2008: 431–71.  
+https://www.kansascityfed.org/Jackson%20Hole/documents/3175/2008-
+KashyapRajanStein031209.pdf 
+Martino, Edoardo D. 2019. “Bail-inable Securities and Financial Contracting: Can Contracts 
+Discipline Bankers?” European Journal of Risk Regulation 10, no. 1: 164–79. 
+https://doi.org/10.1017/err.2019.5 
+———. 2020. “The Bail-in beyond Unpredictability: Creditors’ Incentives and Market 
+Discipline.” European Business Organization Law Review 21, no. 4: 789–828. 
+https://doi.org/10.1007/s40804-020-00188-7 
+———. 2021. “Towards an Optimal Composition of Bail-inable Debtholders?” Journal of 
+Corporate Law Studies 21, no. 2: 321–64.  
+https://doi.org/10.1080/14735970.2021.1908808 
+23
+Containing Runs on Solvent Banks Martino and Perotti
+
+--- Page 26 ---
+Martino, Edoardo D., Casimiro A. Nigro, and Tom Vos. 2024. “CoCos in Europe: What Is 
+Wrong – and How to Fix It?” EBI Working Paper Series No. 169, May 13, 2024. 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4810761 
+Martino, Edoardo D., and Katarzyna M. Parchimowicz. 2021. “Go Preventive or Go Home–
+the Double Nature of MREL.” European Company and Financial Law Review 18, no. 4: 608–
+39.  
+https://doi.org/10.1515/ecfr-2021-0023 
+Martynova, Natalya, and Enrico Perotti. 2018. “Convertible Bonds and Bank Risk-Taking.” 
+In “Banking and Regulation: The Next Frontier,” edited by Mathias Dewaitropont and Diana 
+Hancock, special issue, Journal of Financial Intermediation 35 (July): 61–80.  
+https://doi.org/10.1016/j.jfi.2018.01.002 
+Martynova, Natalya, Enrico Perotti, and Javier Suarez. 2022. “Capital Forbearance in the 
+Bank Recovery and Resolution Game.” Journal of Financial Economics 146, no. 3: 884–904.  
+https://doi.org/10.1016/j.jfineco.2022.09.006 
+Masters, Brooke, Harriet Clarfelt, and Kate Duguid. 2023. “Money Market Funds Swell by 
+More than $286bn amid Deposit Flight.” Financial Times, March 26, 2023. 
+https://www.ft.com/content/032523bc-3b92-4b94-b6b8-ebbe1d606b2c 
+Matta, Rafael, and Enrico Perotti. 2024. “Pay, Stay, or Delay? How to Settle a Run.” Review of 
+Financial Studies 37, no. 4: 1368–1407.  
+https://doi.org/10.1093/rfs/hhad084 
+Matta, Rafael, Remo Oostdam, and Enrico Perotti. Forthcoming. “Contingent Fees to Contain 
+Bank Runs.” University of Amsterdam working paper.  
+https://elischolar.library.yale.edu/ypfs-documents2/5464/ 
+McLaughlin, Susan. 2024. “Lessons for the Discount Window from the March 2023 Bank 
+Failures.” Journal of Financial Crises 6, no. 2: 72–84. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/3/ 
+Ohlrogge, Michael. Forthcoming. “Why Have Uninsured Depositors Become de Facto 
+Insured?” New York University Law Review 100 (forthcoming). 
+Perotti, Enrico. 2023a. “The Swiss Authorities Enforced a Legitimate Going Concern 
+Conversion.” VoxEU Column, March 22, 2023.  
+https://cepr.org/voxeu/columns/swiss-authorities-enforced-legitimate-going-concern-
+conversion 
+———. 2023b. “Measures to Prevent Runs on Solvent Banks.” VoxEU Column, July 1, 2023.  
+https://cepr.org/voxeu/columns/measures-prevent-runs-solvent-banks 
+  
+24
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 27 ---
+Perotti, Enrico, and Javier Suarez. 2011. “A Pigovian Approach to Liquidity Regulation.” In 
+“Special Issue: The Real and Financial Effects of Basel III,” International Journal of Central 
+Banking 7, no. 4: 3–41.  
+https://www.ijcb.org/journal/ijcb11q4a1.htm 
+  
+25
+Containing Runs on Solvent Banks Martino and Perotti
+
+--- Page 28 ---
+VIII. Appendixes 
+Appendix A: The EU Recovery and Resolution Framework 
+The European Union ( EU) Recovery and Resolution Directive is arguably misnamed. It is 
+largely focused on containing bailouts through bail -in upon default, rather than offer ing 
+options for timely recovery. The lack of effective recovery tools also endangers the credible 
+implementation of gone-concern resolution tools when necessary, increasing the regulatory 
+gap (Martino 2020; Martino 2021). National resistance has undermined the formal 
+resolution process, bypassing it by declaring standard bankruptcy (Dewatripont, Praet, and 
+Sapir 2023) . In the U nited States, the F ederal Deposit Insurance Corporation is the sole 
+authority and benefits from more instruments. However, in practice , it has been ultimately 
+forced into a bailout. The amount of uninsured demandable deposits bailed in since 2007 in 
+the US is exactly zero. 
+In principle, Basel III encour aged bank issuance of contingent convertible (CoCo) debt as a 
+form of pre -issued equity capital to be used ahead of distress  (Kashyap, Rajan, and Stein 
+2008). Conversion of debt into equity ensure s a sharp drop in leverage upon early signs of 
+distress, reducing risk incentives and giving a chance of recovery ahead of resolution 
+(Martynova and Perotti 2018) . It was thus intended as a form of going-concern bail-in, 
+alleviating solvency concerns at a c ritical time.15 This potential has not been realized in EU 
+legislation. It admits CoCo debt to count as additional Tier 1 (AT1) capital, although its equity 
+conversion would occur once book equity falls to a risibly low level (just above 5%, when the 
+bank is quite insolvent). In addition, the choice of a book trigger for conversion requires the 
+bank to publicly recognize huge losses that certify near insolvency, a guarantee for massive 
+runs. EU supervisors have shown no intent to ever call for a conversion that would highlight 
+such losses. In their view, any public hint of undercapitalization may trigger an unstoppable 
+run (Chan and van Wijnbergen 2014). This is a justifiable concern if conversion takes place 
+too late (that is, at a book equity trigger way too low) and there are no safeguards in place to 
+contain runs. 
+As a result, no CoCo bonds have ever converted in the EU ahead of default. In actual default, 
+they were suffered losses like any other bond. In fact, not a single coupon has ever been 
+suspended, as regulators feared triggering panic. They should be then treated as gone-
+concern instruments and removed from AT1 status. Overall, EU CoCo bond prices have 
+reflected zero conversion risk since 2016, when the EU authorities failed to suspend a single 
+coupon on a Deutsche  Bank CoCo bond (Glasserman and Perotti 2017). Clearly, the market 
+no longer believed in any going-concern loss absorption. Finally, virtually all CoCo 
+instruments so far have been called at the first possible redemption window (usually fi ve 
+years), making the instruments perpetual only in name. In conclusion, there are no effective 
+tools in EU legislation enabling a solvent but undercapitalized bank a chance to recover, 
+outside of public bank recapitalization. As a result, forbearance has been the general 
+outcome. 
+ 
+15 CoCo bonds have not been issued in the US as they do not qualify as debt for fiscal purposes. 
+26
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 29 ---
+Appendix B: Lessons from the Credit Suisse AT1 Going-concern Bail-in 
+In contrast to the European Union bank capital legislation, Switzerland adopted a much more 
+vigorous approach on additional Tier 1 (AT1) going-concern bail-in, with the express goal of 
+avoiding costly bailouts such as the UBS rescue in 2009. The legislation imposed larger 
+capital buffer and higher contingent convertible (CoCo) debt conversion triggers at or above 
+7% of book equity (thus ensuring a full capital con servation buffer upon conversion). 
+Critically, Swiss banks issuing CoCos were required to include a “discretionary trigger” in the 
+bond indenture (Martino 2019; Martino, Nigro, and Vos 2024). This enhanced Pillar II power 
+enabled a successful going-concern bail-in operation for Credit Suisse, which averted a fiscal 
+costly default and a messy resolution process (Perotti 2023a). 
+Specifically, the Swiss Financial Market Supervisory Authority ( FINMA) was empowered to 
+force the conversion without a formal accounting restatement of book equity, upon a 
+“viability event” that would have led to default even when the bank was deemed in principle 
+solvent (as Credit Suisse was assessed to be a few days be fore conversion). The standard 
+clause in Credit Suisse CoCo indentures states that conversion will be activate if: 
+(A) the Regulator has notified CSG that it has determined that a write-down of the Notes, 
+together with the conversion or write down/off of holders’ claims in respect of any and 
+all other Progressive Component Capital Instruments, Buffer Capital Instruments, Tier 1 
+Instruments and Tier 2 Instruments that, pursuant to their terms or by operation of law, 
+are capable of being converted into equity  or written down/off at that time is, because 
+customary measures to improve CSG’s [Credit Suisse Group] capital adequacy are at the 
+time inadequate or unfeasible, an essential requirement to prevent CSG from becoming 
+insolvent, bankrupt or unable to pay a material part of its debts as they fall due, or from 
+ceasing to carry on its business; or (B) customary measures to improve CSG ’s capital 
+adequacy being at the time inadequate or unfeasible, CSG has received an irrevocable 
+commitment of extraordinary suppo rt from the Public Sector (beyond customary 
+transactions and arrangements in the ordinary course) that has the effect of improving 
+CSG’s capital adequacy and without which, in the determination of the Regulator, CSG 
+would have become insolvent, bankrupt, unable to pay a material part of its debts as they 
+fall due or unable to carry on its business. (Credit Suisse 2017, 10-11) 
+In other words, the regulatory trigger was authorized as soon as failure to convert would 
+imply some fiscal risks for the Swiss treas ury. This is indeed the principle for a rigorous 
+preventive bail-in procedure, focused on recovery. 
+The Credit Suisse experience has a valuable lesson on the necessity of legal clarity. Credit 
+Suisse had experienced for quite some time a steady deteriorati on in value and investor 
+confidence. Yet the Swiss regulator FINMA chose to delay activating a conversion, even 
+though its need was already evident —as FINMA’s recent report attests to  (FINMA, 2023). 
+Supervisors hesitated for at least two years, arguing on the conditions under which they had 
+a clear legal right to activate the regulatory trigger. 
+It took an explicit act of legislation by the Swiss Parliament to firmly establish FINMA’s right 
+of activation. At the time , Credit Suisse had already been forced t o request emergency 
+27
+Containing Runs on Solvent Banks Martino and Perotti
+
+--- Page 30 ---
+liquidity assistance (ELA) from the Swiss National Bank, backed by the fiscal capacity of the 
+Swiss federal state. 
+The Swiss Parliament passed in an emergency meeting a law clarifying that such a n ELA 
+operation indeed represented a case of fiscal exposure, thus enabling the regulator to act. 
+This led for the first time to a going-concern recapitalization of AT1 bonds, and to bank 
+recovery rather than resolution.16 
+It is important to stress that the final outcome was indeed the intent of the law. The specific 
+contractual formulation of the Credit Suisse AT1 CoCo debentures implied that creditors end 
+up being fully wiped out while shareholders retained a stake in the enterprise. Such was not 
+the explicit intent of the law, rather a private choice to designate the outcome of going-
+concern bail-in as a complete debt cancellation, a simpler legal construction than the creation 
+of a new equity interest. Because of the conf usion created by the wipeout, in the future , all 
+CoCo conversions could consist of (at least partially) a transformation into equity capital. 
+It is important to learn from the experience of this sole example of a successful (if chaotic) 
+going-concern bail-in. 
+  
+ 
+16 CoCo bondholders who were wiped out are currently suing FINMA, disputing whether the bank “has received 
+an irrevocable commitment of extraordinary support from the Public Sector” as required by the bond indenture 
+(Credit Suisse 2017, 10-11).  
+28
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 31 ---
+Appendix C: When Is a Bank Undercapitalized? 
+Preventive bail-in measures must be targeted at banks deemed solvent but undercapitalized. 
+If a bank is insolvent, resolution (ideally with adequate risk -absorbing capacity) is the sole 
+legitimate policy. So, a credible and fair recovery regime requires a definition of a legitimate 
+candidate bank that would benefit from going-concern bail-in measures, not least to stand 
+legal scrutiny. 
+The Basel regulatory framework almost exclusively focuses on adjusted bo ok equity 
+measures. The use of market values has been resisted on the ground of potential 
+manipulation of trigger indicators. 17 Yet accounting figures are at best past and infrequent 
+measures of net value, so interim supervisory assessment s of bank solvency are necessary. 
+Stress tests are the standard method to assess resilience under adverse scenarios and define 
+the degree of capitalization. Yet book equity is a measure of current assets, while the value 
+of a bank includes future prospects driven by its de posit franchise. Stress tests implicitly 
+factor in such values, which may be positive or negative. 
+From an economic perspective, a bank with inadequate equity may be considered solvent if 
+it has a viable business model, especially if its losses are on safe  asset holdings so that the 
+downside risk of credit losses is limited. Such a bank may be at the mercy of run expectations, 
+as both the value of its assets and the value of its deposit franchise cannot be realized in a 
+quick sale. This is the category of b anks that would benefit from going-concern conversion. 
+A contingent bail-in favors recovery as long as it is coupled with tools to prevent panics and 
+generate runs, such as the liquidity charge we propose. 
+In contrast, a bank with the same level of book eq uity value but with sizeable losses, low 
+deposit franchise value, and very poor future prospects is a prime candidate for resolution. 
+In this case, a going-concern bail-in would not create the conditions for recovery and should 
+be seen as unfair treatment of some investors. A consistent and legally binding definition is 
+needed to justify the additional supervisory powers. 
+Beyond capital requirements, the post -2008 regulation also introduced the total loss-
+absorbing capacity (TLAC) requirements to ensure res olution without bailout. TLAC is the 
+minimum stock of bail -inable capital, currently set to 18% of risk -weighted assets for 
+systemic banks. 18 It comprises common equity, additional Tier 1 capital instruments , and 
+long-term, subordinated, unsecured debt that will be wiped out upon insolvency. These 
+requirements are crucial for an orderly resolution of banks that does not rely on a fiscal 
+backstop. High risk-absorbing capacity has also an effect on risk appetite as they decreased 
+risk shifting incentives. However, the designated function for TLAC  and minimum 
+requirement for own funds and eligible liabilities ( MREL) capital is to ensure bail -in in a 
+gone-concern resolution, so they have no direct counterpart in a recovery process. 
+ 
+17 This view is also consistent with the idea that banks’ stability requires some level of opacity (Dang, Gorton, 
+and Holmström 2020). 
+18 TLAC rules were transposed in the EU as the minimum requirement for own funds and eligible liabilities. 
+29
+Containing Runs on Solvent Banks Martino and Perotti
+
+--- Page 32 ---
+The recovery measures we propose should be seen as a recovery-aimed complement to the 
+resolution and loss -absorbency requirements. They parallel the mandate to the resolution 
+authority to convert or write down TLAC  liabilities once the banks become insolvent, or to 
+impose moratoria on withdrawals to avoid runs very close to insolvency. 
+ 
+ 
+This open access article is distributed under the terms of the CC-BY-NC-ND 4.0 license, which allows 
+sharing of this work provided the original author and source are cited. The work may not be changed 
+or used commercially. 
+ 
+ 
+30
+Journal of Financial Crises Vol. 7 Iss. 1

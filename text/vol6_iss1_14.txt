@@ -1,0 +1,780 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 1 
+2024 
+Luxembourg: Kaupthing Bank Luxembourg Restructuring, 2008 Luxembourg: Kaupthing Bank Luxembourg Restructuring, 2008 
+Ayodeji George 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+George, Ayodeji (2024) "Luxembourg: Kaupthing Bank Luxembourg Restructuring, 2008," Journal of 
+Financial Crises: Vol. 6 : Iss. 1, 392-410. 
+DOI: https://doi.org/10.17132/2693-3179.1542 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/14 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol6/iss1/14
+
+--- Page 3 ---
+Luxembourg: Kaupthing Bank Luxembourg 
+Restructuring, 20081 
+Ayodeji George2 
+Yale Program on Financial Stability Case Study 
+March 28, 2024 
+Abstract 
+The nationalization of Iceland’s Kaupthing Bank hf on October 9, 2008, caused a situation of 
+cross-default and a depositor run at its subsidiary, Kaupthing Bank Luxembourg S.A. (KBL). 
+A cross -default entitles creditors to request immediate execution of their claims. KBL 
+responded on the same day  by requesting and receiving a suspension of payments regime  
+(including depositors) from a Luxembourg court, which also appointed administrators. The 
+administrators placed KBL’s operations for sale later that month, receiving a bid from  a 
+private fund, Blackfish Capital, which crafted a restructuring plan that creditors approved on 
+June 5, 2009. The restructuring plan, carried out on July 10, 2009, resulted in the transfer of 
+domestic deposits to Blackfish Capital’s Banque Havilland, the transfer of Belgian deposits 
+to Crédit Agricole Group, and the transfer of remaining assets to a special purpose vehicle 
+(SPV) called Pillar Securitisation. Luxembourg and Belgium each lent EUR 160 million  (USD 
+222 million) to KBL as part of the restructuring. Banque Havilland administered the SPV on 
+behalf of creditors, including the two governments. All prior KBL depositors were 100% 
+protected. Creditors with claims in the SPV, including the Luxembourg and Belgian states, 
+had recovered 50% as of mid-2012. 
+Keywords: GFC, Iceland, Kaupthing, Luxembourg, restructuring  
+  
+ 
+1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering bank resolutions and restructurings. A survey of all the cases in this series (McNamara et 
+al. 2024)  and the individual cases underlying it are available from t he Journal of Financial 
+Crises at https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/. 
+2 Research Associate, YPFS, Yale School of Management. 
+392
+
+--- Page 4 ---
+Overview 
+This module describes the restructuring of 
+Kaupthing Bank Luxembourg S.A. (KBL). KBL 
+was a subsidiary of Icelandic bank Kaupthing 
+Bank hf, and the capital injections and 
+resolution processes provided to the 
+Icelandic banking system are discussed in 
+corresponding cases  (George, forthcoming; 
+George 2024). 
+Kaupthing Bank Luxembourg  was the 
+Luxembourg subsidiary of Kaupthing Bank 
+hf, one of three large multinational banks in 
+Iceland. Due to a nationwide banking crisis, 
+Icelandic authorities nationalized Kaupthing 
+Bank on October 9, 2008. Media coverage of 
+the events in Iceland led to a run by KBL 
+depositors (CSSF 2009a; Eurofound 2012; EC 
+2009a). Authorities in the U nited Kingdom 
+immediately seized  the assets of Kaupthing 
+Bank’s UK subsidiary, thereby freezing its 
+operations.3 The resulting inability to 
+refinance placed KBL in a situation of cross -
+default, which entitled its creditors to  
+immediately demand repayment of their 
+bonds. To prevent this, KBL’s board of 
+directors sought and received a suspension 
+of payments from the Luxembourg District 
+Court, preventing all bank payouts including 
+payments to depositors (CSSF 2008; 
+Eurofound 2012). 
+The court appointed administrators from 
+PricewaterhouseCoopers (P wC) to oversee 
+the bank during the suspension of payments. 
+Authorities stated that an orderly solution 
+for exit from the suspension of payments was 
+necessary to ensure maximum recovery for  
+creditors and to maintain system -wide 
+confidence. The administrators explored avenues to exit the suspension of payments by 
+placing KBL’s operations up for sale. In April 2009, KBL received a bid from Blackfish Capital, 
+ 
+3 For more information, see the YPFS case study on the restructuring of Iceland’s three largest banks  (George 
+2024). 
+Key Terms 
+Purpose: To provide an orderly exit from the 
+suspension of payments, ensuring maximum 
+recovery for creditors and maintaining system-
+wide confidence 
+Size and Nature of 
+Institution 
+Small subsidiary of Kaupthing 
+Bank hf, with EUR 2 billion in 
+deposits and EUR 7 billion in 
+assets at the end of 2007 
+Source of Failure The failure of Kaupthing Bank 
+hf in Iceland led to a cross-
+default at KBL, entitling 
+creditors to request immediate 
+execution of their claims 
+Start Date October 9, 2008  
+End Date July 10, 2009 
+Approaches to 
+Resolution/ 
+Restructuring 
+Governments provided EUR 
+320 million to back the 
+transfer of Belgian deposits to 
+Crédit Agricole; London-based 
+Blackfish Capital created a 
+new bank for Luxembourgish 
+depositors; and a special 
+purpose vehicle was created 
+for bad assets  
+Outcomes EUR 320 million debt 
+obligation to state, EUR 55 
+million in public losses for 
+Belgium and Luxembourg, 
+and creation of new private 
+bank by Blackfish Capital  
+Notable Features This was the first use of the 
+suspension of payments 
+framework in Luxembourg; 
+ 
+The government immediately 
+received burden-sharing SPV 
+debt as repayment for the loan 
+393
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 5 ---
+which resulted in KBL’s administrators drafting a restructuring plan that creditors approved 
+on June 5, 2009 (CSSF 2008; Eurofound 2012; EC 2009a).  
+The restructuring plan consisted of three measures that separated various activities of KBL. 
+The private and online deposits of Belgian customers, which constituted the bulk of KBL’s 
+deposit base, were transferred to Crédit Agricole Group  along with the necessary funds to 
+reimburse depositors as necessary. The private and deposit-taking activities of Luxembourg 
+customers were taken over by Blackfish Capital, which transferred them to a newly created 
+entity called Banque Havilland. All of KBL’s unsold assets, mostly consisting of commercial 
+lending operations, were transferred to a special purpose vehicle (SPV) called Pillar 
+Securitisation. The restructuring plan also called for Luxembourg to cover the shortfall 
+between KBL’s total assets and liabilities , which amounted to EUR 310 million as of 
+December 31, 2008. The intention of this state contribution was to cover potential 
+withdrawals by depositors when the suspension of payments period ended. To cover 100% 
+of deposits transferred to Crédit Agricole Group, Luxembourg and Belgium each loaned EUR 
+160 million (USD 222 million).4 The Association for the Guarantee of Deposits Luxembourg 
+(AGDL) covered the difference between the loan amount and the value of transferred Belgian 
+deposits (EC 2009a; PwC 2009; Global Banking News 2009). 
+The official split of KBL into Banque Havilland and Pillar Securitisation on July 10, 2009, 
+ended the suspension of payments. The Belgian deposits were transferred to Crédit Agricole 
+Group prior to the split. The deposits of all customers were 100% maintained after 
+restructuring.5 Banque Havilland commenced operations on July 13, 2009. As a result of the 
+restructuring, interbank creditors of KBL received notes from the SPV. As of most recent data 
+(mid-2012), creditors with claims in the SPV had recovered 50% of their exposures (Banque 
+Havilland 2009; Coe Smith 2009; CSSF 2011; EC 2009a; EC 2009b; Eurofound 2012) . The 
+timeline of restructuring events is shown in Figure 1. 
+Figure 1: Timeline of Events Related to the Restructuring of KBL 
+Date Event  
+October 9, 
+2008 
+Icelandic authorities nationalize Kaupthing Bank hf and UK authorities seize assets 
+of its UK subsidiary. With Kaupthing Bank Luxembourg facing a situation of cross -
+default and a depositor run, a Luxembourg court approves a suspension of 
+payments for the bank and appoints administrators from PwC. 
+October 13, 
+2008 
+Association de Garantie des Dépôts du Luxembourg (AGDL) puts out a press release 
+reiterating the suspension of payments and informing depositors of their rights 
+under the deposit guarantee scheme. 
+Late October 
+2008 
+KBL’s administrators place the bank’s operations up for sale. 
+March 2009 Initial bid is received from a group of investors led by a Libyan sovereign wealth 
+fund. The resulting restructuring plan is rejected by creditors. 
+ 
+4 According to the Bank for International Settlements (BIS), EUR 1 = USD 1.39 on July 10, 2009. 
+5 AGDL began providing payments for claims in December 2008 (AgeFI Luxembourg 2008b). 
+394
+Luxembourg: Kaupthing Bank Luxembourg Restructuring George
+
+--- Page 6 ---
+April 2009 Administrators receive a bid from Blackfish Capital, a family-owned British private 
+equity firm, as well as J.C. Flowers, a US based private equity firm. 
+June 5, 2009 Creditors approve the restructuring plan resulting from the Blackfish Capital bid. 
+June 10, 2009 Luxembourgish authorities seek European Commission approval of the 
+restructuring plan. 
+July 9, 2009 The European Commission announces approval of the restructuring plan. 
+July 10, 2009 KBL formally splits into Banque Havilland and Pillar Securitisation  (with Belgian 
+deposits transferring to Crédit Agricole Group). This ends the suspension of 
+payments. 
+July 13, 2009 Banque Havilland officially commences operations. 
+Sources: AGDL 2008; Banque Havilland 2009; EC 2009a; EC 2009b; Eurofound 2012 .  
+Summary Evaluation 
+The restructuring of KBL was the first usage of the suspension of payments framework by 
+Luxembourgish authorities. The use of this framework allowed the bank to be re structured 
+without a liquidation. Authorities needed to be flexible because the framework had not been 
+previously tested. A result of this adaptability was the decision by the Luxembourg Court of 
+Appeal that interbank creditors “for whom the restructuring plan does not provide for full 
+and immediate compensation” had to approve the restructuring plan (Coe Smith 2009).  
+The restructuring was  deemed successful in that no depositors took losses. A European 
+Union (EU) agency report also discusses the fact that KBL’s application for a suspension of 
+payments isolated the subsidiary from its Icelandic parent, which complicated the 
+restructuring process by preventing intragroup debt scheduling (Eurofound 2012). Further 
+discussion regarding the efficacy of the restru cturing is limited due to its status as a 
+subsidiary of Kaupthing Bank hf. Context regarding the restructuring of Kaupthing and its 
+two peer banks in the Icelandic banking sector can be found in the YPFS case study on the 
+restructuring of Iceland’s three largest banks (George 2024). 
+In 2020, Banque Havilland faced criminal scrutiny from Luxembourg over its dealings with 
+leaders from Azerbaijan and Abu Dhabi (Finch and Wilson 2020).  
+  
+395
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 7 ---
+Context: Luxembourg, Kaupthing Bank Luxembourg, 2007–2009 
+Assets EUR 7 billion as of Dec. 31, 2007 
+EUR 1.1 billion as of Dec. 31, 2009 
+Liabilities EUR 7 billion as of Dec. 31, 2007 
+EUR 1.1 billion as of Dec. 31, 2009 
+Deposits 
+EUR 725 million as of Dec. 31, 2008 
+Unavailable insured percentage 
+EUR 290 million as of Dec. 31, 2009 
+Unavailable insured percentage 
+Capital Ratio (CAD) 15.3% as of Dec. 31, 2007 
+38% as of Dec. 31, 2009 
+Nonperforming Loans Unavailable as of Dec. 31, 2007 
+Unavailable as of Dec. 31, 2009 
+Market Share Unavailable as of Dec. 31, 2007 
+Unavailable as of Dec. 31, 2009 
+Banking System, % of GDP 89.7% as of Dec. 31, 2009 
+108% as of Dec. 31, 2009 
+Sources: Banque Havilland 2010; Bloomberg; KBL 2008; World Bank Global Financial 
+Development Database; World Bank Deposit Insurance Dataset. 
+396
+Luxembourg: Kaupthing Bank Luxembourg Restructuring George
+
+--- Page 8 ---
+Key Design Decisions 
+1. Purpose: Authorities deemed a restructuring plan necessary to ensure maximum 
+recovery for creditors and maintain confidence in the banking system. 
+On October 9, 2008, the Icelandic state took over Kaupthing Bank hf, a s a consequence of a 
+major banking crisis taking place in Iceland. Media coverage of the events in Iceland led to a 
+depositor run on Kaupthing Bank Luxembourg. In addition, rating agency downgrades of 
+banks headquartered in Iceland led to massive asset devalu ations as foreign investors 
+rushed to sell . The seizure of assets  of Kaupthing’s British subsidiary by UK authorities 
+placed KBL in a situation of cross -default. As such, the bank’s creditors held the right to 
+immediately demand the repayment of their bonds. As of 2007, KBL had EUR 4.5 billion in 
+non-deposit liabilities on its balance sheet. To prevent this, KBL’s board of directors applied 
+for a suspension of payments by order of the Luxembourg District Court. The court 
+immediately granted the suspension of payments and appointed administrators  from 
+PricewaterhouseCoopers to oversee the bank (CSSF 2008; CSSF 2009b; EC 2009a; 
+Eurofound 2012; KBL 2008).  
+Authorities from Belgium and Luxembourg considered creating a joint  fund for the 
+protection of depositors in the two countries. Cross -border cooperation was especially 
+important for Luxembourg to maintain its status as a financial cen ter (See Key Design 
+Decision No. 13, Cross-border Cooperation). Authorities remained open to all scenarios, and 
+both governments ultimately received burden -sharing SPV debt as a result of the 
+restructuring (AFX Asia 2008; EC 2009a; Reuters 2009a). 
+In its application for State Aid, Luxembourgish authorities stated that an orderly solution for 
+exit from the cessation of payments was necessary to ensure maximum recovery for 
+creditors and to maintain system-wide confidence (EC 2009a). 
+2. Part of a Package: The int ervention also involved the invocation of the AGDL’s 
+deposit guarantee. 
+On October 13, 2008, the Financial Sector Surveillance Commission  (CSSF), the financial 
+supervisory agency  of Luxembourg , announced that the deposit guarantee scheme 
+administered by th e A GDL had been triggered.  The guarantee scheme provided 
+reimbursement up to EUR 20,000, which the government increased to EUR 100,000 in order 
+to further calm depositors (AGDL 2008; AgeFI Luxembourg 2008a; Mayer Brown 2009). For 
+an in -depth discussion of the Luxembourg deposit guarantee, see “Association for the 
+Guarantee of Deposits Luxembourg” Vergara (2022a). 
+Of the EUR 1.3 billion starting balance of Banque Havilland, EUR 750 billion–EUR 800 million 
+represented existing commitments to the Central Bank of Luxembourg from prior 
+refinancing operations (EC 2009a). 
+397
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 9 ---
+3. Legal Authority: The Law of 5 April 1993 outlined the process of exiting the 
+suspension of payments. 
+As an alternative to bankruptcy, the leadership of Kaupthing Bank  Luxembourg applied for 
+a suspension of payments  from the Luxembourg District Court  on October 9, 2008  
+(Eurofound 2012). Article 60 of the Law of 5 April 1993 on financial institutions established 
+the jurisdiction and powers of the CSSF and outlines the steps of the suspension of payments 
+process. The law deem s a suspension of payments appropriate in the following situations  
+(Luxembourg Government 1993): 
+(a) When the credit of the institution in question is shaken or when it is in a liquidity 
+impasse, whether or not there is a cessation of payment; 
+(b) When full performance of the institution’s commitments is compromised; or 
+(c) When the legal authorization  of the establishment has been withdrawn and this 
+decision is not yet final. 
+The law also stipulates that the judgment approving the suspension of payments must also 
+include the appointment of one or more administrators who undertake all acts and decisions 
+for the bank in question (See Key Design Decision No. 4, Administration). 
+The Law of 19 March 2004 stipulate s that only the CSSF has the power to formally apply to 
+the Luxembourg District Court for dissolution of an establishment, which was the legal 
+rationale used to split KBL (Luxembourg Government 1993). 
+Luxembourg law dictate s that there are two avenues for e nding a suspension of payments 
+period. Either (1) the institution restores levels of liquidity and solvency to satisfy all claims 
+immediately or in acceptable instalments or (2) the placement of the bank into judicial 
+liquidation (EC 2009a). 
+The loans provided by Luxembourg and Belgium were also subject to European Commission 
+(EC) approval as State Aid given the definitions outlined in Article 87 of the EC Treaty  (EU 
+2002).  
+4. Administration: A Luxembourg court appointed PwC to administer the bank. 
+Following the suspension of payments, a Luxembourg court appointed PwC as the 
+administrators of KBL on October 9, 2008 . In this role, PwC administrators were charged 
+with actualizing the restructuring plan, and held the  rights to negotiate and finalize the 
+structure of the special purpose vehicle and the allocation of assets in the restructuring plan 
+(EC 2009b; Eurofound 2012). 
+The SPV was overseen by a committee appointed by  interbank creditors with stakes in the 
+SPV and the government. Banque Havilland ran the SPV on behalf of the creditors committee 
+and the government (Eurofound 2012; Owen 2011). 
+398
+Luxembourg: Kaupthing Bank Luxembourg Restructuring George
+
+--- Page 10 ---
+5. Governance: The CSSF oversaw the court-appointed administrators of KBL.  
+In order to initiate the restructuring of the bank (formally called dissolution in Luxembourg 
+legislation), the administrators of KBL were legally required to notify the CSSF, which in turn 
+submitted a request to the Luxembourg District Court. The CSSF was also legally required to 
+inform the EC and authorities in all impa cted member states of any restructuring measures 
+(Luxembourg Government 1993). 
+Upon commencing operations in July 2009, Banque Havilland came under the supervision of 
+CSSF as a bank with operations in Luxembourg. Its management of the assets in the SPV came 
+under the supervision of a steering committee compris ing representatives of the creditors 
+and the government (Owen 2011).  
+6. Communication and Disclosure: Luxembourgish authorities issued press releases 
+throughout the restructuring process, informing clien ts of the status of their 
+claims.  
+Following the collapse of the three major Icelandic banks, the governments of Luxembourg 
+and Belgium made clear their intent to protect depositors and creditors in Kaupthing Bank 
+Luxembourg, in order to preserve Luxembour g’s status as a financial center . The CSSF 
+immediately communicated the suspension of payments at KBL to the public on October 9, 
+2008. The AGDL issued its own press release communicating the suspension of payments on 
+October 13, 2008, providing instructio ns for depositors on their rights relating to 
+Luxembourg’s deposit guarantee. The press release urged affected clients to complete the 
+necessary paperwork as soon as possible (For more information, see Key Design Decision  
+No. 10, Treatment of Clients) (AFX Asia 2008; AGDL 2008; CSSF 2008). 
+Regarding the rejection of the initial bid from a coalition of Middle Eastern investors, one of 
+KBL’s administrators stated that the cash offer for the SPV was too low (Reuters 2009b).  
+The CSSF issued a press release ann ouncing the restructuring plan on July 10, 2009. The 
+press release outlined the various facets of the restructuring plan  (See Key Design Decision 
+No. 8, Approach to Resolution  and Restructuring) and stated that Banque Havilland would 
+commence activities on July 13, 2009. CSSF annual reports provided context on the 
+restructuring measures, with the 2010 report announcing that all depositors had been fully 
+repaid (CSSF 2009a; CSSF 2009b; CSSF 2010; CSSF 2011). 
+KBL’s administrators conferred with all relevant stakeholders, including the Luxembourg 
+state, Belgian state, AGDL, and interbank creditors, in order to establish that the 
+restructuring plan based on the bid from private equity fund Blackfish Capital was the best 
+path forward (Eurofound 2012). 
+  
+399
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 11 ---
+7. Source and Size of Funding: The  restructuring cost approximately EUR 375  
+billion–EUR 525 million and was primarily funded by the governments of 
+Luxembourg and Belgium , receiving repayment in the form of burden -sharing 
+debt from the SPV. 
+In the initial call for tenders, authorities made clear to potential buyers that they were willing 
+to provide the funds necessary to account for the difference between KBL’s assets and 
+liabilities. The restructuring plan stated that a s of December 31, 2008, the difference 
+between the bank’s total current liabilities and total assets was EUR 310 million.  
+Luxembourg covered that difference by providing the bank with a EUR 320 million 6 (USD 
+445 million) loan that did not bear interest. Authorities paid this loan out in two tranches, a 
+super-senior tranche of EUR 210 million and a senior tranche of EUR 110 million. The loan 
+from the Luxembourg state was paid back immediately with bonds issued by the SPV. The 
+super-senior tranche received f irst priority on repayment, while the senior tranche was 
+treated pari passu with interbank creditors. Luxembourgish authorities expected the orderly 
+sale of assets held by the SPV to pay off the bondholders by 2016 or 2017 when it was to be 
+wound up. The EC expected that the orderly sale of assets within the SPV would allow for all 
+creditors to be repaid (EC 2009a). 
+The Belgian deposits were transferred to the Crédit Agricole Group prior to the split of KBL. 
+At the time, there was a difference between the EUR 320 million loan and the transferred 
+deposits, which totaled EUR 350  million–EUR 400 million. This EUR 30  million–EUR 80 
+million amount was covered by the AGDL. This coverage corresponded to the compensation 
+depositors would have received had the bank entered into liquidation. The AGDL also 
+received senior SPV bonds as repayment of the funds (EC 2009a). 
+Due to the l arge presence of Belgian depositors in KBL, Belgian authorities participated by 
+extending a EUR 160 million loan to Luxembourg (See Key Design Decision  No. 13, Cross-
+border Cooperation). The loan was granted on the condition that Luxembourgish authorities 
+used the funds to finance the aforementioned loan to KBL. The Belgian state’s loan was also 
+divided into two tranches —EUR 105 million and EUR 55 million. These two tranches 
+represented 50% of the two tranches of the loan extended to the bank, and their repayment 
+conditions were aligned. Luxembourgish authorities therefore committed to repay the loan 
+when it received payments from the SPV.  As such, this tranche shared the losses of SPV 
+compensation, which totaled 50% as of 2012 (EC 2009a; Eurofound 2012).  
+8. Approach to Resolution  and Restructuring: Luxembourg ish authorities sought 
+buyers for the bank’s activities, with Blackfish Capital eventually forming a new 
+bank and a special purpose vehicle that took over KBL’s bad assets. 
+Following the nationalization of  Kaupthing in Iceland, the CSSF announced a Luxembourg 
+court’s appointment of administrators for the Luxembourg subsidiary on October 9, 2008. 
+KBL had approached the court for approval of a suspension of payments regime on that same 
+day. Luxembourg law dic tated that the suspension of payments could end either in (1) the 
+ 
+6 This total represented the EUR 310 million liquidity shortfall plus a margin of EUR 10 million (EC 2009a, 4). 
+400
+Luxembourg: Kaupthing Bank Luxembourg Restructuring George
+
+--- Page 12 ---
+institution restoring levels of liquidity and solvency to satisfy all claims immediately or in 
+acceptable instalments or (2) the placement of the bank into judicial liquidation (CSSF 2008; 
+EC 2009a). 
+KBL’s administrator, PwC, immediately began seeking routes to bring Kaupthing out of the 
+cessation of payments by placing all parts of the bank up for sale. Authorities made all 
+potential buyers aware that the state was willing to provide public funding to make up the 
+difference between the bank’s assets and liabilities (EC 2009a). 
+The first bid for the private banking operations in Luxembourg came from a Libyan 
+investment fund, and P wC prepared an initial restructuring plan. However, Kaupt hing’s 
+creditors rejected this bid on March 16, 2009, citing insufficient valuation of the institution. 
+Two further bids came from J.C. Flowers and Blackfish Capital in April 2009. Creditors 
+approved the restructuring plan associated with Blackfish Capital ’s bid , and authorities 
+announced the acceptance of the bid on June 5, 2009. Authorities sought European 
+Commission approval on June 10, and the EC announced its approval on July 9, 2009 (EC 
+2009a; Eurofound 2012; Reuters 2009b). 
+The restructuring plan based on the Blackfish Capital bid involved the takeover of the private 
+and deposit banking activities  of KBL  in Luxembourg as of March 13, 2009. Blackfish 
+transferred the deposits to a newly registered credit institution called Banque Havilland. 
+This institution had a starting balance of EUR 1.3 billion, of which EUR 750 million–EUR 800 
+million were existing commitments to the Central Bank of Luxembourg. Blackfish 
+contributed EUR 50 million of capital and EUR 25 million–EUR 75 million of deposits. In total, 
+Banque Havilland received approximately EUR 208 million in cash. The bank’s other assets, 
+most of which consisted of commercial lending operations, were transferred to an SPV called 
+Pillar Securitisation. These were balanced with liabilities that consisted largely of the bonds 
+issued by the SPV to the state, the deposit guarantee association , and existing debts to 
+interbank creditors.  The SPV received EUR 260 million in cash.  As such, CSSF split the 
+formerly Kaupthing Bank Luxembourg into two entities, Banque Havilland and the SPV (EC 
+2009a; Reuters 2009b; Total Securitization 2009). 
+Regarding foreign activities, Kaupthing’s Belgian deposits were transferred to Crédit 
+Agricole Group. The deposits were incorporated into the existing banking operations of the 
+two subsidiaries, Crédit Agricole Belgique and Keytrade Bank.7 The Swiss branch of the bank 
+was closed, with all depositors being reimbursed by the Swiss deposit guarantee scheme 8 
+(EC 2009a). Figure 2 depicts the KBL balance sheet at year -end 2007 and the balance sheet 
+just prior to restructuring in July 2009. 
+ 
+ 
+7 Crédit Agricole Group also received some assets as part of the restructuring plan, though research has not 
+revealed any details (AgeFI Luxembourg 2009). 
+8 See YPFS case study “Swiss Banks’ and Securities Dealers’ Depositor Protection Association” for a detailed 
+description of the Swiss deposit guarantee scheme Vergara (2022b). 
+401
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 13 ---
+Figure 2: Kaupthing Balance Sheets 2007–2009 (EUR millions) 
+ 
+Note: The European Commission offered only ranges for the total amount  of Belgian and Luxembourg ish 
+deposits. To make the assets and liabilities equal in our pro forma balance sheet, we rounded up both. 
+Sources: Banque Havilland 2010; EC 2009a; KBL 2008. 
+9. Treatment of Creditors and Equity Holders : Creditors received claims in Pillar 
+Securitisation. 
+The Luxembourg Court of Appeal decided that the approval of interbank creditors —“for 
+whom the restructuring plan does not provide for full and immediate compensation”— was 
+necessary for the approval of the restructuring plan (Coe Smith 2009). Depositors and trade 
+creditors were to be repaid in full upon the successful completion of the restructuring and 
+did not have to approve the plan. 
+KBL’s commercial lending operations were transferred to an SPV called Pillar Securitisation. 
+Interbank creditors received EUR 585 million in notes of various classes from the SPV. The 
+restructuring plan stated that the orderly sale of the SPV’s assets should allow creditors to 
+be repaid. As of mid -2012, the creditors had coll ected 50% of their initial exposure (Coe 
+Smith 2009; EC 2009a; Eurofound 2012).  
+The Luxembourg government and AGDL also held super-senior and senior claims in the SPV 
+(see Key Design Decision  No. 7, Source and Size of Funding). The restructuring plan stated 
+402
+Luxembourg: Kaupthing Bank Luxembourg Restructuring George
+
+--- Page 14 ---
+that the super-senior bonds received priority, and senior bonds were to be repaid pari passu 
+with the SPV’s other debts (EC 2009a). 
+Holders of “non -convertible bonds” in Pillar Securitisation were subject to an Equalization 
+Provision.9 This provision stated that in the event that assets were not sufficient to 
+compensate noteholders in full, their claims wo uld be reduced in accordance with the 
+shortfall. As of 2022, the SPV reported a loss of EUR 6 million (Pillar Securitisation 2010; 
+Pillar Securitisation 2023). 
+10. Treatment of Clients: The deposit guarantee provided some initial compensation 
+for depositors during the suspension of payments, and the restructuring plan 
+preserved all depositors following the end of the suspension of payments. 
+A press release issued by the AGDL on October 13, 2008, alerted depositors to their rights 
+under the deposit insurance scheme. The deposit guarantee scheme covered customer 
+deposits up to EUR 20,000 , eventually increasing to EUR 100,000 in October 2008 . At the 
+time of KBL’s split, EUR 175 million–EUR 225 million had been paid out to depositors by the 
+AGDL under the existing deposit insurance scheme (AGDL 2008; AgeFI Luxembourg 2008a; 
+EC 2009a).  
+Upon commencing operations in July 2009, Banque Havilland took over the deposits of all 
+domestic customers. The restructuring plan transferred the  deposits of o nline and private 
+banking customers  of the Belgian branch to Crédit Agricole Group. Swiss depositors fell 
+under the purview of Swiss law (CSSF 2010; EC 2009a). 
+The CSSF 2010 annual report stated that all depositors in KBL were r epaid in full  (CSSF 
+2011). 
+11. Treatment of Assets:  The assets not transferred to Banque Havilland were 
+transferred to an SPV. 
+The restructuring plan stated that all of the remaining assets not taken by Banque Havilland 
+were to be transferred to an SPV called Pillar Securitisation. These assets amounted to EUR 
+1.2 billion and consisted primarily of KBL’s commercial lending operations. The liabilities 
+side of Pillar Securitisation’s balance sheet consisted of the bank’s debts to the Luxembourg 
+state, AGDL, and the bank’s interbank creditors (EC 2009a; Global Banking News 2009). 
+A committee of interbank creditors with stakes in the SPV managed its operations. The 
+restructuring plan stipulated that the orderly sale of all transferred assets should allow for 
+creditors to be repaid (EC 2009a).  
+ 
+9 The annual report classified the vast majority of creditors as holders of non -convertible bonds (Pillar 
+Securitisation 2010). 
+403
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 15 ---
+12. Treatment of Board and Management: The existing management remained in 
+place during the suspension of payments, and Blackfish Capital installed its own 
+management upon creating Banque Havilland. 
+The suspension of payments on October 9, 2008, resulted in the appointment of 
+administrators from PwC. While KBL’s management and internal organization remained in 
+place, all activities were supervised by the appointed administrators.  Upon the creation of 
+Banque Havilland, Jonathan Rowland 10 served as chairman of the board and Magnus 
+Gudmundsson served as the chief executive officer (Banque Havilland 2009; CSSF 2008; 
+Eurofound 2012; PwC 2009). 
+13. Cross-border Cooperation : Luxembourg coordinated closely with the Belgian 
+government to protect depositors. 
+When Icelandic authorities nationalized the country’s three largest banks, including 
+Kaupthing, the existing deposit insurance scheme did not have enough funds to compensate 
+all depositors. Meanwhile the assorted foreign subsidiaries were subject to individua l 
+oversight and deposit insurance schemes. Given the lack of adequate funds in Iceland to 
+compensate claimants in the various subsidiaries, regulators in host countr ies such as 
+Luxembourg took individual actions to protect depositors and creditors. Other h ost 
+countries included the United Kingdom, Germany, Finland, Switzerland, and Norway (IADI 
+2011). 
+At the onset of the crisis,  Belgian and the Luxembourgish authorities immediately began 
+discussing measures to protect depositors (AFX Asia 2008; Reuters 2009 a). Luxembourg’s 
+prime minister stated that Luxembourg had a duty to protect Belgian savers : “If people in 
+Belgium got the impression that the Luxembourg government only supports banks that 
+manage the savings of Luxembourgers, that would be a death blow to  Luxembourg as a 
+financial centre” (AFX Asia 2008). 
+The bulk of K BL’s deposit base stemmed from its Belgian operations. As a result, Belgian 
+authorities provided Luxembourg with a EUR 160 million loan. Luxembourgish authorities 
+used these funds to provide the loan that was necessary for the completion of K BL’s 
+restructuring (See Key Design Decision No. 7, Source and Size of Funding) (EC 2009a). 
+When Luxembourg ish authorities placed KBL under a suspension of payments, Swiss 
+authorities immediately initiated liquidation proceedings of the Swiss branch. Small deposits 
+totaling less than 5 ,000 Swiss francs (CHF; USD 4,400)11 were repaid in full on October 16 
+and 17, 2008. All other depositors were repaid up to the CHF 30,000 limit by the end of 
+November 2008 (IADI 2011).  
+ 
+10 Jonathan Rowland was the son of  David Rowland, the new shareholder and honorary president of Banque 
+Havilland (Banque Havilland 2009; Banque Havilland 2010). 
+11 According to the BIS, USD 1 = EUR 0.73 on October 09, 2008. 
+404
+Luxembourg: Kaupthing Bank Luxembourg Restructuring George
+
+--- Page 16 ---
+14. Other Conditions: The restructuring took place under a suspension of payments 
+regime. 
+The suspension of payments regime within which KBL underwent restructuring prohibited 
+all payments and activities other than precautionary and protective measures, as authorized 
+by the court-appointed administrators (CSSF 2008). 
+15. Duration: KBL officially split on July 10, 2009, and Pillar Securitisation still exists 
+as of 2022. 
+Following the suspension of payments, the appointed administrators immediately began 
+exploring options to restore normal operations. Creditors approved the final re structuring 
+plan on June 5, 2009, with  the EC approval coming on July 9, 2009. As such, KBL officially 
+split on July 10, 2009, with Banque Havilland commencing legal operations on July 13, 2009 
+(CSSF 2010; EC 2009a).  
+According to the restructuring plan, a uthorities expected the SPV to be wound up by 2016 
+or 2017 at the latest. As of mid-2012, creditors had recovered 50% of their initial exposure. 
+As of most recent information  (2022), Pillar Securitisation still exists as an entity, though 
+information is limited on the nature of its current operations (EC 2009a; Pillar Securitisation 
+2023). 
+  
+405
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 17 ---
+References and Key Program Documents 
+Summary of Program 
+(Eurofound 2012) Eurofound. 2012. “Banque Havilland, Luxembourg.,” May 21, 2012. 
+Web page discussing Banque Havilland and the restructuring process that led to its creation. 
+https://ypfs.som.yale.edu/node/23717 
+(Mayer Brown 2009) Mayer Brown. 2009. “Summary of Government Interventions: 
+Luxembourg.” April 21, 2009. 
+Summary of Luxembourg’s financial interventions in the Global Financial Crisis. 
+https://ypfs.som.yale.edu/node/19254 
+Implementation Documents 
+(EC 2009a) European Commission (EC). 2009a. “State Aid Decisions N 344/2009— 
+Luxembourg, N 380/2009—Belgium; Restructuring Aid for Kaupthing Bank Luxembourg 
+S.A.,” July 9, 2009. 
+European Commission decision regarding State Aid for the restructuring of Kaupthing Bank 
+Luxembourg. 
+https://ypfs.som.yale.edu/node/23689 
+(EC 2009b) European Commission (EC). 2009b. “Extract from the Decision Concerning 
+Kaupthing Bank Luxembourg S.A.” Notices from Member States, July 22, 2009. 
+EC decision ratifying the mission of the administrators of Kaupthing Bank Luxembourg. 
+https://ypfs.som.yale.edu/node/23690 
+Legal/Regulatory Guidance 
+(EU 2002) European Union (EU). 2002. Consolidated Versions of the Treaty on European 
+Union and of the Treaty Establishing the European Community. Section 2, Aids Granted by 
+States, Article 87. 
+Section of the Treaty Establishing the European Community, defining State Aid. 
+https://ypfs.som.yale.edu/node/23716 
+(Luxembourg Government 1993) Luxembourg Government. 1993. Law of 5 April 1993 on 
+the Financial Sector, as Amended. 
+Law establishing the suspension of payments and restructuring framework, as well as the 
+AGDL’s coverage requirements (Translated by the Luxembourg Chamber of Deputies). 
+https://ypfs.som.yale.edu/node/23702 
+  
+406
+Luxembourg: Kaupthing Bank Luxembourg Restructuring George
+
+--- Page 18 ---
+Media Stories 
+(AFX Asia 2008) AFX Asia. 2008. “Update 2-Belgium, Luxembourg to Help Iceland’s 
+Kaupthing.” AFX Asia, October 17, 2008. 
+News article discussing efforts by the Belgian and Luxembourgish governments to support 
+Kaupthing Bank Luxembourg. 
+https://ypfs.som.yale.edu/node/23683 
+(Coe Smith 2009) Coe Smith, Claire. 2009. “Kaupthing Was First to Test Directive.” 
+Financial News, July 13, 2009. 
+Press article discussing Luxembourg’s use of the suspension of payments for Kaupthing Bank 
+Luxembourg. 
+https://ypfs.som.yale.edu/node/23719 
+(Finch and Wilson 2020) Finch, Gavin, and Harry Wilson. 2020. “UAE’s MBZ Was Known as 
+‘the Boss’ at Banque Havilland.” Al Jazeera, December 21, 2020. 
+News article discussing special privileges granted to a Banque Havilland client by owner 
+David Rowland. 
+https://ypfs.som.yale.edu/node/23715 
+(Global Banking News 2009) Global Banking News. 2009. “Kaupthing Luxembourg 
+Creditors Approve Restructuring.” Global Banking News, June 5, 2009. 
+News article discussing the approval of the restructuring plan by Kaupthing Bank 
+Luxembourg’s creditors. 
+https://ypfs.som.yale.edu/node/23691 
+(Owen 2011) Owen, Glen. 2011. “Probe into Last-Ditch Loans at Icelandic Bank.” This is 
+Money UK, April 10, 2011. 
+News article discussing the loans offered to KBL. 
+https://ypfs.som.yale.edu/node/24028 
+(Reuters 2009a) Reuters. 2009a. “Belgium, Luxembourg Discuss Kaupthing Guarantee 
+Fund.” Reuters, January 6, 2009. 
+News article reporting discussions around protecting Belgian and Luxembourger depositors 
+at Kaupthing Bank Luxembourg. 
+https://ypfs.som.yale.edu/node/23705 
+(Reuters 2009b) Reuters. 2009b. “Update 1-Kaupthing Luxembourg Creditors OK 
+Restructuring.” Reuters, June 5, 2009. 
+Reuters article reporting the approval of the Blackfish Capital restructuring bid for 
+Kaupthing Bank Luxembourg. 
+https://ypfs.som.yale.edu/node/23712 
+  
+407
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 19 ---
+(Total Securitization 2009) Total Securitization. 2009. “Blackfish to Acquire Kaupthing 
+Bank Luxembourg.” Total Securitization, July 17, 2009. 
+News article discussing Blackfish Capital’s role in the restructuring of Kaupthing Bank 
+Luxembourg. 
+https://ypfs.som.yale.edu/node/24080 
+Press Releases/Announcements 
+(AGDL 2008) Association pour la Garantie des Dépôts Luxembourg (AGDL). 2008. 
+“Kaupthing Bank: Situation of the Bank.” Press release, October 13, 2008. 
+AGDL announcement regarding the failure of Kaupthing. 
+https://ypfs.som.yale.edu/node/19241 
+(AgeFI Luxembourg 2008a) AgeFI Luxembourg. 2008a. “Luc Frieden: ‘Luxembourg 
+Increases the Guarantee of Bank Deposits to 100,000 Euros.’” Press release, October 20, 
+2008. 
+Press release announcing the increase of the Luxembourg deposit insurance scheme. 
+https://ypfs.som.yale.edu/node/23708 
+(AgeFI Luxembourg 2008b) AgeFI Luxembourg. 2008b. “À défaut d’une reprise de la 
+banque l’AGDL commencera l’indemnisation des clients de Kaupthing Bank Luxembourg 
+début Décembre 2008.” Press release, December 2008. 
+Press release detailing the payout timing for depositors from the Luxembourg deposit 
+insurance scheme. 
+https://ypfs.som.yale.edu/node/23706 
+(AgeFI Luxembourg 2009) AgeFI Luxembourg. 2009. “Crédit Agricole Takes over the 
+Customers of Kaupthing Bank Belgium.” Press release, February 2009. 
+Press release discussing the transfer of Belgian deposits in KBL to Crédit Agricole. 
+https://ypfs.som.yale.edu/node/23707 
+(Banque Havilland 2009) Banque Havilland. 2009. “Press Release, 30th September 2009, 
+Time: 11AM.” Press release, September 30, 2009. 
+Press release announcing Banque Havilland’s commencement of operations. 
+https://ypfs.som.yale.edu/node/23684 
+(CSSF 2008) Financial Sector Surveillance Commission (CSSF). 2008. “Suspension of 
+Payments: Kaupthing Bank Luxembourg S.A. – Appointment of Administrator.” Press 
+release, October 9, 2008. 
+Press release announcing the suspension of payments at Kaupthing Bank Luxembourg. 
+https://ypfs.som.yale.edu/node/23710 
+(CSSF 2009b) Financial Sector Surveillance Commission (CSSF). 2009a. “Restructuring of 
+Kaupthing Bank Luxembourg S.A.” Press release, July 10, 2009. 
+Press release announcing the restructuring of Kaupthing Bank Luxembourg. 
+https://ypfs.som.yale.edu/node/23709 
+408
+Luxembourg: Kaupthing Bank Luxembourg Restructuring George
+
+--- Page 20 ---
+(PwC 2009) PricewaterhouseCoopers (PwC). 2009. “Press Release, July 10, 2009.” Press 
+release, July 10, 2009. 
+Press release announcing the implementation of the restructuring plan and the lifting of the 
+suspension of payments regime. 
+https://ypfs.som.yale.edu/node/23704 
+Reports/Assessments 
+(Banque Havilland 2010) Banque Havilland. 2010. Annual Report 2009. 
+Banque Havilland annual report for the year 2009. 
+https://ypfs.som.yale.edu/node/23685 
+(CSSF 2009a) Financial Sector Surveillance Commission (CSSF). 2009b. Annual Report 
+2008. 
+CSSF annual report for 2008. 
+https://ypfs.som.yale.edu/node/23686 
+(CSSF 2010) Financial Sector Surveillance Commission (CSSF). 2010. Annual Report 2009. 
+CSSF annual report for the year 2009. 
+https://ypfs.som.yale.edu/node/23688 
+(CSSF 2011) Financial Sector Surveillance Commission (CSSF). 2011. Annual Report 2010. 
+CSSF annual report for the year 2010. 
+https://ypfs.som.yale.edu/node/23687 
+(KBL 2008) Kaupthing Bank Luxembourg (KBL). 2008. Annual Report 2007. 
+Kaupthing Bank Luxembourg annual report for year 2007. 
+https://ypfs.som.yale.edu/node/23701 
+(Pillar Securitisation 2010) Pillar Securitisation. 2010. Annual Report 2009. 
+Annual report for Pillar Securitisation for the year 2009. 
+https://ypfs.som.yale.edu/node/24086 
+(Pillar Securitisation 2023) Pillar Securitisation. 2023. Annual Report 2022. 
+Annual Report for Pillar Securitisation for the year 2022. 
+https://ypfs.som.yale.edu/node/24084 
+Key Academic Papers 
+(George 2024) George, Ayodeji. 2024. “Iceland: Landsbanki Restructuring, 2008.” Journal of 
+Financial Crises.            
+YPFS case study discussing the restructuring of Iceland’s major banks during the GFC. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/11 
+  
+409
+Journal of Financial Crises Vol. 6 Iss. 1
+
+--- Page 21 ---
+(George, forthcoming) George, Ayodeji. Forthcoming. “Iceland: Landsbankinn, Arion Bank, 
+Islandsbanki Capital Injections, 2008.” Journal of Financial Crises.  
+YPFS case study concerning the capitalizations of the three new Icelandic banks in 2008. 
+(IADI 2011) International Association of Deposit Insurers (IADI). 2011. “Discussion Paper 
+on Cross Border Deposit Insurance Issues Raised by the Global Financial Crisis,” March 
+2011. 
+IADI paper summarizing the cross-border implications of deposit insurance events arising 
+from the Global Financial Crisis of 2007–2009. 
+https://ypfs.som.yale.edu/node/23713 
+(McNamara et al. 2024) McNamara, Christian M., Carey K. Mott, Salil Gupta, Greg Feldberg, 
+and Andrew Metrick. 2024. “Survey of Resolution and Restructuring in Europe, Pre- and 
+Post-BRRD.” Journal of Financial Crises 6, no. 1.  
+Survey of YPFS case studies examining 21st-century bank resolutions and restructurings in 
+Europe before and after the existence of the Bank Recovery and Resolution Directive.   
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/1  
+(Vergara 2022a) Vergara, Ezekiel. 2022a. “Association for the Guarantee of Deposits 
+Luxembourg.” Journal of Financial Crises 4, no. 2: 444–58. 
+Case study discussing the deposit guarantee scheme in Luxembourg. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/17 
+(Vergara 2022b) Vergara, Ezekiel. 2022b. “Swiss Banks’ and Securities Dealers’ Depositor 
+Protection Association.” Journal of Financial Crises 4, no. 2: 606–23. 
+Case study discussing the Swiss deposit guarantee scheme. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/27 
+ 
+ 
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+ 
+410
+Luxembourg: Kaupthing Bank Luxembourg Restructuring George

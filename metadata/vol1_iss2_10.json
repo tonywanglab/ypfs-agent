@@ -1,0 +1,35 @@
+{
+  "doc_id": "vol1_iss2_10",
+  "document_type": "lesson_learned",
+  "title": "Lessons Learned: James B. Lockhart III",
+  "authors": [
+    "Ben Henken",
+    "Dan Thompson"
+  ],
+  "abstract": null,
+  "keywords": [],
+  "publication_date": "2019-08-30T21:05:26Z",
+  "doi": null,
+  "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss2/10",
+  "volume": 1,
+  "issue": 2,
+  "document_number": 10,
+  "bepress_id": null,
+  "raw": {
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss2/10",
+    "parent_key": "14079243",
+    "context_key": "15230533",
+    "title": "Lessons Learned: James B. Lockhart III",
+    "publication_date": "2019-08-30T21:05:26Z",
+    "download_format": "pdf",
+    "download_link": "https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1022&context=journal-of-financial-crises",
+    "document_type": [
+      "lessons_learned",
+      "Lessons Learned"
+    ],
+    "author": [
+      "Ben Henken",
+      "Dan Thompson"
+    ]
+  }
+}

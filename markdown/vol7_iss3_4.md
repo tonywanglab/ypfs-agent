@@ -1,0 +1,81 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## Stijn Claessens 
+
+By Owen Heaphy 
+
+_After two decades at the World Bank, Stijn Claessens served as assistant director in the research department of the International Monetary Fund (IMF) from 2007 to 2014. From 2015 to early 2017, Claessens was senior adviser in the Division of International Finance at the Federal Reserve Board (Fed), before joining the Bank for International Settlements (BIS) as head of financial stability policy and deputy head of the monetary and economic department in 2017. Claessens left the BIS in September 2023 and is now an executive fellow with the Yale Program for Financial Stability. This Lessons Learned is based on an interview held in November 2024; the full transcript may be found here._ 
+
+## **Governments in emerging market economies should closely monitor how they access foreign financing and their balance of payments to avoid creating risks to the financial stability of their banking systems and broader economies.** 
+
+Historically, for many emerging market economies, external financing in pursuit of growth has been a double-edged sword. Policies in pursuit of economic growth can lead to multifaceted crises if a balance of payments crisis spills over and affects a country’s banking system. In the relatively low interest rate environment during the commodities boom of the 1970s, many emerging markets experienced periods of economic growth that were financed by lending from foreign creditors. However, during the early 1980s, the Volcker interest rate shock , an aggressive policy of dramatically increasing interest rates to combat high inflation, triggered major balance of payments crises for many of these countries, with interest rates peaking above 20%. 
+
+Claessens noted: 
+
+For many emerging market countries, being open to foreign capital flow is a mixed blessing. On one hand, they need external financing because they want to grow. At the same time, they’re introducing shocks or importing volatility from a global perspective. 
+
+The 1980s balance of payments crises, although fiscal in nature, often resulted in banking crises as well. Banks borrowed in foreign currency and, when there was foreign exchange rate depreciation, found that they lacked sufficient foreign assets to meet their liabilities. 
+
+Regarding the interconnectivity of fiscal and banking crises, Claessens explained: 
+
+You may have a balance of payments crisis, which is perhaps linked to a sovereign crisis, meaning the country can’t pay on the fiscal side. That in turn triggers financial stress that sometimes becomes a banking crisis. The solution is then actually quite complicated, because you must solve all these things at the same time. 
+
+
+Part of the reason emerging market economies are more prone to these “triple crises,” said Claessens, is because of their fiscal constraints. In advanced economies, fiscal authorities can typically finance the restructuring of distressed banks in local currency debt without triggering a macroeconomic fiscal crisis. Conversely, emerging economies often lack the fiscal resources to do so (as was the case during the 1980s and 1990s). Therefore, they end up requiring conditional lending from international organizations like the IMF. 
+
+Claessens also noted that the IMF is developing the integrated policy framework, a systematic approach to assist countries in selecting an appropriate policy mix for managing large and volatile capital flows and more generally preserving macroeconomic and financial stability in the face of domestic and external shocks. The framework recognizes the interactions between different vulnerabilities and policy tools (monetary policy, exchange rate management, macroprudential measures, and capital flow management measures) and acknowledges that the appropriate policy mix depends on the nature of shocks, country characteristics, and initial conditions. 
+
+The framework does not replace the IMF’s earlier policy of broad liberalization of trade, capital flows, and privatization but adds nuance and allows more flexibility tailored to the country’s particular circumstances: 
+
+Fault is a big word, but one lesson we learned from the liberalization experiences is that if you completely liberalize both domestically and externally, you set yourself up for a crisis very quickly thereafter. Asia was an example of that. There were even worse examples in Chile in the early ’70s and Mexico in the early ’90s. Mexico liberalized capital flows and within three years there was a major crisis where the banking system went completely under. 
+
+## **For new countries, foreign banking may be necessitated by domestic capacity limitations. However, policymakers should be aware of the limitations and risks of an overreliance on foreign banking without local subsidiaries.** 
+
+Following geopolitical shifts like decolonization and the end of the Soviet Union, newly independent nations often sought to restructure their banking systems with support from the IMF and the World Bank. In recalling his time at the World Bank assisting with banking system restructuring efforts across Eastern Europe, Claessens explained how the limitations of domestic banking sectors led to an influx of foreign banks: 
+
+Those [restructuring] models were interesting because we figured out that the sequence really matters. You have to do the enterprise sector first and then the banks. Now, the banks have a role in the meantime: to be the hard budget constraints and to keep loans to the enterprise sector from not exploding again. And can you restructure the banks on your own? Well, it turned out to be a very difficult proposition, because the local institutional capacity and personnel were missing to run the bank, so the only solution was typically to sell the bank to foreigners. 
+
+However, Claessens cautions that overreliance on cross-border foreign banking—without — the presence of a local subsidiary poses separate financial stability risks. He elaborated: 
+
+
+You can do foreign banking in the cross-border sense . . . or you can have a foreign bank set up a local subsidiary and that local subsidiary gives loans to the corporations in that market. I think the first is a more volatile source of funding. There’s not such a commitment to the lending. . . . Today, more of lending is through local subsidiaries, so they have a greater stake in the country. Actually, the local profitability was often quite large as well, so they wanted to stay committed at least if shocks were not too large. Of course, if you have a major shock, political or otherwise, they may pull out, but that’s less likely the norm once they have set up a subsidiary. 
+
+## **Institutional capacity can be a major constraint for central banks in new nations. As a result, these governments should take advantage of IMF and World Bank initiatives aimed at improving domestic capacity and promoting central bank independence.** 
+
+Capacity building is a key long-term priority for the IMF and the World Bank. In 1999, the two institutions launched a joint program, the Financial Sector Assessment Program (FSAP), to periodically assess the soundness of member countries’ financial sectors. FSAP reports include stress testing, reviews of banking supervision, and personnel and regulations diagnostics. 
+
+In reference to his work for the World Bank on FSAP reports and the breakdown of responsibilities between the IMF and World Bank, Claessens recalled: 
+
+I did a few cases like that for the World Bank, and it was very rewarding. The other side really appreciates the input. The World Bank tends to take the financial development and inclusion aspects. The IMF tends to take the monetary and financial stability angles, although they have, in the last 20 years, taken on more on the supervisory side as well, so it overlaps in part with the World Bank. 
+
+Particularly for central banks in new countries, improvements in institutional capacity also play an important role in promoting central bank independence. Claessens remarked: 
+
+Once the people understand the technicalities, they also become better at making the central bank independent, not through the laws in place, but just through doing the right thing at the right time. I think this is always the best way to do it. The [banking] law is only valid up to some point, but if you show the people that you add “value” and do the right thing, you gain credibility and independence in a real sense. 
+
+**Although bilateral swap lines and precautionary liquidity lines serve an important role in the global financial safety net, these arrangements are limited and hard for emerging markets to access. As a result, these countries should consider regional agreements and work with international bodies to design more accessible liquidity programs.** 
+
+During the Global Financial Crisis and the COVID-19 pandemic, the Fed increased the number of swap lines it extended to other central banks to enhance the provision of dollar liquidity. In March 2020, the Fed entered into swap agreements with nine countries, in addition to its 
+
+
+standing swap arrangements with five other major central banks.[1] These new arrangements were temporary, expiring in December 2021. Claessens commented on the Fed’s swap lines during COVID-19: 
+
+I think it’s a useful tool, but it is limited by definition to those major countries. There’s a little bit of spillover, but I wouldn’t overdo it. When you transfer money from one central bank to another, you’re getting into the second layer of risk and so on. So, then you’re back to regional agreements, which are already in place. 
+
+Claessens also spoke about another Fed liquidity program. Launched in March 2020, during severe strains in the US Treasury market resulting from the pandemic, the FIMA Repo Facility[2] permits eligible countries to exchange their Treasuries for dollar liquidity. The Fed made the facility permanent in July 2021. Claessens commented on the intentional design limitations in the FIMA Repo Facility, hinting at its unsuitability for most emerging markets: 
+
+You need to have reserves in the forms of US Treasuries. . . . I think [the repo is] a week max. It was only overnight, but then it became a week. What you would like to see is a bit of a longer period, but I think it’s not realistic to expect the Fed to do so, because they don’t want to be repo-ing every other country in the world. 
+
+Claessens also noted that concerns regarding stigma often discourage emerging market economies from using liquidity facilities specifically designed with them in mind, such as the Short-Term Liquidity Line (SLL), which the IMF launched in 2020.[3] 
+
+You mentioned . . . the contingent liquidity facilities. That was already a debate at the IMF when I was there, some 15 years ago. It’s the usual problem. It’s not that dissimilar to a discount window, with the same questions of stigma. When they were setting up the precautionary lines and the flexible credit lines, they had to think through how to make these lines available to countries, without their usage being taken as a sign that a country was weak. 
+
+In 2023, the IMF conducted a review of its precautionary liquidity mechanisms, which found the SLL attractive to member countries (despite low usage) because of several design features that sought to minimize stigma. Following this review, the IMF made changes to the SLL aimed at improving accessibility, increasing the access limit to 200% of a country’s quota and permitting its concurrent use with other IMF liquidity lines. 
+
+> 1 For the full list, see Benjamin Hoffner. 2023. “United States: Central Bank Swaps to 14 Countries, 2020.” _Journal of Financial Crises_ 5, no. 1, 509–31. https://elischolar.library.yale.edu/journal-of-financialcrises/vol5/iss1/21. 
+
+> 2 For more information regarding the FIMA Repo Facility, see Steven Kelly. 2023. “United States: FIMA Repo Facility, 2020.” _Journal of Financial Crises_ 5, no. 1, 558–79. https://elischolar.library.yale.edu/journal-offinancial-crises/vol5/iss1/23. 
+
+> 3 For more information regarding the SLL, see Carey K. Mott and Léo Brougher. 2024. “International Monetary Fund: Short-term Liquidity Line, 2020.” _Journal of Financial Crises_ 6, no. 4, 82–115. https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss4/3. 
+
+
+Dated: October 2025 YPFS Lessons Learned No. 2025–01

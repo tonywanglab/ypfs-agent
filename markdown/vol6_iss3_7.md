@@ -1,0 +1,443 @@
+## Germany: HSH Nordbank Capital Injection, 2009[1] 
+
+## _Anmol Makhija[2]_ 
+
+Yale Program on Financial Stability Case Study October 4, 2024 
+
+## **Abstract** 
+
+State-controlled HSH Nordbank AG (HSH) lost EUR 2.8 billion in 2008, mainly because of impairments to its holdings of US structured credit securities. On April 29, 2009, the German bank regulator informed HSH that it would close HSH if the owners did not recapitalize the bank to the 8% total capital ratio requirement. In June 2009, the state governments of Hamburg and Schleswig-Holstein injected EUR 3 billion (USD 3.8 billion) of capital in ordinary shares with voting rights and provided a EUR 10 billion asset guarantee, called a “risk shield,” for a 7.85% annual fee. Over the next few years, the bank underwent a restructuring and committed to reducing its balance sheet by 61%. Although the European Commission (EC) approved the interventions in 2009, it later decided that HSH should have paid the governments more for the asset guarantee. In 2011, the EC required additional remuneration for the aid to increase the dilution of the minority shareholders and improve burden sharing. On November 28, 2018, a group of private equity funds purchased HSH, including the shares held by the two state governments, for EUR 1 billion. The governments ultimately lost approximately EUR 12 billion on the capitalization and asset guarantee combined, before accounting for interest payments of EUR 4 billion for the asset guarantee and government capital contributions before 2009. 
+
+**Keywords:** capital injection, European Commission, Germany, Global Financial Crisis (GFC), HSH Nordbank 
+
+> 1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering ad hoc capital injections. A survey of all the cases in this series (Rhee, Hoffner et al. 2024) and the individual cases underlying it are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/. Rhee, Oguri et al. (2022) surveys broad-based capital injection programs. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+This case study describes the capital injection provided to HSH Nordbank (HSH) during the Global Financial Crisis (GFC). 
+
+## **Key Terms** 
+
+Purpose: To strengthen HSH Nordbank’s core capital and prevent an expensive bankruptcy and extensive job losses 
+
+The governments of the German states of Announcement February 24, 2009 Hamburg and Schleswig-Holstein Date established HSH on June 2, 2003, as the fifthlargest German Landesbank (provincial Operational Date May 20, 2009 bank), through the merger of Hamburgische Landesbank and Landesbank SchleswigDate of Final June 25, 2009 Capital Injection Holstein. In 2001, the European Commission (EC) and Germany reached an agreement to End Date November 28, 2018 abolish two state guarantees for Landesbanks after 2005 (EC 2005). The Source of Funding The states of Hamburg and decision led HSH and other Landesbanks to Schleswig-Holstein each acquire a considerable amount of funds at contributed EUR 1.5 billion favorable market conditions and take new Administrator The states of Hamburg and risks between 2001 and 2005 (Magnus et al. Schleswig-Holstein set up a 2009). In November 2006, an investor public law institution (the consortium led by US-based private equity Anstalt) to administer the company J.C. Flowers & Co. acquired a capital injection 24.14% stake in HSH for EUR 1.4 billion, and Flowers provided EUR 300 million of Size EUR 3 billion additional capital in July 2008. By December Capital Ordinary shares with voting 2008, HSH had a balance sheet of EUR 208 Characteristics rights (core Tier 1 capital) billion (EC 2009c). HSH increased its exposure to cyclical businesses and became Bail-in Terms No bail-in the world’s largest shipping financier. HSH also built a EUR 30 billion portfolio of credit Outcomes Hamburg and Schleswigsecurities and derivatives, about oneHolstein lost EUR 2.1 billion quarter of which were linked to the US on the recapitalization and EUR 10 billion on the asset subprime market. With the onset of the GFC, guarantee the market value of the bank’s US subprimelinked securities and related derivatives fell Notable Features The EC required the sharply (HSH 2008). Those impairments and government to claw-back some of the aid provided by increased loan loss provisioning in the the asset guarantee and cyclical shipping businesses caused insisted on further dilution significant losses at HSH, and the bank reported a EUR 2.8 billion net loss in 2008 (Dow Jones Global 2009). The massive capital consumption and reduced capital ratios along with the bank’s high dependency on refinancing via wholesale markets triggered rating downgrades (EC 2011b). 
+
+
+On February 24, 2009, the governments of the German states of Hamburg and SchleswigHolstein announced a EUR 3 billion (USD 3.8 billion)[3] capital injection into HSH and a EUR 10 billion asset guarantee, both administered by a new fund called the Anstalt (BBC 2009). The capital injection was in the form of ordinary shares with voting rights. Without this aid, the Federal Financial Services Authority (BaFin) would have had to close HSH, since it would no longer meet the 8% total capital ratio requirement (Schleswig-Holstein Parliament 2009a, 14–15; 2009b, 1). On May 29, 2009, the EC approved the aid temporarily for financial stability (EC 2009a). Figure 1 provides an overview of HSH Nordbank’s ownership structure before and after the capital injection. 
+
+[FIGURE id=vol6_iss3_7_f1 type=diagram page=5 label="Figure 1" file=figure_1.png caption="HSH Nordbank—Ownership Structure Before and After the 2009 Capital Injection"]
+### **Figure 1: HSH Nordbank—Ownership Structure Before and After the 2009 Capital Injection**
+
+|_Shareholders_|_Pre-Capital injection_|_Post-Capital injection_|
+|---|---|---|
+|City State of Hamburg|30.4%|10.9%|
+|State of Schleswig-Holstein|29.1%|10.4%|
+|Savings banks Sparkassen-Giroverband für Schleswig-Holstein|13.2%|4.7%|
+|Schleswig-Holsteinische Sparkassen- Asset management|1.6%|0.6%|
+|Nine trusts advised by Flowers|25.7%|9.2%|
+|The Anstalt(jointlyowned byHamburgand Schleswig-Holstein)|-|64.2%|
+||||
+
+
+
+_Source: EC 2009c._ 
+
+In September 2011, after carefully considering the aid, the EC decided that the minority shareholders were not sufficiently diluted and required HSH to provide the Anstalt with an additional EUR 500 million in shares and an additional annual premium of 3.85% on the guaranteed amount. The EC stated that this additional remuneration would sufficiently dilute the minority shareholders and improve burden sharing. The EC also required HSH to reduce its balance sheet by 61% (EC 2011a). The bank’s restructuring plan established an internal restructuring unit and a core bank focused on corporate and private banking, real estate, and the savings bank business in Northern Germany (EC 2011b). 
+
+On November 28, 2018, a group of private equity funds purchased HSH Nordbank for EUR 1 billion (Schleswig-Holstein Parliament 2018). Given that the state governments of Hamburg and Schleswig-Holstein held an 85.5% stake in HSH after the EUR 3 billion capital injection, they ultimately lost approximately EUR 2.1 billion on the recapitalization. The states also paid the bank EUR 10 billion, the full amount of the asset guarantee, to cover losses that the bank realized before its privatization in 2018 (Hamburg Tax Authority 2021). Since 2009, HSH Nordbank paid EUR 4 billion in guarantee fees to the Anstalt for the asset guarantee (Hamburg Commercial Bank 2019). Figure 2 provides a timeline of important events for HSH Nordbank. 
+
+> 3 According to BIS, EUR 1 = USD 1.28 on February 24, 2009. 
+
+
+[FIGURE id=vol6_iss3_7_f2 type=diagram page=6 label="Figure 2" file=figure_2.png caption="Timeline of Important Events—HSH Nordbank AG"]
+### **Figure 2: Timeline of Important Events—HSH Nordbank AG**
+
+|Date|Event|
+|---|---|
+|Nov. 2008|HSH announces that it will receive up to EUR 30 billion in guarantees from SoFFin.|
+|Feb. 24, 2009|After HSH reports a large loss of EUR 2.8 billion for FY2008, the German states of Hamburg<br>and Schleswig-Holstein announce a EUR 3 billion capital injection and a EUR 10 billion risk<br>shield for HSH.|
+|April 29, 2009|BaFin informs HSH that it would have to close HSH if the owners did not recapitalize the<br>bank to the 8% total capital ratio requirement.|
+|April 30, 2009|Germany notifies EC regarding the State Aid.|
+|May 29, 2009|EC temporarily approves recapitalization and risk shield for purposes of financial stability.|
+|Sept. 2009|HSH submits a restructuring plan to the EC.|
+|Oct. 23, 2009|EC opens investigation into the HSH aid package, which is not unusual.|
+|Sept. 6, 2011|HSH reduces the risk shield ceiling to EUR 7 billion from EUR 10 billion.|
+|Sept. 20, 2011|The EC officially ends State Aid proceedings and demands commitments from HSH to<br>improve burden sharing, including additional remuneration for the aid and a 61% balance<br>sheet reduction.|
+|May. 22, 2013|Germany notifies the EC of the intention of Schleswig-Holstein and Hamburg to re-increase<br>the ceiling amount of the risk shield from EUR 7 billion back to EUR 10 billion.|
+|Jun. 21, 2013|The EC informs Germany that it considered the re-increase of the ceiling amount of the<br>guarantee by EUR 3 billion as new aid, which it temporarily approved.|
+|Oct. 19, 2015|Consulting with the EC, HSH determines it will settle the state guarantee and split activities<br>between a holding company and operating company, and subsequently privatize the<br>operating company.|
+|Nov. 28, 2018|HSH sells to a group of private equity firms. The state governments estimate the losses on<br>all aid provided range from EUR 10.8 billion–EUR 14 billion.|
+
+
+
+_Source: Author’s analysis._ 
+
+## **Summary Evaluation** 
+
+Before the capital injection, Fitch Ratings downgraded HSH Nordbank’s individual rating given its sizeable losses and wholesale funding base. However, in the same report, Fitch affirmed HSH’s long-term issuer default rating, given that Fitch expected Hamburg and Schleswig-Holstein to provide aid to the bank (Dow Jones Global 2009). 
+
+The EC conditionally approved the recapitalization and asset guarantee in May 2009 but said at the time that it was unsure about the valuations the states had relied upon (EC 2009a). It inspected the valuation of the recapitalization and risk shield to see if they were too high and if the EC should impose some penalties to compensate for that (EC 2009c). In the end, the EC imposed a penalty for the aid (EC 2011a). 
+
+
+In a speech announcing the measure, the mayor of Hamburg categorized the State Aid as a solid sustainable result that would save a vital financier of important industrial sectors in the northern German region (BBC 2009). Schleswig-Holstein's minister-president called it a difficult decision and said he would not rule out the Financial Market Stabilization Fund’s (SoFFin’s) participation in future aid (BBC 2009). 
+
+The vice president of the ruling political party of Schleswig-Holstein said the aid would quasi-bankrupt the state, while the economics minister of the state resigned, since he believed the aid would not be enough to stabilize HSH (Dow Jones 2009b). The former economics minister of Schleswig-Holstein said that HSH’s management had insufficient risk provisioning and its economic forecasts were too optimistic, so the capital injection would be used up by the end of 2009 (FT 2009). A few market participants and lawmakers also predicted that HSH would require more aid (Global Capital 2009). 
+
+Following the final State Aid decision in September 2011, HSH Nordbank’s minority shareholders appealed for the annulment of the State Aid decision in the EU General Court. However, the General Court dismissed the appeal, agreeing with the EC that the original structure of the asset guarantee did not impose enough of the burden on HSH and its minority shareholders (Werner 2016). 
+
+In 2017, Martin Hellwig, director of Max Planck Institute for Research on Collective Goods, presented a paper to the European Parliament that stated that the EUR 3 billion recapitalization and EUR 10 billion risk shield was not sufficient to solve the bank’s hidden solvency problems and create a successful restructuring (Hellwig 2017). 
+
+Following HSH Nordbank’s privatization in November 2018, Fitch Ratings upgraded its longterm viability, reflecting the bank’s higher asset quality and plans to change its business model (Fitch Ratings 2018). 
+
+
+|**Context: Germany, HSH Nordbank, 2008–2009**|**Context: Germany, HSH Nordbank, 2008–2009**|
+|---|---|
+|**Assets**|**EUR 208.4 billion**as of Dec. 31, 2008<br>**EUR 174.5 billion**as of Dec. 31, 2009|
+|**Liabilities**|**EUR 206.4 billion**as of Dec. 31, 2008<br>**EUR 170 billion**as of Dec. 31, 2009|
+|**Deposits**|**EUR 52.5 billion**as of Dec. 31, 2008<br>**EUR 49.8 billion**as of Dec. 31, 2009|
+|**Capital Ratio (Tier 1)**|**5.1%**as of Dec. 31, 2008<br>**10.5%**as of Dec. 31, 2009|
+|**Nonperforming Loans**|Unknown|
+|**Market Share**|Unknown|
+|**Banking System, % of GDP**|**115.7%**as of 2008<br>**119%**as of 2009|
+|_Sources: Bloomberg; World Bank Global Financial Development Database; World_<br>_Bank Deposit Insurance Dataset._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: To strengthen HSH Nordbank’s core capital and prevent a failure that would have been expensive for the states, the City State of Hamburg and the State of Schleswig-Holstein granted a EUR 3 billion capital injection and a EUR 10 billion second-loss asset guarantee.** 
+
+State-owned HSH Nordbank reported a EUR 2.8 billion loss in 2008, mainly from large loan loss provisions and write-downs. The Federal Financial Services Authority (BaFin) informed HSH on April 29, 2009, that it would close the bank if the owners, the governments of Hamburg and Schleswig-Holstein, did not achieve the 8% total capital ratio requirement. HSH’s bankruptcy would have been expensive for the states, since approximately EUR 36 billion of the bank’s current liabilities were covered by the states under two unlimited guarantees, in line with their ownership of the bank when it was formed through a merger in 2003. In addition, HSH’s failure would have had serious economic effects on the Northern Germany regional economy as a result of job losses and credit supply constraints arising from its failure (Schleswig-Holstein Parliament 2009a; 2009b). 
+
+The two states created a plan to ensure that the bank would meet its regulatory minimum while minimizing the budgetary impact, which required a capital injection of EUR 3 billion and an asset guarantee of EUR 10 billion. The asset guarantee limited the bank’s losses on those assets and reduced the amount of capital the bank had to use to fund them. 
+
+The finance minister of Schleswig-Holstein said that Flowers, a US private equity firm, was considering a limited participation in the capital injection (Reuters 2009a). However, Flowers and the other minority owners of HSH Nordbank ultimately did not participate in the capital injection (EC 2009c). 
+
+The EC, Germany, and minority shareholders disagreed on the validity of certain assumptions used during the valuation of HSH Nordbank’s recapitalization. The EC stated in its preliminary opinion that the valuation of the bank was too optimistic and did not take into account several important factors, such as the need to restructure the bank’s business, the market for its shipping and commercial business, and the bank’s S&P rating downgrade from A to BBB+. The EC stated that if the shares were properly valued, the minority shareholders would have been completely diluted. In response to this, Germany and the minority shareholders pointed out that the extent of the share dilution depended on parameters chosen during a valuation of the bank conducted by PricewaterhouseCoopers (PwC). Germany and the minority shareholders stated that the PwC valuation was in line with the accepted valuation standards and the assumptions that the bank would regain its S&P A rating in 2013, the risk shield would be implemented, and markets would normalize in 2011. In its final State Aid decision, the EC held its view that these assumptions were too optimistic (EC 2011b). 
+
+Furthermore, the minority shareholders pointed out that the EC had not considered the capital provided by the minority shareholders in the months preceding the government 
+
+
+capital injection. However, the EC stated that the capital provided by the minority shareholders in 2008 was a result of investment decisions and not a contribution to burden sharing in the context of the aid provided through the government capital injection. The minority shareholders also argued that the valuation of the bank should not be considered as State Aid since it was taken during the shareholders’ meeting; however, the EC disagreed with this since the majority shareholders were the state governments, which acted in their function as public bodies (EC 2011b). 
+
+The EC also expressed doubts regarding the compatibility of the risk shield with the impaired asset communication (IAC), since a small portion (less than 7%) of the shielded portfolio was considered impaired under the IAC. The EC particularly questioned the impaired nature of the portfolio, since more than 50% of the bank’s total assets were included under the risk shield, which was unusually high. The EC also questioned the valuation of the structured credit part of the portfolio and claimed that the bank relied on assumptions pertaining to the rate used to discount cash flows and the treatment of correlation between assets included in the portfolio, which were not compatible with the IAC. The EC retained external advisers and experts from the European Central Bank to conduct an asset valuation based on the current market value and the assets’ real economic value based on their underlying cash flows. Germany, however, argued that the IAC should not be applicable in this case since the risk shield was designed and pre-notified before the publication of the IAC. However, the EC disagreed with this view since the risk shield was adopted after the IAC was published (EC 2009c). 
+
+When the EC gave its final approval for the State Aid, it imposed an additional remuneration for the risk shield in the form of EUR 500 million in shares and an additional annual premium of 3.85% on the guaranteed amount. This was done to ensure compliance of the risk shield with EU State Aid rules and that minority shareholders bear a fair share of the restructuring costs (EC 2011a). The EC stated that the additional remuneration would provide for adequate burden sharing and mitigate the flaws arising from the PwC valuation by sufficiently diluting the minority shareholders’ stakes. The EC also stipulated that if HSH’s common equity ratio declines below the minimum common equity ratio (10%) owing to the additional guarantee premium of 3.85%, the Anstalt would waive part of the guarantee fee to ensure HSH’s common equity ratio remains above the minimum common equity ratio, in return for the provision of a debtor warrant (EC 2011b). 
+
+## **2. Part of a Package: HSH Nordbank received a EUR 30 billion debt guarantee from SoFFin in November 2008 and a EUR 10 billion asset guarantee from the states of Hamburg and Schleswig-Holstein.** 
+
+On October 17, 2008, Germany created the SoFFin to support German financial institutions through guarantees, recapitalizations, and asset purchases (Simon 2020). In November, SoFFin agreed to guarantee up to EUR 30 billion in new debt issued by HSH Nordbank (German Government 2008, sec. 6). The debt guarantee was conditional on the bank raising 
+
+
+its Tier 1 capital ratio to 8%[4] from 7.4% by February 2009. HSH was allowed to access up to EUR 10 billion of this guarantee before it raised its Tier 1 capital ratio (Handelsblatt 2008). The total amount guaranteed under this facility peaked at EUR 24 billion (FMSA 2019). The guarantee facility expired on July 23, 2012 (FMSA 2023). 
+
+## **Asset Guarantee (Risk Shield)** 
+
+Along with the capital injection, the states of Hamburg and Schleswig-Holstein announced a EUR 10 billion asset guarantee, which they called a risk shield (Schleswig-Holstein Parliament 2009a; Schleswig-Holstein Parliament 2009b). The asset guarantee protected HSH from losses arising out of a portfolio of EUR 172 billion in assets. By transferring risk to the authorities, the guarantee also lowered the bank’s risk-weighted assets, improving its capital ratios. Under the terms of the asset guarantee, HSH covered the first EUR 3.2 billion in losses on the shielded portfolio, the Anstalt covered losses above EUR 3.2 billion and less than EUR 13.2 billion, and HSH covered any losses above EUR 13.2 billion. The asset guarantee was administered by the Anstalt, with the states bearing the guarantee equally, while the minority shareholders did not provide funding for it. HSH could cancel the asset guarantee at any time, but until December 31, 2013, the cancellation was limited. According to the contract on the provision of the asset guarantee, HSH initially paid an annual premium of 4 percent on the guarantee. However, following an EC decision in September 2011, the asset guarantee contract was amended and HSH Nordbank was required to pay an additional annual premium of 3.85% on the guaranteed amount assessed retroactively from April 1, 2009, and on a pro rata basis for parts of the financial year (EC 2011b). The EC also required HSH to make an additional EUR 500 million payment to the Anstalt. Through 2011, HSH canceled EUR 3 billion of the guarantee to reduce the bank’s fee payments, and BaFin indicated that it would not object to the termination (EC 2018). 
+
+However, following the shipping crisis in the second and third quarters of 2012, HSH’s capital ratios deteriorated. The EC approved the provisional restoration of the guarantee back up to EUR 10 billion in 2013 (EC 2013; Magnusson 2012). In May 2016, the EC gave its final approval for restoring the guarantee to EUR 10 billion under the condition that the bank had to be privatized by February 2018 or wound down (EC 2018). 
+
+By 2018, the bank had recorded substantial credit losses on the shielded portfolio and had fully drawn down the EUR 10 billion guaranteed from the Anstalt; the states of Hamburg and Schleswig-Holstein financed those payments to the bank through bonds issued by the Anstalt and later transferred to the state budgets (Hamburg Tax Authority 2021). 
+
+> 4 On December 12, 2008, after HSH Nordbank received the debt guarantee from SoFFin, the European Commission gave SoFFin approval to require a Tier 1 capital ratio of 7% instead of 8% for debt guarantees. However, since HSH Nordbank received its guarantee earlier in November 2008, SoFFin continued to require a Tier 1 capital ratio of 8% for the HSH Nordbank debt guarantee. 
+
+
+## **3. Legal Authority: The state parliaments of Hamburg and Schleswig-Holstein approved the aid and received additional approval from the EC.** 
+
+On February 24, 2009, the governments of Hamburg and Schleswig-Holstein negotiated a treaty to provide financial assistance to HSH Nordbank in the form of a EUR 3 billion capital injection and a EUR 10 billion asset guarantee (BBC 2009). The parliament of Hamburg approved this measure on April 1, 2009, and the parliament of Schleswig-Holstein approved the aid on April 3, 2009. 
+
+On April 30, 2009, Germany notified the EC regarding the State Aid measures, and on May 29, 2009, the EC approved them temporarily for financial stability reasons and announced that it would examine the asset guarantee (EC 2009a). An EC report from October 22, 2009, stated that after examining the information submitted by the German authorities, the EC had doubts regarding the compatibility of these measures with the common market and had decided to open an investigation into the aid under article 88(2) of the EC Treaty (EC 2009b). In November and December 2009, the German authorities, HSH, and the minority shareholders expressed their views regarding the valuation of the State Aid to the EC (EC 2011b). On September 20, 2011, the EC approved the capital injection and asset guarantee, conditional on the bank’s commitment to reduce its balance sheet by 61% and the payment of higher remuneration for the State Aid (EC 2011a). 
+
+## **4. Administration: The governments of Hamburg and Schleswig-Holstein structured the capital injection and used the Anstalt to administer the capital injections.** 
+
+The Anstalt was established as a joint legal institution under Hamburg public law to administer the capital injection and provide the asset guarantee. The states of Hamburg and Schleswig-Holstein each held a 50% share of the Anstalt’s assets (Schleswig-Holstein Parliament 2009a, 33). 
+
+The Anstalt was authorized to: 
+
+- Acquire and dispose of shares in HSH 
+
+- Assume guarantees of up to EUR 10 billion 
+
+- Take loans up to EUR 3 billion to purchase shares in HSH 
+
+- Take additional loans up to EUR 500 million, if HSH uses the guarantees 
+
+- Take additional loans up to EUR 1 million to commence business activities (Schleswig-Holstein Parliament 2009a) 
+
+The Anstalt therefore had the power to issue bonds for the capital injection and asset guarantee. The Anstalt had an institutional support assembly consisting of two members appointed by the tax department of Hamburg and two members appointed by SchleswigHolstein’s Minister of Finance. The institutional support assembly appointed two managing 
+
+
+directors responsible for running the Anstalt and reporting to the institutional support assembly regarding business operations regularly. 
+
+PwC helped establish the price at which the Anstalt purchased shares of HSH. 
+
+## **5. Governance: The Anstalt reported to the tax authority of Hamburg and the Ministry of Finance of Schleswig-Holstein.** 
+
+The Anstalt had to provide quarterly reports regarding its business activities to subcommittees of the parliaments of Hamburg and Schleswig-Holstein. The supervisors had the right to inspect the Anstalt’s operations, documents, annual financial statements, economic management, and management reports (Schleswig-Holstein Parliament 2009a). 
+
+## **6. Communication and Disclosure: The lawmakers from Hamburg and SchleswigHolstein communicated details about the program through interviews, and the EC issued several press releases regarding the program.** 
+
+When the states of Hamburg and Schleswig-Holstein announced the capital injection, the mayor of Hamburg called it a solid sustainable result that would save an important financier of industrial sectors in the region. In the announcement, Schleswig-Holstein's ministerpresident called it a difficult decision and said he would not rule out SoFFin’s participation in future aid (BBC 2009). 
+
+On May 29, 2009, the EC issued a press release outlining the aid’s temporary authorization for reasons of financial stability, and on October 23, 2009, the EC also announced it had opened an in-depth investigation into the aid package under the EC Treaty State Aid rules, which was standard procedure given the size of the interventions (EC 2009b). On September 20, 2011, the EC gave its final approval for the capital injection, conditional on restructuring the bank, after it concluded the in-depth investigation (EC 2011a). 
+
+The EC also initially noted that HSH and the German authorities did not provide sufficient ex ante transparency and disclosure to the EC regarding the risk shield, in line with the Impaired Assets Communication (EC 2009c). However, the EC stated in its 2011 decision on the aid that it was satisfied with the revised disclosure Germany had provided (EC 2011b). 
+
+## **7. Treatment of Creditors and Equity Holders: The EC prohibited HSH from making any payments to profit-related equity instruments until the end of 2014.** 
+
+The year before the recapitalization, in July 2008, the bank had raised EUR 962 million in mandatory convertible silent capital from the minority shareholders, including EUR 300 million from Flowers. Although the EC approved the deal in May 2009, it said at the time that the owners who did not participate in the recapitalization benefited disproportionately, since they were not completely diluted (EC 2009c). The EC deliberated on the State Aid for two years, as described in Key Design Decision No. 1, Purpose, before it gave the final approval for the State Aid on September 20, 2011. In its final State Aid decision, the EC required HSH to pay an additional EUR 500 million in shares to the Anstalt for the provision of the asset guarantee used to reduce HSH’s risk-weighted assets (RWA) (EC 2011a). 
+
+
+Following the final State Aid decision, the bank’s minority shareholders appealed for an annulment of the State Aid decision in the EU General Court. However, the General Court dismissed the appeal since the EC decision created proper burden sharing (Werner 2016). 
+
+The institution was not required to bail-in any debt or equity holders because of the capital injection. The EC prohibited HSH from paying any dividends at least until January 1, 2015, and between 2015-2016, dividends could not exceed 50% of the bank’s annual surplus to ensure State Aid was kept to a minimum. 
+
+Until December 31, 2014, the EC also prohibited HSH from making any payments to profitrelated equity instruments, including hybrid financial instruments and profit participation certificates. The EC also required that these hybrid instruments participate in any business losses as long as they are not carried forward from previous years (EC 2011b). 
+
+## **8. Capital Characteristics: The Anstalt purchased ordinary shares with voting rights to strengthen the bank’s core Tier 1 capital ratio.** 
+
+On April 29, 2009, BaFin informed HSH that it would close HSH pursuant to paragraph 47 of the German Banking Act if the owners did not recapitalize the bank to the 8% total capital ratio requirement set under Section 2(6) of the Solvency Regulation, of which at least 4% had to be core capital (EC 2009c). 
+
+To increase the core capital ratio, the Anstalt acquired core Tier 1 capital and provided the asset guarantee. The asset guarantee, by reducing the bank’s exposure to credit risk, allowed the bank to lower its estimated RWA, thereby raising its risk-weighted capital ratios. The act authorizing the rescue measures stated that from a fiscal point of view, using a combination of the capital injection and asset guarantee was budget friendly (Schleswig-Holstein Parliament 2009a, 19). 
+
+## **9. Size and Source of Funding: The government injected EUR 3 billion in HSH Nordbank.** 
+
+HSH’s core capital ratio was 2.2 percentage points below the international standard for minimum core capital ratio of 7% after taking the net loss of EUR 2.8 billion for the 2008 financial year. 
+
+The states of Hamburg and Schleswig-Holstein also intended to achieve a yearly dividend of 10%. Given that HSH’s business plan did not project sufficient profits for the period 20092012 to pay a 10% dividend on all ordinary shares, the issue price of the new ordinary shares purchased during the capital injection was discounted by 10% for the period 2009-2012 (EC 2011b). The present value of the 10% dividend payment for the period 2009-2012 amounted to EUR [650-800] million or EUR [3-6] per share. The price for the new shares was therefore fixed at EUR 19 per share (EUR [19-28] minus EUR [3-6]), and the Anstalt acquired just under 158 million new ordinary shares. 
+
+The Anstalt injected cash into the bank. The act authorizing the aid and establishing the Anstalt also gave the Anstalt the power to issue bonds to raise cash for the capital injection 
+
+
+and asset guarantee (Schleswig-Holstein Parliament 2009a). The Anstalt’s liabilities arising from the bond issuance were guaranteed equally by the states of Hamburg and SchleswigHolstein as partial debtors and by means of guarantees to the bondholders. 
+
+## **10. Timing: The bank’s management requested the capital injection on February 17, 2009, and the capital was completely paid in by June 2009.** 
+
+During the 2008 financial year, HSH reported a EUR 2.8 billion loss due to write-downs in its credit investment portfolio and its exposure to Icelandic banks and Lehman Brothers (Dow Jones Global 2009). In November 2008, SoFFin granted HSH a guarantee covering new debt issuances for up to EUR 30 billion to improve HSH’s liquidity after the bankruptcy of Lehman Brothers increased refinancing costs. On February 17, 2008, the bank’s management proposed that the bank’s capital should be increased by EUR 3 billion, and that a EUR 10 billion asset guarantee should be established by the bank’s owners (Dow Jones 2009a). On February 24, 2009, the states of Hamburg and Schleswig-Holstein announced they had signed a treaty to provide the requested aid. The parliaments of Hamburg and SchleswigHolstein ratified the treaty on April 1 and April 3, 2009, respectively (Dow Jones 2009c; Reuters 2009b). 
+
+On April 30, 2009, Germany notified the EC regarding the State Aid measures, and on May 29, 2009, the EC approved them temporarily for reasons of financial stability. The capital increase of EUR 3 billion was completely paid in by June 2009 (HSH 2009). After considering the valuation of the capital injection carefully, the EC approved the capital injection permanently in September 2011. 
+
+## **11. Restructuring: The bank was required to restructure its business as a condition for receiving aid and committed to reducing its balance sheet by 61%.** 
+
+The bank had begun restructuring before receiving capital. The bank’s managing board had announced a week before the state governments announced the capital injection that it planned to reduce the number of full-time employees by 1,100 over three years and dismantle its credit investment portfolio, international leveraged buyouts business, and US real estate business. The bank’s managing board also announced that the bank would withdraw operations from container financing, refinancing of leasing companies, conventional energies in Europe, and corporate business in Asia and Scandinavia (Dow Jones 2009a). 
+
+The act that authorized the capital injection and the EC decision approving it required that the bank undertake restructuring. The EC temporarily approved the aid in May 2009 and required the bank to submit a restructuring plan within three months. On September 1, 2009, the bank’s restructuring plan was submitted to the EC. The bank committed to reducing its balance sheet by 61% to shrink its funding needs and increase its long-term viability (EC 2011a). 
+
+
+## **12. Treatment of Board and Management: Hamburg public prosecutors filed criminal charges against all former members of the bank’s board of directors.** 
+
+In November 2008, HSH CEO Hans Berger resigned following the bank’s negative results that year (HSH 2011). In April 2009, the bank also dismissed a member of its management board, Frank Roth, and pressed criminal charges against him for leaking confidential strategy documents (HSH 2012). 
+
+In 2013, Hamburg public prosecutors charged the former members of HSH’s board of directors in relation to a transaction called Omega 55, which constituted an accounting fraud and caused a EUR 500 million loss at the bank (Reuters 2013). In June 2019, five former directors settled the charges by paying fines ranging from EUR 500,000 to EUR 1.5 million (Damyanova 2019). 
+
+## **13. Other Conditions: The EC imposed a compensation cap of EUR 500,000.** 
+
+The EC said it would consider cash remuneration exceeding EUR 500,000 to its bodies, employees, and essential agents inappropriate if HSH was unable to pay dividends (EC 2011b). 
+
+## **14. Regulatory Relief: Research did not indicate any regulatory relief granted to facilitate the injection.** 
+
+There was no regulatory relief to facilitate the injection. 
+
+## **15. Exit Strategy: The act authorizing the capital injection did not set a predetermined end date.** 
+
+At the earliest, the act authorizing the capital injection could be terminated by either Hamburg or Schleswig-Holstein by December 31, 2013, by giving a one-year notice. On October 19, 2015, the Minister-President of Schleswig Holstein, First Mayor of Hamburg, and European Commissioner in charge of competition reached an agreement to split HSH into a holding company and an operating subsidiary and privatize the operating subsidiary (EC 2015). An EC decision on May 2, 2016, required the states of Hamburg and SchleswigHolstein to sell HSH by February 28, 2018, to allow HSH to return to viability without requiring further State Aid. On November 26, 2018, the European Commissioner in charge of competition announced that the sale of HSH to a consortium of private equity funds led by Flowers and Cerberus complied with the requirements set in the EC decision on aid-free privatization (EC 2018). On November 28, 2018, the consortium of private equity funds purchased HSH Nordbank for EUR 1 billion (Schleswig-Holstein Parliament 2018). 
+
+
+## **References and Key Program Documents** 
+
+## **Summary of Program** 
+
+(FMSA 2019) Bundesanstalt für Finanzmarktstabilisierung (FMSA). 2019. “Historical Overview of Financial Market Stabilization Fund FMS (SoFFin) Measures.” December 31, 2019. 
+
+_Table published by the FMSA providing a historical overview of SoFFin measures_ . https://elischolar.library.yale.edu/ypfs-documents/11027 
+
+(FMSA 2023) Bundesanstalt für Finanzmarktstabilisierung (FMSA). 2023. “Overview of Measures of the FMS (in € Bn).” 2023. 
+
+_Webpage detailing measures the FMSA undertook since October 2008, accessed March 21, 2023_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1237 
+
+## **Implementation Documents** 
+
+(Schleswig-Holstein Parliament 2018) Schleswig-Holstein County Parliament. 2018. “Completion of the Privatization of HSH Nordbank—Sale of the Holdings of the Country at HSH Nordbank AG.” Printed matter 19/1083, November 27, 2018. 
+
+_Report outlining the privatization process for HSH Nordbank AG (in German)_ . https://elischolar.library.yale.edu/ypfs-documents2/1547 
+
+## **Legal/Regulatory Guidance** 
+
+(German Government 2008) German Government. 2008. Financial-Market Stabilisation Fund Act—FMStFG. October 17, 2008. 
+
+_Act on the Establishment of a Financial-Market Stabilisation Fund during the GFC (in German)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2779 
+
+(Schleswig-Holstein Parliament 2009a) Schleswig-Holstein Parliament. 2009a. Draft Act on the State Treaty between Hamburg and Schleswig-Holstein on the Establishment of “HSH Finanzfonds AöR”. February 27, 2009. 
+
+_Draft law on the State Treaty between Hamburg and Schleswig-Holstein on the establishment of “HSH Finanzfonds AöR” and recapitalization of HSH Nordbank (in German)_ . https://elischolar.library.yale.edu/ypfs-documents2/1239 
+
+(Schleswig-Holstein Parliament 2009b) Schleswig-Holstein Parliament. 2009b. Act on the State Treaty between Hamburg and Schleswig-Holstein on the Establishment of “HSH Finanzfonds AöR”. March 24, 2009. 
+
+_Law on the State Treaty between Hamburg and Schleswig-Holstein on the establishment of “HSH Finanzfonds AöR” and recapitalization of HSH Nordbank (in German)_ . https://elischolar.library.yale.edu/ypfs-documents2/2236 
+
+
+## **Media Stories** 
+
+(BBC 2009) BBC Monitoring European (BBC). 2009. “German Bank Gets Financial Aid from Regional Governments.” February 24, 2009. 
+
+_News article discussing EUR 3 billion capital injection for HSH Nordbank_ . https://elischolar.library.yale.edu/ypfs-documents2/1240 
+
+(Damyanova 2019) Damyanova, Vanya. 2019. “Ex-HSH Nordbank CEO Fined €1.5M by Hamburg Court to Settle Breach of Trust Case.” S&P Global Market Intelligence, June 7, 2019. 
+
+_News article discussing lawsuit against former directors at HSH Nordbank_ . https://elischolar.library.yale.edu/ypfs-documents2/1241 
+
+(Dow Jones 2009a) Dow Jones International News (Dow Jones). 2009a. “UPDATE: HSH Nordbank Decision on Alignment, Cap Boost Next Wk.” February 17, 2009. _News article discussing HSH Nordbank’s management proposing a EUR 3 billion recapitalization and EUR 10 billion asset guarantee_ . https://elischolar.library.yale.edu/ypfs-documents2/1242 
+
+(Dow Jones 2009b) Dow Jones International News (Dow Jones). 2009b. “German State Econ Min Quits Over HSH Nordbank Response-Report,” March 29, 2009. 
+
+_News article mentioning Schleswig-Holstein’s Economic minister’s resignation over government’s approval of aid for HSH Nordbank_ . https://elischolar.library.yale.edu/ypfs-documents2/1250 
+
+(Dow Jones 2009c) Dow Jones International News (Dow Jones). 2009c. “UPDATE: HSH Nordbank: Owners Have OKd Cap Hike and Guarantees.” April 3, 2009. _News article mentioning Schleswig-Holstein government’s approval of aid for HSH Nordbank_ . https://elischolar.library.yale.edu/ypfs-documents2/1548 
+
+(Dow Jones Global 2009) Dow Jones Global Equities News (Dow Jones Global). 2009. “Fitch Downgrades HSH Nordbank’s Individual Rating to ‘D/E’; Affirms LT IDR at ‘A.’” February 19, 2009. 
+
+_News article discussing rating downgrade for HSH Nordbank and its Tier 1 capital ratio_ . https://elischolar.library.yale.edu/ypfs-documents2/1246 
+
+(FT 2009) Financial Times Deutschland (FT). 2009. “Financial Times Deutschland: Marnette Expects HSH Nordbank to Make More Losses.” April 6, 2009. _Schleswig-Holstein’s economic minister evaluates the capital injection_ . https://elischolar.library.yale.edu/ypfs-documents2/1254 
+
+(Global Capital 2009) Global Capital. 2009. “States Bypass SoFFin with Eu13bn HSH BailOut.” February 27, 2009. 
+
+_News article evaluating the capital injection and asset guarantee provided to HSH Nordbank_ . https://elischolar.library.yale.edu/ypfs-documents2/1255 
+
+
+(Handelsblatt 2008) Handelsblatt. 2008. “Handelsblatt: HSH Plans State-Guaranteed Bond Issue.” November 27, 2008. 
+
+_News article discussing SoFFin’s EUR 30 billion bond guarantee for HSH Nordbank_ . https://elischolar.library.yale.edu/ypfs-documents2/1256 
+
+(Magnusson 2012) Magnusson, Niklas. 2012. “HSH Nordbank’s Owners Willing to Replenish Lender’s Guarantees.” Bloomberg, October 29, 2012. 
+
+_HSH Nordbank AG’s main owners, the German federal states of Hamburg and SchleswigHolstein, willing to replenish the guarantees as the bank struggles with a shipping industry crisis_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1257 
+
+(Reuters 2009a) Reuters News (Reuters). 2009a. “Flowers Mulls Joining in HSH Capital Hike—Minister.” February 23, 2009. 
+
+_News article discussing JC Flowers’ consideration of participating in the capital injection_ . https://elischolar.library.yale.edu/ypfs-documents2/1258 
+
+(Reuters 2009b) Reuters News (Reuters). 2009b. “Hamburg Parliament Agrees to HSH Savings Measures.” April 1, 2009. 
+
+_News article discussing Hamburg parliament’s approval of aid for HSH Nordbank_ . https://elischolar.library.yale.edu/ypfs-documents2/1261 
+
+(Reuters 2013) Reuters News (Reuters). 2013. “UPDATE 1-Rescued German Bank HSH’s Former Board Go on Trial.” July 24, 2013. 
+
+_News article discussing criminal charges against HSH Nordbank’s board of directors_ . https://elischolar.library.yale.edu/ypfs-documents2/1263 
+
+## **Press Releases/Announcements** 
+
+(EC 2009a) European Commission (EC). 2009a. “State Aid: Commission Endorses Rescue Aid for German HSH Nordbank.” Press release no. IP/09/854, May 29, 2009. 
+
+_EC press release announcing initial provisional approval of State Aid for HSH Nordbank_ . https://elischolar.library.yale.edu/ypfs-documents2/1265 
+
+(EC 2009b) European Commission (EC). 2009b. “State Aid: Commission Opens in-Depth Investigation into Aid Package for German HSH Nordbank AG.” Press release no. IP/09/1577, October 23, 2009. 
+
+_EC press release announcing the launch of its investigation into the aid package for German HSH Nordbank AG_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1266 
+
+
+(EC 2011a) European Commission (EC). 2011a. “State Aid: Commission Approves Restructuring of HSH Nordbank, Subject to Conditions.” Press release no. IP/11/1047, September 20, 2011. 
+
+_The EC announces its approval of restructuring aid for HSH Nordbank consisting of a capital injection of EUR 3 billion, an asset guarantee of EUR 10 billion, and liquidity guarantees amounting to EUR 17 billion_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2632/ 
+
+(EC 2013) European Commission (EC). 2013. “State Aid: Commission Approves the Provisional Restoring to Former Level of a Guarantee of German Bank HSH Nordbank.” Press release no. IP/13/589, June 21, 2013. 
+
+_Press release announcing EC’s approval of the plan to provisionally restore the state guarantee_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1273 
+
+(EC 2015) European Commission (EC). 2015. “Statement by Commissioner Vestager Following Agreement in Principle with German Authorities on State Aid Procedure Concerning HSH Nordbank AG.” Statement /15/5866, October 19, 2015. 
+
+_Press release announcing EC agreement in principle of HSH Nordbank’s privatisation and authorization for increasing the risk shield ceiling by EUR 3 billion_ . https://elischolar.library.yale.edu/ypfs-documents2/1275 
+
+(EC 2018) European Commission (EC). 2018. “State Aid: Commission Approves Aid-Free Privatisation of German HSH Nordbank.” Press release no. IP/18/6561, November 26, 2018. 
+
+_Press release announcing EC approval of HSH Nordbank’s privatisation_ . https://elischolar.library.yale.edu/ypfs-documents2/1277 
+
+(Hamburg Tax Authority 2021) Hamburg Tax Authority. 2021. “FinFo Is Dissolved – Hamburg and Schleswig-Holstein Take the Next Important Step in Dealing with the ‘HSH Legacy.’” Press release, September 29, 2021. 
+
+_Hamburg tax authority announcing that the Anstalt was dissolved (in German)_ . https://elischolar.library.yale.edu/ypfs-documents2/1279 
+
+(HSH 2011) HSH Nordbank AG (HSH). 2011. “Chief Executive Officer Hans Berger Resigns,” July 12, 2011. 
+
+_Press release announcing the resignation of Hans Berger, then-CEO of HSH Nordbank_ . https://elischolar.library.yale.edu/ypfs-documents2/1280 
+
+(HSH 2012) HSH Nordbank AG (HSH). 2012. “HSH Nordbank to Press Criminal Charges against Management Board Member Frank Roth.” Press release, September 4, 2012. _HSH announces that a member of its Management Board, Frank Roth, is facing criminal charges_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1281 
+
+
+## **Reports/Assessments** 
+
+(EC 2005) European Commission (EC). 2005. “NN 71/2005 – Capital Increase HSH Nordbank AG, Germany,” September 6, 2005. 
+
+_EC document discussing the merger terms for HSH Nordbank and its subsequent capitalization in 2005_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1282 
+
+(EC 2009c) European Commission (EC). 2009c. “State Aid C 29/2009 (Ex N 503/2009)— Germany HSH Nordbank.” October 22, 2009. 
+
+_EC report detailing an approval of the EUR 3 billion capital injection and EUR 10 billion risk shield_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1283 
+
+(EC 2011b) European Commission (EC). 2011b. “State Aid C 29/2009 (Ex N 264/09)— Germany HSH Nordbank,” September 20, 2011. 
+
+_The EC’s decision on State Aid provided to HSH Nordbank_ . https://elischolar.library.yale.edu/ypfs-documents2/1286 
+
+(Fitch Ratings 2018) Fitch Ratings. 2018. “Fitch Takes Rating Action on HSH Nordbank on Privatisation.” December 6, 2018. 
+
+_Fitch ratings on HSH Nordbank AG following its privatization in November 2018_ . https://elischolar.library.yale.edu/ypfs-documents2/2260 
+
+(Hamburg Commercial Bank 2019) Hamburg Commercial Bank. 2019. Hamburg Commercial Bank Annual Report 2018. 
+
+_Hamburg Commercial Bank’s annual report for 2018, including a summary of the effect of the risk shield provided since 2009_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2330 
+
+(Hellwig 2017) Hellwig, Martin. 2017. “Carving Out Legacy Assets: A Successful Tool for Bank Restructuring?” European Parliament, In-Depth Analysis, Scrutiny Paper on the Single Resolution Mechanism, March 22, 2017. 
+
+_In depth analysis discussing legacy asset carve outs presented at the European Parliament, including an evaluation of aid provided to HSH Nordbank_ . https://elischolar.library.yale.edu/ypfs-documents2/2252 
+
+(HSH 2008) HSH Nordbank AG (HSH). 2008. HSH Nordbank AG Annual Press Conference 2007 Financial Statements. 
+
+_HSH Nordbank’s annual press conference for the 2007 financial statements_ . https://elischolar.library.yale.edu/ypfs-documents2/2331 
+
+(HSH 2009) HSH Nordbank AG (HSH). 2009. HSH Nordbank Annual Report 2009. _HSH Nordbank AG’s annual report for 2009_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1289 
+
+
+(Magnus et al. 2009) Magnus, Marcel, Sabine Crome, Anna Samsel, Martin Löffler, and Max Lienemeyer. 2009. “The WestLB Restructuring Decision.” 2009. 
+
+_European Commission State Aid case describing WestLB’s restructuring and the unlimited State guarantees benefiting German public financial institutions_ . https://elischolar.library.yale.edu/ypfs-documents2/1288 
+
+## **Key Academic Papers** 
+
+(Rhee, Hoffner et al. 2024) Rhee, June, Benjamin Hoffner, Greg Feldberg, and Andrew Metrick. 2024. “Survey of Ad Hoc Capital Injections.” _Journal of Financial Crises_ 6, no. 3. _Survey of YPFS case studies examining ad hoc capital injections_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/1 
+
+(Rhee, Oguri et al. 2022) Rhee, June, Junko Oguri, Greg Feldberg, and Andrew Metrick. 2022. “Broad-Based Capital Injection Programs.” _Journal of Financial Crises_ 4, no. 1. _Survey of YPFS case studies examining broad-based capital injection programs._ https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/1 
+
+(Simon 2020) Simon, Claire. 2020. “The Sonderfonds Finanzmarktstabilisierung (SoFFin) Guarantee Scheme (Germany GFC).” _Journal of Financial Crises_ 2, no. 3. _Case study on the SoFFin Debt Guarantee Scheme in Germany during the GFC_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/36/ 
+
+(Werner 2016) Werner, Phillip. 2016. “HSH Nordbank v Commission: Action for Annulment by Minority Shareholders Against State Aid Decisions.” _Journal of European Competition Law & Practice_ 7, no. 4, February 21, 2016. 
+
+_Article discussing the General Court’s decision on HSH Nordbank’s minority shareholders appeal against State Aid decisions approving aid_ . https://elischolar.library.yale.edu/ypfs-documents2/2261 
+
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

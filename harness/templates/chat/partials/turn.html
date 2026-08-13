@@ -1,0 +1,108 @@
+{# One turn: the question asked once, and the stack of responses to it.
+
+   The active (newest) response is shown inline. Earlier revisions — the answers
+   this turn gave before the system prompt was revised — fold into an accordion
+   below it, each labelled with the prompt version that produced it. The query
+   itself is never duplicated.
+
+   Expects: event {turn, active, superseded}, traces, conversation, is_admin,
+            golden_run_ids. #}
+{% set turn = event.turn %}
+<article class="turn" id="turn-{{ turn.turn_id }}">
+
+  {% if turn.quoted_text %}
+    {# The span the person had selected when they typed. Part of the question,
+       not an annotation hanging off the earlier answer. #}
+    <blockquote class="turn-quote">{{ turn.quoted_text }}</blockquote>
+  {% endif %}
+
+  <div class="turn-query">{{ turn.query }}</div>
+
+  {% if turn.stale %}
+    <p class="turn-stale">
+      An earlier answer in this conversation was replaced after this turn ran, so this
+      response was written against text that has since changed.
+      {% if is_admin %}
+        <form method="post" class="chat-inline-form"
+          action="{{ url_for('chat.regenerate_turn', conversation_id=conversation.conversation_id, turn_id=turn.turn_id) }}">
+          <button type="submit" class="link-button">Re-answer this turn</button>
+        </form>
+      {% endif %}
+    </p>
+  {% endif %}
+
+  {% if event.active %}
+    {% set active = event.active %}
+    <div class="turn-response">
+      <div class="answer markdown-body chat-answer"
+        data-run-id="{{ active.run_id }}"
+        data-turn-id="{{ turn.turn_id }}"
+      >{{ active.answer | markdown | safe }}</div>
+
+      <div class="turn-response-meta">
+        {% if is_admin %}
+          {# Prompt versions, curation, and re-answering are all admin-only: a
+             user has no use for them and shouldn't see which draft answered. #}
+          <span class="turn-chip" title="System prompt version">{{ active.prompt_id }}</span>
+          {% if event.superseded %}
+            <span class="turn-chip">revision {{ active.revision_index }}</span>
+          {% endif %}
+
+          <form method="post" action="{{ url_for('chat.mark_golden') }}" class="chat-inline-form">
+            <input type="hidden" name="conversation_id" value="{{ conversation.conversation_id }}">
+            <input type="hidden" name="turn_id" value="{{ turn.turn_id }}">
+            <input type="hidden" name="run_id" value="{{ active.run_id }}">
+            {% set marked = active.run_id in golden_run_ids %}
+            <button type="submit" class="golden-toggle{% if marked %} is-marked{% endif %}"
+              title="{% if marked %}Remove from golden pairs{% else %}Save as a golden pair{% endif %}"
+              aria-pressed="{{ 'true' if marked else 'false' }}">
+              <span aria-hidden="true">{% if marked %}★{% else %}☆{% endif %}</span>
+              <span class="golden-toggle-label">{% if marked %}Golden{% else %}Mark golden{% endif %}</span>
+            </button>
+          </form>
+
+          <form method="post" class="chat-inline-form"
+            action="{{ url_for('chat.regenerate_turn', conversation_id=conversation.conversation_id, turn_id=turn.turn_id) }}">
+            <button type="submit" class="link-button">Re-answer</button>
+          </form>
+        {% endif %}
+      </div>
+
+      {% with events = traces.get(active.run_id) %}
+        {% include "chat/partials/trace_timeline.html" %}
+      {% endwith %}
+    </div>
+  {% else %}
+    <div class="turn-response is-pending" data-turn-pending="{{ turn.turn_id }}">
+      <span class="turn-thinking" aria-live="polite">Thinking…</span>
+    </div>
+  {% endif %}
+
+  {% if event.superseded %}
+    <details class="turn-superseded">
+      <summary>
+        Previous {{ 'response' if event.superseded | length == 1 else 'responses' }}
+        <span class="count-badge">{{ event.superseded | length }}</span>
+      </summary>
+      {% for old in event.superseded %}
+        <div class="turn-superseded-item">
+          <div class="turn-response-meta">
+            {% if is_admin %}
+              <span class="turn-chip">{{ old.prompt_id }}</span>
+              <span class="turn-chip">revision {{ old.revision_index }}</span>
+            {% endif %}
+            {% if old.answer is none %}
+              <span class="turn-chip is-warn">no answer (run did not finish)</span>
+            {% endif %}
+          </div>
+          {% if old.answer %}
+            <div class="answer markdown-body chat-answer is-superseded">{{ old.answer | markdown | safe }}</div>
+            {% with events = traces.get(old.run_id) %}
+              {% include "chat/partials/trace_timeline.html" %}
+            {% endwith %}
+          {% endif %}
+        </div>
+      {% endfor %}
+    </details>
+  {% endif %}
+</article>

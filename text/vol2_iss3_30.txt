@@ -1,0 +1,521 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 3 
+2020 
+Austria's Oesterreichische Clearingbank AG (OeCAG) (Austria Austria's Oesterreichische Clearingbank AG (OeCAG) (Austria 
+GFC) GFC) 
+Claire Simon 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Finance Commons, and the Macroeconomics Commons 
+Recommended Citation Recommended Citation 
+Simon, Claire (2020) "Austria's Oesterreichische Clearingbank AG (OeCAG) (Austria GFC)," Journal of 
+Financial Crises: Vol. 2 : Iss. 3, 607-607. 
+DOI: https://doi.org/10.17132/2693-3179.1098 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/30 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol2/iss3/30
+
+--- Page 3 ---
+Austria: Oesterreichische Clearingbank AG (OeCAG) 1 
+ 
+Claire E. Simon2 
+Yale Program on Financial Stability Case Study 
+January 16, 2019, revised: October 10, 2020 
+ 
+Abstract 
+In October 2008, euro-area countries adopted a joint framework to guide national policies 
+combatting the effects of the global financial crisis. In Austria, this led to the enactment of a 
+number of measures and amendments, including the Interbank Market Support Act 
+(Interbankmarktstärkungsgesetz, or IBSG). IBSG called for the establishment of a new 
+clearing bank to facilitate interbank lending . It also  permitted the Minister of Finance to 
+guarantee up to €5 billion of short-term securities issued by the clearing bank and to absorb 
+losses of the clearing bank up to €4 billion. The clearing bank, Oesterreichische Clearingbank 
+AG (OeCAG), was owned and capitalized by Austrian banks and was open to participation 
+from all credit institutions and insurance  companies. Through regular au ctions, OeCAG 
+matched available funds to demands for credit for fixed terms. Over the lifespan of the bank, 
+310 auctions were conducted  in euros and dollars , allotting €22.5 billion and $1.5 billion  
+respectively. After being extended by one year, the guarantee scheme authorized by IBSG 
+expired on December 31, 2010, and OeCAG closed shortly thereafter.  None of the  
+government guarantees were triggered. 
+Keywords: credit guarantee, clearing bank, Austria
+_____________________________________________________________________ 
+1 This case study is part of  the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering the responses to the global financial crisis that pertain to bank debt guarantee programs.  
+Cases are available fr om the Journal of Financial Crises  at https:// elischolar.library.yale.edu/journal-of-
+financial-crises/. 
+2 Claire E. Simon - Research Associate, YPFS, Yale School of Management. 
+607
+
+--- Page 4 ---
+At a Glance  
+Following the declaration of a joint action 
+plan for European Union member states in 
+October 2008, Austria enacted a number of 
+measures in response to the global 
+financial crisis. Included in this framework 
+was the Interbank Market Support Act 
+(Interbankmarktstärkungsgesetz, or IBSG), 
+which targeted disruption in the interbank 
+market. Under IBSG, the Austrian 
+government called for the establishment of 
+a clearing bank that would borrow and lend 
+funds on the interbank market. The 
+clearing bank would be owned by Austrian 
+financial institutions.  
+Accordingly, Austrian credit institutions 
+established Oesterreichische Clearingbank 
+AG (OeCAG) with  €180 million of equity 
+capital raised by the banks. Under IBSG, the 
+government pledged to cover a maximum 
+of €4 billion in OeCAG losses, should loan 
+defaults by the clearing bank’s borrowers 
+result in its regulatory capital falling below 
+legally required levels. In addition, OeCAG 
+was permitted to seek government 
+guarantees on  its newly issued securities, 
+provided they had a maturity of one year or 
+less. This guaran tee was capped at €5 
+billion. 
+OeCAG was required to charge market-based fees and interest rates and was subject to a 50-
+basis-point fee charged for government guarantees.  
+OeCAG conducted regular auctions to match available deposits with demands for credit. Over 
+the lifespan of the bank, 310 auctions were conducted  in euros and dollars , allotting €22.5 
+billion and $1.5 billion  respectively. Following a one -year extension, IBSG ex pired on 
+December 31, 2010 , and OeCAG closed shortly thereafter. None of the government 
+guarantees were triggered. 
+Summary Evaluation 
+Evaluations of OeCAG point to declines in liquidity risk as evidence that OeCAG was 
+successful in reinvigorating the inter bank market. However, OeCAG alone was not able to 
+restore the Austrian interbank market to its pre-crisis state. 
+Summary of Key Terms 
+Purpose:   To strengthen the interbank lending 
+market by establishing a privately-owned clearing 
+bank with a government guarantee to meet credit 
+demand 
+Announcement Date   October 27, 2008 
+Operational Date October 27, 2008 
+Date of First 
+Guaranteed Issuance 
+N/A 
+Issuance Window 
+Expiration Date 
+Originally December 31, 
+2009; later extended to 
+December 31, 2010  
+Program Size €4 billion for loan losses;  
+€5 billion for guarantees of 
+short-term securities 
+Usage  310 auctions conducted, 
+allotting €22.5 billion and 
+$1.5 billion. No guarantees 
+were triggered 
+Outcomes No defaults 
+Notable Features Guaranteed debt issued by 
+clearing bank 
+Austria: Oesterreichische Clearingbank AG 
+(OeCAG) 
+608
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 5 ---
+Interbank Market Support Act (IBSG Guarantee Program):  Austria Context 
+ 
+GDP 
+(SAAR, Nominal GDP in LCU 
+converted to USD) 
+$389.5 billion in 2007  
+$431.2 billion in 2008 
+ 
+Source: Bloomberg 
+ 
+GDP per capita 
+(SAAR, Nominal GDP in LCU 
+converted to USD) 
+$46,856 in 2007 
+$51,709 in 2008 
+Source: Bloomberg 
+ 
+Sovereign credit rating (5-year 
+senior debt)  
+As of Q4, 2007: 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+As of Q4, 2008: 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+Source: Bloomberg 
+ 
+Size of banking system  
+$400.4 billion in total assets in 2007 
+$450.0 billion in total assets in 2008 
+ 
+Source: Bloomberg 
+ 
+Size of banking system as a 
+percentage of GDP  
+102.8% in 2007 
+104.4% in 2008 
+ 
+Source: Bloomberg 
+ 
+Size of banking system as a 
+percentage of financial system  
+Banking system assets equal to 100% of 
+financial system in 2007 
+Banking system assets equal to 100% of 
+financial system in 2008 
+ 
+Source: World Bank Global Financial 
+Development Database 
+ 
+5-bank concentration of banking 
+system  
+84.1% of total banking assets in 2007 
+81.7% of total banking assets in 2008 
+ 
+Source: World Bank Global Financial 
+Development Database 
+ 
+Foreign involvement in banking 
+system 
+26% of total banking assets in 2007 
+28% of total banking assets in 2008 
+ 
+Source: World Bank Global Financial 
+Development Database 
+609
+Austria: Oesterreichische Clearingbank AG (OeCAG) Simon
+
+--- Page 6 ---
+Government ownership of banking 
+system  
+0% of banks owned by the state in 2007 
+0% of banks owned by the state in 2008 
+ 
+Source: World Bank, Bank Regulation and 
+Supervision Survey 
+Existence of deposit insurance 
+100% (90% for non-individuals) insurance on 
+deposits up to $22,727.00 in 2007 
+100% (90% for non-individuals) insurance on 
+deposits up to $22,727.00 in 2008 
+ 
+Source: World Bank Deposit Insurance Dataset  
+610
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 7 ---
+I. Overview 
+Background 
+Problems in the European interbank market were  exacerbated by the collapse of Lehman 
+Brothers in September 2008 ( Schmitz, Weber, and Posch 2009, 66). A number of unique 
+conditions in Austria caused further disruptions to interbank lending. In response, the 
+Austrian government passed a package of measu res related to financial stability. This 
+package included the Interbank Market Support Act (Interbankmarktstärkungsgesetz, or 
+IBSG), which established a State-guaranteed clearing bank and a guarantee scheme for 
+securities issued by other credit institution s, and the Financial Market Stability Act 
+(Finanzmarktstabilitätsgesetz, or FinStaG), which permitted state guarantees for individual 
+institutions as part of a recapitalization process (Republic of Austria 2008). The package was 
+approved by the European Commission (EC) under Article 87(3)(b) of the EC Treaty, which 
+permits State aid that remedies a serious disturbance in a member state’s economy 
+(European Commission n.d. ). (See Appendix A f or more information on the unique 
+conditions in Austria and specific programs adopted in response.) 
+Program Description 
+Under IBSG, the scheme allowed the Minister of Finance to guarantee bonds issued by credit 
+institutions and insurance companies with a maximum allowance of €75 billion. Of the €75 
+billion, €4 billion was explicitly earmarked for absorbing  the losses of a new clearing bank 
+specifically established to stimulate the  interbank market (Republic of Austria 2008 ). IBSG 
+stipulated that this new bank would be privately owned by credit institutions or insurance 
+companies. Accordingly, the major Austrian banks established the Oesterreichische 
+Clearingbank AG (OeCAG) and fund ed it with €180 million in equity. OeCAG’s operations 
+were managed by the Oesterreichische Kontrollbank AG (OeKB) , which was also owned by 
+the major Austrian banks. OeCAG was open to all credit institutions and insurance 
+companies. It received deposits from banks and insurance companies  and could also issue  
+securities to fund itself (potentially with a government guarantee). OeCAG then matched 
+these funds with demands for credit from banks and insurance companies through regular 
+auctions. Its business volume was capped at €10 billion (Kalss 2010, 530).   
+According to IBSG, the government was authorized to provide two different types of 
+guarantees to the clearing bank . The government would absorb losses of up to €4 billion 
+incurred by OeCAG on funds it lent t o borrowing banks and insurance companies . This 
+guarantee would be triggered if a loan default caused OeCAG’s regulatory capital to fall below 
+legally required levels, in which case the government would provide enough equity capital 
+to restore the clearing  bank’s regulatory capital to the required minimum amount. In 
+addition, the government could provide guarantees for securities issued by OeCAG  to fund 
+itself. The government was authorized to guarantee up to €5 billion of OeCAG securities with 
+a maturity o f one year or less. Like all other credit institutions and insurance companies 
+eligible for state guarantees under IBSG, OeCAG was subject to an additional guarantor fee 
+of 50 basis points (bps) for the assumption of liability by the government ( Schmitz, Weber, 
+and Posch 2009, 67). 
+Outcomes 
+OeCAG was allowed to close at the end of February 2011 following the expiration of IBSG at 
+the end of 2010. According to the Federal Ministry of Finance, OeCAG “conducted 310 
+auctions, comprising allotments of €22.5 billion and $1.5 billion ,” and no government 
+611
+Austria: Oesterreichische Clearingbank AG (OeCAG) Simon
+
+--- Page 8 ---
+guarantees were triggered (Federal Ministry of Finance n.d.). OeCAG was particularly useful 
+for small ban ks with limited access to euro money markets and the E CB’s open market 
+operations (Schmitz, Weber, and Posch 2009, 69).  
+II. Key Design Decisions 
+1. OeCAG was part of a broader package of measures adopted in response to the 
+financial crisis. 
+OeCAG was authorized by the Interbank Market Support Act (IBSG), which was passed 
+alongside the Financial Market Stability Act (FinStaG) as part of the Austrian Financial 
+Market Stability Package. This package of measures was introduced in response to the joint  
+call from euro-area countries for national legislation aimed at restoring financial market 
+stability (Austrian Financial Market Stability Package). FinStaG’s primary authority involved 
+strengthening the capital base of individual credit institutions, incl uding outright capital 
+injections, the acquisition of existing shares, and even the ability to obtain ownership rights 
+of institutions in “exceptional cases”.  
+2. The Interbank Market Support Act provided the legal basis for the Minister of 
+Finance to provide guarantees to  and on behalf of  a newly established clearing 
+bank. 
+The IBSG, which was established to strengthen the interbank market, allowed the Federal 
+Minister of Finance to assume liability for “a company established for the exclusive purpose 
+of borrowing funds from credit institutions or insurance companies via the interbank market 
+in its own name and for its own account and loaning these funds to other credit institutions 
+or insurance companies via the interbank market in its own name and for its own  account.” 
+As part of this liability, the Minister of Finance was authorized to provide guarantees for 
+short-term securities issued as part of these transactions (Republic of Austria 2008).  
+3. European Commission approval was required for the implem entation of the 
+clearing bank and guarantees. 
+On October 31 2008, a little less than a week after IBSG was enacted, Austria notified the 
+European Commission (EC) of its passage. In a letter dated December 9, 2008 the EC notified 
+the Austrian government that though the guarantees under IBSG constituted state aid under 
+Article 87(1) of the EC Treaty, they were permitted under Article 87(3)(b) of the Treaty 
+(Global Trade Alert 2008). Article 87(3)(b) permits state aid “to promote the execution of an 
+important project of common European interest or to remedy a serious disturbance in the 
+economy of a Member State” (European Commission n.d.). This decision was consistent with 
+an earlier communication published by the EC, which stated that Article 87(3)(b) could be  
+used as a legal basis for aid measures like general schemes to address the financial crisis 
+(European Commission 2008).  
+4. The total amount of guaranteed securities that OeCAG could issue was capped at  
+€5 billion.  
+612
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 9 ---
+OeCAG obtained the funds used to make loans to borrowing banks and insurance companies 
+by taking deposits via auctions and issuing short-term securities. When issuing short-term 
+securities, the clearing bank could elect for the government to assume liability as a guarantor 
+in an amount capped at €5 billion (Schmitz, Weber, and Posch 2009, 67). In addition, as part 
+of its €75 billion budget for guarantees under IBSG, the Austrian government specifically 
+earmarked €4 billion for absorbing the losses of OeCAG on loans it made to borrowing banks 
+and insurance companies . This guarantee was triggered if a loan default caused OeCAG’s 
+regulatory capital to fall below legally required levels, in which case the government would 
+provide enough equity capital to restore the clearing bank’s regulatory capital to the 
+required minimum amount.   
+Though the IBSG budget was reduced over the life of the finance facility, the reductions did 
+not appear to affect the amount pledged to cover OeCAG loan defaults ( Federal Ministry of 
+Finance n.d.). 
+5. OeCAG could issue guaranteed securities, the proceeds of which it could then lend 
+to any Austrian credit institutions and insurance companies. 
+IBSG stipulated that ownership of the clearing bank “shall be limited to credit institutions, 
+insurance companies or the statutory bodies set up on the professional associations level for 
+the representation of their interest” ( Republic of Austria 2008 ). In accordance with this  
+stipulation, Austrian banks established OeCAG. The clearing bank  was fun ded by €180 
+million of contributions from the private sector, and its operations were managed by the 
+Oesterreichische Kontrollbank AG (OeKB), the longstanding central securities depository for 
+Austrian institutions, which was also owned by the banks. Altho ugh the government did 
+serve as a guarantor, the equity capital funded by the banks was meant to buffer initial loan 
+losses. This in turn could “reduce the potential moral hazard at the expense of the Federal 
+government and the taxpayers” (Kalss 2010, 531). 
+OeCAG conducted regular auctions at which both sides of the market submitted price and 
+quantity bids. Demands for credit for fixed terms, usually three months and six months, were 
+met only if there was a corresponding offer from the deposit side; the bank did not perform 
+any maturity transformation ( Schmitz, Weber, and Posch 2009, 67). IBSG required the 
+clearing bank to “provide its services for a fee and at a lending interest rate, which [would] 
+be in conformity with market conditions” (Republic of Austria 2008).  
+IBSG stipulated that the clearing bank would borrow funds from credit institutions or 
+insurance companies and loan them in turn to other credit institutions or insurance 
+companies (Republic of Austria).  
+6. Debt securities issued by OeCAG were eligible for the guarantee. 
+The proceeds from the guaranteed debt issuances would then be lent to eligible institutions. 
+7. There was a one-year maturity cap for eligible securities issued by OeCAG. 
+613
+Austria: Oesterreichische Clearingbank AG (OeCAG) Simon
+
+--- Page 10 ---
+Securities issued by OeCAG had to have a maturity of one year or less in order to be eligible 
+for the government guarantee (Posch et al 67).  The government does not appear to have 
+established minimum maturity requirements for eligible debt. 
+8. All currencies appear to have been eligible. 
+Program documents contained no language restricting eligible currencies, and OeCAG 
+appears to have conducted auctions in euros and dollars. 
+9. There does not appear to have been a per -institution cap on borrowing by the 
+banks and insurance companies eligible to borrow from OeCAG. 
+Program documents contained no language restricting the amount that an individual 
+institution could borrow from OeCAG.  
+10. The government charged a 50-basis-point guarantor fee for participation. 
+Under IBSG, all credit institutions and insurance companies owed the government a fee for 
+its assumption of liability. IBSG explicitly stated that this fee also applied to the clearing bank 
+(Republic of Austria 2008 ). Austria’s approach to fees followed guidance issued by the 
+European Central Bank in “Recommendations on Government Guarantees on Bank Debt” on 
+October 20, 2008. In practice, because the guaranteed securities issued by the OeCAG had to 
+have maturities of one year or less, the flat 50 bps fee was consistent with the ECB’s guidance 
+(Schmitz, Weber, and Posch 2009, 67). 
+11. There do not appear to have been any further conditions for participation. 
+Program documents contained no discussion of further conditions for borrowing from 
+OeCAG. 
+12. OeCAG was allowed to close at the end of February 2011 following the expiration 
+of IBSG at the end of 2010.  
+The guarantee scheme under IBSG expired on December 31, 2010, at which point no new 
+guarantees could be issued by the government. The scheme was extended by a year from its 
+original expiration date of December 31, 2009 (Federal Ministry of Finance n.d.). 
+III. Evaluation 
+Assessments of the IBSG and th e OeCAG by Austria’s central bank and scholars point to a 
+decline in liquidity risk among Austrian banks as evidence that the OeCAG helped 
+reinvigorate the interbank market (Schmitz, Weber, and Posch 2009; Kalss 2010). Schmitz, 
+Weber, and Posch (2009) argue that despite these improvements—reflected in the ability of 
+institutions to borrow larger amounts over longer periods —state guarantees were unable 
+to totally restore the euro interbank market because liquidity and maturities did not reached 
+pre-crisis levels (Schmitz, Weber, and Posch 2009, 67).  
+614
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 11 ---
+In assessing Austria’s bank support measures generally, the European Commission has 
+concluded that “despite the significant costs, the use of bank support measures in line with 
+EU State aid rules hel ped to restructure the Austrian banking sector and preserve financial 
+stability” (European Commission 2016). 
+IV. References 
+European Commission. n.d. “Article 87 of the EC Treaty (ex Article 92).” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Article%2087%20of%20th
+e%20EC%20Treaty%20(ex%20Article%2092).pdf. 
+European Commission. 2008. “Communication from the Commission on the application of 
+State aid rules to measures taken in relation to financial institutions in the context of the 
+current global f inancial crisis.” Official Journal of the European Union . October 25, 2008.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Communication_from_EC_St
+ate_Aid.pdf. 
+European Commission. 2016. “Country Report Austria 2016.” Commission Staff Working  
+Document. February 26, 2016. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Country_Report_Austria_20
+16_EC_Working_Document.pdf. 
+Federal Ministry of Finance. n.d.-b. “Measures to Ensure Liquidity of the Interbank Market.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Measures_to_Ensure_Liquid
+ity_of_the_Interbank_Market_BMF.pdf. 
+Global Trade Alert. 2008. “Austria: Measures and Prolongations under the Law on the 
+Stability of the Financial Markets and on Strength ening the Interbank Market for Credit 
+Institutions and Insurance Companies.”  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Intervention%2012381_%2
+0Austria.pdf. 
+Kalss, Susanne. 2010. “Measures by the Austrian Regulatory Authorities in Respons e to the 
+Financial Market Crisis.” European Business Organization Law Review  11, no. 4 (December 
+2010): 527-548.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Kalss_2010.pdf. 
+Republic of Austria. 2008. “136th Federal Act.” Translation from G erman original. Federal 
+Law Gazette. October 26, 2008. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/136th_Federal_Act.pdf. 
+Schmitz, Stefan W., Beat Weber, and Michaela Posch. 2009. “EU Bank Packages: Objectives 
+and Potential Conflicts of Obj ectives.” Oesterreichische Nationalbank Financial Stability 
+Review, no. 17 (June 4, 2009): 63 -84. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/EU_Bank_Packages_%20Obj
+ectives_and_Potential_Conflicts_of_Objectives.pdf. 
+Simon, Claire E. 2018. “ Austria: FinStaG – Recapitalization and Asset Guarantee.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Simon%20Austria%20FinSt
+aG%20-%20Recapitalization%20and%20Asset%20Guarantee%20(AT%20GFC)%202020-
+03-17%20PRELIMINARY_DRAFT.pdf. 
+615
+Austria: Oesterreichische Clearingbank AG (OeCAG) Simon
+
+--- Page 12 ---
+Simon, Clair e. 2020. “Austria: IBSG Guarantee Program .” Journal of Financial Crises . 
+https://elischolar.library.yale.edu/journal-of-financial-crises/ 
+Summit of the Euro Area Countries. 2008. “Declaration on a Concerted European Action Plan 
+of the Euro Area Countries.” October 12, 2008.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/EC_Decision_2010_10_12_0.
+pdf. 
+V. Key Program Documents 
+Summary of Program 
+Measures to Ensure Liquidity of the Interbank Market – Description of the Interbank Market 
+Support Act and OeCAG.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Measures_to_Ensure_Liquid
+ity_of_the_Interbank_Market_BMF.pdf. 
+Austrian Stability Programme for the period 2008 to 2013 (04/21/09) – Federal Ministry of 
+Finance report detailing stability program during the financial crisis . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Austrian_Stability_Program
+me_Report_0.pdf. 
+National Rescue Measures in Response to the Current Financial Crisis  (July 2009)  – ECB 
+working paper summarizing crisis response measures taken by EU member states, including 
+Austria’s guarantee program. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/National_Rescue_Measures_
+in_Response_to_the_Current_Financial_Crisis.pdf. 
+Legal/Regulatory Guidance 
+136th Federal Act  (10/26/08) – Group of Austrian act ions to support the financial system , 
+including the Interbank Market Support Act (IBSG) . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/136th_Federal_Act.pdf. 
+Communication from the Commission (2008/C 270/02) – Communication from the European 
+Commission addressing state aid during financial crisis .  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Communication_from_EC_St
+ate_Aid.pdf. 
+Key Academic Papers 
+Measures by the Austrian Regulatory Authorities in Response to the Financial Market Crisis 
+(Kalss 2010)  – Paper analyzing the Austrian government’s response to the financial crisis.   
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Kalss_2010.pdf. 
+Crisis Management Around the World (Woll 2014)  – Chapter comparing national responses 
+to the financial crisis. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Woll_2014.pdf. 
+ 
+616
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 13 ---
+Reports/Assessments 
+EU Bank Packages: Objectives and Potential Conflicts of Objectives  (Schmitz, Weber, and 
+Posch 2009)  – Study by Austria’s central bank comparing responses to the financial crisis 
+across the EU.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/EU_Bank_Packages_%20Obj
+ectives_and_Potential_Conflicts_of_Objectives.pdf.  
+VI. Appendix A 
+In Europe, the interbank market was hit particularly hard by the global financial crisis. 
+Unsecured interbank loans were charged high premiums, market liquidity dried up, and 
+maturity terms shrunk throughout late 2007 and early 2008 before the interbank market 
+largely ceased functioning following the collapse of Lehman Brothers in September 
+(Schmidt, Weber, and Posch 2009, 66).  In Austria, financial institutions were affected by 
+exposure to Lehman Brothers and Icelandic banks as well as by their activity in central and 
+southeast European markets (Kalss 2010, 528).  
+In response to these conditions, euro-area countries convened at a summit in October 2008. 
+The meeting resulted in a joint action plan calling for national governments to “improve 
+market functioning over longer term maturities” through the introduction of guarantee 
+programs for bank senior debt issuance ( Summit of the Euro Area Countries  2008). In 
+Austria, this call was met by the passage of a financial market stability package that 
+contained the Interbank Market Support Act (IBSG) and the Financial Market Stability Act 
+(FinStaG).  
+IBSG had two main components. Firs t, it called for the establishment of a new, privately 
+owned clearing bank to facilitate interbank lending. The bank, Oesterreichische 
+Clearingbank AG (OeCAG) conducted regular auctions to match available deposits with 
+demands for credit. OeCAG could issue securities guaranteed by the federal government, and 
+the government pledged to cover a certain amount of the clearing bank’s losses. Second, it 
+allowed the government to guarantee securities with maturities of five years or less issued 
+by other credit ins titutions. (See Simon 2020  for more information on the IBSG guarantee 
+scheme.) FinStaG allowed the Federal Minister of Finance to recapitalize and strengthen the 
+capital base of specific credit institutions and insurance companies. (See Simon 2018  for 
+more information on the FinStaG.) 
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu. 
+ 
+ 
+617
+Austria: Oesterreichische Clearingbank AG (OeCAG) Simon

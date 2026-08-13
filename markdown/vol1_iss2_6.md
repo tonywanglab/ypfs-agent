@@ -1,0 +1,302 @@
+# JPMorgan Chase London Whale E: Supervisory Oversight[1] 
+
+Arwin G. Zeissler[2] Andrew Metrick[3] 
+
+Yale Program on Financial Stability, Case Study 2014-2e-V1 December 1, 2014, Revised: July 20, 2015 
+
+## **Abstract** 
+
+As a diversified financial service provider and the largest United States bank holding company, JPMorgan Chase (JPM) is supervised by multiple regulatory agencies. JPM’s commercial bank subsidiaries hold a national charter and therefore are regulated by the Office of the Comptroller of the Currency (OCC). Since the bank’s Chief Investment Office (CIO) invested the surplus deposits of JPM’s commercial bank units, the OCC was also CIO’s primary regulator. During the critical period from late January through March 2012, when CIO traders undertook the failed derivatives strategy that ultimately cost the bank $6 billion, JPM did not provide the OCC with required monthly reports that included CIO performance data and CIO’s internal reviews of the fair values assigned by traders to their derivative positions. However, OCC supervisors also failed to request the missing data, and thus found themselves surprised by the April 6 news stories unmasking the London Whale. 
+
+1 This case study is one of nine produced by the Yale Program on Financial Stability (YPFS) examining issues related to the JPMorgan Chase London Whale. The following are the other case studies in this case series: 
+
+   - _JP Morgan Chase London Whale A: Risky Business_ 
+
+   - _JP Morgan Chase London Whale B: Derivatives Valuation_ 
+
+   - _JP Morgan Chase London Whale C: Risk Limits, Metrics, and Models_ 
+
+   - _JP Morgan Chase London Whale D: Risk-Management Practices_ 
+
+   - _JP Morgan Chase London Whale F: Required Securities Disclosures_ 
+
+   - _JP Morgan Chase London Whale G: Hedging Versus Proprietary Trading_ 
+
+   - _JP Morgan Chase London Whale H: Cross-Border Regulation_ 
+
+- _JP Morgan Chase London Whale Z: Background and Overview._ 
+
+- Cases are available at the Journal of Financial Crises. 
+
+> 2  Project Editor, Case Study and Research, YPFS, Yale School of Management. **The authors acknowledge helpful comments from Kathleen Johnson.** 
+
+3  Janet L. Yellen Professor of Finance and Management, and YPFS Program Director, Yale School of Management 
+
+
+## **1. Introduction** 
+
+On April 9, 2012, Thomas Curry took office as the 30[th] Comptroller of the Currency. Instead of planning for the upcoming 150[th] anniversary of the Office of the Comptroller of the Currency (OCC), which supervises national banks and is the oldest United States (US) financial regulator, Mr. Curry was confronted by the outbreak of news reports just three days earlier that a JPMorgan Chase & Company (JPM) trader named Bruno Iksil had bought and sold such large volumes of credit derivatives that he had single-handedly distorted the market for protection against the possible default of corporate borrowers, earning him the nickname the “London Whale.” 
+
+The OCC and the US national banking system were established by a pair of laws in 1863 and 1864 during the administration of President Abraham Lincoln. An independent bureau of the Treasury Department, the OCC regulates and supervises approximately 2,000 nationally chartered banks, federal savings associations, and US branches of foreign banks. 
+
+As a diversified financial service provider and the largest US bank holding company, JPM is subject to supervision by various regulatory agencies. JPM’s commercial bank subsidiaries hold a national banking charter and thus are regulated by the OCC. The bank’s Chief Investment Office (CIO) was responsible for investing those deposits received by JPM’s commercial bank units that were not loaned out. As such, the OCC was also CIO’s primary regulator. 
+
+Among its secondary functions, the CIO would seek to offset some of the credit risk (also known as default risk) to which JPM was continually exposed in its capacity as a lender. This ongoing risk was to be partially hedged by CIO’s Synthetic Credit Portfolio (SCP), which was run out of the bank’s London office by Iksil and a small team of traders who bought and sold credit default swaps and other credit derivatives. 
+
+Even though this credit hedging strategy had existed in one form or another since 2006-07, the OCC first specifically became aware of the SCP book in January 2012, because the CIO previously included SCP holdings and performance in broader portfolio results. January 2012 was also when Iksil received approval from CIO management to undertake the rapid, large expansion of SCP’s trading positions that would ultimately result in over $6 billion of losses. 
+
+During the critical period from late January through March (when the SCP trading strategy was halted due to mounting losses) and into early April, JPM did not provide the OCC with required monthly reports that included CIO performance data and the results of CIO’s internal reviews of the fair values assigned by traders to their derivative positions, yet the OCC did not request the missing information. Furthermore, although the OCC acknowledged receiving timely alerts as CIO exceeded all of its applicable risk limits at one or more points during the first quarter, the agency apparently made no use of risk limit reports in its oversight efforts. As a result, the OCC Examiner-in-Charge of JPM admitted to being surprised April 6 by the news stories unmasking the London Whale. 
+
+The remainder of the case is organized as follows. Section 2 provides a brief introduction to the history and purpose of the OCC. Sections 3 and 4 detail the regulatory relationship between the OCC and JPM, including numerous failings by both parties. Section 5 concludes with a discussion of OCC efforts to address the CIO losses after the initial April 6 media reports, OCC enforcement actions against JPM, and OCC reviews of its own performance in this matter. See Appendix 1 for a timeline of key events pertinent to this case module. 
+
+
+## **Questions** 
+
+1. Does the OCC face a dilemma because it is funded by the very same banks that it supervises? 
+
+2. How did JPM attempt to stifle OCC regulation? 
+
+3. What were shortcomings of OCC’s examinations of JPM and CIO? 
+
+4. Would suggested improvements to OCC’s operations (such as relocating on-site examiners to central OCC offices) help to prevent future incidents similar to the London Whale trades? 
+
+## **2. Overview of the Office of the Comptroller of the Currency** 
+
+The OCC and the US national banking system were established during the administration of President Abraham Lincoln by the National Currency Act of 1863 and the National Bank Act of 1864 (OCC Annual Report 2011, ii). Thomas Curry took office as the 30[th] Comptroller of the Currency on April 9, 2012, just three days after _Bloomberg_ and the _Wall Street Journal_ published the first news stories about the London Whale. 
+
+As an independent bureau of the US Treasury Department, the OCC’s responsibility is “to charter, regulate, and supervise all national banks and federal savings associations . . . and to supervise the federal branches and agencies of foreign banks” (OCC Annual Report 2011, i). The OCC seeks to ensure that the financial institutions under its supervision operate in a safe and sound manner to minimize losses to the deposit insurance fund that is operated by the Federal Deposit Insurance Corporation. In 2011, the OCC published a strategic plan for the fiscal years 2012 through 2016, including the agency’s mission and vision statements (see Figure 1.) (OCC Strategic Plan 2011, 4). 
+
+By September 2011, the OCC had 3,700 employees and supervised approximately 2,000 banks with total assets of almost $10 trillion. OCC maintained headquarters in Washington DC, over 60 field offices across the US grouped under four district offices (Chicago, Dallas, Denver, and New York), and an office in London, England, to supervise the international activities of the national banks under its jurisdiction (OCC Annual Report 2011, inside cover). 
+
+Importantly, the OCC does not receive funding from the US Congress. Instead, the OCC’s primary source of funding is from the national banks and federal savings associations who pay the OCC to examine them (OCC Annual Report 2011, i). Since financial institutions can choose to be chartered at the national or state levels, the OCC is effectively in competition for “customers” with the state banking regulators. 
+
+
+[FIGURE id=vol1_iss2_6_f1 type=figure label="Figure 1" file=figure_1.png caption="The Office of the Comptroller of the Currency’s Mission and Vision"]
+### **Figure 1: The Office of the Comptroller of the Currency’s Mission and Vision**
+
+## Mission: 
+
+To assure the safety and soundness of, and compliance with laws and regulations, fair access to financial services, and fair treatment of customers by national banks and federal savings associations. 
+
+## Vision: 
+
+The OCC seeks to assure a financial system in which national banks and federal savings associations soundly manage their risks, maintain the ability to compete effectively with other providers of financial services to meet the needs of their customers and communities for credit and financial services, comply with laws and regulations, and provide fair access to financial services and fair treatment of their customers. 
+
+_Source: OCC Strategic Plan 2011, 4._ 
+
+## **3. OCC Oversight of JPM (through 2011)** 
+
+By December 31, 2011, JPM had grown to become the largest bank holding company in the US, with 260,000 employees, $184 billion in total stockholders’ equity, and $2.3 trillion in total assets (JPM 10-K 2011, 62). JPM had two primary national bank subsidiaries: JPMorgan Chase Bank, which was a commercial bank with branches in 23 states, and Chase Bank USA, which specialized in credit cards. JPM’s main non-bank subsidiary was JPMorgan Securities, which was an investment banking firm (JPM 10-K 2011, 1). 
+
+Befitting its complicated structure, JPM was supervised by many different financial regulators. The Federal Reserve Board oversaw the bank holding company structure, while the Securities and Exchange Commission (SEC) supervised the investment bank and some other non-bank subsidiaries. The OCC regulated the national bank subsidiaries, including JPMorgan Chase Bank and Chase Bank USA (US Senate Report, 218). 
+
+The OCC classified banks under its supervision by size, as either large banks ($50 billion or more of total assets), midsize banks (from $10 billion to $50 billion), or community banks (less than $10 billion). OCC examiners kept a permanent on-site presence at the 19 biggest banks, including JPM. About 65 OCC employees were stationed at JPM, under the guidance of OCC Examiner-in-Charge Scott Waterhouse. Of these, 60 were located at JPM’s headquarters in New York, and five were in the bank’s London office (US Senate Report, 26 and 219). 
+
+In addition to ongoing supervision and monitoring, the OCC supervisory team conducted roughly 60 examinations each year at JPM. Each exam targeted a specific area of the bank’s operations and typically lasted three to six weeks. At the end of each exam, the OCC would issue a Supervisory Letter to JPM senior management detailing the results, with recommended and/or required improvements (US Senate Report, 218). 
+
+In 2005, JPM spun off its CIO as a separate unit to invest the bank’s excess deposits and JPM Chief Investment Officer Ina Drew was appointed head of CIO. The following year, International Chief Investment Officer Achilles Macris received management approval of a proposal that he had made to allow CIO to begin trading credit derivatives, such as credit 
+
+
+default swaps, as a business hedge to “effectively manage residual exposures created by [JPM’s] operating businesses” (US Senate Exhibits, 35-36). 
+
+The CIO’s primary regulator was the OCC. The OCC has stated that it would have had no role in approving or vetoing this proposal and may not have even been given a copy of the proposal (US Senate Report, 221). CIO’s credit derivatives were held as part of what came to be known as the “Synthetic Credit Portfolio,” which traded out of the unit’s London office. 
+
+Although the derivatives trades that caught the attention of the media in April 2012 primarily took place in the first quarter of 2012, Bruno Iksil and his fellow traders had already begun to increase the size and complexity of the SCP book in 2011. However, the OCC missed warning signs that these changes brought with them increased risks as well. 
+
+The CIO exceeded its risk limit under a stress-loss scenario on January 27, 2011, as a result of increased trading positions in the SCP book. This breach continued for seven weeks. JPM informed the OCC of the ongoing breach of CIO’s stress-loss risk limit in Market Risk Management Reporting e-mails and weekly Market Risk Stress Testing reports distributed to the agency. The CIO attributed the ongoing breach to the “synthetic credit (tranche book).” When the OCC asked for clarification, JPM did not provide any additional details, and the OCC dropped the matter. OCC staff later acknowledged that their failure to adequately follow up on the cause of, and the bank’s response to, the 2011 risk limit breaches was “one of our misses,” though the reason for this omission remains unclear (US Senate Report, 226). (A detailed discussion of JPM’s use of quantitative tools to measure and manage risk is included in Zeissler, et al. 2014C.) 
+
+## **4. OCC Oversight of JPM (January through early April 2012)** 
+
+A major reason why the OCC did not focus examination efforts on the SCP was because the CIO did not specifically name this portfolio in any of the reports that it submitted to the agency. Though JPM began trading credit derivatives years beforehand, and the OCC was aware of a “core credit portfolio” in the JPM documents it regularly reviewed, the agency first came across explicit mention of the SCP in a routine risk report dated January 27, 2012 (US Senate Report, 227). 
+
+CIO would regularly change the name and organization of its various portfolios, making it difficult for the OCC to track any one specific portfolio. For example before 2012, internal CIO documents (including documents presented to the JPM Board of Directors) typically would reference the “Tactical Asset Allocation” portfolio, which included SCP and other subportfolios. CIO merged the Tactical Asset Allocation portfolio with the “Strategic Asset Allocation” portfolio in January 2012, the same month in which Iksil proposed the expansion and alteration of the credit derivative trading strategy that would ultimately cause the 2012 CIO losses. Drew maintained that these and other changes were made for business reasons, rather than to mislead or confuse regulators (US Senate Report, 221-222). 
+
+OCC examiners met on a quarterly basis with CIO Chief Financial Officer John Wilmot. During the January 27 meeting, Mr. Wilmot told the OCC that the merged Tactical and Strategic portfolios would decrease in size during 2012, with Risk Weighted Assets (RWA) decreasing from $70 billion to $40 billion (US Senate Report, 228). To determine the minimum amount of capital that JPM and other banks must hold, US bank regulators follow the recommendation of the Basel Accords on bank capital by requiring calculation of RWA, which is a dollar measure of a bank’s total assets, adjusted according to the riskiness of the assets. The amount of capital that a bank must hold is calculated as a percent of its RWA. 
+
+
+However, Mr. Wilmot did not inform the OCC that Iksil had received approval on January 26 to reduce SCP’s economic risk by selling large amounts of credit protection on (lower risk) investment-grade companies to offset the credit protection that was purchased on (higher risk) high-yield companies. The OCC instead was left with the impression that SCP risk would be reduced by liquidating some of the existing credit protection that Iksil had purchased, which would have been a simpler approach. In testimony before the US Senate committee investigating the 2012 CIO losses, Wilmot countered that he did not know the specific tactics that the traders would use to reduce RWA (US Senate Report, 229). 
+
+Because the CIO managed a $350 billion bond portfolio arising from JPM’s excess customer deposits (an amount double the size of JPM’s total stockholders’ equity in December 2011), the OCC required the bank to provide it with the following reports of CIO’s assets, profitability, and risk exposures. 
+
+1. Executive Management Reports 
+
+2. Valuation Control Group Reports 
+
+3. Profit and Loss Reports 
+
+First, the monthly Treasury Executive Management Report included basic CIO performance data. The OCC noted that the January 2012 report did not include the usual section on the CIO, but the agency was not aware that the CIO had begun issuing its own executive management report. As a result, the OCC did not receive the new CIO report from January through April. In other words, JPM did not provide, and the OCC did not request, basic performance data at precisely the time that SCP trading positions and losses grew rapidly (US Senate Report, 230). 
+
+Second, JPM also regularly supplied the OCC with reports prepared by CIO’s Valuation Control Group, which reviewed the fair-market values assigned to the SCP and CIO’s other portfolios on a monthly basis. Although the OCC did not receive the CIO Valuation Control Group reports for February and March, the same months in which the traders mismarked the SCP book in an effort to hide their growing losses, the agency failed to request these missing reports until after the first media stories about the London Whale appeared on April 6 (US Senate Report, 230). (A description of the CIO valuation review process, including failure to identify that the SCP traders were not properly marking their positions at fair value, is included in Zeissler, et al. 2014B.) 
+
+Third, the OCC also received monthly CIO profit and loss reports. However, these reports did not list the SCP as a separate line item, thereby obscuring Iksil’s growing losses. Only after JPM informed the OCC in early May that the SCP had lost $719 million during the first quarter and an additional $1.6 billion over the following five weeks, did the OCC insist upon receiving detailed daily SCP profit and loss information. Though JPM complied with this request, OCC examiners found that the data remained too aggregated to be useful, in contrast with the daily profit and loss data that OCC had been receiving from JPM’s Investment Bank for a long time (US Senate Report, 231-232). 
+
+Whereas JPM failed to provide certain required reports and the OCC neglected to request these reports in a timely fashion, the OCC has acknowledged that its on-site examiners received contemporaneous daily notice as CIO exceeded all of its applicable risk limits at one or more points during the first quarter. (CIO risk limits applied to the unit as a whole, rather than to any specific portfolio.) However, even though the OCC retained all of JPM’s marketrisk reports in a central database, the US Senate committee investigating the 2012 CIO losses “found no evidence that the OCC made use of the risk limit reports in its routine regulatory oversight efforts” (US Senate Report, 232-233). 
+
+
+For example, the OCC was contemporaneously notified in January 2012, that the CIO exceeded not only its own Value at Risk (VaR) limit but also the higher bank-wide VaR limit for four consecutive days from January 16-19. The OCC was also informed that the CIO intended to implement a new VaR calculation model as soon as possible to dramatically lower its VaR and eliminate further breaches. Nevertheless, the OCC did not investigate why the breach happened, nor did the agency inquire why a new model would cause such a large reduction in VaR. Similarly, the OCC was aware that CIO did not decrease its VaR limit when the new model was implemented, thereby allowing it to effectively double the market risk that it took. However, the agency did not challenge this. 
+
+## **5. Aftermath** 
+
+On Friday, April 6, 2012, Bloomberg and the _Wall Street Journal_ published the first reports of Iksil’s credit derivatives trades and the possible risks. The OCC acknowledged being surprised by the media stories, despite its role as the primary regulator of the CIO (US Senate Report, 236). 
+
+The OCC immediately asked JPM for additional information about the claims made in the stories. On April 9, the same day that Thomas Curry took office as the 30[th] Comptroller of the Currency, agency examiners met with Drew to discuss the media reports. She reiterated to the regulators that Iksil’s trading strategy was a hedge against stressful credit markets and that no further trading of the type mentioned in the news was planned. The next day, JPM provided the OCC with a summary list of CIO’s derivative positions, but OCC examiners found that the list did not include profit and loss data and omitted certain derivatives altogether. The accompanying e-mail again affirmed that the SCP was a “dedicated hedge” (US Senate Report, 237). 
+
+On April 16, JPM provided the OCC, Federal Reserve, and the Federal Deposit Insurance Corporation with a 13-page written presentation about the SCP book, which was the first written response to the matter given by the bank to its regulators. The material stated that the objective of the “Core Credit Book” since its 2007 inception was to “protect against a significant downturn in credit, offsetting natural credit exposures in CIO and the firm” (US Senate Exhibits, 314). However, the presentation did not further detail to whom JPM was exposed nor the amounts that were being hedged. Furthermore, Wilmot contemporaneously confirmed to the OCC that the SCP book had long credit-risk exposure by this time, thereby adding to the default risk that JPM faced, rather than reducing risk as claimed (US Senate Report, 238). 
+
+The OCC later learned that the first-quarter SCP loss, noted in the presentation as $580 million, had been internally reported at JPM as $719 million (US Senate Report, 238-239). During this period, JPM also failed to inform the OCC that the SCP losses had continued to grow rapidly even though active trading had stopped. Year-to-date losses through April 16 were $1.253 billion, more than $500 million higher than at quarter-end, and more than double what had been disclosed to the OCC in the Synthetic Credit Book Review. 
+
+On April 25, the OCC received a weekly summary indicating that year-to-date losses were $1.4 billion as of April 20. However, the OCC examiner who would have analyzed this report was on vacation, and none of his peers was tasked with monitoring this report in his absence. On May 4, JPM Chief Financial Officer Douglas Braunstein and JPM Chief Risk Officer John Hogan telephoned Waterhouse (the OCC Examiner-in-Charge of JPM) to inform him that the SCP had lost $1.6 billion thus far in the second quarter, after which OCC insisted on daily meetings with JPM (US Senate Report, 243-244). 
+
+
+By the time JPM publicly filed its first-quarter financial results with the Securities and Exchange Commission in a Form 10-Q dated May 10, quarter-to-date mark-to-market losses had reached $2 billion. OCC leadership held differing views of the significance of this amount. Michael Brosnan, the head of Large Bank Supervision, suggested to Comptroller Curry that the losses were more an embarrassment than anything else: “[O]bviously there isn’t a safety issue with these numbers, but there is an embarrassment issue for bank leadership which has overtly expressed pride in their ability to measure and control risk.” Mr. Curry replied, “Isn’t it a little more than an embarrassment issue?” (US Senate Report, 246). Total losses from the London Whale incident reached $6.2 billion by December 2012, however even this figure equaled only 3% of JPM’s total stockholder’s equity. 
+
+## _**OCC Review of JPM**_ 
+
+Determined to learn lessons from the CIO losses, Comptroller Curry called for a two-part internal evaluation of the “adequacy of current risk controls and risk governance at [JPM]” and “lessons learned from this episode that could…improve OCC supervisory approaches” (OCC Testimony 2012, 14). 
+
+When evaluating the safety and soundness of a financial institution, the OCC uses the “CAMELS” framework, which is based on the six elements listed below. After a more rigorous examination of CIO’s risk management, the OCC lowered the bank’s CAMELS rating in July 2012 because of “lax governance and oversight in the Chief Investment Office” (US Senate Report, 26, 249). 
+
+1. Capital adequacy 
+
+2. Asset quality 
+
+3. Management effectiveness 
+
+4. Earnings 
+
+5. Liquidity 
+
+6. Sensitivity to market risk 
+
+Thereafter, the OCC issued six confidential Supervisory Letters during the fall of 2012, listed below, which set forth 20 “Matters Requiring Attention” for which JPM was required to take corrective actions (US Senate Report, 249). 
+
+1. Model Approvals and Risk-Weighted Assets 
+
+2. Audit Coverage of CIO Activities 
+
+3. CIO Risk-Management Review 
+
+4. Examination of VaR-Model Risk Management 
+
+5. Examination of CIO Valuation Governance 
+
+6. CIO Oversight and Governance 
+
+The OCC also took formal enforcement action against JPM. The agency filed a Cease and Desist Order against JPM’s national bank in January 2013, directing it to correct deficiencies in its derivatives trading activity, to which the bank consented (OCC Order AA-EC-2013-01, 1). The Federal Reserve issued a related Cease and Desist Order against JPM’s holding company at the same time. 
+
+
+The OCC was also one of five regulatory bodies that reached settlement agreements in September and October 2013 with JPM over the London Whale losses, penalizing the firm a total of $1.020 billion. While the various regulatory agencies focused on different aspects of the 2012 CIO losses in their respective settlements with JPM, the OCC levied a $300 million fine, the largest single piece of the penalty, for the following unsafe and unsound banking practices (OCC Order AA-EC-2013-75, 3-4). 
+
+1. Inadequate oversight and governance to protect the bank from material risks 
+
+2. Inadequate risk management processes and procedures 
+
+3. Insufficient valuation control processes and procedures 
+
+4. Ineffective internal audit processes and procedures 
+
+5. Inadequate model-risk-management practices and procedures 
+
+## _**OCC Review of Itself**_ 
+
+The OCC completed a confidential report in October 2012 with several recommendations for improvement of its Large Bank Supervision division (US Senate Report, 250). Though the self-evaluation report was confidential, as noted, Comptroller Curry’s testimony before the US Senate in March 2013 shed some light on the following actions that the OCC would take to strengthen bank supervision in the future (OCC Testimony 2013, 12-16). 
+
+1. The need to obtain and verify timely, accurate, and complete information 
+
+2. The need to identify and apply resources with prerequisite skills 
+
+3. The need to apply Matters Requiring Attention appropriately 
+
+4. The need for regular review of internal Risk-Weighted Asset models and reporting 
+
+5. The need to look across business lines and locations and coordinate with other supervisors 
+
+6. The need to identify risks associated with risky siloed business activities 
+
+7. The need to identify changes in strategic direction 
+
+8. The need to improve internal OCC information management systems 
+
+In addition, the OCC commissioned a team of international regulators from Australia, Canada, and Singapore to review OCC’s approach to supervising large and midsize financial institutions. The report issued December 4, 2013, made broad recommendations in six areas: mandate and priorities, risk identification and reporting, early intervention, supervision staffing, supervisory methodology, and enterprise governance. 
+
+One of the recommendations most pertinent to the 2012 CIO losses was to “[r]elocate examiners that are resident in commercial banks to common OCC premises” to promote better communication among examination teams, to foster actual and perceived OCC independence from the banks being supervised, and to allow more flexible human resource management (OCC International Review 20113, 16). 
+
+
+## **References** 
+
+JPMorgan Chase & Company. 2011. _Form 10-K._ Filed February 29, 2012, for the year ended December 31, 2011. 1, 62. (JPM 10-K 2011) 
+
+Office of the Comptroller of the Currency. 2011. _Annual Report: Fiscal Year 2011_ . September. i-ii. 
+
+____________. 2011. _The OCC’s Strategic Plan: Fiscal Years 2012-2016_ . September. 1-13. 
+
+____________.2012. Testimony of Thomas J. Curry, Comptroller of the Currency, before the Financial Services Committee, United States House of Representatives. June 19. 1-16. (OCC Testimony 2012) 
+
+____________.2013. OCC Consent Order AA-EC-2013-01: In the Matter of JPMorgan Chase Bank, N.A., Columbus, Ohio. January 14. 1-27. (OCC Order AA-EC-2013-01) 
+
+____________.2013. Testimony of the Office of the Comptroller of the Currency before the Permanent Subcommittee on Investigations, Committee on Homeland Security and Governmental Affairs, United States Senate. March 15. 1-21. (OCC Testimony 2013) 
+
+____________.2013. OCC Consent Order AA-EC-2013-75: In the Matter of JPMorgan Chase Bank, N.A., Columbus, Ohio. September 19. 1-6. (OCC Order AA-EC-2013-75) 
+
+____________.2013. An International Review of OCC’s Supervision of Large and Midsize Institutions. December 4. 1-23. (OCC International Review 2013) 
+
+Ruhle, Stephanie, Bradley Keoun, and Mary Childs. 2012. “JPMorgan Trader’s Positions Said to Distort Credit Indexes,” Bloomberg. April 6. (Bloomberg 2012) 
+
+United States Senate Permanent Subcommittee on Investigations. 2013. _JPMorgan Chase Whale Trades: A Case History of Derivatives Risks and Abuses (Exhibits)._ March 15. 15-30, 3637, 314-325 [note: page numbers as used in the Adobe Acrobat page navigation toolbar]. (US Senate Exhibits) 
+
+____________.2013. JPMorgan Chase Whale Trades: A Case History of Derivatives Risks and Abuses (Majority and Minority Staff Report). March 15. 216-251. (US Senate Report) 
+
+Zeissler, Arwin G., and Andrew Metrick. 2014B. _JPMorgan Chase London Whale B: Derivatives Valuation_ , Yale Program on Financial Stability Case Study 2014-2B-V1, December 1, 2014, Revised: August 26, 2019. 
+
+Zeissler Arwin G., and Andrew Metrick, 2014C. _JPMorgan Chase London Whale C: Risk Limits, Metrics and Models_ , Yale Program on Financial Stability Case Study 2014-2C-V1, December 1, 2014, Revised: July 20, 2015. 
+
+Zuckerman, Gregory and Katy Burne. 2012. “London Whale Rattles Debt Market,” _Wall Street Journal_ . April 6. (WSJ 2012) 
+
+
+Development of this case has been supported by a generous grant from the Alfred P. Sloan Foundation to the Yale Program on Financial Stability. 
+
+Copyright 2014, 2015, 2019 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu. 
+
+
+## **Appendix 1: Timeline of Key Events** 
+
+|1863||Office of the Comptroller of the Currency (OCC) formed.|
+|---|---|---|
+|||JPMorgan Chase & Company (JPM) spun off the Chief|
+|2005||Investment Office (CIO) as a separate unit to invest the bank’s<br>excess deposits. Ina Drew, JPM’s Chief Investment Officer, was|
+|||appointed head of CIO.|
+|2006||CIO approved a proposal by Achilles Macris to trade credit<br>derivatives.|
+|2011|January 27|Increased trading activity in CIO’s Synthetic Credit Portfolio<br>(SCP) caused the CIO to exceed its stress loss risk limit for the|
+|||next seven weeks.|
+|2012|January|CIO merged its Tactical Asset Allocation portfolio, which<br>included the SCP, with the Strategic Asset Allocation portfolio.|
+|||CIO meeting at which Bruno Iksil proposed expanding SCP|
+||January 26|purchases of credit protection on high-yield corporate bonds,<br>while selling even larger amounts of default protection on|
+|||investment-grade corporate bonds.|
+||January 27|Earliest explicit mention of SCP as a separate portfolio within<br>CIO.|
+|||OCC held a regularly quarterly meeting CIO Chief Financial|
+||January 31|Officer John Wilmot, who indicated that CIO Risk Weighted<br>Assets would decrease from $70 billion to $40 billion during|
+|||2012.|
+|||Ina Drew (JPM Chief Investment Officer and head of CIO)|
+||March 23|ordered the CIO traders to stop trading the Synthetic Credit|
+|||Portfolio (SCP).|
+||April 6|Bloomberg and the_Wall Street Journal_published the first<br>news stories about the “London Whale.”|
+|||Thomas Curry took office as the 30thComptroller of the|
+||April 9|Currency. OCC examiners met with Ms. Drew to discuss the|
+|||media reports.|
+||April 10|JPM provided the OCC with a summary list of CIO derivative<br>positions, but did not include profit and loss data and omitted|
+|||certain derivatives altogether.|
+|||JPM provided to the OCC, FDIC, and Federal Reserve a 13-page|
+||April 16|written presentation about the SCP book, which was the first<br>written response to the matter given by the bank to its|
+|||regulators.|
+
+
+
+
+|||JPM Chief Financial Officer Douglas Braunstein and JPM Chief|
+|---|---|---|
+||May 4|Risk Officer John Hogan telephoned the OCC Examiner-in-<br>Charge of JPM to inform him that the SCP had lost $1.6 billion|
+|||thus far in the second quarter.|
+||Fall|The OCC issued six Supervisory Letters to JPM, with 20<br>Matters Requiring Attention that the bank needed to correct.|
+||December<br>31|Year-to-date SCP losses = $6.2 billion.|
+|2013|January|The OCC filed a Cease and Desist Order against JPM, directing<br>it to correct deficiencies in its derivatives trading activity.|
+||September-<br>October|Four regulators in the US and one in the UK reached<br>settlement agreements with JPM, totaling $1.020 billion in<br>penalties.|

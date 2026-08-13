@@ -1,0 +1,519 @@
+## France Société de prise de participation de l’État (SPPE)[1] 
+
+_Devyn Jeffereis[2]_ 
+
+Yale Program on Financial Stability Case Study November 12, 2021 
+
+## **Abstract** 
+
+As the Global Financial Crisis deepened, the bankruptcy of Lehman Brothers on September 15, 2008, and ensuing contagion began affecting the French economy and financial system. France experienced declines in major economic indicators such as GDP, household consumption, and investment. In addition, the ensuing credit crunch in financial markets resulted in the seizing up of various lending markets. Due to conservative business practices, a consolidated market structure, and a sound regulatory framework, the French banks were relatively better situated than their European counterparts to weather the crisis. However, the French authorities instituted a precautionary recapitalization scheme in order to “restore market confidence” in these institutions. The French government created the Société de prise de participations de l’État (SPPE), a limited liability company that it wholly owned, in October 2008. It initially participated in the global bailout of Dexia, a struggling Belgian-based European bank, and then began performing precautionary recapitalizations to the broader French banking system. In order to finance itself, the SPPE issued government-guaranteed debt to inject capital into financially sound banks. Banks applied to receive funds from the SPPE during two separate rounds in exchange for behavioral commitments, such as lending growth and limits on executive compensation. From December 11, 2008, through the first half of 2009, the government injected more than €20 billion (US$29 billion) into six major French banking groups in the form of preference shares and subordinated debt. The recipients of capital injections, with the exception of Dexia, paid back all capital and interest owed to the SPPE by May 19, 2011, resulting in a net profit of €0.8 billion. 
+
+**Keywords:** French banks, precautionary recapitalization, preference shares, Titres super subordonnés à durée indéterminée (TSS), two-phase injection, voluntary, SPPE 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering the responses to the Global Financial Crisis that pertain to broad-based capital injections. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **At a Glance** 
+
+## **Summary of Key Terms** 
+
+Following the bankruptcy of Lehman Brothers on September 15, 2008, and the ensuing contagion, the French economy and financial industry began experiencing strain. In response, the French government created a limited liability company, which it wholly owned, called the Société de prise de participations de l’État (SPPE) in October 2008. It initially participated in the global bailout of Dexia, a struggling Belgian-based European bank, and then began performing precautionary recapitalizations to the broader French banking system. In order to finance itself, the SPPE issued governmentguaranteed debt to inject capital into financially sound banks. The participant banks received voluntary capital injections in exchange for a number of behavioral commitments, including executive compensation and lending targets. These commitments aligned with its stated goal to “increase lending to the real economy by 3% to 4% per year” and “achieve an average increase of 0.5% in each banking group’s Tier One capital.” 
+
+The first injection of €10.5 billion (US$15 billion[3] ) consisted of deeply subordinated debt called Titres super subordonnés à durée indéterminée (TSS) and provided capital to six major French banking groups on December 11, 2008. For the second injection, banks were allowed to issue either newly available preference shares 
+
+||Purpose: To “increase lending to the real economy|Purpose: To “increase lending to the real economy|
+|---|---|---|
+||by 3% to 4% per year”<br>increase of 0.5% in each<br>capital” (BdF 2010a).<br>Announcement Date|and “achieve an average<br>banking group’s Tier One<br>October 20, 2008|
+||Operational Date|December 11, 2008|
+||End of Issuance Window|August 30, 2009|
+|||(extended from June 8,|
+||Legal Authority|2009)<br>Article 6 of Loi no.<br>2008-1061 du 16|
+|||octobre 2008 de|
+|||finances rectificative|
+||Peak Utilization|pour le financement de<br>l’économie<br>€10.5 billion (1st phase)|
+|||€11.85 billion (2nd|
+||Participants|Phase)<br>Société Générale, BNP<br>Paribas, Groupe Crédit<br>Agricole, Groupe Crédit|
+|||Mutuel, Groupe Caisses<br>d’Epargne, Groupe|
+|||Banques Populaires|
+||Administrators|Commission Bancaire<br>(CB); Agence France<br>Trésor (AFT); Agence<br>des Participations de|
+|||l’État (APE)|
+
+
+
+(core Tier 1 capital) or the TSS used in the first injection (non-core Tier 1 capital), depending on the quality of capital specific banks required. The French government also allowed banks to exchange TSS issued during the first injection for the newly available preference shares. Throughout the first half of 2009, the French government injected 
+
+> 3 Between 2008 and 2011, the exchange rate was between €0.65 and €0.80 = US$1. This case study uses €0.7 = $1. 
+
+
+€11.85 billion into four of the original six banks. The recipients of capital injections, with the exception of Dexia, paid back all capital and interest owed to the SPPE by May 19, 2011, resulting in a net profit of €0.8 billion. 
+
+## **Summary Evaluation** 
+
+The SPPE successfully increased Tier 1 ratios of participating banks, provided protection from liquidity and solvency risks, and allowed banks to raise capital in private markets. In addition, all recipients of capital injections, with the exception of Dexia and the newly merged BPCE, paid back their shares by December 2009. BPCE paid back all capital and interest owed to the SPPE by May 19, 2011, resulting in a net profit of €0.8 billion from the intervention, not including the Dexia stake. However, there is disagreement regarding whether the behavioral commitments that the French government demanded in return for capital injections were sufficiently onerous. 
+
+
+|**France Context 2007– 2008**|**France Context 2007– 2008**|
+|---|---|
+|**GDP**<br>**(SAAR, nominal GDP in LCU converted to**<br>**USD)**|$2,664.5 billion in 2007<br>$2,930.2 billion in 2008|
+|**GDP per capita(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$41,508 in 2007<br>$45,334 in 2008|
+|**Sovereign credit rating (five-year senior**<br>**debt)**|As of Q4, 2007:<br>Fitch: AAA<br>Moody’s: Aaa<br>S&P: AAA<br>As of Q4, 2008:<br>Fitch: AAA<br>Moody’s: Aaa<br>S&P: AAA|
+|**Size of banking system**|$2,672.8 billion in total assets in<br>2007<br>$3,118.1 billion in total assets in<br>2008|
+|**Size of banking system as a percentage of**<br>**GDP**|100.4% in 2007<br>106.4% in 2008|
+|**Size of banking system as a percentage of**<br>**financial system**|_Data not available._|
+|**Five-bank concentration of banking system**|74.2% of total banking assets in 2007<br>73.3% of total banking assets in 2008|
+|**Foreign involvement in banking system**|6.0% of total banking assets in 2007<br>6.0% of total banking assets in 2008|
+|**Government ownership of banking system**|_Data not available._|
+|**Existence of deposit insurance**|Up to $100,000 in early December<br>2008|
+|_Sources: Bloomberg; World Bank Global Financial Development Database; Fonds de_<br>_Garantie des Dépôts et de Résolution; Organisation for Economic Co-operation and_<br>_Development._||
+
+
+
+
+## **I. Overview** 
+
+## **Background** 
+
+The French financial system had been large and complex in the years prior to the financial crisis, accounting for 10% of the global banking system and 5% of global capital markets. Due to its substantial size, it was integral to the European and international banking system. The primary players within this market were a few large universal banks that provided a wide array of financial services (Xiao 2009). For example, six French banking groups—Société Générale, BNP Paribas, Groupe Crédit Agricole, Groupe Crédit Mutuel, Groupe Caisses d’Epargne, and Groupe Banques Populaires—represented more than 80% of France’s net banking income (EC 2008). With the exception of HSBC, foreign banks were unable to penetrate this concentrated market. Although, it is important to note that mergers and acquisitions across European borders often muddled the national affiliations of banking groups (Xiao 2009). 
+
+In general, the French banking sector was better situated during the financial crisis in comparison to its European neighbors due to a number of structural reasons. Since the major banks adhered to a universal business model, providing a wide range of services, they had a stable source of funding through deposits. They also had high capital ratios and less exposure to subprime lending. Alternatively, French consumers, stemming from cultural norms, were hesitant to accrue debt. Stringent usury laws protected these consumers, making risky lending more difficult. French banks also provided home equity lines of credit to consumers later than in the US, which limited the domestic credit expansion in housing (Conac 2010). From a regulatory perspective, although the Commission Bancaire (CB), the main French banking regulator, did liberalize its supervision immediately before the crisis, it required banks to hold better quality capital above Basel-dictated standards (Conac 2010; Xiao 2009). In particular, the CB limited banks’ holdings of non-core Tier 1 capital to 25% of core Tier 1 capital, which was lower than the limits in neighboring countries (Conac 2010). The CB raised this ceiling to 35% in November 2008 so banks could take full advantage of the injections (EC 2008). 
+
+France’s favorable position required unique interventions tailored to its specific needs. As the crisis deepened, the bankruptcy of Lehman Brothers on September 15, 2008, and contagion of the Global Financial Crisis began impacting the French economy (Xiao 2009). French GDP growth fell from 2.3% in 2007 to 0.3% in 2008, the worst rate in 15 years. Similar to the rest of the euro area, France experienced substantial declines in major economic indicators, with household consumption decreasing from 2.4% growth in 2007 to 0.9% in 2008 and investment slowing from 6.5% in 2007 to 0.4% in 2008 (BdF 2009). In financial markets, the collapse of Lehman sparked turmoil across the globe. This shock resulted in the seizing up of various lending markets, including interbank, senior unsecured, securitized, and covered bonds. The credit crunch led to declining equity prices, increased volatility, and widening spreads, which required government intervention across the globe, including France (Xiao 2009). 
+
+## **Program Description** 
+
+Following a Group of Seven (G7) industrialized nations meeting on October 10, 2008, which focused on guiding principles for action during the financial crisis, the French government pursued a dual approach to aid their banking system that included _the Société de financement de l’économie française_ (SFEF) and _Société de prise de participation de l’État_ (SPPE). The SFEF provided French banks with medium- and long-term financing when difficult to find in private markets (BdF 2009). The French government created the SPPE in 
+
+
+October 2008 as a limited liability company to perform recapitalizations. Its first injection was €1 billion toward the international bailout of Dexia SA, a troubled Belgium-based bank with operations across Europe, in return for a 5.7% stake in the company (SPPE 2010). As the financial crisis spread in the fall of 2008, even relatively healthy French banks faced issues stemming from a global “flight-to-quality” and credit crunch (Xiao 2009). In December 2008, SPPE began a broad recapitalization scheme for French banks in order to ensure they continued lending to the economy (BdF 2009). Even though the banks that received assistance were sound, with the exception of Dexia, the SPPE attempted to “restore market confidence” in these institutions. At the time, markets were putting substantial pressure on banks, which could have resulted in reduced lending and negative impacts on the overall French economy (EC 2008). This case study focuses on the bank recapitalizations conducted by the SPPE. 
+
+The French National Assembly passed a law giving the SPPE the authority to recapitalize banks on October 16, 2008 (L’Assemblée nationale et le Sénat 2008). Market expectations, stemming from the announcement of assistance by the Dutch government to ING, sped up the public announcement of this plan, which occurred on October 20, 2008 (Lagarde 2008). On December 3, 2008, the French government then submitted an outline of the program to the European Council, which approved it on December 8, 2008 (EC 2008). The SPPE performed two rounds of capital injections, €10.5 billion in December 2008 and €11.85 billion during the first half of 2009, bringing the total intervention to €22.35 billion. Through these actions, the government hoped “to increase lending to the real economy by 3% to 4% per year” and “achieve an average increase of 0.5% in each banking group’s Tier One capital” (BdF 2010a). The SPPE funded itself by issuing state-guaranteed debt (EC 2008). 
+
+The first injection of €10.5 billion occurred on December 11, 2008, and was provided to Société Générale (€1.7 billion), BNP Paribas (€2.55 billion), Groupe Crédit Agricole (€3.0 billion), Groupe Crédit Mutuel (€1.2 billion), Groupe Caisses d’Epargne (€1.1 billion), and Groupe Banques Populaires (€0.95 billion; see Figure 1 for an outline of the SPPE injections) (Conac 2010; EC 2008). All these banking groups applied to receive capital and were not obligated to do so. Although the budget for the scheme was €21 billion, the European Commission (EC) authorized the SPPE to inject €10.5 billion in the first round, with the option for banks to subscribe to a second injection in 2009 if market conditions continued to worsen (EC 2008). 
+
+The capital used for the first injection consisted of deeply subordinated debt securities commonly found in French markets, known in French as _Titres super subordonnés à durée indéterminée_ (TSS) (EC 2008). The TSS were more like equity than the subordinated debt that US banks typically issue, in that they were perpetual, or matured after 99 years, and loss-absorbing. For this reason, they qualified as non-core Tier 1 capital (EC 2008; Jabko and Massoc 2012). The TSS issued to the SPPE paid a penalty interest rate. The CB partly based the interest rate on each bank’s average credit default swap spread or credit rating, to reflect individual bank’s relative riskiness. In addition, the nominal amount banks owed on redemption increased each year, to encourage banks to redeem as quickly as possible. In return for the injection of government capital, banks were required to adhere to a number of behavioral constraints, including limitations on executive compensation and commitments to increase their lending. However, these commitments were not legally binding or backed by sanctions; instead, the CB relied on the reputational damage of noncompliance (EC 2008). The CB limited TSS issuance to 35% of a bank’s total Tier 1 capital. 
+
+On January 21, 2009, the French authorities submitted to the European Commission an amendment to the original application describing the terms of its second round of capital 
+
+
+injections. In this round, banks had the option of issuing TSS (with the same characteristics as before) or preference shares. The EC approved the amendment on January 28, 2009, allowing banks to issue €11.85 billion of TSS or preference shares until August 30, 2009 (EC 2009a). 
+
+The beneficiary banks were required to issue preference shares that had similar characteristics to TSS, such as Tier 1 capital, nonvoting, and loss-absorbing. However, the preference shares were a form of equity and bore losses before the TSS. As such, they qualified as core Tier 1 capital. There were no limits placed on dividends by the participating banks; however, the CB prioritized dividend payments to preference shares held by the SPPE over ordinary shareholders. They could account for up to 50% of the share capital of an unlisted company and 25% of the share capital of a listed company, higher than the limits for TSS. Since preference shares were more subordinate, and therefore riskier, their remuneration was higher than that of the TSS (EC 2009a). 
+
+Banks could use the funds raised from issuing preference shares to redeem TSS they had issued in the first injection (BdF 2010a). Only BNP Paribas took advantage of this provision. It issued €5.1 billion of preference shares and used approximately half of those funds to repurchase TSS, resulting in a net issuance of €2.55 billion. Of the six banks that participated in the first injection, Société Générale (€1.7 billion), BNP Paribas (€5.1 billion), Groupe Caisses d’Epargne (€1.1 billion), and Banques Populaires Groupe (€0.95 billion) participated in the second injection. Groupe Crédit Agricole and Groupe Crédit Mutuel declined to participate (see Figure 1 for an outline of the SPPE injections) (BdF 2010b). 
+
+[FIGURE id=vol3_iss3_5_f1 type=figure label="Figure 1" file=figure_1.png caption="Outline of SPPE Injections"]
+### **Figure 1: Outline of SPPE Injections**
+
+|**Financial Institutions**|**First Injection (€ billions)**|**Second Injection (€ billions)**|
+|---|---|---|
+|Société Générale|1.7|1.7|
+|BNP Paribas|2.55|5.1*|
+|Groupe Crédit Agricole|3.0|—|
+|Groupe Crédit Mutuel|1.2|—|
+|Groupe Caisses d’Epargne|1.1|1.1|
+|Groupe Banques Populaires|0.95|0.95|
+|**Total**|**10.5**|**11.85****|
+
+
+
+* BNP used approximately half of the funds from the €5.1 billion preference shares issued in the second injection to redeem TSS issued during the first injection, resulting in a net second injection amount of €2.55 billion. 
+
+** The French government injected an additional €3 billion to assist in the merger of Groupe Caisses d’Epargne and Groupe Banques Populaires. 
+
+_Source: BdF 2010b._ 
+
+
+The second injection increased each bank’s Tier 1 capital by an additional 0.5% (BdF 2010a). Participating banks could exit the scheme by buying back the shares or debt at any time, subject to the CB’s consent (EC 2009a). Due to the costly nature of the securities, along with improved economic and financial conditions, most participants repurchased their TSS and preferred shares by December 2009 (BdF 2010a). The only exception was the newly Groupe Banques Populaires and Groupe Caisses d’Epargne (BPCE) (Conac 2010). Following the final repayment of capital by BPCE on March 23, 2011, and its payment of 2010 dividends on May 19, 2011, the SPPE intervention during the Global Financial Crisis was closed. In total, interventions through the SFEF and SPPE resulted in a net profit of €2.7 billion, with the SPPE (not including its Dexia stake) accounting for €0.8 billion of that total (see Figure 2 for the assets held by the SPPE) (Sénat 2011). 
+
+However, the SPPE did not close following the redemption of the capital injections, as it continued to house shares of Dexia. The SPPE went on to participate in the second international Dexia bailout in 2012 (Dexia 2019; Jabko and Massoc 2012). According to the Dexia 2018 Annual Report, the SPPE still held 196,658,798 shares (46.81%) at the end of 2018, as the company continued to liquidate (Dexia 2019). 
+
+[FIGURE id=vol3_iss3_5_f2 type=figure label="Figure 2" file=figure_2.png caption="Assets Held by the SPPE"]
+### **Figure 2: Assets Held by the SPPE**
+
+||**Type of Assets**|**Issuers**|**Amount (as of October**<br>**22, 2009)**|**Amount (as of June 6,**<br>**2011)**||
+|---|---|---|---|---|---|
+||Titres<br>super<br>subordonnés à durée<br>indéterminée (TSS)|Groupe<br>Banques<br>Populaires|€1.95 billion|—||
+|||Groupe<br>Banques<br>Populaires<br>–<br>Groupe<br>Caisses<br>d’Epargne<br>merger group|€1.2 billion|—||
+|||Groupe<br>Caisses<br>d’Epargne|€2.1 billion|—||
+|||Groupe Crédit Agricole|€3.0 billion|—||
+|||Société Générale|€1.7 billion|—||
+||Preferred shares|BNP Paribas|€5.1 billion|—||
+|||Société Générale|€1.7 billion|—||
+|||Groupe<br>Caisses<br>d’Epargne|€3.0 billion|—||
+||Ordinary shares|Dexia|€0.6 billion|€0.3 billion||
+
+
+
+_Source: SPPE n.d._ 
+
+
+## **II. Key Design Decisions** 
+
+**1. Part of a Package: The SPPE was part of a two-pronged approach aimed at recapitalizing banks and providing refinancing assistance.** 
+
+In response to the Global Financial Crisis, the French government created two schemes, the Société de financement de l’économie française and Société de prise de participation de l’État, to aid their banking sector through refinancing assistance and capital injections. The SFEF was a special purpose vehicle majority owned by France’s leading banks that provided financing in exchange for collateral.[4] In order to fund itself, the financing vehicle issued bonds guaranteed by the French government (BdF 2009). The SPPE, a limited liability company wholly owned by the French government, was financed by short-term debt guaranteed and issued by the French government and subscribed to subordinated debt or preference shares issued by banks (BdF 2009; SPPE 2010). 
+
+**2. Legal Authority: The legal basis for the SPPE was Article 6 of the LOI no. 20081061 du 16 octobre 2008 de finances rectificative pour le financement de l’économie.** 
+
+On October 10, 2008, the Group of Seven industrialized nations created five principles to guide government action during the financial crisis. One of the guiding principles that directly applied to the SPPE involved “recapitalising public and private financial institutions where required” (BdF 2009). Following the G7 meeting, the French presidency of the European Union hosted a summit of the euro area on October 12, 2008, where euro area leaders collectively agreed on the need for emergency measures (Jabko and Massoc 2012). The French government then convened an emergency legislative procedure on October 16, 2008, to pass its own plan. Article 6 of the Law no. 2008-1061 of October 16, 2008, to rectify finance for the financing of the economy was adopted within one week and allowed for the creation of both a recapitalization and a refinancing program (Conac 2010; L’Assemblée nationale et le Sénat 2008). 
+
+## **3. Legal Authority: The European Commission approved the SPPE under Article 87(3)(b) of the EC Treaty as permitted State Aid but required some changes to the plan.** 
+
+Prior to approving the SPPE, the European Commission was required to determine whether the scheme represented State Aid (State Aid N/613 2008). If the EC concluded the SPPE was state aid then it would have an anti-competitive impact on the common market and require further legal scrutiny. According to Article 87(1), State Aid is defined as below: 
+
+any aid granted by a Member State or through state resources in any form whatsoever which distorts or threatens to distort competition by favouring certain undertakings or the production of certain goods shall, insofar as it affects trade between Member States, be incompatible with the common market (EC 2008). 
+
+> 4 See Fang (2020) for more information on the Société de financement de l’économie française (SFEF). 
+
+
+Although the French government argued that the scheme did not constitute State Aid, ultimately the EC disagreed. 
+
+As a result, the SPPE had to be approved under Article 87(3)(b), which affirms that State Aid “may be considered to be compatible with the common market: (b) aid […] to remedy a serious disturbance to the economy of a Member State.” The EC determined that the SPPE was permitted under this provision as the program was well targeted (“in the case in point, to remedy a serious disturbance in the economy of a Member State”), necessary, and proportionate (EC 2008). The French government initially allocated €40 billion for the SPPE, but the EC revised this budget to €21 billion following its approval of the plan (BdF 2009). Furthermore, the EC implemented a two-stage intervention that allowed the second injection only if markets conditions warranted it, along with a six-month application window. The EC described these measures as an “additional safeguard against excessive intervention by the State” (EC 2008). 
+
+## **4. Communications: The French government accelerated communications of the plan’s details following the capital injection of €10 billion to ING by Dutch authorities.** 
+
+On October 19, 2008, the Dutch government announced that it would inject €10 billion of nonvoting preferred shares into ING. This followed the announcement of the Troubled Assets Relief Program, a $700 billion package announced by the United States. ING described the funds as “a strong buffer to navigate the current market and economic environment” (Jolly 2008). As a result, markets expected comparable schemes aimed at improving capital ratios by other countries (Conac 2010). In particular, these injections from various national authorities had “raised the bar for capital ratios” and led people to believe “there are new capital standards in the market” (Jolly 2008). 
+
+Christine Lagarde, the French minister of the economy, industry, and finance, testified on October 22, 2008, to the French National Assembly Finance Committee that the impetus behind announcing the plan on October 20, 2008, was the Dutch intervention. She explained that market expectations for similar plans by other European countries following the Dutch government’s October 19 announcement weighed heavily on banks’ share prices during the morning of October 20, 2008. In response, the French government decided to remove the uncertainty and announce the plan that night. Lagarde clarified that the plan had been in the works for several days and the Dutch announcement did not affect the details of the plan, but changed the application schedule (Lagarde 2008). 
+
+The SPPE communicated its operations through the issuance of annual reports and the Agence des Participations de l’État (APE), the French government shareholding agency, absorbing its financial statements (SPPE 2010). The SPPE also had to report on the implementation of the bank rescue plan to the legislature and the EC after the first six months (EC 2008; L’Assemblée nationale et Sénat 2008). 
+
+
+**5. Governance/Administration: The French state was the SPPE’s sole shareholder and contracted certain management duties to government agencies and third parties.** 
+
+The French government created the SPPE as a simplified joint stock corporation ( _Société par actions simplifiée_ ) and limited liability company with the French government as its only shareholder (Conac 2010; SPPE 2010). It had no employees and awarded no compensation to its directors or executive management (SPPE 2010). In order to manage its assets, the SPPE delegated roles to government and external agencies. For example, Ernst & Young performed an external audit of the SPPE financial statements in accordance with applicable French law for the year ended December 31, 2010 (SPPE 2011). The Agence France Trésor (AFT), the government agency responsible for managing public debts, managed debt issuances by the SPPE, including the handling of margin calls and hedging foreign exchange exposures. As previously mentioned, the APE absorbed the SPPE financial statements onto its balance sheet (SPPE 2010). The Commission Bancaire, the primary regulator for both banks and investment firms, performed functions such as assessing potential participants and approving bank applications for exiting the program (EC 2008). 
+
+**6. Size: The French government initially allocated €40 billion for the SPPE, but the EC revised this budget to €21 billion and planned to inject capital in two phases.** 
+
+The EC approved the initial injections along with the option for a second installment of an identical amount under matching conditions should market conditions continue to deteriorate (EC 2008). Approximately a month and a half after the EC approved the initial plan on December 8, 2008, the French government notified the EC of a second installment on January 21, 2009. The EC approved the second installment on January 28, 2009, noting that the market conditions that led to the first installment still prevailed (EC 2009a). The CB calculated both injection amounts to increase the Tier 1 ratios of participating banks by 0.5%. In total, the two installments brought the initial budget to €21 billion (EC 2008). 
+
+**7. Size: The French government requested and received an additional €500 million into the merged Caisses d’Epargne and Banques Populaires entity.** 
+
+In addition to adding preference shares to the second injection, the French government increased the budget by €500 million to bolster the merged Caisses d’Epargne and Banques Populaires’ Tier 1 ratio by 50 basis points (EC 2009b). Although Caisses d’Epargne and Banques Populaires individually received €1.1 billion and €0.95 billion, respectively, the French authorities felt further capital was required as the merged entities would consolidate all of their risk-weighted assets but only a portion of their share capital (BdF 2010b). The EC approved the increase in budget, and the merged BPCE entity received the additional €3 billion following its merger on July 31, 2009 (EC 2009b). 
+
+## **8. Source of Injections: The SPPE funded itself by issuing short-term, stateguaranteed bonds.** 
+
+The SPPE funded itself by issuing debt guaranteed by the state. These bonds were irrevocable, unconditional, first demand (an added form of protection in which the creditor is guaranteed repayment regardless of other transactions), ensured through the _Caisse de_ 
+
+
+_la Dette Publique_ (French Public Debt Fund), a fund that backs the creditworthiness of the French government in financial markets, and available in any currency of the Organisation for Economic Co-operation and Development (EC 2008; SPPE 2009). The minister of the economy dictated the specific characteristics for each funding operation, such as duration and guarantee size (EC 2008). SPPE bonds primarily consisted of short-term notes because yields on short-term debt were significantly lower, and therefore cheaper, than those on longer-term debt. Also, banks had a strong motivation to redeem capital injections quickly (Conac 2010). 
+
+## **9. Eligible Institutions: The application to receive SPPE injections was open to credit institutions satisfying set criteria.** 
+
+The French authorities outlined a set of criteria for credit institutions, including foreign subsidiaries operating in France, in order to qualify for capital injections under the SPPE (EC 2008). The criteria were based off of the Article 87(3)(b) provision (see “Key Design Decision No. 3”) that the program was approved under. The credit institutions satisfying the following criteria were eligible to apply for recapitalization by the SPPE: 
+
+- (1) Authorized in France and supervised under the French Monetary and Financial Code; 
+
+- (2) In compliance with the own funds [regulatory capital] requirement in the French Monetary and Financial Code; 
+
+- (3) In a financial position to be able to guarantee its long-term viability and to present a positive economic situation in accordance with the criteria normally used in the banking sector; 
+
+- (4) Previously concluded an agreement with the state fixing the consideration provided for by law; and 
+
+- (5) In such a position that a severe and sudden reduction in its activity would have a serious impact on the French economy (State Aid N/613 2008). 
+
+The CB examined and approved individual bank applications based on the above qualifications. Ultimately, six French banking groups applied to receive funds, and all were approved (EC 2008). 
+
+## **10. Eligible Institutions: The capital injection program relied on voluntary participation by eligible credit institutions.** 
+
+The SPPE focused on providing funds to a large number of financially sound banks rather than rescuing near-bankrupt institutions (Jabko and Massoc 2012). The intervention was a precautionary measure to shore up capital ratios and spur lending to the French economy (Conac 2010). Therefore, there were no legal requirements or sanctions enacted to compel banks to receive funds (EC 2008; Jabko and Massoc 2012). The CB was responsible for reviewing and approving these applications. The participants, which represented more than 80% of France’s net banking income, included Société Générale, BNP Paribas, Groupe 
+
+
+Crédit Agricole, Groupe Crédit Mutuel, Groupe Caisses d’Epargne, and Groupe Banques Populaires. HSBC France was eligible to receive funds through the scheme but declined to apply (EC 2008). 
+
+Some of the six participating institutions, including Société Générale, publicly expressed hesitation regarding the capital injections. Conac cited this reluctance as evidence that the program was not necessarily voluntary—in other words, the government was pressuring banks to accept the funds. He stated, “By forcing all major French banks to participate into the scheme, the Government prevented the market from identifying a weaker one and creating a panic” (Conac 2010). This issue also arose during Christine Lagarde’s testimony on October 22, 2008, when Dominique Baert, a member of the French National Assembly Finance Committee, expressed concern about providing funds to nonstruggling institutions. He questioned whether providing capital to all institutions hid those that really needed it from the markets (Lagarde 2008). 
+
+## **11. Capital Characteristics: The first capital injection consisted of deeply subordinated, hybrid debt securities.** 
+
+On December 11, 2008, the SPPE injected €10.5 billion into six French banks through a subordinated-debt security called _Titres super subordonnés à durée indéterminée_ (Conac 2010; EC 2008). TSS were hybrid debt securities with a maturity of 99 years (or perpetual) and were commonly issued by French banks prior to the crisis (EC 2008). Lagarde characterized them as halfway between debt and capital in her testimony (Lagarde 2008). 
+
+For these securities to qualify as Tier 1 capital, they had to fulfill Basel requirements of permanent type, subordination ranking placing the bearers just before shareholders (including preference shares), and ability to absorb losses. The CB categorized TSS as noncore Tier 1 and set a ceiling of 35% of total Tier 1 capital (EC 2008). 
+
+Additional requirements included: 
+
+- (1) Maturity of 99 years or perpetual; 
+
+- (2) Two-phase remuneration; 
+
+- (3) Subordination level over shareholders and to holders of the issuer’s equity securities; 
+
+- (4) Subordination level below holders of bond instruments; 
+
+- (5) Obligatory interest payments following remuneration of capital shareholders; 
+
+- (6) Loss absorbing; and 
+
+- (7) Reimbursement at any time, pending approval by the CB (EC 2008). 
+
+There were a number of reasons behind the French government’s decision to limit injections to TSS instead of more subordinated securities such as ordinary or preference 
+
+
+shares. Since participating banks were solvent and healthy, injections of better-quality capital were not necessary; it also could have sent a negative signal to the markets that the banks receiving capital were in a worse situation than initially disclosed. In addition, ordinary and preference shares would have been more expensive and required an extraordinary shareholders meeting, and French banks did not commonly use preference shares (Conac 2010). 
+
+Lagarde explained that the decision to use TSS was because the injection of higher-quality capital was not justified, as the recipients were strong, well-managed, well-supervised banks that had the added support of robust retail businesses. Therefore, the increased costs and negative signaling effects associated with higher-quality capital would be counterproductive. She also highlighted that TSS closely aligned with the goals of the program as it facilitated financing of the economy without taking equity stakes and attempting to reorient activity (Lagarde 2008). 
+
+## **12. Dividends/Pricing: Participant banks remunerated the TSS in two phases and redeemed them at a penalty rate that increased yearly.** 
+
+The Banque de France used the below formulas to calculate interest payments; they paid the fixed rate for the first five years followed by the variable rate (State Aid N/613 2008). 
+
+- (1) _Fixed Rate_ : Bond du Trésor à taux fixe et à intérêt annuel (BTAN)[5] five years + 300 bps + 5 x credit default swap (CDS);[6] or 
+
+- (2) _Variable Rate_ : EURIBOR + 250 bps + 5 x CDS (EC 2008). 
+
+Given the BTAN was approximately 3% prior to the December 11, 2008, issuance, the rate dictated by the above fixed-rate formula was around 8%, varying slightly depending on the participating bank (EC 2008). According to Lagarde, 8% was the approximate rate that French banks paid during 2008 to raise this type of debt (Lagarde 2008). 
+
+This remuneration structure provided stability, included a market rate, accounted for each institution’s individual credit profile, and represented a penalty remuneration rate in comparison to an improved market. In order to classify the issued funds as Tier 1 capital, there could not be a leap in rates for these securities compared to market conditions. Therefore, the French government implemented an initial fixed-rate period to provide the required stability. As EURIBOR is a widely accepted market benchmark, its inclusion expanded the liquidity for these securities on the secondary market. The rate reflected each participant’s risk profile by referencing the CDS spreads for the beneficiary institution 
+
+> 5 Bond du Trésor à taux fixe et à intérêt annuel (BTAN) = average rate on the five-year government bonds during the 20 days preceding the issue. 
+
+> 6 Credit default swap (CDS) = average value of the five-year CDS spreads for the specific beneficiary institution over the period from January 1, 2007, to August 31, 2008 (if unavailable, the average five-year CDS in the beneficiary institution’s credit rating category was used). 
+
+
+while multiplying that spread by five to account for the subordination level of the security. These high rates also motivated beneficiaries to withdraw from the scheme quickly as the rates would likely prove relatively higher than those available in improved market conditions (EC 2008). 
+
+An additional feature of the injections was a nominal annual increase of the amount to be redeemed. Similar to the remuneration rate, this yearly increase acted as an incentive for banks to exit the scheme quickly once market conditions improved (EC 2008). Under this arrangement, the nominal amount increased to 1% if redeemed between the first and second year and to 3% between the second and third years. It then increased by an additional 2% annually until the seventh year, reaching a maximum of 11% (Conac 2010; EC 2008). 
+
+## **13. Capital Characteristics: For the second injection, the CB gave banks the option of issuing TSS or preference shares.** 
+
+On January 21, 2009, the French authorities submitted an amended capital injection scheme to the EC. Under this updated proposal, the CB allowed banks to choose between two different securities for the second round of capital injections: the TSS securities approved on December 8, 2008, or newly introduced preference shares. These preference shares were on equal footing with ordinary shares in terms of liquidation as well as on a going concern basis and were not subject to Tier 1 capital limits due to their core Tier 1 capital classification (although they were limited to 50% of share capital for unlisted companies and 25% for listed companies). However, the preference shares were nonconvertible, nonvoting, and had priority for dividend payments over ordinary shareholders. The issuing bank could buy back these shares, subject to the consent of the CB, at the higher of either 110% of the current price of the shares or the 30-day average price of the shares prior to the buyback date (EC 2009a). 
+
+The CB introduced preference shares during the second round of capital injections due to logistical reasons that centered on Tier 1 capital limitations. Partly due to the first round of injections, most banks had reached the 35% ceiling of Tier 1 capital imposed on noncore Tier 1 securities, therefore limiting the beneficiaries’ ability to issue more TSS. The preference shares solved this issue by increasing Tier 1 capital overall and subsequently allowing more TSS to be included in the Tier 1 ratio (Conac 2010). They also allowed banks to increase their core Tier 1 capital ratios, which was positive for the banking system over the long term (EC 2009a). 
+
+In order to allow participants to take full advantage of the amendment, French authorities gave banks that received the first injection the option of repaying TSS with the proceeds from issuing preference shares (EC 2009a). BNP Paribas pursued this strategy by issuing €5.1 billion of preference shares and using approximately half of those funds to repurchase TSS from the first injection (BdF 2010b). 
+
+
+## **14. Dividends/Pricing: The French government amended the terms of the preference shares to further encourage quick redemption.** 
+
+The French government notified the EC of an amendment to the updated January 28, 2009, scheme on March 16, 2009, prior to any issuance of preference shares under the plan. It created a more powerful incentive for banks to exit the program quickly. The changes were twofold, increasing remuneration and creating a jump in redemption costs on June 30, 2013. The remuneration on preference shares was the higher of two rate formulas (see “Key Design Decision No. 13”). The amendment modified the first rate, adding the dictated 0.25% premium from 2009 instead of 2010 (EC 2009b). 
+
+Previously, banks were able to repurchase their preference shares at the higher of two rates regardless of redemption date (see “Key Design Decision No. 12”) (EC 2009a). The revised plan created a jump in redemption costs on June 30, 2013, through the below structure. 
+
+_Prior to June 30, 2013 (higher of the below two values):_ 
+
+- (1) The current value increased by the accrued coupon, or 
+
+- (2) The average stock market price over the 30 days preceding the repurchase. 
+
+_Following June 30, 2013 (higher of the below two values):_ 
+
+- (1) 110% of the current value increased by the accrued coupon, or 
+
+- (2) The average stock market price over the 30 days preceding the repurchase (EC 2009b). 
+
+## **15. Dividends/Pricing: The remuneration on preference shares was set higher than that for TSS.** 
+
+The remuneration for preference shares issued during the second capital injection was set at the higher of: 
+
+- (1) Entry (fixed) rate for TSS increasing 25 bps annually, applied to the actual number of preference shares; or 
+
+- (2) The rate equal to 105% of the dividend per ordinary share for the 2009 financial year, divided by the unit issue price for preference shares (increasing to 110% for the 2010 financial year, 115% for 2011–2017, and 125% for 2018) (EC 2009a). 
+
+Based on market conditions at the time, the above formulas resulted in an entry rate of 8%. Although the entry rate was equal to TSS, these rates were deliberately costlier over time to reflect a greater degree of subordination and. In comparison to the TSS’s average annual return for the first five years, the preference shares remuneration was higher by at least 0.85% (EC 2009a). 
+
+
+## **16. Other Conditions: Participating banks adopted a number of behavioral commitments in exchange for funds, administered by a credit mediator and a unit of the CB that monitored lending at the local level.** 
+
+Beneficiaries of the SPPE capital injections were expected to commit to the below behavioral requirements: 
+
+- (1) Limitations on compensation to senior executives and market operators (traders); 
+
+- (2) Seeking to maintain an annual growth rate of 3%–4% of overall lending to the French economy; 
+
+- (3) Performing case-by-case solutions for clients that were struggling to repay certain loans; 
+
+- (4) Striving to finance local authorities’ investment requirements; 
+
+- (5) Not engaging in unfair practices (such as using the capital injection as an advertisement); 
+
+- (6) No repurchasing of shares for the duration of the SPPE’s holding of TSS; and 
+
+- (7) Monthly presentation of a report on lending volume and trends (EC 2008). 
+
+It is important to note that the CB did not back the credit monitoring and mediation by sanctions. The CB feared that the threat of punishment could harm the market; instead, it relied on the reputational damage of noncompliance (EC 2008). The CB also did not put limitations on the payment of dividends, only ensuring that the participants prioritized dividend payments to preference shares held by the SPPE over ordinary shareholders (EC 2009a). 
+
+The participating banks agreed to restrictions on executive compensation prior to the first capital injection. These limits included banning severance payments to executives of failed institutions or individuals who quit and providing a compensation policy to regulators for “market operators,” such as traders (EC 2008). According to the Banque de France, in response to this assistance, “In early 2009, the top managers of the country’s leading banks unanimously waived their bonuses for 2008” (BdF 2009). 
+
+The credit-growth requirement was particularly important, as increased lending to the overall economy was a stated goal of the program, along with enhancing Tier 1 capital (BdF 2010a). To facilitate credit growth and ensure compliance, the CB instituted an oversight framework that aligned with the program, including a national credit mediator that arbitrated issues for companies suffering credit issues (EC 2008). The primary goal of this mediator was to “to ensure that no business had to face its financial problems alone, to ensure that banks lived up to their commitments and to provide information and advice to 
+
+
+the government.” The network of _département_[7] -level BdF heads acted as regional mediators, performing an initial proceeding that prioritized companies struggling in the previous six months, indicating they were victims of the overall economic downturn (BdF 2010a). If the involved parties did not reach a solution, either the regional mediator or company could appeal the case to the national mediator (EC 2008). The national credit mediator received 2,500 applications in the first two months of its existence and 20,000 by the end of 2009 with an acceptance rate of 84%. From the introduction of the program to the end of 2009, the credit mediation mechanism resulted in more than €2 billion in loans to more than 9,000 business, safeguarding an estimated 160,000 jobs (BdF 2010a). 
+
+Additionally, the French government took steps to supervise banks at the local level, ensuring that loan increases aligned with predetermined targets. Two units performed this monitoring, an operational-monitoring unit and _département_ committee for financing the economy ( _commissions départementales de financement de l’économie_ or CDFE). The _département préfet_[8] was responsible for constructing the operational-monitoring unit, and the regional mediator served on it. The CDFE contained representatives from banking networks in the individual _département_ , the OSEO,[9] BdF, and other local economic agencies. This committee had three objectives: inform local economic agencies of national-level initiatives, evaluate the _département_ -level situation to restore the business lending market, and monitor bank-lending commitments at the local level (EC 2008). 
+
+## **17. Exit Strategy: The application period to receive funds from the SPPE was from December 8, 2008, to August 30, 2009.** 
+
+Originally, the application period to receive funds was supposed to last for six months, from December 8, 2008, to June 8, 2009; however, the CB extended the deadline to August 30, 2009. The extension was due to the requirement that a bank hold an extraordinary general meeting of its shareholders to authorize the issuance of preference shares. The French authorities also cited uncertain market conditions as support for the extended application period (EC 2009a). 
+
+Banks were able to redeem the TSS or preference shares issued under the scheme at any time, subject to the approval of the CB (EC 2008; EC 2009a). 
+
+## **18. Amendments to Relevant Regulation: The CB increased the noncore Tier 1 capital ceiling to allow banks to participate.** 
+
+On November 3, 2008, the CB decided to increase the ceiling of noncore Tier 1 capital to 35% after some banks already reached the previous limit of 25% (Conac 2010; EC 2008). 
+
+> 7 The département is a regional level of government in France; there are 96 in the metropolitan area and five overseas. 
+
+> 8 Préfets are officials who represent the state in each département. 
+
+> 9 The OSEO, now known as _Banque Publique d’Investissement_ is a French agency that aims to promote small and medium-sized enterprises. 
+
+
+This change allowed banks to take full advantage of the capital injections provided by the SPPE (Conac 2010). 
+
+## **III. Evaluation** 
+
+The Banque de France found that the interventions it orchestrated were successful. It argued that, “the streamlined structure” constructed in order to increase own funds allowed the government to customize its actions to support banks. The BdF also viewed the SPPE and SFEF as instrumental in protecting French banks from liquidity and solvency risks during the turbulence that occurred between September 2008 and March 2009 (BdF 2010a). 
+
+A number of academic analyses evaluated the SPPE and SFEF intervention. An International Monetary Fund working paper by Xiao (2009) examined the effect of the French support plans on the financial sector by analyzing market information and balance sheets prior to and immediately following the announcement of both the SPPE (only the first injection) and SFEF schemes. The study found that following the French support plan announcement, banks’ credit risk, as measured by credit default swap spreads, decreased substantially. There was a varied impact on equity prices: the gross effect on equity prices was positive, but after controlling for benchmarks and beta (overall market movements), the adjusted impact was negative. 
+
+Conac (2010) concluded that the French rescue was an overall success, arguing that even though the French financial sector was relatively less impacted by the crisis, the rescue plan was speedily implemented and ultimately profitable. He also cited the French authority’s ability to achieve management changes and limitations on compensation, as well as active communications that “promote[d] its agenda on banking regulation and bankers’ compensation.” Conversely, Conac found that the major failure of the program was not leveraging the opportunity to pass a law, similar to the laws passed in Germany, that allowed for nationalizing or assuming control over an ailing financial institution. 
+
+Jabko and Massoc (2012) found that the rescue plan had two unique elements. First, France constructed new entities to take on specific roles during the crisis—the entities did not explicitly bail out failing firms; instead, they provided general support to the entire industry. Compared to other countries that engaged in massive rescue plans for nearbankrupt institutions, the SPPE and SFEF provided funds among all major French banks. Similarly, the use of preference shares and TSS resulted in an indirect intervention instead of substantial equity stakes in individual banks. 
+
+Jabko and Massoc (2012) argued that the French authorities requested comparatively little from the beneficiaries in exchange for assistance. They noted that the aid was not compelled; no sanctions were levied; the lack of voting rights for the shares meant the government had no oversight of management; executive compensation limits were not legally binding; and no limitations were placed on dividend payments. Due to this relatively 
+
+
+moderate approach, Jabko and Massoc concluded that the plan was “exceptionally generous, beyond the requirements of the situation.” 
+
+The Cour des Comptes (Court of Audit), the supreme body for auditing the use of public funds in France, issued a 2013 Annual Public Report that reviewed government interventions during the financial crisis, including the SPPE, in order to provide recommendations going forward (Cour des Comptes 2013). These recommendations included: 
+
+- (1) Provide an annual statement disclosing the impact of bank support plans, including the SPPE and SFEF, on the French state; 
+
+- (2) Incorporate a breakdown of credit provided to local and regional authorities apart from ‘local public administrations’ into existing credit reports; 
+
+- (3) Integrate a permanent compensation monitoring unit into the Prudential Supervisory Authority, a department of Banque de France, and implement an a priori approach to supervising compensation structures for executives and board members; and 
+
+- (4) Implement a provision requiring credit establishments to subject the compensation budgets for executives and board members to an advisory shareholders’ vote at a general meeting (Cour des Comptes 2013). 
+
+## **IV. References** 
+
+Banque de France (BdF). 2009. _2008 Annual Report_ . Paris: Banque de France. https://ypfs.som.yale.edu/library/banque-de-france-2008-annual-report. 
+
+———. 2010a. _2009 Annual Report_ . Paris: Banque de France. https://ypfs.som.yale.edu/library/banque-de-france-2009-annual-report. 
+
+———. 2010b. _De la crise financière à la crise économique_ . Documents et débats No. 3, January 2010. 
+
+https://ypfs.som.yale.edu/library/de-la-crise-financiere-la-crise-economique. 
+
+Conac, Pierre-Henri. 2010. “Mastering the Financial Crisis–the French Approach Discussion Report.” _European Company and Financial Law Review_ 7, no. 2 (January 2010): 297–339. https://ypfs.som.yale.edu/library/mastering-financial-crisis-french-approach-discussionreport. 
+
+Cour des Comptes. 2013. “The 2013 Annual Public Report: Summary Annual Public Report Part 2.” https://ypfs.som.yale.edu/library/2013-annual-public-report-summary-annual-publicreport-part-2. 
+
+
+Dexia. 2019. _2018 Annual Report_ . Brussels: Dexia. https://ypfs.som.yale.edu/library/dexia-2018-annual-report. 
+
+European Commission (EC). 2008. “State Aid N/613/2008 – Republic of France: CapitalInjection Scheme for Banks.” Letter from the EC, December 12, 2008. 
+
+https://ypfs.som.yale.edu/library/state-aid-n-6132008-republic-france-capital-injectionscheme-banks. 
+
+———. 2009a. “State Aid N/29/2009 – French Republic: Amendment to the CapitalInjection Scheme for Banks.” Letter from the EC, January 28, 2009. https://ypfs.som.yale.edu/library/state-aid-n-292009-french-republic-amendmentcapital-injection-scheme-banks. 
+
+———. 2009b. “State Aid N/164/2009 – France: Amendment to the Capital-Injection Scheme for Banks.” March 24, 2009. https://ypfs.som.yale.edu/library/state-aid-n-1642009-france-amendment-capitalinjection-scheme-banks. 
+
+Fang, Everest. 2020. “French Liquidity Support through the Société de Financement de l’Economie (SFEF) (France GFC).” _Journal of Financial Crises_ 2, no. 3 (October 10, 2020): 681–98. 
+
+Jabko, Nicolas, and Elsa Massoc. 2012. “French Capitalism under Stress: How Nicolas Sarkozy Rescued the Banks.” _Review of International Political Economy_ 19, no. 4 (2012): 562–85. https://ypfs.som.yale.edu/library/french-capitalism-under-stress-how-nicolas-sarkozyrescued-banks. 
+
+Jolly, David. 2008. “ING Receives €10 Billion from Dutch Government.” _New York Times,_ October 19, 2008. 
+
+https://ypfs.som.yale.edu/library/ing-receives-eu10-billion-dutch-government. 
+
+Lagarde, Christine. 2008. “Audition de Mme Christine Lagarde, ministre de l’Économie, de l’industrie et de l’emploi sur la mise en place de la Société française de financement de l’économie – SFFE – et de la Société de prise de participations de l’État – SPPE – et sur la mise en œuvre des premières mesures.” National Assembly Finance, General Economy and Plan Committee: Information Report on the International Financial Crisis, October 22, 2008. 
+
+https://ypfs.som.yale.edu/library/audition-de-mme-christine-lagarde-ministre-deleconomie-de-lindustrie-et-de-lemploi-sur-la. 
+
+L’Assemblée nationale et le Sénat. 2008. “Loi n° 2008-1061 du 16 octobre 2008 de finances rectificative pour le financement de l’économie (1).” October 16, 2008. https://ypfs.som.yale.edu/library/loi-ndeg-2008-1061-du-16-octobre-2008-de-financesrectificative-pour-le-financement-de. 
+
+
+Sénat. 2011. “Remboursement des aides d’État perçues par les banques.” July 7, 2011. https://ypfs.som.yale.edu/library/remboursement-des-aides-detat-percues-par-lesbanques. 
+
+Société de prise de participations de l’État (SPPE). n.d. “Assets Held by SPPE, as of 22 October 2009 and 6 June 2011.” 
+
+https://ypfs.som.yale.edu/library/assets-held-sppe. 
+
+———. 2009. “Financing Program.” October 30, 2009. https://ypfs.som.yale.edu/library/sppe-financing-program. 
+
+———. 2010. “Financial Statements for the Year Ended 31 December 2009 (translated).” July 13, 2010. 
+
+https://ypfs.som.yale.edu/library/sppe-financial-statements-year-ended-31-december2009. 
+
+———. 2011. “Financial Statements for the Year Ended 31 December 2010 (translated).” May 24, 2011. 
+
+https://ypfs.som.yale.edu/library/sppe-financial-statements-year-ended-31-december2010. 
+
+Xiao, Yingbin. 2009. “French Banks amid the Global Financial Crisis.” International Monetary Fund, Working Paper No. 9-201, September 2009. https://ypfs.som.yale.edu/library/french-banks-amid-global-financial-crisis. 
+
+## **V. Key Program Documents** 
+
+## **Summary of Program** 
+
+(EC 2008) State Aid N/613/2008 – Republic of France: Capital-Injection Scheme for Banks _European Commission document describing the body’s approval of France’s capital injection scheme in the wake of the Global Financial Crisis_ . 
+
+https://ypfs.som.yale.edu/library/state-aid-n-6132008-republic-france-capital-injectionscheme-banks. 
+
+(EC 2009a) State Aid N/29/2009 – French Republic: Amendment to the Capital-Injection Scheme for Banks 
+
+_European Commission document describing the body’s approval of an amendment to the capital injection scheme that would allow banks to choose between deeply subordinated securities and preferred shares._ 
+
+https://ypfs.som.yale.edu/library/state-aid-n-292009-french-republic-amendmentcapital-injection-scheme-banks. 
+
+(EC 2009b) State Aid N/164/2009 – France: Amendment to the Capital-Injection Scheme for Banks _European Commission document describing the body’s approval of an amendment to the capital injection scheme regarding new repurchase terms._ 
+
+
+https://ypfs.som.yale.edu/library/state-aid-n-1642009-france-amendment-capitalinjection-scheme-banks. 
+
+## **Legal/Regulatory Guidance** 
+
+(L’Assemblée nationale et le Sénat 2008)  LOI n° 2008-1061 du 16 octobre 2008 de finances rectificative pour le financement de l’économie (1) 
+
+_Law passed by the French government describing the terms and conditions for the various programs implemented to assist the national economy._ 
+
+https://ypfs.som.yale.edu/library/loi-ndeg-2008-1061-du-16-octobre-2008-de-financesrectificative-pour-le-financement-de. 
+
+## **Press Releases/Announcements** 
+
+(Sénat 2011) Remboursement des aides d’État perçues par les banques _Official exchange between the Ministry of the Economy, Finance, and Industry and the French legislature regarding the repayment of State Aid received by banks during the financial_ crisis. https://ypfs.som.yale.edu/library/remboursement-des-aides-detat-percues-par-lesbanques. 
+
+## **Reports/Assessments** 
+
+(BdF 2009) Banque de France 2008 Annual Report _Annual report published by the central bank summarizing and evaluating the programs that were implemented in response to the Global Financial Crisis._ 
+
+https://ypfs.som.yale.edu/library/banque-de-france-2008-annual-report. 
+
+(BdF 2010a) Banque de France 2009 Annual Report _Annual report published by the central bank summarizing and evaluating the programs that were implemented in response to the Global Financial Crisis._ 
+
+https://ypfs.som.yale.edu/library/banque-de-france-2009-annual-report. 
+
+(BdF 2010b) De la crise financière à la crise économique 
+
+_A special report published by the Bank of France enumerating the events and responses to the Global Financial Crisis._ 
+
+https://ypfs.som.yale.edu/library/de-la-crise-financiere-la-crise-economique. 
+
+(Conac 2010) Mastering the Financial Crisis–the French Approach Discussion Report _Academic article published in the_ European Company and Financial Law Review _analyzing the impact of France’s approach to combatting the Global Financial Crisis._ https://ypfs.som.yale.edu/library/mastering-financial-crisis-french-approach-discussionreportmastering-financial-crisis. 
+
+(Cour des Comptes 2013) The 2013 Annual Public Report: Summary Annual Public Report Part 2 _Annual report published by the Court of Accounts summarizing the findings of the financial audit of programs related to the post-crisis recovery._ 
+
+
+https://ypfs.som.yale.edu/library/2013-annual-public-report-summary-annual-publicreport-part-2 
+
+(Jabko and Massoc 2012) French Capitalism under Stress: How Nicolas Sarkozy Rescued the Banks _Academic paper published in the_ Review of International Political Economy _analyzing the successes of France’s response to the Global Financial Crisis, with particular focus on the close communication between bankers and politicians._ 
+
+https://ypfs.som.yale.edu/library/french-capitalism-under-stress-how-nicolas-sarkozyrescued-banks. 
+
+(Lagarde 2008) Audition de Mme Christine Lagarde, ministre de l’Économie, de l’industrie et de l’emploi sur la mise en place de la Société française de financement de l’économie – SFFE – et de la Société de prise de participations de l’État – SPPE – et sur la mise en œuvre des premières mesures _Testimony (in French) given by the Minister of the Economy, Industry, and Finance summarizing and defending the need for the establishment of the SFFE and SPPE._ https://ypfs.som.yale.edu/library/audition-de-mme-christine-lagarde-ministre-deleconomie-de-lindustrie-et-de-lemploi-sur-la. 
+
+(SPPE 2010) SPPE Financial Statements for the Year Ended 31 December 2009 _Financial statements detailing the operations of the SPPE program._ https://ypfs.som.yale.edu/library/sppe-financial-statements-year-ended-31-december2009. 
+
+(SPPE 2011) SPPE Financial Statements for the Year Ended 31 December 2010 _Financial statements detailing the operations of the SPPE program._ https://ypfs.som.yale.edu/library/sppe-financial-statements-year-ended-31-december2010. 
+
+(SPPE n.d.) Assets Held by SPPE, as of 22 October 2009 and 6 June 2011 _Diagram published by SPPE detailing the change in asset holdings by type of capital._ https://ypfs.som.yale.edu/library/assets-held-sppe. 
+
+(Xiao 2009) French Banks Amid the Global Financial Crisis 
+
+_IMF Working Paper comparing the French government’s response to the Global Financial Crisis to those of other countries._ 
+
+https://ypfs.som.yale.edu/library/french-banks-amid-global-financial-crisis. 
+
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

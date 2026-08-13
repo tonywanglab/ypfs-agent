@@ -1,0 +1,933 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 7 Issue 2 
+2025 
+Cyprus: National Bank Holiday, 2013 Cyprus: National Bank Holiday, 2013 
+Stella Schaefer-Brown 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Finance and Financial Management Commons, Law and Economics Commons, Policy Design, Analysis, 
+and Evaluation Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Schaefer-Brown, Stella (2025) "Cyprus: National Bank Holiday, 2013," Journal of Financial Crises: Vol. 7 : 
+Iss. 2, 86-107. 
+DOI: https://doi.org/10.17132/2693-3179.1650 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/4 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol7/iss2/4
+
+--- Page 3 ---
+Cyprus: National Bank Holiday, 20131 
+Stella Schaefer-Brown2 
+Yale Program on Financial Stability Case Study 
+June 25, 2025 
+Abstract 
+The Greek government debt crisis was especially hard on the two largest Cypriot banks. Bank 
+of Cyprus (BoC) and Laiki Bank lost EUR 1.8 billion and EUR 2.3 billion, respectively, on their 
+Greek government bonds after the European Union (EU) decision in October 2011 to haircut 
+the bonds. Over the next year, Laiki Bank faced severe liquidity problems from depositor 
+withdrawals, the Central Bank of Cyprus (CBC) extended to it significant emergency liquidity 
+assistance, and the government owned 84% of the bank after injecting EUR 1.8 billion. The 
+Cypriot economy also suffered negative effects and in March  2013, authorities negotiated a 
+EUR 10 billion  economic adjustment program with the EU, European Central Bank , and 
+International Monetary Fund (together the “troika”) that required authorities to stabilize the 
+two stressed banks without troika funds. Early o n Saturday, March 16, t he Cypriot 
+government and the Eurogroup, the finance ministers of EU member states using the euro,  
+announced a plan for troika aid that included a one-time tax on all Cypriot bank deposits, 
+although overseas branches of Cypriot banks were excluded. The authorities anticipated 
+depositors would run . While commercial bank branches are closed on Saturdays, t he 
+authorities shut down electronic trans fers to prevent electronic runs . However, they left 
+ATMs open. After the announcement, depositors emptied ATMs and ran on cooperative 
+banks, which are typically open on Saturdays; the  cooperative banks subsequently closed. 
+When the parliament rejected the bank-levy plan on Monday, March 18, a national holiday, 
+the CBC imposed a bank holiday that ultimately lasted 10 days. During the bank holiday, 
+authorities and the troika agreed on a new plan for the banks: Laiki Bank would be resolved, 
+and BoC would be restructured . Uninsured depositors in both banks would take losses . 
+Cyprus put in place capital controls and deposit withdrawal restrictions at the end of the 
+bank holiday to avoid excessive liquidity flight . The capital controls were revised multiple 
+times, cash withdrawal restrictions ended in March 2014, and controls were completely 
+removed in April 2015. Uninsured depositors of the two troubled banks were frozen and 
+ultimately bailed in. 
+Keywords: bail-in, bank holiday, Bank of Cyprus, Cyprus, Laiki Bank 
+  
+ 
+1 This case study is part of the Yale P rogram on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering bank holiday and fund suspension programs. A survey of all the cases in this series 
+(Wiggins et. al.  2025) and the cases underlying it are available from the Journal of Financial Crises  at 
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Senior Research Associate, YPFS, Yale School of Management. 
+86
+
+--- Page 4 ---
+Overview 
+This case study describes the bank holiday in 
+Cyprus in March 2013. 
+The Greek government debt crisis, which 
+began in 2009, hit Cypriot banks hard. The 
+two largest banks, Bank of Cyprus (BoC) and 
+Laiki Bank, lost EUR 1.8 billion and EUR 2.3 
+billion (USD 2.4 billion and USD 3.1 billion),3 
+respectively, on their Greek govern ment 
+bonds after the European Union (EU) 
+decision in October 2011 to haircut Greek 
+government bonds. Beginning in October 
+2011 and lasting until the bank’s resolution 
+in 2013, Laiki Bank received collateralized 
+loans from the European Central Bank (ECB) 
+and emergency liquidity assistance (ELA) 
+from the Central Bank of Cyprus (CBC) to 
+make sure the bank could continue to fund 
+itself as depositors withdrew their funding 
+(CBC 2013i; EC 2012). For more information 
+on the ELA provided to Laiki Bank , see 
+Schaefer-Brown (2025). 
+In late 2011, in response to the crisis, the 
+European Banking Authority identified a 
+EUR 2 billion capital shortfall at Laiki Bank in 
+a stress test of 71 banks across Europe using 
+numbers from September 2011 . Around the 
+same time, under the European Directive on 
+Capital Requirements, the College of 
+Supervisors set Laiki Bank’s shortfall at EUR 
+3.1 billion. In January 2012, Laiki Bank 
+presented a recovery plan to the CBC that 
+included deleveraging, a voluntary exchange 
+offer to bondholders, and a capital increase 
+of EUR 1.8 billion through private investors. 
+When the bank failed to raise capital from 
+private investors, the government agreed in 
+May 2012 to recapitalize the bank and, in 
+June 2012, became an 84% shareholder (CBC 
+2011; CBC 2013i; Laiki Bank 2012; Noonan 
+ 
+3 Per Bloomberg EUR 1.00 = USD 1.33 on October 3, 2011. 
+Key Terms 
+Purpose: To stop bank runs that began on March 
+16, 2013, following the announcement of a 
+controversial proposal to tax all depositors in 
+Cypriot banks 
+Announcement 
+Date 
+Bank holiday: March 18, 
+2013; 
+Withdrawal restrictions: 
+March 28, 2013 
+End Date Bank holiday: March 28, 
+2013; 
+Withdrawal restrictions: 
+March 2014 
+Legal Authority Bank holiday: The Cyprus 
+Bank Holiday Law defined 
+bank holidays and gave the 
+governor of the CBC the 
+power to announce 
+additional bank holidays; 
+Withdrawal restrictions: The 
+Emergency Law of 2013, 
+passed on March 27, 
+governed the capital controls 
+and deposit withdrawal 
+restrictions 
+Administrators The CBC 
+Communication 
+and Disclosure 
+Announcements from the 
+president of Cyprus and the 
+Eurogroup regarding a 
+controversial tax on 
+depositors caused bank runs 
+which the holiday was put in 
+place to stop 
+Permitted 
+Withdrawals 
+During the holiday: 
+Withdrawals from ATMs 
+were permitted, and 
+electronic transfers were 
+banned; 
+After the holiday: cash 
+withdrawals limited to EUR 
+300 per depositor per 
+institution; trade 
+transactions above EUR 
+5,000 needed CBC approval 
+(continued) 
+87
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 5 ---
+2013). For more information on the 
+recapitalization of Laiki Bank , see Schaefer-
+Brown (2024b). 
+In August, officials from Laiki Bank 
+submitted a restructuring plan to the CBC 
+that would (1) create a “good” bank, 
+separating nonperforming loans into a “bad” 
+bank, and an asset management company; 
+and (2) force losses on senior bondholders 
+while protecti ng depositors. But the 
+government amended the plan in response 
+to feedback from the troika. The new plan 
+was to put the healthy parts of the bank into 
+a new subsidiary that could be sold once 
+separated from the bank’s Greek branch. But 
+this plan also failed, as depositors continued 
+to pull their funds, partly due to concerns 
+that the government would impose haircuts 
+on depositors (CBC 2013i; Noonan 2013) . 
+Over the course of 2012, Laiki Bank lost EUR 
+2 billion in deposits in its Greek branch and 
+one-third of  its domestically raised deposits.  These outflows significantly reduced the 
+number of liability holders available to share losses in the bail -in when the bank was 
+ultimately restructured (Dübel 2013; IMF 2014).   
+In early 2013, ECB authorities estimated th at the recapitalization needs of BoC and Laiki 
+Bank were EUR 8 billion, approximately 44% of the GDP of Cyprus . Also in early 2013, the 
+EU and the IMF encouraged the government to downsize the banking sector because it would 
+not be able to afford a recapit alization. In March 2013, the ECB threatened to withdraw its 
+approval of ELA to Laiki Bank, putting further pressure on the government to agree to terms 
+of a bail-out by the troika—the International Monetary Fund  (IMF), European Commission 
+(EC), and ECB (CBC 2013i; Draghi 2015).  
+Throughout this time, Cypriot authorities were in negotiation with the troika for a bailout 
+deal for the government. There would have been precedent for the troika to protect all 
+depositors, since it had done so in other countrie s and Laiki Bank’s recapitalization needs 
+stemmed from the EU’s decision to haircut Greek government bonds. But the troika made it 
+a condition of its assistance that Cyprus rescue the two banks without official funds, which 
+required Cyprus to impose substa ntial losses on depositors (ACB 2013; CBC 2013i; 
+Eurogroup 2013b).  
+On Friday, March 15, 2013, the finance minister of Cyprus agreed to a controversial plan with 
+the Eurogroup, which the Cypriot government and Eurogroup announced early on the 
+morning of March 16; the IMF publicly supported the plan later that day. The deal involved 
+a EUR 10 billion loan to Cyprus; Cyprus would also have to raise EUR 5.8 billion through a 
+Treatment of 
+Depositors or 
+Investors 
+At the end of the bank 
+holiday, all uninsured 
+deposits of more than EUR 
+100,000 at the two largest 
+banks were frozen and 
+bailed-in; depositors at other 
+banks were subject to 
+restrictions 
+Outcomes The second-largest bank in 
+Cyprus, Laiki Bank, was 
+resolved and the largest 
+bank, BoC, was restructured. 
+Uninsured depositors of 
+Laiki Bank ultimately 
+received 6 cents on the euro; 
+At the BoC, 47.5% of deposits 
+over EUR 100,000 were 
+converted into equity 
+Notable Features The bank holiday lasted until 
+Cypriot authorities came to 
+an agreement with the EU; 
+Capital controls were kept in 
+place for two years 
+88
+Cyprus: National Bank Holiday, 2013 Schaefer-Brown
+
+--- Page 6 ---
+one-time tax on all banking sector deposits, including a 9.9% tax on uninsured deposits  
+(deposits above the EUR 100,000 insurance limit) and a 6.75% tax on insured deposits (IMF 
+2013b; Noonan 2013; O’Brien 2013). Depositors of Greek branches of Cypriot banks would 
+not be subject to the proposed deposit tax (Reuters 2013b). The plan also did not involve the 
+resolution of either bank. 
+Officials acted quickly on the morning of Saturday, March 16, to close the payment system, 
+anticipating depositor runs in response to t he announcement of the deposit tax (Calamur 
+2013; CBC 2014) . The deposit tax would be based on deposits as of Friday, so officials 
+informed the public that any ATM withdrawals would not reduce their levy.  Monday, March 
+18, was a preexisting national bank holiday, Green Monday. Had parliament approved the 
+proposal, the deposit tax would have been deducted prior to banks reopening on Tuesday  
+(CBC 2013b; Demetriades 2017 ; Kambas 2013a ). However, t he House of Representatives 
+rejected the depositor tax on March 18. The CBC then announced a bank holiday on March 
+18, applicable to all banks, through March 20, as officials sought alternatives to the bank-levy 
+plan (Calamur 2013; CBC 2013c; Eurogroup 2013a). On March 20, the CBC announced a two-
+day extension of the bank holiday through the end of that week. Monday , March 25, was 
+another preexisting national bank holiday, Greek Independence Day; on this day , the CBC 
+made a final announcement extending the bank holiday through March 27 (CBC 2013d; CBC 
+2013e; CBC 2013f). 
+During the bank holiday, after the Cypriot House of Representatives rejected the depositor-
+tax plan, Cyprus reached out to Russia for help. Previously, Russia had loaned Cyprus EUR 
+2.5 billion, which Cyprus received in three tranches from 2011 to 2012. However, Russia did 
+not provide Cyprus with further funds when asked for help in March 2013 (ESM 2019).  
+On March 25, 2018, the Eurogroup announced a new EUR 10 billion aid package that 
+imposed losses only on uninsured depositors of the two troubled banks. Laiki Bank would 
+be resolved immediately and split into a good bank and a bad bank. The BoC would take over 
+the good bank. Insured deposits would be protected; uninsured deposits (over EUR 100,000) 
+would be frozen.  The government recapitalized the BoC by bailing in its shareholders and 
+bondholders and converting nearly half of its uninsured deposits into equity; BoC depositors 
+received equity in the restructured BoC. As of 2021, the liquidation of Legacy Laiki appeared 
+to still be in progress (ESM 2013; Hazou 2021) . For more information on the resolution of 
+Laiki Bank and the restructuring of the BoC, see Schaefer-Brown (2024a). 
+Also on March 25, the CBC announced th at banks would reopen on March 28  (CBC 2013f; 
+CBC 2013g; Eurogroup 2013b) . On March 28, when banks reopened, Cyprus implemented 
+capital controls and depositor restrictions. Under the restrictions, cash withdrawals were 
+limited to EUR 300 per depositor per institution  and trade transactions above EUR 5,000 
+required CBC approval. The capital controls were initially implemented for 7 days but were 
+prolonged and revised 11 times in the following months. Cash withdrawal restrictions were 
+lifted in March 2014, but other restrictions remained in effect until April 2015 (CBC 2013a; 
+CBC 2013j; CBC 2014; EC 2013; EC 2014; Gortsos 2021) . Figure 1 shows a timeline of key 
+events in this intervention. 
+89
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 7 ---
+Figure 1: Timeline for the 2013 Bank Holiday in Cyprus 
+Date Event  
+2011 Supervisors identify a EUR 3.1 billion capital shortfall at Laiki Bank.  
+October 2011 Laiki Bank begins receiving ELA from the CBC and collateralized loans from the ECB. 
+January 20, 2012 Laiki Bank submits capital plan to the CBC. 
+April 2, 2012 Laiki Bank board of directors approves capital plan. 
+May 2012 The CBC confirms the systemic importance of Laiki Bank in a letter to the EC , and Laiki Bank 
+pursues its capital raise. 
+June 2012 The Cypriot government injects EUR 1.8 billion into Laiki Bank.  
+June 25, 2012 Cyprus requests aid from the troika. 
+August 2012 Laiki Bank officials submit a restructuring plan. 
+March 2013 Laiki Bank stops receiving ELA from the CBC and collateralized loans from the ECB.  
+March 16, 2013 The Eurogroup and the president of Cyprus announce a controversial plan for the Cypriot 
+bank sector, which involves a one-time stability tax on insured and uninsured depositors. 
+March 16, 2013 At the direction of the CBC, commercial banks, always closed on Saturdays, prevent 
+electronic transfers but allow ATM withdrawals. Cooperative banks, typically open Saturdays, 
+close shortly after opening in the face of substantial withdrawals. 
+March 18, 2013 Green Monday, a preexisting national bank holiday. The House of Representatives decides 
+not to adopt the government's proposal for the one-time stability tax agreed with the 
+Eurogroup. The CBC announces banks will be closed on March 19 and 20. 
+March 20, 2013 The CBC announces the extension of the bank holiday through the end of the week ,  
+March 22. 
+March 25, 2013 Greek Independence Day, a preexisting national bank holiday. The CBC announces the 
+extension of the bank holiday through March 27. 
+March 25, 2013 Cypriot authorities and the troika announce a new deal including a EUR 10 billion aid package 
+for Cyprus and the plan to put Laiki Bank through resolution and restructure the BoC.  The 
+government would guarantee insured deposits at the two banks but deposits above EUR 
+100,000 were frozen and ultimately bailed in.   
+March 28, 2013 Cypriot banks reopen. The CBC announces capital controls and restrictions on cash 
+withdrawals to EUR 300 per depositor per account for all other Cypriot banks. 
+July 30, 2013 BoC announces that it has completed its recapitalization through the bail -in of shareholders, 
+bondholders, and some uninsured deposits. 
+January 2017 BoC fully repays its ELA and is admitted to listing and trading on the London Stock Exchange.  
+Source: Author’s analysis.  
+Summary Evaluation 
+There was widespread criticism of the troika’s first proposal, which would have imposed a 
+tax on insured as well as uninsured deposits at all Cypr iot banks, treating them differently 
+from other Eurozone depositors . This criticism came from diverse sources such as the UK 
+90
+Cyprus: National Bank Holiday, 2013 Schaefer-Brown
+
+--- Page 8 ---
+chancellor, the Russian president, and the Wall Street Journal  editorial board. A Financial 
+Times article said that the president decided on the taxes of 9.9% on uninsured depositors 
+and 6.75% on insured depositors because he didn’t want the tax on uninsured depositors to 
+surpass 10%. The CBC implemented the bank holiday on Monday, March 18, to prevent runs 
+when the deal fell through (CBC 2014; EC 2013; O’Brien 2013; Spiegel 2013; Waterfield and 
+Squires 2013; WSJ 2013). 
+An IMF report from April 29, 2013, stated that implementation of the bank holiday and 
+capital controls  was differentiated by transaction type  to minimize disruptions to the 
+payments system and ensure the execution of essential transactions (IMF 2013a, 7). 
+On September 16, 2013 , six months after the “epicenter” of the Cypriot crisis , the IMF’s 
+executive director for Cyprus issued a statement saying that social and political tensions 
+appeared to have been fading since March (IMF 2013c, 1). He primarily credits this progress 
+to the assistance provided by the EU -IMF support package, which required the bail-in of 
+uninsured depositors. The statement lists the bank holidays, capital controls, and 
+restrictions on cash withdrawals as the actions the Cypriot government implemented during 
+the epicenter of the crisis  to address the two failing banks and stabilize the system  (IMF 
+2013c, 1).  
+At the time, the Association of Cyprus Banks  noted that the troika required , as a condition 
+for aid, that Cyprus impose losses on uninsured depositors in Cyprus, whereas depositors in 
+other countries had been protected by aid by the EU. The Association of Cyprus Banks took 
+issue with the troika’s inconsistent decision in its 2012–2013 annual report: “It is important 
+to point out that the bank recapitalization needs originated after the October 2011 EU 
+political decision to apply a haircut on Greek Government Bonds” (ACB 2013, 22). The same 
+annual report further stated that “the haircut wiped out EUR 4.5 billion  from the capital of 
+the three largest Cypriot banks” and that “despite the loss caused by that decision, the troika 
+insisted that the EUR 5.8 billion required for the recapitalization of [Laiki Bank and BoC] 
+would be extracted from private sources (bail-in)” (ACB 2013, 22).  
+A report from the CBC on March 30, 2013, immediately following the resolution of Laiki  
+Bank, defended the actions of the governor of the central bank in resolving the bank. The 
+report said that given the political decisions of the Euro group, the governor “prevented a 
+disorderly bankruptcy of Laiki and consequently the country itself” through his “timely 
+statements and actions” (CBC 2013i). 
+Around the same time, in an April 15 letter to ECB President Draghi, the president of Cyprus 
+criticized the governor of the CBC, saying that the governor had “failed to regulate” the 
+banking system effectively and that he had permitted Laiki Bank to continue to receive ELA 
+throughout 2012 despite being insolvent (Kambas 2013 b). The president highlighted the 
+governor’s decision not to annul the ELA to Laiki Bank and his aim of holding elections in 
+February 2013 as evidence of the governor’s failing to effectively regulate and supervise the 
+banking system. Then, according to the president, the “ECB’s warning that it would pull the 
+plug on ELA to Cyprus’ banks forced Cyprus into accepting “tough rescue terms” (Kambas 
+2013b). The president also launched a study on what caused the collapse of the Cypriot 
+91
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 9 ---
+economy. This study concludes that Laiki Bank was insolvent before the haircut of Greek 
+bonds (NYT 2014). 
+A CBC presentation in May 2022 highlights issues faced and lessons learned in regard to the 
+Cypriot financial crisis. One issue the presentation highlights is that there was an imp act on 
+the real economy and economic activity slowed down. Another issue addressed by the CBC 
+was that the new shareholders of the BoC were “dissatisfied and aggrieved former 
+depositors” who became shareholders by force (CBC 2022, 9–12). Additionally, the bailed-in 
+deposits resulted in defaults on loan repayments, and the situation led to “thousands of court 
+actions against” the CBC, BoC, and the government (CBC 2022, 9–12).  
+According to sources at the ESM, since the COVID -19 pandemic, Cyprus has made posi tive 
+developments in terms of financial stability and debt. Cyprus regained investment -grade 
+ratings from all major rating agencies in September 2023, which the country had lost in 2012. 
+  
+92
+Cyprus: National Bank Holiday, 2013 Schaefer-Brown
+
+--- Page 10 ---
+Sources: Bloomberg; World Bank Deposit Insurance Dataset; World Bank Global Financial Development Database. 
+ 
+ 
+93
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 11 ---
+Key Design Decisions 
+1. Purpose: Authorities declared the bank holiday to prevent runs following the 
+announcement of a controversial plan involving a tax on depositors.   
+On Friday March 15, 2013, the finance minister of Cyprus and the Eurogroup negotiated a 
+controversial resolution plan for Laiki Bank and BoC as a condition to the troika funding a 
+EUR 10 billion economic adjustment program for Cyprus. Since the program funds could not 
+be used to stabilize the banks , Cyprus proposed raising EUR 5.8 billion through a one-time 
+tax on all banking sector deposits, representing a 9.9% tax on uninsured deposits (deposits 
+above EUR 100,000) and a 6.75% tax on insured deposits (Noonan 2013; O’Brien 2013). At 
+this time the Cypriot banking sect or was around 675% of the country’s GDP and the banks 
+didn’t have sufficient bail -in-able debt , meaning neither the Cypriot government nor the 
+banks could have borne the cost of stabilization without bailing in depositors. On March 16, 
+the Eurogroup released a statement on this decision and the following day the president of 
+Cyprus made a televised statement regarding the decision (Calamur 2013; Dübel 2013; 
+Eurogroup 2013a).  
+Officials acted quickly on the morning of Saturday, March 16, to close the payment  system, 
+anticipating depositor runs in response to the announcement of the deposit tax. The deposit 
+tax would be based on deposits as of Friday, so officials informed the public that any ATM 
+withdrawals would not reduce their levy. Monday, March 18, was a preexisting national bank 
+holiday, Green Monday. Had parliament approved the proposal , the deposit tax would have 
+been deducted prior to banks reopening on Tuesday (CBC 2014; Demetriades 2017; Reuters 
+2013a). On Monday March 18, the House of Represen tatives declined to approve the plan 
+and the one-time stability tax, creating a vacuum.  
+To prevent bank runs while the government considered alternatives to the failed deposit-tax 
+plan, the CBC initiated the bank holidays  on Monday, March 18  (CBC 2014, 32 ). The initial 
+announcement did not include a reopening date. The CBC  extended the banking holiday 
+multiple times until announcing on March 25 that the banks would reopen on March 28 4 
+(CBC 2013b; CBC 2013c; CBC 2013d; CBC 2013e; CBC 2013f; CBC 2014; EC 2013). During 
+the bank holiday , Cypriot authorities downsized the Cypriot banking sector through the 
+resolution of Laiki Bank, its second largest bank, the restructuring of the BoC, its largest bank, 
+and the sale of all Cypriot banks operations in Greece to a Greek bank, Piraeus. This process 
+preserved all insured depositors  at the two banks . These measures reduced the size of 
+Cyprus’s collective banks by approximately EUR 23.9 billion (147% of GDP) (CBC 2013i; CBC 
+2013h; EC 2013, 7; Hardouvelis 2016, 247).  
+2. Part of a Package:  The bank holiday was one of the tools used by Cypriot 
+authorities to address two failing banks so that it could negotiate a EUR 10 billion 
+ 
+4 Sources differ in the number of days attributed  to the bank holiday, it lasted from March 18  to March 28 (10 
+days), however March 18 and March 25 were national holidays , so some sources don’t include these days in 
+the length of the holiday, nor the weekend of March 23–24, reporting the length of the holiday as six days. 
+94
+Cyprus: National Bank Holiday, 2013 Schaefer-Brown
+
+--- Page 12 ---
+financing package with the troika. Other elements were resolution of Laiki Bank, 
+restructuring of the BoC and verification of its solvency, and capital controls.  
+After the Cypriot House of Representatives decided not to adopt the government’s proposal 
+for the one-off deposit tax agreed with the Eurogroup on March 16, an alternative plan was 
+reached during the bank holiday, on March 25. The new plan called for the resolution of Laiki 
+Bank, the transfer of Laiki Bank’s insured depositors to the BoC, and the bail-in of Laiki Bank 
+and BoC’s uninsured depositors , whose accounts were effectively froze n (EC 2013, 43 –44; 
+ESM 2013; IMF 2014, 35).  
+Following the BoC’s restructuring and recapitalization , the European Stability Mechanism  
+(ESM) reported that the bank was adequately capitalized with a Common Equity Tier 1 
+capital ratio of 12% (the minimum was 9%). Although the bank holiday was lifted before this 
+report, Cypriot authorities kept capital controls in place for two years, lifting them in April 
+2015 (ESM 2013; CBC 2014, 32; Kambas 2015; Politico 2015). 
+When the banks reopened, Cyprus implemented deposit withdrawal restrictions and capital 
+controls to avoid “excessive liquidity outflows” (EC 2013, 43). The objective of these controls 
+was to allow current transactions for goods and services inside and outside the country but 
+limit capital t ransactions. The CBC and local and state authorities were exempt from these 
+measures. The capital controls were initially implemented for seven days but were 
+prolonged and revised eleven times in the following months , withdrawal restrictions were 
+lifted in March 2014, but other restrictions remained in effect until April 2015  (CBC 2013a; 
+CBC 2013j; CBC 2014; EC 2013).  
+The initial capital controls and withdrawal restrictions included:  
+• Cash withdrawal s could not exceed EUR 300 daily per person per  credit 
+institution (if the maximum amount was not drawn on a given day it could be 
+withdrawn later); 
+• Cashing checks was prohibited; 
+• Payments for trade transactions up to EUR 5,000 per day per account were 
+unrestricted, from EUR 5,001 to EUR 200,000 were s ubject to approval, and 
+beyond EUR 200,001 needed prior authorization; 
+• Payments or transfers outside of Cyprus could not exceed EUR 5,000 per person 
+per month for each credit institution; 
+• Cashless payments or transfers of deposits to accounts held abroad o r in other 
+credit institutions were prohibited; 
+• Fixed-term deposits could not be terminated prior to their maturity unless the 
+funds were used to repay a loan within the same credit institution; 
+  
+95
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 13 ---
+• Exports of EUR notes (or foreign currency) could not exceed EUR 1,000 (or its 
+equivalent in foreign currency) per person per journey abroad; 
+• On the first maturity of fixed-term deposits, EUR 5,000 or 10% of the total capital 
+(whichever is highest) could be transferred to a current account or deposited in 
+a n ew fixed -term deposit in the name of the depositor in the same credit 
+institution. For the remaining amount the maturity would be extended for a 
+month; 
+• Payments of salaries, new funds transferred from abroad, withdrawal s of cash 
+using cards issued by forei gn institutions on accounts abroad, cashing checks 
+issued on accounts held with foreign institutions abroad, and cash withdrawals 
+from accounts of credit institutions with the CBC were exempt from restrictions  
+(CBC 2013a). 
+3. Legal Authority: The Cyprus Bank Holiday Law and the Central Bank of Cyprus Law 
+gave the central bank the authority to initiate the bank holiday ; the parliament 
+passed the Enforcement of Restrictive Measures on Transactions in Case of 
+Emergency Law of 2013, which gave the Finance Ministry the authority to impose 
+restrictions on deposit withdrawals and other transactions. 
+The Cyprus Bank Holidays Law of 1959 defined bank holidays, identified standing bank 
+holidays, and gave the governor of the CBC the power to declare additional bank holida ys. 
+The law gave the governor the right to appoint, by proclamation, any day to be observed as 
+a bank holiday. Any additional bank holiday s the governor announces are defined the same 
+way as preexisting bank holidays (Government of Cyprus 1959).  
+The CBC also had the authority to suspend the operations of Cypriot banks per article 48(3) 
+of the Central Bank of Cyprus Law, 2002. This gave it the authority to temporarily prohibit 
+the placement of payments or transfer of funds and suspend payment systems operations , 
+as it did on March 16, 2013 (Republic of Cyprus 2022).  
+During the bank holiday, the Cypriot parliament passed the Enforcement of Restrictive 
+Measures on Transactions in Case of Emergency Law of 2013 on March 27. This law gave the 
+Minister of Finance the ability to implement temporary administrative restrictions on 
+financial transactions . The parliament passed other laws endowing t he CBC with new 
+powers as the resolution and supervisory authority in Cyprus in ensuring price stability and 
+supporting the general economic policy of the government  (CBC 2013a; CBC n.d.; EC 2013; 
+Cyprus 2013).  
+4. Administration: During the bank holiday , the CBC took over decision making for 
+Laiki Bank and BoC. 
+During the bank holiday , the CBC was heavily involved with the banks, coordinating the 
+resolution of Laiki Bank, the restructuring of the BoC, and freezing the uninsured depositors 
+of both banks. The CBC appointed special administrators for Laiki Bank and BoC during the 
+96
+Cyprus: National Bank Holiday, 2013 Schaefer-Brown
+
+--- Page 14 ---
+resolution and restructuring. The CBC is also the supervisory authority for Cypriot banking 
+operations (CBC 2013h; CBC n.d.; EC 2013; Noonan 2013).  
+5. Governance: The CBC initiated the  bank holiday, and the Ministry of Finance and 
+CBC coordinated the reopening of the banks. 
+The CBC announced the initial bank holiday on March 18 and the subsequent extensions on 
+March 20 and March 25  (CBC 2013b; CBC 2013c; CBC 2013d; CBC 2013e; CBC 2013f). The 
+March 25 announcement included the reopening date for the banks. The reopening date was 
+decided by the finance minister with the recommendation of the governor of the CBC . The 
+Ministry of Finance also put out an announcement specifying the capital controls that would 
+be in place when the banks reopened (MoF n.d.). 
+6. Communication and Disclosure : On March 16, the president of Cyprus and the 
+Eurogroup announced a one-time tax on all depositors causing depositors to run 
+on the banks. 
+On March 16 , the Eurogroup released a statement regarding the one -time tax on deposits 
+and the following day the president of Cyprus made a televised statement regarding the 
+decision. In his statement the president said that the decision to tax depositors was made to 
+avoid a disorderly bankruptcy of the country (Calamur 2013; Eurogroup 2013a; Reuters 
+News n.d.). As ATMs emptied following the announcement  of this controversial plans , the 
+CBC initiated the bank holiday to prevent further bank runs . The CBC made three 
+announcements extending the bank holiday and at the end of the bank holiday, both the CBC 
+and the Ministry of Finance put out announcements specifying the details of the deposit 
+withdrawal restrictions and capital controls (applicable to all banks) and the de tails of the 
+resolution of Laiki Bank and restructuring of the BoC that would apply when the banks 
+reopened (CBC 2013b; CBC 2013c; CBC 2013d; CBC 2013e; CBC 2013f; CBC 2014; MoF n.d.).  
+The announcement regarding Laiki Bank and BoC restructuring clarified that BoC was not 
+being liquidated and that the resolution process applied only to the two banks: “The rest of 
+the Cypriot banking system is not affected by the resolution process nor by the decisions of 
+the Eurogroup” (CBC 2013g). The CBC announcement regarding the capital controls stated 
+with respect to their purpose that “to safeguard the stability of the Cypriot banking system, 
+it was deemed necessary to implement interim restrictive measures, which will gradually be 
+lifted upon assessment of the situation” (CBC 2013a).     
+7. Details of Holidays, Suspensions, or Gates: Bank holidays are defined in the Cyprus 
+Bank Holiday Law as nonbusiness days for the banks.  
+The bank holiday lasted from March 18 to 28, a 10 -day period that included two national 
+bank holidays and a weekend. The Cyprus Bank Holiday Law of 1959 defines bank holidays 
+as nonbusiness days for all Cypriot banks; however, bills of exchange, promissory notes, and 
+other negotiable instruments that are due and payable on the holiday are still payable on the 
+holiday. This definition applies to regular national bank holidays and additional bank 
+holidays announced by the governor of the CBC (Government of Cyprus 1959). 
+97
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 15 ---
+During the bank holiday, banks were closed and business generally halted with the exception 
+of permitted “essential payments” (see Key Design Decision No. 8, Treatment of Depositors 
+or Investors).  However, ATMs were operational subject to normal withdrawal limits, except 
+that Laiki Bank imposed a withdrawal limit of EUR 260 per day (EC 2013).   
+Exiting the bank holiday the CBC kept some restrictions in place:  
+• Cash withdrawal s could not exceed EUR 300 daily per person per credit 
+institution (if the maximum amount was not drawn on a given day it could be 
+withdrawn later); 
+• Cashing checks was prohibited; 
+• Fixed-term deposits could not be terminated prior to their maturity unless the 
+funds were used to repay a loan within the same credit institution (CBC 2013a). 
+8. Treatment of Depositors or Investors: During the bank holiday, depositors were 
+able to use ATMs  but not to conduct electronic transfers; capital controls and 
+deposit withdrawal restrictions applied after the holiday ended. All insured 
+depositors (accounts up to EUR 1 00,000) were protected, while uninsured 
+depositors of Laiki Bank and BoC were frozen and ultimately bailed in.  
+Two Cypriot banks had solvency issues going into the bank holiday, Laiki Bank and BoC. After 
+the Cypriot House of Representatives decided not to adopt the government ’s proposal for 
+the one-off deposit tax (6.75% on insured deposits and 9.9% on uninsured deposits) agreed 
+with the Eurogroup on March 16, an alternative plan was reached on March 25. Cypriot 
+authorities resolved Laiki Bank and had the BoC absorb the Laiki Bank insured depositor s. 
+The BoC was also recapitalized through the bail-in of its uninsured depositors (ESM 2013).  
+During the holiday all payments and transfers within a banking group and interbank 
+transactions were prohibited , except for “essential payments”  (EC 2013, 43) . “Essential 
+payments” included systemically relevant payments (meaning  a risk of default for the credit 
+institution or further harming financial stability  existed if such payment were not to be 
+made), salary payments, payments for food, oil, and tuition fees, and payments by 
+government services for humanitarian reasons  (EC 2013, 43) . Additional cash withdrawal 
+limits were imposed on Laiki Bank and BoC, but the specific terms of these are not clear. 
+Research is unclear with respect to the status of ATM operations during the bank holiday. 
+However, three things are certain:  
+• ATMs were open; 
+• There were runs on ATMs, which ran out of cash; 
+• There were limits on withdrawals from ATMs. 
+98
+Cyprus: National Bank Holiday, 2013 Schaefer-Brown
+
+--- Page 16 ---
+According to the EC, ATM withdrawals were normally subject to certain limits agreed with 
+the bank and these applied during the bank holiday. One exception was Laiki Bank, which 
+decided to impose a withdrawal cap of EUR 260 per day.  Multiple sources report ed other 
+limits on ATM cash withdrawals ranging from EUR 100 to EUR 700 ( EC 2013; Hardouvelis 
+2016; Reuters 2013a; 2013b; WSJ 2013).  
+9. Verification of Solvency: The two largest banks were stressed going into the bank 
+holiday, one was resolved and the other r estructured, exiting restructuring that 
+bank reported being adequately capitalized. 
+Two Cypriot banks had solvency issues going into the bank holiday. Cypr us resolved one of 
+the banks and had the second bank, the BoC, absorb the insured depositors of the other bank. 
+The BoC was also recapitalized through the bail-in of its uninsured depositors. Following its 
+restructuring and recapitalization the ESM reported the BoC was adequately capitalized with 
+a Common Equity Tier 1 capital ratio of 12% (the minimum was 9%) (ESM 2013).  
+10. Other Conditions: Cypriot authorities essentially had control over the decision 
+making of Laiki Bank and BoC during the bank holiday , and both boards either 
+stepped down or were removed. 
+Research has not revealed other conditions that were applicable to all Cypriot banks. 
+However, the CBC appointed special administrators for Laiki Bank and BoC and essentially 
+had complete control over t he banks, during the bank holiday  and resolution and 
+restructuring. When the Cypriot authorities put Laiki Bank through resolution , all of its 
+directors resigned. As part of the restructuring of the BoC , the CBC removed the board of 
+directors and senior ma nagement of the BoC from their posts  (CBC 2013h; CBC 2022; 
+Noonan 2013). 
+11. Exit Strategy: When the bank holiday began, there was no specified end date. The 
+holiday continued until a new stabilization plan was negotiated for the two 
+troubled banks and deposit withdrawal restrictions and capital controls were put 
+in place at the end of the bank holiday in March 2013 to prevent excessive liquidity 
+withdrawals. The capital controls were not finally terminated until 2015. 
+Going into 2013 , Cypriot authorities were seeking help from the troika due to solvency 
+concerns at its two largest banks. They reached an initial agreement on March 16, which the 
+Eurogroup and the president announced ; this agreement was quite controversial and  
+sparked runs on the Cypriot banking system  (CBC 2013i; Noonan 2013; O’Brien 2013) . To 
+stop the runs the CBC announced a bank holiday for two days. The CBC extended this thrice 
+more, only announcing the reopening of the banks in the third extension  after authorities 
+had negotiated with the troika a new stabilization plan for the banks , which secured 
+financing through an  economic adjustment program (CBC 2013c; CBC 2013d; CBC 2013e; 
+CBC 2013f). The CBC announced the new arrangement, which did not include the one-time 
+stabilization tax on all deposits, on March 25, the same day it announced the final extension 
+of the bank holiday and the banking system’s reopening on March 28 (CBC 2013f; CBC 2013g; 
+Eurogroup 2013b) . The Ministry of Finance and the C BC announced deposit withdrawal 
+99
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 17 ---
+restrictions and capital controls when the bank holiday lifted. The capital controls were 
+extended and revised 11 times from March to May of 2013, and some capital controls were 
+still in effect at the end of 2013  (CBC 2013 a; CBC 2013 j; CBC 2014; MoF n.d.) . The 
+government eventually lifted the capital controls in April 2015  (Kambas 2015; Politico 
+2015). 
+12. Regulatory Changes: Our r esearch did not reveal any additional changes to 
+regulations. 
+Research has not revealed additional changes to regulation. 
+  
+100
+Cyprus: National Bank Holiday, 2013 Schaefer-Brown
+
+--- Page 18 ---
+References and Key Program Documents 
+Summary of Program 
+(ESM 2013) European Stability Mechanism (ESM). 2013. “Financial Assistance for Cyprus.” 
+FAQs, September 2013. 
+Frequently asked questions about financial assistance in Cyprus. 
+http://elischolar.library.yale.edu/ypfs-documents2/2063 
+Legal/Regulatory Guidance 
+(CBC 2013a) Central Bank of Cyprus (CBC). 2013a. “The Enforcement of Restrictive 
+Measures on Transactions in Case of Emergency Law of 2013 (Unofficial Translation),” 
+March 28, 2013. 
+CBC press release specifying the capital controls in effect at the end of the bank holiday. 
+https://elischolar.library.yale.edu/ypfs-documents2/5179 
+(CBC n.d.) Central Bank of Cyprus (CBC). n.d. “History.” Accessed November 12, 2024. 
+CBC webpage on its history. 
+https://elischolar.library.yale.edu/ypfs-documents2/5180 
+(Cyprus 2013) Cyprus. 2013. “The Enforcement of Restrictive Measures on Transactions in 
+Case of Emergency Law of 2013.” March 27, 2013. 
+Unofficial translation of the bill passed to set in place capital controls upon the exit of the 
+holiday. 
+https://elischolar.library.yale.edu/ypfs-documents2/5181 
+(Government of Cyprus 1959) Government of Cyprus. 1959. “Cyprus Bank Holidays Law.” 
+1959. 
+Cypriot Bank Holiday Law published in 1959 that defines bank holidays and gives the 
+governor of the CBC the power to appoint additional bank holidays. 
+https://elischolar.library.yale.edu/ypfs-documents2/5185 
+(IMF 2013a) International Monetary Fund (IMF). 2013a. “Letter of Intent, Memorandum of 
+Economic and Financial Policies, and Technical Memorandum of Understanding.” April 29, 
+2013. 
+Letter from the IMF. 
+https://elischolar.library.yale.edu/ypfs-documents2/5188 
+(Republic of Cyprus 2022) Republic of Cyprus. 2022. “The Central Bank of Cyprus Law, 
+2002.” December 2022. 
+English translation and consolidation of the Republic of Cyprus law defining the role of the 
+central bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/5195 
+  
+101
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 19 ---
+Media Stories 
+(Calamur 2013) Calamur, Krishnadev. 2013. “Cyprus President Tries to Calm Public After 
+Anger Over Bailout Deal.” NPR, March 17, 2013. 
+NPR article on the president's announcement after the March 16, Eurogroup announcement. 
+https://elischolar.library.yale.edu/ypfs-documents2/5172 
+(Hardouvelis 2016) Hardouvelis, Gikas A. 2016. “Overcoming the Crisis in Cyprus.” In The 
+Cyprus Bail-In, edited by Alexander Michaelides and Athanasios Orphanides, 225–71. 
+London: Imperial College Press. 
+Chapter from book describing the Cypriot crisis. 
+https://elischolar.library.yale.edu/ypfs-documents2/5186 
+(Hazou 2021) Hazou, Elias. 2021. “Liquidation Filing for Legacy Laiki Took Seven Years.” 
+Cyprus Mail, January 25, 2021. 
+Article on the liquidation of Legacy Laiki. 
+http://elischolar.library.yale.edu/ypfs-documents2/2066 
+(Kambas 2013a) Kambas, Michele. 2013. “Cypriots Stunned by Forced Savings Cuts.” 
+Reuters, March 16, 2013. 
+Article on the deposit tax. 
+https://elischolar.library.yale.edu/ypfs-documents2/5190 
+(Kambas 2013b) Kambas, Michele. 2013. “Cyprus Central Bank Failed in Its Job, President 
+Tells ECB.” Reuters, April 16, 2013, sec. Business News. 
+Article criticizing Cyprus’s central bank. 
+http://elischolar.library.yale.edu/ypfs-documents2/2067 
+(Kambas 2015) Kambas, Michele. 2015. “Cyprus to Lift All Capital Controls on Monday: 
+Prisdent Anastasiades.” Reuters, April 3, 2015. 
+Article on the end of the capital controls in Cyprus. 
+https://elischolar.library.yale.edu/ypfs-documents2/5191 
+(Noonan 2013) Noonan, Laura. 2013. “Inside Laiki - Countdown to Catastrophe.” Reuters, 
+April 2, 2013. 
+Article on the resolution of Laiki. 
+http://elischolar.library.yale.edu/ypfs-documents2/2069 
+(O’Brien 2013) O’Brien, Matthew. 2013. “Everything You Need to Know about the Cyprus 
+Bank Disaster.” Atlantic, March 18, 2013. 
+Article on Cyprus’s tax on depositors. 
+https://elischolar.library.yale.edu/ypfs-documents2/3708 
+(Politico 2015) Politico. 2015. “Cyprus Lifts Capital Controls,” April 7, 2015. 
+Article on the end of the capital controls in Cyprus. 
+https://elischolar.library.yale.edu/ypfs-documents2/5194 
+102
+Cyprus: National Bank Holiday, 2013 Schaefer-Brown
+
+--- Page 20 ---
+(Reuters 2013a) Reuters. 2013a. “Cyprus’ Savers Bear Brunt of Unprecedented Bailout,” 
+March 16, 2013. 
+Article on the initial EU deal involving the tax on all depositors. 
+https://elischolar.library.yale.edu/ypfs-documents2/5204 
+(Reuters 2013b) Reuters. 2013b. “Greece Seeks Buyers for Local Units of Cypriot Banks,” 
+March 16, 2013. 
+Article on Greece seeking buyers for parts of Cypriot banks. 
+https://elischolar.library.yale.edu/ypfs-documents2/5193 
+(Reuters News n.d.) Reuters News. n.d. “Cyprus President Says Depositors Had to Pay to 
+Avoid Bankruptcy.” 
+Article on the Cypriot president’s announcement regarding the tax on depositors. 
+https://elischolar.library.yale.edu/ypfs-documents2/5196 
+(Spiegel 2013) Spiegel, Peter. 2013. “Cyprus Depositors’ Fate Sealed in Berlin.” Financial 
+Times, March 17, 2013. 
+Article on the initial Cyprus tax. 
+https://elischolar.library.yale.edu/ypfs-documents2/5197 
+(Waterfield and Squires 2013) Waterfield, Bruno, and Nick Squires. 2013. “Cypriots Braced 
+for Harsh Banking Curbs.” Telegraph, March 26, 2013. 
+Article on the Cypriot bail-in. 
+http://elischolar.library.yale.edu/ypfs-documents2/3710 
+(WSJ 2013) Wall Street Journal (WSJ). 2013. “A Better Cyprus Deal.” March 26, 2013. 
+Editorial from the Wall Street Journal on the Cyprus deal. 
+https://elischolar.library.yale.edu/ypfs-documents2/3711/ 
+Press Releases/Announcements 
+(CBC 2011) Central Bank of Cyprus (CBC). 2011. “EBA Capital Exercise.” Press release, 
+December 8, 2011. 
+Announcement from the Central Bank of Cyprus on the EBA capital exercise. 
+https://elischolar.library.yale.edu/ypfs-documents2/3693 
+(CBC 2013b) Central Bank of Cyprus (CBC). 2013b. “Bank Holiday.” March 8, 2013. 
+CBC announcement of a bank holiday on Monday, March 18. 
+https://elischolar.library.yale.edu/ypfs-documents2/5176 
+(CBC 2013c) Central Bank of Cyprus (CBC). 2013c. “Bank Holidays.” March 18, 2013. 
+CBC announcement of bank holidays on Tuesday and Wednesday, March 19 and 20, 2013. 
+https://elischolar.library.yale.edu/ypfs-documents2/5177 
+(CBC 2013d) Central Bank of Cyprus (CBC). 2013d. “Bank Holidays.” March 20, 2013. 
+CBC announcement of bank holidays on Thursday and Friday, March 21 and 22, 2013. 
+https://elischolar.library.yale.edu/ypfs-documents2/5173 
+103
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 21 ---
+(CBC 2013e) Central Bank of Cyprus (CBC). 2013e. “Bank Holiday.” March 21, 2013. 
+CBC announcement of a bank holiday on Monday, March 25. 
+https://elischolar.library.yale.edu/ypfs-documents2/5174 
+(CBC 2013f) Central Bank of Cyprus (CBC). 2013f. “Bank Holiday.” March 25, 2013. 
+CBC announcement extending the bank holiday until March 27. 
+https://elischolar.library.yale.edu/ypfs-documents2/5175 
+(CBC 2013g) Central Bank of Cyprus (CBC). 2013g. “CBC Announcement.” Press release, 
+March 26, 2013. 
+CBC announcement on the resolution of Laiki Bank. 
+http://elischolar.library.yale.edu/ypfs-documents2/2055 
+(CBC 2013h) Central Bank of Cyprus (CBC). 2013h. “Clarifications for the Better 
+Understanding of the Resolution Measures Implemented under the Resolution of Credit 
+and Other Institutions Law, 2013 at the Bank of Cyprus and Laiki Bank.” Press release, 
+March 30, 2013. 
+CBC announcement clarifying the resolution measures regarding Laiki Bank and Bank of 
+Cyprus. 
+http://elischolar.library.yale.edu/ypfs-documents2/2056 
+(CBC 2013i) Central Bank of Cyprus (CBC). 2013i. “Rescue Programme for Laiki Bank.” 
+Press release, March 30, 2013. 
+Press release from the Central Bank of Cyprus regarding the rescue of Laiki Bank. 
+http://elischolar.library.yale.edu/ypfs-documents2/2057 
+(CBC 2013j) Central Bank of Cyprus (CBC). 2013j. “Eleventh Decree for Temporary 
+Restrictive Measures on Transactions,” May 14, 2013. 
+CBC announcement of the eleventh decree revising capital controls. 
+https://elischolar.library.yale.edu/ypfs-documents2/5178 
+(Eurogroup 2013a) Eurogroup. 2013a. “Eurogroup Statement on Cyprus.” Press release, 
+March 16, 2013. 
+Eurogroup statement on Cyprus. 
+https://elischolar.library.yale.edu/ypfs-documents2/3702 
+(Eurogroup 2013b) Eurogroup. 2013b. “Eurogroup Statement on Cyprus.” Press release, 
+March 25, 2013. 
+Eurogroup statement on Cyprus. 
+http://elischolar.library.yale.edu/ypfs-documents2/2060 
+(IMF 2013b) International  Monetary Fund (IMF). 2013b. “Press Release: IMF Statement on 
+Cyprus at the Eurogroup Meeting.” March 16, 2013. 
+IMF press release on the Cypriot crisis following the Eurogroup meeting. 
+https://elischolar.library.yale.edu/ypfs-documents2/5189 
+ 
+104
+Cyprus: National Bank Holiday, 2013 Schaefer-Brown
+
+--- Page 22 ---
+(MoF n.d.) Minister of Finance (MoF). n.d. “Announcement of the Ministry of Finance.” 
+Announcement from the Ministry of Finance regarding the capital controls input at the end of 
+the bank guarantee (in Greek). 
+https://elischolar.library.yale.edu/ypfs-documents2/5192 
+Reports/Assessments 
+(ACB 2013) Association of Cyprus Banks (ACB). 2013. Annual Report 2012–2013. 
+Annual report for 2012–2013 from the Association of Cyprus Banks. 
+https://elischolar.library.yale.edu/ypfs-documents2/3690 
+(CBC 2014) Central Bank of Cyprus (CBC). 2014. Annual Report 2013. 
+Central Bank of Cyprus annual report for 2013. 
+https://elischolar.library.yale.edu/ypfs-documents2/3695 
+(CBC 2022) Central Bank of Cyprus (CBC). 2022. “Experiences from the Implementation of 
+Bail-In Resolution Measures in Cyprus.” FinSAC Annual International Conference, May 17–
+18, 2022. 
+Presentation from the Central Bank of Cyprus on the bail-in of depositors. 
+http://elischolar.library.yale.edu/ypfs-documents2/2058 
+(Draghi 2015) Draghi, Mario. 2015. “Letter to Fabio De Masi and Neoklis Sylikotis.” April 
+20, 2015. 
+Letter from European Central Bank President Mario Draghi to members of the European 
+Parliament (translated by the ECB). 
+http://elischolar.library.yale.edu/ypfs-documents2/2061 
+(EC 2012) European Commission (EC). 2012. “State Aid SA.34827 (2012/NN) – Cyprus 
+Rescue Recapitalisation of Cyprus Popular Bank,” September 13, 2012. 
+European Commission letter on the recapitalization of Cyprus Popular Bank. 
+http://elischolar.library.yale.edu/ypfs-documents2/2062 
+(EC 2013) European Commission (EC). 2013. “The Economic Adjustment Programme for 
+Cyprus.” European Economy: Occasional Papers, no. 149, May 2013. 
+European Commission paper on the Economic Adjustment Program for Cyprus. 
+http://elischolar.library.yale.edu/ypfs-documents2/2115 
+(EC 2014) European Commission (EC). 2014. “The Economic Adjustment Programme for 
+Cyprus: Fourth Review – Spring 2014.” European Economy: Occasional Papers, no. 197. July 
+2014. 
+EC paper on the adjustment program for Cyprus. 
+https://elischolar.library.yale.edu/ypfs-documents2/5183 
+  
+105
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 23 ---
+(ESM 2019) European Stability Mechanism (ESM). 2019. “Crisis in Cyprus: ‘No Negotiating 
+Power, No Credibility.’” In Safeguarding the Euro in Times of Crisis: The Inside Story of the 
+ESM. 261–75. Luxembourg: Publications Office of the European Union. 
+Chapter from an ESM book on the crisis in Cyprus. 
+https://elischolar.library.yale.edu/ypfs-documents2/3687/ 
+(IMF 2013c) International Monetary Fund (IMF). 2013c. “Cyprus: First Review under the 
+Extended Arrangement under the Extended Fund Facility and Request for Modification of 
+Performance Criteria.” IMF Country Report No. 13/293, September 2013. 
+Report from the IMF on Cyrpus. 
+https://elischolar.library.yale.edu/ypfs-documents2/5187 
+(IMF 2014) International Monetary Fund (IMF). 2014. “Cross–Border Bank Resolution: 
+Recent Developments.” IMF Policy Paper, June 2014. 
+2014 Report from the IMF on recent resolutions. 
+http://elischolar.library.yale.edu/ypfs-documents2/2526 
+(Laiki Bank 2012) Laiki Bank Group (Laiki Bank). 2012. Annual Report 2011. 
+Laiki Bank’s annual report for 2011. 
+https://elischolar.library.yale.edu/ypfs-documents2/3706/ 
+(NYT 2014) New York Times (NYT). 2014. “Laiki Popular Bank: How a Bank’s 
+Mismanagement Toppled an Economy,” October 2014. 
+New York Times publication of a leaked study on the Cypriot crisis initiated by former 
+president Nicos Anastasiades. 
+https://elischolar.library.yale.edu/ypfs-documents2/3727/ 
+Key Academic Papers 
+(Demetriades 2017) Demetriades, Panicos. 2017. A Diary of the Euro Crisis in Cyprus: 
+Lessons for Bank Recovery and Resolution. Palgrave Macmillan Cham. 
+Book on the euro crisis by the former governor of the Central Bank of Cyprus.  
+https://elischolar.library.yale.edu/ypfs-documents2/5182 
+(Dübel 2013) Dübel, Hans-Joachim. 2013. “The Capital Structure of Banks and Practice of 
+Bank Restructuring: Eight Case Studies on Current Bank Restructurings in Europe.” Study 
+commissioned by the Center for Financial Studies, University of Frankfurt, October 8, 2013. 
+Paper presenting bank restructuring case studies. 
+https://elischolar.library.yale.edu/ypfs-documents2/2059 
+(Gortsos 2021) Gortsos, Christos V. 2021. “On the Cypriot Banking Crisis and Banking 
+Resolution of 2013.” May 2021. 
+Article on the Cypriot banking crisis. 
+https://elischolar.library.yale.edu/ypfs-documents2/5184 
+  
+106
+Cyprus: National Bank Holiday, 2013 Schaefer-Brown
+
+--- Page 24 ---
+(Schaefer-Brown 2024a) Schaefer-Brown, Stella. 2024a. “Cyprus: Laiki Bank and Bank of 
+Cyprus Restructuring, 2013.” Journal of Financial Crisis 6, no. 1. 
+YPFS case study on the restructuring of resolution of Laiki Bank and the restructuring of Bank 
+of Cyprus. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/5/ 
+(Schaefer-Brown 2024b) Schaefer-Brown, Stella. 2024b. “Cyprus: Laiki Bank Capital 
+Injection, 2012.” Journal of Financial Crisis 6, no. 3. 
+YPFS case study on Laiki Bank’s capital injection in 2012. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/5/ 
+(Schaefer-Brown 2025) Schaefer-Brown, Stella. 2025. “Cyprus: Laiki Bank Ad Hoc 
+Emergency Liquidity, 2011.” Journal of Financial Crisis 7, no. 1. 
+YPFS case study on the emergency liquidity assistance to Laiki Bank. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/6/ 
+(Wiggins et al. 2025) Wiggins, Rosalind Z., Owen Heaphy, Anmol Makhija, Stella Shaefer-
+Brown, Greg Feldberg, and Andrew Metrick. 2025. “Survey of Bank Holidays and Fund 
+Suspensions.” Journal of Financial Crises 7, no. 2. 
+Survey of YPFS case studies examining bank holidays and mutual fund suspensions. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/1/ 
+Copyright 2025 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+107
+Journal of Financial Crises Vol. 7 Iss. 2

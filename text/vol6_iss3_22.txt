@@ -1,0 +1,842 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 3 
+2024 
+Switzerland: UBS Capital Injection, 2008 Switzerland: UBS Capital Injection, 2008 
+Anmol Makhija 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, and Methods Commons, Public 
+Administration Commons, and the Public Economics Commons 
+Recommended Citation Recommended Citation 
+Makhija, Anmol (2024) "Switzerland: UBS Capital Injection, 2008," Journal of Financial Crises: Vol. 6 : Iss. 
+3, 487-507. 
+DOI: https://doi.org/10.17132/2693-3179.1590 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/22 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol6/iss3/22
+
+--- Page 3 ---
+Switzerland: UBS Capital Injection, 20081 
+Anmol Makhija2 
+Yale Program on Financial Stability Case Study 
+October 4, 2024 
+Abstract 
+UBS, the eighth -largest bank in the world and the largest bank in Switzerland in 2008,  
+incurred write-downs totaling USD 50 billion during the Global Financial Cris is, mostly on 
+exposures to securities linked to US subprime mortgages . On October 16, 2008, the Swiss 
+Federal Council announced that the government would subscribe to CHF 6 billion (USD 5.3 
+billion) of mandatory convertible notes (MCNs) issued by UBS to restore confidence in the 
+bank and the financial system. UBS agreed to use the government’s capital to fund the equity 
+for a special purpose vehicle , StabFund, that the central bank created to take over and 
+manage UBS’s most troubled assets. In August 2009, the government converted the MCNs to 
+UBS common shares and sold the shares to institutional investors for CHF 5.5 billion. The 
+government also waived the right to receive coupon payments on the MCNs in exchange for 
+CHF 1.8 billion. The Swiss government, therefore, received approximately CHF 7.2 billion 
+when it sold its entire stake in UBS.  In November 2013, UBS paid USD 3.8 billion to the SNB 
+to purchase StabFu nd. The SNB also gained interest income of USD 1.6 billion on a loan it 
+made to StabFund.    
+ 
+Keywords: capital injection, Global Financial Crisis, Switzerland, UBS  
+  
+ 
+1 This case study is part of a Yale Program  on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering ad hoc capital injections. A survey of all the cases in this series (Rhee, Hoffner, et al. 2024) 
+and the individual cases underlyin g it are available from the Journal of Financial Crises  at 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/. Rhee, Oguri , et al. (2022) surveys 
+broad-based capital injection programs. 
+2 Research Associate, YPFS, Yale School of Management. 
+487
+
+--- Page 4 ---
+Overview 
+This case study describes the ad hoc capital 
+injection provided to UBS during the Global 
+Financial Crisis  of 2007 –2009 (GFC). See 
+Makhija (2024) for a study of the 
+restructuring of UBS.  
+In 2008, UBS was the  eighth-largest bank in 
+the world and the largest bank in 
+Switzerland, with more than 2 trillion Swiss 
+francs (CHF ; USD 1.8 trillion) 3 in assets 
+(Erkens, Hung, and Matos 2009; Global 
+Finance 2009).  
+Beginning in the second half of 2007, UBS 
+incurred significant write -downs on 
+exposures related to US real estate and other 
+credit positions (see Figure 1) . By 2009, the 
+write-downs had increased to USD 50 billion 
+(Mombelli 2018) . The losses , mostly from 
+UBS’s exposure to the US mortgage market , 
+led to a net loss of CHF 4.3 billion in 2007 and 
+CHF 21.3 billion in 2008 (UBS 2008b; UBS 
+2009b).  
+In October 2008, following the collapse of 
+Lehman Brothers  in mid -September, the 
+Swiss authorities asse ssed that UBS’s 
+situation was critical, given its large exposure 
+to illiquid securitized loans that had suffered 
+sizable market losses, deteriorating market 
+confidence, a sharp increase in client fund 
+outflows, and low capital base (SNB 2013) . 
+On October 1 6, 2008, the Swiss Federal 
+Council,4 Swiss National Bank (SNB), and 
+Swiss Federal Banking Commission (SFBC) 
+announced a series of measures to stabilize 
+ 
+3 According to BIS, USD 1 = CHF 1.13 on October 16, 2008. 
+4 The Federal Council is the executive body of the federal government of the Swiss Confederati on. Since 1848, 
+the Federal Council has always been made up of seven councilors who govern Switzerland together (Swiss 
+Federal Council 2022). 
+ 
+Key Terms 
+Purpose: To recapitalize UBS so that it could 
+finance the SNB’s equity stake in StabFund, an SNB-
+controlled SPV used to take over and manage UBS’s 
+bad assets  
+Announcement 
+Date 
+October 16, 2008  
+Operational Date December 9, 2008  
+Date of Final 
+Capital Injection 
+December 9, 2008  
+End Date August 25, 2009  
+Source of Funding 2008 Federal budget of the 
+Swiss Confederation  
+Administrator Swiss Federal Council 
+Size CHF 6 billion  
+(USD 5.3 billion) 
+Capital 
+Characteristics 
+Tier 1 capital in the form of 
+mandatory convertible notes 
+paying a 12.5% coupon and 
+due on June 9, 2011  
+Bail-in Terms No bail-in 
+Outcomes The Swiss government 
+received CHF 7.2 billion 
+when it sold its entire stake 
+in UBS 
+Notable Features Retrospective approval for 
+the capital injection by the 
+Swiss parliament 
+ 
+488
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 5 ---
+the Swiss financial system and restore confidence. The federal government and the SNB 
+undertook two interlinked measures to strengthen UBS’s balance sheet. 
+First, the SNB announced a plan to establish a special purpose vehicle (SPV) named SNB 
+StabFund Limited Partnership for Collective Investment (StabFund). UBS could then transfer 
+up to USD 60 billion in i lliquid assets to StabFund for orderly liquidation (Swiss Federal 
+Council 2008a). According to the plan, the SNB would capitalize StabFund with up to USD 6 
+billion (10% of maximum total assets) provided by UBS and a nonrecourse loan of up to USD 
+54 billion (90% of maximum total assets) provided by the SNB (SNB 2009b).5  
+The second relief measure provided to UBS was a capital injection of CHF 6 billion (USD 5.3 
+billion) in the form of mandatory convertible notes (MCNs) , which allowed the bank to 
+maintain a strong Tier 1 capital ratio even after providing up to USD 6 billion to the SNB to 
+capitalize StabFund (UBS 2008a). In August 2009, the government sold its entire stake in 
+UBS for approximately CHF 7.2 billion, after accounting for transaction costs (UBS 2009a; 
+UBS n.d.). 
+In November 2013, after StabFund fully repaid the SNB loan, UBS paid USD 3.8 billion to the 
+SNB to purchase StabFund. The SNB also gained interest income of USD 1.6 billion over the 
+term of the loan (SNB 2013). Figure 1 provides a timeline of important events for UBS during 
+the GFC. 
+Figure 1: Timeline of Important Events for UBS during the GFC 
+Date Event 
+August 2007 UBS reports significant write-downs on exposures related to US real estate and other credit 
+positions in its fixed income trading business. The SFBC and SNB also increase supervision 
+of the big banks in Switzerland and the SFBC provisionally raises capital requirements for 
+UBS and Credit Suisse. 
+January 2008 The presidents of the SNB and SFBC inform the head of the Federal Department of Finance 
+(FDF) that UBS is facing very serious difficulties and plans for government interventions are 
+being drawn up. The SFBC initiates an investigation into the causes of the write-downs 
+incurred by UBS. 
+March 2008 The SFBC calls for the resignation of Marcel Ospel, chairman of the Board of UBS.  
+April 23, 2008 Marcel Ospel resigns during UBS’s annual general meeting. 
+September 20, 2008 The presidents of the SNB and SFBC separately inform the head of the FDF that the situation 
+at UBS has deteriorated significantly following the bankruptcy of Lehman Brothers.  
+October 14, 2008 UBS officially requests government intervention to ensure its survival.  
+  
+ 
+5 Jean-Pierre Roth, then-chairman of the Governing Board of the SNB, said the Swiss authorities offered a similar 
+rescue package to Credit Suisse, Switzerland’s second-largest bank at the time. However, the bank declined the 
+aid and instead raised CHF 10 billion from the private market (Gelnar 2008).  
+489
+Switzerland: UBS Capital Injection Makhija
+
+--- Page 6 ---
+October 15, 2008 The Federal Council determines the measures to stabilize the Swiss financial system, 
+including the details of the UBS aid package.  
+The SNB and UBS also sign an agreement to allow UBS to transfer up to USD 60 billion of 
+illiquid assets to an SNB-owned SPV for management and orderly liquidation. 
+October 16, 2008 The Federal Council and SFBC announce a CHF 6 billion capital injection into UBS. The 
+Federal Council issues an ordinance to authorize the capital injection.  
+The SNB announces a plan to separate illiquid assets from UBS’s balance sheet , thereby 
+relieving UBS from the risks associated with these assets. 
+November 5, 2008 The Federal Council sends a report to the Federal Assembly outlining the measures 
+announced to stabilize the financial system and highlighting the importance of aid to 
+stabilize UBS.  
+November 26, 2008 SNB announces that the special purpose vehicle for UB S assets is to be domiciled in 
+Switzerland. 
+November 27, 2008 UBS holds an extraordinary general meeting (EGM) to approve the capital injection. 
+December 9, 2008 UBS issues the MCNs and places them with the Swiss government. 
+December 15, 2008 The Federal Assembly of the Swiss Confederation issues a decree to give retrospective 
+approval for the capital injection. 
+December 16, 2008 UBS transfers the first tranche of illiquid assets worth USD 16.4 billion to StabFund. 
+February 10, 2009 The SNB and UBS agree to transfer USD 39.1 billion instead of USD 60 billion to StabFund . 
+April 3, 2009 UBS concludes the transfer of USD 38.7 billion in illiquid assets to StabFund . 
+July 23, 2009 StabFund’s board of directors set the fund’s liquidation strategy. 
+August 19, 2009 The Swiss government sells its entire stake in UBS for approximately CHF 7.2 billion 
+August 15, 2013 StabFund fully repays the SNB’s loan. 
+November 7, 2013 UBS exercises its option to repurchase StabFund . The SNB receives USD 3.8 billion for its 
+equity interest in StabFund and USD 1.6 billion in interest income over the term of the loan. 
+Source: Author’s analysis.  
+Summary Evaluation 
+A parliamentary report questioned the Federal Council’s role in the crisis management 
+structure since the Council should have been more involved in prepar ing the rescue 
+measures. The investigation uncovered that members of the Federal Council were not 
+informed of UBS’s troubles earlier since there were concerns that member s of the Federal 
+Council would be unable to keep the information confidential. The report alleged that, 
+because of a lack of trust among the Federal Council’s members, the Council did not deal with 
+the financial crisis for five months, between April 2008 and September 2008. The report also 
+expressed concern that banking supervision was inadequate since the supervisory 
+authorities relied on information collected by third parties , such as banks, auditing  firms, 
+and rating agencies, and the supervisory authorities were not critical of the information 
+gathered. The report criticized the council for not taking meeting minutes when it discussed 
+matters related to UBS to preserve confidentiality (Control Committees 2010).  
+490
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 7 ---
+Some legal analysis pointed out that the Federal Council did not have a sufficient legal basis 
+to announce the capital injection . The legal analysis highlights that under normal 
+circumstances, such aid should have had a basis in the Swiss Federal C onstitution, an 
+approval from the parliament, and finally an ordinance from the Federal Council. However, 
+given the urgency of the situation, the Federal Council issued the ordinance without first 
+getting approval from the parliament, which violated the bu dgetary sovereignty of the 
+legislator. The analysis says that if the parliament had not given its retrospective approval 
+for the capital injection , it is unclear what would have happened , since the Federal Council 
+obliged the government to inject the capit al; however, the parliament is independently 
+responsible for such decisions (Hänni 2010). 
+The Council’s ordinance was based on Article 184 , para. 3, and Article 185 , para. 3, of the 
+Swiss Federal Constitution, which discuss the Council’s authority to issue  ordinances to 
+protect Switzerland’s foreign relations and security (Swiss Government 1999). The Council 
+adopted these ordinances to avoid reputational damage to the Swiss financial market and 
+civil disturbance arising from UBS’s failure.  The Federal Counc il noted in a report to the 
+Federal Assembly that a hesitant approach to the rescue measures would have caused lasting 
+damage to the Swiss financial center’s reputation (Swiss Federal Council 2008b). However, 
+the legal analysis notes that any reputational damage resulting from the crisis affects all 
+financial centers and not just Switzerland, since it was a global financial crisis (Lienhard and 
+Zielniewicz 2009). The analysis also pointed out that Article 185(3) gives the Council the 
+authority to issue ordinances in cases of extraordinary and unforeseeable situations, such as 
+natural disasters, epidemics, and military threats, and although the collapse of a major bank 
+would have led to some civil disturbance, the prevention of the collapse was likely an  
+insufficient basis to issue the ordinance 6. The government’s legal basis for the measure is 
+also described in Key Design Decision No. 3, Legal Authority.  
+At the news conference announcing the rescue measures, Jean -Pierre Roth, the n-chairman 
+of the Governing Board of the SNB, said that the rescue operation was highly unusual in its 
+scope and reasons. Chairman Roth also said that a properly functioning banking system is 
+essential to the Swiss economy, and it was better to carry out the rescue measures soon er 
+rather than later under potentially more adverse conditions (Roth 2008). Later, Chairman 
+Roth stated in a speech at the General Meeting of Shareholders of the SNB that the 
+government was aware of the financial risk associated with the assets StabFund pu rchased. 
+However, the rescue decision was solely based on stabilizing the financial system and 
+economy and not on financial considerations (Roth 2009). The SNB later restated that the 
+rescue measures should not be judged on their financial success, and their primary objective 
+was stabilizing the financial system (SNB 2013).  
+  
+ 
+6 Also see Mader (2010) for a discussion of the legal basis for the ordinance. 
+491
+Switzerland: UBS Capital Injection Makhija
+
+--- Page 8 ---
+Context: Switzerland, UBS AG, 2008–2009 
+Assets CHF 2,000 billion as of Dec. 31, 2008  
+CHF 1,340 billion as of Dec. 31, 2009  
+Liabilities CHF 1,974 billion as of Dec. 31, 2008  
+CHF 1,291 billion as of Dec. 31, 2009  
+Deposits CHF 475 billion as of Dec. 31, 2008  
+CHF 410 billion as of Dec. 31, 2009  
+Capital Ratio (Tier 1) 11% as of Dec. 31, 2008  
+15.4% as of Dec. 31, 2009  
+Nonperforming Loans CHF 4.7 billion as of Dec. 31, 2008  
+CHF 5.4 billion as of Dec. 31, 2009 
+Market Share Unknown 
+Banking System, % of GDP 157.6% as of Dec. 31, 2008 
+166.4% as of Dec. 31, 2009 
+Sources: UBS 2009b; UBS 2010; World Bank Global Financial Development Database.  
+492
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 9 ---
+Key Design Decisions 
+1. Purpose: The government recapitalized UBS to allow the bank to fund the equity 
+for the SPV that the central bank created to take over and manage UBS’s illiquid 
+and devalued assets. 
+After Lehman Brothers collapsed, there was a severe deterioration in market conditions, and 
+capital markets dried up owing to increasing uncertainty. To restore confidence and provide 
+stability, the Federal Council, SNB, and SFBC announced a series of measures to strengthen 
+the Swiss financial system.  
+Some of these measures aimed at rescuing UBS specifically . The two biggest banks in 
+Switzerland, UBS and Credit Suisse, had significant exposures to the US real estate market, 
+whereas the other Swiss banks were af fected by the GFC only through indirect channels. Of 
+the two large Swiss banks, UBS was affected most, which became apparent during the third 
+quarter of 2008. UBS was in a critical state because of an outsized exposure to illiquid and 
+devalued assets, decl ining confidence, and risk of insolvency (SNB 2013) . Given UBS’s 
+systemic importance, the Swiss authorities recognized the devastating impact its failure 
+would have on the national and global financial system and economy. In 2008, UBS 
+accounted for a third of the transactions on the Swiss interbank credit market, and its failure 
+was expected to destabilize the entire Swiss payment system, create significant losses for 
+other banks, and affect households and businesses. International studies estimated that th e 
+default of a bank as large as UBS would carry an economic cost of 15-30% of GDP in the short 
+term and 60 to 300% of GDP in the long term (Swiss Federal Council 2008c). 
+The aid provided to UBS consisted of a capital injection and a transfer of bad assets from 
+UBS’s balance sheet to an SNB -controlled SPV named StabFund (Swiss Federal Council 
+2008a). 
+The SNB committed to fund StabFund up to CHF 60 billion , with a combination of loans and 
+capital upon each asset transfer. It covered 90% of the costs of each a sset transfer with a 
+loan and 10% in the form of StabFund equity. Upon e ach asset transfer, UBS financed the 
+SNB’s purchase of StabFund equity by buying a call option to purchase the fund’s equity from 
+the SNB (UBS 2009c). The price of the call option woul d be set at an amount equal to the 
+SNB’s equity contribution to the fund on that date,  UBS had the right to exercise the call 
+option upon repayment of the SNB’s loan (SNB 2009b). Through that mechanism, the SNB 
+carried the risk of loss on its loan to the fund but not on its equity in the fund (UBS 2009b).  
+The SNB required UBS to raise capital to cover the cost of the call option. Due to the urgency 
+of the capital injection follow ing the announcement of the rescue package and the lack of 
+private-sector interest, private -sector capitalization did not seem possible, and the Swiss 
+federal government agreed to recapitalize UBS (Bäumle 2008; Swiss Federal Council 2008a). 
+The Federal Cou ncil announced that the government would subscribe to CHF 6 billion of 
+MCNs issued by UBS to help the bank retain a strong Tier 1 capital ratio  after providing the 
+493
+Switzerland: UBS Capital Injection Makhija
+
+--- Page 10 ---
+funding to SNB to capitalize StabFund via the call option (Swiss Federal Council 2008c; UBS 
+2008a).  
+UBS raised three rounds of private capital in 2008 to strengthen its capital base. The first 
+round occurred on March 5, 2008, when the Government of Singapore Investment 
+Corporation Pte. LTD  (Singapore GIC)  and an unnamed investor from the Middle East 
+subscribed to CHF 13 billion of MCNs paying an annual coupon of 9% (UBS 2008b) . The 
+second round took place in April 2008, with the issuance of EUR 1 billion  (CHF 1.6 billion)7 
+of hybrid Tier 1 capital in the form of perpetual preferred securities. T he third round 
+occurred in June 2008, following a share capital increase through a rights issue that raised 
+approximately CHF 15.6 billion (UBS 2009b). Following the rights issue and hybrid capital 
+issuance, UBS reported a significant increase in its Tier 1 and total capital ratio to 11.6% and 
+15.7%, respectively  in the second quarter of 2008 (UBS 2008d) . The reduction in risk-
+weighted assets, including the sale of a USD 15 billion portfolio of US mortgage -backed 
+securities to BlackRock and lower risk weigh tings used under the Basel II framework, also 
+contributed to the increase in capital ratios in the second quarter of 2008 (Logutenkova and 
+Giles 2008; UBS 2008c). However, estimates in mid-October 2008 suggested that UBS’s Tier 
+1 and total capital ratios d eclined to 10.8% and 14.8% , respectively (Swiss Federal Council 
+2008b). Although the SFBC confirmed that UBS was solvent under applicable supervisory 
+provisions and UBS’s capitalization was above the international average at the time, the 
+Swiss authorities feared that there was a high risk that further losses could deplete the 
+remaining capital and threaten UBS’s solvency, since it was unable to raise additional capital 
+from private markets. Given the importance of the banking system to the Swiss economy, the 
+government was committed to restoring confidence and stability.  
+2. Part of a Package: The SNB helped UBS strengthen its balance sheet while 
+providing emergency liquidity.  
+The SNB announced on October 16, 2008, that UBS would be allowed to tran sfer up to USD 
+60 billion in illiquid and problematic assets to StabFund for orderly liquidation.  This 
+measure strengthened UBS’s balance sheet by reducing its risk -weighted assets . UBS 
+financed 10% of the asset transfer by purchasing a call option from the SNB, which the SNB 
+used to purchase the equity capital in StabFund (SNB 2009b). The SNB agreed to finance the 
+remainder through a non-recourse loan of up to USD 54 billion (UBS 2008a). Through this 
+mechanism, UBS cover ed the first 10% of any loss incurre d by StabFund.  Further, in the 
+event of a loss on the loan provided to StabFund, the SNB possessed a secondary loss 
+protection in the form of warrants to purchase 100 million UBS shares at nominal value (SNB 
+2013). 
+From December 2008 to April 2009, UBS transferred USD 38.7 billion of illiquid assets out 
+of the USD 60 billion maximum  permitted amount and provided USD 3.9 billion in capital. 
+The transferred portfolio comprised more than 5,000 positions and was valued by six  
+external valuation agents. The assets were marked down by approximately USD 1 billion to 
+their valuation on UBS’s balance sheet upon transfer . The SNB provided a loan of USD 25.8 
+ 
+7 According to the ECB, EUR 1 = CHF 1.59 on average in April 2008. 
+494
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 11 ---
+billion to StabFund to finance a part of the asset transfer and inject liquidity into UBS’s 
+balance sheet. The SNB charged an interest of one -month LIBOR plus 250 bps on the loan, 
+which was due in eight years, with the possibility to extend the maturity to 12 years . 
+Approximately 80% of the SNB loan was US dollar denominated and refinanced through an 
+existing swap facility with the Federal Reserve, SNB-issued debt denominated in USD, and 
+foreign exchange reserves (Jordan 2009; SNB 2009a) . The difference between assets 
+transferred into StabFund and its financing was made up of USD 8.8 billion in contingent 
+liabilities that did not require financing. 
+UBS could repurchase StabFund after the SNB loan was repaid by paying USD 1 billion in 
+addition to 50% of the remaining StabFund equity value to the SNB (SNB 2013).  
+On December 20, 2008, the Swiss government also enact ed the Depositor Protection 
+Reinforcement Act to strengthen the Swiss deposit guarantee system and revise the 
+maximum amount of deposits guaranteed to CHF 100,000 per customer (esisuisse n.d.). 
+Figure 2 in the Appendix provides a chart detailing the bank support measures provided to 
+UBS by the Swiss government during the GFC.  
+3. Legal Authority: The Swiss Federal Council adopted an ordinance to subscribe to 
+the MCNs on October 16, 2008, and the Swiss parliament approved it with 
+retrospective effect on December 15, 2008. 
+The Finance Delegation of the Swiss parliament authorized the capital injection, and the 
+Council subsequently adopted an ordinance to authorize the capital injection on October 16, 
+2008. The ordinance was based on Article 184, para. 3, and Article 185, para. 3, of the Swiss 
+Federal Constitution. Article 184 (3) discusses the Council’s authority to issue ordinances to 
+safeguard Switzerland’s foreign relations interests, and Article 185 (3) discusses the 
+Council’s authority to issue ordinanc es to counter existing or imminent threats of serious 
+disruption to public order or internal or external security  (Swiss Government 1999) . The 
+Council adopted these ordinances considering the urgency of the capital increase to avoid 
+reputational damage to the Swiss financial market and civil disturbance arising from UBS’s 
+failure. A decree issued by the Federal Assembly of the Swiss Confederation on December 
+15, 2008, gave retrospective approval for the capital injection (Swiss Government 2008). 
+A few lawyers and scholars point out that if the parliament had not given its retrospective 
+approval for the capital injection, it is unclear what would have happened since the Federal 
+Council obliged the government to inject the capital ; however, the parliament is 
+independently responsible for such decisions (Hänni 2010). 
+4. Administration: The Swiss Federal Council administered the capital injection.   
+Although the Swiss Federal Council was not involved in preparing the rescue measures, the 
+Council issued ordinances that obliged the government to subscribe to the MCNs issued by 
+UBS. The Finance Delegation of the Swiss Parliament also authoriz ed the capital injection 
+before the Federal Council issued the ordinance authorizing the aid (Swiss Federal Council 
+495
+Switzerland: UBS Capital Injection Makhija
+
+--- Page 12 ---
+2008a). Article 3 of the Federal Council’s ordinance stated that the Federal Department of 
+Finance (FDF) would manage the MCNs (Swiss Federal Council 2008b). 
+5. Governance: The decree authorizing the capital injection required the Federal 
+Council to provide reports to the Federal Assembly. 
+The decree authorizing the capital injection required the Federal Council to implement 
+changes to UBS’s corporate governance and report on its management and the state’s 
+investment to the Federal Assembly (Swiss Government 2008). 
+6. Communication and Disclosure : The Swiss authorities emphasized the 
+importance of saving UBS to restore confidence in the Swiss banking sector. 
+On October 16, 2008, the Federal Council, SNB, and SFBC issued a press release outlining the 
+rescue measures provided to UBS. Through this press release , the Swiss authorities 
+communicated that the measures were taken to stabilize the Swiss financial system and 
+restore market confidence (Swiss Federal Council 2008a) . The chairman of the Governing 
+Board of the SNB also spoke at a news conference on October 16, 2008, reiterating that the 
+measures were implemented to restore confidence in the Swiss banking sector (Roth 2008).  
+When the government intervention in UBS ended, Thomas Jordan, a member of the SNB 
+Governing Board and the former president of StabFund’s Board of Directors, reiterated that 
+although the program was financially successful for the Swiss government, its objective was 
+to stabilize UBS and the Swiss financial system (SNB 2013). 
+The president of the Swiss Confederation decided that no Federal Council’s meeting minutes 
+would be taken regarding the UBS case to preserve confidentiality (Control Committees 
+2010).  
+7. Treatment of Creditors and Equity Holders: Existing stakeholders were not bailed 
+in. 
+There were no bail-in features in the interventions the Swiss authorities undertook to rescue 
+UBS.  
+8. Capital Characteristics: The Swiss government  subscribed to mandatory 
+convertible notes due in 2011. 
+The Swiss government subscribed to Tier 1 capital in the form of MCNs that paid a 12.5% 
+coupon rate. The notes would automatically convert to UBS shares 30 months after issuance. 
+The future mandatory conversion allowed UBS to count the full proceeds as Tier 1 capital for 
+regulatory capital purposes from the date of issuance. The government could also choose to 
+convert the MCNs into shares earlier; however, the bank was required to pay the full coupon 
+payment for the entire term, even if the MCNs were converted earlier (Swiss Federal Council 
+2008b).  
+496
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 13 ---
+The Swiss government would receive a variable number of shares depending on the 
+conversion price, ensuring it received shares worth at least CHF 6 billion , or approximately 
+9.3% of UBS’s shares, upon conversion (UBS 2008a). The reference price for the conversion 
+was defined as the lower of the v olume-weighted average price (VWAP) of UBS shares on 
+SWX Europe on October 15, 2008, CHF 20.24, and the average of the daily VWAP on each of 
+the three trading days ending  on the day before  November 27, 2008, when the EGM to 
+approve the MCN issuance was held. The conversion price for the MCNs had a floor price of 
+CHF 18.21 per share and a maximum price of CHF 21.31 per share.  If the share price was 
+higher than CHF 21.31 at the time of the transfer, the Swiss government would receive 
+additional shares worth “a pproximately CHF 48 million countervalue in additional UBS 
+shares per CHF 1 increase in the UBS share price” (UBS 2009b, 170). 
+On March 5, 2008, UBS issued CHF 13 billio n of MCNs to Singapore GIC and an unnamed 
+investor from the Middle East (UBS 2008b). These MCNs differed from the ones issued to the 
+Swiss government in a couple of ways. First, the MCNs issued to Singapore GIC and the 
+Middle Eastern investor paid a coupon  of 9%, whereas the MCNs issued to the Swiss 
+government had a coupon of 12.5%. The coupon rate reflected the cost of capital and 
+compensated the noteholders for the value of options embedded in the conversion structure. 
+The first MCNs issued also converted  to a fixed number of UBS shares, so the noteholders 
+were directly exposed to the risk that the UBS shares would not increase in value. The MCNs 
+issued to the Swiss government, however, were not exposed to this share price risk since 
+they delivered a varying number of shares upon conversion, with a floor price of CHF 18.21 
+delivering 329.4 million shares upon conversion. 
+In a report to the parliament, the Council explained that MCNs had the advantage of 
+providing a fair and secure remuneration in the form of the coupon rate . The MCNs also 
+allowed the government to avoid becoming a co -owner of the bank, so its participation in 
+UBS’s capital would not interfere with competition policy or bank supervision (Swiss Federal 
+Council 2008c). 
+9. Size and Source of Funding: The Swiss government injected CHF 6 billion into UBS 
+through the recapitalization. 
+The Swiss government strengthened UBS’s capital base by subscribing to CHF 6 billion of 
+MCNs issued by UBS. Under its agreement with the government, UBS used the government’s 
+capital to fund the SNB’s purchase of equity capital in StabFund (Swiss Federal Council 
+2008c). The SNB required the bank to raise new capital to pay for the StabFund transaction 
+(SNB 2008) . Since UBS was unable to raise that capital in the priv ate market , the Swiss 
+government stepped in (UBS 2008e). 
+In the second supplement to the 2008 federal budget, under the budget item “ Federal 
+Finance Administration 601 A4900.0101 ,” the Swiss government  provided the funds 
+required for the capital injection (Swiss Government 2008) . The additional budget 
+expenditure required for the capital injection was not expected to have a permanent impact 
+on the federal debt since it was offset by net interest income of CHF 600 million per year for 
+497
+Switzerland: UBS Capital Injection Makhija
+
+--- Page 14 ---
+2.5 years arising out of the MCNs and the proceeds gained from the eventual disposal of the 
+government’s stake in UBS. 
+10. Timing: The Swiss Authorities started taking measures to combat the crisis of 
+confidence in the markets in August 2007 and provided a capital injection to UBS 
+in October 2008. 
+In August 2007, following a crisis of confidence and a significant dry-up of liquidity in the 
+interbank markets, the SNB, in coordination with other central banks, carried out liquidity 
+injection operations. Following this, the SFBC an d the SNB increased the supervision of big 
+banks. In January 2008, the presidents of the SFBC and SNB informed the head of the FDF 
+that UBS was facing se vere difficulties, and the Swiss authorities drew up plans for a 
+government intervention. In January 20 08, the SFBC also investigat ed the causes of the 
+write-downs incurred by UBS (SFBC 2008). In March 2008, the SFBC called for UBS Chairman 
+Marcel Ospel to resign, and he resigned in April 2008 during the bank’s annual general 
+meeting.  
+A parliamentary report uncovered that members of the Federal Council were not informed 
+of UBS’s troubles during this phase, since the re were concerns that members of the Federal 
+Council would be unable to keep the information confidential. The report highlighted that 
+because of a lack of trust among the Federal Council’s members, the Council did not deal with 
+the financial crisis for five months.  
+After the bankruptcy of Lehman Brothers in September 2008 , the situation at UBS 
+deteriorated rapidly, and UBS officially requested aid from the government on October 14, 
+2008 (Control Committees 2010). On October 15, 2008, the Federal Council decided on the 
+details of the government’s intervention , and on October 16, 2008, the Swiss authorities 
+announced the rescue measures. On November 5, 2008, the Federal Council sent a report to 
+the Federal Assembly outlining the measures announced to stabilize the financial system 
+(Swiss Federal Council 2008c) . Subsequently, on November 27, 2008, UBS held an EGM to 
+approve the capital injection (UBS 2008a; 2008e) . On December 15, 2008, the Federal 
+Assembly of the Swiss Confederation issued a decree authorizing the capital injection.  
+11. Restructuring: The restructur ing plan involved a liquidity injection to UBS’s 
+balance sheet and the transfer of illiquid assets to an SNB-controlled SPV. 
+The plan to restructure UBS’s balance sheet involved a transfer of illiquid assets to an SNB-
+controlled SPV and an injection of liquidity that strengthened UBS’s balance sheet. Further 
+details regarding the restructuring and liquidity provision measures can be found in  
+(Makhija 2024).   
+12. Treatment of Board and Management : Several members of UBS’s Board of 
+Directors and Group Executive Board resigned and voluntarily waived parts of 
+their compensation. 
+UBS CEO  Peter Wuffli stepped down following the announceme nt of large losses in 2007 
+(Creswell 2007). In March 2008, the SFBC called for UBS board chairman  Marcel Ospel to 
+498
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 15 ---
+resign, which he did in April 2008 during the bank’s annual general meeting. In addition, two 
+other board members, Stephan Haeringer and Marco Suter, also resigned. These executives 
+voluntarily waived or repaid part of their compensation, totaling CHF 45 million (Dealbook 
+2008).  
+13. Other Conditions: The Federal Council imposed restrictions on UBS’s 
+compensation structure. 
+The SNB and Fed eral Council imposed restrictions on UBS’s compensation structure for 
+bonuses and severance pay (SNB 2009b) . The Swiss authorities also set directives for 
+corporate governance at UBS and held regular meetings with the management; however, the 
+government did not place specific restrictions on pay structure or dividends (Voxant 2008). 
+The SNB was also given the right to conduct additional risk management reviews at any time 
+as long as the federal government held over a 3% stake in UBS.  These risk management 
+reviews could include participation in internal meetings regarding risk management and 
+control at all hierarchical levels, obtaining information through questionnaires and 
+interviews with risk managers, and access to internal data and documents related to r isk 
+management without providing prior notice. 
+14. Regulatory Relief: Regulatory relief was not granted to facilitate the injection. 
+Research did not reveal evidence that t he Swiss authorities provide d regulatory relief to 
+facilitate the capital injection.  
+15. Exit Strategy: The Swiss government had to convert the MCNs to shares by 2011. 
+When the Federal Council announced the rescue measures, it also stated that the government 
+would sell its stake in UBS to private investors as soon as market conditions would allow. 
+The government agreed to a six -month lock -up period . H owever, the government could 
+override the lock -up period if an investor agreed to take up the shares during th e lock-up 
+period. The government had to convert the MCNs into UBS shares no later than 30 months 
+after they were issued. The Swiss Confederation could also reduce part or all of its holding 
+by transferring the MCNs to investors (UBS 2008a).  
+On August 1 9, 2009, UBS reached a settlement with the US tax authorities regarding a tax 
+evasion case (Irish Independent 2009). On the same day, the Swiss government announced 
+its intention to exercise the right to convert the MCNs to equity and sell the shares received 
+through conversion to institutional investors (UBS 2009a). The settlement of the tax evasion 
+case improved confidence in UBS, and when the Swiss government offered its shares in UBS 
+for sale, its offering was 4.5 times oversubscribed (UBS 2009d). The government agreed to 
+waive the right to receive coupon payments on the MCNs in exchange for approximately CHF 
+1.8 billion, equivalent to the present value of the future coupon payments (UBS 2009a). The 
+government received 332.2 million UBS shares through the conversion and placed the shares 
+with private institutional investors for approximately CHF 5.5 billion (UBS n.d.). The Swiss 
+government, therefore, received approximately CHF 7.2 billion when it sold its entire stake 
+in UBS and the right to receive coupon payments on the MCNs.  The Swiss government paid 
+499
+Switzerland: UBS Capital Injection Makhija
+
+--- Page 16 ---
+UBS AG, Credit Suisse Group AG, and Morgan Stanley approximately CHF 60 million to 
+manage the sale of its MCNs (Martinuzzi and Wille 2009). 
+Between 2008 and 2013, StabFund managed and wound down the transferred portfolio, 
+primarily consisting of securities, derivatives, and loans. In mid -August 2013, the SNB loan 
+was repaid, and on November 7, 2013, UBS exe rcised its right to purchase StabFund, which 
+mainly held cash equivalents by September 2013, from the SNB for USD 3.8 billion. The SNB 
+also earned an interest income of USD 1.6 billion over the term of the loan (SNB 2014). 
+  
+500
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 17 ---
+References and Key Program Documents 
+Implementation Documents 
+(UBS 2008a) UBS. 2008a. “Form 6-K–UBS AG. Report of Foreign Issuer.” October 16, 2008. 
+UBS securities filing outlining terms of the capital injection and StabFund transfer. 
+https://elischolar.library.yale.edu/ypfs-documents2/2189 
+(UBS 2009a) UBS. 2009a. “Form 6-K–USB AG. Current Report of Foreign Issuer.” August 19, 
+2009. 
+UBS securities filing announcing sale of Swiss government’s stake in UBS. 
+https://elischolar.library.yale.edu/ypfs-documents2/2251 
+Legal/Regulatory Guidance 
+(Swiss Government 1999) Swiss Government. 1999. “Federal Constitution of the Swiss 
+Confederation.” April 18, 1999. 
+The federal constitution of the Swiss Confederation. 
+https://elischolar.library.yale.edu/ypfs-documents2/2255 
+(Swiss Government 2008) Swiss Government. 2008. “Federal Decree on a Loan for the 
+Recapitalization of UBS AG.” Reference FF 2009 399, Parliament No. 08.077. December 15, 
+2008. 
+Decree authorizing recapitalization of UBS AG (in French). 
+https://elischolar.library.yale.edu/ypfs-documents2/2191 
+Media Stories 
+(Creswell 2007) Creswell, Julie. 2007. “After Losses, UBS Ousts Its Chief.” New York Times, 
+July 6, 2007. 
+News article discussing UBS CEO Peter A Wuffli’s departure from UBS. 
+https://elischolar.library.yale.edu/ypfs-documents2/1402 
+(Dealbook 2008) Dealbook. 2008. “Former UBS Chief to Forego $10 Million in Exit Pay.” 
+New York Times, November 10, 2008. 
+News article discussing UBS CEO Peter A Wuffli’s renunciation of part of his compensation. 
+https://elischolar.library.yale.edu/ypfs-documents2/1404 
+(Gelnar 2008) Gelnar, Martin. 2008. “SNB Watch: Swiss Throw UBS a Lifeline as Crisis 
+Widens.” Dow Jones International News, October 16, 2008. 
+News article discussing Swiss government aid provided to UBS during the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents2/1405 
+(Global Finance 2009) Global Finance. 2009. “The World’s Biggest Banks 2008.” Global 
+Finance, Best Banks and Financial Rankings, August 4, 2009. 
+List of the world’s 50 largest banks in 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/1406 
+501
+Switzerland: UBS Capital Injection Makhija
+
+--- Page 18 ---
+(Irish Independent 2009) Irish Independent. 2009. “Swiss Sell UBS AG Stake for €790m 
+after US Deal,” August 21, 2009. 
+News article about the Swiss government’s sale of its stake in UBS. 
+https://elischolar.library.yale.edu/ypfs-documents2/1408 
+(Lienhard and Zielniewicz 2009) Lienhard, Andreas, and Agata Zielniewicz. 2009. 
+“Financial Aid, as in the UBS Case, Requires a New Legal Structure.” Neue Zürcher Zeitung, 
+February 16, 2009. 
+News article expressing doubts about legal basis for the Federal Council’s issuance of an 
+ordinance to provide aid to UBS during the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents2/1416 
+(Logutenkova and Giles 2008) Logutenkova, Elena, and Warren Giles. 2008. “UBS 
+Completes $15 Billion Asset Sale to BlackRock (Update4).” Bloomberg News, May 21, 2008. 
+News article discussing BlackRock’s purchase of assets from UBS in May 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/2320 
+(Martinuzzi and Wille 2009) Martinuzzi, Elisa, and Klaus Wille. 2009. “Switzerland to Pay 
+Banks about $55 Million for UBS Stake Sale.” Bloomberg News, August 20, 2009. 
+News article discussing the transaction fees paid by the Swiss government during its sale of 
+the UBS stake. 
+https://elischolar.library.yale.edu/ypfs-documents2/1684 
+(Mombelli 2018) Mombelli, Armando. 2018. “The Day UBS, the Biggest Swiss Bank, Was 
+Saved.” SWI swissinfo.ch, October 16, 2018. 
+News article discussing UBS’s condition during its rescue. 
+https://elischolar.library.yale.edu/ypfs-documents2/1409 
+(Voxant 2008) Voxant FD (Fair Disclosure) Wire (Voxant). 2008. “UBS Further Materially 
+De-Risks Balance Sheet through Transaction with Swiss National Bank (Conference Call) – 
+Final.” Transcript, October 16, 2008. 
+Transcript of UBS conference call following announcement of rescue measures. 
+https://elischolar.library.yale.edu/ypfs-documents2/1421 
+Press Releases/Announcements 
+(Jordan 2009) Jordan, Thomas. 2009. “Introductory Remarks by Thomas Jordan.” Remarks 
+at a news conference at the Swiss National Bank in Berne, Switzerland, June 18, 2009. 
+Remarks at a news conference by Thomas Jordan, member of the Governing Board of the 
+Swiss National Bank, regarding challenges for the SNB during the GFC and the StabFund 
+transaction. 
+https://elischolar.library.yale.edu/ypfs-documents2/2218 
+  
+502
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 19 ---
+(SNB 2009a) Swiss National Bank (SNB). 2009a. “Swiss National Bank to Issue SNB Bills in 
+US Dollars.” Press release, February 2, 2009. 
+SNB press release announcing a new monetary policy instrument—SNB debt certificates 
+issued in US dollars to finance SNB’s loan to StabFund. 
+https://elischolar.library.yale.edu/ypfs-documents2/1423 
+(SNB 2013) Swiss National Bank (SNB). 2013. “UBS Purchases StabFund from the SNB: 
+Profit of USD 3.762 Billion for the SNB.” Press release, November 8, 2013. 
+Press release and presentation announcing UBS’s purchase of StabFund from the SNB. 
+https://elischolar.library.yale.edu/ypfs-documents/9107/ 
+(Swiss Federal Council 2008a) Swiss Federal Council. 2008a. “Federal Council Takes 
+Decision on Measures to Strengthen Switzerland’s Financial System.” Press release, October 
+16, 2008. 
+Press release announcing measures taken by the Federal Council, SNB, and the Swiss Federal 
+Banking Commission to stabilize the Swiss financial system and UBS during the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents2/1430 
+Reports/Assessments 
+(Control Committees 2010) Control Committees of the Federal Assembly, Switzerland 
+(Control Committees). 2010. “The Swiss Authorities under the Pressure of the Financial 
+Crisis and the Disclosure of UBS Customer Data to the USA.” May 31, 2010. 
+Control Committees report on the to examine the conduct of the Swiss authorities in dealing 
+with UBS during the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents2/2199 
+(Roth 2008) Roth, Jean-Pierre. 2008. “Steps to Strengthen the Swiss Financial System.” BIS 
+Review 125/2008, October 16, 2008. 
+Remarks at a news conference by Jean-Pierre Roth, SNB Governing Board chairman and 
+chairman of the board of directors of the BIS, regarding UBS’s rescue measures. 
+https://elischolar.library.yale.edu/ypfs-documents2/2219 
+(Roth 2009) Roth, Jean-Pierre. 2009. “Review of the Swiss Economy in 2008 and the 
+Outlook for 2009.” Speech before SNB shareholders, Berne, Switzerland, April 17, 2009. 
+Speech by Jean-Pierre Roth, SNB Governing Board chairman, delivered at the general meeting 
+of shareholders of the SNB. 
+https://elischolar.library.yale.edu/ypfs-documents2/2243 
+(SFBC 2008) Swiss Federal Banking Commission (SFBC). 2008. “Subprime Crisis: SFBC 
+Investigation into the Causes of the Write-Downs of UBS AG.” SFBC—UBS Subprime Report, 
+September 30, 2008. 
+Report published by the SFBC on causes of significant write-downs that occurred at UBS 
+during the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents2/2200 
+503
+Switzerland: UBS Capital Injection Makhija
+
+--- Page 20 ---
+(SNB 2008) Swiss National Bank (SNB). 2008. “Expert opinion on the admissibility of the 
+central bank participation of the Swiss National Bank in package of measures to strengthen 
+the financial system,” October 13, 2008. 
+Report outlining the SNB’s legal basis for the UBS rescue during the GFC (in German). 
+https://elischolar.library.yale.edu/ypfs-documents2/2253 
+(SNB 2009b) Swiss National Bank (SNB). 2009b. 101st Annual Report, 2008. 
+Swiss National Bank’s 2008 annual report. 
+https://elischolar.library.yale.edu/ypfs-documents2/424 
+(SNB 2014) Swiss National Bank (SNB). 2014. 106th Annual Report, 2013. 
+Swiss National Bank’s 2013 annual report. 
+https://elischolar.library.yale.edu/ypfs-documents2/2201 
+(Swiss Federal Council 2008b) Swiss Federal Council. 2008b. “Message on a Package of 
+Measures to Strengthen the Swiss Financial System,” November 5, 2008. 
+The Swiss Federal Council’s report to the Swiss Federal Assembly on measures taken to 
+strengthen the financial system during the Global Financial Crisis (in German). 
+https://elischolar.library.yale.edu/ypfs-documents2/2202 
+(Swiss Federal Council 2008c) Swiss Federal Council. 2008c. “Summary of Message on a 
+Package of Measures to Strengthen the Swiss Financial System,” November 5, 2008. 
+Summary of the Swiss Federal Council’s report to the Swiss Federal Assembly on measures 
+taken to strengthen the financial system during the Global Financial Crisis. 
+https://elischolar.library.yale.edu/ypfs-documents2/2196 
+(UBS 2008b) UBS. 2008b. Annual Report 2007. 
+UBS annual report for the 2007 fiscal year. 
+https://elischolar.library.yale.edu/ypfs-documents2/2204 
+(UBS 2008c) UBS. 2008c. “First Quarter 2008 Results,” May 6, 2008. 
+UBS financial reporting covering Q1 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/2205 
+(UBS 2008d) UBS. 2008d. “Second Quarter 2008 Results,” August 12, 2008. 
+UBS financial reporting covering Q2 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/2211 
+(UBS 2008e) UBS. 2008e. “Extraordinary General Meeting.” Transcript of speech by Peter 
+Kurer, chairman of the board of UBS, November 27, 2008. 
+Speech made by former UBS Chairman Peter Kurer during the EGM held on November 27, 
+2008, to seek shareholder approval for the capital injection. 
+https://elischolar.library.yale.edu/ypfs-documents2/2018 
+(UBS 2009b) UBS. 2009b. Annual Report 2008. 
+UBS annual report covering the 2008 fiscal year. 
+https://elischolar.library.yale.edu/ypfs-documents2/2185 
+504
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 21 ---
+(UBS 2009c) UBS. 2009c. “Fourth Quarter 2008 Results,” February 10, 2009. 
+UBS financial report covering Q4 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/2247 
+(UBS 2009d) UBS. 2009d. “Q3 2009 Earnings Call,” November 3, 2009. 
+UBS’s earnings call for the third quarter of 2009. 
+https://elischolar.library.yale.edu/ypfs-documents2/2214 
+(UBS 2010) UBS. 2010. Annual Report 2009. 
+UBS annual report covering the 2009 fiscal year. 
+https://elischolar.library.yale.edu/ypfs-documents2/2018/ 
+Key Academic Papers 
+(Erkens, Hung, and Matos 2009) Erkens, David, Mingyi Hung, and Pedro Matos. 2009. 
+“Corporate Governance in the 2007-2008 Financial Crisis: Evidence from Financial 
+Institutions Worldwide.” Working paper, August 2009. 
+Paper investigating the role of corporate governance in the 2007-2008 credit crisis. 
+https://elischolar.library.yale.edu/ypfs-documents2/2215 
+(Hänni 2010) Hänni, Peter. 2010. “The State and the Financial Industry in Switzerland.” 
+L’Europe en Formation 358, no. 4: 111-30, 2010. 
+Paper discussing the regulatory framework of the Swiss banking system and support provided 
+to UBS. 
+https://elischolar.library.yale.edu/ypfs-documents2/2216 
+(Mader 2010) Mader, Luzius. 2010. “Erosion of Budget Law in Times of Crisis? (Swissair, 
+UBS).” In Administrative Organisation Law - State Liability Law - Public Service Law. Bern: 
+Stämpfli Verlag AG. 
+Book chapter published in the Swiss Association for Administrative Law Yearbook - discussing 
+the regulatory framework of the Swiss banking system and support provided to UBS and 
+Swissair. 
+https://elischolar.library.yale.edu/ypfs-documents2/2217 
+(Makhija 2024) Makhija, Anmol. 2024. “Switzerland: UBS Restructuring, 2008.” Journal of 
+Financial Crises 6, no.1. 
+YPFS case study examining UBS’s restructuring through StabFund during the GFC. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/19 
+(Rhee, Hoffner et al. 2024) Rhee, June, Benjamin Hoffner, Greg Feldberg, and Andrew 
+Metrick. 2024. “Survey of Ad Hoc Capital Injections.” Journal of Financial Crises 6, no. 3.  
+Survey of YPFS case studies examining ad hoc capital injections.   
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/1 
+  
+505
+Switzerland: UBS Capital Injection Makhija
+
+--- Page 22 ---
+(Rhee, Oguri et al. 2022) Rhee, June, Junko Oguri, Greg Feldberg, and Andrew Metrick. 
+2022. “Broad-Based Capital Injection Programs.” Journal of Financial Crises 4, no. 1.  
+Survey of YPFS case studies examining broad-based capital injection programs.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/1 
+Other 
+(Bäumle 2008) Bäumle, Martin. 2008. “Set of Measures to Strengthen the Swiss Financial 
+System.” Official Bulletin 08.777, Swiss Parliament, Winter Session, December 8, 2008. 
+A discussion of UBS’s rescue in the Swiss Parliament (in German). 
+https://elischolar.library.yale.edu/ypfs-documents2/1686 
+(esisuisse n.d.) esisuisse. N.d. “Esisuisse History 1984-2016.” Accessed April 12, 2023. 
+Webpage providing a history of the Swiss deposit insurance organization, esisuisse. 
+https://elischolar.library.yale.edu/ypfs-documents2/2244 
+(Swiss Federal Council 2022) Swiss Federal Council. 2022. “The Federal Council of 
+Switzerland: A Collegiate Group Since 1848,” December 27, 2022. 
+Webpage providing background information on the Swiss Federal Council. 
+https://elischolar.library.yale.edu/ypfs-documents2/1236 
+(UBS n.d.) UBS. N.d. “UBS in the World: 2008–2015.” Accessed April 4, 2023. 
+Webpage describing key events in UBS’s history. 
+https://elischolar.library.yale.edu/ypfs-documents2/1430 
+ 
+  
+506
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 23 ---
+Appendix 
+Figure 2: UBS AG Pro Forma Balance Sheet (CHF billions) 
+ 
+Source: Author’s analysis. 
+ 
+ 
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+507
+Switzerland: UBS Capital Injection Makhija

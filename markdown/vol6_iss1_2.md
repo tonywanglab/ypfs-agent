@@ -1,0 +1,732 @@
+## Austria: Heta Asset Resolution Restructuring, 2015[1] 
+
+_Bailey Decker_[2] _and Eming Shyu_[3] 
+
+Yale Program on Financial Stability Case Study March 28, 2024 
+
+## **Abstract** 
+
+Hypo Alpe Adria (HAA) was Austria’s sixth-largest bank by assets at the time of the Global Financial Crisis (GFC) of 2007–2009. HAA pursued a growth strategy in southeastern Europe in the years preceding the GFC—emboldened by a liability guarantee from the Austrian state of Carinthia—which proved troublesome for HAA’s loan portfolio and led to large writedowns in autumn 2008. From December 2008 to April 2014, Austria provided EUR 5.8 billion in total capital injections—during which time the government nationalized HAA. Per European Commission (EC) authorization of State Aid, Austria had to submit a restructuring plan, which the EC approved in September 2013. The restructuring plan called for three parts: (1) the sale of HAA’s Austrian subsidiary, (2) the sale of HAA’s southeastern European network, and (3) the creation of an asset management vehicle, Heta Asset Resolution AG (Heta), to liquidate what remained. Heta faced ongoing challenges. In March 2015, the Financial Market Authority (FMA) issued a resolution decree for Heta after an asset quality review revealed a capital shortfall. The FMA imposed a temporary moratorium on Heta’s liabilities until May 2016 to provide an opportunity to value assets and deploy the bail-in tool under the Bank Recovery and Resolution Directive. Heta’s creditors challenged the use of bail-in, given Carinthia’s guarantee. In September 2016, Carinthia offered creditors zerocoupon bonds, resulting in a 10% haircut for senior creditors and a 55% haircut for junior creditors in 2016; however, over the following year, most creditors accepted a government offer to buy back their zero-coupon bonds with an additional 5% haircut. Because asset sales went better than expected, the FMA declared that the resolution of Heta was complete on December 21, 2021, two years ahead of schedule. Legacy senior creditors received additional compensation. The Austrian federal government had EUR 6.5 billion in net losses with regard to the recapitalization of HAA and later resolution of Heta; the Carinthian state also lost EUR 1.2 billion from its guarantee. The bail-in cost legacy creditors about EUR 2.1 billion. 
+
+**Keywords:** Bank Recovery and Resolution Directive (BRRD), Carinthia, Heta Asset Resolution, Hypo Alpe Adria 
+
+> 1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering bank resolutions and restructurings. A survey of all the cases in this series (McNamara et al. 2024) and the individual cases underlying it are available from the Journal of Financial Crises at https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+> 3 Intern, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+This case study describes the resolution of Heta Asset Resolution AG. Before Heta’s resolution, the Austrian government injected capital into its predecessor, Hypo Alpe Adria (HAA) (for details, see Decker [forthcoming]). 
+
+In October 2014, the Austrian government transformed HAA into Heta, an asset management vehicle, to facilitate the resolution of HAA (World Bank 2016). HAA had been Austria’s sixth-largest bank at the time of the Global Financial Crisis of 2007– 2009 (GFC) with EUR 41.2 billion (USD 64.7 billion)[4] in assets as of June 30, 2008 (AFP 2008; HAA 2008d). HAA pursued a growth strategy in southeastern Europe in the years preceding the GFC. HAA began to report large write-downs on its loan and lease portfolio in the region in autumn 2008 (BayernLB 2010; EC 2009, 2, 4; Tajti 2018). HAA was 67% owned by its majority shareholder, Bayerische Landesbank (BayernLB), with the remainder owned by minority shareholders including the state of Carinthia; see Decker (forthcoming) for details (EC 2009, 3; HAA 2009). Notably, Carinthia had guaranteed some of HAA’s liabilities up to EUR 19.0 billion, which allowed HAA to borrow at highly favorable conditions and expand across southeastern Europe (EC 2009, 3; World Bank 2016). 
+
+## **Key Terms** 
+
+Purpose: After EUR 5.8 billion in capital injections could not restore viability for Hypo Alpe Adria, the Austrian government created Heta to take over EUR 25.2 billion in assets as part of a restructuring plan. When Heta’s capital shortfall persisted, the FMA decided to put Heta into resolution 
+
+||Size and Nature of<br>Institution<br>Source of Failure|Austria’s sixth-largest bank,<br>with EUR 41.2 billion in<br>assets as of June 30, 2008<br>Large write-downs on HAA’s<br>loan and lease portfolio,<br>especially in regard to the<br>bank’s activity in|
+|---|---|---|
+|||southeastern Europe|
+||Start Date<br>End Date|March 1, 2015<br>December 21, 2021|
+||Approach to|(1) Sale of the Austrian|
+||Resolution and<br>Restructuring<br>Outcomes|subsidiary, (2) sale of the<br>SEE network, (3) wind-down<br>by converting the bank into<br>an asset management vehicle<br>EUR 6.5 billion in losses to<br>the federal government; EUR<br>1.2 billion to the Carinthian|
+|||state.|
+||Notable Features|Debt moratorium; the|
+|||government imposed|
+|||substantial losses on|
+|||creditors, but simultaneously|
+|||offered creditors a better<br>deal—with smaller<br>haircuts—to avoid the state|
+|||of Carinthia’s making good|
+|||on its guarantee|
+
+
+
+On October 26, 2008, the Austrian Parliament passed a EUR 100 billion support scheme—the Law on the Stability of the Financial Markets and on Strengthening the Interbank Market for Credit Institutions and Insurance Companies in Austria (the Financial Stability Law)—in response to the GFC, with EUR 15 billion allocated for troubled banks (Dow Jones 2008; EC 2008, 1–2, 5). 
+
+HAA identified EUR 1.1 billion in loan loss provisions for 2008 (HAA 2009). In early November 2008, HAA’s supervisory board unanimously approved a capital increase and prepared a proposal for the next general meeting in December (HAA 2008a). After 
+
+> 4 Per OFX, EUR 1 = USD 1.57 on June 30, 2008. 
+
+
+discussions among shareholders, BayernLB injected EUR 699.9 million, minority shareholders injected EUR 0.1 million, and the Republic of Austria—through Finanzmarktbeteiligung Aktiengesellschaft (FIMBAG)—injected EUR 900 million (HAA 2008b; HAA 2009). Established during the previous month by the Financial Stability Law, FIMBAG acted as a trustee of the federal government to monitor and control distressed institutions. FIMBAG held the Austrian government’s participation in HAA (BMF n.d.b). 
+
+Throughout summer 2009, southeastern European countries continued to face economic difficulties, and the proportion of nonperforming loans on HAA’s balance sheet continued to increase. Thus, BayernLB and HAA commissioned a credit risk report from PricewaterhouseCoopers (PwC) in November 2009 (EC 2009). HAA’s executive board used its internal audits and PwC findings to calculate an expected write-down of EUR 1.7 billion for 2009 (BayernLB 2010). After PwC’s report, Austria’s Financial Market Authority (FMA) issued an ultimatum to HAA’s shareholders: Recapitalize the bank or face supervisory action. After HAA’s shareholders declined to do so, the Austrian government nationalized the bank for a symbolic purchase price of EUR 4.00 (EC 2009). 
+
+The European Commission (EC) initiated an investigation of State Aid measures with its approval of HAA’s recapitalization and nationalization in December 2009 (EC 2009). Austria sent various viability and resolution plans in the years following (see Key Design Decision No. 3, Legal Authority). In September 2013, the EC ultimately approved a three-pronged restructuring plan for HAA: (1) the sale of the Austrian subsidiary, HBA (completed in December 2013 for EUR 65.5 million); (2) the sale of HAA’s southeastern European network (SEE network) (completed in July 2015 for EUR 200 million); and (3) the wind-down part, representing the legacy HAA entity later renamed Heta and converted into an asset management vehicle (EC 2013; EC 2016). 
+
+In March 2015, the FMA issued a resolution decree for Heta after an asset quality review that revealed a capital shortfall between EUR 4.0 billion and EUR 7.6 billion (Heta 2015c). The FMA imposed a temporary moratorium on Heta’s liabilities until May 31, 2016, to provide an opportunity for the valuation of assets and the deployment of the bail-in tool. In April 2016, the FMA decided to apply the bail-in tool based on an ex ante valuation conducted by an independent valuer. The FMA wrote Tier 1 capital and subordinated debt down to zero, while initially haircutting senior debt by 54%. 
+
+However, Carinthia’s guarantee of EUR 19.0 billion complicated the process, and Austria had to negotiate with Heta’s bondholders (EC 2009, 3; World Bank 2016). Nearly all of Heta’s creditors ultimately accepted zero-coupon bonds from the Carinthian Compensation Payment Fund (Kärntner Ausgleichszahlungsfonds, or KAF) (see Key Design Decision No. 9, Treatment of Creditors and Equity Holders) (Heta 2017; World Bank 2016). Senior creditors took a 10% haircut and junior creditors took a 55% haircut. KAF offered to buy the zerocoupon bonds back from former creditors between December 2016 and May 2017, using funds allocated by the Finance Ministry and borrowed from ABBAG, a joint stock company the government had created, at a further 5% discount; 89% of former creditors accepted the offer (KAF 2016; KAF 2018). 
+
+
+Because asset sales went better than expected, the FMA declared that the resolution of Heta was complete on December 21, 2021, two years ahead of schedule (EC 2016; FMA 2021; Heta 2019b; Heta 2022). The FMA recovered EUR 10.8 billion or 86.3% of senior liabilities. The FMA transferred the ownership rights of Heta to ABBAG for liquidation under the Stock Resolution Act (Aktiengesetz, or AktG) (FMA 2021; Heta 2023b). Thus, ABBAG must end Heta’s ongoing business, collect receivables, and use the remaining assets to satisfy creditors (Heta 2023b). Figure 1 provides a timeline of important events for HAA and Heta since the GFC. 
+
+[FIGURE id=vol6_iss1_2_f1 type=diagram page=6 label="Figure 1" file=figure_1.png caption="Timeline of HAA’s Capital Injections and Heta’s Resolution"]
+### **Figure 1: Timeline of HAA’s Capital Injections and Heta’s Resolution**
+
+|**Date**|**Event**|
+|---|---|
+|November 12, 2008|HAA’s supervisory board meets and unanimously approves a capital increase. The<br>supervisory board prepares a proposal for the next general meeting in December<br>2008.|
+|December 5, 2008|At the general meeting, the shareholders agree on a capital injection but dispute who<br>will pay for this capital increase. Ultimately, BayernLB, the HAA minority<br>shareholders,and the Austriangovernment agree to inject capital.|
+|December 10,2008|BayernLB injects EUR 699.9 million into HAA.|
+|December 29,2008|FIMBAG injects EUR 900 million into HAA.|
+|April 29,2009|Austriaprovides a viability plan for HAA to the EC.|
+|November 13,2009|PwC delivers its report sayingHAA’s capital ratio is below 4%.|
+|December 14, 2009|HAA shareholders and the Austrian government sign the term sheet for the<br>December 2009 recapitalization and nationalization.|
+|December 31, 2009|BayernLB renounces all shareholder rights deriving from EUR 300 million in Tier 2<br>capital.|
+|June 28,2010|FIMBAG injects EUR 450 million into HAA.|
+|May30,2011|HAA converts someparticipation capital into share capital.|
+|December 5, 2012|FIMBAG injects EUR 500 million. BMF guarantees Tier 2 capital instruments with a<br>nominal value of EUR 1.0 billion.|
+|June 29,2013|Austria submits a restructuring plan to the EC.|
+|September 3,2013|The EC approves the restructuring plan.|
+|September 2013|FIMBAG injects EUR 700 million into HAA.|
+|November 2013|FIMBAG injects EUR 250 million into HAA.|
+|December 13,2013|FIMBAG injects EUR 800 million into HAA.|
+|December 19,2013|Anadi acquires HBA.|
+|April 11,2014|FIMBAG injects EUR 750 million into HAA.|
+|August 1,2014|Federal Gazette Law No. 51/2014 comes into effect.|
+|October 19,2014|HAA transforms into Heta.|
+|October 30,2014|The FMA revokes Heta’s bankinglicense|
+|February 2015|Heta conducts an asset quality review that reveals a capital shortfall between EUR 4.0<br>billion and EUR 7.6 billion.|
+|March 1,2015|The FMA issues a resolution decree and debt moratorium for Heta.|
+|July17,2015|Advent and the EBRD acquire the SEE network.|
+
+
+
+
+|April 10,2016|The FMA decides to bail in creditors and equityholders.|
+|---|---|
+|October 2016|Creditors accept zero-coupon bonds from Carinthia Compensation Fund (KAF), with<br>haircuts.|
+|2016–17|KAF buys back EUR 8.3 billion of zero-coupon bonds at a further discount, leaving EUR<br>1 billion remainingwith former creditors who do not accept the offer.|
+|2018|Settlements with government of Austria on EUR 1 billion guaranteed subordinated<br>bond and with BayernLB on EUR 2.4 billion eligible liabilities.|
+|December 21,2021|The FMA announces that Heta’s resolution is complete;Heta enters liquidation.|
+
+
+
+_Source: Authors’ analysis._ 
+
+## **Summary Evaluation** 
+
+A contemporaneous publication from Schulte Roth & Zabel LLP notes Heta as an early test case of the Bank Recovery and Resolution Directive (BRRD). The publication characterizes the government takeover and restructuring of Heta’s successor, HAA, as “complex and lengthy” (Declercq and Van de Graaff 2015, 1). 
+
+Likewise, in January 2015, two other attorneys, Hodge Malek and James Potts, contemporaneously characterize the FMA’s initial attempt to apply resolution tools as “one of the most controversial European bank bail-ins to date” (Malek and Potts 2015, 7). The authors note the novelty of the bail-in, especially considering Carinthia’s guarantee: “Bailing in instead of bailing out is the new normal in the Eurozone. No wholesale legal challenge to the bail-in has yet been successful, but none has gone as far as the HAA bail-in in cancelling deficiency guarantees by a sub-sovereign body” (Malek and Potts 2015, 8). 
+
+However, after this commentary was published, an Austrian court rejected the cancellation of the guarantee (Heta 2016; Moody’s 2015; World Bank 2016). Heta imposed substantial losses on creditors in 2016, but the state and federal governments simultaneously negotiated a better deal with creditors, in a transaction with the KAF. Most senior creditors ultimately agreed to a 15% haircut and most junior creditors agreed to a 60% haircut; legacy senior creditors later received additional payments when Heta’s collections outperformed expectations. The state of Carinthia lost EUR 1.2 billion plus operating expenses for KAF (see Key Design Decision No. 9, Treatment of Creditors and Equity Holders) (BMF 2017; World Bank 2016; KAF 2022a; KAF 2022b). Legacy senior and subordinated creditors ultimately lost about EUR 2.1 billion (see Figure 2). 
+
+Skadden, Arps, Slate, Meagher & Flom LLP advised Carinthia and the KAF during negotiations with creditors. In December 2016, two attorneys at Skadden wrote: 
+
+Although commentators disagree whether bail-in tools are an effective means of reducing systemic risk of failing banks, almost all agree that they create substantial new powers for European member states to impose losses on creditors. European member states are able to leverage otherwise recalcitrant creditors outside of insolvency proceedings. While the rules of out-of-court debt restructurings still apply, European member states are now more likely to reach a negotiated solution with the bail-in powers given to them under the BRRD. (Hutter and Quartner 2016) 
+
+
+The FMA communicated a self-assessment toward the end of December 2021 in which FMA executive directors Helmut Ettl and Eduard Müller say that the success of Heta’s resolution was evidenced by the fact no lawsuits or appeals against the FMA’s decisions regarding Heta were ultimately successful (see Key Design Decision No. 6, Communication and Disclosure) (FMA 2021). 
+
+
+**Context: Austria, Hypo Alpe Adria, 2007–2008 EUR 37.9 billion** as of Dec. 31, 2007 **Assets EUR 41.2 billion** as of June 30, 2008 **EUR 36.2 billion** as of Dec. 31, 2007 **Liabilities EUR 39.5 billion** as of June 30, 2008 **EUR 8.5 billion** as of Dec. 31, 2007 **Deposits EUR 9.0 billion** as of June 20, 2008 **6.3%** as of Dec. 31, 2007 **Capital Ratio (Tier 1) 5.8%** as of June 30, 2008 **Nonperforming Loans** Data not available **10%** of Croatia’s banking sector as of Dec. 2009 **20%** of Bosnia-Herzegovina’s banking sector as of Dec. 2009 **Market Share 17%** of Montenegro’s banking sector as of Dec. 2009 **6%** of Serbia’s banking sector as of Dec. 2009 **104.3%** as of Dec. 31, 2007 **Banking System, % of GDP 106.8%** as of Dec. 31, 2008 _Sources: FMA 2016c; HAA 2008c; HAA 2008d._ 
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: After EUR 5.8 billion in capital injections could not restore HAA’s viability over 2008–2014, Austria submitted a fourth restructuring plan to the EC in 2013 that included the sale of HAA’s Austrian subsidiary, the sale of the SEE network, and the transformation of the legacy entity into Heta. When Heta’s capital shortfall persisted, the FMA decided to put Heta into resolution to preserve its essential services and avoid financial instability.** 
+
+HAA pursued a growth strategy in southeastern Europe in the years preceding the GFC, which saddled it with a large portfolio of nonperforming loans and costly leases and led to large write-downs in autumn 2008 (BayernLB 2010; EC 2009; Tajti 2018). HAA was owned by the majority shareholder, BayernLB, and other minority shareholders, including the state of Carinthia (EC 2009; HAA 2009). Carinthia had guaranteed some of HAA’s liabilities up to EUR 19.0 billion, which allowed HAA to borrow at highly favorable conditions and expand across southeastern Europe (EC 2009; World Bank 2016). 
+
+HAA requested State Aid under the new Financial Stability Law that Austria’s legislature passed in October 2008 (Reuters 2008). From December 2008 to April 2014, FIMBAG provided EUR 5.8 billion in total capital injections—during which time the Austrian government nationalized HAA in December 2009; see Decker (forthcoming) for details (EC 2009; HAA 2009; HAA 2011; HAA 2014a; Moody’s 2013; Reuters 2012a; Reuters 2012b; Reuters 2013b).[5] Per EC State Aid authorization in 2008, Germany committed to providing a restructuring plan for HAA[6] (EC 2008; EC 2009). Austria initially submitted a plan to the EC in April 2009, which the EC rejected because of uncertainties about the restoration of viability, burden-sharing, and proper mitigation of competition distortion (EC 2013). 
+
+Between the initial capital injection into the former bank and the ultimate resolution plan approved by the EC (see Key Design Decision No. 3, Legal Authority), Austrian officials considered alternative options, reported by the financial press. In February 2014, Reuters reported that Austrian officials discarded a plan to have healthy commercial lenders, such as Erste Group or Raiffeisen, back a bad bank for toxic assets. Commercial lenders were reticent to participate, and the rules to establish a bad bank in a manner that would keep its debt off state books proved too challenging, according to then–Finance Minister Michael Spindelegger. Spindelegger also suggested the possibility of insolvency, which would have given Austria more leverage in negotiations with HAA’s former majority shareholder, 
+
+> 5 This estimate represents the sum of published announcements. A later report by the Austrian Court of Auditors estimated the total capital injection at EUR 5.6 billion, on which net losses were EUR 4.4 billion (Court of Auditors 2022). 
+
+> 6 BayernLB, a German Landesbank, was HAA’s majority shareholder until December 2009 (EC 2009). Thus, Germany was initially responsible for this viability plan (see Key Design Decision No. 13, Cross-border Cooperation) (EC 2008). After HAA’s nationalization, the Austrian government became responsible for the restructuring and resolution plans (EC 2009; EC 2013). 
+
+
+BayernLB, to address HAA’s problems (Shields 2014; Shotter 2014). However, Spindelegger later said that the consequences of insolvency were too unpredictable (Shotter 2014). 
+
+Austria submitted a fourth plan in June 2013 that was approved by the EC in September 2013 (see Key Design Decision No. 3, Legal Authority). The September 2013 restructuring plan provided for three prongs: (a) the sale of the Austrian subsidiary, HBA; (b) the sale of the SEE network; and (c) the transformation of the legacy HAA entity into an asset management vehicle, Heta, to liquidate what remained (EC 2013, 10; EC 2016, 2). 
+
+The Austrian Parliament passed a legislative package in August 2014 that created the basis for HAA’s resolution through an asset management vehicle (see Key Design Decision No. 3, Legal Authority) (Heta 2015b; Parliament of Austria 2014a, arts. 1, 6; World Bank 2016). HAA changed its name to Heta on October 19, 2014, and the FMA revoked Heta’s banking license on October 30, 2014 (Heta 2015c). 
+
+In February 2015, Heta conducted an asset quality review that revealed a capital shortfall between EUR 4.0 billion and EUR 7.6 billion (Heta 2015c). On March 1, 2015, the finance minister informed the FMA—Austria’s resolution authority—that no further measures under the Financial Market Stability Act (Finanzmarktstabilitätsgesetz, or FinStaG) would be taken for HAA (Heta 2015a; World Bank 2016). On the same day, the FMA issued a resolution decree for Heta (Heta 2015a). The FMA provided three reasons for resolving Heta. First, resolution allowed the continuity of essential services to the SEE banking network (World Bank 2016). Second, Heta’s bankruptcy could have negatively affected financial stability in Austria, Croatia, and Slovenia. Third, the Austrian government could better protect public funds under resolution rather than bankruptcy—Carinthia’s liabilities were too great for bankruptcy. The state of Carinthia had guaranteed HAA’s liabilities (issued between April 2003 and 2007 and falling due before September 2017) up to EUR 19.0 billion. Had the government allowed bankruptcy, these liabilities would have also bankrupted Carinthia (World Bank 2016). 
+
+The FMA’s resolution decree contained subsequent measures to be taken (Heta 2015a). At this juncture, parliament had transposed the BRRD into Austrian law, which meant that Heta’s portfolio valuation would use a gone-concern assumption (Heta 2023a). According to a later publication from the World Bank, no private solution such as a private capital injection or takeover was available to HAA at the time of the FMA’s resolution decree (World Bank 2016). 
+
+**2. Part of a Package: Austria also provided asset guarantees, liquidity support, and capital injections Heta’s predecessor, HAA.** 
+
+## **Broad-Based Support** 
+
+Passed in October 2008, the Financial Stability Law had three components: (a) authorization for bank recapitalization, (b) bank funding guarantees and the establishment of a clearing bank with a federal guarantee, and (c) an unlimited deposit insurance scheme (see Key Design Decision No. 3, Legal Authority). The Ministry of Finance could guarantee bonds issued by banks, bank liabilities, and bank losses with the establishment of a clearing bank, 
+
+
+Oesterreichische Clearingbank AG (OeCAG) (EC 2008; IMF 2009). Natural persons enjoyed an unlimited deposit insurance guarantee until December 31, 2009.[7] Afterward, the cap for deposit insurance was limited to EUR 100,000. The government pledged EUR 10.0 billion to back the guarantee (IMF 2009; IMF 2014). 
+
+## **HAA Support Measures** 
+
+For asset guarantees and liquidity support to HAA from July to December 2009, see Decker (forthcoming). 
+
+FIMBAG recapitalized HAA from December 2008 to April 2014 for a total of EUR 5.8 billion in the form of participation capital (Partizipationkapital) and share capital (EC 2009, 5; HAA 2009; HAA 2011; HAA 2014a; Moody’s 2013; Reuters 2012a; Reuters 2012b; Reuters 2013b). HAA’s executive board and supervisory board—with the FMA’s approval—agreed to withdraw the previously injected participation capital in July 2014, considering Heta’s resolution; see Decker (forthcoming) for details (HAA 2014b). 
+
+**3. Legal Authority: Federal Law No. 51 provided the legal basis for the resolution of Heta specifically, and the Federal Act on the Recovery and Resolution of Banks transposed the BRRD into Austrian law.** 
+
+## **Nationalization and Resolution** 
+
+On October 26, 2008, the Austrian Parliament passed the Financial Stability Law. The Financial Stability Law contained two measures: the Interbank Market Reinforcement Act (Interbankmarktstärkungsgesetz, or IBSG) and the Financial Market Stability Act; see Decker (forthcoming) (EC 2008, 1–3; Parliament of Austria 2008). 
+
+FinStaG allowed the nationalization of a credit institution only if that institution was unable to fulfill its obligations to creditors and other support measures were insufficient or unusable (EC 2009; Parliament of Austria 2008, art. 2[2]). In this sense, nationalization was to be viewed as a last resort (EC 2008, 8; Parliament of Austria 2008, art. 2(2)). The minister of finance and the federal chancellor could decide to take over a credit institution if it was “necessary for the prevention of serious damage to the national economy” (Parliament of Austria 2008, art. 2[2]). 
+
+The Austrian Parliament passed a legislative package—Federal Law Gazette No. 51/2014 — that came into effect on August 1, 2014, containing the Federal Law on the Creation of a Dismantling Unit for Hypo (Bundesgesetz zur Schaffung einer Abbaueinheit, or GSA), the Federal Law on Restructuring Measures for Hypo Alpe Adria Bank International AG (Bundesgesetz über Sanierungsmaßnahmen für die Hypo Alpe Adria Bank International AG, 
+
+7 Before the GFC, Austria had a compulsory deposit insurance scheme organized by subsector with five separate schemes administered by respective trade associations. Contributions were ex post, since member banks contributed only when a guarantee event occurred. Member banks made contributions proportional to their respective percentages of covered deposits in each sector, subject to a ceiling depending on the risk-weighted assets of the contributing bank. Other sectors contributed if a payout exceeded the ceiling of a given sector. If this funding was not sufficient, the affected sector could issue bonds to raise external funds (IMF 2008). 
+
+
+or HaaSanG), and the Federal Law on the Establishment of a Federal Mining Participation Joint Stock Company (Bundesgesetz über die Einrichtung einer Abbaubeteiligungsaktiengesellschaft des Bundes, or ABBAG Law) (Heta 2015b; Parliament of Austria 2014a, arts. 1, 6; World Bank 2016). GSA regulated Heta’s restructuring and controlled resolution. HaaSanG allowed certain categories of unlimited guarantees by Carinthia to expire (see Key Design Decision No. 9, Treatment of Creditors and Equity Holders) (Parliament of Austria 2014a, arts. 1, 6; World Bank 2016). The ABBAG Law provided the legal basis for the creation of a joint-stock company, ABBAG, used to liquidate Heta once its resolution was complete (Parliament of Austria 2014a, art. 5). Creditors challenged the legislative package in court (see Key Design Decision No. 9, Treatment of Creditors and Equity Holders) (World Bank 2016). 
+
+HaaSanG also established the FMA as Heta’s restructuring authority. Days later, the FMA published the regulation, HaaSanV, on August 7, 2014, to defer some liabilities and write others down to zero (Heta 2015c). 
+
+On December 29, 2014, the Federal Act on the Recovery and Resolution of Banks transposed the BRRD into Austrian law (Parliament of Austria 2014b, chap. 1; World Bank 2016). BaSAG (Bundesgesetz zur Sanierung und Abwicklung von Banken) Article 2, Sections 78–82 allowed asset separation and the creation of a bridge bank under the control of the government, so long as the finance minister approved (Parliament of Austria 2014b, art. 2[78–82]). Article 2, Sections 85–87 outlined eligible liabilities for bail-in (see Key Design Decision No. 9, Treatment of Creditors and Equity Holders) (Parliament of Austria 2014b, art. 2[85–87]). 
+
+Based on Article 4, Paragraphs 1–3 of BaSAG, the 2015 Bank Recovery Plan Regulation (Bankensanierungsplanverordnung, or BaSaPV) outlined the content and level of detail required for bank recovery plans (FMA 2015). 
+
+On November 5, 2015, the state of Carinthia passed the law, K-AFG, to establish the KAF. K- AFG was the legal basis for the issuance debt to fund the purchase of eligible liabilities from Heta (KAF 2016, 37). 
+
+FinStaG also allowed the repurchase of Heta’s liabilities in May 2016. Per § 2a (1) of FinStaG, the finance minister could acquire certain debt instruments for public interest reasons to preserve macroeconomic stability; per § 2a (2) of FinStaG, the Austrian government could use ABBAG to this end. There were two classes of creditors in question, senior and junior creditors. The government had to make one offer for all debt instruments of the same class. FinStaG required that at least one-fourth of the nominal value of each class accept the offer and that at least two-thirds of the nominal value of all classes accept the offer (EC 2016; KAF 2016) 
+
+## **EC Decision-Making** 
+
+Article 88 of the European Commission Treaty (EC Treaty) obligates member states to obtain EC approval of State Aid affecting the common market (EC 2002). 
+
+
+In early December 2008, the EC found that Austria’s new Financial Stability Law was compatible with the common market; the EC did not object. Austria pledged certain institution-related ceilings to the EC regarding the amount of aid given to a particular institution. When the EC authorized the December 2008 capital injections into HAA, the majority shareholder at the time, BayernLB, committed to providing a restructuring plan for its entire group to the EC within six months (EC 2008). The Austrian Parliament amended the Financial Stability Law nine times since its adoption in October 2008 (BMF n.d.a). 
+
+The EC provisionally approved HAA’s nationalization and recapitalization in December 2009 (see Decker [forthcoming]). With the takeover, Austria had to submit a restructuring plan, which it provided to the EC on April 29, 2010 (EC 2009; EC 2013). In March 2010, the EC expressed doubt that these measures were sufficient to restore viability. The EC also questioned whether burden-sharing with HAA’s previous owners was sufficient (see Decker [forthcoming]) (EC 2010). 
+
+Between July 2010 and August 2013, Austria and the EC communicated through a series of meetings, phone conferences, and other information exchanges. Austria submitted revised restructuring plans on April 21, 2011, and June 29, 2013. The June 2013 restructuring plan provided for the liquidation of HAA (EC 2013). 
+
+On September 3, 2013, the EC approved a three-pronged restructuring plan for HAA: (a) the sale of the HBA; (b) the sale of the HAA SEE network; and (c) the transformation of the legacy HAA entity into an asset management vehicle, Heta, to liquidate the remainder of the bank (EC 2013, 10; EC 2016). The European Union (EU) completed its State Aid investigation with the EC decision on September 3, 2013 (Heta 2015c). Previous plans submitted by Austria did not demonstrate HAA’s stand-alone viability, and the EC finally accepted a plan that outlined the sale and winding down of HAA’s business (EC 2013). 
+
+## **Bail-in Constitutionality** 
+
+While BaSAG transposed the BRRD into Austrian law, BaSAG differed in that liabilities secured by third-party collateral—in this case, Carinthia—could be subject to a haircut. HaaSanG was the law on Heta’s wind-down that allowed Carinthia’s guarantees to expire (Parliament of Austria 2014a, arts. 1, 6; World Bank 2016). On July 28, 2015, the Constitutional Court of Austria ruled that HaaSanG was unconstitutional and repealed the law in its entirety (Heta 2016; Moody’s 2015; World Bank 2016). The Court said that HaaSanG’s distinction between the guarantees of junior creditors and other creditors was neither justifiable nor proportionate. The Court also said that a single law could not invalidate guarantees by Carinthia, a federal state (World Bank 2016). For a discussion on the negotiations between Austria and Heta’s creditors, see Key Design Decision No. 9, Treatment of Creditors and Equity Holders. 
+
+
+## **4. Administration: The FMA owned Heta in resolution, and ABBAG owns Heta in liquidation.** 
+
+## **Austrian Supervision and Resolution** 
+
+The Financial Sector Committee coordinated bank regulation and supervision among the following agencies: the FMA, Austrian National Bank (Oesterreichische Nationalbank, OeNB), and Federal Finance Ministry (Bundesministerium für Finanzen, BMF). Since its creation in 2002, the FMA was the integrated regulator and supervisor for the financial system. To this end, it had licensing and enforcement powers; the FMA was also responsible for nonbank financial institutions (NBFIs). In a complementary fashion, the OeNB undertook all on-site and some off-site bank supervision. Together, the FMA and OeNB determined the schedule of regular inspections: annual inspections for major banks and inspections every two years for medium-sized banks. The OeNB was solely responsible for off-site supervision and analysis, but it shared data with the FMA. The BMF was responsible for certain legislative matters (IMF 2008). 
+
+In December 2014, BaSAG established the FMA as Austria’s resolution authority (Parliament of Austria 2014b, art. 1[3]). To this end, the FMA determined the following: (a) the content and level of detail in recovery and resolution plans, (b) the date by which initial recovery and resolution plans were written and the frequency of updates to these plans, (c) the content and level of detailed information that institutions submitted to authorities, and (d) the level of detail for the assessment of resolvability (Parliament of Austria 2014b, art. 2[4]). The FMA coordinated with FIMBAG and OeNB on the preparation, planning, and application of resolution decisions (Parliament of Austria 2014b, art. 2[3]). BaSAG required that OeNB provide the FMA with all data and analysis from its bank supervision activities (Parliament of Austria 2014b, art. 2[3]). The FMA also coordinated with the European Banking Authority (EBA) and the European Systemic Risk Board (ESRB) (Parliament of Austria 2014b, art. 2[3]). 
+
+## **Resolution and Liquidation of Heta** 
+
+In the fourth quarter of 2009, the FMA issued an ultimatum to HAA’s shareholders: Recapitalize the bank by December 11, 2009, or face supervisory action. BayernLB decided to exit HAA, which led to HAA’s nationalization by the Republic of Austria (see Decker [forthcoming]) (BayernLB 2010; EC 2009). 
+
+The BMF submitted the restructuring plan for HAA to the EC at the end of June 2013 (HAA 2014a). 
+
+On March 1, 2015, the finance minister informed the FMA that no further measures under FinStaG would be taken for HAA (Heta 2015a; World Bank 2016). On the same day, the FMA issued a resolution decree for Heta, which outlined the subsequent measures (Heta 2015a). 
+
+
+## **Creation of the KAF and ABBAG** 
+
+On November 15, 2015, the Carinthian state created (and on July 14, 2016 amended) the KAF for the purpose of issuing debt to fund the purchase of eligible liabilities from Heta (Heta 2016; KAF 2018). In 2014, the federal government created the joint stock company, ABBAG, for Heta’s liquidation (Heta 2023b). 
+
+After the FMA declared Heta’s resolution complete on December 21, 2021, the FMA transferred the ownership rights of Heta to ABBAG (EC 2016, 3; FMA 2021; Heta 2022; Heta 2023b). ABBAG must end Heta’s ongoing business, collect receivables, and use the remaining assets to satisfy creditors (Heta 2023b). Created with the August 2014 legislative package, ABBAG is wholly owned by the Austrian government, and the finance minister may sell its shares for the best possible price in accordance with State Aid authorization (Parliament of Austria 2014a, art. 5[4]). The finance minister in agreement of the federal chancellor appoints members to ABBAG’s executive board (Parliament of Austria 2014a, art. 5[3]). 
+
+## **5. Governance: The FMA’s resolution of Heta was subject to the oversight of the finance minister and a monitoring trustee.** 
+
+The FMA had to inform the finance minister of its decisions. In cases where FMA decisions would have direct fiscal effects or systemic effects, the FMA had to obtain the finance minister’s approval in advance (Parliament of Austria 2014b, art. 2[3]). 
+
+If Heta’s managers encountered conflicts of interest in winding down the portfolio, these managers had to report the issue to HAA’s supervisory board, and the supervisory board made a decision (Parliament of Austria 2014a, art. 1[5]). 
+
+Per the resolution plan, the government had to appoint a monitoring trustee to oversee the full and timely implementation of the resolution plan. The trustee had to be independent of Heta, without conflicts of interest. The trustee was paid by Heta in a way that did not interfere with its resolution, and Austria bore any additional necessary costs. Every quarter, the trustee had to submit a draft report to the EC on the implementation of the resolution plan and compliance with commitments by Austria. Within two weeks of receiving the draft report, the EC, Austrian government, and Heta could submit comments on the trustee’s reporting. Within four weeks of receiving comments, the trustee had to submit the final report to the EC, Austrian government, and Heta. The EC could also request information from the trustee on an ad hoc basis. If conflicts arose between the Austrian government’s commitments and Heta’s legal obligations, the trustee, in consultation with the EC, examined alternative proposals and decided (EC 2013). 
+
+Under liquidation, the joint stock company, ABBAG, owns the remains of Heta (EC 2016, 3; FMA 2021; Heta 2022; Heta 2023b). ABBAG is wholly owned by the government, and the minister of finance is authorized to sell its shares at the best possible price in accordance with State Aid authorization (Parliament of Austria 2014a, art. 5[4]). 
+
+
+## **6. Communication and Disclosure: The BMF characterized resolution as a measure that would protect taxpayer money.** 
+
+In November 2013, HAA’s chairman, Klaus Liebscher, said that liquidation was not an option. At the time, the chairman was leading a task force on dealing with HAA’s losses (Reuters 2013a). 
+
+On March 1, 2015, the BMF said: “Given [HAA’s capital shortfall], the finance ministry in accordance with the government decided not to provide [the bank] with any more taxpayer money” (Reuters 2015a). The BMF noted that HaaSanG could force creditors to contribute to resolution costs so that taxpayers do not entirely bear this burden (Reuters 2015a). 
+
+According to the GSA, Heta’s managing director had to submit written reports to the supervisory board at minimum quarterly on the progress of the restructuring plan and at minimum annually on fundamental questions of Heta’s liquidation (that is, proceeds from sales according to the restructuring plan) (Parliament of Austria 2014a, art. 1[6]). 
+
+Heta’s managing director also had to provide the finance minister and federal chancellor with information on measures taken pursuant to FinStaG, which the finance minister would submit to the Main Committee in parliament (Parliament of Austria 2008, art. 2[6]; 2014a, art. 1[6]). 
+
+On December 29, 2021, the FMA issued a press release announcing the conclusion of Heta’s resolution. FMA Executive Directors Helmut Ettl and Eduard Müller said: 
+
+The resolution of Heta was the first case in Europe that was conducted in accordance with legal rules of the new European resolution regime. To a large extent, we have entered uncharted territory in terms of Union law, which we had to apply and enforce on both a national and cross-border basis. How clearly, correctly, and in a trend-setting manner the FMA has acted in its function as the national resolution authority, is proven by the fact that there has not been a single ultimately successful appeal and lawsuit against administrative decisions by the FMA in relation to this procedure. We have achieved the objectives set out by the new European resolution regime – to ensure financial market stability, protecting the taxpayer as far as possible as well as bailing-in the creditors in solving the problem. (FMA 2021) 
+
+**7. Source and Size of Funding: Austria had a loss of EUR 6.5 billion with respect to Heta and the Carinthian state lost EUR 1.2 billion.** 
+
+From November 2008 to April 2014, FIMBAG recapitalized Heta’s predecessor, HAA, for a total of EUR 5.8 billion (see Decker [forthcoming]) (Reuters 2013b). 
+
+The FMA sold HBA to Anadi for EUR 65.5 million in December 2013 (HAA 2013c). 
+
+The FMA sold the SEE network to Advent International and the European Bank for Reconstruction and Development (EBRD) in July 2015 for EUR 200.0 million (Advent 2014; Heta 2016). 
+
+
+In October 2015, Heta settled multiple lawsuits with the German state of Bavaria for EUR 1.2 billion, concerning BayernLB’s loans to HAA around the time of its nationalization in December 2009 (Coppola 2016; Reuters 2015b). 
+
+In September 2016, Carinthia reached an agreement with senior and subordinated bondholders to buy back debt instruments for a total of EUR 9.4 billion through the KAF. Carinthia contributed EUR 1.2 billion in equity to the KAF, which it never recovered; ABBAG contributed loans of EUR 4.6 billion; and FinStaG contributed EUR 3.6 billion, also through ABBAG (BMF 2017; KAF 2021b). Because asset sales went better than expected, Heta was able to distribute cash to the KAF over 2017–2020, which the KAF used to fully pay back ABBAG (Heta 20149b; Heta 2022; KAF 2022a; KAF 2022b). 
+
+In 2018, the government negotiated a separate agreement with BayernLB to settle EUR 2.8 billion in legacy senior liabilities that had not been subject to KAF’s zero-coupon bond exchange in 2016. Under the agreement, Heta’s obligation to BayernLB was lowered to EUR 2.4 billion and Heta agreed to treat the claim equally to the other senior creditors (Heta 2017; Heta 2019a). 
+
+As of December 2021, the resolution allowed Heta to repay EUR 10.8 billion (86.3%) on senior liabilities, which was higher than the fulfillment quote calculated for a hypothetical insolvency proceeding (FMA 2021; Heta 2023b). Most of that went to the KAF, which held most of the senior liabilities after the 2016 zero-coupon exchange. The KAF used those funds to reimburse ABBAG. The remainder, roughly EUR 2.1 billion, went to Bayern, based on the final payback ratio of 86.32% (KAF 2016; KAF 2022a).Considering FIMBAG’s capital injections into the former bank, the sale of HBA, the sale of the SEE network, the Austrian guarantee of EUR 1 billion in subordinated debt, the settlement with Bavaria, negotiations with creditors, and asset recovery via Heta, the federal government had a loss of EUR 6.5 billion with respect to HAA and Heta. Carinthia lost EUR 1.2 billion plus KAF operating expenses (Heta 2019a; Heta 2019b; KAF 2016). 
+
+**8. Approach to Resolution and Restructuring: The restructuring plan contained three strategic steps, including the sale of HBA, the sale of the SEE network, and the creation of Heta.** 
+
+The September 2013 restructuring plan provided for a three-part process: (a) the sale of the Austrian subsidiary, HBA, (b) the sale of HAA’s SEE network, and (c) the transformation of HAA into an asset management vehicle, Heta (EC 2013). 
+
+## **Sale of HBA** 
+
+Anadi emerged as the highest bidder in an extensive sale process. Austria initiated the sale of HBA to Anadi in May 2013 and closed the transaction on December 19, 2013, for a purchase price of EUR 65.5 million (HAA 2013a; HAA 2013b; HAA 2014a). Anadi paid EUR 40.8 million at the time of sale and agreed to pay EUR 24.7 million to an escrow account as a security to protect against various risks that Anadi had identified (HAA 2014a). 
+
+
+## **Sale of the SEE Network** 
+
+The SEE network encompassed six subsidiary banks in five countries: Bosnia and Herzegovina, Croatia, Montenegro, Serbia, and Slovenia (EC 2013, 3; HAA 2014b). The bidding process for the SEE network began in the fourth quarter of 2012. In the second half of 2013, local subsidiaries comprising the SEE network transferred nonperforming portfolio segments into their respective local wind-down companies to increase the attractiveness of the sale. Austria invited selected bidders to carry out due diligence in September 2013 (HAA 2014a). Heta initiated a share purchase agreement with Advent and the European Bank for Reconstruction and Development in December 2014, and the deal closed on July 17, 2015 (Heta 2014; Heta 2016). The buyers agreed to a share purchase price of EUR 200 million where Advent acquired an 80% stake and the EBRD acquired a 20% stake (Advent 2014; Heta 2016). 
+
+## **Transformation of HAA into Heta** 
+
+The Austrian Parliament passed a legislative package in August 2014 that created the basis for HAA’s resolution through an asset management vehicle (see Key Design Decision No. 3, Legal Authority) (Heta 2015b; Parliament of Austria 2014a, arts. 1, 6; World Bank 2016). HAA changed its name to Heta on October 19, 2014, and the FMA revoked Heta’s banking license on October 30, 2014. Heta’s task was to wind down all assets not sold with HBA and the SEE network (see Key Design Decision No. 11, Treatment of Assets) (EC 2016, 2; Heta 2015c; Heta 2016). 
+
+On March 1, 2015, the FMA issued a resolution decree and a temporary moratorium on Heta’s debts (Heta 2015a; Heta 2015c). The next day, Heta’s bonds lost more than half of their value, reflecting creditors’ concerns about losses (Edwards 2015). Figure 2 shows the tools used in Heta’s resolution. 
+
+## **9. Treatment of Creditors and Equity Holders: The FMA applied the bail-in tool, but Carinthia negotiated with creditors to partly make good on its guarantee.** 
+
+Heta’s creditors included German banks, insurers, bad banks, hedge funds, and mutual funds (Weber and Groendahl 2016). 
+
+The August 2014 law guiding Heta’s restructuring and resolution, GSA, said that Heta could not operate a deposit business (Heta 2015b; HAA 2014b). At the time, Heta had EUR 5.7 billion in deposits—consisting of a relatively even distribution between corporate and retail deposits in addition to a small amount from the public sector (HAA 2014b). As of December 31, 2014, Heta no longer had deposits (Heta 2015b). 
+
+After the passage in 2014 of BaSAG, the law transposing the BRRD, equity holders had to bear losses and creditors had to be converted into equity holders to reach a minimum capital level of 8% of total liabilities before the government could inject further capital, including own funds of the bank calculated at the time of the resolution decree (Parliament of Austria 2014b, art. 2[87]). 
+
+
+On March 1, 2015, the FMA issued a resolution decree and temporary debt moratorium for Heta (Heta 2015a; Heta 2015c). The next day, Heta’s bonds lost more than half of their value, reflecting creditors’ concerns about losses (Edwards 2015). 
+
+Investors disputed the FMA’s authority to defer payment, and investors filed 11 lawsuits in Germany[8] comprising bonds with a nominal value of EUR 2.2 billion and 33 million Swiss francs (CHF). Carinthia initiated three legal proceedings in response to investors’ lawsuits, which Heta joined. The Regional Court of Frankfurt ruled against the investors, and the shareholders appealed (Heta 2016). 
+
+On April 10, 2016, the FMA applied the bail-in tool under BRRD, based on an ex ante valuation conducted by an independent auditor: Heta’s assets were valued at EUR 9.6 billion and liabilities valued at EUR 17.6 billion—with expected loss after adjustments of EUR 7.1 billion (FMA 2016a; FMA 2016b; World Bank 2016). The FMA announced several bail-in measures: 
+
+- Tier 1 capital was written down to zero; economic rights canceled; control rights exercised by the FMA; 
+
+- All subordinated debt was written down to zero; 
+
+- A 54% haircut was applied to the nominal value of Heta’s senior debt; however, that amount would be adjusted annually based on valuations performed by a third-party experts; 
+
+- All interest payments were canceled from March 1, 2015, onward; and 
+
+- The maturity date of all eligible debt was extended to December 31, 2023. (FMA 2016a; World Bank 2016) 
+
+Per the FMA’s April 2016 announcement, Heta was able to write down its liabilities by those amounts. However, the Carinthian government remained under pressure from creditors to make good on its guarantees (Hutter and Quartner 2016). Creditors sued the state of Carinthia to recover the difference between bonds’ full face value guaranteed by Carinthia and the amount repaid under Heta’s wind-down according to BaSAG and HaaSanG (World Bank 2016). The FMA calculated the difference to be EUR 6.4 billion, which was three times Carinthia’s annual budget. While BaSAG transposed the BRRD into Austrian law, BaSAG differed in that liabilities secured by third-party collateral—in this case, Carinthia—could be subject to a haircut. HaaSanG was the law on Heta’s wind-down that allowed Carinthia’s guarantees to expire (Parliament of Austria 2014a, arts. 1, 6; World Bank 2016). On July 28, 2015, the Constitutional Court of Austria ruled that HaaSanG was unconstitutional and repealed the law in its entirety (Heta 2016; Moody’s 2015; World Bank 2016). The Court said that HaaSanG’s distinction between the guarantees of junior creditors and other creditors 
+
+> 8 Under German law, Section 709 Code of Civil Procedure, judgements of the court of first instance may be declared temporarily enforceable. It follows that creditors would seek a judgement ordering Heta to pay its liabilities affected by ongoing legal disputes (Heta 2016). 
+
+
+was neither justifiable nor proportionate. The Court also said that a single law could not invalidate guarantees by Carinthia, a federal state (World Bank 2016). 
+
+In January 2016, Carinthia offered to buy back the bonds that it guaranteed: 75% for senior debt instruments and 30% for subordinated debt instruments. Carinthia did not receive the necessary two-thirds approval of the affected creditors, and the deal expired in March 2016 (Heta 2016; KAF 2018; World Bank 2016). 
+
+Later, on September 6, 2016, the KAF offered creditors two options: (a) a cash payment of 75% for senior debtholders and 30% for subordinated debtholders, or (b) a zero-coupon bond from the KAF (BMF 2017; Heta 2017; World Bank 2016). The bonds had a term of 13.5 years, and the yield was fixed at 0.8%, implying a value of 90% of par, or a 10% haircut for bondholders. Subordinated debtholders would exchange bonds for zero-coupon bonds at a 2:1 exchange ratio, meaning they would receive 45% of the par value of their holdings or a 55% haircut. The zero-coupon bonds were guaranteed by the Austrian government (see Key Design Decision No. 7, Sources and Size of Funding) (KAF 2016). Almost all creditors accepted the second option: 99.6% of senior bondholders and 89.4% of junior bondholders accepted the tender offer (KAF 2018). 
+
+Between December 2016 and May 2017, the KAF offered to buy back the zero-coupon bonds from former creditors at a discounted price, having procured funding from the Austrian government through a loan from ABBAG (KAF 2016; KAF 2023). By May 30, 2017, bondholders had agreed to sell back about 89% of the zero-coupon bonds, representing a nominal amount of EUR 9.2 billion, at a price of EUR 7.9 billion (KAF 2018). EUR 1.0 billion of zero-coupon bonds remained in the possession of former Heta creditors (KAF 2022b; KAF 2023). 
+
+When legacy creditors first swapped their Heta bonds for KAF zero-coupon bonds in 2016, the terms of that exchange also provided for KAF to make contingent payments to legacy creditors in the event that Heta’s asset sales went better than expected (Heta 2019b; KAF 2016). That obligation to legacy creditors stood at EUR 733 million at the end of 2021 (KAF 2023). In 2022, KAF offered to buy out remaining obligations to legacy creditors. The contingent liability stood at EUR 408 million at the end of 2022 (KAF 2023). 
+
+For the legacy senior creditors of HAA bank, their recovery on accepting the zero-coupon bond exchange turned out to be close to their recovery under the initial terms of the bail-in. Asset sales by Heta brought recoveries up to 86.32%, close to what legacy creditors would have received on selling back their zero-coupon bonds to KAF in 2016 and 2017 (Heta 2023). Subordinated creditors who were not guaranteed recovered about half of their initial investment, versus zero under the bail-in terms (see Figure 2) (Heta 2019b; KAF 2016; KAF 2018). 
+
+
+[FIGURE id=vol6_iss1_2_f2 type=chart page=22 label="Figure 2" file=figure_2.png caption="Treatment of Creditors—Bail-in Terms v. Actual Recoveries (EUR billions)"]
+### **Figure 2: Treatment of Creditors—Bail-in Terms v. Actual Recoveries (EUR billions)**
+![Figure 2](assets/vol6_iss1_2/figure_2.png)
+
+
+Note: Excludes returns on contingent obligations. 
+
+_Sources: Heta 2019b; KAF 2016; KAF 2018; World Bank 2016; authors’ analysis._ 
+
+## **10. Treatment of Clients: Heta could prolong relationships with clients if this financing was advantageous.** 
+
+While Heta was not allowed to take on new business, it was allowed to prolong relationships for a certain period of time if there was “a realistic and plausible prospect, supported by evidence, that a prolongation [would] improve the future serviceability or future utilisation of the financing” (EC 2013, 38). Heta provided these justifications to a monitoring trustee (EC 2013). See Figure 3 for the reduction of loans and advances to customers from year to year. 
+
+[FIGURE id=vol6_iss1_2_f3 type=figure page=22 label="Figure 3" file=figure_3.png caption="Loans and Advances to Heta Customers (EUR millions)"]
+### **Figure 3: Loans and Advances to Heta Customers (EUR millions)**
+
+|**Year**|**Public Sector**|**Corporate Clients**|**Retail Clients**|**Total**|
+|---|---|---|---|---|
+|2013|2,008.8|12,391.4|4,888.8|19,289.0|
+|2014|1,144.5|7,171.2|423.3|8,739.1|
+|2015|983.6|6,232.9|333.9|7,550.3|
+|2016|1,309.5|59.1|0.7|1,369.3|
+|2017|—|—|—|689.4|
+|2018|—|—|—|453.9|
+|2019|—|—|—|156.4|
+|2020|—|—|—|17.1|
+|2021|—|—|—|10.5|
+
+
+
+_Sources: HAA 2014a; Heta 2015b; Heta 2016; Heta 2017; Heta 2018; Heta 2019a; Heta 2020; Heta 2021; Heta 2022._ 
+
+
+## **11. Treatment of Assets: Heta’s task was to wind down all assets not sold with HBA and the SEE network.** 
+
+Heta’s task was to wind down all assets not sold with HBA and the SEE network; the initial goal was an 80% reduction in assets by the end of 2018 (EC 2016, 2; Heta 2015c; Heta 2016). As of December 31, 2015, assets amounted to EUR 11.2 billion (Heta 2016). Heta did not achieve its 2018 target (Heta 2016; Heta 2019a). The wind-down plan deviated from its original conception for three reasons: (a) revocation of HaaSanG and HaaSanV by the Constitutional Court (see Key Design Decision No. 9, Treatment of Creditors and Equity Holders), (b) expenditures connected to the sale of the SEE network, and (c) yield from the valuation of refinancing the line to the former Italian subsidiary bank, HBI[9] (Heta 2015c). When Heta entered liquidation, it had EUR 810.2 million in assets (Heta 2022). 
+
+See Figure 4 for the reduction of total assets from year to year. 
+
+[FIGURE id=vol6_iss1_2_f4 type=chart page=23 label="Figure 4" file=figure_4.png caption="Heta’s Total Assets (EUR billions)"]
+### **Figure 4: Heta’s Total Assets (EUR billions)**
+
+|**Dec. 2015**|**Dec. 2016**|**Dec. 2017**|**Dec. 2018**|**Dec. 2019**|**Dec. 2020**|**Dec. 2021**|
+|---|---|---|---|---|---|---|
+|11.2|10.8|6.5|3.4|1.7|0.9|0.8|
+
+
+
+_Sources: Heta 2016; Heta 2017; Heta 2018; Heta 2019a; Heta 2020; Heta 2021; Heta 2022._ 
+
+**12. Treatment of Board and Management: Four former managers were convicted for hiding put options on preference shares that HAA sold in 2006.** 
+
+On February 27, 2014, three of HAA’s former managers were sentenced to jail for hiding facts about the bank’s capital position: hiding put options on preference shares that HAA sold in 2006 (Reuters 2014a; 2014b). The ruling was potentially helpful for BayernLB, which said that it was misled into buying a majority stake in HAA in 2007. Former chairman of HAA’s management board Tilo Berlin was sentenced to jail on April 9, 2014, for the same reason (see Decker [forthcoming]) (Reuters 2014b). 
+
+## **13. Cross-border Cooperation: The FMA considered financial stability concerns in other countries and had to consult with foreign resolution authorities. German investors were particularly affected by Austria’s application of resolution tools.** 
+
+The FMA said that its decision to resolve Heta was partially motivated by financial stability concerns in Croatia and Slovenia (see Key Design Decision No. 1, Purpose) (World Bank 2016). According to BaSAG, the FMA had to consult with resolution authorities of states containing significant branches of HAA, as these foreign branches would be affected by the restructuring plan (Parliament of Austria 2014b, art. 19). 
+
+When the FMA initially announced in April 2016 that senior bondholders faced a 54% haircut, despite Carinthia’s guarantee, investors across Europe warned that such a decision 
+
+> 9 Heta transferred all of its shares in the Italian subsidiary, Hypo Alpe Adria Bank S.p.A., Udine (HBI), to HBI Bundesholding AG (HBI-BH) on September 8, 2014. For more information, see Heta (2015c). 
+
+
+could lead to a repricing of government-backed debt across Europe (Johnson 2015; World Bank 2016). 
+
+German investors held EUR 820 million of Heta’s liabilities (Weber and Groendahl 2016). These investors reportedly based their decision to buy HAA’s bonds on Carinthia’s guarantee (Johnson 2015). Regarding the debt moratorium, investors disputed the FMA’s authority to defer payment and filed 11 lawsuits in Germany comprising bonds with a nominal value of EUR 2.2 billion and CHF 33 million (see Key Design Decision No. 9, Treatment of Creditors and Equity Holders) (Heta 2016). In October 2015, Heta settled multiple lawsuits with the German state of Bavaria for EUR 1.2 billion, concerning BayernLB’s loans to HAA around the time of its nationalization in December 2009 (Coppola 2016; Reuters 2015b). 
+
+## **14. Other Conditions: As an asset management vehicle under resolution, Heta was no longer subject to capital requirements.** 
+
+Once the bank, HAA, became the asset management vehicle, Heta, it was no longer subject to capital requirements (HAA 2014b). Heta could not take on new business under resolution (EC 2013). 
+
+**15. Duration: The FMA resolved Heta two years ahead of schedule, allowing Heta to enter liquidation at the end of December 2021.** 
+
+## **Sale of HBA** 
+
+The restructuring plan called for the sale of HBA, the Austrian subsidiary, by June 30, 2014. The plan also said that HBA would be transferred to Heta if a sale did not occur by that deadline (EC 2013). In fact, Austria initiated the sale of HBA to Anadi in May 2013 and closed the transaction on December 19, 2013, for a purchase price of EUR 65.5 million (HAA 2013a; HAA 2013b; HAA 2014a). Anadi paid EUR 40.8 million at the time of sale and agreed to pay EUR 24.7 million to an escrow account as a security to protect against various risks that Anadi had identified (HAA 2014a). 
+
+## **Sale of the SEE Network** 
+
+The restructuring plan called for the sale of the entire SEE network by June 30, 2015 (EC 2013, 10; HAA 2014a). Heta initiated a share purchase agreement with Advent and the EBRD in December 2014, and the deal closed on July 17, 2015 (Heta 2014; Heta 2016). The buyers agreed to a share purchase price of EUR 200 million where Advent acquired an 80% stake and the EBRD acquired a 20% stake (Advent 2014; Heta 2016). 
+
+## **Resolution of Heta** 
+
+Austria planned to complete Heta’s wind-down by December 31, 2023. On October 31, 2021, the FMA received notification from Heta that its portfolio reduction was complete, verified by an auditor. The FMA declared that the resolution was complete on December 21, 2021, two years ahead of schedule (EC 2016, 3; FMA 2021; Heta 2022). Thus, the FMA transferred the ownership rights of Heta to ABBAG for liquidation under the Stock Resolution Act (FMA 
+
+
+2021; Heta 2023b). Thus, ABBAG must end Heta’s ongoing business, collect receivables, and use the remaining assets to satisfy creditors (Heta 2023b). To this end, in May 2023, Heta said that it expected to distribute an additional EUR 493 million in the course of the year to eligible nonsubordinated liability holders via liquidation participation payments (Heta 2022, 25; Heta 2023a). 
+
+
+## **References and Key Program Documents** 
+
+## **Implementation Documents** 
+
+(FMA 2016a) Financial Market Authority (FMA). 2016a. “Notification of the Application of Resolution Measures in Respect of Heta Asset Resolution AG According to Article 116 Para 5 BaSAG,” April 10, 2016. _Letter to the EBA from the FMA on Heta’s use of bail-in_ . https://ypfs.som.yale.edu/node/24399 
+
+(FMA 2019) Financial Market Authority (FMA). 2019. “Notification of the Application of Resolution Measures in Respect to Heta Asset Resolution AG,” March 26, 2019. _Letter to the EBA from the FMA on the write-up to Heta’s eligible liabilities_ . https://ypfs.som.yale.edu/node/24400 
+
+## **Legal/Regulatory Guidance** . 
+
+(EC 2002) European Commission (EC). 2002. European Commission Treaty, Article 88. Official Journal of the European Communities 45, no. C 325, December 24, 2002. _Section of the EC Treaty obligating member states to obtain approval of State Aid affecting the common market_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/1307 
+
+(EC 2008) European Commission (EC). 2008. State Aid – N 557/2008 – Austria: Measures under the Law on the Stability of the Financial Markets and on Strengthening the Interbank Market for Credit Institutions and Insurance Companies in Austria. December 9, 2008. _EC decision authorizing measures under the Financial Stability Law_ . https://ypfs.som.yale.edu/node/23738 
+
+(EC 2009) European Commission (EC). 2009. State Aid – C16/2009 (Ex N254/2009) – BayernLB, Germany, State Aid – N698/2009 – Hypo Group Alpe Adria, Austria. December 23, 2009. 
+
+_EC decision authorizing the capital injections into HAA and purchase of shares by the Austrian government_ . https://ypfs.som.yale.edu/node/23819/ 
+
+(EC 2010) European Commission (EC). 2010. State Aid — Germany — Austria State Aid C 16/09 (Ex N 254/09) and N 698/09 — BayernLB, Germany, and Hypo Group Alpe Adria, Austria. Official Journal of the European Union 53, no. C 85, March 31, 2010. 
+
+_Decision by the EC expressing doubt that the restructuring plan submitted by Austria would sufficiently restore HAA’s viability_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2378 
+
+
+(EC 2013) European Commission (EC). 2013. Commission Decision of 3 September 2013 State Aid SA.32554 (09/C) Restructuring Aid for Hypo Group Alpe Adria Implemented by Austria. September 3, 2013. 
+
+_EC decision authorizing the fourth restructuring plan submitted for HAA, outlining the transformation into Heta_ . 
+
+https://ypfs.som.yale.edu/node/23820/ 
+
+(EC 2016) European Commission (EC). 2016. SA.45940 (2016/N) – Austria – Repurchase Offer for Guaranteed Liabilities of Heta Asset Resolution AG. September 1, 2016. _EC decision on the Austrian government’s negotiations with Heta’s creditors_ . https://ypfs.som.yale.edu/node/24405 
+
+(FMA 2015) Financial Market Authority (FMA). 2015. Bank Recovery Plan Regulation. Federal Law Gazette II No. 25/2015. Amendment: Federal Law Gazette II No. 76/2016. _Bank Recovery Plan regulation (Bankensanierungsplanverordnung, or BaSaPV) outlining the content and level of detail required for bank recovery plans (FMA unofficial translation from German)_ . 
+
+https://ypfs.som.yale.edu/node/23737/ 
+
+(KAF 2016) Carinthia Compensation Payment Fund (KAF). 2016. Tender Offer Memorandum. September 6, 2016. 
+
+_KAF’s tender offer to Heta’s creditors._ https://ypfs.som.yale.edu/node/24669 
+
+(Parliament of Austria 2008) Parliament of Austria. 2008. 136th Federal Act: Interbank Market Support Act (Interbankmarktstärkungsgesetz, or IBSG) and Financial Market Stability Act (Finanzmarktstabilitätsgesetz, or FinStaG), as Well as the Amendment of the ÖIAG Act 2000, the Banking Act, the Stock Exchange Act, the Financial Market Authority Act and the Federal Finance Act of 2008. October 26, 2008. 
+
+_Translation of legislation containing IBSG and FinStaG (translated by Lingualex Juridische und Kaufmännische Fachübersetzungen)_ . https://ypfs.som.yale.edu/node/17799/ 
+
+(Parliament of Austria 2014a) Parliament of Austria. 2014a. Federal Law Gazette No. 51/2014. July 31, 2014. 
+
+_Law providing the legal basis for the wind-down of HAA (in German)_ . https://ypfs.som.yale.edu/node/23830/ 
+
+(Parliament of Austria 2014b) Parliament of Austria. 2014b. Federal Act on the Recovery and Resolution of Banks. December 29, 2014. 
+
+_Law transposing the BRRD into Austrian national law (in German)_ . https://ypfs.som.yale.edu/node/23736/ 
+
+
+## **Media Stories** 
+
+(AFP 2008) Agence France Presse (AFP). 2008. “Third Austrian Bank Says to Tap State Aid.” Agence France Presse, November 12, 2008. _News article on HAA’s request for State Aid_ . https://ypfs.som.yale.edu/node/23829/ 
+
+(Coppola 2016) Coppola, Frances. 2016. “HETA Wars: The Creditors Strike Back.” Forbes, January 15, 2016. _Article containing information about Heta’s creditors_ . https://ypfs.som.yale.edu/node/24409/ 
+
+(Dow Jones 2008) Dow Jones. 2008. “Austria’s Hypo Alpe Adria Bank to Receive 900 Million Euros from State.” Dow Jones, December 23, 2008. _News article on the EUR 900 million capital injection provided to HAA_ . https://ypfs.som.yale.edu/node/23827 
+
+(Edwards 2015) Edwards, Ben. 2015. “Austrian ‘Bad Bank’ Bonds Slide—Update.” Dow Jones, March 2, 2015. 
+
+_News article on creditors’ concerns about losses after the FMA issued a resolution decree for Heta_ . 
+
+https://ypfs.som.yale.edu/node/23826 
+
+(Johnson 2015) Johnson, Steve. 2015. “Possible Default of Austrian Bad-Bank Bond Rattles Europe.” Financial Times, March 22, 2015. 
+
+_News article on the implications of Austria’s state-backed bond defaulting with regard to other European investors, especially in Germany_ . https://ypfs.som.yale.edu/node/24401 
+
+(Reuters 2008) Reuters. 2008. “Update 1-Austria’s Hypo to Draw on State This Yr, Others Wait.” Reuters, December 15, 2008. 
+
+_News article on HAA’s request for State Aid from Austria_ . https://ypfs.som.yale.edu/node/23823 
+
+(Reuters 2012a) Reuters. 2012a. “EU Commission Clears Austria’s 1.5 Bln Euro Hypo Support for Now.” Reuters, December 5, 2012. _News article on EUR 15 billion capital injection into HAA_ . https://ypfs.som.yale.edu/node/23824 
+
+(Reuters 2012b) Reuters. 2012b. “Hypo Alpe Adria Sets Bond Buyback Offer,” December 6, 2012. 
+
+_News article containing information on a capital injection provided to HAA_ . https://ypfs.som.yale.edu/node/23823 
+
+
+(Reuters 2013a) Reuters. 2013a. “Update 1-Liquidating Hypo Alpe Adria Not an OptionChairman,” November 4, 2013. 
+
+_News article containing statements from HAA’s chairman characterizing the chosen intervention_ . https://ypfs.som.yale.edu/node/23821 
+
+(Reuters 2013b) Reuters. 2013b. “Hypo Alpe Adria Sets Friday EGM for More Aid.” Reuters, December 10, 2013. 
+
+_News article on HAA’s recapitalization in December 2013_ . https://elischolar.library.yale.edu/ypfs-documents2/1945 
+
+(Reuters 2014a) Reuters. 2014a. “Ex-Hypo Bosses Handed Jail Sentences in Austrian Put Option Case.” Reuters, February 27, 2014. 
+
+_News article covering the conviction of four former HAA managers for hiding put options on preference shares_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2326 
+
+(Reuters 2014b) Reuters. 2014b. “Ex-CEO of Bailed-out Hypo Bank Convicted in Put Option Case.” Reuters, April 9, 2014. 
+
+_News article on the conviction of the former chairman of HAA’s management board for hiding put options on preference shares sold in 2006_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2324 
+
+(Reuters 2015a) Reuters. 2015a. “Update 2–Austria Imposes Debt Moratorium on Heta ‘Bad Bank.” Reuters, March 1, 2015. 
+
+_News article containing a statement from the BMF on the decision to wind-down Heta_ . https://ypfs.som.yale.edu/node/23816 
+
+(Reuters 2015b) Reuters. 2015b. “Bavaria Hopes to Finalise Settlement with Austria on Heta by October.” Reuters, July 7, 2015. 
+
+_News article on the lawsuits and settlement between Heta and the German state of Bavaria_ . https://ypfs.som.yale.edu/node/24410/ 
+
+(Shields 2014) Shields, Michael. 2014. “Update 3–Austria Bites Hypo Bad Bank Bullet as Lenders Back Out.” Reuters, February 10, 2014. 
+
+_News article containing other options explored besides the resolution of HAA_ . https://ypfs.som.yale.edu/node/24411/ 
+
+(Shotter 2014) Shotter, James. 2014. “Austria Rules Out Hypo Alpe Adria Insolvency.” Financial Times, March 14, 2014. 
+
+_News article containing alternative solutions considered to the eventual resolution of HAA_ . https://ypfs.som.yale.edu/node/24413/ 
+
+(Weber and Groendahl 2016) Weber, Alexander, and Boris Groendahl. 2016. “Heta Creditors Hold Carinthia Talks as Regulator Cuts Debt.” Bloomberg, April 10, 2016. _News article about Carinthia’s guarantee and Heta’s liabilities_ . https://ypfs.som.yale.edu/node/24414/ 
+
+
+## **Press Releases/Announcements** 
+
+(Advent 2014) Advent International (Advent). 2014. “Advent International and EBRD Enter Agreement to Acquire Hypo Group Alpe Adria AG (Southeast Europe Banking Network).” Press release, December 23, 2014. 
+
+_Press release announcing a share purchase agreement for Heta’s SEE network by the prospective majority shareholder_ . 
+
+https://ypfs.som.yale.edu/node/23815 
+
+(FMA 2016b) Financial Market Authority (FMA). 2016b. “Mandate Notice.” Press release, April 10, 2016. 
+
+_Press release announcing the resolution tools applied to Heta as of April 2016 (in German)_ . https://ypfs.som.yale.edu/node/23814 
+
+(FMA 2021) Financial Market Authority (FMA). 2021. “Orderly Resolution of the Former Hypo-Alpe-Adria-Gruppe Concluded Successfully. The New European Resolution Regime Has Proven Itself.” Press release, December 29, 2021. 
+
+_Press release announcing the end of Heta’s resolution and the shift to liquidation_ . https://ypfs.som.yale.edu/node/23740 
+
+(HAA 2008a) Hypo Alpe Adria (HAA). 2008a. “Supervisory Board Proposes Capital Increase.” Press release, November 12, 2008. 
+
+_Press release announcing HAA’s board approval of a capital increase_ . https://ypfs.som.yale.edu/node/23812 
+
+(HAA 2008b) Hypo Alpe Adria (HAA). 2008b. “Shareholders Decide on Capital Increase.” Press release, December 5, 2008. 
+
+_Press release about HAA’s shareholder vote to increase the bank’s capital_ . https://ypfs.som.yale.edu/node/23811 
+
+(HAA 2013a) Hypo Alpe Adria (HAA). 2013a. “Hypo Alpe-Adria-Bank AG Sales Contract Signed.” Press release, May 31, 2013. 
+
+_Press release announcing the signing of the sales contract with Anadi for HAA’s Austrian subsidiary (in German)_ . 
+
+https://ypfs.som.yale.edu/node/23810 
+
+(HAA 2013b) Hypo Alpe Adria (HAA). 2013b. “Sale of Hypo Alpe-Adria-Bank AG.” Press release, May 31, 2013. 
+
+_Press release announcing the sale of HAA to Anadi (in German)_ . https://ypfs.som.yale.edu/node/23809 
+
+(HAA 2013c) Hypo Alpe Adria (HAA). 2013c. “Hypo Alpe-Adria-Bank AG: Sale Completed, New Owner Presents Management Board and Business Strategy.” Press release, December 19, 2013. 
+
+_Press release announcing the completion of the sale of HAA to Anadi (in German)_ . https://ypfs.som.yale.edu/node/23808 
+
+
+(Heta 2014) Heta Asset Resolution (Heta). 2014. “Purchase Negotiations over SEE-Network with Advent International and EBRD Finalized.” Press release, December 23, 2014. _Press release announcing the initiation of a share purchase agreement for the sale of the SEE network to Advent and the EBRD_ . https://ypfs.som.yale.edu/node/23806 
+
+(Heta 2015a) Heta Asset Resolution (Heta). 2015a. “Resolution Authority Orders Resolution Measures Pursuant to the Austrian Banking Restructuring and Resolution Act (BaSAG).” Press release, March 1, 2015. _Press release announcing the resolution of Heta_ . https://ypfs.som.yale.edu/node/23805 
+
+(Moody’s 2013) Moody’s Investors Service (Moody’s). 2013. “Moody’s Affirms Hypo-AlpeAdria’s A1 Guaranteed Senior Debt Ratings; Outlook Negative.” Press release, December 19, 2013. 
+
+_Press release describing additional capital injections into HAA_ . https://ypfs.som.yale.edu/node/23804 
+
+(Moody’s 2015) Moody’s Investors Service (Moody’s). 2015. “Rating Action: Moody’s Changes Outlook on Heta’s Ca Carinthian-State-Guaranteed Debt Ratings to Developing; Affirms Ratings.” Press release, August 6, 2015. 
+
+_Press release announcing a ratings change following the repeal of HaaSanG and HaaSanV_ . https://ypfs.som.yale.edu/node/23803 
+
+(BMF n.d.a) Federal Ministry of Finance (Bundesministerium für Finanzen, or BMF) (BMF). n.d.a. “Federal Law Gazette Authentic from 2004.” 
+
+_Webpage compiling the subsequent amendments to the Financial Stability Law since its adoption in October 2008 (in German)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2404 
+
+(BMF n.d.b) Federal Ministry of Finance (Bundesministerium für Finanzen, or BMF) (BMF). n.d.b. “Institutions.” 
+
+_Webpage containing information on OeNB and other Austrian regulators_ . https://ypfs.som.yale.edu/node/24415/ 
+
+(Declercq and Van de Graaff 2015) Declercq, Peter J.M, and Sonya Van de Graaff. 2015. “The Austrian ‘Bad Bank’ Heta Asset Resolution AG: A Test Case for the 2014 Banking Recovery and Resolution Directive?” Schulte Roth & Zabel Alert, March 13, 2015. 
+
+_Brief, evaluative publication from the firm Schulte Roth & Zabel on Heta’s resolution process_ . https://ypfs.som.yale.edu/node/24406 
+
+(FMA 2016c) Financial Market Authority (FMA). 2016c. “The Facts about Hypo Alpe Adria,” April 14, 2016. 
+
+_Document summarizing Austria’s intervention measures for HAA and Heta (in German)_ . https://ypfs.som.yale.edu/node/23813 
+
+
+(Heta 2019b) Heta Asset Resolution (Heta). 2019b. “Company Presentation 2019,” May 23, 2019. 
+
+_Slide deck containing information on Heta’s liquidation as of May 2019._ https://ypfs.som.yale.edu/node/24666 
+
+(Heta 2023a) Heta Asset Resolution (Heta). 2023a. “Company Presentation 2023,” May 26, 2023. 
+
+_Slide deck containing information on Heta’s liquidation as of May 2023_ . https://ypfs.som.yale.edu/node/23802 
+
+(Hutter and Quartner 2016) Hutter, Stephan, and David Quartner. 2016. “Heta Distressed Debt Restructuring Reviewed.” IFLR, December 15, 2016. 
+
+_Commentary on Austria’s use of resolution tools for Heta by two attorneys at Skadden_ . https://ypfs.som.yale.edu/node/24417/ 
+
+## **Reports/Assessments** 
+
+(BayernLB 2010) Bayerische Landesbank (BayernLB). 2010. 2009 Annual Reports and Accounts. April 30, 2010. 
+
+_Annual report for BayernLB for 2009_ . https://ypfs.som.yale.edu/node/24359 
+
+(BMF 2017) Federal Ministry of Finance (Bundesministerium für Finanzen, or BMF) (BMF). 2017. “Austrian Stability Programme: Update for the Period 2016 to 2021,” April 19, 2017. _BMF document containing information on Carinthia’s purchase of senior bonds from HAA’s creditors_ . 
+
+https://ypfs.som.yale.edu/node/24369 
+
+(Court of Auditors 2022) Austrian Court of Auditors (Court of Auditors). 2022. Activity Report 2022. December 28, 2022. 
+
+_Annual report by the Court of Auditors for 2022._ https://ypfs.som.yale.edu/node/24665 
+
+(HAA 2008c) Hypo Alpe Adria (HAA). 2008c. Annual Financial Report 2007. _Annual report for HAA for 2007_ . https://elischolar.library.yale.edu/ypfs-documents2/1927 
+
+(HAA 2008d) Hypo Alpe Adria (HAA). 2008d. Interim Report 30 June 2008. _Half-year report by HAA for 2008_ . https://ypfs.som.yale.edu/node/24393 
+
+(HAA 2009) Hypo Alpe Adria (HAA). 2009. Annual Financial Report 2008. _Annual report for HAA for 2008_ . https://ypfs.som.yale.edu/node/23797 
+
+
+(HAA 2011) Hypo Alpe Adria (HAA). 2011. Group Annual Report 2010. _Annual report for HAA for 2010_ . https://ypfs.som.yale.edu/node/23796 
+
+(HAA 2014a) Hypo Alpe Adria (HAA). 2014a. Group Annual Report 2013. _Annual report for HAA for 2013_ . https://ypfs.som.yale.edu/node/23794 
+
+(HAA 2014b) Hypo Alpe Adria (HAA). 2014b. Interim Financial Report 2014. _Half-year report by HAA for 2014_ . https://ypfs.som.yale.edu/node/23793 
+
+(Heta 2015b) Heta Asset Resolution (Heta). 2015b. Annual Financial Report 2014. _Annual report by Heta for 2014_ . https://ypfs.som.yale.edu/node/23739 
+
+(Heta 2015c) Heta Asset Resolution (Heta). 2015c. Interim Financial Report 2015. _Half-year report by Heta for 2015_ . https://ypfs.som.yale.edu/node/23792 
+
+(Heta 2016) Heta Asset Resolution (Heta). 2016. Annual Financial Report 2015. _Annual report by Heta for 2015_ . https://ypfs.som.yale.edu/node/23791 
+
+(Heta 2017) Heta Asset Resolution (Heta). 2017. Annual Financial Report 2016. _Annual report by Heta for 2016_ . https://ypfs.som.yale.edu/node/24362 
+
+(Heta 2018) Heta Asset Resolution (Heta). 2018. Annual Report 2017. _Annual report by Heta for 2017 (in German)_ . https://ypfs.som.yale.edu/node/23749 
+
+(Heta 2019a) Heta Asset Resolution (Heta). 2019. Annual Report 2018. _Annual report by Heta for 2018 (in German)_ . https://ypfs.som.yale.edu/node/23748 
+
+(Heta 2020) Heta Asset Resolution (Heta). 2020. Annual Report 2019. _Annual report by Heta for 2019 (in German)_ . https://ypfs.som.yale.edu/node/23747 
+
+(Heta 2021) Heta Asset Resolution (Heta). 2021. Group Annual Report 2020. _Annual report by Heta for 2020 (in German)_ . https://ypfs.som.yale.edu/node/23746 
+
+(Heta 2022) Heta Asset Resolution (Heta). 2022. Annual Report 2021. _Annual report for Heta for 2021 (in German)_ . https://ypfs.som.yale.edu/node/23745 
+
+
+(Heta 2023b) Heta Asset Resolution (Heta). 2023b. Annual Report 2022. _Annual report by Heta for 2022 (in German)_ . https://ypfs.som.yale.edu/node/23744 
+
+(IMF 2008) International Monetary Fund (IMF). 2008. “Austria: Financial System Stability Assessment—Update.” IMF Country Report No. 08/190, June 2008. _Financial Sector Assessment Program update for Austria in 2008_ . https://ypfs.som.yale.edu/node/23743 
+
+(IMF 2009) International Monetary Fund (IMF). 2009. “Austria: 2009 Article IV Consultation—Staff Report; Staff Statement; Public Information Notice on the Executive Board Discussion; and Statement by the Executive Director for Austria.” IMF Country Report No. 09/295, September 2009. _Article IV consultation for Austria in 2009_ . https://ypfs.som.yale.edu/node/23742 
+
+(IMF 2014) International Monetary Fund (IMF). 2014. “Austria: Publication of Financial Sector Assessment Program Documentation— Detailed Assessment of Basel Core Principles for Effective Banking Supervision.” IMF Country Report No. 14/13, January 2014. _FSAP for Austria for 2013_ . 
+
+https://ypfs.som.yale.edu/node/23741/ 
+
+(IMF 2017) International Monetary Fund (IMF). 2017. “Austria: 2016 Article IV Consultation—Press Release; and Staff Report for Austria.” IMF Country Report No. 17/26, February 2017. 
+
+_Article IV consultation for Austria containing information on the treatment of creditors of Heta Asset Resolution_ . 
+
+https://ypfs.som.yale.edu/node/24419 
+
+(KAF 2018) Carinthian Compensation Payment Fund (KAF). 2018. Financial Report 2017. _Financial statements by KAF for 2017 (in German)._ https://ypfs.som.yale.edu/node/24663 
+
+(KAF 2022a) Carinthian Compensation Payment Fund (KAF). 2022. Annual Financial Statements 2021. 
+
+_Annual report by KAF for 2021._ https://ypfs.som.yale.edu/node/24667 
+
+(KAF 2022b) Carinthian Compensation Payment Fund (KAF). 2022. Management Report 2021. _Management report by KAF for 2021 (in German)._ https://ypfs.som.yale.edu/node/24668 
+
+(KAF 2023) Carinthian Compensation Payment Fund (KAF). 2023. Management Report 2022. 
+
+_Annual report by KAF for 2022 (in German)._ https://ypfs.som.yale.edu/node/24664 
+
+
+## **Key Academic Papers** 
+
+(Decker, forthcoming) Decker, Bailey. Forthcoming. “Austria and Germany: Hypo Alpe Adria Capital Injection, 2008.” _Journal of Financial Crises_ . 
+
+_YPFS case study on the capital injections provided to Heta’s predecessor, HAA_ . 
+
+(Malek and Potts 2015) Malek, Hodge, and James Potts. 2015. “Putting the Bank Recovery and Resolution Directive to the Test.” Butterworths Journal of International Banking and Financial Law 30, no. 1, January 2015. 
+
+_Article characterizing the initial bail-in attempt by the Austrian government on Heta’s creditors_ . 
+
+https://ypfs.som.yale.edu/node/24420/ 
+
+(McNamara et al. 2024) McNamara, Christian M., Carey K. Mott, Salil Gupta, Greg Feldberg, and Andrew Metrick. 2024. “Survey of Resolution and Restructuring in Europe, Pre- and Post-BRRD.” _Journal of Financial Crises_ 6, no. 1. 
+
+_Survey of YPFS case studies examining 21st-century bank resolutions and restructurings in Europe before and after the existence of the Bank Recovery and Resolution Directive_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/1 
+
+(Tajti 2018) Tajti (Thaythy), Tibor (Tajti). 2018. “Leasing in the Western Balkans and the Fall of the Austrian Hypo Alpe Adria Bank.” Pravni Zapisi 8, no. 2, March 2, 2018. _Article describing HAA’s losses in the western Balkans_ . https://ypfs.som.yale.edu/node/24353 
+
+(World Bank 2016) World Bank. 2016. “Bank Resolution and ‘Bail-In’ in the EU: Selected Case Studies Pre and Post BRRD.” Financial Sector Advisory Center (FinSAC), December 12, 2016. 
+
+_Case study on the resolution of Heta_ . https://ypfs.som.yale.edu/node/16939 
+
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

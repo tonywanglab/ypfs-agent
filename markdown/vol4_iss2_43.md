@@ -1,0 +1,416 @@
+## Norway: Covered Bond Swap Program[1] 
+
+## _Sean Fulmer[2]_ 
+
+Yale Program on Financial Stability Case Study June 15, 2022 
+
+## **Abstract** 
+
+As the Global Financial Crisis spread, liquidity strains appeared in Norwegian money markets, limiting banks from accessing high-quality and long-term financing. In response, on October 24, 2008, the Norwegian government authorized a Norwegian krone (NOK) 350 billion (USD 50 billion) covered bond swap program to be operated by Norges Bank, the central bank, on behalf of the Ministry of Finance. Under this program, Norwegian commercial banks, savings banks, and, later, mortgage companies could exchange certain covered bonds, known in Norwegian as _obligasjoner med fortrinnrett_ (OMFs), for treasury bills. Pricing was determined in an auction. In each auction, Norges Bank set a minimum interest rate at a discount or premium to NIBOR, the interbank market rate. During 24 auctions throughout 2008-09, Norges Bank swapped NOK 230 billion in treasury bills for OMFs. As the liquidity positions of the banks improved, Norges Bank gradually implemented a premium to participate in the program and closed the facility permanently in December 2009. The swap program led banks to increase their funding through OMFs, often by creating new mortgage company subsidiaries. It also generated a NOK 5.5 billion profit for the government, according to a banker’s estimate. 
+
+**Keywords:** covered bonds, Global Financial Crisis, liquidity swap, Norges Bank, Norway, OMFs 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based emergency lending programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+As the Global Financial Crisis spread in 2008, liquidity strains appeared in Norwegian money markets. While Norwegian banks typically held NOK 15-20 billion (USD 2.1 billion-2.9 billion) in deposits at Norges Bank, the central bank, these deposits swelled to NOK 80 billion by October 2008, as banks hesitated to loan out funds in uncertain times.[3] Banks reported significant financing difficulties, and the credit spread for covered bonds increased significantly (Ministry of Finance 2008a). 
+
+On October 24, 2008, the Norwegian Parliament, known as the Storting, authorized the Ministry of Finance to implement a swap program in which eligible banks and mortgage companies could exchange covered bonds— _obligasjoner med fortrinnrett_ (OMFs) in Norwegian—for treasury bills to increase banking sector liquidity (Bakke, Rakkestad, and Arne 2010). The collateral pool for OMFs included residential mortgages, commercial property mortgages, and municipal loans; the swap program also accepted covered bonds issued in other countries backed by Norwegian assets (Norges Bank 2010a). The Norwegian government set the size of the swap program at NOK 350 billion (Ministry of Finance 2008a). 
+
+The swap program utilized a Dutch auction design, in which all bidders paid the lowest accepted interest rate in the auction. Norges Bank set a minimum interest rate at the sum of the Norwegian Interbank Offered Rate (NIBOR) and a risk adjustment, which could be positive or negative. Counterparties could bid an additional premium above the minimum price (Norges Bank 2008a). 
+
+## **Key Terms** 
+
+Purpose: “To facilitate banks’ access to long-term funding, Norges Bank assisted in establishing a swap arrangement in autumn 2008, where banks were permitted to borrow government securities in return for covered bonds” (Norges Bank 2010a) 
+
+||Launch Dates|October 12, 2008|
+|---|---|---|
+|||(Announcement)<br>November 14, 2008<br>(Operational)|
+||Expiration Date|October 19, 2009|
+||Legal Authority|St.prp. nr. 5 (2008-|
+||Peak Outstanding|2009)<br>NOK 350 billion<br>authorized and NOK<br>230 billion utilized|
+||Participants|Norwegian commercial|
+|||and savings banks|
+|||eligible for open-<br>market-operations;<br>later included mortgage<br>companies|
+||Rate|Uniform|
+||Collateral<br>Loan Duration|Covered bonds (OMFs)<br>Initially ranged from 3<br>months to three years,<br>expanded to five years|
+||Notable Features|Mandatory rollover of<br>treasury bills|
+||Outcomes|Improved liquidity and|
+|||widespread usage of<br>OMFs for funding|
+
+
+
+> 3 Per the International Monetary Fund, USD 1 = 7 NOK in 2008 (IMF 2010). 
+
+
+Norges Bank held 24 auctions during 2008-09 for the covered bond swap program, exchanging a total of NOK 229.5 billion in government securities (Norges Bank 2009d). Twenty-four banks and mortgage companies participated in the swap program, with 61 different covered bonds involved (Norges Bank 2010a). These participants had four maturity options, ranging from three months to three years (which would later be expanded to five years) (Norges Bank 2009b; 2009c). For the first 15 auctions, banks and mortgage companies paid the minimum rate, which Norges Bank set at 20 bps under NIBOR throughout that period. The auction rate remained below NIBOR for 17 auctions and equal to LIBOR for two auctions (Norges Bank 2009d). This pricing made the swap program especially attractive to eligible participants. 
+
+In August 2009, Norges Bank began to set positive values for the risk adjustment, and the spread between NIBOR and the auction interest rate rose. Norges Bank held the final auction on October 19, 2009, with an auction rate 70 basis points over NIBOR. It was only 30% subscribed. Norges Bank officially phased out the program in December 2009 (Norges Bank 2009d; 2010a). See Figure 1 for a detailed depiction of program uptake and interest rates paid. 
+
+[FIGURE id=vol4_iss2_43_f1 type=figure label="Figure 1" file=figure_1.png caption="Auction and Bid Sizes in the Swap Program"]
+### **Figure 1: Auction and Bid Sizes in the Swap Program**
+![Figure 1](assets/vol4_iss2_43/figure_1.png)
+
+
+_Source: Norges Bank 2009d._ 
+
+## **Summary Evaluation** 
+
+News media in Norway termed the swap program _Gullkortet_ , which roughly translates into the “Gold Card,” reflecting the opinion held by some of the public that the swap program gave banks preferential access to funding markets (Johannessen 2020). The chief financial officer of DNB, a major financial institution, disputed this view. He argued that the program allowed 
+
+
+banks to continue lending as they had before the crisis but did not provide them any further benefit; the absence of the swap program could have stopped the entire banking market. In direct economic terms, he said, the swap program delivered a NOK 5.5 billion profit for the Norwegian government. That calculation was based on the spread that the banks paid the central bank over the interest they received on the government securities (Johannessen 2020). 
+
+According to a Norges Bank paper, the covered bond swap program “substantially” improved banks’ liquidity positions (Syed 2011). The swap program helped finance 96% of the NOK 239 billion in covered bonds issued by mortgage companies during the program. The secondary market for covered bonds largely became inactive, since the vast majority of covered bonds were locked up in the swap program (Syed 2011). As depicted in Figure 2, the outstanding volume of both covered bonds issued by mortgage companies and treasury bills increased rapidly and in unison until the end of the swap program, after which the issuance of treasury bills halted, while covered bonds continued to grow at a slower pace (Syed 2010). 
+
+[FIGURE id=vol4_iss2_43_f2 type=chart label="Figure 2" file=figure_2.png caption="Outstanding Securities and Bonds (NOK billions)"]
+### **Figure 2: Outstanding Securities and Bonds (NOK billions)**
+![Figure 2](assets/vol4_iss2_43/figure_2.png)
+
+
+_Source: Syed 2010._ 
+
+Legislation first authorized banks and mortgage companies to issue covered bonds in 2007. The swap program made OMFs an important source of funding; they accounted for almost 20% of funding for banks and mortgage companies by September 2013, the single-largest funding source among Norwegian banks and mortgage companies. Norges Bank attributed the rapid growth of OMFs to the swap program and to the reemergence of strong private demand for secured instruments as the financial system recovered from the crisis (Norges Bank 2013). 
+
+
+Banks increased their liquid assets in the aftermath of 2008. Treasury bills acquired through the swap program accounted for a significant portion of those liquid assets. Norges Bank estimated that three quarters of the most liquid assets held by banks at the end of 2009 were the result of government interventions, which included other measures beyond the swap program (Norges Bank 2010b). 
+
+As financial systems recovered from the Global Financial Crisis, the Norwegian government introduced an early termination option for the swap program to free up funding opportunities for banks (Syed 2011). The participants terminated NOK 80 billion in swaps early, which significantly shifted the timeframe for maturities forward (Norges Bank 2014). See Figure 3 for a graphical representation of this shift. 
+
+[FIGURE id=vol4_iss2_43_f3 type=figure label="Figure 3" file=figure_3.png caption="Transformation of Maturities after Early Terminations"]
+### **Figure 3: Transformation of Maturities after Early Terminations**
+![Figure 3](assets/vol4_iss2_43/figure_3.png)
+
+
+Source: Norges Bank 2014. 
+
+
+|**Context: Norway 2007–2008**|**Context: Norway 2007–2008**|
+|---|---|
+|**GDP**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$402.2 billion in 2007<br>$469.4 billion in 2008|
+|**GDP per capita**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$85,140 in 2007<br>$96,944 in 2008|
+|**Sovereign credit rating**<br>**(five-year senior debt)**|Data for 2007:<br>Moody’s: Aaa<br>S&P: AAA<br>Fitch: AAA<br>Data for 2008:<br>Moody’s: Aaa<br>S&P: AAA<br>Fitch: AAA|
+|**Size of banking system**|$380.4 billion in 2007<br>$496.8 billion in 2008|
+|**Size of banking system**<br>**as a percentage of GDP**|94.59% in 2007<br>105.83% in 2008|
+|**Size of banking system**<br>**as a percentage of financial system **|88.49% in 2007<br>85.62% in 2008|
+|**Five-bank concentration of banking system**|98% in 2007<br>98%in 2008|
+|**Foreign involvement in banking system**|17% in 2007<br>16% in 2008|
+|**Government ownership of banking system**|0% in 2008<br>0%in 2010|
+|**Existence of deposit insurance**|100% insurance on deposits up to<br>NOK 2 million in 2008<br>100% insurance on deposits up to<br>NOK 2 million in 2010|
+|_Sources: Bloomberg; World Bank Global Financial Development Database; World_<br>_Bank Deposit Insurance Dataset; Cull et al. “Bank Ownership—Trends and_<br>_Implications”; Norges Bank 2008b._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: Norges Bank implemented the swap program to provide liquidity to the banking sector during the Global Financial Crisis as money markets froze.** 
+
+Prior to the announcement of the swap program, the demand for Norwegian covered bonds (OMFs) and securitized instruments in general was low relative to the demand in other countries, while widespread liquidity pressures emerged (Bakke, Rakkestad, and Arne 2010).[4] As can be seen in Figure 4, deficits in structural liquidity, which is the level of reserves in the banking system before any Norges Bank operations, persisted throughout 2008, while Norwegian banks could access funding at only very short maturities of less than three months. The government of Norway then implemented the covered bond swap program in 2008 in order to ease liquidity strains in money markets and provide access to longer-term financing (Norges Bank 2009c). 
+
+[FIGURE id=vol4_iss2_43_f4 type=chart label="Figure 4" file=figure_4.png caption="Banks’ Liquidity and Structural Liquidity (in NOK Billions) in 2008"]
+### **Figure 4: Banks’ Liquidity and Structural Liquidity (in NOK Billions) in 2008**
+![Figure 4](assets/vol4_iss2_43/figure_4.png)
+
+
+_Source: Norges Bank 2009c._ 
+
+## **2. Legal Authority: The Norwegian parliament authorized the covered bond swap program with the passage of St.prp. nr. 5 on October 24, 2008.** 
+
+Norges Bank suggested the swap program to the Ministry of Finance on October 3, 2008 (Ministry of Finance 2008a). The Ministry of Finance then recommended the covered bond 
+
+> 4 The Norwegian government started allowing the issuance of covered bonds only in 2007, which could explain why demand for such a nascent instrument was low (Norges Bank 2013). 
+
+
+swap program on October 17, 2008, to the Norwegian parliament (Storting), which unanimously authorized the program on October 24, 2008, with St.prp. nr. 5 (Norges Bank 2009c). 
+
+**3. Part of a Package: Norges Bank implemented various policies in an effort to ease liquidity strains on the Norwegian banking sector.** 
+
+The Norwegian government enacted several other actions to alleviate the liquidity pressures faced by banks. Norges Bank increased the volume of loans known as F-loans, which are available in open market operations; offered longer terms than usual on those loans; and expanded the range of eligible collateral for use in the open market operations. Additionally, Norges Bank provided loans denominated in Norwegian krone against collateral in euros (Norges Bank 2008b). 
+
+Norwegian banks faced serious issues accessing US dollar funding in the market as a result of the Global Financial Crisis. Prices in the Norwegian money market depended on the availability of US dollars. On September 16, 2008, when the supply of US dollars contracted dramatically, banks stopped quoting Norwegian money market rates. To reopen the market, Norges Bank provided USD 5 billion in loans to Norwegian banks, which allowed them to resume quoting Norwegian interest rates. Relatedly, Norges Bank opened up a swap agreement with the United States Federal Reserve for a loan of up to USD 15 billion in return for collateral denominated in Norwegian krone (Norges Bank 2008b). 
+
+**4. Management: The Norwegian central bank managed the covered bond swap program on behalf of the Ministry of Finance.** 
+
+Norges Bank administered the covered bond swap program on behalf of the Ministry of Finance. The central bank conducted any changes and assessments to the program under a power of attorney from the MOF (Norges Bank 2008a). No mention of oversight or reporting responsibilities could be found in public documents. 
+
+**5. Administration: Norges Bank administered the program using a Dutch auction design and required successful bidders to roll over their treasury bills until the end of their swap agreement.** 
+
+The covered bond swap program utilized a Dutch auction design, wherein all participants paid the lowest accepted interest rate in the auction (Norges Bank 2008a). At each auction, participants submitted a bid consisting of their desired volume of treasury bills, maturity of the swap agreement, and the premium they were willing to pay above the set minimum price for the auction (Bakke, Rakkestad, and Arne 2010). There were four possible swap periods, originally with a range of three months at the shortest, up to three years at the longest (Norges Bank 2009c).[5] Norges Bank sorted the bids by price for each swap period and every 
+
+> 5 The circulars establishing the parameters of the swap program did not provide the exact maturity options, and Norges Bank refers only to the two extrema; they may have varied over the course of the program. 
+
+
+bid at or above the lowest accepted auction rate was allocated funds. Funds would be allocated on a pro rata basis if the auction was oversubscribed (Norges Bank 2008a). 
+
+Successful banks were required to enter into a swap agreement with Norges Bank. Once a swap agreement was reached between a bank and Norges Bank, the bank was offered a treasury bill with a due date three to six months in the future. When these bills fell due, the bank had to buy new treasury bills with a six-month term at a price determined by the market value of the bill as of the date of the swap agreement. This replacement of bills happened until the maturity of the swap agreement, when the bank had to buy back the OMFs from Norges Bank at the same price that the state had paid for them (Norges Bank 2008a). See Figure 5 for the rollover of the treasury bills prior to the later change that allowed early termination. 
+
+[FIGURE id=vol4_iss2_43_f5 type=figure label="Figure 5" file=figure_5.png caption="Rollover of the Treasury Bills Involved in the Swap Program before the Allowance of Early Terminations"]
+### **Figure 5: Rollover of the Treasury Bills Involved in the Swap Program before the Allowance of Early Terminations**
+![Figure 5](assets/vol4_iss2_43/figure_5.png)
+
+
+_Source: Norges Bank 2014._ 
+
+During the swap agreement, the interest accrued by the covered bonds, from fixed coupons or floating interest rates, was credited to the bank on the same day as the payment took place, as long as the bank had not breached the swap agreement (Norges Bank 2008a). At the end of the swap agreements, participants had to buy back the OMFs for the same price that the government paid for them. If a participating bank held on to their treasury bills, they would receive interest on them until maturity. Therefore, the cost of participation in the covered bond swap program was the auction interest rate minus the treasury bill yield (Bakke, Rakkestad, and Arne 2010). 
+
+
+In its initial circular on the covered bond swap program, Norges Bank stated that auctions would typically take place twice a month, while acknowledging that the frequency of auctions could change owing to market conditions (Norges Bank 2008a). For the most part, Norges Bank followed this planned schedule, but the first four auctions occurred on a weekly basis (Norges Bank 2009d). 
+
+## **6. Eligible Participants: Norges Bank first made Norwegian commercial and savings banks eligible for the swap program and later expanded the eligibility to include the mortgage companies that issued OMFs.** 
+
+At creation, Norges Bank made any bank with the right to take out F-loans from Norges Bank eligible to bid in the exchange auctions (Norges Bank 2008a). F-loans were Norges Bank’s main facility for conducting open market operations and providing liquidity at various maturities (Norges Bank 2009c). This set of eligible institutions included Norwegian commercial and savings banks, as well as local branches of foreign institutions (Norges Bank 2008a). 
+
+After the first auction, Norges Bank noted that some banks could not participate because of conditions attached to their existing borrowings. To provide access to the program for these banks, Norges Bank requested that the Ministry of Finance allow bank-owned mortgage companies that issued covered bonds to participate. The Ministry of Finance agreed to allow mortgage companies to participate in the swap program after December 7, 2008, starting with the third auction (Ministry of Finance 2008b). Before the swap program, only seven such bank-owned mortgage companies existed, but this number increased to more than 20 by 2010 (Bakke, Rakkestad, and Arne 2010). 
+
+The authorities issued new regulations to allow savings banks to participate in the swap program, prior to the first auction. At the time the program was announced, savings banks could not participate in the swap arrangement because of Section 23 of the Savings Bank Act, which prohibited savings banks from using assets as collateral for their own debt (Kredittilsynet 1961; Norges Bank 2009c). In November 2008, the Kredittilsynet, or the Credit Supervisory Authority, issued a new regulation that allowed savings banks to use assets as collateral, paving the way for their participation in the swap program (Norges Bank 2009c). 
+
+## **7. Funding Source: The Norwegian government funded the program through the issuance of interest-bearing treasury bills in 2008 and 2009.** 
+
+The Norwegian government funded the covered bond swap program by allowing the Ministry of Finance to issue up to NOK 350 billion of interest-bearing treasury bills in 2008 and 2009 (Ministry of Finance 2008a). 
+
+
+## **8. Program Size: Norges Bank loaned NOK 230 billion of the NOK 350 billion that the Norwegian government made available.** 
+
+The stated maximum scope of the covered bond swap program at origination was NOK 350 billion (Ministry of Finance 2008a). Norges Bank loaned almost NOK 230 billion in treasury bills through the facility (Norges Bank 2009d). 
+
+In the request for authorization of the program by the Ministry of Finance, Norges Bank estimated that NOK 80 billion of housing loans could be converted into covered bonds by the end of 2008, with a further NOK 70 billion in the first half of 2009. Beyond the early potential conversions to covered bonds, the Ministry of Finance believed that there could eventually be more covered bonds in the system than the NOK 350 billion scope of the program (Ministry of Finance 2008a). Figure 2 demonstrates that covered bonds eventually exceeded the size of the program and continued to grow after the end of the swap program. 
+
+The total outstanding volume of government securities at the creation of the swap program was NOK 256 billion (Ministry of Finance 2008a). Therefore, full utilization of the treasury bills authorized for the swap program (NOK 350 billion) would have more than doubled the amount of government securities in the system. In fact, the amounts allocated under the program (NOK 230 billion) did almost double the outstanding amount. 
+
+## **9. Individual Participation Limits: Norges Bank allowed participants to submit three competitive bids or a single non-competitive bid.** 
+
+Norges Bank allowed every bank to submit up to three competing bids for each of the agreement periods in the auction. Alternatively, a bank could submit a single non-competing bid of up to NOK 500 million for any auction, which prohibited it from submitting a competitive bid. The non-competitive bids did not affect the price of the auction; the participant would pay the auction interest rate determined from the competitive bids. Total non-competitive bids for any auction could not be more than 25% of the amount on auction. If the total size of bids submitted exceeded the amount on offer, Norges Bank provided allocations on a pro rata basis within each maturity option (Norges Bank 2008a). 
+
+## **10. Rate Charged: Norges Bank implemented a minimum price, consisting of a money market rate and a risk premium, with participants able to bid higher depending on their financial condition.** 
+
+Norges Bank set a minimum price, consisting of a money market rate and a risk adjustment that could be positive or negative. Participants could bid above this minimum price, depending on the premium they placed on the funding. The combination of the minimum price and the participant premium comprised the auction interest rate. Successful bidders paid the lowest accepted auction interest rate. Research has not been able to determine from the available documents how Norges Bank decided on the minimum price for each auction (Norges Bank 2008a). 
+
+Norges Bank used the average Norwegian Interbank Offered Rate over the previous five days, NIBOR(5), as the money market rate (Norges Bank 2008a). Norges Bank set the risk 
+
+
+adjustment at negative 20 basis points for the auctions until July 27, 2009, and at zero until August 10, 2009. The last five auctions carried a positive risk mark-up. The final auction in October 2009 had a risk adjustment of positive 70 basis points, thus making the minimum price equal to NIBOR(5) plus 70 basis points (Norges Bank 2009d). 
+
+The risk adjustment and the participant premium component were fixed for the duration of the respective swap agreement, while the money market rate, the NIBOR(5), adjusted every six months when the treasury bills matured (Norges Bank 2008a). The auction rate exceeded the minimum price in eight out of 24 auctions (Norges Bank 2009d). See Figure 6 for a comparison between the auction rate and NIBOR(5). 
+
+[FIGURE id=vol4_iss2_43_f6 type=chart label="Figure 6" file=figure_6.png caption="Auction Rate vs. Money Market Rate"]
+### **Figure 6: Auction Rate vs. Money Market Rate**
+![Figure 6](assets/vol4_iss2_43/figure_6.png)
+
+
+_Source: Norges Bank 2009d._ 
+
+**11. Eligible Collateral: Norges Bank initially allowed only covered bonds in Norwegian loans secured by high-quality mortgages on housing (OMFs), but it later expanded the eligible collateral to include covered bonds backed by commercial loans or loans to the central or local government.** 
+
+At the initial phase, Norges Bank accepted only covered bonds of Norwegian loans secured by mortgages on housing (OMFs) (Norges Bank 2008a). Only mortgage companies—which were formed, owned, and controlled largely by banks—could issue OMFs. Banks transferred their residential and commercial mortgages to the mortgage companies, which then issued OMFs secured on the mortgages. Norwegian banks transferred about 40% of their residential mortgages to mortgage companies that issued OMFs in 2010. Norwegian law limited the cover pool to high-quality loans—residential mortgages with a loan-to-value 
+
+
+ratio (LTV) of 75% and commercial mortgages with a LTV of 60% (Bakke, Rakkestad, and Arne 2010). 
+
+While government statistics listed the government as the owner of the covered bonds involved in the swap program, accounting treatment differed. The International Financial Reporting Standards required the participating banks to carry the covered bonds under this program on their balance sheets (Syed 2011). 
+
+## **Expansion** 
+
+The circular explaining the swap program provided for the possibility that Norges Bank could expand the eligible set of collateral beyond covered bonds secured by Norwegian residential mortgages to include covered bonds secured by other types of assets, as well as any other bonds secured by Norwegian mortgages (Norges Bank 2008a). In January 2009, Norges Bank expanded the set of OMFs eligible to be used as collateral to include covered bonds backed by Norwegian loans to, or guaranteed by, central or local governments. Additionally, Norges Bank made covered bonds backed by Norwegian commercial mortgage loans eligible, as well as similar covered bonds issued under the rules of other EU/EEA states backed by Norwegian residential or commercial mortgage loans. Covered bonds backed by Norwegian residential and commercial mortgage loans could be denominated in Swedish krona, Danish krone, euros, US dollars, British pounds, or Swiss francs (Norges Bank 2009a). 
+
+Banks could acquire eligible OMFs from the secondary market or directly from the issuing mortgage companies (Norges Bank 2008a). Banks funded almost half of outstanding OMFs in 2010 through the covered bond swap program (Bakke, Rakkestad, and Arne 2010). 
+
+## **Coverage and haircuts** 
+
+Unlike asset-backed securities, which rely on a static pool of underlying securities, the pool of securities underlying covered bonds is dynamic, with new loans entering and substitution of collateral occurring. The swap agreement provided that the value of the cover pool was always to be greater than the value of outstanding OMFs, with a minimum collateral margin established in the agreement (Bakke, Rakkestad, and Arne 2010; Norges Bank 2008a). 
+
+At the beginning of the program, swap agreements contained collateral “top-up” clauses, which meant that the government could demand replenishment of the value of a covered bond within four days if it fell below the agreed ratio of covered bond value to government security value (Norges Bank 2009c). Norges Bank revalued the covered bonds at each maturity of the treasury bills, prior to rolling them over (Norges Bank n.d.). 
+
+In January 2009, Norges Bank provided an alternative option to the top-up clause, wherein participants agreed to higher haircuts in lieu of the top-up requirement. Only floating-rate covered bonds were eligible for this alternative option. Under this option, Norges Bank added additional haircuts of 2 percentage points on OMFs with a maturity of less than three years, 3 percentage points on OMFs with a maturity of three to seven years, and 5 percentage points on OMFs with a maturity of seven years (Norges Bank 2009a). 
+
+
+The specific haircuts applied to eligible collateral depended on the individual institution, swap agreement, and the currency of the collateral. If a bank made a swap agreement using the collateral top-up option, its collateral received the standard haircuts applied by Norges Bank in its operations. If a mortgage company agreed to the collateral top-up option, its haircut was one percentage point higher than the standard haircuts, with an additional percentage point for each initiated year after the first year of the agreement (Norges Bank 2009a). 
+
+Finally, covered bonds denominated in foreign currencies received an additional haircut of 10 percentage points (Norges Bank 2009a). 
+
+## **12. Loan Duration: Norges Bank initially offered four maturity options, with the shortest term at three months and the longest term at three years, but it later expanded the maximum term to five years.** 
+
+Originally, the circular explaining the program stated that the swap agreements between banks and Norges Bank could last up to three years (Norges Bank 2008a). According to the 2008 Annual Report by Norges Bank, there were four maturity options, with the shortest at three months and the longest at three years (Norges Bank 2009c).[6] Banks could submit multiple bids for each maturity period (Norges Bank 2008a). Beginning in May 2009, Norges Bank allowed the swap agreements to last up to five years, an increase from the previously stated maximum of three years (Norges Bank 2009b). The OMFs used in the swap agreement had to have a term of at least 15 days longer than the agreement itself. Banks could enter into several swap agreements in each auction (Norges Bank 2008a). 
+
+Although data from later auctions is not publicly available, Norges Bank noted in its 2008 Annual Report that during the first four auctions of the swap program, it allocated 85.5% of the funds to swap agreements with the longest swap period at the time (about three years). Another 14% went to the next longest swap period (about two years), with only 0.5% going to the shortest swap period (Norges Bank 2009c). 
+
+## **13. Other Conditions: Treasury bills in the swap program could be retained by banks or sold on the market.** 
+
+Participants in the swap program could retain the treasury bills received in the exchange to bolster their balance sheet, sell them on the market, or use them as collateral for further financing (Norges Bank 2009a; IMF 2010). 
+
+## **14. Impact on Monetary Policy Transmission: The swap program exchanged government securities for covered bonds, rather than central bank reserves, which removed the need for a sterilization intervention.** 
+
+Since the swap program simply exchanged high-quality covered bonds for treasury bills, the Ministry of Finance and Norges Bank did not have any set sterilization strategies. The 
+
+> 6 The circulars establishing the parameters of the swap program did not provide the maturity options, and Norges Bank refers only to the two extrema. 
+
+
+Ministry of Finance did acknowledge in its proposal that the swap program could result in a significant increase in government securities in the market (which happened), although the Ministry of Finance did not mention this as a problem (Ministry of Finance 2008a). 
+
+The initial approval for the swap program stated that it was unlikely that the state would face losses on the program (Ministry of Finance 2008a). According to Norges Bank, covered bonds carried low risks since they were secured by the assets of the mortgage companies. The bonds provided the government a preferential right to those assets if the mortgage company goes bankrupt. Additionally, only Norwegian mortgages with LTVs below 75% could be included in covered bonds, further limiting risk (Norges Bank 2009c). Haircuts on eligible collateral, as well as the top-up of collateral option, further reduced risk potential (Norges Bank 2009c). 
+
+## **15. Other Options: Norges Bank did not consider any other options to the swap program, according to publicly available information.** 
+
+Research into the covered bond swap program did not return any information on other options considered by the Norwegian government prior to the creation of the swap program. 
+
+**16. Similar Programs in Other Countries: While not directly coordinated, the Norwegian swap program took inspiration from programs in the United Kingdom and Sweden.** 
+
+The 2008 Annual Report from Norges Bank notes that Sweden and the United Kingdom both had programs that provided banks government securities in exchange for high-quality, but less liquid, securities during the Global Financial Crisis. Norges Bank recommended to the Ministry of Finance that a program similar to the UK program be established in Norway, which was approved as the covered bond swap program. Specifically, it wanted the government to issue government paper to itself, which it could then lend though Norges Bank against OMFs (Norges Bank 2009c). 
+
+## **17. Communication: Norges Bank published three circulars defining the swap program, as well as the auction schedules.** 
+
+Norges Bank publicly released updates to the swap program through three circulars posted to its website in November 2008, January 2009, and May 2009. These circulars do not contain specific framing language that would illustrate the broad goals. Norges Bank included additional information and updates about the program in their annual reports. Research did not find evidence that Norges Bank conducted active public messaging on behalf of the program, but it cannot be ruled out at this moment. 
+
+**18. Disclosure: Norges Bank released aggregated data on the uptake of the swap program.** 
+
+Norges Bank released the results of the swap program after the individual auctions, but the data remain aggregated (Norges Bank 2009d). The Norwegian government also released anonymized information on the size of participants’ involvement in the swap program (see 
+
+
+Figure 7). One bank exchanged OMFs equivalent to more than 18% of its total assets (Ministry of Finance 2011). Additionally, owing to news reports, it is public knowledge that DNB, a major Norwegian bank, accounted for NOK 118 billion of the swap program, or more than 50% of the funds allocated (Johannessen 2020). 
+
+[FIGURE id=vol4_iss2_43_f7 type=chart label="Figure 7" file=figure_7.png caption="Allocation in the Swap Program as a Share of Banks’ Total Assets (%)"]
+### **Figure 7: Allocation in the Swap Program as a Share of Banks’ Total Assets (%)**
+![Figure 7](assets/vol4_iss2_43/figure_7.png)
+
+
+Note: Each bar represents an individual bank that participated in the swap program. However, the Ministry of Finance never disclosed the names of the banks. 
+
+_Source: Ministry of Finance 2011._ 
+
+## **19. Stigma Strategy: Norges Bank did not implement any explicit stigma strategies, but the Dutch auction design likely resulted in lower stigma concerns.** 
+
+While there were no set strategies to specifically alleviate stigma risks, the Dutch auction design allowed participants to pay the lowest accepted bid, rather than their own individual bids (Norges Bank 2008a). Hypothetically, this should reduce stigma, since all participants in the swap program would face the same conditions and interest rates. Additionally, the expansion of the eligible participants to include mortgage companies could have provided banks with plausible cover to participate (Ministry of Finance 2008b). 
+
+## **20. Exit Strategy: The Ministry of Finance did not intend the swap program to be permanent but did not announce a sunset date.** 
+
+In its request for authorization of the swap program, the Ministry of Finance established that the scheme should not serve as a permanent facility. The Ministry of Finance did not see the program as useful to banks once markets returned to normal. It stated that the natural winddown point for the program would be when market conditions normalized, although it did not define normalization (Ministry of Finance 2008a). 
+
+
+The final auction took place in October 2009, and saw counterparties only bid on 30% of the krone offered. During the previous auctions, the auction interest rate had steadily risen above the NIBOR(5), making the swap program costly and unappealing for counterparties (Norges Bank 2009d). The next two auctions, scheduled for November and December, were canceled owing to lack of interest, with the swap program officially phased out in December 2009 (Norges Bank 2010a). 
+
+In September 2010, Norges Bank recommended to the Ministry of Finance that it offer early termination to the participants in the swap program, noting that to do so might reduce the volatility of normal, long-term borrowing; early termination was not allowed under the original swap agreements (Norges Bank 2008a; 2011). The Ministry of Finance ended up accepting this recommendation. Early terminations in 2011 measured almost NOK 38 billion (Norges Bank 2012). In total, the banks terminated about NOK 83 billion of the swap program earlier than initially agreed (Norges Bank 2014). 
+
+To fulfill the terms of early termination, Syed (2011) states that banks had to make a 
+
+payment equal to the present value of the government’s expected net cash flow for the remainder of the agreement’s original time to maturity (0.4% of the nominal amount of the agreement per year). 
+
+These early terminations could occur only on an agreement’s rollover date and had to be for the full amount of the agreement (Syed 2011). See Figure 8 for an aggregate total of early terminations. 
+
+[FIGURE id=vol4_iss2_43_f8 type=figure label="Figure 8" file=figure_8.png caption="Early Terminations"]
+### **Figure 8: Early Terminations**
+
+|**Year**|**Amount (in NOK billions)**<br>37.6<br>24.4<br>20.9<br>**82.9**|
+|---|---|
+|2011||
+|2012||
+|2013||
+|**Total**||
+
+
+
+_Source: Norges Bank 2014._ 
+
+
+## **References and Key Program Documents** 
+
+Documents cited in the text are introduced with a parenthetical author-date citation. Documents that are relevant to this case but have not been cited in text do not include this parenthetical reference. 
+
+## **Implementation Documents** 
+
+(Norges Bank 2008a) Norges Bank. 2008a. “The Scheme of Exchanging Government Securities for Covered Bonds.” 
+
+_Circular published by Norges Bank on the establishment of the covered bond swap scheme, written in Norwegian_ . 
+
+https://ypfs.som.yale.edu/library/scheme-exchanging-government-securities-coveredbonds 
+
+(Norges Bank 2009a) Norges Bank. 2009a. “The Arrangement for the Exchange of Government Securities for Covered Bonds.” 
+
+_Second circular updating the rules of the swap program, written in Norwegian_ . 
+
+https://ypfs.som.yale.edu/library/arrangement-exchange-government-securities-coveredbonds 
+
+(Norges Bank 2009b) Norges Bank. 2009b. “Circular No. 8/26: The Scheme of Exchanging Government Securities for Covered Bonds.” 
+
+_Circular published by Norges Bank on the new rules of the covered bond swap scheme, written in Norwegian_ . 
+
+https://ypfs.som.yale.edu/library/circular-no-826-scheme-exchanging-governmentsecurities-covered-bonds 
+
+(Norges Bank n.d.) Norges Bank. n.d. “Exchange of Government Securities for Bonds with Priority/Purchase Agreement.” 
+
+_Swap agreement signed by the participating bank, written in Norwegian_ . https://ypfs.som.yale.edu/library/exchange-government-securities-bondsprioritypurchase-agreement 
+
+## **Legal/Regulatory Guidance** 
+
+(Kredittilsynet 1961) Kredittilsynet. 1961. “Act on Savings Banks (Savings Banks Act).” _Law on the activities of savings banks, translated in December 1999_ . https://ypfs.som.yale.edu/library/act-savings-banks-savings-banks-act 
+
+(Ministry of Finance 2008a) Ministry of Finance. 2008a. “St.prp. nr. 5 (2008-2009).” _Authorization for the covered bond swap program, written in Norwegian_ . https://ypfs.som.yale.edu/library/stprp-nr-5-2008-2009 
+
+(Ministry of Finance 2008b) Ministry of Finance. 2008b. “St.prp.nr.30 (2008-2009).” _Document proposing allowing the mortgage companies to participate in the swap program_ . https://ypfs.som.yale.edu/library/stprpnr30-2008-2009 
+
+
+## **Media Stories** 
+
+(Johannessen 2020) Johannessen, Simen. 2020. “The Gold Card in 2008 Gave the State 5.5 Billion in Profit.” DNB News. 
+
+_News article on DNB’s involvement in the swap program and overall profit for the government, written in Norwegian_ . 
+
+https://ypfs.som.yale.edu/library/gold-card-2008-gave-state-55-billion-profit 
+
+## **Reports/Assessments** 
+
+(Bakke, Rakkestad, and Arne 2010) Bakke, Bjørn, Ketil Rakkestad, and Geir Arne. 2010. “Norwegian Covered Bonds—a Rapidly Growing Market.” _Overview of the Norway swap facility_ . 
+
+https://ypfs.som.yale.edu/library/norwegian-covered-bonds-rapidly-growing-market 
+
+(IMF 2010) International Monetary Fund (IMF). 2010. “Norway: Staff Report for the 2009 Article IV Consultation.” 
+
+_IMF report on Norway in 2009, which includes the exchange rate and some mentions of the swap program_ . 
+
+https://ypfs.som.yale.edu/library/norway-staff-report-2009-article-iv-consultation 
+
+(Ministry of Finance 2011) Ministry of Finance. 2011. “Better equipped for financial crises—The Financial Crisis Committee’s Report.” 
+
+_Overview and evaluation of the Norwegian government’s response to the Global Financial Crisis, written in Norwegian_ . 
+
+https://ypfs.som.yale.edu/library/better-equipped-financial-crises-financial-crisiscommittees-report 
+
+(Norges Bank 2008b) Norges Bank. 2008b. “Monetary Policy Report 3/2008.” _Monetary policy report from Norges Bank that provides context for other actions undertaken by the Norwegian government_ . 
+
+https://ypfs.som.yale.edu/library/monetary-policy-report-32008 
+
+(Norges Bank 2009c) Norges Bank. 2009c. “Annual Report 2008.” _Annual report from Norges Bank about 2008 containing information on the swap program_ . https://ypfs.som.yale.edu/library/annual-report-2008 
+
+(Norges Bank 2009d) Norges Bank. 2009d. “Auction Results in the Swap Arrangement.” _Results from the covered bond swap program_ . 
+
+https://ypfs.som.yale.edu/library/auction-results-swap-arrangement 
+
+(Norges Bank 2010a) Norges Bank. 2010a. “Annual Report 2009.” 
+
+_Annual report from Norges Bank about 2009 containing information on the swap program_ . https://ypfs.som.yale.edu/library/annual-report-2009-0 
+
+
+(Norges Bank 2010b) Norges Bank. 2010b. “Financial Stability 1/10.” _Financial stability report from Norges Bank_ . https://ypfs.som.yale.edu/library/financial-stability-110 
+
+(Norges Bank 2011) Norges Bank. 2011. “Annual Report 2010.” _Annual report from Norges Bank about 2010 containing information on the swap program_ . https://ypfs.som.yale.edu/library/annual-report-2010 
+
+(Norges Bank 2012) Norges Bank. 2012. “Annual Report 2011.” _Annual report from Norges Bank about 2011 containing information on the swap program_ . https://ypfs.som.yale.edu/library/annual-report-2011 
+
+(Norges Bank 2013) Norges Bank. 2013. “Financial Stability Report 2013.” _A 2013 report from Norges Bank that contains information on the effects of the swap program_ . https://ypfs.som.yale.edu/library/financial-stability-report-2013 
+
+(Norges Bank 2014) Norges Bank. 2014. “Swap Arrangement Charts Updated.” _Updated results from the swap arrangement_ . 
+
+https://ypfs.som.yale.edu/library/swap-arrangement-charts-updated 
+
+(Syed 2010) Syed, Haseeb. 2010. “The Norwegian Market for Government Securities and Covered Bonds in View of New Liquidity Buffer Requirements for Banks.” 
+
+_Report on the effect of the swap program on the greater market for Norwegian government securities_ . 
+
+https://ypfs.som.yale.edu/library/norwegian-market-government-securities-and-coveredbonds-view-new-liquidity-buffer 
+
+(Syed 2011) Syed, Haseeb. 2011. “Markets for Norwegian Banks’ Long-Term Funding— Implications of Changes in Market Conditions and the Regulatory Framework.” _Report that contains important information on the early terminations_ . https://ypfs.som.yale.edu/library/markets-norwegian-banks-long-term-fundingimplications-changes-market-conditions-and 
+
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

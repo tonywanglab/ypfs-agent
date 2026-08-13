@@ -1,0 +1,1348 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 7 Issue 1 
+2025 
+United Kingdom: Northern Rock Emergency Liquidity Program, United Kingdom: Northern Rock Emergency Liquidity Program, 
+2007 2007 
+Bailey Decker 
+YPFS, Yale School of Management 
+Jack French 
+YPFS, Yale School of Management 
+Eming Shyu 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Finance and Financial Management Commons, Law and Economics Commons, Policy Design, Analysis, 
+and Evaluation Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Decker, Bailey; French, Jack; and Shyu, Eming (2025) "United Kingdom: Northern Rock Emergency 
+Liquidity Program, 2007," Journal of Financial Crises: Vol. 7 : Iss. 1, 495-526. 
+DOI: https://doi.org/10.17132/2693-3179.1630 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/20 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol7/iss1/20
+
+--- Page 3 ---
+United Kingdom: Northern Rock  
+Emergency Liquidity Program, 20071 
+Bailey Decker,2 Jack French,3 and Eming Shyu4 
+Yale Program on Financial Stability Case Study 
+April 15, 2025 
+Abstract 
+Northern Rock plc was a bank in the United Kingdom (UK) that experienced rapid growth 
+from 1998 to 2007. The bank was a large issuer of UK residential mortgage -backed 
+securities. Its funding was primarily wholesale as its retail deposit growth had not kept up 
+with its asset growth. By August 2007, Northern Rock’s credit default swap spreads were 
+widening and its share price falling as conditions deteriorated in the markets on which it 
+relied for short -term funding. To meet the bank’s substantial liquidity needs, the Bank of 
+England (BoE) announced on September 14, 2007 , that it would extend an emergency 
+liquidity facility to Northern Rock “against appropriate collateral and at an interest rate 
+premium,” without provi ding further details. The announcement of the facility and the 
+rumors in the days before led to a deposit run and prompted Her Majesty’s Treasury  (HM 
+Treasury) to extend various guarantees to Northern Rock. Northern Rock drew on the BoE’s 
+liquidity facilit ies almost immediately as depositors withdrew 4.6 billion  pounds sterling 
+(GBP) within days. Northern Rock  reported outstanding emergency lending of GBP 28.5 
+billion at the end of December 2007. In February 2008, HM Treasury took over Northern 
+Rock. In August 2008, HM Treasury assumed from the BoE the remaining emergency loan to 
+Northern Rock, which had fallen to GBP 14.5 billion. In 2010, the government split Northern 
+Rock into good and bad banks, Northern Rock plc and Northern Rock Asset Management plc, 
+respectively. The government sold the good bank to Virgin Money in January 2012 for GBP 
+747 million. In 2016, the Na tional Audit Office estimated a net gain of GBP 5 billion to the 
+government after the intervention in Northern Rock , although not on a net present value 
+basis. 
+ 
+Keywords: emergency liquidity  assistance, Northern Rock , Northern Rock Asset 
+Management (NRAM), restructuring  
+ 
+1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering ad hoc emergency liquidity provision. A survey of all  the cases in this series (Kelly et al. 
+2025) and the individual cases underlying it are available from the Journal of Financial Crises  at 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/. Wiggins et al. (2022) surveys broad-
+based emergency liquidity programs. 
+2 Research Associate, YPFS, Yale School of Management. 
+3 Research Associate, YPFS, Yale School of Management. 
+4 Intern, YPFS, Yale School of Management. 
+495
+
+--- Page 4 ---
+Overview 
+This case study is about ad hoc emergency 
+liquidity assistance  provided to Northern 
+Rock plc. 
+Northern Rock  grew quickly in the years 
+leading up to the Global Financial Crisis  of 
+2007–09 (GFC), with total assets rising 
+from 17.4 billion  pounds sterling (GBP)  in 
+June 1998 to GBP 113.5 billion  (USD 227 
+billion5) in June 2007. Its balance sheet 
+growth far outpaced retail deposits, which 
+grew from GBP 10.4 billion to GBP 24 
+billion over the same period (Shin 2009) . 
+Northern Rock relied heavily on short-term 
+wholesale funding . Northern Rock ’s share 
+price started falling in early 2007 as 
+concerns surfaced around earnings and the 
+ability of the bank to grow as short-term 
+wholesale funding costs rose . By August 
+2007, Northern Rock’s credit default swap 
+spreads were widening, and its share price 
+was falling as the broader credit and money 
+market conditions deteriorated (BoE 
+2007d). 
+The short -term funding and interbank 
+lending market s on which Northern Rock 
+relied froze on August 9, 2007 (Shin 2009). 
+On August 14,  2007, United Kingdom ( UK) 
+authorities discussed the potential for  
+liquidity issues at Northern Rock should the 
+bank be cut off from the securitization and 
+covered bond markets or should it face 
+difficulties in maintaining money market 
+funding (BoE 2007d). On August 16, then–
+Northern Rock Chair Matt Ridley discussed 
+the “theoretical” possibility of emergency 
+support with the governor of the Bank of 
+England (BoE). Northern Rock said that it 
+needed emergency support only as a  
+“backstop” and perhaps would not have to 
+use the facilities (House of Commons 
+ 
+5 According to the Bank for International Settlements, USD GBP 1 = USD 2.00 on June 29, 2007. 
+Key Terms 
+Purpose: To help the bank fund its operations amid 
+ongoing market stress and, later, to enable it to 
+explore strategic options  
+Announcement 
+Date 
+September 14, 2007  
+Operational Date September 14, 2007  
+Termination Date April 24, 2019  
+Legal Authority Memorandum of 
+Understanding established in 
+1998 and updated in 2006  
+Administrator Bank of England and HM 
+Treasury  
+Peak Authorization September 14 facilities: 
+Limited only by the bank’s 
+available collateral  
+Peak Outstanding GBP 28.5 billion was the 
+highest figure reported, for 
+December 31, 2007  
+Collateral September 14 facilities: 
+unsecuritized residential 
+mortgage loans, various 
+securities.  
+October 9 facilities: all assets 
+of Northern Rock  
+Haircut and 
+Recourse 
+Haircuts for September14 
+facilities  
+Interest Rate and 
+Fees 
+Unknown, premium to BoE’s 
+official rate (then 5.75%) 
+Term Unknown 
+Part of a Package HM Treasury guaranteed all 
+deposits and a number of 
+other liabilities 
+ 
+ 
+(continued) 
+ 
+ 
+  
+496
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 5 ---
+2008). However, by early September, 
+Northern Rock could not access longer -
+term funding and was able to roll over its 
+debt only at ever shorter maturities (BoE 
+2007d; Northern Ro ck 2008a) . During the 
+week of September 10, Northern Rock 
+officially requested help from the BoE (BoE 
+2007d; Northern Rock 2008a). 
+Before approving the bank’s request for 
+aid, however, t he UK Financial Services 
+Authority (FSA) and the BoE were required 
+to respectively assess the systemic risks the failure of Northern Rock could pose, under the 
+tripartite arrangements among the FSA, BoE, and Her Majesty’s Treasury (HM Treasury). 
+The tripartite arrangements also required the FSA to evaluate the bank’s solvency. The FSA 
+conducted this analysis and concluded that Northern Rock was solvent, had above the 
+minimum amount of regulatory capital, and had a quality loan book (BoE 2007d) . On 
+September 14, 2007, Northern Rock issued a warning that its annual profit would be about 
+20% below the forecast of GBP 647 million, and its share price fell nearly 25% (Reuters 
+2007c). The same day, the BoE, along with the FSA and HM Treasury, issued a press release 
+announcing the initial liquidity facility for Northern Rock and the BoE’s willingness to lend 
+to other institutions facing short -term liquidity difficulties (BoE 2007c; BoE 2007d) . The 
+British Broadcasting Corporation ( BBC) reported the BoE’s decision to provide emergency 
+liquidity at 8:30pm on S eptember 13, the night before the official announcement (House of 
+Commons 2008). 
+The rumors and the official announcement of the liquidity facility confirmed that Northern 
+Rock was facing substantial difficulties and led to a retail deposit run (AFP 2007; BoE 2007d). 
+Within a few days, customers withdrew GBP 4.6 billion in deposits (House of Commons 
+Public Accounts Committee 2009) . Lines formed outside  the bank’s  branches, its website 
+crashed, and  its phone lines reportedly jammed (AFP 2007; House of Common s 2008) . 
+Standard and Poor’s (S&P) downgraded Northern Rock from A+ to A also on September 14, 
+2007 (Patrick 2007). On September 17 , 2007, the chancellor of the Exchequer, who heads  
+HM Treasury, announced that the government would fully guarantee “all existing deposits” 
+at Northern Rock (BoE 2007d; HMT 2007). Also on September 17, Moody’s Investors Service 
+downgraded Northern Rock’s Bank Financial Strength Rating (B FSR) from B - to C - in 
+response to the announcement of emergency liquid ity support (Moody’s 2007). Over the 
+next few days, HM T reasury clarified that  the guarantee covered existing and renewed 
+unsecured wholesale funding as well (BoE 2007d; Northern Rock 2008a). On October 9, HM 
+Treasury extended the guarantee to also cover retail deposits made after September 19 (BoE 
+2007d).  
+Also on October 9, 2007, the BoE granted amended liquidity facilities to Northern Rock that 
+provided unlimited liquidity secured by all of Northern Rock’s assets. The BoE received an 
+indemnity from HM Treasury  protecting the central bank from losses on any additional 
+lending (BoE 2007d) . The highest le vel of lending that the bank reported was GBP 28.5 
+Outcomes In 2012, HM Treasury sold the 
+good bank to Virgin Money for 
+GBP 747 million; in 2016, the 
+NAO estimated a net gain of 
+GBP 5 billion to the 
+government after the 
+intervention in Northern Rock, 
+although not on a net present 
+value basis  
+Notable Features Leak before announcement, 
+deposit run after 
+497
+Northern Rock Decker et al.
+
+--- Page 6 ---
+billion at the end of December 2007 ; data on usage during the year are not available  
+(Northern Rock 2008a). 
+The government nationalized Northern Rock on February 22, 2008, whereby the Treasury 
+Solicitor on behalf of HM Treasury took the bank into public ownership (BoE 2008b). On 
+August 28, 2008, HM Treasury assumed from the BoE its  outstanding GBP 14.5 billion loan 
+to Northern Rock.  On January 1, 2010, the government split  the bank into two separate 
+entities: Northern Rock plc (good bank) and Northern Rock Asset Management plc (NRAM, 
+the bad bank). NRAM then took the GBP 14.5 billion outstanding on the facilities, at this point 
+owed to HM Treasury (Plenderleith 2012). HM Treasury also committed to converting up to 
+GBP 1.6 billion of its outstanding loan to capital so that NRAM could meet regulatory 
+requirements, if necessary (UKAR 2014). 
+In November 2008, the government created UK Financial Investments Limited (UKFI) in  
+response to the GFC  to manage the government’s investments in UK financial institutions  
+(UKFI 2009). 
+On October 1, 2010, HM Treasury created UK Asset Resolution Limited (UKAR) by bringing 
+together its stakes in Bradford and Bingley plc (B&B) and NRAM for resolution. UKAR was a 
+holding company under HM Treasury. UKFI managed HM Treasury ’s sharehold ing in 
+Northern Rock, B&B, Royal Bank of Scotland (RBS), and Lloyds Banking Group (UKAR 2017). 
+On November 17, 2011, HM Treasury announced the sale of  Northern Rock plc to Virgin 
+Money for GBP 747 million in cash with the potential of achieving GBP 1 billion in total ; the 
+sale closed on January 1, 2012 (HM Treasury 2011; Plenderleith 2012). 
+In November 2015, UKAR closed the sale of a portfolio of NRAM’s assets for GBP 13.3 billion 
+to a consortium led by  the U S private equity firm Cerberus Capital Management LP 
+(Edmonds 2017; NAO 2016). 
+On April 24, 2019, UKAR sold NRAM’s remaining residential and unsecured assets  for GBP 
+4.9 billion to Citigroup, enabling the repayment of its remaining GBP 2 billion owed to HM 
+Treasury (UKAR 2019). 
+Figure 1 shows a timeline of assistance to Northern Rock. 
+Figure 1: Timeline of Assistance to Northern Rock 
+Date Event  
+August 9, 2007 Northern Rock traders note “dislocation” in its funding market. 
+August 13, 2007 Northern Rock alerts the FSA about its funding difficulties. 
+August 14, 2007 Northern Rock alerts the BoE about its problems. 
+August 16, 2007 BoE and Northern Rock discuss the possibility of BoE emergency support as a “backstop.” 
+September 13, 2007 BBC reports Northern Rock asked for and received emergency support from the BoE.  
+498
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 7 ---
+September 14, 2007 • Northern Rock issues profit warning; shares fall nearly 25%. 
+• BoE, FSA, and HM Treasury announce a liquidity facility for Northern Rock. 
+• Lines form outside Northern Rock branches, website breaks, and phone lines 
+reportedly jam. 
+September 17, 2007 Chancellor announces deposit guarantee for Northern Rock. 
+September 18, 2007 • To bring down overnight rates, the BoE commences open market operations 
+(OMOs) that allow banks in aggregate to set and meet new reserves targets. To 
+this end, the BoE offers to supply extra reserves equivalent to 25% of the 
+aggregate target—in effect, injecting GBP 4.4 billion into money markets. 
+• Northern Rock says the “tide has turned” after the announcement of the 
+government’s deposit guarantee. 
+September 25, 2007 Northern Rock cancels a dividend payment under pressure from HM Treasury. 
+October 9, 2007 • BoE issues additional liquidity facilities for Northern Rock with indemnity from HM 
+Treasury and end s borrowing under September 14 facility; the new facilities are 
+unlimited and backed by all Northern Rock assets. 
+• HM Treasury extends guarantee to cover retail deposits made after September 19.  
+December 12, 2007 The BoE, US Federal Reserve, European Central Bank (ECB), Swiss National Bank (SNB), and 
+Bank of Canada jointly announce measures to address pressures in short -term funding 
+markets. 
+February 22, 2008 UK government announces temporary nationalization of Northern Rock. 
+April 21, 2008 The BoE introduces a Special Liquidity Scheme (SLS) so that banks can temporarily swap 
+high-quality mortgage-backed and other securities for UK Treasury bills. 
+April 30, 2008 BoE extends the loan agreement to provide additional facilities meant to help Northern 
+Rock’s restructuring. 
+July 2008 Northern Rock ask s HM Treasury for a GBP 3 billion capital  injection, with a potential to 
+increase to GBP 4.5 billion to GBP 6 billion if losses increase. 
+August 28, 2008 Loan facilities with GBP 14.5 billion outstanding are moved to HM Treasury ; no change to 
+terms. 
+February 23, 2009 Northern Rock completes a strategic review of its business plan, will offer GBP 14 billion in 
+new mortgage lending partly funded by an increase in  its government loan with an 
+extended repayment schedule. Northern Rock will undergo legal and capital restructuring 
+to facilitate the new lending.  
+March 2, 2009 HM Treasury confirms it will fund Northern Rock for a period of not less than 12 months 
+and will ensure the bank continues to meet regulatory capital requirements.  
+January 1, 2010 The g overnment splits Northern Rock into Northern Rock plc and Northern Rock Asset 
+Management plc (NRAM). 
+November 17, 2011 Government announces sale of Northern Rock plc to Virgin Money for GBP 747 million in 
+cash on sale closing. 
+November 2015 Northern Rock sells a portfolio of mortgages to  a consortium led by Cerberus for GBP 13.3 
+billion. 
+September 1, 2017 NRAM still owes GBP 4.6 billion to HM Treasury. 
+499
+Northern Rock Decker et al.
+
+--- Page 8 ---
+April 24, 2019 UKAR sells GBP 4.9 billion of NRAM’s assets to Citi, enabling final repayment of the facilities 
+(for the amount outstanding of emergency liquidity from year to year, see Key Design 
+Decision No. 7, Source and Size of Funding). 
+November 2021 NRAM’s shares and remaining assets are sold. 
+October 23, 2023 NRAM ceases to operate as a lender; all customer accounts are transferred. 
+Source: Authors’ analysis.  
+Summary Evaluation 
+The UK House of Commons Treasury Committee wrote a report  in 2008 on Northern Rock, 
+titled “The Run on the Rock ,” offering a number of conclusions and recommendation s. The 
+report expresses surprise that the BoE and Northern Rock did not engage in high-level 
+discussions about liquidity support before September 10, 2007 (House of Commons 2008). 
+The report also says the chancellor’s decision to provide the emergency liquidity to Northern 
+Rock was “the right one,” since it helped protect the bank and reduce the risk of contagion 
+throughout the UK banking system (House of Commons 2008). 
+The BoE’s 2008 annual report said the announcement of the September 14  facilities 
+confirmed the extent of the issues at the bank and led to a retail deposit run (BoE 2008c). 
+The “Run on the Rock” report said the tripartite authorities (BoE, HM Treasury, and FSA) did 
+not act quickly enough to f inalize and announce the emergency liquidity after deciding to 
+proceed with it. The failure to make the announcement earlier in the week or have adequate 
+plans for handling the press and public interest in the emergency liquidity resulted in “the 
+worst of both worlds” (House of Commons 2008). The BBC reported the emergency liquidity 
+assistance to Northern Rock on the evening of  September 13 (BBC 2007) . The official 
+announcement from the BoE came the following day (BoE 2007c). The “Run on the Rock” 
+report says that although there was a reasonable prospect that the announcement of the 
+emergency liquidity would help reassure depositors, the leak of the Northern Rock facility 
+and the negative market reaction to Barclays’s use of the BoE’s standing emergency lending 
+facility should have prompted action 6 (Ferreira-Marques 2007; House of Commons 2008; 
+Seager, Elliott, and Kollewe 2007) . The report additionally says that it was “unacceptable” 
+that the tripartite authorities had not agreed in advance to the terms of the deposit guarantee 
+“to allow a timely announcement in the event of an adverse reaction to the [BoE] support 
+facility” (House of Commons 2008). 
+In response to the chancellor’s announcement of emergency liquidity support, Moody’s also 
+downgraded Northern Rock’s BFSR from B- to C- on September 17, 2007 (Moody’s 2007). 
+In May 2012, the National Audit Office (NAO) published a report on the resolution of 
+Northern Rock . In that report, the N AO predicts that the government would eventually 
+recover all losses and funds invested in Northern Rock. However, the NAO estimates that on 
+ 
+6 By late August, the financial press reported that Barclays had borrowed twice from the BoE’s standing 
+emergency lending facility in the previous two weeks, totaling hundreds of millions of British pounds sterling 
+(Ferreira-Marques 2007; Seager, Elliott, and Kollewe 2007). 
+500
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 9 ---
+an economic basis, taking into account the net present value of cash flows, the government 
+would realize a total loss of GBP 2 billion from the overall re scue of Northern Rock (House 
+of Commons 2012; NAO 2012).  
+A follow-up report by the House of Commons Public Accounts Committee says: 
+The lack of people with the right skills meant that the Treasury could not reach a quick 
+decision on how to save Northern Rock. The Treasury told us that, in hindsight, it should 
+have nationalized the bank faster but that it spent five months until September 2008  
+‘trying to find ever more sophisticated devices,  in effect, to bribe private companies to 
+buy it.’ Even with a taxpayer guarantee on the bank’s liabilities the Treasury did not find 
+a willing buyer… and a cost for the taxpayer became difficult to avoid. (House of 
+Commons 2012) 
+Likewise, in testimony to the Public Accounts Committee in September 2012, UK Financial 
+Investments Secretary Nick Macpherson said: 
+. . . the Treasury was slow off the mark in terms of addressing the problem. You will recall 
+that, from the point of the run on Northern Rock  in Septe mber 2007 through to 
+nationalization, there was a five-month period of drift. That, I think, made it quite likely 
+that we would lose money on Northern Rock in a way th at certainly was not inevitable 
+at that point when we took a majority holding in RBS. (House of Commons 2012) 
+ 
+501
+Northern Rock Decker et al.
+
+--- Page 10 ---
+Sources: Bloomberg: World Bank Deposit Insurance Dataset; World Bank Global Financial Development Database.  
+ 
+  
+502
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 11 ---
+Key Design Decisions 
+1. Purpose: The BoE provided emergency liquidity assistance to Northern Rock to 
+help fund its operations while the bank worked to resolve its liquidity issues.  
+Emergency Liquidity Facilities 
+The BoE extended emergency liquidity support to Northern Rock on September 14, 2007, to 
+help the bank fund its operations (BoE 2007c). Before the crisis, Northern Rock had a funding 
+structure that was heavily reliant on its GBP 50 billion program called Granite, whereby the 
+bank raised wholesale funding secured by its mortgage loans held in special purpose entities 
+(BoE 2007d; Northern Rock 2009; Patrick 2007) . At the end of 2006, 89.2% of the bank’s 
+assets were residential mortgages, and its liabilities were largely wholesale funding sources 
+(House of Commons 2008) . By August 2007, Northern Rock’s credit default swap spreads 
+were widening and its share price falling as broader credit and money market conditions 
+deteriorated. By mid-September, Northern Rock was able to roll over debt but only at shorter 
+and shorter maturities (BoE 200 7d). The general tightening of longer -term liquidity , the 
+shutdown of the securitization and medium -term funding markets, and pressures in short-
+term wholesale markets  posed problems for funding Northern Rock’s warehouse (that is,  
+mortgage loans preparing for securitization). Thus, Northern Rock approached the BoE for 
+liquidity suppor t during the week of September 10 , 2007  (BoE 2008b; Northern Rock 
+2008a). Figure 2 shows the composition of Northern Rock’s liabilities in December 2007 
+compared to June 2007. 
+Figure 2: Northern Rock’s Liabilities before and after the Run, GBP billions 
+ 
+Source: Shin 2009. 
+Specifically, within the broader category of wholesale funding, Northern Rock experienced 
+runs on its wholesale deposits (banks and certificates of deposit [CDs]) and “other debt 
+503
+Northern Rock Decker et al.
+
+--- Page 12 ---
+securities” (see Figure 3) (Northern Rock 2008a) . Northern Rock did not have repurchase 
+agreements (repos) before its repos from the BoE (Northern Rock 2008a). 
+Figure 3: Northern Rock’s Wholesale Funding at Year-End 2006 and 2007   
+(GBP millions) 
+ 
+Note: MTNs refer s to medium -term notes.  Northern Rock also said  in 2008  that it was worried about  the 
+reopening of medium-term and securitization markets. 
+Sources: Northern Rock 2008a; Northern Rock 2008b; authors’ analysis. 
+On September 14, 2007, the chancellor of the Exchequer authorized the liquidity facilities on 
+the basis of recommendations by the BoE governor and the FSA chairman. For the tripartite 
+arrangement, the BoE and FSA had to make separate financial stability assessments , and 
+both judged Northern Rock to be a sufficiently serious threat to the financial system through 
+contagion. The FSA said it viewed Northern Rock as solvent , with regulatory capital above 
+the required level and a quality loan book; the chancellor used this assessment in his decision 
+to authorize the liquidity facilities (BoE 2007c; BoE 2007d). 
+On September 14, the BoE released a tripartite statement by t he HM Treasury, the BoE, and 
+the FSA confirming a liquidity facility for Northern Rock and the BoE’s willingness to lend to 
+other institutions facing short -term liquidity difficulties (BoE 2007a; BoE 2007d) . The 
+announcement confirmed to the public the extent of the issues at Northern Rock and led to 
+a retail deposit run (BoE 2008c) . Northern Rock  intended to have the facilit y serve as a 
+backstop that it would  not need to use, but the bank had to draw on the facilit ies almost 
+immediately as depositors fled (House of Commons 2008). 
+504
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 13 ---
+Although the September 14 press release men tioned only “a liquidity facility,” the support 
+took two forms : (a) a loan agreement to provide funds secured by Northern Rock’s 
+unsecuritized mortgage loans (Facility A in Figure 4) and (b) a repo facility to provide funds 
+secured by securities, such as mortgage -backed securities issued through Northern Rock’s 
+Granite program (see Key Design Decision No. 10, Balance Sheet Protection) (EC 2007). The 
+parties later added Facility B, which the BoE described as a  secured working capital line 
+secured on all Northern Rock assets (BoE 2008a). 
+On October 9, 2007, the BoE expanded the liquidity facilities and received an indemnity from 
+HM Treasury for additional lending. Northern Rock had requested the amended facilities to 
+enable it to pursue a full range of options before deciding on resolution (BoE 2007d). 
+Figure 4: Amended Liquidity Facilities to Northern Rock 
+Facility A Facility B Repo Facility 
+A loan of GBP 4 billion at a 
+margin over the BoE rate 
+secured primarily on residential 
+mortgages but also on all 
+Northern Rock assets 
+A secured working capital line 
+of GBP 18 billion outstanding at 
+a margin over the BoE rate, 
+after netting a deposit of GBP 
+0.7 billion secured on all 
+Northern Rock assets 
+A reverse repo facility of GBP 
+2.3 billion at a margin over the 
+BoE rate secured on investment 
+securities 
+Sources: EC 2007; Northern Rock 2008a. 
+After October 9, Northern Rock could not borrow any more money from the September 14 
+liquidity facilities, Facility A  (BoE 2007d; BoE 2008c) . The liquidity facilit ies would be 
+cancelled and all outstanding loans and other amounts accrued and outstanding would 
+become immediately due and payable if Northern Rock underwent a change of control 
+(Northern Rock 2008a). Reporting from media outlets and the NAO suggest that the pivot in 
+facility usage appeared to be driven , at least in part , by the fact that Northern Rock was 
+unable to furnish high-quality securities under the terms of Facility A and likely would have 
+run out of suitable assets (Bowers and Elliott 2007; NAO 2009b).  
+As of December 31, 2007, Northern Rock reported approximately GBP 28.5 billion in 
+outstanding borrowing under the facilities, including GBP 6.9 billion secured on residential 
+mortgages under Facility A, GBP 16.4 billion secured by other assets under Facility B, a repo 
+facility of GBP 3.6 billion secured on investment securities, and open market repo funding of 
+GBP 1.5 billion  (Northern Rock 2008a) . The BoE reported outstanding borrowing to 
+Northern Rock had declined to GBP 24.3 billion as of February 29, 2008 : Facility A had 
+declined to GBP 4 billion, Facility B had risen to GBP 18 billion, and the repo facility had 
+declined to GBP 2.3 billion  (BoE 2008a). The bank used the funds to cover retail outflows 
+and to support operating cash flows and  the repayment of nonretail liabilities as they 
+matured. Northern Rock also depleted its existing liquidity to repay these liabilities, so the 
+emergency facilities also helped the bank meet  its liquidity requirements (Northern Rock 
+2008a). At the time, the  UK had three liquidity  regimes: the Sterling Stock regime, the 
+Mismatch regime, and the Building Society regime (FSA 2007). Given that the Sterling Stock 
+regime applied to the 17 largest firms, its liquidity requirements presumably applied to 
+505
+Northern Rock Decker et al.
+
+--- Page 14 ---
+Northern Rock: banks had to hold BoE -eligible assets to cover their five -day wholesale net 
+outflow and 5% of withdrawable retail deposits over five days (Acosta-Smith et al. 2019; 
+Banerjee and Mio 2015; FSA 2007). 
+In the restructuring plan approved by HM Treasury, rep aying the emergency liquidity 
+facilities was one of four major priorities (see Key Design Decision No. 2, Part of a Package) 
+(Northern Rock 2009). 
+On March 29, 2008, the BoE and HM Treasury said they intended to provide an additional 
+committed secured revolving loan reserve facility (Northern Rock 2008a). 
+On August 5, 2008, HM Treasury committed to converting GBP 3 billion of the outstanding 
+emergency liquidity assistance  to equity (EC 2009b). However, in 2009, HM Treasury told 
+the European Commission (EC) that it would not perform this conversion, but HM Treasury 
+acknowledged that Northern Rock would need to be recapitalized to meet regulatory 
+requirements. The projected recapitalization was redacted in the EC State Aid decision (EC 
+2009a). 
+According to UKAR’s annual reports  for 2011 and 2013 , HM Treasury committed to 
+converting up to GBP 1.6 billion of its outstanding loan to capital so that NRAM could meet 
+regulatory requirements, if necessary (UKAR 2012; UKAR 2014). 
+Other Options Considered 
+Before September 10, 2007, at least one potential buyer of Northern Rock asked UK 
+authorities about what kind of support the troubled bank would receive. This potential buyer 
+requested a support facility for Northern Rock, but Northern Rock and the tripartite 
+authorities gave conflicting details to the House of Commons Treasury Select Committee 
+(TSC) about the specifics of the bidder’s request (House of Commons 2008). 
+From September to November 2007, Northern Rock searched for a private sector takeover 
+(House of Commons 2008) . According to academics and th e financial press, Lloyds TSB 7 
+expressed interest in buying Northern Rock, but a deal did not emerge because the tripartite 
+authorities rejected the potential acquirer’s  request for a BoE loan to finance the deal  
+(Goldsmith-Pinkham and Yorulmazer 2009; Goodway 2012; Pfanner 2007). 
+On September 20, 2007, then –BoE Governor Mervyn King appeared before parliament and 
+discussed the BoE’s decision to provide emergency liquidity versus capital injections or a 
+government takeover of Northern Rock.  On a capital injection, King said that the European 
+Union’s (EU’s) Market Abuse Directive (MAD) would have prevented a government infusion 
+into Northern Rock  (see Key Design Decision No. 3, Legal Authority) . On a government 
+ 
+7 Lloyds merged with TSB in 1995 (Lloyds Banking Group plc n.d.) . In 2009, the EC ruled that Lloyds had to 
+divest part of its business, so Lloyds and TSB split into two banks once more in 2013 (Lloyds Banking Group 
+plc n.d.). 
+506
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 15 ---
+takeover, King said that regulati ons would have made a speedy transaction impossible 
+(Dougherty 2007). 
+The NAO later said that  Northern Rock would have needed GBP 4.5 billion–GBP 6 billion in 
+capital injections if the government  had not eventually taken over the bank in February 
+2008—though the bank did receive capital injections from the government after 
+nationalization (see Key Design Decision No. 2, Part of a Package) (NAO 2012). 
+2. Part of a Package: HM Treasury  guaranteed deposits and wholesale funding at 
+Northern Rock. HM Treasury later nationalized Northern Rock and created bad 
+and good banks into which the government injected equity. 
+Broad-Based Deposit Insurance 
+Established in 2000 by the Financial Services and Markets Act, the Financial Services 
+Compensation Scheme (FSCS) outlined depositor protection when a financial institution was 
+unable, or likely to be unable , to meet its liabilities to depositors.  Before October 2007, the 
+FSCS guaranteed GBP 2,000 plus 90% of the deposits between GBP 2,000 and GBP 35,000 
+(HM Treasury, FSA, BoE 2007; Shin 2009) . Thus, the maximum deposit insurance was GBP 
+31,700. On October 1, 2007, the FSA announced that maximum compensation under the FSCS 
+was increased to 100% of the loss incurred on deposits up to GBP 35,000 (HM Treasury, FSA, 
+BoE 2007). For more information, see Vergara (2022). 
+Northern Rock Guarantees 
+The September 14 announcement of the liquidity facilities led to a retail deposit run  of at 
+least GBP 4.6 billion on Northern Rock  in the following days  (BoE 2008c; Collinson 2007; 
+House of Commons Public Accounts Committee 2009) . The same day, shares fell in Alliance 
+& Leicester, Bradford and Bingley, HBOS , and Barclays, amidst fear of contagion (Collinson 
+2007; Panja 2007). 
+On September 17,  2007, the chancellor announced that the government would fully 
+guarantee Northern Rock’s existing  deposits (BoE 2007d; HMT 2007) . Days later, HM 
+Treasury confirmed the guarantee to cover existing and renewed unsecured wholesale 
+funding as well. On October 9, HM Treasury  extended the guarantee to cover new retail 
+deposits, those made after September 19, as well (BoE 2007d). On December 18, 2007, HM 
+Treasury extended the guarantee again to include:  
+all unsecured retail products, all uncollateralized and unsubordinated who lesale 
+deposits and wholesale borrowings, all payment obligations under any uncollateralized 
+derivatize transaction s, and all obligations of the Company to make payments on the 
+repurchase of mortgages under the document for the Granite securitization progr am. 
+(Northern Rock 2008a) 
+HM Treasury said the guarantee would last as long as the current period of financial 
+instability persisted and would have three months’ notice before termination (HMT 2009). 
+In exchange, Northern Rock paid a fee to HM Treasury (Northern Rock 2008a). 
+507
+Northern Rock Decker et al.
+
+--- Page 16 ---
+Northern Rock Restructuring, Capital Injection, and Resolution 
+HM Treasury  nationalized Northern Rock on February 22, 2008, whereby the Treasury 
+Solicitor took the bank into public ownership  (BoE 2008b; BoE 2008d; House of Commons 
+Public Accounts Committee 2009; Mor 2018) . As of February 29, 2008,  in addition to the 
+liquidity facilities in Figure 4, Northern Rock also had GBP 1.2 billion of outstanding reverse 
+repo agreements—GBP 0.1 billion of which were held with the BoE’s  Banking Department 
+and GBP 0.3 billion of which were held with the BoE’s Issue Department. On December 31, 
+2008, another GBP 0.1 billion were placed with the Banking Department (BoE 2008b). On 
+March 31, 2008, HM Treasury approved a restructuring plan with  four strategic priorities: 
+(a) repay the emergency liquidity facilities, (b) align the bank’s organization and operations 
+to reflect a new commercial strategy, ( c) build a stand-alone funding and capital position, 
+and (d) strengthen the risk and control environment (Northern Rock 2009). 
+Northern Rock continued to have higher -than-expected losses and was at risk of breaching 
+its capital requirement. In July 2008, Northern Rock asked HM Treasury for GBP 3 billion in 
+additional share ca pital, potentially GBP 4.5 billion to GBP 6 billion if losses increased. 
+Northern Rock enjoyed regulatory relief on its capital position while the government 
+considered options. HM Treasury decided against (a) staying the course with the original 
+restructuring plan and (b) immediate closure of the bank , because both options were poor 
+value for money. Thus, HM Treasury considered two more preferable options:  (c) selling 
+Northern Rock’s deposits to another bank and winding down the remaining mortgage assets 
+in a separate, publicly owned company and (d) splitting Northern Rock into good and bad 
+banks (NAO 2012). HM Treasury split Northern Rock into good and bad banks . The good 
+bank took all preexisting customer savings accounts and some preexisting mortgage 
+accounts. The bad bank became an asset management vehicle  with GBP 75 billion in total 
+assets, of which GBP 54 billion were mortgages and unsecured loans as of January 1, 2010 . 
+The asset management vehicle did not hold deposits or offer additional  mortgage lending 
+(Mor 2018). The government sought to sell assets to the private sector as quickly as possible 
+because holding assets to maturity risked default on the part of borrowers (NAO 2016). 
+In January 2010, the government injected GBP 1.4 billion of equity to capitalize the new good 
+bank after the split of Northern Rock.  By late 2011, losses on the GBP 1.4 billion capital 
+injection amounted to GBP 480 million (Mor 2018; NAO 2012). 
+For the funds recuperated  from Northern Rock’s resolution via sale of the good and bad 
+banks, see Key Design Decision No. 7, Source and Size of Funding. 
+ 
+508
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 17 ---
+3. Legal Authority: The Bank of England’s authority came from a Memorandum of 
+Understanding among Her Majesty’s Treasury, the BoE, and the Financial Services 
+Authority. 
+UK Legal Authority 
+Although it did not have explicit statutory authority, t he BoE enjoyed broad, discretionary 
+powers for emergency liquidity assistance to banks. Tripartite memoranda of understanding 
+since 1998 have been the guiding framework for emergency lending decisions (IMF 2011). 
+Under the Memorandum , the BoE is responsible for “undertaking, in exceptional 
+circumstances, official financial operations . . .  to limit the risk of problems in or affecting 
+particular institutions spreading to other parts of the financial system” (BoE 2006). 
+Paragraph 13 of the Memorandum covers the process for assessing the seriousness of a crisis 
+and considering appropriate measures. Paragraph 14 addresses the possibility of a need for 
+operations beyond the BoE’s published framework. The memorandum says that the 
+chancellor of the Exchequer has ultimate legal responsibility for authorizing support 
+operations durin g exceptional circumstances (BoE 2006) . The BoE’s press release 
+announcing the facilities said the chancellor authorized the BoE to provide the facilities and 
+refers to the Memorandum (BoE 2007c). 
+UK and European Union laws, including market abuse legislation, required the disclosure of 
+emergency liquidity granted to Northern Rock  (see Key Design Decision No. 6, 
+Communication and Disclosure ) (Reuters 2007a) . At the time, UK authorities had to 
+integrate (a) their own legislation, the Financial Services and Markets Act 2000, (b) the MAD 
+framework passed by the European Parliament in 2003 , and (c) the UK FSA rulebook for 
+2007. The GFC prompted UK authorities to rethink market abuse rules for the future 
+(Edmonds 2016). 
+EC Decision-Making 
+As a then-member of the EU, the UK had to  comply with the prohibition on monetary 
+financing contained in Article 123(1) of the Treaty on the Functioning of the European Union 
+(TFEU),8 which reads (emphasis added):  
+Overdraft facilities or any other type of credit facility with the European Central Bank 
+or with the central banks of the Member States (hereinafter referred to as “national 
+central banks”) in favour of Union institutions, bodies, offices or agencies, central 
+governments, regional, local or other public authorities, other bodies governed by public 
+law, or public undertakings of Member States  shall be prohibited, as shall the 
+ 
+8 The TFEU, itself based on the Treaty of Maastricht of 1992 , is one of the EU’s two foundational treaties (the 
+other being the Treaty on European Union). It sets out in detail the principles and objectives of the EU and the 
+scope and functional responsibilities of EU institutions (the Treaty on European Union in contrast defines the 
+EU’s purpose and lays out its institutions and form). As a technicality, before the Lisbon Treaty came into effect 
+in 2009, TFEU Article 123 was Article 101 of the Treaty Establishing the European Community, but the content 
+was unchanged when the Lisbon Treaty relocated the article . 
+509
+Northern Rock Decker et al.
+
+--- Page 18 ---
+purchase directly from them by the European Central Bank or national central banks of 
+debt instruments. (EU 2009, art. 123) 
+TFEU Article 123 prohibits the extension of liquidity to insolvent firms (at least without a 
+state guarantee), which is considered a public undertaking (in other words, one that should 
+be supported with state resources). The monetary financing prohibition —including its 
+application to emergency liquidity—is EU-level law, and thus applies even to those nations 
+that are Member States of the EU but not members of the Eurosystem. For more on the 
+application of the monetary financing prohibition to emergency liquidity assistance, see (V. 
+Arnold 2025). 
+The European Commission reviewed the aid and determined that the September 14 facilities 
+did not constitute State Aid under Article 87 (1) of the EC Treaty, because the September 14 
+facilities were initiated by the BoE before any of the other measures for Northern Rock. The 
+October 9 amended facilities and the other government support did qualify as State Aid since 
+the EC assessed that no market economy investor would have granted any of the measures. 
+Yet, the Commission decided that the measures were compatible with the Common Market 
+as rescue aid pursuant to Article 87 (3) (c) of the EC Treaty and raised no objections against 
+them (EC 2007). 
+4. Administration: The BoE issued the emergency liquidity to Northern Rock after 
+the bank requested aid , and HM Treasury later took over administration of the 
+liquidity facilities. 
+Administration of Liquidity Facilities 
+The BoE granted emergency liquidity to Northern Rock o n September 14, 2007 . This took 
+the form of a loan facility and a repurchase facility. In order to draw on the facilities, Northern 
+Rock had to post collateral, and the BoE needed to be assured that the FSA viewed Northern 
+Rock as complying with prudential requirements (EC 2007).  
+In exceptional circumstances, such as a time when the government is considering a support 
+operation, a standing committee comprising the chancellor of the Exchequer (the head of HM 
+Treasury and the government’s chief financial minister), the governor of the BoE, and the 
+chairman of the FSA meets. The BoE and FSA each assess the crisis and its possible financial 
+stability implications and provide separate assessments to the chancellor. In such an event, 
+the primary goal of the authorities is to reduce the risk of wider financial or economic 
+disruption while minimizing moral hazard and financial risk to taxpayers (BoE 2006). 
+Northern Rock again requested liquidity support from the BoE in October 2007 , at which 
+point the BoE amended the facilities  and received an indemnity from HM Treasury  (BoE 
+2008c). 
+The Court of Dire ctors of the BoE (the Court) was responsible for managing BoE affairs  
+excluding monetary policy. The Court did not have sole responsibility for decisions to grant 
+emergency liquidity, but the BoE governor had to consult the Court on such matters.  
+Specifically, the BoE had to consult with the Transactions Committee (TransCo), a three -
+510
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 19 ---
+member committee t o be consulted on transactions outside the BoE’s normal operations  
+(BoE 2009; Plenderleith 2012) . After the initial emergency liquidity granted to Northern 
+Rock, the BoE created a new structure for future emergency lending, inclusive of establishing 
+TransCo to facilitate consultation with the Court and to help with the need to make decisions 
+quickly (see Summary Evaluation) (Plenderleith 2012). 
+Created October 1, 2010, UK Asset Resolution Limited was a holding company under HM 
+Treasury that brought together Bradford and Bingley plc and NRAM for resolution. UKFI 
+managed HM Treasury’s shareholding in UKAR (UKAR 2017). 
+On August 28, 2008, HM Treasury took over administration of the liquidity facilities from the 
+BoE (HMT 2009; UKAR 2021). To this end, HM Treasury refinanced the loan provided by the 
+BoE to Northern Rock —the refinanced amount was GBP 518.5 million lower than the loan 
+provided in the previous  year. HM Treasury charged a floating rate to the company and a 
+fixed rate secured against certain high-quality mortgage assets in addition to all land and 
+buildings owned by Northern Rock. HM Treasury received interest on the loan from 
+Northern Rock (HMT 2009). 
+Recuperating Amounts Drawn on the Liquidity Facilities 
+HM Treasury approved the sale of NRAM’s assets . UKFI supervised th e sale, advised by  
+investment bank Moelis. UKAR led the sale, ad vised by Credit Suisse in addition to  law firm 
+Slaughter and May (NAO 2016). 
+5. Governance: Several government agencies wrote reports on the facilities and the 
+broader government support. 
+Per Sections 6 and 9 of the National Audit Act of 1983, the National Audit Office (NAO) wrote 
+multiple reports for the House of Commons on the nationalization of Northern Rock and 
+included information about the liquidity facilities : March 2009, May 2012 , and July 2016  
+(NAO 2009a; NAO 2012; NAO 2016). The EC wrote a State Aid report on the liquidity facilities 
+and the broader intervention (EC 2007). The Treasury Committee of the House of Commons, 
+a standing body, published a report on Northern Rock in January 2008  (House of Commons 
+2008; UK Parliament 2024). 
+The BoE Court of Governors also commissioned a report on the central bank’s emergency 
+lending during the GFC. In October 2012, Ian Plenderleith published this report  (the 
+Plenderleith report), which contained a review of the emergency liquidity granted to 
+Northern Rock (Plenderleith 2012). 
+511
+Northern Rock Decker et al.
+
+--- Page 20 ---
+6. Communication and Disclosure : The Treasury, BoE, and FSA announced the 
+September 14 facilities  in a press release the day after the BBC reported on the 
+emergency liquidity.  
+Characterizations and Run 
+At 8:30pm on September 13, 2008, the BBC reported that Northern Rock had requested and 
+received emergency support from the BoE (BBC 2007; House of Commons 2008). 
+On September 14, 2007, the BoE issued a joint statement with HM Treasury and the FSA. The 
+press release said the chancellor of the Exchequer authorized the BoE to provide liquidity 
+support to Northern Rock “against appropriate collateral and at an interest rate premium ” 
+(BoE 2007c). The release also said the FSA judged that Northern Rock “is solvent, exceeds its 
+regulatory capital requirement, and has a good quality loan book” (BoE 2007c). It described 
+the decision to provide the emergency liquidity as reflecting the difficulties of Northern Rock 
+in accessing longer-term funding and the mortgage securitizatio n market, both markets  on 
+which the bank relied. The press release said the BoE, in its role as lender of last resort, was 
+ready to make liquidity facilities available to other institutions facing short -term liquidity 
+issues (BoE 2007c) . While the press re lease did not specify a borrowing limit , Reuters 
+contemporaneously reported that then–Chancellor Darling said that the peak lending 
+amount would be limited by the amount of “good collateral” available in Northern Rock 
+(Reuters 2007c). 
+On September 18, 2007 , Northern Rock said that the “tide has turned” after the 
+announcement of the government’s deposit guarantee (Reuters 2007b). 
+On September 20, 2007, then–BoE Governor King appeared before parliament and defended 
+central bank actions since the onset of the GFC. Members of parliament probed the 
+discrepancy between (a) King’s criticism of aid granted by the European Central Bank (ECB) 
+and US Federal Reserve to cash –starved banks and (b) the BoE’s emergency lending to 
+Northern Rock. King said, “We have balanced the concerns about moral hazard  against the 
+concerns that arose from the beginning of this week about the strains on the banking system 
+more generally” (Dougherty 2007). Governor King also said that the UK’s insufficient deposit 
+insurance system was also to blame for the run on Northern Rock. Considering that Northern 
+Rock could not sell its mortgage -backed securities in tight credit conditions, King said that 
+the BoE had to intervene (Dougherty 2007). 
+The three agencies issued another joint statement on October 9, 2007, in which HM Treasury 
+made a statement about the guarantee arrangements and said they would be complemented 
+by additional facilities from the BoE. The press release said the arrangements were put in 
+place at the request of Northern Rock and would help the bank pursue a full range of options 
+(BoE 2007a). 
+Then–BoE Governor King delivered a speech on October 9 in which he discussed Northern 
+Rock and the broader financial system. King said the initial actions from authorities seemed 
+to worsen the situation at Northern Rock rather than stabilize it (BoE 2007b). Similarly, the 
+BoE’s 2007 Financial Stability Report said the announcement confirmed the extent of the 
+512
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 21 ---
+difficulties and led to a run on retail deposits (BoE 2007d) . King also said the issue at 
+Northern Rock was not inadequate capital but rather its vulnerability to reduced liquidity in 
+the markets for securitized mortgages (BoE 2007b). 
+Disclosure 
+King would have preferred to not disclose the emergency liquidity granted to Northern Rock 
+on September 14, but  UK and EU laws, including market abuse legislation, required 
+disclosure of such aid  (see Key Design Decision No. 3, Legal Authority)  (Dougherty 2007; 
+Reuters 2007a). 
+On October 11, 2007, t hen–Chancellor Alistair Darling told the House of Commons that the 
+BoE’s facility to Northern Rock had been “replaced” on October 9 (Bowers and Elliott 2007). 
+HM Treasury also made a stock market statement referring to the new arrangement: “In view 
+of the scale and nature of the new facilities , the Treasury has agreed to indemnify the Bank 
+of England should the Bank of England face a deficit having previously made all reasonable 
+endeavors to recover its claims on the company” (Bowers and Elliott 2007). 
+The BoE did not disclose certain terms such as the end date or interest rate for the liquidity 
+facilities, and the EC did not include the terms in its State Aid report 4/16/2025 9:24:00 PM. 
+The BoE included details of the facilities in its annual report and provided some detail on 
+amounts outstanding in its 2008 accounts (BoE 2008b; BoE 2008c). 
+The BoE did not specify amounts outstanding in its weekly balance sheet report. The lending 
+to Northern Rock fell under the “Other assets” category without any more granularity. The 
+chancellor said the BoE “does not provide details of any operations because it believes that 
+doing so would undermine its ability to provide such suppo rt” (House of Commons 2008) . 
+HM T reasury is required to give details of contingent liabilities in its Estimates and 
+Supplementary Estimates report but did not include information about the Northern Rock 
+support in its winter 2007 report published on Novemb er 15. When the Treasury Select 
+Committee asked HM Treasury why there was no reference to the contingent liability in the 
+winter report, then–Permanent Secretary to the Treasury Nicholas Macpherson said they 
+would “make a note of the contingent liability i n the Spring Supplementary Estimates” 
+(House of Commons 2008) . Later in the Spring Supplementary Estimates published in 
+February 2008, HM Treasury said that there was “no need to change the amounts of 
+resources or cash sought” to reflect the impact of Northern Rock (HMT 2008). 
+7. Source and Size of Funding: The facilities had no specified limit ; the September 
+facilities were constrained by the need to post collateral, but Facility B announced 
+in October was backed by all Northern Rock assets.  
+For the September 2007 liquidity facilities, then–Chancellor Darling said that the peak 
+lending amount would be limited by the amount of “good collateral” available in Northern 
+Rock (Reuters 2007c). 
+513
+Northern Rock Decker et al.
+
+--- Page 22 ---
+For the October  2007 liquidity facilities, the BoE did not set a  borrowing limit , but the 
+amended facilities were secured against all Northern Rock assets  (BoE 2008c; House of 
+Commons 2008). Borrowing would be less than the market value of the collateral due to the 
+haircut policy (EC 2007; House of Commons 2008). 
+By late October 2007, Northern Rock had drawn about GBP 13 billion–GBP 14 billion from 
+the September 14 facilit ies. After that point, the T reasury Select Committee said fi gures 
+relating to the bank’s borrowing from the government appear ed to include funds from the 
+amended facilities (House of Commons 2008). 
+Although the October liquidity facilities were requested and indemnified by HM Treasury, 
+the BoE administered the facilities (EC 2007). 
+Northern Rock’s annual reports reveal ed that the amount outstanding on the liquidity 
+facilities reached GBP 28.5 billion as of December 31, 200 7 (see Figure 5)  (Northern Rock 
+2008a; 2009; Plenderleith 2012) . In the course of the year , the government had recovered 
+GBP 18 billion so that the amount outstanding was GBP 8.9 billion  at the end of 2008  
+(Northern Rock 2009). 
+Figure 5: Northern Rock’s Outstanding Emergency Liquidity, GBP millions 
+Dec. 
+2007 
+Dec. 
+2008 
+Dec. 
+2011 
+Dec. 
+2012 
+March 
+2014 
+March 
+2015 
+March 
+2016 
+March 
+2017 
+March 
+2018 
+March 
+2019 
+28.5 8.9 19.7 18.1 14.9 13.7 7.5 4.6 2.7 1.5 
+Sources: Northern Rock 2008a;  Northern Rock  2009; UKAR 2013; UKAR 2014; UKAR 2015; UKAR 2016; UKAR 
+2017; UKAR 2019. 
+On August 28, 2008, HM Treasury took over administration of the liquidity facilities from the 
+BoE, at which point HM Treasury paid back the BoE (BoE 2009; HMT 2009; UKAR 2021). 
+8. Rates and Fees: The BoE charged a fixed rate set above the BoE’s official rate. 
+Public documents at the time did not disclose the interest rates for the emergency liquidity. 
+Both of the September 14 facilities—the loan and repo facilities —used the same rate set at 
+an unspecified  fixed spread over the BoE’s official rate, then 5.75%, and above the BoE’s 
+standing facility’s rate 4/16/2025 9:24:00 PM . The September 14 press release said the 
+lending would be at an interest rate premium (BoE 2007c).  
+The amended facilities beginning in October also charged a rate above the BoE’s official rate 
+4/16/2025 9:24:00 PM . The interest premium under this amended arrangement would 
+ultimately be paid to HM Treasury, as HM Treasury agreed to indemnify th e BoE against 
+losses. HM Treasury would cover any deficit existing once the BoE made all reasonable 
+efforts to recover its claims. According to the payment-in-kind (PIK) interest agreement, the 
+interest—on the other facilities and the PIK facility itself —was rolled up for five years and 
+subordinated as Tier 2 debt, a lower status than the “senior secured creditor” status applied 
+to the BoE’s broader support (EC 2007; House of Commons 2008). 
+514
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 23 ---
+According to later annual reports by UKAR, Northern Rock’s interest rate was the BoE base 
+rate plus 25 basis points (bps). On May 4, 2012, the interest rate increased  to the BoE base 
+rate plus 100 bps (UKAR 2014; UKAR 2017). 
+Additionally, Northern Rock paid a fee  for the extension of the liquidity facilities such that 
+Northern Rock did not have a commercial advantage (BoE 2007a). 
+9. Loan Duration: The liquidity facilities  had an undisclosed final repayment date 
+and were repayable on demand. 
+The emergency liquidity  granted on September 14, 2007, had a predetermined but not 
+disclosed repayment date. The facilities were also repayable on demand. The amended 
+facilities also had a n undisclosed  final repayment dat e (EC 2007) . In its March 2008 
+restructuring plan, Norther n Rock said that it expected to repay 25% of its emergency 
+liquidity by 2008 , 75% of its emergency liquidity by 2009, and 100% of its emergency 
+liquidity by 2010 —excluding open market repo arrangements  (Northern Rock 2008b) . 
+Meanwhile, in a 2012 report, th e NAO said that authorities had expected the emergency 
+liquidity to be repaid by the middle of 2010  and the guarantee to expire by the end of 2011 
+(NAO 2012). 
+In its 2007 annual report, Northern Rock listed its primary objectives as the repayment of 
+the BoE debt, the release of the guarantee arrangements from HM Treasury, and a successful 
+return to the private sector (Northern Rock 2008a). 
+In February 2008, HM Treasury nationalized Northern Rock and said it viewed that path as 
+the best chance to protect the GBP 51 billion in public loans and guarantees (House of 
+Commons Public Accounts Committee 2009) . This action required the Banking (Special 
+Provisions) Bill, as no existing legislation would allow the government to take over the bank 
+(NAO 2009a; Northern Rock 2009).  
+Net of liquidity deposits held at the BoE, 9 Northern Rock repaid GBP 18 billion of the loan 
+during 2008 leaving approximately GBP 8.9 billion outstanding at the end of the year. On a 
+gross basis, GBP 15.6 billion was still outstanding. This was a faster pace of repayment than 
+was planned (Northern Rock 2009).  
+After nationalizing the bank, the government split Northern Rock into good and bad banks, 
+Northern Rock and NRAM, respectively. HM Treasury then sold Northern Rock back to the 
+private sector while NRAM was responsible for the debt owed to the government 
+(Plenderleith 2012) . Over the subsequent years, HM Treasury  sold off many of Northern 
+Rock’s assets to recuperate the government-provided funding (M. Arnold 2017). On April 24, 
+2019, UKAR fully repaid the outstanding amount on the liquidity facilities (UKAR 2019). 
+ 
+9 The authors interpret this to mean Northern Rock’s reserves at the BoE resulting from the liquidity facility 
+(Northern Rock 2009). 
+515
+Northern Rock Decker et al.
+
+--- Page 24 ---
+10. Balance Sheet Protection : The initial facilities were secured by high -quality 
+collateral subject to haircuts. The amended facilities were secured by all the assets 
+of Northern Rock and an indemnity from the HM Treasury. 
+Draws on the September 14 loan facility were collateralized by unsecuritized residential 
+mortgage loans; the repo facility could use various securities . Northern Rock reported that 
+it had funded GBP 4 .6 billion in newly issued Granite mortgage -backed securities , and its 
+outstanding repo loan was GBP 3.6 billion (EC 2007; Northern Rock 2008a). The BoE applied 
+haircuts to the collateral in both facilities to protect itself against drops in market value (EC 
+2007; Northern Rock 2008a) . The BoE valued the collateral daily and used the same 
+methodology as in its normal monetary operations (EC 2007). The BoE governor described 
+the collateral as “name-specific” (House of Commons 2008).  
+On October 9, 2007, HM Treasury requested that the BoE make additional facilities available 
+to Northern Rock. HM Treasury indemnified the BoE against losses arising from the amended 
+arrangement and covering losses only after Octobe r 9 (EC 2007) . Then–BoE Governor 
+Mervyn King described collateral for the updated facilities as all the assets of Northern Rock, 
+“right down to the paper clips,” and noted that HM Treasury was the entity bearing the risk 
+because of the indemnity (House of Commons 2008). The interest premium would go to HM 
+Treasury and was rolled up for five years and subordinated as Tier 2 debt (EC 2007; House 
+of Commons 2008) . However, the chancellor of the Exchequer said the liability for the 
+interest rate premium was “a small amount of money” (House of Commons 2008). 
+Discussing the security of the BoE’s lending, the chancellor said the BoE was Northern Rock’s 
+senior secured creditor.  The chancellor said the September 14 facilities were secured by 
+assets including high-quality mortgages with significant haircuts and high-quality securities 
+with the highest credit rating (House of Commons 2008). 
+11. Impact on Monetary Policy Transmission: No information is available. 
+No information is available regarding monetary policy transmission connected to the 
+liquidity facilities. 
+12. Other Conditions: Multiple Northern Rock board members departed following the 
+emergency liquidity and nationalization. 
+Northern Rock’s then–Senior Independent Director Ian Gibson asked each board member to 
+agree to  resign conditionally, and all agreed. However, the board members did not 
+immediately resign because Northern Rock stakeholders wanted the current management 
+to guide the bank during the immediate crisis  (House of Commons 2008; Slater 2007) . 
+Northern Rock’s chairman announced his resignation on October 19, 2007. Four 
+nonexecutive directors retired on November 16, and three other directors stepped down 
+from the board but stayed at the company. On December 13 , 2007, Northern Rock’s chief 
+executive stepped down.  The chairman of the Risk Committee departed as well (House of 
+Commons 2008). 
+516
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 25 ---
+The UK Treasury Select Committee report  said the directors of Northern Rock were the 
+“principal authors” of the problems the bank face d since August 2007 and that it was right 
+for them to be replaced (House of Commons 2008). 
+Under the terms of the loans from the BoE, Northern Rock had to conserve cash and reduce 
+the number of mortgages it wrote. The bank needed to get BoE approval before entering into 
+corporate restructuring, making substantial changes to its business, or paying dividends. The 
+BoE monitored compliance with this stabilization plan and had increased access to 
+information (NAO 2009a). 
+While not directly tied to the emergency liquidity, the EC decided that the guarantee 
+arrangements from HM Treasury could remain in place for only six months unless HM 
+Treasury submitted a restructuring or liquidation plan by March 2008 (NAO 2009a).  
+In testimony to the TSC, Northern Rock employees said that the government support did not 
+come with any particular governance conditions but that the FSA and other tripartite 
+authorities were closely overseeing the bank’s activities. In mid-September, the chairman of 
+Northern Rock said the board had listened to the FSA and others and decided not to pay a 
+shareholder dividend that had been announced in July (House of Commons 2008). 
+On April 30, 2008, the BoE amended the loan facilities again to incorporate a new liquidity 
+management framework for managing funding and liquidity requirements (BoE 2008b; 
+Northern Rock 2009) . Per the framework, cash flows were used to pay wholesale funding  
+maturities, maintain adequate liquidity to meet outflows, and repay the emergency 
+facilities—in that order. Any permanent surplus liquidity had to go toward the repayment of 
+the government-provided facilities. New lending to customers had to come from new  retail 
+or wholesale funding (Northern Rock 2009).  
+517
+Northern Rock Decker et al.
+
+--- Page 26 ---
+References and Key Program Documents 
+Legal/Regulatory Guidance 
+(BoE 2006) Bank of England (BoE). 2006. “Memorandum of Understanding between HM 
+Treasury, the Bank of England and the Financial Services Authority.” 2006. 
+Memorandum of understanding establishing a co-operation framework among HM Treasury, 
+the BoE, and the FSA for financial stability. 
+https://elischolar.library.yale.edu/ypfs-documents/10673 
+(EC 2009a) European Commission (EC). 2009a. “State Aid – United Kingdom State Aid C 
+14/08 (Ex NN 1/08) – Restructuring Aid to Northern Rock.” July 1, 2009. 
+EC State Aid report confirming that HM Treasury did not perform its planned conversion of 
+debt to equity in Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents2/4350/ 
+(EU 2009) European Union (EU). 2009. Treaty on the Functioning of the European Union. 
+5/8/2008. 
+Treaty prohibiting monetary financing by Eurosystem national central banks. 
+https://elischolar.library.yale.edu/ypfs-documents2/3841 
+Media Stories 
+(AFP 2007) Agence France Presse (AFP). 2007. “British Bank Rocked by Panic 
+Withdrawals.” September 14, 2007. 
+News article on Northern Rock’s bank run in September 2007. 
+https://elischolar.library.yale.edu/ypfs-documents2/3886 
+(M. Arnold 2017) Arnold, Martin. 2017. “Northern Rock Investors Accuse Treasury of 
+Profiting from Bailout.” Financial Times, January 9, 2017. 
+News article on Northern Rock and objections from its former shareholders. 
+https://elischolar.library.yale.edu/ypfs-documents2/3911 
+(BBC 2007) British Broadcasting Company (BBC). 2007. “Northern Rock Gets Bank Bail 
+Out.” September 13, 2007. 
+News article reporting on the emergency support to Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents2/3910 
+(Bowers and Elliott 2007) Bowers, Simon, and Larry Elliott. 2007. “Treasury Underwrites 
+Ailing Bank’s Bailout: Northern Rock Borrowing Spirals to Pounds 12.9bn Bank of England 
+Restricted by Strict Lending Terms.” The Guardian, October 12, 2007. 
+News article containing public communications from the BoE and HM Treasury on the 
+amended liquidity facilities to Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents2/4348/ 
+  
+518
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 27 ---
+(Collinson 2007) Collinson, Patrick. 2007. “Government Guarantees Northern Rock 
+Deposits.” The Guardian, September 17, 2007. 
+News article covering Northern Rock’s deposit guarantee during the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents2/3900 
+(Dougherty 2007) Dougherty, Carter. 2007. “Official Defends Bank of England’s Response 
+to Crisis.” New York Times, September 21, 2007. 
+Article on BoE Governor King’s defence of central bank actions in response to the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents2/3919 
+(Ferreira-Marques 2007) Ferreira-Marques, Clara. 2007. “Barclays Again Taps Emergency 
+Facility.” Reuters, August 31, 2007. 
+News article reporting Barclays’ use of the BoE’s standing facility. 
+https://elischolar.library.yale.edu/ypfs-documents2/3885 
+(Goodway 2012) Goodway, Nick. 2012. “Bank Blocked Takeover of Northern Rock by 
+Lloyds.” Evening Standard, June 13, 2012. 
+Article describing how the BoE did not support Lloyds with a loan that would allow the latter 
+to acquire Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents2/4347 
+(Panja 2007) Panja, Tariq. 2007. “Bank of England Approves Emergency Funding for 
+Northern Rock.” Associated Press, September 14, 2007. 
+News article on the announcement of liquidity support to Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents2/3881 
+(Patrick 2007) Patrick, Margot. 2007. “Northern Rock’s Granite Funding At Heart of 
+Problems.” Dow Jones, September 14, 2007. 
+News article describing Northern Rock’s business model leading into the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents2/3918 
+(Pfanner 2007) Pfanner, Eric. 2007. “Future of British Mortgage Lender in Question after 
+Run on Deposits.” New York Times, September 16, 2007. 
+News article on potential options discussed in the rescue of Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents2/3899 
+(Reuters 2007a) Reuters. 2007a. “Factbox–How Britain Regulates Banks.” October 1, 2007. 
+News article on the UK government’s disclosure of emergency liquidity to Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents2/3894 
+(Reuters 2007b) Reuters. 2007b. “Troubles at Northern Rock.” October 15, 2007. 
+News article covering events at Northern Rock during 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/3941 
+  
+519
+Northern Rock Decker et al.
+
+--- Page 28 ---
+(Reuters 2007c) Reuters. 2007c. “Northern Rock Issues Profit Warning.” September 14, 
+2007. 
+News article covering Northern Rock’s profit warning and share price losses in September 
+2007. 
+https://elischolar.library.yale.edu/ypfs-documents2/3912 
+(Seager, Elliott, and Kollewe 2007) Seager, Ashley, Larry Elliott, and Julia Kollewe. 2007. 
+“Barclays Admits Borrowing Hundreds of Millions at Bank’s Emergency Rate.” The 
+Guardian, August 30, 2007. 
+News article reporting Barclay’s use of the BoE’s standing facility. 
+https://elischolar.library.yale.edu/ypfs-documents2/3884 
+(Slater 2007) Slater, Steve. 2007. “Northern Rock Bosses Say Crisis Could Not Be 
+Predicted.” Reuters, October 16, 2007. 
+News article on criticisms that Northern Rock’s management faced during autumn 2007. 
+https://elischolar.library.yale.edu/ypfs-documents2/3909 
+Press Releases/Announcements 
+(BoE 2007a) Bank of England (BoE). 2007a. “Northern Rock Plc Deposits.” Press release, 
+September 10, 2007. 
+Press release announcing changes to the deposit guarantees and liquidity facilities for 
+Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents2/3916 
+(BoE 2007b) Bank of England (BoE). 2007b. “Speech given by Mervyn King, Governor of the 
+Bank of England at the Northern Ireland Chamber of Commerce and Industry, Belfast.” 
+September 10, 2007. 
+Transcript of a speech by then–Governor of the BoE King, including some commentary on 
+Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents2/3928 
+(BoE 2007c) Bank of England (BoE). 2007c. “Liquidity Support Facility for Northern Rock 
+Plc.” Press release, September 14, 2007. 
+Press release announcing the liquidity support for Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents/4043 
+(HM Treasury 2011) HM Treasury. 2011. “Chancellor Announces Sale of Northern Rock 
+Plc.” November 17, 2011. 
+Press release by HM Treasury announcing the sale of Northern Rock to Virgin Money. 
+https://elischolar.library.yale.edu/ypfs-documents2/3890 
+  
+520
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 29 ---
+(Moody’s 2007) Moody’s Investors Service (Moody’s). 2007. “Moody’s Affirms Northern 
+Rock’s Prime-1 Short Term Rating; Places Aa3 Bond Rating on Review Direction Uncertain.” 
+September 17, 2007. 
+Press release by Moody’s on ratings action after the announcement of emergency liquidity 
+support to Roskilde. 
+https://elischolar.library.yale.edu/ypfs-documents2/3907 
+(UK Parliament 2024) UK Parliament. 2024. “Treasury Committee.” February 1, 2024. 
+Web page containing information on the standing Treasury Committee in the UK parliament. 
+https://elischolar.library.yale.edu/ypfs-documents2/3940 
+Reports/Assessments 
+(BoE 2007d) Bank of England (BoE). 2007d. Financial Stability Report 2007. 
+2007 BoE report on financial stability. 
+https://elischolar.library.yale.edu/ypfs-documents2/3896 
+(BoE 2008a) Bank of England (BoE). 2008a. Annual Report and Accounts 2008. 
+Annual report by the BoE for the period between March 1, 2007, to February 29, 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/3876 
+(BoE 2008b) Bank of England (BoE). 2008b. Bank of England Accounts 2008. 
+Financial accounts for the BoE for 2007-8. 
+https://elischolar.library.yale.edu/ypfs-documents2/3879 
+(BoE 2008c) Bank of England (BoE). 2008c. Bank of England Annual Report 2008. 
+BoE annual report covering 2007-8. 
+https://elischolar.library.yale.edu/ypfs-documents2/3880 
+(BoE 2008d) Bank of England (BoE). 2008d. Financial Stability Report October 2008. 
+The BoE’s report on financial stability for 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/3897 
+(BoE 2009) Bank of England (BoE). 2009. Annual Report 2009. Bank of England. 
+Bank of England’s annual report for 2008-2009. 
+https://elischolar.library.yale.edu/ypfs-documents2/3875 
+(EC 2007) European Commission (EC). 2007. “State Aid NN 70/2007 (Ex CP 269/07) – 
+United Kingdom Rescue Aid to Northern Rock.” May 12, 2007. 
+EC State Aid report covering the aid to Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents/9834/ 
+(EC 2009b) European Commission (EC). 2009b. “Commission Decision of 28.10.2009 on 
+the State Aid N° C 14/2008 (Ex NN 1/2008) Implemented by the United Kingdom for 
+Northern Rock.” October 28, 2009. 
+EC decision on the restructuring aid to Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents2/3891 
+521
+Northern Rock Decker et al.
+
+--- Page 30 ---
+(Edmonds 2016) Edmonds, Timothy. 2016. “Market Abuse Directive/Regulation.” House of 
+Commons Briefing Paper No. SN03271, January 4, 2016. 
+House of Commons report on market abuse rules in effect at the time when emergency 
+liquidity was granted to Northern Rock in autumn 2007. 
+https://elischolar.library.yale.edu/ypfs-documents2/3905 
+(Edmonds 2017) Edmonds, Timothy. 2017. “Purchase of Distressed Assets by Cerberus.” 
+UK Hose of Commons, February 2017. 
+House of Commons report on the sale of assets from Northern Rock to Cerberus. 
+https://elischolar.library.yale.edu/ypfs-documents/10057/ 
+(FSA 2007) Financial Services Authority (FSA). 2007. “Review of the Liquidity 
+Requirements for Banks and Building Societies.” December 2007. 
+FSA report on the shortcomings of existing liquidity requirements in the UK. 
+https://elischolar.library.yale.edu/ypfs-documents2/3927 
+(HM Treasury, FSA, BoE 2007) HM Treasury, Financial Services Authority, and Bank of 
+England (HM Treasury, FSA, BoE). 2007. “Banking Reform – Protecting Depositors: A 
+Discussion Paper.” October 2007. 
+Joint report by HM Treasury, FSA, and BoE on protecting deposits in the UK during autumn 
+2007. 
+https://elischolar.library.yale.edu/ypfs-documents2/3883 
+(HMT 2007) HM Treasury (HMT). 2007. “Statement by the Chancellor of the Exchequer on 
+Financial Markets.” September 17, 2007. 
+Statement by the head of the UK Treasury covering the deposit guarantee for Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents/12978 
+(HMT 2008) HM Treasury (HMT). 2008. Central Government Supply Estimates 2007-08: 
+Revised Spring Supplementary Estimates. 
+Revised statements from HM Treasury to the parliament for spring 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/3889 
+(HMT 2009) HM Treasury (HMT). 2009. Annual Reports and Accounts 2008-09. HM 
+Treasury. 
+Annual report by HM Treasury for 2008—2009. 
+https://elischolar.library.yale.edu/ypfs-documents/12114/ 
+(House of Commons 2008) House of Commons Treasury Committee (House of Commons). 
+2008. “The Run on the Rock.” UK Parliament, January 24, 
+2008.https://elischolar.library.yale.edu/ypfs-documents/14251/ 
+(House of Commons 2012) House of Commons. 2012. “The Creation and Sale of Northern 
+Rock Plc.” November 5, 2012. 
+Committee of Public Accounts report on the resolution of Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents2/3935 
+522
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 31 ---
+(House of Commons Public Accounts Committee 2009) House of Commons Public Accounts 
+Committee. 2009. “The Nationalisation of Northern Rock.” January 6, 2009. 
+House of Commons report on Northern Rock’s failure and nationalization. 
+https://elischolar.library.yale.edu/ypfs-documents/9833 
+(IMF 2011) International Monetary Fund (IMF). 2011. “United Kingdom: Crisis 
+Management and Bank Resolution Technical Note.” IMF Country Report No. 11/228, July 
+2011. 
+Report by the IMF on the UK financial system following the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents2/3942 
+(Mor 2018) Mor, Federico. 2018. “Bank Rescues of 2007-09: Outcomes and Cost.” Briefing 
+Paper No. 5748, October 8, 2018. 
+Retrospective evaluation by the House of Commons Library staff on UK bank rescues during 
+the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents2/2315/ 
+(NAO 2009a) National Audit Office (NAO). 2009a. “Summary: The Nationalisation of 
+Northern Rock.” March 18, 2009. 
+Report on the aid to and ultimate nationalization of Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents2/3931 
+(NAO 2009b) National Audit Office (NAO). 2009b. “The Nationalisation of Northern Rock.” 
+March 20, 2009. 
+NAO report on the takeover of Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents/9835/ 
+(NAO 2012) National Audit Office (NAO). 2012. “The Creation and Sale of Northern Rock 
+Plc.” May 18, 2012. 
+Report by the Comptroller and Auditor General on the sale of Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents/9863/ 
+(NAO 2016) National Audit Office (NAO). 2016. “The £13 Billion Sale of Former Northern 
+Rock Assets.” July 19, 2016. 
+Full report by the Comptroller and Auditor General on the sale of Northern Rock’s assets. 
+https://elischolar.library.yale.edu/ypfs-documents2/3934 
+(Northern Rock 2008a) Northern Rock. 2008a. Northern Rock Plc Annual Report and 
+Accounts 2007. 
+Annual report covering 2007. 
+https://elischolar.library.yale.edu/ypfs-documents2/3913 
+(Northern Rock 2008b) Northern Rock. 2008b. “Provisional Northern Rock Restructuring 
+Plan: Executive Summary.” March 31, 2008. 
+Summary of Northern Rock’s proposed restructuring plan. 
+https://elischolar.library.yale.edu/ypfs-documents2/3922 
+523
+Northern Rock Decker et al.
+
+--- Page 32 ---
+(Northern Rock 2009) Northern Rock. 2009. Northern Rock Plc Annual Report and 
+Accounts 2008. 
+Annual report covering 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/3914 
+(Plenderleith 2012) Plenderleith, Ian. 2012. “Review of the Bank of England’s Provision of 
+Emergency Liquidity Assistance in 2008-09.” Bank of England, October 2012. 
+Bank of England report covering the central bank’s interventions during the Global Financial 
+Crisis. 
+https://elischolar.library.yale.edu/ypfs-documents/8450 
+(UKAR 2012) UK Asset Resolution (UKAR). 2012. Annual Reports and Accounts 2011. UK 
+Asset Resolution. 
+Annual report by UKAR for 2011. 
+https://elischolar.library.yale.edu/ypfs-documents/9823/ 
+(UKAR 2013) UK Asset Resolution (UKAR). 2013. Annual Reports and Accounts 2012. UK 
+Asset Resolution. 
+Annual report by UKAR for 2012. 
+https://elischolar.library.yale.edu/ypfs-documents/9825/ 
+(UKAR 2014) UK Asset Resolution (UKAR). 2014. Annual Report and Accounts 2014. UK 
+Asset Resolution. 
+Annual report by UKAR for 2014. 
+https://elischolar.library.yale.edu/ypfs-documents/9847/ 
+(UKAR 2015) UK Asset Resolution (UKAR). 2015. Annual Reports and Accounts 2015. 
+Annual report by UKAR for 2015. 
+https://elischolar.library.yale.edu/ypfs-documents/9883/ 
+(UKAR 2016) UK Asset Resolution (UKAR). 2016. Annual Report and Accounts 2015 to 
+2016. UK Asset Resolution. 
+Annual report by UKAR for 2016. 
+https://elischolar.library.yale.edu/ypfs-documents2/3877 
+(UKAR 2017) UK Asset Resolution (UKAR). 2017. Annual Report & Accounts for the 12 
+Months to 31 March 2017. UK Asset Resolution. 
+Annual report for UKAR for 2017. 
+https://elischolar.library.yale.edu/ypfs-documents/9827/ 
+(UKAR 2019) UK Asset Resolution (UKAR). 2019. Annual Report & Accounts for the 12 
+Months to 31 March 2019. UK Asset Resolution. 
+Annual report for UKAR for 2019. 
+https://elischolar.library.yale.edu/ypfs-documents/9822 
+  
+524
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 33 ---
+(UKAR 2021) UK Asset Resolution (UKAR). 2021. Annual Report & Accounts for the 12 
+Months to 31 March 2021. UK Asset Resolution. 
+Annual report for UKAR for 2021. 
+https://elischolar.library.yale.edu/ypfs-documents2/3874 
+(UKFI 2009) UK Financial Investments Ltd (UKFI). 2009. “UKFI Strategy: Market 
+Investments and Annual Report and Accounts 2008/09,” 2009. 
+Annual report for UKFI for 2008-2009. 
+https://elischolar.library.yale.edu/ypfs-documents/1597/ 
+Key Academic Papers 
+(Acosta-Smith et al. 2019) Acosta-Smith, Jonathan, Guillaume Arnold, Kristoffer Milonas, 
+and Quynh-Anh Vo. 2019. “Capital and Liquidity Interaction in Banking.” Staff Working 
+Paper No. 840, September 2019. 
+BoE working paper on the interaction between bank capital and liquidity transformation. 
+https://elischolar.library.yale.edu/ypfs-documents2/4349/ 
+(V. Arnold 2025) Arnold, Vincient. 2025. “Emergency Liquidity Assistance and Monetary 
+Financing in the European Union: A Case Study in Fiscal Cooperation?” Yale Program on 
+Financial Stability, Systemic Risk Blog, January 30, 2025. 
+Policy note discussing the application of monetary financing regulations on emergency 
+liquidity assistance in Europe. 
+https://som.yale.edu/story/2025/emergency-liquidity-assistance-and-monetary-
+financing-european-union-case-study-fiscal 
+(Banerjee and Mio 2015) Banerjee, Ryan N., and Hitoshi Mio. 2015. “The Impact of Liquidity 
+Regulation on Banks.” Bank for International Settlements, January 8, 2015. 
+Study on the impact of liquidity regulation on banks with attention to UK requirements before 
+the run on Northern Rock. 
+https://elischolar.library.yale.edu/ypfs-documents2/3937 
+(Goldsmith-Pinkham and Yorulmazer 2009) Goldsmith-Pinkham, Paul, and Tanju 
+Yorulmazer. 2009. “Liquidity, Bank Runs, and Bailouts: Spillover Effects During the 
+Northern Rock Episode.” Journal of Financial Services Research 37, December 15, 2009. 
+Article on the spillover effects of Northern Rock’s bank run and bail out announcement. 
+https://elischolar.library.yale.edu/ypfs-documents2/3904 
+(Kelly et al. 2025) Kelly, Steven, Vincient Arnold, Greg Feldberg, and Andrew Metrick. 2025. 
+“Survey of Ad Hoc Emergency Liquidity Programs." Journal of Financial Crises 7, no. 1.  
+Survey of YPFS case studies examining the provision of ad hoc emergency liquidity.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/3/ 
+  
+525
+Northern Rock Decker et al.
+
+--- Page 34 ---
+(Shin 2009) Shin, Hyun Song. 2009. “Reflections on Northern Rock: The Bank Run That 
+Heralded the Global Financial Crisis.” Journal of Economic Perspectives 23, no. 1, Winter 
+2009. 
+Academic paper on Northern Rock’s impact on the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents/1367/ 
+(Vergara 2022) Vergara, Ezekiel. 2022. “United Kingdom: Financial Services Compensation 
+Scheme.” Journal of Financial Crises 4, no. 2. 
+YPFS case study on account guarantees in the UK during the GFC. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/29 
+(Wiggins et al. 2022) Wiggins, Rosalind Z., Sean Fulmer, Greg Feldberg, and Andrew 
+Metrick. 2022. “Broad-Based Emergency Liquidity Programs.” Journal of Financial Crises 4, 
+no. 2. 
+Survey of YPFS case studies examining broad-based emergency liquidity programs. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/3/ 
+Other 
+(Lloyds Banking Group plc n.d.) Lloyds Banking Group plc. n.d. “The History of Lloyds 
+Bank.” 
+Webpage containing the history of Lloyds Banking Group as a potential acquirer of Northern 
+Rock. 
+https://elischolar.library.yale.edu/ypfs-documents2/3936 
+ 
+Copyright 2025 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, pl ease contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+ 
+526
+Journal of Financial Crises Vol. 7 Iss. 1

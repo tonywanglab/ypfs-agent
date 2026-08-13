@@ -1,0 +1,57 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## Andreas Lehnert 
+
+By Mercedes Cardona 
+
+_Andreas Lehnert was chief of the Federal Reserve’s Household and Real Estate Finance Section at the onset of the Global Financial Crisis of 2007–09 (GFC) and played a key role in implementing the Fed’s research and policy agenda on financial stability. He developed and helped run the Fed’s first regulatory bank stress tests in 2009, and in 2010 played a role in launching the Office of Financial Stability Policy and Research, which became the Division of Financial Stability. This “Lessons Learned” is based on an interview with Mr. Lehnert._ 
+
+## **Basic economic research has great value in a crisis.** 
+
+The financial ecosystem is complicated, and it pays to know how it will react to macroeconomic conditions in a crisis, says Lehnert. “Now we call that macroprudential stress testing and there’s a whole discipline around it, but boy, it sure would have been valuable to have had that 12–15 years ago,” he said. 
+
+Understanding the drivers of decisions among households and businesses becomes crucial at times when the macroeconomic factors are under stress, says Lehnert. But at the time of the GFC, there was little research on factors such as the stigma of foreclosure or how households would react to having negative equity in their homes. “When the economy gets pushed away from its steady state, all the normal statistical relationships just go out the window,” said Lehnert. He elaborated further: 
+
+There was a lot of confusion because all agencies were ultimately relying either on the same set of not very granular data that were available from commercial vendors, or the banks’ own reports of their exposures. There just wasn’t, at least in the early days, an agreed-upon set of just basic facts. People would say, “This large bank holds zero subprime exposure.” Really? Zero subprime? You sort of dig into it and maybe (there’s) mortgages to borrowers with credit scores in the 500s but they have a relationship with these borrowers, they really believe in them, and they don’t think that they’re really subprime, you know? They just happen to have missed several payments on lots of different loans over the last few years. That is the kind of thing that can delay coordination and policymaking. 
+
+Lehnert developed the first bank stress tests for the Fed in 2009. He described the experience as “touching a moving conveyor belt and getting dragged into the machine.” The initial stress-test attempts found the banks struggling with their own data and models, sometimes not even able to project the losses they were already seeing on residential mortgages using their existing data and models. Lehnert recalled, 
+
+One of the things that I worked on there was ultimately developing a very strippeddown and simple model that projected defaults over a two-year planning horizon based on just a handful of key risk indicators. Just fairly simply, having that kind of 
+
+
+independent benchmark developed by the supervisor was incredibly useful. It really proved to be a very, very useful way to understand risks across banks. That was, in some sense, a key innovation that we built on into the CCAR [Comprehensive Capital and Analysis Review] Program. 
+
+## **Strong and resilient banks are the core of the financial system. When their stability is threatened, stabilizing them must be a priority.** 
+
+The housing bubble was evident in real time as early as 2005, when the Fed’s June 2005 Open Market Committee discussed it. But at the time, the feeling was that house prices would “rust, not bust,” noted Lehnert. There wasn’t a clear appreciation of the risk posed by the residential mortgage market. “Subprime mortgages were seen as a potentially serious problem for the borrower, but not a systemic risk,” he said. 
+
+The mortgage servicers were not set up to handle the volume of foreclosures and defaults that overwhelmed them in the crisis, having spent the previous years driving down costs and increasing volume. Using today’s macro tools, regulators would have put measures in place in 2003–04 to avoid the mortgage bust, but by 2006–07, it was too late for those macroprudential tools. Lehnert noted, 
+
+The 2007–2009 episode obviously is just incredibly salient. First and most important, we learned the importance of having strong and resilient banks at the center of the financial system. When you had banks and quasi-banks like Lehman that were fragile, that was a problem. The system was totally unable to cope with the credit losses from the house price decline. That’s ultimately why Congress had to pass TARP, why we needed to do the first stress test, the SCAP. I think that lesson appears so far in 2020 to have paid off. 
+
+## **The financial regulators should share information regularly before and during a crisis: don’t get caught scrambling to understand a crisis.** 
+
+The regulatory system works fine when times are normal. In normal operations interactions between agencies are channeled in very clear ways. Lehnert noted agencies are a bit like countries: “They have their own distinct culture, in certain cases their own distinct language [and] conventions.” But, he stressed, in times of crisis, when bold, quick responses are necessary, agencies need to work together closely. 
+
+Lehnert shared that it had been important in the fall of 2008 to learn quickly who his key contacts were at the Federal Deposit Insurance Corporation and Treasury Department. He benefited from having worked with Sandra Braunstein and her team at the Fed Division of Consumer and Community Affairs (DCCA) starting in 2007. They were the staff dealing with borrowers and frontline staff dealing with the foreclosure wave. 
+
+I think it was one of these emergency situations where it was just fantastic to have the channels of communication open, to have those relationships in place. Then of course, when we transitioned into thinking more about mortgage modifications, this was a group of people that had a lot of experience with the issues around helping 
+
+
+troubled borrowers. The Feds, predatory lending/subprime mortgages, all of that stuff was run out of DCCA. You would probably have to go talk to Alan Greenspan to find out exactly what people were thinking, but that group was just absolutely firstrate when it came to actually managing the fallout of the crisis. 
+
+Financial Stability Oversight Council (FSOC) was one legacy of the GFC that targeted that compartmentalization that surfaced as a weakness during the crisis. Lehnert described it as a clearinghouse of information and a discussion forum where agencies can share their observations. Lehnert sees great value in its structure: 
+
+It’s not an incredibly visible or high-profile part of the FSOC’s mission, but if you wind back the clock 12 years, if the Lehnert of 2006–2007 had been plugged into an FSOC process, that guy would have known his counterparts at all the other relevant agencies. They would have hashed through all the data limitations that they were dealing with, and we would have overcome a lot of the initial friction. 
+
+I can say during the current pandemic the FSOC’s key staff group, which is called the Systemic Risk Committee, has been meeting every week since the current crisis began. It is a really important forum for information sharing and real-time analysis. It doesn’t quite have the same headline-grabbing appeal, but from my perspective as a foot soldier in the last crisis, it would have been great to have had something like this in place back then. 
+
+Lehnert joined Nellie Liang in launching the Fed’s Office of Financial Stability Policy and Research, another vehicle to share intelligence. The office later became the Division of Financial Stability. He was named director when Liang retired from the position in 2016. He reflected on the office: 
+
+That was, I think, the guiding spirit behind several innovations, most importantly my division at the Fed. The idea was, look, let’s build on the strengths that were demonstrated during the financial crisis so that we don’t have to, on the fly, reinvent the processes, to organize data analysis, people, to address financial stability issues. 
+
+Nellie Liang and I left our division in November of 2010 to form a little group that was supposed to act as a kind of clearinghouse and coordinating function. We’ve evolved over the years, but we continue to essentially be, in part, a kind of cultural exchange program. We bring in people from all over the Federal Reserve, from all different parts of the Federal Reserve, to work jointly on a kind of financial stability assessment project. And of course, now that we’ve moved into more crisis management mode, obviously for that as well. I think that has been a key difference. 
+
+Dated: December 2021 
+
+YPFS Lessons Learned No: 2019-43

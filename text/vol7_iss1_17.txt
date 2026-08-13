@@ -1,0 +1,720 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 7 Issue 1 
+2025 
+Sweden: Carnegie Investment Bank AB Emergency Liquidity Sweden: Carnegie Investment Bank AB Emergency Liquidity 
+Program, 2008 Program, 2008 
+Sophia Alden 
+YPFS, Yale School of Management 
+Jack French 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Finance and Financial Management Commons, Law and Economics Commons, Policy Design, Analysis, 
+and Evaluation Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Alden, Sophia and French, Jack (2025) "Sweden: Carnegie Investment Bank AB Emergency Liquidity 
+Program, 2008," Journal of Financial Crises: Vol. 7 : Iss. 1, 414-431. 
+DOI: https://doi.org/10.17132/2693-3179.1627 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/17 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol7/iss1/17
+
+--- Page 3 ---
+Sweden: Carnegie Investment Bank AB  
+Emergency Liquidity Program, 20081 
+Sophie Alden2 and Jack French3 
+Yale Program on Financial Stability Case Study 
+April 15, 2025 
+Abstract 
+In October 2008, Carnegie Investment Bank AB (Carnegie) had trouble obtaining financing 
+amid concerns about its financial health . However, Sweden’s central bank, the Sveriges 
+Riksbank (Riksbank), and the Swedish Financial Supervisory Authority (FSA) still viewed 
+Carnegie as solvent . Between October 27 and 28, t he Riksbank  lent Carnegie 2.4 billion 
+Swedish kron or (SEK) . As collateral for the loan , Carnegie and its holding company, D. 
+Carnegie & Co. AB (D. Carnegie), provided all shares and subsidiaries in Carnegie as well as 
+all shares in a sister subsidiary under D. Carnegie , Max Matthiessen Holding AB  (Max 
+Matthiessen). On November 10, 2008, the FSA revoked Carnegie’s bank and securities 
+licenses, and the Swedish National Debt Office (NDO) took over the loan from the Riksbank, 
+alerted the holding company that it had taken over the collateral, and became the sole 
+shareholder of Carnegie and Max Matthiessen. Later that day, the FSA reversed its decision 
+and allowed Carnegie to retain its licenses and remain operational. In separate transactions, 
+the NDO sold Carnegie and Max Matthiessen to joint ventures of private equity groups Altor 
+Equity Partners and Bure Equity  AB in February 2009 for a combined SEK 2.3 billion . D. 
+Carnegie objected to the way the NDO took over and valued the shares in Carnegie and Max 
+Matthiessen but ultimately lost its appeal through the Swedish administrative proces s in 
+October 2011. The Swedish state’s support to Carnegie to ensure financial stability  in 2008 
+would be paid back with an estimated surplus generated for the taxpayer in the range of SEK 
+150 million to SEK 400 million. 
+Keywords: emergency liquidity assistance, Sweden, Riksbank 
+  
+ 
+1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering ad hoc emergency liquidity provision. A survey of all the cases in this series (Kelly et al. 
+2025) and the individual cases underly ing it are available from the Journal of Financial Crises  at 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/. Wiggins et al. (2022) surveys broad-
+based emergency liquidity programs. 
+2 Research Associate, YPFS, Yale School of Management.  
+3 Research Associate , YPFS, Yale School of Management . The author s wish to thank Stefan Ingves, former 
+governor of the Riksbank, for his helpful comments on this paper.  
+414
+
+--- Page 4 ---
+Overview 
+This case study  describes the emergency 
+liquidity assistance the  Sveriges Riksbank  
+(Riksbank) provided to Carnegie Investment 
+Bank AB (Carnegie) during the Global 
+Financial Crisis (GFC). 
+Carnegie was one of the biggest investment 
+banks in the Nordic region  as of September 
+30, 2008, with assets under management of 
+about 122 billion Swedish kronor (SEK; USD 
+17.6 billion) 4 and deposits of about SEK 2.5 
+billion (EC 2008) . However, the  company 
+was still recovering from one of Sweden’s 
+biggest financial  scandals the year prior in 
+which three of its traders had overstated 
+their profits, leading to high -level company 
+and government resignations and a warning 
+of revoking bank and securities market 
+licenses from Sweden’s Financial 
+Supervisory Authority  (FSA) (EC 2008; 
+Ibison 2007; NYT 2007).  
+On October 24, 2008 , Carnegie’s  holding 
+company, D. Carnegie & Co. AB (D. Carnegie), 
+published an interim  third-quarter report 
+that showed a concentrated exposure of SEK 
+1 billion to a single borrower (Carnegie 2008; 
+EC 2008) . Carnegie’s credit exposure  (a 
+credit line provided to a Swedish financier) 
+was backed by collateral composed mainly of 
+shares of the public company  Hexagon, 
+rendering Carnegie dependent on the 
+movement in Hexagon’s stock prices.  When 
+the share price fell b y 35 % from August to 
+September 2008, Carnegie became 
+noncompliant with the regulation that 
+limited large exposures to individual 
+institutions. Carnegie was required to report 
+this breach to the FSA , which led to a 
+supervisory investigation , amid other 
+ongoing cases over governance issues  
+(Riksbank 2020) . This investigation came 
+ 
+4 According to FRED, USD 1 = SEK 6.95 on September 30, 2008.  
+Key Terms 
+Purpose: to “reduce the risk of a serious disruption 
+to the financial system” and help what was seen as 
+a solvent bank with liquidity issues partially 
+created by the financial crisis (Riksbank 2008a, 1) 
+Announcement 
+Date 
+October 27, 2008  
+Operational Date October 27, 2008  
+Termination Date Collateral transferred to the 
+NDO on November 10, 2008  
+Legal Authority Chapter 6, Section 8 of the 
+Sveriges Riksbank Act  
+Administrator Riksbank, later by the 
+National Debt Office  
+Peak Authorization SEK 5 billion  
+Peak Outstanding SEK 2.4 billion  
+Collateral Carnegie and Max 
+Matthiessen were pledged as 
+collateral along with bonds, 
+claims against subsidiaries of 
+Carnegie, and claims relating 
+to repo transactions  
+Haircut and 
+Recourse 
+No information 
+Interest Rate and 
+Fees 
+Riksbank repo rate plus 150 
+basis points  
+Term No set end date  
+Part of a Package Debt guarantees, deposit 
+guarantees 
+Outcomes Collateral was transferred to 
+the NDO on November 10, 
+2008; Carnegie and Max 
+Matthiessen were sold in 
+February 2011 to private 
+equity groups; a surplus was 
+generated for the Swedish 
+taxpayer 
+ 
+ 
+(continued) 
+415
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 5 ---
+with a higher risk that the FSA would revoke 
+Carnegie’s licenses following the previous 
+warning in 2007 (EC 2008; Riksbank 2 020). 
+The uncertainty around the situation, 
+combined with the growing financial crisis 
+and credit market issues , limited Carnegie’s 
+ability to access liquidity through interbank 
+funding markets (Carnegie 2009). 
+Authorities at the FSA, the National Debt Office (NDO ),5 and the Riksbank made clear that a 
+payment default by Carnegie could have led to a serious disruption of the greater Swedish 
+financial system. The Riksbank therefore stepped in on October 27 with a liquidity line of up 
+to SEK 1 billion, which Carnegie used in its entirety that day. The Riksbank increased the line 
+to SEK 5 billion the following day, and Carnegie drew an additional SEK 1.4 billion.  In 
+exchange for the loan, Carnegie and its holding company pledged as collateral all shares in 
+Carnegie, various bonds, claims of Carnegie against its subsidiaries, claims related to 
+repurchase agreement (repo) operations, as well as all shares in a nother subsidiary under 
+D. Carnegie, Max Matthiessen Holding AB (Max Matthiessen) (EC 2008).  
+On October 29, Sweden passed the Support to Credit Institutions Act  (Support Act), which 
+made the NDO the authority for helping struggling Swedish banks (EC 2008; Riksbank 2020). 
+As described in Figure 1, o n November 10, in a rapid chain of events, the FSA withdrew 
+Carnegie’s banking and securities licenses; the NDO paid back the loan to the Riksbank; the 
+NDO acquired the collateral and became the sole shareholder of Carnegie and Max 
+Matthiessen; and the FSA reversed its decision , allowing Carnegie to retain its licenses and 
+keep operating (EC 2008).  
+The NDO decided to sell Carnegie separately from Max Matthiessen  in February 2009 for a 
+combined SEK 2.3 billion  (Reuters 2008; Riksgälden n.d.) . In two different transactions, 
+venture capital company Altor Equity Partners  and investment company  Bure Equity  AB 
+together purchased Carnegie and Max Matthiessen from the NDO (Carnegie 2009) . The 
+Riksbank netted SEK 5 million in interest from its part of the operation (Riksbank 2020). 
+The litigation between the NDO and D. Carnegie surrounding the takeover of Carnegie and 
+Max Matthiessen ended on November 30, 2011, with D. Carnegie giving up its demand on the 
+NDO of just over SEK 8 billion. According to the NDO, this closure to the litigation means the 
+state will be paid in its entirety for the support given to Carnegie, with a surplus generated 
+for the taxpayer in the range of SEK 150 million to SEK 400 million (Riksgälden n.d.).  
+  
+ 
+5 The National Debt Office is the Swedish state’s arm for financial administration and is responsible for the 
+government’s cash and debt management (EC 2008). 
+Notable Features The NDO took over the bank 
+after the regulator revoked 
+its license; the regulator then 
+reinstated the license. The 
+Riksbank required holding 
+company D. Carnegie to post 
+all shares and subsidiaries in 
+Carnegie and Max 
+Matthiessen to back the loan 
+416
+Carnegie Investment Bank Alden and French
+
+--- Page 6 ---
+Figure 1: Timeline of Intervention in Carnegie Investment Bank AB Liquidity Crisis 
+Date Event 
+Sept. 28, 2007 Sweden’s FSA fines holding company D. Carnegie, asks board to step down after 
+trading scandal, states they could have pulled Carnegie's license. 
+Oct. 24, 2008 D. Carnegie publishes interim report for Q3 2008, which contains information on 
+impairment of SEK 1 billion coming from an individual credit commitment.  
+Oct. 25, 2008 Carnegie applies to the Riksbank for liquidity support. 
+Oct. 26, 2008 Riksbank decides to grant emergency liquidity assistance to Carnegie. 
+Oct. 27, 2008 Riksbank announces a credit line of up to SEK 1 billion to Carnegie; Carnegie 
+immediately draws the entire SEK 1 billion. 
+Oct. 28, 2008 Riksbank increases the credit line to SEK 5 billion; Carnegie draws SEK 1.4 billion 
+(for total assistance of SEK 2.4 billion). 
+Nov. 10, 2008 10:00 am: Sweden's NDO takes over loan to Carnegie maximum of SEK 5 billion 
+maintained. 
+2:30 pm: FSA pulls Carnegie's permits for conducting banking and securities 
+operations. 
+3:00 pm: NDO takes over Carnegie and Max Matthiessen (now considered former 
+subsidiaries of D. Carnegie). 
+Nov. 14, 2008 New board of directors appointed at Carnegie NDO initiates divestment process. 
+Feb. 11, 2009 Altor Equity Partners and Bure Equity AB sign agreements to acquire all shares in 
+Carnegie and Max Matthiessen. 
+Source: Authors’ analysis. 
+Summary Evaluation 
+The takeover of Carnegie was controversial at the time . The former owners of D. Carnegie 
+believed the takeover was done improperly and sued (The Local SE 2010) . Some at D. 
+Carnegie expressed concerns about how the NDO exercised the takeover without the loa n 
+being due and questioned if the valuation of the shares was performed correctly according 
+to the agreement in which Carnegie and Max Matthiessen were pledged as collateral (Reuters 
+2008). However, Carnegie lost its appeal when the Appeals Board determined that the NDO 
+was right to make a valuation change for  the shares in  Carnegie without permission  (as at 
+the time of the takeover, no valuation of the pledged shares in Carnegie and Max Matthiessen 
+existed) in order  to conduct banking and securities operations (Reuters 2008; Riksgälden 
+n.d.). The NDO stated that the purpose of taking over Carnegie was to protect the stability of 
+the financial system and to preserve the value of the Swedish state’s emergency liquidity 
+support to Carnegie (Riksgälden n.d.).  
+In terms of the valuation  of Carnegie and Max Matthiessen  performed at the time of the 
+takeover, D. Carnegie believed the valuation of the shares should have been done as if the 
+417
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 7 ---
+bank still had its license at going concern value, whereas the NDO believed it was fair to value 
+the shares without a license  at liquidation value. By revoking the license and reinstating it 
+10 minutes later, there was little opportunity for anyone to challenge the valuation proposed 
+by the NDO, particularly given the difficulty of valuing a bank with no banking license. The 
+Appeals Board ultimately found that the shares should  have been  valued as if Carnegie’s 
+licenses had been revoked, and therefore not as a going concern (Wenne 2014).  
+In a 2011 report, the IMF said  that within the context of Carnegie, that it may have been 
+desirable to further specify the rules of the  Support Act, particularly the principle around 
+preventing a company’s shareholders from benefiting from State Aid. Under the Support Act, 
+the valuation of the shares must be done as if the company had not received State Aid. The 
+IMF suggested that one possibility was to consider the institution’s situation at the moment 
+immediately before the takeover and then determine what the financial situation would have 
+been without any direct or indirect State Aid, emergency liquidity, or public guarantees (IMF 
+2011). 
+The European Commission  (EC) report found th at the  State Aid was compatible with the 
+common market under Article 87(3) (b) of the EC Treaty (EC 2008). The EC noted the speed 
+of the intervention and the fact that the owners contributed to the costs of restructuring (The 
+Local SE 2010). D. Carnegie was able to reach an agreement with the NDO by accepting the 
+verdict of the district court and giving up demands of more than SEK 8 billion (Riksgälden 
+n.d.). 
+  
+418
+Carnegie Investment Bank Alden and French
+
+--- Page 8 ---
+Sources: Bloomberg: World Bank Deposit Insurance Dataset; World Bank Global Financial Development Database.  
+  
+419
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 9 ---
+Key Design Decisions 
+1. Purpose: The Riksbank granted a l iquidity line  to Carnegie to safeguard the 
+stability of Sweden’s financial system. 
+In 2007, Carnegie’s securities division was one of the largest participants in equity trading 
+within the Nordic region , which includes  Denmark, Finland, Norway, and Sweden.  By 
+September 30, 2008, as the Global Financial Crisis worsened,  Carnegie had around SEK 2.5 
+billion of deposits from more than 4,000  depositors in Sweden (EC 2008). Authorities at 
+Sweden’s Riksbank believed Carnegie’s disorderly failure could result in damage to the 
+broader Swedish financial system ; They were, in addition,  focused on insulating Sweden 
+from the turmoil of the GFC broadly and the crises in the Baltics and Iceland specifically.  
+The poor interbank lending conditions in fall 2008, combined with a third-quarter earnings 
+report showing a n exceptionally large credit exposure of  SEK 1 billion  in a single 
+engagement, created a need for liquidity at Carnegie that the market was  not meeting (EC 
+2008). Carnegie’s credit exposure  consisted of a credit line to a Swedish financier that  was 
+collateralized largely by shares of a public company, Hexagon, whose value had dropped by 
+35% between August and September. Figure 2 shows the share price of the sto ck used as 
+collateral. Carnegie became noncompliant with the regulation limiting the size of individual 
+exposures as a result of the decline in value. Carnegie also had other ongoing cases with the 
+FSA at the time regarding governance and control concerns (Riksbank 2020). 
+Figure 2: Carnegie Credit Exposure, Posted Collateral: Shares of Hexagon (in SEK) 
+ 
+Source: Yahoo Finance, ticker = HEXA-B.ST. 
+The Riksbank granted Carnegie a loan of SEK 1 billion on October 27 to help the bank with 
+liquidity issues and  to “reduce the risk of a serious disruption to the financial system” 
+420
+Carnegie Investment Bank Alden and French
+
+--- Page 10 ---
+(Riksbank 2008a, 1 ; Riksbank 2008e ). The decision to provide liquidity was made on 
+October 26 and announced on October 27 (Riksbank 2008a; Riksbank 2008c). There were 
+also concern s that a suspension of payments by Carnegie could damage confidence in 
+Sweden’s payment system (Riksbank 2008c). The Riksbank increased the size of the loan on 
+October 28, at Carnegie’s request, to a maximum of SEK 5 billion , of which the bank drew 
+SEK 1.4 billion, bringing the total amount drawn to SEK 2.4 billion (Riksbank 2008b). 
+At the time, the Riksbank and the  FSA viewed Carnegie as a solvent institution (Riksbank 
+2008a; Riksbank 2008b). When announcing the increase in the size of the credit line to SEK 
+5 billion on October 28, the Riksbank noted that the decision was based on an assessment 
+“that the bank is su ffering temporary liquidity problems, but that its solvency is not 
+threatened” (Riksbank 2008b, 1).  
+On November 10, 2008, the board of directors of  Carnegie’s parent company,  D. Carnegie, 
+presented a solution to the NDO, the Riksbank, and the FSA to issue new shares of SEK 1.2 
+billion and to appoint new principal owners for Carnegie. That same day, the FSA decided to 
+revoke Carnegie’s banking and securities licenses (Carnegie 2009; Wenne 2014). The FSA’s 
+announcement about the revocation noted that the plan had elements of uncertainty that 
+made it difficult to determine if it could succeed (FSA 2008). The government also considered 
+injecting capital by purchasing preference shares in D. Carnegi e but decided there was too 
+much uncertainty associated with that path as well . Additionally, the NDO considered 
+allowing Carnegie to go through liquidation proceeding s while the state guaranteed 
+“protectable” creditors against liquidation-related losses but decided against it on the basis 
+that a prolonged liquidation process would have led to a rapid decline in Carnegie’s value 
+(Riksgälden 2008b, 2). Such a decline would potentially have borne significant costs to the 
+Swedish state owing to the associated guarantees and violate the NDO’s mandate under the 
+Support Act to minimize the state’s costs when supporting credit institutions  (Riksgälden 
+2008b).   
+Riksbank governor Stefan Ingves said in a speech on November 13, 2008 , that once the FSA 
+withdrew the banking license, the Riksbank had to withdraw liquidity assistance because 
+Carnegie no longer qualified for that type of credit. The NDO subsequently repaid the 
+Riksbank for Carnegie’s loan and assumed ownership of the bank.  Ingves applauded 
+Sweden’s highest legislative body for giving the NDO the power to take over banks that were 
+ineligible for Riksbank assistance , had to default on its obligations, and were a threat to 
+financial stability (Ingves 2008). 
+2. Part of a Package: Carnegie participated in the Swedish government’s debt 
+guarantee program and was eligible for its deposit guarantee scheme. 
+Carnegie was eligible for Sweden’s programs for deposit guarantees and debt guarantees 
+(Engbith and Kiernan 2020, 917) . Carnegie issued bonds worth SEK 935 million under the 
+government's debt guarantee program (Carnegie 2009).  
+421
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 11 ---
+3. Legal Authority: The Riksbank granted the loan under Chapter 6, Section 8 of the 
+Sveriges Riksbank Act. 
+The Riksbank granted the loan under the auth ority of Chapter 6, Section 8 of the Sveriges 
+Riksbank Act. The provision states that, in exceptional circumstances, the Riksbank can grant 
+credit to banks and companies supervised by the FSA  on special terms with the purpose of 
+supporting liquidity (Riksbank 2008a) . The Riksbank Act does not define exceptional 
+circumstances or specify a solvency requirement for aid . H owever, the press release 
+specified that the Riksbank and the FSA viewed Carnegie as solvent  (Riksbank 2008a; 
+Riksbank 2010). 
+The Swedish NDO’s loan replacing the Riksbank’s loan  was based on the Support to Credit 
+Institutions Act , which was passed on October 29, 2008 , to support financial institutions  
+undergoing reconstruction and prevent a major disruption to the financial system (EC 2008; 
+Riksbank 2020).  The legislation made the NDO, rather than the Riksbank, responsible for 
+providing a ssistance to banks in distress (EC 2008) . The NDO’s normal roles include d 
+managing central government debt,  government loans and guarantees, bank support, and 
+deposit insurance (Government Offices of Sweden n.d.). The EC approved the Support Act in 
+a State Aid decision published on December 3, 2008 (EC 2008). 
+Sweden’s FSA has authority to revoke an institution ’s licenses under Chapter 15, Section 1, 
+Paragraph 2 of the Banking and Finance Business Act (Ministry of Finance of Sweden 2004). 
+The EC concluded that the aid from the Riksbank and the NDO was State Aid and that it was 
+compatible with the common market pu rsuant to Article 87(3) (b) of the EC Treaty (EC 
+2008). 
+4. Administration: The Riksbank granted the initial aid to Carnegie , while a second 
+loan replacing the Riksbank’s aid came from the National Debt Office. 
+Carnegie applied for special liquidity assistance from the Riksbank for the initial loan of SEK 
+1 billion and again for a further line of SEK 4 billion, bringing the total ceiling to SEK 5 billion 
+(Riksbank 2008c ; Riksbank 2008e ). On November 10, 2008, the  NDO signed a loan 
+agreement with Carnegie totaling SEK 2.4 billion, which equaled the amount Carnegie had 
+borrowed from the Riksbank plus interest  and costs associated with the loan agreement . 
+This was done so that the NDO loan to Carnegie could directly repay the Riksbank and shift 
+the credit exposure to the NDO. The NDO could provide a maximum liquidity of SEK 5 billion, 
+and the collateral and interest rate stayed the same  as established under the Riksbank 
+liquidity aid  (EC 2008). The Riksbank said it would be more appropriate for the NDO to 
+handle the assistance to Carnegie given the new legislation around bank support ( see Key 
+Design Decision No. 3, Legal Authority) (Riksbank 2008d) . The same day , after the 
+withdrawal of Carnegie’s bank and securities licenses, the NDO took ownership of the 
+collateral and became the sole shareholder of Carnegie and Max Matthiessen (EC 2008). 
+According to Riksbank governor Stefan Ingves, there was significant coord ination between 
+the Riksbank, the FSA, and the NDO to keep Carnegie stable during the process of liquidity 
+support, state ownership, and privatization. Ingves said the three authorities followed an 
+422
+Carnegie Investment Bank Alden and French
+
+--- Page 12 ---
+“almost minute by minute” plan to ensure Carnegie's stability and compliance with all legal 
+requirements. Ingves also said that the Riksbank coordinated closely with Carnegie, 
+particularly with respect to raising its loan limit from SEK 1 billion to SEK 5 billion, which he 
+said required “many hours of intensive work” within the Riksbank and between the Riksbank 
+and Carnegie.  
+The Executive Board of the Riksbank approved the amount, price, and maturity of the loan, 
+while assigning two board members to jointly decide the detailed terms  (Riksbank 2008c; 
+Riksbank 2008e). 
+5. Governance: The Financial Supervisory Authority revoked Carnegie’s licenses and 
+the emergency liquidity assistance was subject to EC State Aid rules. 
+The Riksbank provided the initial loans, and the NDO took over following new legislation 
+that made the NDO, instead of the Riksbank, responsible for banks in distress (EC 2008). A 
+2022 Riksbank press release described the NDO’s current functions as managing banks and 
+credit institutions with the goal of maintaining fi nancial stability and protecting the 
+taxpayers. The FSA handles supervision of financial institutions and analyzes and 
+counteracts risks in different areas of the financial system (Riksbank 2022a).  
+In 2007, before the issues  that precipitated government involvement in 2008, the FSA fined 
+D. Carnegie for failure to supervise its traders and asked that the entirety of the board of 
+directors step down (NYT 2007) . In November 2008, the FSA made the assessment that 
+Carnegie should not have a permit on the basis of the ongoing issues around internal 
+governance and the failure to come up with a plan that the FSA believed would succeed. 
+Carnegie offered a plan  involving a new share issue , but the F SA said it had elements of 
+uncertainty that made it difficult to assess  (FSA 2008). 
+The FSA revoked Carnegie’s licenses on November 10, 2008, and the bank was taken over 
+that day by the NDO per the loan agreement between Carnegie and the NDO in which the 
+bank was pos ted as collateral . Afterward, the FSA reversed its decision to withdraw 
+Carnegie’s licenses and noted the ownership change and sufficient guarantees addressing 
+governance issues as rationale for why the bank could be allowed to continue operating (EC 
+2008). 
+Sweden informed the EC about the aid to Carnegie on November 26, 2008. The EC wrote a 
+report on the aid and found it compatible with the common market under Article 87(3) (b) 
+of the EC Treaty (EC 2008). 
+6. Communication and Disclosure: The initial loan  to Carnegie, the increase in the  
+loan amount, and the transfer of the loan to the Swedish National Debt Office were 
+all announced in press releases. 
+The Riksbank announced in press releases the initial SEK 1 billion loan to Carnegie on 
+October 27, 2008 , as well as the increase of the lin e up to SEK 5 billion the following day 
+(Riksbank 2008a; Riksbank 2008b). The decision to provide liquidity was made on October 
+26 and announced on October 27 (Riksbank 2008c) . The Riksbank said the loan was 
+423
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 13 ---
+collateralized and without a preset end date. The press release also briefly described 
+Carnegie’s operations and the liquidity problems the bank faced as well as the Riksbank’s 
+authority for granting such a loan.  The release included a quote from the Riksbank’s 
+governor, who said the liquidity a ssistance was put in place to “reduce the risk of a serious 
+disruption to the financial system” (Riksbank 2008a, 1). 
+The Riksbank’s 2008 annual report disclosed the size of the loans to Carnegie as well as the 
+profit earned from the operation and the ultimate transition of the loan to the NDO (Riksbank 
+2009, 30–31, 43). The Riksbank is required to report information including its balance sheet 
+and profit and loss in its annual report (Riksbank 2010). 
+The press releases noted that both the Riksbank and the FSA viewed Carnegie as solvent 
+(Riksbank 2008b) . The Riksbank also released documents containing info rmation on the 
+maturity and interest rate for the loans (Riksbank 2008c; Riksbank 2008e). 
+The announcement that the NDO was taking ov er the loan came out the same day the 
+decision to withdraw licenses was made and cited reasons for why it was appropriate for the 
+Debt Office to be responsible for the loan  given the new bank support legislation (Riksbank 
+2008d). News sources covered Carnegie’s objections to the takeover (Reuters 2008). 
+7. Source and Size of Funding : The initial credit line to Carnegie was SEK 1 billion , 
+which the Riksbank raised to SEK 5 billion the following day, with a peak usage of 
+SEK 2.4 billion. 
+The Riksbank’s initial October 27 liquidity line was for up to SEK 1 billion, which Carnegie 
+used that day. The Riksbank increased the line  the next day to SEK 5 billion. Carnegie drew 
+an additional SEK 1.4 billion on October 28 for a total of SEK 2.4 billion in liquidity assistance 
+outstanding. The details of the collateral provided by Carnegie to the Swedish authorities 
+was not disclosed but included all shares in Max Matthiessen and Carnegie Bank, repo 
+transactions, all claims on  Carnegie subsidiaries, a nd various bonds . It was noted that 
+Swedish authorities took the uncertainty of the FSA’s investigation into account when 
+moderately valuing the collateral (EC 2008). 
+When the NDO took over the liquidity line , it also granted a maximum of SEK 5 billion 
+available and loaned out  the amount Carnegie drew  from the Riksbank plus the interest 
+Carnegie owed to the Riksbank and costs incurred in providing the loan . That payment 
+transferred Carnegie’s debt from the Riksbank to the NDO (EC 2008). 
+8. Rates and Fees : The Riksbank charged the repo rate, now called the Riksbank’s 
+policy rate, plus 150 basis points for the loans made to Carnegie Investment Bank 
+AB. 
+The rate for both the October 27, 2008 loan and the October 28 extension was set to the  
+Riksbank repo rate plus 150 b asis points  (bps) (Riksbank 2008c ; Riksbank 2008e ). This 
+would have been 5.75% total  at the time given the Swedish repo rate of 4.25% on October 
+27 and 28 (BIS 2023). As of June 8, 2022, the repo rate  is now called the Riksbank’s policy 
+rate (Riksbank 2022b). 
+424
+Carnegie Investment Bank Alden and French
+
+--- Page 14 ---
+The EC noted that the 150 bps premium exceeded its guidance of 50 bps, but agreed with the 
+Swedish authorities that the larger premium reflected the risks involved and was sufficiently 
+high such that Carnegie would not draw on the loan more than was absolutely necessary (EC 
+2008).  
+9. Loan Duration: The loans to Carnegie did not have a set maturity. 
+Both of the loans were given a term of “until further notice” (Riksbank 2008c, 1; Riksbank 
+2008e). Carnegie repaid t he Riksbank within a couple of weeks when the NDO took over 
+Carnegie on November 10, 2008 (EC 2008). On the same day, the F SA decided to withdraw 
+Carnegie’s permits for banking and securities operations (Carnegie 2009) . Immediately 
+afterwards, the NDO decided to take ownership of both Carnegie and Max Matthiessen which 
+had been pledged as collateral (EC 2008). 
+Carnegie’s permits were reinstate d later that day, and the FSA issued a warning instead 
+(Carnegie 2009). The NDO appointed a new board of directors to Carnegie on November 14, 
+2008, at which point the office began the process of divesting the bank (Carnegie 2009; 
+Riksgälden 2008a) . The ND O announced the sale of Carnegie to investment firms Altor  
+Equity Partners and Bure Equity  AB on February 11, 2009 (Carnegie 2009). The sale went 
+through on May 19, 2009, for a total of SEK 1.7 billion in cash and earn-out payments (FactSet 
+2009b). Altor Equity Partners and Bure Equity AB also acquired Max Matthiessen for SEK 
+500 million in cash, less any potential dividends owed to NDO (FactSet 2009a). 
+The Riksbank netted SEK 5 million in interest from its part of the operation (Riksbank 2020). 
+10. Balance Sheet Protection : Carnegie Investment Bank AB and Max Matthiessen 
+Holding Company were pledged as collateral. 
+Ownership of D. Carnegie & Co.’s two subsidiaries, Carnegie Inv estment Bank AB and Max 
+Matthiessen Holding AB, a holding company for Swedish insurance company Max 
+Matthiessen AB, were pledged as collateral for the loan from the Riksbank . There was also 
+collateral in the form of bonds, claims against Carnegie’s subsidiaries (Carnegie Bank A/S 
+and Banque Carnegie Luxembourg S.A.), and claims related to repo transactions. The total of 
+the collateral was valued in the billions of Swedish kron or, but the precise amount was not 
+disclosed in the EC report. The Riksbank had the ability to call the loan at any time (EC 2008). 
+In the NDO arrangement, there was a clause that would allow the NDO to take over the 
+collateral if the bank license was revoked (EC 2008). Carnegie objected to the NDO’s seizing 
+of the co llateral without a loan actually being due and without a valuation of the pledged 
+shares. The NDO decided that it would be best to sell the two companies separately , given 
+the differences in the potential buyers (Reuters 2008). 
+425
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 15 ---
+11. Impact on Monetary Policy Transmission: The Riksbank withdrew surplus 
+liquidity in part through its fine -tuning operations and its Riksbank Certificate 
+issues. 
+The Riksbank’s aid to Carnegie also created excess liquidity in the interbank market . To 
+address this, the Riksbank withdrew liquidity through its daily fine -tuning operations and 
+by issuing Riksbank Certificates with a one-week maturity (Riksbank 2009). 
+12. Other Conditions: While our research did not find information  about conditions 
+attached to the loan specifically, Carnegie had been warned the previous year 
+about issues relating to governance. 
+While there was no info rmation regarding other conditions attached to the loan from the 
+Riksbank, there w ere serious governa nce issues with Carnegie in 2007 that yielded a 
+warning from the FSA. The European Commission report state d that it was clear that any 
+new irregularities found would come with a large risk of the F SA revoking Carnegie’s bank 
+and securities market licenses (EC 2008). 
+  
+426
+Carnegie Investment Bank Alden and French
+
+--- Page 16 ---
+References and Key Program Documents 
+Legal/Regulatory Guidance 
+(Ministry of Finance of Sweden 2004) Ministry of Finance of Sweden. 2004. The Banking 
+and Finance Business Act, SFS No. 2004:297. May 19, 2004. 
+Statute regulating the banking and finance industries in Sweden. 
+https://elischolar.library.yale.edu/ypfs-documents2/1701 
+(Riksbank 2010) Sveriges Riksbank (Riksbank). 2010. The Sveriges Riksbank Act, Law No. 
+1988:1385. June 1, 2010. 
+Swedish government act describing the authorities of the Sveriges Riksbank. 
+https://elischolar.library.yale.edu/ypfs-documents2/1702 
+Media Stories 
+(Ibison 2007) Ibison, David. 2007. “Carnegie Scandal Claims Highest Profile Victim as 
+Predators Circle.” Financial Times, October 1, 2007. 
+News article describing the impact of the 2007 trading scandal at Carnegie. 
+https://elischolar.library.yale.edu/ypfs-documents2/3791/ 
+(The Local SE 2010) The Local SE. 2010. “EU Supports Carnegie Takeover by Government,” 
+May 14, 2010. 
+News article describing the EU’s approval of Sweden’s restructuring of Carnegie. 
+https://elischolar.library.yale.edu/ypfs-documents2/1707 
+(NYT 2007) New York Times (NYT). 2007. “D. Carnegie Fined and Top Executive Resigns,” 
+September 28, 2007. 
+News article reporting Sweden’s Financial Supervisory Authority’s fine and warning to D. 
+Carnegie & Co. 
+https://elischolar.library.yale.edu/ypfs-documents2/1703 
+(Reuters 2008) Reuters. 2008. “Carnegie Queries Legality of Sweden’s Takeover Move,” 
+November 21, 2008. 
+News article reporting Carnegie’s questioning of how the Swedish National Debt Office seized 
+Carnegie and Max Matthiessen. 
+https://elischolar.library.yale.edu/ypfs-documents2/1705 
+(The Local SE 2010) The Local SE. 2010. “EU Supports Carnegie Takeover by Government,” 
+May 14, 2010. 
+News article describing the EU’s approval of Sweden’s restructuring of Carnegie. 
+https://elischolar.library.yale.edu/ypfs-documents2/1707 
+  
+427
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 17 ---
+Press Releases/Announcements 
+(Riksbank 2008a) Sveriges Riksbank (Riksbank). 2008a. “Liquidity Assistance to Carnegie 
+Investment Bank.” Press release, October 27, 2008. 
+Press release announcing the initial SEK 1 billion liquidity assistance to Carnegie Investment 
+Bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/4167/ 
+(Riksbank 2008b) Sveriges Riksbank (Riksbank). 2008b. “Extended Liquidity Assistance to 
+Carnegie Investment Bank.” Press release, October 28, 2008. 
+Press release announcing the increased liquidity assistance from the Riksbank to Carnegie 
+Investment Bank AB. 
+https://elischolar.library.yale.edu/ypfs-documents2/1710 
+(Riksbank 2008c) Sveriges Riksbank (Riksbank). 2008c. “Special Liquidity Assistance to 
+Carnegie Investment Bank AB.” Press release, October 28, 2008. 
+Press release announcing the decision to increase the size of liquidity assistance from the 
+Riksbank to Carnegie Investment Bank AB. 
+https://elischolar.library.yale.edu/ypfs-documents2/1709 
+(Riksbank 2008d) Sveriges Riksbank (Riksbank). 2008d. “Swedish National Debt Office 
+Takes Over Loan to Carnegie.” Press release, November 10, 2008. 
+Press release announcing the SEK 5 billion loan to Carnegie from the Swedish National Debt 
+Office. 
+https://elischolar.library.yale.edu/ypfs-documents2/1738 
+(Riksbank 2022a) Sveriges Riksbank (Riksbank). 2022a. “The Riksbank, 
+Finansinspektionen and Swedish National Debt Office Is Closely Following Events.” Press 
+release, February 25, 2022. 
+Press release describing financial stability in Sweden surrounding geopolitical events of 
+February 2022. 
+https://elischolar.library.yale.edu/ypfs-documents2/1729 
+(Riksgälden 2008a) Riksgälden. 2008a. “New Boards of Directors in Carnegie Investment 
+Bank and Max Matthiessen.” Press release, November 14, 2008. 
+Press release announcing the new board of directors in Carnegie Investment Bank and Max 
+Matthiessen Holding. 
+https://elischolar.library.yale.edu/ypfs-documents2/1713 
+Reports/Assessments 
+(BIS 2023) Bank for International Settlements (BIS). 2023. “Sweden Daily Policy Rate,” 
+2023. 
+BIS data containing daily policy rates for Sweden. 
+https://elischolar.library.yale.edu/ypfs-documents2/1714 
+428
+Carnegie Investment Bank Alden and French
+
+--- Page 18 ---
+(Carnegie 2008) Carnegie. 2008. “Interim Report Q3 2008,” October 24, 2008. 
+Carnegie’s interim report for the third quarter of 2008 disclosing credit loss expectations. 
+https://elischolar.library.yale.edu/ypfs-documents2/1718 
+(Carnegie 2009) Carnegie Investment Bank AB (Carnegie). 2009. Annual Report 2008. 
+Carnegie’s 2008 annual report discussing Carnegie’s participation in the Swedish debt 
+guarantee program. 
+https://elischolar.library.yale.edu/ypfs-documents2/1730 
+(EC 2008) European Commission (EC). 2008. “State Aid NN 64/2008 - Sweden: Rescue Aid 
+to Carnegie Bank,” December 15, 2008. 
+Commission report covering State Aid from Sweden to Carnegie Bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/1731 
+(FactSet 2009a) FactSet. 2009a. “Altor Equity Partners AB, Bure Equity AB Acquires Max 
+Matthiessen AB from The Swedish National Debt Office,” May 19, 2009. 
+Report describing the sale of Max Matthiessen from the National Debt Office. 
+https://elischolar.library.yale.edu/ypfs-documents2/1737 
+(FactSet 2009b) FactSet. 2009b. “Carnegie Investment Bank AB /Private Group/ Acquires 
+Carnegie Investment Bank AB from The Swedish National Debt Office,” May 19, 2009. 
+Report describing the closing of the sale of Carnegie Investment Bank from the National Debt 
+Office. 
+https://elischolar.library.yale.edu/ypfs-documents2/1732 
+(FSA 2008) Finansinspektionen (FSA). 2008. “Revocation of Carnegie Investment Bank AB’s 
+Permit,” November 10, 2008. 
+Report from Sweden’s Financial Supervisory Authority on the revoking of Carnegie Investment 
+Bank’s license to conduct banking operations (machine translated from Swedish). 
+https://elischolar.library.yale.edu/ypfs-documents2/1733 
+(Government Offices of Sweden n.d.) Government Offices of Sweden. n.d. “Swedish National 
+Debt Office (Riksgälden).” Accessed June 7, 2023. 
+Webpage describing the functions of Sweden’s National Debt Office. 
+https://elischolar.library.yale.edu/ypfs-documents2/1734 
+(IMF 2011) International Monetary Fund (IMF). 2011. “Sweden: Financial Sector 
+Assessment Program Update.” IMF Country Report No. 11/287, September 2011. 
+IMF report proposing revisions to takeover valuations in Sweden. 
+https://elischolar.library.yale.edu/ypfs-documents2/3793/ 
+(Ingves 2008) Ingves, Stefan. 2008. “Ingves: Monetary Policy and Financial Stability,” 
+November 13, 2008. 
+Speech from the Riksbank governor describing the impacts of the GFC and the government’s 
+interventions. 
+https://elischolar.library.yale.edu/ypfs-documents2/3792/ 
+429
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 19 ---
+(Riksbank 2008e) Sveriges Riksbank (Riksbank). 2008e. “Memorandum: Liquidity 
+Assistance on Special Terms,” October 27, 2008. 
+Document proposing the SEK 1 billion liquidity assistance from the Riksbank to Carnegie 
+Investment Bank AB and to Max Matthiessen Holding AB. 
+https://elischolar.library.yale.edu/ypfs-documents2/1708 
+(Riksbank 2009) Sveriges Riksbank (Riksbank). 2009. Annual Report 2008. 
+Swedish central bank’s annual report for 2008 describing its interventions in response to the 
+Carnegie crisis. 
+https://elischolar.library.yale.edu/ypfs-documents2/538 
+(Riksbank 2020) Sveriges Riksbank (Riksbank). 2020. “The Riksbank’s Measures during 
+the Global Financial Crisis 2007–2010,” February 2020. 
+Report describing the Riksbank’s actions during the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents2/1735 
+(Riksbank 2022b) Sveriges Riksbank (Riksbank). 2022b. “Riksbank Rates,” June 8, 2022. 
+Webpage explaining the Riksbank’s different interest rates. 
+https://elischolar.library.yale.edu/ypfs-documents2/1739/ 
+(Riksgälden 2008b) Riksgälden. 2008b. “The Course of Events in the Management of 
+Carnegie,” November 14, 2008. 
+Report describing the chronology of the Carnegie intervention (in Swedish). 
+https://elischolar.library.yale.edu/ypfs-documents2/3794/ 
+(Riksgälden n.d.) Riksgälden. n.d. “Support for Individual Institutions – Carnegie.” 
+Report describing the ruling in the case between Carnegie and the NDO (in Swedish). 
+https://elischolar.library.yale.edu/ypfs-documents2/3795/ 
+Key Academic Papers 
+(Engbith and Kiernan 2020) Engbith, Lily, and Kevin Kiernan. 2020. “Sweden’s Guarantee 
+Scheme (Sweden GFC).” Journal of Financial Crises 2, no. 3. 
+YPFS case study describing Carnegie’s participation in Sweden’s debt guarantee program. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/47/ 
+(Kelly et al. 2025) Kelly, Steven, Vincient Arnold, Greg Feldberg, and Andrew Metrick. 2025. 
+“Survey of Ad Hoc Emergency Liquidity Programs." Journal of Financial Crises 7, no. 1.  
+Survey of YPFS case studies examining the provision of ad hoc emergency liquidity.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/3/ 
+(Wenne 2014) Wenne, Daniel. 2014. “When Should a Bank Enter Resolution and through 
+Which Mechanism Could an Insufficiently Solvent Bank Be Returned to Balance Sheet 
+Stability.” Uppsala University, spring term 2014.  
+Thesis covering in part the takeover of Carnegie Investment Bank by the Swedish government . 
+https://elischolar.library.yale.edu/ypfs-documents2/3796/ 
+430
+Carnegie Investment Bank Alden and French
+
+--- Page 20 ---
+(Wiggins et al. 2022) Wiggins, Rosalind Z., Sean Fulmer, Greg Feldberg, and Andrew Metrick. 
+2022. “Broad-Based Emergency Liquidity Programs.” Journal of Financial Crises 4, no. 2.  
+Survey of YPFS case studies examining broad-based emergency liquidity programs.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/3/ 
+Copyright 2025 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+ 
+431
+Journal of Financial Crises Vol. 7 Iss. 1

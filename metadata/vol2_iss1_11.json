@@ -1,0 +1,35 @@
+{
+  "doc_id": "vol2_iss1_11",
+  "document_type": "lesson_learned",
+  "title": "Lessons Learned: David Wessel",
+  "authors": [
+    "Ben Henken",
+    "Rosalind Z. Wiggins"
+  ],
+  "abstract": null,
+  "keywords": [],
+  "publication_date": "2020-04-17T19:17:20Z",
+  "doi": null,
+  "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/11",
+  "volume": 2,
+  "issue": 1,
+  "document_number": 11,
+  "bepress_id": null,
+  "raw": {
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/11",
+    "parent_key": "16706763",
+    "context_key": "17374451",
+    "title": "Lessons Learned: David Wessel",
+    "publication_date": "2020-04-17T19:17:20Z",
+    "download_format": "pdf",
+    "download_link": "https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1059&context=journal-of-financial-crises",
+    "document_type": [
+      "lessons_learned",
+      "Lessons Learned"
+    ],
+    "author": [
+      "Ben Henken",
+      "Rosalind Z. Wiggins"
+    ]
+  }
+}

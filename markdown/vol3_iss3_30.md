@@ -1,0 +1,937 @@
+## Thailand Capital Support Facilities 1998[1] 
+
+## _Adam Kulam_[2] 
+
+Yale Program on Financial Stability Case Study March 17, 2020; Revised: November 12, 2021 
+
+## **Abstract** 
+
+After the floatation of the baht on July 2, 1997, the Thai economy endured a financial crisis from massive currency devaluation, exchange rate losses, and non-performing loans (NPLs). In response, the Thai government employed two types of restructuring programs: (1) the alleviation of NPLs and distressed assets, (2) the correction of financial institution insolvency and capital inadequacy. To help recapitalize private institutions with public funds, the government introduced tier-1 and tier-2 capital support facilities. The tier-1 facility aimed to attract private capital, and the tier-2 facility aimed to stimulate lending and corporate debt restructuring. Capital injections took the form of voluntary securities exchanges: the Ministry of Finance (MOF) exchanged government bonds for preferred shares (tier-1 capital) or subordinated debt (tier-2 capital). MOF was authorized to issue up to B300 billion in government bonds to pay for the tier-1 (B200 billion) and tier-2 (B100 billion) facilities. To cover the government’s financing costs, authorities set interest and dividend rates on financial institutions’ securities above the coupon rates of government bonds. As conditions for receiving the government’s investment in the tier-1 facility, the government reserved the right to replace participating banks’ management and required the banks to first write off bad debts, potentially imposing steep losses on existing shareholders. With uptake around 24.6% of the available total, the program was largely unused. The Thai government amended the program in 1999 and counted the preferredshare portion of hybrid securities as part of match-able tier-1 capital. 
+
+**Keywords** : Capital injection, August 14 Package, Thailand Financial Sector, Capital Support Facilities, Asian Financial Crisis 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering the responses to the Asian Financial Crisis that pertain to broad-based capital injections. Cases are available from the Journal of Financial Crises at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Thailand Capital Support Facilities** 
+
+## **At a Glance** 
+
+**Summary of Key Terms** One year into the Asian Financial Purpose: “The objective is to restore and maintain the Crisis, the Thai financial sector solvency and credibility of the Thai financial system and, struggled to raise capital from most importantly, to enable the financial institutions to private markets. The Thai perform effectively their role in supporting economic government offered temporary growth.” capital assistance to financial institutions while partnering with Announcement August 14, 1998 private investors. Authorities opened Date two voluntary capital support Operational date October 1, 1998 – December 31, facilities to banks and finance 2000 companies deemed potentially viable by the BOT, the tier-1 program and End of issuance December 31, 2000 the tier-2 program. The Financial window Restructuring Advisory Committee (FRAC), which was a high-level Peak utilization B73.7 billion consultative body made of public and Participants 13 finance companies private-sector representatives, received and reviewed applications, Administrators Bank of Thailand, Ministry of monitored the capital support Finance, Financial Restructuring facilities, and issued detailed Advisory Committee guidelines for participating in the Notable features Separate participatory conditions programs. for tier-1 and tier-2 capital support facilities; tier-1 The Ministry of Finance (MOF) participants had to meet loan purchased preferred shares in the classification and provisioning tier-1 program and subordinated requirements; preferred shares carried voting rights 
+
+The Ministry of Finance (MOF) purchased preferred shares in the tier-1 program and subordinated debt in the tier-2 program. MOF funded the programs by issuing new 
+
+government debt, which participating financial institutions were required to buy after MOF had purchased their capital under the program’s terms. To cover the cost of financing the programs, MOF mandated the preferred shares and subordinated debt to carry dividend or interest rates 100 basis points above the government bonds’ interest rates; although supported financial institutions were not always able to make the required payments. The amount of capital injections was dependent on matching capital raised with private investors (tier-1), and the amounts of debt restructuring, 
+
+
+provisioning, and new lending (tier-2). The Thai government also issued covered warrants (“call options”) with tier-1 preferred shares to encourage private investors to participate and to provide the government with an exit strategy. 
+
+## **Summary Evaluation** 
+
+Though the government allocated up to B300 billion for the capital support facilities, it ultimately utilized B73.7 billion (24.6%). Some scholars view the capital support facilities as ineffective because the uptake was low. With the program’s voluntary terms, harsh participatory requirements resulted in low participation. Authors suggest that the capital support facilities addressed consequences of non-performing loans (NPLs), but not their causes. Others argue that the government’s intent was to make its capital unattractive to encourage financial institutions to raise capital privately. As financial institutions avoided the government’s recapitalization program, they raised private capital by issuing short-term, high-cost hybrid securities. The Thai government later amended the tier-1 program in 1999 to allow banks to use those separately issued hybrid securities as the private-sector match for government tier-1 capital injections. One positive outcome was improved confidence in the Thai financial sector—indicated by upward trends in the Thai stock market and banking sector indexes following the announcement of the program. Though the program has ended, there is still a need for more scholarship of its effects on finance companies’ lending practices and debtrestructuring activity. 
+
+
+|**Thailand Context 1998**|**Thailand Context 1998**|
+|---|---|
+|**GDP**|$115.12 billion (current U.S.$) in 1998|
+|**GDP per capita**|$1,846.00 (current U.S.$) per capita in<br>1998|
+|**Exchange Rate**<br>**(Baht to USD)**|36.65 in 1998|
+|**Sovereign credit rating**<br>**(five-year senior debt)**|Fitch: BBB+<br>Moody’s: Baa1<br>S&P: A-|
+|**Size of banking system**|$196.46 billion in total assets|
+|**Size of banking system as a**<br>**percentage of GDP**|170.66% in 1998|
+|**Size of banking system as a**<br>**percentage of financial system**|N/A|
+|**Five-bank concentration**<br>**of banking system**|70.0% of total bank assets in 1998|
+|**Foreign involvement**<br>**in banking system**|N/A|
+|**Government ownership**<br>**of banking system**|31% of bank assets owned by the state<br>between 1999 and 2001|
+|**Existence of deposit insurance**|None in 1998|
+|_Sources: Bloomberg; World Bank Global Financial Development Database; World Bank_<br>_Deposit Insurance Dataset._||
+
+
+
+
+## **I. Overview** 
+
+## **Background** 
+
+In the years leading up to the crisis in Thailand, high current account deficits exposed local corporations to foreign exchange and market risks, and the banking system underestimated credit risk (Nimmanahaeminda 1998). The currency market and financial system suffered runs in 1996 when exports underperformed. In response, Thai authorities defended the value of the baht and supported insolvent institutions, which depleted the government’s foreign reserves. The government allowed the Thai baht to float on July 2, 1997, which led to currency devaluation (Satitniramai 2007). The business sector suffered massive losses (Satitniramai 2007). Despite the announcement of an IMF support package in August 1997, market confidence plummeted because investors did not trust policymakers’ statements (Nimmanahaeminda 1998). Issues with government transparency and accountability created a contagion effect. 
+
+Specific factors exacerbated the undercapitalization of the Thai financial sector before and during the crisis. Before the crisis, Thai authorities failed to regulate and supervise bank capital by holding banks to consistent definitions of classified and non-performing loans (NPLs) (Santiprabhob 2003). Speculative attacks on the baht limited the financial sector’s ability to recapitalize when the country entered the crisis in early 1997 (Santiprabhob 2003). During the crisis, general economic contraction, the floating of the baht, high interest rates, and rising required loan-loss provisions all eroded financial institutions’ capital (Santiprabhob 2003). Capital inadequacy became a systemic issue that led the government to close insolvent financial institutions and explore various strategies to recapitalize potentially viable ones (Santiprabhob 2003). 
+
+Beginning in 1997, the Thai government employed several drastic programs to combat the crisis (Santiprabhob 2003). Restructuring programs broadly fit into two categories: (1) measures to address non-performing loans and distressed assets, and (2) measures to address financial institutions’ insolvency and capital inadequacy (Santiprabhob 2003). 
+
+Between March and August 1997, the government extended liquidity support to Thai financial institutions through Financial Institution Development Fund (FIDF) loans (Santiprabhob 2003). The government also introduced blanket deposit guarantees in August 1997 (Santiprabhob 2003). To end deposit runs and rein in the FIDF’s liquidity support, the Thai government suspended nearly two-thirds of Thai finance companies between June and August 1997 (Santiprabhob 2003). In November 1997, the Thai government also began to intervene in insolvent financial institutions before privatizing or merging them with one another (Santiprabhob 2003). During December 1997, the Financial Sector Restructuring Authority (FRA) decided that two of the 58 suspended institutions could continue to operate if they recapitalized within 90 days—the rest were closed, and the FRA liquidated their assets (Santiprabhob 2003). 
+
+
+One year after the outbreak of the crisis, it became clear that private institutions faced barriers to recapitalizing themselves without public-sector support (Satitniramai 2007). On August 14, 1998, the government introduced a plan known as the “August 14 Package” (the “Package”) to help private financial institutions recapitalize (Santiprabhob 2003). The Package included B300 billion to purchase capital in distressed financial institutions through tier-1 and tier-2 capital support facilities (Santiprabhob 2003). 
+
+## **Program Description** 
+
+As part of the Package, the capital support program began on August 14, 1998, and ended on December 31, 2000 (BOT 2000a). On August 14, the Ministry of Finance (MOF) and Bank of Thailand (BOT) announced the program in a joint press release (Chaitrong 1998). On September 29, MOF published details about applications and conditions of participation (Chaitrong 1998; BOT 1998b; BOT 1998a). Institutions could seek government capital beginning on October 1, 1998, and apply through November 1, 2000; the government could no longer purchase additional capital under the support facilities after December 31, 2000 (Santiprabhob 2003; Reuters Staff 1998b). 
+
+The government passed an emergency decree on August 21, 1998, (effective August 24) enabling MOF to issue B300 billion of government bonds to fund the capital support program (BOT 1998a). From the B300 billion of total authorized funding, the government allocated B200 billion for tier-1 capital support and B100 billion for tier-2 capital support (Finance Reporters 1999). The program targeted all banks and finance companies—regardless of their net worth or outstanding debt balance with the government (Koeberle and Sondergaard 1998c). 
+
+Financial institutions published statements through the Stock Exchange of Thailand to indicate whether they intended to participate (Reuters Staff 1998c; 1999). The Minister of Finance occasionally announced the names of potential participants before they had formally applied for support ( _Agency France-Presse_ 1999). 
+
+While the capital support program was active, the BOT changed relevant regulations by lowering the minimum tier-1 component of the overall capital adequacy ratio (CAR), gradually introducing loan-loss provisioning requirements, and relaxing constraints on foreign ownership of Thai financial institutions (BOT 1998a). 
+
+The capital support program was comprised of tier-1 and tier-2 capital support facilities (Nimmanahaeminda and Sonakul 1998a). The tier-1 facility aimed to attract new private capital into Thai financial institutions (Nimmanahaeminda and Sonakul 1998a). The government’s objectives were to remove the risk associated with bad loans, and to lay the groundwork for financial institutions to resume normal lending (Nimmanahaeminda and Sonakul 1998a). Through the tier-1 facility, MOF effectively exchanged tradeable government bonds for financial institutions’ preferred shares up to 2.5% of tier-1 CAR; thereafter, additional government capital injections had to be matched by private capital injections (Nimmanahaeminda and Sonakul 1998a). Conditions for tier-1 participation included: (1) the write-down of non-performing loans, through the full adoption of end- 
+
+
+2000 loan classification and provisioning (LCP) rules, which could result in significant losses for existing shareholders; (2) the preferred status of new capital injections over existing shareholders; (3) the government’s and other new investors’ right to change existing management; and (4) the BOT’s approval of a restructuring plan (Nimmanahaeminda and Sonakul 1998a). To incentivize private participation in the tier1 capital support program, the government issued three-year covered warrants on its preferred shares and gave them to participating investors, enabling them to purchase the government’s shares at the original purchase price plus carrying costs (Santiprabhob 2003; Finance Reporters 1999). 
+
+The tier-2 facility aimed to provide financial resources and incentives to speed up corporate debt restructuring and to restart lending (Nimmanahaeminda and Sonakul 1998a). Through the tier-2 facility, MOF exchanged non-tradeable government bonds for financial institutions’ subordinated debt (Nimmanahaeminda and Sonakul 1998a; BOT 2000a). The amount of tier-2 capital an eligible institution could receive was determined by the amount of losses related to debt restructuring, costs from increases in net lending, and total amount of risk-weighted assets (Nimmanahaeminda and Sonakul 1998a). Conditions for tier-2 participation included legally binding debt restructuring agreements and proof of loan service for restructured debt (Nimmanahaeminda and Sonakul 1998a). Institutions that fully adopted the end-2000 LCP rules could phase write-offs related to debt restructuring over a five-year period (Nimmanahaeminda and Sonakul 1998a). 
+
+Within the first six months of the program window, Thai Military Bank (a commercial bank) entered internal discussions with the BOT to change the program terms—with a focus on the program’s treatment of hybrid securities issuances (Kanoksilp 1999; TMB 1999a). In June 1999, the government became willing to match preferred shares (tier-1 capital) raised from separate hybrid securities issuances—not only from preferred share issuances conducted jointly with MOF (BOT 1999a). The BOT effectively expanded the list of matchable securities that financial institutions could issue to private investors, which was a requirement of the tier-1 facility (Nimmanahaeminda and Sonakul 1998a). 
+
+While the program was running, BOT Governor Chatumongkol explored the option of forcibly recapitalizing financial institutions if their voluntary actions were not enough to recapitalize themselves (Koeberle and Sondergaard 1998c). 
+
+The government designed the facilities so that returns from preferred shares and subordinated debt exceeded the government’s costs (Santiprabhob 2003). 
+
+The government’s exit strategy for the tier-1 program was to sell its preferred shares to private investors (Santiprabhob 2003; The Nation Staff 1999a). The tier-2 program involved tenured instruments, so the government’s exit strategy was to let the securities mature. 
+
+
+## **Outcomes** 
+
+From the B300 billion authorized for the program, the government allocated B200 billion for tier-1 capital support and B100 billion for tier-2 capital support (Finance Reporters 1999). As of mid-1999, the Thai authorities had approved B38.4 billion of program funding, which included B35.5 billion of tier-1 capital and B2.9 billion of tier-2 capital (World Bank 1999). By end-2000, MOF had provided two commercial banks, one finance company, and one finance and securities company with B61.3 billion of tier-1 capital (BOT 2000a). Three commercial banks and four finance companies received B12.4 billion of tier-2 capital (BOT 2000a). 
+
+Of the committed funds, the government utilized about B73.7 billion (24.6%) (BOT 2000a).[3] Total uptake was lower than expected, as banks were wary of the provisioning requirements, which would likely have imposed losses on existing shareholders, and the right for new shareholders to change management (Keelan and Stubing 2001; Satitniramai 2007). Instead of participating in the government program, banks engineered new financial instruments to meet the capital adequacy ratio (CAR) while retaining control over their own management (Satitniramai 2007). 
+
+The bond issuances for the capital support program were classified as public-sector debt (BOT 1999a). Through 2002, the Thai government bore interest costs on the tier-1 facility because participants took losses and could not pay out dividends (Santiprabhob 2003). Of the four companies that received tier-1 capital injections, the shareholders of only one—TISCO, the securities company—had purchased all of the government’s shares before the options expired; overall, a “limited number of participating investors” exercised their options because market prices remained below the government share purchase prices of the tier-1 preferred shares (Santiprabhob 2003). The government faced no cost from the tier-2 facility because the interest rates on subordinated debt were higher than government bond coupon rates (Santiprabhob 2003). 
+
+> 3 The exact utilization rate varies from source to source. Santiprabhob (2003) suggested that 24% of funds were utilized, the Asian Development Bank (1999) suggested that 27% of total funds had been dispersed by June 1999, and the Bank of Thailand’s year-2000 Supervision Report suggested that the government used about 24.6% of funds (Santiprabhob 2003; ADB 1999; BOT 2000a). 
+
+
+## **II. Key Design Decisions** 
+
+
+
+
+- **Part of a Package: The Thai government opened tier-1 and tier-2 capital support facilities as parts of a financial sector restructuring program called “the August 14 Package,” which was also accompanied by measures to alleviate distressed assets and non-performing loans.** 
+
+The Thai government’s attempts to restructure the financial sector fell into two categories: (1) efforts to solve problems of insolvency and capital inadequacy, and (2) measures to alleviate distressed assets and non-performing loans (NPLs) (Santiprabhob 2003). 
+
+Within the first category, the government suspended and closed nonviable finance companies, intervened in insolvent financial institutions, recapitalized private financial institutions, and recapitalized and restructured state-owned financial institutions (Santiprabhob 2003). Within the second category, the government liquidated assets of closed finance companies, reformed legislation on NPL resolution, and led both state and market-driven efforts on NPL resolution (Santiprabhob 2003). (Please refer to Dreyer [2021] for more information about the Thai government’s handling of distressed assets and NPLs.) 
+
+On August 14, 1998, the government launched the “August 14 Package” (the Package), which was a program meant to recapitalize private financial institutions (Santiprabhob 2003). Through the Package, the government offered two voluntary capital support facilities that required private institutions to write off bad debts in compliance with new regulatory requirements that would kick in at the end of 2000 (Santiprabhob 2003). The tier-1 support facility aimed to help institutions attract private capital to better handle losses, and the tier-2 support facility was intended to provide financial resources, quicken corporate debt restructuring, and foster new lending (Santiprabhob 2003; Nimmanahaeminda and Sonakul 1998a). Other legal efforts to recapitalize private financial institutions included the liberalization of constraints on foreign ownership in November 1997, and Bank of Thailand’s (BOT) acceptance of hybrid securities as part of regulatory capital in 1999 (Santiprabhob 2003). 
+
+During the early stages of the crisis response, the Thai government focused on capital adequacy and separating potentially solvent from insolvent financial institutions (Santiprabhob 2003). Santiprabhob (2003) argued that this disproportionate attention[4] meant that authorities paid too little attention to asset deterioration and NPL 
+
+> 4 Santiprabhob (2003) partly attributed this to the government’s limited resources and finite abilities to respond to multiple issues simultaneously (Santiprabhob 2003). The author also acknowledged Thai authorities’ lack of a crisis management plan before the crisis, and the limited political will to employ several drastic measures at once (Santiprabhob 2003). In a 2017 interview, former Minister of Finance Tarrin Nimmanahaeminda compared crisis-policy prioritization to flying a plane with most of the engines shut down (Kotani 2017). 
+
+
+restructuring (Santiprabhob 2003). Other academics reported issues with the government’s regulatory treatment of assets and NPLs, which were closely related to the tier-1 and tier-2 programs. In a 2001 World Bank report, Patrick Honohan remarked that Thailand was slow to recapitalize and to dispose of non-performing assets (Honohan 2001). Private banks largely met phased-in loan-classification and provisioning by the end of 1999 (ADB 1999). However, banks still faced capital shortfalls because: (1) the book value of loans was overstated[5] as banks overestimated the value of debtors’ collateral; (2) provisioning guidelines were backward-looking and not forwardlooking, which probably would have further decreased the quality of loans; and (3) CAR requirements underestimated the impact of both new and aging[6] non-performing loans (NPLs) (ADB 1999). 
+
+
+
+
+## **Legal Authority: The government passed emergency decrees allowing the Ministry of Finance to issue debt for the purpose of conducting capital injections.** 
+
+During the crisis, the government passed several emergency decrees to lift general restrictions on government borrowing (Suthiwart-Narueput and Pradittatsanee 1999). On August 21, 1998, the cabinet of Thailand passed the Emergency Decree Allowing the Ministry of Finance to Borrow Money for the Strengthening of the Financial System (“Emergency Decree”), which (effective August 24) allowed the Ministry of Finance to borrow up to B300 billion to fund its tier-1 and tier-2 capital support facilities (BOT 1998a). This funding window lasted through December 31, 2000 (Suthiwart-Narueput and Pradittatsanee 1999). Of the committed amount, the government utilized about 73.7 billion baht (24.6%) (BOT 2000a). 
+
+
+
+
+## **Governance: The Thai Minister of Finance and officials from the IMF and World Bank designed the August 14 Package.** 
+
+As part of its crisis response, the Thai government established multiple aid packages with both the IMF and World Bank; one of the recurring shared goals of these packages was to recapitalize the Thai financial system (World Bank 2006; Nimmanahaeminda and Sonakul 1998b). Then-Minister of Finance Tarrin Nimmanahaeminda, working with IMF and World Bank officials, designed the capital support facilities (Business Day 1999). In its fifth Letter of Intent (LOI) with the IMF, the Thai government introduced the capital support facilities and expressed confidence that the program provided incentives for financial institutions to join, while safeguarding against moral hazard 
+
+> 5 During the first accounting period of 1999, the Thai government relaxed the criteria used to deduct collateral value from debtors’ accounts to “[make] collateral appraisal more suitable for the current conditions” (BOT 1999a). 
+
+> 6 Starting on January 1, 1999, restructured loans could be reclassified as “substandard” or “pass” on the day of restructuring if the institution met certain criteria (BOT 2000a). The rules were [ _sic_ ] “designed to reduce the potential financial burden on financial institutions during the period of high loans” (BOT 2000a). While the ADB authors identified these changes as regulatory bugs, the Thai regulators intentionally designed them as features. 
+
+
+(Nimmanahaeminda and Sonakul 1998a). On December 1, 1998, the seventh LOI explained that all finance companies and banks needing capital within the next six months were required to sign memoranda of understanding (MOU)—which included plans to recapitalize—by January 31, 1999 (Nimmanahaeminda and Sonakul 1998b). The signing of MOUs on recapitalization was an IMF performance criteria, and all financial institutions had to sign them—regardless of their participation in the capital support facilities (Nimmanahaeminda and Sonakul 1998c). To the surprise of some analysts, banks that held sufficient levels of capital were not required to sign capital rehabilitation plans with the BOT (Business Day 1999). Financial institutions could make use of the tier-1 and tier-2 capital support facilities to satisfy these MOUs (Nimmanahaeminda and Sonakul 1998b). Banks and other financial institutions regularly signed MOUs at six-month intervals to address their capital needs through end2000 (Nimmanahaeminda and Sonakul 1998c; 1999a; 1999b). The BOT had the right to intervene in any financial institution that failed to meet its MOU commitments (Lindgren et al. 1999). 
+
+## **Administration: The Bank of Thailand set the regulations relevant for capital injections, the Ministry of Finance funded the program, and FRAC supervised the program while it was underway.** 
+
+
+
+
+The BOT ordered suspensions, demanded capital raises, and set the regulations on capital and loan-loss provisioning (Santiprabhob 2003). The BOT was also the official registrar for public-debt securities, including government bonds, which covered the cost of capital support facilities (Ganjarerndee 2009; Rattakul 2003). The BOT regularly conducted audits of restructuring agreements, which were related to tier-2 capital injections (Nimmanahaeminda and Sonakul 1998a). 
+
+The Ministry of Finance (MOF) purchased participating institutions’ preferred shares or subordinated debt, and paid the participating banks with government bonds that financial institutions were required to purchase under the support facilities’ terms of participation (Nimmanahaeminda and Sonakul 1998a; TISCO 1998; TISCO 1999). Consequently, MOF also owned the private capital, became the public stakeholder in the participating companies, and was entitled to jointly appoint or change the recipient’s top management (TMB 1999b). MOF had significant influence in designing the capital support facilities, setting its original terms, and suggesting amendments to the active program, which were then carried out by the BOT (BOT 1999b). 
+
+On September 29, 1998, the cabinet of Thailand approved and set up the Financial Restructuring Advising Committee (FRAC) (Koeberle and Sondergaard 1998a). FRAC was chaired by a former deputy minister of finance, and staffed by officials from the BOT, MOF, and the private sector; and the BOT operated its secretariat (BIS 1999). As an advisor to both the BOT and MOF, FRAC generally oversaw the implementation of restructuring efforts (Lindgren et al. 1999; Nimmanahaeminda and Sonakul 1998a). FRAC received and reviewed tier-1 and tier-2 capital support applications (Srisukkasem 1999; Reuters Staff 1998a). FRAC also controlled the budget dedicated to financial 
+
+
+institutions’ recapitalization, determined the purchase prices of preferred shares issued under the tier-1 and tier-2 facilities, and monitored the support facilities while the program was under way (BOT 1999a). FRAC also issued detailed guidelines for participating, and controlled the budget dedicated to financial institutions’ recapitalization (BOT 1999a). FRAC also arbitrated on any disputes regarding the amount of losses related to write-downs (Lindgren et al. 1999). 
+
+
+
+
+## **Funding Source: The Ministry of Finance funded the capital support facilities by issuing government bonds.** 
+
+The Emergency Decree authorized MOF to issue bonds to fund its capital support facilities; MOF effectively exchanged the bonds for preferred shares (tier-1) or subordinated debt (tier-2) (Suthiwart-Narueput and Pradittatsanee 1999; BOT 2000a). Before issuing government securities, MOF first had to obtain the cabinet’s approval for the bonds’ interest rates, terms, conditions, fees, expenses, and procedures regarding management, repayment, or changes to the government’s payment schedule (Emergency Decree 1998). After securing approval, MOF could allocate the proceeds from emergency issuances as it deemed fit—without needing to “deliver income” back to the government under the law on budgetary methods and the law on treasury (Emergency Decree 1998). MOF had to publish details about all emergency issuances in the Royal Thai Government Gazette within one month from the start date of the loan contract (Emergency Decree 1998). MOF first purchased the securities from the tier-1 and tier-2 capital support participants and then sold government bonds to the same institutions in an amount equal to the purchase sum (TISCO 1998; TISCO 1999). MOF’s Public Debt Management Office (PDMO) managed the government debt issued to pay for the capital support facilities (Ganjarerndee 2009; Rattakul 2003). The statutory capital support bonds were classified as central government domestic debt (Suthiwart-Narueput and Pradittatsanee 1999). 
+
+
+
+
+## **Communications: The Ministry of Finance announced the August 14 Package through press releases; rumors about financial institutions joining the program persisted.** 
+
+The government officially announced the August 14 Package through a joint press release with the BOT and MOF (Nimmanahaeminda and Sonakul 1998a). The initial press release offered basic package details, such as the types of capital and participation limits, but omitted application details, such as guidelines for loan classification (Chaitrong 1998). Further details about capital support eligibility came in a press release on August 19, 1998 (BOT 1998b). The later press release clarified that the purpose of the capital support facility was to re-ignite financial institution lending to businesses (BOT 1998b). According to an August 25, 1998, Letter of Intent with the International Monetary Fund, FRAC was scheduled to release a detailed guideline for capital support participation by September 30, 1998 (Nimmanahaeminda and Sonakul 1998c). On September 29, MOF announced the eligibility conditions and pre-application 
+
+
+requirements for participation in the tier-1 and tier-2 capital support facilities (BOT 1998a). 
+
+Some banks endured months of press speculation about whether they would enroll in the capital support facilities (Kanoksilp and Keawkumnurdpong 1999). Through the Stock Exchange of Thailand (SET), financial institutions released statements confirming or denying their intent to participate (Reuters Staff 1998c; 1999). Some future participants included the level of capital while others omitted the total amount of support (Reuters Staff 1998c). There were real-time, negative market reactions to rumors of financial institutions joining the program (Reuters Staff 1999; The Nation Staff 1999d). At times, Minister of Finance Tarrin Nimmanahaeminda announced the names of some banks that “would” apply to both tier-1 and tier-2 capital support facilities before they had formally filed applications with the BOT ( _Agency France-Presse_ 1999; Finance Reporters 1999). In other public statements, he acknowledged financial institutions’ interest in the facilities, but did not identify the potential participants by name (Finance Reporters 1999). 
+
+- **Size of the Program and Individual Participation Limit: The entire capital injection program was set at B300 billion; the individual size of tier-1 capital injections depended on regulatory minima set by the BOT. The size of tier-2 injections depended on the cost incurred from debt restructuring and additional lending, and was set to decline over time.** 
+
+
+
+
+The size of tier-1 injections depended on the financial institution’s ability to meet regulatory minima set by the Bank of Thailand. After the institution met the full loan classification and provisioning standards (LCP) for end-2000 (including up-front writeoffs), the government injected tier-1 capital to satisfy the 2.5% capital adequacy ratio (Nimmanahaeminda and Sonakul 1998a; Santiprabhob 2003; Lindgren et al. 1999). Above 2.5% CAR, the government only injected tier-1 capital if it was matched by private capital injections[7] of equal or greater value (Nimmanahaeminda and Sonakul 1998a; Santiprabhob 2003). The government did not specify limits on the amount of tier-1 support for individual participants (Nimmanahaeminda and Sonakul 1998a). 
+
+> 7 Relying on the due diligence of private investors to determine the level of tier-1 capital contributions, the Thai government matched capital injections from both new and existing shareholders (Lindgren et al. 1999). 
+
+
+The size of tier-2 injections was contingent on new loan extension and costs related to debt restructuring. The total amount of available tier-2 capital was equal to write-offs, the total amount of provisioning, and 20% of the net increase in outstanding private sector loans (Nimmanahaeminda and Sonakul 1998a). Though each participant was eligible to receive support equal to 2% of risk-weighted assets, tier-2 support for increased lending was capped at 1% of risk-weighted assets (Nimmanahaeminda and Sonakul 1998a). A single debt-restructuring agreement was not eligible for more than 10% of the tier-2 support available to the institution (Nimmanahaeminda and Sonakul 1998a). 
+
+Institutions could apply to the FRAC for tier-2 support at the end of each quarter by reporting any debt-restructuring agreement, original loan contract, and evidence that the borrower was able to service the loan (Lindgren et al. 1999). For temporary capital relief, tier-2 participants that met end-2000 LCP rules immediately could write off debt restructuring costs over a five-year period (20% per year); otherwise, tier-2 participants were required to bear the restructuring costs according to the existing regulation (full losses taken by end-2000) (Nimmanahaeminda and Sonakul 1998a; Lindgren et al. 1999). To further incentivize participation, early debt restructuring, and new lending, the availability of tier-2 capital decreased[8] over the facility’s window (ADB 1999; Nimmanahaeminda and Sonakul 1998a). 
+
+On August 21, 1998, the Thai government passed an emergency decree (effective August 24) providing MOF the authority to issue up to B300 billion of bonds for the program (Nimmanahaeminda and Sonakul 1998c). The government also had the authority to issue derivative warrants through SET to incentivize private participation the tier-1 (Finance Reporters 1999). 
+
+## **Eligible Institutions: Banks and financial companies deemed “potentially viable” by the Bank of Thailand were eligible for the capital injection.** 
+
+
+
+
+The tier-1 scheme was only available to “potentially viable” commercial banks, finance companies[9] , or finance and securities companies incorporated in Thailand (Santiprabhob 2003; BOT 1998a). The BOT determined viability (Lindgren et al. 1999). To qualify for support, the financial institution had to submit an operational restructuring plan[10] , which FRAC and the BOT had to approve (Lindgren et al. 1999). Financial institutions intervened by the BOT (or those determined to be necessary in a merger process) had to first finish their restructuring plans to become eligible (BOT 1998a). Before applying, financial institutions had to secure the approval of their Boards 
+
+> 8 The original Thai press releases do not explain why the amount of available tier-2 capital decreased over time (BOT 1998b). 
+
+> 9 “Finance companies are also eligible for the scheme, provided this is part of a consolidation process for the sector. Finance companies may apply to the scheme once BOT clarifies their entitlement to become full-fledged banks” (Koeberle and Sondergaard 1998b). 
+
+> 10 Plans included measures to strengthen internal control and risk management, to increase revenues, to cut costs, and to improve internal procedures for alleviating non-performing loans (Lindgren et al. 1999). 
+
+
+of Directors for: (1) the request to participate, (2) the full provisioning requirements[11] , and (3) the issuance of an amount of preference shares to be sold to the Ministry of Finance and other joint investors (BOT 1998a). All tier-1 applicants had to have positive capital left after fully provisioning against their assets because the existing shareholders needed to bear the cost of NPLs prior to recapitalization (Santiprabhob 2003). 
+
+The tier-2 scheme was only available to “potentially viable” commercial banks, finance companies, and finance and securities companies incorporated in Thailand— irrespective of their participation in the tier-1 capital support facility (Lindgren et al. 1999; BOT 1998a). The tier-2 scheme was available to capital-deficient institutions who had experienced losses from debt restructuring, and had increased lending to nonspeculative clients (BOT 1998a). Eligibility depended on a legally binding agreement between the debtor and the financial institution (Nimmanahaeminda and Sonakul 1998a). The institution also needed to prove to the BOT that the debtor was able to service its loans for three consecutive payment periods, or for at least three months (Nimmanahaeminda and Sonakul 1998a). Prior to submitting a tier-2 application, the financial institution had to secure approval from its Board of Directors for: (1) the request to participate in the tier-2 scheme, and (2) the issuance of an amount of subordinated debentures to be sold to the Ministry of Finance (BOT 1998a). 
+
+
+
+
+## **Capital Characteristic: (Tier-1 Mechanics): For tier-1 capital, Ministry of Finance received preferred shares in exchange for 10-year tradeable government bonds.** 
+
+Through the tier-1 capital support facility, the Ministry of Finance purchased preferred shares and sold tradeable[12] government bonds (Lindgren et al. 1999). The 10-year government bonds paid a fixed interest rate: 100 basis points below the one-year deposit rate of the five largest Thai banks at the time of the transaction (Honohan 2001). The preferred shares carried equal voting rights with common stock, were nonredeemable, non-cumulative, and convertible to common stock at the shareholder’s option once the participant had taken full provisions (Honohan 2001; The Nation Staff 1999a). According to TISCO Finance’s annual reports, preferred shares could be converted at the end of every quarter at the ratio of 1:1 (TISCO 1999). Otherwise, the preferred shares automatically reverted to common shares ten years after the original date of purchase (TMB 1999b). This new capital had preferred status over existing capital (Lindgren et al. 1999). The tier-1 facility divided new preferred shares into classA and class-B shares (The Nation Staff 1999c). The government received class-B shares, which had priority over class-A in the event of dividends or returns from liquidation (The Nation Staff 1999c). Class-B shares were second in line to absorb losses on assets 
+
+> 11 On March 31, 1998, the BOT revised regulations on the suspension of income recognition of accrued interest payments, loan classifications, and provisioning requirements to align Thai supervisory regulations with international standards by end-2000 (BOT 1998a). 
+
+> 12 The Bank of Thailand was not allowed to hold these bonds (Honohan 2001). 
+
+
+that the underlying firm had acquired before issuing new shares (The Nation Staff 1999c). Losses against new assets were written down against class-A and class-B shares proportionately (The Nation Staff 1999c). 
+
+Some Thai banks recapitalized without participating in the government’s capital support facilities. They raised capital by issuing short-term, high-cost, hybrid securities called “Stapled Limited Interest Preferred Stock” (SLIPS) and “Capital Augmented Preferred Securities” (CAPS) (Scott 2002, 41; Santiprabhob 2003). Figure 2 depicts the flow of cash and securities between investors and banks that issued SLIPS/CAPS. Banks issued securities into mutual funds, which paired returns from non-cumulative preferred shares with perpetual bonds (Group 1 assets) and pooled high-yield subordinated bonds (Group 2 assets) (Santiprabhob 2003). On behalf of the banks, mutual funds sold investment units of SLIPS/CAPS to investors, who paid with cash; investors were required to purchase the bundled assets and could not select individual securities from within a group (Santiprabhob 2003). Thai financial regulators were willing to count group-1 assets as tier-1 capital because the subordinated bonds were perpetual, inseparable from the preferred shares, and could absorb losses; group-2 assets could count towards tier-2 capital if underlying bonds carried tenure longer than five years (Santiprabhob 2003). The mutual-fund structure enabled banks to raise regulatory capital while minimizing the dilution of outstanding shares (Santiprabhob 2003). 
+
+[FIGURE id=vol3_iss3_30_f1 type=figure label="Figure 1" file=figure_1.png caption="Recapitalization Through the Issuance of Hybrid Instruments"]
+### **Figure 1: Recapitalization Through the Issuance of Hybrid Instruments**
+
+|Investors|Cash|Mutual Fund|Mutual Fund|Cash|Bank|
+|---|---|---|---|---|---|
+|||Group 1 assets|Preferred shares|||
+|SLIPS/CAPS||(Tier-1 capital)|Perpetual<br>subordinated bonds|Preferred shares/<br>Subordinated bonds||
+|||Group 2 assets|High-yield|||
+|||(Tier-2 capital if|subordinated bonds|||
+|||maturity > 5|(22-44%)|||
+|||years)||||
+
+
+
+_Source: Santiprabhob 2003._ 
+
+Responding to the upturn in global capital markets, the BOT clarified in late March 1999 that issuers of hybrid securities would be allowed to count the preferred-share portion of the hybrid securities issuance as part of tier-1 capital—up to one-third of their total tier-1 capital (BOT 1999b). On April 26, 1999, the BOT announced that it was considering adjusting the capital support facilities by matching the SLIPS/CAPS issuances with tier-1 capital assistance but had not firmly decided on the terms of adjustment (Srisukkasem and Kanoksilp 1999). On June 12, 1999, the BOT and MOF became willing to match preferred shares issued in SLIPS and CAPS with tier-1 capital injections (BOT 1999a). Financial institutions could count SLIPS/CAPS preferred shares 
+
+
+issued on or after the start date of the tier-1 capital support facility (September 29, 1998) as part of matchable tier-1 capital (BOT 1999a). These institutions could also apply to the tier-1 capital support facility for an amount no less than the tier-1 increase directly related to the SLIPS/CAPS issuance (BOT 1999a). Private holders of SLIPS/CAPS were not allowed to purchase MOF’s preferred shares[13] (BOT 1999a). With respect to the financial engineering, the preferred-share portion of the “innovative capital instrument” could comprise a maximum[14] of 25% of tier-1 capital on or after January 1, 2000 (BOT 1999a). The government’s acceptance and matching of preferred shares separately issued in hybrid securities as tier-1 capital meant that private investors who already owned SLIPS/CAPS were also offered options on the government’s shares in financial institutions (World Bank 2000b). 
+
+Some evidence suggests that the government was indifferent to banks’ methods of recapitalization—whether by public or private means. In press statement on April 26, 1999, the Bank of Thailand reminded potential participants that the capital support facilities were one of several ways by which financial institutions could raise tier-1 capital (Srisukkasem and Kanoksilp 1999). Financial institutions that opted to raise capital without government assistance often issued hybrid securities, which helped them to both satisfy regulatory capital requirements and attract domestic investors (Santiprabhob 2003). David Scott (2002) noted that fear of participating in the government’s capital support program stimulated private banks to search for capital in private markets, which improved bank governance in some cases, but not others (Scott 2002). Other criticisms about private capital raises included the “excessive future cost” of short-term hybrid securities, which the government partially accepted through the tier-1 capital support facility (Root et al. 2000; Scott 2002; BOT 2000a). However, Santiprabhob (2003) argued that the hybrid issuances were relatively “low-cost capital,” given banks faced few opportunities to raise the same capital by issuing straight equity (Santiprabhob 2003). 
+
+There appears to be little commentary about the tier-2 facility. One researcher noted the facility’s “negative arbitrage” component would consume a troubled bank’s cash if it were to participate (Harvey 1999). 
+
+
+
+
+**Dividends/Pricing: (Tier-1 Pricing): The government purchased preferred shares at market prices, set the dividend rates on participants’ preferred shares above the interest rates on sovereign bonds, and issued three-year call options on the participants’ preferred shares.** 
+
+> 13 The Ministry of Finance sought to prevent private investors from receiving higher returns than private investors who jointly purchased preferred shares with the Ministry of Finance (BOT 1999a). 
+
+> 14 The BOT lowered this limit from 33.33% to 25% (BOT 1999a). From the BOT’s perspective, improvements in stock market conditions meant that financial institutions should not have to rely on innovative capital instruments to raise more capital (BOT 1999a). 
+
+
+Under the tier-1 support facility, MOF agreed to purchase the preference shares at a “mutually determined fair value,” which could come from an individual company’s book value, market value, or an appraisal from an independent advisor hired by MOF (BOT AER 1999). In practice, the government relied on a combination of the first two measures: the purchase prices partially reflected market estimates, which were mostly based on each company’s book value—after accounting for the effects of full loan-loss provisioning and capital requirements (Santiprabhob 2003; BOT 1998b). FRAC was also responsible for determining the appropriateness of the price prior to the government’s purchase (BOT 1999a). 
+
+Though the government could purchase shares for a price lower than par value[15] , the government did not have the authority to forcibly lower the participant share’s par value (BOT 1998b). 
+
+The preferred share dividend rate was either the same as the common stock dividend rate, or 100 basis points above the government bond interest rate—whichever was lower—but the participant did not have to pay dividends during times of operational loss (Honohan 2001; The Nation Staff 1999a). Though the government could sell the preference shares, the original shareholders had a “right of first refusal” (Honohan 2001). 
+
+
+
+
+## **Capital Characteristics: (Tier-2 Mechanics): For tier-2 capital, MOF received subordinated debt in exchange for 10-year non-tradeable government bonds.** 
+
+Through the tier-2 capital support facility, MOF funded its purchases of subordinated debt by issuing non-tradable government bonds (Lindgren et al. 1999). The 10-year subordinated debt paid an interest rate 100 basis points above the interest rate of the 10-year government bonds, so returns from the capital support facilities covered the government’s financing costs (Lindgren et al. 1999; Santiprabhob 2003). If the participant’s tier-1 level fell below the specified regulatory minimum while it participated in the tier-2 scheme, the participant had the option to convert the tier-2 subordinated bonds into the tier-1 preferred shares (The Nation Staff 1999a). 
+
+In late 2000, the BOT allowed financial institutions to include hybrid debt instruments and long-term subordinated debt as part of their tier-2 capital, with minimum maturities of 10 years and five years, respectively (BOT 2000b). This reduced the amount of additional capital that these institutions would need from the government to satisfy 
+
+> 15 Before the 21st century, companies used to issue common shares at “par value,” which reflected their investments in cash, goods, and services (Downes and Goodman 1985). Later, companies assigned par value to their newly-issued common shares to determine the dollar accounting value of those shares on their balance sheets (Downes and Goodman 1985). In this context, par value refers to the “original share price determined by the capital level recorded within the participant’s business registry record” (BOT 1998b). For common and preferred shares, par value has no relation to the market value, which is determined by factors such as net asset value, yield, and investors’ expectations about a company’s future earnings (Downes and Goodman 1985). 
+
+
+their tier-2 capital requirements. For both securities, the financial institutions were required to annually amortize 20% of the capital during the five years preceding the maturity, and the BOT had to permit the financial institution to redeem early (BOT 1999a). 
+
+Commercial banks and finance companies did not have to pay interest on hybrid securities or pay dividends on common and preferred shares if they did not make operating profit (BOT 2000c). Postponement of principal and interest payments was only allowed when their payments would lead to a negative capital-to-risk asset ratio, or when the BOT intervened by ordering capital write-downs and recapitalization (BOT 2000c). 
+
+
+
+
+## **Allocation of Losses for Shareholders: tier-1 participants wrote down capital for existing shareholders and permitted the government to change management and the board of directors.** 
+
+On October 24, 1997, the Thai government passed emergency decrees that amended the Commercial Banking Act and Finance Company Act, allowing the BOT to order capital increases or decreases, or to change the management of troubled financial institutions (Lindgren et al. 1999). The BOT wielded this authority in the capital support program by requiring tier-1 participants to agree to make full end-2000 provisions, effectively forcing existing shareholders to bear up-front losses (Lindgren et al. 1999; Honohan 2001). Loan-loss provisioning and capital requirements ensured that the financial institution’s losses were absorbed by common shareholders before the government, but the government was first to receive profit (BOT 1998b). 
+
+
+
+
+## **Fate of Existing Board and Management: The government and new investors had the authority to replace the management and board of directors of tier-1 participants.** 
+
+The government had the right to appoint board members commensurate with the size of its preferred share holding, and the right to nominate at least one board member regardless of the size of the holding (Lindgren et al. 1999; BOT 1998b). The BOT internally considered a policy that mandated the “revamp” of management (Srisukkasem and Kanoksilp 1999). For most tier-1 participants, the government changed the top management and appointed just one or two directors—despite having large shares of ownership in the participating institutions (Santiprabhob 2003). Banks[16] were cautious of the management control that they would cede to the government if they were to participate in the tier-1 facility (World Bank 2000a). 
+
+
+
+
+## **Exit Strategy: MOF attempted an exit measure by offering covered warrants on government-owned preference shares; the subordinated bonds matured on their own and did not require additional steps for disposal.** 
+
+> 16 Family-owned banks especially feared government interference (Santiprabhob 2003). 
+
+
+To encourage private investment through the tier-1 capital facility, the government offered new share subscribers three-year covered warrants (“call options”) to purchase the shares that it acquired through recapitalization (Santiprabhob 2003; Finance Reporters 1999). MOF issued the warrants, arranged[17] for their listing on the Stock Exchange of Thailand, and required the companies to pay related expenses (TISCO 1999). The exercise price on these options was equal to the government’s investment and holding costs over the three-year period, and investors who purchased preferred shares alongside the government could convert the warrants at a ratio of one warrant to one preferred share (Santiprabhob 2003; TISCO 2001). For at least one bank, Thai Military Bank, new ordinary-share investors received two covered warrants for every one new share they had purchased (TMB 2001). The options suggested that the government was a temporary investor, but that the government would not sell its shares to other investors during the three-year period (Santiprabhob 2003). If the market price rose above the exercise price, the options also provided the government with a natural exit opportunity (Santiprabhob 2003). 
+
+In the case of at least one tier-1 capital participant, TISCO Finance, investors who bought preferred shares alongside the government executed nearly all of their covered warrants and effectively acquired the government’s preference shares before the options expired (Santiprabhob 2003; TISCO 2002). 
+
+Tier-2 capital support participants sold subordinated debt with tenure, which provided for a natural exit opportunity after the instruments reached maturity. In September 2002, MOF redeemed the bonds that it had sold to TISCO Finance as part of the tier-2 capital support facility in 1999—nearly seven years before the government bonds were scheduled to reach maturity (TISCO 2002). 
+
+Though the capital support facilities expired on December 31, 2000, there was no explicit exit strategy to dispose of the government’s remaining preference shares after the program ended and the covered warrants had expired. Following Santiprabhob (2003) and Thai newspapers, the government’s exit strategy was to sell its shares to private investors between four and six years after the beginning of the program (Santiprabhob 2003; The Nation Staff 1999a). 
+
+
+
+
+## **Exit Strategy: The Ministry of Finance subsequently offloaded some of its bank shares into a government-run mutual fund created in 2003.** 
+
+In 2003, the Thai government created two “Vayupak” mutual funds to invest in domestic corporations that were still facing financial burdens related to the 1997-98 Asian Financial Crisis (Crispin 2003; _The Economist_ 2003). Suchart Jaovisidha, then-Minister of Finance, claimed that the move was meant to free up part of the THB 500 billion ($12 
+
+> 17 During the crisis, the domestic secondary market for derivatives was not fully developed, so the Thai Securities and Exchange Commission (SEC) only authorized securities companies and large shareholders of Thai companies to issue derivative warrants (Finance Reporters 1999). 
+
+
+billion) that the government had invested in wholly and partially state-owned enterprises ( _The Economist_ 2003). The government seeded the first fund (“Vayupak 1”) with THB 100 billion in capital, purchased some of MOF’s shares of banks and other state-owned enterprises, and guaranteed a minimum 2% return to retail investors— higher than the prevailing 1.25% bank deposit rate—because MOF promised to repurchase shares from the fund at a pre-arranged price after ten years (Crispin 2003; _The Economist_ 2003; Pootpisut 2012). The government installed professional managers to direct the day-to-day operations of Vayupak 1, which traded publicly on the Stock Exchange of Thailand ( _The Economist_ 2003). 
+
+After the Vayupak 1’s announcement, market participants had mixed opinions. Proponents believed that it could stimulate private investment, soak up excess deposits in commercial banks, and improve the management of government-owned businesses ( _The Economist_ 2003). Detractors expressed skepticism about the government’s financial savviness, potential economic inefficiencies, and the viability of the underlying companies (Crispin 2003; _The Economist_ 2003). Vayupak 1 performed better than expected and delivered an average 6% annual return during its first eight years (Vanichkorn 2012). In 2012, the government announced that Vayupak 1 would become open-ended after the ten-year term had expired (Pootpisut 2012). Officials raised additional capital for the new fund, broadened its investments to include public and private infrastructure projects, and did not guarantee returns anymore (Pootpisut 2012). 
+
+
+
+
+## **Amendment to Regulation: While the capital support facility was open, the Thai government altered loan-loss provisions, changed capital requirements, and relaxed restrictions on foreign ownership of Thai financial institution.** 
+
+To prevent banks from having future problems, the government raised supervisory standards and tightened regulations (BIS 1999). In 1998, new regulatory standards required banks and non-bank financial institutions to significantly increase their capital (Vichyanond 2004). Scholars of the Package also draw attention to new loan classification and provisioning (LCP) and capital requirements, in particular. 
+
+On March 31, 1998, the BOT raised loan classification, provisioning, and reporting standards to bring Thai financial institutions in line with international standards by end2000 (Vichyanond 2004). Loan classification became contingent on debtors’ debt servicing capacity, cash flow management and valuation of back-up assets, and ageing of overdue debts (Vichyanond 2004). By the time that the capital support facilities opened in late 1998, financial institutions were adjusting to the following requirements: 
+
+
+[FIGURE id=vol3_iss3_30_f2 type=figure label="Figure 2" file=figure_2.png caption="Loan-loss Provisioning Requirements for Commercial Banks"]
+### **Figure 2: Loan-loss Provisioning Requirements for Commercial Banks**
+
+|Loan Classification|Months Overdue|Previous Provisions<br>(%)|1998<br>System<br>of<br>Provisioning (%)|
+|---|---|---|---|
+|Pass|< 1 month|-|1|
+|Special Mention|0-3 months|-|2|
+|Substandard|3-6 months|15|20|
+|Doubtful|6 months – 1 year|100|50|
+|Loss|> 1 year|100|100|
+
+
+
+_Sources: Table 1 adapted from Vichyanond 2004. Information originally sourced from the Bank of Thailand._ 
+
+Beginning in the second half of 1998, Thai government phased in these standards, requiring financial institutions to meet an additional 20% of required provisions every six months during the “transitional period,” until they fully satisfied requirements by end-2000 (ADB 1999). The type and amount of capital injections depended on how quickly financial institutions met these end-2000 LCP rules (Nimmanahaeminda and Sonakul 1998a). To receive tier-1 capital injections, institutions were required to make full end-2000 provisions immediately and to forgo the transitional period (Nimmanahaeminda and Sonakul 1998a; BIS 1999). Though full end-2000 provisions were not necessary to participate in the tier-2 capital support facility, financial institutions that fully satisfied the end-2000 LCP rules could phase write-offs for debt restructuring over five years, which could temporarily relieve pressure to recapitalize (Nimmanahaeminda and Sonakul 1998a). Financial institutions struggled in their attempts to meet end-2000 provisioning requirements because they had to severely write down existing capital (World Bank 2000a). 
+
+Other changes to asset classification and provisioning requirements included the definitions of assets tied to debtors who underwent debt restructuring, and the relaxation of criteria for the deduction of collateral value from debtors’ accounts (BOT 1999a). In the fourth quarter of 1998, the government made end-2000 provisioning fully 
+
+
+tax deductible—for both[18] phased-in and up-front provisioning (Nimmanahaeminda and Sonakul 1998c). 
+
+The BOT also altered capital requirements to allow financial institutions to use the capital support facilities (Nimmanahaeminda and Sonakul 1998a). Effective August 25, 1998, the minimum capital adequacy ratio (CAR) was 8.5%—slightly above Basel standards—for commercial banks[19] and 8% for finance companies and finance & securities companies (BOT 1998a). For all financial institutions, at least half of the CAR needed to be tier-1 capital (BOT 1998a). If financial institutions fully met the end-2000 LCP requirements, they could count provisioning for “pass” assets as tier-2 capital—with “pass” assets not exceeding 1.25% of all risk-weighted assets (BOT 1998a). On August 5, 1999, the BOT reversed the full end-2000 LCP requirement provision, so financial institutions could immediately count loan-loss provisions for “pass” assets as tier-2 capital—subject to the same constraint of “pass” assets not exceeding 1.25% of all riskweighted assets (BOT 1999a). 
+
+To incentivize the entry of foreign capital, government began to loosen restrictions on foreign ownership of Thai financial institutions in 1997 (Santiprabhob 2003). Effective June 27, 1997, the Emergency Decree Amending the Commercial Banking Act B.E. 2505 (No. 2)[20] lifted the 25% ceiling on foreign ownership on a case-by-case basis (BOT 2000a). MOF allowed 100% foreign ownership by foreign investors who aimed to resolve or rehabilitate distressed financial institutions (BOT 2000a). With MOF approval, foreigners could possess majority ownership of locally incorporated financial institutions for up to 10 years; thereafter, the foreign owners could not acquire additional shares until the ownership interest (existing and new holdings) was maintained at 49% or less (Treasury 1998; BOT 2000a). Beginning in November 1998, MOF approval was no longer necessary for majority foreign ownership of Thai financial institutions (Treasury 1998). In the years immediately following the crisis, foreign ownership of Thai financial institutions increased through foreigners: (1.) purchasing a majority stake in private financial institutions from former Thai shareholders, (2.) purchasing a majority stake in privatized banks, or (3.) participating in new capital injections of financial institutions—particularly large private banks (Santiprabhob 2003). 
+
+> 18 At the beginning of the crisis, domestic tax code discouraged financial institutions from making full end2000 provisions because the amounts of provisions in excess of the BOT’s scheduled minima were still subject to taxation (Santiprabhob 2003). 
+
+> 19 For foreign banks operating in Thailand, CAR was calculated with the capital in the local branch rather than the consolidated capital of the parent bank (Treasury 1998). 
+
+> 20 This is also known as the “Alien Business Law” (ADB 1999). 
+
+
+## **III. Evaluation** 
+
+Evaluations of the August 14 Package are mixed; researchers acknowledge that the program restored confidence in the Thai financial sector, yet the facilities saw low uptake. 
+
+Santiprabhob (2003) suggested that the capital support facilities improved confidence in the Thai financial system and offered an emergency funding option to financial institutions (Santiprabhob 2003). After the government introduced the August 14 Package, prices of shares on the Stock Exchange of Thailand (SET) and SET’s banking sector index both improved (Santiprabhob 2003). In 2001, several World Bank employees conducted event studies on the signaling effects of interventions during the Asian Financial Crisis (Klingebiel et al. 2001). They calculated stock returns on bank indices using a three-day window: one day before, during, and after a given intervention’s initial announcement (Klingebiel et al. 2001). The authors reported “excess returns”—returns on bank stocks in excess of returns on non-financial stocks—of +3.84%, which was different from zero at a significance level of 0.05 (Klingebiel et al. 2001). 
+
+When Thai Military Bank (TMB) was considering whether to apply for the program at a shareholder meeting on September 13, 1999, the Chairman of the Board of Directors spoke positively of TMB’s potential collaboration with the government, claiming that applying for capital support was advantageous because “the assistance will stabilize the Bank and provide enough capital for the Bank’s operation” (TMB 1999b). TMB’s President and CEO followed up the Chairman’s comments by highlighting the price advantage of the “subsidized” tier-1 capital, and shareholders unanimously voted for TMB to apply (TMB 1999b). 
+
+After receiving government assistance, TISCO Finance claimed, “The successful recapitalization process guarantees [TISCO Finance’s] ability to maintain its capital adequacy ratio in accordance with the Regulation of the Bank of Thailand” (TISCO 1999). 
+
+The foremost criticism of the August 14 Package is that capital support facilities— especially the tier-1 facility—were unpopular with banks (Cheung and Liao 2005). First, financial institutions found it challenging to meet end-2000 provisioning requirements, which meant that they had to severely write down existing capital (World Bank 2000a). Second, banks were wary of the management control that they would forfeit to the government if they were to participate in the tier-1 scheme (World Bank 2000a). At least one scholar evaluated the support facilities according to their broad effects on the financial system: Satitniramai (2007) contended that the capital support facilities were largely unsuccessful because the weak uptake limited both NPL resolution and credit expansion (Satitniramai 2007). 
+
+Though the capital support facilities saw limited uptake, former BOT Governor Veerathai Santiprabhob described the strict participatory conditions as necessary to protect public funds (Santiprabhob 2003). Unpopular program features were meant to safeguard 
+
+
+taxpayers while also supporting financial institutions (Santiprabhob 2003). Researchers from the Japan Research Institute argued that the capital support facilities’ unpopularity softened in 1999 because non-performing loans rose, capital markets offered no alternative sources of capital, and financial institutions were required to sign MOUs containing plans to recapitalize (Takayasu and Yokoe 1999; Nimmanahaeminda and Sonakul 1998b). 
+
+
+## **IV. References** 
+
+_Agency France-Presse_ . 1999. “Thailand’s Debt Ridden Banks Take Steps to Safety (RECASTS with Tarrin Announcement).” January 6, 1999. 
+
+https://ypfs.som.yale.edu/library/thailands-debt-ridden-banks-take-steps-safety-recaststarrin-announcement. 
+
+Asian Development Bank (ADB). 1999. _Rising to the Challenge in Asia: A Study of Financial Markets: Volume 11 - Thailand_ . Rising to the Challenge in Asia Series, December 1, 1999. https://ypfs.som.yale.edu/library/rising-challenge-asia-study-financial-markets. 
+
+Bank for International Settlements (BIS). 1999. _Bank Restructuring in Practice_ . BIS Policy Papers, No. 6. September 22, 1999.. https://ypfs.som.yale.edu/library/bank-restructuringpractice. 
+
+Bank of Thailand (BOT). 1998a. “Annual Economic Report 1998.” Bank of Thailand. https://ypfs.som.yale.edu/library/annual-economic-report-1998. 
+
+———. 1998b. “Issue 55/2541: Recapitalization Program for Financial Institutions” (in Thai). Translated by Natee Amornsiripanitch. August 19, 1998. 
+
+https://ypfs.som.yale.edu/library/recapitalize-program-financial-institutions. 
+
+———. 1999. Annual Economic Report 1999. 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Annual-99.pdf. 
+
+———. 2000a. Annual Economic Report 2000. https://ypfs.som.yale.edu/library/annualeconomic-report-2000. 
+
+———. 2000b. “Economic and Monetary Conditions in 2000.” 
+
+https://ypfs.som.yale.edu/library/economic-and-monetary-conditions-2000. 
+
+———. 2000c. Supervision Report 2000. https://ypfs.som.yale.edu/library/supervisionreport-2000. 
+
+_Business Day_ . 1999. “TMB to Decide This Week On Capital Assistance Request.” April 26, 1999. 
+
+https://ypfs.som.yale.edu/library/tmb-decide-week-capital-assistance-request. 
+
+Chaitrong, Wichit. 1998. “Recapitalisation Aid Details by Next Week.” _The Nation_ , September 24, 1998. https://ypfs.som.yale.edu/library/recapitalisation-aid-details-nextweek. 
+
+Cheung, Michael Tow, and Ziqi Liao. 2005. “Recapitalization of Thailand’s Banks After the 1997 Crisis: Interpretation and Critique from a Neo-Institutional Perspective.” _Asia Pacific Business Review_ 11 (3): 411–27. September 1, 2005. 
+
+
+https://ypfs.som.yale.edu/library/recapitalization-thailands-banks-after-1997-crisisinterpretation-and-critique-neo. 
+
+Crispin, Shawn W. 2003. “Bangkok Clears $2.41 Billion Fund For Rescuing Troubled Thai Firms.” _Wall Street Journal_ , June 25, 2003. 
+
+https://ypfs.som.yale.edu/library/bangkok-clears-241-billion-fund-rescuing-troubledthai-firms. 
+
+Downes, John, and Jordan Elliot Goodman. 1985. “Par.” In _Dictionary of Finance and Investment Terms_ . Financial Guides. New York: Barron’s. 
+
+_The Economist_ . 2003. “Fowl Play,” August 21, 2003. 
+
+https://ypfs.som.yale.edu/library/fowl-play-government-pushes-its-own-investmentfunds. 
+
+_Emergency Decree Allowing the Ministry of Finance to Borrow Money for the Strengthening of the Financial System_ (Emergency Decree). 1998. Royal Thai Government Gazette. https://ypfs.som.yale.edu/library/emergency-decree-allowing-ministry-finance-borrowmoney-strengthening-financial-system. 
+
+Enoch, Charles, Gillian Garcia, and V. Sundarajan. 1999. “Recapitalizing Banks with Public Funds: Selected Issues.” _International Monetary Fund Working Papers_ , Working Paper no. 99/139. October 1, 1999. 
+
+https://ypfs.som.yale.edu/library/recapitalizing-banks-public-funds-selected-issues-0. 
+
+Finance Reporters. 1999. “SCB First to Receive State Tier-1 Assistance.” _The Nation_ , January 6, 1999. https://ypfs.som.yale.edu/library/scb-first-receive-state-tier-1-assistance. 
+
+Ganjarerndee, Pusadee. 2009. “Debt Securities Statistics: The Bank of Thailand’s Experience.” In _Session 3: Methodological Approaches and Country Experiences in Compiling Statistics on Debt Issuance_ . Vol. No. 29. Bank for International Settlements. January 2009. https://ypfs.som.yale.edu/library/debt-securities-statistics-bank-thailands-experience. 
+
+Harvey, Campbell R. 1999. “Nakornthon Bank.” Duke University: Fuqua School of Business. https://ypfs.som.yale.edu/library/nakornthon-bank. 
+
+Honohan, Patrick. 2001. “Recapitalizing Banking Systems: Implications for Incentives and Fiscal and Monetary Policy.” WPS2540. Policy Research Working Paper. World Bank. February 28, 2001. https://ypfs.som.yale.edu/library/recapitalizing-banking-systemsimplications-incentives-and-fiscal-and-monetary-policy. 
+
+Kanoksilp, Jiwamol. 1999. “TMB to Issue SuperCaps for B10 Billion New Cash.” _The Nation_ , April 28, 1999. https://ypfs.som.yale.edu/library/tmb-issue-supercaps-bt10-bn-new-cash. 
+
+
+———. 2000. “Bank Plans Move Rules on TMB Recapitalisation Unchanged.” _The Nation_ , March 21, 2000. https://ypfs.som.yale.edu/library/bank-plans-move-rules-tmb-recapitalisationunchanged. 
+
+Kanoksilp, Jiwamol, and Jirapreeya Keawkumnurdpong. 1999. “TMB Applies for State Finance.” _The Nation_ , June 23, 1999. 
+
+https://ypfs.som.yale.edu/library/tmb-applies-state-finance. 
+
+Keelan, Rory, and Darren Stubing. 2001. “Krung Thai Bank PCL - Capital Intelligence Rating Report.” _Capital Intelligence_ . 
+
+https://ypfs.som.yale.edu/library/krung-thai-bank-pcl-capital-intelligence-report. 
+
+Klingebiel, Daniela, Randy Kroszner, Luc Laeven, and Pieter van Oijen. 2001. “Stock Market Responses to Bank Restructuring Policies During the East Asian Crisis.” WPS2571. Policy Research Working Paper. World Bank. March 31, 2001. 
+
+https://ypfs.som.yale.edu/library/stock-market-responses-bank-restructuring-policiesduring-east-asian-crisis. 
+
+Koeberle, Stefan G., and Lars M. Sondergaard. 1998a. “Thailand Economic Monitor.” 18936. Departmental Working Paper. World Bank. October 1, 1998. 
+
+https://ypfs.som.yale.edu/library/thailand-economic-monitor-october-31-1998. 
+
+———. 1998b. “Thailand Economic Monitor.” 18937. Departmental Working Paper. World Bank. November 30, 1998. 
+
+https://ypfs.som.yale.edu/library/thailand-economic-monitor-november-30-1998. 
+
+———. 1998c. “Thailand Economic Monitor.” 18938. Departmental Working Paper. World Bank. December 31, 1998. 
+
+https://ypfs.som.yale.edu/library/thailand-economic-monitor-december-31-1998. 
+
+Kotani, Hiroshi. 2017. “It Was 20 Years Ago That the Thai Central Bank Panicked.” _Nikkei Asian Review_ . July 2, 2017. 
+
+https://ypfs.som.yale.edu/library/it-was-20-years-ago-thai-central-bank-panicked. 
+
+Lindgren, Carl-Johan, Tomás J.T. Baliño, Charles Enoch, Anne-Marie Gulde, Marc Quintyn, and Leslie Teo. 1999. “Financial Sector Crisis and Restructuring: Lessons from Asia.” Occasional Papers 188. International Monetary Fund. 
+
+https://ypfs.som.yale.edu/library/financial-sector-crisis-and-restructuring-lessons-asia. 
+
+MacDonald, Claire. 1998. “A False Sense of Recovery.” _Asian Business_ , December 1, 1998, Volume 34, Issue 12. 
+
+https://ypfs.som.yale.edu/library/false-sense-recovery. 
+
+Ministry of Finance (MOF). 1998. “Notification of the Ministry of Finance RE: Rules, Procedures, and Conditions for Financial Institutions Wishing to Seek Assistance from the 
+
+
+## Ministry.” Bank of Thailand. September 29, 1998. 
+
+https://ypfs.som.yale.edu/library/notification-ministry-finance-re-rules-procedures-andconditions-financial-institutions. 
+
+The Nation Staff. 1999a. “August 14 Restructuring Package - Who Gains and Who Loses?” _The Nation_ , May 3, 1999. https://ypfs.som.yale.edu/library/aug-14-restructuring-package-who-gains-and-wholoses. 
+
+———. 1999b. “SGACL Approves Share Sell-off Plan.” _The Nation_ , September 28, 1999. https://ypfs.som.yale.edu/library/sgacl-approves-share-sell-plan. 
+
+———. 1999c. “SGACL Board Okays Revamp Plan.” _The Nation_ , October 9, 1999. https://ypfs.som.yale.edu/library/sgacl-board-okays-revamp-plan. 
+
+———. 1999d. “SET Closes Below 400-Point Psychological Mark.” _The Nation_ , November 25, 1999. https://ypfs.som.yale.edu/library/set-closes-below-400-point-psychological-mark. 
+
+Nimmanahaeminda, Tarrin. 1998. “Statement by the Honorable Tarrin Nimmanahaeminda, Governor of the Bank for Thailand at the Joint Annual Discussion.” International Monetary Fund. October 6, 1998. 
+
+https://ypfs.som.yale.edu/library/statement-hon-tarrin-nimmanahaeminda-governorbank-thailand-joint-annual-discussion. 
+
+Nimmanahaeminda, Tarrin, and M. R. Chatumongol Sonakul. 1998a. Letter of Intent to the International Monetary Fund. August 25, 1998. 
+
+https://ypfs.som.yale.edu/library/thailand-letter-intent-august-25-1998. 
+
+———. 1998b. Letter of Intent to the International Monetary Fund, “Attachment - Boxes A- 
+
+## G.” August 25, 1998. 
+
+https://ypfs.som.yale.edu/library/thailand-letter-intent-august-25-1998-attachmentboxes-g. 
+
+———. 1998c. Letter of Intent to the International Monetary Fund, December 1, 1998. https://ypfs.som.yale.edu/library/thailand-letter-intent-december-1-1998. 
+
+———. 1999a. Letter of Intent to the International Monetary Fund, March 23, 1999. https://ypfs.som.yale.edu/library/thailand-letter-intent-march-23-1999. 
+
+———. 1999b. Letter of Intent to the International Monetary Fund, “Attachment - Box A, Table 1, Annexes A-C,” September 21, 1999. https://ypfs.som.yale.edu/library/thailandletter-intent-september-21-1999-box-table-1-annexes-c. 
+
+
+Pootpisut, Suphannee. 2012. “Vayupak 1 to Become Open-Ended Fund, Ministry Says.” _The Nation Thailand_ , December 28, 2012. 
+
+https://ypfs.som.yale.edu/library/vayupak-1-become-open-ended-fund-ministry-says. 
+
+Rattakul, Yuwawan. 2003. “Thailand’s Recent Public Debt Issues.” In _Fiscal Issues and Central Banking in Emerging Economies_ , 234–44. BIS Papers, No. 20. Bank for International Settlements. October 2, 2003. 
+
+https://ypfs.som.yale.edu/library/fiscal-issues-and-central-banking-emerging-economies. 
+
+Reuters Staff. 1998a. “Thai Banks Allowed to Seek Govt Help from Oct 1.” _Reuters News_ , September 29, 1998. 
+
+https://ypfs.som.yale.edu/library/thai-banks-allowed-seek-govt-help-oct-1. 
+
+———. 1998b. “Siam Comm Bank Seeks Tier-2 Capital Aid.” _Reuters News_ , October 29, 1998. 
+
+https://ypfs.som.yale.edu/library/siam-comm-bank-seeks-tier-2-capital-aid. 
+
+———. 1998c. “Thai Farmers Eyes Government Support for Capital.” _Reuters News_ , November 26, 1998. 
+
+https://ypfs.som.yale.edu/library/thai-farmers-eyes-govt-support-capital. 
+
+———. 1999. “Book Club Denies Tier-1 Capital Rumour.” _Reuters News_ , November 24, 1999. 
+
+https://ypfs.som.yale.edu/library/book-club-denies-tier-1-capital-rumour. 
+
+Root, Gregory, Paula Grela, Mark Jones, and Anand Adiga. 2000. “Financial Sector Restructuring in East Asia.” In _Managing Financial and Corporate Distress: Lessons from Asia_ , by Charles Adams, Robert E. Litan, and Michael Pomerleano, 149–219. Brookings Institution Press. August 1, 2000. 
+
+https://ypfs.som.yale.edu/library/financial-sector-restructuring-east-asia. 
+
+Santiprabhob, Veerathai. 2003. _Lessons Learned from Thailand’s Experience with FinancialSector Restructuring_ . Edited by John Loftus. Thai Development Research Institute. November 2003. 
+
+https://ypfs.som.yale.edu/library/lessons-learned-thailands-experience-financial-sectorrestructuring. 
+
+Satitniramai, Apichat. 2007. “Weak State and Political Economy of Thailand: Ten Years after the Crisis.” 434. V.R.F. Series. Institute of Developing Economies, Japan External Trade Organization. December 2007. https://ypfs.som.yale.edu/library/weak-state-and-political-economy-thailand-ten-yearsafter-crisis. 
+
+Scott, David. 2002. “A Practical Guide to Managing Systemic Financial Crises: A Review of Approaches Taken in Indonesia, the Republic of Korea, and Thailand.” World Bank Group. May 31, 2002. 
+
+
+https://ypfs.som.yale.edu/library/practical-guide-managing-systemic-financial-crisesreview-approaches-taken-indonesia. 
+
+Siamwalla, Ammar. 2004. “Anatomy of the Crisis.” In _Thailand Beyond the Crisis_ , 66–104. Rethinking Southeast Asia 7. London (UK), New York, NY (USA): Taylor & Francis. November 4, 2004. https://ypfs.som.yale.edu/library/thailand-beyond-crisis. 
+
+Srisukkasem, Anoma. 1999. “SGACL Submits Survival Plans.” _The Nation_ , July 1, 1999. https://ypfs.som.yale.edu/library/sgacl-submits-survival-plans. 
+
+Srisukkasem, Anoma, and Jiwamol Kanoksilp. 1999. “Government Adjusts Reform Package to Aid Financial Institutions.” _The Nation_ , April 27, 1999. 
+
+https://ypfs.som.yale.edu/library/govt-adjusts-reform-package-aid-financial-institutions. 
+
+Suthiwart-Narueput, Sethaput, and Varan Pradittatsanee. 1999. “Public Debt and Economic Policy During the Economic Crisis.” Thai Ministry of Finance, Policy Research Institute. September 1999. 
+
+https://ypfs.som.yale.edu/library/public-debt-and-economic-policy-during-economiccrisis. 
+
+Takayasu, Kenichi, and Yosie Yokoe. 1999. “Non-Performing Loan Issue Crucial to Asia’s Economic Resurgence.” _Japan Research Institute RIM_ 44 (June). June 1999. https://ypfs.som.yale.edu/library/nonperforming-loan-issue-crucial-asias-economicresurgence. 
+
+Thai Investments and Securities Company (TISCO). 1998. Annual Report. December 31, 1998. 
+
+https://ypfs.som.yale.edu/library/annual-report-1998-tisco-finance-public-companylimited. 
+
+———. 1999. Annual Report. December 31, 1999. 
+
+https://ypfs.som.yale.edu/library/annual-report-1999-tisco-finance-public-companylimited. 
+
+———. 2001a. Annual Report 2000. March 31, 2001. https://ypfs.som.yale.edu/library/annual-report-2000-tisco-finance-public-companylimited. 
+
+———. 2001b. Annual Report. December 31, 2001. https://ypfs.som.yale.edu/library/annual-report-2001-tisco-finance-public-companylimited. 
+
+———. 2002. Annual Report. December 31, 2002. https://ypfs.som.yale.edu/library/thai-investments-and-securities-company-annualreport-2002. 
+
+
+Thai Military Bank (TMB). 1999a. “Minutes of the 1999 Annual General Shareholder’s Meeting of Thai Military Bank Public Company Limited.” April 27, 1999. 
+
+https://ypfs.som.yale.edu/library/minutes-1999-annual-general-shareholders-meetingthai-military-bank-public-company-limited. 
+
+———. 1999b. “Minutes of the 1999 Annual Extraordinary Shareholders’ Meeting of Thai Military Bank Public Company Limited.” September 13, 1999. 
+
+https://ypfs.som.yale.edu/library/minutes-1999-annual-extraordinary-shareholdersmeeting-thai-military-bank-public-company. 
+
+———. 2001. Annual Report. December 31, 2001. https://ypfs.som.yale.edu/library/thaimilitary-bank-annual-report-2001. 
+
+US Department of the Treasury (Treasury). 1998. “Thailand Banking.” November 11, 1998. https://ypfs.som.yale.edu/library/thailand-banking. 
+
+Vanichkorn, Soonya. 2012. “Vayupak Fund to Become Open-Ended.” _Bangkok Post_ , April 20, 2012. 
+
+https://ypfs.som.yale.edu/library/vayupak-fund-become-open-ended. 
+
+Vichyanond, Pakorn. 2004. “Dealing with Debt: NPLs and Debt Restructuring.” In _Thailand Beyond the Crisis_ , 208–31. Rethinking Southeast Asia 7. London (UK), New York, NY (USA): Taylor & Francis. November 4, 2004. 
+
+https://ypfs.som.yale.edu/library/thailand-beyond-crisis. 
+
+World Bank. 1999a. “Thailand - Second Economic and Financial Adjustment Loan Project.” P7271-TH. President’s Report. World Bank. March 25, 1999. https://ypfs.som.yale.edu/library/world-bank-report-no-p-7271-th. 
+
+———. 1999b. “Thailand Economic Monitor.” 19767. Departmental Working Paper. World Bank. June 30, 1999. 
+
+https://ypfs.som.yale.edu/library/thailand-economic-monitor-june-30-1999. 
+
+———. 2000a. “Thailand - Social and Structural Review - Beyond the Crisis: Structural Reform for Stable Growth.” 19732. Pre-2003 Economic or Sector Report. World Bank. January 25, 2000. 
+
+https://ypfs.som.yale.edu/library/thailand-social-structural-review-beyond-crisisstructural-reform-stable-growth. 
+
+———. 2000b. “Thailand Economic Monitor.” 66290. Working Paper. World Bank. June 1, 2000. 
+
+https://ypfs.som.yale.edu/library/thailand-economic-monitor-june-1-2000-0. 
+
+———. 2006. “Project Performance Assessment Report.” 35051. January 31, 2006. https://ypfs.som.yale.edu/library/world-bank-project-performance-assessment-reportkingdom-thailand-2006. 
+
+
+## **V. Key Program Documents** 
+
+## **Summary of Program** 
+
+(BOT 1998a) Bank of Thailand (BOT). 1998. Annual Economic Report. _Terms of the government capital offered through the capital support facilities_ . https://ypfs.som.yale.edu/library/annual-economic-report-1998. 
+
+(Lindgren et al. 1999) “Financial Sector Crisis and Restructuring: Lessons from Asia.” Occasional Papers 188. International Monetary Fund. 
+
+_Describes various financial sector restructuring efforts by Asian governments during the 1990s_ . 
+
+https://ypfs.som.yale.edu/library/financial-sector-crisis-and-restructuring-lessons-asia. 
+
+(Santiprabhob 2003) Santiprabhob, Veerathai. Lessons Learned from Thailand’s Experience with Financial-Sector Restructuring. November 2003. 
+
+_Examines the pre-history of the Asian Financial Crisis in Thailand and the government’s interventions._ 
+
+https://ypfs.som.yale.edu/library/lessons-learned-thailands-experience-financial-sectorrestructuring. 
+
+## **Implementation Documents** 
+
+Bank of Thailand (BOT). 1998. “Preparing a Report for Submitting a Request for Assistance Under the Tier 2 Capital Increase Scheme.” Bank of Thailand. Circular letter, November 12, 1998. 
+
+_Outlines requirements to participate in the tier-2 capital support facility_ . 
+
+https://ypfs.som.yale.edu/library/preparing-report-submitting-request-assistance-undertier-2-capital-increase-scheme. 
+
+Bank of Thailand (BOT). 1998. “Redemption of Equity Instruments or Long-Term Subordinated Debt Instruments Approved by the Bank Can Be Counted as Tier-2 Capital.” Bank of Thailand. Circular letter, December 17, 1998. 
+
+_Describes the capital treatment of equity and long-term subordinated debt_ . 
+
+https://ypfs.som.yale.edu/library/circular-letter-redemption-equity-instruments-or-longterm-subordinated-debt-instruments. 
+
+(Nimmanahaeminda and Sonakul 1998a) Letter of Intent to the International Monetary Fund. August 25, 1998. 
+
+_Describes the purpose of the capital support facilities, capital terms, and other participatory conditions_ . 
+
+https://ypfs.som.yale.edu/library/thailand-letter-intent-august-25-1998. 
+
+(Nimmanahaeminda and Sonakul 1998b) Letter of Intent. December 1, 1998. 
+
+_Describes the requirement for financial institutions to sign memoranda of understanding with_ 
+
+
+_the government if they needed help recapitalizing_ . https://ypfs.som.yale.edu/library/thailand-letter-intent-december-1-1998. 
+
+## **Legal/Regulatory Guidance** 
+
+(BIS 1999) Bank Restructuring in Practice. BIS Policy Papers, No. 6. September 22, 1999. _Describes Bank of Thailand’s tightening of supervisory standards and financial regulations._ https://ypfs.som.yale.edu/library/bank-restructuring-practice. 
+
+(BOT 1999) Bank of Thailand 1999 Annual Economic Report. 
+
+_Describes the Bank of Thailand’s acceptance of hybrid securities as part of matchable capital under the capital support facilities_ . 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Annual-99.pdf. 
+
+Bank of Thailand (BOT). “Rules for Counting New Types of Equity Instruments as Tier 1 Capital (BOT Ngot. (Wor) 1994/2542).” Circular letter, March 31, 1999. 
+
+_Clarifies the BOT’s regulatory treatment of hybrid securities in light of revised Base Capital Accord on October 27, 1998, and explains the characteristics of tier-1 capital_ . 
+
+https://ypfs.som.yale.edu/library/rules-counting-new-types-equity-instruments-tier-1capital-bot-ngor-wor-19942542. 
+
+(Emergency Decree 1998) _Emergency Decree Allowing the Ministry of Finance to Borrow Money for the Strengthening of the Financial System_ . 1998. 
+
+_Regulation allowing the Thai government to issue debt up to B300 billion to conduct capital injections_ . 
+
+https://ypfs.som.yale.edu/library/emergency-decree-allowing-ministry-finance-borrowmoney-strengthening-financial-system. 
+
+## **Press Releases/Announcements** 
+
+(BOT 1998b) “Issue 55/2541: Recapitalization Program for Financial Institutions.” Bank of Thailand, press release, August 19, 1998. 
+
+_The initial press release (No 55/2541) describing the main features and application steps of the tier-1 and tier-2 capital support facilities. This press release was translated by Natee Amornsiripanitch on January 26, 2020_ . 
+
+https://ypfs.som.yale.edu/library/recapitalize-program-financial-institutions. 
+
+Bank of Thailand (BOT). 1999. “Announcement of the Ministry of Finance Re: Rules, Procedures and Conditions for Financial Institutions Wishing to Seek Assistance from the Ministry of Finance Pursuant to the Tier 1 Capital Increase Project and the Tier 2 Capital Increase Program (F.2) (D. (Wor) 852/2542).” Circular letter, June 15, 1999. _Communicated MOF’s revisions to the original (September 29, 1998) rules_ . 
+
+https://ypfs.som.yale.edu/library/announcement-ministry-finance-re-rules-proceduresand-conditions-financial-institutions. 
+
+
+Bank of Thailand (BOT). 1999. “Reducing the Ceiling to Count New Equity Instruments as Tier 1 (BOT Ngot. (Wor) 2240/2542).” Bank of Thailand. Circular letter, June 15, 1999. _Announces that financial institutions may only count hybrid securities instruments up to a maximum of 25%—down from 33%—of tier-1 capital_ . 
+
+https://ypfs.som.yale.edu/library/reducing-ceiling-count-new-equity-instruments-tier-1bot-ngot-wor-22402542. 
+
+Ministry of Finance (MOF). 1998. “Issue 81/2541: Financial Institutions System Rehabilitation Plan.” Press release, August 14, 1998. 
+
+_Describes the Thai government’s plan to quell the second outbreak of the financial crisis_ https://ypfs.som.yale.edu/library/issue-812541-financial-institutions-systemrehabilitation-plan. 
+
+Ministry of Finance (MOF). 1998. “Issue 107/2541: Regarding the Measures That the Thai Government Has Taken within the Warning of August 1998 Under the Agreement Provided to the International Monetary Fund (IMF).” Press release, September 11, 1998. 
+
+_Lists the conditionalities that the Ministry of Finance had to follow as part of the loan from the International Monetary Fund_ . 
+
+https://ypfs.som.yale.edu/library/issue-1072541-regarding-measures-thai-governmenthas-taken-within-warning-august-1998-under. 
+
+Ministry of Finance (MOF). 1998. “Issue 124/2541: RE: Criteria, Conditions and Procedures for Financial Institutions Participating in the Tier 1 and Tier 2 Capital Support Schemes of the Ministry of Finance (English).” Press release, September 29, 1998. 
+
+_Describes conditions for participation in the Ministry of Finance’s Tier-1 and Tier-2 capital support facilities_ . 
+
+https://ypfs.som.yale.edu/library/issue-1242541-re-criteria-conditions-and-proceduresfinancial-institutions-participating. 
+
+Ministry of Finance (MOF). 1998. “Issue 124/2541: RE: Criteria, Conditions and Procedures for Financial Institutions Participating in the Tier 1 and Tier 2 Capital Support Schemes of the Ministry of Finance (Thai).” Press release, September 29, 1998. 
+
+_Describes conditions for participation in the Ministry of Finance’s Tier-1 and Tier-2 capital support facilities_ . 
+
+https://ypfs.som.yale.edu/library/issue-1242541-re-criteria-conditions-and-proceduresfinancial-institutions-participating-0. 
+
+Ministry of Finance (MOF). 1998. “Notification of the Ministry of Finance RE: Rules, Procedures, and Conditions for Financial Institutions Wishing to Seek Assistance from the Ministry.” Bank of Thailand. Press release, September 29, 1998. 
+
+_Outlines the terms and conditions for participating in the capital support facilities the Thai Ministry of Finance released this as a follow up to the initial August 14, 1998, announcement_ . https://ypfs.som.yale.edu/library/notification-ministry-finance-re-rules-procedures-andconditions-financial-institutions. 
+
+
+Ministry of Finance (MOF). 1999. “Issue 37/2542: Monitoring the Implementation of the Policy of the Minister of Finance.” Press release, March 26, 1999. 
+
+_Describes the Ministry of Finance’s (MOFs) policy sub-committee dedicated to overseeing the Financial Restructuring Advisory Committee, the independent group that set the terms for MOF’s capital injections_ . 
+
+https://ypfs.som.yale.edu/library/issue-372542-monitoring-implementation-policyminister-finance. 
+
+Ministry of Finance (MOF). 1999. “Issue 44/2542: The Siam Commercial Bank Public Company Limited Requested to Enter the Tier 1 Capital Fund Project.” Press release, April 2, 1999. 
+
+_Describes the Ministry of Finance’s approval of Siam Commercial Bank’s request to enter into the tier-1 capital support facility._ 
+
+https://ypfs.som.yale.edu/library/issue-442542-siam-commercial-bank-public-companylimited-requested-enter-tier-1-capital. 
+
+Ministry of Finance (MOF). 1999. “Issue 57/2542: The Signing Ceremony of the Siam Commercial Bank Public Company Limited.” Press release, April 29, 1999. 
+
+_Describes the signing ceremony between the Ministry of Finance and the Siam Commercial Bank_ . 
+
+https://ypfs.som.yale.edu/library/issue-572542-signing-ceremony-siam-commercialbank-public-company-limited. 
+
+Ministry of Finance (MOF). 1999. “Issue 73/2542: The Signing Ceremony of the Capital Increase Contract of TISCO Finance Public Company Limited.” Press release, June 1, 1999. _Describes the signing ceremony between the Ministry of Finance and TISCO_ . 
+
+https://ypfs.som.yale.edu/library/issue-732542-signing-ceremony-capital-increasecontract-tisco-finance-public-company. 
+
+Ministry of Finance (MOF). 1999. “Issue 74/2542: Re: Project to Increase Tier 1 and Tier 2 Capital Funds as Approved.” Press release, June 8, 1999. 
+
+_Describes the regulatory treatment of SLIPS/CAPS (hybrid capital) as tier-1 capital The Ministry reconciles discrepancies between recent BIS regulations and the Ministry’s own classifications and explains why it will not inject capital at book value_ . 
+
+https://ypfs.som.yale.edu/library/issue-742542-re-project-increase-tier-1-and-tier-2capital-funds-approved. 
+
+Ministry of Finance (MOF). 1999. “Issue 94/2542: On the Progress of the Implementation of the Financial System Rehabilitation Plan (14 August 1998).” Press release, August 13, 1999. 
+
+_Describes the “success” of the August 14 measures taken one year prior to the announcement_ . https://ypfs.som.yale.edu/library/issue-942542-progress-implementation-financialsystem-rehabilitation-plan-14-august-1998. 
+
+Ministry of Finance (MOF). 1999. “Issue 122/2542: Increasing TMB Fund for Tier 1 Project of TMB Bank Public Company Limited.” Press release, October 14, 1999. 
+
+
+_Describes the postponement of the signing ceremony between the Thai Military Bank and the Ministry of Finance as part of the tier-1 capital support facility_ . 
+
+https://ypfs.som.yale.edu/library/issue-1222542-increasing-tmb-fund-tier-1-project-tmbbank-public-company-limited. 
+
+Ministry of Finance (MOF). 1999. “Issue 136/2542: Signing Ceremony for the Project of SG Finance and Securities Company Limited.” Press release, November 19, 1999. 
+
+_Describes the signing ceremony between the Ministry of Finance and SG Finance and Securities under the tier-1 capital support facility_ . 
+
+https://ypfs.som.yale.edu/library/issue-1362542-signing-ceremony-project-sg-financeand-securities-company-limited. 
+
+Ministry of Finance (MOF). 2002. “Issue 4/2545: Execution of Warrants to Purchase Preferred Shares According to the Project to Help Increase Tier 1 Capital of Financial Institutions Owned by the Ministry of Finance.” Press release, January 8, 2002. 
+
+_Describes the execution of warrants to purchase the Thai Ministry of Finance’s preferred shares in Siam Commercial Bank, TISCO Securities, SG Asia Finance Company, and Thai Military Bank_ . 
+
+https://ypfs.som.yale.edu/library/issue-42545-execution-warrants-purchase-preferredshares-according-project-help-increase. 
+
+Ministry of Finance (MOF). 2002. “Issue 18/2545: Handling of Warrants for Preferred Shares According to the Project to Help Increase Tier 1 Capital of Finance-Owned Financial Institutions.” Press release, March 5, 2002. 
+
+_Clarifies the prior announcement (Issue 4/2545) regarding the execution of the Ministry of Finance’s covered warrants_ . 
+
+http://www1.mof.go.th/home/Press_release/news2002/18.pdf. 
+
+Ministry of Finance (MOF). 2004. “Issue 27/2547: To Retain the Right to Receive Dividends of the Preferred Shares of Siam Commercial Bank for the Portion Exceeding the Proportion Ownership of Vayupak Fund One Fund.” Press release, April 12, 2004. 
+
+_Describes Siam Commercial Bank’s (SCB’s) dividend payouts on the preferred shares that it had sold to the Ministry of Finance._ 
+
+https://ypfs.som.yale.edu/library/issue-272547-retain-right-receive-dividends-preferredshares-siam-commercial-bank-portion. 
+
+## **Media Stories** 
+
+(Crispin 2003) “Bangkok Clears $2.41 Billion Fund For Rescuing Troubled Thai Firms.” Wall Street Journal. June 25, 2003. 
+
+_Describes the Thai Ministry of Finance’s creation of the closed-end fund (“Vayupak Fund”), which analysts believed would increase government holdings in companies still suffering from the financial effects of the 1997-98 Asian Financial Crisis._ 
+
+https://ypfs.som.yale.edu/library/bangkok-clears-241-billion-fund-rescuing-troubledthai-firms. 
+
+
+(Finance Reporters 1999) “SCB First to Receive State Tier-1 Assistance.” The Nation. Thailand. January 6, 1999. 
+
+_Describes the total amount of government funding allocated to the tier-1 and tier-2 capital support facilities This article also describes the government’s strategy for financing the facilities and notes the first disbursement of tier-1 capital._ 
+
+https://ypfs.som.yale.edu/library/scb-first-receive-state-tier-1-assistance. 
+
+(Kanoksilp 2000) “Bank Plans Move Rules on TMB Recapitalisation Unchanged.” The Nation. Thailand. March 21, 2000. 
+
+_Describes one bank’s unsuccessful attempt to renegotiate the amount of private capital that the government was willing to match under the tier-1 support facility._ https://ypfs.som.yale.edu/library/bank-plans-move-rules-tmb-recapitalisationunchanged. 
+
+(Kanoksilp and Keawkumnurdpong 1999) “TMB Applies for State Finance.” The Nation. Thailand. June 23, 1999. 
+
+_Describes how banks faced months of press speculation as to whether they needed government assistance in the form of capital support._ 
+
+https://ypfs.som.yale.edu/library/tmb-applies-state-finance. 
+
+(Kotani 2017) “It Was 20 Years Ago That the Thai Central Bank Panicked.” Nikkei Asian Review. July 2, 2017. 
+
+_Describes the difficulty of decision-making in a time of crisis, from the perspective of the former Minister of Finance._ 
+
+https://ypfs.som.yale.edu/library/it-was-20-years-ago-thai-central-bank-panicked. 
+
+(Reuters Staff 1998) “Siam Comm Bank Seeks Tier-2 Capital Aid.” Reuters News. Bangkok, Thailand. October 29, 1998. 
+
+_Describes how the Financial Restructuring Advising Committee received and reviewed tier-1 and tier-2 capital support applications._ 
+
+https://ypfs.som.yale.edu/library/siam-comm-bank-seeks-tier-2-capital-aid. 
+
+(Reuters Staff 1999) “Book Club Denies Tier-1 Capital Rumour.” Reuters News. Bangkok, Thailand. November 24, 1999. 
+
+_Exhibits a financial institution denial of rumors about its prospective participation in the government’s capital support facilities. Rumors damaged the publicly traded equities of financial institutions._ 
+
+https://ypfs.som.yale.edu/library/book-club-denies-tier-1-capital-rumour. 
+
+(Srisukkasem 1999) “SGACL Submits Survival Plans.” The Nation. Thailand. July 1, 1999. _Describes the Financial Restructuring Advisory Committee’s role in the capital support facilities. FRAC received and reviewed applications._ 
+
+https://ypfs.som.yale.edu/library/sgacl-submits-survival-plans. 
+
+(Srisukkasem and Kanoksilp 1999) “Government Adjusts Reform Package to Aid Financial Institutions.” The Nation. Thailand. April 27, 1999. 
+
+
+_Describes the government’s adjustment of the capital support facilities. The Bank of Thailand began to match hybrid securities as part of tier-1 recapitalization aid._ 
+
+https://ypfs.som.yale.edu/library/govt-adjusts-reform-package-aid-financial-institutions. 
+
+(The Economist 2003) “Fowl Play.” The Economist. August 21, 2003. 
+
+_Describes the Thai government’s two Vayupak 1nvestment funds, to be launched in October 2003 with ten-year expiration dates_ . 
+
+https://ypfs.som.yale.edu/library/fowl-play-government-pushes-its-own-investmentfunds. 
+
+(The Nation Staff 1999a) “August 14 Restructuring Package - Who Gains and Who Loses?” The Nation. Thailand. May 3, 1999. 
+
+_Describes the government’s exit strategy of privatization and explains the terms of the capital support facility._ 
+
+https://ypfs.som.yale.edu/library/aug-14-restructuring-package-who-gains-and-wholoses. 
+
+(The Nation Staff 1999b) “SET Closes Below 400-Point Psychological Mark.” The Nation. Thailand. November 25, 1999. 
+
+_Describes the damage of rumors about banks that might seek government tier-1 capital support._ 
+
+https://ypfs.som.yale.edu/library/set-closes-below-400-point-psychological-mark. 
+
+## **Key Academic Papers** 
+
+(Enoch, Garcia, and Sundarajan 1999) “Recapitalizing Banks with Public Funds: Selected Issues.” International Monetary Fund Working Papers. October 1, 1999. 
+
+_Highlights the range of operational and strategic issues to foster an effective banking system restructuring and maximize the returns on government investment_ . https://ypfs.som.yale.edu/library/recapitalizing-banks-public-funds-selected-issues-0. 
+
+(Klingebiel, Kroszner, Laeven, and van Oijen 2001) “Stock Market Responses to Bank Restructuring Policies During the East Asian Crisis.” Policy Research Working Paper. March 31, 2001. 
+
+_Explores the positive signaling effects of the August 14th Package on Thai bank stocks during the Asian Financial Crisis._ 
+
+https://ypfs.som.yale.edu/library/stock-market-responses-bank-restructuring-policiesduring-east-asian-crisis. 
+
+(Satitniramai 2007) “Weak State and Political Economy of Thailand: Ten Years after the Crisis.” 434. V.R.F. Series. December 2007. 
+
+_Describes the economic history that resulted in the financial crisis in Thailand._ https://ypfs.som.yale.edu/library/weak-state-and-political-economy-thailand-ten-yearsafter-crisis. 
+
+
+(Scott 2002) “A Practical Guide to Managing Systemic Financial Crises: A Review of Approaches Taken in Indonesia, the Republic of Korea, and Thailand.” World Bank Group. May 31, 2002. 
+
+_Describes the hybrid securities that Thai financial institutions issued to raise private capital._ https://ypfs.som.yale.edu/library/practical-guide-managing-systemic-financial-crisesreview-approaches-taken-indonesia. 
+
+(Siamwalla 2004) “Anatomy of the Crisis.” In Thailand Beyond the Crisis, 66–104. Rethinking Southeast Asia 7. London (UK), New York, NY (USA): Taylor & Francis. November 4, 2004. 
+
+_Describes banks’ hesitation to join the government’s capital support facilities because the terms were onerous._ 
+
+https://ypfs.som.yale.edu/library/thailand-beyond-crisis. 
+
+(World Bank 1999) “Thailand - Second Economic and Financial Adjustment Loan Project.” P7271-TH. President’s Report. March 25, 1999. 
+
+_Claims that the tier-2 capital support facility saw success in the form of increased business lending and debt restructuring._ 
+
+https://ypfs.som.yale.edu/library/world-bank-report-no-p-7271-th. 
+
+(World Bank 2000) “Thailand - Social and Structural Review - Beyond the Crisis: Structural Reform for Stable Growth.” Report no. 19732. Pre-2003 Economic or Sector Report. January 25, 2000. 
+
+_Describes how financial institutions struggled to meet their end-2000 provisioning requirements because they had to write down existing capital, which deterred banks from participating in the government’s capital support facilities._ 
+
+https://ypfs.som.yale.edu/library/thailand-social-structural-review-beyond-crisisstructural-reform-stable-growth. 
+
+## **Reports/Assessments** 
+
+(BOT 2000) Bank of Thailand (BOT). 2000. “Supervision Report 2000.” _Describes the total uptake/utilization, length of the issuance window, number of participants, and the type of securities exchanged under the Bank of Thailand’s capital support facilities._ https://ypfs.som.yale.edu/library/supervision-report-2000. 
+
+(Honohan 2001) “Recapitalizing Banking Systems: Implications for Incentives and Fiscal and Monetary Policy.” Policy Research Working Paper. February 28, 2001. 
+
+_Describes the terms of the capital that the government exchanged with private financial institutions._ 
+
+https://ypfs.som.yale.edu/library/recapitalizing-banking-systems-implications-incentivesand-fiscal-and-monetary-policy. 
+
+(Suthiwart-Narueput and Pradittatsanee 1999) “Public Debt and Economic Policy During the Economic Crisis.” Ministry of Finance, Policy Research Institute. September 1999. _Describes the Thai government’s issuance of public debt to finance the capital support_ 
+
+
+_facilities and covers the emergency legislation passed to enable the issuance._ https://ypfs.som.yale.edu/library/public-debt-and-economic-policy-during-economiccrisis. 
+
+Copyright 2019, 2021 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

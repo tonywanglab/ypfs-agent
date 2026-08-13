@@ -1,0 +1,536 @@
+## United States: Central Bank Swaps to 14 Countries, 2007–2009[1] 
+
+
+
+
+Yale Program on Financial Stability Case Study July 21, 2023 
+
+## **Abstract** 
+
+During the Global Financial Crisis of 2007–2009 (GFC), European financial institutions faced increased difficulty financing their US dollar–denominated assets as banks, money market funds, and other financial institutions pulled back funding. On December 12, 2007, the Federal Reserve announced two programs to address the situation by extending the reach of its liquidity providing operations. The programs were the Term Auction Facility, meant to improve liquidity for banks in the US, and currency swaps with European central banks, to facilitate dollar funding for financial institutions in Europe. The initial swap arrangements made up to USD 20 billion available to the European Central Bank (ECB) and up to USD 4 billion available to the Swiss National Bank (SNB). After the collapse of Lehman Brothers, a major US investment bank, in September 2008, the Fed added swap lines with 12 more central banks. The Fed also said, in October 2008, that it would provide an unlimited amount of dollars to the ECB, SNB, Bank of England (BoE), and Bank of Japan (BoJ). The Fed’s dollar liquidity swap lines were in use almost continuously from December 2007 to their expiration in early 2010. In May 2010, a few months after the swaps expired, the Fed announced that it reinstated dollar liquidity swap lines with the ECB, SNB, BoE, BoJ, and Bank of Canada, in response to renewed stress in short-term US dollar funding markets. In 2011, the Fed then announced that it had entered an arrangement with these five central banks that would allow the Fed, and each of the other central banks, to access liquidity in any of the currencies of the banks involved. The Fed announced in 2013 that the lines would become standing with no expiration date. 
+
+**Keywords:** central bank liquidity swaps, financial crises, Global Financial Crisis 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering central bank swap line programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+The amount of US dollar–denominated assets at European banks sharply increased in the decade leading up to the Global Financial Crisis of 2007–2009 (GFC). In summer 2007, while interbank funding markets were drying up, institutions had to provide backstop liquidity for asset-backed commercial paper programs they had sponsored. More and more European banks had to convert European currencies into dollars using foreign currency (FX) swap markets. The rush to purchase US dollars caused significant disruptions and illiquid trading conditions. The cost of raising funds via FX swaps rose, and some banks were simply unable to obtain funds (Allen and Moessner 2010). Further damaging market functioning, concerns about counterparty risk pushed some market makers out of the market and made riskier institutions even less likely to be able to find parties to transact with. Low liquidity in spot FX markets also caused issues with pricing forward transactions and caused wide bid-ask spreads (Baba and Packer 2009). 
+
+The Federal Reserve’s Federal Open Market Committee (FOMC) held a conference call on December 6, 2007, outside its normally scheduled meetings, to discuss the strains that banks and other financial institutions faced in dollar funding markets, both in the United States and overseas. They considered two complementary proposals from the staff: a Term Auction Facility (TAF), to improve liquidity for banks in the US, and the arrangement of temporary currency swap lines with foreign central banks, to facilitate dollar funding for financial institutions in Europe. They also considered reducing the primary credit rate and establishing a term credit facility. Then–FOMC Chairman Ben Bernanke emphasized the importance of illustrating tight cooperation 
+
+## **Key Terms** 
+
+Purpose: to “provide dollar funds that those central banks could lend in their jurisdictions” and “improve liquidity in dollar term funding markets” (Fed 2008l; FOMC 2007a) 
+
+||Participating|The Fed extended dollar|
+|---|---|---|
+||Parties|liquidity swap lines to 14<br>central banks; it could also<br>borrow foreign currencies<br>from 4 of them|
+||Type of Swap|Series of bilateral reciprocal|
+|||swap lines with 4 countries|
+|||and bilateral unidirectional<br>with 10|
+||Currencies|US dollars to 14 foreign central|
+||Involved|banks; GBP, EUR, JPY, and CHF|
+|||for USD from the 4 central|
+||Launch Date|banks with reciprocal lines<br>Between Dec. 12, 2007, and<br>Oct. 29, 2008|
+||End Date|All GFC-era swap|
+|||arrangements expired Feb. 1,|
+||Date of First Usage|2010<br>Dec. 17, 2007|
+||Interest Rate and<br>Fees|Generally at market rates;<br>interest rates ranged between|
+|||0.14% and 11.96%|
+||Amount<br>Authorized|Amounts authorized started at<br>USD 20 billion for the ECB and<br>USD 4 billion for the SNB and<br>eventually became unlimited|
+|||for 4 central banks and USD 15|
+|||billion or USD 30 billion for the|
+||Peak Usage<br>Amount and Date|remaining 10<br>Aggregate peak outstanding of<br>USD 583 billion as of Dec. 17,|
+|||2008|
+||Downstream|Borrowing central banks used|
+||Use/Application of<br>Swap Funds|the swaps to provide US dollar<br>funding to domestic financial<br>institutions|
+|||_(continued)_|
+
+
+
+
+and communication among major central Outcomes All borrowed amounts were banks, though he noted he was unsure this repaid in full would be enough given the magnitude of the issues. At the meeting, the FOMC voted Notable Features Communication and coordination among the major to enter into a currency swap arrangement banks and the Fed’s uncapping with the European Central Bank (ECB) for a of 4 swap lines period of up to 180 days with a limit of USD 20 billion outstanding and maximum draws of USD 10 billion; members also agreed to send the TAF proposal to the Federal Reserve Board of Governors for a notation vote (FOMC 2007a).[3] 
+
+The following week, on December 12, 2007, the Fed announced that it was going forward with the two proposals “to address elevated pressures in short-term funding markets” (Fed 2007a). Both measures complemented facilities such as the discount window, which banks were not using sufficiently to address their liquidity problems due to stigma concerns. The Term Auction Facility provided term funding in the US to a broader range of counterparties and against a wider variety of collateral than its normal market operations. The announcement included the bilateral, unidirectional currency swap lines that had been approved by the FOMC on December 6 and 11. These swap lines provided up to USD 20 billion to the ECB and up to USD 4 billion to the Swiss National Bank (SNB). The ECB and SNB could then lend those dollars to financial institutions in their jurisdictions (Fed 2007a). The Fed noted that it was making the announcement jointly with four major central banks, the ECB, the SNB, the Bank of Canada (BoC), and the Bank of England (BoE), each of which issued separate statements with different details regarding their “measures designed to address elevated pressures in short-term funding markets” (Fed 2007a). The Bank of Japan (BoJ) and Sveriges Riksbank also issued supporting statements. 
+
+Dollar liquidity remained tight in the ensuing months, and the Fed responded by increasing the size of the swap arrangements in March, May, July, and September 2008. In September, after the failure of Lehman Brothers, a US investment bank, the Fed also announced new agreements with the BoJ, BoE, and BoC. The Reserve Bank of Australia (RBA), Sveriges Riksbank, Danmarks Nationalbank (DNB), and Norges Bank received swap lines later in September 2008 (Fed 2008e). 
+
+In mid-October 2008, the Fed announced that its swap agreements with the ECB, SNB, BoJ, and BoE were no longer limited in size (Fed 2008h; Fed 2008i). It also announced additional swap lines with the Reserve Bank of New Zealand (RBNZ), Banco Central do Brasil (BCB), Banco de Mexico (BoM), Bank of Korea (BoK), and Monetary Authority of Singapore (MAS) in late October. Those agreements brought the total number of central bank swap arrangements to 14 (Fed 2008j; Fed 2008k). 
+
+See Figure 1 for details on the launch dates, currencies used, and size of the dollar liquidity swap arrangements. Figure 5 in the Appendix contains info on the swaps meant to provide 
+
+> 3 The TAF was one of the earliest and ultimately most used liquidity facilities introduced by the Fed to provide liquidity to US banks and combat the crisis. See (Runkel 2022) for further discussion of this program. 
+
+
+the Fed with foreign currency, and Figure 4 in Key Design Decision No. 8, Size, contains a timeline of swap arrangement sizes by press release date and counterparty central bank. 
+
+[FIGURE id=vol5_iss1_20_f1 type=figure label="Figure 1" file=figure_1.png caption="Swap Agreement Terms: Dollar Liquidity Swaps"]
+### **Figure 1: Swap Agreement Terms: Dollar Liquidity Swaps**
+![Figure 1](assets/vol5_iss1_20/figure_1.png)
+
+
+
+
+Note: See Figure 5 in the Appendix for a list of swap lines meant to provide the Fed with foreign currency. Initial size (USD bn) refers to the initial amount authorized on the launch date. All swap lines expired February 1, 2010 (Allen and Moessner 2010; Fed 2010). 
+
+_Sources: For currencies involved: Allen and Moessner 2010; Fed n.d.b; for launch dates and initial and maximum sizes: Allen and Moessner 2010._ 
+
+The swaps were in use as early as December 2007 and remained in use until the lines expired on February 1, 2010. The usage spiked in September and October 2008, after the Lehman failure, as shown in Figure 2 (Fed n.d.a; Fed 2008e; Fed 2008k). 
+
+
+[FIGURE id=vol5_iss1_20_f2 type=figure label="Figure 2" file=figure_2.png caption="US Dollar Liquidity Swaps Outstanding, by Counterparty (in USD bn)"]
+### **Figure 2: US Dollar Liquidity Swaps Outstanding, by Counterparty (in USD bn)**
+![Figure 2](assets/vol5_iss1_20/figure_2.png)
+
+
+Note: Data shown is weekly as of Wednesdays and is from December 19, 2007, through February 17, 2010. All amounts are in US dollars (billions). The Fed’s swap lines expired February 1, 2010, and were fully repaid by February 12, 2010 (Fed 2010). The Fed also had swaps with the central banks of Canada, Brazil, New Zealand, and Singapore, which were not in use during this period. 
+
+_Sources: Federal Reserve Board; author’s calculations_ 
+
+Most of the counterparty central banks drew on the swap lines, as shown in Figure 2, but the BoC, RBNZ, BCB, and MAS never used the lines. Draws and amounts outstanding by borrower central banks are shown in Figure 3. The ECB was the biggest user of the swaps, followed by the BoJ and BoE (Fed n.d.b). 
+
+
+[FIGURE id=vol5_iss1_20_f3 type=figure label="Figure 3" file=figure_3.png caption="GFC-Era Swap Usage: Key Statistics, by Borrowing Central Bank"]
+### **Figure 3: GFC-Era Swap Usage: Key Statistics, by Borrowing Central Bank**
+![Figure 3](assets/vol5_iss1_20/figure_3.png)
+
+
+
+
+Note: Data shown is weekly as of Wednesdays and is through the dates shown. The Fed’s swap lines expired on February 1, 2010. The Fed also had swaps with the BoC, RBNZ, BCB, and MAS, which were not in use during this period. 
+
+_Sources: Federal Reserve Board; author’s calculations_ 
+
+In April 2009, the Fed established swap lines to borrow foreign currencies from the ECB, SNB, BoJ, and BoE, if US financial institutions needed them (Fed 2009a). The Fed never drew on these swaps. All of the Fed’s swap lines, both those meant to provide US dollars and those meant to provide the Fed with foreign currency, expired on February 1, 2010 (Allen and Moessner 2010). The last outstanding draw on the swap lines matured on February 12, 2010 (Fed 2010). 
+
+## **Summary Evaluation** 
+
+In a 2010 paper, two Fed officials say the swap lines were effective at improving dollar funding market conditions. They also describe the swaps as acting “largely as an overseas extension of the Term Auction Facility.” For example, the ECB used the lowest accepted bids from TAF auctions to set the rates for its own fixed-rate tenders; in contrast, the SNB set its own variable rates for downstream tenders. The two Fed officials note that dollar funding pressures typically moderated following major increases in dollars lent under the swaps (Fleming and Klagge 2010). 
+
+Allen and Moessner (2010) say that only the Fed and BoJ had large enough foreign exchange reserves to support domestic banks without using swap lines or without risking greater stresses coming about as a result of depleted reserves. They also say that the Fed’s dollar liquidity swap lines were “very effective in relieving US dollar liquidity stresses and stresses in foreign exchange markets.” Key aspects of that success, they note, were the Fed’s quick action to provide funds; its willingness to raise limits flexibly as the financial crisis intensified, particularly in September 2008 after the collapse of Lehman Brothers; and the large amounts that the Fed provided via the swap lines (Allen and Moessner 2010). 
+
+
+The swap lines were the subject of some controversy in the United States, particularly politically during the later stages of the crisis. In 2009, then–Chairman of the Fed Bernanke appeared before the US House Committee on Financial Services and answered various questions including several on the central bank liquidity swaps. Key points included the size of the “central bank liquidity swaps” item on the asset side of the Fed’s balance sheet, which then–Congressman Alan Grayson (D-FL) pointed out had reached more than USD 553 billion at the end of 2008. Grayson also expressed a concern that the Fed did not track the downstream usage of the funds that it lent to foreign central banks (House of Representatives 2009). 
+
+
+
+[FIGURE id=vol5_iss1_20_f4 type=figure label="Exhibit 4" file=exhibit_4.png caption=""]
+![Exhibit 4](assets/vol5_iss1_20/exhibit_4.png)
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose and Type: The Federal Reserve entered into bilateral, unidirectional swaps with 14 central banks to provide dollar funds that they could lend downstream to financial institutions in their jurisdictions; it later revised its arrangements with four of these central banks to make them reciprocal.** 
+
+During the Global Financial Crisis, European financial institutions faced increasing difficulty financing their US dollar–denominated assets as banks, money market funds, and other financial institutions pulled back funding. In response to those issues, the Fed initially considered a swap line with the ECB and a possible smaller line with the SNB. The Fed’s stated purpose was to “allow dollar funding problems now faced by European banks, particularly at terms longer than overnight, to be addressed more directly by their home central bank” (FOMC 2007a). The Fed’s other liquidity facilities were available only to banks and primary dealers in the US. The Fed used the swap lines to provide liquidity to overseas financial markets and institutions without direct access to dollars in their home markets (Allen and Moessner 2010). 
+
+The Fed established the swap lines alongside the US Term Auction Facility, a mechanism the Fed used to auction term loans to US banks. Fed officials believed using the swap lines to try to improve the situation in Europe would help guard against spillover effects in American markets and help reduce US dollar term funding pressures. Officials saw the establishment of a dollar liquidity swap line with the ECB as having the potential to boost confidence without the Fed taking on credit risk or transacting directly with overseas banks (FOMC 2007a). 
+
+Swap lines with the BoJ, BoE, BoC, RBA, Sveriges Riksbank, Danmarks Nationalbank, and Norges Bank followed in September 2008, when global liquidity worsened after the failure of Lehman Brothers (Fed 2008d; Fed 2008e). 
+
+On October 13, 2008, the Fed announced in a press release that the ECB, SNB, and BoE swap lines would be “increased to accommodate whatever quantity of U.S. dollar funding is demanded” and that it was considering a similar increase for the BoJ (Fed 2008h). The BoJ swap became unlimited the following day. According to both press releases, the purpose of the increase was to ensure that the borrowing central banks could provide US dollar funding to financial institutions in their jurisdictions in whatever quantity was necessary to meet demand (Fed 2008h; Fed 2008i). In response to the heightened market stresses after the failure of Lehman Brothers, the ECB, SNB, BoE, and BoJ were beginning to auction term and forward dollar funding similar to the Fed’s domestic TAF program, and the removal of a cap on the swap lines with those banks helped facilitate the auctions (Allen and Moessner 2010; Fed 2008h). 
+
+The Fed added the swap with the Reserve Bank of New Zealand on October 28 (Fed 2008j). Finally, the Fed added Banco Central do Brasil, Banco de Mexico, Bank of Korea, and Monetary Authority of Singapore on October 29 (Fed 2008k). In the October 29 announcement, the Fed suggested the swap lines were precautionary measures intended to 
+
+
+prevent the spread of US dollar funding issues in “fundamentally sound and well managed economies” (Fed 2008j; Fed 2008k). Unlike most of the central banks with which the Fed had announced swaps, those of Brazil, Korea, and Singapore had substantial foreign exchange reserves that dwarfed the size of their lines from the Fed. In an academic paper, three economists suggest the swaps with those countries primarily served a symbolic purpose: “It is hard to see how these magnitudes could be very meaningful; instead, these swap lines could be interpreted as signals” (Obstfeld, Shambaugh, and Taylor 2009). 
+
+## **2. Part of a Package: The Fed’s series of swap lines were part of a broad effort by the Fed to promote liquidity in domestic and global financial markets and address dollar shortages abroad.** 
+
+While the Fed’s swap lines weren’t established until December 2007, the Fed and other central banks were taking action as early as August 2007 in response to instability in financial markets and elevated demand for liquidity. In August, the Fed changed discount window lending to allow financing as long as 30 days and lowered the spread between the federal funds rate and the discount rate; the ECB conducted a series of tender operations to meet liquidity needs of European banks. In November 2007, the New York Fed announced plans to conduct a series of term repurchase agreements (repos) that would last past the end of the year and would provide enough reserves to prevent a year-end rise in the fed funds rate (Fed 2008l). 
+
+The Fed’s initial swap lines were announced as part of a coordinated effort among five major central banks—the Fed, ECB, BoE, BoC, and SNB—targeting term funding markets. The effort to address the problems included the TAF in the US and the announcement of similar domestic operations from the BoC and BoE (Fed 2007a; Fed 2008l). The ECB auctioned USD 10 billion in dollar funds on December 17, 2007, and another USD 10 billion on December 20, while the SNB auctioned USD 4 billion in funds on December 20, 2007. Funds were auctioned in January as well, but usage varied month by month, with no auctions in February (Fed 2008l). 
+
+The Fed’s series of swap lines ultimately consisted of 14 arrangements in which the Fed provided US dollars and four in which the Fed could receive foreign currency. The Fed’s first two US dollar swap lines were created in December 2007 (Fed 2007a). The other 12 US dollar swap lines came in September and October 2008 (Allen and Moessner 2010). In April 2009, the Fed established swap lines to borrow foreign currencies from the ECB, SNB, BoJ, and BoE, if US financial institutions needed them (Fed 2009a). These four swap lines were never used. 
+
+The ECB, SNB, BoJ, DNB, and Riksbank also established swap lines to act as lending banks and provide their currencies to other countries (Allen and Moessner 2010). The ECB had swap lines with countries including Denmark and Sweden. _[4]_ 
+
+> 4 See Gupta 2023a and Gupta 2023b for further discussion of these programs. 
+
+
+The Reserve Bank of India (RBI) received a US dollar swap from the BoJ, and the Hungarian and Icelandic central banks received International Monetary Fund (IMF) standby agreements (Allen and Moessner 2010). The BoJ and RBI swap allowed either country to swap local currency for USD for up to USD 3 billion (BoJ 2008). 
+
+**3. Legal Authority: The Fed has authority to establish swap lines under Section 14 of the Federal Reserve Act.** 
+
+The Fed’s swap lines operate under Section 14 of the Federal Reserve Act and are overseen by the Federal Open Market Committee (Fed n.d.c). The FOMC approved the ECB swap line on December 6, 2007, and the SNB swap line on December 11, 2007 (FOMC 2007a; FOMC 2007b). 
+
+The FOMC’s 2007 Foreign Currency Directive, reaffirmed on January 30, 2007, states in paragraph 2, part B that the Federal Reserve System shall achieve its foreign currency goal of countering disorderly market conditions in part by maintaining reciprocal swap arrangements with certain foreign central banks (Fed 2007b). 
+
+The Fed also had authority to create the TAF under the Fed’s discount window lending authority given by Section 10B of the Federal Reserve Act (Fed 2023). 
+
+**4. Governance: The FOMC established swap line arrangements; drawings under these arrangements were subject to approval by the FOMC, although the Foreign Currency Subcommittee, or the FOMC Chair, could approve a draw in an emergency.** 
+
+The FOMC established swap line arrangements by a majority vote. For the operation of existing arrangements, the FOMC’s 2007 Procedural Instructions with Respect to Foreign Currency Operations, which it reaffirmed on January 30, 2007, outlined the responsibility of the Federal Reserve Bank of New York (FRBNY) and the manager of the System Open Market Account (SOMA) to clear foreign currency operations with the FOMC’s Foreign Currency Subcommittee, the FOMC itself, or with the chairman of the FOMC (who was also chairman of the Board of Governors) (Fed 2007b). 
+
+In general, any swap drawing proposed by a foreign central bank was subject to approval by the subcommittee if it was less than the larger of USD 200 million or 15% of the overall swap arrangement size. Drawings exceeding that amount had to be cleared with the FOMC, but they could be cleared by the subcommittee if the subcommittee believed a full FOMC meeting was not feasible at the time. The FOMC chairman could approve a draw of any size if he believed that consultation with the full FOMC or its subcommittee was not feasible in the time available (Fed 2007b). 
+
+The ECB’s January 2010 press release on the discontinuation of swap lines with the Fed said the Governing Council of the ECB, in agreement with the Fed, BoE, BoJ, and SNB, decided to stop conducting the downstream US dollar liquidity operations. The press release gave the reasoning that there had been “improvements seen in the functioning of financial markets over the past year” (ECB 2010). 
+
+
+The Fed reported details of the dollar liquidity and foreign currency liquidity swaps in the “System Open Market Account and Liquidity Arrangements with Foreign Central Banks” section of their Monthly Report on Credit and Liquidity Programs and the Balance Sheet (Fed 2010). The Fed also reported details of the swap arrangements in its annual reports (Fed 2008l; Fed 2009b). 
+
+**5. Administration: To draw on swap lines with the Fed, a foreign central bank generally sells the Fed a specific amount of its currency, which is held in an FRBNY account at the foreign central bank, in exchange for dollars deposited in an account at the FRBNY.** 
+
+The FRBNY administered the currency swap arrangements for the Fed. The agreements that the Fed and foreign central banks signed are not publicly available for any of the swap arrangements. However, the Fed has publicly described the typical structure of its dollar liquidity swap transactions. In general, the foreign central bank sells its currency to the Fed in exchange for dollars at the prevailing market exchange rate. The two parties also agree to a second transaction in which the foreign central bank buys back its currency at the same exchange rate on a fixed date. The foreign currency is held in an FRBNY account at the foreign central bank while the dollars are deposited in an account at the FRBNY. When the transaction is unwound, the foreign central bank typically pays some interest to the Fed based on market interest rates (Fed n.d.c). 
+
+When the foreign central bank makes downstream loans to financial institutions in its jurisdiction, the dollars come out of its account at the Fed, and the foreign central bank then bears ultimate responsibility for repaying those dollars (Fed n.d.c). According to data released by the Fed, in practice, interest rates on swap draws during the GFC ranged from 0.14% to 11.96% (Fed n.d.b). Although the Fed did not pay interest on foreign currency deposits it held as part of a swap draw, it did agree to hold the currency and not lend or invest it (Fleming and Klagge 2010). 
+
+## **6. Communication: The Fed and borrowing central banks announced the swaps via press releases and sought through their communications to show close coordination.** 
+
+The Fed’s press release on December 12, 2007, started by saying the BoC, BoE, ECB, Fed, and SNB were “announcing measures to address elevated pressures in short-term funding markets” (Fed 2007a). The press release then announced the swap arrangements with the ECB and SNB and the establishment of the TAF. The December 12 press release described the initial swap lines with the ECB and the SNB as “temporary reciprocal currency arrangements,” but the Fed’s current webpage on swaps clarifies that those were specifically dollar liquidity swap lines (Fed 2007a; Fed n.d.c). The BoE and BoC issued press releases on related actions, and the Bank of Japan and Riksbank also issued supporting statements. 
+
+The Fed issued subsequent press releases for each increase in the sizes of swap lines or additions of new swap agreements with other countries. The borrowing central banks issued press releases as well (BoC 2008; Fed 2007a). In the press release announcing the swap lines 
+
+
+with the BCB, BoM, BoK, and MAS, the Fed suggested the swaps were precautionary measures intended to prevent the spread of US dollar funding issues in “fundamentally sound and well managed economies” (Fed 2008j; Fed 2008k). 
+
+On December 6, 2007, when the FOMC was considering such measures as the TAF and the central bank swap lines, officials discussed having the BoE announce unrelated pound sterling operations alongside the Fed operations to convey that major central banks were working together and were in close communication (FOMC 2007a). On December 12, 2007, the BoE announced in a joint press release with the Fed, BoC, ECB, and SNB that it had scheduled open market operations for long-term repos for December 18 and January 15, that the total amount of reserves offered at the three-month maturity would be higher than normal, and that a wider range of collateral would be accepted for that maturity (BoE 2007). 
+
+On December 13, 2007, then–FRBNY President Timothy Geithner gave a speech at a conference jointly hosted by the FRBNY and Princeton University. Geithner emphasized that the Fed and other major central banks were working together to address market liquidity issues to avoid adverse effects on the economy. Geithner mainly discussed other aspects of the crisis and the Fed’s response, but he did say that each central bank involved in the coordinated response was taking steps to promote financing for periods longer than overnight and that the swap lines were created to help central banks provide dollar liquidity in their markets (Geithner 2007). A _Wall Street Journal_ article dated December 14, 2007, described the Fed’s actions and the global nature of the crisis as a sign that the Fed and other central banks might take more coordinated actions in the future (Lahart and Hilsenrath 2007). 
+
+## **7. Eligible Institutions: The Fed’s dollar swaps ultimately were extended to 14 borrowing central banks.** 
+
+The Fed extended dollar swaps to the ECB and SNB in December 2007, then to the BoJ, BoE, and BoC on September 18, 2008, and to the RBA, Riksbank, DNB, and Norges Bank on September 24, 2008 (Fed 2007a; Fed 2008d; Fed 2008e). The Reserve Bank of New Zealand received its swap line on October 28, 2008; and the BCB, BoM, BoK, and MAS received swap lines on October 29, 2008 (Fed 2008j; Fed 2008k). See Figure 2 in the Overview for more detail. The Fed also created foreign currency swap lines with the BoE, ECB, BoJ, and SNB on April 6, 2009 (Fed 2009a). 
+
+When considering the swap arrangements with Brazil, Korea, Mexico, and Singapore, Fed officials discussed three criteria for extending swap lines. First, they would extend swap lines to countries with “significant economic and financial mass” (FOMC 2008, 10). Brazil, Korea, and Mexico each had a GDP of about USD 1 trillion, and Singapore was a major financial center. Second, they would only consider swap lines with countries that had pursued prudent policies in recent years and had strong macro and fiscal conditions. For such countries, Fed officials argued that any stresses largely reflected financial contagion effects. Third, the Fed extended swap lines to these four countries because officials believed the swap lines would help relieve their economic and financial pressures and promote financial stability by ensuring access to dollar liquidity (FOMC 2008). 
+
+
+Allen and Moessner (2010) point out that the four economies with the largest US dollar shortages[5] —the euro area, United Kingdom, Canada, and Brazil—each received a swap line from the Fed. Of the 15 economies with the largest US dollar shortages, Russia, Turkey, India, Chile, Hungary, and Iceland did not receive swap lines from the Fed. Russia’s central bank had foreign currency reserves to draw on, the Reserve Bank of India received a US dollar swap from the BoJ, and the Hungarian and Icelandic central banks received IMF standby agreements (Allen and Moessner 2010). 
+
+The SNB, BoJ, MAS, BoM, and DNB received dollar liquidity lines from the Fed despite having dollar surpluses according to the “net outstanding US dollar cross-border claims on BIS reporting banks by economies shown” measure (Allen and Moessner 2010). 
+
+Aizenman, Ito, and Pasricha (2021) suggest that the extension of swap lines by the Fed to an economy was influenced by the exposure of US banks to that economy and the amount that it relied on the US as an export destination. The authors had the idea that the Fed would want to secure trade flow and take actions that would benefit the US as well as swap line recipient countries. They find that US bank exposure contributed to emerging markets being selected for swap lines during the GFC (Aizenman, Ito, and Pasricha 2021). 
+
+**8. Size: Swap line sizes began at USD 20 billion for the ECB and USD 4 billion for the SNB. By the end of October 2008, when all 14 swap arrangements were in place, four were unlimited in size, and the rest were either USD 30 billion or USD 15 billion.** 
+
+The first two swap arrangements set up were with the ECB for USD 20 billion and the SNB for USD 4 billion (Fed 2007a). The ECB was able to draw up to USD 10 billion in a single transaction, while the SNB could draw the entire USD 4 billion (FOMC 2007a; FOMC 2007b). 
+
+The sizes of the two existing swap lines were increased in March, May, and July 2008 and again in September 2008, when the Fed also announced new agreements with the BoJ, BoE, and BoC (Fed 2008a; Fed 2008b; Fed 2008c; Fed 2008d). In October 2008, the Fed announced that its swap arrangements with the ECB, SNB, BoJ, and BoE were unlimited in size (Fed 2008h; Fed 2008i). That same month, the Fed established four swap arrangements for USD 30 billion each with the Banco Central do Brasil, Banco de Mexico, Bank of Korea, and Monetary Authority of Singapore (Fed 2008k). The Fed had three other USD 30 billion swap lines with the BoC, RBA, and Riksbank (Fed 2008g). The three smallest swap lines at that point were for USD 15 billion with the Danmarks Nationalbank, Norges Bank, and Reserve Bank of New Zealand (Fed 2008g; Fed 2008j). 
+
+The swap lines with Brazil, Mexico, Korea, and Singapore had added safeguards relative to the Fed’s other swap lines. Fed officials said internally that they hoped these safeguards would protect the Fed’s resources but not discourage the use of the lines. The main safeguards were a limit of USD 5 billion on individual drawings (the overall line size was USD 
+
+> 5 According to “net outstanding US dollar cross-border claims on BIS reporting banks by economies shown” as of December 2008 (Allen and Moessner 2010). 
+
+
+30 billion) and a requirement of Foreign Currency Subcommittee approval for each swap draw (FOMC 2008). 
+
+The Fed’s four foreign currency swap lines established on April 6, 2009, were with the BoE, ECB, BoJ, and SNB (Fed 2009a). These agreements allowed the Fed to draw up to 30 billion British pounds sterling (GBP), EUR 80 billion, JPY 10 trillion, and 40 billion Swiss francs (CHF), respectively. See Figure 5 in the Appendix for more information and USD conversions. 
+
+See Figure 4 for a full timeline of sizes of the US dollar swap lines. 
+
+
+[FIGURE id=vol5_iss1_20_f5 type=diagram label="Figure 4" file=figure_4.png caption="Swap Size Timeline, by Press Release Date and Counterparty Central Bank"]
+### **Figure 4: Swap Size Timeline, by Press Release Date and Counterparty Central Bank**
+![Figure 4](assets/vol5_iss1_20/figure_4.png)
+
+
+
+
+Note: Gray denotes periods where there was no swap line in place. 
+
+_Sources: Fed press releases._ 
+
+## **9. Process for Utilizing the Swap Agreement: No agreements are publicly available for these swaps, but similar arrangements for which documentation is available show fairly standard procedures.** 
+
+In the Fed’s September 2001 and May 2010 swap agreements with the ECB, the two parties agreed to the amount of the draw, value date, exchange rate, maturity date, and interest rate at the time they mutually agreed to enter into a transaction. Both agreements show that to draw on the swaps, the borrowing central bank would receive US dollars in an account at the FRBNY set up explicitly for the swaps and would deposit the equivalent amount of their domestic currency into an FRBNY account on the books of the borrowing central bank. Neither agreement listed any restrictions on downstream lending (ECB 2001; FRBNY 2010). 
+
+In the GFC-era swaps, the Fed exchanged dollars for foreign currency at the prevailing market exchange rate and simultaneously enter into an agreement obligating the borrowing bank to buy back its currency at a later date and for the same exchange rate, similar to a repo. At the end of the swap, the foreign central bank paid the Fed interest equivalent to how much the borrowing bank earned on its dollar lending (Fleming and Klagge 2010). 
+
+## **10. Downstream Use of Borrowed Funds: The dollar liquidity swaps were meant to enable borrowing central banks to provide dollar liquidity to financial institutions in their jurisdictions.** 
+
+The foreign central banks lent their borrowed dollars to financial institutions in their jurisdictions through rate auctions (Fleming and Klagge 2010). They worked closely with the Fed to structure the domestic auctions, with the main choice being between (a) competitive 
+
+
+auctions with either a single price or multiple prices and (b) noncompetitive auctions at a fixed rate with full allotment[6] (Goldberg, Kennedy, and Miu 2011). 
+
+Early in the crisis, the drawn funds were lent via one-month and three-month fixed-rate auctions at the lowest rate at which bids were accepted in the most recent TAF auctions (competitive, single price). Starting in October 2008, when the Fed removed the size limits on the ECB, BOE, SNB, and BoJ swaps, these central banks primarily lent these funds to banks in fixed-rate tenders with full allotment at one-week, one-month, and three-month maturities. At that point, the rates on those auctions switched from being based on the TAF to being set by the participating central banks (Fleming and Klagge 2010). The ECB, SNB, and BoE coordinated their auctions with each other, used the same interest rate, and held the auctions at the same time (Goldberg, Kennedy, and Miu 2011). 
+
+The Danmarks Nationalbank and Riksbank held competitive single price auctions, and the remaining banks that used the swaps had competitive, multiple price auctions (Goldberg, Kennedy, and Miu 2011). See Figure 6 in the Appendix for more information on the downstream swap auctions. 
+
+## **11. Duration of Swap Draws: The duration of the swap draws ranged from one to 95 days across all the swap lines that were used.** 
+
+According to data released by the Fed, the duration of the swap draws ranged from one to 95 days across all of the swap lines that were used (Fed n.d.b). 
+
+## **12. Rates and Fees: FRBNY transactions took place at market rates.** 
+
+Unless otherwise authorized by the FOMC, FRBNY transactions in foreign currencies took place at market rates. Transactions with foreign central banks could occur at nonmarket exchange rates for the purpose of adjusting interest rates paid or received as part of a swap drawing (Fed 2007b). 
+
+In the GFC-era swaps, the Fed exchanged dollars for foreign currency at the prevailing market exchange rate and simultaneously entered into an agreement obligating the borrowing bank to buy back its currency at a later date and for the same exchange rate, similar to a repo. At the end of the swap, the foreign central bank paid the Fed interest equivalent to how much the borrowing bank earned on its dollar lending. In practice, interest rates on swap draws ranged from 0.14% to 11.96%, according to data released by the Fed (Fed n.d.b). The Fed did not pay interest on foreign currency it held as part of a swap draw, but it did agree to hold the currency and not lend or invest it (Fleming and Klagge 2010). 
+
+> 6 Under a noncompetitive auction, the interest rate is fixed, and all bids are filled. In competitive auctions, bids are accepted from the highest interest rate bid downwards until the predetermined funds are fully allotted. In the single price variant, all bids are filled at the lowest accepted bid rate while multiple price auctions fill the selected bids at their respective rates (Goldberg, Kennedy, and Miu 2011). 
+
+
+## **13. Balance Sheet Protection: The Fed had the protection of holding the borrower’s currency as collateral and transacting only with foreign central banks, not directly with the foreign financial institutions.** 
+
+When a foreign central bank drew on a line, it exchanged dollars for foreign currency at the prevailing market exchange rate and simultaneously entered into an agreement obligating the borrowing bank to buy back its currency at a later date and for the same exchange rate (Fleming and Klagge 2010). 
+
+In the swap arrangements, the Fed lent to the foreign central bank and the foreign central bank then lent to financial institutions in its jurisdiction. As a result, the Fed had no direct exposure to downstream financial institutions. The borrowing central bank was still responsible for closing out the swap with the Fed even if a downstream institution were to fail (Sheets 2019). 
+
+According to FOMC meeting transcripts, the Fed’s swap lines with Brazil, Korea, Mexico, and Singapore had special set-off rights. Under these terms, if one of the central banks defaulted on part or all of a dollar liquidity swap, the Fed could take assets from the borrower’s accounts at the FRBNY to cover any loss. The Fed did not require this protection with the other 10 central banks (FOMC 2008). 
+
+## **14. Other Restrictions: No documents regarding restrictions are available.** 
+
+Documents that outline exact restrictions are not available. However, in practice, the swaps, particularly the unlimited arrangements with the ECB, SNB, BoE, and BoJ, were fairly closely tied to the downstream lending operations going on in those countries, operations similar to the Fed’s TAF (Allen and Moessner 2010). The FOMC also had to approve draws. 
+
+## **15. Other Options: The FOMC chose to use swaps over having the foreign central bank deploy its own reserves.** 
+
+In December 2007, the FOMC specifically addressed why the ECB should use swaps rather than its own reserves to provide US dollar liquidity to its counterparties (FOMC 2007a). Officials believed a form of cooperation between the Fed and the ECB would allow for advanced notice regarding what the ECB planned to do and would help with the Fed’s monetary control (FOMC 2007a). Then–Chairman Bernanke also said it was easier for the ECB to separate its foreign exchange reserves from the money it would use for downstream lending (FOMC 2007b). Some central banks ultimately borrowed more dollars under the swap arrangements than they had available in foreign exchange reserves at the beginning of the crisis. The Fed’s dollar swaps were particularly large relative to foreign exchange reserves for the ECB and the United Kingdom, two of the biggest borrowers on the swap lines (Obstfeld, Shambaugh, and Taylor 2009). This suggests that those borrowing central banks may not have been able to provide the same level of liquidity to their markets if they had relied solely on reserves (Fleming and Klagge 2010). 
+
+The Fed considered repo arrangements for Brazil, Korea, Mexico, and Singapore, but ultimately chose to extend swap lines to these countries with special set-off rights. The Fed 
+
+
+considered repos to be slightly more secure, as they did not create any currency risk for the Fed in the event of a default. The swap arrangements gave the borrowing countries more flexibility as well. Extending swap lines also treated these countries similarly to the first 10 countries with swap lines, which the Fed saw as appropriate given the success of those economies in recent years as well as their size, systemic importance, and sound management (FOMC 2008). 
+
+## **16. Exit Strategy: The swap lines were extended several times and ultimately expired on February 1, 2010.** 
+
+The initial swap arrangements with the ECB and SNB, entered into in December 2007, were initially set to expire within six months of launch (Fed 2007a). The Fed increased the size of these two arrangements and extended their expiration dates several times. During September and October 2008, the Fed entered into swap arrangements with 12 additional countries with various expiration dates, which were later extended. (Fed 2008b; Fed 2008e; Fed 2008f). 
+
+By January 2010, FOMC members believed that most financial markets no longer had significant dislocations, and they decided to close a number of facilities that the Fed had implemented to address the crisis impacts, including the Asset-Backed Commercial Paper Funding Facility, the Primary Dealer Credit Facility, and the Term Securities Lending Facility, on February 1, 2010. The FOMC also decided to scale back the TAF at that point (FOMC 2010). All of the swap lines, both the ones meant to provide US dollars and the ones meant to provide the Fed with foreign currency, expired on February 1, 2010 (Allen and Moessner 2010). The last outstanding draw was repaid on February 12, 2010 (Fed 2010). 
+
+In May 2010, the Fed announced dollar liquidity swap lines with the ECB, SNB, BoE, BoC, and BoJ were back in place as a result of new issues with short-term US dollar funding markets (Fed n.d.c). The swaps became reciprocal in November 2011 (Fed n.d.c). At that point, the Fed’s swaps had become a network under which any of the six central banks could access the currencies of any of the other five central banks should the need arise. Those swap lines then became standing facilities in 2013 (Fed 2013). 
+
+
+## **References and Key Program Documents** 
+
+## **Implementation Documents** 
+
+(ECB 2001) European Central Bank (ECB). 2001. “Dollar-Euro Swap Agreement,” September 13, 2001. 
+
+_Agreement detailing the swap between the Fed and the ECB_ . https://ypfs.som.yale.edu/node/21573 
+
+(FRBNY 2010) Federal Reserve Bank of New York (FRBNY). 2010. “US Dollar-Euro Swap Agreement, Dated as of May 10, 2010,” May 10, 2010. _Swap agreement between the FRBNY and ECB dated as of May 10, 2010_ . https://ypfs.som.yale.edu/node/3320 
+
+## **Media Stories** 
+
+(Lahart and Hilsenrath 2007) Lahart, Justin, and Jon Hilsenrath. 2007. “Central Banks Continue to Seek Solutions.” _Wall Street Journal_ , December 14, 2007. _WSJ article from December 2007 describing central bank actions_ . https://ypfs.som.yale.edu/node/22308/ 
+
+## **Press Releases/Announcements** 
+
+(BoC 2008) Bank of Canada (BoC). 2008. “Bank of Canada Announces Swap Facility with U.S. Federal Reserve as Part of Coordinated Central Bank Actions.” Press release, September 18, 2008. 
+
+_BoC press release announcing the USD 10 billion swap facility with the Federal Reserve_ . https://ypfs.som.yale.edu/node/22289 
+
+(BoE 2007) Bank of England (BoE). 2007. “Central Bank Measures to Address Elevated Pressures in Short-Term Funding Markets.” Press release, December 12, 2007. _Press release explaining the first round of ELTRs_ . 
+
+https://ypfs.som.yale.edu/library/central-bank-measures-address-elevated-pressuresshort-term-funding-markets-0 
+
+(BoJ 2008) Bank of Japan (BoJ). 2008. “Signing of the Bilateral Swap Arrangement between Japan and India.” Press release, June 30, 2008. 
+
+_Press release announcing the swap between the BoJ and RBI_ . https://ypfs.som.yale.edu/node/22290 
+
+(ECB 2010) European Central Bank (ECB). 2010. “ECB and Other Central Banks Decide to Discontinue the Temporary Swap Lines with the Federal Reserve.” Press release, January 27, 2010. 
+
+_ECB press release announcing the end of the GFC swap lines with the Fed on February 1, 2010_ . https://ypfs.som.yale.edu/node/22291 
+
+
+(Fed 2007a) Federal Reserve Board (Fed). 2007a. “Federal Reserve and Other Central Banks Announce Measures Designed to Address Elevated Pressures in Short-Term Funding Markets.” Press release, December 12, 2007. 
+
+_Fed press release announcing measures to address short-term funding markets_ . https://ypfs.som.yale.edu/node/11185/ 
+
+(Fed 2008a) Federal Reserve Board (Fed). 2008a. “FOMC Statement: Federal Reserve and Other Central Banks Announce Specific Measures Designed to Address Liquidity Pressures in Funding Markets.” Press release, March 11, 2008. _Fed press release announcing the expansion of swaps with the ECB and SNB_ . https://ypfs.som.yale.edu/node/18341/ 
+
+(Fed 2008b) Federal Reserve Board (Fed). 2008b. “Federal Reserve, European Central Bank, and Swiss National Bank Announce an Expansion of Liquidity Measures.” Press release, May 2, 2008. 
+
+_Press release announcing the expansion of liquidity measures including increasing the size of TAF and increasing the Fed swap lines_ . 
+
+https://ypfs.som.yale.edu/node/4072 
+
+(Fed 2008c) Federal Reserve Board (Fed). 2008c. “Federal Reserve Announces Steps to Enhance the Effectiveness of Its Existing Liquidity Facilities.” Press release, July 30, 2008. _Fed press release announcing several actions including an increase in the size of the swap line with the ECB_ . 
+
+https://ypfs.som.yale.edu/node/3197 
+
+(Fed 2008d) Federal Reserve Board (Fed). 2008d. “Federal Reserve and Other Central Banks Announce Further Measures to Address Elevated Pressures in Funding Markets.” Press release, September 18, 2008. 
+
+_Fed press release announcing the expansion of the swap lines with the ECB and SNB and the addition of swaps with the BoJ, BoE, and BoC_ . https://ypfs.som.yale.edu/node/11166 
+
+(Fed 2008e) Federal Reserve Board (Fed). 2008e. “Federal Reserve and Other Central Banks Announce Additional Measures to Address Elevated Pressures in Funding Markets.” Press release, September 24, 2008. 
+
+_Fed press release announcing the expansion of the swap lines with the ECB and SNB and the addition of swaps with the BoJ, BoE, and BoC_ . https://ypfs.som.yale.edu/node/21671/ 
+
+(Fed 2008f) Federal Reserve Board (Fed). 2008f. “Federal Reserve and Other Central Banks Announce Operations to Address Funding Pressures over Quarter End.” Press release, September 26, 2008. 
+
+_Fed press release announcing an expansion of swap facilities_ . https://ypfs.som.yale.edu/node/11179 
+
+(Fed 2008g) Federal Reserve Board (Fed). 2008g. “Federal Reserve and Other Central Banks Announce Further Coordinated Actions to Expand Significantly the Capacity to 
+
+
+Provide U.S. Dollar Liquidity.” Press release, September 29, 2008. 
+
+_Fed press release announcing new or expanded measures involving TAF and central bank swap lines_ . 
+
+https://ypfs.som.yale.edu/node/20177/ 
+
+(Fed 2008h) Federal Reserve Board (Fed). 2008h. “Federal Reserve and Other Central Banks Announce Further Measures to Provide Broad Access to Liquidity and Funding to Financial Institutions.” Press release, October 13, 2008. 
+
+_Fed press release announcing further measures with the BoE, ECB, BoJ, and SNB_ . https://ypfs.som.yale.edu/node/11237/ 
+
+(Fed 2008i) Federal Reserve Board (Fed). 2008i. “FOMC Authorizes an Increase in the Size of Its Temporary Reciprocal Currency Arrangement with the Bank of Japan.” Press release, October 14, 2008. 
+
+_Fed press release announcing an increase in the swap line size with the BoJ_ . https://ypfs.som.yale.edu/node/11242 
+
+(Fed 2008j) Federal Reserve Board (Fed). 2008j. “Federal Reserve and Reserve Bank of New Zealand Announce the Establishment of a Temporary Reciprocal Currency Arrangement.” Press release, October 28, 2008. 
+
+_Fed press release announcing a new swap arrangement with the Reserve Bank of New Zealand_ . 
+
+https://ypfs.som.yale.edu/node/11272 
+
+(Fed 2008k) Federal Reserve Board (Fed). 2008k. “Federal Reserve, Banco Central Do Brasil, Banco de Mexico, Bank of Korea, and Monetary Authority of Singapore Announce the Establishment of Temporary Reciprocal Currency Arrangements.” Press release, October 29, 2008. 
+
+_Fed press release announcing swap lines with the Banco Central do Brasil, the Banco de Mexico, the Bank of Korea, and the Monetary Authority of Singapore_ . https://ypfs.som.yale.edu/node/22298 
+
+(Fed 2009a) Federal Reserve Board (Fed). 2009a. “Federal Reserve, Bank of England, European Central Bank, Bank of Japan, and Swiss National Bank Announce Swap Arrangements.” Press release, April 6, 2009. 
+
+_Fed press release announcing swap agreements with the BoE, ECB, BoJ, and SNB that would allow the Fed to receive foreign currency liquidity_ . https://ypfs.som.yale.edu/node/22299/ 
+
+(Fed 2013) Federal Reserve Board (Fed). 2013. “Federal Reserve and Other Central Banks Convert Temporary Bilateral Liquidity Swap Arrangements to Standing Arrangements.” Press release, October 31, 2013. 
+
+_Fed press release announcing the swaps with the BoC, BoE, BoJ, ECB, and SNB were being converted to standing arrangements_ . 
+
+https://ypfs.som.yale.edu/node/21866 
+
+## **Reports/Assessments** 
+
+
+(Fed 2007b) Federal Reserve Board (Fed). 2007b. “Minutes of the FOMC January 30-31, 2007,” January 31, 2007. 
+
+_FOMC minutes from the January 2007 meeting containing the Authorization for Foreign Currency Operations and Procedural Instructions with Respect to Foreign Currency Operations_ . https://ypfs.som.yale.edu/node/22292 
+
+(Fed 2008l) Federal Reserve Board (Fed). 2008l. “Ninety-Fourth Annual Report of the Board of Governors of the Federal Reserve System 2007,” April 2008. _Federal Reserve Board annual report for 2007_ . https://ypfs.som.yale.edu/node/22294 
+
+(Fed 2009b) Federal Reserve Board (Fed). 2009b. “Ninety-Fifth Annual Report of the Board of Governors of the Federal Reserve System 2008,” June 2009. _Federal Reserve Board annual report for 2008_ . https://ypfs.som.yale.edu/node/14970 
+
+(Fed 2010) Federal Reserve Board (Fed). 2010. “System Open Market Account and Liquidity Arrangements with Foreign Central Banks February 2010,” February 2010. _Monthly Fed report on credit and liquidity programs on the Fed’s balance sheet_ . https://ypfs.som.yale.edu/node/22300 
+
+(Fed 2023) Federal Reserve Board (Fed). 2023. “The Fed - Term Auction Facility (TAF),” January 3, 2023. 
+
+_Fed webpage on TAF background and usage_ . https://ypfs.som.yale.edu/node/22305 
+
+(Fed n.d.a) Federal Reserve Board (Fed). n.d.a. “Assets: Central Bank Liquidity Swaps.” Accessed October 26, 2022. 
+
+_Weekly Fed data describing the Wednesday level of the aggregate central bank liquidity swaps outstanding_ . https://ypfs.som.yale.edu/node/22303/ 
+
+(Fed n.d.b) Federal Reserve Board (Fed). n.d.b. “Central Bank Liquidity Swap Data.” Accessed October 10, 2022. 
+
+_Data sheet on GFC era central bank swap lines_ . https://ypfs.som.yale.edu/node/22304/ 
+
+(Fed n.d.c) Federal Reserve Board (Fed). n.d.c. “Central Bank Liquidity Swaps.” Accessed July 27, 2022. 
+
+_Federal Reserve Board web page describing central bank swap lines_ . https://ypfs.som.yale.edu/node/21501 
+
+(FOMC 2007a) Federal Open Market Committee (FOMC). 2007a. “Conference Call of the Federal Open Market Committee,” December 6, 2007. _FOMC conference call transcript from December 6, 2007_ . https://ypfs.som.yale.edu/node/2700 
+
+
+(FOMC 2007b) Federal Open Market Committee (FOMC). 2007b. “Meeting of the Federal Open Market Committee on December 11, 2007,” December 11, 2007. _Full transcript from the December 11, 2007 FOMC meeting_ . https://ypfs.som.yale.edu/node/22307 
+
+(FOMC 2008) Federal Open Market Committee (FOMC). 2008. “Meeting of the Federal Open Market Committee on October 28–29, 2008.” FOMC meeting transcript, October 29, 2008. _FOMC transcript with discussions on swap lines_ . https://ypfs.som.yale.edu/node/14326 
+
+(FOMC 2010) Federal Open Market Committee (FOMC). 2010. “Minutes of the Federal Open Market Committee, January 26-27, 2010,” February 17, 2010. 
+
+_FOMC minutes from the January 2010 meeting containing the Authorization for Foreign Currency Operations and Procedural Instructions with Respect to Foreign Currency Operations_ . https://ypfs.som.yale.edu/node/22394 
+
+(Geithner 2007) Geithner, Timothy. 2007. “Restoring Market Liquidity in a Financial Crisis.” Speech delivered at the Second New York Fed–Princeton University Liquidity Conference, New York, December 13, 2007. 
+
+_Welcoming remarks to the conference_ . https://ypfs.som.yale.edu/node/4263 
+
+## **Key Academic Papers** 
+
+(Aizenman, Ito, and Pasricha 2021) Aizenman, Joshua, Hiro Ito, and Kaur Pasricha. 2021. “Central Bank Swap Arrangements in the COVID-19 Crisis.” _NBER Working Paper 288585_ , August. 
+
+_NBER working paper covering the swap arrangements during the COVID-19 crisis_ . https://ypfs.som.yale.edu/node/22587/ 
+
+(Allen and Moessner 2010) Allen, William A., and Richhild Moessner. 2010. “Central Bank Co-Operation and International Liquidity in the Financial Crisis of 2008-9.” BIS Working Paper No 310, May 2010. 
+
+_Overview of central bank responses to the GFC_ . https://ypfs.som.yale.edu/node/19791 
+
+(Baba and Packer 2009) Baba, Naohiko, and Frank Packer. 2009. “From Turmoil to Crisis: Dislocations in the FX Swap Market before and after the Failure of Lehman Brothers.” _Journal of International Money and Finance_ 28, no. 8 (July): 1350–74. _BIS working paper covering foreign exchange markets during the financial crisis_ . https://ypfs.som.yale.edu/node/3304 
+
+(Fleming and Klagge 2010) Fleming, Michael J., and Nicholas Klagge. 2010. “The Federal Reserve’s Foreign Exchange Swap Lines.” _Federal Reserve Bank of New York, Current Issues in Economics and Finance_ 16, no. 4 (April). 
+
+
+_Journal article discussing the Fed’s central bank swap lines_ . https://ypfs.som.yale.edu/node/21508 
+
+(Goldberg, Kennedy, and Miu 2011) Goldberg, Linda S, Craig Kennedy, and Jason Miu. 2011. “Central Bank Dollar Swap Lines and Overseas Dollar Funding Costs.” _Federal Reserve Bank of New York, Economic Policy Review_ 17, no. 1: 3–20. _FRBNY staff report covering the Fed’s swap lines during the GFC_ . https://ypfs.som.yale.edu/node/2460/ 
+
+(Gupta 2023a) Gupta, Salil. 2023a. “Eurozone: Central Bank Swap to Denmark, 2008.” _Journal of Financial Crises_ 5, no. 1. 
+
+_Case study discussing the European Central Bank’s central bank swap line to Danmarks Nationalbank_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/11 
+
+(Gupta 2023b) Gupta, Salil. 2023b. “Eurozone: Central Bank Swap to Sweden, 2007.” _Journal of Financial Crises_ 5, no. 1. 
+
+_Case study discussing the European Central Bank’s central bank swap line to Sveriges Riksbank_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/12 
+
+(House of Representatives 2009) House of Representatives. 2009. “Monetary Policy and the State of the Economy.” Hearing before the Committee on Financial Services, 111th Congress, First Session, July 21, 2009. 
+
+_Transcript from the July 21, 2009 hearing before the Committee on Financial Services with testimony from Ben Bernanke_ . https://ypfs.som.yale.edu/node/22745 
+
+(Obstfeld, Shambaugh, and Taylor 2009) Obstfeld, Maurice, Jay C. Shambaugh, and Alan M. Taylor. 2009. “Financial Instability, Reserves, and Central Bank Swap Lines in the Panic of 2008.” _The American Economic Review_ 99, no. 2: 480–86. _Academic paper covering swap lines during the Global Financial Crisis_ . https://ypfs.som.yale.edu/node/22309 
+
+(Runkel 2022) Runkel, Corey N. 2022. “United States: Term Auction Facility.” _Journal of Financial Crises_ , Broad-Based Emergency Liquidity 4, no. 2. 
+
+_YPFS case study reviewing the Federal Reserve’s Term Auction Facility during the Global Financial Crisis_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/63 
+
+(Sheets 2019) Sheets, Nathan. 2019. “Lessons Learned Interview by Yasemin Sim Esmen.” Yale Program on Financial Stability Lessons Learned Oral History Project, December 11, 2019. Transcript _._ 
+
+_Transcript of an interview with former director of the division of international finance for the Federal Reserve._ 
+
+https://ypfs.som.yale.edu/node/21681 
+
+
+## **Appendix** 
+
+[FIGURE id=vol5_iss1_20_f6 type=figure label="Figure 5" file=figure_5.png caption="Swap Agreement Terms: Foreign Currency Liquidity Swaps"]
+### **Figure 5: Swap Agreement Terms: Foreign Currency Liquidity Swaps**
+
+## **Swaps�under�which�the�Fed�Receives�Foreign�Currency** 
+
+|||
+|---|---|
+|**CentralBankCounterparty**|**LaunchDate**<br>**Currencies**<br>**Involved**<br>**BesidesUSD**<br>**Size**<br>**(LCUbn)**<br>**Size**<br>**(USDbn)**|
+|Bank�of�England<br>European�Central�Bank<br>Bank�of�Japan<br>Swiss�National�Bank|Apr�6,�2009<br>British�pound<br>30<br>44<br>Apr�6,�2009<br>Euro<br>80<br>107<br>Apr�6,�2009<br>Japanese�yen<br>10,000<br>99<br>Apr�6,�2009<br>Swiss�franc<br>40<br>35|
+
+
+
+Note: Size (LCU bn) refers to the initial amount authorized, though that amount did not change. The agreements expired on February 1, 2010. Size (USD bn) is based on the market exchange rates on April 6, 2009, which were accessed through FRED. 
+
+_Sources: For currencies involved: Allen and Moessner 2010; Fed n.d.b; for start and end dates: Allen and Moessner 2010._ 
+
+[FIGURE id=vol5_iss1_20_f7 type=figure label="Figure 6" file=figure_6.png caption="Downstream Auctions, by Borrowing Central Bank"]
+### **Figure 6: Downstream Auctions, by Borrowing Central Bank**
+
+||**SwapsunderwhichtheFedProvidesDollars(October2008through2010)**|
+|---|---|
+|**CentralBankCounterparty**|**MaxSize**<br>**(USDbn)**<br>**DownstreamAuction**<br>**Format**<br>**Rangeof**<br>**Maturities**<br>**Offered**<br>**MinimumBid**<br>**Rate**<br>**Notes**|
+|European�Central�Bank|Unlimited non-competitive,�fixed�<br>rate,�full�allotment<br>O/N,�1-week,�1-<br>month,�3-month<br>USD�OIS�+�100�bps prior�to�intro�of�fixed�rate,�full�allotment�<br>on�Oct�13,�2008�used�minimum�bid�of�<br>Unlimited non-competitive,�fixed�<br>rate,�full�allotment<br>O/N,�1-week,�1-<br>month,�3-month<br>USD�OIS�+�100�bps prior�to�intro�of�fixed�rate,�full�allotment�<br>on�Oct�13,�2008�used�minimum�bid�of�<br>Unlimited non-competitive,�fixed�<br>rate,�full�allotment<br>1-month,�3-month USD�OIS�+�100�bps prior�to�intro�of�fixed�rate,�full�allotment�<br>on�Oct�13,�2008�used�minimum�bid�of�|
+|Swiss�National�Bank||
+|Bank�of�Japan||
+|Bank�of�England|Unlimited non-competitive,�fixed�<br>rate,�full�allotment<br>O/N,�1-week,�1-<br>month,�3-month<br>USD�OIS�+�100�bps prior�to�intro�of�fixed�rate,�full�allotment�<br>on�Oct�13,�2008�used�minimum�bid�of�|
+|Bank�of�Canada|30<br>no�usage|
+|Reserve�Bank�of�Australia|30<br>competitive,�multiple�<br>price�auction<br>1-month,�3-month<br>USD�LIBOR<br>changed�min�bid�rate�mid�April�2009�<br>from�01S�+�50�bps|
+|Sveriges�Riksbank|30<br>competitive,�single�<br>price�auction<br>3-month<br>USD�OIS�+�50�bps|
+|Danmarks�Nationalbank|15<br>competitive,�single�<br>price�auction<br>1-month,�3-month<br>LIBOR�+�50�bps<br>changed�from�01S+50�on�Feb�10,2009|
+|Norges�Bank|15<br>competitive,�multiple�<br>price�auction<br>1-month,�3-month|
+|Reserve�Bank�of�New�Zealand|15<br>no�usage|
+|Banco�Central�do�Brasil|30<br>no�usage|
+|Banco�de�Mexico|30<br>competitive,�multiple�<br>price�auction<br>3-month<br>USD�OIS�+�50�bps|
+|Bank�of�Korea|30<br>competitive,�multiple�<br>price�auction<br>3-month<br>USD�OIS�+�50�bps|
+|Monetary�Authority�of�Singapore|30<br>no�usage|
+
+
+
+Note: Downstream auction format refers to the format in place as of the time of the writing (January 2010). Range of maturities offered refers to maturities that were offered at any stage during the period. Minimum bid rate refers to the most recent auction announcement/result as of January 2010. O/N means overnight. 
+
+_Source: Goldberg, Kennedy, and Miu 2011._ 
+
+
+Copyright 2023 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

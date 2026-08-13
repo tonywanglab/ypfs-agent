@@ -1,0 +1,483 @@
+## United Kingdom: Dunfermline Restructuring, 2009[1] 
+
+_Anmol Makhija[2]_ 
+
+Yale Program on Financial Stability Case Study March 28, 2024 
+
+## **Abstract** 
+
+During the Global Financial Crisis of 2007–2009 (GFC), Dunfermline Building Society— Scotland’s largest building society by assets—faced significant impairments on its commercial mortgages. Rumors about Dunfermline’s financial troubles created a loss of confidence and led to depositor withdrawals. On March 28, 2009, the Financial Services Authority (FSA) determined that Dunfermline was likely to fail to meet its threshold conditions for operating as a deposit taker. This triggered the Special Resolution Regime, which was the new framework for resolving failed financial institutions adopted in the UK in response to the GFC. On March 30, 2009, the Bank of England (BoE) split Dunfermline into three parts, transferring its core business to Nationwide Building Society, the UK’s largest building society; moving its social housing business to a bridge bank owned by the BoE; and liquidating the remainder of the business through the Building Society Special Administration Procedure. The BoE, in consultation with the FSA and HM Treasury, resolved Dunfermline to protect depositors and safeguard financial stability. HM Treasury paid Nationwide 1.6 billion pounds sterling (GBP) to facilitate the transfer of Dunfermline’s core business. HM Treasury recovered this cost through proceeds from Dunfermline’s liquidation and transfers totaling GBP 521 million from the deposit insurance agency, which is funded by banking industry contributions. 
+
+**Keywords:** bridge bank, Dunfermline, Special Resolution Regime, United Kingdom 
+
+> 1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering bank resolutions and restructurings. A survey of all the cases in this series (McNamara et al. 2024) and the individual cases underlying it are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+This module describes the resolution of Dunfermline Building Society during the Global Financial Crisis of 2007–2009 (GFC). 
+
+In December 2007, Dunfermline was Scotland’s largest building society, with 3.3 billion pounds sterling (GBP) in assets (KPMG 2008). During the GFC, Dunfermline faced significant impairments on its commercial and residential mortgages. These impairments required Dunfermline to incur write-downs that caused a loss of GBP 26 million in 2008 (Kellaway 2009). Rumors about Dunfermline’s financial troubles created a loss of confidence and led to depositor withdrawals. In November 2008, Moody’s Investors Service lowered the company’s financial strength rating to D+ based on the concern that further losses on the building society’s commercial loan portfolio would erode the society’s capital levels (Moody’s 2008). Building societies are member-funded lending institutions, and since they have only shareholding members, it is difficult for them to recapitalize. After the Credit Guarantee Scheme was announced in October 2008, the government subjected Dunfermline to a stress test and discovered that Dunfermline needed an additional GBP 20 million of Tier 1 capital to meet the requirements of the scheme. Dunfermline’s management tried to raise capital to meet the requirement; however, by March 2009, it was the only building society in the UK that failed to raise additional capital to meet the requirements of the stress test. Financial conditions continued to worsen between October 2008 and March 2009, and the government considered injecting GBP 60 
+
+## **Key Terms** 
+
+Purpose: Following a significant deterioration in Dunfermline’s financial position, the BoE, in consultation with the FSA and HM Treasury, resolved the building society to protect depositors and safeguard financial stability 
+
+||Size and Nature of|Scotland’s largest building|
+|---|---|---|
+||Institution|society, with GBP 3.3 billion in|
+|||assets in December 2007|
+||Source of Failure|Substantial expected losses on|
+|||commercial property loans|
+|||and other noncore acquired|
+|||mortgage portfolios,<br>inadequate capital, and loss of<br>public confidence|
+||Start Date<br>End Date|March 28, 2009<br>Dunfermline’s core business<br>and social housing business<br>were sold to Nationwide as of|
+|||July 1, 2009; Dunfermline’s|
+|||residual business was<br>liquidated as of May 13, 2020|
+||Approaches to|Dunfermline was resolved|
+||Resolution and|through a sale of business, the|
+||Restructuring|use of a bridge bank, and<br>liquidation through the BSSAP|
+||Outcomes|Loss of GBP 521 million for the|
+|||deposit insurance agency; the|
+|||HM Treasury and BoE|
+|||recovered all costs associated<br>with the resolution|
+||Notable Features|First usage of the Special|
+|||Resolution Regime in the UK;|
+|||The authorities initially split|
+|||assets and liabilities across|
+|||three legal entities—<br>Nationwide, the bridge bank,<br>and the legacy entity in<br>administration|
+
+
+
+million in Dunfermline (Turner 2009). However, the government ultimately decided that the capital injection plan was not a viable solution since there was a significant risk that it would be viewed as an inadequate and temporary solution, which would not have helped improve depositor confidence (HoC – SAC 2009). 
+
+
+On March 28, 2009, the Financial Services Authority (FSA), the UK’s former financial services regulator,[3] determined that Dunfermline was likely to fail to meet its threshold conditions for operating as a deposit taker under Section 41(1) of the Financial Services and Markets Act 2000 due to its declining capital ratios (EC 2010b). Further, the FSA determined that it was not reasonably likely that Dunfermline could satisfy these conditions. The Bank of England (BoE), in consultation with HM Treasury (HMT) and the FSA (the Tripartite Authorities), held a competitive auction to find a buyer for some or all of Dunfermline’s assets over the weekend of March 28–29, 2009, under the Special Resolution Regime (SRR), which was the new framework for resolving failed financial institutions adopted under the Banking Act 2009 (BoE 2009b). Following this auction, on March 30, 2009, most of Dunfermline’s business, including GBP 3.1 billion in depositor liabilities and GBP 1.6 billion in assets, was transferred to Nationwide Building Society, the largest building society in the UK, with more than GBP 200 billion in assets (Davies and Dobler 2011). The industry-funded Financial Services Compensation Scheme (FSCS; the UK’s deposit insurance agency)[4] and HM Treasury made a payment of GBP 1.6 billion to Nationwide to facilitate the transfer by closing the gap between the liabilities and assets Nationwide took on. On March 30, 2009, the BoE placed Dunfermline’s GBP 500 million social housing business in a bridge bank wholly owned by the BoE. This gave the BoE time to receive suitable binding offers for the bridge bank, and ultimately, Nationwide purchased the social housing business for GBP 377 million on July 1, 2009 (BoE 2010). The remainder of Dunfermline’s business was placed into the Building Society Special Administration Procedure (BSSAP) and consisted of GBP 1.1 billion in assets composed of commercial and retail loans and treasury assets; this business was subsequently liquidated (Court of Session, Scotland 2009). 
+
+In a report published by the Scottish Affairs Committee, the FSA was criticized for failing to provide adequate and specific warnings to Dunfermline and failing to wholly discharge its duties and protect the interests of savers and investors. However, the report stated that Dunfermline’s board was ultimately responsible for the building society’s demise (HoC – SAC 2009). 
+
+The administrators realized GBP 1.4 billion through Dunfermline’s liquidation and the sale of the bridge bank, and disbursed GBP 1.3 billion to HM Treasury and other creditors. All creditors except the subordinated loan note holders were repaid in full, including statutory interest (KPMG 2020). Subordinated loan note holders lost their entire GBP 50 million investment. HM Treasury recovered approximately GBP 1.1 billion through Dunfermline’s liquidation, and FSCS paid HM Treasury GBP 521 million (FSCS 2017). Figure 1 provides a timeline of important events for Dunfermline during the GFC. 
+
+> 3 As of this writing, the Bank of England regulates and supervises financial services firms through the Prudential Regulation Authority (PRA). 
+
+> 4 The FSCS levied fees on financial institutions based on the subclasses that it provided. Please see Vergara (2022) for more information on the FSCS. 
+
+
+[FIGURE id=vol6_iss1_20_f1 type=diagram page=6 label="Figure 1" file=figure_1.png caption="Timeline of Important Events for Dunfermline during the GFC"]
+### **Figure 1: Timeline of Important Events for Dunfermline during the GFC**
+
+|**Date**|**Event**|
+|---|---|
+|October 2008|Following the establishment of the Credit Guarantee Scheme, the FSA subjects<br>Dunfermline’s business to a stress test and discovers insufficient Tier 1 capital.|
+|January – March 2009|The FSA considers two private sector solutions to ensure Dunfermline’s viability without<br>the need for public money, including a merger with another building society or the<br>provision of capital from a third party.|
+|March 28, 2009|The FSA determines that Dunfermline is likely to fail to meet regulatory capital<br>requirements and cannot take steps to rectify this. BoE holds an auction for<br>Dunfermline’s business over the weekend.|
+|March 30, 2009|Nationwide receives core parts of Dunfermline’s business (GBP 3.1 billion), and the BoE<br>transfers Dunfermline’s social housing portfolio to a bridge bank (GBP 500 million).<br>Dunfermline’s residual business is placed in administration (GBP 1.2 billion).|
+|June 17, 2009|BoE selects Nationwide as the preferred bidder for the social housing portfolio and<br>related deposits held in DBS Bridge Bank.|
+|July 1, 2009|BoE completes transfer of the social housing business to Nationwide.|
+|November 12, 2009|BoE places DBS Bridge Bank in voluntary liquidation.|
+|February 12, 2010|Liquidators of DBS Bridge Bank transfer GBP 357 million to the Dunfermline Resolution<br>Fund; on March 29, this sum was transferred to DBS in administration.|
+|June 19, 2010|BoE formally dissolves DBS Bridge Bank.|
+|March 29, 2018|The FSCS makes its final payment to HMT to satisfy the FSCS’s liability to contribute to<br>the net cost of Dunfermline’s resolution.|
+|May 13, 2020|Dunfermline’s administrator publishes its final report, thereby ending the liquidation of<br>Dunfermline’s residual business.|
+
+
+
+_Source: Author’s analysis._ 
+
+## **Summary Evaluation** 
+
+A report by the Scottish Affairs Committee highlighted that it was regrettable that the Tripartite Authorities kept Dunfermline’s management at arm’s length to move quickly and confidentially and preserve market confidence through the resolution (HoC – SAC 2009). 
+
+Geoffrey Davies and Marc Dobler, two members of the BoE’s Special Resolution Unit, highlight in a paper that Dunfermline’s resolution was not the biggest of the resolutions undertaken in the UK, but it was the most complex in terms of splitting assets and liabilities among three legal entities—Nationwide, the bridge bank, and the portion placed in administration. Davies and Dobler also suggest three measures to reduce practical challenges and make it easier to uphold statutory safeguards without compromising the effectiveness of the resolution. First, they outline the need for developing more detailed systems and information requirements for deposit takers that are compatible with the FSCS systems. Next, they highlight that the Federal Deposit Insurance Corporation (FDIC) introduced a rule in 2009 to require US deposit takers to provide detailed information on their derivative positions and advise that a similar rule would be useful in the UK. Lastly, 
+
+
+they suggest augmenting the SRR by developing ways to restructure a financial institution’s balance sheet without splitting it into separate parts, such as by using a bail-in tool (Davies and Dobler 2011). 
+
+Owing to the high uncertainty in a resolution, mistakes were realized once further due diligence was conducted on individual asset and liability contracts, and the Tripartite Authorities had to make subsequent changes to the property transfer orders. The Tripartite used Section 75 of the Banking Act (otherwise known as retrospective or “Henry VIII” powers) to make these subsequent changes to transactions during the resolution (UK Parliament 2009). Using legislation to make changes to the transfer order added complexity to the resolution. The FDIC uses contract law, not legislation, to affect a purchase and assumption transaction, with clauses that allow subsequent contractual amendments. The FDIC’s use of contract law decreases some of the legal complexity in making subsequent changes to property transfer orders. 
+
+In a book published by the International Association of Restructuring, Insolvency & Bankruptcy Professionals, three lawyers point out that there was widespread criticism in Scotland of the UK authorities’ failure to keep Dunfermline independent, since there was a sense that a small amount of money could have been used to preserve Dunfermline’s independence (Malek QC, Potts, and Dzwig 2019). However, as Andrew Bailey, then the executive director for banking and chief cashier at the BoE and later the BoE governor, points out in his testimony to the Scottish Affairs Committee, Dunfermline had never made more than GBP 6 million in profits in a single year, so it would have been impossible for the building society to pay the interest required for a capital injection. Bailey also highlights that the money required for a capital injection was not comparable to the money required for the resolution, since the authorities could expect to recover the funds used for resolution but not the capital shortfall. Further, Bailey states that if the government had decided to implement a capital injection, there was a significant risk that it would be viewed as an inadequate and temporary solution, which would not have helped improve depositor confidence (HoC – SAC 2009). 
+
+Graeme Dalziel, then–chief executive of Dunfermline, provided a letter to the Scottish Affairs Committee on June 10, 2009, pointing out that HM Treasury and the FSA supported West Bromwich Building Society’s measure to convert Tier 2 debt into core Tier 1 capital in the form of a new instrument called Profit Participating Deferred Shares, and he argues that a similar measure would have saved Dunfermline (HoC – SAC 2009). Jim Faulds, thenchairman of Dunfermline’s board, also states in a letter to the Scottish Affairs Committee on July 10, 2009, that Dunfermline had suggested a similar measure to convert its subordinated debt in October 2008; however, the government rejected this plan for Dunfermline. In the Dunfermline case, the subordinated debt holders had a liability of just GBP 50 million, barely one-tenth of the ultimate cost to the FSCS (GBP 521 million), so if the government had allowed Dunfermline to take a similar measure in October 2008, it would not have helped much. The then-projected losses at Dunfermline were expected to be much higher than GBP 50 million. 
+
+
+In a paper published in the _International Corporate Rescue_ journal, Mike Pink, an associate partner at KPMG and one of Dunfermline’s administrators, describes the SRR as a “welcome and effective route to a sensible and stable outcome,” since the depositors were protected and the bridge bank model was successful (Pink 2010, 160). He also states that the bridge bank model was tested and succeeded during the resolution. 
+
+
+|**Context: United Kingdom, Dunfermline, 2007–2008**|**Context: United Kingdom, Dunfermline, 2007–2008**|
+|---|---|
+|**Assets**|**GBP 3.3 billion**as of Dec. 31, 2007<br>**GBP3.3 billion** as of Dec.31,2008|
+|**Liabilities**|**GBP 3.2 billion**as of Dec. 31, 2007<br>**GBP 3.2 billion**as of Dec. 31, 2008|
+|**Deposits**|**GBP 3.1 billion**as of Dec. 31, 2008<br>**87%**of retail deposits insured|
+|**Capital Ratio(Tier 1)**|Data N/A|
+|**Nonperforming Loans**|Data N/A|
+|**Market Share**|**Less than 5%**of Scotland’s market share for<br>mortgages and saving products|
+|**Banking System, % of GDP**|**169.1%**in 2007<br>**189.5%**in 2008|
+|_Sources: EC 2010b; KPMG 2008; World Bank Global Financial Development Database._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: Dunfermline’s liquidation would have had an adverse impact on local authorities and other building societies, thereby threatening financial stability in the UK.** 
+
+Following Dunfermline’s expansion into commercial property lending, the building society’s outlook weakened significantly during the GFC. After the collapse of Lehman Brothers, the British government established the Credit Guarantee Scheme guaranteeing bank-issued debt,[5] and subjected all banks and building societies to stress tests to assess their eligibility to participate in the scheme (HoC – SAC 2009). Dunfermline’s stress test results in November 2008 showed that it did not have sufficient Tier 1 capital to meet the requirements of the Credit Guarantee Scheme and it would need additional capital of GBP 20 million (Turner 2009). However, the government did not make the results of the stress test public. 
+
+On September 17, 2009, faced with a systemic crisis and depositor contagion, then– Chancellor of the Exchequer Alistair Darling announced that the government would guarantee all deposits, to try and stop the panic (Mor 2018). Following Chancellor Darling’s announcement, although not all retail and wholesale deposits in Dunfermline were insured, they were protected during the resolution, with implications for costs borne by the government and the amount of money that needed to be injected into the resolution by HMT. 
+
+Dunfermline was scheduled to announce its annual financial results on April 2, 2009, and there was concern that any disclosure on Dunfermline’s inability to meet capital requirements would undermine confidence in the building society and lead to its failure. Dunfermline’s failure would have threatened financial stability in the UK since it would have had adverse consequences for local authorities and other building societies. Other building societies in the UK had an exposure of GBP 300 million–GBP 600 million to Dunfermline through time deposits (EC 2010b). HM Treasury also confirmed that if Dunfermline were not resolved, it would be unable to satisfy depositors’ claims (BoE 2009b). 
+
+The FSA hired KPMG to review the adequacy of Dunfermline’s commercial property loan loss provisions and the viability of its business plans. In early December 2008, KPMG reported that Dunfermline should have a specific loan loss provision of GBP 18 million and a general provision of GBP 15 million should be made to reflect the quality of Dunfermline’s commercial book. Jon Pain, the former managing director of retail markets at the FSA, also said that it was widely known among market participants that Dunfermline would make substantial losses in 2008, which was reflected in its poor credit rating and would have impacted its ability to raise wholesale funding (HoC – SAC 2009). On November 21, 2008, Moody’s also downgraded Dunfermline across a variety of measures and noted that the 
+
+> 5 Under the Credit Guarantee Scheme, eligible institutions could pay a risk-based fee and issue debt with terms of up to three years that would be guaranteed by HM Treasury. See McNamara (2020) for a study of the Credit Guarantee Scheme. 
+
+
+outlook on all of Dunfermline’s ratings was negative due to the risk that further commercial loan losses would erode the company’s capital (Moody’s 2008). 
+
+Between January and March 2009, the FSA considered two private sector solutions to ensure Dunfermline’s viability without the need for public money. The solutions considered by the FSA were either a merger with another building society or the provision of capital from a third-party consortium. Three major building societies held merger discussions and carried out due diligence for the proposed merger. In mid-March 2009, it was clear that no building society was prepared to undertake a merger with Dunfermline’s entire business. The Building Societies Association (BSA) also indicated that no consortium of building societies would inject capital in Dunfermline unless the government also injected public money. On March 6, 2009, the FSA sent a letter to Dunfermline board chairman Jim Faulds, highlighting that the scope of additional write-downs on Dunfermline’s commercial loan book was significant and would further deplete Dunfermline’s capital (British Government 2009b). Given the deteriorating market conditions, the FSA revised its estimate of Dunfermline’s capital shortfall to GBP 60 million. The Tripartite Authorities considered two options given this information, each of which required the use of public money: 
+
+- The first option was to use the resolution powers of the SRR, established under the Banking Act 2009, and separate Dunfermline’s good assets from the bad assets and subsequently sell the good assets to another financial institution, 
+
+- The second option considered was a capital injection of GBP 60 million, split equally between a consortium from the BSA and HM Treasury. Representatives from the Scottish government also considered injecting GBP 25 million in Dunfermline. (Turner 2009) 
+
+The FSA conducted more stress tests to decide between these two options and concluded that the capital injection would not be sufficient to ensure the building society’s long-term viability. The Parliament requested more details about how the FSA reached this conclusion, and the FSA stated that the FSA made a “regulatory judgement” (British Government 2009b, 2). The Tripartite Authorities also doubted Dunfermline’s ability to service the interest on this capital or repay it. The typical instrument used to inject capital into a building society was a permanent interest-bearing share, and the provider of capital would expect to receive interest. Since Dunfermline had never made more than GBP 6 million in annual profits, it could not pay the expected interest on a capital injection of permanent interest-bearing shares. Chancellor Darling said, “I couldn't be in the situation where we put money into it knowing that they couldn't even service it or pay it back” (Carrell 2009, 2). Andrew Bailey, executive director for banking and chief cashier at the BoE at the time, also stated in his testimony to the Scottish Affairs Committee on May 20, 2009, that the capital injection would have fundamentally not improved depositor confidence and there was a risk that it may be viewed as a temporary fix (HoC – SAC 2009). 
+
+HM Treasury therefore concluded that a capital injection would not be the best course of action to protect depositors, ensure financial stability, and protect the interests of taxpayers. The BSA also declined to inject the full GBP 60 million. Following the BSA’s decision, 
+
+
+recapitalization was no longer possible, and the board of Dunfermline concluded that Dunfermline was unable to continue as a going concern. Based on this, the FSA concluded on March 28, 2009, that Dunfermline was likely to fail to satisfy its threshold conditions and it was reasonably unlikely that Dunfermline could rectify this situation (BoE 2009b). This triggered the resolution process under the existing SRR. 
+
+**2. Part of a Package: The BoE provided short-term lending facilities to the bridge bank and bank administration.** 
+
+The BoE provided a short-term lending facility of GBP 190 million to DBS Bridge Bank Limited and a GBP 10 million facility to Dunfermline’s business in administration. The government provided a guarantee to cover any losses the BoE incurred on these facilities. DBS Bridge Bank was required to pay an interest rate of the London Interbank Offered Rate (LIBOR) plus 70–120 basis points (bps) for the lending facility, and it repaid GBP 19 million to the BoE, which represented the drawdown plus interest (BoE 2010). The GBP 10 million facility to Dunfermline’s business in administration expired undrawn (KPMG 2009). 
+
+## **3. Legal Authority: The Special Resolution Regime of the Banking Act 2009 provided the legal framework for the resolution.** 
+
+The British government enacted the Banking Act 2009 on February 12, 2009 (British Government 2009a, 1). The centerpiece of the Banking Act 2009 is a process called the Special Resolution Regime, which gives the Tripartite Authorities tools for dealing with failing financial institutions. The SRR replaced the provisional Banking (Special Provisions) Act 2008, which was expiring and was used to deal with Northern Rock plc in February 2008; Bradford and Bingley plc in September 2008; and Heritable Bank plc and Kaupthing, Singer & Friedlander Limited in October 2008. The FSA’s decision that Dunfermline was likely to fail to meet its threshold conditions for authorization on March 28, 2009, triggered the SRR for the first time since the Banking Act was enacted in February 2009. 
+
+The SRR’s primary objectives are to protect and enhance the stability of the financial systems and public confidence in the stability of the banking systems of the UK, protect depositors, protect public funds, and avoid interfering with property rights in contravention of the Human Rights Act 1998. 
+
+The SRR provides the Tripartite Authorities with five tools to deal with distressed banks or building societies, summarized as follows (BoE 2009b): 
+
+- Placing the entire bank or building society into the Bank Insolvency Procedure, which would facilitate a rapid payout by the FSCS to eligible depositors, or the transfer of their deposits; 
+
+- Transferring the bank or building society to temporary public ownership of HM Treasury; 
+
+- Transferring all or part of the business of a bank or building society to a private sector purchaser; 
+
+
+- Transferring all or part of the business of a bank or building society to a bridge bank owned by the BoE; and 
+
+- Placing the bank or building society into a Bank Administration Procedure or Building Society Special Administration Procedure. 
+
+The Tripartite used the last three tools in Dunfermline’s resolution. The BoE applied for the bank administration order to place the residual part of Dunfermline in BSSAP under Section 142(1) of the Banking Act 2009. 
+
+**4. Administration: The SRR prescribed specific roles in the resolution for the FSA, BoE, and HM Treasury.** 
+
+## **National Authorities** 
+
+The SRR designated a specific role for each of the Tripartite Authorities in the resolution process as follows: 
+
+- The FSA was responsible for deciding if Dunfermline failed to meet its threshold conditions and should therefore be put into resolution. 
+
+- Once the FSA decided that Dunfermline could no longer meet its threshold conditions and take reasonable actions to rectify the situation, the BoE decided which tool to use from the SRR in resolving Dunfermline. 
+
+- HM Treasury was responsible for any decisions involving public money and when to put Dunfermline into temporary public ownership. 
+
+The SRR specifies that the FSA cannot determine that a financial institution can take no reasonable steps to satisfy its threshold conditions, without first consulting the BoE and HM Treasury. Similarly, the SRR specifies that the BoE, after consulting with the FSA and HM Treasury, can exercise its stabilization powers if it is convinced that doing so is in the interest of the stability of financial systems and public confidence in the stability of the banking systems in the United Kingdom, and protecting depositors. The SRR also requires HM Treasury to consult with the FSA and BoE before placing a bank into temporary public ownership. 
+
+The Tripartite Authorities used several private consultants during Dunfermline’s resolution process, including KPMG for valuation, tax advisory, and liquidation; Ernst & Young for conducting the bridge bank’s auction; and Freshfields Bruckhaus Deringer LLP for legal advice (BoE 2010; HoC – SAC 2009). 
+
+Specific details regarding the auction process for Dunfermline’s core business and DBS Bridge Bank, such as the reserve price and bidder eligibility, were not uncovered during research. During his testimony before the Scottish Affairs Committee on May 20, 2009, then– BoE executive Bailey stated that the BoE received four bids during the auction for Dunfermline’s core business. Potential bidders were asked to submit three bids during the 
+
+
+first auction, one for the good assets and the social housing portfolio, one for only the good assets, and one for only the social housing portfolio (EC 2010b). During DBS Bridge Bank’s auction, four firms carried out due diligence and the BoE received bids from two firms. 
+
+## **European Commission** 
+
+On January 25, 2010, the European Commission (EC) approved the aid given by UK authorities to facilitate Dunfermline’s restructuring under State Aid rules. The EC decided that the orderly breakup of Dunfermline resulted in the return to viability of its good assets, and there was sufficient burden sharing as subordinated debt holders contributed to the restructuring as much as possible. Further, the EC concluded that the liquidation of a substantial part of Dunfermline limited the distortion of competition caused by the aid. Therefore, the EC concluded that the aid was compatible with Article 87(3)(b) of the EC Treaty on State Aid rules (EC 2010a). 
+
+**5. Governance: The BoE was responsible for running the bridge bank, and the Banking Act 2009 required it to submit a report on the bridge bank’s activities to HM Treasury.** 
+
+Section 78 of the Banking Act 2009 specifies that the BoE cannot undertake any stabilization measures without HM Treasury’s consent if the measures involved the use of public funds. Section 80 of the Banking Act 2009 also specifies that the BoE has to provide reports to the chancellor of the Exchequer about the activities of the bridge bank, and in turn, the chancellor of the Exchequer is required to submit a copy of the report to the Parliament (British Government 2009a, 42). In July 2010, the BoE provided HM Treasury with this report outlining the bridge bank’s activities and auction (BoE 2010). 
+
+The Tripartite Authorities, Dunfermline’s former board members, and representatives from Nationwide also provided testimonies and evidence to the Scottish Affairs Committee. 
+
+Given that the SRR was used for the first time during Dunfermline’s resolution, the Scottish Affairs Committee requested the government to conduct a review of the interactions between the Tripartite Authorities and the decision-making process (British Government 2009b). However, it appears the government did not conduct this review. 
+
+**6. Communication and Disclosure: The Tripartite Authorities communicated that Dunfermline’s resolution was important to safeguard depositors and financial stability.** 
+
+In a press release announcing Dunfermline’s resolution, the BoE stated that the decision was taken to “protect depositors and safeguard financial stability” following a significant deterioration in Dunfermline’s financial position (BoE 2009b, 1). Mike Pink, one of Dunfermline’s administrators, highlighted that a fundamental objective of the SRR was to preserve stability; consequently, the need to appropriately communicate the resolution was a priority for all parties involved. He reported that, in his view, the resolution was communicated responsibly and there was no depositor panic (Pink 2010). 
+
+
+The Banking Act 2009 mandates that the BoE has to provide disclosures related to the activities of a bridge bank. During his testimony to the Scottish Affairs Committee on May 20, 2009, Andrew Bailey did not disclose details regarding individual bids received during the auction process, to preserve commercial confidentiality. 
+
+Former Prime Minister of Britain Gordon Brown insisted savers’ deposits would be protected but rejected a taxpayer-funded bailout (BBC News 2009b). In a news conference, Prime Minister Brown also said that “Dunfermline is the author of its own mistakes: mistaken judgments, mistaken investments, mistaken policies” (Reuters 2009, 3). 
+
+Former Dunfermline board chair Jim Faulds accused the UK government of sacrificing the building society (BBC News 2009a). 
+
+**7. Source and Size of Funding: HM Treasury transferred GBP 1.6 billion to Nationwide to facilitate the first transfer; the FSCS covered HMT’s GBP 521 million shortfall out of its levies on member institutions.** 
+
+HM Treasury transferred GBP 1.6 billion to Nationwide to bridge the difference in the amount of assets and liabilities Nationwide took on after the first auction. After HM Treasury made this transfer, it was made a creditor in the administration of Dunfermline’s residual business, and it was expected that there would be a significant recovery from the liquidation process. Further, the FSCS was liable to contribute to the cost of the resolution up to the level of the costs that it would have accrued if there had been a straight liquidation or administration of Dunfermline. The FSCS contribution cap was therefore the gross payout to insured depositors net of estimated recoveries to the FSCS claim in the liquidation counterfactual. HM Treasury stepped in to cover the rest and protect all depositors, including uninsured deposits. Therefore, as the then–chancellor of the Exchequer said, the actual use of public funds would leave the taxpayer with “a small residual exposure” (HoC – SAC 2009, 20). 
+
+In the normal resolution procedure of a failed financial institution, the FSCS would have to compensate eligible depositors for their losses. However, this process would have taken some time and could have led to depositors’ being unable to access their funds. The UK authorities therefore decided that to avoid this situation and facilitate a quick transfer to Nationwide, HM Treasury would initially make up the difference between the assets and liabilities transferred and later recover these costs from the FSCS (EC 2010b). Without the resolution powers in the SRR, HM Treasury would not have been able to facilitate the transfer to Nationwide, and the only options that would have been available to the Tripartite would have been to nationalize Dunfermline or liquidate Dunfermline and protect only the insured deposits. 
+
+When Dunfermline’s liquidation concluded, HM Treasury recovered approximately GBP 1.1 billion and FSCS paid HM Treasury GBP 521 million (FSCS 2017; KPMG 2020). 
+
+
+**8. Approach to Resolution and Restructuring: During Dunfermline’s resolution, most of its business was transferred to Nationwide, its social housing loans were transferred temporarily into a bridge bank, and its lower-quality loans were put into the Building Society Special Administration Procedure.** 
+
+The BoE consulted the FSA and HM Treasury and decided that Dunfermline should not be placed in the Bank Insolvency Procedure of the Banking Act 2009. Placing the building society in the Bank Insolvency Procedure would have led to a rapid payout by the FSCS to eligible depositors or the transfer of their deposits to another bank willing and able to pay out and assume insured deposits (BoE 2009b). The BoE decided instead to seek a buyer for some or all of Dunfermline’s assets and liabilities. Dunfermline was resolved in the following manner. 
+
+## **Sale of Dunfermline’s Core Business** 
+
+Over the weekend of March 28–29, the BoE conducted an auction sale for Dunfermline’s retail and wholesale deposits, branches, head office, and originated residential mortgages. The BoE identified and included five bidders in the tender selection process based on their likely interest and ability to purchase Dunfermline in a short time frame. The BoE asked the five bidders to submit three offers each, one for the good assets and the social housing portfolio, one for only the good assets, and one for only the social housing portfolio. The Tripartite Authorities received four bids. On March 30, 2009, a majority of Dunfermline’s business was transferred to Nationwide through a property transfer instrument created under the Banking Act 2009 (BoE 2009a). The following parts of Dunfermline were transferred to Nationwide (Davies and Dobler 2011): 
+
+- (a) GBP 3.1 billion of retail and wholesale deposits; 
+
+- (b) GBP 1.0 billion of Dunfermline’s prime mortgage lending book; 
+
+- (c) GBP 0.6 billion in liquid assets; and 
+
+- (d) Dunfermline’s 34 branches, head office, and all related employees. 
+
+The assets Nationwide took on were worth approximately GBP 1.6 billion less than the liabilities, based on Nationwide’s valuation. HM Treasury transferred GBP 1.6 billion to Nationwide, to close the difference between the value of the assets and liabilities transferred. Nationwide reported a gain on the acquisition of GBP 68 million, later revised to GBP 46 million, since Nationwide submitted a negative bid for Dunfermline’s core business (EC 2010a; Nationwide 2010). HM Treasury received a GBP 1.6 billion claim on Dunfermline Building Society in liquidation. FSCS repaid the amount HM Treasury did not recover from the liquidation, subject to a cap based on the amount of depositors that were insured net of estimated recoveries for the FSCS, since the UK has a net cost test for the cap on the contribution of the FSCS to a resolution. 
+
+
+## **Transfer of Social Housing Portfolio to Bridge Bank** 
+
+On March 30, 2009, Dunfermline’s GBP 500 million social housing loans and associated deposits were transferred temporarily to DBS Bridge Bank, which was owned by the BoE. This allowed the BoE to support the social housing portfolio, which was consistent with the objectives of the SRR. It also gave the BoE more time to find a permanent solution through the sale of the business. Following an auction for the social housing business, the BoE announced on June 17, 2009, that it had selected Nationwide as the preferred bidder for the social housing business held by the bridge bank. Nationwide paid GBP 377 million for the social housing portfolio and associated deposits. On July 1, 2009, the assets and liabilities of DBS Bridge Bank were sold to Nationwide (BoE 2010). In 2010, Nationwide reported a gain on the acquisition of the social housing portfolio of GBP 40 million (Nationwide 2010). 
+
+## **Building Society Special Administration Procedure** 
+
+The rest of Dunfermline’s business and the GBP 1.6 billion debt to HMT was placed in the Building Society Special Administration Procedure using the Building Societies (Insolvency and Special Administration) Order 2009 (Court of Session, Scotland 2009, 1). This business included GBP 650 million of commercial property loans, GBP 250 million of acquired residential mortgages, GBP 190 million of treasury assets, GBP 50 million in subordinated debt, and derivatives (Kellaway 2009; KPMG 2009). The court order placing this part of Dunfermline’s business in administration appointed KPMG as the administrator (BoE 2009b). The BoE made a short-term loan facility of GBP 10 million available to the administrators, but the facility expired undrawn. The administrators worked toward ensuring a better result for Dunfermline’s creditors than would have been likely if Dunfermline were liquidated without first being in BSSAP. 
+
+HMT’s GBP 1.6 billion claim in Dunfermline’s liquidation was split into two parts. The first claim was ranked pari passu to unsecured creditors. It was determined by the aggregate liabilities Dunfermline would have owed to depositors and other unsecured and unsubordinated debt holders if it did not enter resolution. The second liability claim was ranked junior to the unsecured creditors but senior to subordinated debt holders. It was determined by the aggregate liabilities Dunfermline would have owed to shareholding members, if shareholding members had given a notice of withdrawal effective immediately before the transfer time, and Dunfermline’s share account liabilities if they had not been transferred through the resolution (KPMG 2009; Pink 2010). Any claims made in respect to the first and second liability were limited to their respective proportions of the amount HM Treasury paid to Nationwide to facilitate the transfer (BoE 2009a). HM Treasury’s claims therefore had the same priority in insolvency as claims they replaced. The split in HM Treasury’s claims was to preserve the creditor hierarchy by separating the senior unsecured claim of depositors from their claim on the net assets of the building society associated with their ownership rights, given Dunfermline’s mutual structure. 
+
+HMT’s first liability claim was entirely recouped from the liquidation (GBP 427 million), and HMT’s second liability claim was partially repaid through liquidation (GBP 730 million or 
+
+
+approximately 66% of the total second liability claim) (KPMG 2020). The remainder of HMT’s claim (GBP 521 million) was paid by FSCS to HMT (FSCS 2018). 
+
+Dunfermline’s pro forma balance sheet during resolution is seen in Figure 2. Figure 3 in the Appendix provides an overview of Dunfermline’s resolution. 
+
+[FIGURE id=vol6_iss1_20_f2 type=chart page=18 label="Figure 2" file=figure_2.png caption="Dunfermline’s Pro Forma Balance Sheet as of March 2009 (GBP billions)"]
+### **Figure 2: Dunfermline’s Pro Forma Balance Sheet as of March 2009 (GBP billions)**
+
+|ASSETS<br>Prime mortgage<br>Liquid assets<br>HM Treasury<br>injected cash<br> <br>Social housing<br>Commercial and<br>retail loan portfolio<br>Treasury assets<br>Other|LIABILITIES& EQUITY<br>_First Transfer to Nationwide_<br>1.0        Retail deposits<br>2.3<br>0.6        Wholesale deposits<br>0.8<br>1.6<br>_Social Housing Portfolio_<br>0.5         Associated social<br>housing deposits<br>0.005<br>_Dunfermline Administration_<br>0.9         HM Treasury’s claim<br>Pension fund<br>1.6<br>0.04<br>0.2          Unsecured creditors<br>0.01<br>0.1          Subordinated debt<br>0.05<br>**4.8**<br>**4.8**|
+|---|---|
+
+
+
+_Sources: Davies and Dobler 2011; KPMG 2010._ 
+
+**9. Treatment of Creditors and Equity Holders: The claims of Dunfermline’s subordinated debt holders were transferred to the building society administration and were ranked last in the hierarchy of claims.** 
+
+Dunfermline had GBP 50 million of 6% subordinated debt maturing in 2015, and the debt was transferred to the portion of the building society placed in administration. The UK authorities decided that the subordinated debt holders would receive payment from the liquidation of Dunfermline’s residual business only after all the more senior claims, including HM Treasury’s claim, were paid. The administrators estimated that there would be insufficient funds to satisfy the claims of subordinated note holders (KPMG 2009). The subordinated notes matured on March 31, 2015, and were not repaid (KPMG 2020). 
+
+## **10. Treatment of Clients: The BoE’s press release announcing Dunfermline’s resolution stated that customers would not be affected.** 
+
+The BoE announced Dunfermline’s resolution through a press release stating that customers would not be affected and savers could be assured that their money was safe. In the same press release, BoE also noted that loan and mortgage customers should continue to make repayments as normal (BoE 2009b). 
+
+
+## **11. Treatment of Assets: Dunfermline’s assets were split among three entities as part of the resolution process, creating some challenges for the resolution authorities.** 
+
+Dunfermline’s resolution involved a split of the society’s assets and liabilities and a subsequent transfer to Nationwide, a bridge bank, and administration (BoE 2009b). Members of BoE’s Special Resolution Unit identified a few challenges faced in the treatment of derivatives contracts covered by netting arrangements during the resolution. Dunfermline had entered into several swap contracts, subject to netting arrangements, to hedge parts of its business. These netting safeguards required the BoE to keep all swap contracts under each netting agreement together even though the underlying assets and liabilities that were hedged were split (Davies and Dobler 2011). 
+
+## **12. Treatment of Board and Management: The FSA strongly recommended to Dunfermline’s board that a new chief executive be appointed.** 
+
+In his letter to the chancellor, then–FSA Chairman Adair Turner stated that the FSA strongly recommended that Dunfermline’s board replace its chief executive, Graeme Dalziel. The FSA considered using its powers to replace the chief executive if the board did not act on its own account. Dunfermline’s former chairman, however, denied receiving any pressure from the FSA to replace the chief executive. Dalziel retired in December 2008 and was replaced by Jim Willens in January 2009. Willens temporarily worked at Nationwide after Dunfermline was resolved and was later appointed as Newcastle Building Society’s chief executive (Paler 2009). 
+
+Following Dunfermline’s resolution, the Scottish Affairs Committee concluded that Dunfermline’s former board members breached their duties to the building society’s members by disingenuously writing off a GBP 9.5 million loss on poor management of information technology development and describing it as excellent progress (HoC – SAC 2009). 
+
+## **13. Cross-border Cooperation: Research did not indicate the evidence of cross-border cooperation in Dunfermline’s resolution.** 
+
+Dunfermline’s resolution did not require cross-border cooperation. 
+
+## **14. Other Conditions: Research did not indicate any additional conditions imposed on Nationwide or Dunfermline.** 
+
+The Tripartite Authorities did not impose any additional conditions on Dunfermline or Nationwide. 
+
+## **15. Duration: Dunfermline’s resolution was triggered by the FSA’s determination on March 28, 2009, and the resolution concluded with the final liquidation of the residual business in 2020.** 
+
+On the weekend of March 28–29, 2009, the FSA’s determination triggered the SRR and Dunfermline’s resolution process (BoE 2009b; Turner 2009). Following this, the BoE held an 
+
+
+auction for core parts of Dunfermline’s business and transferred this business to Nationwide on March 30, 2009 (BoE 2009a). Dunfermline’s social housing portfolio was placed into a bridge bank owned by the BoE on March 30, 2009, and sold to Nationwide on July 1, 2009. The bridge bank was formally dissolved on June 19, 2010 (BoE 2010). 
+
+Dunfermline’s residual business was placed into administration on March 30, 2009, and liquidated over the next few years (EC 2010a). The administrators’ final report was published on May 13, 2020, and indicated that the residual business had realized GBP 1.4 billion through the liquidation and distributed GBP 1.3 billion to Dunfermline’s stakeholders. All creditors except holders of subordinated loan notes (a total of GBP 50 million), were repaid, including statutory interest. The creditors that were fully repaid included the Dunfermline Pension Fund and approximately 30 unsecured creditors who were owed GBP 9 million (KPMG 2009). HM Treasury’s claim was repaid partially through the liquidation of Dunfermline’s business and partially through a payment FSCS made to HM Treasury. The subordinated loan notes matured in March 2015 and were not repaid (KPMG 2020). 
+
+
+## **References and Key Program Documents** 
+
+## **Implementation Documents** 
+
+(BoE 2009a) Bank of England (BoE). 2009a. “Dunfermline Building Society Property Transfer Instrument 2009.” March 30, 2009. 
+
+_Property transfer instrument used to transfer Dunfermline’s core business to Nationwide_ . https://ypfs.som.yale.edu/node/23662/ 
+
+## **Legal/Regulatory Guidance** 
+
+(British Government 2009a) British Government. 2009a. Banking Act 2009. UK Public General Acts, 2009 c. 1, February 12, 2009. 
+
+_Banking Act adopted in 2009, including the Special Resolution Regime (SRR), which was the new framework for resolving failed financial institutions_ . https://ypfs.som.yale.edu/node/20153/ 
+
+(Court of Session, Scotland 2009) Court of Session, Scotland. 2009. Special Administration Order in Respect of the Dunfermline Building Society. Certified copy interlocutor, March 30, 2009. 
+
+_Court order placing Dunfermline into the Building Society Special Administration Procedure_ . https://ypfs.som.yale.edu/node/23664/ 
+
+## **Media Stories** 
+
+(BBC News 2009a) BBC News. 2009a. “Dunfermline Boss Attacks Treasury.” _BBC News,_ March 28, 2009. 
+
+_News article discussing criticism by Dunfermline’s former chairman, Jim Faulds_ . https://ypfs.som.yale.edu/node/24176 
+
+(BBC News 2009b) BBC News. 2009b. “Scramble to Save Building Society.” _BBC News,_ March 28, 2009. 
+
+_News article discussing former British Prime Minister Gordon Brown’s remarks regarding the resolution of Dunfermline_ . 
+
+https://ypfs.som.yale.edu/node/24177 
+
+(Carrell 2009) Carrell, Severin. 2009. “Dunfermline Building Society Sold after Regulator Refuses Bailout.” _Guardian_ , March 29, 2009. 
+
+_News article discussing Dunfermline’s resolution and the circumstances leading to the resolution_ . 
+
+https://ypfs.som.yale.edu/node/23666/ 
+
+(Paler 2009) Paler, Nicholas. 2009. “Ex-Dunfermline Boss to Head up Newcastle BS.” _Citywire_ , December 9, 2009. 
+
+_News article highlighting that the former chief executive of Dunfermline, Jim Willens, started leading Newcastle Building Society after Dunfermline’s resolution_ . https://ypfs.som.yale.edu/node/24178 
+
+
+(Reuters 2009) Reuters. 2009. “UPDATE 2-Nationwide Rescues Dunfermline for 1.6 Bln Stg.” _Reuters_ , March 30, 2009. 
+
+_News article discussing Nationwide’s role in Dunfermline’s resolution_ . https://ypfs.som.yale.edu/node/24179 
+
+## **Press Releases/Announcements** 
+
+(BoE 2009b) Bank of England (BoE). 2009b. “Dunfermline Building Society – News Release.” Press release, March 30, 2009. 
+
+_Press release announcing the transfer of core parts of Dunfermline Building Society to Nationwide Building Society_ . 
+
+https://ypfs.som.yale.edu/node/23667/ 
+
+(EC 2010a) European Commission (EC). 2010a. “State Aid: Commission Approves Aid for Restructuring of Dunfermline Building Society.” Press release No. IP/10/48, January 25, 2010. 
+
+_EC press release announcing the approval of aid for Dunfermline Building Society_ . https://ypfs.som.yale.edu/node/23668/ 
+
+## **Reports/Assessments** 
+
+(BoE 2010) Bank of England (BoE). 2010. “Report under Section 80(1) of the Banking Act 2009 on the Dunfermline Building Society (DBS) Bridge Bank.” July 2010. 
+
+_The BoE’s report on the Dunfermline Bridge Bank covering its operations from March 2009 to June 2010_ . 
+
+https://ypfs.som.yale.edu/node/23669/ 
+
+(British Government 2009b) British Government. 2009b. “Dunfermline Building Society: Government Response to the Committee’s Fifth Report - Scottish Affairs Committee,” October 2009. 
+
+_Document containing the Government’s response to the Scottish Affairs Select Committee’s Report on Dunfermline Building Society_ . 
+
+https://ypfs.som.yale.edu/node/24180 
+
+(EC 2010b) European Commission (EC). 2010b. “State Aid – NN 19/2009 – United Kingdom Restructuring Aid to Dunfermline Building Society,” January 25, 2010. _EC State Aid approval of Dunfermline’s resolution_ . https://ypfs.som.yale.edu/node/23670/ 
+
+(FSCS 2017) Financial Services Compensation Scheme (FSCS). 2017. Annual Report and Accounts 2016/17. 
+
+_FSCS annual report covering 2016–17_ . https://ypfs.som.yale.edu/node/23671/ 
+
+
+(FSCS 2018) Financial Services Compensation Scheme (FSCS). 2018. Annual Report and Accounts 2017/18. 
+
+_FSCS annual report covering 2017–18_ . https://ypfs.som.yale.edu/node/19229 
+
+(HoC – SAC 2009) House of Commons – Scottish Affairs Committee (HoC – SAC). 2009. “Dunfermline Building Society: Fifth Report of Session 2008–09.” Report, Together with Formal Minutes, Oral and Written Evidence, July 30, 2009. 
+
+_Inquiry conducted by the Scottish Affairs Committee regarding Dunfermline’s failure and resolution_ . 
+
+https://ypfs.som.yale.edu/node/23672/ 
+
+(KPMG 2008) KPMG. 2008. “Building Societies Database 2008,” August 2008. _KPMG’s report on building societies in the UK during 2008_ . https://ypfs.som.yale.edu/node/23673/ 
+
+(KPMG 2009) KPMG. 2009. “Dunfermline Building Society – in Building Society Special Administration.” Joint Administrators’ Progress Report to Creditors Pursuant to Rules 26 to 29 of the Building Society Special Administration (Scotland) Rules 2009, October 28, 2009. _Joint administrators’ first progress report for the period March 30, 2009, to September 29, 2009_ . https://ypfs.som.yale.edu/node/23674/ 
+
+(KPMG 2010) KPMG. 2010. “Dunfermline Building Society – in Building Society Special Administration.” Joint Administrators’ Second Progress Report to Creditors Pursuant to Rules 26 to 29 of the Building Society Special Administration (Scotland) Rules 2009, April 22, 2010. 
+
+_Joint administrators’ second progress report for the six-month period through March 29, 2010_ . 
+
+https://ypfs.som.yale.edu/node/23675/ 
+
+(KPMG 2020) KPMG. 2020. “Dunfermline Building Society – in Building Society Special Administration.” Joint Administrators’ Final Progress Report for the Period January 31, 2020, to, May 13, 2020. 
+
+_Joint administrators’ final progress report_ . https://ypfs.som.yale.edu/node/23676/ 
+
+(Moody’s 2008) Moody’s Investors Service (Moody’s). 2008. “Moody’s Downgrades Dunfermline’s Ratings to D+/Baa2; Short-Term Ratings of P-2 Are Affirmed.” Rating action, November 21, 2008. 
+
+_Moody’s downgrades Dunfermline’s ratings reflecting risks in Dunfermline’s commercial loans_ . 
+
+https://ypfs.som.yale.edu/node/24181 
+
+
+(Mor 2018) Mor, Federico. 2018. “Bank Rescues of 2007-09: Outcomes and Cost.” House of Commons Library, Briefing Paper No. 5748, October 8, 2018. 
+
+_Briefing note for UK House of Commons summarizing the interventions provided by the UK authorities during the Global Financial Crisis and the costs of the interventions_ . https://ypfs.som.yale.edu/node/24190 
+
+(Nationwide 2010) Nationwide Building Society (Nationwide). 2010. Annual Reports and Accounts. 
+
+_Nationwide annual report covering 2009–10_ . https://ypfs.som.yale.edu/node/24182 
+
+(Turner 2009) Turner, Adair. 2009. “Letter to the Chancellor of the Exchequer Alistair Darling,” April 17, 2009. 
+
+_A letter from the former chairman of the FSA, Adair Turner, to the chancellor of the Exchequer, describing key details in Dunfermline’s resolution and supervision_ . https://ypfs.som.yale.edu/node/23677/ 
+
+## **Key Academic Papers** 
+
+(Davies and Dobler 2011) Davies, Geoffrey, and Marc Dobler. 2011. “Bank Resolution and Safeguarding the Creditors Left Behind.” Bank of England Quarterly Bulletin 51, no. 3 (Third Quarter): 213–23. 
+
+_Paper discussing the use of the SRR in Dunfermline’s resolution and practical challenges faced during the resolution_ . 
+
+https://ypfs.som.yale.edu/node/23678/ 
+
+(Kellaway 2009) Kellaway, Martin. 2009. “Public Sector Interventions in the Financial Crisis Statistical Classification Decisions.” Office for National Statistics, UK Statistics Authority, November 2009. 
+
+_Article explaining national account classifications of financial crisis interventions taken by the British government during the GFC_ . 
+
+https://ypfs.som.yale.edu/node/3955/ 
+
+(Malek QC, Potts, and Dzwig 2019) Malek QC, Hodge, James Potts, and Sophia Dzwig. 2019. “IX. United Kingdom.” In _Bank Resolution: Key Issues and Local Perspectives_ , edited by Simon Brodie, 163–82. London: INSOL International. 
+
+_Chapter discussing the UK’s regulatory framework for resolutions and the SRR application in Dunfermline’s case_ . 
+
+https://ypfs.som.yale.edu/node/23679/ 
+
+(McNamara 2020) McNamara, Christian. 2020. “The United Kingdom’s Credit Guarantee Scheme (U.K. GFC).” _Journal of Financial Crises_ 2, no. 3: 927–47. _Case study examining the Credit Guarantee Scheme_ . https://ypfs.som.yale.edu/node/23680/ 
+
+
+(McNamara et al. 2024) McNamara, Christian M., Carey K. Mott, Salil Gupta, Greg Feldberg, and Andrew Metrick. 2024. “Survey of Resolution and Restructuring in Europe, Pre- and Post-BRRD.” _Journal of Financial Crises_ 6, no. 1. 
+
+_Survey of YPFS case studies examining 21st-century bank resolutions and restructurings in Europe before and after the existence of the Bank Recovery and Resolution Directive._ https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/1 
+
+(Pink 2010) Pink, Mike. 2010. “Dunfermline Building Society: The First Use of the New Resolution Powers under the Banking Act 2009.” International Corporate Rescue 7, no. 3. _Journal article written by one of Dunfermline’s administrators regarding the SRR’s usage and challenges_ . 
+
+https://ypfs.som.yale.edu/node/23681/ 
+
+(Vergara 2022) Vergara, Ezekiel. 2022. “United Kingdom: Financial Services Compensation Scheme.” _Journal of Financial Crises_ 4, no. 2: 639–56. 
+
+_Case study regarding the FSCS, the UK’s deposit insurance agency_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/29/ 
+
+## **Other** 
+
+(UK Parliament 2009) UK Parliament. 2009. “Amendments to Law (Resolution of Dunfermline Building Society) Order 2009.” House of Lords Debates, Vol. 710, May 6, 2009. _Discussion of the use of Section 75 of the Banking Act 2009 to make amendments to the resolution order of Dunfermline Building Society_ . https://ypfs.som.yale.edu/node/24183 
+
+
+## **Appendix** 
+
+[FIGURE id=vol6_iss1_20_f3 type=figure page=26 label="Figure 3" file=figure_3.png caption="Overview of Dunfermline’s Resolution"]
+### **Figure 3: Overview of Dunfermline’s Resolution**
+![Figure 3](assets/vol6_iss1_20/figure_3.png)
+
+
+_Source: Author’s analysis._ 
+
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

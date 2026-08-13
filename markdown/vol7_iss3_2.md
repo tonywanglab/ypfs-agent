@@ -1,0 +1,565 @@
+## **Stressing the Stress Tests** 
+
+_Natasha Sarin_[1] _and Til Schuermann_[2 ] 
+
+## **Abstract** 
+
+In the spring of 2023, Silicon Valley Bank, Signature Bank, and First Republic Bank failed, owing to predictable rate hikes by the Federal Reserve. It’s clear from these recent events that the current US stress-testing system is ill-suited to mitigate risk associated with the banking system, especially when looking at smaller regional banks that aren’t subjugated to annual stress testing. Stress testing as a regulatory tool is also exposed to significant legal risks following recent Supreme Court jurisprudence that draws into question the viability of the status quo. 
+
+Today, regulators and other interested parties must change tacks to craft a stress testing regime that is fit for purpose. This article seeks to inform that debate by laying out key features of a successful stress testing program against which we assess the current regime in the United States. We make four recommendations: (1) using multiple scenarios to allow exploration of a wider set of risks; (2) disclosing (stressed) fair value for the assessment of all securities held on banks’ balance sheets; (3) stress testing of funding and liquidity risk; and (4) subjecting more banks to the stress tests. Taken together, these reforms would usefully improve the dynamism of the financial regulatory regime. 
+
+**Keywords:** bank capital, banking regulation, financial crisis, interest rate risk, stress tests **JEL Classifications:** G21, G28 
+
+> 1 Natasha Sarin, Professor, Yale Law School and Yale School of Management, natasha.sarin@yale.edu. 
+
+> 2 Til Schuermann, Partner and Global Head of Finance and Risk Practice, Oliver Wyman, Til.Schuermann@oliverwyman.com. 
+
+
+## **I. Introduction** 
+
+In the spring of 2023, the United States experienced saw the second-, third-, and fourthlargest bank failures in its history. It was the first real test of the bank regulatory regime created after the Global Financial Crisis of 2007–2009 (GFC), formalized through the Dodd– Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank).[3] But weaknesses in the financial regulatory regime remain, and they were on display in the spring of 2023 when the government ultimately was forced to step in and address the crisis.[4] Even more troubling, the 2023 crisis was not caused by some unforeseeable event. Instead, bank failures were caused by the simplest of all shocks—the effect of the Federal Reserve’s following through on its clearly announced promise to raise interest rates sharply to combat inflation. 
+
+It should not have been _that_ hard to see that quickly rising interest rates would create problems for some banks. The conventional wisdom is that banks benefit from a steep yield curve, when long-term interest rates (where they lend) are much higher than short-term ones (where they borrow). When the Fed raises rates, it does so on the short end of the curve, typically moving the entire yield curve up. What at first seems bad for banks is actually good since deposits are very slow to reprice. Thus, for banks, the yield curve effectively steepens, giving a boost to net interest income.[5] However, for existing long-dated assets that sit on banks’ books, their (fair) value declines. 
+
+Some banks hold many such assets, particularly securities that are relatively liquid and have low to no credit risk (for example, US Treasury bonds), in part because regulation encourages them to do so. Losses on these assets can overwhelm the gains banks receive from lending’s becoming more profitable. 
+
+This situation was made more precarious by the fact that many financial institutions were funded through large, uninsured deposits that are more sensitive to repricing as rates rise than are retail, insured deposits. According to bank call reports, the share of uninsured deposits rose from 20% in 2010 to 45% by year-end 2022, on average, but with significant cross-sectional variation. Specifically, Silicon Valley Bank (SVB) and Signature Bank, which ultimately failed, were at the tail of the distribution with uninsured deposit shares of 94% and 89%, respectively. 
+
+Recent failures occurred in a regulatory regime that, at least in theory, has a mechanism in the annual stress tests meant to ensure that at least the largest financial institutions have sufficient capital to withstand severely adverse shocks. And the risks that triggered financial 
+
+> 3 The Basel Committee stated that the 2023 banking turmoil, the most significant stress on the system since the Global Financial Crisis, highlighted flaws in the regulatory paradigm governing financial institutions (BCBS 2023). 
+
+> 4 To stop the banking crisis from spreading, the Federal Reserve established a new emergency lending facility (the Bank Term Funding Program), at implicitly subsidized rates, to provide loans to eligible depository institutions. The Fed, the Federal Deposit Insurance Corporation (FDIC) and the Treasury together pledged to protect depositors to forestall contagious bank runs. 
+
+> 5 This is referred to as the deposit franchise of banks, and its value manifests precisely in a rising-rate environment. 
+
+
+distress should not have been a surprise to either bank risk managers or bank supervisors: the Federal Reserve had been signaling clearly that interest rates would need to rise following an increase in inflation in mid-2021. Indeed, in the months leading up to SVB’s collapse, regulators were flagging the hundreds of billions of dollars in unrealized losses on available-for-sale (AFS) and held-to-maturity (HTM) securities that those rate increases had precipitated.[6] The increased reliance on uninsured deposits was also known, as it was reported quarterly in bank regulatory reports. These were risks hiding in plain sight, in stark contrast to the opaque risks embedded in securitizations that triggered the Global Financial Crisis in 2007.[7] 
+
+The success of the crisis stress tests in boosting confidence in the nation’s largest financial institutions encouraged policymakers to regularize annual stress testing, and it has become the most important element of the post-crisis regulatory regime. Bank regulation is extremely complex, with the largest banks complying with at least 10 distinct capital requirements.[8] But the stress test capital requirement is the binding constraint for most institutions subject to the tests, and the stress tests are at the forefront of the regulatory regime as the only possible vehicle to glean a forward-looking assessment of losses that could accumulate during a crisis. 
+
+Despite their centrality in the regulatory edifice, the annual stress tests had not considered the impact of higher interest rates[9] or flighty deposits on bank safety. Clearly then, one takeaway from the recent period is that the stress-testing regime encoded in Dodd-Frank Act Stress Testing (DFAST) in 2010 and amended with the Economic Growth, Regulatory Relief, and Consumer Protection Act (EGRRCPA) in 2019 was ill-designed to detect and protect against the vulnerabilities in the banking system in 2023. It is also the case that even if the stress tests had been designed to screen banks for these risks, they would have been ineffective at identifying problems at regional banks like SVB, since annual stress testing is reserved for banks with more than $250 billion in total assets.[10] 
+
+When evaluating a stress-testing regime, there are two important steps: how is it designed, and how are the results used? Perhaps the most important design feature is comprehensiveness. Does the stress test comprehensively cover all relevant and significant 
+
+> 6 “Unrealized losses on available-for-sale and held-to-maturity securities totaled $690 billion, up 47 percent from second quarter 2022” (Gruenberg 2022). 
+
+> 7 See Cheng and Wessel (2018), which quotes former Treasury Secretary Hank Paulson as arguing that “crises are unpredictable in terms of cause or timing or the severity when they hit.” But see Sarin (2021), which argues that, in actuality, the Global Financial Crisis—and banking crises generally—can be well predicted by market measures that are leading indicators of financial distress. Indeed, Sarin argues for the effectiveness of forwardlooking market measures and the predictability of financial crises and cautions against a regulatory regime that continues to ignore their importance. 
+
+> 8 “The largest banks must comply with at least ten distinct capital requirements, as well as liquidity requirements and many other rules” (Greenwood et al. 2017). 
+
+> 9 In 2013 and 2015, the less severe “adverse” scenario did include a rate-rise environment. In 2020, DoddFrank Act Stress Testing moved to a single scenario. 
+
+> 10 Banks between $100 billion and $250 billion in total assets are subjected to biannual stress testing, and banks below $100 billion are exempt from supervisory stress testing entirely. 
+
+
+risks, both at an individual bank and at the core banking system as a whole? This is often referred to as the micro- and macroprudential perspective. The comprehensiveness criterion implicitly forces the delineation of the “core” banking system: which banks need to be included, and which can one safely exclude? 
+
+Once the results are in hand, how should they be used? At a minimum, stress testing is a valuable information tool: these results show the key risks in the system and how the stresstested banks fare in the face of these risks. This information can be kept privately with the banks and their supervisors, or it can also be disclosed to the public to allow for better monitoring. A step further would be to use the results for setting capital requirements. This, in turn, can be a direct linkage—bank X must hold Y% or $Z in capital—or it can used as an input to that capital requirement. 
+
+Both of these steps—design comprehensiveness and use—come with many choices involving trade-offs. How many scenarios, how many banks, how often, and so on. But stress testing is not costless and subject to diminishing returns. And the answer may be different in the middle of a crisis (financial “wartime”), when the set of relevant risks to test is quite clear, versus during financial peacetime, when the range of risks is far less clear, and it may take more scenarios applied to more banks to gain a useful picture of the state of the banking system.[11] 
+
+In our view, the current stress-testing regime is not sufficiently comprehensive, neither in the range of risks nor the range of banks that are covered. The business of banking— borrowing short and lending long—means banks are exposed to three key financial risks: interest rate risk, liquidity risk, and credit risk. Therefore, any regulatory regime, any risk management program, and any stress-testing scheme would need to address all three of these risks. Current stress testing is quite effective at testing resilience to credit risk but less so to liquidity and interest rate risk. This is a weakness that a better-designed and more broadly applied stress test could usefully address. The Federal Reserve’s stress-testing program is undergoing a redesign as of this writing. For instance, the Fed has already added additional exploratory scenarios in addition to the stress scenario that determines a bank’s capital requirement. Other changes may also be forthcoming. We aim to provide a framework against which to assess those proposed changes. 
+
+Our proposed menu of reforms, which we detail at greater length in this paper, would call for: 
+
+- _More scenarios:_ the Dodd–Frank Act required the Federal Reserve to design and stress banks against two stress scenarios in addition to the baseline scenario. With the Tailoring Rule following passage of the EGRRCPA, the number of stress scenarios was reduced to one. But it is impossible to characterize with any 
+
+> 11 See Schuermann (2016), which notes the fundamentally different purpose served by stress-testing exercises in times of crisis and exercises in peacetime aimed at identifying and addressing future risks. See also Judge (2022), which describes the critical role stress tests play in crisis containment in chapter 12. During wartime, stress testing gives regulators a clearer picture of fundamental weaknesses in the system whereas during peacetime, early signals provide guidance, for example, on which asset classes to monitor. 
+
+
+precision the stresses that banks are likely to undergo in crisis; stress scenarios are not forecasts, but they are draws of what could plausibly happen. In order for them to help safeguard against the broadest range of potential risks on the horizon, the best that can be done is stressing banks to a range of adverse conditions. At a minimum, a stress-testing regime needs to adequately probe a bank’s (and banking system’s) resilience to credit, liquidity, and interest rate exposures. To adequately cover the risks faced by the banking system, we suggest increasing the number of scenarios to a minimum of three. 
+
+- _Full fair value treatment of securities_ :[12] At present, while all securities held by banks are fair valued, and those value changes are disclosed, only some of those value changes are reflected in capital as dictated by accounting rules. That means that banks can experience significant losses that deplete their economic capital position (measured on a fair value basis) without this being reflected in their regulatory capital. Importantly, changes in the fair value securities held in the hold-to-maturity book do not flow through to capital. For the available-for-sale book, fair value changes flow through to capital only for the largest banks.[13] Yet market participants will include any such fair value changes in their own solvency assessments of banks in times of turmoil. Our proposal is to account for the fair value of HTM securities in the stress scenario only. Our proposal is to disclose the impact of a mark-to-stress across the securities portfolio in a stress tangible common equity (TCE) ratio across all scenarios, which will have the effect of inflating capital ratios relative to prevailing accounting standards in a rates-down scenario and depressing them relative to prevailing accounting standards in a rates-up scenario. We believe these disclosures themselves— without any new capital requirement—will provide valuable information to the market about financial stability in different potential stress moments. 
+
+- _More explicit stress testing of bank funding and liquidity_ : DFAST-style stress testing focuses largely on asset quality under stress. Full balance sheet dynamics, which include funding, enter through net interest income calculations but with only minimal exploration of funding challenges encountered in a severely adverse scenario. Richer exploration of these dynamics, in particular how quickly deposits are likely to leave as interest rates rise via deposit betas (the change in deposits as interest rates change) and the potential speed of outflows in times of distress, are needed to cover bank vulnerabilities to shocks more comprehensively. 
+
+In addition, we propose including a liquidity coverage ratio (LCR) check in every projection period in the stress test. Since banks have to meet an LCR requirement 
+
+> 12 We will use the broader term “fair value” rather than “mark to market” to distinguish from trading book demands of marking positions to prevailing market prices. Of course, fair valuation looks primarily to market prices in determining an appropriate—fair—valuation, so the two concepts are closely related. 
+
+> 13 The Basel III Endgame proposed rules will take a step in this direction, subjecting all banks larger than $100 billion in total assets to capital fluctuations stemming from changes in the fair value of AFS securities. 
+
+
+anyway, they would have to meet that requirement in a period of stress. Imposing an LCR check is a straightforward way to introduce liquidity into the more capital-oriented stress-testing program. 
+
+- _More banks should be stress tested—and every year_ : At present, only banks above the $250 billion asset threshold are subject to annual stress tests. Banks between $100 billion and$250 billion in assets (so-called Category IV banks) are stress tested every other year. At a minimum, we advocate for annual stress testing of Category IV banks. We would ideally include all banks above $10 billion in assets, since there are several banks in the $10 billion–$100 billion range that have suffered significant deposit outflows since the SVB episode and whose failure could trigger contagion. Since stress testing is not costless, for banks at $10billion–$100 billion, we propose a lighter version of the large bank stresstesting program be developed. 
+
+We also consider how these tests are used to determine capital requirements. Here, we briefly raise the legal challenges that the current edifice of stress testing is exposed to,[14] and we note that these threats may push against the kind of innovative reforms that we would like to see the regulatory community make so stress testing can achieve its promise of a dynamic and forward-looking assessment of financial stability. Specifically, the banking industry’s push for the implementation of “notice and comment” for stress-testing models would impede the dynamism we envision for stress testing. One way to address this challenge could be to decouple stress test results from bank capital requirements, as some have suggested.[15] While there are real virtues to such an approach, we believe at this time the benefits do not outweigh the costs, as we are skeptical of putting more pressure on supervisors to deploy information from the stress tests affirmatively to bolster banks that suffer from capital inadequacy. Instead, we would support maintaining the direct tie between capital levels and stress test results, and we are heartened by the approach regulators are taking to stressing against new risks in “exploratory” scenarios. 
+
+Reforming stress tests along the lines that we suggest is a tall order. Further, forwardlooking or “peacetime” stress tests pose unique challenges for regulators when compared to their crisis counterparts. During a crisis, the types of risk banks face are relatively well identified because we are living through them. Stress tests designed ex ante—particularly if 
+
+14 For years, large financial institutions and industry trade groups have claimed that the stress tests violate the Administrative Procedure Act by creating a binding rule in bank capital requirements but not subjecting scenarios and stress test models to notice-and-comment rulemaking. Indeed, they filed a lawsuit in December 2024 laying out these arguments. See Bank Policy Institute v. Board of Governors of the Federal Reserve System (2024). In response, see Fed (2024c), where the Federal Reserve announced that it would seek public comment on changes to improve the transparency of bank stress tests in response to the changing legal landscape. 
+
+> 15 See Wessel (2023) for a discussion with former Federal Reserve Governor Daniel Tarullo noting that “there’s an increasingly compelling case for shifting back to using point-in-time capital requirements as the binding constraints upon banks and using stress testing more to provide information to supervisors about the resilience of banks under a variety of possible stresses, without automatically tying the results to minimum capital requirements.” See also Tarullo (2024), which makes explicit the merits of decoupling stress tests from regular capital requirements, including fostering dynamism in stress testing and removing institutional barriers from conducting more customized tests in light of financial and economic shocks. 
+
+
+they are forced to go through notice-and-comment rulemaking—may never be creative or flexible enough to respond to the particular questions markets have about banks in future moments of distress. 
+
+Our paper proceeds as follows. Section II explains how stress testing can, theoretically, help identify latent weaknesses in the financial system. Section III outlines reforms to stress testing that would increase its efficacy, as well as a discussion of some of the behavioral, administrative, and legal challenges; and Section IV provides some brief concluding remarks. 
+
+The banking turmoil in the spring of 2023 exposed broad weaknesses in the US regulatory and supervisory architecture. Our focus will be on stress testing, but a cogent discussion of this important tool needs to touch on other shortcomings in the regulatory regime, including the relationship between capital and liquidity regulation, the appropriate design of a lenderof-last-resort function, and how best to manage the run risk given the significant presence of uninsured deposits in the financial system. We raise these briefly in conclusion, but they are important areas that merit considerable attention. 
+
+## **II. Stress Testing: (In Theory) A Tool for Dynamic Regulation** 
+
+All capital regimes seek to capitalize banks sufficiently to withstand severe shocks and be able to absorb unexpected losses.[16] The question of “how much capital” is tied closely to “how risky is the balance sheet” and “how dangerous is the world” and, importantly, “how severe of a shock or series of shocks” should banks be expected to survive while still fulfilling their role as credit intermediaries in the economy. Embedded in the calibration is a risk appetite by the official sector: the lower the risk appetite, the more resilient the banks need to be, the more severe the shocks they need to be able to withstand, and therefore the more capital they need to hold. Capital functions as self-insurance for banks against downturns. So, a question regulators grapple with is how far out in the tail banks should be forced to self-insure before (in extreme cases) the official sector ultimately is forced to step in. Banks could be required to finance themselves with 100% capital, but then they would no longer be banks as we understand them, as they would have no debt financing (like deposits). Those who have called for much higher capital requirements have suggested in the neighborhood of 30% equity financing, which would be about three times average capital levels today.[17] 
+
+A crucial component of a capital requirement is not just its level but also how best to measure it. In the run-up to the GFC, banks held capital based on the assessed risk of their asset portfolios, with a rather abstract view of the severity of shocks and no specificity on the kinds 
+
+> 16 Capital sits as a layer of protection for bank creditors: a bank’s capital position equals the amount of asset losses banks can experience before they are no longer able to pay creditors, including especially depositors, in full. 
+
+> 17 The cost of drastically higher capital requirements would be less intermediation, at least by banks, in that there would be fewer bank deposits being turned into longer-term investments like loans. Scholars like Anat Admati argue that these costs are overstated. “[Q]uite simply, bank equity is not expensive from a social perspective, and high leverage is not required in order for banks to perform all their socially valuable functions, including lending, taking deposits, and issuing money-like securities” (Snyder 2010). 
+
+
+of dangerous scenarios the world might offer up. During the GFC, it became clear that banks that were well capitalized according to the prevailing regulatory capital regime were understood by the market as instead dangerously close to insolvency given emerging risks and market conditions.[18] 
+
+The crisis and its progeny precipitated the realization that the existing regulatory capital regime failed spectacularly at identifying weak banks, so a different approach was needed: enter stress testing.[19] 
+
+The idea behind using stress tests as a method to assess capital adequacy was to directly address the questions of bank stability, in a dynamic way, by considering scenarios relevant to banks’ vulnerabilities in the current environment. Stress scenarios are explicit, concrete, and easily understood; the official sector risk appetite is clearly expressed through both the severity of the scenario and the post-stress capital requirement. The more severe the scenario and the higher the post-stress requirement, the lower the appetite for a risky banking system. In this way, stress testing is just another risk-weighting algorithm, albeit bespoke to the risks facing financial institutions at a point in time.[20, 21] For example, if the regulator views that risks in commercial real estate (CRE) are especially high, with growing vulnerabilities by the banks, it can simply increase the shock severity in the CRE index. 
+
+## **Limited Dynamism in the Current Stress-Testing Regime** 
+
+Given that stress testing is essentially a more bespoke risk-weighting algorithm, one of its virtues is that it allows capital levels to be calculated and adjusted in the face of evolving risks that are poorly captured by more static regulatory risk-weighting approaches. And to 
+
+18 See Sarin (2021) for discussion. Then–Securities and Exchange Commission (SEC) Chairman Christopher Cox famously noted that Bear Stearns was “well-capitalized and apparently fully liquid” at the time of its collapse (Cox 2008); the CFO of Lehman Brothers noted in June 2008, a few months before the firm’s failure, that by regulatory capital measures, Lehman was “extremely well capitalized to take advantage of . . . new market opportunities” (Lehman Brothers Holdings Inc. 2008). While these institutions were primarily regulated by the SEC, the same has been true for bank holding companies that were in distress during the financial crisis and since then. 
+
+19 To be sure, Dodd-Frank included a host of important reforms, including the creation of the Consumer Financial Protection Bureau. But the stress tests are generally regarded as “a cornerstone of post-crisis prudential regulation” because of their unique ability to provide forward-looking assessments of bank health (Tarullo 2016). 
+
+> 20 Many bank capital requirements are based on risk weights, such that riskier assets are assigned higher capital charges. The idea is that banks will need more of a buffer against potential losses when assets are riskier “[T]he reason regulators use [risk-weighted assets] in addition to total assets is because some assets are inherently riskier than others. Without risk weighting, banks would have an incentive to hold riskier assets, as the same amount of capital must be held against riskier and safer assets” (Scott and Labonte 2023). 
+
+> 21 For an expanded discussion comparing pre- and post-GFC capital regimes and the role of stress testing, see Schuermann (2020), which notes that following the financial crisis, there was a shift to a capital regime that included the idea of layers or buffers of capital to protect against waves of losses, and the widespread use of stress testing. Because stress tests set the de facto capital requirement for financial institutions subject to these tests, choices made about the severity and scope of stress scenarios are immensely important for how the capital regime operates on the ground, Scott and Labonte (2023) notes that “the stress test is currently the binding [capital] constraint.” 
+
+
+be fair, the status quo includes a degree of dynamism: A good example is the 2023 DFAST scenario. One of the growing risks facing banks in the wake of the pandemic is exposure to CRE, downtown office space in particular, following the shift from working in an office to more working from home. Meanwhile, the secular shift to online shopping away from inperson retail accelerated during the pandemic. This has the effect of favoring industrial warehousing, strategically placed near metropolitan areas to rapidly deliver goods ordered online directly to households and hurting brick-and-mortar retail. The growth of large-scale data centers to support cloud computing is another such example. Yet they are all “commercial real estate,” which receives the same singular risk weight for regulatory capital purposes.[22] 
+
+The stress test allows for more tailoring to risks that have not yet materialized but plausibly might: DFAST-2023 saw a 40% decline in the commercial real estate price index (Figure 1).[23] Since this is an index, it describes the average decline across all types of CRE. Some would decline more (like downtown office space), some much less (like industrial warehousing). Overall, CRE losses over the nine-quarter DFAST horizon were projected by the Fed to be 8.8% while the projected loss rates for office were around 20% for 2023 (Figure 2). Projected office loss rates were much closer to the overall CRE loss rates in the supervisory stress scenarios before the pandemic. Stress testing is ideally suited for this kind of tailoring to evolving risks—but only if the risks are reflected in the scenarios and their translation to loss rates. 
+
+> 22 There are some exceptions such as certain multifamily housing mortgages (lower) and high-volatility CRE such as land development (higher). 
+
+> 23 For a description of the DFAST-2024 stress scenario that also imposes a 40% decline in the CRE index, see Board of Governors of the Federal Reserve (2024). 
+
+
+[FIGURE id=vol7_iss3_2_f1 type=figure label="Figure 1" file=figure_1.png caption="Commercial Real Estate, Severely Adverse Scenario"]
+### **Figure 1: Commercial Real Estate, Severely Adverse Scenario**
+
+Notes: Left panel is in levels, right in changes relative to jump-off point; PQ0: prediction quarter zero. _Source: Fed 2025a._ 
+
+[FIGURE id=vol7_iss3_2_f2 type=chart label="Figure 2" file=figure_2.png caption="Commercial Real Estate, Office Space, Loss Rates in DFAST"]
+### **Figure 2: Commercial Real Estate, Office Space, Loss Rates in DFAST**
+
+_Source: Fed 2025a._ 
+
+## **Static Stress Scenarios** 
+
+Effective stress testing first identifies the risks and vulnerabilities of the bank (or banking/financial system) and then tailors a scenario or set of scenarios that are severely adverse but plausible to probe the bank’s (system’s) resilience. As the business, client, and product mix of the bank evolves, so too will its risk profile and thus its vulnerabilities. 
+
+
+These changes happen in the context of evolving risks in the economy and financial markets. A good stress scenario combines these two aspects: If the macroeconomic risks are complex and multidimensional and the banking system has a mix of banks with rather different business models (for example, investment banks with sales and trading operations, trust and custody banks with large operational deposits but little lending, regional commercial banks with traditional banking activities but no capital markets operations, card issuers), then designing a single scenario to cover the range of risks is impossible. Indeed, nearly every year, the DFAST exercise in the US has one or more banks that register as _building_ their capital base through the Fed’s stress scenario rather than depleting it. 
+
+But the current approach to stress testing does not make adequate use of even the one scenario it is able to deploy. 
+
+As former Federal Reserve Governor Dan Tarullo has highlighted, “shifts in activities of banks and in the economy create a dynamic set of risks. Effective prudential regulation must be equally dynamic.” (Tarullo 2016). In concept, the stress tests are a vehicle for this type of dynamism because their annual structure allows regulators to revisit the scope and location of latent risks in the banking sector to determine how best to design scenarios that test financial institution resiliency. 
+
+But the stress tests have failed on this front. The supervisory stress scenario in DFAST, which is rooted in the experience of the GFC, has remained largely the same over time: the same shape in the evolution of risk factors, very similar severities, similar joint paths of the approximately three dozen risk factors. We excerpt a few in Figure 3 to show their similarity over time. Note that historical data does not include restatements, to preserve the jump-off point for historical DFAST scenarios. 
+
+
+[FIGURE id=vol7_iss3_2_f3 type=figure label="Figure 3" file=figure_3.png caption="Select Macro Risk Factors in DFAST, 2001–2025"]
+### **Figure 3: Select Macro Risk Factors in DFAST, 2001–2025**
+
+_Source: Fed 2025a._ 
+
+Because the stylized scenario is a GFC-style severe recession combined with a broad flight to quality in financial assets, interest rates are projected to decline as monetary policy responds to an adverse real and financial shock (bottom right panel in Figure 3). A scenario of stubbornly high inflation combined with persistent high interest rates had not been proposed until the full introduction of exploratory scenarios with DFAST-2024. As such, interest rate risk is not really factored into the exercise, even though rates have been rising since early 2022 and are contributing to banks’ vulnerabilities by decreasing the value of their securities and loan portfolios and reducing the stability of short-term liabilities, including deposits. 
+
+Using a very similar set of stress scenarios year after year may also disincentivize banks from investing in their own risk management as the test becomes predictable, and may encourage concentration across the system in assets that receive comparably lighter treatment in the test (Barr 2023) akin to a systematic shift into certain banking activities that happen to be favored by the existing regulatory risk-weighting (capital) regime, as was the case prior to 
+
+
+the GFC with complex securitization. Risks build up over time, and a flexible forward-looking stress-testing approach is able to uncover and address such risks. 
+
+## **III. How to Improve Supervisory Stress Testing** 
+
+At the beginning of 2023 when the DFAST scenario was being designed, there were four key risks facing the banking system: CRE exposure and the prospect of significant price declines, especially in downtown office space; interest rate risk and the prospect of continued rising rates; depositor behavior in the face of rising rates; and the possibility of a recession. The actual scenario addressed the first and the last of these risks[24] but neglected interest rate risk and funding risk through adverse depositor behavior. 
+
+In this section, we make several suggestions on how to improve the supervisory stresstesting regime to address these types of deficiencies. 
+
+## **More Stress Scenarios** 
+
+For a complex banking system with an ecosystem of banks covering a wide range of banking and financial intermediation activities, and just a few universal banks, designing a single scenario to capture the range of key risks and vulnerabilities is impossible. More scenarios are needed, and indeed the largest banks make use of a multitude of scenarios for their internal stress testing and risk management, recognizing that exposure to different customers, markets, geographies through a range of products and services results in a complex risk profile. Whatever risk complexity is faced by an individual bank is multiplied when considering the supervisor’s problem of designing a scenario for a banking system. 
+
+More scenarios would help the Federal Reserve evaluate the capacity of banks to absorb losses associated with adversity on the horizon, and adversity can come in a variety of forms, including economic, geopolitical, and other nonfinancial shocks, such as a coordinated cyberattack. At a minimum, the scenarios need to probe on the key risks and vulnerabilities that arise naturally from the business of banking: credit risk, which is largely covered with the canonical severe recession, flight to quality, and a rates-down scenario; interest rate risk, which requires a rates-up scenario and is thus not covered in the canonical scenario; and liquidity risk, which is not covered at all since these stress tests are largely capital oriented, even though liquidity vulnerabilities can be exposed in a broad range of stress scenarios, whether stresses to credit triggering a flight to quality, a decline in rates, or an inflation scenario triggering a rise in rates. 
+
+It is worth noting that the Federal Reserve is moving in this direction. DFAST-2023 included an additional exploratory market shock scenario targeted at large banks with significant capital markets operations, and DFAST-2024 expanded the use of exploratory scenarios to the full set of banks via the nine-quarter scenario (Fed 2024b). However, the results of those 
+
+> 24 Clearly, a recession would result in losses to CRE (and other) lending, which is why a severe recession forms the basis of all DFAST scenarios. 
+
+
+exploratory scenarios do not impact capital requirements set by the tests and are disclosed only at an aggregate level, failing to provide valuable information about individual bank resilience.[25] Since 2017, the Bank of England has employed a similar approach, conducting a “biennial exploratory scenario” that is designed to focus on emerging risks that are less emphasized in the annual solvency-focused test, providing insights into vulnerabilities that could be used to inform supervisory actions. 
+
+With several scenario results in hand, the question of how to link them to capital requirements, such as via the stress capital buffer (SCB), arises. Every regulatory capital regime needs to manage risk sensitivity against capital requirement volatility.[26] Since risks change continuously as asset prices, interest rates, and information about real economic activity change, a highly risk-sensitive capital regime would result in correspondingly highly volatile capital requirements, which presents significant challenges to bank management.[27] 
+
+On the other hand, static capital requirements that do not reflect how capital buffers are likely to be depleted, at least on an economic basis, in the face of increased risk like interest rate or credit is similarly undesirable. Our recommendation is to take the average of the top two scenario impacts for a given bank.[28] Note that here we mean “top two” scenarios that cause the institution to experience the greatest capital losses, and the way we conceive of this ranking allows for heterogeneity across institutions, as they will be bound by the scenarios that reflect the greatest risks to their unique business mix. We think this would provide an appropriate balance between risk sensitivity and stress capital volatility via, for instance, the SCB.[29] 
+
+## **More Comprehensive Use of Fair Valuation** 
+
+Since SVB failed, there has been a host of work on the impact of rising rates on bank portfolios, with market participants and academics running quasi-stress tests of their own to judge how much capital has been wiped out by mark-to-market losses in the securities 
+
+> 25 Perhaps an initial attempt in this direction would be DFAST-2020 when the Federal Reserve, in light of the COVID-19 pandemic, which started after the scenario was released, conducted three last-minute sensitivity analyses against the single stress scenario to reflect the tremendous uncertainty facing the economy at the time. Only aggregate (so no bank-level) sensitivity results were disclosed. For a discussion about this decision and the “asymmetric transparency” of the tests, with the Federal Reserve releasing bank-level data only for tests that had been designed and largely conducted before the pandemic began, see Tarullo (2020). 
+
+> 26 Indeed, the current regime with only one scenario suffers from this potential high SCB volatility. The only way to mitigate that effect is to keep the scenario relatively consistent from year to year, as has become the norm. In that way, the SCB may well have become less risk sensitive. 
+
+> 27 Quarles (2019) argues for transparency in stress testing to facilitate firms’ being able to plan for their capital needs with “the benefit of the results of our tests” and calls for an approach to the tests that would “mean no single year could have an outsized influence on the amount of capital that a bank is required to maintain.” 
+
+> 28 One challenge with this recommendation is how the market might interpret the more severe of the two scenarios. Should the bank be held to the higher of the two rather than the average? We view this as a feature, not a bug, of our recommendation as it promotes market discipline through healthy inquisition by market participants into the stress test results and any other risk-relevant information about the bank. 
+
+> 29 An alternative or additional smoothing could be to average across years. Indeed, the Fed recently proposed a two-year smoothing of single-scenario results as a possibility; see Fed 2024c. 
+
+
+portfolio. Depending on one’s calculation of the value of the deposit franchise, as interest rates rose, banks lost somewhere between 30% to 100% of total capital in the months following SVB’s failure,[30] and yet bank dividends and stock repurchases continued apace. 
+
+The current stress test regime forces banks to reflect credit, market, and operational risk losses in post-stress capital requirements. For securities, credit losses are recorded via OTTI (other than temporary impairment);[31] for loans, this happens through credit provisions. 
+
+Interest rate risk is not reflected in the stress test for securities that banks categorize as those planned to be HTM.[32] The absence of mark-to-(stress) market for the large securities portfolios of larger banks should be addressed.[33] Removing the accumulated other comprehensive income (AOCI) filter for all but the smallest banks will be a big step in the right direction, as it will require fair value losses on AFS securities to flow through to equity capital generally. But that increase in transparency might be offset by a decrease in transparency if banks respond to an increased incentive to reclassify securities as HTM to avoid volatility in their capital requirements.[34] 
+
+The fair value of HTM securities is already disclosed on a current (spot) basis; they appear in quarterly regulatory filings.[35] But their mark-to-stress, if and when calculated, is not disclosed. While arriving at an adjusted-TCE requirement is a difficult challenge that may well introduce more complexity—rather than transparency—into regulatory assessments 
+
+> 30 Mark-to-market losses in banks’ assets following the interest rate increases from Q1 2022 to Q1 2023 were computed by Jiang et al. (2024), marking an average decline of 10%, totaling $2 trillion in aggregate. 
+
+> 31 “Consistent with U.S. GAAP, OTTI projections incorporate other-than-temporary differences between book value and fair value due to credit impairment but generally do not incorporate differences reflecting changes in liquidity or market conditions” (Fed 2018). 
+
+> 32 For loans, interest rate risk is reflected, but only partially. Specifically, in the canonical recessionary stress scenario, credit risk increases owing to economic fundamentals (for example, unemployment goes up) but is somewhat mitigated by a reduction in interest rates, which, however, makes prepayment more likely for loans that allow for early payment, for example, most residential mortgages. In an inflationary environment, the effect goes in the other direction. Moreover, in the latter scenario with rising rates, the opportunity cost of a fixed loan’s not adjusting to the prevailing rate environment is not accounted for. 
+
+> 33 Only the very largest banks (Categories I and II) are required to account for the impact of fair valuation changes in their AFS securities portfolio, captured through accumulated other comprehensive income (AOCI). This regulatory loophole available to all but the very largest banks should be closed—except, perhaps, for community banks, which we define as <$10 billion in total assets, the threshold below which banks qualify for the Community Bank Leverage Ratio Framework. The recent Basel III Endgame proposal takes a step in this direction by requiring the Category III and Category IV banks to account for the impact of fair valuation changes as well, but for a narrower category of banks (those above $100 billion in assets). 
+
+> 34 It has been noted that this practice leads to a less transparent view of unrealized losses on a bank’s securities portfolio. Silicon Valley Bank, for example, was able to hide unrealized losses for multiple quarters until a massive run by its uninsured depositors forced liquidation of these securities; see Granja (2023). See also Fuster and Vickery (2018), which shows there is ample empirical evidence that banks take advantage of opportunities to save on capital charges by “actively reshuffling their portfolios, and in particular classifying risky securities as “held to maturity” [HTM] rather than available for sale [AFS].” 
+
+> 35 Simply disclosing the information may not be enough. Beatty and Liao (2014) cites research that documents a negative market reaction to the adoption of Statement of Financial Accounting Standards No. 115 in late 1993, which required banks to recognize fair values of investment securities previously disclosed only in footnotes. 
+
+
+of financial stability, simply disclosing such marks would provide transparency to the market, an important goal of stress testing more broadly. We suggest disclosing tangible common equity, adjusted for marking to stress, so that the market is able to compare it to spot adjusted TCE. Investors already gravitate to using TCE as a measure of bank health in times of stress precisely because regulatory metrics fail to capture marks in the HTM book.[36] 
+
+It is worth emphasizing that marking all securities to stress would result in a benefit in the canonical severe recession scenario, which is accompanied by a flight to quality and decline in interest rates, that is, decline in rates for credit-risk-free securities like US Treasuries. This effect would offset some of the adverse impact of credit losses from loans and credit-risky securities. Of course, in a rates-up scenario, as we have been facing since 2022, marking to stress would result in a decline in value. 
+
+Including disclosure of mark-to-stress would, over time and across scenarios, build a history of capital impact when more fully accounting for interest rate risk.[37, 38] Market participants and supervisors could then form a view on minimum TCE that adjusts for all unrealized stress losses on a bank’s holding of securities. This would paint a more dynamic picture of bank capital and ensure financial institutions remain well-capitalized even if HTM losses need to be realized to fund outflows in moments of extreme stress.[39] The value of this proposal relies on the existence of multiple scenarios that appropriate stress interest rate risk, to allow for comparison of how stress-adjusted TCE is likely to evolve in different interest rate environments. Without more fundamental regulatory changes (new notice-andcomment rulemaking), it would not be possible to tie stress capital requirements to stress TCE. But establishing a history of stress TCEs would be valuable input into any future calibration of minimum adjusted TCE requirements, should regulation move in that direction. 
+
+Shifting toward incorporating fair values in our capital regime would be meaningful to both banks’ performance at baseline and their performance throughout various stress scenarios. At baseline, regulatory and fair-valued capital ratios paint potentially divergent pictures of 
+
+> 36 Of course, supervisors could also incorporate this information into the supervisory exam process and thus exert pressure to increase (or at least husband) capital. 
+
+> 37 We are not advocating for full fair valuation of the loan book. The current approach we believe sufficiently captures the most salient vulnerabilities. Moreover, securities, whether held to maturity or available for sale or for trading, can be readily marked to market, precisely because they are securities. That is not the case for the vast majority of loans. 
+
+> 38 Early runs of this new disclosure regime would run the risk of providing estimates of stress-adjusted TCE across scenarios without the benefit of historical context to help interpret their meaning. One way for the Federal Reserve to navigate this lack of clarity would be to publish historical estimates alongside the first DFAST disclosures. 
+
+> 39 Critics of this broader applicability of fair valuing of all securities point to the asymmetric treatment between assets and liabilities. In a rising-rate environment, the debt securities issued by the bank also decline in value (to the creditor, not to the bank!) and will at least partially offset the value decline in the securities held on the asset side of the balance sheet. However, in stressful states of the world, markets will ignore the gain on the right, which partially makes up for the loss on the left side of the balance sheet, supporting an asymmetric treatment for purposes of stress testing. There is a corresponding positive effect for the bank with deposits, an issue we pick up in the section More Explicit Stress Testing of Bank Funding. 
+
+
+bank stability.[40] And even just with the existing severely adverse stress scenario (which includes a 45% to 50% decline in the equity market), one would see much larger swings in more market-based relative to regulatory capital measures. 
+
+To be sure, we are not advocating for balance sheet–wide fair valuation. Regulators do not require banks to hold enough capital to withstand marking to market the entire balance sheet while still meeting regulatory capital minimums, and that is by design: Accrual accounting plays an important role in allowing banks to perform their maturity and liquidity transformation function.[41] Our recommendation is limited to the securities portfolio, and only under the stress scenario(s). 
+
+The standard argument against including interest rate risk in the stress valuations of HTM securities and loans is that those securities/loans will be paid back with stress credit riskadjusted probabilities. At default, bond and loan recovery values will, of course, be influenced by the prevailing rate of interest, and in this way, interest rate risk will be incorporated for defaulted bonds and loans. If the bonds are US Treasuries or similar, and thus without credit risk, they will be paid back at par upon maturing. 
+
+Bond issuers and borrowers that have a prepayment option would exercise them only in a falling-rate environment, and that risk is accounted for in the stress test. But investors who look at the whole balance sheet of the bank recognize that stable funding is required for a bank to comfortably ride out the below-fair-value cash flows (reducing net interest income) in a rising-rate environment. As securities and loans with low interest rates roll off and are replaced with higher-interest-earning ones, this problem attenuates. 
+
+But if there is not enough stable funding, investors have an incentive to walk, and then run, as was the case for some financial institutions in the spring of 2023. This argues in favor of a formal interest rate risk capital charge within the stress-testing regime that allows for adjusting bank capital levels for the possibility that financial institutions may find themselves without the luxury of waiting out significant point-in-time interest rate losses.[42] 
+
+## **More Explicit Stress Testing of Bank Funding** 
+
+It is worth noting that banks’ liabilities increase in (fair) value when rates rise, at the same time as HTM losses accumulate, offsetting some of the asset value erosion. That hedge against interest rate rises is ostensibly the deposit franchise value of a bank since banks earn the spread between the consistently low rates they pay on short-term liabilities and the 
+
+> 40 It has been noted that market measures prove to be more dynamic than regulatory capital ratios; see Sarin and Summers (2016). This is further illustrated in the lead-up to the financial crisis, in which regulatory capital ratios were static, whereas market-based capital ratios reflected cause for concern. 
+
+> 41 See Beatty and Liao (2014) for an extensive discussion covering the challenges of bank accounting. 
+
+> 42 The failure to consider interest rate risk meaningfully is broader than its omission from the stress tests. And it is a uniquely American deficiency: inclusion of interest rate risk for regulatory capital purposes already exists in Basel II and III; the US has just decided not to adopt it for its regulatory capital regime, which we believe is a misstep. 
+
+
+higher interest rates.[43] Moreover, this “natural” hedge is often used as an argument for not needing to purchase “synthetic” hedges in the form of interest rate derivatives. Deposits are sticky in the face of rising rates. This deposit sensitivity to interest rates is referred to as a deposit beta that is less than 1 (on average, it is between 0.3 and 0.4, though for large wellcapitalized banks, it closer to 0).[44] But, deposits may not be as sticky as banks hope in stressful conditions, which illustrates the importance of including funding risk more comprehensively in stress tests.[45] 
+
+Stable funding has two impacts that the regulatory regime should consider: First, increases in the value of the deposit franchise offset losses in the fair value of bank assets. Second, to the extent fair value is depleted, a large share of stable funding buys time for banks to earn their way out of interest rate losses. But the converse is also true: a low share of stable funding is a vulnerability that amplifies risks on the asset side of banks’ balance sheets. This fact should be incorporated into stress tests. 
+
+In practice, deposit flight is a significant vulnerability, and we do not have a good grasp on how deposit betas evolve in stressful conditions. This is crucial to understanding flight dynamics as well as the value of banks’ deposit franchises: if the value of the deposit franchise is not a complete hedge against interest rate risk or becomes less of a hedge in _moments of stress, then the erosion in capital precipitated by interest rate losses_ requires more aggressive and immediate action. 
+
+What distinguished some of the recent bank failures was their unusually high share of uninsured deposits. Itamar Drechsler, Alexi Savov, Philipp Schnabl, and Olivier Wang (2024) present a model that shows the value of the deposit franchise is decreasing in the share of uninsured deposits.[46] Indeed, as that share grows, the bank becomes more run-prone, but only in a rising-rate environment.[47] 
+
+43 It has been highlighted how a bank’s deposit franchise acts as a hedge against rising rates and helps the bank to manage interest rate risk; see Drechsler, Savov, and Schnabl (2021). Indeed, this argument helps to explain a somewhat puzzling stylized fact that net interest income is relatively insensitive to interest rates. 
+
+44 A deposit beta of 0.35 means that a bank raises deposit rates 35 basis points (bps) for a 100-bp increase in short-term interest rates. “The average expense and income betas are 0.345 and 0.351, respectively, with substantial variation in the range of 0.1 to 0.6” (Drechsler, Savov, and Schnabl 2021). 
+
+45 Indeed, deposit betas do go up as the interest rate tightening cycle matures. See Kang-Landsberg, Luck, and Plosser (2023), which shows that deposit betas tend to rise over the course of the tightening cycle, peaking at about 0.4 to 0.5 for total deposits and 0.7 for interest-bearing deposits. The authors note that deposit betas for interest-bearing accounts have been going up especially quickly in this cycle to about 0.4 by the end of 2022. See also Emin, James, and Li (2024), which reports similar deposit beta convexity to interest rates, finding that deposit betas tend to be lower in low-rate environments (a federal funds rate below 2%). See also Luck and Plosser (2024), which finds that regional banks, which the authors define as $50 billion to $250 billion in total assets, have seen the steepest increases in deposit betas following the demise of SVB in March 2023. 
+
+46 It has been shown that bank’s liquidity risks increases as interest rates rise. Specifically, “[w]hen interest rates are low, the value of the deposit franchise is small relative to the value of the bank’s asserts . . . But when interest rates rise and the deposit franchise comes to dominate the value of the bank, a run equilibrium emerges” (Drechsler et al. 2024). 
+
+> 47 See also Jiang et al. (2024) for an extreme estimate of the impact of rising rates on mark-to-market losses at financial institutions but ignoring the offsetting impact on banks’ deposit franchises. 
+
+
+Large and thus uninsured deposits need not be unstable. There are so-called operational deposits that are necessary for institutional clients to continue their operations. The deposits are effectively by-products of the underlying services provided by the bank and not sought out in the wholesale market in the sole interest of offering interest income. Examples would include clearing, custody, and cash management activities such as payroll. Recognizing this important feature, the LCR treats such deposits more favorably than other uninsured deposits.[48] 
+
+The increased importance of digital banking and social media today serve as accelerants to failure when funding is not stable.[49] New reporting on deposit concentrations, together with already available information about the share of uninsured deposits, would allow the Federal Reserve to build stress test models to estimate the propensity for deposit flight as a function of these factors (deposit concentration, share of unstable deposits,[50] recently updated deposit betas, and other risk-relevant bank characteristics) for a set of interest rate scenarios. Further, deposit betas will be a useful parameter for exploring the sensitivity of banks’ liquidity vulnerability to rises in interest rates. Specifically, imposing a late-cycle beta of 0.7 or higher for unstable deposits as a stress parameter would be a plausible and easily implementable component of a stress test (Kang-Landsberg, Luck, and Zingales 2023). 
+
+It is worth noting that the DFAST-2024 exercise added two exploratory funding scenarios where 20% of non-interest-bearing deposits are assumed to shift into time deposits, similar to the deposit shift experienced in March 2023, resulting in banks’ increasing their reliance on wholesale funding and paying market rates on a larger share of their liabilities (effectively imposing a near-1 beta for those deposits). The funding stress analyses are intended to be conducted against the backdrop of both moderate and severe global recession scenarios accompanied by rising inflation[51] . The exploratory scenarios are structured to be probing but not binding, in that their results are not used to calculate capital requirements. 
+
+## **More Banks Should be Stress Tested Every Year** 
+
+With the 2019 tailoring rule, the Federal Reserve introduced a taxonomy of classifying banks with more than $50 billion in total assets into five categories and tailoring the requirements on capital, liquidity, and stress testing accordingly. Roughly speaking, Category I banks are the US global systemically important banks (GSIBs); Category II banks have between $250 billion and $700 billion in total assets or ≥ $75 billion in cross-jurisdictional activity; Category III banks have between $250 billion and $700 billion in total assets or at least $75 billion in nonbank assets, weighted short-term wholesale funding, or off-balance-sheet 
+
+> 48 Former Acting Comptroller Hsu has called for a standardization in deposit classification to remove ambiguity about what constitutes an operational deposit (Hsu 2024). 
+
+> 49 It has been reported that banks with mobile banking and brokerage services experience faster deposit flows and greater increases in the cost of deposits in response to interest rate increases; see Koont, Santos, and Zingales (2024). This is logical: when transaction costs decrease, attentive depositors are less willing to accept low interest rates as opposed to redirecting deposits into more profitable alternatives. 
+
+> 50 We use the term “unstable deposits” to allow for the inclusion of operational deposits. 
+
+> 51 “The second set of macroeconomic conditions features a severe global recession combined with high and persistent inflation and rising interest rates” (Fed2024a). 
+
+
+exposure; Category IV banks are other banks between $100 billion and $250 billion in total assets.[52] 
+
+Only Category I, II, and III banks are subject to the supervisory stress tests annually; Category IV banks are subject only “periodically”—which at present means biannual stress testing.[53] Banks should, and do, run company stress tests using their own stress scenario, which is supposed to be tailored to their own risks—but of a severity that is commensurate with the supervisory scenario. Only Category I and II banks are required to run these company stress tests annually. Category III banks need do so only every other year, and Category IV banks are exempt entirely.[54] 
+
+We believe more banks should be subject to supervisory and company-run stress tests annually. The company-designed stress test is a critical risk management exercise as it forces a bank to confront and identify its risks and vulnerabilities and design a scenario to explore their resiliency. Only the smallest banks, such as community banks, should continue to be exempt. 
+
+Category I–IV banks should be stressed at least annually, alongside regional banks above some asset threshold. The ideal threshold would capture the universe of banks whose potential failure would be significant enough to cause regulators to contemplate the systemic risk exception, although this is hard to pinpoint concretely ex ante. 
+
+Stress testing is not costless. For banks, the burden comes in the form of extensive and detailed data submissions, which are likely to be disproportionately costly for smaller institutions that are not as technologically sophisticated and do not have the infrastructure internally to easily transition to greater data-sharing with regulators.[55] For the Fed, there would be the burden of stress testing more than 100 additional banks. Both of these burdens could be lessened by simplifying the data submissions and therefore also the modeling efforts. Our view is that regular but simpler stress testing is preferred to no stress testing.[56] 
+
+## **Should We Decouple Bank Capital Requirements from the Stress Test? Some Considerations** 
+
+Following the GFC, stress tests have evolved to be the cornerstone of the financial regulatory regime. They essentially govern the capital that large financial institutions are required to hold to bolster themselves against potential losses. The stress tests have been widely 
+
+> 52 Foreign banking organizations between $50 billion and $100 billion are subject to some single-counterparty credit limits. 
+
+> 53 Category IV banks always have the option of participating in the off-cycle DFAST. 
+
+> 54 All banks $100 billion and above do need to submit a capital plan every year, and those usually do contain stress testing. 
+
+> 55 Specifically, the FR Y-14 data templates, which are quite extensive. 
+
+> 56 Note that banks at more than $10 billion are expected to do some stress testing. See Fed (2012). 
+
+
+celebrated by regulators for facilitating a dynamic regulatory regime that can be responsive to emerging crises: a tool for fire prevention rather than inevitable post-crisis firefighting.[57] 
+
+But, as we have shown, the stress tests are failing to deliver the dynamism that they were cheered for. The have drifted toward becoming rote compliance exercises rather than forward-looking assessments of how well-equipped large financial institutions are to handle distress that may be on the horizon. 
+
+As this paper makes clear, we do not believe it is appropriate to abandon the stress tests. A host of changes would help the tests create a much more dynamic financial regulatory regime. But there are also many reasons to be skeptical that those reforms are attainable in the current moment, which raises the question of what comes next. 
+
+## **Reasons for Skepticism: Legal Challenges to Stress Tests** 
+
+The Federal Reserve has long been criticized for its existing approach to stress testing, which banks (and industry groups) argue should be subject to the notice-and-comment requirements of the Administrative Procedure Act (APA). While these critiques have ebbed over time as the stress tests have become less stressful, in July 2023—in anticipation of possible reforms to the tests—the Bank Policy Institute (BPI) and the American Bankers Association (ABA) renewed their calls for greater public engagement in the annual stress tests through public comment on stress scenarios and models.[58] 
+
+The industry’s claim is that because the stress test results are important inputs into large bank capital requirements, the models and scenarios that govern the tests should, each year, be subject to notice-and-comment rulemaking. Specifically, because the models and scenarios set “rules” in the form of future-oriented capital requirements, they should be subject to the notice-and-comment requirement. 
+
+Even more recently, in December 2024, BPI and the ABA teamed up with the Ohio Chamber of Commerce, the Ohio Bankers League, and the Chamber of Commerce to file a lawsuit against the Federal Reserve in Ohio, formalizing these arguments to claim that the agency had reached beyond its statutory mandate.[59] 
+
+In earlier work, Dan Tarullo has offered two rejoinders to calls for notice-and-comment.[60] The first is that the tests do not constitute a “final agency action”; for example, following the tests, the Federal Reserve offers banks an opportunity to contest its determinations. The second is that even if we assume that the model and scenarios are rules that would otherwise be subject to notice-and-comment, this situation would merit the Administrative Procedure 
+
+> 57 See Hirtle (2018), which points out the limitations of the stress tests while cheering their ability to help regulators spot crises before they occur. 
+
+> 58 Oblack (2023) calls on the Federal Reserve to “remedy the serious legal defects” that currently undermine the stress tests. 
+
+> 59 See Bank Policy Institute v. Board of Governors of the Federal Reserve System (2024). 
+
+> 60 See Tarullo (2022) for an engagement with the complex relationship between the scriptures of administrative law and the bank regulatory regime, which demands dynamism. 
+
+
+Act’s good cause exemption, as formal rulemaking would be contrary to the public’s interest in the Federal Reserve’s arriving at a dynamic and unbiased assessment of bank health in hypothetical moments of distress. Another boost to preserving the no-rulemaking status quo is the existence of other statutory provisions (outside the stress-testing context) that provide the Federal Reserve significant discretion in setting capital requirements.[61] 
+
+If notice-and-comment is adopted, that will make the kind of dynamic responses to real-time economic risks that we contemplate impossible to achieve.[62] Even if it is not, the Federal Reserve’s understandable risk aversion in the face of potential legal challenges may push against the type of novel and dynamic changes to stress testing that we recommend. 
+
+## **Decoupling Stress Tests from Capital Requirements Has Some Benefits but Costs That Outweigh Them** 
+
+One way to manage legal and policy risk could be to decouple minimum capital requirements from the results of the tests explicitly, and instead allow the tests to be an input into the bank-specific supervisory process. That is the approach followed by other jurisdictions: For example, the European Union, United Kingdom, and Switzerland use the outcomes of the stress test exercise as an input to increasing capital levels via the so-called Pillar 2G (G for guidance), which is at the discretion of the supervisor. 
+
+Following the European example would have some real virtues. It could allow for more innovative approaches to stressing banks against emerging risks, and these new methods would be lower stakes (and less likely to be legally challenged) if they are but an input in the supervisory process, as opposed to a be-all-and-end-all tool to set capital requirements. 
+
+But our current approach has its own virtues. A direct link between stress tests results and capital requirements is not dependent on supervisory judgment. Thus, supervisors are not tempted to mute the capital impact or delay any implied increase in capital required or offer regulatory forbearance at the outset of crises because of a concern that affirmative action (for example, forcing new capital to be raised) would be destabilizing. Our direct approach also has the virtue of clarity: With the quantitative stress test results in hand, it is clear how they translate to capital requirements. And because the stakes are high, our approach means that regulators—and banks—take the stress-testing exercise seriously. 
+
+> 61 See Int’l Lending Supervision Act (1983); and Dodd-Frank (2010). 
+
+> The former explicitly permits the Federal Reserve to establish minimum capital levels for banks “by using such other methods as the appropriate . . . [banking agency] deems appropriate.” The latter allows the Federal Reserve to set more stringent prudential standards based on its assessment of “the risk posed by banks to financial stability, safety, and soundness.” As Tarullo (2022) argues, the stress tests and their associated capital requirements can easily be understood as “an exercise of the essentially unreviewable discretion” granted to the Federal Reserve by these statutory provisions that govern banking law more generally, outside the specific stress testing context. 
+
+> 62 Between the comment period following release of a proposed scenario, digesting, responding to, and then accounting for comments in the final scenario, this process would take at least six months, likely closer to one year, to unfold. By that time, the risks that are supposed to be tested for will have either manifested or morphed. 
+
+
+Further, without a formal linkage between stress tests and bank capital requirements, the tests would become but another input into the supervisory toolkit. A changing risk profile coupled with severe but plausible threats on the horizon might well expose a capital shortfall, and it is hard to imagine that these inputs—no matter how glaring—would lead supervisors to stop capital disbursements or force banks into painful capital raising, as the current stress tests can do, automatically. 
+
+Indeed, during the GFC, regulators were reluctant to use their authority and the information gleaned about the capital positions of large financial institutions to force recapitalization until the crisis was well underway. This is in part because the affirmative decision to force new capital raises, in and of itself, may have exacerbated the crisis rather than prevented it—because it would have been interpreted by the market as a sign of the deep troubles facing the financial sector. More generally, we agree with former Vice Chair Tarullo that there is a danger in relying too heavily on supervisory discretion, and there is value in clear and automated rules that flow from the current stress test capital requirements because they free supervisors from the need to interpret complex data in light of changing circumstances and act affirmatively in ways that may risk destabilizing the financial system. 
+
+The industry has also called for more transparency and disclosure of supervisory stresstesting models. All regulatory capital regimes are subject to model risk as they are a model or set of models about the relative riskiness of different assets and banking activities. This is perhaps especially true for a stress test–based regime where models determine both the scenario and the mapping of the scenario to outcomes which, in turn, determine needed capital levels. When that determination is directly coupled to actual capital requirements, exposure to model risk rises. 
+
+The Fed is quite aware of this risk. First, it has implemented a formal model risk management program including independent model validation. This program is supported by a Model Validation Council, a group of academic experts not affiliated with the Federal Reserve that provides advice on the validation program and activities.[63] Second, the Fed has provided significant disclosure about the mapping models, including functional form and variables used.[64] In any event, banks have largely been able to back-out supervisory models already, since they have seen repeat draws against essentially the same scenario over the course of more than a decade.[65] While there is likely more to be done to decrease exposure to model risk, disclosing models or decoupling the stress tests from capital requirements in the name of risk reduction does more harm than good. 
+
+How then to best couple stress test outcomes to regulatory capital requirements is an area where we acknowledge that there is no first-best solution, and thoughtful commentators may come out on different sides of the argument. Even we are unsure of how best to manage 
+
+> 63 Fed (2018). 
+
+> 64 Fed (2019a). 
+
+> 65 See Glasserman and Tangirala (2015) for a discussion of the small number of scenarios employed by the Federal Reserve. The authors compare stress test performance across years and across institutions and find a strikingly linear relationship demonstrating the consistent loss rate projections year after year, suggesting that stress tests have become more and more predictable over time. 
+
+
+the competing risks associated with supervisory discretion and a failure to reform the statusquo stress tests, which today are failing to deliver a dynamic picture of financial stability. One cause for optimism is the shift in the direction of more exploratory scenarios that seek to learn about emerging threats to large financial institutions. 
+
+Should the legal and political environment evolve such that the reforms we recommend are outside the Overton window for regulators, then decoupling stress testing from capital requirements, as a way to facilitate the wholesale reform we recommend, may well be a second-best approach worth considering. It would ensure that the regulatory regime would have the information it needs to act at the outset of the next financial panic. And disclosing the results across a range of scenarios would still allow for market discipline, however imperfect. 
+
+But it is our view that we are not there yet, and that the costs associated—both to the stresstesting infrastructure and to the increased reliance on supervisory discretion that may not be well exercised, particularly in times of crisis—outweigh the benefits associated with making such a change today. 
+
+## **IV. Conclusions** 
+
+The banking system is subject to regular stress tests aimed at directing vulnerabilities in the financial sector before they balloon into contagious financial crises. The introduction of regular stress testing is the most important post-crisis financial reform, and the stress tests sit at the center of the financial regulatory regime today. While they are an important regulatory tool, there is scope for reform to help ensure that they provide a comprehensive, forward-looking, and dynamic assessment of financial stability. Specifically, the use of a single, nearly identical stress scenario, year in and year out, does not reflect regulators’ best attempts to gauge emerging risks. 
+
+Our proposals are four-fold: First, banks should be subject to more stress scenarios to allow for more bites of the apple concerning identifying latent risks. Second, the stress tests should come to conclusions about bank capital positions based on market measures that reflect changes in valuation of their securities portfolios under stress, rather than static book measures. Third, stress tests should account for more hitherto untested risks, particularly interest rate and funding risks associated with reliance on runnable liabilities. Fourth, the universe of banks subject to stress tests should be expanded and the tests conducted annually for all banks, as even midsize and regional bank failures are potentially systemically destabilizing. While these reforms must be complemented by a broader suite of regulatory and supervisory changes, improving the stress tests as we describe is critical to improving the resilience of the banking system. 
+
+The changes that we describe range in their difficulty of implementation. Simply including more exploratory scenarios in regularized stress tests could be done absent legislative changes. However, tying capital requirements to these other scenarios and expanding the stress tests to a broader swath of financial institutions would require legislative action. For 
+
+
+this paper, we have focused on changes that would facilitate more dynamic and informative stress tests, leaving for future work the best path to achieving these reforms. 
+
+It would be errant to view the changes that we propose to stress testing in a vacuum. In order to address the underlying causes of the instability of the financial sector, it will be important to think holistically about changes to both liquidity and capital regulation that can preempt both solvency crises—by ensuring that banks are adequately capitalized and have contingencies in place in case they are not when faced with very large, unexpected losses— and contagion, by helping to ensure that financial institutions have access to liquidity so runs do not accelerate and become destabilizing to the financial system. Our proposed changes to stress testing will be an important tool for the former. Contemplating the right set of reforms to the lender-of-last-resort function and further run-proofing the system through more broad-based deposit insurance or changes like the pre-positioning of collateral that push against overreliance on inherently unstable funding sources are important areas for future work.[66] 
+
+> 66 Some of this important work has already begun. See Hanson et al. (2024), calling for tougher liquidity regulations to ensure that banks have sufficient funds available when depositors are at risk of running. For a different reform proposal, see also Menand and Ricks (2023), arguing for universal deposit insurance, fully paid for through risk-based deposit insurance assessments that would continue to accrue even if the FDIC insurance fund were fully funded. 
+
+
+## **V. References** 
+
+Bank Policy Institute v. Board of Governors of the Federal Reserve System. 2024. “Complaint.” U.S. District Court for the Southern District of Ohio, Eastern Division, No. 2:24cv-04300, December 24, 2024. https://bpi.com/wp-content/uploads/2024/12/BPIOHChamber-OHBankers-ABA-Chamber-Stress-Testing-Complaint-2024.12.24.pdf 
+
+Barr, Michael S. 2023. “Multiple Scenarios in Stress Testing.” Speech given at the Stress Test Research Conference sponsored by the Federal Reserve Bank of Boston, Boston, MA, October 19, 2023. 
+
+https://www.federalreserve.gov/newsevents/speech/barr20231019a.htm 
+
+Basel Committee on Banking Supervision (BCBS). 2023. “Report on the 2023 Banking Turmoil.” Bank for International Settlements, October 2023. https://www.bis.org/bcbs/publ/d555.pdf 
+
+Beatty, Anne, and Scott Liao. 2014. “Financial Accounting in the Banking Industry: A Review of the Empirical Literature.” _Journal of Accounting and Economics_ 58 nos. 2–3): 339–83. https://doi.org/10.1016/j.jacceco.2014.08.009 
+
+Board of Governors of the Federal Reserve System (Fed). 2012. “Supervisory Guidance on Stress Testing for Banking Organizations with More Than $10 Billion in Total Consolidated Assets, May 2012.” 
+
+https://www.federalreserve.gov/supervisionreg/srletters/sr1207.htm 
+
+———. 2018. “Supervisory Stress Test Framework and Model Methodology.” Dodd-Frank Act Stress Test 2018: Supervisory Stress Test Methodology and Results, June 2018”. https://www.federalreserve.gov/publications/2018-june-dodd-frank-act-stress-testsupervisory-stress-test-framework-and-model-methodology.htm 
+
+———. 2019a. “Federal Reserve Board Releases Document Providing Additional Information on Its Stress Testing Program.” Press release, March 28, 2019. https://www.federalreserve.gov/newsevents/pressreleases/bcreg20190328a.htm 
+
+———. 2024a. “2024 Stress Test Scenarios.” February 2024. https://www.federalreserve.gov/publications/files/2024-stress-test-scenarios20240215.pdf 
+
+———. 2024b. “Exploratory Analysis of Risks to the Banking System: Summary of Analysis Parameters.” February 2024. 
+
+https://www.federalreserve.gov/publications/files/exploratory-analysis-of-risks-to-thebanking-system-20240215.pdf 
+
+———. 2024c. “Due to Evolving Legal Landscape & Changes in the Framework of Administrative Law, Federal Reserve Board Will Soon Seek Public Comment on Significant Changes to Improve Transparency of Bank Stress Tests & Reduce Volatility of Resulting 
+
+
+Capital Requirements.” Press release, December 23, 2024. https://www.federalreserve.gov/newsevents/pressreleases/bcreg20241223a.htm 
+
+———. 2025a. “Dodd-Frank Act Stress Tests 2024.” June 27, 2025. https://www.federalreserve.gov/supervisionreg/dfa-stress-tests-2024.htm 
+
+Cheng, Jeffrey, and David Wessel. 2018. “Ten Years after the Financial Crisis: Reflections by Bernanke, Geithner and Paulson.” Commentary delivered at the Hutchins Center on Fiscal & Monetary Policy at Brookings”, Washington, DC, September 19, 2018. https://www.brookings.edu/articles/reflections-by-bernanke-geithner-and-paulson/ 
+
+Cox, Christopher. 2008. “Testimony before the U.S. Senate Committee on Banking, Housing, and Urban Affairs Concerning Recent Events in the Credit Markets.” U.S. Securities and Exchange Commission, April 3, 2008. 
+
+https://www.sec.gov/news/testimony/2008/ts040308cc.htm 
+
+Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank). 2010. “Enhanced prudential standards.” 12 U.S.C. §5365(a)(1)(A). https://www.law.cornell.edu/uscode/text/12/5365 
+
+Drechsler, Itamar, Alexi Savov, and Philipp Schnabl. 2021. “Banking on Deposits: Maturity Transformation without Interest Rate Risk.” _Journal of Finance_ 76, no. 3: 1091–143. https://doi.org/10.1111/jofi.13013 
+
+Drechsler, Itamar, Alexi Savov, Philipp Schnabl, and Olivier Wang. 2024. “Banking on Uninsured Deposits.” NBER Working Paper No. 31138, September 2024. https://www.nber.org/papers/w31138 
+
+Emin, Mustafa, Christopher M. James, and Tao Li. 2024. “Variable Deposit Betas and Bank Exposure to Interest Rate Risk.” _SSRN Electronic Journal_ , November 25, 2024. https://ssrn.com/abstract=4598126 
+
+Fuster, Andreas, and James Vickery. 2018. “Regulation and Risk Shuffling in Bank Securities Portfolios.” Federal Reserve Bank of New York Staff Report No. 851, June 2018. https://www.newyorkfed.org/research/staff_reports/sr851 
+
+Glasserman, Paul, and Gowtham Tangirala. 2015. “Are the Federal Reserve’s Stress Test Results Predictable?” Office of Financial Research Working Paper No. 15-02, March 3, 2015. https://www.financialresearch.gov/working-papers/files/OFRwp-2015-02-Are-theFederal-Reserves-Stress-Test-Results-Predictable.pdf 
+
+Granja, João. 2023. “Bank Fragility and Reclassification of Securities into HTM.” _SSRN Electronic Journal_ , April 21, 2023. https://ssrn.com/abstract=4409834 
+
+
+Greenwood, Robin, Samuel G. Hanson, Jeremy C. Stein, and Adi Sunderam. 2017. “Strengthening and Streamlining Bank Capital Regulation.” _Brookings Papers on Economic Activity_ 48, no. 2: 479–565. 
+
+https://www.brookings.edu/articles/strengthening-and-streamlining-bank-capitalregulation/ 
+
+Gruenberg, Martin J. 2022. “Quarterly Banking Profile – Third Quarter 2022.” Speech delivered at the Federal Deposit Insurance Corporation, Washington, DC, December 1, 2022. 
+
+https://www.fdic.gov/news/speeches/2022/spdec0122.html 
+
+Hanson, Samuel G., Victoria Ivashina, Laura Nicolae, Jermey C. Stein, Adi Sunderam, and Daniel K. Tarullo. 2024. “The Evolution of Banking in the 21st Century: Evidence and Regulatory Implications.” _Brookings Papers on Economic Activity_ 55, no. 1: 343–411. https://www.brookings.edu/articles/the-evolution-of-banking-in-the-21st-century/ 
+
+Hirtle, Beverly. 2018. “The Past and Future of Supervisory Stress Testing Design.” Speech delivered at the Federal Reserve Stress Testing Research Conference sponsored by the Federal Reserve Bank of Boston, Boston, MA, October 9, 2018. 
+
+https://www.newyorkfed.org/newsevents/speeches/2018/hir181009 
+
+Hsu, Michael J. 2024. “Building Better Brakes for a Faster Financial World.” Speech delivered at Columbia Law School, New York, NY, January 18, 2024. https://www.occ.gov/news-issuances/speeches/2024/pub-speech-2024-4.pdf 
+
+International Lending Supervision Act of 1983 (Int’l Lending Supervision Act). 1983. “Capital adequacy.” 12 U.S.C. §3907. 
+
+https://www.law.cornell.edu/uscode/text/12/3907 
+
+Jiang, Erica, Gregor Matvos, Tomasz Piskorski, and Amit Seru. 2024. “Monetary Tightening and the U.S. Bank Fragility in 2023: Mark-to-Market Losses and Uninsured Depositor Runs?” _SSRN Electronic Journal_ , April 8, 2024. 
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4387676 
+
+Judge, Kathryn. 2022. “Stress Testing during Times of War.” In _Handbook of Financial Stress Testing_ , edited by J. Doyne Farmer, Alissa M. Kleinnijenhuis, Til Schuermann, and Thom Wetzer, 224–44. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781108903011.015 
+
+Kang-Landsberg, Alena, Stephan Luck, and Matthew Plosser. 2023. “Deposit Betas: Up, Up, and Away?” Federal Reserve Bank of New York, _Liberty Street Economics_ (blog), April 11, 2023. 
+
+https://libertystreeteconomics.newyorkfed.org/2023/04/deposit-betas-up-up-and-away/ 
+
+Koont, Naz, Tano Santos, and Luigi Zingales. 2024. “Destabilizing Digital ‘‘Bank Walks’.’“ George J. Stigler Center for the Study of the Economy & the State Working Paper No. 328, May 2024. 
+
+
+https://ssrn.com/abstract=4443273 
+
+Lehman Brothers Holdings Inc. 2008. “Preliminary 2008 Earnings Conference Call (transcript).” June 9, 2008. 
+
+https://web.stanford.edu/~jbulow/lehmandocs/docs/DEBTORS/LBHI_SEC07940_255448 0-2554534.pdf 
+
+Luck, Stephan, and Matthew Plosser. 2024. “Deposits and the March 2023 Banking Crisis–A Retrospective.” Federal Reserve Bank of New York, _Liberty Street Economics_ (blog), March 27, 2024. 
+
+https://libertystreeteconomics.newyorkfed.org/2024/03/deposits-and-the-march-2023banking-crisis-a-retrospective/ 
+
+Menand, Lev, and Ricks Morgan. 2024. “Rebuilding Banking Law: Banks as Public Utilities.” _Yale Journal on Regulation_ 41, no. 2: 591–651”. 
+
+https://www.yalejreg.com/print/rebuilding-banking-law/ 
+
+Oblack, Sean. 2023. “BPI and ABA Seek Transparency around Fed Supervisory Models and Stress Scenarios.” Bank Policy Institute, July 25, 2023. 
+
+https://bpi.com/bpi-and-aba-seek-transparency-around-fed-supervisory-models-andstress-scenarios/ 
+
+Quarles, Randal K. 2019. “Stress Testing: A Decade of Continuity and Change.” Speech delivered at the ’Stress Testing: A Discussion and Review research conference sponsored by the Federal Reserve Bank of Boston, Boston, MA, July 9, 2019. 
+
+https://www.federalreserve.gov/newsevents/speech/quarles20190709a.htm 
+
+Sarin, Natasha. 2021. “Dynamic Regulation.” _Southern California Law Review_ 94, no. 5: 1005–82. 
+
+https://southerncalifornialawreview.com/2022/02/11/dynamic-regulation-by-natashasarin/ 
+
+Sarin, Natasha, and Lawrence H. Summers. 2016. “Understanding Bank Risk through Market Measures.” _Brookings Papers on Economic Activity_ 47, no. 2: 57–127. https://www.brookings.edu/wp-content/uploads/2017/02/sarintextfall16bpea.pdf 
+
+Schuermann, Til. 2016. “Stress Testing in Wartime and in Peacetime.” In _Stress Testing and Macroprudential Regulation: A Trans-Atlantic Assessment_ , edited by Ronald W. Anderson, 125–39. London, UK: CEPR Press. 
+
+https://cepr.org/publications/books-and-reports/stress-testing-and-macroprudentialregulation-transatlantic 
+
+———. 2020. “Capital Adequacy Pre- and Postcrisis and the Role of Stress Testing.” _Journal of Money, Credit and Banking_ 52, no. S1: 87–105. https://doi.org/10.1111/jmcb.12735 
+
+
+Scott, Andrew P., and Marc Labonte. 2023. “Bank Capital Requirements: A Primer and Policy Issues.” Congressional Research Service, March 9, 2023. https://crsreports.congress.gov/product/pdf/R/R47447 
+
+Snyder, Bill. 2010. “Anat Admati: Why Bank Equity Is Not Expensive.” Insights by Stanford Business, September 1, 2010. 
+
+https://www.gsb.stanford.edu/insights/anat-admati-why-bank-equity-not-expensive 
+
+Tarullo, Daniel K. 2016. “Next Steps in the Evolution of Stress Testing.” Speech given at Yale University School of Management Leaders Forum, New Haven, CT, September 26, 2016. https://www.federalreserve.gov/newsevents/speech/tarullo20160926a.htm 
+
+———. 2020. “Are We Seeing the Demise of Stress Testing?” Brookings Institution, Commentary, June 25, 2020. 
+
+https://www.brookings.edu/articles/stress-testing/ 
+
+———. 2022. “Bank Supervision and Administrative Law.” _Columbia Business Law Review_ 2022, no. 1: 279–401. 
+
+https://doi.org/10.52214/cblr.v2022i1.9983 
+
+———. 2024. “Reconsidering the Regulatory Uses of Stress Testing.” Brookings Institution, Research, May 22, 2024. 
+
+https://www.brookings.edu/articles/reconsidering-the-regulatory-uses-of-stress-testing/ 
+
+Wessel, David. 2023. “Talking to Dan Tarullo about Bank Mergers, Stress Tests, and Supervision.” Hutchins Center on Fiscal & Monetary Policy at Brookings, August 10, 2023. https://www.brookings.edu/wp-content/uploads/2023/08/Talking-to-Dan-Tarulloabout-bank-mergers-stress-tests-and-supervision.pdf. 
+
+This open access article is distributed under the terms of the CC-BY-NC-ND 4.0 license, which allows sharing of this work provided the original author and source are cited. The work may not be changed or used commercially.

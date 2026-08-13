@@ -1,0 +1,314 @@
+## Hungarian Guarantee Scheme[1] 
+
+## _Alec Buchholtz_[2] 
+
+Yale Program on Financial Stability Case Study January 16, 2019, Revised Date: October 10, 2020 
+
+## **Abstract** 
+
+In the midst of the global financial crisis, in October 2008, the Magyar Nemzeti Bank (MNB), the Hungarian national bank, noticed a selloff of government securities by foreign banks and a large depreciation in the exchange rate of the Hungarian forint (HUF) in foreign exchange (FX) markets. Hungarian banks experienced liquidity pressures due to margin calls on FX swap contracts, prompting the MNB and Minister of Finance to seek assistance from the International Monetary Fund (IMF), the European Central Bank (ECB) and the World Bank. The IMF and ECB approved Hungary’s requests in late 2008 to create a €20 billion facility, with €2.3 billion intended to back a bank support package. The program involved the creation of two schemes, one of which, the guarantee scheme, was funded by a Refinancing Guarantee Fund (RGF) and aimed to provide domestic banks with guarantees on newly issued interbank loans and wholesale debt contracts with foreign counterparties. Some analyses deemed the guarantee scheme unsuccessful, since no banks ever participated in the scheme, in large part due to Hungary’s own low sovereign debt rating. This prompted the Hungarian government to use a portion of the bank support program to extend direct onlending measures under a liquidity scheme to three of its largest domestic financial institutions in March 2009. 
+
+**Keywords** : Hungary, European Union, guarantee scheme, IMF, World Bank, stand-by arrangement 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering the responses to the global financial crisis that pertain to bank debt guarantee programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-offinancial-crises/. 
+
+> 2 Alec Buchholtz – Research Associate, YPFS, Yale School of Management. 
+
+
+## Hungarian Guarantee Scheme 
+
+## **At a Glance** 
+
+In October 2008, in the midst of the global financial crisis, the Magyar Nemzeti Bank (MNB), the Hungarian national bank, noticed a selloff of government securities by foreign banks and a large depreciation in the exchange rate of the Hungarian forint (HUF) in foreign exchange (FX) markets. Due to high domestic interest rates, financial institutions had engaged in significant lending in Hungary in foreign currencies, which Hungarian banks had funded via short-term FX swap contracts. The termination of these swaps together with margin calls placed severe liquidity pressure on banks, straining the stability of Hungary’s banking sector. That month, MNB, reached out to the International Monetary Fund (IMF), the European Central Bank (ECB), and the World Bank for assistance. The IMF and the ECB granted Hungary €20 billion in aid. 
+
+As part of the multilateral package, a HUF 600 billion bank support program established two schemes, funded individually by a HUF 300 billion Capital Base Enhancement Fund 
+
+## Summary of Key Terms 
+
+||Purpose: To “secure the refinancing of the eligible<br>banks and to strengthen the banks’ position in an|
+|---|---|
+||international market where their competitors|
+||already have access to similar guarantees.”|
+||Announcement Date<br>December 22, 2008<br>Operational Date<br>February 6, 2009<br>Date of First<br>Guaranteed Issuance<br>N/A|
+||Issuance Window<br>Expiration Date<br>Originally June 30, 2009;<br>later extended to<br>December 31, 2009|
+||Program Size<br>HUF 300 billion;<br>guarantee up to HUF 1.5<br>trillion|
+||Usage<br>N/A|
+||Outcomes<br>N/A|
+||Notable Features<br>High fees relative to|
+||value of guarantee given<br>low sovereign credit<br>rating|
+
+
+
+(CBEF) and a HUF 300 billion Refinancing Guarantee Fund (RGF). The guarantee scheme was designed to provide guarantees to Hungarian bank counterparties for any newly issued interbank wholesale loans and debt securities. Using the RGF, the Hungarian government could guarantee interbank lending up to HUF 1.5 trillion. Debt guaranteed under the scheme would be subject to a fee that the ECB calculated to be 123.50 basis points (bps). The scheme covered maturities between three months and five years. 
+
+Although the issuance window for the MNB to guarantee debt under the guarantee scheme was originally set to expire on June 30, 2009, and was later extended to December 31, 2009, no banks ever utilized the government guarantees. 
+
+## **Summary Evaluation** 
+
+Many bank executives and international organizations questioned the usefulness of the guarantee scheme, often citing Hungary’s low sovereign credit rating as the cause. Ultimately, the state created a separate liquidity scheme to finance state loans to Hungary’s three largest financial institutions in March 2009. 
+
+
+|**Hungarian Guarantee Scheme:  Hungary Context**|**Hungarian Guarantee Scheme:  Hungary Context**|
+|---|---|
+|**GDP**<br>**(SAAR, Nominal GDP**<br>**in LCU converted to**<br>**USD)**|$140.2 billion in 2007<br>$159.6 billion in 2008<br>_Source: Bloomberg_|
+|**GDP per capita**<br>**(SAAR, Nominal GDP**<br>**in LCU converted to**<br>**USD)**|$13,919 in 2007<br>$15,753 in 2008<br>_Source: Bloomberg_|
+|**Sovereign credit**<br>**rating (5-year senior**<br>**debt)**|As of Q4 2007:<br>Fitch: A-<br>Moody’s: A2<br>S&P: BBB+<br>As of Q4 2008:<br>Fitch: BBB+<br>Moody’s: A3<br>S&P: BBB<br>_Source: Bloomberg_|
+|**Size of banking**<br>**system**|$97.7 billion in total assets in 2007<br>$125.0 billion in total assets in 2008<br>_Source: Bloomberg_|
+|**Size of banking**<br>**system as a**<br>**percentage of GDP**|69.7% in 2007<br>78.3% in 2008<br>_Source: Bloomberg_|
+|**Size of banking**<br>**system as a**<br>**percentage of**<br>**financial system**|Data not available|
+|**5-bank concentration**<br>**of banking system**|69.4% of total banking assets in 2007<br>68.9% of total banking assets in 2008<br>_Source: World Bank Global Financial_<br>_Development Database_|
+
+
+
+
+|**Foreign involvement**<br>**in banking system**|64% of total banking assets in 2007<br>67% of total banking assets in 2008<br>_Source: World Bank Global Financial_<br>_Development Database_|
+|---|---|
+|**Government**<br>**ownership of banking**<br>**system**|0% of banks owned by the state in 2007<br>3.4% of banks owned by the state in 2008<br>_Source: World Bank Regulation & Supervision_<br>_Survey_|
+|**Existence of deposit**<br>**insurance**|100% of insurance on deposits up to $32,884<br>in 2007<br>100% insurance on deposits up to $63,725 in<br>2008<br>_Source: OECD, “Financial Crisis: Deposit_<br>_Insurance and Related Financial Safety Net_<br>_Aspects”_|
+
+
+
+
+## **I. Overview** 
+
+## **Background** 
+
+In October 2008, in the midst of the global financial crisis and the credit crunch that ensued, investors began pulling out investments from Hungary and selling off Hungarian government bonds. Due to high domestic interest rates, financial institutions had engaged in significant lending in Hungary in foreign currencies, which Hungarian banks had funded via short-term foreign exchange (FX) swap contracts. With the floating Hungarian forint depreciating drastically, foreign investors began to exit investments in FX swap contracts with Hungarian banks. Additionally, margin calls placed severe liquidity pressure on banks, straining the stability of Hungary’s banking sector. 
+
+In early October, with demand for Hungarian government debt drying up and amidst low levels of foreign exchange reserves at the Magyar Nemzeti Bank (MNB), the Hungarian government requested financial assistance from the International Monetary Fund (IMF), the European Central Bank (ECB), and the World Bank. During the first week of November, the IMF and ECB authorized a €20 billion assistance package to Hungary, HUF 600 billion (€2.3 billion)[3] of which was devoted to a bank support program to create two schemes funded with HUF 300 billion each—a guarantee scheme and a recapitalization scheme—designed to alleviate liquidity pressures and increase financial stability in domestic banks (IMF November 2008a). 
+
+The bank support program included the creation of a Refinancing Guarantee Fund (RGF), also referred to as the Debt Guarantee Fund by the World Bank, that financed the guarantee scheme. The scheme would provide government-backed guarantees to participating financial institutions for interbank loans and wholesale debt securities (IMF November 2008a). 
+
+On December 15, 2008, the Hungarian Parliament passed the Act on the Reinforcement of the Stability of the Financial Intermediary System of 2008 (the Financial Stability Act), which, under Article 1(1), authorized the government to implement the guarantee scheme using the funds provided through the RGF. The recapitalization scheme under the bank support program was also enabled, funded by a Capital Base Enhancement Fund (European Commission 2009a). (Also see Appendix A for an overview of the request for international assistance from the three institutions and for other details on the bank support package; see Buchholtz 2018b for more information on the Hungarian recapitalization scheme.) 
+
+## **Program Description** 
+
+On February 12, 2009, the European Commission (EC) approved the guarantee scheme, thereby making it operational (European Commission 2009a). The guarantee scheme intended to provide guarantees on new interbank loans and any wholesale securities issued 
+
+> 3 The exchange rate of October 31, 2008, was $1 = HUF 204 and €1 = HUF 261. 
+
+
+by domestic banks. Subordinated loans and capital investments were not eligible for guarantee under the scheme (IMF November 2008a). According to the request for an IMF stand-by arrangement, the guarantee scheme “[was] meant to bring comfort to the providers of wholesale funding and secure the refinancing of the eligible banks” (IMF 2008a). Moreover, the government believed that the guarantee scheme would “establish a levelplaying field for the Hungarian banks in an international environment where their competitors already have access to similar guarantees” (IMF 2008a). The scheme’s RGF was invested completely in euro-denominated European Union (EU) government bonds and managed by the MNB (Veres and Simor 2008). 
+
+Initially, the guarantee scheme required any private domestic bank to be of systemic importance with regulatory capital of more than HUF 200 billion and to have secured capital under the program’s other component, the recapitalization scheme, in order to access the guarantees under the guarantee scheme (IMF November 2008a). As a result, the guarantee scheme effectively only covered three of Hungary’s largest financial institutions. Expanded liquidity facilities and blanket deposit guarantees enacted in October 2008 protected the 33 other domestic banks that held less than the HUF 200 billion requirement (IMF 2008a). 
+
+Between the request for assistance in October 2008 and the passage of the Financial Stability Act in December 2008 and in response to feedback from the European Commission, the Hungarian Parliament changed some of the terms of the guarantees to cover more banks affected by the crisis. The Hungarian Parliament removed two requirements: the prerequisite that a bank have regulatory capital greater than HUF 200 billion in order to receive guarantee assistance; and the requirement that a bank could participate in the guarantee scheme only if it had previously sought to participate in the recapitalization scheme (European Commission 2010). 
+
+The scheme guaranteed interbank loans up to a maximum of HUF 1.5 trillion. The scheme guaranteed only those loans with a maturity date of between three months and five years. Loans with a maturity of between three years and five years could utilize only up to a third of the scheme’s budget (European Commission 2009a). Guarantees came with an annual guarantee fee, calculated by the ECB Recommendations on Government Guarantees on Bank Debt to be 123.50 basis points (bps). The ECB calculated this guarantee fee using a flat fee of 50 bps, the fee used for short-term loans, plus the credit default swap (CDS) spread for the lowest CDS rating category of A, which was 73.50 bps (European Commission 2009a). 
+
+The guarantee scheme also featured a limited issuance period of up to June 30, 2009, with the ability by the EC to approve an extension until December 31, 2009. Under EC regulations, any institution that caused the guarantee to be triggered through a default would also have to present a restructuring or liquidation plan (European Commission 2009a). 
+
+Any institution participating in the guarantee scheme was also required to grant the Hungarian government a special veto share, which ultimately gave Hungary “potential influence in the financial institution’s decision-making” (European Commission February 2009). The special share gave Hungary the right to “appoint at least one member to both the managing and the supervisory boards” of the participating institution (European 
+
+
+Commission 2009a). Last, the institution also was subject to two “behavioral conditions” that stated that the institution was not allowed to publicize any state assistance it received and required that it impose compensation and benefit restrictions on its top managers (European Commission 2009a). 
+
+## **Outcomes** 
+
+It was apparent early to the state, through conversations with domestic bank executives, that banks were hesitant to participate in the scheme given Hungary’s low sovereign credit rating, the stringent conditions associated with participation, and the fact that the guarantee was only partially funded (with the HUF 300 billion guarantee fund potentially supporting up to HUF 1.5 trillion in guarantees) (IMF 2011). 
+
+While the EC did extend the guarantee scheme through the end of 2009, the absence of any participation by credit institutions in the guarantee scheme, in part due to Hungary’s lingering credit risks, gave the EC reason to allow the scheme to expire without further prolongation (IMF 2011). 
+
+Due to the under-subscription of both the recapitalization scheme and guarantee scheme by Hungarian financial institutions, banks still required immediate liquidity assistance. In March 2009, the Hungarian Parliament amended Law IV of 2009, which was based on Law XXXVIII of 1992, to authorize the government to extend uncollateralized medium-term FX loans under commercial terms to credit institutions in Hungary, including subsidiaries of foreign banks. At the end of March, the government extended loans to three different credit institutions[4] (IMF 2011). Although the EC was not notified until late 2009 of the liquidity scheme’s implementation (which constituted a breach of European Union law), the EC nonetheless approved the liquidity scheme in January 2010 (European Commission 2010). (See Buchholz 2018a for more information on the Hungarian liquidity scheme.) 
+
+## **II. Key Design Decisions** 
+
+## **1. The guarantee scheme was part of a bank support program funded as one component of an IMF, ECB, and World Bank assistance package for Hungary.** 
+
+In October 2008, the government reached out to the IMF to request financial support via a Stand-By Arrangement of 17 months of special drawing rights (SDR) of SDR 10.5 billion (€12.5 billion) for a large economic assistance package that would facilitate macroeconomic policies and promote financial stability throughout Hungary. The government listed three goals under the program (IMF 2008a): 
+
+- 1) To reduce the government’s financing needs and improve long-term fiscal sustainability 
+
+> 4 Three domestic financial institutions received loans under the liquidity scheme: OTP Bank, the largest Hungarian domestic bank, received HUF 400 billion; MFB, a state-owned development bank, received HUF 170 billion; and FHB Mortgage Bank plc, a mortgage lender, received HUF 120 billion (European Commission 2010). 
+
+
+- 2) To maintain adequate capitalization of the domestic banks and liquidity in domestic financial markets 
+
+- 3) To underpin confidence and secure adequate external financing 
+
+The Hungarian government also reached out to the ECB and the World Bank for additional funding. Under the package, the Hungarian government specifically wanted to sponsor a bank support program aimed at boosting the credibility and ensuring the soundness of all banks operating in Hungary. Another goal of the program was to increase the main domestic bank’s ability to provide for its foreign subsidiaries (IMF 2008a). The program funded the creation of two schemes, a recapitalization scheme and a guarantee scheme. The purpose of the recapitalization scheme was to strengthen the capital positions of major credit institutions, increase liquidity across the Hungarian banking sector, and encourage lending to the real economy. (European Commission 2009a). (See Appendix A and Buchholtz 2018b for more about the recapitalization scheme.). 
+
+**2. The Hungarian Parliament passed the Financial Stability Act to authorize the Hungarian government to guarantee interbank debt and loan contracts.** 
+
+On December 15, 2008, the Hungarian Parliament passed the Financial Stability Act aimed at “strengthening the financial intermediary system” and “limit[ing] the effects of the global financial crisis in Hungary and maintain[ing] its financial stability” (European Central Bank 2009). 
+
+**3. The European Commission approved the bank support program and its guarantee scheme.** 
+
+After two months of analysis and deliberation over the program, the EC approved the program in February 2009 under Article 87(3)(b) of the EC Treaty, which “enables the EC to declare aid . . . if it is necessary to remedy a serious disturbance in the economy of a Member State” (European Commission 2009a). The EC believed that the program’s objectives could sufficiently address the issues of the lack of liquidity and confidence in the Hungarian banking sector, as well as provide a benefit to the overall Hungarian economy (European Commission 2009a). 
+
+Regarding the EC’s assessment of the guarantee scheme, the EC believed that guarantee schemes as a whole could help overcome global market failures that inhibited banks from accessing liquidity or constrained a healthy bank from serving as a financial intermediary. Given that the goal of the Hungarian guarantee scheme was “to provide a safety net to investors that purchase the newly issued debt of, or lend to, the participating institutions,” the EC was satisfied with the objectives of the guarantee scheme (European Commission 2009a). 
+
+As discussed in more detail below, the need to structure the guarantee scheme in such a way as to ensure EC approval significantly influenced the design of certain program features. 
+
+**4. The guarantee scheme was financed by a HUF 300 billion Refinancing Guarantee Fund and could provide guarantees up to HUF 1.5 trillion in total.** 
+
+
+Program documents did not contain specific rationales for these figures. 
+
+**5. Domestic banks that were considered fundamentally sound and systemically important were eligible to participate in the guarantee scheme.** 
+
+To have been considered fundamentally sound, a credit institution was evaluated by the MNB and the Pénzügyi Szervezetek Állami Felügyelete, or the Hungarian Financial Supervisory Authority (PSZAF) (European Commission 2009a). The MNB evaluated the impact of the institution on markets, financial infrastructure, and other regulated entities, and assessed its short-term liquidity position. The PSZAF evaluated the medium-term and long-term liquidity positions of the applicant. Afterward, the MNB and PSZAF provided a recommendation to the Hungarian Minister of Finance to assess whether an institution was eligible for assistance and what the extent of assistance to that institution should be. (European Commission 2009a). 
+
+## **6. Initially, banks had to have regulatory capital of more than HUF 200 billion and to have had participated in the recapitalization scheme to participate in the guarantee scheme. Later these requirements were eliminated.** 
+
+Hungary’s parliament removed these requirements following feedback from the European Commission. The regulatory capital requirement in particular would have limited participation to just three of Hungary’s largest banks. The elimination of this requirement was thus seen as promoting “non-discriminatory” practices and avoiding “threat[s] to distort competition” (European Commission 2010). 
+
+**7. The guarantee scheme covered interbank loans, which included the rollover of loans and wholesale debt securities.** 
+
+Program documents did not provide a specific rationale for the types of debt that were made eligible. 
+
+**8. The guarantee scheme guaranteed loans with a maturity of between three months and five years.** 
+
+Since a major portion of the Hungarian financial market relied on the housing market and mortgage loans, whose maturities often exceeded three years, the fund guaranteed interbank loans of between three years and five years. However, the EC noted that it was in the best interest of all parties to cover loans with as short a duration as possible, defined by the EC as three months. Therefore, the guarantee scheme allowed only up to approximately a third of the RGF to be utilized to guarantee loans with maturities of between three and five years. Loans with a maturity of between three and five years could be guaranteed only to a maximum of HUF 450 billion (European Commission 2009a). 
+
+**9. Loan and debt contracts guaranteed by the guarantee scheme had to be denominated in euros, Swiss francs, or Hungarian forints.** 
+
+
+Program documents did not provide a specific rationale for limiting the guarantee scheme to these currencies. 
+
+## **10. There does not appear to have been any cap on an institution’s participation.** 
+
+Programs documents did not contain language restricting the amount of an individual institution’s participation in the guarantee scheme. 
+
+## **11.The annual guarantee fee of 123.50 bps was based on the lowest CDS rating available.** 
+
+Based on the European Central Bank Recommendations on Government Guarantees on Bank Debt, released on October 20, 2008, any guarantee provided by the Hungarian government would include a flat fee of 50 bps for newly issued short-term loans, in addition to an add-on fee derived from CDS spreads. Because CDS spread data was generally unavailable for Hungarian banks, the ECB used the CDS spread on A-rated bonds, which was then 73.50 bps, to set the annual fee at 123.50 bps (European Commission 2009a). 
+
+## **12.Participating banks had to abide by a set of “behavioral conditions.” In addition, a special veto share was issued to the Hungarian government as a safeguard on any guarantee.** 
+
+Guidance issued by the European Commission in October 2008 on the creation of credit guarantee programs called for the inclusion in programs of a set of safeguards “to minimize . . . distortions and the potential abuse of the preferential situations of beneficiaries brought about by a State guarantee” and “to avoid moral hazard.” This guidance did not specify what safeguards a program should include, but required “an adequate combination” of elements, including restrictions on advertising based on the guarantee, balance sheet growth, share buybacks, and executive compensation, some of which Hungary adopted (European Commission 2008). 
+
+The state believed that to ensure that the bank support program would “not allow the credit institutions to expand their business in an unfair manner,” the government should impose behavioral conditions on any participating institution (European Commission 2009a). Those conditions included requiring that each participating institution not advertise any government assistance they received and imposing restrictions on salary, compensation, and other benefit plans of the top executive officers of the banks (European Commission 2009a). 
+
+Given that the state would provide large guarantees on interbank loans, the terms of the guarantee scheme required that the participant grant a special veto share to the government. The share provided “veto rights” that allowed the state to deter decisions “which would lead to a misuse of funds” or could have threatened financial stability at home and abroad (European Commission 2009a). Some examples of the misappropriations of funds included issuing large dividend payments, providing large executive compensation and bonus payments, or extraction of funds by management (European Commission 2009a). 
+
+## **13.Banks that triggered guarantees had to submit a restructuring plan.** 
+
+
+Hungarian authorities intended this requirement to ensure that any institution troubled enough to default on its guaranteed debt would be restructured. 
+
+## **14.Initially, the issuance window of the guarantee scheme was set to expire on June 30, 2009. It was extended once, until December 31, 2009.** 
+
+The EC approved Hungary’s request to prolong the issuance window of the guarantee scheme until the end of 2009 in spite of the fact that no institution had sought to participate. The EC believed that keeping the scheme open provided reassurance to the global economy that the state had assistance measures in place and that restoring market confidence in Hungary would lower sovereign risk, thus stimulating participation in the guarantee scheme (European Commission 2009b). 
+
+## **III. Evaluation** 
+
+The IMF stated that the “timeliness and size” of the bank support package was crucial to avoiding a systemic banking crisis, as well as contagion across central and southern Europe. The announcement of a package signaled to the market the IMF’s readiness and willingness to provide immediate assistance to Hungary during the crisis (IMF 2011). However, the IMF viewed the guarantee scheme as having been ineffective, since no bank or institution ever utilized it. An ex post evaluation report of the assistance to Hungary by the IMF concluded that the central drawback to the guarantee scheme was its design, which like other guarantee programs linked the credit rating of the guarantee fund to the country’s sovereign credit rating (IMF 2011). Unlike similar guarantee programs created in EU countries with relatively high sovereign credit ratings, Hungary had a relatively low rating. Two major credit rating agencies listed Hungary as having junk-status credit, which consequently made it unattractive and risky for financial institutions to rely on the guarantee (IMF 2011). Additional barriers to participation cited by the IMF include “appropriate, but stringent” conditions for participants and the fact that the guarantee was only partially funded (with the HUF 300 billion guarantee fund potentially supporting up to HUF 1.5 trillion in guarantees). 
+
+Hungarian officials have pointed to the role of the country’s foreign exchange swap lines in meeting demand that might otherwise have been satisfied through the guarantee scheme. Banks with adequate liquidity in Hungarian forints were able to access needed foreign currency via the swap lines put in place by the MNB during the crisis, particularly from early 2009 onward. 
+
+## **IV. References** 
+
+Buchholtz, Alec. 2018a. “Hungary Liquidity Scheme.” Yale Program on Financial Stability, Yale School of Management, Yale University. 
+
+
+_________. 2018b. “Hungary Recapitalization Scheme.” Yale Program on Financial Stability, Yale School of Management, Yale University. 
+
+European Central Bank. 2009. “Opinion of the European Central Bank of 25 March 2009.” March 25, 2009. 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Opinion%20of%20the%20 European%20Central%20Bank%20of%2025%20March%202009.pdf. 
+
+European Commission. 2008. “The Application of State Aid Rules to Measures Taken in Relation to Financial Institutions in the Context of the Current Global Financial Crisis.” October 25, 2008. C/2008 270/02. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CELEX_52008XC1025(01)_ EN_TXT.pdf. 
+
+_________. 2009a. “Support Measures for the Banking Industry in Hungary.” February 2, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Support%20Measures%20f or%20the%20banking%20industry%20in%20Hungary%20(European%20Commission% 202009).pdf. 
+
+_________. 2009b. “Prolongation and Modification of the Hungarian Bank Support Scheme.” September 3, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Prolongation%20and%20M odification%20of%20the%20Hungarian%20Bank%20Support%20Scheme%20(EC%2020 09b).pdf. 
+
+_________. 2010. “Liquidity Scheme for Banks.” January 14, 2010. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Liquidity%20Scheme%20fo r%20Banks%20(EC%202010).pdf. Gárdos, István. 2008. “IMF, European Union, and World Bank Support Credit Crisis Relief Measures.” International Law Office. November 21, 2008. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/IMF,%20European%20Unio n%20and%20World%20Bank%20support%20credit%20crisis%20relief%20measures%2 0(International%20Law%20Office%202008).pdf. 
+
+International Monetary Fund. 2008a. “Hungary: Request for Stand-By Arrangement.” November 2008. IMF Country Report No. 08/361. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Hungary%20Request%20fo r%20Stand-By%20Arrangement%20(IMF%202008).pdf. 
+
+_________. 2008b. “Press Release: IMF Executive Board Approves 12.3 Billion Euro Stand-By Arrangement for Hungary.” November 6, 2008. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/IMF%20Executive%20Boar d%20Approves%2012.3%20Billion%20Euro%20Stand- 
+
+By%20Arrangement%20for%20Hungary%20(IMF%202008).pdf. 
+
+
+_________. 2011. “Hungary: Ex Post Evaluation of Exceptional Access under the 2008 Stand-By Arrangement.” 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Hungary%20ExPost%20Evaluation%20of%20Exceptional%20Access%20under%20the%202008%20Sta nd-By%20Arrangement%20(IMF%202011).pdf. 
+
+Kerényi, Ádám. 2011. “Financial Assistance for Hungarian Crisis Management—A Case Study.” University of Szeged, Studies in International Economics and Finance. June 2011. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Financial%20assistance%2 0for%20Hungarian%20crisis%20management%20%E2%80%93%20a%20case%20study %20(Kerenyi%202011).pdf. 
+
+Veres, Janos, and Andras Simor. 2008. “Letter of Intent to Managing Director of IMF.” Hungarian National Bank. November 4, 2008. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Letter%20to%20Managing %20Director%20of%20IMF%20(Magyar%20Nemzeti%20Bank%202008).pdf. 
+
+## **V. Key Program Documents** 
+
+## **Summary of Program** 
+
+– State Aid N 664/2008 Support Measures for the Banking Industry in Hungary (European Commission 2009a) – _EC approval of a support package to Hungary to stabilize markets in response to the global financial crisis, including a guarantee program for short- to mediumterm debt contracts for domestic banks._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Support%20Measures%20f or%20the%20banking%20industry%20in%20Hungary%20(European%20Commission% 202009).pdf. 
+
+## **Implementation Documents** 
+
+Hungary: Letter of Intent, and Technical Memorandum of Understanding to Managing Director of IMF (11/04/2008) – _Letter from Hungarian central bank Governor and Minister of Finance outlining the details of the economic program that the IMF’s financial assistance would support._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Letter%20to%20Managing %20Director%20of%20IMF%20(Magyar%20Nemzeti%20Bank%202008).pdf. 
+
+Program Document for a Proposed Loan in the Amount of €1.0 Billion to the Republic of Hungary for a Financial Sector and Macro Stability Policy Loan (08/21/2009) – _World Bank program document for a loan to Hungary approved by the Bank on September 22, 2009, to close on December 31, 2010._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Proposed%20Loan%20in% 20the%20Amount%20of%20E1.0%20Billion%20to%20the%20Republic%20of%20Hung ary%20for%20a%20Financial%20Sector%20and%20Macro%20Stability%20Policy%20L oan%20(World%20Bank).pdf. 
+
+
+## **Press Releases/Announcements** 
+
+- IMF Executive Board Approves €12.3 Billion Stand By Arrangement for Hungary (IMF 2008b) – _November 6, 2008, IMF press release announcing the approval of a 17-month SDR 10.5 billion stand-by arrangement to be provided to Hungary. The stand-by arrangement facilitated the creation of an economic program that included a banking-sector support package._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/IMF%20Executive%20Boar d%20Approves%2012.3%20Billion%20Euro%20Stand- 
+
+By%20Arrangement%20for%20Hungary%20(IMF%202008).pdf. 
+
+Hungary: Financial Sector and Macro Stability Development Policy Loan (09/22/2009) – _World Bank press release announcing the extension of a €1 billion loan program to Hungary._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Hungary%20Financial%20S ector%20and%20Development%20Policy%20Loan%20(World%20Bank%202009).pdf. 
+
+## **Media Stories** 
+
+IMF Bailout Lifts Hungarian Markets (New York Times – 10/29/2008) – _News story summarizing the multilateral package extended to Hungary by the IMF, EU, and World Bank to help stabilize Hungary’s economy._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/IMF%20bailout%20lifts%2 0Hungarian%20markets%20(New%20York%20Times%202008).pdf. 
+
+IMF, European Union, and World Bank Support Credit Crisis Relief Measures (IMF 2008) – _Blog post describing international aid and domestic interventions to combat Hungary’s financial woes._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/IMF,%20European%20Unio n%20and%20World%20Bank%20support%20credit%20crisis%20relief%20measures%2 0(International%20Law%20Office%202008).pdf. 
+
+## **Key Academic Papers** 
+
+Ex _-_ Post Evaluation of Balance of Payments Support Operation to Hungary Decided in November 2008 (Thissen et al. 2013) – _External report by Ecorys for the European Commission evaluating the Hungarian balance-of-payments support operation._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ExPost%20evaluation%20of%20Balance%20of%20Payments%20support%20operation%2 0to%20Hungary%20decided%20in%20November%202008%20(Thissen%20et%20al.%2 02013).pdf. 
+
+Financial Assistance for Hungarian Crisis Management—A Case Study (Kerényi 2011) – _Book chapter describing Hungarian fiscal management alongside the IMF standby agreement._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Financial%20assistance%2 0for%20Hungarian%20crisis%20management%20%E2%80%93%20a%20case%20study %20(Kerenyi%202011).pdf. 
+
+
+## **Reports/Assessments** 
+
+- IMF Country Report No. 08/361: Hungary: Request for Stand By Arrangement (November – 2008) _IMF report on request for 17-month, SDR 10.5 billion (€12.5 billion, $15.7 billion, 1015% of quota) stand-by arrangement to provide funds for an economic program that aims to change the Hungarian government’s fiscal budget, and to provide capital and liquidity support for the Hungarian banking sector._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Hungary%20Request%20fo r%20Stand-By%20Arrangement%20(IMF%202008).pdf. 
+
+- IMF Country Report No. 09/21: Hungary: Stand By Arrangement: Interim Review under the Emergency Financing Mechanism (January 2009) – _IMF staff review of the arrangement to Hungary under the Emergency Financing Mechanism, taking into account the policy implementations thus far, as well as the then-new bank support law._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Hungary%20StandBy%20Arrangement%20Interim%20Review%20under%20the%20Emergency%20Financ ing%20Mechanism%20(IMF%202009).pdf. 
+
+- IMF Country Report No. 09/105: Hungary: First Review under the Stand By Arrangement and Request for Modification of Performance Criteria (March 2009) – _IMF staff review of the performance and terms of the stand-by arrangement that provided Hungary the funds for its economic program and bank support package._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Hungary%20First%20Revie w%20under%20the%20Stand- 
+
+By%20Arrangement%20and%20Request%20for%20Modification%20of%20Performance %20Criteria%20(IMF%202009).pdf. 
+
+- IMF Country Report No. 09/197: Hungary: Second Review under the Stand By Arrangement, Request for Waiver of Nonobservance of Performance Criterion, and Request for Modification of Performance Criteria (June 2009) – _IMF staff review of the performance and terms of the stand-by arrangement that provided Hungary the funds for its economic program and bank support package._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Hungary%20Second%20Re view%20under%20the%20Stand- 
+
+By%20Arrangement,%20Request%20for%20Waiver%20of%20Nonobservance%20of%2 0Performance%20Criterion....%20(IMF%202009).pdf. 
+
+- IMF Country Report No. 09/304: Hungary: Third Review under the Stand By Arrangement, Request for Waiver of Nonobservance of Performance Criterion, and Request for Modification of Performance Criteria (IMF 2009) – _IMF staff review of the performance and terms of the stand-by arrangement that provided Hungary the funds for its economic program and bank support package._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Hungary%20Third%20Revi ew%20under%20the%20Stand- 
+
+By%20Arrangement,%20Request%20for%20Waiver%20of%20Nonobservance%20of%2 0Performance%20Criterion....%20(IMF%202009).pdf. 
+
+
+- IMF Country Report No. 11/145: Hungary: Ex Post Evaluation of Exceptional Access under the 2008 Stand-By Arrangement (June 2011) – _IMF staff evaluation of the stand-by arrangement that provided Hungary the funds for its economic program and bank support package._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Hungary%20ExPost%20Evaluation%20of%20Exceptional%20Access%20under%20the%202008%20Sta nd-By%20Arrangement%20(IMF%202011).pdf. 
+
+## **VI. Appendix** 
+
+Appendix A: Hungary Requests International Assistance 
+
+By 2008, Hungary had become an especially integrated investment and trade center in Europe. Specifically, Hungary’s integration into international banking markets left it extremely vulnerable to external credit shocks. The Hungarian banking sector mostly consisted of foreign bank subsidiaries and of a few domestic banks that depended largely on international bank flows (IMF 2011). 
+
+In addition to the global credit crunch in 2008, Hungary’s high debt levels had lingered since the early 2000s, causing concern that the country was susceptible to exchange rate and maturity risks. Due to the risks Hungary presented at the time and a weakened FX market, many foreign investors began to sell off Hungarian government bonds (IMF 2011). Consequently, the Hungarian forint depreciated drastically, which consequently devalued the collateral underpinning HUF-denominated FX swap contracts with domestic Hungarian banks. This only exacerbated the concerns of foreign banks, who accelerated margin calls on FX swap contracts and created liquidity pressures on Hungarian banks (IMF 2011). 
+
+A major concern for Europe was that a Hungarian financial crisis could spread contagion into other European financial systems, such as in Austria, Belgium, and Ireland, where banks had considerable bank claims and investments in Hungarian bonds (IMF 2011). With only enough cash to relieve pressures on its banking system for about two months, the Hungarian government and the Magyar Nemzeti Bank reached out to the European Central Bank for assistance. On October 16, 2008, the Swiss National Bank and ECB each extended their own €5 billion FX swap and repo facility to the MNB “to support MNB’s newly introduced euroliquidity operations” (Gárdos 2008). Although Hungary was part of the European Union, it was not part of the Eurozone, thus marking this as “the first instance of the ECB providing financing to a central bank outside the Eurozone” (Gárdos 2008). Unfortunately, since the ECB’s facility required Hungary to provide collateral with a credit rating of at least A-, for which Hungarian bonds did not suffice, Hungary was unable to draw upon the facility (IMF 2011). 
+
+Hungary’s growing economic problems motivated the state to request greater support from the IMF, EU, and World Bank. First, on November 6, 2008, the IMF approved a 17-month stand-by arrangement to Hungary with special drawing rights up to SDR 10.5 billion, with SDR 4.2 billion available up front. (IMF November 2008b) The EU soon followed in December 2008 by making available up to €6.5 billion in a two-year balance of payments loan to 
+
+
+Hungary.[5] The World Bank did not approve any assistance to Hungary until September 2009 (Kerényi 2011). 
+
+Although the IMF-EU package was intended to support a variety of different Hungarian economic programs, one program became a HUF 600 billion bank support facility to promote the stability of the Hungarian financial sector and its domestic banks (IMF November 2008a). The bank support program included HUF 600 billion to be split evenly between two separate funds. The first fund was called the Capital Base Enhancement Fund and supported a recapitalization scheme aimed at raising the capital adequacy ratio of eligible domestic banks to 14% through capital injections. It was determined that any remainder of the CBEF’s HUF 300 billion not utilized by banks by the expiration of the recapitalization scheme on March 31, 2009, would transfer over to the second fund of the bank support program, the Refinancing Guarantee Fund (RGF) (IMF November 2008a). The RGF financed a guarantee scheme, under which the state could guarantee the wholesale loans received and debt securities issued by domestic banks, up to a maximum of HUF 1.5 trillion (IMF November 2008a). (See also Buchholtz 2018b for more information on the CBEF and recapitalization scheme.) 
+
+The Hungarian Parliament passed the Reinforcement of the Stability of the Financial Intermediary System Act on December 15, 2008, which became effective on December 23. The Financial Stability Act granted the state the authority to recapitalize any banks operating in Hungary and guarantee the interbank loans of domestic banks using the two funds formed under the bank support package (European Commission 2009a). Last, the EC approved the bank support package, putting the two schemes into effect, on February 12, 2009 (European Commission 2009a). 
+
+Copyright 2019, 2020 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu. 
+
+> 5 The EU loan was transferred to Hungary via three installments: the first €2 billion on December 9, 2008; the next €2 billion on March 26, 2009; and the final €1.5 billion on July 6, 2009 (Kerényi 2011).

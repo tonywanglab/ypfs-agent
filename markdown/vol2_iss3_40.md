@@ -1,0 +1,335 @@
+## Credit Institutions (Eligible Liabilities Guarantee) Scheme[1] 
+
+## _Claire E. Simon_[2] 
+
+Yale Program on Financial Stability Case Study January 16, 2019, Revised Date: October 10, 2020 
+
+## **Abstract** 
+
+Following the failure of Lehman Brothers in September 2008, Irish banks found themselves unable to roll over their significant foreign borrowings on the interbank lending market. With the banks facing a liquidity crisis, the Irish government decided to issue a blanket guarantee of all liabilities of six banks through the Credit Institutions Financial Support Scheme (CIFS). As the crisis worsened, and it became clear that Irish banks were facing a solvency—not just liquidity—crisis, the Irish government was forced to provide additional support to the financial system, which took the form of capital injections and a national asset management company for troubled assets. Notwithstanding these measures, Irish banks continued to face significant liquidity pressures, with a substantial portion of their funding still with maturities under one month. In December 2009, Irish authorities introduced a new, narrower guarantee scheme, the Credit Institutions (Eligible Liabilities Guarantee) Scheme (ELG Scheme) intended to lengthen the maturities of banks’ funding. The ELG Scheme moved away from the blanket guarantee and created an opt-in guarantee for Irish financial institutions and their subsidiaries. The guarantee covered deposits not already covered by existing deposit protection schemes and certain eligible debt securities. Sixteen financial institutions participated in the ELG Scheme, which was extended multiple times before the issuance window expired on March 28, 2013. At its peak in 2010, the ELG Scheme covered around €150 billion in liabilities. The guarantee was triggered only once, upon the default and liquidation of IBRC, a new entity resulting from the merger of two nationalized banks. As of June 30, 2015, €934 million had been paid out to IBRC guaranteed bondholders and €138 million had been paid to depositors. 
+
+**Keywords** : liquidity, guarantee, Irish banking crisis 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering the responses to the global financial crisis that pertain to bank debt guarantee programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-offinancial-crises/. 
+
+> 2 Claire E. Simon – Research Associate, YPFS, Yale School of Management. The author would like to acknowledge the contributions of Ryan Chan, Research Intern, YPFS, Yale School of Management. 
+
+
+## Credit Institutions (Eligible Liabilities Guarantee) Scheme 
+
+## **At a Glance** 
+
+The failure of Lehman Brothers in September 2008 caused interbank markets to freeze and interbank lending to cease functioning. This proved particularly distressing for banks in Ireland, which had relied heavily on interbank Euro borrowing markets for funding. In an attempt to halt what it saw as a liquidity crisis, the Irish government issued a two-year blanket guarantee of liabilities at six covered institutions through the Credit Institutions Financial Support Scheme (CIFS) on September 30, 2008. 
+
+As it became obvious that Irish banks were facing a solvency crisis, not just a liquidity crisis, the Irish government was forced to step in and provide additional assistance. Irish banks continued to face liquidity pressures. In November 2009, a new liability guarantee scheme, the Credit Institutions (Eligible Liabilities Guarantee) Scheme was announced. Under the ELG Scheme, the Irish government could guarantee deposits and certain eligible debt securities of Irish credit institutions and their subsidiaries. Securities had to have a maturity of five years or less and were guaranteed through their maturity. The government charged a fee for these guarantees based on debt maturities and the credit profile of the issuing institution. 
+
+||Summary of Key Terms<br>Purpose:<br>to<br>provide<br>an<br>unconditional<br>and<br>irrevocable State guarantee for certain eligible<br>liabilities (including deposits)<br>Announcement Date<br>November 20, 2009|Summary of Key Terms<br>Purpose:<br>to<br>provide<br>an<br>unconditional<br>and<br>irrevocable State guarantee for certain eligible<br>liabilities (including deposits)<br>Announcement Date<br>November 20, 2009||
+|---|---|---|---|
+||Operational Date<br>Date of First Guaranteed<br>Loan Issuance|December 9, 2009<br>January 4, 2010||
+||Issuance Window|Originally June 1, 2010;||
+||Expiration Date|repeatedly extended<br>until March 28, 2013||
+||Program Size<br>Usage|Undisclosed<br>Peaked at €153 billion;<br>16 institutions||
+||Outcomes|Default by IBRC<br>triggered €934 million<br>for guaranteed bonds<br>and €138 million for<br>deposits; €3.64 billion<br>in fees||
+||Notable Features|Hybrid deposit/credit<br>guarantee to replace<br>blanket guarantee||
+
+
+
+The ELG Scheme was extended multiple times before the window for new issuances closed on March 28, 2013. Sixteen institutions participated in the ELG Scheme, which at its peak covered around €150 billion in liabilities. Payment under the ELG scheme was triggered by the liquidation of Irish Bank Resolution Corporation Limited (IBRC) in 2013. As of June 30, 2015, €934 million had been paid out to IBRC bondholders and €138 million to depositors. 
+
+## **Summary Evaluation** 
+
+While liquidity had improved for Irish banks by 2012, it is challenging to disentangle the effects of the ELG Scheme from those of the many other interventions undertaken by the Irish government. 
+
+
+|**Eligible Liabilities Guarantee Scheme:  Ireland Context**|**Eligible Liabilities Guarantee Scheme:  Ireland Context**|
+|---|---|
+|**GDP**<br>**(SAAR, Nominal GDP**<br>**in LCU converted to**<br>**USD)**|$270.3 billion in 2007<br>$276.5 billion in 2008<br>_Source: Bloomberg_|
+|**GDP per capita**<br>**(SAAR, Nominal GDP**<br>**in LCU converted to**<br>**USD)**|$61,360 in 2007<br>$61,262 in 2008<br>_Source: Bloomberg_|
+|**Sovereign credit**<br>**rating (5-year senior**<br>**debt)**|As of Q4, 2007:<br>Fitch: AAA<br>Moody’s: Aaa<br>S&P: AAA<br>As of Q4, 2008:<br>Fitch: AAA<br>Moody’s: Aaa<br>S&P: AAA<br>_Source: Bloomberg_|
+|**Size of banking**<br>**system**|$401.9 billion in total assets in 2007<br>$470.0 billion in total assets in 2008<br>_Source: Bloomberg_|
+|**Size of banking**<br>**system as a**<br>**percentage of GDP**|148.7% in 2007<br>169.9% in 2008<br>_Source: Bloomberg_|
+|**Size of banking**<br>**system as a**<br>**percentage of**<br>**financial system**|Data not available<br>_Source: World Bank Global Financial_<br>_Development Database_|
+|**5-bank concentration**<br>**of banking system**|83.3% of total banking assets in 2007<br>90.7% of total banking assets in 2008<br>_Source: World Bank Global Financial_<br>_Development Database_|
+
+
+
+
+|**Foreign involvement**<br>**in banking system**|42.0% of total banking assets in 2007<br>36.0% of total banking assets in 2008<br>_Source: World Bank Global Financial_<br>_Development Database_|
+|---|---|
+|**Government**<br>**ownership of banking**<br>**system**|Data not available<br>_Source: World Bank, Bank Regulation and_<br>_Supervision Survey_|
+|**Existence of deposit**<br>**insurance**|Limits on full coverage:<br>$28,000 in mid-September 2008<br>Unlimited in early December 2008<br>_Source: OECD_|
+
+
+
+
+## **I. Overview** 
+
+## **Background** 
+
+The financial crisis in Ireland was preceded by booms in construction and in bank lending. By 2008, bank lending had grown to 200% of national income (Kelly 2009). This lending was largely funded through wholesale borrowing: by 2008, only 22% of bank funding in Ireland came from domestic deposits, while 37% came from international capital markets (Connor, Flavin, and O’Kelly 2010). Non-Irish credit institutions in particular were the single largest source of funding at nearly 30% of total bank funding (Connor, Flavin, and O’Kelly 2010). 
+
+Following the failure of Lehman Brothers on September 15, 2008, liquidity in the interbank lending market dried up. Irish banks found themselves unable to roll over their significant foreign borrowings. In addition, banks’ balance sheets diminished rapidly as a result of losses in the domestic property and construction sector (Connor, Flavin, and O’Kelly 2010). Fear that they were facing a rapidly intensifying liquidity crisis caused the Irish government to issue a blanket guarantee of bank liabilities through the Credit Institutions Financial Support Scheme (CIFS). CIFS was announced on September 30, 2008, and covered all deposits, senior debt, covered bonds, and dated subordinated debt of covered institutions, which included six Irish banks and their subsidiaries (Bank of Ireland 2013). The guarantee was only extended to Irish-owned banks and building societies, and the scheme did not cover institutions owned by foreign institutions (Carswell and Ó Caollaí 2008). The blanket guarantee was much more extensive than the more targeted approaches taken in the U.S. and other European countries (Schoenmaker 2015). At the time CIFS was introduced, the guarantee covered around €400 billion in bank deposits and liabilities, which was more than double Irish GDP (Connor, Flavin, and O’Kelly 2010). 
+
+According to a report commissioned by the Irish government in 2011, the decision to implement a blanket guarantee was based on the Irish government’s conclusion, based on insufficient or inaccurate information available at the time, that Irish banks were facing a liquidity crisis but were still solvent. The solvency crisis became apparent once Anglo Irish Bank had to be nationalized on January 19, 2009 (Commission of Investigation into the Banking Sector in Ireland 2011). As the blanket guarantee failed to staunch the intensifying crisis, in 2009 the Irish government was forced to perform capital injections and purchase risky loans off of banks’ balance sheets through the National Asset Management Agency. Notwithstanding this assistance, Irish banks continued to face liquidity pressures, with a substantial portion of their funding still with maturities under one month (European Commission 2009a). At the end of 2009, as the deficit reached 14.5% of GDP, the Irish government designed a new guarantee scheme to replace CIFS (Connor, Flavin, and O’Kelly 2010). Irish authorities intended the scheme to lengthen the maturity of banks’ funding (European Commission 2009a). 
+
+
+## **Program Description** 
+
+On December 9, 2009, the Credit Institutions (Eligible Liabilities Guarantee) Scheme (ELG Scheme) commenced. The Minister for Finance was authorized to create the ELG Scheme by the Credit Institutions (Financial Support) Act 2008, and it was subsequently approved by both Houses of the Oireachtas (the Irish parliament), and by the European Commission (EC). 
+
+Notably, the ELG Scheme was introduced a year before the closure of the CIFS issuance window. When CIFS was introduced, the guarantee covered “liabilities existing from 30 September 2008 or at any time thereafter up to and including 29 September 2010.” Therefore, any existing liabilities and new liabilities would be guaranteed by the Irish government only until the scheme closed on September 29, 2010 (S.I. No. 411/2008). The two schemes ran in parallel until CIFS closed. However, once the banks joined the ELG Scheme in early 2010, no new liabilities were guaranteed under CIFS. As a result, coverage under CIFS fell sharply at the beginning of 2010, and ceased altogether at the end of the third quarter of 2010 once the issuance window closed (Ryan, Hart-Moran, and Preston 2015). 
+
+The new ELG Scheme moved away from the blanket guarantee provided by CIFS to an optin approach (Bank of Ireland 2013). Systemically important and solvent credit institutions and their subsidiaries were eligible to become participating institutions in the ELG Scheme. In order to participate, any interested eligible institution was required to apply to join the ELG Scheme and to execute an agreement to follow the ELG Scheme’s terms and conditions. The ELG Scheme initially covered all of a participating institution’s deposits not covered by existing deposit protection (S.I. No. 490/2009). This changed in November 2011, when participating institutions were allowed to offer unguaranteed deposits under specific conditions (Bank of Ireland 2013). Deposits were guaranteed until the ELG Scheme closed (S.I. No. 490/2009). 
+
+In addition to deposits, the ELG Scheme also covered certain debt securities with a maturity of five years or less. The government does not appear to have established minimum maturity requirements for eligible debt. Eligible liabilities included senior unsecured certificates of deposit, senior unsecured commercial paper, and other senior unsecured bonds and notes and had to be single denominated in euro, sterling, U.S. dollars, or a currency approved by the Minister for Finance (Bank of Ireland 2013). Participating institutions were required to apply for guarantees of stand-alone liabilities or for guarantees covering all liabilities issued through a specific program (European Commission 2009a). To be eligible, securities had to be issued during the issuance window. The guarantee lasted through the security’s maturity, even if that date fell outside of the issuance window (S.I. No. 490/2009). The government charged a fee starting at 50 bps per annum for guarantees based on the maturity of the liability and the creditworthiness of the issuing institution. For liabilities with a maturity of one month or less issued during an initial three-month phase-in period, a fee of only 25 bps per annum would be charged (European Commission 2009a). The Minister for Finance, in consultation with the Governor of the Irish Central Bank and the Irish Financial Services Regulatory Authority, could impose requirements on conduct, transparency, and reporting. The Minister for Finance could direct any participating institution to draw up a restructuring plan if the institution’s solvency was in question (S.I. No. 490/2009). 
+
+
+## **Outcomes** 
+
+All six of the covered banks that participated in CIFS also participated in the ELG Scheme through a total of sixteen institutions including subsidiaries of the covered banks.[3] All of the institutions joined in 2010, with 15 of the 16 institutions joining in January or early February (National Treasury Management Agency n.d.b). In 2012, certain participating institutions that were foreign subsidiaries of Irish banks were removed from the ELG Scheme after they became covered by similar schemes in their own jurisdiction (Bank of Ireland 2013). 
+
+According to the statute establishing the ELG Scheme, the Minister for Finance was required to review the ELG Scheme at least every six months, and to provide an update at that time to the EC. As a result of these reviews, the Irish government extended the ELG Scheme multiple times; each extension was approved by the EC pursuant to State Aid rules (Bank of Ireland 2013). In 2011 and 2012 the Irish government began to consider scaling the ELG Scheme back, and in 2012 an interdepartmental group led by the Department of Finance was assembled to formally consider how to close the scheme. The group found that “the market was recovering for unguaranteed products, the capital markets conditions for Irish banks had recovered and that deposit market dynamics allowed for the strategic withdrawal of the policy support that had been in place since 2008” (Ryan, Hart-Moran, and Preston 2015). As a result, in February 2013, the Minister for Finance announced that the ELG Scheme would end on March 28, 2013 (Hancock 2013). This termination marked the closing of the issuance window, but any existing guarantees of liabilities with outstanding maturities remained in effect. As of March 28, 2018, there were no outstanding guarantees (National Treasury Management Agency n.d.a). 
+
+Shortly after the ELG Scheme began, it covered around €139 billion in liabilities. The peak amount covered by the ELG Scheme was €153 billion at the end of the second quarter of 2010. Coverage fell steadily throughout the scheme, and when the ELG issuance window closed on March 28, 2013, it had fallen to €74.6 billion. As guaranteed securities matured following the closure, the coverage dropped sharply: by July 2015 it had fallen to €3.9 billion (Ryan, Hart-Moran, and Preston 2015). The decline in coverage over time can be seen in Figure 1, which illustrates the amount of total liabilities covered by the two schemes from September 2008 to June 2015 (the most recent publicly available data). 
+
+> 3 For the full list of participants, see National Treasury Management Agency n.d.b. Note that Anglo Irish Bank is listed as a participant in the ELG Scheme under Irish Bank Resolution Corporation Limited. 
+
+
+[FIGURE id=vol2_iss3_40_f1 type=figure label="Figure 1" file=figure_1.png caption="CIFS and ELG Scheme covered liabilities to end June 2015"]
+### **Figure 1: CIFS and ELG Scheme covered liabilities to end June 2015**
+![Figure 1](assets/vol2_iss3_40/figure_1.png)
+
+
+_Source: Ryan, Hart-Moran, and Preston 2015._ 
+
+One “compensation event” occurred under the ELG (Ryan, Hart-Moran, and Preston 2015). Payment was triggered by the liquidation of the Irish Bank Resolution Corporation (IBRC) in 2013. IBRC was formed in July 2011 when the assets and liabilities of Irish Nationwide Building Society (INBS) were transferred to Anglo Irish Bank (Anglo) and the combined entity was renamed IBRC (Taylor 2011). At the beginning of the crisis in Ireland, Anglo and INBS were among the most troubled banks due to their activity in property lending. As the initial crisis response measures, including CIFS, failed to contain the intensifying financial crisis, the Irish government had to nationalize Anglo in January 2009. INBS was nationalized a year later, in March 2010. Both Anglo and INBS received support from the Irish government through guarantees and numerous recapitalizations, all of which were incredibly costly and were partially responsible for the government’s decision to request a bailout from the EU and IMF. In 2011, the two banks were merged into IBRC following a decision by Irish authorities that resolving the two banks would be easier if they were combined into a single entity (Galand and Gort 2011). In 2013, the Irish government liquidated IBRC. This liquidation triggered compensation under the ELG Scheme. As of June 30, 2015, €934 million had been paid out to IBRC guaranteed bondholders and €138 million had been paid to 
+
+
+depositors. At that time, the National Treasury Management Agency was still accepting claims for compensation (Ryan, Hart-Moran, and Preston 2015). 
+
+Over the course of both CIFS and the ELG Scheme, the Irish government collected over €4.4 billion in fees. The majority of this fee income came during the period preceding the closure of the ELG Scheme’s issuance window, though the government continued to collect fees from guaranteed liabilities that had maturity dates later than March 28, 2013 (Ryan, Hart-Moran, and Preston 2015). For example, in 2011 alone the three banks still covered by the ELG Scheme, Bank of Ireland, AIB, and Permanent TSB, together paid €1.1 billion in fees. These fees, in addition to the revitalized interbank lending market, were one of the reasons that executives at the three banks “welcome(d)” the closure of the scheme (Hancock 2013). 
+
+## **II. Key Design Decisions** 
+
+**1. The ELG Scheme was not part of a broader package of interventions, though the Irish government was undertaking other crisis response measures simultaneously under the framework of the Credit Institutions (Financial Support) Act 2008.** 
+
+On September 29, 2008, Irish bank shares fell sharply, and the shares of Anglo Irish Bank collapsed almost entirely. In response, the Irish government quickly passed the Credit Institutions (Financial Support) Act 2008 on October 2, 2008, in order to establish a legal framework for the CIFS Scheme (“Bill allows State to take stake in any financial institution given aid” 2008). Though the act was passed specifically for this purpose, it gave the Minister of Finance broad authority to provide “financial support,” which was defined as “a loan, a guarantee, an exchange of assets and any other kind of financial accommodation or support,” (Credit Institutions [Financial Support] Act 2008). As the crisis persisted, the Irish government cited the Credit Institutions (Financial Support) Act as the legal authority for a range of interventions, including recapitalizations and loan purchases. Though these interventions, including the ELG Scheme, all fell under the legal framework of the Credit Institutions (Financial Support) Act 2008, they were not rolled out as a package of measures like was seen in some other countries during the crisis. 
+
+**2. Section 6(4) of the Credit Institutions (Financial Support) Act 2008 permitted the Minister for Finance to create a guarantee scheme.** 
+
+According to the Credit Institutions (Financial Support) Act 2008, the Minister for Finance was authorized to provide assistance (referred to as “functions” in the act), including guarantees, following a determination made in consultation with the Governor of the Irish Central Bank and the Irish Financial Services Regulatory Authority that “(a) there is a serious threat to the stability of credit institutions in the State generally, or would be such a threat if those functions were not performed, (b) the performance of those functions is necessary, in the public interest, for maintaining the stability of the financial system in the State, and (c) the performance of those functions is necessary to remedy a serious disturbance in the economy of the State.” Section 6(4) specifically authorized the Minister for Finance to provide this support in the form of a scheme and was cited as the legal authority underlying 
+
+
+the Statutory Instrument that established the ELG Scheme. According to Section 6(5) of the Credit Institutions (Financial Support) Act 2008, this scheme then had to be presented to and approved by each House of the Oireachtas, the Irish parliament. 
+
+## **3. The European Commission (EC) approved the ELG Scheme under state aid rules and concluded that it was permitted under Article 87(3)(b) of the EC Treaty.** 
+
+On November 20, 2009, the EC approved the ELG Scheme, ruling that it was permitted under Article 87(3)(b) of the EC Treaty (European Commission 2009b).[4] Article 87(3)(b) permits state aid “to promote the execution of an important project of common European interest or to remedy a serious disturbance in the economy of a Member State” (European Union 1992). This decision was consistent with an earlier communication published by the EC, which stated that Article 87(3)(b) could be used as a legal basis for aid measures like general schemes to address the financial crisis (European Commission 2008). As discussed in more detail below, the need to structure the ELG Scheme in such a way as to ensure EC approval significantly influenced the design of certain program features. 
+
+## **4. The ELG Scheme had a cap based on estimates of usage derived from information provided by the eligible institutions, but this number was not disclosed.** 
+
+In their correspondence with the European Commission, Irish authorities committed to limiting the size of the guarantee to these estimated amounts (European Commission 2009a). 
+
+## **5. Initially, systemically important and solvent credit institutions and their subsidiaries were eligible for participation in the ELG Scheme.** 
+
+According to the terms of the scheme, the institutions eligible for participation in the scheme were any “systemically important and solvent credit institution or a subsidiary of such a credit institution (including any Irish subsidiary of a credit institution authorized in another Member State)” as specified by the Minister of Finance (S.I. No. 490/2009). In 2012, some subsidiaries based in the UK and the Isle of Man were removed from the scheme because they were already covered by similar schemes in those jurisdictions (Bank of Ireland 2013). 
+
+Any eligible institution wishing to participate in the ELG Scheme was required to apply. Covered institutions that were previously included in the CIFS had 60 days following the beginning of the ELG Scheme to apply. Any other institution could apply at any point before or during the issuance window. In addition, each institution had to enter into an agreement ensuring it would be bound by the terms and conditions of the ELG Scheme. Once these requirements were met, the participating institution would receive a certificate confirming their participation in the ELG Scheme (S.I. No. 490/2009). 
+
+> 4 At the time that the ELG Scheme was initially reviewed by the EC, it was ruled consistent with State Aid rules established by Article 87(3)(b) of the EC Treaty. Once the treaty was renamed the Treaty on the Functioning of the European Union (TFEU) on December 1, 2009, the relevant State Aid provision was renumbered to Article 107(3)(b). Later decisions on extensions to the ELG Scheme referenced the new article numbers. 
+
+
+**6. The ELG Scheme initially covered all deposits at participating institutions not covered by existing deposit protection; following a revision to the ELG Scheme rules in November 2011 participants could offer unguaranteed deposits under certain conditions.** 
+
+The ELG Scheme covered all deposits of participating institutions not already covered by the Deposit Guarantee Scheme (DGS) in Ireland or by deposit insurance in another country.[5] The guarantee expired once the issuance window closed. In November 2011, the rules of the ELG Scheme were amended to allow participating institutions to offer unguaranteed corporate and institutional deposits. To do so, the depositor had to acknowledge in writing that the deposit in question would not be guaranteed by the ELG Scheme and the terms of the deposit had to state that it was not guaranteed. Only deposits over €1 million made after November 16, 2011, were eligible for unguaranteed treatment (Bank of Ireland 2013). 
+
+**7. Participating institutions could also apply to have eligible senior unsecured liabilities other than deposits covered by the ELG Scheme.** 
+
+Senior unsecured certificates of deposit, senior unsecured commercial paper, and other senior unsecured bonds and notes were also eligible for guarantee under the ELG Scheme (S.I. No. 490/2009). Covered bonds, subordinated debt, and senior term debt were not eligible for guarantee (Bank of Ireland 2013). This differed from the earlier guarantee scheme, CIFS, which included senior unsecured debt, asset covered securities, and dated subordinated debt (S.I. No. 411/2008). 
+
+Another crucial difference from the CIFS was that in order to obtain a guarantee under the ELG Scheme, participating institutions had to apply to the Minister for Finance for a guarantee of a stand-alone liability or for a guarantee covering liabilities issued through programs (European Commission 2009a). 
+
+## **8. Eligible liabilities had to have a maturity of five years or less.** 
+
+Eligible liabilities could only be guaranteed if they had a maturity of five years or less (S.I. No. 411/2008). The guarantee lasted until the maturity date, even if it was after the issuance window of the ELG Scheme closed (Bank of Ireland 2013). The government does not appear to have established minimum maturity requirements for eligible debt. 
+
+**9. Eligible liabilities had to be single denominated in euro, sterling, U.S. dollars, or a currency approved by the Minister for Finance.** 
+
+Program documents did not provide a specific rationale for limiting the ELG Scheme to these currencies. 
+
+## **10.There does not appear to have been any cap on an institution’s participation.** 
+
+> 5 The Irish DGS was increased earlier in the crisis, on September 20, 2008, to cover up to €100,000 per individual per institution. The previous limit was €20,000. 
+
+
+Program documents did not specify any cap on an individual institution’s participation. 
+
+## **11.The Irish government charged participating institutions an annual fee for each guaranteed security based on its maturity and the institution’s creditworthiness.** 
+
+The Irish government charged an annual fee for participation in the ELG Scheme. The fee was assessed per eligible liability, and was calculated based on the liability’s maturity, as outlined in Figure 2 below. The government could also charge an additional fee for liabilities denominated in a currency other than the euro (European Commission 2009a). 
+
+For the first three months of the ELG Scheme, the government phased in fees for liabilities with maturities of one month or less, charging a 25 bps per annum fee (S.I. No. 490/2009). This fee was approved by the EC despite being below the 50bps fee called for by EC guidelines. The EC allowed this phase-in approach because even at 25 bps the fee was higher than the fee charged under CIFS, which followed a model that calculated charges for each covered institution individually based on long-term credit ratings (European Commission 2009a; S.I. No. 411/2008). 
+
+[FIGURE id=vol2_iss3_40_f2 type=diagram label="Figure 2" file=figure_2.png caption="Fee Structure for ELG Scheme"]
+### **Figure 2: Fee Structure for ELG Scheme**
+
+||**Maturity of guaranteed liability**|**Fee (per annum)**||
+|---|---|---|---|
+||Less than or equal to one year|50bps of principal guaranteed amount||
+||Greater than one year|50 bps of principle guaranteed amount, plus the lower of:<br>a) 100% of the relevant participating institution’s median<br>five-year credit default swap (CDS) spread during the<br>period from 1 January 2007 to 31 August 2008<br>b) 100% of the median five-year CDS spread during the period<br>from 1 January 2007 to 31 August 2008 for euro area credit<br>institutions in the same credit rating category as the<br>relevant participating institution (or the lowest rating<br>category if such participating institution has no rating)||
+
+
+
+_Source: European Commission 2009a._ 
+
+## **12.Participating institutions agreed to allow the Minister for Finance to impose certain requirements.** 
+
+Guidance issued by the European Commission in October 2008 on the creation of credit guarantee programs called for the inclusion in programs of a set of safeguards “to minimize…distortions and the potential abuse of the preferential situations of beneficiaries brought about by a State guarantee” and “to avoid moral hazard.” This guidance did not specify exactly what safeguards a program should include, but required “an adequate combination” of elements including restrictions on advertising based on the guarantee, balance sheet growth, share buybacks and executive compensation” (“Communication from the Commission”). 
+
+
+Under the statute establishing the ELG Scheme, the Minister for Finance, in consultation with the Governor of the Irish Central Bank and the Irish Financial Services Regulatory Authority, could impose requirements on conduct, transparency, and reporting in order to meet the objectives of the scheme and comply with EC guidance. Additionally, the Minister for Finance, once again in consultation, could direct any participating institution to draw up a restructuring plan if the institution’s solvency was in question (S.I. No. 490/2009). 
+
+## **13.The ELG Scheme’s issuance window initially lasted until June 1, 2010, but was extended multiple times until March 28, 2013.** 
+
+According to the statute establishing the ELG Scheme, a liability was only eligible for guarantee if it was issued between December 9, 2009 (when the ELG Scheme began) and September 29, 2010, when the issuance window was initially supposed to close (S.I. No. 490/2009). However, in accordance with the powers granted to the Minister for Finance and approval by the EC, the issuance window was extended multiple times until finally expiring on March 28, 2013. 
+
+According to the statute establishing the ELG Scheme, the Minister for Finance was required to review the ELG Scheme every six months, if not more frequently. Following each review, the Minister for Finance would forward the results to the EC. The Statute also recognized that the continuation of the ELG Scheme had to be approved by the EC every six months in accordance with Article 87(3)(b) of the EC Treaty, which permits state aid that prevents serious disruptions to a member state’s economy (S.I. No. 490/2009). The EC initially approved the ELG Scheme with an issuance window that closed on June 1, 2010. The Irish government subsequently extended the issuance window multiple times; each extension was reviewed and approved by the EC (Bank of Ireland 2013). The final extension, granted by the EC in June 2012, allowed the Irish government to continue the ELG Scheme until June 30, 2013. 
+
+## **III. Evaluation** 
+
+Criticisms of the guarantees provided to Irish banks during the crisis largely focus on the blanket guarantee provided by CIFS, which put immense pressure on the Irish government both economically and politically (Connor, Flavin, and O’Kelly 2010). According to one scholar, in providing a blanket guarantee through CIFS, “the Irish authorities were disregarding a large literature on the resolution of banking crises” (Eichengreen 2015). In his official report to the Irish government on the Irish banking crisis, the Governor of the Central Bank of Ireland recognized that the decision to issue a blanket guarantee was made based on an expectation that the Irish banking system was facing a liquidity, rather than solvency crisis. As it became clear that there were deeper solvency problems, the government was forced to intervene more heavily and to redesign the guarantee program in 2009 (Honohan 2010). 
+
+Many assessments partially attribute the failure of CIFS and the ELG Scheme to stymie the growing solvency crisis to the bailout of a number of Irish banks in 2009 and 2010, which in 
+
+
+turn led to the bailout of the Irish government by the EC, ECB, and IMF (Eichengreen 2015; Howden 2012). When the ELG Scheme began, the amount of liabilities guaranteed through the scheme were at similar levels as CIFS (see Figure 1), and a “considerable amount” of the liabilities at some of the most troubled banks continued to be guaranteed (Galand and Gort 2011). However, the amount of liabilities guaranteed by the ELG Scheme began to decline fairly steadily in the period between late 2010 and 2013. This may be a result of the new fee structure introduced by the ELG Scheme, which “incentiviz(ed) a shift away from reliance on such liabilities” (Ryan 2015). 
+
+As mentioned in the Outcomes section, by 2012 liquidity had improved in the interbank market and the Irish government began considering closing the ELG Scheme, which occurred in March 2013. It is difficult to isolate the effects of the ELG Scheme from those of other support measures provided by the Irish government, or from the effects of the bailout provided to the government by the EC, ECB, and IMF in 2010 (Levy and Schich 2010). 
+
+## **IV. References** 
+
+Bank of Ireland. 2013. “Irish Government Guarantee Fact Sheet.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Irish_Government_Guarante e_Factsheet.pdf. 
+
+“Bill allows State to take stake in any financial institution given aid.” 2008. The Irish Times, October 1, 2008. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Bill%20allows%20State%2 0to%20take%20stake%20in%20any%20financial%20institution%20given%20aid%20(Ir ish%20Times%202008).pdf. 
+
+Carswell, Simon and Éanna Ó Caollaí. “Which banks are covered by the guarantee?” The Irish Times, September 30, 2008. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Which%20banks%20are% 20covered%20by%20the%20guarantee%20(Irish%20Times%202008a).pdf. 
+
+Commission of Investigation into the Banking Sector in Ireland. 2011. Misjudging Risk: Causes of the Systemic Banking Crisis in Ireland. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Misjudging_Risk_Commissio n_Report.pdf. 
+
+Connor, Gregory, Thomas Flavin, and Brian O’Kelly. 2010. “The U.S. and Irish Credit Crises: Their Distinctive Differences and Common Features.” Economics, Finance and Accounting Department Working Paper Series n206-10.  Department of Economics, Finance and Accounting, National University of Ireland – Maynooth, March 2010. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Connor_Flavin_O'Kelly_201 2_0.pdf. 
+
+
+Credit Institutions (Financial Support) Act 2008. Irish Statute Book. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Credit%20Institutions%20( Financial%20Support)%20Act%202008%20(Irish%20Statute%20Book%202008).pdf. 
+
+Eichengreen, Barry. 2015. “The Irish Crisis and the EU from a Distance.” Presented at CBICEPR-IMF Conference: Ireland—Lessons from its Recovery from the Bank-Sovereign Loop, Dublin, Ireland. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Eichengreen_2015.pdf. 
+
+European Commission. 2008. Communication from the Commission — The application of State aid rules to measures taken in relation to financial institutions in the context of the current global financial crisis (2008/C 270/02). Brussels, October 25, 2008. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CELEX_52008XC1025(01)_ EN_TXT.pdf. 
+
+——— . 2009a. State aid N 349/2009 – Ireland Credit Institutions Eligible Liabilities Guarantee Scheme. Brussels, November 20, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/C(2009)9165_final%20.pdf. 
+
+——— . 2009b. State aid: Commission approves revised Irish guarantee scheme for financial institutions. Brussels, November 20, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Commission_approves_revis ed_Irish_guarantee_scheme_EC_Press_Release.pdf. 
+
+European Union. 1992. “Article 87.” Treaty Establishing the European Community. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Article%2087%20of%20th e%20EC%20Treaty%20(ex%20Article%2092).pdf. 
+
+Galand, Christophe and Minke Gort. 2011. “The Resolution of Anglo Irish Bank and Irish Nationwide Building Society.” European Commission Competition Policy Newsletter 2011, no. 3. 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/The%20Resolution%20of% 20Anglo%20Irish%20Bank%20and%20Irish%20Nationwide%20Building%20Society%20 (Galand%20&%20Gort%202011).pdf. 
+
+Hancock, Ciaran. 2013. “Noonan announces end of guarantee to help get banks ‘back to normal.’” _The Irish Times_ , February 27, 2013. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Noonan_announces_end_of_ guarantee_Irish_Times_0.pdf. 
+
+Honohan, Patrick. 2010. The Irish Banking Crisis Regulatory and Financial Stability Policy 2003-2008. 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Irish_Banking_Crisis_Report _Governor_Central_Bank.pdf. 
+
+
+Howden, David. 2012. “The Iceland and Ireland Banking Crises: Lessons for the Future.” Mercatus Center Working Paper no. 12-22. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Howden_2012_0.pdf. 
+
+Kelly, Morgan. 2009. The Irish Credit Bubble. Working Paper, UCD Centre for Economic Research, Dublin, Ireland. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Kelly_2009_0.pdf. 
+
+Levy, Aviram and Sebastian Schich. 2010. “The Design of Government Guarantees for Bank Bonds: Lessons from the Recent Financial Crisis.” OECD Journal: Financial Market Trends 2010, issue 1. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Levy_and_Schich_2010_0.pd f. 
+
+National Treasury Management Agency. N.d.a. “Eligible Liabilities Guarantee Scheme.” Accessed May 11, 2018. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Eligible%20Liabilities%20G uarantee%20(ELG)%20Scheme%20_%20National%20Treasury%20Management%20Age ncy%20(NTMA).pdf. 
+
+——— . N.d.b. “Participating Institutions.” Accessed May 11, 2018. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Participating%20Institution s%20_%20National%20Treasury%20Management%20Agency%20(NTMA).pdf. Ryan, Neil, Sinead Hart-Moran, and Shauna Preston. 2015. “The Eligible Liabilities Guarantee Scheme.” Department of Finance Policy Perspective Series. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Policy%20Perspective%20 ELG%20scheme.pdf. 
+
+Ryan, Richard. 2015. “The Irish Banking Crisis–a Special Case.” In The Economic and Financial Crisis in Europe: On the Road to Recovery, edited by Carlos Botelho Moniz and Pedro de Gouveia e Melo. 
+
+S.I. No. 411/2008 – Credit Institutions (Financial Support) Scheme 2008. 2008. Irish Statute Book. 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Credit%20Institutions%20( Financial%20Support)%20Act%202008%20(Irish%20Statute%20Book%202008).pdf. 
+
+S.I. No. 490/2009 – Credit Institutions (Eligible Liabilities Guarantee) Scheme 2009. 2009. Irish Statute Book. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/S.I._No._490_of_2009.pdf. 
+
+Schoenmaker, Dirk. 2015. “Stabilizing and Healing the Irish Banking System: Policy Lessons.” Presented at CBI-CEPR-IMF Conference: Ireland—Lessons from its Recovery from the BankSovereign Loop, Dublin, Ireland. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Schoenmaker_2015_0.pdf. 
+
+
+Taylor, Charlie. 2011. “INBS merges with Anglo Irish.” The Irish Times, July 1, 2011. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/INBS%20merges%20with% 20Anglo%20Irish%20(Taylor%202011).pdf. 
+
+## **V. Key Program Documents** 
+
+## **Summary of Program** 
+
+Irish Government Guarantee Fact Sheet – _Bank of Ireland timeline and overview of CIFS and ELG Scheme._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Irish_Government_Guarante e_Factsheet.pdf. 
+
+Eligible Liabilities Guarantee Scheme Frequently Asked Questions – _National Treasury Management Agency FAQ document for ELG Scheme._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Eligible_Liabilities_%20Gua rantee_Scheme_Frequently_Asked_Questions.pdf. 
+
+## **Implementation Documents** 
+
+S.I. No. 490/2009 – Credit Institutions (Eligible Liabilities Guarantee) Scheme 2009 _– Statute establishing ELG Scheme._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/S.I._No._490_of_2009.pdf. 
+
+Rules of the Credit Institutions (Eligible Liabilities Guarantee) Scheme 2009 – _Rules governing ELG Scheme as of February 26, 2013._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Rules_of_the_ELG_Scheme.p df. 
+
+## **Legal/Regulatory Guidance** 
+
+State aid N 349/2009 – Ireland Credit Institutions Eligible Liabilities Guarantee Scheme _– European Commission State Aid decision authorizing ELG Scheme_ . https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/C(2009)9165_final%20.pdf. 
+
+## **Press Releases/Announcements** 
+
+Eligible Liabilities Guarantee Scheme (n.d.) – _National Treasury Management Agency summary of ELG Scheme_ . https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Eligible_Liabilities_Guarante e_Scheme%20_National_Treasury.pdf. 
+
+State aid: Commission approves revised Irish guarantee scheme for financial institutions (11/20/2009) – _European Commission press release announcing approval of ELG Scheme._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Commission_approves_revis ed_Irish_guarantee_scheme_EC_Press_Release.pdf. 
+
+
+## **Media Stories** 
+
+“ ” Noonan announces end of guarantee to help get banks back to normal (Irish Times – 2/27/2013) – _Article discussing the end of the ELG Scheme_ . https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Noonan_announces_end_of_ guarantee_Irish_Times_0.pdf. The big gamble: The inside story of the bank guarantee (Irish Times – 9/25/2010) – _Article discussing origins of the guarantee scheme._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/The_big_gamble_Irish_Time s_0.pdf. 
+
+## **Key Academic Papers** 
+
+The U.S. and Irish credit crises: Their distinctive differences and common features (Connor, ’ Flavin, and O Kelly 2010) – _Paper analyzing the differences between the crises in Ireland and the US that provides background on the Irish guarantee schemes._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Connor_Flavin_O'Kelly_201 2_0.pdf. 
+
+The Irish Credit Bubble (Kelly 2009) – _Working paper studying the Irish credit bubble and its aftermath, including impact of guarantees._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Kelly_2009_0.pdf. 
+
+The Iceland and Ireland Banking Crises: Lessons for the Future (Howden 2012) – _Working paper comparing banking crises in Ireland and Iceland._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Howden_2012_0.pdf. 
+
+The Irish Crisis and the EU from a Distance (Eichengreen 2015) – _Paper presented at CBICEPR-IMF Conference on Ireland reviewing the role of the EU in the Irish crisis._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Eichengreen_2015.pdf. 
+
+Stabilizing and Healing the Irish Banking System: Policy Lessons (Schoenmaker 2015) – _Paper presented at CBI-CEPR-IMF Conference on Ireland that assesses the Irish authorities’ response to the crisis._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Schoenmaker_2015_0.pdf. 
+
+## **Reports/Assessments** 
+
+Misjudging Risk: Causes of the Systemic Banking Crisis in Ireland (Commission of Investigation into the Banking Sector in Ireland 2011) – _Analysis of lead-up and origins of Irish banking crisis._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Misjudging_Risk_Commissio n_Report.pdf. 
+
+- The Irish Banking Crisis Regulatory and Financial Stability Policy 2003 2008 (Honohan 2010) – _Report by the Governor of the Central Bank commissioned by the Minister for Finance._ 
+
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Irish_Banking_Crisis_Report _Governor_Central_Bank.pdf. 
+
+## **VI. Appendices** 
+
+Appendix A: Extensions of the ELG Scheme 
+
+||**Status**|**State Aid Case**|**EC Decision**|**End of Extension**||
+|---|---|---|---|---|---|
+||ELG Scheme|N349/2009|Nov/20/2009|Jun/01/2010||
+||1stExtension|N198/2010|May/31/2010|Jun/30/2010||
+||2ndExtension|N254/2010|June/28/2010|Dec/31/2010||
+||3rdExtension|N487/2010|Nov/10/2010|Jun/30/2011||
+||4thExtension|SA. 33006|Jun/01/2011|Dec/31/2011||
+||5thExtension|SA. 33740|Dec/08/2011|Jun/30/2012||
+||6thExtension|SA. 34746|Jun/01/2012|Dec/31/2012||
+||7thExtension|SA. 35744|Dec/12/2012|Jun/30/2013||
+
+
+
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu.

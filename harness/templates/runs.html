@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+{% from "macros/form_actions.html" import form_actions %}
+{% block title %}Runs — Eval Harness{% endblock %}
+{% block content %}
+{% set has_filters = selected_prompt_id %}
+<div class="page-header page-header-row">
+  <div>
+    <h1>All runs</h1>
+    <p class="meta">Filter by prompt version.</p>
+  </div>
+  <div class="runs-filter-bar">
+    {% if has_filters %}
+      <div class="runs-filter-summary" aria-label="Active filters">
+        {% if selected_prompt_id %}
+          <span class="chip">{{ selected_prompt_id }}</span>
+        {% endif %}
+        <a class="runs-filter-clear" href="{{ url_for('runs_list') }}">Clear</a>
+      </div>
+    {% endif %}
+    <div class="runs-filter-menu" data-popover>
+      <button
+        type="button"
+        class="runs-filter-trigger{% if has_filters %} is-active{% endif %}"
+        data-popover-trigger
+        aria-haspopup="true"
+        aria-expanded="false"
+        aria-controls="runs-filter-panel"
+      >
+        Filter
+        {% if has_filters %}
+          <span class="runs-filter-count" aria-hidden="true">1</span>
+        {% endif %}
+      </button>
+      <div
+        id="runs-filter-panel"
+        class="runs-filter-panel"
+        data-popover-panel
+        role="dialog"
+        aria-label="Filter runs"
+      >
+        <form method="get" action="{{ url_for('runs_list') }}" class="runs-filter-form">
+          <label>Prompt
+            <select name="prompt_id">
+              <option value="">All prompts</option>
+              {% for prompt in prompts %}
+                <option value="{{ prompt.prompt_id }}" {% if prompt.prompt_id == selected_prompt_id %}selected{% endif %}>{{ prompt.prompt_id }}</option>
+              {% endfor %}
+            </select>
+          </label>
+          {{ form_actions("Apply", cancel_href=url_for('runs_list'), cancel_label="Clear", extra_class="runs-filter-actions") }}
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% if runs %}
+<section>
+  <table class="runs-table">
+    <thead><tr><th>Run</th><th>Case</th><th>Prompt</th><th>Agent</th><th>Date</th><th>Status</th><th><span class="visually-hidden">Actions</span></th></tr></thead>
+    <tbody>
+      {% for run in runs %}
+        <tr>
+          <td><a href="{{ url_for('run_detail', run_id=run.run_id) }}">{{ run.run_id }}</a></td>
+          <td>{{ run.case_id }}</td>
+          <td><span class="chip">{{ run.prompt_id }}</span></td>
+          <td class="meta">{{ run.agent_model }}</td>
+          <td class="run-date">
+            <time datetime="{{ run.created_at }}" data-local-datetime="{{ run.created_at }}" title="{{ run.created_at }}">
+              <span class="run-date-day">{{ run.created_at[:10] }}</span>
+              <span class="run-date-time">{{ run.created_at[11:16] }} UTC</span>
+            </time>
+          </td>
+          <td><span class="badge neutral">{{ run.status }}</span></td>
+          <td class="run-actions">
+            <form method="post" action="{{ url_for('delete_run_route', run_id=run.run_id) }}" data-confirm="Delete {{ run.run_id }}?">
+              <input type="hidden" name="next" value="runs">
+              <button type="submit" class="subtle-danger">Delete</button>
+            </form>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+{% else %}
+<section><p class="empty-state">No runs match these filters.</p></section>
+{% endif %}
+{% endblock %}

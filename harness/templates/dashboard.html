@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+{% block title %}Dashboard — Eval Harness{% endblock %}
+{% block content %}
+<div class="page-header">
+  <h1>Supervisor dashboard</h1>
+  <p class="meta">Review runs, leave feedback on the answer, and iterate on the system prompt.</p>
+</div>
+
+{% with panel_id="active-tasks-panel", title="Active tasks", tasks=active_tasks, empty_message="No queued or running tasks.", task_kind="all" %}
+  {% include "partials/active_tasks_panel.html" %}
+{% endwith %}
+
+<section>
+  <div class="section-head">
+    <h2>Recent runs <span class="count-badge">{{ recent_runs|length }}</span></h2>
+  </div>
+  {% if recent_runs %}
+    <ul class="item-list">
+      {% for run in recent_runs %}
+        <li class="dashboard-list-row">
+          <div class="dashboard-list-content">
+            <a href="{{ url_for('run_detail', run_id=run.run_id) }}">{{ run_labels.get(run.run_id, run.run_id) }}</a>
+            <span class="chip">{{ run.prompt_id }}</span>
+            <span class="muted">{{ run.case_id }}</span>
+            <span class="badge neutral">{{ run.status }}</span>
+            <time class="muted run-date-inline" datetime="{{ run.created_at }}" data-local-datetime="{{ run.created_at }}" title="{{ run.created_at }}">
+              <span class="run-date-day">{{ run.created_at[:10] }}</span>
+              <span class="run-date-time">{{ run.created_at[11:16] }} UTC</span>
+            </time>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p class="empty-state">No runs yet.</p>
+  {% endif %}
+</section>
+
+<section class="version-card">
+  <div class="section-head">
+    <div>
+      <h2>Prompt versions <span class="count-badge">{{ prompts|length }}</span></h2>
+    </div>
+  </div>
+  <ul class="item-list version-history">
+    {% for prompt in prompts|reverse %}
+      <li class="version-history-item">
+        {% if prompt.rationale %}
+          <details>
+            <summary>
+              <span class="version-history-line">
+                <strong>{{ prompt.prompt_id }}</strong>
+                {% if loop.first %}<span class="badge neutral">latest</span>{% endif %}
+              </span>
+            </summary>
+            <p class="muted version-history-rationale">{{ prompt.rationale }}</p>
+          </details>
+        {% else %}
+          <span class="version-history-line">
+            <strong>{{ prompt.prompt_id }}</strong>
+            {% if loop.first %}<span class="badge neutral">latest</span>{% endif %}
+          </span>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  <p class="empty-state compact">Propose the next prompt version from a run's feedback list.</p>
+</section>
+{% endblock %}

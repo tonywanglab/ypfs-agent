@@ -1,0 +1,1506 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 4 
+2020 
+Monetization of Fiscal Deficits and COVID-19: A Primer Monetization of Fiscal Deficits and COVID-19: A Primer 
+Aidan Lawson 
+Financial Stability Institute, Bank for International Settlements 
+Greg Feldberg 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance Commons, Finance and Financial Management 
+Commons, Other Economics Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Lawson, Aidan and Feldberg, Greg (2020) "Monetization of Fiscal Deficits and COVID-19: A Primer," 
+Journal of Financial Crises: Vol. 2 : Iss. 4, 1-35. 
+DOI: https://doi.org/10.17132/2693-3179.1124 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss4/1 
+This Article is brought to you for free and open access by the Journal of Financial Crises and EliScholar – A Digital 
+Platform for Scholarly Publishing at Yale. For more information, please contact journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This article is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-crises/
+vol2/iss4/1
+
+--- Page 3 ---
+Monetization of Fiscal Deficits and COVID-19: 
+A Primer
+ 
+Aidan Lawson†
+Greg Feldberg‡
+ 
+ 
+ABSTRACT 
+Monetization—also known as “money -financed fiscal programs” or “money -printing”—
+occurs when a government finances itself by issuing currency or other non-interest-bearing 
+liabilities, such as bank reserves . It poses real risks —potentially excessive inflation and 
+encroachment on central-bank independence—and some paint it as a relic of a bygone era. 
+The onset of the COVID-19 crisis, however, forced governments to spend heavily to combat 
+the considerable economic and public  health impacts. As  government deficits climb ed, 
+monetization re-entered the conversation as a way to avoid the massive debt burdens that 
+some nations  may face . This paper describes how monetization works, provides key 
+historical examples, and examines recent central -bank measures. Based on our definition , 
+much of what many are calling monetization today —in particular, central banks  directly 
+buying massive amounts of their own government’s bonds—is not necessarily monetization. 
+To our knowledge, no central bank during the COVID-19 crisis took an action that meets our 
+definition or explicitly stated that it was conducting monetization.  
+ 
+Keywords: monetization, monetary policy, fiscal policy, monetary finance 
+ 
+ This paper was originally published on August 30, 2020, on the Yale Program on Financial Stability , Systemic 
+Risk Blog . The authors have made some minor edits to reflect recent events, but most of the information 
+presented represents a non-exhaustive analysis of what the authors determined were the most relevant events 
+at the original time of publication. 
+† Graduate Associate, Financial Stability Institute, Bank for International Settlements , aidan.lawson@bis.org. 
+‡ Research Scholar and Director of Researc h, Yale Program on Financial Stability, Yale School of Management, 
+greg.feldberg@yale.edu. 
+1
+
+--- Page 4 ---
+Introduction 
+Governments around the world introduced huge stimulus programs to combat the economic 
+damage caused by COVID -19. These programs allocate d billions of dollars in direct 
+payments, tax breaks, business subsidies, and other relief. The size and scale of these 
+programs caused many governme nts to run much higher budget deficits than normal. But 
+how were they going to finance these deficits? One way, which some consider anathema to 
+the price-stability mandate of a central bank, was thrust back into the spotlight as the crisis 
+raged on: sovereign debt monetization. 
+But what exactly is monetization? We define monetization—also known as “money-financed 
+fiscal programs” or “money -printing”—as any effort by a government to finance itself by 
+issuing non-interest-bearing liabilities. Those liabilities could be currency, or they could be 
+bank reserves, if the central bank can avoid paying interest on them.  
+By monetizing debt, the government seeks to use inflation to finance its spending. In a 
+deflationary environment such as the COVID-19 crisis, with economies shrinking by as much 
+as one third on an annualized basis, monetization could help a central bank stabilize prices 
+while providing a mechanism to fund rescue and stimulus programs.  
+In the first part of t his paper, we briefly describe how monetization can work. The central 
+bank can buy government debt and not require repayment, or similarly, promise to roll that 
+debt over indefinitely. Or it could create central -bank accounts for the public, an idea with 
+growing support.1 A complication is that most central banks now pay interest on the reserves 
+that banks hold with them. So just buying government debt would not  be costless to the 
+government; it would simply substitute the interest paid on Treasuries for the interest the 
+central bank p ays on reserves. We explain that, i f a central bank has no choice but to pay 
+interest on reserves, it would have to combine its government debt purchases with 
+convincing guidance that it has temporarily raised its inflation target. The scope for using 
+inflation for this purpose is related to the ratio of a country’s base money —currency plus 
+non-interest-bearing bank reserves—to its gross domestic product (GDP). When modeled, a 
+program that costs about one percent of GDP that is fully monetized corresponds to about a 
+10 percent increase in the price level.2  
+Of course, the mere hint of monetization conjures fears of government overreach and 
+excessive inflation. Many countries do not allow their central banks to buy government debt 
+ 
+1 Coronado, Julia, and Simon M. Potter. “Securing Macroeconomic and Monetary Stability with a Federal 
+Reserve–Backed Digital Currency.”  Peterson Institute for Intern ational Economics  (PIIE). Policy Brief 20 -4. 
+March 2020  
+2 English, William B., Christopher J. Erceg, and David Lopez -Salido. “Money -Financed Fiscal Programs: A 
+Cautionary Tale.” Brookings Institution: Hutchins Center on Fiscal and Monetary Policy. Working Paper #31. June 
+2, 2017 – p. 1. 
+2
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 5 ---
+at all. Some allow only limited amounts to be purchased to cover short-term cash needs. 3 
+Others require the government to repay the central bank quickly .4 Milton Friedman, 
+conservative economist and histo rian of the Great Depression, coined the term “helicopter 
+money”—to escape a deflationary recession  through money printing—50 years ago. Critics 
+pounced on former Fed chair Ben Bernanke when he mentioned Friedman’s sugges tion in 
+2002, but he still has no t backed down from his view that “governments should never have 
+to give in to deflation.”5  
+In the second part of this paper, we describe historical examples of monetization in practice. 
+Quantitative-easing (QE) programs that various central banks introduc ed during and after 
+the global financial crisis  of 2007 -09 were not monetization programs . I ndeed, despite 
+trillions of dollars of debt purchases by central banks, inflation hardly stirred. Banks held the 
+new cash in reserves, the growth in the broader mon ey supply remained muted, and the 
+money multiplier shrank . 6 As Janet Yellen, former Fed chair, and proposed future head of 
+Treasury, recently intimated , central banks know how to subdue inflation, but deflation 
+continues to puzzle them.7  
+In these examples, a common concern expressed about monetization is that a central bank 
+will lose its independence. Once a legislature realizes it has a limitless buyer for debt, the 
+story goes, it will abandon all fiscal control. Such “fiscal dominance” i s real. For example, it 
+was explicit policy in India before a series of reforms in the 1980s and 1990s.8 But Bernanke 
+has argued that the record of central bank independence  suggests that close cooperation 
+between a country’s central bank and its t reasury can be perfectly appropriate during 
+difficult times, when their interests are clearly aligned .9 During the world wars, as we 
+describe, the Fed temporarily monetized expansive fiscal polic y at the expense of its 
+independence.  
+In the third part of the paper, we describe measures that central banks took in the first six 
+months of the COVID -19 crisis that some described as monetization. Many central banks, 
+including several in emerging market s, established or reinstated asset purchases and QE 
+programs in 2020 . M eanwhile, debt levels rose across the world , especially in developing 
+ 
+3 Bank of England. “HM Tr easury and Bank of England announce temporary extension to Ways and Means 
+facility.” April 9, 2020. 
+4 “Monetary Board approved additional Php 300 billion support to the National Government to fight COVID -
+19.” Bangko Sentral ng Pilipinas (BSP). March 22, 2020. 
+5 Bernanke, Ben S. “What tools does the Fed have left? Part 3: Helicopter money.” Brookings Institution. April 
+11, 2016. 
+6 Dugal, Ira. “Monetisation Neither a Game Changer nor a Catastrophe, says Raghuram Rajam.” Bloomberg Quint. 
+May 8, 2020. 
+7 Yale Program on Financial Stability (YPFS). “The Economic Policy Response to COVID -19.” July 13, 2020. 
+8 Reserve Bank of India. “Fiscal-Monetary Co-ordination in India: An Assessment.” March 4, 2013. 
+9 Bernanke, Ben S. “Monetary Policy in a new era.” Brookings Institution – Hutchins Center on Fiscal and 
+Monetary Policy. October 2, 2017. 
+3
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 6 ---
+countries.10 Based on our research, however, no central bank explicitly labeled its programs 
+monetization. On the contrary, several took measures to make clear that monetization was 
+not part of their strategy. 
+In the fourth part of the paper, we ask: If central banks wanted to monetize their debt to 
+support their COVID -19 responses, would they be able to? Our analysis  suggests that a 
+country’s capacity for “safe” monetization depends on its level of economic development, the 
+central bank’s credibility, and the current economic environment. Countries that have 
+persistently low inflation, credible central banks, and strong economic fundamentals could 
+potentially monetize some of their COVID -19 spending without excessive inflation or a loss 
+of central bank independence. Countries that do not have a large amount of fiscal space and 
+are struggling to obtain external financing or issue debt face greater risks from monetization.  
+1. What is monetization? 
+Most of the time, governments have two basic choices for financing their defi cits: they can 
+borrow (issue debt) or raise taxes. Monetization represents a third, unconventional choice 
+that governments may consider in crises like the current one. 
+What is it? Simply put, monetization —also known as “money -financed fiscal programs” or 
+“money printing”—occurs when the government finances itself by issuing non -interest-
+bearing liabilities: that is, either currency in circulation or central bank reserves, if the 
+central bank can avoid paying interest on those reserves. 
+Monetization can solve several problems for a government during the COVID-19 crisis. First, 
+it can directly cover some of the costs of extraordinary recovery programs. Second, it can 
+mitigate deflation and stimulate moderate inflation. Third, by increasing inflation, it can 
+reduce to some extent the value of its outstanding obligations. Stimulating inflation is a 
+necessary part of the plan. A central bank financing government spending —by purchasing 
+government debt directly or  crediting the government the amount needed —is not 
+monetizing that spending unless it also stimulates inflation.  
+The fact that most central banks now pay interest on bank reserves complicates the process 
+of monetization.  
+Without interest on reserves, monetizing debt would be easier. The government would issue 
+enough bonds to pay for its fiscal program, and the central bank would then purchase those 
+bonds, committing to hold them in perpetuity or to roll them over forever. The government 
+would spend the “m oney” that the central bank has created on any short -term stimulus, or 
+COVID relief, that it has identified as necessary. In the short run, that money would end up 
+ 
+10 Sindreu, Jon. “Who Says Emerging Economies Shouldn’t Print Money?” The Wall Street Journal. June 30, 2020. 
+4
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 7 ---
+at banks, as people and businesses deposit their checks from the government. But banks 
+wouldn’t want to keep their excess reserves with the central bank, where it earned no 
+interest. Much of the money would flow back into the economy through loans, and thereby 
+boost aggregate demand. The stronger demand would, in turn, increase inflation, which 
+would gradually reduce the real value of currency and reserves back to their initial levels. As 
+a consequence, the government would end up having financed its fiscal action by creating 
+base money: by spurring growth in both reserves and currency. 
+But, in re ality, most of the largest  central banks in the world do pay interest on reserves 
+today.11 The interest rate they pay, even if it is small, gives banks an incentive to keep their 
+reserves with the central bank. This confounds the process of monetization described above, 
+since t he interest the central bank pays on reserves merely substitute s for the interest 
+payments the government pays on its debt. With a few key adjustments, financing 
+government spending while paying interest on reserves can achieve results similar to the 
+circumstance where the central bank doesn’t pay interest on reserves. 
+With interest on reserves, a central bank would still directly purchase and commit to roll 
+over the government’s debt to initially finance the fiscal program. But it would also commit 
+to raising prices to a high enough level that the additional demand for nominal currency 
+would be sufficient to finance the debt purchase. Essentially, this means that there would be 
+some temporary but moderate inflation (say, above the common 2% target but still in single 
+digits), which would reduce the real value of the currency stock and increase the demand for 
+currency. As a result, seigniorage —the profit generated by the government from  printing 
+money—would be used to help finance the fiscal action.  
+For this to work, the public must perceive the central bank’s commitment to expanding base 
+money as credible and permanent . Otherwise, the short-run economic impact would be far 
+less.12 The central bank could instead communicate that it would only monetize a certain 
+amount of government debt. But committing to raise the price level alongside expansionary 
+fiscal policy sends a stronger message to the public that the increase is indeed perma nent; 
+not articulating this message may have unpredictable effects on inflation. 13 When modeled, 
+a program that costs about 1 percent of GDP that is fully monetized corresponds to about a 
+10 percent increase in the price level.14  
+This scenario differs from how debt monetization has often been defined by media and some 
+academics, where any purchase  of government debt  by the central bank is termed 
+ 
+11 Nelson, William. “Why paying interest on reserves is good for lending.” American Banker. June 5, 2017. 
+12English, William B., Christopher J. Erceg, and David Lopez -Salido. “Money -Financed Fiscal Programs: A 
+Cautionary Tale.” Forthcoming – p. 3. 
+13 English, Erceg, Lopez-Salido (Forthcoming) – p. 26. 
+14 English, Erceg, Lopez-Salido (2017) – pp. 12-13. 
+5
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 8 ---
+monetization.15 But a central bank really is not monetizing if it finances its purchases through 
+(interest-bearing) reserve creation and if it does not intend to raise the price level. By our 
+definition, recent attempts to flood financial markets with liquidity via the purchase of 
+government bonds (among other  instruments) are not monetization. Nor are the Federal 
+Reserve’s purchases of large amounts of Treasury debt as part of its quantitative easing (QE) 
+programs during both the Global Financial Crisis (GFC) and the COVID-19 crisis.16  
+One of the biggest challenges in determining whether monetization has actually occurred is 
+that it is not immed iately clear whether debt purchases by the central bank satisfy the 
+requirements that we have outlined above : rolling the debt over indefinitely, and 
+temporarily committing to a higher price level . The Bank of Japan (BOJ), for instance, has 
+continually purchased Japanese securities proportionate to the amount of the fiscal deficit 
+over the past 25 years but has never explicitly stated that monetization is its intent. 17 The 
+size of its balance sheet has only increased and it has made no major efforts to sell  its bond 
+holdings. However, the BOJ financed these purchases through reserve creation; it has been 
+unable to generate consistent inflation and spur demand for its domestic currency stock. 18 
+The BOJ in 2016 did say that it would be aiming to overshoot its inflation target while keeping 
+the rates on government debt close to zero, an important step in a seigniorage -based 
+monetization framework. 19 Nonetheless, it has still undershot this target and has been 
+unable to generate the seigniorage needed to pay for fiscal actions.20  
+a. Why has monetization not been more widely used? 
+The primary concern about engaging in monetization is the fear that it will lead to excessive 
+and uncontrollable inflation. Since monetization is, by definition, a permanent increase in 
+non-interest-bearing liabilities of the central bank (in this case, currency), the policy should 
+be expected to lead to some inflation. However, this increase is intended and necessary in 
+order to generate enough seigniorage to finance the fisc al program. The increased inflation 
+generated is not inherently a bad thing if it is moderate, temporary, and communicated 
+clearly by the central bank. Uncontrolled monetization can cause currency crises in fixed -
+exchange-rate regimes and lead to excessive  inflation. These crises can be exacerbated in 
+less-developed countries with a substantial amount of foreign -currency-denominated debt, 
+ 
+15 Cheng, Jeffrey, Dave Skidmore, and David Wessel. “What’s the Fed doing in response to the COVID -19 crisis? 
+What more could it do?” Brookings Institution – Hutchins Center on Fiscal and Monetary Policy. July 17, 2020. 
+16 “Recent balance sheet trends.” Federal Reserve Board of Governors, last updated November 30, 2020. 
+17 Turner, Adair. “Monetary Finance is here.” Project Syndicate. April 20, 2020. 
+18 “Bank of Japan Accounts.” The Bank of Japan, last updated December 2, 2020. 
+19 Kihara, Keika , and Stanley White. “BOJ overhauls policy focus, sets target for government bond yields.” 
+Reuters. September 21, 2016. 
+20 “Inflation, consumer prices for Japan.” Federal Reserve Bank of St. Louis – Federal Reserve Economic Data 
+(FRED), last updated December 2, 2020. 
+6
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 9 ---
+as the increase in domestic currency puts pressure on the exchange rate, weakening the 
+domestic currency and increasing the cost of servicing their debt.  
+A central bank in a fixed -exchange-rate regime under this sort of pressure may find that 
+conventional methods of defending its currency (by raising interest rates, for instance) 
+would create unacceptable economic costs at home. The central bank would have to choose 
+between providing relief at the risk of breaking the peg, or defending the peg and allowing 
+the economy to stagnate. “ First-generation” currency crisis models address this very issue. 
+These models outline a hypo thetical country that runs persistent budget deficits while 
+maintaining a fixed exchange rate. Eventually the government need s to monetize its deficit, 
+putting downward pressure on the exchange rate, and the model predicts that the peg will 
+break.21 Currency crises in Mexico and Turkey in the 1990s followed this model. 
+This phenomenon can also occur if there is widespread circulation and usage of other 
+currencies, as people will flock to these if the domestic currency is under pressure. The risk 
+of excessiv e inflation reflects the degree of monetization and the characteristics of the 
+economy doing it.  
+Governments that have access to the printing press as a form of financing may also exercise 
+far less fiscal discipline than otherwise. Issuing debt without th e expectation of repayment 
+could lead governments to spend excessively and overheat the economy.  
+This concern underscores the importance of central bank independence. Adopting 
+monetization as a regular part of a central bank ’s toolkit, or even setting a precedent that it 
+is available, could gradually erode the barriers between monetary and fiscal policy, 
+damaging the central bank’s credibility and limiting its ability to fulfill its mandate. Central 
+bank credibility is a nebul ous concept, yet it is absolutely critical when thinking about the 
+impact that monetization can have. There appears to be a general relationship between 
+economic development and central bank credibility, but there are a variety of factors that 
+can affect i t. The erosion of credibility could unhinge inflation expectations. A fiscally 
+irresponsible government ultimately puts any central bank in an impossible situation. If it 
+does not monetize the deficits, interest rates on government debt will rise, which co uld 
+increase the probability of default. Eventually, the central bank will have little choice but to 
+monetize. This phenomenon—when a central bank is forced to monetize an unsustainable, 
+out-of-control deficit to avoid negative economic outcomes—is known as fiscal dominance.22 
+Thus, long-run fiscal sustainability is key in ensuring that central banks are able to fulfill 
+ 
+21 Glick, Reuven, and Michael Hutchison. “Currency Crises.” Federal Reserve Bank of San Francisco . September 
+2011. 
+22 Mishkin, Frederic S. “Central Banking After the Crisis.” Columbia University Graduate School of Business and 
+National Bureau of Economic Research. November 2012 – pp. 34-37. 
+7
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 10 ---
+their price-stability mandates and remain credible. The lack of fiscal discipline ultimately 
+affects the independence of the central bank. 
+There are other issues. Monetization can circumvent the market -pricing mechanism in 
+secondary markets by allowing the government to issue debt at lower interest rates. The Fed 
+expressed this concern back in 1917, when the U.S. Treasury offered it $50 million in bonds 
+at far below-market rates. The cheap credit for the government can also lead to moral-hazard 
+concerns, if the central bank commits to low interest rates along the yield curve. Excessive 
+spending could also lead to crowding out  of private borrow ers, though this may not be an 
+issue if the central bank doesn’t allow interest rates to rise. These are some reasons why 
+monetization has been generally characterized as a last-resort authority.23  
+2. How has monetization been used historically?  
+Governments have used monetization most often in the past as a mechanism for war 
+financing. Wars are typically financed through some combination of taxation, debt financing, 
+external financing, and monetization. Monetization is typically the easiest option, provided 
+that central bankers are willing to cooperate. During wartime, it generally is not a politically 
+sensitive policy and can be operationalized quickly. To finance huge wartime production 
+needs via monetization, governments issue bonds that are then purchased  directly by the 
+central bank. The question of central bank independence does not have to arise in this case, 
+since the incentives of the central bank and government are aligned. 
+Below are discussions of different countries’ experiences  with monetization, successful or 
+not. In some cases, such as the Weimar Republic or Zimbabwe, the decision to monetize 
+resulted in rampant hyperinflation. In others, like Japan during the Great Depression  or 
+France after World War I, monetization proved more effective.  
+a. The United States 
+In the U.S., Section 14 of the original Federal Reserve Act allowed the Fed to directly purchase 
+government bonds. The earliest use of this authority was in 1917 during World War I, when 
+Treasury Secretary William McAdoo offered $50 milli on in three-month notes to Federal 
+Reserve banks.24 The Board of Governors was not happy, as the interest rates were below 
+market rates, but ultimately acquiesced. 25 After World War I, the government continued to 
+use this authority, albeit only for cash-management purposes, until Congress prohibited it in 
+1935. At the time, some policymakers expressed concerns about chronic deficits, the erosion 
+ 
+23 Bernanke, “Helicopter money.”  
+24 Garbade, Kenneth D. “Direct Purchases of U.S. Treasury Securities by Federal Reserve Banks.” Federal Reserve 
+Bank of New York. August 2014 – p. 2. 
+25 Garbade, “Direct Purchases.” – p. 3. 
+8
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 11 ---
+of fiscal discipline, and ballooning Federal Reserve balance sheets. Treasury questioned 
+Congress’s decision, arguing that the Fed’s ability to make direct purchases could be crucial 
+in times of crisis. 26 Congress eventually accepted this argument . I n 1942 , it inserted a 
+wartime exception that allowed the Fed to underwrite Treasury debt. But the exception was 
+subject to a $5 billion limit.27 It was really just an overdraft privilege for the U.S. government 
+to use when it was cash -poor, most notably around tax -collection dates.  This exception, as 
+well as other overdraft facilities, do not constitute monetization based on our definition. 
+Of the major wars that the U.S. participated in after World War I —that is, after the Fed 
+became a truly independent central bank —it financed World War II only in part through 
+monetization, based on our definition. 28 The Fed used the exception to help facilitate 
+Treasury cash balances on tax collection dates during the war. 29 Because of the exception’s 
+limited size, however, the U.S. relied  primarily on borrowing, and its debt ballooned from 
+$51 billion in 1940 to over $260 billion in 1945.30  
+In doing so, the Fed committed to pegging interest rates at low levels and offered an even 
+lower preferential rate for loans secured by short-term government obligations.31 The Fed’s 
+balance sheet grew massively in its effort to keep rates low; its holdings of government 
+securities rose from $2.5 billion at the end of 1939 to $24.3 billion at the end of 1945. 
+Wartime price controls and rationing temporarily mitigated the inflationary effects, but their 
+removal after the war caused a surge in the price level, which prompted the Fed to increase 
+reserve requirements.32 After World War II, the Fed used th e wartime exception sparingly 
+until it was allowed to expire in 1981. 
+The Korean War was financed entirely through taxation, due to high post -World War II 
+inflation and broad public support. 33 Nonetheless, high inflation in 1951 forced the 
+reintroduction of wage and price controls.34  
+Although the Fed did not monetize wartime debt during the Korean War, its independence 
+was tested because it continued to maintain its low interest -rate peg. The Fed attempted to 
+raise rates throughout 1950, believing the peg to be inflationary, but was blocked by the 
+ 
+26 Garbade, “Direct Purchases.” – p. 5. 
+27 Garbade, “Direct Purchases.” – pp. 9-10. 
+28 Labonte, Marc, and Mindy Levit. “Financing Issues and Economic Effects of American Wars.” Congressional 
+Research Service. July 29, 2008 – p. 3. 
+29 Labonte and Levit, “American Wars.” – p. 10. 
+30 See “Historical Debt Outstanding.” Treasurydirect.gov, l ast updated October 2, 2020;  “Historical Debt 
+Outstanding – Annual 1900–1949.” Treasurydirect.gov, last updated May 5, 2013. 
+31 Richardson, Gary. “Federal Reserve’s Role during WWII.” Federal Reserve History. November 22, 2013.  
+32 English, Erceg, Lopez-Salido (2017) – p. 25. 
+33 Cappella, Rosella. “The Political Economy of War Finance.” (PhD diss., University of Pennsylvania, 2012. 
+34 Labonte and Levit, “American Wars.” – p. 8. 
+9
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 12 ---
+Treasury to keep the government’s  debt-service costs manageable. 35 After a meeting 
+between the Fed Chair and President Truman in early 1951, the President committed the 
+Fed, without its consent, to maintaining the peg during the Korean War, just as it had done 
+during the two world wars. This conflict between the mandate of the Fed and needs of the 
+Treasury ultimately resulted in the Treasury-Fed Accord, which stated that the Treasury and 
+Fed remained committed to financing the government’s needs while minimizing outright Fed 
+purchases of the debt.36 
+b. Germany, Austria, and Poland after World War I 
+Governments have been known to continue financing their deficits through monetization 
+even after a war has ended. After World War I, such policies led to out -of-control hyper -
+inflation, with prices rising by factors of two or more per month, in Weimar Germany (1923), 
+Austria (1922), and Poland (1924-27).  
+In the case of Germany, a reduced tax base, increased debt service, unrealistic reparation 
+demands from the victors, and the erosion of the value of tax revenues through inflation 
+created huge budget defic its. The central bank first attempted to solve this by fixing the 
+exchange rate to slow inflation, which worked while the Reichsbank had sufficient reserves 
+to support it. Ultimately, though, the central bank could not defend the peg and abandoned 
+it, which necessitated further reform. The German government passed legislation in October 
+1923 that created a new currency. Under the legislation, the central bank could no longer 
+purchase government debt. The government also raised taxes and reduced outlays. 37 The 
+new currency, the Retenmark, had a limited issuance and was backed by claims on industry 
+and agriculture. One of the most important uses of the new currency was a “once and for all 
+allocation” to the government to help it retire its existing debt while it passed fiscal 
+reforms.38 The central bank quickly got inflation and the exchange rate under control by 
+pushing interest rates to extremely high levels, as high as 20% per day in December 1923. In 
+1924, a substantial reduction in reparations expectations  and a large loan from the U.S. 
+helped restore the fiscal and monetary balance. 
+Similarly, during and after the first world war, Austria increasingly funded its deficits via the 
+printing press, which led to massive inflation and depreciation. Currency in circulation rose 
+by nearly 1000% from the beginning to the end of the war. 39 The postwar government 
+imposed artificially low price controls on agricultural products and enacted massive food 
+ 
+35 Hetzel, Robert L., and Ralph F. Leach. “The Treasury-Fed Accord: A New Narrative Account.” Federal Reserve 
+Bank of Richmond Economic Quarterly Vol. 87/1 Winter (2001): 33-55. Accessed December 3, 2020 – p. 114. 
+36 Romero, Jesse. “Treasury-Fed Accord.” Federal Reserve History. November 22, 2013. 
+37 Dornbusch, Rudiger, and Stanley Fischer. “Stopping Hyperinflations Past and Present.” National Bureau of 
+Economic Research. January 1986 – pp. 8-16. 
+38 Dornbusch and Fischer, “Hyperinflations Past and Present.” – p. 11. 
+39 Ebeling, Richard M. “The Great Austrian Inflation.” Foundation for Economic Education. April 1, 2006. 
+10
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 13 ---
+subsidies. Excessive inflation turned into hyperinflation in 1921 a nd continued into 1922. 
+Inflation in the third quarter of 1922 was at an annual rate of 130,000%. 40 To stabilize, the 
+government received a large foreign loan and was required to bring its budget back in line.  
+It took the Polish government three separate attempts to stabilize its economy from 
+hyperinflation. Military conflict continued in Poland even a fter the end of World War I, and 
+the government committed over 50 percent of its budgetary resources to defense 
+spending.41 Due to a small tax base, most of these expenses were financed through the 
+printing of Polish marks. As was the case in Germany and Austria, currency in circulation 
+increased quickly, and depreciation followed. The government introduced austerity 
+measures, which prompted a modest appreciation of the mark, but it did not stick to them 
+and the inflation worsened. It then raised taxes, “valorizing” them, or indexing them to gold, 
+and issuing a new currency that was pegged to the dollar. Initially these measures appeared 
+to work. But budgetary and economic issues forced the central bank to defend the peg, and 
+it ultimately broke. The money supply kept growing because the Treasury continued to issue 
+small notes and mint coins, although the central bank was actively removing notes to defend 
+the currency. Stabilization was finally achieved via a large U.S. and British loan and 
+regulatory reforms that prevented the government from issuing treasury notes.  
+Each of these countries had extremely high postwar deficits th at were almost entirely 
+monetized and significant real  economic and political turmoil that was worsened by other 
+forces: punitive reparations (Germany), governmental instability and incompetence 
+(Austria), or generally poor fiscal discipline (Poland). The Reichsbank in Germany purchased 
+any and all of the government debt that the private sector did not want, providing the 
+government a seemingly bottomless well of financing.42 The National Bank of Austria had the 
+authority to provide credit to the state, and did so out of “fear for upheaval, social chaos, and 
+anarchy.”43 During World War I, occupying German forces created the Polish National Credit 
+Bank that functioned as a temporary bank of issue until the Bank of Poland was established. 
+It financed sky-high war expenditures using the printing press and continued to do so after 
+the war due to a lack of fiscal capacity.44 The degree of separation between central banks and 
+finance ministries that is commonplace today simply did not exist. The central banks or 
+ 
+40 Dornbusch and Fischer, “Hyperinflations Past and Present.” – p. 18. 
+41 Lopez, Jose A., and Kris James Mitchener. “Uncertainty and Hyperinflation: European Inflation Dynamics after 
+World War I.” Federal Reserve Bank of San Francisco – p. 9. 
+42 Webb, Steven B. “The Supply of Money and Reichsbank Financing of Government and Corporate Debt in 
+Germany, 1919–1923.” The Journal of Economic History , Vol. 44, No.2, (Jun. 1984): 499 –507. Accessed 
+December 3, 2020 – p. 501. 
+43 Beer, Christian, Ernest Gnan , and Maria Teresa Valderrama. “A (not so brief) history of inflation in Austria.” 
+Oesterreichische Nationalbank (OeNB). 2016 – pp. 13-14. 
+44 von Thadden, Goetz Henning. “Inflation in the Reconstruction of Poland, 1918 –1927.” (PhD diss., London 
+School of Economics and Political Science, September 30, 1994 – p. 10. 
+11
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 14 ---
+banks of issue in these countries were largely subordinate to the fiscal authorities, making it 
+impossible for them to establish credibility and manage inflation.  
+In each of these cases, stabilization was achieved through the dramatic reduction of budget 
+deficits, usage or proposal of foreign loans, and exchange-rate pegs. However, solely relying 
+on a strict peg, or even a narrow band of exchange -rate targeting, may not be sufficient to 
+stabilize the economy since a peg may not be sustainable. Fiscal discip line was necessarily 
+enforced and regulatory reforms or legal restrictions limiting governments issuing money 
+were eventually introduced.  
+c. Turkey in the 1990s 
+In the 1990s, Turkey experienced a serious economic crisis that had roots in excessive 
+monetization. Turkey’s economy rapidly expanded throughout the 1980s and early ’90s; 
+meanwhile, the government relied increasingly on monetization to finance huge defici ts.45 
+This lack of fiscal discipline, coupled with huge inflows of “hot” money from foreign investors 
+and repeated financing conflicts with the central bank, eroded confidence and caused  a 
+currency crisis in 1994, and the economy spiraled into recession in  1999. Because of the 
+significant dollarization of the economy, the monetary authority was unable to combat the 
+recession because it had to raise interest rates to ward off downward pressure on the 
+Turkish lira. 46 Ultimately, Turkey received a three-year I MF Standby Arrangement that 
+required the authorities to curb the excessive inflation and reform their institutions and 
+regulations.  
+d. Zimbabwe in the late 2000s 
+Perhaps the most noteworthy and most recent example of monetization -induced 
+hyperinflation is Zimbabwe in the late 2000s. From 1980 to 1999, the country experienced 
+modest growth, but the country’s public debt climb ed as the government spent heavily on 
+bonuses for war veterans, involvements in other conflicts, and debt service to the IMF. The 
+agriculturally focused country also experienced periods of heavy droughts and land 
+reallocation at the turn of the century, depressing output dramatically.47 Instead of financing 
+these costs through taxation or issuing debt, the government —already managing a weak 
+economy—heavily monetized them. By 2008, continuously monetized deficits created a 
+deep currency depreciation that wiped out citizens’ net worth and reduced GDP per capita 
+ 
+45 Celasun, Oya. “The 1994 Currency Crisis in Turkey.” The World Bank, Policy Research Working Papers . 
+November 1999 – pp. 6–16. 
+46 Akat, Asaf Savaş. “The Political Economy of Turkish Inflation.” Journal of International Affairs  Vol. 54, no. 1 
+(2000): 265-282. Accessed December 03, 2020 – pp. 276 - 277. 
+47 Koech, Janet. “Hyperinflation in Zimbabwe.” Federal Reserve Bank of Dallas, Globalization and Monetary Policy 
+Institute 2011 Annual Report. 2011 – pp. 4-5. 
+12
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 15 ---
+below the level it had been 50 years earlier.48 In response, the government introduced harsh 
+price controls, which led to rampant shortages of key goods. The U.S. dollar, which was 
+already one of the de facto currencies in the wake of this crisis, became the primary currency.  
+e. France 
+France’s performance during and after World War I offers a more encouraging example of 
+monetization. It depended heavily on borrowing and money growth to finance its 
+expenditures during the war and saw it s price level more than double. 49 While the 
+government faced considerable challenges—a large debt-to-GDP ratio, huge budget deficits, 
+damage from the war—its economy rebounded significantly.50 This was because the Bank of 
+France eased monetary policy and a llowed the value of the franc to fall significantly before 
+eventually repegging it to gold at a lower level in 1926. This decision increased inflation, 
+which reduced the debt-to-GDP ratio, and also significantly increased output over time.51 On 
+the other hand, the UK, which adopted a much tighter monetary stance and returned to its 
+prewar peg to gold, saw much more sluggish growth.52  
+France, in contrast to Germany, Austria, and Poland, did not exclusively finance its 
+involvement in World War I through monetization. France, as a victor in the war, did not face 
+the same fiscal imbalances that Germany and Austria did. Poland, which was partitioned by 
+Germany, Austro-Hungary, and Russia at the start of the war, faced considerable political and 
+economic turmoil even after the war’s conclusion. 53 The French people may have also seen 
+the Bank of France’s change in monetary policy as credible in the face of its difficult fiscal 
+circumstances.54 Had France attempted to follow the UK’s example of repegging earlier, it is 
+likely that the adverse economic outcomes would have seriously damaged the government’s 
+credibility.55  
+f. Japan during the Great Depression 
+Japan’s performance during the Great Depression offers another encouraging example. 
+Similar to France, its central bank and treasury cooperated in a monetary expansion, 
+allowing it to recover quickly under the “Takahashi economic policy,” named after finan ce 
+minister Korekiyo Takahashi. Japan experienced double -digit deflation in 1930 and 1931, 
+but Takahashi promoted expansionary exchange rate, fiscal, and monetary policies starting 
+ 
+48 Koech, “Hyperinflation in Zimbabwe.” – p. 5. 
+49 Bordo, Michael D., Pierre -Cyrille Hautcoeur. “Why didn’t France follow the British stabilisation after World 
+War I?” European Review of Economic History Vol. 11, no. 1 (2007): 3-37. April 1, 2007 – p. 5. 
+50 Bordo and Hautcoeur, “The French and British stabilization post WWI.” – pp. 6-12. 
+51 English, Erceg, Lopez-Salido (Forthcoming) – pp. 27-28. 
+52 English, Erceg, Lopez-Salido (2017) – p. 24. 
+53 Allen, Erin. “World War I: Restoring Poland.” Library of Congress Blog. January 25, 2017. 
+54 English, Erceg, Lopez-Salido (Forthcoming) – pp. 27-29. 
+55 Bordo and Hautcoeur, “The French and British stabilization post WWI.” – p. 32. 
+13
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 16 ---
+at the end of 1931.56 The country first moved off the gold standard, prompting a substantial 
+devaluation of the yen; eased monetary policy; and introduced massive fiscal stimulus. All of 
+these measures were explicitly financed by the Bank of Japan. Consumer prices rebounded 
+shortly thereafter and GDP per capita began recovering i n 1932. This recovery can be 
+partially attributed to the fact that the Japanese people viewed these policy changes as 
+credible, much in the same way that the French did during their stabilization.57 
+Takahashi, worried about the inflationary consequences of  continuing to finance 
+government expenditures in this way, pushed back against further monetization. 58 He was 
+assassinated during a coup in 1935 due to his decision to cut government —specifically 
+military—spending.59 In the words of former Fed chairman and Great Depression scholar 
+Ben Bernanke, Takahashi had “brilliantly rescued” Japan and allowed it to rebound rapidly 
+from the Depression, even while many other nations were still suffering.60  
+It is important to note that, in all of these examples, monetization was the primary, often the 
+only, tool to finance profligate spending —for wars or otherwise. The governments in our 
+modern examples—Turkey and Zimbabwe—followed similar paths. Turkey financed rapid 
+economic expansion via monetization and saw large foreign capital inflows, leading to an 
+increased debt burden, further monetization, and less confidence, which culminated in a 
+currency crisis. The government of Zimbabwe faced a mixture of problems with key sectors 
+(agriculture), spent frivolously, and chose to not rely on conventional methods of financing. 
+While external factors, such as crushing war reparation burdens in the case of Weimar 
+Germany or a turbulent period of interwar occupation, in the case of Poland, con tributed to 
+postwar economic hardship, the consistent lack of fiscal discipline and the partial or 
+complete subordination of the central bank to the government across all the examples were 
+the catalysts to extremely damaging economic crises.  
+In contrast, the French and Japanese experiences offer more hopeful lessons. They did not 
+have to rely exclusively on the printing press to finance expansionary monetary and fiscal 
+policy; they had stronger, more credible central banks; and they attempted to curtail 
+excessive spending and depreciation after they were on the road to recovery. France 
+repegged to gold at a lower level , and Takahashi ’s  bold decision to move off the gold 
+ 
+56 Shibamoto, Masahiko, and Masato Shizume. “How did Takahashi Korekiyo Rescue Japan from the Great 
+Depression?” Kobe University Research Institute for Economics and Business Administration, Bank o f Japan 
+Institute for Monetary and Economic Studies. August 1, 2011 – pp. 1-4. 
+57 English, Erceg, Lopez-Salido (Forthcoming) – p. 29. 
+58 See Nanto, Dick K., and Shinji Takagi. “Korekiyo Takahashi and Japan’s Recovery from the Great Depression.” 
+The American Economic Review, Vol. 75, no. 2 (1985): 369 -374. Accessed December 03, 2020, p. 373; Myong 
+Soo Cha. “Did Takahashi Korekiyo Rescue Japan from the Great Depression?” The Journal of Economic History  
+Vol. 63, no. 1 (2003): 127-144. Accessed December 03, 2020, p. 130. 
+59 Kingston, Jeff. “1936 coup failed, but rebels killed Japan’s ‘Keynes. ’” The Japan Times. February 20, 2016. 
+60 Bernanke, Ben S. “Some Thoughts on Monetary Policy in Japan.” Federal Reserve Board – Before the Japan 
+Society of Monetary Economics. May 31, 2003. 
+14
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 17 ---
+standard and promote expansionary monetary and fiscal policies allowed Japan to rebound  
+from the initial shock of the Great Depression very strongly.   
+g. Is there a difference between war financing and pandemic financing? 
+Much of the criticism of monetization centers on the fear that, if it is extended, it will prevent 
+the central bank from fulfilling its price-stability mandate—through excessive inflation, loss 
+of independence, or some combination of the two. However, some forget that this type of 
+monetary-fiscal cooperation is often seen in times of war.  
+Wars typically entail dramatic but temporary increases in government spending and 
+borrowing to adequately address the conflict. In the case of World War II, for instance, the 
+United States ran budget deficits in excess  of 27 percent of GDP. 61 The Federal Reserve 
+relinquished some of its independence to cooperate with the U.S. government during both 
+world wars, but it was able to return to its mandate and retain independence once they 
+ended.62 
+Something to consider is th at, historically, pandemics and wars have impacted economies 
+very differently. The real “natural” rate of interest in the decades following a major pandemic 
+is 1.5 percentage points lower about 20 years later. 63 Pandemics, which often result in 
+massive losses of life, and thus, labor, rebalance the relative returns to labor and capital. 
+Wars, on the other hand, cause the destruction of both capital and labor. The added 
+destruction of capital during a war causes the natural rate of interest to rise —the opposite 
+effect as a pandemic —over the same amount of time. 64 While these differences exist, 
+academics have suggested that the potential decline in real interest rates from COVID -19 
+may not be as severe as during wartime. The deaths from COVID-19 have made up a smaller 
+proportion of the total population and those that have lost their lives are generally older, and 
+thus not in the labor force. Also, aggressive fiscal policies, which lead to higher debt burdens, 
+can put upward pressure on interest rates. 65 Monetization of these programs, however, 
+would depress the real interest rate for a time. We do not yet know the full extent of the 
+damage that will be caused by COVID-19, so the potential stagnation described above could 
+still be a concern. 
+ 
+61 Fishback, Price. “World War II in America: Spending, deficits, multipliers, and sacrifice.” VoxEU. November 
+12, 2019. 
+62 Davies, Phil. “Federal Reserve’s Role during WWI.” Federal Reserve History. November 22, 2013; Richardson, 
+“Federal Reserve’s Role during WWII.”  
+63 Jordà, Òscar, Sanjay R. Singh, Alan M. Taylor. “Longer -run Economic Consequences of Pandemics.” Federal 
+Reserve Bank of San Francisco. June 2020 – pp. 6 – 7. 
+64 Jordà, Singh, Taylor, “Consequences of Pandemics” – pp. 9 – 10. 
+65 Jordà, Òscar, Sanjay R. Singh, Alan M. Taylor. “The Long Economic Hangover of Pandemics.” International 
+Monetary Fund. June 2020 – p. 15. 
+15
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 18 ---
+Wars often necessitate more monetary-fiscal cooperation than what convention suggests is 
+wise, but it’s helpful to have the central bank backing the government to ensure it has 
+everything it needs to address the conflict. The sharp but temporary increase in deficit 
+spending d uring a war mirrors what countries are doing currently to combat COVID -19. 
+While monetization could produce some negative impacts, the similarities between the 
+COVID-19 crisis and wartimes, from a public financing standpoint, are strikingly similar.  
+3. Were central banks monetizing government debt in 2020? 
+Based on our definition, it does not seem  that any country conducted monetization in the 
+initial response to COVID -19. Many central banks, including several in emerging markets, 
+established or reinstated asset purchases and QE programs in 2020; and debt levels only 
+rose, precipitously in some developing countries.66 Based on our research, though, no central 
+bank has explicitly labeled its programs as monetization. On the contrary, several have taken 
+measures to make clear that monetization is not part of their strategy.  
+a. Philippines 
+The Banko Sentral Ng Pilipinas (BSP) in the Philippines  purchased abou t $6 billion in 
+securities from the government in March, but with the understanding that the government 
+would repurchase the securities  after six months. 67 The government repaid the BSP at the 
+end of September. 68 This explicit exit target, as well as the absence of a commitment to 
+increase the price level, suggests that the central bank, while cooperating with the fiscal 
+authority, did not intend to monetize this spending.  
+b. Indonesia 
+In Indonesia, government debt t ripled in the fight against COVID -19. The government first 
+issued a regulation that allowed Bank Indonesia (BI) to directly purchase newly issued 
+government debt as a last resort. 69 It later proposed auctioning off about $30 billion in 
+“pandemic bonds,” most of which BI would purchase.70 But the government never issued the 
+ 
+66 Sindreu, Jon. “Emerging Markets and Printing Money.” 
+67 Bangko Sentral ng Pilipinas. “Additional Php 300 billion support.” 
+68 “National Government Debt Recorded at P9,369 Billion as of end -September 2020.” Republic of the 
+Philippines, Bureau of the Treasury. October 29, 2020.  
+69 Molina, Kristo, and Ibnu Fajar Ramadhan. “COVID -19 Response of the Indonesian Gove rnment on Funding 
+and Financial Support Measures.” JDSupra. May 16, 2020. 
+70 Akhlas, Adrian Wail, and Esther Samboh. “Explainer: Indonesia to finance coronavirus battle mostly through 
+debt.” The Jakarta Post. April 13, 2020. 
+16
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 19 ---
+pandemic bonds, saying it could obtain financing through traditional auctions.71 BI could still 
+participate in other auctions if needed. Foreign demand for Indonesian debt fell, but 
+domestic lenders and banks, supported by BI’s liquidity measures, increased their holdings. 
+The finance minister predicted on June 8 that the budget deficit would rise as high as 6.34 
+percent of GDP this year. 72 According to its finance minister, the country’s deficit through 
+October was estimated at about 4.67 percent of GDP.73 Later, the government and BI agreed 
+to a proposal under which BI would purchase about $40 billion in government bonds; the 
+interest rate would be at market levels, rather than zero as originally proposed.74 It appeared 
+likely that BI would hold on to these bonds through 2021. 75 It appeared doubtful that BI 
+would monetize this  debt, though, as BI did not issue guidance signaling that it was 
+committing to a higher price level following these purchases. 
+c. China 
+There was also some discussion about monetization in China. 76 The People’s Bank of China 
+(PBOC) is not permitted by law to directly buy sovereign debt or provide an overdraft facility 
+to the government. However, the country still had significant monetary and fiscal space that 
+it could use to enact other forms of relief without monetizing those costs.  
+d. India 
+India kept the door to monetization open, but it ha d not yet acted at the end of 2020.77 Like 
+many central banks, the Reserve Bank of India (RBI) actively purchased government bonds. 
+However, it only did so in secondary markets and for limited amounts, as direct purchase s 
+were outlawed in 2003.78 In the early days after India’s independence, its government could 
+achieve monetization automatically by issuing ad -hoc treasury bills “on-tap” directly to the 
+RBI. A series of reforms in the 1980s and 1990s set some limits on this explicit form of fiscal 
+ 
+71 Akhlas, Adrian Wail. “Government scraps plan of issuing $30 billion worth of ‘pandemic bonds.’” The Jakarta 
+Post. May 8, 2020. 
+72 Akhlas, Adrian Wail. “Indonesia’s COVID -19 budget swells but still not enough, observers say.” The Jakarta 
+Post. June 8, 2020. 
+73 “Economic Acceleration Against Contraction.” Ministry of Finance of the Republic of Indonesia. November 23, 
+2020.  
+74 See Moss, Daniel. “Can an Emerging Market Become a Policy Pioneer?” Bloomberg. July 10, 2020;  
+Rahadiana, Rieka, and Grace Sihombing. “Why Bank Indonesia Will Fund $40 Billion of Government’s Budget.” 
+Bloomberg. June 30, 2020. 
+75 Diela, Tabita, and Fransiska Nangoy. “Indonesia unveils $40 billion bond scheme to fund recovery from 
+pandemic.” Reuters. July 6, 2020. 
+76 “China Debates Monetisation of Deficit to Deal with COVID-19’s Economic Impacts.” China Banking News. May 
+15, 2020. 
+77 Iyer, P Vaidyanathan, and Sunny Verma. “FM Nirmala Sitharaman interview: ‘Thought about it (bigger cash 
+transfers), but grant for how many, of how much?’” The Indian Express. May 20, 2020. 
+78 Nag, Anirban. “RBI doubling its bond purchases suggests no plans to monetise debt.” ThePrint. October 20, 
+2020; Act No. 39 of 2003. “The Fiscal Responsibility and Budget Management Act, 2003.” Government of India, 
+Ministry of Finance, Department of Economic Affairs. August 26, 2003. 
+17
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 20 ---
+dominance. The government adopted a market -based pricing system for auctions of 
+sovereign debt, phased out the usage of ad -hoc treasury bills, and completely outlawed 
+primary market purchases of debt by the RBI. 79 Some direct gov ernment finance occurred 
+during the GFC through the use of Special Market Operations (SMOs), which allowed certain 
+public companies (namely those in the oil sector) to sell bonds directly to the RBI to meet 
+foreign exchange requirements. These were used sparingly, however.  
+A former RBI governor said in April  2020, that monetization was “inevitable” as the 
+pandemic and calls for further stimulus continued.80 The country’s healthcare infrastructure 
+was strained. Many in the government were concerned about th e potential for excessive 
+inflation and the return of fiscal dominance.81 An escape clause in the law allowed the central 
+bank to purchase government debt during times of crisis. This would allow the government 
+to borrow from the RBI for temporary, cash-management needs and for the RBI to purchase 
+government debt on primary markets during periods of significant economic stress, national 
+emergency, or war.82 
+e. The United Kingdom 
+The Bank of England (BoE) expanded the scope of its standing overdraft facility, called the 
+Ways and Means facility, for COVID -19-related expenditures. 83 Historically, the facility has 
+been used for cash -management purposes, similar to the wartime exception in the U.S. 
+during the world wars. It was drawn on  for nearly £20 billion in 2008 during the Global 
+Financial Crisis.84 The BoE justified this decision by stating that the facility was necessary to 
+support the economy and meet its inflation target and that doing so did not subordinate the 
+BoE to the government. A member of its monetary policy committee noted that this freedom 
+of action is what separates the BoE’s use of the overdraft facility  today from historical 
+monetary disasters in the Weimar Republic or Zimbabwe. 85 Despite the government 
+ramping up debt issuance to finance COVID-19 relief, the central bank did not use this facility 
+in 2020.  
+ 
+79 Reserve Bank of India, “Fiscal-Monetary Co-ordination.”  
+80 Dugal, Ira. “Monetisation of Government Deficit May be Inevitable Amid Coronavirus Disruption: C 
+Rangarajan.” Bloomberg Quint. April 1, 2020. 
+81 Subbarao, Duvvuri. “What is the problem that monetisation is trying to solve?” The Indian Express.  May 28, 
+2020. 
+82 “Fiscal Responsibility and Budget Management Act” – pp. 5-6 
+83 Bank of England. “Ways and Means extension.”  
+84 “Ways and Means Advances.” Bank of England. 
+85 Vlieghe, Gertjan. “Monetary policy and the Bank of England’s balance sheet.” Bank of England. April 23, 2020 
+– p. 14 
+18
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 21 ---
+The BoE’s Asset Purchase Facility dramatically increased its purchases of government debt 
+in 2020 as HM Treasury continues to issue more debt.86 Despite this, BoE governor Andrew 
+Bailey repeatedly stated that governments should not become reliant on centra l banks 
+buying their debt through extensive asset-purchase programs. He said these programs have 
+more in common with QE programs —they are crisis -focused and temporary by design. 
+Additionally, he stated that the BoE would be looking to reduce its balance sh eet before 
+raising interest rates. 87 This is a departure from previous thinking. Bailey ’s predecessor, 
+Mark Carney, argued for just the opposite after the GFC. 88 The BoE under Carney viewed 
+interest rates as a more easily adjustable policy tool.89 Bailey, however, said he did not wish 
+huge central bank holdings of government bonds to become the norm.90 
+f. Summary of COVID case studies 
+None of these recent examples meet our definition of monetization, although many 
+observers have used the word to describe them. 91 We have yet to find an example of any 
+monetary authority that is explicitly engaging in monetization. 92 Many central banks are 
+purchasing government debt, including through QE programs, alongside large fiscal 
+expansions. Those are aggressive, even unprecedented crisis-fighting measures. But they are 
+not monetization. In none of these cases is the central bank using non -interest-bearing 
+liabilities (cash), and, by extension, seigniorage, to finance the purchase of government debt. 
+The Federal Reserve is the only central bank that has made any sort of commitment to be 
+more accommodative of inflation and to moderately, but temporarily , exceed its inflation 
+target.93 However, the U.S. Congress did not pass any new fiscal relief in the months after the 
+Fed made that announcement. 
+On the other hand,  even though the Bank of England aggressively purchased newly issued 
+government debt, it stated that  it remained confident that it would be able to continue to 
+fulfill its mandate while increasing its in volvement in the government bond market. 94 The 
+ 
+86 “Consolidated Market Notice: Asset Purchase Facility: Gilt Purchases – Market Notice 15 May 2020.” Bank of 
+England. May 15, 2020; “Asset Purchase Facility: Gilt Purchases – Market Notice 18 June 2020.” Bank of England. 
+June 18, 2020. 
+87 Bailey, Andrew. “Central Bank Reserves Can’t be Taken for Granted.” Bloomberg. June 22, 2020. 
+88 Inman, Phillip. “Mark Carney stands by forward guidance policy.” The Guardian. December 17, 2013. 
+89 Milliken, David. “Bank of England’s Bailey says QE bond sales should precede rate rises.” Reuters. June 22, 
+2020. 
+90 Bailey, “Central Bank Reserves.” 
+91 Moss, “Emerging Markets as Policy Pioneers?” 
+92 “Annual Economic Report – June 2020.” Bank for International Settlements (BIS). June 2020 – p. 63 
+93 Powell, Jerome H. “New Economic Challenges and the Fed’s Monetary Policy Review.” Federal Reserve Board 
+of Governors. August 27, 2020. 
+94 Vlieghe, “Monetary Policy and the BoE’s balance sheet.” 
+19
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 22 ---
+BoE did not coordinate with the fiscal authorities by issuing forward guidance to raise its 
+inflation targets, suggesting that it was not monetizing.  
+4. Do central banks have the scope to monetize their debt? 
+If central banks wanted to monetize their debt to support their COVID -19 responses, would 
+they be able to? 
+Based on our analysis, a country’s capacity for “safe” monetization depends on its level of 
+economic development, the central bank’s credibility, and  the current economic 
+environment. However, there is no clear tipping point where the inflationary and governance 
+issues discussed above suddenly converge. Countries that have persistently low inflation, 
+credible central banks, and strong economic fundamentals could potentially monetize some 
+of their COVID -19 spending without excessive inflation or a loss of central bank 
+independence. These countries generally have undershot their inflation targets and have 
+central banks that are well equipped  to handle cha nges in the price level. A country like 
+Japan, which has struggled more than any other country to generate enough inflation to hit 
+its target, might actually find it difficult to convince the public of its commitment to a higher 
+price level. 
+Traditional debt financing, particularly for countries that already have high levels of debt, 
+could still be an issue, with investors potentially questioning a sovereign’s ability to fulfill its 
+obligations and influencing expected future default probabili ties. Deficits rose rapidly in 
+2020, raising questions about which nations would be able to reliably pay back what they 
+owe. This has created a difficult situation for countries that did not have a large amount of 
+fiscal space and were struggling to obtain  external financing or issue debt. These countries 
+do not have the same capacity for “conventional” (in other words, tax -based or debt-based) 
+financing, and so i t may have been tempting for them to monetize and do so for longer. 
+However, their risks were also much greater. Poorly managed monetization could lead to a 
+de-anchoring of inflation expectations, a loss of central bank credibility, and the inability for 
+the central bank to be able to fight the excessive inflation . Central banks in these countri es 
+may also be more susceptible to governmental influence and fiscal dominance.  
+Tables 1 and 2 below break down these concerns. Table 1 charts the capacity that various 
+types of countries ha d to engage in “conventional”  tax or debt -based) financing. Table  2 
+charts countries ’ varying capacity to conduct monetization. It is clear from this rough 
+analysis that financing capacity was quite disparate across countries. Countries that could 
+potentially benefit the most from monetization due to a lack of conventio nal financing 
+capacity could also be most susceptible to its risks. 
+  
+20
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 23 ---
+Table 1: Characteristics of conventional financing capacity 
+Level of 
+Economic 
+Development 
+Central 
+Bank 
+Credibility 
+Fiscal 
+Capacity 
+Borrowing 
+capacity 
+Reliance 
+on 
+external 
+finance 
+Overall 
+“conventional” 
+financing 
+capacity 
+High income High High High Generally 
+low 
+High 
+Medium 
+income / 
+emerging 
+market 
+Mixed Mixed or 
+low 
+Mixed, 
+cyclical 
+Mixed or 
+high 
+Mixed 
+Low income / 
+developing 
+economy 
+Generally 
+low 
+Low Low, cyclical Generally 
+High 
+Generally low 
+Source: Authors’ analysis. 
+ 
+Table 2: Characteristics of monetization capacity 
+Level of 
+Economic 
+Development 
+Risk of 
+fiscal 
+dominance 
+Risk of 
+excessive 
+inflation 
+Procyclicality 
+of capital 
+flows 
+Currency 
+strength 
+Overall 
+monetization 
+capacity 
+High income Low Low Low High High 
+Medium 
+income / 
+emerging 
+market 
+Mixed Mixed or 
+low 
+Mixed or high Mixed, 
+cyclical 
+Mixed or low 
+Low income / 
+developing 
+economy 
+High High High Generally 
+low 
+Low 
+Source: Authors’ analysis. 
+21
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 24 ---
+Despite these risks, some have argued that developing countries still may be able to monetize 
+a portion of their debts, provided they have a flexible exchange -rate regime and are issuing 
+debt mostly in their local currency.95 Foreign ownership of local-currency government bonds 
+in many countries has steadily increased. Investors usually have U.S. dollar-based liabilities, 
+which increases the risk of a fire sale of local government debt. However, their central banks 
+are positioned to function as purchasers of last resort if this occurs.  
+Operationalizing monetization requires some additional thought. Using reserve creation for 
+monetization assumes a world in which there is no interest paid on reserves, which is not 
+the world we live in. The aid extended by a fiscal program will inevitably end up in the 
+banking system, which will increase the amount of bank reserves at the central bank. In times 
+of stress, banks are reluctant to lend, so they are likely to keep these excess reserv es at the 
+central bank and earn interest on them. 96 The central bank, by paying for the program 
+initially using reserves, has simply substituted interest payments that the government would 
+pay on debt for interest paid on reserves.  
+Central banks could opt to pay very low, or even zero interest on the bank reserves created 
+in this way, which would discourage banks from parking their cash, encourage lending, and 
+ensure that the exercise is costless to both the central bank and the government. 97 Another 
+method involves the central bank levying an adjustable charge on banks —one on total 
+liabilities, for instance —that would be sufficient to offset the interest paid on reserves. 98 
+This, however, amounts to a tax on the banking system and has its own issues. Conce rns 
+about fiscal dominance and central bank independence could potentially be alleviated if the 
+government had a permanent account at the central bank that would be filled only when the 
+central bank deemed monetary financing appropriate.99  
+As for the problem of interest on reserves, a longer-run solution for central banks would be 
+for them to gradually reduce their reserves and return to an environment where they no 
+longer pay interest on them. However, this would be exceptionally time -consuming and 
+require major central banks to coordinate amongst one another about how to unwind their 
+balance sheets. Given these limitations, it would be much more effective to finance a fiscal 
+program with reserve creation initially and seigniorage in the long run, rather t han reserve 
+creation exclusively. 
+ 
+95 Benigno, Gianluca, Jon Hartley, Alicia Garcia -Herrero, Alessandro Rebucci, Elina Ribakova. “Credible 
+emerging market central banks could embrace quantitative easing to fight COVID -19.” VoxEU. June 29, 2020. 
+96 Dugal. “Monetisation Neither Game Changer nor Catastrophe.” 
+97 Ryan, Ellen, and Karl Whelan. “Quantitative easing and ‘hot potato’ effect: Evidence from euro area banks.” 
+VoxEU. April 5, 2019. 
+98 Bernanke, “Helicopter Money.” 
+99 Bernanke, “Helicopter Money.” 
+22
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 25 ---
+There are reasons to be cautious, but as the costs of COVID-19 continue to mount, so too have 
+the sizes of government deficits and , with them, the calls for monetization. It is a powerful 
+emergency tool, capable of providing substantial stimulus and a dramatic reduction in real 
+interest rates if it is communicated successfully and seen as credible. 100 However, it is 
+unclear how much monetization developing countries could safely conduct, if any.  
+a. What are some alternatives to monetization during COVID-19? 
+For developing countries for whom monetization appears difficult, debt relief may be the 
+only alter native in the COVID -19 crisis. On April 15,  2020, the G20 announced the Debt 
+Service Suspension Initiative (DSSI). 101 It provided relief from sovereign debt payments to 
+G20 members for International Development Association (IDA) countries and least 
+developed countries (LDCs). A total of 77 countries are eligible for the DSSI, which 
+suspended debt service payments through  the end of 2020 for participating countries. 
+Approximately $11 billion could be freed up this way.102  
+There are some challenges, however. Debt relief may be too small or too narrow in scope to 
+effectively reduce massive debt stocks. Many of the DSSI -eligible countries need relief from 
+private-sector creditors coordinating with sovereign ones for debt relief, as they owe a 
+collective $13 billion to them through the end of the year. But negotiations with the private 
+sector were done on a case-by-case basis, and there were likely to be some holdouts, which 
+could mean that countries would have to pay those creditors in full. 103 There are also a 
+number of middle-income countries that have higher debt burdens and were expected to run 
+much higher deficits. 104 These countries also tend to rely more on private creditors, which 
+can exacerbate holdout issues.105 In October 2020 the G20 extended DSSI relief until June 31, 
+2021, and agreed to meet again before the program’s expiration to discuss a second 
+extension.106 However, the DSSI has had mixed results. As of November, only 46 of the  77 
+eligible countries applied for DSSI relief, and only 35 have had relief finalized. Additio nally, 
+private creditors, whose participation is voluntary, had not participated in any significant 
+way, meaning that any money obtained via DSSI relief provided by governments  
+ 
+100 English, Erceg, Lopez-Salido (2017) – pp. 30-31 
+101 “Virtual meeting of the G20 finance ministers and central bank governors.” G20 Information Center. April 15, 
+2020. 
+102 Della Guardia, Paul, Jadranka Poljak, Katherine Standbridge, and Emre Tiftik. “IIF Weekly Insight – G20 DSSI: 
+What’s owed to Private Creditors?” Institute of International Finance. May 7, 2020. 
+103 Smith, Colby, and Robin Wigglesworth. “Why the coming emerging markets debt crisis will be messy.” The 
+Financial Times. May 12, 2020. 
+104 Fortun, Jonathan, and Sergi Lanau . “Economic Views – EM Fiscal Deficits in the COVID -19 Shock.” Institute 
+of International Finance. May 5, 2020. 
+105 Gelpern, Anna, Sean Hagan, and Adnan Mazarei. “Debt standstills can help vulnerable governments.”   
+106 “Communiqué: G20 Finance Ministers and Central Bank Governors Meeting.” G20 Research Group. October 
+14, 2020.  
+23
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 26 ---
+immediately would go to private creditors. 107 The Yale Program on Financial Stab ility has 
+additional materials about the impact of the DSSI.108 
+Another alternative is financial repression. This typically takes the form of policies that allow 
+the government to “tax” savers, such as through interest-rate caps, capital controls, and other 
+policies. Financial repression can help a country reduce nominal interest rates, alleviating 
+the debt service burden and ultimately reducing the debt -to-GDP ratio. 109 The U.S. used 
+financial repression extensively after World War II, and real interest  rates during this time 
+were negative about half the time. 110 Ultimately, financial repression “played an 
+instrumental role in reducing or liquidating the massive stocks of debt accumulated during 
+World War II.”111  
+As with debt relief, financial repression is not without its challenges. Enforcing low interest 
+rates can lead to inefficient allocation of savings, and successful implementation may require 
+a level of coordination between fiscal and monetary authorities that may call into question 
+the independence of the central bank.  
+Another option is a combination of tax increases and spending cuts, or austerity. These 
+appear to be unlikely options, as they are politically unpopular and can harm economic 
+recovery. Spain’s efforts at fighting the virus were initially hamstrung by austerity measures 
+they adopted in the wake of the GFC, which led to a number of shortages of equipment, 
+doctors, and hospital beds.112 The government of India circulated a memorandum that stated 
+that it would suspend the commencement of all new publicly funded programs aside from 
+those in their approximately $260 billion pandemic response package. 113 Ecuador 
+announced austerity measures in May, which will result in the closure or merging of several 
+public companies and potentially thousand s of layoffs. 114 The decision sparked massive 
+protests across the country, similar to the reaction that occurred after the government 
+negotiated an austerity -laden $4.2 billion agreement with the IMF in March 2019 for 
+ 
+107 Fresnillo, Lolanda. “The G20 Debt Service Suspension Initiative: Draining out the Titanic with a bucket?” 
+European Network on Debt and Development (Eurodad). October 2020. 
+108 Nye, Alexander, and June Rhee. “The Limits of the G20’s Debt Service Suspension Initiative.” Yale Program 
+on Financial Stability. May 18, 2020. 
+109 Kirkegaard, Jacob, and Carmen Reinhart. “Financial Repression: Then and now.” VoxEU. March 26, 2012. 
+110 Reinhart, Carmen M., and M . Belen Sbrancia. “The Liquidation of Government Debt.” National Bureau of 
+Economic Research. March 2011.  
+111 Reinhart and Sbrancia, “Liquidation of Government Debt.” – pp. 5. 
+112 Hedgecoe, Guy. “In Spain, austerity legacy cripples coronavirus fight.” Politico. March 28, 2020. 
+113 Ohri, Nikunj. “India Opts for Austerity Measures Amid Covid -19 Pandemic.” Bloomberg Quint. June 5, 2020; 
+“Office Memorandum – Appraisal and Approval of all Public Funded Schemes/Sub -Schemes.” Government of 
+India – Ministry of Finance. June 4, 2020; “India’s Rs 20 lakh crore Covid relief package one among the largest 
+in the world.” The Economic Times of India. May 15, 2020. 
+114 Gutierrez, Reynel. “Ecuador: Lenín  Moreno announces new austerity measures.” Tiempo Digital.  May 19, 
+2020. 
+24
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 27 ---
+economic support.115 The IMF and Ecuadorian government cancelled this agreement in May 
+and agreed to a different aid package worth about $6.5 billion  in August  2020.116 
+Additionally, Ecuador was able to restructure about $17.4 billion of external debt as a result 
+of this IMF agreement being reached. 117 However, these agreements are all contingent on 
+Ecuador being able to implement austerity (called “fiscal consolidation”)  measures 
+amounting to about 5.5 percent of GDP over the next five years.118 
+5. Conclusions 
+Monetization, that is, financing government expenditures through issuance of non -interest-
+bearing central bank liabilities, poses real risks—potentially excessive inflation and 
+encroachment on central-bank independence. Some paint monetization as a relic of a bygone 
+era. The onset of the COVID -19 crisis, however, forced governments to spend heavily to 
+combat the considerable economic and public-health impacts. As deficits climb ed and 
+external investors remain ed cautious about where to place their capital, monetization re -
+entered the conversation as a potential avenue to avoid massive debt burdens that some 
+nations, particularly those in the developing world, may face.  
+However, much of what many are calling monetization today is not really monetization. In 
+particular, many central banks are conducting extensive purchases of government bonds —
+but they financed these purchases with newly created interest-bearing reserves rather than 
+through a temporary commitment to increase the price level. This means that they were not 
+generating seigniorage via increased inflation and weren’t really monetizing, even though 
+they could hold the bonds until maturity and roll them over indefinitely. The characteristics 
+of debt securities purchased via quantitative -easing programs can make it difficult to tell if 
+the purchases are permanent; it could be up to 30 years before some of the debt matures and 
+needs to either be retired or rolled over. To our knowledge, no central bank during the 
+COVID-19 crisis took an action that met our definition or explicitly stated that it was 
+conducting monetization.  
+The extent to which a country is able to conduct either explicit or even “implicit” 
+monetization depends on its level of economic development, the credibility and 
+independence of its central bank, and the general economic environment. This makes 
+ 
+115 “IMF Executive Board Approves US$4.2 Billion Extended Fund Facility for Ecuador.” International Monetary 
+Fund. March 11, 2019. 
+116 “IMF and Ecuadorian Authorities Reach Staff -Level Ag reement on a New Extended Fund Facility.” 
+International Monetary Fund. August 28, 2020. 
+117 Kueffner, Stephan. “Ecuador Reports 98.5% of Bondholders Exchanged Bonds.” Bloomberg Quint. September 
+1, 2020. 
+118 “Ecuador: Request for an Extended Arrangement Under t he Extended Fund Facility  – Press Release; Staff 
+Report; Staff Supplement; and Statement by the Executive Director for Ecuador.” International Monetary Fund. 
+October 2020. 
+25
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 28 ---
+monetization more attractive for countries that may not be able to obtain sufficient financing 
+through debt issuance, taxation, or external finance (such as through the IMF).  
+However, these countries are often much more vulnerable to the inflationary and 
+governance risks associated with the practice. A counterargument is that not fighting the 
+crisis forcefully enough could have medium or long-run economic effects that are worse than 
+the risk of some inflation. Central banks are well -equipped to deal with inflatio n, but the 
+historical examples of excessive inflation, spurred by a loss of central-bank credibility and a 
+de-anchoring of inflation expectations, serve as a cautionary tale.  
+Monetization has primarily been used in the past to help finance wartime expenditures. The 
+Fed financed deficits as high as 27% of GDP during World War II. Central banks may sacrifice 
+some of their independence and ability to manage inflation in favor of fiscal objectives in 
+such situations, albeit for a very limited period to avert a  crisis. From a public financing 
+standpoint, a substantial, but temporary, economic shock, whether through war or disease, 
+could be a dangerous enough emergency to demand similarly substantial and temporary 
+cooperation between monetary and fiscal authoriti es. As World Bank Chief Economist 
+Carmen Reinhart said recently: “This is a war. In a war, you worry about winning the war, 
+and then you worry about paying for it.”119 
+References 
+Akat, Asaf Savaş. “The Political Economy of Turkish Inflation.” Journal of International Affairs 
+Vol. 54, no. 1 (2000): 265 -282. Accessed December 3, 2020. 
+https://www.jstor.org/stable/24357699?seq=6#metadata_info_tab_contents 
+Akhlas, Adrian Wail. “Government scraps plan of issuing $30 billion worth of ‘pandemic 
+bonds.’” The Jakarta Post.  May 8 , 2020. 
+https://www.thejakartapost.com/news/2020/05/08/government-scraps-idea-of-issuing-
+30-billion-worth-of-pandemic-bonds.html 
+Akhlas, Adrian Wail. “Indonesia’s COVID -19 budget swells but still not enough, observers 
+say.” The Jakarta Post.  June 8, 2020. 
+https://www.thejakartapost.com/news/2020/06/08/indonesias-covid-19-budget-swells-
+but-still-not-enough-observers-say.html 
+Akhlas, Adrian Wail, and Esther Samboh. “Explainer: Indonesia to finance coronavirus battle 
+mostly through debt.” The Jakarta Post.  April 13, 2020. 
+https://www.thejakartapost.com/news/2020/04/13/explainer-indonesia-to-finance-
+coronavirus-battle-mostly-through-debt.html 
+ 
+119 Wheatley, Jonathan. “Borrow to fight economic impact of pandemic, says World Bank’s chief economist.” 
+Financial Times. October 8, 2020. 
+26
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 29 ---
+Allen, Erin. “World War I: Restoring Poland.” Library of Congress Blog . January 25, 2017. 
+https://blogs.loc.gov/loc/2017/01/world-war-i-restoring-poland/ 
+Bailey, Andrew. “Central Bank Reserves Can’t be Taken for Granted.” Bloomberg. June 22, 
+2020. https://www.bloomberg.com/opinion/articles/2020-06-22/andrew-bailey-central-
+bank-reserves-can-t-be-taken-for-granted 
+Bangko Sentral ng Pilipinas. “Monetary Board approved additional Php 300 billion support 
+to the National Government to fight COVID -19.” March 22, 2020. 
+https://www.bsp.gov.ph/SitePages/MediaAndResearch/MediaDisp.aspx?ItemId=5221 
+Bank for International Settlements. “Annual Economic  Report – June 2020.” June 2020. 
+https://www.bis.org/publ/arpdf/ar2020e.pdf 
+Bank of England. “Asset Purchase Facility: Gilt Purchases – Market Notice 18 June 2020.” June 
+18, 2020. https://www.bankofengland.co.uk/markets/market-notices/2020/asset-
+purchase-facility-gilt-purchases-june-2020 
+Bank of England. “Consolidated Market Notice: Asset Purchase Facility: Gilt Purchases – 
+Market Notice 15 May 2020.” May 15, 2020. 
+https://www.bankofengland.co.uk/markets/market-notices/2020/asset-purchase-facility-
+gilt-purchases-may-2020 
+Bank of England. “HM Treasury and Bank of England announce temporary extension to Ways 
+and Means facility.” April 9, 2020. 
+https://www.bankofengland.co.uk/news/2020/april/hmt-and-boe-announce-temporary-
+extension-to-ways-and-means-facility 
+Bank of England. “Ways and Means Advances.” 
+https://www.bankofengland.co.uk/boeapps/database/FromShowColumns.asp?Travel=NI
+xAZxI3x&FromCategoryList=Yes&NewMeaningId=AWYMNS&CategId=6&HighlightCatValu
+eDisplay=Ways%20and%20means%20advances 
+Bank of Japan. “Bank of Japan Accounts.” Last updated December 2, 2020. 
+https://www.boj.or.jp/en/statistics/boj/other/ac/index.htm/ 
+Beer, Christian, Ernest Gnan, and Maria Teresa Valderrama. “A (not so brief) history of 
+inflation in Austria.” Monetary Poli cy & the Economy, Iss. 3 (2016): 6 -32. Oesterreichische 
+Nationalbank (OeNB), Monetary. 2016. https://www.oenb.at/dam/jcr:29752216-a40d-
+4f34-bf13-0483032a9bf5/mop_2016_q3_in_focus_01_Beer_Gnan_Valderrama.pdf 
+Benigno, Gianluca, Jon Hartley, Alicia Garcia -Herrero, Alessandro Rebucci, Elina Ribakova. 
+“Credible emerging market central banks could embrace quantitative easing to fight COVID-
+19.” VoxEU. June 29, 2020. https://voxeu.org/article/credible-emerging-market-central-
+banks-could-embrace-quantitative-easing-fight-covid-19 
+27
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 30 ---
+Bernanke, Ben S. “Monetary Policy in a new era.” Brookings Institution – Hutchins Center on 
+Fiscal and Monetary Policy. October 2, 2017. https://www.brookings.edu/wp-
+content/uploads/2017/10/bernanke_rethinking_macro_final.pdf  
+Bernanke, Ben S. “What tools does the Fed have left? Part 3: Helicopter money.” Brookings 
+Institution. April 11, 2016. https://www.brookings.edu/blog/ben-
+bernanke/2016/04/11/what-tools-does-the-fed-have-left-part-3-helicopter-money/ 
+Bernanke, Ben S. “Some Thoughts on Monetary Policy in Japan.” Federal Reserve Board , 
+Remarks Before the Japan Society of Monetary Economics. May 31, 2003. 
+https://www.federalreserve.gov/boarddocs/speeches/2003/20030531/ 
+Board of Governors of the Federal Reserve System. “ Credit and Liquidity Programs and the 
+Balance Sheet.” Recent balance sheet trends.” Last updated November 30, 2020. 
+https://www.federalreserve.gov/monetarypolicy/bst_recenttrends.htm 
+Bordo, Michael D., Pierre -Cyrille Hautcoeur. “Why didn’t France follow the British 
+stabilisation after World War I?” European Review of Economic History Vol. 11, no. 1 (2007): 
+3-37. April 1, 2007. https://academic.oup.com/ereh/article/11/1/3/392599 
+Cappella, Rosella. The Political Economy of War Finance . PhD diss. no. 1175, University of 
+Pennsylvania, 2012. 
+https://repository.upenn.edu/cgi/viewcontent.cgi?article=2985&context=edissertations 
+Celasun, Oya. “The 1994 Currency Crisis in Turkey.” The World Bank, Policy Research 
+Working Papers 1913. November 1998. 
+https://ideas.repec.org/p/wbk/wbrwps/1913.html 
+Cheng, Jeffrey, Dave Skidmore, and David Wessel. “What’s the Fed doing in response to the 
+COVID-19 crisis? W hat more could it do?” Brookings Institution , Hutchins Center on Fiscal 
+and Monetary Policy. July 17, 2020. https://www.brookings.edu/research/fed-response-to-
+covid19/ 
+China Banking News. “China Debates Monetisation of Deficit to Deal with COVID -19’s 
+Economic Impacts.” May 15, 2020. 
+http://www.chinabankingnews.com/2020/05/15/china-debates-deficit-to-deal-with-
+covid-19s-economic-impacts/ 
+Coronado, Julia, and Simon M. Potter. “Securing Macroeconomic and Monetary Stability 
+with a Federal Reserve–Backed Digital Currency.” Peterson Institute for International 
+Economics (PIIE). Policy Brief 20-4. March 2020. 
+https://www.piie.com/system/files/documents/pb20-4.pdf 
+Davies, Phil. “Federal Reserve’s Role during WWI.” Federal Reserve History. November 22, 
+2013. https://www.federalreservehistory.org/essays/feds-role-during-wwi 
+28
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 31 ---
+Della Guardia, Paul, Jadranka Poljak, Katherine Standbridge, and Emre Tiftik. “G20 DSSI: 
+What’s owed to Private Creditors?” Institute of International Finance, IIF Weekly Insight. May 
+7, 2020. 
+https://www.iif.com/Portals/0/Files/content/2_200507%20Weekly%20Insight_vf.pdf?_cl
+dee=ZGFuaWVsLmJhc2VzQGxhdGluZmluYW5jZS5jb20%3D&recipientid=contact-
+b18c428fe8f0e81180d102bfc0a80172-
+7a03707ff3574bc98f4eab754d106e70&utm_source=ClickDimensions&utm_medium=emai
+l&utm_campaign=Press%20Emails&esid=ff6fd3e3-7091-ea11-80e7-000d3a0ee828 
+Diela, Tabita, and Fransiska Nangoy. “Indonesia unveils $40 billion bond scheme to fu nd 
+recovery from pandemic.” Reuters. July 6, 2020. https://www.reuters.com/article/us-
+indonesia-economy/indonesia-unveils-40-billion-bond-scheme-to-fund-recovery-from-
+pandemic-idUSKBN2471AZ 
+Dornbusch, Rudiger, and Stanley Fischer. “Stopping Hyperinflations Past and Present.” 
+National Bureau of Economic Res earch. Working Paper No. 1810. January 1986. 
+https://www.nber.org/papers/w1810.pdf 
+Dugal, Ira. “Monetisation Neither a Game Changer nor a Catastrophe, says Raghuram Rajam.” 
+Bloomberg Quint.  May 8, 2020. https://www.bloombergquint.com/coronavirus-
+outbreak/monetisation-neither-a-game-changer-nor-a-catastrophe-says-raghuram-rajan 
+Dugal, Ira. “Monetisation of Government Deficit May be Inevitable Amid Coronavirus 
+Disruption: C Rangarajan.” Bloomberg Quint.  April 1, 2020. 
+https://www.bloombergquint.com/business/monetisation-of-government-deficit-may-be-
+inevitable-amid-coronavirus-disruption-c-rangarajan 
+Ebeling, Richard M. “The Great Austrian Inflation.” Foundation for Economic Education. April 
+1, 2006. https://fee.org/articles/the-great-austrian-inflation/ 
+“Economic Acceleration Against Contraction.” Ministry of Finance of the Republic of Indonesia. 
+November 23, 2020. https://www.kemenkeu.go.id/publikasi/siaran-pers/siaran-pers-
+akselerasi-ekonomi-melawan-kontraksi/  
+The Economic Times of India. “India’s Rs 20 lakh crore Covid relief package one among the 
+largest in the world.” May 15, 2020. 
+https://economictimes.indiatimes.com/news/economy/finance/latest-stimulus-package-
+among-largest-in-the-world/articleshow/75701976.cms 
+English, William B., Christopher J. Erceg, and David Lopez -Salido. “Money-Financed Fiscal 
+Programs: A Cautionary Tale.” Brookings Institution, Hutchins  Center Working Paper #31. 
+June 2, 2017. https://www.brookings.edu/wp-
+content/uploads/2017/06/wp31_englishetal_helicopter.pdf 
+English, William B., Christopher J. Erceg, and David Lopez -Salido. “Money-Financed Fiscal 
+Programs: A Cautionary Tale.” Forthcoming. 
+29
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 32 ---
+Federal Reserve Bank of St. Louis. “Inflation, consumer prices for Japan.” Federal Reserve 
+Economic Data (FRED). Last updated December 2, 2020. 
+https://fred.stlouisfed.org/series/FPCPITOTLZGJPN 
+Fishback, Price. “World War II in America: Spending, deficits,  multipliers, and sacrifice.” 
+VoxEU. November 12, 2019. https://voxeu.org/article/world-war-ii-america-spending-
+deficits-multipliers-and-sacrifice 
+Fortun, Jonathan, and Sergi Lanau. “EM Fiscal Deficits in the COVID -19 Shock.” Economic 
+Views – Institute of International Finance. May 5, 2020. 
+https://www.iif.com/Portals/0/Files/content/EV_05052020.pdf 
+Frayer, Lauren. “India Reports Record Spike in COVID -19 Cases, but Nixes Another 
+Nationwide Lockdown.” National Public Radio (NPR). June 18, 2020. 
+https://www.npr.org/sections/coronavirus-live-updates/2020/06/18/879927134/india-
+reports-record-spike-in-covid-19-cases-but-nixes-another-nationwide-lockdo 
+Fresnillo, Lolanda. “The G20 Debt Service Suspension Initiative: Draining out the Titanic with 
+a bucket?” European Network on Debt and Development (Eurodad). October 2020. 
+G20 Research Group. “Communiqu é: G20 Finance Ministers and Central Bank Governors 
+Meeting.” G20 Information Centr e. October 14, 2020. 
+http://www.g20.utoronto.ca/2020/2020-g20-finance-1014.html  
+G20 Research Group . “Virtual meeting of the G20 finance ministers and central bank 
+governors.” G20 Information Center.  April 15, 2020. 
+http://www.g20.utoronto.ca/2020/2020-g20-finance-0415.html#a2 
+Garbade, Kenneth D. “Direct Purchases of U.S. Treasury Securities by Federal Reserve 
+Banks.” Federal Reserve Bank of New York Staff Report no. 684. August 2014. 
+https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr684.pdf 
+Gelpern, Anna, Sean Hagan, and Adnan Mazarei. “Debt standstills can help vulnerable 
+governments manage the COVID -19 crisis.” Peterson Institute for International Economics 
+(PIIE). April 7, 2020. https://www.piie.com/blogs/realtime-economic-issues-watch/debt-
+standstills-can-help-vulnerable-governments-manage-covid 
+Glick, Reuven, and Michael Hutchison. “Currency Crises.” Federal Reserve Bank of San 
+Francisco. Working Paper 2011 -22. September 2011. https://www.frbsf.org/economic-
+research/files/wp11-22bk.pdf 
+Gutierrez, Reynel . “Ecuador: Lenín Moreno announces new austerity measures.” Tiempo 
+Digital. May 19, 2020. https://tiempo.hn/ecuador-lenin-moreno-nuevas-medidas-
+austeridad/ 
+30
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 33 ---
+Hedgecoe, Guy. “In Spain, austerity legacy cripples coronavirus fight.” Politico. March 28, 
+2020. https://www.politico.eu/article/in-spain-austerity-legacy-cripples-coronavirus-
+fight/ 
+Hetzel, Robert L., and Ralph F. Leach. “The Treasury-Fed Accord: A New Narrative Account.” 
+Federal Reserve Bank of Richmond Economic Quarterly Vol. 87/1 Winter (2001): 33 – 55. 
+Accessed December 3, 2020. https://www.richmondfed.org/-
+/media/richmondfedorg/publications/research/economic_quarterly/2001/winter/pdf/he
+tzel.pdf 
+India Ministry of Finance. “Office Memorandum – Appraisal and Approval of all Public 
+Funded Schemes/Sub -Schemes.” June 4, 2020. 
+https://doe.gov.in/sites/default/files/Appraisal%20and%20Approval%20of%20all%20P
+ublic%20Funded%20Schemes%20%26%20Sub-schemes%20for%20FY%202020-21.pdf 
+India Ministry of Finance. “The Fiscal Responsibility and Budget Management Act, 20 03.” 
+Government of India, Ministry of Finance, Department of Economic Affairs (Act No. 39 of 
+2003). August 26, 2003. 
+https://dea.gov.in/sites/default/files/FRBM%20Act%202003%20and%20FRBM%20Rule
+s%202004.pdf 
+Inman, Phillip. “Mark Carney stands by forward guidance policy.” The Guardian. December 
+17, 2013. https://www.theguardian.com/business/2013/dec/17/mark-carney-forward-
+guidance-policy-interest-rates 
+International Monetary Fund. “Ecuador: Request for an Exte nded Arrangement Under the 
+Extended Fund Facility – Press Release; Staff Report; Staff Supplement; and Statement by the 
+Executive Director for Ecuador.” October 2020. 
+https://www.elibrary.imf.org/view/IMF002/29367-9781513558608/29367-
+9781513558608/29367-
+9781513558608_A001.xml?rskey=7e6SfC&result=2&redirect=true  
+International Monetary Fund. “IMF and Ecuadorian Authorities Reach Staff-Level Agreement 
+on a New Extended Fund Facility.” August 28, 2020. 
+https://www.imf.org/en/News/Articles/2020/08/28/pr20290-ecuador-imf-and-
+ecuadorian-authorities-reach-staff-level-agreement-on-new-eff 
+International Monetary Fund. “IMF Executive Board Approves US$4.2 Billion Extended Fund 
+Facility for Ecuador.” March 11, 2019. 
+https://www.imf.org/en/News/Articles/2019/03/11/ecuador-pr1972-imf-executive-
+board-approves-eff-for-ecuador 
+Iyer, P Vaidyanathan, and Sunny Verma. “FM Nirmala Sitharaman interview: ‘Thought about 
+it (bigger cash transfers), but grant for how many, of how much?’” The Indian Express. May 
+20, 2020. https://indianexpress.com/article/india/nirmala-sitharaman-interview-
+economic-package-msme-sector-migrant-workers-coronaviryus-lockdown-indian-
+economy-6418250/ 
+31
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 34 ---
+Jordà, Òscar, Sanjay R. Singh, Alan M. Taylor. “Longer -run Economic Consequences of 
+Pandemics.” Federal Rese rve Bank of San Francisco, Working Paper 2020 -09. June 2020. 
+https://www.frbsf.org/economic-research/files/wp2020-09.pdf 
+Jordà, Òscar, Sanjay R. Singh, Alan M. Taylor. “The Long Economic Hangover of Pandemics.” 
+International Monetary Fund , Finance and Development vol. 57, no. 2 (June 2020): 12 -15. 
+June 2020. https://www.imf.org/external/pubs/ft/fandd/2020/06/pdf/long-term-
+economic-impact-of-pandemics-jorda.pdf 
+Kihara, Keika, and Stanley White. “BOJ overhauls policy focus, sets target for government 
+bond yields.” Reuters. September 21, 2016. https://www.reuters.com/article/us-japan-
+economy-boj/boj-overhauls-policy-focus-sets-target-for-government-bond-yields-
+idUSKCN11R0BU 
+Kingston, Jeff. “1936 coup failed, but rebels killed Japan’s ‘Keynes .’” The Japan Ti mes. 
+February 20, 2016. 
+https://www.japantimes.co.jp/opinion/2016/02/20/commentary/1936-coup-failed-
+rebels-killed-japans-keynes/ 
+Kirkegaard, Jacob, and Carmen Reinhart. “Financial Repression: Then and now.” VoxEU. 
+March 26, 2012. https://voxeu.org/article/financial-repression-then-and-now 
+Koech, Janet. “Hyperinflation in Zimbabwe.” Federal Reserve Bank of Dallas, Globalization 
+and Monetary Policy Institute 2011 Annual Report . 2011. 
+https://www.dallasfed.org/~/media/documents/institute/annual/2011/annual11b.pdf 
+Kueffner, Stephan. “Ecuador Reports 98.5% of Bondholders Exchanged Bonds.” Bloomberg 
+Quint. September 1, 2020. https://www.bloombergquint.com/onweb/ecuador-reports-98-
+5-of-bondholders-exchanged-bonds 
+Labonte, Marc, and Mindy Levit. “Financing Issues and Economic Effects of American Wars.” 
+Congressional Research Service. Report No. RL31176. July 29, 2008. 
+https://fas.org/sgp/crs/natsec/RL31176.pdf 
+Lopez, Jose A., and Kris James Mitchener. “Uncertainty and Hyperinflation: European 
+Inflation Dynamics after World War I.” Federal Reserve Bank of San Francisco, Working 
+Paper 2018-06. https://www.frbsf.org/economic-research/files/wp2018-06.pdf 
+Milliken, David. “Bank of England’s Bailey says QE bond sales should precede rate rises.” 
+Reuters. June 22, 2020. https://www.reuters.com/article/us-britain-boe-bailey/bank-of-
+englands-bailey-says-qe-bond-sales-should-precede-rate-rises-idUSKBN23T0QF 
+Mishkin, Frederic S. “Central Banking After the Crisis.” Columbia University Graduate School 
+of Business and National Bureau of Economic Research. November 2012. 
+https://www0.gsb.columbia.edu/faculty/fmishkin/papers/12chile.pdf 
+32
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 35 ---
+Molina, Kri sto, and Ibnu Fajar Ramadhan. “COVID -19 Response of the Indonesian 
+Government on Funding and Financial Support Measures.” White & Case Client Alert (May 
+2020). May 16, 2020. https://www.whitecase.com/sites/default/files/2020-05/COVID-19-
+Indonesian-Governmental-Support-for-Companies_200514.pdf  
+Moss, Daniel. “Can an Emerging Market Become a Policy Pioneer?” Bloomberg. July 10, 2020. 
+https://www.bloomberg.com/opinion/articles/2020-07-09/indonesia-s-debt-
+monetization-sets-a-model-for-emerging-markets?sref=qZkWojPY 
+Myong Soo Cha. “Did Takahashi Korekiyo Rescue Japan from the Great Depression?” The 
+Journal of Economic History Vol. 63, no. 1 (2003): 127 -144. Accessed December 03, 2020. 
+https://www.jstor.org/stable/3132497?seq=4#metadata_info_tab_contents 
+Nag, Anirban. “RBI doubling its bond purchases suggests no plans to monetise debt.” 
+ThePrint. October 20, 2020. https://theprint.in/india/rbi-doubling-its-bond-purchases-
+suggests-no-plans-to-monetise-debt/527217/ 
+Nanto, Dick K., and Shinji Takagi. “Korekiyo Takahashi and Japan’s Recovery from the Great 
+Depression.” The American Economic Review , Vol. 75, no. 2 (1985): 369 -374. Accessed 
+December 3, 2020. 
+https://www.jstor.org/stable/1805627?seq=6#metadata_info_tab_contents 
+Nelson, William. “Why paying interest on reserves is good for lending.” American Banker. 
+June 5, 2017. https://www.americanbanker.com/opinion/why-paying-interest-on-
+reserves-is-good-for-lending  
+Nye, Alexander, and June Rhee. “The Limits of the G20’s Debt Service Suspension Initiative.” 
+Yale Program on Financial Stability , Systemic Risk Blog . May 18, 2020. 
+https://som.yale.edu/blog/the-limits-of-the-g20s-debt-service-suspension-initiative 
+Ohri, Nikunj. “India Opts for Austerity Measures Amid Covid-19 Pandemic.” Bloomberg Quint. 
+June 5, 2020. https://www.bloombergquint.com/economy-finance/india-opts-for-
+austerity-measures-amid-covid-19-pandemic 
+Powell, Jerome H. “New Economic Challenges and the Fed’s Monetary Policy Review.” 
+Federal Reserve Board of Governors , Speech at Navigating the Decade Ahead: Implications 
+for Monetary Policy, an economic policy symposium sponsored by the Federal Reserve Bank 
+of Kansas City, Jackson Hole, Wyoming (via webcast) . August 27, 2020.  
+https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm 
+Rahadiana, Rieka, and Grace Sihombing. “Why Bank Indonesia Will Fund $40 Billi on of 
+Government’s Budget.” Bloomberg. June 30, 2020. 
+https://www.bloomberg.com/news/articles/2020-06-30/why-bank-indonesia-will-fund-
+40-billion-of-government-s-budget?sref=qZkWojPY 
+33
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg
+
+--- Page 36 ---
+Reinhart, Carmen M., and M Belen Sbrancia. “The Liquidation of Government Debt.” National 
+Bureau of Economic Research, Working Paper 16893. March 2011. 
+https://www.imf.org/external/np/seminars/eng/2011/res2/pdf/crbs.pdf 
+Republic of the Philippines, Bureau of the Treasury. “National Government Debt Recorded at 
+P9,369 Billion as o f end -September 2020.”  October 29, 2020.  
+https://www.treasury.gov.ph/?p=37372 
+Reserve Bank of India. “Fiscal -Monetary Co-ordination in India: An Assessment.” Report on 
+Currency and Finance 2009 -12: Fiscal -Monetary Co -ordination. March 4, 2013. 
+https://m.rbi.org.in/Scripts/PublicationsView.aspx?id=14939 
+Richardson, Gary. “Federal Reserve’s Role during WWII.” Federal Reserve History. November 
+22, 2013. https://www.federalreservehistory.org/essays/feds_role_during_wwii 
+Romero, Jesse.  “Treasury-Fed Accord.” Federal Reserve History . November 22, 2013. 
+https://www.federalreservehistory.org/essays/treasury_fed_accord 
+Ryan, Ellen, and Karl Whelan. “Quantitative easing and ‘hot potato’ effect: Evidence from 
+euro area banks.” VoxEU. April 5, 2019. https://voxeu.org/article/quantitative-easing-and-
+hot-potato-effect 
+Shibamoto, Masahiko, and Masato Shizume. “How did Takahash i Korekiyo Rescue Japan 
+from the Great Depression?” Kobe University Research Institute for Economics and Business 
+Administration, Bank of Japan Institute for Monetary and Economic Studies. August 1, 2011. 
+https://www.eh.net/eha/wp-content/uploads/2013/11/ShibamotoShizume.pdf 
+Sindreu, Jon. “Who Says Emerging Economies Shouldn’t Print Money?” The Wall Street 
+Journal. June 30, 2020. https://www.wsj.com/articles/who-says-emerging-economies-
+shouldnt-print-money-11593515880 
+Smith, Colby, and Robin Wigglesworth. “ Why the coming emerging markets debt crisis will 
+be messy.” The Financial Times . May 12, 2020. https://www.ft.com/content/f7157356-
+e773-47c4-b05d-8624a5ccfd03 
+Subbarao, Duvvuri. “What is the problem that monetisation is trying to solve?” The Indian 
+Express. May 28, 2020. https://indianexpress.com/article/opinion/columns/covid-19-
+relief-package-india-economy-rbi-fiscal-deficit-nirmala-sitharaman-duvvuri-subbarao-
+6430542/ 
+Turner, Adair. “Monetary Finance is H ere.” Project Syndicate . April 20, 2020. 
+https://www.project-syndicate.org/commentary/monetary-finance-of-covid19-fiscal-
+deficits-by-adair-turner-2020-04 
+U.S. Department of the Treasury. “Historical Debt Outstanding – Annual 1900 -1949.” 
+Treasurydirect.gov. 
+https://www.treasurydirect.gov/govt/reports/pd/histdebt/histdebt_histo3.htm 
+34
+Journal of Financial Crises Vol. 2 Iss. 4
+
+--- Page 37 ---
+U.S. Department of the Treasury. “Historical Debt Outstanding.” Treasurydirect.gov. Last 
+updated October 2, 2020. 
+https://www.treasurydirect.gov/govt/reports/pd/histdebt/histdebt.htm 
+Vlieghe, Gertjan. “Monetary policy and the Bank of England’s balance sheet.” Bank of 
+England. April 23, 2020. https://www.bankofengland.co.uk/-
+/media/boe/files/speech/2020/monetary-policy-and-the-boes-balance-sheet-speech-by-
+gertjan-vlieghe.pdf?la=en&hash=D76269239470F000514B5F6AA76500590254DBDC 
+von Thadden, Goetz Henning. “Inflation in the Reconstruction of Poland, 1918 -1927.” PhD 
+diss., London School of Economics and Political Science, September 30, 1994.  
+https://core.ac.uk/download/pdf/46518156.pdf 
+Webb, Steven B. “The Supply of Money and Reichsbank Financing of Government and 
+Corporate Debt in Germany, 1919-1923.” The Journal of Economic History, Vol. 44, No.2, The 
+Tasks of Economic History (Jun. 1984): 499 -507. Accessed December 3, 2020. 
+http://www.piketty.pse.ens.fr/files/capitalisback/CountryData/Germany/Other/Pre1950
+Series/RefsHistoricalGermanAccounts/Webb84.pdf 
+Wheatley, Jonathan. “Borrow to fight economic impact of pandemic, says World Bank’s chief 
+economist.” Financial Times . October 8, 2020. https://www.ft.com/content/0582e495-
+765a-46a1-98f9-ac48e80a139c 
+Yale Program on Financial Stability , Systemic Risk Blog.  “The Economic Policy Response to 
+COVID-19.” July 13, 2020. 
+https://www.youtube.com/watch?v=RF3h4vrSOTY&feature=youtu.be  
+35
+Monetization of Fiscal Deficits and COVID-19 Lawson and Feldberg

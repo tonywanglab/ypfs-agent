@@ -1,0 +1,940 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 2 
+2021 
+Korea Asset Management Corporation (KAMCO): Resolution of Korea Asset Management Corporation (KAMCO): Resolution of 
+Nonperforming Loans in South Korea Nonperforming Loans in South Korea 
+Pascal Ungersboeck 
+Yale School of Management 
+Sharon M. Nunn 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, 
+and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Ungersboeck, Pascal and Nunn, Sharon M. (2021) "Korea Asset Management Corporation (KAMCO): 
+Resolution of Nonperforming Loans in South Korea," Journal of Financial Crises: Vol. 3 : Iss. 2, 357-380. 
+DOI: https://doi.org/10.17132/2693-3179.1189 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/19 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss2/19
+
+--- Page 3 ---
+Korea Asset Management Corporation (KAMCO): 
+Resolution of Nonperforming Loans in South Korea1 
+Pascal Ungersboeck and Sharon Nunn2 
+Yale Program on Financial Stability Case Study 
+June 23, 2021 
+Abstract 
+During the 1997 Asian Financial Crisis, international capital outflows created a liquidity 
+crisis for Korean financial institutions  that had relied on foreign short-term borrowing. 
+Korean financial institutions  also faced high levels of nonperforming loans  (NPLs) 
+following years of rapid credit growth.  The government mandated that the Korea Asset 
+Management Corporation (KAMCO) purchase NPLs from banks over a five-year period 
+starting in November 1997. By November 2002, the agency had acquired NPLs with a total 
+face value of KRW 110.2 trillion ($88.2 billion) for KRW 39.8 trillion. Using innovative asset 
+resolution methods , KAMCO was able to recover at a profit a large portion of the funds 
+invested. When it liquidated the fund in 2013, KAMCO had recovered KRW 4 8.1 trillion, 
+removing the financial burden to the public caused by earlier losses. 
+Keywords: Asian Financial Crisis, asset management, Korea, loan resolution, 
+nonperforming loans, KAMCO. 
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering broad-based asset management company programs.  
+ 
+Cases are available from the Journal of Financial Crises at   
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+ 
+2 Research Associates, YPFS, Yale School of Management.  Many thanks to Jisoo Park, an economist at the  Bank 
+of Korea’s Financial Stability Department, who kindly helped with fact finding. 
+357
+
+--- Page 4 ---
+At a Glance 
+South Korea’s economy grew rapidly in the 
+early 1990s, driven by growing exports, 
+domestic debt, and capital inflows. But 
+foreign investors lost confidence in the 
+region in 1997 after the Thai baht devalued. 
+As the Asian Financial Crisis worsened, 
+Korea’s won depreciated. Korean financial 
+institutions were unable to maintain their 
+foreign short -term borrowing. At the same 
+time, the f inancial sector had to confront 
+high levels of nonperforming loans (NPLs). 
+In August, the Korean National Assembly 
+passed a law reorganizing the Korea Asset 
+Management Corporation (KAMCO) and 
+gave it a new mandate to purchase and 
+resolve NPLs. KAMCO, previously a 
+subsidiary of the Korean Development 
+Bank, was set up to purchase NPLs for five 
+years. Over that period, KAMCO acquired 
+loans with a total face value of KRW 110.2  
+trillion ($88.2 billion) for KRW 39.8 trillion. 
+KAMCO used a variety of resoluti on 
+methods. These included the issuance of 
+asset-backed securities (ABS) for domestic 
+and international markets, international 
+auctions, and joint ventures with Korean 
+and global partners. By 2002, KAMCO had 
+recovered KRW 30.3  trillion and 
+maintained loans  with an acquisition value 
+of KRW 12.8 trillion on its balance sheet. By 
+2013, KAMCO had liquidated its NPL fund. Recoveries totaled KRW 48.1 trillion. 
+Summary Evaluation 
+Observers have recognized KAMCO for its recovery efforts and innovative loan resoluti on 
+methods. The agency helped create a market for distressed assets in South Korea through 
+the issuance of ABS. However, its financial performance was mixed. Profits from loan 
+resolution were overshadowed by high operating costs, resulting in a net loss ov er its first 
+Summary of Key Terms 
+Purpose: Resolution of nonperforming loans 
+held by Korean financial institutions 
+Launch dates Announcement:  
+August 22, 1997 
+Operational date: 
+November 26, 1997 
+First transfer: 
+November 26, 1997 
+Wind-down dates Expiration date for 
+transfers:  
+November 2002 
+Ceased operations: 
+KAMCO’s NPL fund 
+liquidated by 2013 
+Size and type of NPL 
+problem 
+5.6% of total loans at 
+the beginning of 1997) 
+Primarily commercial 
+loans  
+Program size Not specified 
+Eligible institutions All financial institutions; 
+open and closed bank 
+Usage  Acquired KRW 110.2 tn 
+(USD 88.2 bn) for KRW 
+39.8 tn (USD 31.8 bn)  
+Outcomes KRW 8.9 tn in profits 
+generated by the 
+disposal of assets 
+Ownership structure Joint public-private 
+ownership 
+Notable features Early purchases allowed 
+for ex post adjustments 
+and put/calls on 
+purchased assets 
+KAMCO 
+358
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 5 ---
+five years. KAMCO was able to turn a profit on later loan sales. Some observers criticized 
+the government for pressuring KAMCO to purchase loans from Daewoo, a leading 
+conglomerate, compromising KAMCO’s autonomy. 
+  
+359
+Korea Asset Management Corporation (KAMCO) Ungersboeck and Nunn
+
+--- Page 6 ---
+South Korea’s KAMCO: South Korea Context 
+GDP 
+(SAAR, Nominal GDP in LCU converted to USD) 
+$612.48 billion in 1996 
+$582.65 billion in 1997 
+GDP per capita 
+(SAAR, Nominal GDP in LCU converted to USD) 
+$13,403.00 in 1996 
+$12, 398.00 in 1997 
+Sovereign credit rating (5-year senior debt) 
+ 
+Data for 1996: 
+Fitch Rating: AAA 
+ 
+Data for 1997: 
+Fitch Rating: BBB- 
+S&P Rating: BBB- 
+Size of banking system 
+ 
+$291.54 billion in 1996 
+$299.95 billion in 1997 
+Size of banking system as a percentage of GDP 
+ 
+47.60% in 1996 
+51.48% in 1997 
+Size of banking system as a percentage of financial 
+system 
+ 
+87.28% in 1996 
+86.80% in 1997 
+5-bank concentration of banking system 
+ 
+68.51% in 1996 
+68.27% in 1997 
+Foreign involvement in banking system NA 
+Government ownership of banking system 
+ NA 
+Existence of deposit insurance Yes 
+Sources: Bloomberg; World Bank Global Financial Development Database; World Bank 
+Deposit Insurance Dataset. 
+ 
+360
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 7 ---
+I. Overview 
+Background 
+In the summer of 1997 , Thailand was forced to abandon its currency peg to the US dollar 
+due to a lack of foreign currency reserves (Sharma 2001; King 2001). The financial collapse 
+of the Thai baht triggered a crisis that quickly spread across Southeast Asia , as 
+international investors sought to decrease their exposure in the region. While South Korea 
+had experienced strong growth in both real GDP and consumption  in the run up to the 
+crisis, the country started experiencing difficulties as reduced capital inflows revealed 
+structural problems in Korea’s financial and corporate sector s (He 2004 ; Sharma 2001).  
+After decades operating under a government -supported industrialization strategy fueled 
+by easy credit to the country’s main conglomerates , or chaebols (Baliño and Ubide  1999), 
+the Korean corporate sector had developed a culture focused on gaining “market share 
+rather than profitability along with a capital structure that relied heavily on external 
+borrowing” (He 2004 ; Baliño and Ubide  1999). Financial liberalization in the 1990s thus 
+left a financial system with eroded lending standards and a banking sector lacking skills in 
+credit analysis and risk  management. At this stage , Korean banks largely met domestic 
+demand for funds through foreign borrowing at short maturities. As the crisis reached 
+Korea and foreign capital inflows dried up , the cou ntry’s financial sector found itself 
+confronted with severe maturity mismatches  and large amount s of nonperforming loans  
+(NPLs) (Baliño and Ubide  1999). The situation was exacerbated by the government’s lax 
+loan classification standards , which had allowed banks to underestimate the amount of 
+NPLs on their balance sheets3 (He 2004). 
+To prevent a complete collapse of the country’s  financial sector, Korean government 
+officials formally requested emergency standby loans from the International Monetary 
+Fund (IMF) in the second half of 1997  (CNNMoney 1997). The crisis management strategy 
+established under IMF guidance focused on four key elements: (1) Restoring stability in the 
+financial system through liquidity support ; (2) restoring solvency of the financial system 
+through intervention in nonviable institutions, purchase of NPLs and recapitalization; (3) 
+bringing prudential regulations and supervision in line with international best practices; 
+(4) corporate restructuring measures to reduce corporate distress  (He 2004; Chopra et. al 
+2001). 
+Because the resolution of NPLs held by domestic financial institutions was considered an 
+important aspect of the strategy for crisis management and financial sector restructuring, 
+the government announced the creation of a nonperforming asset resolution fund to b e 
+managed by the publicly operated Korea Asset Management Corporation (KAMCO). KAMCO 
+ 
+3 Classification standard s were tightened in March 1998 to align with international standards. Before the 
+crisis, only loans in arrears of six months or more were classified as nonperforming. As banks were required 
+to tighten classification criteria, loans in arrears of three months or more were included. 
+361
+Korea Asset Management Corporation (KAMCO) Ungersboeck and Nunn
+
+--- Page 8 ---
+began executing its new mandate on November 26, 1997 , with the purchase of loans with 
+total face value of KRW 4.4 t rillion.4 from two systemically important institutions , Seoul 
+Bank and Korea First Bank (He 2004). 
+In May 1998, the government estimated that the total NPLs of all financial institutions in 
+Korea came to KRW 118 trillion, or 27 percent of GDP. Of that total, KRW 68 trillion had 
+been in arrears for six months o r more and were considered prone to default risks. A  
+further KRW 50 trillion in loans had been in arrears for three to six months and were 
+classified as “precautionary.” The government said it would target KRW 100 trillion worth 
+of NPLs for immediate disposal. It would orchestrate the disposals through two channels . 
+Financial institutions themselves would dispose of about half of the loans themselves , 
+either by selling collateral or calling in the loans. KAMCO would purchase and sell the 
+remaining half. Estimates of NPLs in the system subsequently grew later in  1998 and 1999 
+as the government required banks and later nonbanks to redefine NPLs as in arrears for 
+three months or more and to take into account forward -looking criteria in their cred it 
+assessment (He 2004). 
+Program Description 
+KAMCO was founded under the Korea Development Bank Act of 1962  (He 2004) to provide 
+the Korea Development Bank ( KDB) with a legal basis for collecting overdue loans. Its 
+scope of business was gradually expanded to include the liquidation of government -
+invested corporations as well as the public sale of confiscated properties  (KAMCO 2012). 
+KAMCO adopted its role in NPL r esolution when it was reorganized under  the “Act on the 
+Efficient Disposal of Nonperforming Assets, etc. of Financial Institutions and the 
+Establishment of Korea Asset Management Corporation”  (KAMCO Act  1997), an 
+amendment to the 1962 KDB Act passed in August 1997  (KAMCO 2012 ). Under the new 
+framework, an NPL resolution fund was established and mandated to raise funding  and 
+purchase NPLs over a period of five years until November 2002 (Cerruti and Neyens 2016). 
+The initial act was amended several times between 1997 and 1999 to “[strengthen 
+KAMCO’s] asset management and disposition capabilities”  (Baliño and Ubide  1999), 
+allowing additional business functions and a more active involvement in corporate 
+restructuring efforts  (Lee 2011). While the NPL fund was initially established without a 
+sunset date, a December 2006 amendment to the KAMCO Act specified that the fund would 
+cease its NPL resolution operations  by November 2012, 15 years after being established  
+(KAMCO Act 1997). 
+Under the Act, KAMCO was  reorganized as a special resolution agency  with the status of a 
+public nonbank financial corporation supervis ed by the Financial Supervisory Commission 
+ 
+4 Approximately $3.5 billion u sing an exchange rate of KRW  1250 for $1. This rate is computed from the 
+average exchange rate during the five-year purchasing period using daily data from the Federal Reserve of St. 
+Louis. 
+ 
+362
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 9 ---
+(FSC)5 and governed by a Management Supervisory Committee consisting of 11 members.  
+(He 2004; Lee 2011). Its NPL fund was monitored by the Public Fund Oversight Committee, 
+led by the Ministry of Finance and Economy (MOFE)  (Cerruti and Neyens 2016 ). The 
+KAMCO Act also revised the agency’s ownership structure  (KAMCO Act  1997). KAMCO, 
+which had until then been a subsidiary of the KDB, issued shares for a total capital of KRW 
+1 trillion by 1999 (Baliño and Ubide  1999; KAMCO Act 1997; Cerruti and Neyens 2016 ). A 
+large majority of its shares remained government owned with the MOFE as majority 
+shareholder owning 42.8%, followed by the KDB with 28.6%. The remaining 28.6% of 
+shares were held by other financial institutions (He 2004). 
+KAMCO’s NPL resolution fund purchase d nonperforming assets from distres sed financial 
+institutions over a five-year period, from November 1997 to November 2002. In line with 
+its mandate, KAMCO considered as eligible for purchase only those loans “whose security 
+rights and transfer were legally executable and who had been classified as  substandard or 
+below” (He 2004). Although the KAMCO Act of 1997 provides that  “any financial institution 
+may entrust [KAMCO] with the disposal of nonperforming assets ” (KAMCO Act 1997) , the 
+agency would “analyze whether the loans were eligible for purchase” and “conduct due 
+diligence on the loans” before entering an “assignment and assumption agreement” and 
+making a payment to the seller (He 2004; Cerruti and Neyens 2016). 
+Assets were divided into four categories: “ordinary” loan s of companies still operating; 
+“special loans” of companies in a court -supervised receivership; “Daewoo loans,” acquired 
+mostly in 2000 after the Daewoo Group collapsed; and  “work-out loans” to companies in 
+out-of-court work -out programs  (He 2004) . KAMCO factored t hese distinctions into its 
+pricing of NPL purchases. For ordinary and special loans that were secured by collateral , 
+KAMCO offered a fixed percentage of the collater al value, initially 70–75%. KAMCO initially 
+purchased unsecured NPLs at a large discount of 80% or more to face value. In September 
+1998, KAMCO tightened its pricing framework to 45% of the collateral value for secured 
+loans and increased the discount on face value for ordinary unsecured loans to 97%. Work-
+out loans represented only 2.5% (as a fraction of face value) of  assets purchased and did 
+not follow the same pricing formula. Daewoo loans represent ed nearly one -third of total 
+purchases (He 2004). See Figure 1 for further details. KAMCO treated them separately , as 
+part of the government’s strategy to stabilize the financial system after the Daewoo 
+conglomerate failed. The government directed  KAMCO to purchase Daewoo bonds held by 
+foreign creditors and domestic investment trust companies to “facilitate a speedier out -of-
+court restructuring process for these loans” after the collapse of Daewoo  (Cerruti and 
+Neyens 2016). 
+ 
+5 The Financial Supervisory Commission served as South Korea’s main financial regulator during the Asian 
+crisis. It was renamed the Financial Services Commission in 2008. 
+363
+Korea Asset Management Corporation (KAMCO) Ungersboeck and Nunn
+
+--- Page 10 ---
+Figure 1: KAMCO’s NPL Acquisitions by Loan Type 
+ 
+ 
+ 
+ 
+ 
+Source: He 2004. 
+KAMCO’s purchases were funded by 4 different sources (He 2004): 
+(i) issuance of government bonds (KRW 20.5 trillion); 
+(ii) assessments on financial institutions in proportion to their holdings of NPLs 
+(KRW 500 billion); 
+(iii) loans from KDB (KRW 500 billion); 
+(iv) recovered funds from NPL resolution (Cerruti and Neyens 2016). 
+The KAMCO Act did  not impose a resolution method, giving KAMCO the liberty to adopt a 
+number of techniques to dispose of its NPLs. During the first year , these methods included 
+“traditional methods such as competitive auctions, collection of rescheduled repayments 
+and recourse to the original seller ” (He 2004).  Later, KAMCO experimented with more 
+innovative methods such as “ bulk (pooled) sales, individual sales, and joint venture 
+partnerships” (He 2004). Following the enactment of the 1998 Asset-Backed Securities Act, 
+KAMCO began issuing ABS for the domestic market (He 2004). 
+Outcomes 
+Over the course of its operations , KAMCO acquired assets with a total face value of KRW 
+110.1 trillion at a total price of KRW 39.8 trillion,6 for an average discount of 64% (He 
+2004). In total, the NPLs purchased amount ed to 9% of financial sector assets . While most 
+ 
+6 These figures are adopted from the IMF report , The Role of KAMCO in Resolving Nonperforming Loans in the 
+Republic of Korea  (He 2004) , which breaks purchases down by year, loan category , and selling institution.  
+KAMCO reported the total as KRW 39.2tn (KAMCO Annual Report 2013). 
+364
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 11 ---
+loans were purchased from banks, KAMCO also purchased loans from nonbank institutions, 
+including investment trust companies, insurance companies, merchant banks, mutual 
+savings, securities firms , and foreign institutions. In total , KAMCO acquired over 300, 000 
+loan accounts  (Fung et al. 2004 ). See Figure 2 for further detail. KAMCO’s portfol io was 
+heavily concentrated, with “roughly 1 percent of borrowers [accounting] for 90 percent of 
+the face value of [loans acquired] ”(Cerruti and Neyens 2016 ). This probably reflects 
+exposures to chaebols, which accounted for a large fraction of credit extended in the years 
+leading up to the crisis. 
+Figure 2: KAMCO’s NPL Acquisitions by Selling Institution 
+ 
+ 
+ 
+ 
+ 
+Source: He 2004. 
+KAMCO was able to resolve a large share of its NPL portfolio through foreclosures, 
+collection or recourse and cancellation 7. Together, assets resolved through these channels 
+account for more than 60% of recovered funds. Beyond these traditional methods, KAMCO 
+used a variety of  innovative tools including the issuance of asset -backed securities, joint 
+ventures, and international auctions (He 2004). 
+KAMCO’s ABS issuances were well received, with a total of KRW 4.2 trillion recovered. ABS 
+were issued on 1 5 separate occasions between 1999 and 2001  (KAMCO’s Experience 
+2002). The securities were mostly intended for the domestic market (Oh 2002). The only 
+international issuance occurred in July 2000 , when KAMCO partnered with UBS and 
+Deutsche Bank to issue  ABS with a face value of $ 395 million for international investors. 
+ 
+7 Assets resolved through recourse and cancellation were returned to the original seller after the transfer to 
+KAMCO. This could occur upon request by KAMCO or the seller  (see Key Design Decision  regarding 
+acquisition pricing). 
+365
+Korea Asset Management Corporation (KAMCO) Ungersboeck and Nunn
+
+--- Page 12 ---
+Major international investors included Japanese institutions Norinchukin Bank and 
+Nomura Principal Finance , as well as the California -based fixed -income investment firm 
+Western Asset Management (KAMCO’s Experience 2002). 
+KAMCO also entered into several successful joint ventures, accumulating KRW 1.6 trillion 
+of recovered funds  across eight deals (KAMCO’s Experience 2002 ). Partners included 
+domestic and foreign financial institutions . The deals were concluded with a variety of  
+partners, including Samsung Life Insurance and Hyundai Capital as domestic partners and 
+Deutsche Bank, Morgan Stanley, Colony Capital , and Lehman Brothers as international 
+partners. These partnerships, “ in which KAMCO typically held a 50 percent ownership 
+interest,” were established to extend the agency’s role as a corporate restructuring vehicle 
+by “farming out the longer-term management and normalization of impaired assets to 
+specialized JVs  [joint ventures] ” but also served as “ knowledge transfer [vehicles] for 
+KAMCO” (Cerruti and Neyens 2016 ; He 2004) . At the same time , they provided KAMCO 
+with an  “opportunity to participate in the upside if recoveries exceeded certain levels” 
+(Cerruti and Neyens 2016). 
+International auctions were similarly successful with a total of KRW 1.8 trillion recovered 
+over seven auctions. Buyers included investment banks Goldman Sachs  and Morgan 
+Stanley, as well as Cerberus Capital Management and Lone Star Funds, two private equi ty 
+funds specialized in distressed assets (KAMCO’s Experience 2002). 
+Last, KAMCO also utilized individual loan sales to dispose of assets.  These deals were 
+concluded with Korean companies and took the shape of M&A agreements wherein the 
+buyer took over the managerial right s of the distressed company , as well as  simple loan 
+sales after which the buyer took over KAMCO’s position (KAMCO’s Experience 2002). 
+Within five years of the first purchases , KAMCO was able to liquidate a large portion of the 
+ordinary, special, and work-out loans it acquired but maintained a large holding of Daewoo 
+loans. The face value of assets resolved by December 2002 represented 58.6% 
+(64.6/110.1) of the face value of assets acquired . As of April 2003, KAMCO maintain ed 
+NPLs with acquisition value of KRW 12.8  trillion (KRW 44.2  trillion face value) on its 
+balance sheet. With an acquisition value of KRW 10.4  trillion, Daewoo loans constituted by 
+far the largest share of assets remaining on KAMCO’s balance sheet  (81.2%) (He 2004). In 
+total, KAMCO acquired Daewoo -related loans from various Daewoo affiliates , which 
+remained unresolved at the end of the  operating window (Oh 2002). In 2009, KAMCO 
+reported that 11 former Daewoo companies had successfully completed their work -out 
+programs leading KAMCO to recover additional funds (KAMCO 2009). 
+In total , KAMCO recovered KRW 30.3  trillion by the time its operating window ended in  
+November 2002 . The average resale price for loans was 14% higher than the purchase 
+price, with an average recovery rate of 46.8% on face value. This resulted in a gross profit 
+of KRW 3.8 trillion. However, this profit vanished after accounting for fund operating costs. 
+With total operating costs between 1999 and 2002 amounting to KRW 7. 9 trillion, the fund 
+accumulated net losses in excess of KRW 4  trillion during its  early operations, which 
+“[would] have to be financed by a net increase in public debt and repaid by future tax 
+revenues” (He 2004). However, KAMCO turned a profit by the time of the fund’s liquidation 
+in 2013. As the NPL resolution fund reached its sunset date, KAMCO reached KRW 48.1  
+366
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 13 ---
+trillion in total funds recovered , exceeding the total purchase price of the NPL portfolio by 
+KRW 8.9 trillion and removing the financial burden to the public by covering the high 
+operating costs of its early operations (KAMCO Reports). 
+II. Key Design Decisions 
+1. Part of package: Policymakers established KAMCO’s NPL resolution fund  as part 
+of a broader stabilization strategy agreed upon with the IMF  that included 
+recapitalization. 
+Under an IMF-supported program, South Korean authorities established a crisis 
+management strategy, which among other aspects , focused on “restructuring measures to 
+restore solvency of the financial system by intervention in nonviable institutions, purchase 
+of NPLs and recapitalization”  (He 2004 ). KAMCO was reorganized and tasked with the 
+management of a resolution fund for NPLs.  
+2. Legal authority: South Korea’s National Assembly  passed legislation to establish 
+KAMCO as a public nonbank financial corporation under supervision of the 
+Financial Supervisory Commission. 
+Following the enactment of  the “Act on the Efficient Disposal of Nonperforming Assets etc. 
+of Financial Institutions and the Establishment of Korea Asset Management Corporation ,” 
+KAMCO was established as a public nonbank financial corporation under supervision of the 
+Financial Supervisory Commission (He 2004) and had its NPL fund monitored by the Public 
+Fund Oversight Committee, led by the Ministry of Finance and Economy (Cerruti and 
+Neyens 2016). 
+The KAMCO Act was amended several times after 1997 to expand the scope o f KAMCO’s 
+activities. Through a series of amendments between 1998 and 1999, KAMCO’s business 
+functions were expanded to allow it to serve the role of a “bad bank” and be more actively 
+involved in corporate restructuring efforts and workout programs (Baliño and Ubide 1999; 
+Lee 2011). 
+3. Special powers: Policymakers did not appear to give KAMCO special powers 
+related to its NPL resolution fund function. 
+ Available documentation does not suggest policymakers gave KAMCO  any extraordinary 
+powers. 
+4. Mandate: Policymakers charged  KAMCO with two tasks , the purchase of 
+nonperforming assets and the disposal of the assets to minimize the public’s 
+financial support of restructuring. 
+KAMCO adopted its role in NPL resolution when it was  reorganized under the “Act on the 
+Efficient Disposal of Nonperforming Assets, etc. of Financial Institutions and the 
+Establishment of Korea Asset Management Corporation” (KAMCO Act  1997), an 
+367
+Korea Asset Management Corporation (KAMCO) Ungersboeck and Nunn
+
+--- Page 14 ---
+amendment to the 1962 KDB Act passed in August 1997 (KAMCO 2012) . Under the new 
+framework, an NPL resolution fund was established and mandated to raise funding and 
+purchase NPLs over a period of five years until November 2002 (Cerruti and Neyens 2016). 
+Policymakers mandated that KAMCO purchase NPLs “ to support normalization of financial 
+institutions and corporate restructuring” (Chopra et. al 2001). 
+KAMCO’s mandate required that the “ disposal of these assets . . . minimize public burden of 
+financial restructuring” (Chopra et. al 2001). 
+5. Communication: KAMCO officials operated the NP L fund in a transparent fashion 
+that has been commended by researchers in subsequent years. 
+The Public Fund Oversight Committee monitored KAMCO’s NPL fund (Cerruti and Neyens 
+2016), while KAMCO audited its accounts semiannua lly and published the results (Baliño 
+and Ubide  1999). Cerruti and Neyens (2016) described KAMCO’s “frequent public 
+reporting” as a good practice for AMCs. 
+6. Ownership structure: KAMCO, established in 1962 as a subsidiary of the KDB,  
+changed its ownership structure in 1997 with the enactment of the KAMCO Act, 
+issuing shares that resulted in it s being partially owned by Korean financial 
+institutions. 
+Previously established as a subsidiary of the KDB, policymakers reorganized KAMCO’s 
+ownership structure, and the reorganized agency issued shares for a total capital of KRW 
+1tn by 1999 (KAMCO Act 1997). A majority of shares were left in government ownership, 
+with the Ministry of Finance and Economy owning 42.8% and the KDB 28.6% . The 
+remaining 28.6% of shares were owned by other financial institutions (He 2004). 
+7. Governance/administration: KAMCO was governed by a Management 
+Supervisory Committee consisting of 11 members representing the government, 
+the banking industry , and the public.  Its NPL fund was monitored by the Public 
+Fund Oversight Committee. 
+Members of the Management Supervisory Committee  included the managing director of 
+KAMCO; representatives from the MOFE, the Ministry of Planning and Budgeting, the FSC, 
+and the Korea Deposi t Insurance Corporation ; the deputy governor of the KDB ; two 
+representatives from the banking industry nominated by the chairman of the Korea 
+Federation of Banks ; three professionals recommended by the managing director , 
+including an attorney-at-law, a certified public accountant or a certified tax accountant, and 
+a university professor or docto rate holder who works for a research institute  (Cerruti and 
+Neyens 2016; He 2004). See Figure 3 for further detail. 
+368
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 15 ---
+Figure 3: KAMCO’s Management Supervisory Committee 
+ 
+ 
+ 
+ 
+ 
+Source: He 2004. 
+8. Size: Although KAMCO’s NPL resolution fund had no  formally predetermined size, 
+asset purchases were limited by constraints on funding and the timing of 
+purchases. 
+KAMCO was allocated KRW 21.5  trillion in funding to finance its NPL purchases over a 
+period of five years starting in November 1997.  KAMCO was allowed to finance additional 
+purchases through funds recovered from the sale of NPLs. However , no further purchases 
+could occur after the end of the  five-year window in November 2002  (Cerruti and Neyens 
+2016). 
+9. Funding source: KAMCO was partially funded by industry sources based on 
+assessments tied to the size of NPL portfolios. 
+By the end of the operating window, KAMCO’s NPL fund had acquired NPLs  amounting to a 
+total purchase value of KRW 39. 8 trillion. Most of the required funds were provided 
+through government-guaranteed bonds issued by KAMCO to selling institutions. The bonds 
+were issued on 19 separate occasions between 1997 and 1999 and amount ed to KRW 20.5 
+trillion in total. Additionally, KAMCO collected KRW 500 billion in assessments on financial 
+institutions in proportion to their holdings of NPLs and received a loan from the KDB for 
+KRW 500  billion. Later purchases, mostly related to failure of Daewoo, were financed 
+through funds that KAMCO had already recovered from the resolution of assets previously 
+acquired (He 2004; Cerruti and Neyens 2016). 
+369
+Korea Asset Management Corporation (KAMCO) Ungersboeck and Nunn
+
+--- Page 16 ---
+10. Eligible institutions: Any financial institution was eligible to request that KAMCO 
+acquire its NPLs. 
+Per the KAMCO Act , “any financial institution” could request that KAMCO acquire its 
+distressed assets (KAMCO Act 1997). This resulted in a diverse set of sellers. While banks 
+represent the largest share of the asset acquisitions, the agency also purchased loans from 
+several nonbank institutions  (see Figure 2).  The decision to include nonbank institution s 
+was a consequence of the severity of the crisis in the corporate sector which was exposed 
+to a variety of financial institutions . Unlike other Asian countries, Korea’s financial sector 
+was very diversified as the crisis hit, justifying the inclusion of a larger set of instit utions in 
+KAMCO’s operations. 
+11. Eligible assets: Eligible assets were mostly commercial loans classified 
+substandard and below whose security rights and transfer were legally 
+executable. 
+KAMCO considered eligible for purchase “salable loans whose security ri ghts and transfer 
+were legally executable, from among loans classified as substandard and below ” (He 2004). 
+However, priority was given to loans “whose removal was considered critical to the 
+rehabilitation of the institution from a public policy point of view, and NPLs that had 
+multiple creditors” (He 2004). Officials in other countries utilizing AMCs have implemented 
+similar strategies that target an economy’s largest, important debtors.  
+Policymakers allowed KAMCO’s NPL fund to purchase loans from a variety of financial 
+institutions, including banks, trust investment companies, insurance companies, merchant 
+banks, and securities companies. Officials created the wider asset net “ because Korea had a 
+more diversified financial system than other Asian countries, and because of the severity of 
+the crisis in the corporate sector, which was exposed to a variety of financia l institutions” 
+(Cerruti and Neyens 2016 ). Still, KAMCO purchased mostly commercial NPLs (Cerruti and 
+Neyens 2016). 
+12. Acquisition mechanics: Acquisitions occurred upon request from distressed 
+financial institutions. 
+KAMCO considered NPL acquisitions upon request from distressed financial institutions. “If 
+a financial institution requested KAMCO to purchase its NPLs, KAMCO would analyze 
+whether the loans were eligible for purchase, request relevant data from the selling 
+institution, and co nduct due diligence of the loans .” Final decisions were made by the 
+Management Supervisory Committee. If a purchase was approved, KAMCO entered an 
+assignment and assumption agreement  with the seller . Eventually, KAMCO “ [received] 
+documents evidencing the o rigin of the loan and [had] the registration of security rights 
+transferred” (He 2004). 
+The bonds issued to fund KAMCO’s operations were government guaranteed thus carrying 
+a 0% risk weighting for regulatory capital purposes  (Cerruti and Neyens 2016 ). See Figure 
+4 for further details. 
+370
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 17 ---
+Figure 4: KAMCO Government-Guaranteed Bond Issuance 
+ 
+ 
+ 
+ 
+ 
+Source: He 2004. 
+13. Acquisition pricing: KAMCO used a pricing formula based on the type of loan to 
+assess the value of NPLs , and initially allowed for ex post adjustments and 
+put/calls on purchased assets. 
+Before a purchase, sellers and their loans were divided into four categories (He 2004): 
+(i) ordinary loans: loans of companies currently operating; 
+(ii) special loans: loans of companies under court-supervised receivership whose 
+loans have been restructured; 
+(iii) work-out loans: loans of companies in the out-of-court work-out programs; 
+(iv) Daewoo loans: loans of the Daewoo conglomerate. 
+These categories helped determine how KAMCO priced NPLs. 
+371
+Korea Asset Management Corporation (KAMCO) Ungersboeck and Nunn
+
+--- Page 18 ---
+Figure 5: Overview of KAMCO’s Pricing Framework 
+ 
+ 
+ 
+ 
+ 
+Source: Fung et al. 2004.8 
+ 
+8 NPA is an acronym for nonperforming asset. 
+372
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 19 ---
+Figure 5 presents an overview of the pricing process for NPL purchases. KAMCO’s approach 
+to loan purchases evolved during the first years of its operations as is reflected in the 
+tightening of the pricing framework in September 1998  (He 2004). Early acquisitions were 
+made under considerable pressure to rapidly absorb a large share of NPLs to achieve 
+financial stability.  Under these circumstances , KAMCO resorted to bulk purchases to 
+guarantee a swift transfer of NPLs  (Cerruti and Neyens 2016 ). However, this method  
+prevented KAMCO from conducting a complete evaluation of the loans and establishing an 
+appropriate purchase price. To protect KAMCO  from the risk of a larg e discrepancy 
+between the purchase price and the value emerging from an evaluation of the loans, the 
+purchases were subject to ex post adjustment s (Fung et al. 2004). Another feature of these 
+agreements was a put/call option allowing “either KAMCO to return (put) or the seller to 
+request (call) the return of the loan s” (Cerruti and Neyens 2016 ). Loans resolved through 
+the exercise of an option account for approximately 30% of loan resolutions by face value  
+(Fung et al. 2004).  
+As major market turmoil w as overcome  and because of often protracted negotiations , 
+option-enhanced purchases were abandoned in favor of fixed -rate agreements  after 
+September 1998 (Fung et al. 2004; He 2004). This resulted in an increased discount rate on 
+loan purchases. Figure 6 details the evolution  of the amount paid on face value during the 
+purchasing window. 
+Figure 6: Average Loan Purchase Price by Year 
+ 
+ 
+ 
+ 
+ 
+Source: Fung et al. 2004. 
+In addition to ordinary and special loans KAMCO distinguished between work-out and 
+Daewoo loans. Work-out loans represent a very small fraction of acquired assets (2.5%) and 
+were generally acquired at a high discount (76.9% on average). Daewoo loans repres ent 
+32% of assets acquired. The loans were acquired as part of a government effort to 
+“facilitate a speedier out -of-court restructuring process for these loans”  after the collapse 
+373
+Korea Asset Management Corporation (KAMCO) Ungersboeck and Nunn
+
+--- Page 20 ---
+of Daewoo (Cerruti and Neyens 2016). They were priced more generously than other loans. 
+The acquisition of Daewoo debt at a premium “ reflected the deficiency of the corporate 
+insolvency framework .” Thus , “to speed up debt restructuring of the Daewoo group, the 
+government opted for out -of-court settlement and some premium above the fair value 
+identified by a due diligence review was paid to the creditors ” (Cerruti and Neyens 2016 ; 
+He 2004). 
+14. Disposal: KAMCO relied on a broad set of resolution methods to ensure a swift 
+resolution of NPLs and promote a domestic market for distressed assets. 
+KAMCO resolved the majority of its NPLs through traditional channels including 
+“competitive auctions, collection of rescheduled repayments, and recourse and 
+cancellation” (Cerruti and Neyens 2016 ). However, another critical component  of the 
+agency’s exit strategy was to foster the development of a domestic market for distressed 
+assets. Since “s uch a market is typically missing in less developed countries because  [of] 
+information asymmetries and a lack of creditor coordination ,” KAMCO stepped in to 
+promote liquidity in the distressed asset market  by issuing ABS for the domestic market 
+while gaining attention with large sales to globally important institutions through its 
+international auctions (He 2004). International interest in turn encouraged participation of 
+domestic institutions (He 2004). 
+KAMCO appears to have shifted its resolution strategy from “speedy recovery” to “return 
+maximization” over the course of its operations.  Observers have noted that “the trade -off 
+between spee dy recovery and maximization of asset value shaped the evolution of the 
+resolution methods chosen by KAMCO” (He 2004). This is apparent in the abundant use of 
+the recourse option during the early years of operations. Later KAMCO “[diversified] its 
+sales methods” in pursuit of higher returns (Oh 2002). 
+KAMCO recovered assets with face value KRW 64.6 trillion over the first five years of its 
+operations (see Figure 7). On average, assets were sold  for 14% more than the acquisition 
+price. However, if one excludes the 19.3 trillion of assets for which the put/call option was 
+exercised, the average return on assets increases to 23%. This reflects the fact  that all 
+resolution methods yielded recovery values well above the purchase price , apart from ABS 
+which broke even. 
+Unlike other AMCs, KAMCO did not directly engage in restructuring or recapitalization of 
+banks (Cerruti and Neyens 2016 ), but policymakers saw K AMCO’s NPL purchases as  a 
+“mechanism” that supported bank restructuring (Chopra et. al 2001). Though t he 
+government created the Structural Reform Committee , housed within the FSC, to plan and 
+implement corporate and financial restructuring  reforms (Lee 201 1), KAMCO assumed a 
+smaller role in corporate restructuring (starting in 2000) by farming out longer -term 
+management of nonperforming assets to joint -venture companies with expertise in asset 
+management and corporate restructuring (Chopra et. al 2001). 
+374
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 21 ---
+Figure 7: NPL Resolution by Exit Strategy (Nov. 1997–Dec. 2002) 
+ 
+ 
+ 
+ 
+ 
+Source: He 2004. 
+15. Timeframe: KAMCO was initially established without a sunset date but a later 
+amendment required it to cease operations by November 2012. 
+When KAMCO’s window of operations for NPL purchases ended in November 2002, the 
+fund maintained assets with purchase value of KRW 12.8 trillion on its balance sheet  (He 
+2004). With l oans acquired from Daewoo affiliates constituting a large majority of the 
+unresolved assets, KAMCO remained actively involved in the resolution of these assets and 
+oversaw work-out programs for several Daewoo affiliates  (KAMCO’s Experience 2002; He 
+2004). Eventually, a sunset date was set in a December 2006 amendment to the KAMCO 
+Act, specifying that “the operation of the fund may be executed no later than November 
+2012” (KAMCO Act 1997). 
+III. Evaluation 
+KAMCO’s operations were characterized by strong recovery e fforts and innovative 
+resolution methods resulting in a positive return on public funds  invested (Cerruti and 
+Neyens 2016). However, observers have criticized KAMCO’s modest financial  performance 
+during its early operations  and governance issues related to the purchase of Daewoo loans 
+(He 2004). 
+KAMCO played an important role in the creation of a market for distressed asset s in South 
+Korea (He 2004 ). Using nontraditional resolution methods , KAMCO was able to attract 
+investors and bring much needed liquidity into t he distressed asset market. International 
+players were attracted through a series of successful international auctions . This in turn 
+375
+Korea Asset Management Corporation (KAMCO) Ungersboeck and Nunn
+
+--- Page 22 ---
+encouraged domestic investors to participate (Cerruti and Neyens 2016 ). The issuance of 
+ABS further facilitated the emergence of a domestic market for distressed assets (He 2004). 
+KAMCO’s joint ventures  also contributed to these developments , serving as knowledge-
+transfer vehicles bringing in international expertise in corporate restructuring (Cerruti and 
+Neyens 2016). 
+While early observers noted that the agency’s performance is “best described as mixed ,” 
+this assessment should be considered in view of KAMCO’s successful loan resolution during 
+the later stages of its operations. After the five-year purchase window ended , KAMCO 
+maintained a balance of KRW 12.8  trillion in unresolved assets  (He 2004 ). To cover the 
+negative equity accumulated due to  high operating costs during the purchase w indow, “the 
+government converted KAMCO’s short -term debt into treasury bonds while the remainder 
+of the long -term debt would be serviced by increases in the deposit insurance and future 
+recoveries” ( Cerruti and Neyens 2016 ). KAMCO was eventually able to li ft the public 
+burden by recovering additional funds. In 2013 , KAMCO reported total recover ies 
+exceeding the public funds dedicated to its operations. With KRW 48.1 trillion recovered on 
+assets purchased for KRW 39.2  trillion, the agency achieved a net prof it of KRW 8.9 trillion 
+by the time of the fund’s liquidation in February 2013 (KAMCO 2013). 
+On the governance side , KAMCO suffered from its public agency status (He 2004) . 
+Specifically, KAMCO’s operational autonomy  with respect to purchasing decisions  was 
+compromised by broader policy considerations in the case of the Daewoo loan purchases 
+for which the fund paid a premium as a result of a government decision to “facilitate a 
+speedier out -of-court restructuring process for these loans ” (Cerruti and Neyens 2016 ). 
+The decision followed from the fact that Korea didn’t have an efficient out-of-court 
+restructuring process at the time  (He 2004) . Thus, KAMCO was chosen to step in a nd 
+facilitate the process for Daewoo affiliated firms.  This contextualizes criticism regarding 
+the fund’s modest financial performance  during its first five years  when considering that 
+Daewoo acquisitions alone represented more than 80% of the NPLs remaining on KAMCO’s 
+balance sheet by the end of the purchasing window. 
+IV. References 
+Baliño, Tomás J.T., and Angel Ubide. 1999. “The Korean Financial Crisis of 1997: A Strategy 
+of Financial Sector Reform.” Working Paper WP/99/28. International Monetary Fund. 
+https://ypfs.som.yale.edu/library/korean-financial-crisis-1997-strategy-financial-sector-
+reform. 
+ 
+Cerruti, Caroline, and Ruth Neyens. 2016. “Public Asset Management Companies: A Tool 
+Kit,” 2016. World Bank.            
+https://ypfs.som.yale.edu/library/public-asset-management-companies. 
+ 
+Chon, Chol-Hwan, and Kyu-sung Lee. 1998. “Letter of Intent of the Government of Korea,” 
+July 24, 1998. 
+376
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 23 ---
+https://ypfs.som.yale.edu/library/letter-intent-government-korea. 
+ 
+Chopra, Ajai, Kenneth Kang, Meral Karasulu, Hong Liang, Henry Ma, and Anthony Richards. 
+2001. “From Crisis to Recovery in Korea: Strategy, Achievements, and Lessons.” Working 
+Paper WP/01/154. International Monetary Fund.   
+https://ypfs.som.yale.edu/library/crisis-recovery-korea-strategy-achievements-and-
+lessons. 
+ 
+CNNMoney. 1997. “South Korea Seeks $20B,” November 21, 1997. 
+https://ypfs.som.yale.edu/library/president-kim-young-sam-asks-his-countrys-support-
+radical-plan. 
+ 
+Commercial Real Estate Direct. 1999. “Morgan Stanley, Goldman, Lone Star, Deutsche Buy 
+Korean Loans,” December 10, 1999. 
+https://ypfs.som.yale.edu/library/morgan-stanley-goldman-lone-star-deutsche-buy-
+korean-loans. 
+ 
+Fung, Ben, Jason George, Stefan Hohl, and Guonan Ma. 2004. “Public Asset Management 
+Companies in East Asia.” FSI Occasional Papers. Bank for International Settlements - 
+Financial Stability Institute.   
+https://ypfs.som.yale.edu/library/public-asset-management-companies-east-asia. 
+ 
+He, Dong. 2004. “The Role of KAMCO in Resolving Nonperforming Loans in the Republic of 
+Korea.” Working Paper WP/04/172, September 2004. International Monetary Fund. 
+https://ypfs.som.yale.edu/library/role-kamco-resolving-nonperforming-loans-republic-
+korea. 
+ 
+KAMCO. 2009. “KAMCO 2009 Annual Report,” 2009. Korea Asset Management Corporation. 
+https://ypfs.som.yale.edu/library/kamco-2009-annual-report. 
+ 
+KAMCO. 2012. “About KAMCO: History.” Korea Asset Management Corporation. 
+https://ypfs.som.yale.edu/library/kamco-history. 
+ 
+KAMCO. 2013. “KAMCO 2013 Annual Report,” 2013. Korea Asset Management Corporation. 
+https://ypfs.som.yale.edu/library/kamco-2013-annual-report. 
+ 
+KAMCO Act. 1997. “Act on the Efficient Disposal of Nonperforming Assets, Etc. of Financial 
+Companies and the Establishment of Korea Asset Management Corporation.” 
+https://ypfs.som.yale.edu/library/act-efficient-disposal-nonperforming-assets-etc-
+financial-companies-and-establishment-korea. 
+ 
+“KAMCO’s Experience.” 2002. Presented at the 2nd Forum for Asian Insolvency Reform, 
+Bangkok, Thailand, December 2002. 
+https://ypfs.som.yale.edu/library/kamcos-experience. 
+ 
+Kataoka, Hisanori. 1999. “Korean Banking Reform Following the Asian Financial Crisis.” 
+377
+Korea Asset Management Corporation (KAMCO) Ungersboeck and Nunn
+
+--- Page 24 ---
+Discussion Paper 10. Columbia University: APEC Study Center.   
+https://ypfs.som.yale.edu/library/korean-banking-reform-following-asian-financial-crisis. 
+ 
+King, Michael R. 2001. “Who Triggered the Asian Financial Crisis?” Review of International 
+Political Economy 8 (3): 438–66.   
+https://ypfs.som.yale.edu/library/who-triggered-asian-financial-crisis. 
+ 
+Kirk, Don. 1999. “In South Korea, Big Investment Firms Are Banking on Bad Loans.” New 
+York Times, June 29, 1999. 
+https://ypfs.som.yale.edu/library/south-korea-big-investment-firms-are-banking-bad-
+loans. 
+ 
+Lee, Kyu-Sung. 2011. The Korean Financial Crisis of 1997: Onset, Turnaround, and 
+Thereafter. World Bank.   
+https://ypfs.som.yale.edu/library/korean-financial-crisis-1997-onset-turnaround-and-
+thereafter. 
+ 
+Oh, Yong-Ho. 2002. “KAMCO’s Experience (Notes).” For presentation at the 2nd Forum for 
+Asian Insolvency Reform, Bangkok, Thailand, December 2002. 
+https://ypfs.som.yale.edu/library/kamcos-experience-notes. 
+ 
+Sharma, Shalendra D. 2001. “The Making of the Korean Financial Crisis Financial 
+Liberalization without Regulations.” International Journal of Korean Studies V (2): 87–116. 
+https://ypfs.som.yale.edu/library/making-korean-financial-crisis-financial-liberalization-
+without-regulations. 
+V. Key Program Documents 
+Summary of Program 
+(He 2004) He, Dong. 2004. “The Role of KAMCO in Resolving Nonperforming Loans in the 
+Republic of Korea.” Working Paper WP/04/172, September 2004. International Monetary 
+Fund. 
+IMF working paper describing efforts to deal with nonperforming loans in South Korea. 
+https://ypfs.som.yale.edu/library/role-kamco-resolving-nonperforming-loans-republic-
+korea. 
+(KAMCO 2012) KAMCO. 2012. “About KAMCO: History.” Korea Asset Management 
+Corporation. 
+KAMCO webpage detailing the asset manager’s history.  
+https://ypfs.som.yale.edu/library/kamco-history. 
+(Chon and Lee 1998) Chon, Chol -Hwan, and Kyu -sung Lee. 1998. “Letter of Intent of the 
+Government of Korea,” July 24, 1998.  
+Letter of Intent written on behalf of the Korean government to the IMF describing the policies 
+378
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 25 ---
+that the country intended to implement in the context of its request for financial support from 
+the IMF.  
+https://ypfs.som.yale.edu/library/letter-intent-government-korea. 
+Legal/Regulatory Guidance 
+(KAMCO Act 1997) “Act on the Efficient Disposal of Nonperforming Assets, Etc. of Financial 
+Companies and the Establishment of Korea Asset Management Corporation.” 1997. 
+Amendment to the Korea Development Act passed in August 1997 establishing the NPL 
+resolution fund as part of KAMCO’s new mandate.  
+https://ypfs.som.yale.edu/library/act-efficient-disposal-nonperforming-assets-etc-
+financial-companies-and-establishment-korea. 
+(Korea Development Bank Act 1962) “The Korea Development Bank Act.” 1962. 
+Act establishing the Korea Development Bank in 1962 along with its subsidiary Korea Asset 
+Management Corporation.  
+https://ypfs.som.yale.edu/library/korea-development-bank-act. 
+Press Releases/Announcements 
+(KAMCO 2009) KAMCO. 2009. “KAMCO 2009 Annual Report,” 2009. Korea Asset 
+Management Corporation.  
+Annual report for the year 2009 containing an update on the NPL resolution fund regarding 
+resolution of Daewoo loans.  
+https://ypfs.som.yale.edu/library/kamco-2009-annual-report. 
+(KAMCO 2013) KAMCO. 2013. “KAMCO 2013 Annual Report,” 2013. Korea Asset 
+Management Corporation.  
+Annual report for the year 2013 containing an update regarding the NPL fund’s liquidation 
+and end of operations.  
+https://ypfs.som.yale.edu/library/kamco-2013-annual-report. 
+(KAMCO’s Experience 2002) “KAMCO’s Experience.” 2002. Presented at the 2nd Forum for 
+Asian Insolvency Reform, Bangkok, Thailand, December 2002.  
+Presentation detailing KAMCO’s resolution methods at the deal level.  
+https://ypfs.som.yale.edu/library/kamcos-experience. 
+(Oh 2002) Oh, Yong-Ho. 2002. “KAMCO’s Experience (Notes).” For presentation at the 2nd 
+Forum for Asian Insolvency Reform, Bangkok, Thailand, December 2002.  
+Notes for a presentation detailing KAMCO's experience.  
+https://ypfs.som.yale.edu/library/kamcos-experience-notes. 
+Media Stories 
+(CNNMoney 1997) CNNMoney. 1997. “South Korea Seeks $20B,” November 21, 1997. 
+News report detailing the South Korean president’s request for the country's for support for 
+IMF reforms.  
+379
+Korea Asset Management Corporation (KAMCO) Ungersboeck and Nunn
+
+--- Page 26 ---
+https://ypfs.som.yale.edu/library/president-kim-young-sam-asks-his-countrys-support-
+radical-plan. 
+(Commercial Real Estate Direct 1999) Commercial Real Estate Direct. 1999. “Morgan 
+Stanley, Goldman, Lone Star, Deutsche Buy Korean Loans,” December 10, 1999.  
+News article reporting the purchase of KAMCO loans by foreign investors.  
+https://ypfs.som.yale.edu/library/morgan-stanley-goldman-lone-star-deutsche-buy-
+korean-loans. 
+(Kirk 1999) Kirk, Don. 1999. “In South Korea, Big Investment Firms Are Banking on Bad 
+Loans.” New York Times, June 29, 1999.  
+News article reporting on KAMCO’s activities and international auctions.  
+https://ypfs.som.yale.edu/library/south-korea-big-investment-firms-are-banking-bad-
+loans. 
+Reports/Assessments 
+Cerruti and Neyens (2016) Cerruti, Caroline, and Ruth Neyens. 2016. “Public Asset 
+Management Companies: A Tool Kit,” 2016. World Bank.  
+World Bank Study containing case studies about a number of public AMCs.  
+https://ypfs.som.yale.edu/library/public-asset-management-companies. 
+(Lee 2011)  Lee, Kyu -Sung. 2011. The Korean Financial Crisis of 1997: Onset, Turnaround, 
+and Thereafter. World Bank.   
+Memoir written by the then -Minister of Finance Kyu -Sung Lee describing the Korean 
+Financial Crisis of 1997.   
+https://ypfs.som.yale.edu/library/korean-financial-crisis-1997-onset-turnaround-and-
+thereafter. 
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to 
+receive permission to reprint any or all of this document, please contact the Yale Program 
+for Financial Stability at ypfs@yale.edu.  
+380
+Journal of Financial Crises Vol. 3 Iss. 2

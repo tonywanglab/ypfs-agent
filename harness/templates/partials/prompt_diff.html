@@ -1,0 +1,32 @@
+{% if diff_groups %}
+  <div class="file-diff" aria-label="Prompt changes">
+    <div class="file-diff-header">
+      <span class="file-diff-name">{{ current_id }} → generated draft</span>
+    </div>
+    <table class="code-diff">
+      <colgroup>
+        <col class="diff-col-number">
+        <col class="diff-col-number">
+        <col class="diff-col-marker">
+        <col class="diff-col-code">
+      </colgroup>
+      <tbody>
+        {% for group in diff_groups %}
+          <tr class="diff-hunk">
+            <td colspan="4">@@ -{{ group.old_start }},{{ group.old_count }} +{{ group.new_start }},{{ group.new_count }} @@</td>
+          </tr>
+          {% for row in group.rows %}
+            <tr class="diff-line diff-line-{{ row.kind }}">
+              <td class="diff-line-number">{{ row.old_number or '' }}</td>
+              <td class="diff-line-number">{{ row.new_number or '' }}</td>
+              <td class="diff-line-marker" aria-hidden="true">{% if row.kind == 'add' %}+{% elif row.kind == 'delete' %}-{% else %} {% endif %}</td>
+              <td class="diff-line-code"><code>{{ row.text }}</code></td>
+            </tr>
+          {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% else %}
+  <p class="empty-state compact">The draft matches {{ current_id }} line-for-line.</p>
+{% endif %}

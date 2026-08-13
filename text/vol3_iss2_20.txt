@@ -1,0 +1,1193 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 2 
+2021 
+Indonesia: IBRA’s Asset Management Unit/ Asset Management of Indonesia: IBRA’s Asset Management Unit/ Asset Management of 
+Credits Credits 
+Ariel Smith 
+Yale School of Management 
+Sharon M. Nunn 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, 
+and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Smith, Ariel and Nunn, Sharon M. (2021) "Indonesia: IBRA’s Asset Management Unit/ Asset Management 
+of Credits," Journal of Financial Crises: Vol. 3 : Iss. 2, 381-409. 
+DOI: https://doi.org/10.17132/2693-3179.1190 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/20 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss2/20
+
+--- Page 3 ---
+Indonesia: IBRA’s Asset Management Unit/ 
+Asset Management of Credits1 
+Ariel A. Smith and Sharon M. Nunn2 
+Yale Program on Financial Stability Case Study 
+June 23, 2021 
+Abstract 
+In 1998, Indonesia’s banking sector was undercapitalized, under regulated , and suffering 
+from an excess of nonperforming loans (NPLs). I n response, the Indonesian government 
+devised the  Indonesian Bank Restructuring Agency  (IBRA) and its  Asset Management 
+Unit/Asset Management of Credits (AMU/AMC)  as part of a three -pronged government 
+emergency plan, along with a blanket guarantee of the debts of all domestic banks and a 
+framework for corporate restructuring . The AM U/AMC acquired and managed 
+nonperforming loans from a variety of Indonesian banks and attempted to dispose of them. 
+The AMU/AMC had acquired nearly IDR 400 trillion (approximately $86 billion) in face value 
+of loans  by April 2003 . Throughout its history, the  organization encountered political 
+interference, transfer issues, documentation problems, an d problems with legal authority 
+that impeded its effective operation . Although the AMU/AMC was wound down on its 
+initially scheduled end date of February 27, 2004, its functions and many unresolved legal 
+cases were  simply shifted to a new asset management company under the Ministry of 
+Finance. 
+Keywords: Asian Financial Crisis, asset management, Indonesia, IBRA, nonperforming loans, 
+loan restructuring  
+ 
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering broad-based asset management company programs. 
+ 
+Cases are available from the Journal of Financial Crises at  
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+ 
+2 Research Associates, YPFS, Yale School of Management. 
+381
+
+--- Page 4 ---
+At a Glance  
+In the years leading up to the Asian 
+Financial Crisis of 1997, Indonesia n firms 
+became increasingly reliant on short -term 
+funding denominated in foreign currencies. 
+Indonesia’s banks, moreover, were 
+undercapitalized, poorly supervised, and 
+engaged in heavy lending to affiliated 
+companies and politically favored 
+enterprises. Following the collapse of the 
+Indonesian rupiah in mid-1997, the 
+country’s banking system was in crisis. 
+In early 1998, the government devised the 
+Indonesian Ba nk Restructuring Agency  
+(IBRA) and subsequently its Asset 
+Management Unit/Asset Management o f 
+Credits (AMU/AMC) as part of a three -
+pronged emergency plan , along with a 
+blanket guarantee of the debts of a ll 
+domestic banks and a framework for 
+corporate restructuring, to deal with 
+problems in the Indonesian banking sector. 
+Banks that came under IBRA’s umbrella 
+would transfer nonperforming loans to the 
+AMU/AMC at zero value, with any proceeds 
+ultimately returned to the banks to be used 
+in repaying government assistance . The 
+organization disposed of loan assets 
+according to size. AMU/AMC was belatedly 
+empowered after creation with expanded 
+legal powers and the ability to escalate 
+actions taken against the largest defaulting borrowers, which included regularly publishing 
+the names of recalcitrant debtors. 
+The AMU/AMC ultimately acquired almost IDR 400 trillion (approximately $86 billion)  in 
+face value of loans. It wound down on its initially scheduled end date of  February 27, 2004, 
+but the organization’s functions and its many unresolved legal cases were simply shifted to 
+a new asset management company under the Ministry of Finance. 
+Summary of Key Terms 
+Purpose: Managing the most severe nonperforming 
+loans from banks involved with IBRA 
+Launch date Announcement date: 
+January 27, 1998 
+ 
+Operational date:  
+Fall 1998 
+  
+Wind-down dates Disposal:  
+February 27, 2004 
+Size and type of NPL 
+problem 
+75% of total loans in 
+1998 
+Commercial; corporate 
+Program size Not specified at outset 
+Eligible institutions Banks participating in 
+the country’s 
+recapitalization 
+program 
+ 
+Closed- and open-bank 
+Usage  Approximately IDR 400 
+trillion in face value of 
+loans by April 2003 
+Outcomes Average recovery rate 
+for assets between 1999 
+and 2004 was 
+approximately 25% 
+Ownership structure Government-owned 
+Notable features Indonesian officials 
+vested IBRA with 
+extrajudicial powers to 
+seize assets of 
+uncooperative debtors 
+IBRA AMU/AMC 
+382
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 5 ---
+Summary Evaluation 
+IBRA has been criticized for not being as effective at managing and recovering assets as it 
+might have been due to a combination of factors , including political interference, transfer 
+issues, documentation problems, and problems with legal authority.  The average recovery 
+rate for assets between 1999 and 2004 was approximately 25%. 
+  
+383
+Indonesia: IBRA’s Asset Management Unit Smith and Nunn
+
+--- Page 6 ---
+Indonesia’s IBRA, AMU/AMC: Indonesia Context 
+GDP 
+(SAAR, Nominal GDP in LCU converted to 
+USD) 
+$226.40 billion in 1997 
+$98.23 billion in 1998 
+GDP per capita 
+(SAAR, Nominal GDP in LCU converted to 
+USD) 
+$1,064 in 1997 
+$464 in 1998 
+Sovereign credit rating (5-year senior debt) 
+ 
+As of Q4, 1997: 
+ 
+S&P Rating: BBB+ 
+Fitch Rating: BBB+ 
+ 
+As of Q4, 1998: 
+ 
+S&P Rating: B- 
+Fitch Rating: BB+ 
+Size of banking system 
+ 
+$105.50 billion in 1997 
+$44.96 billion in 1998 
+Size of banking system as a percentage of 
+GDP 
+ 
+46.60% in 1997 
+45.77% in 1998 
+Size of banking system as a percentage of 
+financial system 
+ 
+100% in 1997 
+100% in 1998 
+5-bank concentration of banking system 
+ 
+48.98% in 1997 
+60.27% in 1998 
+Foreign involvement in banking system NA 
+Government ownership of banking system 
+ NA 
+Existence of deposit insurance Yes 
+Sources: Bloomberg; World Bank Global Financial Development Database; World 
+Bank Deposit Insurance Dataset. 
+384
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 7 ---
+I. Overview 
+Background 
+Indonesia experienced a period of rapid growth in the years leading up to the Asian Financial 
+Crisis of 1997, with GDP increasing by an average of 7% to 8% per year from 1970 to 1996. 
+However, this period also witnessed the rapid liberalization of the Indonesian economy and 
+banking sector without a corresponding adoption of necessary prudential standards . 
+Indonesian businesses became increasingly dependent on short -term debt denominated in 
+foreign currencies, and the country’s undercapitalized, poorly supervised ban ks were 
+heavily exposed to weak corporate borrowers and a booming real estate market . Private 
+banks lent extensively to  affiliated companies , and state-owned banks lent extensively to 
+politically favored enterprises (Sharma 2001) . With the outbreak of the Asian Financial 
+Crisis and Thailand’s decision to float the baht in July 1997 , the Indonesian rupiah  came 
+under significant pressure. In August 1997, Indonesia floated the rupiah and its value fell by 
+more than  30% in September and October ( Lindgren et  al. 1999). Foreign lenders began 
+tightening credit, triggering a liquidity crunch that was then exacerbated when the central 
+bank raised interest rates to shore up Indonesia’s currency (Djiwandono 2005). Indonesian 
+firms and banks began experiencing difficulty servicing their foreign-currency-denominated 
+debts (Sharma 2001). At the height of the crisis, approximately 75% of total loans in the 
+Indonesian banking system were nonperforming (IMF Staff 2004). 
+Faced with these pressures, o n October 31, 1997, the government came to a three -year 
+stand-by agreement with the International Monetary Fund (IMF) over policies it was 
+prepared to implement in return for the IMF’s financial support. 3 These policies were built 
+around three objectives: a strong macr oeconomic framework that combined substantial 
+fiscal adjustment and a tight monetary stance; a strategy to restructure the financial sector, 
+including the closure of insolvent banks; and broad structural measures to improve 
+governance. Additionally, the go vernment committed to taking any additional measures 
+necessary to achieve the policies’ objectives throughout the duration of the stand -by 
+agreement (Muhammad and Djiwandono 1997). 
+The bank restructuring program that the Indonesian government rolled out in response to 
+its agreement with the IMF  covered 59 banks (representing 66 % of the banking sector’s 
+assets)4 with graduated intervention measures. On November 1, 1997 , less than 24 hours 
+ 
+3 The financial support provided was equivalent to Special Drawing Rights (SDR) 7.34 billion, or 490% of quota; 
+in turn, this was equivalent to about $1 0 billion. Financing came from the IMF, along with quick -disbursing 
+additional financing expected from the World Bank, the Asian Development Bank, and bilateral donors; the 
+bulk of this financing would be made available during the first year of the program  (Muhammad and 
+Djiwandono 1997). 
+ 
+4 There is a numerical discrepancy between these numbers (Enoch 2000)  and those provided by Sharma 
+(2001). Sharma writes that the agreement included 50 banks representing 34.3% of the banking system. 
+Further, Lindgren et al. (1999) write that the resolution package covered 50 banks, representing 34.3% of the  
+banking system.  The authors chose the Enoch (200 0) figure because it was written for the IMF  (whereas 
+Sharma (2001) was not) and in a later year than Lindgren et al. (1999), another IMF source. 
+385
+Indonesia: IBRA’s Asset Management Unit Smith and Nunn
+
+--- Page 8 ---
+after the initial agreement with the IMF, the government immediately closed 16 small, clearly 
+insolvent banks representing 2.5 % of the banking sector’s assets . The remaining banks 
+included in the program became subject to various forms of heightened supervision and 
+restructuring (Enoch 2000; Sharma 2001).  
+However, this initial attempt  at addressing weaknesses in the Indonesian banking sector 
+contributed to its continued deterioration. The closure of 16 banks fueled concerns that 
+additional failures might occur in a system with inadequate deposit insurance . Because the 
+Indonesian government did not publicly identify the remaining banks in the program, 
+depositors were uncertain about which institutions were healthy and which were not 
+(Sharma 2001). Additionally, the fact that certain of the country’s most visi bly weak banks 
+were not included among those closed led observers to believe that the government’s criteria 
+adopted by the government for closure were arbitrary (Pangestu 2003).5 
+Finally, i ndications that the government would not allow connected bankers’ and 
+businessmen’s firms to fail also damaged confidence (Djiwandono 2005). 
+The condition of the financial system in Indonesia thus worsened over the following months. 
+Bank runs became pervasive and the rupiah depreciated by 80% (Enoch 2000). This erosion 
+of the banks’ deposit base meant that Bank Indonesia (BI), the country’s central bank, had to 
+provide massive amounts of liquidity: during December 19976 alone, this support increased 
+from IDR 13 trillion to IDR 31 trillion, equivalent to 5% of GDP (Sharma 2001). 
+By January 1998, the rupiah headed into free fall. The Indonesian government signed a 
+second letter of intent with the IMF on January 15, 1998, but clearly remained unable to fulfill 
+its commitments. The currency fell further, and the banking sector’s problems deteriorated 
+into a “full-fledged systemic crisis” (Lindgren et al. 1999). 
+Thus, on January 27, 1998, the government announced a three -pronged emergency plan to 
+deal with problems in the banking sector: a blanket guarantee of th e debts of all domestic 
+banks;7 a framework for corporate restructuring ; and the establishment , for a five -year 
+period, of the Indonesian Bank Restructuring Agency (IBRA), which would function as a new 
+regulatory agency for the banking industry under the auspices of the Ministry of Finance 
+(MOF). During IBRA’s first operative year , the Indonesian economy contracted for the first 
+ 
+5 However, former Indonesian central bank governor J. Soedradjad Djiwandono stated that the country’s 
+finance minister in Parliament in 1997 mentioned five criteria for a bank to be targeted for closure: (1) bank 
+assets that could not cover liabilities; (2) a bank had insufficient income to meet its liabilities caused by bad 
+debts; (3) a bank ’s inability to mobilize public funds, forcing it to rely on the inter -bank money market; (4) 
+negative net worth; and (5) ignoring repeated warnings from the central bank (Djiwandono 2005). 
+6 During December 1997, the exchange rate of rupiah to $1 stood at 4,650 (OECD 2020). 
+ 
+7 This excluded subordinated debt and the debts of bank owners. The guarantee was set to expire on January 
+31, 2000, at which point it would be replaced by a deposit insurance scheme; the guarantee was applied 
+retroactively to the 16 liquidated banks (Sharma 2001). 
+ 
+386
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 9 ---
+time since the 1960s, and the country’s president abruptly resigned after intense domestic 
+and international pressure to do so (Sharma 2001). 
+Program Description 
+IBRA was set up to perform three main roles: 
+1. “To implement the government guarantee program, including the registration of 
+banks’ liability, premium payments, and the administering of claim verifications.” 
+2. “To restructure banks through closures, mergers, recapitalizations and eventually the 
+sale of government ownership in these troubled banks; to recover the transferred bad 
+loans; and to monitor and sell corporate assets pledged or transferred to IBRA from 
+former bank owners as collateral for emergency BI liquidity credits” 
+3. “The coordination and supervision of banks that had been frozen or closed, in order 
+to complete the whole process of closing banks” (Pangestu 2003) 
+This case will focus on one key component of  the second of these roles : the creation of  an 
+asset management unit (AMU /AMC) to handle the nonperforming loans in the Indonesian 
+banking sector. 
+The Indonesian government established IBRA as an ostensibly independent agency 
+reporting to the Ministry of F inance (Sharma 2001) . A senior official from the MOF was 
+appointed to head IBRA, and several hundred employees from the MOF and BI were assigned 
+to it to provide immediate staffing (Enoch 2000). In February 1998, IBRA took its first major 
+action, bringing 54 banks (representing almost 40% of the sector) that had borrowed heavily 
+from BI under its umbrella, subjecting them to on-site IBRA supervision and memoranda of 
+understanding restricting their activities (Enoch 2000; Bank Indonesia 1998). In April 1998, 
+IBRA assumed ownership of seven banks representing 16% of the banking system’s 
+liabilities and closed a further seven small banks (Enoch 2000). 
+Audits of the banks taken over in April undertaken by international accounting firms in the 
+summer of 1998 revealed that levels of nonperforming loans ranged from 55% to more than 
+90% (Sharma 2001). Results of audits of 15 large non-IBRA banks (presumed to be among 
+the healthiest in the country) released in August 1998 showed similar weakness, prompting 
+concerns about the solvency o f the banking system as a whole  (Lindgren et al. 1999) . In 
+response, Indonesia announced a major recapitalization plan in September 1998. This plan 
+sorted the country ’s banks into three categories based on their capital ratios , as seen in 
+Figure 1. 
+387
+Indonesia: IBRA’s Asset Management Unit Smith and Nunn
+
+--- Page 10 ---
+Figure 1: Capital Adequacy Ratio (CAR) Categories, Based on Audits of All Banks in 
+Indonesia 
+Category Description Action 
+A CAR of 4% or 
+more 
+Excluded from the recapitalization program  
+B CAR  from –25% 
+and up to less 
+than 4% 
+Allowed to submit business plans detailing their 
+viability over a three-year period to be assessed by 
+independent advisors; if these plans were approved, and 
+if the bank’s owners and managers then passed a “fit-
+and-proper” competence test by the BI,8 it could 
+participate in joint recapitalization with the 
+government9 
+C CAR less than  
+–25% 
+Not eligible for government support and would be 
+liquidated 
+Sources: Bank Indonesia 1999; IBRA 1999; Sharma 2001; Enoch 2000. 
+The AMU/AMC would be responsible for managing the assets of banks closed by IBRA. 
+Additionally, IBRA required those Category B banks that participated in joint recapitalization 
+to transfer their Category 5 loans (loans in the lowest of Indonesia’s five performance 
+categories and thus deemed a total loss) to the AMU/AMC (IBRA 1999; Lindgren et al. 1999). 
+Such banks could also opt to transfer their Category 4 loans (loans in the second lowest of 
+Indonesia’s five categories and thus deemed doubtful). Banks would transfer the loans to the 
+AMU/AMC at no cost, but any proceeds realized would be transferred to the banks to be used 
+to buy back the preference shares issued to the Indonesian government in connection with 
+the joint recapitalization (Lindgren et al. 1999). IBRA auditors would verify the status of the 
+loans to “ensure that the nonperforming loans [were] genuine and not simply debt relief for 
+well-connected borrowers”  (Adams, Litan, and Pomerleano 2000) . Additionally, t he 
+ 
+8 Bank managers had to pass a test ensuring that they were technically competent enough to run their bank 
+(Sharma 2001; Enoch 2000).  
+ 
+9 This joint recapitalization would proceed as follows: the bank “supplied unborrowed resources equivalent to 
+20% of the shortfall from the 4% capital asset ratio requirement [for all Indonesian banks at year -end 1998], 
+the go vernment would supply the remaining 80% of the shortfall. The government would obtain a 
+commensurate shareholding in the bank but would leave the owners in day -to-day control of the bank, and 
+provide the owners with the first option to buy back their share holdings at the end of three years” (Enoch 
+2000). The shareholders were requir ed to provide their 20% in cash before IBRA made any contributions 
+(Sharma 2001). 
+ 
+388
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 11 ---
+AMU/AMC managed certain non-core assets such as buildings, cars, and office equipment 
+obtained while liquidating banks (IBRA 1999; Fung et al. 2004). 
+Policymakers also created the asset management and investment (AMI) unit, which handled 
+assets pledged by former bank shareholders to settle claims stemming from violations of 
+prudential norms , as well as  equity stakes in recapitalized banks (IBRA 1999; Fung et al. 
+2004; IMF Staff 2002) . Because IBRA’s legal powers were initially limited, officials utilized 
+contracts with banks to perform some of its functions.  In exchange for its guarantee, IBRA 
+required in its contracts, among other demands, that bankers agree to more “intrusive” 
+supervision and that the institutions comply with the country’s prudential regulations 
+(Enoch et al. 2001) . The breach of the latter requirement , typically exceeding legal lending 
+limits, led to settlements in which shareholders agreed to pledge sufficient collateral to settle 
+the claims (Enoch et al. 2001 ; IMF Staff 2002 ; IBRA 1999 ). If shareholders were unable to 
+pledge sufficient collateral, the settlement required that they “refinance” their obligation and 
+provide a personal guarantee for the entire liability (IMF Staff 2002 ; IBRA 1999) . 
+Policymakers devised the scheme to recover some public sector spending for insolvent 
+banks in situations in which the courts were likely unable to be of immediate use and where 
+some owners retained “substantial financial wealth” (Enoch et al. 2001) . This became a 
+major part of IBRA’s recoveries.  
+Given the resource constraints on IBRA, it was unable to deal with all of the nonperforming 
+loans on its own. The AMU/AMC directly handled only those loans greater than IDR 25 
+billion, allowing the banks themselves to manage smaller loans either thr ough a 
+subcontracting arrangement with IBRA or directly, depending on size (Sharma 2001). 
+The AMU/AMC escalated its actions taken against the largest defaulting borrowers. In early 
+1999, the Minister of Finance created a framework that classified uncooperative borrowers 
+by their economic viability and degree of cooperation with IBR A and included plans of how 
+to deal with them. The MOF developed a schedule to this effect and tackled the l argest 
+debtors first; publicity was a key element of the strategy, as the names of the debtors were 
+regularly published (Enoch et al. 2001). Given limited resources, the AMU/AMC focused its 
+restructuring efforts primarily on its 21 largest debtors (Fung et al. 2004). 
+The AMU/AMC disposed of loan assets according to size. It did this in three primary ways: 
+(1) through corporate loan sales via open auction, (2) by outsourcing for commercial loans 
+through a selected third party (servicing agent), and (3) by dealing with small and medium 
+enterprise (SME) and retail loans, which it sold through open tender auction and crash 
+programs that allowed the debtor to settle debts by providing a 100% discount on interest 
+and penalty as well as 25% discount on principal for productive loans only (Fung et al. 2004). 
+Outcomes 
+Figure 2 shows the breakdown of the Indonesian banking sector prior to IBRA’s adoption 
+and how IBRA’s operations ultimately changed the sector. As indicated in Figure 2, 
+Indonesia’s bank sorting exercise identified 73 Category A private banks not in need of 
+government assistance, 37 Category B private banks potentially eligible for joint 
+recapitalization, and 17 Category C banks to be liquidated.  Of the 37 Category B private 
+banks, nine were ultimately eligible for joint recapitalization. 
+389
+Indonesia: IBRA’s Asset Management Unit Smith and Nunn
+
+--- Page 12 ---
+Figure 2: Indonesian Banking Sector, Before and During IBRA 
+ 
+ 
+ 
+ 
+Source: Fane and McLeod 2002. 
+By April 2003, the AMU/AMC had acquired IDR 392 trillion in face value of loans  from 
+recapitalized banks and from institutions that IBRA had liquidated (see Figure 3). The largest 
+loans of more than IDR 50 billion comprised the bulk of the total principal outstanding.  
+Approximately half of the loans acquired were foreign currency-denominated, primarily in 
+the US dollar (Fung et al. 2004). 
+390
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 13 ---
+Figure 3: Loans Acquired by IBRA 
+ 
+ 
+ 
+ 
+Source: Fung et al. 2004.10 
+Despite having been in operation since January 1998, IBRA was not able to begin disposing 
+of assets until mid -1999. This was due to a host of factors , including inadequate loan 
+documentation and administration, insufficient collateral, and the difficulty involved in 
+selling such highly distressed loans. The average recovery rate for assets between 1999 and 
+2004 was approximately 25%  (IMF Staff 2004) . However, Guerin (2002) wrote in the Asia 
+Times in September 2002  that “IBRA’s recent success in asset auctions  . . . lost some of its 
+gloss when it was disclosed that the very people who owned them in the first place probably 
+bought most of these assets back—at an average 25 cents on the dollar.” 
+IBRA’s attempts at loan restructuring , having focused primarily on the 21 largest debtors, 
+achieved more limited results with other loans. As shown in Figure 4, while the restructuring 
+of almost all debt of the 21 largest debtors was either complete or in late stages by June 2002, 
+the corresponding figure for debtors outside the top 50 largest was less than 40%. 
+ 
+10 The second “SME/Retail” figure included in the table’s note is mislabeled and should read “Corporate.”  
+391
+Indonesia: IBRA’s Asset Management Unit Smith and Nunn
+
+--- Page 14 ---
+Figure 4: Loans Restructured by IBRA 
+ 
+ 
+ 
+ 
+Source: Fung et al. 2004. 
+IBRA wound down on its initially scheduled end date of February 27, 2004  (Omori 2014). 
+However, it had not completed its work within the timeframe allotted, and it still held 
+approximately $8.3 billion in assets, which were shifted in part to a new asset management 
+company under the MOF and in part to an oversight committee of cabinet ministers. Thus, it 
+appears that IBRA wound down up in name only. At the time, there were still 1,361 reported 
+unresolved legal cases surrounding its portfolio, which came to IDR 25 bill ion and 
+encompassed 447 debtors (McLeod 2005). 
+II. Key Design Decisions 
+1. Part of a Package: Policymakers combined t he AMU/AMC with bank 
+recapitalization, both part of a three-pronged emergency plan to deal with 
+problems in the banking sector , along with a blanket guarantee and a framework 
+for corporate restructuring. 
+The emergency plan  introduced by the government on January 27, 1998 , in response to 
+worsening conditions in the Indonesian banking sector and pressure from the IMF, entailed 
+a blanket guarantee  of the debts of all domestic banks , a framework for corporate 
+restructuring, and the establishment (for a five -year period) of IBRA, which would function 
+as a new regulatory agency for the banking industry under the auspices of the Ministry of 
+Finance (Sharma 2001). IBRA also took on assets from banks slated for liquidation and from 
+institutions requesting recapitalization.  
+The blanket guarantee was an attempt to stem the bank runs that were then destabilizing 
+the system. It covered deposits and most other creditor claims (excluding subordinated 
+debt) of domestically incorporated banks, whether denominated in rupiah or foreig n 
+392
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 15 ---
+currencies. The framework for corporate restructuring, meanwhile, called for a voluntary, 
+temporary suspension of payments on corporate external debt.  “However, the government 
+made it clear that there would be no use of public financing, guarantee, or su bsidy to erase 
+the debt and reimburse unguaranteed creditors looking for financial redress ” (Sharma 
+2001). 
+The share of corporate debt held by foreign private banks, roughly two -thirds, influenced 
+Indonesia’s corporate restructuring strategy (Iskander et a l. 1999). Indonesia officials met 
+with its biggest foreign creditors in Frankfurt, Germany , in June 1998 and reached an 
+agreement to offer foreign exchange cover for Indonesian companies with foreign-currency-
+denominated debt (after reaching debt restructuring agreements)  (Iskander et al. 1999 ; 
+Sharma 2001). Then, in September 1998, the Indonesian government introduced the Jakarta 
+Initiative and the Jakarta Initiative Task Force to facilitate voluntary negotiations between 
+parties for corporate res tructuring and to secure necessary regulatory approval for deals  
+(Sharma 2001). Additionally, changes to bankruptcy law were introduced in August 1998 
+that improved efficiency, transparency, and, among a variety of over revisions, placed 
+limitations on secured creditors’ ability to foreclose on collateral during proceedings, “thus 
+making reorganizations more likely” (Iskander et al. 1999). 
+In short, IBRA was in charge of restructuring corporate borrowers’ debt held by state banks 
+and recapitalized banks, while the Jakarta Initiative handled corporate borrowers’ foreign 
+debts (Bank Indonesia 2001). 
+2. Legal Authority: Indonesia issued a presidential decree to establish IBRA and later 
+strengthened its legal powers to enable the AMU/AMC to operate effectively. 
+On January 26, 1998 , the Decree of the President of the Republic of Indonesia No.  27 
+established IBRA for a period of five years under the auspices of the Ministry of Finance  
+(Decree No. 27 1998). The AMU/AMC was in turn established under the auspices of IBRA as 
+a separate asset management entity (Sharma 2001). Despite this authorization, the absence 
+of certain powers hampered IBRA’s effectiveness, particularly when its goals were at odds 
+with entrenched political and business interests. 
+Specifically, IBRA did not have the necessary ability to transfer assets or to foreclose on 
+collateral. Provisions of the Law No. 10 of 1998 (the Banking Law) passed in October 1998 
+solidified the legal basis for the organization’s activities (IBRA 1999). These amendments to 
+Section 37A of the Banking Law strengthened the legal powers of both IBRA and the 
+AMU/AMC, empowering them with the ability to transfer assets and foreclose against a 
+nonperforming debtor (Lindgren et al. 1999; IBRA 1999). 
+IBRA also faced challenges through the court system, “where—even after a challenge to the 
+constitutionality of  IBRA's powers was dismissed —IBRA's bankruptcy petitions were 
+rejected by judge after judge” (Enoch et al. 2001). IBRA finally began winning these cases in 
+mid-2000 (Enoch et al. 2001). 
+Legal and regulatory mechanisms were often unable to make up for powerful political and 
+business interests. An IMF analyst estimated that the top 10 families in Indonesia in the late 
+1990s controlled corporations worth more th an half the country's market capitalization  
+393
+Indonesia: IBRA’s Asset Management Unit Smith and Nunn
+
+--- Page 16 ---
+(Iskander et al. 1999) . Many of the bank shareholders were prominent individuals with 
+strong political connections who appear to have kept IBRA from enforcing agreements, 
+despite the entity possessing strong enfo rcement mechanisms  (IMF Staff 2004) . For 
+example, IBRA took over one of the country’s largest banks, BDNI, and, under the Jakarta 
+Stock Exchange rules, needed a declaration of insolvency for the bank  to be able to write 
+down shareholders’ stakes. BDNI’s shareholders were able to utilize technical procedures to 
+prevent the declaration  (Enoch 2000). Well-connected businessmen, particularly those in 
+contact with the former president Suharto’s family, were  able to delay IBRA’s plans  too 
+(Omori 2014). 
+Last, IBRA was “subject to considerable political interference ,” with some restructuring 
+agreements seeming to “focus on meeting employment or national interest concerns, rather 
+than placing the firm on a commercially viable footing ” (IMF Staff 2004). The “prospective 
+redistribution of wealth in Indonesia was so substantial that the vested interests that IBRA 
+encountered were pervasive across its operations” (Enoch et al. 2001).  
+3. Special Powers: Indonesian officials vested IBRA with extrajudicial powers to seize 
+assets of uncooperative debtors. 
+Policymakers eventually equipped IBRA with so -called PP17 powers in October 1999 to 
+“drive debt without judicial rulings” (Gooptu et al. 2000). IBRA, like any other creditor, could 
+use the normal bankruptcy proces s, but the PP17 powers  allowed IBRA to seize assets of 
+uncooperative debtors. IBRA initially used these powers two months later in December to 
+seize 14 hectares of property from PT Sinar Slipi Sejahtera , a debtor firm owned by former 
+president Suharto's daughter (Gooptu et al. 2000).  
+Still, statements made in subsequent years by an IBRA chairman suggested the seizure 
+powers were not used often. During a meeting with a government committee in 2003, then–
+IBRA chairman Syafruddin A. Temenggung  complained that IBRA was generally unable to 
+exercise these powers. Temenggung stated that of 76 attempted seizures, only three were 
+successful, with the country’s courts ruling against the rest (Tempo 2004). 
+4. Mandate: Indonesian policymakers established the AMU/AMC to clean up banks’ 
+balance sheets. 
+The AMU/AMC ran the  “loan workout on the transferred loans to maximize their return”  
+(Bank Indonesia 1999). Because of the large volume of transferred assets, policymakers also 
+gave the AMU/AMC the ability to subcontract certain loan management to eligible banks. 
+Last, proceeds from loan repayment were used to dilute the size of government stocks in 
+participating financial institutions (Bank Indonesia 1999). 
+5. Communication: The Indonesian government initially restricted communication 
+about IBRA. 
+The closure of 16 banks in November 1997 as part of the original IMF agreement contributed 
+to a run on the Indonesian banking system.  The Indonesian government later determined 
+not to publicize the early operations of IBRA following its establishment in January 1998.  
+Specifically, a last -minute decision was made not to publicly disclose the February 1998 
+394
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 17 ---
+move to bring 54 banks under IBRA’s umbrella  (Enoch 2000). This initial misstep “failed to 
+strengthen market sentiment” (IMF Staff 2004) and caused the public to perceive of IBRA as 
+a nonoperational “paper  tiger” during the preliminary stages of its operations  (Sharma 
+2001). The lack of publicity also seems to have unde rmined the status of IBRA officials 
+working onsite at those banks subject to the operation (Enoch 2000). 
+Still, Indonesia appointed a new IBRA team in March 1998 , which acknowledged the need 
+for “transparency and uniformity of treatment of the banks” and publicity for its decisions  
+(Enoch 2000). This strategy shift included hiring public relations professionals that helped 
+the institution communicate its interventions and decisions  (Enoch 2000). In 1999, IBRA 
+officials stated the goal of the agency’s c ommunication strategy was to “maintain support 
+from the public at large for IBRA through providing correct, timely and complete information 
+on IBRA and its activities” (IBRA 1999).  
+6. Ownership Structure: IBRA was established as an ostensibly independent age ncy 
+reporting to the Ministry of Finance. 
+Omori (2014) writes that despite “the IMF’s suggestion that the IBRA should be an 
+autonomous body, [it] was placed under the MOF’s authority and was thus dependent upon 
+the ministry” (Omori 2014). Still, BI called IBRA “autonomous” in an annual report  (Bank 
+Indonesia 1998). 
+7. Governance/Administration: A MOF senior official, the state -owned enterprises 
+minister, and the Financial Sector Policy Committee oversaw IBRA. 
+A senior official from the MOF was appointed  to head IBRA, and several hundred staff 
+members from the MOF and BI were assigned to it as staff (Enoch 2000). 
+The state -owned enterprises minister and the Financial Sector Policy Committee (FSPC) 
+oversaw IBRA. The FSPC was a government body chaired by th e Coordinating Minister of 
+Economy “to decide and coordinate government policies on the financial system ” (Fung et 
+al. 2004). Its members included the ministers of finance and trade and industry and the state 
+ministers of national planning and state-owned enterprise (Fung et al. 2004; IBRA 1999). 
+The Oversight Committee (OC) , which was set up by and reported to the FSPC , met at least 
+weekly and monitored IBRA’s performance and provide d independent review of IBRA’s 
+restructuring. The OC made recommendations about matters such as transparency and asset 
+disposals. The body consisted of nine members , including a former minister of finance, the 
+chairman of IBRA, and representatives from the private sector and the academic world (Fung 
+et al. 2004) . Officials tasked the OC with independent review  of the largest corporate 
+restructuring transactions prior to their submission to the government for final approval . 
+Policymakers gave the OC the new m andate as they strengthened corporate debt 
+restructuring principles in 2001 in response to criticism regarding generous restructuring 
+terms to some of IBRA’s largest debtors . The OC’s recommendations were not binding, but 
+the mere publishing  of them  “meant that the final restructuring terms agreed by the 
+government would be subjected to somewhat greater public scrutiny” (IMF Staff 2004). 
+395
+Indonesia: IBRA’s Asset Management Unit Smith and Nunn
+
+--- Page 18 ---
+OC reports do not appear to be publicly available,  but a September 2001 news report from 
+the Jakarta Post  suggests that officials created a public website meant to house the OC’s 
+reviews and activities (Jakarta Post 2001).11 This web page may have been part of a larger 
+website that IBRA officials operated that acted as a general information center for the public 
+(IBRA 1999). 
+Policymakers established the Audit Committee, a standing committee of the OC that included 
+five independent professionals, “to enhance the standard of financial reporting by IBRA and 
+to ensure standards of corporate governance and control ” (Fung et al. 2004). Internal audit 
+was formed later in 1998 to ensure transparency. Additionally, IBRA employed independent 
+public accountants to audit its financial statements (Fung et al. 2004). Figure 5 illustrates the 
+governance structure for IBRA. 
+Figure 5: IBRA Governance Structure 
+ 
+ 
+ 
+ 
+Source: Fung et al. 2004. 
+A number of external, independent parties, including the House of People’s Representatives 
+and the Supreme Audit Agency, possessed the right to conduct reviews and audits of IBRA’s 
+operational activities  (IBRA 1999). The extent to which external parties did so is unclear 
+with available documents. 
+Despite its ostensible independence, IBRA faced regular political interventions, often at the 
+highest levels. At the beginning of the entity’s existence, President Suharto re fused to 
+publicize certain IBRA operations  and fired a BI governor and the head of IBRA  (Sharma 
+2001). President Suharto’s successor later threatened to reverse the joint recapitalization 
+plan and instead briefly pushed for forced mergers (Lindgren et al. 1999). 
+Additionally, IBRA has been described as “needing to obtain political authority even for its 
+technical operations” (Enoch 2000). This stems partly from the fact that IBRA was subject to 
+the influence of many political entities, from the BI to Parliament and the IMF, because of its 
+broad mandate (Fung et al. 2004) . Smaller levels of  political and bureaucratic interference 
+ 
+11 The web address the article gives does not lead to a working website, and web archive searches do not 
+reveal archived versions of the website. 
+396
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 19 ---
+can be seen in IBRA’s initial relationship with the BI, whose staff members saw IBRA “ as an 
+indictment of their record” and were at times uncooperative (Enoch 2000). 
+One of IBRA’s biggest errors resulted in part from both political intervention and governance 
+failures. Bank Bali, one of the country’s largest banks, made side payments to a government-
+connected firm to receive payments under the inter -bank guarantee to close its capital 
+shortfall and gain access to the recapitalization program. The fallout was broad. IBRA and BI 
+officials were fired, and criminal charges were brought against “intermediaries, although no 
+convictions were secured ” (Enoch et al. 2001) . This scandal led t he IMF to suspend its 
+funding to Indonesia in September 1999 (Sharma 2001). 
+The political storm s urrounding the so-called BLBI bonds is another example. These bonds 
+were used as liquidity assistance by BI to provide emergency loans to banks that experienced 
+liquidity problems during the Asian crisis  (Fung et al. 2004) . Pangestu (2003) writes that 
+there “are many controversies surrounding the issuance of BLBI bonds regarding the size of 
+the liquidity support that could be much larger than the asset [s] of the troubled bank itself; 
+and that the assets pledged by the bank owners and shareholders in return to the support 
+given by Bank Indonesia being significantly less than the amount of liquidity support 
+received by these banks .” An investigative audit by  the country’s Supreme Audit Agency 
+found that trillions of rupiah issued in 1997 to 1998 were misused by the recipient banks, 
+“most of which were owned by cronies or relatives of Soeharto [sic]” (Stern 2004).  Stern 
+(2004) argues the “ issue of whether Bank  Indonesia management should have behaved 
+differently . . . will not be easily resolved.” The controversy has continued . In recent years, 
+the government has brought charges against former IBRA chairman Temenggung and others 
+(Hasbullah 2019).  
+Together, these problems contributed to major turnover among senior staff, including seven 
+different chairmen in a four-year period (Fung et al. 2004).  
+8. Size: There was no pre-established limitation on the AMU/AMC’s size. 
+Available documentation does not suggest policymakers established size limits for IBRA’s 
+AMU/AMC. The AMU/AMC ultimately acquired almost IDR 400 trillion in face value of loans 
+(Fung et al. 2004; IMF Staff 2004).  
+9. Funding Source: The Indonesian public contributed $20 billion for nonperforming 
+loans or capital for IBRA’s AMU/AMC. 
+As of mid-1999, the Indonesian public spent, in total, $85 billion USD on the financial system 
+restructuring efforts, with most of the funds paying for recapitalization and liquidity support 
+(Lindgren et al. 1999). IBRA was financed by a combination of both medium- and long-term 
+government-guaranteed bonds paying an average of 14% annually in interest; some of these 
+bonds were inflation indexed (Sharma 2001). 
+All cash recovered from IBRA’s operations, after expense deductions,  was transferred to 
+reduce the state budget deficit (Fung et al. 2004). 
+397
+Indonesia: IBRA’s Asset Management Unit Smith and Nunn
+
+--- Page 20 ---
+10. Eligible Institutions: Institutions required to transfer assets to the AMU/AMC 
+included those liquidated by IBRA and  those participating in a joint 
+recapitalization with IBRA. 
+The Indonesian government established IBRA in part to oversee the closure of banks that 
+were deemed too insolvent to be eligible for assistance. Indonesian policymakers separated 
+banks into three categories  based on independent audits of all state, nationalized, regional, 
+and private banks (Sharma 2001). The categories are detailed in  the Program Description 
+section of this study . Banks participating in the recapitalizat ion program were required to 
+transfer some of their bad assets to the AMU/AMC , the selection of which is detailed in Key 
+Design Decision No. 11, on  eligible assets (Bank Indonesia 1999) . As part of the closure  of 
+chosen banks, assets were transferred to the AMU/AMC to manage (Sharma 2001). 
+11. Eligible Assets: The AMU/AMC focused on the most distressed nonperforming 
+loans. 
+New regulations passed in December 1998 established five categories for the cl assification 
+of loans, as shown in Figure 6. 
+Figure 6: Loan Classifications 
+Category Required Provisioning 
+Pass 1% 
+Special Mention 5% 
+Substandard 15% 
+Doubtful 50% 
+Loss 100% 
+Source: Lindgren et al. 1999. 
+The AMU/AMC managed loans in all categories from the banks IBRA closed . Banks 
+participating in IBRA’s joint recapitalization program had to transfer Category 5 loans to the 
+AMU/AMC. The banks could also opt to transfer their Category 4 loans  (Bank Indonesia 
+1999). 
+Corporate loans made up approximately 84% of IBRA’s loan portfolio, which also included 
+retail and SME debt at about 8% and commercial loans at about 8% (IMF Staff 2002). 
+398
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 21 ---
+12. Acquisition - Mechanics: Policymakers limited the size of the loans the AMU/AMC 
+handled in house.  
+There were limitations on t he size of the loans the AMU/AMC handled directly. The 
+AMU/AMC subcontracted management of bad loans valued between IDR 5 billion and IDR 
+25 billion back to the individual banks and supervised their efforts . Individual banks 
+remained responsible for handling loans of less than IDR 5 billion. The AMU/AMC directly 
+handled only those loans of greater than IDR 25 billion (Sharma 2001). 
+13. Acquisition - Pricing: Banks transferred assets  to the AMU/AMC at no cost  but 
+received any proceeds from their ultimate disposal. 
+Banks transfer red nonperforming loans to the AMU/AMC at no cost , but  any proceeds 
+realized were transferred to the banks to be used to buy  back the preference shares issued 
+to the Indonesian government in connection with th e joint recapitalizatio n. This approach 
+provided the government with the prospect of an early return on its recapitalization 
+investment and reduced the amount the legacy shareholders would have to pay to regain full 
+control of the bank (Lindgren et al. 1999). 
+14. Management and Disposal: The AMU/AMC disposed of loan assets according to 
+size. 
+The AMU/AMC disposed of loan assets in three ways: through corporate loan sales via open 
+auction, by outsourcing for commercial loans through a selected third party (servicing 
+agent), and by dealing with small and medium enterprise (SME) and retail loans, which it 
+sold through open tender a uction and “crash” programs that allowed the debtor to settle 
+debts by providing a 100% discount on interest and penalty as well as 25% discount on 
+principal for productive loans only  (Fung et al. 2004) . Loans that did not enter these retail 
+and SME mechanisms were offered for sale through loan auctions (IMF Staff 2002). 
+Policymakers utilized the outsourcing strategy to allow IBRA to deploy its resources to 
+restructure corporate loans, which made up most of IBRA’s loan portfolio. Between May and 
+August 2000, IBRA engaged four banks to service separate tranches of commercial loans, 
+with a total face value of roughly IDR 13.5 trillion . These servicing agents were paid a 
+management fee for handling the assets and following up on debt servicing issues (IMF Staff 
+2002). Further details about servicing arrangements are unclear from the  available 
+documentation. 
+IBRA also introduced several new asset programs that the AMU/AMC used to speed up the 
+loan sale process. These included the asset to bond swap program  for corporate loans 
+(introduced in late 2001) , by which eligible investors were able to use government 
+recapitalization bonds as payment for IBRA assets;  the collateralized debt obligation (CDO), 
+through which IBRA securitized a diversified portfolio of restructured loans and loans in the 
+MOU stage in late 2002; and the loans that were not restructured , through which IBRA sold 
+many unrestructured corporate, commercial, and retail loans in 2002 (Fung et al. 2004). 
+This last change was “fundamental” and “based on the realization that the restructuring 
+progress had stagnated and had put at risk IBRA’s ability to complete the asset recovery 
+399
+Indonesia: IBRA’s Asset Management Unit Smith and Nunn
+
+--- Page 22 ---
+process before the expiry of its mandate” (IMF Staff 2004). BI stated in its 2000 annual report 
+that restructuring progress was hindered by difficulties related to the size of haircuts on debt 
+principal owed to lending syndicates made up of foreign banks, state banks, and private 
+domestic banks. The central bank als o mentioned the then -volatile exchange rate and the 
+imposition of income taxes on debtors on the haircuts (Bank Indonesia 2001). 
+IBRA officials thought “ shifting the restructuring responsibility to the private sector would 
+increase asset recovery, as investors would place value on the added flexibility to restructure 
+the assets in accordance with their own financial and strategic consideration s” (IMF Staff 
+2004). This strategy shift suggested political influence, powerful interests, and IBRA’s lack 
+of stronger powers frustrated IBRA staffers, leading them to “slowly [surrender] its battle of 
+attrition with the country's richest, most powerful people” and to begin selling loans “one by 
+one, unrestructured—loans that many bankers and former IBRA officials  say are virtually 
+worthless to anyone but the borrowers” (Arnold 2003). 
+IBRA’s initial restructuring aims centered on so -called Top 21 obligors , named as such 
+because of their roughly one -third share of total IBRA loans . Officials utilized an “obligor” 
+concept to manage loan assets, which involved handling debtor companies belonging to the 
+same conglomerate, or obligor, together (IMF Staff 2002) . The restructuring itself entail ed 
+an assessment of the debtor company’s financial situation with a subsequent determination 
+of a “sustainable” amount of debt , which would be sold.  The unsustainable portion was 
+converted into equity or quasi -equity with an eye toward eventual sale (IMF Staff 2002) . 
+Policymakers initially attempted to restructure loans prior to sale for three reasons: 
+• to aid real sector recovery through improvement of the financial position of indebted 
+firms, thus allowing them to regain access to credit markets; 
+• to improve corporate governance and managerial control  (as IBRA was usuall y the 
+primary creditor and could install new management); and  
+• to strengthen the banking system prior to the return of  a large amount of 
+nonperforming loans (IMF Staff 2002). 
+15. Timeframe: IBRA was established with a five-year window of operation. 
+IBRA’s stated rationale for having a pre -defined lifespan of five years was that its existence 
+was a reminder that the country was in crisis such that ceasing operations as soon as possible 
+would be beneficial (Fung et al. 2004). IBRA formally wound down on its initially scheduled 
+end date of February 27, 2004  (Omori 2014). Yet at the time it still held billions in assets, 
+which were shifted in part to a new asset management company under the MOF and in part 
+to an oversight committee of cabinet ministers. 
+III. Evaluation 
+The AMU/AMC took over assets  from a variety of institutions during the financial sector 
+restructuring to deal with the “unprecedented” amount of nonperforming loans in the 
+banking system (Sharma 2001) . Still, one criticism of IBRA is that the levels of 
+400
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 23 ---
+nonperforming loans in the system remained high even after the asset transfers  (Pangestu 
+2003). Nonperforming loans declined to 6% of total loans in September 2003  from 75% at 
+the height of the country’s crisis (IMF Staff 2004). 
+IBRA was also criticized for being slow to mobilize on the disposal of its assets (both the 
+loans it took over and its equity stakes.) Enoch et al. (2001) write that “to some extent, this 
+[criticism] is undoubtedly justified,” but “in mitigation, one should recall the deep intensity 
+of the crisis and the ongoing political transition, freezing investor interest with regard to any 
+involvement in the country”  (82). Further, the authors elaborate , due to IBRA’s reliance on 
+special powers, it was unable to operate effectively until the law and the regulations 
+surrounding its operation became effective. “For unexplained reasons, each stage of the 
+passage of the law was protracted, and it was not until February 1999 that IBRA was able to 
+use its powers. As a result, it was, for instance, unable to manage the assets of the banks 
+closed in April 1998 for ten months after the closures: the result was undoubtedly a 
+depletion in the value of the assets, and an increase in the ultimate cost of the banking sector 
+restructuring for the public sector” (111).  
+During some (unspecified) part of IBRA’s operational period, it retained assets on its books 
+at face value, which kept the organization from negotiating realistic deals. While this reduced 
+moral hazard, any deal negotiated appear ed to the public as a loss “rather than a recovery 
+from losses incurred earlier.” This is likely to have contributed to IBRA’s poor public image, 
+because “it led to a perception that it was selling the country ‘cheap’ and, hence, denied IBRA 
+the popular protection that would enable it to better withstand the powerful vested interests 
+set against it” (Enoch et al. 2001).  
+Additionally, Enoch et al. (2001) elaborate that, due to IBRA’s lack of effective penalties 
+against nonperforming debtors, it struggled to collect loans, “which gave rise to ever-higher 
+needs for provisioning” (97).The state banks were particularly egregious:  because these 
+banks expected that their loss loans would be transferred to the AMU/AMC and they would 
+be fully recapitalized, they did not see a  compelling reason  to go after nonperforming 
+debtors. “Some banks were particularly generous in their deposit rates, while having no 
+evident strategy for enhancing  loan recoveries. The overall result was that, even while the 
+nominal interest rate spreads in the banking sector were negative, there was a continued 
+need for banks to make additional provisioning, further worsening the insolvency of the 
+sector” (97). 
+Further, there was difficulty in setting up the legal framework that enabled IBRA to deal with 
+its assets, and the amount of labor required to document all of the assets and prepare them 
+for sale was enormous (Enoch et al. 2001). There were also major documentation problems, 
+which impeded the transfer of loans from frozen and closed banks to IBRA (Fung et al. 2004). 
+McLeod (2005) writes that “it is difficult to judge whether IBRA can be regarded as a success. 
+Clearly, the amount of cash it [was] able to return to the government [was] only a small 
+proportion (about 25%) of the value of the bonds the government issued to bail out banks’ 
+creditors . . . but of course most, if not all, of the assets in IBRA’s portfolio were severely 
+compromised at the outset,  and there was no realistic expectation that the full book value 
+could be recovered. 
+401
+Indonesia: IBRA’s Asset Management Unit Smith and Nunn
+
+--- Page 24 ---
+“In any case, IBRA’s performance suffered greatly from political interference, as could only 
+have been expected given the vast sums involved. Top management of the institu tion was 
+changed on numerous occasions as presidents came and went and as each president sought 
+to achieve the outcomes desired”  (43). The “prospective redistribution of wealth in 
+Indonesia was so substantial that the vested interests that IBRA encountered were pervasive 
+across its operations” (Enoch et al. 2001). This political interference was a “major problem 
+leading to delays and inconsistencies in the restructuring process” (Pangestu 2003). Some 
+restructuring agreements seemed to “focus on meeting empl oyment or national interest 
+concerns, rather than placing the firm on a commercially viable footing”  (IMF Staff 2004) . 
+Pangestu (2003) argues “ restructuring cannot proceed without the full commitment by 
+Government to support the agencies undertaking the restructuring” (32).  
+Additionally, efforts were hampered by an implicit guarantee in the financial sector. 
+Indonesian bankers believed the government would bail out their institutions, given only 
+one bank had been allowed to fail in the 19 90s and there were cases of government banks 
+and private banks being bailed out (Pangestu 2003). 
+Fung et. al. (2004) have argued that IBRA’s broad mandate may have hampered its 
+effectiveness, with one organization acting as “an asset management company, an  agent to 
+carry out recapitalization, an agent for the blanket guarantee, a manager/supervisor of 
+almost 80% of the banking system, and a restructuring agent of the banking system through, 
+e.g. merging banks” (15). 
+IBRA's final chairman, Temengg ung, summed up what he saw as one of IBRA’s biggest 
+weaknesses: not letting the market play a big enough role. Countries “dealing with 
+nonperforming loan problems should push their banks to dispose of bad assets through the 
+private sector” (Holland 2004). 
+IV. References 
+Adams, Charles, Robert E. Litan, and Michael Pomerleano. 2000. Managing Financial and 
+Corporate Distress: Lessons from Asia. Brookings Institution Press.  
+https://ypfs.som.yale.edu/library/managing-financial-and-corporate-distress-lessons-asia. 
+Arnold, Wayne. 2003. “Indonesian Bank Agency Fading Out.” New York Times , October 2, 
+2003.  
+https://ypfs.som.yale.edu/library/indonesian-bank-agency-fading-out. 
+Bank Indonesia. 1998. “Bank Indonesia Report for the Financial Year 1997/98 .” Bank 
+Indonesia. 
+https://ypfs.som.yale.edu/library/bank-indonesia-report-financial-year-199798. 
+Bank Indonesia. 1999. “Bank Indonesia Report for the Financial Year 1998/99 .” Bank 
+Indonesia. 
+https://ypfs.som.yale.edu/library/bank-indonesia-report-financial-year-199899. 
+402
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 25 ---
+Bank Indonesia. 2001. “Bank Indonesia Annual Report 2000,” 2001. Bank Indonesia.  
+https://ypfs.som.yale.edu/library/bank-indonesia-annual-report-2000. 
+“Decree of the Presid ent of the Republic of Indonesia No. 27 of 1998.” Indonesian 
+Government.  
+https://ypfs.som.yale.edu/library/decree-president-republic-indonesia-no-27-1998. 
+Djiwandono, J. Soedradjad. 2005. Bank Indonesia and the Crisis: An Insider’s View . ISEAS –
+Yusof Ishak Institute. 
+https://ypfs.som.yale.edu/library/bank-indonesia-and-crisis-insiders-view. 
+Enoch, Charles. 2000. “Interventions in Banks During Banking Crises: The Experience of 
+Indonesia,” March 2000. International Monetary Fund.  
+https://ypfs.som.yale.edu/library/interventions-banks-during-banking-crises-experience-
+indonesia. 
+Enoch, Charles, Barbara Baldwin, Olivier Frécaut, and Arto Kovanen. 2001. “Indonesia: 
+Anatomy of a Banking Crisis Two Years of Living Dangerously 1997 -99.” WP/01/52, May 
+2001. International Monetary Fund.  
+https://ypfs.som.yale.edu/library/indonesia-anatomy-banking-crisis-two-years-living-
+dangerously-1997-99. 
+Fane, George, and Ross H. McLeod. 2002. “Banking Collapse and Restructuring in Indonesia, 
+1997-2001.” Cato Journal 22 (2): 277–95. 
+https://ypfs.som.yale.edu/library/banking-collapse-and-restructuring-indonesia-1997-
+2001.  
+Fung, Ben, Jason George, Stefan Hohl, and Guonan Ma. 2004. “Public Asset Management 
+Companies in East Asia.” FSI Occasional Papers, February 26, 2004. Bank for Inte rnational 
+Settlements – Financial Stability Institute.  
+https://ypfs.som.yale.edu/library/public-asset-management-companies-east-asia. 
+Gooptu, Sudarshan, Ruth Neyens, Bernard Drum, Sarah Cliffe, and Lant Pritchett. 2000. 
+“Indonesia Economic and Social Update.” Brief 51202, January 31, 2000. World Bank.  
+https://ypfs.som.yale.edu/library/indonesia-economic-and-social-update. 
+Guerin, Bill. 2002. “Indonesia’s Cycle of Subservience to the IMF.” Asia Times, September 10, 
+2002. 
+https://ypfs.som.yale.edu/library/indonesias-cycle-subservience-imf. 
+Hasbullah. 2019. “Analysis of Corruption Settlement for Obligor Deviations of Bank 
+Indonesia Liquidity Assistance (BLBI).” Indonesian Journal of Criminal Law Studies 4 (1): 15–
+28. 
+https://ypfs.som.yale.edu/library/analysis-corruption-settlement-obligor-deviations-
+bank-indonesia-liquidity-assistance-blbi. 
+403
+Indonesia: IBRA’s Asset Management Unit Smith and Nunn
+
+--- Page 26 ---
+Holland, Tom. 2004. “How to Fix a Bank, Revisited.” Wall Street Journal , May 19, 2004.  
+https://ypfs.som.yale.edu/library/how-fix-bank-revisited. 
+IBRA. 1999. “Strategic Plan 1999-2004.” Indonesian Bank Restructuring Agency. 
+IMF Staff. 2002. “Staff Country Reports: Indonesia: Selected Items.” IMF Country Report 
+02/154, 2002. International Monetary Fund.  
+https://ypfs.som.yale.edu/library/indonesia-selected-issues. 
+IMF Staff. 2004. “Staff Country Reports: Indonesia: Selected Items.” 04/189, July 2004. 
+International Monetary Fund.  
+https://ypfs.som.yale.edu/library/staff-country-reports-indonesia-selected-items. 
+Iskander, Magdi, Gerald Meyerman, Dale F. Gray, and Sean H agan. 1999. “Corporate 
+Restructuring and Governance in East Asia.” Finance and Development /F&D 36 (1).  
+https://ypfs.som.yale.edu/library/corporate-restructuring-and-governance-east-asia. 
+Jakarta Post. 2001. “JP/IBRA’s OC Launches Website.” Jakarta Post , Se ptember 18, 2001.  
+https://ypfs.som.yale.edu/library/jpibras-oc-launches-website. 
+Lindgren, Carl-Johan, Tomás J.T. Baliño, Charles Enoch, Anne-Marie Gulde, Marc Quintyn, and 
+Leslie Teo. 1999. “Financial Sector Crisis and Restructuring: Lessons from Asia.” O ccasional 
+Papers 188. Occasional Papers, 1999. International Monetary Fund.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Lindgren%20et%20al.%20
+1999.pdf. 
+McLeod, Ross H. 2005. “The Economy: High Growth Remains Elusive.” In Budy P. 
+Resosudarmo, ed. The Politics and Economics of Indonesia’s Natural Resources, 31–50. ISEAS–
+Yusof Ishak Institute. 
+https://ypfs.som.yale.edu/library/politics-and-economics-indonesias-natural-resources. 
+Muhammad, Mar’ie, and J. Soedradjad Djiwandono. 1997. “Letter of Intent  from the 
+government of Indonesia to the International Monetary Fund,” October 31, 1997.  
+https://ypfs.som.yale.edu/library/letter-intent-0. 
+Omori, Sawa. 2014. “The Politics of Financial Reform in Indonesia: The Asian Financial Crisis 
+and Its Aftermath.” Asian Survey  54 (5): 987 –1008. 
+https://ypfs.som.yale.edu/library/politics-financial-reform-indonesia-asian-financial-
+crisis-and-its-aftermath.  
+Organization for Economic Co -operation and Development  (OECD). 2020. “National 
+Currency to US Dollar Spot Exchange Rate for Indonesia.” FRED, Federal Reserve Bank of St. 
+Louis. FRED, Federal Reserve Bank of St. Louis.  
+https://ypfs.som.yale.edu/library/national-currency-us-dollar-spot-exchange-rate-
+indonesia. 
+404
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 27 ---
+Pangestu, Mari. 2003. “The Indonesian Bank Crisis And Restructuring: Lessons And 
+Implications For Other Developing Countries.” In G-24 Discussion Papers . G -24 Discussion 
+Paper Series. United Nations.  
+https://ypfs.som.yale.edu/library/indonesian-bank-crisis-and-restructuring-lessons-and-
+implications-other-developing. 
+Sharma, Shalendra D. 2001. “The Indonesian Financial Crisis: From Banking Crisis to 
+Financial Sector Reforms, 1997-2000.” Indonesia, No. 71 (April): 79–110.  
+https://ypfs.som.yale.edu/library/indonesian-financial-crisis-banking-crisis-financial-
+sector-reforms-1997-2000. 
+ 
+Stern, Joseph J. 2004. “The Impact of the Crisis – Decline and Recovery.” CID Working Paper 
+103, January 2004. Center for International Development at Harvard University.  
+https://ypfs.som.yale.edu/library/impact-crisis-decline-and-recovery. 
+Tempo. 2004. “IBRA’s Journey from Time to Time.” Tempo, May 4, 2004.  
+https://ypfs.som.yale.edu/library/ibras-journey-time-time. 
+ 
+V. Key Program Documents 
+Implementation Documents 
+(Decree No. 27 1998) “Decree of the President of the Republic of Indonesia No. 27 of 1998.” 
+1998. Indonesian Government.  
+Presidential decree establishing IBRA.  
+https://ypfs.som.yale.edu/library/decree-president-republic-indonesia-no-27-1998. 
+Press Releases/Announcements 
+(Muhammad and Djiwandono 1997) Muhammad, Mar’ie, and J. Soedradjad Djiwandono. 
+1997. “Letter of Intent  from the government of Indonesia to the International Monetary 
+Fund,” October 31, 1997.  
+Letter from Indonesia’s finance minister and central bank governor describing the policies that 
+the country intended to implement in the context of its request for fi nancial support from the 
+IMF.  
+https://ypfs.som.yale.edu/library/letter-intent-0. 
+Media Stories 
+(Arnold 2003) Arnold, Wayne. 2003. “Indonesian Bank Agency Fading Out.” New York Times, 
+October 2, 2003.  
+News article detailing IBRA officials’ actions at the end of its existence.  
+https://ypfs.som.yale.edu/library/indonesian-bank-agency-fading-out. 
+405
+Indonesia: IBRA’s Asset Management Unit Smith and Nunn
+
+--- Page 28 ---
+(Guerin 2002) Guerin, Bill. 2002. “Indonesia’s Cycle of Subservience to the IMF.” Asia Times, 
+September 10, 2002.  
+Article initially published in the Asia Times detailing the Indonesian government’s relationship 
+with the IMF during the Asian Financial Crisis.  
+https://ypfs.som.yale.edu/library/indonesias-cycle-subservience-imf. 
+(Holland 2004) Holland, Tom. 2004. “How to Fix a Bank, Revisited.” Wall Street Journal, May 
+19, 2004.  
+News article detailing Asian policymakers’ attempts to restructure financial sectors and clean 
+up bad loans in the wake of the Asian Financial Crisis.  
+https://ypfs.som.yale.edu/library/how-fix-bank-revisited. 
+(Jakarta Post 2001) Jakarta Post. 2001. “JP/IBRA’s OC Launches Website.” Jakarta Post , 
+September 18, 2001.  
+News article announcing a new government website meant to publicize IBRA’s Oversight 
+Committee reports and activities , though the web address the article gives does not lead to a 
+working website, and web archive searches do not reveal archived versions of the given website. 
+https://ypfs.som.yale.edu/library/jpibras-oc-launches-website. 
+(Tempo 2 004) Tempo. 2004. “IBRA’s Journey from Time to Time.” Tempo, May 4, 2004.  
+New article chronicling IBRA’s history.  
+https://ypfs.som.yale.edu/library/ibras-journey-time-time. 
+Key Academic Papers 
+(Adams, Litan, and Pomerleano 2000) Adams, Charles, Robert E. Litan, and Michael 
+Pomerleano. 2000. Managing Financial and Corporate Distress: Lessons from Asia. 
+Brookings Institution Press.  
+Book detailing various lessons learned from financial crises in Asia.  
+https://ypfs.som.yale.edu/library/managing-financial-and-corporate-distress-lessons-asia. 
+(Fung et al. 2004) Fung, Ben, Jason George, Stefan Hohl, and Guonan Ma. 2004. “Public Asset 
+Management Companies in East Asia.” FSI Occasional Papers, February 26, 2004.  Bank 
+for International Settlements – Financial Stability Institute.  
+Case study examining asset management companies established in Asia.  
+https://ypfs.som.yale.edu/library/public-asset-management-companies-east-asia. 
+(Gooptu et al. 2000) Gooptu, Sudarshan, Ruth Neyens, Bernard Drum, Sarah Cliffe, and Lant 
+Pritchett. 2000. “Indonesia Economic and Social Update.” Brief 51202, January 31, 2000. 
+World Bank.  
+World Bank report examining various economic and social trends in Indonesia.  
+https://ypfs.som.yale.edu/library/indonesia-economic-and-social-update. 
+(IMF Staff 2004) IMF Staff. 2004. “Staff Country Reports: Indonesia: Selected Items.” 04/189, 
+July 2004. International Monetary Fund.  
+IMF report outlining various Indonesian economic and governmental updates.  
+https://ypfs.som.yale.edu/library/staff-country-reports-indonesia-selected-items. 
+406
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 29 ---
+(Iskander et al.  1999) Iskander, Magdi, Gerald Meyerman, Dale F. Gra y, and Sean Hagan. 
+1999. “Corporate Restructuring and Governance in East Asia.” Finance and 
+Development/F&D 36 (1).  
+IMF article examining proper corporate restructuring and governance strategies.  
+https://ypfs.som.yale.edu/library/corporate-restructuring-and-governance-east-asia. 
+(Lindgren et al. 1999) Lindgren, Carl -Johan, Tomás J.T. Baliño, Charles Enoch, Anne -Marie 
+Gulde, Marc Quintyn, and Leslie Teo. 1999. “Financial Sector Crisis and Restructuring: 
+Lessons from Asia.” Occasional Papers 188. Occasional Papers, 1999. International Monetary 
+Fund.  
+IMF paper detailing various Asian financial sector restructuring efforts.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Lindgren%20et%20al.%20
+1999.pdf. 
+(McLeod 2005) McLeod, Ross H. 2005. “The Economy: High Growth Remains Elusive.” In 
+Budy P. Resosudarmo,  ed. The Politics and Economics of Indonesia’s Natural Resources , 31–
+50. ISEAS–Yusof Ishak Institute.  
+Book chapter examining Indonesia’s macroeconomic p erformance in the 1990s and early 
+2000s. 
+https://ypfs.som.yale.edu/library/politics-and-economics-indonesias-natural-resources. 
+(Omori 2014) Omori, Sawa. 2014. “The Politics of Financial Reform in Indonesia: The Asian 
+Financial Crisis and Its Aftermath.” Asian Survey 54 (5): 987–1008.  
+Research explaining the politics of financial reforms in Indonesia by applying the theory of veto 
+players. 
+https://ypfs.som.yale.edu/library/politics-financial-reform-indonesia-asian-financial-
+crisis-and-its-aftermath. 
+(Stern 2004)  Stern, Joseph J. 2004. “The Impact of the Crisis – Decline and Recovery.” CID 
+Working Paper 103, January 2004. Center for International Development at Harvard 
+University. 
+Working paper about the Asian financial crisis and related recovery efforts.  
+https://ypfs.som.yale.edu/library/impact-crisis-decline-and-recovery. 
+Reports/Assessments 
+(Bank Indonesia 1998) Bank Indonesia. 1998. “Bank Indonesia Report for the Financial Year 
+1997/98.” Bank Indonesia.  
+Bank Indonesia annual report detailing that year ’s economic, monetary, and banking 
+developments and policy responses.  
+https://ypfs.som.yale.edu/library/bank-indonesia-report-financial-year-199798. 
+(Bank Indonesia 1999) Bank Indonesia. 1999. “Bank Indonesia Report for the Financial Year 
+1998/99.” Bank Indonesia.  
+Bank Indonesia annual report detailing that year’s economic, monetary, and banking 
+developments and policy responses.  
+https://ypfs.som.yale.edu/library/bank-indonesia-report-financial-year-199899. 
+407
+Indonesia: IBRA’s Asset Management Unit Smith and Nunn
+
+--- Page 30 ---
+(Bank Indonesia 2001) Bank Indonesia. 200 1. “Bank Indonesia Annual Report 2000 .” Bank 
+Indonesia.  
+Bank Indonesia annual report detailing that year’s economic, monetary, and banking 
+developments and policy responses.  
+https://ypfs.som.yale.edu/library/bank-indonesia-annual-report-2000. 
+(Djiwandono 2005)  Djiwandono, J. Soedradjad. 2005. Bank Indonesia and the Crisis: An 
+Insider’s View. ISEAS–Yusof Ishak Institute.  
+Book written by former Indonesian central bank chair  Djiwandono discussing the country’s 
+banking crisis in the 1990s.  
+https://ypfs.som.yale.edu/library/bank-indonesia-and-crisis-insiders-view. 
+(Enoch 2000) Enoch, Charles. 2000. “Interventions in Banks During Banking Crises: The 
+Experience of Indonesia,” March 2000. International Monetary Fund.  
+Discussion paper detailing Indonesia’s banking crisis and related interventions.  
+https://ypfs.som.yale.edu/library/interventions-banks-during-banking-crises-experience-
+indonesia. 
+(Enoch et al.  2001) Enoch, Charles, Barbara Baldwin, Olivier Frécaut, and Arto Kovanen. 
+2001. “Indonesia: Anatomy of a Banking Crisis Two Years of Living Dangerously 1997 -99.” 
+WP/01/52, May 2001. International Monetary Fund.  
+IMF working paper detailing Indonesia’s banking crisis.  
+https://ypfs.som.yale.edu/library/indonesia-anatomy-banking-crisis-two-years-living-
+dangerously-1997-99. 
+(Fane and McLeod 2002) Fane, George, and Ross H. McLeod. 2002. “Banking Collapse and 
+Restructuring in Indonesia, 1997-2001.” Cato Journal 22 (2): 277–95.  
+Article examining Indonesia’s financial crises and related restructuring efforts.  
+https://ypfs.som.yale.edu/library/banking-collapse-and-restructuring-indonesia-1997-
+2001. 
+(Hasbullah 2019) Hasbullah. 2019. “Analysis of Corruption Settlement for Obligor Deviations 
+of Bank Indonesia Liquidity Assistance (BLBI).” Indonesian Journal of Criminal Law Studies 4 
+(1): 15–28.  
+Journal article analyzing a settlement related to the BLBI.  
+https://ypfs.som.yale.edu/library/analysis-corruption-settlement-obligor-deviations-
+bank-indonesia-liquidity-assistance-blbi. 
+(IBRA 1999) IBRA. 1999. “ Strategic Pl an 1999 -2004.” Indonesian Bank Restructuring 
+Agency. 
+IBRA report detailing the agency's purpose, history, and strategy. 
+(IMF Staff 2002) IMF Staff. 2002. “Staff Country Reports: Indonesia: Selected Items.” IMF 
+Country Report 02/154, 2002. International Monetary Fund.  
+IMF report analyzing a variety of developments in Indonesia, including IBRA and its 
+performance.  
+https://ypfs.som.yale.edu/library/indonesia-selected-issues. 
+408
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 31 ---
+(OECD 2020) Organization for Economic Co -operation and Development. 2020. “National 
+Currency to US Dollar Spot Exchange Rate for Indonesia.” FRED, Federal Reserve Bank of St. 
+Louis. FRED, Federal Reserve Bank of St. Louis. 2020.  
+OECD data showing US dollar exchange rate for Indonesian currency.  
+https://ypfs.som.yale.edu/library/national-currency-us-dollar-spot-exchange-rate-
+indonesia. 
+(Pangestu 2003) Pangestu, Mari. 2003. “The Indonesian Bank Crisis And Restructuring: 
+Lessons And Implications For Other Develop ing Countries.” In G-24 Discussion Papers. G-24 
+Discussion Paper Series. United Nations.  
+G-24 discussion paper examining Indonesia’s banking crisis and restructuring efforts.  
+https://ypfs.som.yale.edu/library/indonesian-bank-crisis-and-restructuring-lessons-and-
+implications-other-developing. 
+(Sharma 2001) Sharma, Shalendra D. 2001. “The Indonesian Financial Crisis: From Banking 
+Crisis to Financial Sector Reforms, 1997-2000.” Indonesia, No. 71 (April): 79–110.  
+Journal article detailing the Indonesian financial crisis and related reforms.  
+https://ypfs.som.yale.edu/library/indonesian-financial-crisis-banking-crisis-financial-
+sector-reforms-1997-2000. 
+ Copyright 2021 © Yale University. All rights reserved. To order copies of this material or 
+to receive permission to reprint any or all of this document, please contact the Yale 
+Program for Financial Stability at ypfs@yale.edu.  
+ 
+ 
+409
+Indonesia: IBRA’s Asset Management Unit Smith and Nunn

@@ -1,0 +1,474 @@
+## Eurozone: Central Bank Repo to Poland, 2008[1] 
+
+## _Salil Gupta[2]_ 
+
+Yale Program on Financial Stability Case Study July 21, 2023 
+
+## **Abstract** 
+
+The Polish zloty depreciated strongly after the collapse of Lehman Brothers in September 2008. At the same time, liquidity shortages occurred in the Polish market and Polish banks were constrained in borrowing from international markets. On November 6, 2008, the European Central Bank (ECB) and National Bank of Poland (NBP) signed a master agreement to enter into repurchase transactions (repos) for a maximum amount of EUR 10 billion. The NBP intended to use the repo agreement to provide foreign exchange liquidity to the Polish banking sector and ensure market stability. The ECB and NBP’s repo facility was unused as of June 2009. The peak outstanding usage by Polish banks of the NBP’s downstream foreign exchange swaps was approximately PLN 1.8 billion (EUR 0.4 billion) toward the end of December 2008. The ECB-NBP repo agreement and its collateral requirements were broadly based on the agreement between the ECB and Hungary’s central bank. The end date of the repo facilities for Poland was not disclosed. A Bank for International Settlements paper in 2010 said that NBP’s repo line with the ECB had made only a “modest contribution” to fixing the shortage of foreign currency in Poland. In 2020, ECB’s Executive Board members said that ECB liquidity facilities have a signaling effect that helps calm tensions in euro markets. On March 28, 2022, the ECB set up a new precautionary swap line with Poland with a limit of EUR 10 billion owing to the uncertainty created by Russia’s invasion of Ukraine. On December 15, 2022, the ECB extended its swap line with the NBP by nine months, to January 15, 2024. 
+
+**Keywords:** ECB, euros, foreign exchange, Global Financial Crisis, liquidity, NBP, repos, zloty 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering central bank swap line programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+## **Key Terms** 
+
+This case covers the European Central Bank’s (ECB’s) provision of euro liquidity to Poland during the Global Financial Crisis (GFC) of 2007–09. At the time, Poland was a part of the European Union, but it did not use the euro as its currency or participate in the Exchange Rate Mechanism (ERM), which the European Union uses to manage stability in exchange rates between the euro and non-euro currencies. Poland was considering entering the ERM II mechanism and adopting the euro in 2008 but postponed doing so until financial market turmoil abated. In late 2008, the Monetary Policy Council upheld its recommendation for Poland to adopt the euro, after completion of the requisite political and legal steps required for adoption (NBP 2009a). 
+
+The Polish zloty depreciated strongly after the collapse of Lehman Brothers in September 2008 (BIS 2010). At the same time, liquidity shortages occurred in the Polish market, and Polish banks were constrained in borrowing from international markets (NBP 2009a). On October 10, 2008, Sławomir Stanisław Skrzypek, president of the central bank of Poland, Nardowy Bank Polski (NBP), wrote a letter to ECB President Jean-Claude Trichet describing the “intensified money market stress” due to “global financial turmoil” that could cause potential difficulties to Poland. The NBP wanted to be prepared to face any adverse foreign currency financing threat to its banking sector and hence submitted a request to the ECB for a currency swap agreement (NBP 2008a). 
+
+On October 24, 2008, ECB President Trichet replied to the NBP letter and agreed to discuss a potential repo transaction that 
+
+Purpose: To provide euro liquidity assistance to the domestic financial sector; “support NBP’s instruments of liquidity provision” (NBP 2008d) 
+
+||Participating<br>Parties<br>Type of Swap|European Central Bank,<br>Narodowy Bank Polski<br>Bilateral, temporary,<br>unidirectional repo facility|
+|---|---|---|
+|||(euros for euro-denominated|
+|||collateral);|
+|||Precautionary swap line for<br>EUR 10 billion in March 2022|
+||Currencies|Swiss franc (CHF);|
+||Involved|Polish zloty (PLN);|
+|||Euro (EUR)|
+||Launch Date|November 6, 2008|
+||End Date|Not disclosed, new swap|
+|||expires January 15, 2024|
+||Date of First Usage<br>Interest Rate and<br>Fees|No info<br>Exchange rate: 110% of<br>market rate; initial margin: 1%<br>(for intraday) and 2% (for<br>longer); additional initial|
+|||margin: 2%; late payment|
+||Amount<br>Authorized|interest: not disclosed<br>EUR 10 billion (USD 14 billion)|
+||Peak Usage|Unused as of June 2009|
+||Amount and Date||
+||Downstream<br>Use/Application of<br>Swap Funds|Provide euros to the domestic<br>banking sector for market<br>stability|
+||Outcomes|Modest contribution in|
+|||providing FX to the domestic|
+|||economy|
+||Notable Features|The ECB used its repo|
+|||agreement with Hungary’s<br>central bank as a model for the|
+|||agreement with NBP in 2008|
+
+
+
+
+would be broadly based on the repo agreement with Magyar Nemzeti Bank (MNB) (ECB 2008b). On October 30, 2008, the NBP proposed a repo line for EUR 10 billion while presenting to the ECB the need to provide euro liquidity to the Polish banking sector (NBP 2008c). 
+
+On November 6, 2008, the ECB and NBP signed a master agreement to enter into repurchase transactions (repos) for a maximum amount of EUR 10 billion (ECB and NBP 2008). The NBP intended to use the repo agreement to provide foreign exchange liquidity to the Polish banking sector and ensure market stability (NBP 2008b). The NBP reported the signing of the repo agreement with the ECB on November 21, 2008, to “support NBP’s instruments of liquidity provision” (NBP 2008d). 
+
+While the ECB was considering entering into a repo agreement with the NBP, the NBP was also in the advanced stages of negotiating a swap agreement with the Swiss National Bank (SNB) to obtain a euro–Swiss franc swap agreement (NBP 2008a; NBP 2009a). In the fourth quarter of 2008, the NBP initiated downstream foreign exchange swap transactions to allow Polish banks to swap their zloty for US dollars, euros, and Swiss francs (NBP 2009a). The NBP reported in June 2009 that it had not drawn on its ECB repo facility but used its own euro reserves to obtain Swiss francs from the SNB (NBP 2009b). The SNB’s swap agreement with the NBP ended in January 2010 (SNB 2011). 
+
+In April 2009, the NBP also established a flexible credit line with the International Monetary Fund (IMF) for USD 20.6 billion, which it had not drawn on by the end of August 2009 (BIS 2010). 
+
+The NBP’s total liquidity provision at the end of 2008 via repos was PLN 15.3 billion (EUR 3.7 billion[3] ) (NBP 2009a). The NBP’s swaps reduced banking sector liquidity in zloty (and hence boosted foreign exchange liquidity) by an average of PLN 75 million in October, PLN 476 million in November, and PLN 1.4 billion in December 2008. As per Figure 1, the peak outstanding usage by Polish banks of the NBP’s downstream FX swaps was approximately PLN 1.8 billion (EUR 0.4 billion) toward the end of December 2008 (NBP 2009a). 
+
+> 3 Per Yahoo Finance, 1 EUR = 4.10 PLN as of December 31, 2008. 
+
+
+[FIGURE id=vol5_iss1_9_f1 type=figure label="Figure 1" file=figure_1.png caption="NBP’s Daily FX Swaps to Polish Banks in 2008"]
+### **Figure 1: NBP’s Daily FX Swaps to Polish Banks in 2008**
+![Figure 1](assets/vol5_iss1_9/figure_1.png)
+
+
+_Source: NBP 2009a._ 
+
+We were not able to determine the termination date for the ECB’s repo agreement with the NBP. The NBP’s 2009 Financial Stability Report reported that the ECB repo facility had not been used as of June 2009 (NBP 2009b). 
+
+On March 28, 2022, the ECB set up a new precautionary swap line with Poland with a limit of EUR 10 billion until January 15, 2023, owing to the uncertainty created by Russia’s invasion of Ukraine (ECB 2022a). Prior to this agreement, Poland was an outlier as a large non-euro EU member without a special financing agreement with the ECB (FT 2022). On December 15, 2022, the ECB extended its swap line with the NBP by nine months to January 15, 2024 (ECB 2022d). As seen in Appendix A, Poland was provided a swap line in 2022 similar to the ECB’s agreements with Sweden and Denmark (Gupta 2023c; 2023b). Appendix C summarizes the repo lines provided by the ECB to other non-euro countries (Romania, Albania, Serbia, San Marino, and North Macedonia) during the Covid-19 crisis. 
+
+
+## **Summary Evaluation** 
+
+Prior to the collapse of Lehman, commercial banks in Poland had provided large domestic mortgage loans in foreign currencies and financed themselves in wholesale markets, with both funding markets drying up as the crisis intensified. After the GFC, the ECB avoided the risk of providing liquidity directly to commercial banks by lending to the central banks in which the commercial banks were located. The ECB was essentially taking on a sovereign risk in lending to the central banks of nations not using the euro (BIS 2010). 
+
+The ECB’s repo facility with the NBP allowed the central bank to exchange high-quality eurodenominated assets for euro cash that it could then make available to commercial banks domestically. The NBP also provided Swiss francs to Polish commercial banks through the coinciding swap lines with the SNB (BIS 2010). 
+
+Polish households had foreign currency loans of EUR 29.5 billion at the end of August 2008. As was the case with Hungary, the ECB repo facilities did not augment Poland’s FX reserves, which fell modestly, by EUR 1.6 billion, between August 2008 and December 2008 to EUR 38.3 billion (Gupta 2023a). The NBP chose to make the terms of its domestic FX swaps expensive to encourage banks to seek funding from other sources, including their parent banks that were foreign entities. Allen and Moessner conclude that Poland drew only relatively small amounts on the liquidity lines, which provided euros against high-quality euro collateral, and hence they did not have a large impact. NBP’s repo line with the ECB made only a “modest contribution” to fixing the shortage of foreign currency in Poland (BIS 2010). 
+
+Swap spreads and interest rate differentials remained “unusually wide” for Poland, as visible in Figure 2 (BIS 2010). Analysts were concerned that the ECB’s balance sheet was not big enough to support large foreign currency lending to countries not using the euro or outside the euro area (Perry 2008). 
+
+[FIGURE id=vol5_iss1_9_f2 type=chart label="Figure 2" file=figure_2.png caption="Poland: Cross Currency Swap Spreads Against the Euro"]
+### **Figure 2: Poland: Cross Currency Swap Spreads Against the Euro**
+![Figure 2](assets/vol5_iss1_9/figure_2.png)
+
+
+_Source: BIS 2010._ 
+
+
+In 2020, two members of the ECB Executive Board stated that repo and swap lines do not aim to compete or replace private funding markets. Their note elaborated that limited use of the ECB’s liquidity lines does not indicate that the facilities are not required but that the ECB facilities have a signaling effect that helps calm tensions in euro markets (ECB 2020g). 
+
+
+
+[FIGURE id=vol5_iss1_9_f3 type=figure label="Exhibit 3" file=exhibit_3.png caption=""]
+![Exhibit 3](assets/vol5_iss1_9/exhibit_3.png)
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose and Type: The ECB entered into a bilateral repurchase agreement with the NBP to provide euros to address foreign currency liquidity concerns in Poland’s domestic market.** 
+
+The NBP reached out to the ECB to be prepared for any troubles in the Polish banking sector arising from foreign currency financing (NBP 2008a). As was the case with Hungary, the ECB agreed to a repo agreement rather than a swap line. The stated purpose was to provide “euro liquidity assistance to the Polish banking sector.” The ECB’s agreement with the NBP was based on the previous repurchase agreement with the MNB (ECB 2008b). 
+
+In the case of the repo agreement, the NBP could request euros in exchange for high-quality euro-denominated securities, thus exchanging euro securities for euro cash. As can be seen in Appendixes A and B, the ECB’s liquidity-providing agreements with the NBP were not reciprocal (ECB 2022c). 
+
+**2. Part of a Package: The ECB had initiated liquidity operations by October 2008 for euro area countries. The NBP carried out various other liquidity and policy easing measures in its domestic market.** 
+
+Between October 2008 and December 2008, the ECB carried out a series of liquidity management actions for euro area countries, including streamlining rates on standing facilities, **[4]** conducting long-term refinancing operations (LTROs), reducing the credit threshold for eligible collateral, and providing US dollar and Swiss franc liquidity through swap agreements with the Federal Reserve and the Swiss National Bank, respectively (ECB 2009). Poland was initially excluded from the ECB’s liquidity facilities and later was given access to a repo line to provide foreign exchange to its domestic banking sector. 
+
+The NBP introduced the “Confidence Pact” to restore the smooth functioning of markets in 2008 (NBP 2009a). This pact had three primary goals: (1) enable Polish banks to obtain longterm financing, (2) enable banks to obtain foreign financing, and (3) increase funding opportunities for banks in the zloty by widening the list of eligible collateral (NBP 2009a). On October 17, 2008, the NBP also started conducting repo operations to provide liquidity to Polish banks via this Confidence Pact. The NBP was injecting liquidity into the banking sector via repo transactions of maturities up to three months, while retaining the issuance of seven-day maturity NBP bills to absorb banking sector liquidity (NBP 2008e). 
+
+Beyond FX swaps, the NBP carried out open market operations with a maturity of three months, extending the list of eligible collateral on loans, and reducing the haircut on loan collateral (NBP 2008c). The NBP had lowered reference rates by 100 basis points to 5.0% in the fourth quarter of 2008, while the ECB had lowered rates by 175 basis points to 2.5% in the same period. The NBP also had standing facilities to provide liquidity or allow banks to 
+
+> 4 ECB’s Governing Council in 2007 launched two three-month operations to support the normalization of the money markets (ECB 2009, 99). 
+
+
+deposit overnight funds at the central bank. The total overnight deposits placed with the NBP in 2008 was PLN 520.1 billion and represented a 250% increase from 2007 (NBP 2009a). On October 13, 2008, Poland’s Ministry of Finance (MoF) and the NBP introduced regulatory initiatives to restore market functioning as a response to the Global Financial Crisis (NBP 2008e). 
+
+The NBP also had an agreement with the Swiss National Bank (SNB) to obtain Swiss francs via swap transactions for an unspecified limit (NBP 2009a). The NBP was still in advanced stages of negotiating its swap line with the Swiss National Bank when the ECB was considering a repo agreement with the NBP (ECB 2008a). In the fourth quarter of 2008, the NBP had initiated FX swap transactions that allowed banks to swap zloty for US dollars, euros, and Swiss francs (NBP 2009a). The SNB’s swap agreement with the NBP ended in January 2010 (SNB 2011). 
+
+The NBP also established a flexible credit line with the IMF for USD 20.6 billion in April 2009, which was not drawn on by the end of August 2009 (BIS 2010). The NBP reported in June 2009 that it had not drawn on its ECB repo facility but used euro reserves to obtain Swiss francs from the SNB (NBP 2009b). 
+
+## **3. Legal Authority: The ECB was acting under the Protocol on the Statute of the ESCB and the ECB; these agreements were governed by principles adopted by the ECB’s Governing Council and the local laws of Poland.** 
+
+The ECB was able to provide the repo facility as per power established in an annexure to the treaty establishing the European Community, called the Protocol on the Statute of the European System of Central Banks (ESCB) and the European Central Bank. The ECB may conduct foreign exchange operations in accordance with Article 111 of this treaty (EC 2002). Article 23 of this treaty also allows the ECB to buy or sell any spot or forward of a foreign exchange asset, which is defined as the assets, currency, or securities, in the other country’s currency for external operations (EC 2002). 
+
+The Banking Federation of the European Union (FBE) published a Master Agreement for Financial Transactions in 2004 to list out the General Provisions to govern financial transactions. Section 11.1 of the General Provisions document specifies the Governing Law for each agreement to be specified in the Special Provisions document or to follow the law of the country in which both central bank offices are located (EMA 2004). The repo agreement signed between the ECB and NBP comprised a Special Provisions agreement, along with the FBE’s General Provisions 2004 edition, Margin Maintenance Annex 2004 edition, and Product Annex for Repurchase Transactions 2001 edition. The Special Provisions document provided amendments to the General Provision clauses such as default and collateral requirements edition (ECB and NBP 2008). 
+
+The ECB’s Governing Council had determined principles for liquidity assistance to non-euro area EU countries on October 20, 2008 (ECB 2008a). These principles are summarized in the Agreement on Emergency Liquidity Assistance (ELA), published on November 9, 2020. This emergency assistance document will be reviewed in 2023 (ECB 2020a). The repo agreement 
+
+
+was governed by German law, since the Deutsche Bundesbank, the German central bank, would be responsible for securities settlement and collateral management for the ECB in the repo agreement (ECB and NBP 2008). The broader guidelines for monetary policy instruments and procedures of the Eurosystem were presented by the ECB in August 2000 (ECB 2000). 
+
+The ECB’s guiding principles, rules, and procedures have been provided in an Emergency Liquidity Assistance (ELA) agreement, which also provides for the role of the Governing Council as per Article 14.4 of the Statute of the ESCB. The agreement assigns the main responsibility of the costs and risks from the ELA to the central bank of the country concerned or by a third-party guarantor. The borrowing central bank has mandatory reporting requirements to the ECB, such as providing all details of an ELA operation within two business days of the operation taking place, sharing a funding plan within two months of receiving assistance, and sending monthly updates on regulatory capital ratios (ECB 2020a). The Executive Board has the ability to extend a liquidity agreement with a central bank if the borrowing threshold exceeds EUR 500 million. If the borrowing threshold exceeds EUR 2 billion, the Executive Board can refer the matter to the Governing Council and ask for a response at short notice. The duration of an ELA may exceed 12 months following only a non-objection notice from the ECB Governing Council. In terms of the pricing, the ELA agreement specifies a penalty interest rate for the borrowing central bank, a minimum rate that equals the Eurosystem’s marginal lending rate plus 100 basis points, and a minimum 1% rate per year on intraday transactions. The Governing Council also reserves the right to object to a central bank’s communication plan in order to maintain broader financial stability within the eurozone (ECB 2020a). 
+
+The responsibilities of the NBP are stated in the Act on the National Bank of Poland (Act on the NBP), the Banking Act, the treaty establishing the European Community, and statutes of the ESCB and ECB (NBP 2009a). As per Article 3, section 2, para 6 of the Act on the NBP, creating the conditions for development of the banking sector is a responsibility of the central bank of Poland (NBP 2009a). The NBP is a member of the European System of Central Banks (ESCB[5] ) and participates in the Banking Supervisory Committee at the ESCB (NBP 2009a). 
+
+## **4. Governance: The ECB Governing Council made the final decision to approve the repo agreement with the NBP.** 
+
+The ECB Governing Council made the final decision regarding the repo agreement with the NBP, while the signature and implementation of the agreements were delegated to the ECB Executive Board. 
+
+The ECB-NBP repo agreement was based on the principles established by the Governing Council regarding euro liquidity assistance to non-euro EU central banks and the ECB MNB repo agreement, which embodied those principles (ECB 2008a). The ECB’s agreement with 
+
+> 5 The ESCB comprises the ECB and the central banks of member states, with the goal of maintaining price stability and conducting tasks involving monetary policy, foreign exchange operations, and reserve management (EC 2002). 
+
+
+Hungary had set a precedent for the ECB providing liquidity assistance to central banks of non-euro EU countries, as stated by President Trichet in his letter to NBP President Skrzypek (ECB 2008b). 
+
+The NBP president wrote to the ECB’s president on October 10, 2008, requesting help with the foreign currency financing issue in the Polish banking system (NBP 2008a). The ECB president replied on October 24, 2008, offering the NBP a repo agreement based on the same principles as the ECB-MNB agreement (ECB 2008b). The NBP accepted the ECB’s offer in writing on October 30, 2008, while stating the other market programs being carried by the NBP and proposing a size of EUR 10 billion for the repo line (NBP 2008c). The ECB’s Executive Board prepared a memo to the Governing Council on November 3, 2008, detailing the request by the NBP, the communication between the two central banks, and its recommendations to the council (ECB 2008a). 
+
+The proposed ECB-NBP repo agreement was based on the previously signed ECB-MNB repo agreement and drafted on the principles of liquidity assistance to non-euro EU countries confirmed on October 20, 2008, by the Governing Council. The Governing Council was invited to then determine if NBP fulfilled the pre-condition criteria for the swap (details of which were redacted from the document) (ECB and NBP 2008). 
+
+**5. Administration: The ECB’s repo agreement with the NBP had the same terms as its earlier agreement with the MNB for margin criteria, transfers, and reporting.** 
+
+The ECB-NBP repo agreement had the same requirements for margin eligibility, transfer, and reporting as the ECB-MNB agreement (ECB and NBP 2008). As per the repo agreement, the NBP could provide only euro-denominated collateral with a minimum rating of A- by Fitch or Standard & Poor’s or A3 by Moody’s (ECB and NBP 2008). 
+
+The ECB-NBP repo agreement was signed by two ECB executive board members (Jose Paramo and Jurgen Stark) and the deputy governor and director of domestic operations of the NBP (Witold Kozinski and Krzysztof Senderowicz) (ECB and NBP 2008). 
+
+**6. Communication: The NBP and ECB disclosed their repo agreement via press releases on their respective websites and in their annual reports.** 
+
+The ECB and NBP jointly announced their repo line for EUR 10 billion via a press release on the NBP’s website (NBP 2008d). The use of the repo lines was described and reported by the NBP in its annual report in 2008 (NBP 2009a). 
+
+The master repo agreement between the ECB and NBP was dated as of November 6, 2008 (ECB and NBP 2008). The NBP disclosed the agreement with the ECB on November 21, 2008, via a press release on its website. It is quoted here in its entirety: 
+
+
+Narodowy Bank Polski (NBP) and the European Central Bank (ECB) are jointly announcing an agreement to support the NBP's instruments of euro liquidity provision. The agreement, which was concluded on 6 November 2008, relates to repurchase transactions and will provide NBP with a facility to borrow up to EUR 10 billion in order to provide additional support to NBP's operations. (NBP 2008d). 
+
+Analysts made a distinction in the precautionary nature of Poland’s agreement with the ECB and the emergency aid sought by Hungary. It was further pointed out that Poland was providing euros from the ECB to the Polish banking sector to be able to conserve its own foreign exchange reserves (Goettig and Jaworowski 2008). 
+
+One of the criticisms of the ECB’s actions of providing repo lines was the creation of a “twotier system” in central bank liquidity provisions at the time. It was not clear as to why the ECB could not offer a swap facility to Poland, similar to those provided to Sweden and Denmark. The ECB has been reported to state in private conversations that potential operations risks (or the foreign exchange risk) from holding zloty made it uncomfortable with offering a swap facility to Poland (Vallee 2010). 
+
+## **7. Eligible Institutions: The ECB established a repo line with the NBP following requests made by the central bank.** 
+
+The NBP reached out to the ECB seeking assistance with its foreign currency liquidity problems (NBP 2008a). 
+
+It appears that the NBP, like Hungary’s central bank, requested a swap line from the ECB directly (ECB 2008b; NBP 2008d). The ECB established a line with Hungary’s central bank first and then offered a similar instrument to the NBP at the Polish bank’s request. In the Executive Memo regarding the NBP’s request, it stated that, 
+
+to be consistent with the precedent set by the recent repo agreement established **-** between the ECB and Magyar Nemzeti Bank (MNB) and the above mentioned principles, the ECB could offer the NBP a repo agreement broadly based on the existing one with MNB. (ECB 2008a) 
+
+The ECB also did not disclose any specific criteria that it considered before agreeing to a repo line but referred to Guiding Principles regarding liquidity assistance to non-euro EU countries that had been adopted by the Governing Council (ECB and NBP 2008). The Executive Board memo regarding the NBP line does specifically mention that the Governing Council considered “the information provided by NBP to be sufficient to fulfill the precondition [redacted]” (ECB 2008a). The Governing Council reserved the right to approve and impose additional restrictions on any borrowing central bank seeking a liquidity limit above EUR 2 billion or an agreement longer than 12 months (ECB 2020a). 
+
+## **8. Size: The ECB established a repo line with the NBP for EUR 10 billion.** 
+
+On November 6, 2008, the ECB and NBP signed a master agreement to enter into repurchase transactions (repos) for a maximum amount of EUR 10 billion (ECB and NBP 2008). The NBP 
+
+
+had proposed a size of EUR 10 billion for the repo line with the ECB, which the ECB Executive Board commented was “consistent with amounts previously established with other noneuro area EU central banks” (ECB 2008a). 
+
+## **9. Process for Utilizing the Swap Agreement: The ECB’s master agreement with the NBP provided steps to utilize the repo agreement.** 
+
+The ECB’s master agreement with the NBP comprised a Special Provisions document providing the details of the repo agreement, along with the General Provisions 2004 document, which provides the statute of the ESCB and of the ECB (ECB and MNB 2008; ECB and NBP 2008). 
+
+The ECB agreement provides guidance for confirming a repo draw, payment determination and netting, booking office designations, margin requirements, dispute resolution, pricing, and maturity. ECB also said that Deutsche Bundesbank, the German central bank, would be responsible for securities settlement and collateral management for the ECB in the repo agreement (ECB and NBP 2008). 
+
+The disclosed Special Provisions documents only provided amendment details for managing default, automatic termination, restructuring event or other insolvency events. The Banking Federation of the European Union (FBE) published a Master Agreement for Financial Transactions in 2004 to list out the General Provisions to govern financial transactions (EMA 2004). The repo agreement signed between the ECB and NBP comprised a Special Provisions agreement, along with the FBE’s General Provisions 2004 edition, Margin Maintenance Annex 2004 edition, and Product Annex for Repurchase Transactions 2001 edition. The Special Provisions document provided amendments to the General Provision clauses such as default and collateral requirements (ECB and NBP 2008). 
+
+## **10. Downstream Use of Borrowed Funds: The ECB provided euros to address the foreign currency exposure of the banking system of Poland.** 
+
+The NBP had reported disruptions in the zloty money markets to the ECB. It intended to use the repo agreement to provide foreign exchange liquidity to the Polish banking sector and ensuring market stability (NBP 2008b). 
+
+On October 17, 2008, the NBP also started conducting repo operations to provide liquidity to Polish banks via this Confidence Pact (NBP 2008e). The NBP was injecting liquidity into the banking sector via repo transactions of maturities up to three months while retaining the issuance of seven-day maturity NBP bills to absorb banking sector liquidity (NBP 2008e). In 2009, the NBP continued providing zloty and foreign exchange liquidity to banks to continue improving access. At peak, the NBP provided PLN 4 billion of foreign currency liquidity to Polish banks in the first quarter of 2009 (NBP 2010). In 2010, the NBP gradually withdrew measures introduced through the Confidence Pact owing to an improvement in conditions in the financial market (NBP 2011). 
+
+
+## **11. Duration of Swap Draws:  The maximum maturity of all repo transactions was one month.** 
+
+The ECB repo agreements with the NBP stated that the maximum maturity for all repo transactions would be one month. The repo agreements was for a fixed term and could not be terminated on demand (ECB and NBP 2008). 
+
+## **12. Rates and Fees: The ECB repo agreement included the effective exchange rate, additional initial margin ratio, and interest charge for late payment.** 
+
+The ECB repos were offered as overnight facilities, with the effective exchange rate set at 110% of the prevailing market exchange rate (MNB 2008). 
+
+Information about the interest charge for late payments was not included in the agreement. The default clause in the agreement was expanded to include the failure to make a margin delivery in addition to failure to make a payment (ECB and NBP 2008). 
+
+The initial margin requirement was stipulated by Section 6.4 of Annex I to the Guideline ECB/2000/7, which required for a 1% margin for intraday and overnight transactions and 2% margin for maturities longer than one business day (ECB 2000; ECB and NBP 2008). The agreement also stipulated an additional 2% initial margin if margin calls are required and a maximum maturity of one month for all repo transactions. The agreement was signed by the ECB’s two members of the executive board and the NBP’s deputy governor and director of domestic operations (ECB and NBP 2008). 
+
+## **13. Balance Sheet Protection: The ECB offered a repo facility with widened collateral eligibility rather than a swap facility to NBP.** 
+
+The ECB-NBP repo agreement and its collateral requirements were broadly based on the agreement between the ECB-MNB (ECB 2008a). 
+
+A blog post by members of the ECB’s Executive Council indicates a preference for using swap lines with central banks issuing major currencies, where reciprocal access to either currency is considered a low-risk transaction. Repo lines allow the ECB to provide euros by receiving euro-denominated collateral to secure repayment by the borrowing central banks—the NBP in this case. Repos are typically more expensive than swaps for the borrowing central bank, but they help limit the foreign exchange risk and counterparty default risk for the ECB as the lending central bank (ECB 2020g). 
+
+## **14. Other Restrictions: The repo agreement did not impose any downstream restrictions on the use of euros borrowed by the NBP.** 
+
+The repo agreement did not impose any downstream restrictions on the use of euros borrowed by the NBP. 
+
+
+## **15. Other Options: The ECB’s other options could not be identified owing to redaction.** 
+
+The ECB Executive Board in a memo to the Governing Council on November 3, 2008, likely considered other options to provide euro liquidity support to Poland. The ECB offered a repo line to Poland to be consistent with the precedent set by its repo agreement with Hungary (ECB 2008a). 
+
+## **16. Exit Strategy: There was no disclosed end date for the repo agreements with the NBP.** 
+
+The NBP had not drawn on the ECB facility as of March 2009 (BIS 2010). The SNB’s swap agreement with the NBP ended in January 2010 (SNB 2011). There were no additional disclosures of a clear end date to the ECB’s repo agreement with the NBP in 2008. 
+
+On March 28, 2022, the ECB set up a new “precautionary” swap line with the NBP for a limit of EUR 10 billion until January 15, 2023, owing to the uncertainty created by Russia’s invasion of Ukraine (ECB 2022a). Prior to this agreement, Poland was an “outlier” as a large non-euro EU member without a special financing agreement with the ECB (FT 2022). On December 15, 2022, the ECB extended its swap line with the NBP by nine months to January 15, 2024 (ECB 2022d). 
+
+As seen in Appendix A, the swap line that Poland was offered in 2022 is similar to the ECB’s agreements with Sweden and Denmark. In 2008, Poland was only offered a repo line similar to the ECB’s agreement with Hungary. The ECB’s swap line to the NBP is set to expire on January 15, 2024 (ECB 2022d). 
+
+
+## **References and Key Program Documents** 
+
+## **Implementation Documents** 
+
+(ECB 2008a) European Central Bank (ECB). 2008a. “Request for a Euro Repo Agreement from National Bank of Poland,” November 3, 2008. 
+
+_Memo providing details of the potential repo agreement to provide euros to Poland’s central bank_ . 
+
+https://ypfs.som.yale.edu/node/22640/ 
+
+(ECB 2020a) European Central Bank (ECB). 2020a. “Agreement on Emergency Liquidity Assistance,” September 11, 2020. 
+
+_Agreement to define the terms of liquidity assistance by a Eurosystem national central bank to prevent any interference with the objectives of the European System of Central Banks_ . https://ypfs.som.yale.edu/node/22636/ 
+
+(ECB and MNB 2008) European Central Bank and Magyar Nemzeti Bank (ECB and MNB). 2008. “Master Agreement for Financial Transactions.” Term Sheet, October 22, 2008. _Agreement defining the terms of the repo agreement between the ECB and Hungary’s central bank_ . 
+
+https://ypfs.som.yale.edu/node/22639/ 
+
+(ECB and NBP 2008) European Central Bank and Nardowy Bank Polski (ECB and NBP). 2008. “Master Agreement for Financial Transactions,” November 6, 2008. 
+
+_Agreement defining the terms of the repo agreement between the ECB and Poland’s central bank_ . 
+
+https://ypfs.som.yale.edu/node/22641/ 
+
+(MNB 2008) Magyar Nemzeti Bank (MNB). 2008. “The MNB’s Two-Way O/N FX Swap Tenders (Providing Euro and Forint Liquidity),” 2008. 
+
+_Note describing the Hungarian central bank’s plan to provide euro and forint liquidity_ . https://ypfs.som.yale.edu/node/22642/ 
+
+## **Legal/Regulatory Guidance** 
+
+(EC 2002) European Commission (EC). 2002. “Protocol on the Statute of the European System of Central Banks and the European Central Bank,” 2002. 
+
+_Document presenting the Constitution of the European System of Central Banks (ESCB)_ . https://ypfs.som.yale.edu/node/22671/ 
+
+(ECB 2000) European Central Bank (ECB). 2000. “Guidelines of the European Central Bank.” 2000/776/ECB ECB/2000/7, August 31, 2000. 
+
+_Legal document presenting the guidelines for monetary policy instruments and procedures in the Eurosystem_ . 
+
+https://ypfs.som.yale.edu/node/22944/ 
+
+
+(EMA 2004) Banking Federation of the European Union, European Savings Banks Group, and European Association of Cooperative Banks (EMA). 2004. “Master Agreement for Financial Transactions - General Provisions, Edition 2004.” 
+
+_Agreement defining the general provisions to govern any financial transaction in the European Union_ . 
+
+https://ypfs.som.yale.edu/node/22643/ 
+
+## **Media Stories** 
+
+(Goettig and Jaworowski 2008) Goettig, Marcin, and Kuba Jaworowski. 2008. “ECB Opens 10 Billion Euro Tap for Poland,” November 21, 2008. _Article describing ECB’s repo agreement with Poland’s central bank_ . https://ypfs.som.yale.edu/node/22954 
+
+(Perry 2008) Perry, Joellen. 2008. “The Financial Crisis: ECB Extends an Emergency Loan to Hungary.” _The Wall Street Journal_ , October 17, 2008. _Article describing the unprecedented move by the ECB and the risks to the eurozone_ . https://ypfs.som.yale.edu/node/22945/ 
+
+(Vallee 2010) Vallee, Shahin. 2010. “Behind Closed Doors at the ECB.” _Financial Times_ , March 30, 2010, Alphaville edition. 
+
+_Article describing the controversy surrounding the ECB’s liquidity lines and disclosures during the Global Financial Crisis_ . https://ypfs.som.yale.edu/node/22952/ 
+
+## **Press Releases/Announcements** 
+
+(ECB 2008b) European Central Bank (ECB). 2008b. “ECB President’s Letter to the NBP,” October 24, 2008. 
+
+_Letter describing the ECB’s willingness to provide euro liquidity assistance to Poland from the ECB’s President_ . https://ypfs.som.yale.edu/node/22661/ 
+
+(ECB 2020b) European Central Bank (ECB). 2020b. “ECB and National Bank of Romania Set Up Repo Line to Provide Euro Liquidity,” June 5, 2020. 
+
+_Press release describing the euro providing agreement between the ECB and Romania’s central bank after the covid-19 shock_ . 
+
+https://ypfs.som.yale.edu/node/22646/ 
+
+(ECB 2020c) European Central Bank (ECB). 2020c. “ECB and Bank of Albania Set Up Repo Line to Provide Euro Liquidity,” July 17, 2020. 
+
+_Press release describing the euro providing agreement between the ECB and Albania’s central bank after the covid-19 shock_ . 
+
+https://ypfs.som.yale.edu/node/22647/ 
+
+
+(ECB 2020d) European Central Bank (ECB). 2020d. “ECB and National Bank of Serbia Set Up Repo Line to Provide Euro Liquidity,” July 17, 2020. 
+
+_Press release describing the euro providing agreement between the ECB and Serbia’s central bank after the covid-19 shock_ . 
+
+https://ypfs.som.yale.edu/node/22648/ 
+
+(ECB 2020e) European Central Bank (ECB). 2020e. “ECB and Central Bank of the Republic of San Marino Set Up Repo Line to Provide Euro Liquidity,” August 18, 2020. 
+
+_Press release describing the euro providing agreement between the ECB and San Marino’s central bank after the covid-19 shock_ . 
+
+https://ypfs.som.yale.edu/node/22649/ 
+
+(ECB 2020f) European Central Bank (ECB). 2020f. “ECB and National Bank of the Republic of North Macedonia Set Up Repo Line to Provide Euro Liquidity,” August 18, 2020. _Press release describing the euro providing agreement between the ECB and North Macedonia’s central bank after the covid-19 shock_ . https://ypfs.som.yale.edu/node/22652/ 
+
+(ECB 2022a) European Central Bank (ECB). 2022a. “ECB Agrees Euro Liquidity Lines with Non-Euro Area Central Banks until 15 January 2023,” March 28, 2022. 
+
+_Press release describing the extension of euro liquidity lines by the ECB in reaction to Russia’s invasion of Ukraine_ . 
+
+https://ypfs.som.yale.edu/node/22653/ 
+
+(ECB 2022b) European Central Bank (ECB). 2022b. “ECB Renews Repo Line with Banca Naţională a României until 15 January 2023,” April 27, 2022. 
+
+_Press release describing the extension of euro liquidity lines by the ECB to Romania in reaction to Russia’s invasion of Ukraine_ . 
+
+https://ypfs.som.yale.edu/node/22654/ 
+
+(ECB 2022c) European Central Bank (ECB). 2022c. “Central Bank Liquidity Lines,” December. 
+
+_List of ECB’s latest swap and repo lines as established tools to provide liquidity_ . https://ypfs.som.yale.edu/node/22655/ 
+
+(ECB 2022d) European Central Bank (ECB). 2022d. “ECB Extends Liquidity Lines with NonEuro Area Central Banks until 15 January 2024,” December 15, 2022. 
+
+_Press release describing a further extension of euro liquidity lines by the ECB due to Russia’s invasion of Ukraine_ . 
+
+https://ypfs.som.yale.edu/node/22673/ 
+
+(FT 2022) Martin Arnold and James Shotter (FT). 2022. “ECB Supports Poland’s Currency with EUR 10 Billion Financing Deal.” _Financial Times_ , March 28, 2022. _Article describing the ECB’s swap agreement with Poland’s central bank_ . https://ypfs.som.yale.edu/node/22796/ 
+
+
+## **Reports/Assessments** 
+
+(ECB 2009) European Central Bank (ECB). 2009. “Annual Report 2008,” 2009. _ECB’s annual report for the full year 2008_ . https://ypfs.som.yale.edu/node/22262/ 
+
+(ECB 2020g) Panetta, Fabio, and Isabel Schnabel (ECB). 2020g. “The Provision of Euro Liquidity through the ECB’s Swap and Repo Operations.” Blog Post, August 19, 2020. _Blog post explaining swap and repo lines by members of the Executive Board of the EU_ . https://ypfs.som.yale.edu/node/22628/ 
+
+(NBP 2008a) National Bank of Poland (NBP). 2008a. “NBP’s Letter to the ECB,” October 10, 2008. 
+
+_Note describing the foreign currency disruptions in Poland’s banking sector to the ECB by the Polish Central Bank’s Governor_ . 
+
+https://ypfs.som.yale.edu/node/22665/ 
+
+(NBP 2008b) National Bank of Poland (NBP). 2008b. “NBP’s Letter to the ECB,” October 28, 2008. 
+
+_Note describing the foreign currency disruptions in Poland and requesting liquidity assistance to the ECB by the Polish Central Bank’s Governor_ . https://ypfs.som.yale.edu/node/22666/ 
+
+(NBP 2008c) National Bank of Poland (NBP). 2008c. “NBP’s Letter to the ECB,” October 30, 2008. 
+
+_Note requesting liquidity assistance of EUR 10 billion to the ECB by the Polish Central Bank’s Governor_ . 
+
+https://ypfs.som.yale.edu/node/22667/ 
+
+(NBP 2008d) National Bank of Poland (NBP). 2008d. “Nardowy Bank Polski and European Central Bank Cooperation to Provide Euro Liquidity,” November 21, 2008. _Press release announcing the euro providing agreement between the ECB and NBP_ . https://www.ecb.europa.eu/press/pr/date/2008/html/pr081121.en.html 
+
+(NBP 2008e) National Bank of Poland (NBP). 2008e. “Financial Stability Review 2008,” October 2008. 
+
+_NBP’s financial stability report for full year 2008_ . https://ypfs.som.yale.edu/node/22683/ 
+
+(NBP 2009a) National Bank of Poland (NBP). 2009a. “Annual Report 2008,” 2009. _NBP’s annual report for full year 2008_ . https://ypfs.som.yale.edu/node/22953 
+
+(NBP 2009b) National Bank of Poland (NBP). 2009b. “Financial Stability Report 2009,” June 2009. 
+
+_NBP’s financial stability report for full year 2009_ . https://ypfs.som.yale.edu/node/22685/ 
+
+
+(NBP 2010) National Bank of Poland (NBP). 2010. “Annual Report 2009,” 2010. _NBP’s annual report for full year 2009_ . 
+
+https://nbp.pl/wp-content/uploads/2022/10/en_annual_report_2009.pdf 
+
+(NBP 2011) National Bank of Poland (NBP). 2011. “Annual Report 2010,” 2011. _NBP’s annual report for full year 2010_ . https://ypfs.som.yale.edu/node/22413 
+
+(SNB 2011) Swiss National Bank (SNB). 2011. “Annual Report 2010,” 2011. _SNB’s annual report for full year 2010_ . https://ypfs.som.yale.edu/node/22416 
+
+## **Key Academic Papers** 
+
+(BIS 2010) Allen, William, and Richhild Moessner (BIS). 2010. “Central Bank Co-Operation and International Liquidity in the Financial Crisis of 2008-9.” 310, May 2010. 
+
+_Study discussing central bank co-operation and international liquidity in the financial crisis of 2008-9_ . 
+
+https://ypfs.som.yale.edu/node/22669 
+
+(Gupta 2023a) Gupta, Salil. 2023a. “Eurozone: Central Bank Repos to Hungary, 2008.” Journal of Financial Crises 5, no. 1. 
+
+_Case study discussing the European Central Bank’s central bank repo line to the Hungarian central bank, Magyar Nemzeti Bank._ 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/8 
+
+(Gupta 2023b) Gupta, Salil. 2023b. “Eurozone: Central Bank Swap to Denmark, 2008.” _Journal of Financial Crises_ 5, no. 1. 
+
+_Case study discussing the European Central Bank’s central bank swap line to Danmarks Nationalbank_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/11 
+
+(Gupta 2023c) Gupta, Salil. 2023c. “Eurozone: Central Bank Swap to Sweden, 2007.” _Journal of Financial Crises_ 5, no. 1. 
+
+_Case study discussing the European Central Bank’s central bank swap line to Sveriges Riksbank_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/12 
+
+
+## **Appendixes** 
+
+## **Appendix A: ECB’s Network of Swap Lines (as of October 2022)** 
+
+
+[FIGURE id=vol5_iss1_9_f4 type=figure label="Exhibit 4" file=exhibit_4.png caption=""]
+![Exhibit 4](assets/vol5_iss1_9/exhibit_4.png)
+
+
+_Source: ECB 2022c_ 
+
+
+## **Appendix B: ECB’s Network of Repo Lines (as of October 2022)** 
+
+
+[FIGURE id=vol5_iss1_9_f5 type=figure label="Exhibit 5" file=exhibit_5.png caption=""]
+![Exhibit 5](assets/vol5_iss1_9/exhibit_5.png)
+
+
+_Source: ECB 2022c_ 
+
+
+## **Appendix C: ECB’s Repo Lines to Other Non-Euro Countries During the Covid-19 Crisis** 
+
+As a response to the Covid-19 shock, the ECB provided temporary and bilateral repo lines to several other European countries that do not use the euro currency (ECB 2022a). These repo lines were offering to provide euro liquidity in exchange for high-denominate euro collateral, with maximum maturity of each draw of three months (ECB 2022a). 
+
+_Romania._ On June 5, 2020, the ECB offered the National Bank of Romania (BNR) a repo line for a maximum size of EUR 4.5 billion to provide euro liquidity in exchange for highdenominated euro collateral (ECB 2020b). The agreement was to remain in place till December 31, 2020 (ECB 2020b). On April 27, 2022, the ECB extended the BNR’s repo facility to January 15, 2023, from March 31, 2022 (ECB 2022b). 
+
+_Albania._ On July 17, 2020, the ECB offered the Bank of Albania a repo line for a maximum size of EUR 400 million (ECB 2020c).The agreement was to remain in place till June 2021 (ECB 2020c). 
+
+_Serbia._ On July 17, 2020, the ECB offered the Bank of Serbia a repo line for a maximum size of EUR 1 billion (ECB 2020d). The agreement was to remain in place till June 2021 (ECB 2020d). 
+
+_San Marino._ On August 18, 2020, the ECB offered the Republic of San Marino a repo line for a maximum size of EUR 100 million (ECB 2020e). The agreement was to remain in place till June 2021 (ECB 2020e). 
+
+_North Macedonia._ On August 18, 2020, the ECB offered the National Bank of the Republic of North Macedonia a repo line with a maximum size of EUR 400 million (ECB 2020f). The agreement was to remain in place till June 2021 (ECB 2020f). 
+
+On March 28, 2022, the ECB extended its existing repo lines with Albania, North Macedonia, and Serbia to January 15, 2023, following requests from the respective central banks (ECB 2022a). The agreements would be of the same size and were established to provide euro liquidity to the financial institutions in these countries (ECB 2022a). On December 15, 2022, the ECB extended its liquidity lines with Albania, North Macedonia, Romania, and San Marino to January 15, 2024 (ECB 2022d). 
+
+Copyright 2023 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

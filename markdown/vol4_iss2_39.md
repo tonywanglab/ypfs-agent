@@ -1,0 +1,610 @@
+## Greece: Emergency Liquidity Assistance[1] 
+
+## _Corey N. Runkel[2]_ 
+
+Yale Program on Financial Stability Case Study July 15, 2022 
+
+## **Abstract** 
+
+The Global Financial Crisis of 2007-09 triggered a deep recession in Greece, leading investors to withdraw one third of Greek bank deposits between 2008 and 2011. As banks’ nonperforming assets rose and rating agencies downgraded Greek sovereign debt, Greek banks’ capital fell below levels required for Eurosystem refinancing operations. In response, the Bank of Greece (BOG) provided Emergency Liquidity Assistance (ELA) to all Greek banks. ELA was a revolving credit line open to solvent institutions at a premium rate, so long as that support did not interfere with the Eurosystem’s monetary policy. European Central Bank (ECB) rules required the BOG to bear all credit risk for ELA. The Greek case was the first ELA to be administered to an entire financial system. From August 2011 to February 2019, the BOG provided ELA at a 100-150 basis-point premium over the ECB’s refinancing rate. ELA outstanding peaked at EUR 124 billion (USD 162 billion) in May 2012, and again at EUR 90 billion in May 2015. In total, banks paid EUR 4.5 billion in premia above Eurosystem interest rates. ELA ended when Greek banks were once again accepted as counterparties in Eurosystem refinancing operations. A small body of research agrees that ELA significantly improved the liquidity of Greek banks. 
+
+**Keywords:** ELA, Emergency Liquidity Assistance, Eurozone Crisis, Global Financial Crisis, Greece, lender of last resort, Sovereign Debt Crisis 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based emergency lending programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. The author thanks Spiros Pantelias for his exceptional commitment to ensuring this case was as comprehensive as possible. 
+
+
+## **Overview** 
+
+The Global Financial Crisis (GFC) revealed deep vulnerabilities in Greece’s economy and finances. Still, bank deposits continued to rise through September 2009, and domestic banks received Eurosystem refinancing at rates consistent with pre-crisis years (Andruszkiewicz et al. 2020; Runkel 2021). In October 2009, the government announced that its budget deficit would be 12.5% of GDP, not 3.7%, as previously expected. This surprise led rating agencies to announce the first of seven downgrades to the country’s sovereign debt, causing it to fall below the credit ratings required by the European Central Bank (ECB) for its main and longerterm refinancing operations (MROs and LTROs) (Andruszkiewicz et al. 2020). 
+
+Greek banks experienced distress following these downgrades owing to the banks’ uncommonly high holdings of Greek sovereign debt (Andruszkiewicz et al. 2020).[3] After the downgrades in later 2009 and early 2010, neither the Eurosystem nor private counterparties accepted Greek sovereign debt as collateral (Pantelias 2021b). In May 2010, the ECB waived its credit-quality requirements for Greek sovereign debt after Greece signed onto an Economic Adjustment Program (EAP) administered by the ECB, European Commission, and International Monetary Fund, collectively, the Troika (ECB/2010/3 2010). This waiver permitted the Greek banks to use Greek sovereign debt as collateral to access the main and longerterm refinancing operations (MROs and LTROs) administered by the ECB. Greek banks dominated usage of these facilities 
+
+## **Key Terms** 
+
+Purpose: to “counterbalanc[e] the decrease in and the withdrawal of deposits by the private and public sectors, as well as the decrease in the value of eligible collateral for monetary policy operations” (Bank of Greece 2014, 160) 
+
+||Launch Dates|First activation: August<br>2011<br>Second activation:<br>February 2015|
+|---|---|---|
+||Expiration Dates|First activation: May<br>2014<br>Second activation:<br>March 2019|
+||Legal Authority|Statute of the ESCB,|
+|||article 14.4|
+||Peak Outstanding|First activation: EUR<br>124 billion in May 2012<br>Second activation: EUR|
+|||87 billion in June 2015|
+||Participants|Solvent Greek banks|
+||Rate|Fixed rate 100-150 bps<br>above ECB main<br>refinancing rate|
+||Collateral|Unknown; included|
+|||Greek sovereign debt|
+||Loan Duration|Case-by-case basis;|
+||Notable Features|short-term<br>National central bank<br>bore risk; first broad-<br>based ELA|
+||Outcomes|Support repaid in March|
+|||2019|
+
+
+
+> 3 Each country in the eurozone issued its own euro-denominated debt, and ECB regulatory and refinancing requirements did not discriminate between debt issued by a bank’s home country or that of another eurozone Member State. Banks, therefore, received little incentive from the Eurosystem to purchase home country debt above that of another eurozone Member State. Andruskiewicz (2020) proposes, however, that the Greek 
+
+
+from September 2010 to August 2011, borrowing more than one fifth of the total lent by the Eurosystem in each month (Runkel 2021; ECB 2021). 
+
+Further complicating the situation faced by Greek banks during this period, they began to experience a “large and persistent increase in” nonperforming loans (NPLs) (Andruszkiewicz et al. 2020). From 2008 to 2012, NPLs increased from less than 6% to more than 30%. The recession—GDP declined 17% from 2008 to 2012—was made worse by bank management, foreclosure moratoria, and an inefficient legal regime for resolving NPLs (Andruszkiewicz et al. 2020; Bank of Greece 2014, 101). Experts agreed that these two factors—the home bias of banks toward Greek government bonds and the potential difficulties in recovering collateral—were the most important causes of Greece’s banking crisis. In addition, banks had no capital buffers to absorb losses (Andruszkiewicz et al. 2020). 
+
+In summer 2011, low capital adequacy ratios began to disqualify many Greek banks from Eurosystem lending facilities (Andruszkiewicz et al. 2020). The same problems excluded banks from nonofficial funding sources (Pantelias 2021b, 51:20-51:50). Facing liquidity crises and declining capital, in August 2011 the first banks applied to the Bank of Greece (BOG) for Emergency Liquidity Assistance (ELA), a facility governed by Eurosystem rules that had been used in other eurozone countries to rescue individual banks (Mourmouras 2017). 
+
+Eurosystem rules required the national central bank administering an ELA program to bear all risks. This contrasted with other forms of Eurosystem liquidity, in which risk was shared between the ECB and the national central bank. ELA allowed national central banks, such as the BOG, to act as lender of last resort—that is, to offer a line of credit to solvent but illiquid institutions headquartered in their jurisdictions at a premium above Eurosystem refinancing operations—so long as such lending did not conflict with the Eurosystem’s monetary policy (ECB 2013). 
+
+Under Eurosystem rules that were developed during Greece’s crisis but applied across the Eurosystem, ELA was priced between 100 and 150 basis points above Eurosystem refinancing facilities (Suoninen and Jones 2013; Mourmouras 2017; Andruszkiewicz et al. 2020). In addition to collateral eligible for other forms of Eurosystem refinancing, Greek government bonds were eligible regardless of credit rating (Mourmouras 2017). Banks accessed ELA by applying to the BOG, which would then review applications and submit an ELA request to the ECB (Pantelias 2021c, 26:36-27:00). The ECB Governing Council approved EUR 50 billion (USD 66 billion[4] ) initially for the Greek ELA. This ceiling was regularly reviewed by the BOG (to ensure support was appropriate) and the ECB Governing Council (to ensure ELA did not conflict with Eurosystem monetary policy) (Pantelias 2021b; Andruszkiewicz et al. 2020). 
+
+> government pressured banks to buy domestic bonds, resulting in a higher ownership than in other countries and creating a dynamic where bank solvency was tightly interwoven with that of the Greek government. 4 EUR 0.76 = USD 1 in 2010. 
+
+
+Monthly ELA draws grew from EUR 20 billion to EUR 50 billion between August and October 2011 as Greece’s crisis worsened. Usage spiked to more than EUR 100 billion in February 2012 after the ECB revoked its first waiver covering Greek debt in response to the government’s creation of a bond-exchange scheme that devalued its debt (Runkel 2021; ECB/2012/2 2012). As shown in Figure 1, ELA peaked in May 2012, when banks borrowed more than EUR 120 billion—roughly equivalent to 64% of the country’s GDP. The ECB quickly instated a second waiver after Greece started a bond-purchase program to guard the value of its debt. But after this program ended, the ECB revoked the second waiver and ELA usage again spiked, above EUR 120 billion (Runkel 2021; Gibson et al. 2020; ECB/2012/2 2012; Bank of Greece 2014, 101). When the condition of Greek banks began improving, in December 2012, the ECB issued a third waiver allowing Greek debt to be used as collateral against the MROs and LTROs, further helping the condition of Greek banks (ECB/2012/32 2012). Throughout 2013 and into 2014, banks requested less and less ELA, ultimately phasing it out in May 2014 (Mourmouras 2017). 
+
+However, the January 2015 election of an anti-austerity government fueled fears over Greece’s economy and its place in the eurozone (Andruszkiewicz et al. 2020; Mourmouras 2017). In February, the ECB revoked the third waiver, causing banks to apply again for ELA and starting the second activation of the tool in Greece’s crisis (Mourmouras 2017; ECB/2015/6 2015). Usage reached EUR 66 billion in February and peaked at EUR 87 billion in June amid deposit runs (Runkel 2021). That month, the ECB Governing Council refused to raise the ELA ceiling to cover further requests from banks (Pantelias 2021c, 23:33-23:45; Wyplosz 2015). With the imposition of capital controls and the passage of time, usage of ELA tapered, finally ending in March 2019. However, as of 2021, deposits had not returned to their September 2009 peak. 
+
+
+[FIGURE id=vol4_iss2_39_f1 type=figure label="Figure 1" file=figure_1.png caption="Outstanding Liquidity from the Bank of Greece to Greek Banks"]
+### **Figure 1: Outstanding Liquidity from the Bank of Greece to Greek Banks**
+![Figure 1](assets/vol4_iss2_39/figure_1.png)
+
+
+_Source: Runkel 2021._ 
+
+## **Summary Evaluation** 
+
+Greece’s crisis marked the first time ELA had been used on an entire Member State’s banking system, and it exposed the BOG and the Eurosystem to unusually large risks. Market commentators speculated that Greece would be kicked out of the eurozone as yields on its sovereign debt soared (Wyplosz 2015; see Figure 3). To resolve the crisis, Greece imposed capital controls and a bank holiday at the end of June 2015. This second wave of ELA tapered much more slowly than the first and did not end until early 2019 (Andruszkiewicz et al. 2020). 
+
+A small body of literature on the Greek ELA agrees that it was effective at relieving interbank funding pressures. Andruskiewicz et al. (2020) surveyed 30 experts close to the BOG. Respondents rated ELA the most effective of various measures employed in addressing the liquidity needs of the Greek banking sector: the capital controls, ECB rate cuts, and Eurosystem open market operations. About 70% said ELA was highly effective “in addressing the liquidity needs of the Greek banks” (Andruszkiewicz et al. 2020). Kostika and 
+
+
+Laopodis (2020) found that ELA alleviated interbank funding strains in several of the countries in which it was implemented. They concluded that Greek ELA also likely helped increase deposits and narrow spreads of Greek bonds over German sovereign debt; however, they also concluded that the effects of ELA are difficult to separate from other Greek programs. Research by BOG staff also credited ELA lending with positive effects on bank lending, GDP growth, and with positive spillover effects on the health of other Greek banks (Gibson et al. 2020). 
+
+
+|**Context: Greece 2010–2011**|**Context: Greece 2010–2011**|
+|---|---|
+|**GDP**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$298.5 billion in 2010<br>$284.2 billion in 2011|
+|**GDP per capita**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$26,717 in 2010<br>$25,484 in 2011|
+|**Sovereign credit rating**<br>**(five-year senior debt)**|Moody’s: Ba1 in 2010; Ca in 2011<br>S&P: BB+ in 2010; CC in 2011<br>Fitch: BBB-in 2010; CCC in 2011|
+|**Size of banking system**|$373.66 billion in 2010<br>$422.62billion in 2011|
+|**Size of banking system**<br>**as a percentage of GDP**|125% of 2010 GDP<br>149% of 2011 GDP|
+|**Size of banking system**<br>**as a percentage of financial system**|Data not available in 2010<br>Data not available in 2011|
+|**Five-bank concentration of banking system**|80.7% of assets in 2010<br>93.5% ofassetsin 2011|
+|**Foreign involvement in banking system**|13.0% of assets in 2010<br>9.0% of assets in 2011|
+|**Government ownership of banking system**|Data not available in 2010<br>Data not available in 2011|
+|**Existence of deposit insurance**|$133,333 provided by Hellenic<br>Deposit and Investment Guarantee<br>Fund in 2010<br>$133,333 provided by Hellenic<br>Deposit and Investment Guarantee<br>Fund in 2011|
+|_Sources: Bloomberg; Federal Reserve Economic Data; World Bank Global Financial_<br>_Development Database._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: The BOG used ELA to provide funds to Greek banks after they lost access to Eurosystem liquidity facilities.** 
+
+Greece experienced a deep recession after the GFC. In 2008, banks’ nonperforming assets rose, and in 2009, deposit outflows began (see Figure 8; Andruszkiewicz et al. 2020). Greek banks also held a large amount of Greek government bonds, which saw successive creditrating downgrades and a significant depreciation in 2010 and 2011 (see Figure 2). Banks turned to Eurosystem liquidity facilities for financing (see Figure 6) and private counterparties as well but decreases in bank capital disqualified banks from borrowing (Andruszkiewicz et al. 2020). The Bank of Greece (BOG) provided ELA for all Greek banks to fill that funding gap (Bank of Greece 2014, 160). ELA was a credit line, requested by each Greek bank, renewed frequently, and funded by the BOG. ELA was governed by Eurosystem rules, but the BOG bore all risks. Other eurozone countries had used ELA before, but the Greek case was the first application to an entire financial system. The Greek case was also the longest use of ELA, spanning three years in its first activation and four years in its second activation. The ECB’s allowance for prolonged support aimed to avoid fire sales that may have occurred had ELA ended earlier. 
+
+[FIGURE id=vol4_iss2_39_f2 type=chart label="Figure 2" file=figure_2.png caption="Ten-year Government Bond Yield Spreads over German Bonds, Monthly Data"]
+### **Figure 2: Ten-year Government Bond Yield Spreads over German Bonds, Monthly Data**
+![Figure 2](assets/vol4_iss2_39/figure_2.png)
+
+
+_Source: OECD 2007–2021._ 
+
+
+## **2. Legal Authority (A): Article 14.4 of the Statute of the European System of Central Banks (ESCB) allowed the Bank of Greece to implement ELA, subject to Governing Council review.** 
+
+The 1992 Treaty on European Union included several annexes related to the functioning of the Union. Member States that also adopted the euro as their official currency devolved many powers of financial regulation to the Eurosystem through these annexes. Some monetary policy powers were also explicitly delegated to the ECB. But the annex—known as the Statute of the ESCB—reserved to the national central banks powers not explicitly delegated: 
+
+National central banks may perform functions other than those specified in this Statute unless the Governing Council finds, by a majority of two thirds of the votes cast, that these interfere with the objectives and tasks of the ESCB. Such functions shall be performed on the responsibility and liability of national central banks and shall not be regarded as being part of the functions of the ESCB. (European Union 1992, art. 14.4) 
+
+Eurosystem central banks had used this authority to lend, at their own risk, to solvent but illiquid institutions since at least 2007. Still, the Eurosystem imposed rules on liquidityproviding central banks to ensure that lending did not conflict with monetary policy goals. By 2011, most of the rules that governed ELA were in place. First, the Governing Council could veto any ELA larger than EUR 2 billion within two business days after the aid was provided (ECB 2013). Second, the Eurosystem required borrowing institutions to pay a penalty rate over the Eurosystem refinancing rate. Third, in the Greek case, the Governing Council also reviewed the total ceiling of ELA usage biweekly (Andruszkiewicz et al. 2020). 
+
+## **Legal Authority (B): The European Commission approved ELA operations as permissible state aid to private institutions.** 
+
+Financial interventions in the EU often collided with European Commission competition regulations, termed “State aid,” which restrict support from Member States to private companies. Article 107(3)(b) of the Treaty on the Functioning of the European Union permitted the Commission to find State aid permissible if it was intended "to remedy a serious disturbance in the economy of a Member State." 
+
+The 2008 Banking Communication published by the Commission defined its jurisdiction and application of the State aid rules to measures taken in relation to financial institutions in the context of the GFC and clarified how the Commission would review such matters to determine if State aid was intended “to remedy a serious disturbance in the economy of a member State” (European Commission 2008, vol. 270, para. 7). While the communication mostly aimed at guarantees and restructuring efforts, it also acknowledged that a central bank may wish to augment such efforts with liquidity support, and it allowed, in certain “exceptional circumstances, a scheme of liquidity support from public sources (including the central bank)” (Banking Communication 2008, vol. 270, para. 52). This Communication further acknowledged that “the drastic repercussions of the potential failure of a systemically relevant financial institution” might require interventions that “extend beyond 
+
+
+the stabilization of individual financial institutions and include general schemes” (Banking Communication 2008, vol. 270, para. 4). 
+
+Funding provided by a central bank to a financial institution did not constitute State aid if four conditions were met: 
+
+- (a) the financial institution was solvent at the moment of the liquidity provision; 
+
+- (b) the facility was fully secured by collateral to which appropriate haircuts are applied, in function of its quality and market value; 
+
+- (c) the central bank charged a penal interest rate to the beneficiary; 
+
+- (d) the measure was taken at the central bank's own initiative, and in particular was not backed by any counter-guarantee of the State (European Commission 2008, vol. 270, para. 51). 
+
+Greece’s ELA program satisfied the first three conditions, which defined classical lender-oflast-resort activities (Domanski, Moessner, and Nelson 2014; European Commission 2014). But the Commission ruled that the ELA constituted State aid since bank borrowing under the ELA was guaranteed by the Greek government (European Commission 2014). 
+
+The Commission then subjected the Greek ELA to the required compatibility standards — the _appropriateness_ , _necessity_ , and _proportionality_ tests — which the 2008 Banking Communication outlines as general principles for all programs hoping to comply with State aid rules. To be appropriate, a State aid program must have been “well-targeted in order to [remedy] a serious disturbance in the economy” (European Commission 2008, vol. 270, para. 15). State aid documents for the case of support provided to TT Bank—a postal savings bank—demonstrate the Commission’s general stance toward Greek ELA: The Commission ruled that “because the Greek banks were shut out from wholesale markets and became entirely dependent on central bank funding . . . and since [TT] Bank could not borrow a sufficient amount” from regular refinancing operations, the ELA was appropriate to quell the “serious disturbance” that may have occurred had the recipient defaulted on its debt (European Commission 2014). 
+
+The Commission then addressed the necessity test, which asked whether the scale of ELA was enough to achieve its desired effect—rescuing TT Bank from its liquidity crisis—and the proportionality test, which asked if the scale of ELA went beyond what was required (European Commission 2008, vol. 270, para. 15). The Commission decided that the ELA’s premium over Eurosystem refinancing facilities, coupled with close monitoring by the ECB, “entails a relatively high cost of funding for the Bank, [so that] the Bank has a sufficient incentive to avoid relying on that source of funding for developing its activities” (European Commission 2014). As a result, the Commission found that the ELA was “limited to the minimum amount necessary” (European Commission 2014). The Commission then determined that the ELA support was proportional, largely owing to the close scrutiny of its use and regular verification by the BOG and ECB so “that its use [was] limited to the minimum 
+
+
+[which] also ensure[d] that this liquidity . . . d[id] not lead to undue distortion of competition” (European Commission 2014). 
+
+The Commission also cited Greece’s commitment to implementing “a number of measures aiming at reducing negative spill-over effects” (European Commission 2014). By this reasoning, the Commission found that ELA complied with the 2008 Banking Communication (and the later 2011 Prolongation Communication and the 2013 Banking Communication). Under the Treaty on the Functioning of the European Union (2012, art. 107[3][b]), the Commission considered each bank that received ELA as a separate case subject to review under the Banking Communication, but it applied the same framework in each case, and in the eurozone generally (Mourmouras 2017). However, the Commission did not suggest thresholds for which the amount of ELA would have distorted competition or been more than the minimum necessary. These counterfactual scenarios cannot be explored since the Commission permitted State aid for the entire Greek banking system, which the Commission believed faced a systemic threat (Pantelias 2021c, 23:40-23:50). 
+
+## **Legal Authority (C): The Commission found the state guarantee backing ELA to be legally sufficient.** 
+
+The Greek government guaranteed the total amount of ELA—rather than support to any particular recipient—through its Credit Guarantee Scheme (European Commission 2014; Andruszkiewicz et al. 2020; Thompson 2021). The Credit Guarantee Scheme allowed banks to access counterparties that would otherwise not lend to them (European Commission and Vestager 2015). These counterparties included the BOG, which wanted the Credit Guarantee Scheme to cover ELA so that the BOG could comply with its risk framework (Pantelias 2021b, 14:21-15:00). To satisfy the conditions for a state-backed scheme, banks must have paid a guarantee fee higher than the rate[5] set in the 2011 Prolongation Communication (European Commission 2011; 2014). The guarantee fee was added to the 100-150 bps premium charged over the ECB’s main refinancing rate but the exact figure is not known (European Commission 2014). Since Greek ELA exceeded this rate, the Commission found the guarantee acceptable. 
+
+The guarantee of Greek ELA was subject to further EU conditions to comply with the ECB’s prohibition on monetary financing. Specifically, there must have been “no doubts as to the legal validity and enforceability of the State guarantee” or to “the economic adequacy of the State guarantee” (ECB 2012). This framework, cited regularly by Eurosystem officials, was originally articulated in a review of an Italian lira banknote exchange program (Mourmouras 2017; Magnus and Xirou 2017). The ECB meant for these conditions to ensure central-bank independence (ECB 2012). 
+
+> 5 That rate was 40 basis points plus “a risk-based fee equal to the product of 40 basis points and a risk metric composed of: (i) one half of the ratio of the beneficiary's median five-year senior CDS spread over the three years ending one month before the date of issue of the guaranteed bond to the median level of the iTraxx Europe Senior Financials five-year index over the same three-year period; plus (ii) one half of the ratio of the median five-year senior CDS spread of all Member States to the median five-year senior CDS spread of the Member State granting the guarantee over the same three-year period” (European Commission 2011). 
+
+
+## **3. Part of a Package: ELA interacted with other crisis-fighting measures but was not conceived alongside other programs.** 
+
+The BOG did not introduce ELA as part of a package with other measures. Rather, the BOG introduced ELA after Greek banks had lost access to Eurosystem financing through LTROs and MROs. The ECB carved out more authority and flexibility for ELA than open market operations provided (Pantelias 2021b, 55:16-55:53; Trichet 2010; see Runkel 2022). 
+
+## **4. Management: The Bank of Greece managed ELA under Governing Council supervision.** 
+
+The Statute of the ESCB (1992, art. 14.4) gave the Governing Council the right to prohibit ELA if it interfered with the “objectives and tasks of the [Eurosystem].” In practice, this meant that the Governing Council voted on an ELA request if it exceeded EUR 2 billion (ECB 2013). The Governing Council regularly met biweekly, though there was a process to handle urgent matters (Pantelias 2022). 
+
+The BOG reviewed the size of ELA “each week (and more frequently if necessary)” (Pantelias 2022). The BOG was responsible for evaluating collateral to determine the maximum liquidity each bank could request. 
+
+## **5. Administration: ELA offered an open credit line of euros to eligible banks.** 
+
+When a bank wanted ELA, it applied to the BOG describing its expected inflows and outflows for the next few weeks (Pantelias 2021c, 26:18-26:35). The Division of Supervision at the BOG then reviewed the applicant for solvency, the quality of its collateral, and, with the ECB, to ensure that banks would receive no more than their need (Pantelias 2021c, 4:30-5:45; 2022). Banks filed these requests to start ELA and whenever they wanted to raise or lower their level of support (Pantelias 2022). 
+
+ELA was monitored daily, weekly, and biweekly to accomplish different objectives. BOG officials required daily reports from banks to monitor their liquidity conditions. This informed the BOG’s weekly review of the ELA level. Based on this review and the reports, the BOG submitted an “ELA note” every two weeks to the ECB Governing Council describing, bank by bank, the country’s ELA needs. 
+
+This note contained nine pieces of information: 
+
+- (e) the counterparty to which the ELA had been/would be provided; 
+
+- (f) the value and maturity date of the ELA that had been/would be provided; 
+
+- (g) the volume of the ELA that had been/would be provided; 
+
+- (h) the currency in which the ELA had been/would be provided; 
+
+- (i) the collateral/guarantees against which the ELA had been/would be provided, 
+
+
+including the valuation of, and any haircuts applied to, the collateral provided and, where applicable, details on the guarantee provided; 
+
+- (j) the interest rate to be paid by the counterparty on the ELA that had been/would be provided; 
+
+- (k) the specific reason(s) for the ELA that had been/would be provided (e.g., margin calls, deposit outflows); 
+
+- (l) the prudential supervisor’s assessment, over the short and medium term, of the liquidity position and solvency of the institution receiving the ELA, including the criteria used to come to a positive conclusion with respect to solvency; and 
+
+- (m) where relevant, an assessment of the cross-border dimensions and/or the potential systemic implications of the situation that had made/was making the extension of ELA necessary. (ECB 2013) 
+
+The BOG received this information during daily calls with bank managers. Banks disclosed their liquidity status and any significant near-term liabilities. Through these calls, the BOG exercised its informational advantage over the ECB. It had officials appointed to supervise each bank and was much closer to those banks than were ECB officials (Pantelias 2021b). 
+
+The BOG also used these calls to communicate policies to banks. For instance, the BOG wanted to avoid any public impression that banks were running low on liquidity. Their policy was to satisfy any request for cash on the same business day. And the phone calls let them monitor which banks needed banknotes soon. In the event that some did, commercial airplanes flew overnight from Frankfurt to Athens carrying banknotes in anticipation of the next business day (Pantelias 2021b, 43:32-45:34). However, ELA usually took the form of credit in banks’ reserve accounts. ECB guidelines stated that ELA could be “central bank money and/or any other assistance that may lead to an increase in central bank money” (ECB 2013). 
+
+## **6. Eligible Participants: All solvent and viable Greek banks were eligible for ELA and participated.** 
+
+All solvent banks were eligible to receive ELA. To assess solvency, the BOG’s Division of Supervision subjected banks to an asset quality review and stress test. These evaluated bank capital conditions under static and dynamic conditions looking forward more than two years (Pantelias 2021c, 7:17-7:56). This condition was required by the ECB (2013). The viability condition was required by the European Commission, which would not grant aid to institutions that would still be at risk of failure after State aid (Pantelias 2021c, 16:27-16:35; European Commission 2013). 
+
+
+The ECB considered credit institutions solvent if their relevant capital ratios complied with its general guidelines[6] or if they held “a credible prospect of recapitalization […] within 24 weeks” of the quarter that showed insufficient capital. In the case of Greek banks, determining solvency “was a huge project” (ECB 2017; Pantelias 2021c, 6:37). The financial position of Greek banks depended on the possibility of further assistance by the state, which in turn depended on the solvency and viability assessments (Magnus and Xirou 2017). Generally, lender-of-last-resort programs suffer from difficulties distinguishing between illiquidity and insolvency, and by the time a thorough audit is complete, institutions that were solvent before the audit may no longer be (Domanski, Moessner, and Nelson 2014). In practice, though “everybody tried to avoid [applying for ELA], within a few weeks” of ELA starting, “all [eligible] Greek banks decided to participate . . . they had no other choice” (Pantelias 2021b, 18:08-18:25). 
+
+However, only banks majority-owned by Greek entities could receive ELA from the BOG. Banks owned by foreign entities could receive support from their parent bank, or ultimately via ELA from their parent’s central bank (Mourmouras 2017). For example, during the crisis, a distressed Portuguese bank operating in Greece was referred to Banco de Portugal and was not supported by the BOG; both major Cypriot banks had access to ELA via the Central Bank of Cyprus (Pantelias 2021b, 4:32-5:22). 
+
+## **7. Funding Source: The BOG funded ELA on its balance sheet and credit was guaranteed by the Greek government.** 
+
+Although ELA took the form of a Eurosystem liability, the BOG alone bore responsibility for any defaults or other losses (ECB 2013). 
+
+The BOG requested that the Greek government guarantee the ELA of all participating banks through its existing Credit Guarantee Scheme (Pantelias 2021b, 14:21-15:30, 47:50-49:10). The BOG did this to minimize its exposure to credit risk. As a result, the Greek government bore the credit risk. Banks participating in ELA were required to pay the government a guarantee fee (European Commission 2014; see Thompson 2021 for a review of the program). 
+
+## **8. Program Size: The size of ELA was subject to a ceiling set by the ECB and reviewed every week.** 
+
+The size of ELA was subject to a ceiling that the ECB Governing Council set and reviewed weekly (Andruszkiewicz et al. 2020). The ECB Governing Council approved EUR 50 billion initially for the Greek ELA. This number grew quickly as the support requested by each bank in ELA notes grew. Outstanding ELA in Greece peaked at EUR 124 billion in May 2012, and then again at EUR 87 billion in June 2015, during the second activation of ELA (Runkel 2021). In June 2015, the ECB raised the Greek ELA limit to EUR 88.9 billion but refused to raise it further (Pantelias 2021c, 23:33-23:45; Wyplosz 2015; Andruszkiewicz et al. 2020). The ELA ceilings that the Governing Council set were not made public until September 17, 2015— 
+
+> 6 In 2017, these ratios were: 4.5% for Common Equity Tier 1 (CET1); 6% for Tier 1; and 8% for Total Capital (ECB 2017). 
+
+
+after ELA usage and the ceiling had declined—when the ceiling stood at EUR 88.9 billion (BOG 2015). 
+
+**9. Individual Participation Limits: The BOG limited borrowing only by the quality and amount of a bank’s collateral.** 
+
+The BOG limited borrowing only by the quality and amount of each bank’s collateral, although it could have denied funds based on other factors (Pantelias 2021b, 21:10-22:30). 
+
+As discussed in Key Design Decision **Error! Reference source not found.** , the Governing Council did not scrutinize the ELA positions of individual banks, but rather of the system at large. The June 2015 Governing Council decision not to raise the ELA ceiling affected individual bank borrowing, but not because of the applications of any one bank (Pantelias 2021c, 23:33-23:50). 
+
+## **10. Rate Charged: ECB guidelines required banks to pay 100-150 bps above the main refinancing rate.** 
+
+ECB guidelines reflect that ELA is a lender-of-last-resort facility (Magnus and Xirou 2017). Following Bagehot’s dictum, Greek ELA required borrowers to pay a premium rate, disincentivizing use (ECB 2017). This premium was between 100 bps and 150 bps over the Eurosystem’s main refinancing rate (Suoninen and Jones 2013; Mourmouras 2017; Andruszkiewicz et al. 2020). In total, borrowers paid an estimated EUR 4.5 billion in premia: EUR 2 billion between 2011 and 2014; and EUR 2.5 billion between 2015 and 2019 (Andruszkiewicz et al. 2020). These costs are depicted in Figure 3. 
+
+
+[FIGURE id=vol4_iss2_39_f3 type=chart label="Figure 3" file=figure_3.png caption="Estimated Costs of ELA to Banks 2010-2019, in EUR billions"]
+### **Figure 3: Estimated Costs of ELA to Banks 2010-2019, in EUR billions**
+![Figure 3](assets/vol4_iss2_39/figure_3.png)
+
+
+_Source: Andruszkiewicz et al. 2020._ 
+
+## **11. Eligible Collateral: The BOG accepted Greek government bonds, as well as any collateral that the ECB accepted for open market operations.** 
+
+Part of the BOG’s stated purpose in administering ELA was to counter the “decrease in the value of eligible collateral [held by Greek banks] for monetary policy operations” (Bank of Greece 2014, 160). Specifically, the BOG accepted Greek sovereign debt, regardless of its credit rating, as collateral under the ELA. This was important because Greek debt was, at times, not eligible for Eurosystem refinancing operations. Four separate waivers allowed Greek banks to use Greek sovereign debt as collateral in Eurosystem refinancing operations (see Figure 4). When the ECB revoked those waivers on February 27, 2012; July 18, 2012; and February 11, 2015, ELA draws soared, as shown in Figure 1. In addition, the BOG accepted some privately issued securities and performing loans (Pantelias 2021c, 3:354:00). “As far as it is known, the majority of collateral used in ELA as collateral is Government guarantees or bonds that have ratings lower than those accepted for the ECB’s standard monetary policy operations” (Mourmouras 2017). 
+
+At the beginning of ELA, the BOG told banks to post all their eligible collateral to the BOG’s settlement system. In doing so, the BOG could provide additional ELA quickly, as it had already reviewed collateral. There was little opportunity cost in posting this collateral since international banks had refused lending to Greek banks, leaving Greek banks with no other options (Pantelias 2021b, 21:40-21:50). The BOG’s decision to accept Greek debt prevented 
+
+
+such assets from sitting idle on balance sheets and allowed banks to receive funding when no other counterparties were interested. 
+
+[FIGURE id=vol4_iss2_39_f4 type=figure label="Figure 4" file=figure_4.png caption="Waivers Allowing Greek Debt as Collateral in Eurosystem Refinancing Operations"]
+### **Figure 4: Waivers Allowing Greek Debt as Collateral in Eurosystem Refinancing Operations**
+
+|**Operations**|||
+|---|---|---|
+|_Date enacted_|_Date revoked_|_Reasonfor revocation_|
+|January 1, 2011|February 27, 2012|Government launched debt exchange program that<br>decreased the quality ofGreekbonds|
+|March 5, 2012|July 18, 2012|Bond-purchase program that insured the value of<br>Greekbonds ended|
+|December 21, 2012|February 11, 2015|SYRIZA party wins elections and says it will not<br>comply with Economic Adjustment Programme|
+|June 22, 2016|August 10, 2018|Economic Adjustment Programme ends|
+
+
+
+_Source: ECB/2012/2 2012; ECB/2012/14 2012; ECB/2015/6 2015; ECB/2018/21 2018._ 
+
+In addition to accepting Greek debt under the ELA, the BOG also accepted other collateral that would have been accepted by the ECB: marketable debt instruments rated at least A-, and two standard non-marketable assets — bank loans and retail mortgage-backed debt (RMBD; ECB 2006). Only collateral denominated in euros was eligible. 
+
+The BOG applied haircuts to all collateral. Haircuts were harmonized with the ECB’s schedule, available in the Appendix, with the exception of Greek debt. Figure 5 shows the haircuts that the BOG applied to Greek debt. The BOG changed its schedule of haircuts on Greek debt posted against monetary policy operations in December 2014 and July 2015. The schedules used before December 2014, between December 2014 and July 2015, and after July 2015 are shown respectively as Schedule A, B, and C in Figure 5. Only Schedules A and C were used during a period that ELA was active. In the first period (Schedule A), the BOG applied haircuts between 15% and 71% on Greek sovereign debt and between 23% and 81% on guaranteed private debt, depending on remaining maturity and whether the bonds paid coupons. In the third period (Schedule C), the BOG applied a fixed 45% haircut on all Greek debt. 
+
+
+[FIGURE id=vol4_iss2_39_f5 type=figure label="Figure 5" file=figure_5.png caption="Haircuts on Greek Debt throughout the Eurozone Crisis"]
+### **Figure 5: Haircuts on Greek Debt throughout the Eurozone Crisis**
+![Figure 5](assets/vol4_iss2_39/figure_5.png)
+
+
+_Source: Mourmouras 2017._ 
+
+## **12. Loan Duration: Maturities varied bank by bank and were revised as banks requested new limits.** 
+
+Documents did not reveal the maturities of ELA, but BOG officials said that ELA was generally short-term and was revised when a bank requested a new limit of support. 
+
+## **13. Other Conditions: ELA did not impose other conditions on participants.** 
+
+Documents surveyed do not indicate other conditions that were required under ELA. 
+
+
+## **14. Impact on Monetary Policy Transmission: The Commission limited ELA to only the amount necessary to keep banks in operation.** 
+
+Under the ECB’s ELA policy, ELA must not have interfered with the implementation of the Eurosystem’s monetary policy (ECB 2013). To ensure this, the ECB’s Governing Council reviewed the Greek ELA activity every two weeks (Andruszkiewicz et al. 2020). In its note approving the Greek ELA, the European Commission (2014) found that its rules, along with ECB and BOG management, “limited [ELA] to the minimum necessary” to stabilize a participating bank, and accordingly, the system. Through its monitoring, the ECB Governing Council attempted to balance the amount of ELA with the amount of liquidity in the Greek banking system for the permissible financial stability purposes. Pantelias (2021b, 12:53) asserted that ELA “[could] not be used for credit expansion, period.” 
+
+## **15. Other Options: ELA substituted for longer-term refinancing operations.** 
+
+ELA played a lender-of-last-resort role in the Eurosystem (Mourmouras 2017). Before drawing on ELA, Greek participants used MROs and LTROs to secure credit. Between September 2010 and the start of ELA in August 2011, Greek banks were borrowing more than 20% of the Eurosystem’s outstanding MRO liquidity and 20% of the outstanding LTRO liquidity, as shown in Figure 6 (Runkel 2021; ECB 2021). Pantelias (2021b, 55:16-55:53) noted that the ECB “did everything in [its] power to help” the Greek banks using “alternatives” to open market operations. Greek banks reverted to ELA after they lost access to LTROs and exhausted main refinancing operations (MROs). 
+
+
+[FIGURE id=vol4_iss2_39_f6 type=figure label="Figure 6" file=figure_6.png caption="Greek Usage of Eurosystem Open Market Operations"]
+### **Figure 6: Greek Usage of Eurosystem Open Market Operations**
+![Figure 6](assets/vol4_iss2_39/figure_6.png)
+
+
+_Source: ECB 2021; Runkel 2021._ 
+
+**16. Similar Programs in Other Countries: Greece’s, Ireland’s, and Portugal’s programs were the first broad uses of ELA; seven other eurozone members supported multiple institutions in the years that followed.** 
+
+Before 2009, ELA had been used only to administer support to one or two institutions at a time (Mourmouras 2017). The 2008 Banking Communication (2008, vol. 270, para. 2) recognized that the scale and nature of the GFC affected solvent and insolvent institutions alike. And several sources noted that distinguishing between the two can be difficult and risky (Domanski, Moessner, and Nelson 2014; Mourmouras 2017). These factors resulted in the ECB broadening “the scope of assistance from individual [banks] to the entire banking system” (Mourmouras 2017). 
+
+As one of the first broad-based uses of ELA, the Greek experience shaped the rules of later programs and caused the ECB to refine and standardize its rules. For instance, ELA procedures applicable to the entire eurozone were published during its administration (ECB 2013; ECB 2017). Figure 7 describes some experiences of ELA during the crisis. 
+
+
+A Bank of Greece working paper gives a fuller treatment. Gibson et al. (2020) surveyed 10 banks in Austria, 10 in Belgium, four in Cyprus, 11 in France, nine in Germany, nine in Ireland, 12 in Italy, nine in the Netherlands, 12 in Portugal, and 14 in Spain. All received liquidity support during the GFC. 
+
+
+[FIGURE id=vol4_iss2_39_f7 type=figure label="Figure 7" file=figure_7.png caption="ELA Usage in the Eurozone, 2007–2017"]
+### **Figure 7: ELA Usage in the Eurozone, 2007–2017**
+![Figure 7](assets/vol4_iss2_39/figure_7.png)
+
+
+_Source: Mourmouras 2017._ 
+
+
+## **17. Communication: The BOG and ECB slowly abandoned constructive ambiguity and became more transparent.** 
+
+Neither BOG nor the ECB communicated with the public on a regular basis about ELA. This approach typified _constructive ambiguity_ , in which a central bank deliberately does not disclose information about how decisions are made regarding lender-of-last-resort activities. Proponents of this approach, widely followed before the GFC, held “that ex ante ambiguity about the provision of liquidity support c[ould] effectively contain moral hazard” (Domanski, Moessner, and Nelson 2014). If a bank did not know which criteria a central bank would use when deciding whether to intervene, then that bank would make sure that its activities appeared prudent based on any criteria a central bank could use (Magnus and Xirou 2017). Eurozone central banks cited constructive ambiguity in their policies, where such policies existed: 
+
+By end-2006, about half of the central banks of the G10 advanced economies had publicly released statements on their ELA policies. Generally, these statements set out broad guidelines or principles for ELA. Many central banks, particularly in the euro area, were deliberately vague about their ELA policies, emphasising the importance of constructive ambiguity. (Domanski, Moessner, and Nelson 2014) 
+
+But constructive ambiguity became impossible when the system became too fragile (Domanski, Moessner, and Nelson (2014). Eurozone central banks, led by the ECB, began to move past constructive ambiguity during the GFC. In 2013, the ECB released standard procedures for ELA, formalizing these protocols in a 2017 agreement with national central banks (ECB 2013; ECB 2017). The BOG added to this movement by regularly disclosing its ELA ceiling starting in 2015, while other central banks remained quiet about their ELA activities (Magnus and Xirou 2017). 
+
+## **18. Disclosure: The BOG reported aggregate ELA levels mixed with other assets.** 
+
+Eurozone national central banks were required to publish monthly financial statements, but ELA did not carry its own disclosure requirements. The BOG reported total ELA lending on a comingled basis with other lending to eurozone credit institutions.[7] Banks receiving ELA also did not have to disclose their ELA borrowings. State aid documents revealed some details of banks’ positions, but the disclosures were not standardized and State aid procedures did not impose rules about ELA disclosure. The EU’s regulatory structure supported this lack of disclosure to the point of waiving regulatory requirements “to ensure that . . . the amount of liquidity assistance given by central banks cannot be detected” (European Banking Authority 2014). 
+
+> 7 Until April 2012, these figures appeared either under line 10 of its monthly financial statements for _Sundry assets_ , after which they appeared under line 6 for _Other lending to euro area credit institutions_ . BOG officials stated that the only other expenses mixed in with line 6 were “insignificant” (BOG Financial Accounts Team 2021; it did not comment on line 10). 
+
+
+Additionally, State aid documents redact the actual premia charged by the BOG to participants. 
+
+## **19. Stigma Strategy: The BOG did not use a strategy to manage ELA stigma.** 
+
+Banks needed ELA regardless of the reputational risks, according to Spiros Pantelias, then head of financial stability at BOG. ELA “may have been viewed negatively by market participants but banks had no other alternative at that time” (Pantelias 2021a). In other words, the need for cash surmounted the price of stigma. 
+
+## **20. Exit Strategy: ELA ended as Greek banks were restructured and regained access to alternative sources of lending.** 
+
+The premium rate and short loan duration left healthy banks with better options than ELA, disincentivizing its long-term usage. This was important because even though ELA lasted several years, by the ECB’s rules it must be temporary and last no longer than was needed. The weekly ELA notes and biweekly ECB reviews allowed banks to repay and exit ELA when they found financing alternative forms of financing (Pantelias 2021c, 19:42-21:08). 
+
+Greek banks found alternative financing gradually as deposits returned slowly and privatesector lending limits increased. In 2013, Greek banks outperformed their expectations and ELA saw a sharp drop-off (Pantelias 2021c, 21:18). ELA usage fell also as private counterparties saw the support given by the government and BOG, as shown in Figure 8 (Pantelias 2021b, 26:48-27:52). Banks’ health improved after a successful recapitalization program, a consolidation of banks, and other programs . 
+
+By May 2014, no Greek banks were drawing on ELA (Mourmouras 2017). But the BOG saw the impending election of the SYRIZA party, which had campaigned on anti-austerity measures and committed itself to avoiding negotiations with the Troika, as a source of financial instability and “nobody was surprised when, for a significant amount of time, we had continuous deposit outflows” (Pantelias 2021a, 30:27-30:50). ELA usage during the second phase tapered much more gradually than the first but followed the same causes. In June 2016, the ECB reinstated Greek bonds as eligible collateral (ECB/2016/18 2016). Still, LTRO usage remained low compared to the first phase of ELA, possibly suggesting that banks could again access the private interbank market (see Figure 1). Support tapered even more after the ECB declared in 2018 that Greece was no longer subject to an EAP, and finally ended in August 2019 (ECB/2018/21 2018). 
+
+
+[FIGURE id=vol4_iss2_39_f8 type=figure label="Figure 8" file=figure_8.png caption="Private-Sector Deposits in Greek Banks, EUR millions"]
+### **Figure 8: Private-Sector Deposits in Greek Banks, EUR millions**
+![Figure 8](assets/vol4_iss2_39/figure_8.png)
+
+
+_Source: Andruszkiewicz et al. 2020._ 
+
+
+## **References and Key Program Documents** 
+
+Documents cited in the text are introduced with a parenthetical author-date citation. Documents that are relevant to this case but have not been cited in text do not include this parenthetical reference. 
+
+## **Program Summaries** 
+
+(Mourmouras 2017) Mourmouras, John. 2017. “On Emergency Liquidity Assistance: Theory and Evidence.” Speech presented at the Political Economy of Financial Markets (PEFM) Programme, Oxford, February 27, 2017. 
+
+_Speech by BOG deputy governor on ELA in the eurozone during the GFC_ . https://ypfs.som.yale.edu/node/20116 
+
+## **Implementation Documents** 
+
+(ECB 2013) European Central Bank (ECB). 2013. “ELA Procedures.” October 17, 2013. _First [published] official procedures for ELA describing its rationale and terms_ . https://ypfs.som.yale.edu/node/20127 
+
+(ECB 2017) European Central Bank (ECB). 2017. “Agreement on Emergency Liquidity Assistance.” May 17, 2017. 
+
+_Second published protocol on ELA, with more details_ . https://ypfs.som.yale.edu/node/20129 
+
+(European Banking Authority 2014) European Banking Authority. 2014. “Guidelines on the Disclosure of Encumbered and Unencumbered Assets.” EBA-GL-2014-03. June 27, 2014. _Technical document describing when to, and when not to, disclose assets to European banking regulators_ . 
+
+https://ypfs.som.yale.edu/node/20139 
+
+(European Commission 2008) European Commission. 2008. “The Application of State Aid Rules to Measures Taken in Relation to Financial Institutions in the Context of the Current Global Financial Crisis.” 270 OJ C 8. 52008XC1025(01). October 25, 2008. 
+
+_Guidance from the European Commission regarding state intervention in response to the GFC_ . https://ypfs.som.yale.edu/node/14246 
+
+(European Commission and Vestager 2015) European Commission, and Margrethe Vestager. 2015. “Prolongation of the Greek Financial Support Measures (Art. 2 Law 3723/2008).” Directorate-General Competition, June 26, 2015. _Extension of the Greek aid measures_ . https://ypfs.som.yale.edu/node/4245 
+
+## **Legal/Regulatory Guidance** 
+
+(ECB 2006) European Central Bank (ECB). 2006. “Guideline of the European Central Bank of 31 August 2006 Amending Guideline ECB/2000/7 on Monetary Policy Instruments and 
+
+
+Procedures of the Eurosystem.” _Official Journal of the European Union_ 49, no. L 352: 1–90, December 13, 2006. 
+
+_ECB’s precrisis policies and a general primer on how the Eurosystem functions_ . https://ypfs.som.yale.edu/node/19615 
+
+(ECB 2011) European Central Bank (ECB). 2011. “Guideline of the European Central Bank of 20 September 2011 on Monetary Policy Instruments and Procedures of the Eurosystem.” _Official Journal of the European Union_ , Non-legislative acts 54, no. L 331: 1–95, December 14, 2011. 
+
+_ECB policy describing the procedures and eligible collateral for open-market operations_ . https://ypfs.som.yale.edu/node/20117 
+
+(ECB 2012) European Central Bank (ECB). 2012. “On a Guarantee Scheme for the Liabilities of Italian Banks and on the Exchange of Lira Banknotes.” Opinion CON/2012/4. Frankfurt am Main, January 24, 2012. 
+
+_ECB opinion considering the legality of an Italian credit guarantee; opinion later used as the basis for opinions about guaranteed ELA programs_ . https://ypfs.som.yale.edu/node/20118 
+
+(ECB/2010/3 2010) Decision of the European Central Bank of 6 May 2010 on Temporary Measures Relating to the Eligibility of Marketable Debt Instruments Issued or Guaranteed by the Greek Government. 2010. 117 OJ L 102. ECB: 32010D0003(01). 
+
+_First waiver allowing Greek debt in open-market operations regardless of credit rating_ . https://ypfs.som.yale.edu/node/20123 
+
+(ECB/2012/2 2012) Decision 2012/133 of the European Central Bank of 27 February 2012 Repealing Decision ECB/2010/3 on Temporary Measures Relating to the Eligibility of Marketable Debt Instruments Issued or Guaranteed by the Greek Government. 2012. 059 OJ L. ECB: 32012D0002(01). 
+
+_Decision revoking the first waiver that allowed Greek debt in open-market operations regardless of credit rating_ . 
+
+https://ypfs.som.yale.edu/node/20119 
+
+(ECB/2012/14 2012) Decision of the European Central Bank of 18 July 2012 Repealing Decision ECB/2012/3 on the Eligibility of Marketable Debt Instruments Issued or Fully Guaranteed by the Hellenic Republic in the Context of the Hellenic Republic’s Debt Exchange Offer. 2012. 199 OJ L 26. ECB: 32012D0014(01). 
+
+_Decision revoking the second waiver that allowed Greek debt in open-market operations regardless of credit rating_ . 
+
+https://ypfs.som.yale.edu/node/20125 
+
+(ECB/2012/32 2012) Decision of the European Central Bank of 19 December 2012 on Temporary Measures Relating to the Eligibility of Marketable Debt Instruments Issued or Fully Guaranteed by the Hellenic Republic. 2012. 359 OJ L 74. ECB: 32012D0032(01). _Third waiver allowing Greek debt in open-market operations regardless of credit rating_ . https://ypfs.som.yale.edu/node/20126 
+
+
+(ECB/2015/6 2015) Decision (EU) 2015/300 of the European Central Bank of 10 February 2015 on the Eligibility of Marketable Debt Instruments Issued or Fully Guaranteed by the Hellenic Republic. 2015. 053 OJ L 29. ECB: 32015D0006. 
+
+_Decision revoking the third waiver that allowed Greek debt in open-market operations regardless of credit rating_ . 
+
+https://ypfs.som.yale.edu/node/20120 
+
+(ECB/2016/18 2016) Decision (EU) 2016/1041 of the European Central Bank of 22 June 2016 on the Eligibility of Marketable Debt Instruments Issued or Fully Guaranteed by the Hellenic Republic and Repealing Decision (EU) 2015/300. 2016. 169 OJ L 14. ECB: 32016D0018. 
+
+_Fourth waiver allowing Greek debt in open-market operations regardless of credit rating_ . https://ypfs.som.yale.edu/node/20121 
+
+(ECB/2018/21 2018) Decision (EU) 2018/1148 of the European Central Bank of 10 August 2018 on the Eligibility of Marketable Debt Instruments Issued or Fully Guaranteed by the Hellenic Republic and Repealing Decision (EU) 2016/1041. 2018. 208 OJ L 91. ECB: 32018D0021. 
+
+_ECB decision noting the end of Greece’s Economic Adjustment Program and subsequent end of the fourth waiver allowing Greek debt in open-market operations regardless of credit rating_ . https://ypfs.som.yale.edu/node/20122 
+
+(European Commission 2011) European Commission. 2011. “Communication from the Commission on the Application, from 1 January 2012, of State Aid Rules to Support Measures in Favour of Banks in the Context of the Financial Crisis.” _Official Journal of the European Union_ 54, no. C 356: 7–10, December 6, 2011. 
+
+_2011 Prolongation Communication articulating principles from the European Commission for State aid to combat the financial crisis_ . 
+
+https://ypfs.som.yale.edu/node/20131 
+
+(European Commission 2013) European Commission. 2013. “Communication from the Commission on the Application, from 1 August 2013, of State Aid Rules to Support Measures in Favour of Banks in the Context of the Financial Crisis.” _Official Journal of the European Union_ 56, no. C 216: 1–15, July 30, 2013. 
+
+_Framework for evaluating various interventions in banking systems as State aid; known as 2013 Banking Communication_ . 
+
+https://ypfs.som.yale.edu/node/20132 
+
+(European Commission 2014) European Commission. 2014. “Commission Decision of 29.04.2014.” C (2014) 2933. State Aid. Brussels. April 29, 2014. _Decision ruling on the legality of ELA as provided to one Greek bank_ . https://ypfs.som.yale.edu/node/20133 
+
+(European Union 1992) European Union. 1992. “Protocol (No. 18) on the Statute of the European System of Central Banks and of the European Central Bank.” _Official Journal of the European Communities_ . Treaty on European Union. C 191. EUR-Lex. July 29, 1992. 
+
+
+_Protocol annexed to the Treaty on European Union authorizing the ECSB; article 18 authorizes the ECB and national central banks to undertake open-market operations including repurchase agreements and lending_ . https://ypfs.som.yale.edu/node/19587 
+
+## **Media Stories** 
+
+(Suoninen and Jones 2013) Suoninen, Sakari, and Marc Jones. 2013. “How ECB’s Emergency Liquidity Assistance Works.” _Reuters_ , March 21, 2013, sec. Business. March 21, 2013. _News story describing how ELA operates in the eurozone_ . https://ypfs.som.yale.edu/node/20145 
+
+## **Press Releases/Announcements** 
+
+(BOG 2015) Bank of Greece (BOG). 2015. “ELA-Ceiling for Greek Banks.” Press release. September 17, 2015. 
+
+_First press release publicizing the ECB-determined ceiling on ELA available for Greek banks_ . https://ypfs.som.yale.edu/node/20138 
+
+(BOG Financial Accounts Team 2021) BOG Financial Accounts Team. 2021. “RE: ELA Data.” Letter to Corey N. Runkel, June 18, 2021. _Email clarifying aspects of ELA data publication_ . https://ypfs.som.yale.edu/node/20134 
+
+(OECD 2007–2021) Organization for Economic Co-operation and Development (OECD). 2007–2021. “Long-Term Government Bond Yields: 10-Year.” Main Economic Indicators. IRLTLT01[XX]M156N. Federal Reserve Economic Data (FRED). 
+
+_Monthly data recording the yields of 10-year government bonds issued by selected eurozone countries; each series identifier can be constructed using ISO-3166-1 alpha-2 codes_ . https://ypfs.som.yale.edu/node/19617 
+
+(Pantelias 2021a) Pantelias, Spiros. 2021a. “RE: How Were ELA Recipients Selected.” Letter to Corey N. Runkel, June 29, 2021. 
+
+_Answers to preliminary questions regarding ELA in Greece_ . https://ypfs.som.yale.edu/node/20303 
+
+(Pantelias 2021b) Pantelias, Spiros. 2021b. Interview by Corey N. Runkel. Zoom. July 1, 2021. 
+
+_Interview with the BOG Director of Financial Stability about several topics related to the design and implementation of ELA in Greece_ . https://ypfs.som.yale.edu/node/20305 
+
+(Pantelias 2021c) Pantelias, Spiros. 2021c. Interview by Corey N. Runkel. Zoom. September 7, 2021. 
+
+_Follow-up interview with the BOG Director of Financial Stability about solvency assessment and ELA bureaucratic processes_ . 
+
+https://ypfs.som.yale.edu/node/20302 
+
+
+(Pantelias 2022) Pantelias, Spiros. 2022. “RE: ELA Administration.” Letter to Corey N. Runkel, February 4, 2022. 
+
+_Answers to technical questions regarding ELA in Greece_ . https://ypfs.som.yale.edu/node/20304 
+
+(Runkel 2021) Runkel, Corey N. 2021. “Bank of Greece Balance Sheet, Changing Composition.” Dataset. Bank of Greece. Yale Program on Financial Stability Resource Library. 
+
+_Spreadsheet detailing the BOG balance sheet, compiled from monthly financial statements_ . https://ypfs.som.yale.edu/node/20136 
+
+## **Reports/Assessments** 
+
+(Bank of Greece 2014) Bank of Greece. 2014. _The Chronicle of the Great Crisis: The Bank of Greece 2008-2013: Public Interventions and Institutional Actions to Safeguard Financial Stability and Overcome the Crisis_ . Athens. 
+
+_The BOG’s official account of the GFC, sovereign debt crisis, and eurozone crisis_ . https://ypfs.som.yale.edu/node/14736 
+
+(ECB 2021) European Central Bank (ECB). 2021. “History of All ECB Open Market Operations.” 
+
+_Dataset of open-market operations: rates, dates, volumes, and procedures_ . https://ypfs.som.yale.edu/node/20021 
+
+(Magnus and Xirou 2017) Magnus, M, and A Xirou. 2017. “Emergency Liquidity Assistance—Moving Away from ‘Constructive Ambiguity’?” Briefing PE 587.395. European Parliament. March 2, 2017. 
+
+_Brief for the European Parliament discussing the shift in eurozone communications around ELA_ . 
+
+https://ypfs.som.yale.edu/node/20144 
+
+(Trichet 2010) Trichet, Jean-Claude. 2010. “State of the Union: The Financial Crisis and the ECB’s Response between 2007 and 2009.” _Journal of Common Market Studies_ 48, no. s1: 7– 19. 
+
+_The ECB president’s account of the central bank’s policies during the Global Financial Crisis_ . https://ypfs.som.yale.edu/node/2473 
+
+## **Key Academic Papers** 
+
+(Andruszkiewicz et al. 2020) Andruszkiewicz, Oskar, Juliette Mathis, Charu Wilkinson, Michalis Vassiliadis, Peppas Konstantinos, and George Gatopoulos. 2020. “Study on the Financial Sector in Greece during the Economic Adjustment Programmes: 2010-2018.” Final Report. European Commission. June 2020. 
+
+_Study on Greece’s various economic adjustment programs, their results, efficacy, and related programs_ . 
+
+https://ypfs.som.yale.edu/node/20137 
+
+
+(Domanski, Moessner, and Nelson 2014) Domanski, Dietrich, Richhild Moessner, and William R. Nelson. 2014. “Central Banks as Lender of Last Resort: Experiences During the 2007-2010 Crisis and Lessons for the Future.” _SSRN Electronic Journal_ . 
+
+_Review of lender-of-last-resort functions among global central banks; as used here, the term ELA refers to lender-of-last resort programs generally, not the Eurosystem program specifically_ . 
+
+https://ypfs.som.yale.edu/node/14889 
+
+(Gibson et al. 2020) Gibson, Heather D., Stephen G. Hall, Pavlos Petroulas, Vassilis Spiliotopoulos, and George S. Tavlas. 2020. “The Effect of Emergency Liquidity Assistance (ELA) on Bank Lending during the Euro Area Crisis.” Working Paper 270. Bank of Greece. January 2020. 
+
+_Quantitative study examining the effect of ELA on bank lending in Greece, Cyprus, and Portugal_ . https://ypfs.som.yale.edu/node/20140 
+
+(Kostika and Laopodis 2020) Kostika, Eleftheria, and Nikiforos T. Laopodis. 2020. 
+
+“Assessing the Effectiveness of the Emergency Liquidity Assistance Tool in the Euro Area.” _International Journal of Finance & Economics_ , November 2020. 
+
+_Quantitative study investigating the effect of ELA on sovereign debt and liquidity_ . https://ypfs.som.yale.edu/node/20143 
+
+(Runkel 2022) Runkel, Corey N. 2022. “Eurozone Term Refinancing Operations.” _Journal of Financial Crises_ 4, no.2. 
+
+_YPFS case describing the Eurozone’s LTROs, SLTROs, and STROs during the GFC_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/39 
+
+(Thompson 2021) Thompson, Daniel. 2021. “The Greek Credit Guarantee Scheme.” _Journal of Financial Crises_ 2, no. 3: 715–38, October 8, 2021. 
+
+_YPFS case study considering the Greek government’s debt guarantee program implemented during the GFC_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/37 
+
+(Wyplosz 2015) Wyplosz, Charles. 2015. “Grexit: The Staggering Cost of Central Bank Dependence.” _VoxEU.Org_ (blog). June 29, 2015. 
+
+_Blog post opining on the state of the Eurosystem, predicting that Greece would be expelled and its implications for the Eurosystem_ . 
+
+https://ypfs.som.yale.edu/node/20146 
+
+
+## **Appendix** 
+
+[FIGURE id=vol4_iss2_39_f9 type=figure label="Figure 9" file=figure_9.png caption="ECB Liquidity Categories and Haircut Schedule"]
+### **Figure 9: ECB Liquidity Categories and Haircut Schedule**
+
+## **ECB Liquidity Categories** 
+
+|_Category I_|_Category II_|_Category III_|_Category IV_|_Category V_|
+|---|---|---|---|---|
+|Central<br>government<br>debt<br>instruments|Local and regional<br>government debt<br>instruments|<br>Traditional covered<br>bank bonds|Credit institution debt<br>instruments<br>(unsecured)|Asset-<br>backed<br>securities|
+|Debt<br>instruments<br>issued by<br>national central<br>banks*|Jumbo covered<br>bank bonds†|Debt instruments<br>issued by non-<br>financial<br>corporations and<br>other issuers‡|Debt instruments<br>issued by financial<br>corporations other<br>than credit<br>institutions<br>(unsecured)||
+||Agency debt<br>instruments‡|Other covered bank<br>bonds§|||
+||Supranational<br>debtinstruments||||
+
+
+
+* Debt certificates issued by the ECB and debt instruments issued by the national central banks prior to the adoption of the euro in their respective Member State are included in liquidity category I. 
+
+† Only instruments with an issuing volume of at least EUR 1 billion, for which at least three market-makers provide regular bid and ask quotes, fall into the asset class of jumbo covered bank bonds. 
+
+‡ Only marketable assets issued by issuers that have been classified as agencies by the ECB are included in liquidity category II. Marketable assets issued by other agencies are included in liquidity category III or IV, depending on the issuer and asset type. 
+
+§ Non-UCITS-compliant covered bank bonds, including both structured covered bank bonds and multi-issuer covered bank bonds are included in liquidity category III. 
+
+
+## **ECB haircut schedule** 
+
+|Credit|Residual|Liquidity categories|Liquidity categories|Liquidity categories|Liquidity categories|Liquidity categories|Liquidity categories|Liquidity categories|Liquidity categories|Liquidity categories|
+|---|---|---|---|---|---|---|---|---|---|---|
+|quality|maturity|_Category I_||_Category II*_||_Category III*_||_Category IV* _||_Category_|
+||(years)|fixed<br>coupon|<br>zero<br>coupon|<br>fixed<br>coupon|<br>zero<br>coupon|<br>fixed<br>coupon|<br>zero<br>coupon|<br>fixed<br>coupon|<br>zero<br>coupon|_V*_<br>|
+|Steps 1|<br>0-1|0.5|0.5|1.0|1.0|1.5|1.5|6.5|6.5|16|
+|and 2|1-3|1.5|1.5|2.5|2.5|3.0|3.0|8.5|9.0||
+|(AAA to|<br>3-5|2.5|3.0|3.5|4.0|5.0|5.5|11.0|11.5||
+|A-)|5-7|3.0|3.5|4.5|5.0|6.5|7.5|12.5|13.5||
+||7-10|4.0|4.5|5.5|6.5|8.5|9.5|14.0|15.5||
+||> 10|5.5|8.5|7.5|12.0|11.0|16.5|17.0|22.5||
+|Step<br>3|0-1|5.5|5.5|6.0|6.0|8.0|8.0|15.0|15.0|Not<br>eligible|
+|(BBB +|<br>1-3|6.5|6.5|10.5|11.5|18.0|19.5|27.5|29.5||
+|to BBB-|<br>3-5|7.5|8.0|15.5|17.0|25.5|28.0|36.5|39.5||
+|)**|5-7|8.0|8.5|18.0|20.5|28.0|31.5|38.5|43.0||
+||7-10|9.0|9.5|19.5|22.5|29.0|33.5|39.0|44.5||
+||>10|10.5|13.5|20.0|29.0|29.5|38.0|39.5|46.0||
+
+
+
+* Individual asset-backed securities, covered bank bonds (jumbo covered bank bonds, traditional covered bank bonds and other covered bank bonds) and uncovered bank bonds that are theoretically valued in accordance with Section 6.5 are subject to an additional valuation haircut. This haircut is directly applied at the level of the theoretical valuation of the individual debt instrument in the form of a valuation markdown of 5 %. _Source: ECB 2011._ 
+
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

@@ -1,0 +1,315 @@
+## Israeli Bank Shares Arrangement (Hesder Hamenayot Habankayot)[1] 
+
+_Natalie Leonard_[2] 
+
+Yale Program on Financial Stability Case Study November 12, 2021 
+
+## **Abstract** 
+
+From 1980 to 1983, Israeli consumer prices more than doubled every year and the shekel lost more than 50% of its value annually. This high inflation and currency devaluation posed an extraordinary challenge for Israel’s biggest banks. They needed to grow their capital bases to keep up with the rising market value of their assets, but investors needed protection against the continually declining value of the local currency. Banks’ solution was to regularly issue new, nonvoting shares in extraordinary amounts while ensuring investors a high return by regularly buying their own shares to manipulate prices. The government tacitly supported the policy, which helped it finance its deficits, and the central bank for years considered bank shares to be liquid assets because of the banks’ “regulating” activity. In 1983, this system-wide manipulation finally proved unsustainable when investors turned to foreign currency deposits and sold their bank shares in amounts larger than the banks could continue to buy. On October 6, 1983, after several weeks of heavy selling by Israeli bank shareholders, the Tel Aviv Stock Exchange (TASE) closed for 18 days. During the closure, the government and the controlling stakeholders of seven of the eight largest banking companies in Israel, representing 90% of the banking system, worked out a scheme to delist shares from the TASE, commit the government to bail out shareholders in the future, and end share price manipulation, while keeping banks’ management broadly the same as precrisis. Through 1991, the government purchased shares at precrisis prices, costing $9.2 billion, or 22% of 1983 GDP. 
+
+**Keywords:** Bank Shares Arrangement, broad-based capital injections, broad-based, capital injections, share manipulation, nationalization, Tel Aviv Stock Exchange 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based capital injection programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Israeli Bank Shares Arrangement (Hesder Hamenayot Habankayot)** 
+
+## **At a Glance** 
+
+In October 1983, Israel’s banking stock market bubble popped (Blass and Grossman 1996). On October 6, 1983, the Tel Aviv Stock Exchange (TASE) shut down for 18 days after heavy selling by shareholders of seven banking stocks, which together made up 60% of the TASE’s total market capitalization (Blass and Grossman 2001). For years, the banks had steadily purchased their own shares to keep prices rising, with the implicit support of the government (Blass and Grossman 1996; State Comptroller of Israel 1993). Four of the top five banks—Bank Ha’Poalim, Bank Leumi, Mizrahi Tefahot Bank, and Israel Discount Bank—engaged in this share price manipulation, which they called “regulation.” These banks together accounted for approximately 90% of the Israeli banking system (Prager 1996). The stock price manipulation extended to shares issued by two banks affiliated with the four and by one of their holding companies. 
+
+||**Summary of Key Terms**|**Summary of Key Terms**|**Summary of Key Terms**||
+|---|---|---|---|---|
+||Purpose:<br>To<br>compensate<br>shareholders<br>of<br>share-||||
+||manipulating banks|while keeping bank management|||
+||independent from government intervention<br>Announcement Date<br>October 6, 1983||||
+||Operational Date<br>Sunset Date||October 24, 1983<br>Not specified||
+||Voluntary|vs.|Mandatory||
+||Involuntary<br>Program Size||$6.9 billion||
+||Capital Characteristics||Noncontrolling shares, both||
+||||voting and nonvoting, acquired||
+||Outcomes||from shareholders<br>Ownership largely unchanged;<br>share prices of banks levied;<br>shareholders compensated||
+||Key Features||Bank nationalization without||
+||||direct government influence||
+||||over management||
+
+
+
+Banks were driven to manipulate share prices for chiefly two reasons, according to a commission investigating the crisis in 1986 (Blass and Grossman 1996). First, inflating market prices of shares benefited existing shareholders. Second, the high inflation of the early 1980s forced banks to raise equity to maintain capital ratios: equity values were based on historical values while assets were stated in current values (Blass and Grossman 1996) (see Figure 1). The government facilitated the manipulation by exempting banks from insider-trading legislation, excusing banks from transaction fees, and freeing banks from monetary restrictions on currency conversions (Blass and Grossman 1996). “The regulated share became a unique financial good, a share that rose constantly regardless of the state of the market” (De Vries and Vardi 2001). 
+
+The central bank viewed bank shares as liquid assets and tacitly supported the manipulation. 
+
+Because of the highly elastic supply of tradable bonds, Patam, and bank shares due to the policy of stabilizing the real secondary market prices of bonds, the exchange rate, and the prices of bank shares (which are regulated by the banks) there is a high degree of substitutability between these assets and money holdings. In view of this, the Bank 
+
+
+of Israel has in recent years used the change in total liquid assets plus bank shares as one of its principal indicators for analyzing monetary developments (BOI 1983). 
+
+At the end of 1982, bank shares constituted nearly half of the liquid assets held by the public (BOI 1983). 
+
+[FIGURE id=vol3_iss3_13_f1 type=chart label="Figure 1" file=figure_1.png caption="Annual Rates of Inflation, Percent, 1960–1990"]
+### **Figure 1: Annual Rates of Inflation, Percent, 1960–1990**
+![Figure 1](assets/vol3_iss3_13/figure_1.png)
+
+
+_Source: Sargent and Zeira 2011._ 
+
+Manipulation involved a number of practices, all enabled by the high concentration within the banking sector (Blass and Grossman 1996). First, banks maintained a store (an inventory) of their own stock intended to smooth fluctuations in stock prices (Blass and Grossman 1996). Second, the banks acted as stock brokers and recommended their own stock to clients (Blass and Grossman 1996). Third, banks tied lines of credit to bank share ownership at a time when credit was tight (Blass and Grossman 1996). Fourth, banks controlled mutual funds and directed them to buy bank stock when demand was slack (Blass and Grossman 1996). Fifth, the banks used subsidiary companies to purchase shares, circumventing reserve requirements (Blass and Grossman 1996). Two banks—Bank Leumi and Discount Bank—even had a “parking” arrangement to prop up each other’s stock values (Blass and Grossman 1996). 
+
+Throughout the late 1970s and into the 1980s the real rate of return on bank shares remained high: 40.6% in 1980, 32.5% in 1981, and 28.3% in 1982 (Sargent and Zeira 2011). In January 1983, nonfinancial stocks crashed on the Tel Aviv Stock Exchange. The banks were able to continue to artificially inflate their stock prices for months after the crash, but local investors soon became concerned about inflation and currency 
+
+
+depreciation. They increasingly sold their bank shares and put their funds in foreign currency accounts, forcing banks to buy even more of their own shares (Sargent and Zeira 2011). The value of bank shares held by the banks rose from $200 million in 1982 to $600 million by the beginning of October 1983; by October 6, bank-owned shares were worth $920 million, or 12% of the total outstanding bank shares (Sargent and Zeira 2011). 
+
+Four banks and the holding company of one of the banks were found in violation of several Israeli securities and company ordinance statutes in a 1990 case: _State of Israel vs. Bank Leumi LeIsrael, Ltd. et al._ (Blass and Grossman 1996). The defendants in the case were Bank Leumi, Bank Ha’Poalim, Discount Bank, Mizrahi Tefahot Bank, IDB Holdings, and a dozen executives (Fisher 1994). 
+
+First, the judge ruled that the banks had violated Clause 139a of Israel’s Company Ordinance, Section 54 (a) (1) of the Securities Law, and Section 415 of the Penal Code, which require that: “a company will not directly or indirectly give any person financial assistance . . . for the purpose of purchasing its shares, or in connection with such a purchase that has been made or is about to be made” (De Vries and Vardi 2001). Bankemployed brokers frequently recommended the shares of their banks as dependable investments to customers; banks even extended credit to customers who purchased banks shares and denied or called in credit to those who didn’t or sold shares (Blass and Grossman 1998). 
+
+Second, the banks and bank executives “impaired the banks’ ability to meet their commitments . . . by fraudulently guaranteeing to shareholders that share prices would not fall even though they knew or should have known that the guarantees might not be fulfilled,” violating Section 14 b (a) of the Banking Order (Blass and Grossman 1996). Third, the banks “committed accounting violations,” breaching Section 423 of the Penal Code (Blass and Grossman 1996). 
+
+The indictment did not include violations of insider-trading laws. Banks successfully distanced themselves from insider-trading legislation through straw companies set up in tax-exempt countries, assuming that if demand for bank shares was dispersed among many companies, regulatory authorities could be avoided (Blass and Grossman 1996; De Vries and Vardi 2001). These straw companies exploited the stock market trading method in which share purchase orders were published before trading opened (De Vries and Vardi 2001). This violated Clause 54a(2) of Israel’s Securities Law, which states “that anyone who fraudulently influences fluctuations in rates of securities contravenes the law” (De Vries and Vardi 2001). However, as the banks used straw companies to manipulate share price, they were insulated from insider-trading legislation (Blass and Grossman 1996). 
+
+The judge’s verdict said that bank straw companies also breached Clause 20 of Israel’s Securities Law through issuing fraudulent prospectuses that failed to include details on how banks financed the purchase of shares and the number of shares in the manipulating straw companies (De Vries and Vardi 2001). But this charge was not part of the indictment (Blass and Grossman 1996). 
+
+On October 6, 1983, the stock market closed for 18 days, during which time the Bank Shares Arrangement was negotiated among four banks, two subsidiaries, one bank holding company, and the government (Sargent and Zeira 2011). Under the arrangement, an independent government company called M.I. Holdings agreed to lend funds to subsidiary “trust companies” affiliated with each bank (Prager 1996). Over the ensuing years, the trust companies purchased an estimated $6.9 billion in nonvoting bank shares from the public, posting the shares as collateral for the government loans; the trust companies held those shares until 1993 (Prager 1996). By 1993, the shares were worth much less than the total 
+
+
+value of the government loan used to purchase them, and the shares reverted to government ownership (Prager 1996). 
+
+While the government gained a substantial stake[3] in the nationalized banks, it left the management of the banks in the same hands as precrisis to maintain the independence of the nationalized banks from political interference (State Comptroller of Israel 1993). 
+
+## **Summary Evaluation** 
+
+The Bank Shares Arrangement cumulatively cost the government $6.9 billion in 1991 dollars; the ex post net cost of the bailout was $3.46 billion in 1983, or 14.4% of GDP (Sargent and Zeira 2011). As the government committed itself to the Bank Shares Arrangement, expected government debt increased by approximately 25% of GDP. Sargent and Zeira argue that this commitment had an immediate effect on inflation expectations, causing a sudden increase from an average of 120% annualized inflation between 1979 and 1982 to 400% in October 1983 (Sargent and Zeira 2011). 
+
+An exit strategy was not clearly stated in 1983 when the Bank Shares Arrangement was announced. However, by 1991, the government had begun discussing the sale of government-owned shares (State Comptroller of Israel 1993). 
+
+The first public offering was made on the Tel Aviv Stock Exchange in May 1993, when 21% of the shares of Bank Ha’Poalim were sold, raising $307.4 million (Gurkov 2007). This first offering was oversubscribed at the maximum price, indicating the recovery of Israel’s capital market from the 1983 crisis (Gurkov 2007). A few days later, the government executed the sale of 60% of the shares of Bank Igud (totaling $85.5 million) to four domestic institutional investors (Gurkov 2007). As of 2009, the government had privatized all banks excluding Bank Leumi (OECD 2011). 
+
+In the aftermath of the 1983 banking crisis, the banking reform act of 1985 attempted to liberalize the banking sector to increase competition (Ofer 2004). However, as of 2017, the five-bank asset concentration was still 85% (World Bank n.d.). 
+
+> 3 The government did not exercise voting rights attached to shares, though voting rights turned on at the time of sale (State Comptroller of Israel 1993). 
+
+
+|**Israel Context 1983–1984 **|**Israel Context 1983–1984 **|
+|---|---|
+|**GDP**<br>**(SAAR, nominal GDP in NIS converted to USD)**|$31.2 billion in 1983<br>$29.26 billion in 1984|
+|**GDP per capita**<br>**(SAAR, nominal GDP in NIS converted to USD)**|$7,601 in 1983<br>$7,036 in 1984|
+|**Sovereign credit rating (five-year senior debt)**|Data not available|
+|**Size of banking system**|$27.18 billion in 1983<br>$25.91 billion in 1984|
+|**Size of banking system as a percentage of GDP**|87.11% in 1983<br>88.2% in 1984|
+|**Size of banking system as a percentage of financial**<br>**system**|Data not available|
+|**Five-bank concentration of banking system**|Data not available|
+|**Foreign involvement in banking system**|Data not available|
+|**Government ownership of banking system**|Data not available|
+|**Existence of deposit insurance**|Data not available|
+|_Sources: Bloomberg; World Bank Global Financial Development Database; World Bank_<br>_Deposit Insurance Dataset; Cerruti and Neyens 2016; La Porta et al. 2002;_<br>_theglobaleconomy.com._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Part of a Package: The Bank Shares Arrangement was negotiated during an 18day stock market closure that began on October 6, 1983. The government also devalued the currency during the shutdown.** 
+
+The Bank Shares Arrangement was negotiated through the mediation of Member of the Knesset (MK) Avraham Shapira during an 18-day stock market closure that began on October 6, 1983 (Sargent and Zeira 2011). During the 18-day closure, the government devalued the shekel by 17% and expressed intentions to take a majority stake of the four banks and one related bank holding company that were accused of stock price manipulation (Blass and Grossman 1998). The stocks of these banks were delisted (OECD 2011). 
+
+**2. Governance: The Bank Shares Arrangement was administered by the Board of Assets of M.I. Holdings, an independent government corporation.** 
+
+The Bank Shares Arrangement was executed by an independent government corporation, M.I. Holdings, and specifically M.I. Holdings’ Board of Assets (Prager 1996; State Comptroller of Israel 1993). Subsidiaries within each of the nationalized banks, known as “trust companies” or “safe companies,” were created to purchase eligible shares from the public (Prager 1996). These trust companies were funded by loans from M.I. Holdings, collateralized by the bank shares that the trust companies bought (Blass and Grossman 1998; Prager 1996). By 1993, M.I. Holdings had taken over all of the shares from the trust companies (Prager 1996). 
+
+M.I. Holdings Ltd. was created in 1969 for the purpose of managing “assets that were granted to the state . . . and that the state intends to” privatize (State Comptroller of Israel 1993). In November 1988, a former deputy finance minister became chairman of M.I. Holdings’ Board of Assets and the executing of the Bank Shares Arrangement became the goal of the board (State Comptroller of Israel 1993). Initially, in November 1988, the board included two public representatives and four senior Treasury officials; in January 1989, three other public representatives were added to the board, bringing the total number of members to nine with five members being public representatives (State Comptroller of Israel 1993). 
+
+Oversight included two commissions. First, the Commission of Inquiry into the Regulation (manipulation) of Bank Shares, headed by retired Supreme Court Justice Moshe Bejski, released a report in 1986 detailing the bank share manipulation and the various legal violations that the banks committed (Blass and Grossman 1996). Second, the Ministry of Justice formed a commission headed by MK Meir Gabai to propose legislative and regulatory adjustments for the capital market (Ofer 2004). 
+
+
+**3. Size of the Program: In total, the Bank Shares Arrangement involved the purchase of banks shares for $6.9 billion between 1985 and 1991.** 
+
+The main component of the Bank Shares Arrangement was the purchase of the publicly held shares of four of the five largest banks: Bank Leumi, Bank Ha’Poalim, Israel Discount Bank (IDB), and Mizrahi Tefahot Bank (Sargent and Zeira 2011), plus two banks affiliated with the four and one of their holding companies. (One of the five largest banks, First International Bank of Israel [FIBI], did not engage in share manipulation and so avoided nationalization [OECD 2011].) The shares of the seven companies were delisted from the Tel Aviv Stock Exchange (TASE) from 1983 until 1993, when the privatization began (OECD 2011). 
+
+The government purchased the shares in waves: approximately NIS 1 billion in October 1985 from pensioners (senior citizens), NIS 5.6 billion in October 1988, NIS 0.85 billion in October 1989, and NIS 3.4 billion in October 1991 (Sargent and Zeira 2011) (see Figure 2). In 1983 US dollars, this represented an increased government obligation of $5.44 billion, or 22.6% of 1983 Israeli GDP (Sargent and Zeira 2011). The total value of the shares of the banks included in the Bank Shares Arrangement totaled $6.9 billion (Sargent and Zeira 2011).[4] 
+
+> 4 There are differing estimates of the total cost of the program. Prager 1996 estimates the government purchased $9.2 billion in noncontrolling bank shares from the public, held in the trust companies until 1993 (Prager 1996). 
+
+
+[FIGURE id=vol3_iss3_13_f2 type=chart label="Figure 2" file=figure_2.png caption="Timing of Share Purchases from Shareholders (billions NIS)"]
+### **Figure 2: Timing of Share Purchases from Shareholders (billions NIS)**
+![Figure 2](assets/vol3_iss3_13/figure_2.png)
+
+
+_Source: Sargent and Zeira 2011._ 
+
+The government gained majority stakes in four of the five largest banks: Bank Ha’Poalim, Bank Leumi, Israel Discount Bank, and Mizrahi Tefahot Bank (OECD 2011). 
+
+## **4. Affected Institutions: Seven companies were nationalized under the Bank Shares Arrangement, constituting more than 90% of the banking sector.** 
+
+The companies that were nationalized under the Bank Shares Arrangement were the banks that participated in share price manipulation in the lead-up to the banking crisis of 1983 (Blass and Grossman 1998). The nationalized banking companies were: Bank Ha’Poalim, Bank Leumi, Discount Bank, Bank Mizrachi, Union Bank (Bank Igud, a subsidiary of Bank Leumi), General Bank (Bank Clali, a subsidiary of IDB), and IDB Holding Company (the holding company of Discount Bank) (Blass and Grossman 1996; State Comptroller of Israel 1993). A later study found strong evidence of share price manipulation by looking at the correlation between bank share returns and market returns; the “beta” risk premium for bank shares approached zero from 1977 to 1983 (Blass and Grossman 1998) (see Figure 3). 
+
+
+[FIGURE id=vol3_iss3_13_f3 type=figure label="Figure 3" file=figure_3.png caption="Evidence of Share Price Manipulation"]
+### **Figure 3: Evidence of Share Price Manipulation**
+![Figure 3](assets/vol3_iss3_13/figure_3.png)
+
+
+_Source: Blass and Grossman 1998._ 
+
+FIBI was the only large bank—5.4% of total banking sector assets in 1992—to not participate in share manipulation and the largest bank to avoid nationalization (Prager 1996). The nationalized banks represented more than 90% of total banking sector assets in 1983 (Prager 1996) (see Figure 4). Three of the largest banks were associated with nongovernmental institutions: Bank Leumi with the World Zionist Organization, which formed Israel’s first Labor government; Bank Ha’Poalim with the financial subsidiary Hevrat Ha’Ovdim of Histadrut, the national labor federation; and Mizrahi Tefahot Bank with the National Religious Party (Ofer 2004). 
+
+
+[FIGURE id=vol3_iss3_13_f4 type=figure label="Figure 4" file=figure_4.png caption="Concentration in Banking Sector, 1964–1992"]
+### **Figure 4: Concentration in Banking Sector, 1964–1992**
+![Figure 4](assets/vol3_iss3_13/figure_4.png)
+
+
+_Source: Prager 1996._ 
+
+## **5. Funding Source: The Treasury paid for the shares by issuing bonds, some offered directly to former shareholders.** 
+
+At the beginning of the Arrangement, the government offered investors to exchange their shares for “locked savings schemes” of two, four, or six years. 
+
+When investors were ready to redeem their shares or locked savings schemes, the banks purchased them through subsidiaries called trust companies or safe companies. The government lent the trust companies the funds for those purchases, using the shares themselves as collateral. 
+
+The government funded much of the purchases by offering new savings schemes to shareholders. For example, in October 1985, NIS 984 million of “arrangement” bank shares that investors had converted into locked savings schemes were redeemed by senior citizens. The investors reinvested 42% of this amount in special, nontradable government bonds issued for this purpose (BOI 1985). 
+
+**6. Transaction (Mechanics): The government lent funds to company subsidiaries to buy their own shares from the public but held the shares as collateral in case the companies couldn’t pay back the loans.** 
+
+To execute the Bank Shares Arrangement, the government used an independent corporation, M.I. Holdings, to lend funds to trust companies (or safe companies), which 
+
+
+were subsidiaries of the banks (Prager 1996). Between 1985 and 1991, these trust companies offered to purchase shares from investors (“stakeholders”) who were ready to redeem them (exchange them for cash or new bonds) under terms set by the arrangement (Blass and Grossman 1998; Prager 1996). 
+
+The government did not immediately take ownership of redeemed shares; rather, shares were held in the trust companies until 1993 (State Comptroller of Israel 1993). If by 1993 the actual value of the shares was lower than the redemption price promised to shareholders, and the value of the shares would be insufficient to cover the loan repayment including accumulated interest, then the shares were to be transferred to the government (State Comptroller of Israel 1993). However, the government retained the right to direct the trust companies to sell the shares “in whole or in part, on conditions determined by the government . . . as partial repayment of the loan” (State Comptroller of Israel 1993). 
+
+**7. Capital Characteristics: The government acquired shares from noncontrolling shareholders both with and without voting rights. The government did not exercise its voting rights.** 
+
+Only noncontrolling shareholders received the government bonds for their shares, and all bank executives, controlling shareholders, and stakeholders were disqualified from the arrangement (OECD 2011; Sargent and Zeira 2011; State Comptroller of Israel 1993). The government acquired shares with and without voting rights, though the majority of shares that the government purchased under the arrangement were nonvoting, which hurt the potential return on the government’s eventual exit (State Comptroller of Israel 1993). The government did not exercise its voting rights, and the management of the banks stayed in the same hands as precrisis (State Comptroller of Israel 1993) (see Figure 5). Upon selling the shares, the government equalized voting rights by imposing a “one share, one vote” rule (Prager 1996). 
+
+
+[FIGURE id=vol3_iss3_13_f5 type=figure label="Figure 5" file=figure_5.png caption="Shares Redeemed as of October 13, 1991"]
+### **Figure 5: Shares Redeemed as of October 13, 1991**
+
+|||Union Bank|Union Bank|Mizrahi<br>Tefahot<br>Bank|Mizrahi<br>Tefahot<br>Bank|IDB||Bank Leumi|Bank Leumi|Bank Ha’Poalim|Bank Ha’Poalim||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||Voting|Nonvoting|Voting|Nonvoting|Voting|Nonvoting|Voting|Nonvoting|Voting|Nonvoting||
+||Shares<br>redeemed<br>by<br>public<br>through<br>trust<br>companies|99.89|49.94|98.04|24.51|93.85|73.15|99.97|49.98|58.00|14.50||
+||Stakeholder<br>shares|0.11|50.06|1.96|75.49|6.15|26.85|0.03|50.02|24.00|85.50||
+
+
+
+_Source: State Comptroller of Israel 1993._ 
+
+## **8. Existing Shareholders: Shareholders could sell their shares to the government and receive bonds in exchange. Face value of the bonds ranged between 85% and 117% of the preclosure dollar value of the shares.** 
+
+Shareholders were given two options. First, they could keep their shares as tradable with an option to sell them to the government-funded trust companies in October 1988 for bonds valued at their October 6, 1983, value indexed to the dollar, with an interest of a cumulative rate of 4% over the next five years (Sargent and Zeira 2011). Second, shareholders could keep their shares as nontradable with an option to sell them to the government in 1987 for bonds valued at their October 6, 1983, value indexed to the dollar with an interest rate of a cumulative 12% over the next four years (Sargent and Zeira 2011). Most of the public chose to keep their shares tradable for five years, indicating a public distrust of the government’s ability to bail out the shares (Sargent and Zeira 2011). Face value of the bonds ranged between 85% and 117% of the pre-closure dollar value of the shares (Blass and Grossman 2001). 
+
+Shares declined in value 30% overnight when the Bank Shares Arrangement went into force (BOI 1984). Share value declined an additional 16% in the first few days after the TASE reopened (BOI 1984). Blass and Grossman suggest that of the gross damages from the crisis totaling $10 billion, one-third represented a decline in shareholder wealth, and the remainder constituted a hit to the government and efficiency loss (Blass and Grossman 2001). 
+
+Only noncontrolling shareholders received the government bonds for their shares, and all bank executives, controlling shareholders, and stakeholders were disqualified from the arrangement (OECD 2011; Sargent and Zeira 2011; State Comptroller of Israel 1993). Pensioners were able to sell their shares after only two years (Sargent and Zeira 2011). 
+
+
+## **9. The Bank Shares Arrangement did not include a debt restructuring plan.** 
+
+There was no debt restructuring plan as the Israeli banks were not insolvent; their balance sheets were healthy (Prager 1996). 
+
+## **10. Existing Management: Management of the banks remained the same after the Bank Shares Arrangement, with the exception of banking executives indicted in a 1990 court case.** 
+
+The Bank of Israel and the Ministry of Finance left the management of the banks in the same hands as precrisis, hoping to maintain the independence of the nationalized banks from political interference (State Comptroller of Israel 1993). In December 1991, the Ministry of Finance asserted: “Exercising control of banks would have resulted in deep and unwanted involvement, both in the management of banks and in all areas and industries in which banks have subsidiaries or related companies” (State Comptroller of Israel 1993). 
+
+However, some actors that directly contributed to the crisis were found guilty of violating securities and corporate ordinances (Fisher 1994). After the Bejski investigation into the bank share manipulation, a court case, _State of Israel vs. Bank Leumi LeIsrael, Ltd. et al._ , removed executives at the banks that engaged in share price manipulation and banned them from the Israeli banking system (Fisher 1994). The court case was opened in 1990 but settled in 1994 (Fisher 1994). 
+
+**11. Timeframe: The government exited through a lengthy privatization process beginning in 1991. The government was concerned about the distribution of voting rights between government and controlling shares, which were eventually equalized.** 
+
+An exit strategy was not clearly stated in 1983 when the Bank Shares Arrangement was announced. However, by 1991, the Knesset had begun discussing the sale of governmentowned shares (State Comptroller of Israel 1993). 
+
+In preparing to sell the government-owned shares, the Ministry of Finance and Treasury were concerned to not set conditions “that would make it difficult for other potential buyers to compete for the acquisition of a controlling core in the bank,” thereby prioritizing the precrisis shareholders (State Comptroller of Israel 1993). They were also concerned about the distribution of voting rights: the majority of shares that the government purchased under the arrangement were nonvoting, which hurt the potential return on the government’s eventual exit (State Comptroller of Israel 1993). The government did eventually sell control of the banks, at which point voting rights of the government-owned shares turned on (State Comptroller of Israel 1993). 
+
+Between 1988 and 1990, the minister of finance and the Bank of Israel engaged in talks with the controlling shareholders of the nationalized banks to “equalize voting rights” by “eliminating the inferiority of the rights of the large majority of the shares which the Government [purchased] . . . as opposed to those of the special shares of the controlling shareholders” (State Comptroller of Israel 1993). Initially, the government attempted to 
+
+
+enter into voluntary agreements with the controlling shareholders to equalize voting rights (State Comptroller of Israel 1993). By January 1990, the government placed a bill on the Knesset table to equalize voting rights (State Comptroller of Israel 1993). The Bank of Israel continued to favor a voluntary arrangement and offered an incentive: controlling shareholders would be given 2%–3% of the shares owned by the government in return for voting right equalization (State Comptroller of Israel 1993). 
+
+Eventually, voting rights were equalized: Discount Bank and Mizrahi Tefahot Bank in May and September 1990, respectively; and Bank Ha’Poalim, Bank Leumi, and Bank Igud in the last quarter of 1991 (State Comptroller of Israel 1993). Equalization took the form of “one share, one vote” (Prager 1996). In August 1992, the Board of Assets sold IDB shares back to the precrisis controlling entity—the Recanati family (Gurkov 2007; State Comptroller of Israel 1993).[5] 
+
+In 1993, the Bank Shares Arrangement Temporary Provisions Law established a framework for privatizing the banks: the government appointed a five-member Public Committee, which in turn appointed five-member Committee for Bank Stocks for each nationalized bank to facilitate the sale of government shares (Prager 1996). This structure was intended to keep the sale of bank shares independent and nonpolitical (Prager 1996). 
+
+The first public offering was made on the TASE in May 1993, when 21% of the shares of Bank Ha’Poalim were sold, at a total cost of $307.4 million (Gurkov 2007). This first offering was oversubscribed at the maximum price, indicating the recovery of Israel’s capital market from the 1983 crisis (Gurkov 2007). A few days later, the government executed the sale of 60% of the shares of Bank Igud (totaling $85.5 million) to four domestic institutional investors (Gurkov 2007). As of 2009, the government the government had privatized all banks excluding Bank Leumi (OECD 2011) (see Figure 6). 
+
+> 5 The sale back to the Recanati family was conditioned on the separation of IDB Holdings from Israel Discount Bank, given the criminal indictment of Rafael Recanati, a principal of IDB Holdings (Prager 1996). 
+
+
+[FIGURE id=vol3_iss3_13_f6 type=figure label="Figure 6" file=figure_6.png caption="Privatization of Banks as of 2009"]
+### **Figure 6: Privatization of Banks as of 2009**
+![Figure 6](assets/vol3_iss3_13/figure_6.png)
+
+
+_Source: OECD 2011._ 
+
+In 2010, the government sold its remaining stake in IDB and 5% of the outstanding securities of Bank Leumi (US SEC 2018, D-9). As of 2017, the government held approximately 5.83% of Bank Leumi (US SEC 2018, D-9). 
+
+## **12. Amendments to Relevant Regulation: Throughout the Bank Shares Arrangement, the government changed the definition of “stakeholder” to allow further redemption of shares by groups previously excluded.** 
+
+The definition for “stakeholders” was established based on the 1968 Israeli Securities Law but occasionally changed to accommodate economic entities that “held bank shares as part of their policies or as a long-term investment, and who were not” involved in share price manipulation (State Comptroller of Israel 1993). 
+
+Over the course of the Bank Shares Arrangement, the government changed the definition of “stakeholder” to allow further redemption of shares by groups previously excluded (State Comptroller of Israel 1993). For example, Discount Bank shares totaling $52.3 million, which before the crisis Discount Bank intended to issue to other banks, were declared eligible for redemption under the arrangement as public shares (State Comptroller of Israel 1993). In July 1987, the Bank of Israel agreed on a recommendation of the minister of finance that Hevrat Ha’Ovdim (The Worker’s Company) be allowed to redeem shares of Bank Ha’Poalim as nostro shares, for an amount not exceeding $15 million (State Comptroller of Israel 1993). 
+
+## **References and Key Program Documents** 
+
+## **Media Stories** 
+
+(Fisher 1994) Fisher, Allyn. 1994. “Israel Convicts Banks, 9 Bankers for Stock Market Crash of 1983.” _Journal of Commerce Online_ , February 16, 1994. _News story describing court case over share price manipulation._ 
+
+
+https://ypfs.som.yale.edu/library/israel-convicts-banks-9-bankers-stock-market-crash1983. 
+
+## **Key Academic Papers** 
+
+(Blass and Grossman 1996) Blass, Asher A., and Richard S. Grossman. 1996. “A Harmful Guarantee? The 1983 Israel Bank Shares Crisis Revisited.” Bank of Israel Working Paper No. 1996.03, May 1996. _Academic paper quantifying bank share price manipulation._ https://ypfs.som.yale.edu/library/harmful-guarantee-1983-israel-bank-shares-crisisrevisited. 
+
+(Blass and Grossman 1998)  Blass, Asher A., and Richard S. Grossman. 1998. “Who Needs Glass-Steagall? Evidence from Israel’s Bank Shares Crisis and the Great Depression.” _Contemporary Economic Policy_ 16, no. 2 (April): 185–96. 
+
+_Academic paper recommending Glass-Steagall regulations to prevent manipulation._ https://ypfs.som.yale.edu/library/who-needs-glass-steagall-evidence-israels-bank-sharescrisis-and-great-depression. 
+
+(Blass and Grossman 2001)  Blass, Asher A., and Richard S. Grossman. 2001. “Assessing Damages: The 1983 Israeli Bank Shares Crisis.” _Contemporary Economic Policy_ 19, no. 1 (January): 49–58. _Academic paper measuring cost of Bank Share Arrangement._ https://ypfs.som.yale.edu/library/assessing-damages-1983-israeli-bank-shares-crisis. 
+
+(Gurkov 2007) Gurkov, Igor. 2007. “Privatization in Israel: The Creation of a Mature Market Economy.” _Annals of Public and Cooperative Economics_ 65, no. 2 (March): 247–79. _Academic paper describing the process of privatization in Israel._ https://ypfs.som.yale.edu/library/privatization-israel-creation-mature-market-economy. 
+
+(Ofer 2004) Ofer, Ehud. 2004. “Glass-Steagall: The American Nightmare That Became the Israeli Dream.” _Fordham Journal of Corporate & Financial Law_ 9, no. 2: 527–81. _Academic paper surveying the leadup to the 1995 securities law, including the Bank Share Arrangement._ https://ypfs.som.yale.edu/library/glass-steagall-american-nightmare-became-israelidream. 
+
+(Prager 1996) Prager, Jonas. 1996. “Banking Privatisation in Israel, 1983-1994: A Case Study in Political Economy.” _BNL Quarterly Review_ 49, no. 197: 209–40. _Academic paper describing the process of banking privatization after the Bank Share Arrangement._ https://ypfs.som.yale.edu/library/banking-privatisation-israel-1983-1994-case-studypolitical-economy. 
+
+(Sargent and Zeira 2011) Sargent, Thomas J., and Joseph Zeira. 2011. “Israel 1983: A Bout of Unpleasant Monetarist Arithmetic.” _Review of Economic Dynamics_ 14, no. 3: 419–31. _Academic paper describing the effect of the Bank Share Arrangement on inflation._ https://ypfs.som.yale.edu/library/israel-1983-bout-unpleasant-monetarist-arithmetic. 
+
+(De Vries and Vardi 2001) De Vries, David, and Yoav Vardi. 2001. “The Bank‐shares Regulation Affair and Illegality in Israeli Society: A Theoretical Perspective of Unethical Managerial Behaviour.” _Israel Affairs_ 8, no. 1–2: 226–52. 
+
+_Academic paper looking at the Bank Shares Arrangement from the perspective of bank_ 
+
+
+## _managers._ 
+
+https://ypfs.som.yale.edu/library/bank-shares-regulation-affair-and-illegality-israelisociety-theoretical-perspective. 
+
+## **Reports/Assessments** 
+
+(State Comptroller of Israel 1993)  State Comptroller of Israel. 1993. _Preparation for the Sale of Bank Stocks in the Arrangement_ . April 1993. Jerusalem: State Comptroller of Israel. _Report on bank shares owned by the government in preparation for their sale._ https://ypfs.som.yale.edu/library/document/preparation-sale-bank-shares-arrangement. 
+
+(BOI 1983) Bank of Israel (BOI). 1983. “Chapter VIII: Money and Capital Markets.” In _Bank of Israel Annual Report 1982_ , Jerusalem: Bank of Israel, May 31, 1983. _Chapter from annual report, including details on bank shares owned by the government._ https://ypfs.som.yale.edu/library/money-and-capital-markets-bank-israel-annual-report1982. 
+
+(BOI 1984) Bank of Israel (BOI). 1984. “Chapter VIII: Money and Capital Markets.” In _Bank of Israel Annual Report 1983_ , Jerusalem: Bank of Israel, May 31, 1984. 
+
+_Chapter from annual report, including details on bank shares owned by the government._ https://ypfs.som.yale.edu/library/money-and-capital-markets-bank-israel-annual-report1983. 
+
+(BOI 1985) Bank of Israel (BOI). 1985. “Chapter VIII: Money and Capital Markets.” In _Bank of Israel Annual Report 1984_ , Jerusalem: Bank of Israel, May 31, 1985. 
+
+_Chapter from annual report, including details on bank shares owned by the government._ https://ypfs.som.yale.edu/library/money-and-capital-markets-bank-israel-annual-report1984. 
+
+(OECD 2011)  Organisation for Economic Co-operation and Development (OECD). 2011. “Israel: Review of the Financial System.” OECD Committee on Financial Markets, September 2011. 
+
+_OECD report on Israel including overview of Bank Shares Arrangement and subsequent developments  in banking._ https://ypfs.som.yale.edu/library/israel-review-financial-system. 
+
+(US SEC 2018) US Securities and Exchange Commission (US SEC). 2018. “State of Israel.” Exhibit D to Form 18-K for the fiscal year ended December 31, 2017; June 29, 2018. _SEC report on  Israel  financial system._ https://ypfs.som.yale.edu/library/state-israel. 
+
+(World Bank n.d.) World Bank. n.d. “5-Bank Asset Concentration for Israel.” FRED, Federal Reserve Bank of St. Louis. Accessed January 13, 2021. _Data series on 5-bank asset concentration in Israel._ https://ypfs.som.yale.edu/library/5-bank-asset-concentration-israel. 
+
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

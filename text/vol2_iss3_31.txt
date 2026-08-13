@@ -1,0 +1,685 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 3 
+2020 
+The Belgian Credit Guarantee Scheme (Belgium GFC) The Belgian Credit Guarantee Scheme (Belgium GFC) 
+Aidan Lawson 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Finance Commons, Policy Design, Analysis, and Evaluation Commons, and the Political 
+Economy Commons 
+Recommended Citation Recommended Citation 
+Lawson, Aidan (2020) "The Belgian Credit Guarantee Scheme (Belgium GFC)," Journal of Financial Crises: 
+Vol. 2 : Iss. 3, 619-634. 
+DOI: https://doi.org/10.17132/2693-3179.1087 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/31 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol2/iss3/31
+
+--- Page 3 ---
+The Belgian Credit Guarantee Scheme 1 
+ 
+Aidan Lawson 2 
+Yale Program on Financial Stability Case Study 
+January 16, 2019, revised: October 10, 2020 
+ 
+Abstract 
+Much like other developed economies during the global financial crisis, Belgium faced sub-
+stantial systemic stress to its large and heavily concentrated financial system. To combat 
+these mounting pressures, the Belgian government launched a wide -ranging, op t-in state 
+debt guarantee program in a concerted effort to instill confidence and stymie the fear of runs 
+in its financial sector. The debt guarantee scheme , pursuant to which eligible institutions 
+could issue government-guaranteed debt, was originally put into place on October 15, 2008, 
+and retroactively covered liabilities entered into from October 9, 2008, to October 31, 2009, 
+with a maximum maturity of three years. It provided significant discretionary authority to 
+the Minister of Finance, such as the a bility to add additional conditions and to decline any 
+bank from participating in the scheme. Eligibility was determined on a case by case basis. 
+Fees and issuance thresholds were determined in the same way prior to two April 14, 2009, 
+Royal Decrees, which homogenized fees and expanded the pool of eligible institutions. Bel-
+gium was also a key member in a number of high profile bank rescues, such as that of Dexia 
+in conjunction with France and Luxembourg. Much of the structure of the guarantee scheme 
+was initially based on the ad hoc scheme that the three nations devised for Dexia earlier in 
+October 2008. The state guarantee scheme expired after no banks had made use of it by Oc-
+tober 31, 2010, the last day for banks to issue guaranteed debt after amendments t o the is-
+suance window and maturity horizon. 
+Keywords: Belgium, short-term debt, medium-term debt, financial institutions, government 
+guarantee, guarantee scheme 
+  
+_____________________________________________________________________ 
+1 This case study is part of the  Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering the responses to the global financial crisis that pertain to bank debt guarantee programs. 
+Cases are available from the Journal of Financial Crises  at https://elischolar.library.yale.edu/journal -of-finan-
+cial-crises/. 
+2 Aidan Lawson – Research Associate, YPFS, Yale School of Management. 
+619
+
+--- Page 4 ---
+At a Glance  
+As the U.S. housing crisis exploded 
+into a global phenomenon in 2008 , 
+dozens of large European financial in-
+stitutions began facing run-like behav-
+ior from their investors. Belgian 
+banks, despite being more limited in 
+their exposure than others, were no 
+exception. As credit default swap 
+(CDS) spreads of var ious maturities 
+for large banks such as Dexia and For-
+tis spiked from less than 100  basis 
+points in May of 2008 to nearly 500 
+basis points in September, Belgian au-
+thorities stepped in . The Minister of 
+Finance announced a state guarantee 
+scheme on October 15 , 2008, which 
+drew heavily from a Belgian, French, 
+and Luxembourg guarantee for Dexia 
+that was finalized on October 14, 
+2008.  
+The state guarantee scheme entered into force retroactively, covering liabilities issued from 
+October 9, 2008, to October 31, 2009, with a final maturity date of October 31, 2011, for a 
+maximum maturity of just over three years. Eligible liabilities were quite broad, encompass-
+ing bonds, debt securities, interbank, fiduciary, and central bank and institutional depo sits, 
+as well as commercial paper, certificates of deposit, and medium-term notes. Initially, the fee 
+structures were unspecified. After requests from the European Central Bank for more clarity 
+in consultation reports, as well as continued macroeconomic st resses across the region, the 
+Belgian government issued the Royal Decree of 14 April 2009, which specified a 70 basis 
+point set-up fee for the principal amount to be guaranteed, as well as a 100 basis point fee, 
+paid quarterly, for the amount covered.  
+The Belgian government did not opt to put an explicit ceiling on the guarantee. However, it 
+did require banks to take measures that would “support their financial situation ,” and in-
+sisted that the guarantee be “justified in the interests of the Belgian econom y and by the 
+protection of all depositors.” Additionally, the Minister of Finance was at any time able to  
+impose additional conditions and reject any institution.  
+The program’s issuance window was extended once in September 2009, to October 31, 2010.  
+No banks applied for or utilized the guarantee scheme. 
+Summary Evaluation 
+International Monetary Fund evaluation of Belgium’s crisis response measures made several rec-
+ommendations but didn’t have much to say on the effectiveness (or potentially lack thereof) of the 
+debt guarantee program. 
+Summary of Key Terms 
+Purpose: To restore confidence and liquidity to Belgian fi-
+nancial institutions through the guaranteeing of short and 
+medium-term liabilities for systemically important institu-
+tions. 
+Announcement Date October 15, 2008 
+Operational Date October 15, 2008 
+Date of First Guaranteed 
+Loan issuance 
+N/A 
+Issuance Window   
+Expiration Date 
+October 31, 2009 (initial);  
+extended to October  31, 
+2010. 
+Program Size  Unspecified 
+Usage None 
+Outcomes N/A  
+The Belgian Credit Guarantee Scheme 
+620
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 5 ---
+The Belgian Credit Guarantee Scheme: Belgium Context 
+ 
+GDP 
+(SAAR, Nominal GDP 
+in LCU converted to 
+USD) 
+$471.1 billion in 2007 
+$517.8 billion in 2008 
+Source: Bloomberg 
+ 
+GDP per capita 
+(SAAR, Nominal GDP 
+in LCU converted to 
+USD) 
+$44,263.0 in 2007 
+$48,107.0 in 2008 
+Source: Bloomberg 
+ 
+Sovereign credit rat-
+ing (5-year senior 
+debt) 
+ 
+As of Q4, 2007: 
+Fitch: AA+ 
+Moody’s: Aa1 
+S&P: AA+ 
+ 
+As of Q4, 2008: 
+Fitch: AA+ 
+Moody’s: Aa1 
+S&P: AA+ 
+Source: Bloomberg 
+ 
+Size of banking sys-
+tem 
+$411.1 billion in total assets in 2007 
+$441.2 billion in total assets in 2008 
+Source: Bloomberg 
+ 
+Size of banking sys-
+tem as a percentage of 
+GDP 
+87.3% in 2007 
+85.2% in 2008 
+Source: Bloomberg 
+621
+The Belgian Credit Guarantee Scheme Lawson
+
+--- Page 6 ---
+Size of banking sys-
+tem as a percentage of 
+financial system 
+Data not available for Belgium 
+Source: World Bank Global Financial Develop-
+ment Database 
+ 
+5-bank concentration 
+of banking system 
+ 
+96.4% of total banking assets in 2007  
+95.4% of total banking assets in 2008  
+Source: World Bank Global Financial Develop-
+ment Database 
+ 
+Foreign involvement 
+in banking system 
+13% of total banking assets in 2007  
+14% of total banking assets in 2008  
+Source: World Bank Global Financial Develop-
+ment Database 
+ 
+Government owner-
+ship of banking sys-
+tem 
+1% of banks owned by the state in 2005  
+Source: World Bank BRSS 
+ 
+Existence of deposit 
+insurance 
+ 
+Data not available for relevant time frame in 
+Belgium 
+Source: World bank Deposit Insurance Dataset 
+ 
+622
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 7 ---
+I. Overview 
+Background 
+Following the failure of Lehman Brothers in September 2008, global financial markets were 
+shaken significantly. This market pressure manifested itself as a global drying-up of liquidity 
+and short and medium-term wholesale funding. The EURIBOR-OIS spread, which serves the 
+same purpose as the oft-cited LIBOR-OIS spread as a proxy for overall market credit risk in 
+European banks, rose from less than 10 basis points  (bps) to almost 100 bps for all maturi-
+ties, and nearly 165 bps for longer-term maturities in the third quarter of 2008.  
+Belgian banks were no different, experiencing sharp declines in share prices and steep price 
+increases for access to wholesale financing. Several of the largest banks, including Fortis and 
+Dexia, saw premiums on their credit default swaps (CDS) of various maturities shoot up by 
+several hundred basis p oints, peaking out at around 500  bps for the two (2009 Financial 
+Stability Overview). In particular, four of the largest Belgian institutions—Dexia, Ethias, For-
+tis, and KBC—faced potential liquidity shortages as institutional depositors and other 
+sources of wholesale funding continued to pull away.  
+This lack of liquidity prompted the Belgian government to push an unprecedented amount 
+of State aid into its financial sector. Aid ranged from increasing the deposit insurance ceiling 
+from €20,000 to €100,000; to substantial targeted capital injections for a small group of sys-
+temically important financial institutions totaling tens of billions of euros; to broad-based 
+State guarantee schemes to cover assets and liabilities entered into by Belgian financial in-
+stitutions. This case study focuse s specifically on the government’s program to guarantee 
+liabilities. 
+Program Description 
+The original credit guarantee, based on the Law of October 15, 2008 , in the Belgian Official 
+Gazette, aimed to restore confidence in the financial sector and promote access to funding 
+sources that had been closed off by the global credit crunch. The Law of October 15, 2008 , 
+introduced Article 117bis in the Law of 2 August 2002 (later abrogated by Article 23 of the 
+Law of July 2, 2010).3  Article 117bis gave the Belgian government the ability to enact policies 
+that could deviate from implemented financial statutes based on exigent circumstances and 
+the condition of its financial system. It provided Belgian authorities a substantial amount of 
+legal flexibility in a time of crisis and specifically vested the Belgian government 4 with the 
+power to adopt a “system of guarantees of commitments entered into by supervised institu-
+tions” (Article 117 bis, Belgian National Gazette, 2008 -10-15). Solvency and liquidity con-
+cerns, particularly with larger banks like Dexia, Fortis, and others, had been mounting, and 
+_____________________________________________________________________ 
+3 Article 117 itself specified that the National Bank of Belgium (NBB), the Banking, Finance, and Insurance Com-
+mission (CBFA), and the Office of Insurance Control (OCA) wor k together and collaborate on matters of com-
+mon interest, which included (1) “the stability of the financial system as a whole”; (2) “the interactions between 
+prudential supervision and control of systemic risks of payment and settlement systems”; (3) “coo rdination of 
+crisis management”; and (4) “the guarantee of deposits and the protection of investors”, among others (Article 
+117, Belgian National Gazette, 2002-09-04). 
+4 The king acting by Royal Decree, i.e. a mandatory legal act of general application adopted by the executive 
+branch. 
+623
+The Belgian Credit Guarantee Scheme Lawson
+
+--- Page 8 ---
+the adoption of Article 117 bis by the Law of October 15, 2008, pursuant to which eligible 
+institutions could issue government-guaranteed debt, allowed Belgian authorities to imple-
+ment any programs necessary to alleviate these substantial pressures. The government im-
+plemented Article 117bis and adopted the Royal Decree of December 10, 2008, on the guar-
+antee of certain risks assumed by financial institutions. 
+The types of eligible liabilities were extensive, and included, “all of the financing raised by a 
+beneficiary institution in order to obtain refinancing from credit institutions and institu-
+tional counterparties and would cover instruments such as bonds and debt securities issued 
+by the beneficiary to institutional investors, as well as interbank deposits, fiduciary deposits, 
+deposits of central banks, deposits of institutions, commercial paper, certificates of deposit 
+and medium-term notes.” There was some objection to the breadth of the eligibility criteria 
+by the European Central Bank (ECB), specifically with respect to the decision to include in-
+terbank deposits. No specific liabilities were excluded (European Central Bank 2008b). 
+Participating financial institutions were required to meet the following conditions: (1) ben-
+eficiaries would take measures aimed at supporting their financial situation, solvency, and 
+liquidity, and (2) the granting of a guarantee would be justified in the interests of the Belgian 
+economy and by the protection of all depositors. The ECB raised objections to these condi-
+tions as well, citing the Law of 2 August 2002’s requirement of a “sudden crisis on the finan-
+cial markets or of a serious threat of systemic crisis” and arguing that Belgium’s conditions 
+did not reflect this requirement. These conditions were not amended in the final version of 
+Article 117bis.  
+To have their debt guaranteed by the government, institutions also had to prove that (1) they 
+were unable to issue new liabilities to cover maturing liabilities absent the guarantee and 
+(ii) the guarantee was be “necessary to ensure their continuity.” Additionally, the Minister of 
+Finance was allowed to lay down further conditions for the guarantee, including “setting its 
+ceiling, specifying the remuneration to be paid for the granting of the guarantee, and any 
+other modality aimed at ensuring compliance with the two abovementioned conditions” (Eu-
+ropean Central Bank 2008b).  
+The Belgian approach was an “opt-in” one, so banks had to apply to gain access to the guar-
+antee. The fee structure was originally unspecified, suggesting that a per -bank analysis 
+would be used to assess the exact fee amounts ( European Central Bank 2008c ) The policy  
+could be applied retroactively, covering bonds that had been issued or renewed from Octo-
+ber 9, 2008, until October 31, 2009, with maturity dates of no later than October 31, 2011. 
+Therefore, guaranteed obligations could have maturities of slightly more than three years at 
+most. 
+While the fee structures were unspecified in the original agreement (European Central Bank 
+2008c), another Royal Decree, issued on April 14, 2009, clarified and homogenized the fees. 
+The amendment provided that the guarantee fee consist ed of: (1) a set-up fee of 70 basis 
+points (bps) of the principal amount covered by the guarantee, and (2) an annual guarantee 
+fee of 100 bps of the principal amounts covered by the guarantee, paid quarterly.  
+Outcomes 
+The guarantee scheme was renewed on October 7, 2009, by Belgian authorities despite a lack 
+of usage. This extension was made primarily because it was seen as “necessary given the 
+624
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 9 ---
+continuation of financial market turbulence, and in particular financial institutions’ contin-
+ued refinancing difficulties.” Belgian authorities extended the final maturity date of the State 
+guarantee from October 31, 2011 , to October 31, 2014. Additionally, the window during 
+which guaranteed liabilities could be issued was extended from October 31, 2009, to October 
+31, 2010. Last, the maximum maturity window was also increased to match the new condi-
+tions. On October 14, 2009, the Belgian, French, and Luxembourg authorities would, on Oc-
+tober 14, 2009, amended the issuance window and maturity horizon in the Dexia agreement 
+in the same way. 
+Despite the extension, no banks applied for the guarantee scheme. The scheme therefore ex-
+pired on October 31, 2010.  
+II. Key Design Decisions  
+1. The State guarantee scheme was a pa rt of a package of State policy measures 
+passed in October 2008 to instill confidence in the Belgian banking system.  
+In addition to the debt guarantee scheme, the Belgian government also increased its limit of 
+deposit insurance covered by the Protection F und from €20,000 to €100,000. They also in-
+corporated a broad-based asset protection scheme from the Royal Decree of December 10, 
+2008, that covered, “directly or indirectly, losses or risks of losses on financial assets held by 
+subsidiaries, whether direct or indirect, of the guaranteed entity,,” and capital injections for 
+certain large institutional rescues as well. The Belgian government also engaged in a number 
+of ad hoc rescues, the most notable of which being that of Dexia. The Dexia agreement, final-
+ized on October 14, 2009, served as the model for the State guarantee scheme. 
+2. The 2008 guarantee scheme drew its authority from Article 117bis, an amendment 
+to the Law of August 2, 2002, by the Law of October 15, 2008. 
+Article 117bis, introduced by the Law of October 15, 2008, added to the statutory authority 
+of Article 117 of the Law of August 2, 2002, which specifically outlined financial stability and 
+crisis management, among other things, as matters of common interest between the National 
+Bank of Belgium (NBB) and the Banking, Finance, and Insurance Commission (CBFA). Article 
+117bis allowed the Belgian government to “provide for supplements to, or deviations from, 
+the Belgian Credit Institutions Supervision Law, the Insurance Undertakings Supervision 
+Law, the Investment Services Law, and the Financial Sector and Financial Services Supervi-
+sion Law” under exigent circumstances. It also provided for “a system of State guarantees for 
+credit institutions, insurance undertakings and other financial institutions (as will be further 
+determined by Royal Decree)”.  
+3. The guarantee scheme was subject to European Commission approval. 
+As a form of state aid, the guarantee scheme was subject to review and approval by the Eu-
+ropean Commission. 
+4. There was no explicit maximum amount that the Belgian government would guar-
+antee. 
+625
+The Belgian Credit Guarantee Scheme Lawson
+
+--- Page 10 ---
+Belgian authorities’ approach was to evaluate any bank that came forward on a case-by-case 
+basis. While no guaranteed debt was issued, a total size was never specified for the program. 
+5. Most Belgian financial institutions were eligible. 
+All credit institutions, financial holding companies, investment firms, as well as any financial 
+institution under prudential supervision were eligible to participate (Petrovic and Tutsch 
+2009). 
+6. The types of eligible  debt were very broad, and included liabilities of supervised 
+institutions, commercial paper, and interbank deposits, among others.  
+Specifically, the Belgian government publicly announced that liabilities covered included “all 
+of the financing raised by a beneficiary institution in order to obtain refinancing from credit 
+institutions and institutional counterparties and would cover instruments such as bonds and 
+debt securities issued by the beneficiary to institutional investors, as well as interbank de-
+posits, fiduciary deposits, deposits of central banks, deposits of institutions, commercial pa-
+per, certificates of deposits and medium-term notes” (European Central Bank 2008b). 
+However, the ECB indicated in its initial consultations on the law that it believed the criteria 
+for eligible debt was too broad, particularly with the inclusion of interbank deposits . Their 
+concerns primarily addressed the possibility that such broad-based eligibility criteria would 
+harm euro-area efforts to harmonize monetary policy responses. The Belgian government 
+did not address these criticisms and kept interbank deposits among the covered liabilities  
+(European Central Bank 2008b). 
+7. The maximum maturity for guaranteed debt under the original agreement was 
+slightly more than three years, with an ultimate maturity date of October 31, 2011. 
+The maximum maturity and ultimate date were both extended in 2009. 
+Debt that would have been  issued under the October 2008 guarantee had an ultimate ma-
+turity date of up to October 31, 2011. Therefore, the maximum maturity for any guaranteed 
+debt would have been slightly more than  three years. However, the issuance window and 
+maturity horizon were extended on October 7, 2009, to October 31, 2011 , and for liabilities 
+maturing up to October 31, 2014, respectively, providing for a maximum potential maturity 
+of slightly more than five years.  
+8. All currencies appear to have been eligible for the scheme. 
+Program documents did not contain any restrictions on the currencies eligible for participa-
+tion in the scheme. 
+9. There were no explicit individual caps.  
+There is no indication that there were individual ceilings on the amount of guaranteed debt 
+that a given institution could issue.  
+10. Fee structures were implied to be case  by case at the start of the agreement, but 
+were later clarified by the Royal Decree dated April 14, 2009, as on a flat-fee basis. 
+626
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 11 ---
+The State guarantee fee structures were originally to be determined on a case-by-case basis 
+(European Central Bank 2008c), but were further specified by the Royal Decree of April 14, 
+2009. The fees included a set-up fee of 70 bps of the principal amount the guarantee covered 
+and an annual guarantee fee of 100 bps of the principal amounts covered by the guarantee, 
+paid quarterly. 
+11. Banks had to take broad -based measures to improve their financial situation and 
+prove there was sufficient need for a guarantee. 
+Participation conditions for beneficiaries mandated that institutions “take measures aimed 
+at supporting their financial situation, solvency, and liquidity,” and that, should a guarantee 
+be granted, it would be in the interests of the Belgian economy and by the protection of all 
+depositors.  
+After being approved, beneficiaries were able to issue government-guaranteed debt only if 
+they were able to show that it would not be possible for them to meet the liabilities that 
+would be covered by said guarantee at their maturity without it and that the invoking of said 
+State guarantee was necessary for the beneficiary’s  continuity ( European Central Bank 
+2008b). 
+12. There were no additional conditions imposed for the State guarantee scheme. 
+However, the Minister of Finance was entitled to impose more if he or she saw fit. 
+The Finance Minister had substantial discretionary authority to “lay down further modalities 
+and conditions for a State guarantee, including setting its ceiling, specifying the remunera-
+tion to be paid for the granting of the guarantee, and any other modality aimed at ensuring 
+compliance with the two abovementioned conditions” ( European Central Bank 2008b) The 
+Minister of Finance also had the authority to terminate any guarantee agreement at any time. 
+13. The issuance window for the program originally ended at the end of October 2009, 
+but it was extended for another year.  
+The original State guarantee was implemented October 17, 2008 , retroactive from October 
+9, 2008, and extending  to October 31, 2009, with an ultimate maturity date of October 31, 
+2011. It was later further extended on October 7, 2009, which lengthened the issuance win-
+dow to October 31, 2010, and the ultimate maturity date to October 31, 2014. 
+III. Evaluation 
+There does not appear to be any specific formal analysis for the Belgian credit guarantee 
+scheme. However, in 2013, the IMF released a comprehensive analysis of how the  Belgian 
+government responded to the global financial crisis (GFC), including best practice guidelines. 
+Some of the recommendations that the Fund made included (1) enhancing the National Bank 
+of Belgium’s resolution authority by broadly formalizing and mak ing explicit many of its 
+powers; (2) requiring recovery and resolution plans for any systemically important Belgian 
+firm; (3) formalizing frameworks for bank resolution and/or insolvency, with consideration 
+given to further broaden these for holding companies and non-systemic institutions; and (4) 
+627
+The Belgian Credit Guarantee Scheme Lawson
+
+--- Page 12 ---
+ensuring strict conditionality on any agreements or guarantees made ( International Mone-
+tary Fund 2013). 
+It is worth noting that, while the IMF made several sweeping recommendations in their re-
+port, they had very l ittle to say on the effectiveness (or potential lack thereof) of the debt 
+guarantee program. The only specific recommendation they had with respect to guarantees 
+was that the National Bank of Belgium should “henceforth exercise restraint in granting new 
+guarantees to avoid a further migration of potential private losses to the sovereign balance 
+sheet” (International Monetary Fund 2013). 
+IV. References 
+Belgian State Journal. September 4, 2002. “August 2, 2002: Law on supervision of the finan-
+cial sector and financial services.”  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Moniteur%20Belge%20-
+%20Belgisch%20Staatsblad11.pdf.  
+———. October 15, 2008. “October 15, 2008: Law introducing measures to promote finan-
+cial stability and establishing, in pa rticular, a State guarantee for credits granted and other 
+operations carried out in the context of financial stability.” https ://ypfsresourcel-
+ibrary.blob.core.windows.net/fcic/YPFS/Moniteur%20Belge%20-%20Bel-
+gisch%20Staatsblad.pdf. 
+Brosens, Yves. 2008. “Summary of the Belgium Rescue Plan to Stabilise the Financial Mar-
+kets.” DLA Piper. https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/DLA_Piper_EMEA_Govt_Rescue_Plan_Belgium_14_Nov.pdf. 
+European Central Bank. 2008a. “Opinion of the European Central Bank of 8 October 2008 at 
+the Request of the Belgian Ministry of Finance on a Preliminary Draft Law on Measures Pro-
+moting Financial Stability and in Particular Establishing a State Guarantee for the Provision 
+of Credit in the Context of Financial Stability (CON/2008/46) .” https://ypfsresourcel-
+ibrary.blob.core.windows.net/fcic/YPFS/CELEX_52008AB0046_EN_TXT.pdf. 
+———. 2008b. “Opinion of the European Central Bank of 17 October 2008 at the Request of 
+the Belgian Ministry of Finance on a Draft Royal Decree Adopted under Article 117bis of the 
+Law of 2 August 2002 on the Supervision of the Financial Sector and on Financial Services 
+(CON/2008/50).” 
+https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/CELEX_52008AB0050_EN_TXT.pdf. 
+———. 2008c. “Opinion of the European Central Bank of 21 November 2008 at the Request 
+of the Belgian Ministry of Finance on a Draft Royal Decree on the Guarantee for Certfain Risks 
+Assumed by Financial Institutions (CON/2008/74) .”  
+https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/CELEX_52008AB0074_EN_TXT.pdf.  
+———. 2009a. “Opinion of the European Central Bank of 19 March 2008 [sic] at the Request 
+of the Belgian Ministry of Finance on a Draft Royal Decree Amending the Royal Decree of 10 
+December 2008 on the Guarantee for Certain Risks Assumed by Financial Institutions 
+(CON/2009/25).”  
+628
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 13 ---
+https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/CELEX_52009AB0025_EN_TXT.pdf. 
+———. 2009b. “Opinion of the European Central Bank  of 25 March 2009 at the Request of 
+the Belgian Ministry of Finance on a Draft Law Amending the Law of 2 August 2002 on the 
+Supervision of the Financial Sector and on Financial Services (CON/2009/29) .” 
+https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/CELEX_52009AB0029_EN_TXT.pdf. 
+———. 2009c. “Opinion of the European Central Bank of 23 September 2009 on an extension 
+of the State guarantee covering liabilities of credit institutions (CON/2009/73) .” 
+https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/CELEX_52009AB0073_EN_TXT.pdf. 
+European Commission. 2008. “State Aid: Overview of National Rescue Measures and Deposit 
+Guarantee Schemes.” MEMO/08/619.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/State_aid__Overview_of_na-
+tional_rescue_measures_and_deposit_guarantee_schemes.pdf. 
+Grande, Giuseppe, Levy, Aviram, Panetta, Fabio, and Zaghini, Andrea. “Public Guarantees on 
+Bank Bonds: Effectiveness and Distortions.” 2011. OECD Journal of Financial Market Trends, 
+Issue 2, Vol. 2011.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Grande%20-%20Pub-
+lic%20Guarantees%20on%20Bank%20Bonds.pdf. 
+International Monetary Fund. 2013. “Belgium: Tec hnical Note on Crisis Management and 
+Bank Resolution Framework .” IMF Country Report No. 13/135.  May 16,  2013. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/_cr13135.pdf. 
+Levy, Aviram, and Sebastian Schich. 2010. “The Design of Government Guarantees for Bank 
+Bonds: Lessons from the Recent Financial Crisis .” OECD Journal of Financial Market Trends , 
+Issue 1, Vol. 2010.  
+https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/Levy_and_Schich_2010_0.pdf. 
+Levy, Avriam, and Andrea Zaghini. 2010.  “The Pricing of Government -Guaranteed Bank 
+Bonds.” Bank of Italy Temi di Discussione (Working Paper). Posted September 1, 2010. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/SSRN-id1670098.pdf. 
+Mayer Brown. 2009. “Summary of Government Interventions: Belgium.” April  21. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/0269fin_Summary_Govern-
+ment_Interventions_Belgium.pdf. 
+National Bank of Belgium. 2009. “Financial Stability Review 2009 .” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/fsr2009en.pdf. 
+———. 2010. “Press Release for Article Published in the Economic Review: The Belgian De-
+posit Guarant ee Scheme in a European Perspective.”  December 6. https://ypfsresourcel-
+ibrary.blob.core.windows.net/fcic/YPFS/cp101206ene.pdf. 
+629
+The Belgian Credit Guarantee Scheme Lawson
+
+--- Page 14 ---
+Nettley, Maurice. November 22, 2010. “Classification of Payments to Deposit Insurance and 
+Financial Stability Schemes .” Organization for Economic Co -operation and Development , 
+Committee on Statistics , Working Party on National Accounts . December 2010.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/STD-CSTAT-
+WPNA(2010)21.pdf. 
+Petrovic, Ana, and Ralf Tutsch. 2009. “National Rescue Measures in Response to the Current 
+Financial Crisis .” European Central Bank , Legal Working Paper Series No. 8 ( July). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/National_Res-
+cue_Measures_in_Response_to_the_Current_Financial_Crisis.pdf. 
+Schich, Sebastian, and Byoung -Hwan Kim. 2011. “Guarantee Arrangements for Financial 
+Promises: How Widely Should the Safety Net be Cast?”  OECD Journal of Financial Market 
+Trends, Issue 1, Vol. 2011.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/OECD%20Journal.pdf. 
+V. Key Program Documents 
+Summary of Program 
+Law introducing measures to promote financial stability and establishing, in particular, a 
+State guarantee for credits granted and other operations carried out in the context of finan-
+cial stability (10/15/2008) – Law establishing a state guarantee for credits granted and gen-
+eral operations for responding to the GFC.  https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/Moniteur%20Belge%20-%20Belgisch%20Staatsblad.pdf. 
+Royal Decree on the guarantee of certain risks assumed by financial institutions 
+(12/10/2008) – Law establishing guarantee commitments for institutional responses to the 
+GFC.  https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/Moniteur%20Belge%20-%20Belgisch%20Staatsblad3.pdf. 
+Royal Decree amending the Royal Decree of 10 December 2008 on the guarantee of certain 
+risks assumed by financial institutions (04/26/2009)  – Amendment to Royal Decree estab-
+lishing guarantee commitments for institutional responses to the GFC. https://ypfsresourcel-
+ibrary.blob.core.windows.net/fcic/YPFS/Moniteur%20Belge%20-%20Bel-
+gisch%20Staatsblad2.pdf. 
+Royal Decree on the protection of deposits and life insurance by the Special Fund for the 
+protection of deposits and life insurance (03/16/2009) – Royal Decree on the protection of 
+deposits and life insurance. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Moniteur%20Belge%20-
+%20Belgisch%20Staatsblad5.pdf. 
+Law amending the  law of August 2, 2002 relating to the supervision of the financial sector 
+and financial services (04/14/2009) – Law allowing the king to implement further changes to 
+the regulation of the financial sector. https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/Moniteur%20Belge%20-%20Belgisch%20Staatsblad6.pdf. 
+630
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 15 ---
+Royal Decree granting a State guarantee to certain loans from the Holding Communal 
+(04/14/2009) – Royal Decree establishing the guarantee fee structure. https://ypfsresourcel-
+ibrary.blob.core.windows.net/fcic/YPFS/Moniteur%20Belge%20-%20Bel-
+gisch%20Staatsblad7.pdf. 
+Royal Decree amending the Royal Decree of 23 September 2008 determining certain acts 
+constituting market abuse (09/22/2009) – Royal Decree amending previous Royal Decree to 
+change the list of issuers to whom the decree applies.  https://ypfsresourcel-
+ibrary.blob.core.windows.net/fcic/YPFS/Moniteur%20Belge%20-%20Bel-
+gisch%20Staatsblad8.pdf. 
+Royal Decree amending the Royal Decree of April 14, 2009 granting a State guarantee to cer-
+tain loans from the Municipal Holding  (09/30/2009) – Royal Decree amending a previous 
+Royal Decree to extend the guarantee expir ation date.   https://ypfsresourcel-
+ibrary.blob.core.windows.net/fcic/YPFS/Moniteur%20Belge%20-%20Bel-
+gisch%20Staatsblad9.pdf. 
+Royal Decree amending the Royal Decree of October 16, 2008 taken in execution of a rticle 
+117bis of the Law of August 2 , 2002 on the supervision of the financial sector and on financial 
+services (10/07/2009) – Royal Decree amending previous Royal Decree to extend guarantee 
+expiration dates. https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/Moniteur%20Belge%20-%20Belgisch%20Staatsblad10.pdf. 
+Legal/Regulatory Guidance 
+Law of August 2, 2002 on the supervision of the financial sector and on financial services 
+(09/04/2002) – Law establishing the oversight and regulation of the financial sector.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Moniteur%20Belge%20-
+%20Belgisch%20Staatsblad11.pdf. 
+Law relating to the disclosure of significant holdings in issuers whose shares are admitted to 
+trading on a regulated market and c ontaining various provisions (1) (05/02/2007)  – Law 
+establishing disclosure requirements for financial institutions.  https://ypfsresourcel-
+ibrary.blob.core.windows.net/fcic/YPFS/Moniteur%20Belge%20-%20Bel-
+gisch%20Staatsblad13.pdf. 
+Law amending the law of August 2, 2002 on the supervision of the financial sector and finan-
+cial services, as well as the law of February 22, 1998 establishing the organic statute of the 
+National Bank of Belgium, and laying down various provisions (1 ) (07/02/2010) – Law re-
+pealing Article 117bis of the law of August 2, 2002. https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/Moniteur%20Belge%20-%20Belgisch%20Staatsblad12.pdf. 
+“Opinion of the European Central Bank of 8 October 2008 at the request of the Belgian Min-
+istry of Finance on a preliminary draft law on measures promoting financial s tability and in 
+particular establishing a State guarantee for the provision of credit in the context of financial 
+stability (CON/2008/46)” (10/03/2008) – Report by the European Central Bank on the pro-
+posed Belgian measures to provide a State guarantee for the provision of credit stability.  
+https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/CELEX_52008AB0046_EN_TXT.pdf. 
+631
+The Belgian Credit Guarantee Scheme Lawson
+
+--- Page 16 ---
+“Opinion of the European Central Bank of 17 October 2008 at the request of the Belgian Min-
+istry of Finance on a draft royal decree adopted under Article 117bis of the Law of 2 August 
+2002 on the supervision of the financial sector and on financial services (CON/2008/50) ” 
+(10/17/2008) – Report by the European Central bank on the Royal Decree that establishes the 
+state guarantee to cove r liabilities entered into by financial institutions.  
+https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/CELEX_52008AB0050_EN_TXT.pdf. 
+“Opinion of the European Central Bank of  21 November 2008 at the request of the Belgian 
+Ministry of Finance on a draft royal decree on the guarantee for certain risks assumed by 
+financial institutions (CON/2008/74) ” (11/21/2008) – Report from the European Central 
+Bank on the Royal Decree that attempts to avoid liquidity outflows.  
+https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/CELEX_52008AB0074_EN_TXT.pdf. 
+“Opinion of the European Central Bank of  19 March 2008 at the request of the Belgian Min-
+istry of Finance on a draft royal decree amending the Royal Decree of 10 December 2008 on 
+the guarante e for certain risks assumed by financial institutions (CON/2009/25) ” 
+(03/19/2009) – Report from the European Central Bank on the Royal Decree that extends the 
+scope of the credit guarantee scheme established by Royal Decree on December 10, 2008.  
+https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/CELEX_52009AB0025_EN_TXT.pdf. 
+“Opinion of the European Central Bank of  25 March 2009 at the request of the Belgian Min-
+istry of Finance on a draft law amending the Law of 2 August 2002 on the supervision of the 
+financial sector and on financial services (CON/2009/29) ” (03/25/2009) – Report from the 
+European Central Bank on the law that extends the scope of the king’s power to affect regula-
+tion of the financial sector.  https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/CELEX_52009AB0029_EN_TXT.pdf. 
+“Opinion of the European Central Bank of  23 September 2009 on an extension of the State 
+guarantee covering liabilities of credit institutions (CON/2009/73)” (09/23/2009) – Report 
+from the European Central B ank on the extension of the Belgian credit guarantee scheme . 
+https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/CELEX_52009AB0073_EN_TXT.pdf. 
+Press Releases/Announcements 
+Belgium – 2008 Article IV Consultations: Concluding Statement of the Mission (12/15/2008) 
+– Report from the IMF on the current economic outlook facing Belgium and an overview of 
+government interventions undertaken.                                                         https://ypfsresourcel-
+ibrary.blob.core.windows.net/fcic/YPFS/Belgium%20-%202008%20Arti-
+cle%20IV%20Consultations_%20Concluding%20Statement%20of%20the%20Mission.pdf. 
+Academic Papers 
+The Design of Government Guarantees for Bank Bonds: Lessons From the Recent Financial 
+Crisis (Levy and Schich 2010)  – Report comparing the various bank debt  guarantee schemes 
+implemented by governments around the world in response to the GFC. https://ypfsresourcel-
+ibrary.blob.core.windows.net/fcic/YPFS/Levy_and_Schich_2010_0.pdf. 
+632
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 17 ---
+The Pricing of Government-Guaranteed Bank Bonds (Levy and Zaghini 2010) – Report on the 
+pattern of bond issuance in the aftermath of the GFC. https://ypfsresourcel-
+ibrary.blob.core.windows.net/fcic/YPFS/SSRN-id1670098.pdf. 
+Belgium: Technical Note on Crisis Management and Bank Resolution Framework (Interna-
+tional Monetary Fund 2013) – IMF Staff Country Report analyzing the technical abilities of the 
+Belgian National Bank to provide emergency liquidity relief. https://ypfsresourcel-
+ibrary.blob.core.windows.net/fcic/YPFS/_cr13135.pdf. 
+What has been the damage of the fi nancial crisis to Belgian GDP?  (Lebrun 2011) – Federal 
+Planning Bureau report quantifying the impact of the financial and economic crisis on Belgian 
+GDP.  
+https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/201106221430150.wp201108.pdf. 
+Belgian Economy – Financial crisis: causes and initial consequences (Federal Planning Bu-
+reau 2008)  – Report on the causes and effects of the GFC on the Belgian economy. 
+https://ypfsresourcelibrary.blob.core.win-
+dows.net/fcic/YPFS/200811131501550.stu0308.pdf. 
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu.  
+633
+The Belgian Credit Guarantee Scheme Lawson

@@ -1,0 +1,2661 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 3 
+2021 
+The US Supervisory Capital Assessment Program (SCAP) and The US Supervisory Capital Assessment Program (SCAP) and 
+Capital Assistance Program (CAP) Capital Assistance Program (CAP) 
+Aidan Lawson 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance and Financial 
+Management Commons, Policy Design, Analysis, and Evaluation Commons, and the Public Policy 
+Commons 
+Recommended Citation Recommended Citation 
+Lawson, Aidan (2021) "The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance 
+Program (CAP)," Journal of Financial Crises: Vol. 3 : Iss. 3, 891-956. 
+DOI: https://doi.org/10.17132/2693-3179.1236 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/36 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss3/36
+
+--- Page 3 ---
+The US Supervisory Capital Assessment Program 
+(SCAP) and Capital Assistance Program (CAP)1 
+Aidan Lawson2 
+Yale Program on Financial Stability Case Study 
+November 12, 2021 
+Abstract 
+Due to continued stress during the Global Financial Crisis, the US Treasury released a series 
+of additional measures in February 2009 that included a mandatory stress test for major U.S. 
+bank holding companies (BHCs), backed by government capital. The stre ss test, known as 
+the Supervisory Capital Assessment Program (SCAP), tested the capital adequacy of the 19 
+U.S. BHCs that had more than $100 billion in assets. A large interagency team of regulators 
+and other experts estimated losses and income under two h ypothetical scenarios for the 
+group of BHCs: a baseline that reflected the consensus belief about the course of the current 
+recession, and a more adverse scenario that reflected a deeper recession. The estimated loan 
+losses under the more adverse scenario were higher than realized losses at any point in U.S. 
+history. Ten of the 19 BHCs were required to increase their capital by a total of $75 billion , 
+of which $65 billion had to be in the form of common equity. The 10 BHCs had six months to 
+increase capital by issuing new shares, selling assets, curtailing payments to shareholders, 
+or changing the composition of their capital by converting preferred shares or debt into 
+common equity. If those sources were unavailable, they could apply for government capital 
+through a backstop facility known as the Capital Assistance Program (CAP). Other banks, 
+even if they were not part of the SCAP exercise, could also apply to CAP. Under CAP, Treasury 
+would buy mandatorily convertible preferred shares in an institution, subj ect to certain 
+restrictions. The shares had onerous terms to encourage institutions to find other sources of 
+capital: they paid dividends of 9 percent, required a halt to dividend payments on other 
+shares, came with limits on executive compensation, and co ntained warrants that allowed 
+Treasury to purchase additional common stock. Ultimately, no institutions applied for CAP 
+funds, and it terminated in November 2009. Academics and policymakers praised the 
+stringency of the test as well as the Federal Reserve’ s controversial decision to publicly 
+release the details and results. They also argued that the availability of government capital 
+through CAP was an essential fallback option supporting the stress test exercise. The Fed 
+intended its capital targets to be high enough that banks could continue lending to 
+creditworthy borrowers during an economic downturn, rather than merely survive. 
+ 
+1 This  case  study  is  part  of  the  Yale  Program  on  Financial  Stability  (YPFS)  selection  of  New  Bagehot  
+Project modules considering the responses to the global financial crisis.  
+Cases are available from the Journal of Financial Crises at https://elis cholar.library.yale.edu/journal-of-
+financial-crises/. 
+2 Aidan Lawson – Research Associate, YPFS, Yale School of Management. 
+891
+
+--- Page 4 ---
+Ultimately, all but one of the institutions that the stress test identified as needing capital 
+were able to obtain private capital without further government support.  
+Keywords: Broad-based capital injections,  CAP, capital backstop, Global Financial Crisis, 
+preferred stock, stress tests, United States , SCAP
+892
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 5 ---
+At a Glance 
+The passage of the Emergency Economic 
+Stabilization Act (EESA) on October 3, 
+2008, marked the beginning of the US 
+government’s aggressive intervention in 
+the banking system. The Treasury first 
+used its authority under EESA to create 
+the Capital Purchase Pr ogram (CPP), in 
+which it purchased $205 billion of 
+preferred equity in 707 public and 
+private banks, S -corporations, and 
+mutual banks.  
+Markets, however, continued to struggle 
+into early 2009. As part of a series of 
+additional measures, Treasury released 
+a plan in February 2009 that included 
+mandatory stress tests for major US 
+bank holding companies (BHCs) and a 
+government capital backstop for 
+institutions that the stress test found to 
+need capital but that were unable to 
+raise capital from private sources.  
+The stress tests, known as the 
+Supervisory Capital Assessment 
+Program (SCAP), tested the capital 
+adequacy of the 19 US BHCs that had 
+more than $100 billion in assets. A team of more than 150 regulators and other experts from 
+a variety of institutions (in cluding the Federal Reserve, Treasury, and Federal Deposit 
+Insurance Corporation) estimated losses and income under two hypothetical scenarios for 
+the group of BHCs. The baseline  scenario reflected the consensus expectations of 
+professional forecasters abo ut the depth and duration of the recession; the more adverse 
+scenario featured a longer and more severe recession. The scenarios were based on 
+estimates of real GDP, unemployment, and house prices. The estimated loan losses under the 
+more adverse scenario were higher than realized losses at any point in U.S. history, including 
+during the Great Depression. The output of the SCAP exercise was an estimate of the amount 
+of common equity each bank would have in the two scenarios. The Federal Reserve released 
+the results in May 2009. It required 10 of the 19 BHCs to raise a total of $75 billion in capital, 
+mostly in the form of common equity.  
+Summary of Key Terms 
+Purpose: To ensure the continued ability of the largest US 
+financial institutions to lend to creditworthy borrowers 
+by aggressively testing their capital resilience with a 
+heavy emphasis on common equity.  
+Announcement date February 10, 2009 
+Operational date February 25, 2009 
+Sunset date  November 9, 2009 
+Program size 
+An estimated $300 billion was 
+available but the exact size 
+was unspecified 
+Usage Not used 
+Outcomes 
+Rather than accept CAP capital, 
+10 banks increased common 
+equity by $76.6 billion through 
+various means and the 
+government recapitalized 
+GMAC through another 
+program 
+Key features 
+Mandatory conversion after 7 
+years, 20% step-up clause, 
+initial stress-test component 
+The US Supervisory Capital Assessment Program 
+(SCAP) and Capital Assistance Program (CAP) 
+893
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 6 ---
+The 10 BHCs that failed the stress test had six months to obtain capital either through private 
+sources or via a governmen t backstop facility known as the Capital Assistance Program 
+(CAP). Banks that did not undergo the stress tests could also apply to the Treasury for a 
+government capital injection through CAP. Under CAP, the Treasury would purchase new 
+mandatorily convertible preferred shares that were convertible to common equity at a slight 
+discount to the institution’s average stock price. The shares paid a relatively onerous 9 
+percent dividend and contained 10 -year warrants that allowed the Treasury to purchase 
+additional common stock, though the Treasury pledged not to exercise voting rights with 
+respect to this stock. CAP shares also included executive compensation and corporate 
+governance restrictions. Ultimately, the Treasury required no institutions to use the facility, 
+and no institutions voluntarily applied for CAP funds. 
+Summary Evaluation 
+The Fed’s decision to release the details and results of the stress tests boosted investor 
+confidence and helped stabilize financial markets, although such transparency ran again st 
+standard supervisory practice at the time. Market participants and experts generally praised 
+the stringency of the capital requirements resulting from the severe loss rates in the SCAP. 
+They tended to view the stress test as a valuable exercise, with government capital available 
+through CAP as an essential fallback option. The Fed intended its capital targets to be high 
+enough for banks to be well-capitalized to support the economy, rather than merely survive. 
+No banks used CAP. Most were able to obtain capital from private sources, as government 
+officials had hoped. One firm that failed the stress test, GMAC, received government capital 
+through a separate program. Stress testing became a regular part of bank supervision in the 
+U.S. following the passage of the Dodd-Frank Act in 2010.  
+894
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 7 ---
+United States Context 2009 -2010 
+GDP 
+(SAAR, nominal GDP in LCU converted to 
+USD) 
+$14,628.0 billion in Q4 2009 
+$15,240.8 billion in Q4 2010 
+GDP per capita 
+(SAAR, nominal GDP in LCU converted to 
+USD) 
+$47,100 in 2009 
+$48,468 in 2010 
+Sovereign credit rating (five-year senior 
+debt) 
+As of Q4, 2009: 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+As of Q4, 2010: 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+Size of banking system 
+$9,789.1 billion in total assets in 
+2009 
+$9,292.3 billion in total assets in 
+2010 
+Size of banking system as a percentage of 
+GDP 
+66.9% in 2009 
+61.0% in 2010 
+Size of banking system as a percentage of 
+financial system 
+Assets equal to 30.2% of financial 
+system in 2009 
+Assets equal to 28.5% of financial 
+system in 2010 
+Five-bank concentration of banking system 
+44.3% of total banking assets in 
+2009 
+46.0% of total banking assets in 
+2010 
+Foreign involvement in banking system 
+19.0% of total banking assets in 
+2009 
+16.0% of total banking assets in 
+2010 
+Government ownership of banking system 0% of banks owned by the state in 
+2010 
+Existence of deposit insurance 
+100% insurance on deposits up to 
+$100,000 for 2007 
+100% insurance on deposits up to 
+$250,000 for 2010 
+Sources: Bloomberg; World Bank Global Financial Development Database; Federal 
+Deposit Insurance Corporation 
+ 
+ 
+895
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 8 ---
+I. Overview 
+Background 
+On October 3, 2008, the U.S. Congress passed the Emergency Economic Stabilization Act 
+(EESA) in response to the Global Financial Crisis (P.L. 110-343). The primary component of 
+this Act, called the Troubled Assets Relief Program (TARP), authorized the Treasury to create 
+a variety of programs to alleviate stress in banks and other sectors, such as housing and the 
+automobile industry (TARP Programs; P.L. 110-343). The largest of these programs was the 
+Capital Purchase Program (CPP), in which the US Treasury bought an unprecedented $205 
+billion of preferred equity in banks (listed and unlisted), S-corporations, and mutual banks.  
+The Treasury encouraged broad participation by banks in the CPP on a voluntary basis. It 
+chose to purchase preferred shares in banks, rather than common equity, to prevent the 
+government from becoming a significant or controlling shareholder in private com panies 
+and to protect taxpayers, since preferred shares rank higher than common equity in the 
+capital structure (Jester, Nason, and Norton 2020).   
+The CPP began accepting applications on October 14, 2008. N ine of the largest US bank 
+holding companies (BHCs) agreed to participate at the outset of the program.3 Participation 
+by these nine institutions was publicly announced to “collectively signal the importance of 
+the program for the system” (UST PR, 10/14/2008). Ultimately, the Treasury disbursed $205 
+billion to 707 banks and trusts  through the CPP and realized a net return of $21.5 bil lion 
+(CPP Transaction Data; TARP: Monthly Update).  
+The Treasury’s financial market assistance continued with the creation of the Systemically 
+Significant Failing Institutions (SSFI) program alongside the CPP and other TARP programs. 
+It used the SSFI progr am to inject $40 billion in capital into American International Group 
+(AIG), the country’s largest insurance company in November of 2008 (UST Report December 
+2008). The Treasury injected a further $30 billion into AIG in March 2009 as its losses 
+mounted (AIG Financial Supplement Q3 2010) . The Treasury created the Targeted 
+Investment Program (TIP) in December 2008 to support t wo of the CPP’s largest 
+beneficiaries, Bank of America and Citigroup ; they each received $20 billion  in preferred 
+equity under TIP (UST: TIP). 
+Despite these interventions, markets continued to struggle through 2008 and into early 
+2009. Investors remained concerned about the adequacy of capital at the largest financial 
+institutions. The Obama administration introduced two major policy initiatives in February 
+2009. The first was the Financial Stability Plan, announced on February 10. The plan laid out 
+ 
+3 The nine BHCs were Citigroup ($25 billion), JP Morgan ($25 billion), Wells Fargo ($25 billion), Bank of 
+America ($15 billion), Mor gan Stanley ($10 billion), Goldman Sachs ($10 billion), Merrill Lynch ($10 billion), 
+State Street ($3 billion), and Bank of New York Mellon ($2 billion)  (SIGTARP 10/09/2009 – p. ,20; CPP 
+Transaction Data). 
+896
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 9 ---
+a strategy to “attack our crisis on all fronts with our full arsenal of financial tools” (UST PR, 
+02/10/2009). It included public-private capital programs, consumer and business lending 
+initiatives, and increased transparency and accountability for firms obtaining TARP funds.  
+The Financial Stability P lan also featured a mandatory stress test for some of the largest 
+financial institutions, backed by government capital for institutions that were unable to raise 
+private capital (UST PR, 02/10/2009). The stress test and capital backstop came to be known 
+as the Supervisory Capital Assessment Program (SCAP) and the Capital Assistance Program 
+(CAP), respectively.  
+The administration’s second major initiative was the American Recovery and Reinvestment 
+Act (ARRA) , which Congress passed  on February  17, 2009. ARRA was a massive fiscal 
+stimulus plan designed to be “speedy, substantial, and sustained .” It provided more than 
+$700 billion in economic stimulus (Furman 2020). 
+Program Description 
+The Department of the Treasury released details of the Capita l Assistance Program on 
+February 25, 2009, about two weeks after the initial announcement. The Fed launched t he 
+stress test on the same day. It said it would use the stress test “to evaluate the capital needs 
+of the major  US banking institutions under a mo re challenging economic environment ” 
+(SCAP: Design and Implementation; UST PR, 02/25/2009).  
+The Treasury and Fed designed SCAP and CAP to address the widespread impression that 
+the largest US banks still had insufficient common equity to bear the potentia l losses in an 
+ongoing recession. With the CPP, the Treasury had successfully increased banks’ Tier 1 
+capital, but with preferred rather than common equity. Treasury  and Fed officials designed 
+SCAP and CAP to incentivize banks to find their own path to increase common equity, while 
+drawing mostly on private investors. The hope was that, first, the results of the SCAP stress 
+tests would reassure investors about the solvency of the largest banks, encouraging them to 
+invest new capital; and, second, the terms of the government equity injection in CAP would 
+be so onerous that banks would try harder to find private-sector solutions. 
+Supervisory Capital Assessment Program (SCAP) 
+SCAP was a stress test for the largest US bank holding companies (BHCs), in which teams of 
+examiners “appl[ied] a consistent and systematic approach across the group to evaluate the 
+projected loss and resource estimates submitted by [ the BHCs ]” (SCAP: Design and 
+Implementation). Credit intermediation had slowed dramatically due to the recession and a 
+widespread loss of confidence in the banking system. Many of the largest financial 
+institutions posted significant credit and mark -to-market losses during the financial crisis. 
+Their capital was diminished, and they would be less able to absorb further losses should the 
+economy continue to worsen . The Treasury and Fed argued that the largest companies 
+needed “to hold additional capital to provide a buffer against higher losses than generally 
+expected” (SCAP: Design and Implementation).  
+897
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 10 ---
+The Fed released two papers on SCAP in the spring of 2009. The first, released on April 24, 
+described the design of the recently concluded stress tests in detail. The second, released on 
+May 7, explained the results. More than 150 people from a variety of supervisory agencies 
+were organized into teams tasked with “examining a distinct aspect of the loss and resource 
+projections across all 19 participating BHCs” (SCAP: Design and Implementation). 
+Any US bank holding company that had more than $100 billion in risk-weighted assets on a 
+consolidated basis was required to participate and provide projections of “their credit losses 
+and revenues for the two years 2009 and 2010, including the level of reserves that would be 
+needed at the end of 2010 to cover expected losses in 2011, under two alternative economic 
+scenarios” (SCAP: Design and Implementation). 4 The first scenario, called the baseline, 
+“reflected the consensus e xpectation in February 2009 among professional forecasters on 
+the depth and duration of the recession.” The more adverse scenario  “characterize[d] a 
+recession that [was] longer and more severe than the consensus expectation” (SCAP: Design 
+and Implementation). However, the more adverse scenario was not a “worst-case” scenario. 
+The Fed argued that the conditions of the stress test ought to be “severe but plausible” (SCAP: 
+Design and Implementation).  See Figure 1 for a list of these institutions , which held about 
+two-thirds of the assets and more than half the loans in the US banking system (FRB PR, 
+04/24/2009). 
+ 
+  
+ 
+4 All BHCs with more than $100 billion in assets at year-end 2008 were required to participate. 
+898
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 11 ---
+Figure 1: Nineteen SCAP Bank Holding Companies, Year-End 2008 Assets and Tier 1 
+Capital  
+Source: SCAP: Overview of Results 
+  
+Bank Holding Company Risk-weighted assets  
+($ billions) 
+Tier 1 capital  
+($ billions) 
+American Express Company $104.4 $10.1 
+Bank of America $1,633.8 $173.2 
+BB&T  $109.8 $13.4 
+Bank of New York Mellon $115.8 $15.4 
+Capital One  $131.8 $16.8 
+Citigroup $996.2 $118.8 
+Fifth Third  $112.6 $11.9 
+GMAC $172.7 $17.4 
+Goldman Sachs $444.8 $55.9 
+JPMorgan Chase $1,337.5 $136.2 
+KeyCorp $106.7 $11.6 
+MetLife $326.4 $30.1 
+Morgan Stanley $310.6 $47.2 
+PNC $250.9 $24,1 
+Regions $116.3 $12.1 
+State Street  $69.6 $14.1 
+SunTrust $162 $17.6 
+US Bancorp $230.6 $24.4 
+Wells Fargo $1,082.3 $86.4 
+899
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 12 ---
+The stress test was unprecedented  in the US. “US bank supervisors had never used a 
+scenario-based stress test to assess the capital adequacy of banks  and then required capital 
+increases based on what those results showed was needed” . Although the Treasury 
+announced SCAP, the Fed and other federal banking agencies were the ones who 
+administered the program to ensure that markets would believe that the r esults were 
+credible (Clark, Kabaker, and Sachs  2020). The difficulty in accurately projecting and 
+assessing losses and revenues for the BHCs was amplified due to increased macroeconomic 
+stress and uncertainty during this period, but this was precisely the reason that the Fed felt 
+the tests were appropriate. The Fed argued that BHCs needed to “have sufficient resources 
+to continue to lend to creditworthy borrowers across a wide range of macroeconomic 
+outcomes” (SCAP: Design and Implementation). 
+Federal bank ing regulators assess ed the vulnerabilities of each BHC using their loss 
+estimates for each scenario and then recommend ed the amount of capital the company 
+needed to raise to remain adequately capitalized at the end of the stress period, even in the 
+more adverse scenario (SCAP: Design and Implementation).  
+The Fed targeted two capital ratios to determine capital adequacy: banks needed to have a 
+Tier 1 capital ratio greater than six percent and a Tier 1 com mon equity ratio greater than 
+four percent at the end of 2010. For the denominator of both ratios—risk-weighted assets—
+the Fed used banks’ actual balance-sheet figures at the end of 2008, plus any assets they had 
+to bring onboard due to accounting adjustments. The Fed used this conservative assumption 
+to prevent firms from shrinking their balance sheets to meet the target ratios. “Normally, the 
+easiest way to maintain a required capital ratio in a downturn is to pull back from lending or 
+shed assets—activities that only make a downturn worse” (Clark, Kabaker, and Sachs 2020). 
+To calculate the numerators of the two capital ratios, each BHC was required to report  its 
+projections of Tier 1 capital and common stockholders’ equity for the end of 2009 and 2010. 
+These projections served as a baseline for the recommendations that the government 
+assessors would ultimately make to the institutions. In making their recommendations, the 
+supervisors looked at the composition of the BHCs’ Tier 1 capital and paid close attention to 
+the amount of common equity each firm had, as common equity “generally should be the 
+dominant element within Tier 1 capital” (SCAP: Design and Implementation).  
+The BHCs that needed to increase their capital levels as a result of the stress tests had 30 
+days to develop a plan that , “wherever possible, actively seek(s) to raise new capital from 
+private sources”. Once its federal banking regulator approved its plan, a BHC had six months 
+to implement it. While the ultimate goal of the SCAP was to ensu re the strength of the US 
+banking sector and reduce uncertainty to restore normal market functionality , the US 
+government also offered the CAP backstop as a source of government capital if a bank was 
+unable to obtain private capital (SCAP: Overview of Results). 
+Capital Assistance Program (CAP) 
+Treasury officials considered the approach of CAP to be similar to an “open bank resolution.” 
+An open bank resolution is essentially a recapitalization. Typically , common equity holders 
+900
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 13 ---
+see the value of their shares diluted, in whole or in part ; and existing preferred equity and 
+debt investors accept losses or convert their holdings into common equity. But Treasury 
+officials wanted to avoid the government taking common equity ownership in banks before 
+other opt ions had been exhausted . They viewed common equity ownership as akin to 
+nationalization. The government had already taken control of Fannie Mae and Freddie Mac, 
+the two government-sponsored mortgage giants, and AIG, the largest insurance company. So 
+they chose mandatorily convertible preferred equity as their instrument. The new securities 
+were preferred, like those banks had issued to the Treasury in the earlier CPP program. But, 
+unlike those securities, they would be converted into common shares  after seven years if 
+they had not been retired (see KDD #9 for more details). They imposed onerous terms – high 
+dividends, executive compensation limits, additional warrants, and limits on other dividends 
+- to encourage banks to build common equity through other me ans (Clark, Kabaker, and 
+Sachs 2020).  
+The Treasury and Fed described the CAP as an unlimited capital backstop (Clark, Kabaker, 
+and Sachs 2020, UST PR, 02/10/2009). The program had a total capacity of roughly $300 
+billion, which officials believed was sufficient to meet any potential needs. That sum included 
+about $100 billion in remaining TARP funds, plus the roughly $200 billion in existing CPP 
+preferred shares that the Treasury could convert into new CAP preferred shares if needed 
+(Clark, Kabaker, and Sachs 2020).  
+All publicly traded , US-based banks, thrifts, and their holding companies  (designated as 
+Qualifying Financial Institutions, or QFIs) were eligible to apply for CAP funds (CAP: Term 
+Sheet; UST PR, 02/10/2009). Institutions could submit their applications to their primary 
+federal banking regulator—the Federal Deposit Insurance Corporation ( FDIC), Office of the 
+Comptroller of the Currency (OCC),  or Fed . That regulator would then submit its 
+recommendations to the Treasury, who had the final  say on which institutions were 
+accepted. The deadline for institutions to apply was May 25, 2009 ( CAP: FAQ). In the initial 
+term sheet, the Treasury said it was also working on developing application s for unlisted 
+institutions, S-corporations, and mutual banks, but it never released those documents (CAP: 
+Term Sheet).  
+If accepted, QFIs could issue mandatorily convertible preferred equity to the Treasury. The 
+Treasury then transferred the instruments to its Financial Stability Trust (CAP: Term Sheet; 
+UST PR, 02/10/2009). The objective of this trust was to “protect and create value for the 
+taxpayer as a shareholder over time” (FSOB Report, 03/31/2009). A QFI could issue an 
+amount of preferred stock equal to no less than 1% but no more than 2% of its risk-weighted 
+assets. A QFI needing capital greater than 2% was considered in need of “exceptional 
+assistance.” It would be required to submit that request to its federal banking regulator, who 
+would then consult with Treasury. The Treasury would potentially subject the recipient to 
+additional terms and conditions (CAP: Term Sheet).  
+The EESA required the Treasury to publish the name of any institution that issued preferred 
+stock under the CAP and the amount it invested in that institution . However, a QFI could 
+obtain confidentiality if it was able to “specifically demonstrate the harm (for example, loss 
+of competitive position , invasion of privacy) that would result from public release of 
+901
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 14 ---
+information” (CAP: FAQ). The Treasury did not publicly release the names of applicants that 
+it did not approve for the program. 
+The Treasury generally modelled the terms of the CAP after its Capital Purchase Program 
+(CPP), which it created in October 2008 . The key difference was that CAP preferred equity 
+was convertible into common stock  (Convertible Preferred). The Fed focused on common 
+equity because it provides much greater loss -absorbing capacity and offers the most 
+protection to the more senior parts of the portfolio  (SCAP: Overview of Results) . The 
+Convertible Preferred was voluntarily convertible either in part or whole by the QFI  or the 
+Treasury any time after the investment ; it would automatically convert after seven years 
+(CAP: Term Sheet).5 Some of the characteristics of the Convertible Preferred were subject to 
+change based on the outcome of a shareholder vote conducted after the QFI issued the stock. 
+QFIs were required to call and pass a shareholder vote to authorize an increase in the 
+number of common stock such that the conversion of the Convertible Preferred and exercise 
+of the warrants could take place (CAP: Term Sheet).  
+Regardless of the method, the Treasury set the conversion price at “90% of the average 
+closing price for the common stock for the 20 trading day period e nding February 9, 2009”. 
+However, the Treasury could reduce this price by 15% every six months following the initial 
+injection if the institution failed to receive the afore-mentioned stockholder approval to 
+increase the number of authorized common shares. The maximum price reduction was 45%. 
+If any stock remained outstanding after the mandatory conversion date ( seven years), then 
+the Treasury was required to make “reasonable efforts” to sell at least 20% of its current 
+holdings of common equity every year until it owned no more equity (CAP: Term Sheet).  
+The Convertible Preferred paid cumulative dividends of 9%, though this rate could increase 
+to 20% six months after the original issue date if the shareholders had still not approved the 
+increase in common s hares. If an institution did not pay the required dividends on the 
+Convertible Preferred for six quarters, consecutive or not, the Treasury would have the 
+ability to elect two directors to the institution’s board. This right would end once the 
+institution paid dividends for four consecutive quarters (CAP: Term Sheet).  
+The Treasury’s terms limited dividends on non -Treasury common stock to $0.01 as l ong as 
+any Convertible Preferred or Treasury -owned common stock remained outstanding . T he 
+Treasury also prohibited QFIs from declaring dividends, paying dividends, or repurchasing 
+any equivalently ranked or junior preferred shares during this time (CAP: Term Sheet).   
+These terms were known as dividend stoppers.  
+QFIs could redeem the Convertible Preferred shares by issuing new common equity. To do 
+so, they needed the approval of their federal banking regulator . Also, the proceeds of any 
+such equity issuance had to equal at least 25% of the issue price of the Convertible Preferred 
+ 
+5 At the time of any conversion, the QFI was also required to pay “any accrued and unpaid dividends at its option 
+in either cash or shares of common stock.” These shares would be valued at the closing price on the second 
+preceding trading day (CAP: Term Sheet – p. 3). Treasury could also convert the preferred stock “upon specified 
+corporate events, including certain sales, mergers or changes of control of the QFI” (CAP: Term Sheet – p. 3). 
+902
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 15 ---
+shares. Redemption was done either at par value (plus accrued and unpaid dividends) if done 
+within the first two years, or at the greater of par value plus accrued and unpaid dividends if 
+the stock had been converted (CAP: Term Sheet CAP).6 
+The Treasury could receive additional common stock by exercising the  10-year warrants 
+issued with  the Convertible Preferred shares . These warrants, which were immediately 
+exercisable, allowed the Treasury to purchase common stock equal to 20% of the amount of 
+Convertible Preferred on the day of the initial investment. The exercise price was the same 
+as the conversion price in both its original level and thresholds for reduction (15% decrease 
+every 6 months , up to 45% ). The Treasury pledged not to exercise any voting power with 
+respect to these shares (CAP: Term Sheet).  
+Other terms of CAP equity were a lso more onerous than CPP equity. Institutions that 
+participated in CAP  faced restrictions on executive compensation . These restrictions were 
+originally specified in EESA and changed with the passage of the  ARRA in February 2009 
+(UST Report, 06/10/2009). 
+Senior executive officers (SEOs), initially defined by EESA as the five highest-paid executives 
+of companies that took TARP money, were the primary targets of these restrictions (P.L. 110-
+343). The government gradually increased the  number of SEOs that wer e affected. SEOs of 
+TARP recipients were generally unable to receive “golden parachute” payments, bonuses , 
+and additional compensation. The legislation and subsequent interim final rules  also 
+required compensation committees of QFIs to identify features that could “lead SEOs to take 
+unnecessary and excessive risks” and meet with risk officers to discuss these features  (UST 
+Report, 06/10/2009).  
+As mentioned, institutions that were approved to issue Convertible Preferred shares in 
+excess of the 2% limit would be classified as needing “exceptional assistance”  (CAP: Term 
+Sheet). The Treasury first made t his distinction in its interim guidance in February 2009.  
+These firms would be subject to stricter executive compensation and corporate governance 
+rules. Such r estrictions would come in the form of harsher limits on compensation, 
+“clawback” provisions for any bonus or incentive payments, wider golden parachute bans, 
+and broader publication requirements of expenditures that could be viewed as excessive or 
+luxury (UST PR, 02/04/2009). Treasury issued its final guidance on executive compensation 
+on June 10, 2009 (UST PR, 06/10/2009). See K ey Design Decision No. 12 for more 
+information. 
+  
+ 
+6 Redemption of preferred stock issued under the Capital Purchase Program initially required it be done via the 
+proceeds of a Qualified Equity Offering, or a raising of additional preferred or common equity. This requirement 
+was removed after the passage of the American Recovery and Reinvestment Act of 2009 (CPP: FAQ 
+03/01/2012). 
+903
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 16 ---
+Outcomes 
+Supervisory Capital Assessment Program (SCAP) 
+The SCAP was deliberately stringent . E stimates of potential losses for the 19 BHCs that 
+participated were $600 billion in the more adverse scenario.  Three quarters of these losses 
+came from accrual loans, such as residential mortgages and consumer -related loans. Two -
+year total loan-loss estimates were 9.1 percent, higher than any point in US history, including 
+during the height of the Great Depression  (SCAP: Overview of Results) . See Figure 2 for a 
+breakdown of historical two-year loan loss rates.  
+The Federal Reserve pointed out that because of the two -year horizon of the SCAP, these 
+were not full lifetime losses. Approximately $400 billion in losses had already been realized 
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1920 1930 1940 1950 1960 1970 1980 1990 2000 2010
+At 9.1%, SCAP two-year loan loss rates were 
+higher than peak levels during the Great 
+Depression.
+Figure 2: Historical two-year loan loss rates for commercial banks (%) 
+Sources: International Monetary Fund; Federal Reserve; FDIC.  
+904
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 17 ---
+by the  19 firms from the third quarter of 2007 to the end of 2008 (SCAP: Design and 
+Implementation). The Fed argued that the SCAP captured “a large portion of losses from 
+positions held as of the end of 2008”. Total loss-absorbing capacity for the 19 firms was about 
+$362.9 billion (SCAP: Overview of Results).  The Fed measured loss -absorbing capacity by 
+looking at starting capital, adding any pre -provision net revenues over the period, and 
+subtracting the change in the allowance for loan losses. 
+The SCAP “capital buffer ,” or the amount of capital needed to ensure that the participants 
+would be adequately capitalized under the more adverse scenario, came out to $185 billion 
+for 10 of the 19 BHCs. T he other nine did not need additional capital. 7 However, this figure 
+was based on the firms’ balance sheets as of December 31, 2008. It did not take into account 
+capital that firms raised at the end of 2008, as well as other actions many of the firms took  
+in early 2009 to pre-emptively strengthen their balance sheets prior to the release of the 
+stress test results. When accounting for these reductions, the Fed reduced its estimate of the 
+capital buffer from $185 billion to $75 billion. Most of the buffer needed was in the form of 
+common equity, reflecting the Fed’s desire to improve the composition  of banks’ Tier 1 
+capital. Two banks were required to raise new Tier 1 capital : GMAC LLC ($9.1 billion) and 
+Regions Financial Corp. ($0.4 billion) (SCAP: Overview of Results). 
+After the Fed published the results of the SCAP, credit default swap ( CDS) spreads for the 
+largest commercial and investment banks fell considerably . Citigroup’s CDS spread peaked 
+in April 2009 before falling nearly 300 basis points after the SCAP results were released.  
+Capital Assistance Program (CAP) 
+Treasury closed CAP on November 9, 2009, six months after the release of the SCAP results.  
+The Treasury made n o investments under CAP . Nine of the 10 institutions that failed the 
+stress test managed to raise capital  from private sources (FRB PR, 11/09/2009). The only 
+institution that needed additional capital and failed to raise it on the market was GMAC. It 
+ultimately drew on capital from a different TARP program, the Automotive Industry 
+Financial Program (AIFP) , on similar terms as it would have received under CAP . The 
+Treasury also converted existing GMAC preferred stock into mandatorily convertible 
+preferred stock and common equity to he lp GMAC cover its capital buffer needs  (UST PR, 
+11/09/2009; GAO 10-861).   
+The other nine SCAP BHCs that failed the stress test were able to raise enough private capital 
+to satisfy their SCAP requirements within six months  (FRB PR, 11/09/2009) . One unique 
+feature of CAP was that institutions could apply at the end of the stress testing period to 
+ensure they would have access  to the funds, but then defer funding for up to six months so 
+that the BHCs could attempt “ to raise as much private capital as possible” ( CAP: White 
+Paper). Most of the new capital was in the form of common equity , commensurate with the 
+SCAP recommendation to improve the quality of Tier 1 capital. Through new share issuance, 
+asset sales, and conversions of preferred equity into common equity, these firms raised $76.6 
+ 
+7 The nine firms that passed the stress test were American Express, BB&T, Bank of New York Mellon, Capital 
+One, Goldman Sachs, JP Morgan, MetLife, State Street, and US Bancorp  (SCAP: Overview of Results – p. 9).  
+905
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 18 ---
+billion in common equity in 2009 after the stress test results were released (GAO 10-861). 
+In total, SCAP BHCs increased their Tier 1 common equity by more than $200 billion from 
+December 31, 2008 to December 31, 2009.8 
+According to the Treasury, it did not receive any applications for CAP funding from firms that 
+did not participate in the SCAP (TARP Two-Year Retrospective). 
+All but one of the 19 SCAP institutions —MetLife—had issued a total of $ 216 billion in 
+preferred stock under the government’s Troubled Assets Relief Program (TARP) before the 
+SCAP exercise. Nine of these repaid approximately $66.7 billion in CPP investments on June 
+17, 2009 , a little more than a month after the  SCAP results had  been released  (CPP 
+Transaction Data) .9 For a full accounting of capital actions from 2007 through 2010, see 
+Figure 3. For more information on private capital raises by individual SCAP banks after the 
+stress tests, see Figure 4. 
+ 
+8 This figure includes common equity raised and retained earnings. 
+9 The nine SCAP BHCs that repaid their CPP investments  were Bank of New York Mellon ($3 billion), Goldman 
+Sachs ($10 billion), JP Morgan ($25 billion), Morgan Stanley ($10 billion), State Street ($2 billion), BB&T ($3.1 
+billion), Capital One ($3.6 billion), American Express ($3.4 billion), and US Bancorp ($6.6 billion). 
+$45 
+$20 
+$90 
+$65 
+$67 
+$227 
+$7 
+$20 
+$202 
+$44 
+$7 
+$15 
+$10 
+$155 
+$382 $416 
+$541 $339 
+$75 
+ $-
+ $100
+ $200
+ $300
+ $400
+ $500
+ $600
+Pre-TARP
+TARP (14-Oct-
+08) Pre-SCAP Post-SCAP
+TARP
+Redemption
+(2Q09 - 4Q10)
+SCAP
+Requirements
+Tier 1 Common Preferred Other Tier 1
+Figure 3: SCAP Bank Capital Actions from Q1 2007 to Q4 2010 ($ billions) 
+Source: Goldman Sachs. 
+Note: These calculations do not include capital raised by MetLife, Inc., or any conversions of preferred to common 
+equity. The $227 billion in TARP capital includes amounts raised under the Capital Purchase Progra m (CPP) and 
+Targeted Investment Program (TIP). The TARP figure also includes approximately $10.1 billion that Ally Financial 
+(GMAC) raised after the stress tests had been concluded. 
+906
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 19 ---
+$0.0
+$0.5
+$1.0
+$1.0
+$1.9
+$2.1
+$2.3
+$2.5
+$2.8
+$3.6
+$3.7
+$3.8
+$4.1
+$6.9
+$7.4
+$9.8
+$20.9
+$25.4
+$32.8
+$0.0 $5.0 $10.0 $15.0 $20.0 $25.0 $30.0 $35.0
+Goldman Sachs
+American Express
+Fifth Third Bank
+Key Corp
+SunTrust
+Regions Financial
+State Street
+GMAC
+Bank of New York Mellon
+Capital One
+BB&T
+U.S. Bancorp
+PNC Financial Services
+Morgan Stanley
+MetLife
+JPMorgan Chase
+Wells Fargo
+Citigroup
+Bank of America
+Common Equity
+Preferred Equity
+Other Tier 1
+Sources: MetLife: 2009 - 2010 Quarterly Reports; all others: Goldman Sachs. 
+Figure 4: Post-SCAP Private Capital Raised by SCAP Banks (May 7, 2009 – December 31, 
+2009, $ billions) 
+907
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 20 ---
+II. Key Design Decisions 
+1. Part of a package: The SCAP and CAP were announced as part of the government’s 
+Financial Stability Plan, which also included an expansion of consumer and 
+business lending, a public -private investment fund , and housing support and 
+foreclosure prevention initiatives.  
+The Treasury released the Financial Stability Plan on February 10, 2009 , to “address the 
+uncertainty, troubled assets and capital constraints of our financial institutions as well as the 
+frozen secondary markets that have been the source of around half of our lending for 
+everything from small business loans to auto loans” ( UST PR, 02/10/2009 ). The plan had 
+several components: 
+(1) The Financial Stability Trust. The comprehensive stress test, which  would later become 
+the SCAP, and the Capital Assistance Program (CAP) were core features of this piece of the 
+Plan. All investments  made under CAP  would have been placed into a separate Financial 
+Stability Trust, which was specifically designed to manage the government’s investments 
+(UST PR, 02/10/2009). 
+(2) Public-Private Investment Fund. This fund was designed to purchase legacy assets from 
+distressed institutions with the goal of soliciting private investors to co -invest with the 
+government. The Treasury aimed for it to include a public -private financing component of 
+$500 billion, with the potential to go up to $1 trillion, and private -sector pricing of assets ; 
+however, it was marginally used and Treasury committed only about $18.6 billion to the 
+program, receiving a net positive return of about $3.9 billion (PPIP Quarterly Report: 
+September 2013; UST PR, 02/10/2009). 
+(3) Consumer & Business Lending Initiative. This was a joint venture of the Treasury and Fed 
+designed to unfreeze key secondary markets, specifically by expanding the capacity of the 
+not-yet-implemented Term Asset-Backed Securities Loan Facility (TALF). Treasury and the 
+Fed set the maximum size of TALF at $1 trillion ; usage ultimately peaked at $ 49 billion 
+(FRBNY: TALF 101; UST PR, 02/10/2009). 
+(4) Transparency, Accountability, Monitoring , and Conditions. With this new plan, the 
+government expected recipients of aid to explain how they were going to use their funds and 
+how this new aid would impact their ability to lend. The plan also included l imits on 
+executive compensation  and on  common stock dividends, repurchases, and cash mergers  
+(UST PR, 02/10/2009). 
+(5) Housing Support and Foreclosure Prevention. Treasury pledged $50 billion to help 
+middle-class homeowners reduce their monthly mortgage payments. Additionally, the 
+government committed to “establishing loan modification guidelines and standards for 
+government and private programs ,” as well as mandating recipients to participate in 
+foreclosure mitigation plans (UST PR, 02/10/2009). 
+908
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 21 ---
+(6) Small Business and Community Lending. Small Business Administration (SBA) lending, 
+which had declined by 57  percent from the first quarter of 2008, was addressed. The 
+administration’s Small Business and Community Bank Lending Initiative financed the 
+purchase of triple-A-rated SBA loans, increased the guarantee of said loans to 90  percent, 
+reduced SBA lending fees, and streamlined the application process to encourage lending 
+(UST PR, 02/10/2009). 
+The announcement of the plan was the first time the Treasury released details about SCAP 
+and CAP . It released the terms and conditions of the program on February 2 5 ( UST PR, 
+02/10/2009; UST PR, 02/25/2009 ). The SCAP was widely publicized , with the goal of 
+reducing uncertainty and restoring confidence in the 19 BHCs that were tested. The CAP was 
+a government backstop to recapitalize BHCs if they were unable to raise funds on private 
+capital markets within six months (SCAP: Design and Implementation). 
+2. Legal authority: Congress passed the Emergency Economic Stabilization Act on 
+October 3, 2008 . EESA gave the Secretary of the Treasury authority to purchase 
+troubled assets “from any institution” and served as the legal basis for CAP.  
+Legal authority for the Capital Assistance Program came from Section 101 of the Emergency 
+Economic Stabilization Act (EESA) of 2008, which Congress passed on October 3, 2008. 
+Section 101 states that, “The [Secretary of the Treasury] is authorized to establish the 
+Troubled Asset Relief Program (or “TARP”) to purchase, and to make and fund commitments 
+to purchase, troubled assets from any financial institution…”(P.L. 110 -343). The Treasury 
+and Federal Reserve ultimately decided to invest directly in the capital structu re of banks 
+rather than purchase assets off their balance sheets. Its first TARP program was the Capital 
+Purchase Program, announced in October (SIGTARP 10/05/2009).  
+The Treasury later use d this authority to make more targeted injections in AIG, Bank of 
+America, and Citigroup (SIGTARP 10/05/2009). This same authority formed the legal basis 
+for CAP in February. See Figure 5 for a comparison of capital instruments used in these two 
+facilities. 
+  
+909
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 22 ---
+Figure 5: Capital Design Elements of the Capital Purchase Program and the Capital 
+Assistance Program 
+ Capital Purchase Program (CPP) Capital Assistance Program (CAP) 
+Purpose Encourage banks to accept government capital 
+to stabilize balance sheets and increase the flow 
+of financing to U.S. businesses and consumers  
+Incentivize banks to raise common equity through 
+the private sector and serve as a backstop for 
+government capital to help absorb larger than 
+expected future losses  
+Type Preferred stock  Mandatorily convertible preferred stock  
+Term Perpetual life Mandatory conversion to common stock after 7 
+years. Optionally convertible by QFI or Treasury at 
+price equal to 90% of avg. common stock price in 
+20 trading days ending on February 9, 2009 
+Total size $250 billion  Unlimited 
+Individual 
+participation 
+limits 
+Must issue an amount equal to not less than 1% 
+of RWA and not more than the lesser of $25 
+billion or 3% of RWA 
+Must issue an amount equal to not less than 1% of 
+RWA and not more than 2% of RWA 
+Dividends 5% for first five years 
+9% after first five years 
+9% if shareholder consent received  
+20% if consent not received 
+Redemption At par via proceeds of Qualified Equity Offering 
+during first 3 years 
+No restrictions after 3 years10 
+Only done via issuance of new common equity 
+At par for first 2 years 
+Redeemable at greater of par and as-converted 
+value 
+Treasury voting 
+rights 
+Right to elect two directors if dividends are not 
+paid for six quarters 
+Right to elect two directors if dividends are not 
+paid for six quarters 
+Warrants11 10 year 
+Purchase of common stock equal to 15% of 
+original gov’t investment amount 
+Reduced by half if QFI had repaid Treasury by 
+12/31/09.  
+Price reduced by 15% every six months (max of 
+45%) if shareholder consent not received 
+10 year 
+Purchase of common stock equal to 20% of original 
+gov’t investment amount 
+Price reduced by 15% every six months (max of 
+45%) if shareholder consent not received 
+ 
+10 A Qualified Equity Offering was the sale by the holder of CPP capital of common stock or “qualifying perpetual 
+preferred stock” for cash. This requirement was removed with the passage of ARRA in February 2009, and 
+redemptions could be done any time (CPP: Term Sheet; CPP: FAQ 03/01/2012). 
+11 “Shareholder consent,” in the cont ext of this table, is defined as a pre -emptive vote undertaken by the 
+shareholders of a QFI after receiving either CPP or CAP assistance to authorize an additional amount of common 
+stock so that the exercise of the warrants and the conversion of the preferred equity (for CAP participants) can 
+be done. If this consent is not obtained, then the terms generally become harsher (CPP: Term Sheet – p. 5; CAP: 
+Term Sheet – p. 8). 
+910
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 23 ---
+Executive 
+compensation 
+Applied to top 5 highest-paid executives 
+Limits on compensation; encouraged clawbacks 
+if bonuses/incentives were granted based on 
+materially inaccurate documents; prohibitions 
+of golden parachutes  
+Applied to top 5 highest-paid executives and the 
+next 20 highest-paid employees 
+ Bonus payments limited to one-third of total 
+compensation 
+Total annual compensation limited to $500,000 
+except in the case of restricted stock awards 
+Mandated clawback provisions. Required annual 
+shareholder vote to approve executive 
+compensation packages  
+Dividend 
+stoppers 
+No dividends, repurchases, or redemption of 
+common, junior preferred, or preferred shares 
+ranking pari-passu unless all dividends 
+(accrued and unpaid) for all past periods had 
+been paid. 
+No dividends, repurchases, or redemption of 
+common, junior preferred, or preferred shares 
+ranking pari-passu unless all dividends (accrued 
+and unpaid) for all past periods had been paid 
+Restriction on 
+use of proceeds 
+No specific requirements Institutions must submit a plan detailing how they 
+would use the additional capital to “preserve and 
+strengthen” their lending capacity 
+Usage $205 billion to 707 banks and trusts Not used 
+Sources: CPP: Term Sheet; CAP: Term Sheet: CAP. 
+3. Communication: The Treasury communicated that both the stress tests and 
+government backstop were key parts of its financial stability plan, citing their 
+desire to ensure the ability of institutions to  continue lending at normal levels  
+even during a more severe economic decline. 
+In its February 10, 2009, press release, the Treasury said that the stress tests would identify 
+the capital buffer banks needed to remain well  capitalized in an adverse scenario . It said it 
+would make government funds available through CAP to build that buffer. But it emphasized 
+that banks would “be encouraged to access private markets to raise any additional capital 
+needed to establish [the capital] buffer” rather than using CAP. Treasury framed CAP as a 
+temporary facility , “a bridge to private capital until market conditions norm alized”. The 
+government capital instruments would be convertible to common equity  “if needed to 
+preserve lending in a worse-than-expected economic environment”. The announcement also 
+stipulated that any investments made under CAP would be “placed in a sepa rate entity set 
+up to manage the government’s investments in US financial institutions” ( UST PR, 
+02/10/2009).  
+In its more detailed announcement on February 25, Treasury issued (1) a white paper 
+detailing the reasons for establishing such a facility as wel l as a broad overview of key 
+elements, (2) the official term sheet that bank  holding companies would use to apply  to the 
+program, and (3) a list of frequently asked questions (FAQs) to help increase understanding 
+of the program ( UST PR, 02/25/2009 ). The Treasury expanded on its description of the 
+program on February 25 in a few distinct ways. 
+911
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 24 ---
+The original plan did not specify what Treasury expected the banks that received CAP capital 
+to do with it, only stating that “the CAP instrument should improve confidence and increase 
+the willingness of financial institutions to lend”. In the February 25 release, however, the 
+expected usage was much clearer, with Treasury requiring any applicant to “submit a plan 
+for how they intend to use this capital to preserve and strengthen their lending capacity”. 
+Specifically, Treasury desired applicants to increase their lending relative to what they 
+would have been able to do without government capital. These plans would be made public 
+by Treasury once government equity under t he CAP had been obtained  (UST PR, 
+02/25/2009).  
+The “separate entity” that would hold the government’s investments was further explained 
+in the white paper that Treasury released. Treasury stated that all investments made under 
+CAP would be put in a separate trust that would manage the government’s investments, and 
+that the trustees’ primary objective was to “protect and create value for the taxpayer as a 
+shareholder over time”. This was done to reinforce Treasury’s goal of keeping any period of 
+government investment “as temporary as possible” (CAP: White Paper). 
+The names of applicants would not be published. However, for any completed transactions, 
+the name of the bank and the amount invested would be published within 48 hours of the 
+investment. Applicants could request portions of the application be treated confidentially if 
+they could “specifically demonstrate the harm (for example, loss of competitive position, 
+invasion of privacy) that would result from public release of information” (CAP: FAQ).  
+In the case of the SCAP, the Federal Reserve released a detailed report to the public on April 
+24, 2009, on the design of the stress test. The Fed said the purpose of the report was to “assist 
+analysts and other interested members of the public in und erstanding the results of the 
+[SCAP]” (FRB PR, 04/24/2009). This report was released shortly after the test had 
+concluded, and the results were released on May 7 (SCAP: Overview of Results). 
+In a speech on May 11, 2009 , at the Federal Reserve Bank of Atlan ta, Fed chairman Ben 
+Bernanke stated that all agencies involved aimed to be as transparent as possible (Bernanke, 
+05/11/2009). There was, however, much internal debate among officials about how 
+transparent the government ought to be about communicating the results of the stress tests. 
+While there were regulators that wished to make many details of the tests public, doing so 
+“ran counter to decades of a banking supervision philosophy that extolled the virtues of 
+confidentiality”. Some regulators believed that too much transparency could be destabilizing 
+by singling out “weaker” banks, which could lead to the very bank runs the SCAP was trying 
+to prevent.  In the end, the Federal Reserve agreed to a policy of transparency so the public 
+could “decide for themselves [if the] stress test was sufficiently rigorous and credible (Clark, 
+Kabaker, and Sachs 2020). 
+On May 6, the day before the official release, the Fed, Treasury, FDIC, and OCC released a joint 
+statement that previewed the SCAP results. The agencies explained that the tests were not 
+only about the quantity of Tier 1 capital but its quality (FRB PR, 05/06/2009 ). The SCAP, 
+they said, was “ by design” more stringent than a traditional solvency test  (SCAP: Overview 
+of Results). As a result, any additional capital that the BHCs would need as a result of the 
+912
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 25 ---
+tests did not indicate inadequate capitalization, but was to provide an additional buffe r in 
+the event that a more pronounced recession occurred ( FRB PR, 05/06/2009 ). The 
+government also explained that any BHCs that needed additional capital would be required 
+to submit a capital raising plan and would have six months to implement it (SCAP: Overview 
+of Results).  
+After the release of the SCAP results on May 7, CDS spreads for the six major bank holding 
+companies, as well as the Libor -OIS spread, fell dramatically.  Several of the largest 
+participants in the Capital Purchase Program were also able to repay the government’s 
+investment in J une. See K ey Design Decision No. 7 for more details on the impacts of the 
+SCAP, and Figure 6 for historical bank CDS spreads during this time. 
+Investors remained concerned about bank solvency in early 2009, despite the extraordinary 
+efforts prior to the SCAP by the FDIC, Treasury, and Fed  to recapitalize banks and restore 
+confidence. The focus of those concerns had shifted. While banks’ early losses during the 
+financial crisis had resulted largely from exposures to subprime mortgages and complex 
+0
+200
+400
+600
+800
+1000
+1200
+1400
+Citi
+Goldman
+BOFA
+Morgan Stanley
+Wells Fargo
+JP Morgan
+May 7, 2009 - Results 
+from the Supervisory 
+Capital Assessment 
+Program (SCAP) are 
+Figure 6: Five-Year CDS Spreads for Six Large Bank Holding Companies (basis points) 
+Source: Bloomberg. 
+913
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 26 ---
+credit products, the concerns in 2009 largely stemmed from more traditional credit risks, 
+such as “rising delinquencies on prime as well as subprime mortgages, unpaid credit card 
+and auto loans, worsening conditions in commercial real estate markets, and increased rates 
+of corporate bankruptcy”. Acc ording to Bernanke, the SCAP was designed to measure the 
+impact of high expected loan loss rates  and to address the uncertainty around the extent of 
+these expected loss rates  in the event of more adverse economic conditions (Bernanke, 
+5/11/2009). 
+4. Governance: Section 104 of EESA established the Financial Stability Oversight 
+Board (FSOB), which monitored the activities of the CAP and other TARP 
+programs; the Congressional Oversight Panel  (COP), which provided public 
+accountability for Treasury’s use of TARP a uthority; and the Special Inspector 
+General for the Troubled Asset Relief Program (SIGTARP), which was the principal 
+oversight authority.  
+Section 104 of EESA established the Financial Stability Oversight Board (FSOB) to review the 
+policies implemented under section 101. These policies included reviewing “the 
+appointment of financial agents, the designation of asset classes to be purchased, a nd plans 
+for the structure of vehicles used to purchase troubled assets”. The FSOB was also 
+responsible for examining the effects that programs made under Section 101 had on 
+“assisting American families in preserving home ownership, stabilizing financial m arkets, 
+and protecting taxpayers” (P.L. 110-343). 
+The Board had the following members: 
+(1)  The Chairman of the Board of Governors of the Federal Reserve System 
+(2)  The Secretary of the Treasury 
+(3)  The Director of the Federal Housing Finance Agency (FHFA) 
+(4)  The Chairman of the Securities and Exchange Commission (SEC), and 
+(5) The Secretary of Housing and Urban Development (HUD). 
+Additionally, the Board was required to report to Congress and the Congressional Oversight 
+Panel (COP) at least quarterly to discuss the matters described above (P.L. 110-343).  
+The Special Inspector General for the Troubled Asset Relief Program, or SIGTARP, was 
+established through Section 121 of EESA. The Special Inspector General was to be appointed 
+by the President and confirmed by the Senate, and was responsible for “coordinat[ing] audits 
+and investigations of the purchase, management, and sale of assets by the Secretary of the 
+Treasury . . .” (P.L. 110-343).  SIGTARP did this by collecting the following information from 
+the Treasury: 
+(1) Descriptions of categories of troubled assets purchased. 
+(2)  Listings of assets that fell into the aforementioned categories. 
+914
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 27 ---
+(3) Explanations of the reasons for purchasing said assets.  
+(4) Listings of the financial institutions that the troubled assets were purchased from. 
+(5) Detailed biographical information about the people hired to manage these troubled 
+assets. 
+(6) Estimates on the total number and value of troubled assets, how much remained with 
+the Treasury, how much had been sold, and the profit or loss incurred from said sales 
+(P.L. 110-343). 
+According to its mission statement, SIGTARP “is a federal law enforcement agency and is an 
+independent watchdog protecting taxpayer dollars that fund TARP” (SIGTARP Annual 
+Report – FY 2018). SIGTARP reported to Congress about its supervi sory activities twice a 
+year, audited various TARP programs, and conducted and reported on investigations of 
+misconduct for TARP recipients (SIGTARP – Official Website). SIGTARP’s quarterly reports 
+generally consisted of assessments of various components o f the program, such as the CPP, 
+as well auto and housing industry support programs (SIGTARP April 2010). SIGTARP reports 
+included detailed recommendation sections, informed by the audits and investigations it 
+conducted, and also provided detailed tables of  the implementation status of each of these 
+recommendations (SIGTARP July 2014).  
+The COP was another crucial component of TARP oversight. Created on the same day that 
+TARP was passed, COP’s primary functions were to:  
+(1)  Oversee Treasury’s actions; 
+(2)  Assess the impact of spending to stabilize the economy; 
+(3)  Evaluate market transparency; 
+(4)  Ensure effective foreclosure mitigation efforts; and 
+(5) Guarantee that Treasury’s actions are in the best interest of the American people 
+(COP  – About Us). 
+In its approximately two and a half years of operation, the COP heard testimony from high-
+level officials and published 30 reports on the impacts of TARP initiatives. The Panel asked 
+questions about the more immediate, stabilizing effects of TARP, as well as longer-term 
+impacts, such as how TARP recipients were structuring their business and policies after 
+receiving aid (COP December 2008). Its reports examined, for example, the government 
+support to specific firms like GMAC and AIG and the effectiveness of the SCAP stress testing 
+methodology (COP – Reports).  
+The COP was disbanded on April 3, 2011 , after releasing its final report. In it, the Panel 
+explained that, while TARP alone was not responsible for the economic recovery, “TARP 
+quelled the immediate panic  and helped to avert an even more severe crisis” (COP March 
+2011). This final report had few comments on SCAP and CAP.  
+915
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 28 ---
+Program Size: CAP was intended to be an unlimited capital backstop ; it had a total capacity 
+of roughly $300 billion. CAP was intended to  be an unlimited capital backstop for the 
+financial sector (Clark, Kabaker, and Sachs 2020 ; UST PR, 02/10/2009). The program was 
+estimated to have a total  capacity of roughly $300 billion, which officials believed was 
+sufficient to meet any potential needs (see Funding Source KDD).  
+5. Size, Funding Source: CAP was funded via Congressional appropriations 
+authorized for Treasury’s use under the Troubled Assets Relief Program. 
+Congress authorized a total of $700 billion of TARP funds that could be “outstanding at any 
+one time .” However, Congress originally allowed only $250 billion to be outstanding ; it 
+required the president to return to Congress with a report asking to disburse the remaining 
+funds, should they be necessary (P.L. 110-343).12 This authority lasted until October 3, 2010, 
+or two years after the date of the passage of EESA. After this point, Treasury was not able to 
+make new commitments under TARP (TARP Two-Year Retrospective). The Dodd-Frank Wall 
+Street Reform and Consumer Protection A ct, passed on July 21, 2010, reduced this original 
+commitment from $700 billion to $475 billion (P.L. 111 -203). See Key Design Decision No. 
+15 for more information on Dodd-Frank. 
+However, the unlimited nature of CAP meant there was some uncertainty around how much, 
+if any, capital the government would need to provide. Fed and Treasury officials, in a paper 
+published later, estimated that the program had a total capacity of roughly $300 billion. That 
+sum included about $100 billion in appropriated but still uncommitted TARP funds, plus the 
+roughly $200 billion in existing CPP preferred shares that the Treasury could convert into 
+new CAP preferred shares if needed (Clark, Kabaker, and Sachs 2020).  
+In hindsight, those officials wrote, the level that the govern ment had committed “was 
+sobering—we were committing the government to buy an indeterminate amount of common 
+stock in the banking system at a fixed price” ( Clark, Kabaker, and Sachs  2020). However, 
+even the most extreme scenarios under SCAP determined the c apital buffer to be far less 
+than the remaining amount of TARP funds available . TARP would have had sufficient funds 
+to cover the entire $185 billion capital buffer that SCAP had identified if the 10 BHCs that 
+failed the stress test had been unable to rais e funds from other sources .13 However, it was 
+not known at the time how much TARP money would be available to finance the SCAP buffer, 
+as many of the programs were still being developed and funds had been committed to other 
+programs. 
+6. SCAP-eligible institutions: Federal banking regulators required all bank holding 
+companies with risk -weighted assets of more than $100 billion to perform 
+ 
+12 The phrase “ou tstanding at any one time ,” which implicitly allowed the government to re -use TARP funds, 
+was removed with the passage of Dodd-Frank in July 2010.  
+13 Total disbursements under TARP were approximately $441.8 billion, which was far less than the initial $700 
+billion appropriated in the Emergency Economic Stabilization Act (TARP Tracker). 
+916
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 29 ---
+forward-looking “stress -tests” under the Supervisory Capital Assessment 
+Program to determine their capital needs.  
+The US government assessed the capital needs of the banking system through the 
+Supervisory Capital Assessment Program, a forward -looking stress test of the 19 largest 
+BHCs under a set of stringent economic scenarios. Each of the BHCs had risk-weighted assets 
+of more than $100 billion.14 These firms were picked because of their significance in the 
+credit intermediation process,  the fact that they collectively held “two -thirds of the assets 
+and more than one-half of the loans in the US banking system”, and in the case of State Street 
+and Bank of New York Mellon, their significance as the two largest custody banks.  Teams of 
+examiners, led by those at the Federal Reserve , “appl[ied] a consistent and systematic 
+approach across the group to evaluate the projected  loss and resource estimates submitted 
+by the firms” (SCAP: Design and Implementation). 
+The SCAP was deliberately stringent . T his allowed the Fed to “[counter] the risk that 
+uncertainty itself exerts contractionary pressures on the banking system and the economy” 
+(SCAP: Overview of Results). The goal of the tests was to ensure that, even in the event of a 
+significant deterioration i n the US economy, these critically important BHCs would remain 
+adequately capitalized  and able to lend at their normal levels (FRB PR, 05/06/2009) . In 
+order to assess these needs, federal regulators estimated losses on a variety of securities and 
+loans for 2009 and 2010. It also calculated loan loss reserves at the end of 2010 at levels that 
+the regulators believed would “captur[e] expected losses in 2011” ( SCAP: Design and 
+Implementation). 
+The Federal Reserve crafted two economic scenarios, the “baseline” and “more adverse”  
+scenarios. In both cases, the Fed projected changes in real GDP, the civilian unemployment 
+rate, and house prices over 2009–10. “The baseline scenario was intended to represent a 
+consensus view about the depth and duration of the recessi on,” and was based on the 
+average of economic projections published by the February releases of forecasts from three 
+major economic forecasting surveys: Consensus Forecasts, the Blue Chip survey, and the 
+Survey of Professional Forecasters (SCAP: Design and Implementation).15  
+The more adverse scenario did not average the consensus expectations of a variety of 
+forecasters. Rather, it “was constructed from the historical track record of private 
+forecasters as well as their current assessments of uncertainty”. The Fed focused specifically 
+on “subjective probability assessments” from these organizations  to gauge the probability  
+that the aforementioned inputs (GDP growth, unemployment, house prices) would be even 
+more affected than the general consensus used in the baseline scenario. Despite the dramatic 
+differences from the baseline, the more adverse scenario was not a “worst-case” scenario, as 
+the Fed argued that the conditions of the stress test ought to be “severe but plausible” (SCAP: 
+ 
+14 Despite this being one of the criteria for BHCs under SCAP, one of the firms —State Street—had only $69.6 
+billion in risk-weighted assets. See Table 1 for more information on SCAP BHCs. 
+15 House prices were measured by the fourth -quarter year -over-year change of the Case -Shiller 10 -City 
+Composite Index (SCAP: Design and Implementation – p. 6). 
+917
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 30 ---
+Design and Implementation). See Figure 7 for the estimates associated with the baseline and 
+more adverse scenarios.  
+Figure 7: SCAP Baseline and More Adverse Economic Scenarios (percent) 
+Real GDP    2008 – 2009 2009 – 2010 
+Average baseline –2.0 2.1 
+More adverse –3.3 0.5 
+Civilian unemployment rate    
+Average baseline 8.4 8.8 
+More adverse 8.9 10.3 
+House prices    
+Baseline –14 –4 
+More adverse –22 –7 
+Source: SCAP: Design and Implementation – p. 6. 
+The BHCs were instructed to estimate losses that were due to failure to pay obligations 
+rather than those due to mark -to-market accounting (SCAP: Design and Implementation). 
+This judgment was based on what some Treasury officials at the time  called the theory of 
+special bank relativity. This theory pushed back on the general standard of mark -to-market 
+accounting by suggesting that banks exist through time and shouldn’t be judged based on 
+how they stand during the lowest point in a cycle. Forcing the banks to do this, some argued, 
+would “undermine a key  reason [why] they are so important for supporting economic 
+activity in the first place” (Clark, Kabaker, and Sachs 2020). 
+Each BHC was “asked to estimate their potential losses on loans, securities, and tradin g 
+positions, as well as pre-provision net revenue (PPNR) and the resources available from the 
+allowance for loan and lease losses”. BHCs with large enough trading accounts ($100 billion 
+in assets or more) were required to provide additional loss estimates in the adverse scenario 
+that factored in counterparty credit risk. 16 BHCs calculated t hese loss estimates on their 
+ 
+16 Counterparty credit risk was measured by assessing the risk of a counterparty defaulting, as well as potential 
+credit valuation adjustments that would be made against exposures to counterparties who were more likely to 
+default under the more adverse scenario. 
+918
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 31 ---
+trading books and counterparty exposures using internal stress tests based on market prices 
+on February 20, 2009 (SCAP: Design and Implementation).  
+Banks projected losses over two years. The Federal Bank of New York (FRBNY) provided loss 
+ranges for 12 different types of loans and securities, such as first- and second-lien mortgages, 
+commercial and industrial (C&I) loans, and credit card loans. Banks could provide 
+alternative loss estimates from what FRBNY gave them , but they were then required to 
+provide “strong supporting evidence, especially if they fell below the range minimum”. To 
+ensure more accuracy, the BHCs were encouraged to provide additional information, such as 
+loss projections on subcategories within the 12 that the Fed selected. The categories of loans 
+were chosen to make the results easier to compare across firms  and to compare with what 
+the BHCs had f iled with their federal regulator (SCAP: Design and Implementation).  The 
+categories of loans, as well as some of the variables that the examiners used when conducting 
+the evaluations, can be found in Figure 8. 
+  
+919
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 32 ---
+Figure 8: Description of SCAP Loan Types and Variables Evaluated by Assessors 
+Loans Variables evaluated 
+First-lien mortgages (1) Type of product 
+(2) Loan-to-value (LTV) ratio 
+(3) FICO score 
+(4) Geography 
+(5) Level of documentation 
+(6) Year of origination 
+(7) Other variables 
+Prime 
+Alt-A 
+Subprime 
+ 
+Second-/Junior-lien mortgages 
+Closed-end junior liens 
+HELOCs 
+C&I loans (1) Distribution of exposures, by industry 
+(2) Internal ratings provided by the BHCs 
+(3) Expected default rates from third parties 
+ 
+CRE loans (1) Property type 
+(2) Loan-to-value (LTV) ratio 
+(3) Debt service coverage ratio (DSCR) 
+(4) Geography 
+(5) Loan maturity 
+ 
+Construction 
+Multifamily 
+Nonfarm, Non-residential 
+Credit cards (1) FICO score 
+(2) Payment and utilization rates 
+(3) Geographic concentration 
+Other consumer (1) FICO score 
+(2) Loan-to value (LTV) ratio 
+(3) Term and vehicle age 
+(4) Geographic concentration 
+Other loans (1) Loss record over the previous 5 years 
+Source: SCAP: Design and Implementation - pp. 12 - 13, 18. 
+920
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 33 ---
+Estimated loss rates were calculated using a variety of methods. For residential mortgages, 
+for example, the agencies built default models based on information about individual and 
+regional loan portfolios and mortgages. For other consumer loans and commercial loans, the 
+agencies conducted regressions of historical default data against several macroeconomic 
+variables, such as the unemployment rate. The regulators also had to address the 
+heterogeneity across firms that wo uld affect their performance in these tests. To this end, 
+they collected additional firm -specific data, such as “past performance, portfolio 
+composition, origination vintage, borrower characteristics, geographic distribution, 
+international operations, and business mix” (SCAP: Design and Implementation). Cumulative 
+loan-loss rates under the more adverse scenario were 9.1 percent, which was higher than 
+the banking industry had ever experienced, even at the height of the Great Depression (SCAP: 
+Overview of Results).  Figure 9 compares the l oan-loss rates under the baseline and more 
+adverse scenarios to the actual loss rates the industry experienced in 2009. 
+Figure 9: Two-Year Loss Rates for SCAP Scenarios and 2009 Actual Loss Rates 
+(percent) 
+ SCAP Loss range Estimates 2009 Actual Loss Rates 
+Assets Baseline More adverse SCAP BHC avg. Industry avg. 
+First-lien mortgages 5 – 6 7 – 8.5 1.9 1.7 
+Prime 1.5 – 2.5 3 – 4 N/A 0.5 
+Alt-A 7.5 – 9.5 9.5 – 13 N/A 3.6 
+Subprime 15 – 20 21 – 28 N/A 6.2 
+Second-/Junior-Lien 
+Mortgages 
+9 – 12 12 – 16 4.4 3.9 
+Closed-end junior liens 18 – 20 22 – 25 7.5 6.6 
+HELOCs 6 – 8 8 – 11 3.6 3.1 
+C&I loans 3 – 4 5 – 8 2.5 2.3 
+CRE 5 – 7.5 9 – 12 2.3 2.4 
+Construction 8 – 12 15 – 18 5.8 6.1 
+Multifamily 3.5 – 6.5 10 – 11 1.1 1.1 
+Nonfarm, non-residential 4 – 5 7 – 9 0.9 0.8 
+Credit cards 12 – 17 18 – 20 10.1 10.2 
+Other consumer 4 – 6 8 – 12 4.1 4.4 
+Other loans 2 - 4 4 - 10 1.4 1.1 
+Sources: SCAP: Overview of Results – p. 5; GAO 10-861 – p. 17. 
+921
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 34 ---
+BHCs were also required to provide projections of their resources to absorb losses, including 
+their pre-provision net revenues ( PPNR) and their allowance for loan losses over the same 
+horizon. In the case of SCAP, PPNR was defined as “the income after non -credit-related 
+expenses that would flow into firms before they take provisions or other write -downs or 
+losses” (SCAP: Design and Implementation; FRB: Allowance for Loan and Lease Losses ). All 
+told, more than 150 federal employees were involved in the creat ion, organization, and 
+administration of the SCAP (SCAP: Design and Implementation).  
+When determining a BHC’s capital needs, the regulators looked at both the amount of Tier 1 
+capital and its composition.17 Tier 1 common equity , the first element of Tier 1 capital to 
+absorb losses, was seen by the Fed as what should be “the dominant component” of Tier 1 
+capital (SCAP: Design and Implementation). Common equity “gives a BHC greater permanent 
+loss absorption capacity and a greater ability to conserve resources under stress by changing 
+the amount and timing of dividends and other distributions” (SCAP: Overview of Results).  
+The Fed considered two key questions when evaluating the capital needs of each of the BHCs 
+under the more adverse scenario:  
+(1) How much additional Tier 1 capital would a BHC need today to have a Tier 1 ratio of 
+greater than 6 percent at the end of 2010? 
+(2) How much additional Tier 1 common equity capital would a BHC need today to have 
+a Tier 1 common equity ratio of greater than 4 percent at the end of 2010? 
+These capital thresholds were known as the “6 -4 rule .” The regulators used them to 
+determine the SCAP buffer—the amount of additional capital the 19 BHCs needed to remain 
+well-capitalized even under the more adverse scenario. Nine firms already met the 6-4 rule. 
+The other 10 firms needed a total of $185 billion in additional capital to meet the rule. Their 
+SCAP buffer needs ranged from as high as $92.6 billion for Citigroup and as low as $2.3 billion 
+for PNC. Most of the SCAP buffer needs were due to insufficient common equity. Tier 1 capital 
+numbers for most banks were within acceptable limits under the more adverse scenario. 
+Only two banks —GMAC LLC and Regions Financial Corp. —had insufficient Tier 1 capital. 
+Due to the emphasis on common equity, the Fed concluded that the 10 firms that needed to 
+raise additional equity “had capital structures that [were] too strongly tilted to ward capital 
+other than common equity” (SCAP: Overview of Results).  
+However, the $185 billion figure did not consider capital that firms had raised at the end of 
+2008, as well as other actions many of the firms had taken to pre-emptively shore up their 
+balance sheets prior to the release of the results. The most noteworthy of these was 
+Citigroup, which reduced its SCAP buffer by $87.1 billion through preferred stock exchanges 
+ 
+17 Tier 1 capital is composed of qualifying common stockholders’ e quity, qualifying noncumulative perpetual 
+preferred stock and senior perpetual preferred stock issued to the Treasury under TARP, certain minority 
+interests and trust preferred securities (SCAP: Design and Implementation).   
+922
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 35 ---
+and other actions.18  Other banks increased their equity in this period by lesser amounts. By 
+the time the results had been released, the original $185 billion, which was based on the 
+firms’ balance sheets as of December 31, 2008, had been reduced to $74.6 billion (SCAP: 
+Overview of Results). See Figure 10 for the adjusted SCAP requirements of the 10 firms. 
+BHCs that had SCAP buffer needs were required to subm it capital plans to their primary 
+regulator within 30 days. BHCs would have six months to implement these plans and were  
+“encouraged to design capital plans that, wherever possible, actively seek to raise new 
+capital from private sources” (SCAP: Overview of Results).   
+The 10 BHCs managed to raise $76.6 billion in Tier 1 common equity by November 9, the end 
+of the six-month deadline (FRB PR, 11/09/2009). The only institution that needed additional 
+capital and failed  to raise it from private investors was GMAC . It ultimately use d the 
+ 
+18 Citi announced a plan to conv ert up to $27.5 billion of its existing preferred stock into common stock on 
+February 27, 2009, as well as an agreement with the US government wherein Treasury would match this 
+exchange at up to $25 billion of its own preferred stock. By the time the offer s closed at the end of July 2009, 
+Citi had raised approximately $58 billion in capital (Citi PR, 02/27/2009; Citi PR, 07/26/2009; SCAP: Overview 
+of Results). Additional capital actions, characterized as those transactions that were completed or contracted 
+as of the end of 2008, amounted to $29 billion (SCAP: Overview of Results).  
+33.9
+13.7
+11.5
+5.5
+2.5
+2.2
+1.8
+1.8
+1.1
+0.6
+0 10 20 30 40
+Bank of America
+Wells Fargo
+GMAC
+Citigroup
+Regions Financial
+SunTrust Banks
+Morgan Stanley
+Key Corp
+Fifth Third Bank
+PNC Financial Services
+Source: SCAP: Overview of Result. 
+Figure 10: SCAP Capital Shortfalls ($ billions) 
+923
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 36 ---
+Automotive Industry Financial Program (AIFP) to help meet the SCAP requirements (UST 
+PR, 11/09/2009).  
+As a result , no SCAP BHCs drew on the CAP for government capital.  See Figure 11 for a 
+breakdown of the Tier 1 ratios of the SCAP BHCs at the end of 2009. 
+  
+924
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 37 ---
+Figure 11: Change in Tier 1 Capital Ratios for SCAP Banks, December 31, 2008 to 
+December 31, 2009 
+ Tier 1 common capital ratio  Tier 1 risk-based capital ratio 
+Bank holding company 2009 (%) Change from 
+2008 (bps) 
+2009 (%) Change from 
+2008 (bps) 
+American Express 9.83 13      9.84 14      
+Bank of America 7.82 322      10.41 –19      
+BB&T 8.50 140      11.48 –82      
+Bank of New York 
+Mellon 
+10.53 103      12.12 –118      
+Capital One 10.62 152      13.75 105      
+Citigroup 9.77 747      11.67 –23      
+Fifth Third 7.00 260      13.31 271      
+GMAC 4.85 –155      14.15 405      
+Goldman Sachs 12.20 450      14.97 237      
+JPMorgan Chase 8.79 229      11.10 90      
+KeyCorp 7.50 190      12.75 185      
+MetLife 8.17 –33      8.91 –29      
+Morgan Stanley 6.71 101      15.30 10      
+PNC 6.00 130      11.42 182      
+Regions  7.15 55      11.54 114      
+State Street 15.59 9      17.74 –246      
+SunTrust 7.67 187      12.96 206      
+US Bancorp 6.76 166      9.61 –99      
+Wells Fargo 6.46 336      9.25 125      
+Weighted average 8.31 303 11.31 60 
+Source: GAO 10-861. 
+925
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 38 ---
+7. CAP-eligible institutions: Publicly traded bank holding companies, financial 
+holding companies, insured depository institutions, and savings and loan holding 
+companies were eligible for CAP.  
+BHCs that had SCAP buffer needs were required to submit capital plans to their primary 
+regulator within 30 days. BHCs would have si x months to implement these plans and were 
+“encouraged to design capital plans that, wherever possible, actively seek to raise new 
+capital from private sources”. These could include “restructuring current capital 
+instruments, sales of assets, and restricti ons on dividends and stock repurchases” (SCAP: 
+Overview of Results). The plans normally had the following elements: 
+(1) A description of the specific actions the institution would take to increase the level 
+or quality of its capital consistent with the results of the SCAP. 
+(2) A list of steps to address any weaknesses for the BHC’s internal evaluations of its 
+capital needs and capital planning. 
+(3) An outline of the steps the BHC was planning to take to repay all government 
+investments received, as well as to reduce reliance on guaranteed debt issued under 
+the FDIC guarantee program (FSOB Report, 06/30/2009).  
+BHCs with SCAP buffer needs were able to apply to the CAP but defer issuing convertible 
+preferred stock to the government via the facility for up to six months wh ile they searched 
+for private capital (CAP: White Paper).  
+Qualifying financial institutions (QFIs) that did not participate in SCAP were eligible to apply 
+voluntarily. They had until May 25, 2009, to apply, though any company applying to become 
+a bank holding company had to do so by January 15, 2009, to be eligible for CAP (CAP: FAQ).  
+QFIs included any publicly traded US bank or savings association not controlled by a bank 
+holding company or a savings and loan company, top -tier US bank holding companies, and 
+top-tier US savings and loan companies that “[engage d] solely and predominately in 
+activities that are permitted fo r financial holding companies under relevant law”. Banks or 
+BHCs that were foreign -owned, or subsidiaries of foreign companies, were not allowed to 
+participate. While the term sheet stated that CAP term sheets for privately held banks, S -
+corporations, and mutual banks were “expected to be made available,” they never were (CAP: 
+Term Sheet).  
+8. Individual Participation Limits: CAP specified minimum and maximum 
+interventions for individual participating institutions.  
+An institution that was accepted into the pr ogram could issue mandatorily convertible 
+preferred stock in an amount no less than 1% of its risk -weighted assets, up to a maximum 
+926
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 39 ---
+of 2%.19 It could submit a request for capital in excess of this amount to its federal banking 
+regulator, who would then consult with Treasury. If this was successful, the institution would 
+be categorized as needing “exceptional assistance” and would potentially b e subject to 
+additional terms and conditions (CAP: Term Sheet).  
+9. Capital Characteristics : Institutions participating in the program would issue 
+Mandatorily Convertible Preferred Shares, with a mandatory conversion to 
+common equity after seven years if the capital had not been repaid.  
+Under CAP, the Treasury would purchase mandatorily convertible preferred shares , 
+henceforth referred to as Convertible Preferred, in QFIs. Cash received from the issuance of 
+these shares could be used to redeem shares under other government investment programs, 
+such as the Capital Purchase Program or the Targeted Investment Program ( CAP: Term 
+Sheet). Also, government investments made under these programs could be converted into 
+Convertible Preferred.  While the Treasury would make all investments under CAP, the 
+investments themselves would be managed by a trust set up “to protect and create value for 
+the taxpayer as a shareholder over time” (CAP: White Paper).  
+Stockholder Consent 
+After issuing the Convertible Preferred, QFIs that did not have enough common stock 
+authorized to reserve for the conversion and exercise of the warrants were required to call 
+a shareholder vote to authorize an increase of the number of common shares so that the 
+conversion and exercise could take place if needed. The terms of the capital could change in 
+several ways (see below) if this authorization was not obtained in a timely manner  or at all 
+(CAP: Term Sheet).  
+Conversion 
+The Convertible Preferred had both mandatory and optional conversion clau ses as part of 
+its structure. The optional conversion gave the issuer of the equity the right to convert  any 
+amount of the preferred equity to common stock at any time, subject to regulatory approval. 
+The holder of the Convertible Preferred, in this case the Trust created by Treasury, could also 
+convert the shares  “upon specified corporate events, including certain sales, mergers or 
+changes of control of the QFI”. If a QFI held the Convertible Preferred for longer than seven 
+years, the shares would automatically convert to common stock (CAP: Term Sheet). The price 
+for conversion was unspecified in the initial Financial Stability Plan. The Treasury said then 
+that the price would be “set at a modest discount from the prevailing level of the institution’s 
+stock price as of February 9, 2009” (UST PR, 02/10/2009). The term sheet further explained 
+that the price would be set at 90 percent of the average of the closing price of the QFI’s 
+common stock over the 20 trading day period ending on February 9, 2009. T his price, 
+however, would be reduced by 15  percent every six months after the initial injection  if the 
+aforementioned stockholder vote to increase the number of common shares did not happen, 
+ 
+19 This was in addition to other Convertible Preferred stock that was to be used to redeem shares under either 
+CPP, TIP, or both.  
+927
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 40 ---
+to a maximum of 45  percent. Conversion would be accompanied by th e repayment of any 
+accrued or unpaid dividends, either with cash or common stock  (CAP: Term Sheet ).20 
+ 
+Mandatory Sale 
+After the mandatory conversion date, the Treasury was required to “make reasonable 
+efforts” to sell at least 20  percent of its outstanding common stock annually. At any point 
+after either a mandatory or optional conversion, t he QFI had the option to repurchase the 
+common stock held by the government by issuing new common stock or drawing on retained 
+earnings. The price of repurchase was the greater of:  
+(1)  The conversion price. 
+(2)  The market price, calculated based on the average closing price during the 20 
+trading day period following the notice of repurchase (CAP: Term Sheet). 
+The Treasury made it clear that, despite the poten tial for the government to acquire a large 
+interest in an institution, “ US government ownership is not an objective of the CAP” (FSOB 
+Report, 03/31/2009). The mandatory sale clause in the term sheet reflected the intention of 
+the Treasury to keep the period of government investment “as temporary as possible” (CAP: 
+White Paper). 
+Dividends. 
+The Convertible Preferred paid cumulative dividends of 9 percent, which compounded 
+quarterly. This rate would increase to, and remain at, 20 percent six months after the original 
+issue date if stockholder consent was not given. So long as any Convertible Preferred  or 
+Treasury-owned common stock remained outstanding, the dividends on any common stock 
+not held by Treasury could not be greater than $0.01  per share . An addition al “dividend 
+stopper” was included in the term sheet. The stopper prevented QFIs from declaring or 
+paying dividends on any shares, whether they were pari passu preferred, junior preferred, 
+or common, if any dividends on the Convertible Preferred remained outstanding (CAP: Term 
+Sheet).   
+Repurchases 
+Repurchases of other securities, such as junior preferred, pari passu  preferred shares, or 
+common shares, were affected by the “dividend stopper”  and thus prohibited if any 
+dividends on the Convertible Preferred remained outstanding (CAP: Term Sheet). 
+ 
+ 
+20 If common shares were used to repay accrued and unpaid dividends, they would be valued “at the closing 
+price on the second preceding trading day” (CAP: Term Sheet – p. 3). 
+928
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 41 ---
+Warrants 
+The Convertible Preferred  also included 10-year warrants. These warrants, which were 
+immediately exercisable, allowed the Treasury to purchase common stock equal to 20  
+percent of the amount of Convertible Preferred on the day of initial investment. The price to 
+exercise the warrants was the same as the conversion price. The exercise price would also 
+be reduced in 15  percent increments every six months after the initial injection, to a 
+maximum of 45 percent if shareholder consent is not gained. While the Treasury would gain 
+a larger voting interest in the QFI after exercising the warrants, it pledged not to exercise any 
+voting power with respect to these shares ( CAP: Term Sheet).  
+ 
+Redemption 
+QFIs were able to redeem the Convertible Preferred “at any time solely with the proceeds of 
+one or more issuances of common stock for cash,” so long as they (1) obtained approval from 
+their federal banking regulator, and (2) the proceeds of the equity issuances equaled at least 
+25 percent of the issue price of the Convertible Preferred. Redemption was done either at 
+par value (plus accrued and unpaid dividends)  if done within the first two years, and at the 
+greater of par value plus accrued and unpaid dividends an d the as-converted value if done 
+after two years (CAP: Term Sheet). 
+This meant that  QFIs that  issued Convertible Preferred  had a n implicit  time limit on 
+redeeming the shares  because, after two years, the cost of redemption could increase 
+dramatically if the QFI’s stock price had increased. The as -converted value of the preferred 
+investment would become greater than the par value of the investment, and the QFI would 
+have to choose between raising enough common equity to satisfy this increased redemption 
+price, continue to pay 9 percent in dividends on the preferred, or convert it to common stock. 
+As noted, repurchases of converted stock could be done by issuing new common equity or 
+drawing on retained earnings (CAP: Term Sheet).    
+10. Loss-sharing: Banks that failed the stress test were required to impose losses on 
+existing stakeholders through dilution or debt -for-equity conversions. However, 
+Treasury did not provide guidelines describing how banks should do this. 
+The Treasury expected institut ions with SCAP capital buffer needs to design their own 
+private-sector solution to increase their capital, with CAP funding available as a last resort. 
+These solutions could include a mix of debt and preferred equity conversions, asset sales, 
+and other mea sures. However, the Treasury did not provide any guidelines for these 
+solutions. In a joint statement the day before they released the SCAP results, the Fed, 
+Treasury, FDIC, and OCC said that “restructuring current capital instruments” was one of the 
+ways that SCAP BHCs could meet their capital needs (FRB PR, 05/06/2009) . Treasury 
+officials internally called the program akin to “open bank resolution.” In a typical open bank 
+resolution, existing common equity holders see the value of their shares diluted, in whole or 
+in part ; and existing preferred equity and debt investors accept losses or convert their 
+holdings into common equity. 
+929
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 42 ---
+Converting junior debtholders to common equity holders through debt-for-equity exchanges 
+and other tools “was the preferred path before [the BHCs] sought government capital”. Later, 
+Treasury officials said they meant to make clear to junior debtholders that they “should 
+expect to bear losses” (Clark, Kabaker, and Sachs 2020).  
+The SCAP BHCs already had about $300 billion in debt outstanding through these 
+instruments, which suggested to regulators that the y could meet their  SCAP buffer needs 
+without finding new equity  investors (Clark, Kabaker, an d Sachs  2020). Figure 1 2 below 
+illustrates the capital actions taken by SCAP banks. 
+  
+930
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 43 ---
+Figure 12: Description of Capital Actions by SCAP Bank Holding Companies 
+(billions)21 
+SCAP BHC Source(s) of capital raised Required SCAP 
+capital Buffer  
+Capital 
+raised22 
+Bank of America 
+Corporation 
+New shares, asset sales, and share 
+conversion23 
+$33.9 $35.9 
+Citigroup, Inc. Share conversion $5.5 $5.6 
+Fifth Third Bancorp New shares, asset sales, and share 
+conversion 
+$1.1 $1.7 
+GMAC LLC New shares $11.5 $4.6 
+KeyCorp New shares, asset sales, and share 
+conversion 
+$1.8 $2.3 
+Morgan Stanley 
+New shares, asset sales, and share 
+conversion 
+$1.8 $7.0 
+PNC Financial Services 
+Group, Inc. 
+New shares and asset sales $0.6 $1.1 
+Regions Financial 
+Corporation 
+New shares, asset sales, share 
+conversion, and internal equity 
+raising24 
+$2.5 $2.5 
+SunTrust Banks, Inc. 
+New shares, asset sales, share 
+conversion, and internal equity 
+raising 
+$2.2 $2.2 
+ 
+21 Nine BHCs—American Express Company, BB&T Corporation, Bank of New York Mellon Corporation, Capital 
+One Financial Corporation , Goldman Sachs Group, Inc. , JPMorgan Chase & Co. , MetLife, Inc. , State Street 
+Corporation, and US Bancorp—were not required to raise SCAP capital because they had sufficient capital to  
+withstand a worse-than-expected economic downturn through the end of 2010 and continue to meet the SCAP 
+capital buffer targets. 
+22 As of November 9, 2009, according to the Federal Reserve. 
+23 “New shares” indicates that  a BHC issued new common equity, “asse ts sales” represent business lines or 
+products sold to raise cash, and “conversion” shows BHC preferred equity that was converted to common 
+equity. 
+24 “Internal equity raising” included actions such as sales of equity to  employee stock options plans. 
+931
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 44 ---
+Wells Fargo & Company New shares and internal equity 
+raising 
+$13.7 $13.7 
+Total  $74.6 $76.6 
+Source: GAO Report 10-861. 
+11. Control over management: The Treasury’s shares did not have voting rights ; 
+however, it had the ability to appoint two directors to the boards of institutions 
+that did not pay interest or dividends for six quarters. 
+If dividends on the Convertible Preferred stock were not paid for six quarters, consecutive 
+or not, then Treasury would have the ability to elect two directors to the board. This right 
+ended after dividends had been paid for fou r consecutive quarters ( CAP: Term Sheet). 
+Treasury would exercise the voting rights under the Convertible Preferred only in the cases 
+of:  
+(1) an authorization or issuance of shares senior to the Convertible Preferred  
+(2) any amendment to the rights of the Convertible Preferred, or 
+(3) any merger, exchange or similar transaction which would adversely affect the rights 
+of the Convertible Preferred (CAP: Term Sheet).  
+The Treasury retained these voting rights upon conversion to common stock and would 
+receive standard vo ting rights associated with the QFI’s common stock. In the event of 
+conversion, Treasury would also publish a set of guidelines that explained how it would use 
+these voting rights “prior to closing any transactions” (CAP: Term Sheet).  
+12. Conditions: Treasury subjected participants to  executive compensation and 
+corporation governance restrictions modeled after those originally passed in 
+EESA.    
+Section 111 of EESA outlines executive compensation restrictions and corporate governance 
+standards (P.L. 11 0-343). Specifically, Section 111(b) describes these standards as they 
+apply to direct purchases or investments in financial institutions. Section 111(b)(2) specified 
+that there would be: 
+(1) “limits on compensation that exclude incentives for senior executive officers of a 
+financial institution to take unnecessary and excessive risks that threaten the value 
+of the financial institution during the period that the Secretary holds an equity or 
+debt position in the financial institution; 
+(2)  “a provision for  the recovery by the financial institution of any bonus or incentive 
+compensation paid to a senior executive officer based on statements of earnings, 
+gains, or other criteria that are later proven to be materially inaccurate; and 
+(3) “a prohibition on the fina ncial institution making any golden parachute payment to 
+932
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 45 ---
+its senior executive officer during the period that the Secretary holds an equity or 
+debt position in the financial institution” (P.L. 110-343). 
+Senior executive officers (SEOs) were initially defined by EESA as the top five highest-paid 
+executives of companies that took TARP money (P.L. 110 -343). However, Treasury passed 
+several interim final rules that provided additional guidance on executive compensation 
+post-EESA, as well (TARP Executive Compensation Rules and Guidance).  
+Treasury released additional guidance in an announcement on February 4, 2009 , that 
+distinguished between institutions that required “exceptional assistance” and institutions 
+participating in “generally available capital access pr ogram[s]” (UST PR , 02/04/2009). 
+Treasury specified that institutions that received exceptional assistance included AIG, 
+Citigroup, Bank of America, and the two automakers that received TARP support, GM and 
+Chrysler (UST PR, 06/10/2009). Institutions that w ere accepted into the CAP did not 
+automatically fall under this category, but would if they issued Convertible Preferred in 
+excess of the 2 percent limit (CAP: Term Sheet).  
+Institutions that required exceptional assistance were subject to stricter requirements. Total 
+compensation was restricted to a maximum of $500,000, with any amount in excess required 
+to be in the form of restricted stock that vested only after the government had been repaid. 
+This was to ensure that the incentives of executives at these  institutions were “aligned with 
+both the long-term interests of shareholders as well as minimizing the costs to taxpayers”. 
+Golden parachutes, which were defined as large severance agreements for SEOs, were 
+completely prohibited for the 10 highest-compensated employees, and capped at one year’s 
+compensation instead of three years for the next 25 highest -compensated (UST PR , 
+02/04/2009; UST Report, 10/20/2008).  
+For institutions that participated in generally available capital programs, SEO total yearly 
+compensation was limited to $500,000, though this limit could be waived with “full public 
+disclosure and [a] shareholder vote”.  Golden parachute payments for the top five highest -
+paid employees of these institutions were restricted to one year’s compen sation, instead of 
+three (UST PR, 02/04/2009).  
+For institutions participating in any of these capital programs, clawback provisions—which 
+enabled the QFI to retake bonuses and incentive payments of SEOs that had earned them by 
+knowingly engaging in decept ive practices—were expanded from the top five SEOs to the 
+next 20 highest-paid employees. The new guidance also required participating institutions 
+to more aggressively police any luxury expenditures and require d the CEO’s sign-off on any 
+expenditures that “could be viewed as excessive or luxury items” (UST PR , 02/04/2009). 
+These guidelines, however, did not apply retroactively (UST Report, 06/10/2009). 
+Treasury published its last Interim Final Rule on June 10, 2009. The final rule implemented 
+and modified much of the expanded restrictions outlined in ARRA and the February 2009, 
+guidance. Treasury further limited bonuses and incentive compensation paid to SEOs, as well 
+as some of the most highly compensated employees, to one third of total compensation, with 
+933
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 46 ---
+the number of employees affected by this limit increasing based on the amount of aid given.25 
+The $500,000 limit specified in the February guidance was amended to “link compensation 
+to long-term firm value” by allowing additional compensation over $500,000, provided that 
+it was in the form of long -form, restricted stock. The stock -based compensation was still 
+limited to one  third of total compensation. Additionally, g olden parachute payment 
+restrictions were broadened to include any payments that were made as a result of a change 
+in control of the company. Institutions were required to exercise their clawback provisions 
+if payments subject to them were found to be based on inaccurate criteria or data, whereas 
+they were merely given the option to do so in the February guidance (UST PR, 06/10/2009). 
+The guidance also mandated that TARP recipients hold an annual shareholder vote to 
+approve executive compensation packages. 
+The most notable change in the final rule was the creation of a Special Master for TARP 
+Executive Compensation.26 The Special Master was responsible for reviewing compensation 
+plans at firms receiving “exceptional” assistance to make sure they did so in a way that 
+“maximize(s) long -term shareholder value and pro tect(s) taxpayer interests”. 27 This 
+authority went far beyond the threshold in the earlier guidance. The Special Master was able 
+to review and approve (or disapprove) the compensation structures of SEOs and the next 
+100 most highly paid employees, as well as executive officers that were not among the most 
+highly paid employees and thus , not subject to the typical bonus and incentive payment 
+restrictions (UST PR, 06/10/2009). Total annual compensation that was less than or equal 
+to $500,000, not including lo ng-term restricted stock, would automatically be approved by 
+the Special Master.28 Some of these responsibilities were originally given to the Secretary of 
+the Treasury as part of the ARRA (P.L. 111-5). 
+While the February guidelines did not apply retroactively, the Special Master had the power 
+to evaluate payments, bonuses, or compensat ion made by any TARP recipient before 
+February 17, 2009 , “to determine whether any such payments were inconsistent with the 
+purposes of Section 111 of EESA” (UST Report, 06/10/2009). If the Special Master found any 
+issues, firms could negotiate reimbursements to the US government. 
+ 
+25 Institutions that received over $500 million in assistance had their top five highest -paid executives, as well 
+as the 20 next highest-paid affected by the one-third of total compensation limit. 
+26 A number of the provisions laid out in the June 10 Interim Fin al Rule, such as the one -thirds limit on total 
+compensation, as well as the number of SEOs and employees affected by executive compensation restrictions 
+based on total TARP aid received, were originally passed via Section 111 of the ARRA.  
+27 In addition to  approving compensation agreements, the Special Master was also responsible for reviewing 
+compensation that was paid prior to the passage of ARRA, as well as negotiating reimbursements for these 
+where relevant (UST PR, 06/10/2009).  
+28 Equity-based compensation was included in this limit by using the fair market value on the day of 
+compensation. Equity-based compensation for prior years would not be included ( UST Report, 06/10/2009 - 
+p. 29). 
+934
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 47 ---
+13. Exit strategy: Treasury did not develop an explicit strategy for exiting its CAP 
+investments, although the capital instruments contained built-in exit features. 
+While no investments were made under the CAP, the design of the Conve rtible Preferred 
+gave the government an indirect exit strategy if the backstop was used. Conversion would 
+occur automatically after seven years. Before that, the QFI could convert the preferred shares 
+to common equity to boost market confidence or to meet supervisory requirements ( CAP: 
+Term Sheet; CAP: White Paper).  
+As explained, Treasury was required to sell at least 20 percent of its total original amount of 
+common stock in a given QFI every year once the conversion had taken place, which put a 
+cap on the amount of time the government could remain as an investor (CAP: Term Sheet). 
+The dividend rates, at 9 percent, and other conditions also incentivized banks to replace any 
+Convertible Preferred with private capital (Glasserman and Wang 2009).  
+III. Evaluation 
+Post-crisis analysis of SCAP and CAP has considered: (1) the transparency of the program; 
+(2) whether the programs succeeded at increasing banks’ capital through private sources, 
+returning the government’s investment, and promoting lending in the economy; and (3) the 
+empirical quality of the stress tests. Much of the analysis focused on SCAP, rather than CAP.  
+Transparency. SCAP was transparent in both its design and results, aiming to lend credibility 
+to the stress test and allow markets to make  direct comparisons across banks. Such a high 
+level of transparency was  considered necessary to eliminate investor concerns. (Geithner, 
+Metrick, and Ross, Working Paper)  
+However, the unusual amount of transparency  attracted criticism falling largely into three 
+groups: (i) Federal Reserve’s release of bank-specific test results broke from the standard 
+level of confidentiality involved in bank supervision; (ii) the upfront commitment to publicly 
+disclose the results may encourage supervisors to white-wash the results to protect weak 
+banks; and (iii) full disclosure of banks’ capital positions would reveal firms as materially 
+weaker than expected. Geithner, Metrick, and Ross find the third criticism most well-founded 
+in their recent working paper , noting former Fed chairman Bernanke’s statement , in his 
+2015 memoir, that disclosing banks’ weakness could “possibly [lead] to new runs and further 
+sharp declines in bank stock prices” (Bernanke 2015). 
+Regardless, Geithner, Metrick , and Ross acknowledge t ransparency in combination with 
+other features of SCAP made it easier for the banks to raise private capital  to meet SCAP 
+requirements and replace already injected public capital.  
+Success in meeting goals. The programs succeeded at getting banks to raise capital through 
+private sources, rather than drawing on the CAP backstop. In the year after the results were 
+released, the SCAP firms were able to add over $200 billion in common equity . They also 
+935
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 48 ---
+repaid $124.3 billion in CPP capital  and $40 billion in TIP  capital (Bernanke, 05/06/2010 ; 
+CPP Transaction Data; UST PR, 12/09/2009; UST PR, 12/23/2009).  
+Officials who worked on the program said the lack of usage of CAP was “a strong indication 
+of its success, as our objective in the first place was to recapitali ze the system with private 
+capital” (Clark, Kabaker, and Sachs 2020). In a valuation analysis of the Convertible 
+Preferred, Glasserman and Wang (2009) found that the terms were attractive to banks, yet 
+none participated. The lack of participation, they sta ted, could have been due to more 
+stringent rules on executive compensation and corporate governance, as well as signaling 
+aspects that could negatively impact banks’ ability to raise private capital (Glasserman and 
+Wang 2009).  
+Bernanke, then the Fed chair man, did say that the designers of the program had hoped to 
+“hasten the return to a better lending environment ,” which had not happened in the year 
+since the results had been released (Bernanke, 05/06/2010).  
+Evaluation of stress test methodology. A COP report released in June 2009 included an 
+evaluation of the stress testing methods, written by Professors Eric Talley and Johan Walden, 
+as an appendix. The analysis found that, based on the short time frame, as well as the extent 
+of the stress in the banking system, the Federal Reserve’s risk modelling approach was 
+“reasonable and conservative ,” and that they did a commendable job. In particular, the 
+authors praised the high levels of losses imposed in the more adverse scenario, as well as the 
+large amount of capital required of those that needed it. They praised the use of survey and 
+market-based estimates over historical data, use of a two-year time frame, the incorporation 
+of heterogeneity across BHCs, and the u sage of the 6 -4 rule as “a defensible first 
+approximation” (COP, 06/09/2009).  
+Talley and Walden’s report, however, also included some criticism. The tailoring of loss rates 
+based on heterogeneous elements amongst the various BHCs, while important, require d 
+“significant interaction” between regulators and BHCs, which could undermine the 
+objectivity of the tests. The tailoring elements amplified the replicability problem explained 
+above. Finally, the usage of the holding company itself as the primary unit of  analysis was a 
+subject of debate. The authors felt that, even if a BHC was adequately capitalized on an 
+aggregate level, the stress tests did not answer the question of how the resources should be 
+distributed to address risk across its subsidiaries (COP, 06/09/2009). 
+The Government Accountability Office (GAO) released a report in September 2010 detailing 
+some of the lessons that could be learned from the SCAP. The multidisciplinary, interagency 
+approach to the SCAP was a key component of the process, and a llowed for “productive 
+debate” with regards to some of the nuances of the tests, exemplified by the tailor ed 
+accounting process done for each BHC (GAO 10-861).  
+GAO recommended generally for the Fed and other regulators to increase transparency 
+during the traditional supervisory process, issue more specific guidance for bank examiners 
+and assessors, fully develop and disseminate among regulators the aforementioned 
+936
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 49 ---
+surveillance plan to enhance bank supervision, and further increase coordination and 
+communication amongst regulatory entities (GAO 10-861).  
+IV. References 
+American International Group, Inc. September 30, 2010. American International Group – 
+Financial Supplement: Third Quarter 2010. https://ypfs.som.yale.edu/library/american-
+international-group-financial-supplement-third-quarter-2010. 
+Bernanke, Ben S. May 11, 2009. “The Supervisory Capital Assessment Program.” Fe deral 
+Reserve Bank of Atlanta. https://ypfs.som.yale.edu/library/ben-s-bernanke-supervisory-
+capital-assessment-program.  
+———. May 6, 2010. “The Supervisory Capital Assessment Program – One Year Later.” 
+Federal Reserve Bank of Chicago. https://ypfs.som.yale.edu/library/ben-s-bernanke-
+supervisory-capital-assessment-program-one-year-later.  
+———. 2015. The Courage to Act: A Memoir of a Crisis and Its Aftermath .  
+https://ypfs.som.yale.edu/library/courage-act-memoir-crisis-and-its-aftermath.  
+Capital Purchase Program Questions. March 1, 2012. 
+https://ypfs.som.yale.edu/library/capital-purchase-program-questions. 
+Capital Purchase Program Term Sheet for Mutual Banks.  April 14, 2009. 
+https://ypfs.som.yale.edu/library/treasury-releases-capital-purchase-program-term-
+sheet-mutual-banks.  
+Citigroup, Inc. February 27, 2009. “Citi to Exchange Preferred Securities for Common, 
+Increasing Tangible Common Equity to as Much as $81 Billion.” 
+https://ypfs.som.yale.edu/library/citi-exchange-preferred-securities-common-increasing-
+tangible-common-equity-much-81-billion. 
+———. July 26, 2009.  “Citi Announces Preliminary Results of Public Share Exchange.”  
+https://ypfs.som.yale.edu/library/citi-announces-preliminary-results-public-share-
+exchange.  
+Clark, Tim, Matthew Kabaker, and Lee Sachs. 2020. “Bank Capital: Reviving the System.” In 
+First Responders: Inside the U.S. Strategy for Fighting the 2007 –2009 Global Financial Crisis , 
+edited by Ben S. Bernanke, Timothy F. Geithner, and Henry M. Paulson, Jr., with J. Nellie Liang, 
+49–81. New Haven: Yale University Press.  https://ypfs.som.yale.edu/library/first-
+responders-inside-us-strategy-fighting-2007-2009-global-financial-crisis. 
+Congressional Ove rsight Panel  (COP). n.d. About the Congressional Oversight Panel. 
+https://ypfs.som.yale.edu/library/about-congressional-oversight-panel. 
+937
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 50 ---
+———. December 10, 2008.  “Questions About the $700 Billion Emergency Economic 
+Stabilization Funds.”  https://ypfs.som.yale.edu/library/questions-about-700-billion-
+emergency-economic-stabilization-funds.  
+———. June 9, 2009. Appendix A.  “Stress Testing and Shoring Up Bank Capital.” 
+https://ypfs.som.yale.edu/library/cop-june-oversight-report-stress-testing-and-shoring-
+bank-capital.   
+———. March 16, 2011. “Final Report of the Congressional Panel.” 
+https://ypfs.som.yale.edu/library/congressional-oversight-panel-march-oversight-report-
+final-report-congressional-oversight. 
+———. n.d. Congressional Oversight Panel Reports. 
+https://ypfs.som.yale.edu/library/congressional-oversight-panel-reports.  
+Federal Deposit Insurance Corporation. July 21, 2010. Basic FDIC Insurance Coverage 
+Permanently Increased to $250,000 Per Depositor. https://ypfs.som.yale.edu/library/basic-
+fdic-insurance-coverage-permanently-increased-250000-depositor. 
+Federal Register. Vol. 77, No. 195. October 9, 2012. “Final Rule: Annual Stress Test.” Office of 
+the Comptroller of the Currency, United States Department of the Treasury. 
+https://ypfs.som.yale.edu/library/federal-register-vol-77-no-195-final-rule-annual-stress-
+test. 
+———. Vol. 77, No. 198. October 12, 2012. “Final Rule on Stress Test.” Federal Reserve Board 
+of Governors. p. 62378-409. 
+https://ypfs.som.yale.edu/library/federal-register-vol-77-no-198-final-rule-stress-test. 
+Federal Reserve Board of Governors (FRB). April 24, 2009. “Board publishes white paper on 
+process and methodologies employed by federal banking supervisory agencies in  capital 
+assessment of large US bank holding companies.” https://ypfs.som.yale.edu/library/board-
+publishes-white-paper-process-and-methodologies-employed-federal-banking-
+supervisory. 
+———. April 24, 2009. “The Supervisory Capital Assessment Program  (SCAP): Design and 
+Implementation.” https://ypfs.som.yale.edu/node/2445. 
+———. May 6, 2009. “Joint statement by Federal Reserve, Treasury, FDIC, and OCC on 
+Treasury Capital Assistance Program and Supervisory Capital Assessment Program.” 
+https://ypfs.som.yale.edu/library/joint-statement-federal-reserve-treasury-fdic-and-occ-
+treasury-capital-assistance-program. 
+———. May 7, 2009. “The Supervisory Capital Assessment Program (SCAP): Overview of 
+Results.” https://ypfs.som.yale.edu/node/2446.  
+———. November 9, 2009. “Federal Reserve Board makes announcement regarding the 
+Supervisory Capital Assessment Program (SCAP).” 
+938
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 51 ---
+https://ypfs.som.yale.edu/library/federal-reserve-board-makes-announcement-regarding-
+supervisory-capital-assessment-program. 
+———. November 20, 2019. Allowance for Loan and Lease Losses (ALLL). 
+https://ypfs.som.yale.edu/library/allowance-loan-and-lease-losses-alll. 
+———. February 6, 2020. Dodd-Frank Act Stress Tests. 
+https://ypfs.som.yale.edu/library/dodd-frank-act-stress-tests. 
+Federal Reserve Bank of New York (FRBNY). June 2011. 101: Term Asset-Backed Securities 
+Loan Facility (TALF). https://ypfs.som.yale.edu/library/new-york-fed-101-term-asset-
+backed-securities-loan-facility-talf. 
+Financial Stability Oversight Board  (FSOB). March 31, 2009. “Quarterly Report to Congress 
+pursuant to section 104(g) of the Emergency Economic Stabilization Act of 2008: March 31, 
+2009.” https://ypfs.som.yale.edu/library/quarterly-report-congress-pursuant-section-
+104g-emergency-economic-stabilization-act-2008. 
+———. June 30, 2009.  Quarterly Report to Congress pursuant to section 104(g) of the 
+Emergency Economic Stabilization Act of 2008: June 30, 2009 .  
+https://ypfs.som.yale.edu/library/quarterly-report-congress-pursuant-section-104g-
+emergency-economic-stabilization-act-2008-0. 
+Furman, Jason. 2020.  “The Fiscal Response to the Great Recession,” in Ben S. Bernanke, 
+Timothy F. Geithner, Henry M. Paulson, Jr. , with J. Nellie Liang, eds.  First Responders: Inside 
+the US Strategy for Fighting the 2007 – 2009 Global Financial Crisis.  Yale University Press. 
+2020.  
+https://ypfs.som.yale.edu/library/first-responders-inside-us-strategy-fighting-2007-2009-
+global-financial-crisis.  
+Glasserman ,Paul and Zhenyu Wang. December 2009. “Valuing the Treasury’s Capital 
+Assistance Program. ” Federal Reserve Bank of New York. 
+https://ypfs.som.yale.edu/library/valuing-treasurys-capital-assistance-program.  
+Geither, Timothy F. Geithner, Andrew Metrick, Chase P. Ross. July 2020. “Capital in the 
+Financial Crisis.” Working Paper.  
+Jester, Dan, David Nason, and Jeremiah Norton . 2020. “Recapitalizing the Banking System,” 
+in Ben S. Bernanke, Timothy F. Geithner, Henry M. Paulson, Jr. , with J. Nellie Liang, eds. First 
+Responders: Inside the US Strategy for Fighting the 2007 – 2009 Global Financial Crisis.  Yale 
+University Press. https://ypfs.som.yale.edu/library/first-responders-inside-us-strategy-
+fighting-2007-2009-global-financial-crisis. 
+Office of the Special Inspector General for the Troubled Asset Relief Program  (SIGTARP). 
+October 5, 2009. “Emergency Capital Injections Provided to Support the Viability of Bank of 
+America, Other Major Banks, and the US Financial System.” 
+939
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 52 ---
+https://ypfs.som.yale.edu/library/emergency-capital-injections-provided-support-
+viability-bank-america-other-major-banks-and. 
+———. April 20, 2010. SIGTARP: Quarterly Report to Congress – Q1 2010. 
+https://ypfs.som.yale.edu/library/sigtarp-quarterly-report-congress-q1-2010. 
+———. July 30, 2014. SIGTARP: Quarterly Report to Congress – Q3 2014. 
+https://ypfs.som.yale.edu/library/sigtarp-quarterly-report-congress-q3-2014. 
+———. 2018. “SIGTARP: Congressional Justification for Appropriations and Annual 
+Performance Report and Plan – FY 2018.” https://ypfs.som.yale.edu/library/sigtarp -
+congressional-justification-appropriations-and-annual-performance-report-and-plan. 
+———. n.d. SIGTARP – About us. https://ypfs.som.yale.edu/library/sigtarp-about-us. 
+P.L. 110-343. Emergency Economic Stabilization Act of 2008. 110 th Congress of the United 
+States. 3 October 2008.  
+https://ypfs.som.yale.edu/library/public-law-110-343-emergency-economic-stabilization-
+act-2008. 
+P.L. 111-5. American Recovery and Reinvestment Act of 2009. 111 th Congress of the United 
+States. 17 February 2009.  
+https://ypfs.som.yale.edu/library/public-law-111-5-american-recovery-and-
+reinvestment-act-2009. 
+P.L. 111-203. Dodd-Frank Wall Street Reform and Consumer Protection Act. 111 th Congress 
+of the United States. 21 July 2010. https://ypfs.som.yale.edu/node/2521. 
+U.S. Department of the Treasury.  October 14, 2008. “Treasury Announces TARP Capital 
+Purchase Program Descrip tion.” https://ypfs.som.yale.edu/library/treasury -announces-
+tarp-capital-purchase-program-description.  
+———. October 20, 2008. “TARP Capital Purchase Program.” 
+https://ypfs.som.yale.edu/library/tarp-capital-purchase-program-interim-final-rule-
+executive-compensation.  
+———. December 30, 2008. “Responses to Questions of the first report of the Congressional 
+Oversight Panel for Economic Stabilization.” https://ypfs.som.yale.edu/library/responses -
+questions-first-report-congressional-oversight-panel-economic-stabilization. 
+———. February 4, 2009.  “Treasury Announces New Restrictions on Executive 
+Compensation.” https://ypfs.som.yale.edu/library/treasury -announces-new-restrictions-
+executive-compensation.  
+———. February 10, 2009. “Treasury Secretary Tim Geithner Outl ines Comprehensive 
+Financial Stability Plan.” https://ypfs.som.yale.edu/library/treasury -secretary-tim-
+geithner-outlines-comprehensive-financial-stability-plan. 
+940
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 53 ---
+———. February  25, 2009. “Capital Assistance Program FAQs.”  
+https://ypfs.som.yale.edu/library/capital-assistance-program-faqs.  
+———. February 25, 2009. “Capital Assistance Program: Summary of Mandatorily 
+Convertible Preferred Stock Terms.”  https://ypfs.som.yale.edu/library/capital-assistance-
+program-summary-mandatorily-convertible-preferred-stock-terms. 
+———. February 25, 2009. “The Capital Assistance Program and its role in the Financial 
+Stability Plan.” https://ypfs.som.yale.edu/library/cap ital-assistance-program-and-its-role-
+financial-stability-plan. 
+ ———. February 25, 2009. “US Treasury Releases Terms of Capital Assistance Program.” 
+https://ypfs.som.yale.edu/library/us-treasury-releases-terms-capital-assistance-program-
+0.  
+———. June 10, 2009. “Interim Final Rule on TARP Standards for Compensation and 
+Corporate Governance.” https://ypfs.som.yale.edu/library/interim -final-rule-tarp-
+standards-compensation-and-corporate-governance.  
+———. June 10, 2009. “TARP Standards for Compensation and Corpo rate Governance.” 
+https://ypfs.som.yale.edu/library/interim-final-rule-tarp-standards-compensation-and-
+corporate-governance. 
+———. December 9, 2009. “Treasury Receives $45 Billion Payment from Bank of America.” 
+https://ypfs.som.yale.edu/library/treasury-receives-45-billion-payment-bank-america.  
+———. December 23, 2009. “Treasury Receives $45 Billion in Repayments from Wells Fargo 
+and Citigroup.”  https://ypfs.som.yale.edu/library/treasury-receives-45-billion-
+repayments-wells-fargo-and-citigroup. 
+———. October 2010. Troubled Asset Relief Program: Two Year Retrospective. 
+https://ypfs.som.yale.edu/library/troubled-asset-relief-program-two-year-retrospective-
+united-states-department-treasury.  
+———. July 13, 2012. TARP: Executive Compensation Rules and Guidance. 
+https://ypfs.som.yale.edu/library/tarp-executive-compensation-rules-and-guidance. 
+———. December  9, 2013. Targeted Investment Program  (TIP): Pro gram Purpose and 
+Overview. https://ypfs.som.yale.edu/library/targeted -investment-program-program-
+purpose-and-overview.  
+———. February 19, 2015. TARP Investment Program Transaction Reports  (CPP 
+Transaction Data). https://ypfs.som.yale.edu/library/tarp -investment-program-
+transaction-reports. 
+941
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 54 ---
+———. July 2, 2015. TARP Tracker from November 2008 to January 2020. 
+https://www.treasury.gov/initiatives/financial-stability/reports/Pages/TARP-
+Tracker.aspx#All.  
+———. November 15, 2016. TARP Programs. https://ypfs.som.ya le.edu/library/tarp-
+programs. 
+———. November 1, 2019. Monthly TARP Update for 11/01/2019. 
+https://ypfs.som.yale.edu/library/monthly-tarp-update-11012019. 
+U.S. Government Accountability Office (GAO). September 29, 2010. (GAO 10-861) “Troubled 
+Asset Relief Program: Bank Stress Test Offers Lessons as Regulators Take Further Actions to 
+Strengthen Supervisory Oversight.” https://ypfs.som.yale.edu/library/tarp -bank-stress-
+test-offers-lessons-regulators-take-further-actions-strengthen-supervisory.  
+V. Key Program Documents 
+Summary of Program 
+(CAP: FAQ) “Capital Assistance Program FAQs.” United States Department of the Treasury. 
+February 25, 2009.  
+Frequently asked questions about the Capital Assistance Program released by the Treasury.  
+https://ypfs.som.yale.edu/library/capital-assistance-program-faqs.  
+(CAP: Term Sheet) Capital Assistance Program: Summary of Mandatorily Convertible 
+Preferred Stock Terms. United States Department of the Treasury. February 25, 2009. 
+Overview of the terms f or the convertible preferred stock that would be issued to the 
+government as part of the Capital Assistance Program.  
+https://ypfs.som.yale.edu/library/capital-assistance-program-summary-mandatorily-
+convertible-preferred-stock-terms.  
+(CAP: White Paper) “ The Capital Assistance Program and its role in the Financial Stability 
+Plan.” United States Department of the Treasury. February 25, 2009.  
+Paper released by the US Treasury on the function of Capital Assistance Program as a vehicle 
+to ensure that the larges t financial institutions will be able to continue lending.  
+https://ypfs.som.yale.edu/library/capital-assistance-program-and-its-role-financial-
+stability-plan.    
+(Geithner, Bernanke, Paulson 2020) Ben S. Bernanke, Timothy F. Geithner, Henry M. Paulson, 
+Jr., with J. Nellie Liang, eds. First Responders: Inside the US Strategy for Fighting the 2007 – 
+2009 Global Financial Crisis . Yale University Press. 2020.  An insider’s view of the U.S. 
+government’s response to the 2007–2009 global financial crisis, as recounted by the people who 
+made   the  key  decisions.  
+https://ypfs.som.yale.edu/library/first-responders-inside-us-strategy-fighting-2007-2009-
+global-financial-crisis.  
+942
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 55 ---
+(SCAP: Design and Implementation) “The Supervisory Capital Assessment Program: Design 
+and Implementation.” Federal Reserve Board of Governors. April 24, 2009. Document by the 
+Federal Reserve describing the key design aspects of the Supervisory Capital Assessment 
+Program. https://ypfs.som.yale.edu/node/2445.  
+(SCAP: Overview of Results) “The Sup ervisory Capital assessment Program: Overview of 
+Results.” Federal Reserve Board of Governors. May 7, 2009. 
+ Results from the Federal Reserve’s Supervisory Capital Assessment Program, the stress test 
+conducted in the spring of 2009 on 19 of the largest ban k-holding companies and financial 
+institutions in the US.   
+https://ypfs.som.yale.edu/node/2446.  
+(UST PR, 02/10/2009) “Treasury Secretary Tim Geithner Outlines Comprehensive Financial 
+Stability Plan.” United States Department of the Treasury. February 10, 2009.  
+Speech by Treasury Secretary Tim Geithner on the next steps to recovering from the ongoing 
+financial crisis. Includes the first mention of what would later be known as the SCAP and CAP.  
+https://ypfs.som.yale.edu/library/treasury-secretary-tim-geithner-outlines-
+comprehensive-financial-stability-plan.  
+(UST PR, 02/25/2009) “US Treasury Releases Terms of Capital Assistance Program.” United 
+States Department of the Treasury. February 25, 2009. 
+ Press release by the Treasury of the terms for the Capital Assistance Program, an unlimited 
+government capital backstop .  
+https://ypfs.som.yale.edu/library/us-treasury-releases-terms-capital-assistance-program-
+0.  
+Implementation Documents 
+(CAP: FAQ) “Capital Assistance Program FAQs.” United States Dep artment of the Treasury. 
+February 25, 2009.  
+Frequently asked questions about the Capital Assistance Program released by  the  United 
+ States   Department  of  Treasury.  
+https://ypfs.som.yale.edu/library/capital-assistance-program-faqs.  
+(CAP: Term Sheet) Capital Assistance Program: Summary of Mandatorily Convertible 
+Preferred Stock Terms. United States Department of the Treasury. February 25, 2009. 
+Overview of the terms for the convertible preferred stock that would be issued to the 
+government as part of the Capital Assistance Program. 
+https://ypfs.som.yale.edu/library/capital-assistance-program-summary-mandatorily-
+convertible-preferred-stock-terms.  
+(CAP: White Paper) “The Capital Assistance Program and its role in the Financial Stability  
+Plan.” United States Department of the Treasury. February 25, 2009.  
+Paper released by the United States Treasury on the function of Capital Assistance Program as 
+a vehicle to ensure that the largest financial institutions will be able to continue lending . 
+https://ypfs.som.yale.edu/library/capital-assistance-program-and-its-role-financial-
+stability-plan.  
+943
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 56 ---
+(SCAP: Design and Implementation) “The Supervisory Capital Assessment Program: Design 
+and Implementation.” Federal Reserve Board of Governors. April 24, 2009.   
+Document by the Federal Reserve describing the key design aspects of the Supervisory Capital 
+Assessment Program . 
+https://ypfs.som.yale.edu/node/2445 
+(TARP Executive Compensation Rules and Guidance) TARP: Executive Compensation Rules 
+and Guidance. United States Department of the Treasury. July 13, 2012. 
+Overview page of TARP’s executive compensation restrictions with key facts about the program. 
+https://ypfs.som.yale.edu/library/tarp-executive-compensation-rules-and-guidance.  
+(UST Interim Final Rul e – 06/10/2009) “Interim Final Rule on TARP Standards for 
+Compensation and Corporate Governance.” United States Department of the Treasury. June 
+10, 2009.   
+Final rule released by United States Treasury to implement the executive compensation 
+standards that were amended by ARRA.   
+https://ypfs.som.yale.edu/library/interim-final-rule-tarp-standards-compensation-and-
+corporate-governance.  
+Legal/Regulatory Guidance 
+(Federal Register, Vol. 77, No. 195, 10/09/2012) “Final Rule: Annual Stress Test.” Office of 
+the Comptroller of the Currency, United States Department of the Treasury. October 9, 2012. 
+Final rule on the implementation of the annual stress tests for large b anks and bank holding 
+companies. 
+ https://www.govinfo.gov/content/pkg/FR-2012-10-09/pdf/2012-24608.pdf#page=9.  
+(Federal Register, Vol. 77, No. 198, 10/12/2012a) “Final Rule: Annual Company -Run Stress 
+Test Requirements for Banking Organizations With Total Consolidated Assets Over $10 
+Billion Other Than Covered Companies.” Federal Reserve Board of Governors. October 12, 
+2012. 
+Detailed stress test requirements for banking organizations with consolidated assets between  
+$10  and $50  billion. 
+ https://www.govinfo.gov/content/pkg/FR-2012-10-12/pdf/2012-24988.pdf.  
+(Federal Register, Vol. 77, No. 198, 10/12/2012b) “Final  Rule: Supervisory and Company -
+Run Stress Test Requirements for Covered Companies.” Federal Reserve Board of Governors. 
+October 12, 2012 . 
+Detailed stress test requirements for banking organizations with consolidated assets of over 
+$50 billion (“covered companies”).  
+https://www.govinfo.gov/content/pkg/FR-2012-10-12/pdf/2012-24987.pdf.  
+(P.L. 110-343) Emergency Economic Stabilization Act of 2008. 110 th Congress of the United 
+States. October 3, 2008.   
+The Emergency Economic Stabilization Act of 2008, which established the  Troubled  Assets 
+ Relief  Program  (TARP). 
+https://www.congress.gov/110/plaws/publ343/PLAW-110publ343.pdf.  
+944
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 57 ---
+(P.L. 111-203) Dodd-Frank Wall Street Reform and Consumer Protection Act. 111th Congress 
+of the United States. July 21 2010 . 
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, which established the 
+FSOC and OFR, enhanced the supervision of certain non -bank financial companies, and 
+generally tightened up the US financial regulatory framework post-GFC.   
+https://www.govinfo.gov/content/pkg/PLAW-111publ203/pdf/PLAW-111publ203.pdf.  
+(P.L. 111-5) American Recovery and Reinvestment Act of 2009. 111th Congress of the United 
+States. February 17, 2009. 
+The American Recovery and Reinvestment Act of 2009, which made appropriations fo r job 
+preservation and creation, infrastructure investment,  energy  efficiency  and  science,  
+assistance  to  the  unemployed,  and  State  and  local  fiscal  stabilization.  
+https://www.congress.gov/111/plaws/publ5/PLAW-111publ5.pdf.  
+Press Releases/Announcements 
+(AIG Financial Supplement Q3 2010) American International Group – Financial Supplement: 
+Third Quarter 2010 . 
+Financial Supplement for AIG’s third quarter of 2010, which provides financial information 
+about the insurer as well as information on the government’s TARP investments in the firm. 
+American International Group, Inc. 30 September 2010.  
+https://www.aig.com/content/dam/aig/america-canada/us/documents/investor-
+relations/3q10-fin-suppl-report.pdf.  
+(Citi PR, 02/27/2009) “Citi to E xchange Preferred Securities for Common, Increasing 
+Tangible Common Equity to as Much as $81 Billion.” Citigroup, Inc. February 27, 2009. 
+Press release from Citi detailing the bank’s exchange of existing preferred stock for common 
+stock to increase its tan gible common equity and restore confidence to its investors.  
+https://www.citigroup.com/citi/news/2009/090227a.htm.  
+(Citi PR, 07/26/2009) “Citi Announces Preliminary Results of Public Share Exchange.” 
+Citigroup, Inc. July 26, 2009. 
+Press release from Citi announcing that it, in partnership with the US government, had 
+managed to raise about $58 billion in new common stock via the exchange of  existing 
+ preferred  stock  investments. https://www.citigroup.com/citi/news/2009/090726a.htm.  
+(FRB PR, 04/24/2009) “Board publishes white paper on process and methodologies 
+employed by federal banking supervisory agencies in capital assessment of large US bank 
+holding companies.” Federal Reserve Board of Governors . 
+Press release from the Federal Reserve announcing the release of its design and implementation 
+principles of the SCAP. April 24,  2009. 
+https://www.federalreserve.gov/newsevents/pressreleases/bcreg20090424a.htm.  
+(FRB PR, 11/09/2009) “Federal Reserve Board makes announcement regarding the 
+Supervisory Capital Assessment Program (SCAP).” Federal Reserve Board of Governors. 
+November 9, 2009. 
+Press release from the Federal Reserve stating that the 19 SCAP institutions had collectively 
+945
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 58 ---
+raised nearly $75 billion in new capital to make up for the shortfalls identified in  the  stress  
+test. 
+https://www.federalreserve.gov/newsevents/pressreleases/bcreg20091109a.htm.  
+(FRB PR, 11/15/2012) “Federal Reserve Board releases econ omic and financial market 
+scenarios that will be used in next round of stress tests for large financial institutions.” 
+Federal Reserve Board of Governors. November 15, 2012. 
+Press release from the Federal Reserve outlining the scenarios to be used for the 2013 Dodd-
+Frank stress tests.  
+https://www.federalreserve.gov/newsevents/pressreleases/bcreg20121115a.htm.  
+(FRB PR, 12/12/2007) “Extensions of Credit by Federal Reserve Banks.” Federal Reserve 
+Board of Governors. December 12, 2007.  
+Announcement of the Term Auction Facility (TAF) by  the  Federal  Reserve  in  late  2007. 
+https://www.federalreserve.gov/monetarypolicy/20071212a.htm.  
+(UST PR, 02/04/2009) “Treasury Announces New Restrictions on Executive Compensation.” 
+United States Department of the Treasur y. February 4, 2009. 
+Treasury press release summarizing the new guidelines on executive compensation for all TARP 
+recipients going forward . 
+http://web.archive.org/web/20090207073132/http:/treasury.gov/press/releases/tg15.h
+tm.  
+(UST PR, 02/10/2009) “Treasury Secretary Tim Geithner Outlines Comprehensive Financial 
+Stability Plan.” United States Department of the Treasury. February 10, 2009. 
+Speech by Treasury Secretary Tim Geithner on the next steps to recovering from the ongoing 
+financial crisis. Includes the first mention of what would later be known as the SCAP and CAP. 
+https://www.treasury.gov/press-center/press-
+releases/Pages/200921022303013043.aspx.  
+(UST PR, 02/25/2009) “US Treasury Releases Terms of Capital Assistance Program.” United 
+States Department of the Treasury. February  25, 2009. 
+Press release by the Treasury of the terms for the Capital Assistance Program, an unlimited 
+government capital backstop.  
+https://ypfs.som.yale.edu/library/us-treasury-releases-terms-capital-assistance-program-
+0.  
+(UST PR, 06/10/2009) “Interim Final Rule on TARP Standards for Compensation and 
+Corporate Governance.” United States Department of the Treasury. June 10, 2009. 
+Final rule released by Treasury to implement the executive compensation standards that were 
+amended by  ARRA.  
+https://ypfs.som.yale.edu/library/interim-final-rule-tarp-standards-compensation-and-
+corporate-governance.  
+(UST PR, 10/14/2008) “Treasury Announces TARP Capital Purchase Program Description.” 
+United States Department of the Treasury. October 14, 2008. 
+Treasury press release that briefly highlights key points – such as the eligibility, dividend rates, 
+946
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 59 ---
+and more - about the Capital Purchase  Program.  
+https://ypfs.som.yale.edu/library/treasury-announces-tarp-capital-purchase-program-
+description.  
+(UST PR, 12/09/2009) “Treasury Receives $45 Billion Payment from Bank of America.” 
+United States Department of the Treasury. December 9, 2009. 
+Treasury announcement that Bank of  America had repaid all of its $45 billion in TARP funds, 
+bringing the total amount repaid  to  $118  billion. 
+ https://ypfs.som.yale.edu/library/treasury-receives-45-billion-payment-bank-america.  
+(UST PR, 12/23/2009) “Treasury Receives $45 Billion in Repayments from Wells Fargo and 
+Citigroup.” United States Department of the Treasury. 23 December 2009.  
+Treasury announcement that Citigroup and Wells Fargo had repaid all of their $45 billion in 
+TARP funds, bringing  the  total  amount  repaid  to  $164  billion.   
+https://ypfs.som.yale.edu/library/treasury-receives-45-billion-repayments-wells-fargo-
+and-citigroup.  
+Media Stories 
+(Bernanke, 05/11/2009) Bernanke, Ben S. “The Supervisory Capital Assessment Program.” 
+Federal Reserve Bank of Atlanta. May 11, 2009.  
+Speech given by Ben Bernanke on the design and  results  of  the  SCAP  shortly  after  it  had 
+ concluded.  
+https://ypfs.som.yale.edu/library/ben-s-bernanke-supervisory-capital-assessment-
+program. 
+(Bernanke, 05/06/2010) Bernanke, Ben S. “The Supervisory Capital Assessment Program – 
+One Year Later.” Federal Reserve Bank of Chicago. May 6, 2010 . 
+One-year retrospective speech on the design and effects of the Supervisory Capital Assessment 
+Program, given by Ben Bernanke.   
+https://ypfs.som.yale.edu/library/ben-s-bernanke-supervisory-capital-assessment-
+program-one-year-later.  
+Key Academic Papers 
+(Glasserman and Wang 2011) Paul Glasserman and Zhenyu Wang. “Valuing the Treasury’s 
+Capital Assistance Program. Federal Reserve Bank of New York. December 2009.  
+Paper that develops a contingent claims framework in which to estimate market values of the 
+Capital Assistance  Program  securities.  
+https://ypfs.som.yale.edu/library/valuing-treasurys-capital-assistance-program.  
+(Hirtle, Schuermann and Stiroh (2009)) Be verly H irtle, Til Schuermann, Kevin Stiroh. 
+“Macroprudential Supervision of Financial Institutions: Lessons from the SCAP.” Federal 
+Reserve Bank of New York. November 2009 . 
+Paper that reviews the key features of the SCAP and discusses how they can be leve raged to 
+improve bank supervision in the future.  
+947
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 60 ---
+https://ypfs.som.yale.edu/library/macroprudential-supervision-financial-institutions-
+lessons-scap.  
+(Peristian, Morgan and Savino  2010) Stavros Peristian, Donald P. Morgan, Vanessa Savino. 
+“The Information Value of the Stress Test and Bank Opacity.” Federal Reserve Bank of New 
+York. July 2010 . 
+Paper that investigates whether the “stress test,” the extraordinary examination of the nineteen 
+largest U.S. bank holding companies conducted by federal bank supervi sors in 2009, produced 
+information demanded by the market.  
+https://ypfs.som.yale.edu/library/information-value-stress-test-and-bank-opacity.  
+(Thatcher 2009) Thatcher, Laura G. “Executive Compensation Restrictions Under the 
+American Recovery and Reinvestment Act of 2009.” Compensation and Benefits Review 41 No. 
+3, March 26, 2009.  
+Breakdown of the key differences between the initial executive co mpensation requirements in 
+EESA and TARP versus those from ARRA and Treasury in February  2009. 
+https://ypfs.som.yale.edu/library/executive-compensation-restrictions-under-american-
+recovery-and-reinvestment-act-2009.  
+(Webel 2013) Webel, Baird. “Troubled A sset Relief Program (TARP): Implementation and 
+Status.” Congressional Research Service. June 27, 2013 . 
+CRS Report that chronicles the life of TARP and the US government’s rescue of the financial 
+system and discusses post-crisis regulatory  reform.  
+https://ypfs.som.yale.edu/library/troubled-asset-relief-program-tarp-implementation-
+and-status.  
+Reports/Assessments 
+(COP December 2008) “Questions About the $700 Billion Emergency Economic Stabilization 
+Funds.” Congressional Oversight Panel. December 10, 2008.  
+The First Report of the Congressional Oversight Panel with ten questions from COP members to 
+Treasury on the status and  implementation  of  TARP. 
+ https://ypfs.som.yale.edu/library/questions-about-700-billion-emergency-economic-
+stabilization-funds.  
+(COP March 2011) “Final Report of the Congressional Panel.” Congressional Oversight Panel. 
+March 16, 2011 . 
+The Final Report of the Congressional Oversight Panel, summarizing all the government’s 
+programs – from bank investment to credit market support t o housing . 
+https://ypfs.som.yale.edu/library/congressional-oversight-panel-march-oversight-report-
+final-report-congressional-oversight.  
+(COP, 06/09/2009, Appendix A) “Stress Testing and Shoring Up Bank Capital.” Congressional 
+Oversight Panel. June 9, 2009 . 
+June Oversight report from the COP on evaluating the results of the Federal Reserve stress 
+tests that were conducted in May of 2009  . 
+948
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 61 ---
+https://ypfs.som.yale.edu/library/cop-june-oversight-report-stress-testing-and-shoring-
+bank-capital.  
+(FSOB Report, 03/31/2009) “Quarterly Report to Congress pursuant to section 104(g) of the 
+Emergency Economic Stabilization Act of 2008: March 31, 2009.” Financial Stability 
+Oversight Board. March 31, 200 9. 
+Quarterly report (Q1 2009) from the Financial Stability Oversight Board (FSOB) that assesses 
+the preliminary effects of EESA programs . 
+https://ypfs.som.yale.edu/library/quarterly-report-congress-pursuant-section-104g-
+emergency-economic-stabilization-act-2008.  
+(FSOB Report, 06/30/2009) Quarterly Report to Congress pursuant to section 104(g) of the 
+Emergency Economic Stabilization Act of 2008: June 30, 2009. Financial Stability Oversight 
+Board. June 30, 2009. Quarterly report (Q2 2009) from the Financial Stability Oversight Board 
+(FSOB) that assesses the preliminary effects of EESA programs.  
+https://ypfs.som.yale.edu/library/quarterly-report-congress-pursuant-section-104g-
+emergency-economic-stabilization-act-2008-0.  
+(GAO 10-861) “Troubled Asset Relief Program: Bank Stress Test Offers Lessons as Regulators 
+Take Further Actions to Strengthen Supervisory Oversight.” United States Government 
+Accountability Office. September 29, 2010.   
+GAO Report that analyzes the effects of the SCAP and provides lessons learned for future 
+supervisory exercises.  https://ypfs.som.yale.edu/library/tarp-bank-stress-test-offers-
+lessons-regulators-take-further-actions-strengthen-supervisory.  
+(SCAP: Design and Implementation) “The Supervisory Capital Assessment Program: Design 
+and Implementation.” Federal Reserve Board of Governors. April  24, 2009. 
+Document by the Federal Reserve describing the key design aspects of the Supervisory Capital 
+Assessment Program.  
+https://ypfs.som.yale.edu/node/2445.  
+(SCAP: Overview of Results) “The Supervisory Capital assessment Program: Overview of 
+Results.” Federal Reserve Board of Governors. May  7, 2009. 
+Document by the Federal Reserve describing the key design aspects of the Supervisory Capital 
+Assessment Program. https://ypfs.som.yale.edu/node/2446.  
+(SIGTARP 10/5/2009) “Emergency Capital Injections Prov ided to Support the Viability of 
+Bank of America, Other Major Banks, and the US Financial System.” Office of the Special 
+Inspector General for the Troubled Asset Relief Program. October 5, 2009. SIGTARP Report 
+that examines the basis for the selection of B ank of America and eight other financial 
+institutions  for  TARP  funds  in  October  of  2008.  
+https://ypfs.som.yale.edu/library/emergency-capital-injections-provided-support-
+viability-bank-america-other-major-banks-and.  
+(SIGTARP Annual Report – FY 2018) “SIGTARP: Congressional Justification for 
+Appropriations and Annual Performance Report and Plan  – FY 2018.” Office of the Special 
+Inspector General for the Troubled Asset Relief Program. 2018.  
+949
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 62 ---
+SIGTARP Annual Report for FY 2018, as well as new requests for Congressional Appropriations 
+for FY 2018. 
+https://ypfs.som.yale.edu/library/sigtarp-congressional-justification-appropriations-and-
+annual-performance-report-and-plan.  
+(SIGTARP April 2010 – Table of Contents) SIGTARP: Quarterly Report to Congress – Q1 2010. 
+Office of the Special Inspector General for the Troubled Asset Relief Program. April 20, 2010. 
+SIGTARP Quarterly Report to Congress for Q1 2010, which provides summaries and evaluations 
+of  all  existing  TARP  programs. 
+ https://ypfs.som.yale.edu/library/sigtarp-quarterly-report-congress-q1-2010.  
+(SIGTARP July 2014) SIGTARP: Quarterly Report to Congress – Q3 2014. Office of the Special 
+Inspector General for the Troubled Asset Relief Program. July 30, 2014. 
+SIGTARP Quarterly Report to Congress for Q3 2014, which provides summaries and evaluations 
+of all existing TARP programs . 
+https://ypfs.som.yale.edu/library/sigtarp-quarterly-report-congress-q3-2014.  
+(TARP: Monthly Update) Monthly TARP Update for 11/01/2019 . United States Department 
+of the Treasury. November 1, 2019. TARP Update for November 2019, detailing a line -by-
+line breakdown amounts disbursed and recovered for each of the government’s TARP 
+programs. https://ypfs.som.yale.edu/library/monthly-tarp-update-11012019.  
+(TARP Two-Year Retrospective) Troubled Asset Relief Program: Two Year Retrospective. 
+United States Department of t he Treasury. October 2010.  
+Treasury report on the development, execution, and outcomes of key TARP programs since their 
+inception – including the CPP, HAMP, and others, as well as revised projections about the total 
+costs of the programs. 
+https://ypfs.som.yale.edu/library/troubled-asset-relief-program-two-year-retrospective-
+united-states-department-treasury.  
+(UST Report December 2008) “Responses to Questions of the first report of the 
+Congressional Oversight Panel for Economic Stabilization.” United States Department of the 
+Treasury. December 30, 2008.  
+Responses from the Department of the Treasury to the 10 questions asked by the Congressional 
+Oversight Panel in its first report to Congress.  https://ypfs.som.yale.edu/library/responses-
+questions-first-report-congressional-oversight-panel-economic-stabilization.  
+(UST Report, 06/10/2009) “TARP Standards for Compensation and Corporate Governance.” 
+United States Department of the Treasury. June 10, 2009 
+ Final rule released by Treasury to implement the executive compensation standards that were 
+amended by ARRA.   
+https://ypfs.som.yale.edu/library/interim-final-rule-tarp-standards-compensation-and-
+corporate-governance.  
+(UST Report, 10/20/2008) “TARP Capital Purchase Program.” United states Department of 
+the Treasury. October 20, 2008.  
+Initial final rule by the US Treasury a shortly after the creation of TARP on executive 
+950
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 63 ---
+compensation restrictions for all TARP recipients. https://ypfs.som.yale.edu/library/tarp-
+capital-purchase-program-interim-final-rule-executive-compensation.  
+ 
+  
+951
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 64 ---
+VI. Appendixes 
+Appendix A: Timeline of Key Events 
+September 15, 2008:  Lehman Brothers files for bankruptcy. Bank of America 
+purchases Merrill Lynch for $50 billion.  
+September 21, 2008:  The Federal Reserve Board approves the applications of 
+investment banks Goldman Sachs and Morgan Stanley to become 
+bank holding companies,  allowing them to access Federal 
+Reserve liquidity facilities. 
+September 29, 2008:  The first vote on the Emergency Economic Stabilization Act 
+(EESA) fails in the House of Representatives, with a vote of 205 -
+228. 
+October 3, 2008:  EESA is signed into law . Work on the Troubled Asset s Relief 
+Program (TARP) begins, with the government having access to 
+the first of two $350 billion tranches of appropriated funds. Wells 
+Fargo announces proposal to acquire Wachovia. 
+October 14, 2008:  Treasury announces propos al to use TARP funds to purchase 
+preferred equity in financial institutions through the $250 billion 
+Capital Purchase Program (CPP). Nine large, systemically 
+significant financial institutions pledged to subscribe to the 
+program for $125 billion. Deadline to apply is November 14, 
+2008. 
+January 12, 2009:  President George W. Bush submits report to Congress requesting 
+disbursement of the remaining $350 billion in TARP funds to be 
+used by the incoming Obama administration. 
+February 10, 2009: Treasury announc es the details of its Financial Stability Plan, 
+which includes stress tests, a capital backstop, as well as new 
+lending initiatives and expansions of existing programs. 
+February 17, 2009:  The American Recovery and Reinvestment Act of 2009 (ARRA) is 
+passed. In addition to large amounts of stimulus spending and tax 
+cuts, ARRA also broadens the original executive compensation 
+restrictions for TARP recipients that came with EESA  and gives 
+the S ecretary of the Treasury the authority to review 
+952
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 65 ---
+compensation plans of some of the highest-paid executives of 
+TARP recipients. 
+February 25, 2009:  Federal bank regulators, such as the FDIC, OCC, and Federal 
+Reserve Board announce intent to begin stress te sting US bank 
+holding companies with assets exceeding $100 billion . Treasury 
+announces the Capital Assistance Program, an unlimited capital 
+backstop for banks to receive additional government capital in 
+exchange for Convertible Preferred stock. 
+April 24, 2009: The Federal Reserve publicly releases a paper about its stress 
+testing program, called the Supervisory Capital Assessment 
+Program (SCAP), giving key details about the design of the tests, 
+as well as how the Fed calculated losses across the firms that  
+were tested. 
+May 7, 2009:  Results of the SCAP for 19 large financial institutions are released, 
+which show a $75 billion capital shortfall for 10 bank holding 
+companies, largely in the form of common equity.  
+June 10, 2009:  Treasury releases its Inter im Final Rule on TARP Standards for 
+Compensation and Corporate Governance. The rule implements 
+and further expands the restrictions laid out in ARRA, as well as 
+appoints a Special Master for TARP Executive Compensation, 
+which is responsible for reviewing c ompensation plans for 
+institutions receiving “exceptional assistance”. 
+November 9, 2009: The Capital Assistance Program closes after six months. No 
+investments are made under the program and all of the bank 
+holding companies that need capital as a part of SCAP are able to 
+raise it privately. 
+July 21, 2010: The Dodd-Frank Wall Street Reform and Consumer Protection 
+Act of 2010 is passed. The Act establishes the Consumer Financial 
+Protection Bureau and Financial Stability Oversight Council , 
+removes Treasury’s ability to reuse TARP funds, more stringently 
+regulates the activities of banks and bank holding companies, and 
+institutes mandatory annual stress tests for some of the largest 
+bank holding companies and nonbank financial companies. 
+953
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 66 ---
+Appendix B: Overview of Initial Dodd-Frank Act Stress Tests  
+Regulatory Guidance 
+The Federal Reserve, OCC, and Treasury released several Final Rules in October of 2012, 
+which served as implementation and clerical guidelines for regulators and participating 
+institutions.  
+The first, which was published in by the OCC and Treasury in the Federal Register on October 
+9, 2012, laid out the methodology and reporting requirements for participants in detail. 
+Unlike in the initial legislation, the Final Rule categoriz ed institutions as either “$10 to $50 
+billion covered” or “over $50 billion covered”, based on their average total consolidated 
+assets (Federal Register, Vol. 77, No. 195, 10/09/2012 – p. 61246).29 Regulators gave smaller 
+covered institutions (less than $ 50 billion) more than a year longer to both conduct and 
+report the results of their stress tests compared with covered institutions of  $50 billion.30 
+However, there were cases in which institutions with less than $50 billion in assets were 
+affiliated with the covered institutions of more than $50 billion, which meant that it could be 
+“less burdensome and more appropriate” for these institutions to follow the requirements 
+for covered institutions of more than $50 billion, instead (Federal Register, Vol. 77, No. 195, 
+10/09/2012 – p. 61242). 
+Participating institutions were required to estimate PPNR, losses, loan-loss provisions, net 
+income, ALLL for credit exposures, and general effects of capital actions on their capital 
+levels over the “planning horizon”, which had to be at least nine quarters (Federal Register, 
+Vol. 77, No. 195, 10/09/2012 – p. 61247).  
+While the initial reports given to regulators were confidential, all participants were required 
+to publish the results of the tests either between March 15 and  31 of the following calendar 
+year for covered institutions  of more than $50 billion , or between June 15 and 30 of the 
+following calendar year for covered institutions of $10 to $50 billion (Federal Register, Vol. 
+77, No. 195, 10/09/2012 – p. 61248). For t he first set of results, this would mean that 
+covered institutions would have had to publish their results between March 15 to 31, 2013 , 
+and June 15 to 30, 2014 (Federal Register, Vol. 77, No. 195, 10/09/2012 – p. 61248).  
+ 
+29 Average total consolidated assets, for purposes of the Dodd-Frank stress tests, were calculated by taking the 
+average of an institution’s total consolidated assets found in its Consolidated Reports of Condition and Income 
+for the four most recent consecutive quarters. If a report had not been filed  in one or more of the four most 
+recent quarters, it would be calculated as the average of the institution’s total consolidated assets “for the most 
+recent one or more consecutive quarters” (Federal Register, Vol. 77, No. 195, 10/09/2012 – p. 61246). 
+30 Covered institutions of $10 to $50 billion were required to use financial statement data as of September 30, 
+2013, and report their test results on or before March 31, 2014, whereas covered institutions of $50 billion 
+were required to use financial statement data as of September 30, 2012 , and report their results on or before 
+January 5, 2013 (Federal Register, Vol. 77, No. 195, 10/09/2012 – p. 61246). In all cases, data as of September 
+30 of the current calendar year had to be used. 
+954
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 67 ---
+Two more Final Rules were issued on October 12, 2012, for each of the covered groups. While 
+the language was similar in the Rules for each of the two groups, and was akin to what was 
+issued by the OCC and Treasury, it differed in the following ways:  
+(1) A delay in the date that these companies were to begin and publicly report the results of 
+their stress tests. A company that met the requirements at the end of 2013 would be tested 
+in 2014, and report their results in 2015, for example (Federal Register, Vol. 77, No. 198, 
+10/12/2012 – pp. 62399).31  
+(2) Further clarification of the definition of the three “scenarios” that the OCC and Treasury 
+had outlined in their Final Rule. The baseline scenario was similar to the SCAP: a consensus 
+view of the macroeconomic outlook as represented by forecasters, government agencies, and 
+other organizations. The adverse scenario would likely “include the paths of economic 
+variables that are generally consistent with mild to moderate recessions ,” with the 
+possibility of the approach varying from year-to-year based on current economic conditions. 
+The more adverse scenario, on the other hand, was expected to follow the path that was 
+consistent with “severe post -war US recessions” (Federal Register, Vol. 77, No. 198, 
+10/12/2012 – pp. 62403-62404).  
+(3) An increased emphasis on tailoring stress test elements to idiosyncratic elements among 
+tested institutions. The Federal Reserve Board emphasized that, “depending on the systemic 
+footprint and scope of operations” of a given institution, they co uld potentially require 
+“additional components in its adverse and severely adverse scenarios or to use additional 
+scenarios that are designed to capture salient risks stemming from specific lines of business” 
+(Federal Register, Vol. 77, No. 198, 10/12/2012 – p. 62404).  
+(4) A more detailed list of assumptions about capital actions when analyzing the impact of 
+the test over the planning horizon. These involved taking into account actual capital actions 
+undertaken at the end of the first quarter, as well as payments on any instruments included 
+in regulatory capital ratios (such as common stock dividends, interest, or principal 
+payments), and an assumption of “no redemption” on any instrument that would be included 
+in the institution’s regulatory capital ratios (Federal Register, Vol. 77, No. 198, 10/12/2012 
+– p. 62408). 
+(5) Additional stress tests conducted every six months by covered institutions of more than 
+$50 billion only. These would be completed by January 5 and June 5 every year, with the 
+former following the same procedures and scenarios as the Fed’s tests, while the mid -year 
+tests, which were based on asset values as of March 31, were conducted more independently. 
+In particular, companies were expected to assess their own unique vulnerabilities and 
+ 
+31 This included a delay for  covered institutions of $10 billion to $50 billion that were eligible for the stress 
+tests as of the end of 2012. These institutions, despite being required to report in 2014, did not have to do so 
+until June 2015 (Federal Register, Vol. 77, No. 198, 10/12/2012 – p. 62399). This delay also applied for covered 
+institutions of more than $50 billion that did not participate in SCAP, who would begin testing in September 
+2013 instead of November 2012 (Federal Register, Vol. 77, No. 198, 10/12/2012 – p. 62381). 
+955
+The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP) Lawson
+
+--- Page 68 ---
+idiosyncratic risks as part of the adverse and more adverse scenarios in the mid -year tests 
+(Federal Register, Vol. 77, No. 198, 10/12/2012 – pp. 62387).  
+These Final Rules and related publications further built on the foundations that the SCAP 
+created, and t he Fed continues to release both the DFAST results and methodology to the 
+public (FRB: Dodd-Frank Act Stress Tests).  
+Copyright 2019, 2021 © Yale University. All rights reserved. To order copies of this material or to 
+receive permission to reprint any or a ll of this document, please contact the Yale Program on 
+Financial Stability at ypfs@yale.edu.  
+ 
+956
+Journal of Financial Crises Vol. 3 Iss. 3

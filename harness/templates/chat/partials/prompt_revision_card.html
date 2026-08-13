@@ -1,0 +1,36 @@
+{# An accepted system-prompt revision, shown in place in the transcript so you
+   can see exactly where the agent's instructions changed and why.
+   Expects: revision (row dict), conversation, is_admin. #}
+<aside class="revision-card is-accepted" id="revision-{{ revision.revision_id }}">
+  <header class="revision-card-head">
+    <span class="revision-card-icon" aria-hidden="true">⤳</span>
+    <span class="revision-card-title">
+      System prompt revised
+      <code>{{ revision.from_prompt_id }}</code> → <code>{{ revision.to_prompt_id }}</code>
+    </span>
+    <span class="revision-card-time">{{ revision.created_at }}</span>
+  </header>
+
+  {% if revision.rationale %}
+    <p class="revision-card-rationale">{{ revision.rationale }}</p>
+  {% endif %}
+
+  {% if is_admin %}
+    <details class="revision-card-diff">
+      <summary>View diff</summary>
+      {% with diff_groups = diff_groups, current_id = revision.from_prompt_id %}
+        {% include "partials/prompt_diff.html" %}
+      {% endwith %}
+    </details>
+
+    <div class="revision-card-actions">
+      {% if revision.source_turn_id %}
+        <a class="link-button" href="#turn-{{ revision.source_turn_id }}">Jump to the turn that caused this</a>
+      {% endif %}
+      <form method="post" class="chat-inline-form" data-confirm="Save a new version restoring the earlier text?"
+        action="{{ url_for('chat.revert_revision', conversation_id=conversation.conversation_id, revision_id=revision.revision_id) }}">
+        <button type="submit" class="link-button">Revert</button>
+      </form>
+    </div>
+  {% endif %}
+</aside>

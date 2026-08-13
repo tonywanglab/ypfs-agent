@@ -1,0 +1,484 @@
+## Belgium: Fortis Group Restructuring, 2008[1] 
+
+## _Ayodeji George[2]_ 
+
+Yale Program on Financial Stability Case Study March 28, 2024 
+
+## **Abstract** 
+
+Fortis Group, a financial conglomerate with subsidiaries in Belgium, the Netherlands, and Luxembourg, faced share price deterioration and a depositor run as the Global Financial Crisis (GFC) intensified in September 2008. On September 29, the three governments announced a EUR 11.2 billion bailout package that would allow the Fortis Group to continue operating with recapitalized subsidiaries. As part of that deal, Belgium contributed a EUR 4.7 billion capital injection to the Belgian subsidiary, Fortis Bank Belgium (FBB), which held both the group’s Belgian bank and its main Dutch and Luxembourgish banking activities. However, the cross-border cooperation fractured after the failure of the recapitalization to stem runs by depositors and other creditors. On October 3, Dutch authorities announced that the Dutch government would purchase and temporarily nationalize all of Fortis’s Dutch assets for EUR 16.8 billion. That announcement split the group and led the Belgian and Luxembourg governments to also change strategic course, focusing on rescuing Fortis’s subsidiaries while also separating them from the group. On October 5, Belgium announced it would purchase the remaining 50% of FBB from Fortis Group for EUR 4.7 billion, bringing its investment to EUR 9.4 billion for a 99.9% stake, and that it would then sell 75% of the bank to BNP Paribas, a large French bank, in exchange for new BNP Paribas ordinary shares. The plan also created a “bad bank,” structured as a special purpose vehicle (SPV), called Royal Park Investments (RPI), to assume FBB’s portfolio of troubled structured credit securities, largely linked to US subprime mortgages. The Belgian government had no legal authority at the time to impose losses on a failed bank’s equity shareholders or creditors; as such, the transactions required the approval of Fortis Group shareholders. After extended negotiations, shareholders approved the plan in April 2009, and the company completed the transaction with BNP Paribas on May 12, 2009. Since 2009, the government has sold its 25% stake in BNP Paribas for EUR 3.2 billion, its 43.5% stake in the SPV for EUR 1.0 billion, and roughly half its shares in BNP Paribas for EUR 4.1 billion. As of October 2023, it still held 5.1% of BNP Paribas, valued at about EUR 3.4 billion. 
+
+**Keywords:** Benelux, Belgium, Global Financial Crisis, restructuring 
+
+> 1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering bank resolutions and restructurings. A survey of all the cases in this series (McNamara et al. 2024) and the individual cases underlying it are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+This module details the restructuring of Fortis Bank in response to the Global Financial Crisis (GFC). The capital injections that preceded the restructuring are described in the accompanying module (George, forthcoming). 
+
+Fortis Group was a financial conglomerate that provided banking and insurance services internationally. The banking operations of the group were organized under Belgium-listed Fortis SA/NV (Fortis Holding), and the insurance activities were organized under Netherlands-listed Fortis NV. The banking services all fell under the umbrella of Fortis Bank Belgium (FBB), which was incorporated in Belgium. Fortis Bank Luxembourg (FBL) and Fortis Bank Nederland (FBN) were both subsidiaries of FBB.[3] As of June 2008, the Bank had EUR 876 billion (USD 1.4 trillion)[4] in assets and was characterized as a systemically important financial institution by the Basel Committee on Banking Supervision (Basel Committee 2010; EC 2008a). 
+
+Fortis Holding initiated the acquisition of parts of ABN AMRO in 2007, but by June 2008 the company faced skepticism from the market on its ability to finance the acquisition. Fortis’s share price deteriorated throughout the summer, and a depositor run began following the onset of the GFC in September 2008 (Basel Committee 2010; EC 2008a). 
+
+By late September 2008, it became clear to authorities in Fortis’s three major markets (Belgium, Luxembourg, and the Netherlands) 
+
+## **Key Terms** 
+
+Purpose: Belgian authorities sought a large bank to assume the Fortis Bank Belgium (FBB) balance sheet, and adjusted the restructuring plan to secure the approval of shareholders 
+
+||Size and Nature of|Financial conglomerate with|
+|---|---|---|
+||Institution|banking activities totaling EUR|
+|||876 billion across operations|
+|||in Belgium, the Netherlands,<br>and Luxembourg|
+||Source of Failure|Sustained share price|
+||Start Date|deterioration and depositor<br>run following losses incurred<br>from the acquisition of ABN<br>AMRO and GFC uncertainty<br>October 5, 2008|
+||End Date|May 12, 2009|
+||Approaches to|Sale of FBB to BNP Paribas and|
+||Resolution and|creation of a “bad bank,”|
+||Restructuring|structured as an SPV, to<br>assume the risky structured<br>credit portfolio|
+||Outcomes|The government has recouped<br>most of its investment and, as<br>of 2023, retains 5.1% of BNP<br>Paribas, one of the largest|
+||Notable Features|European banks<br>Three governments originally<br>proposed recapitalizing the<br>Fortis Group’s subsidiaries,|
+|||leaving the group structure|
+|||intact, but switched course in<br>days to a strategy that broke<br>up the company into national<br>units after the original plan<br>failed to restore confidence.|
+|||Shareholders sought legal|
+|||recourse and negotiations with|
+|||shareholders resulted in<br>significant delays but resulted<br>in only minor concessions|
+
+
+
+that an intervention was necessary. Authorities from the three countries and the European Central Bank (ECB) held talks throughout the weekend of September 27–29, announcing a 
+
+> 3 A diagram of the composition of Fortis Group is provided in the Appendix. 
+
+> 4 According to BIS, USD 1 = EUR 0.64 on June 2, 2008. 
+
+
+capital injection plan on September 29, 2008. The plan stated that each country would acquire a 49% stake in their respective subsidiaries (EC 2008a, 4). This amounted to EUR 4.7 billion from Belgium for FBB; EUR 4 billion from the Netherlands for FBN, excluding the Dutch assets for the former ABN AMRO; and EUR 2.5 billion from Luxembourg for FBL. The plan changed in early October following continued deposit runs and the failure of Dutch authorities to find a private buyer for the bank’s extensive Dutch assets (Basel Committee 2010; EC 2008a; Reuters 2009a). On October 3, Dutch authorities announced a total nationalization of all of Fortis’s Dutch assets, including both FBN and the former ABN AMRO assets, at a cost of EUR 16.8 billion. Belgian and Luxembourgish authorities worked quickly to change course. On October 5, Belgium announced that it would purchase the remaining 50% stake in FBB from Fortis SA/NV for EUR 4.7 billion, bringing its shareholding to 99.93%. It also announced that it would then sell off 75% of the bank to BNP Paribas. The government received, in exchange, new BNP Paribas ordinary shares valued at EUR 8.2 billion, although the value of those shares fell considerably by the time the transactions were completed in May 2009 (EC 2008a; ENP Newswire 2008; FSB 2015; Macmahon 2008). 
+
+Along with the aforementioned sale, the Belgian government also announced on October 5 a restructuring plan that split the operations of FBB between the Belgian state, BNP Paribas, and a “bad bank,” structured as a special purpose vehicle (SPV) called Royal Park Investments (RPI). However, a Belgian court suspended the implementation of the plan pending Fortis SA/NV shareholder approval. The shareholders approved an amended plan, which provided profits on government shares in BNP Paribas as well as various guarantees in FBB, on April 28, 2009, and authorities implemented the measures on May 12, 2009. BNP Paribas acquired 75% of FBB and 16% of FBL, while RPI took on most of the impaired structured credit portfolio (BNP Paribas 2009; EC 2008a; EC 2009; Fortis Bank 2009; Reuters 2009a; Reuters 2009b). The SPV sold the asset portfolio for EUR 6.7 billion to a consortium led by Lone Star, a private equity firm, in 2013, with the state realizing a EUR 260 million capital gain. In 2013, Belgium also sold its remaining 25% stake in BNP Paribas Fortis, the former FBB, for EUR 3.2 billion, reporting a gain of EUR 900 million. The government has sold about half its shares in BNP Paribas, bringing in a total of EUR 4.1 billion in sales in 2017 and 2023; as of October 2023, it still held 5.1% of the company, valued at about EUR 3.4 billion (SFPI 2014b; SFPI 2017; Retail Banker International 2023). Figure 1 provides a timeline of the Fortis intervention. 
+
+[FIGURE id=vol6_iss1_3_f1 type=diagram page=5 label="Figure 1" file=figure_1.png caption="Timeline of Events Related to the Belgian Rescue of Fortis"]
+### **Figure 1: Timeline of Events Related to the Belgian Rescue of Fortis**
+
+|Date|Event|
+|---|---|
+|Aug. 6, 2007|Shareholders approve the takeover of ABN AMRO|
+|Sep. 2008|Fortis faces substantial financing difficulties due to the subprime crisis, aggravated further by<br>asset impairments and market skepticism regarding the acquisition of ABN AMRO|
+|Sep. 27, 2008|Belgian, Dutch, and Luxembourgish authorities enter weekend negotiations to determine a<br>solution for troubled financial institutions|
+|Sep. 28, 2008|Belgian, Dutch, and Luxembourgish governments announce EUR 11.2 billion capital injection<br>package for Fortis SA/NV banking subsidiaries|
+
+
+
+
+|Oct. 3, 2008|After continued depositor runs, Dutch government changes course and nationalizes the former<br>Dutch assets of ABN AMRO and FBN, annulling their participation in the previous plan|
+|---|---|
+|Oct. 5, 2008|Belgian government purchases the remaining shares in FBB from Fortis SA/NV, effectively<br>nationalizing it, announces sale of 75% to BNP Paribas in return for new BNP Paribas shares, and<br>announces the creation of a “bad bank” SPV. Luxembourgish authorities also sell 50% of FBL to<br>BNP Paribas|
+|Nov. 20, 2008|Fortis, BNP Paribas, and Belgian authorities formally create Royal Park Investments, an SPV<br>intended to take on the structured credit portfolio of Fortis|
+|Dec. 23, 2008|Brussels Court of Appeal suspends restructuring deal, requiring approval of shareholders who<br>held shares prior to Oct. 14, 2008|
+|Feb. 11, 2009|Shareholders reject newly proposed deal for sale to BNP Paribas, forcing further negotiations|
+|Apr. 28, 2009|Shareholders approve revised restructuring plan|
+|May 12, 2009|Restructuring deal finalized with FBB becoming BNP Paribas Fortis; Belgium, through SFPI, takes<br>an 11.6% stake in BNP Paribas.|
+
+
+
+_Sources: EC 2008a; EC 2009._ 
+
+## **Summary Evaluation** 
+
+A report by the Basel Committee noted that, at the time of the Fortis intervention, Belgium lacked the necessary legislation to permit authorities to override the rights of shareholders. Negotiations with shareholders resulted in a significant and costly delay. The negotiations resulted in the government granting the former shareholders the rights of any upside it might have made on the shares it received in BNP Paribas in return for the recapitalization, although the government did not realize an upside when it sold those shares in 2017 and 2023 (Basel Committee 2010; BNP Paribas 2013; Retail Banker International 2023). 
+
+The Basel Committee also stated that the Fortis restructuring illustrated the tension between the domestic focus of national authorities and the cross-border nature of large financial institutions. Despite long-standing relationships and information sharing between Dutch and Belgian supervisory authorities, their different assessments of the situation led to solutions along national lines that complicated the resolution (Basel Committee 2010). 
+
+A Yale Program on Financial Stability (YPFS) report similarly commented on the crossborder resolution issues made clear by the Fortis intervention. The report notes that under the Single Supervisory Mechanism (SSM), which the EU established in 2014 to supervise banks in the Eurozone and Bulgaria, the original acquisition of ABN AMRO may have been significantly delayed, if not completely blocked. This is because the Single Resolution Mechanism includes a mandate to consider systemic risk issues, a feature that did not exist in the national regimes at the time. Fortis would have been designated a systemically important bank, placing it under the direct supervision of the European Central Bank (ECB) in collaboration with national authorities. The resolution framework under the SSM may also have been smoother because the ECB would have funded the original plan, ensuring that it was not subject to alteration by individual countries. Additionally, the mechanism could have arguably created a more collective forum from the beginning, averting cross-border tension (Wiggins, Tente, and Metrick 2019; Wiggins, Wedow, and Metrick 2019). 
+
+
+A review conducted by the Dutch Parliament was critical of the initial attempt at a crossborder solution for Fortis. The resulting report states that the intervention measures into Fortis came extremely late, both on the Dutch and Belgian sides. The report also states that too little attention was paid to potential alternative solutions, including the sale of ABN AMRO to ING Group. The report called for a cross-border supervisory framework with a single, powerful European supervisor, as well as an appropriate system of burden sharing, which the EU implemented in 2014 (Dutch Parliament 2012; Wiggins, Wedow, and Metrick 2019). 
+
+The court-ordered delay of the implementation of the restructuring plan forced Fortis to realize a foreign exchange loss. After negotiating the sale to BNP Paribas, Fortis purchased dollars and sterling to fund its share of RPI. However, the suspension of the deal left Fortis stuck with the depreciating foreign currencies, which it then had to offload. Fortis took a EUR 295 million loss on the transaction, reducing its net cash position from EUR 2.1 billion to EUR 1.8 billion. That said, a book chapter evaluating Belgian bank interventions stated that the Fortis bail-out provides an example that an EC member state’s restructuring of a bank can be profitable (see Key Design Decision No. 15, Duration) (AP 2008; Duprey 2017). 
+
+
+**Context: Belgium, FBB and BNP Paribas Fortis, 2008–2009 EUR 586.8 billion** as of Dec. 31, 2008 **Assets EUR 435 billion** as of Dec. 31, 2009 **EUR 571.6 billion** as of Dec. 31, 2008 **Liabilities EUR 416.6 billion** as of Dec. 31, 2009 **EUR 218 billion** as of Dec. 31, 2008 **Deposits EUR 190 billion** as of Dec. 31, 2009 **10.7%** as of Dec. 31, 2008 **Capital Ratio (Tier 1) 12.3%** as of Dec. 31, 2009 **EUR 24 billion** as of Dec. 31, 2008 **Nonperforming Loans EUR 11 billion** as of Dec. 31, 2009 **Unavailable** for Dec. 31, 2008 **Market Share Unavailable** for Dec. 31, 2009 **82.7%** as of Dec. 31, 2008 **Banking System, % of GDP 79.4%** as of Dec. 31, 2009 _Sources: Bloomberg; Fortis Bank 2009; Fortis Bank 2010; World Bank Global Financial Development Database; World Bank Deposit Insurance Dataset._ 
+
+## **Key Design Decisions** 
+
+**1. Purpose: Belgian authorities and the leadership of Fortis developed a restructuring plan to protect depositors and creditors while ensuring the approval of shareholders.** 
+
+In June 2008, Fortis Group faced skepticism from the market about the firm’s ability to complete a partial acquisition of ABN AMRO. The purchase price for ABN AMRO was EUR 70 billion, of which Fortis was responsible for EUR 24 billion. The growing subprime crisis severely impacted Fortis’s ability to mobilize the necessary financing for the deal, particularly with growing impairments on its EUR 42 billion structured credit portfolio. The deterioration of Fortis’s share price throughout the summer was compounded by a depositor run at the onset of the GFC in September 2008. The Fortis banking services were systemically important in Belgium (FBB), the Netherlands (FBN), and Luxembourg (FBL), because of the large positions in domestic markets, significance to public financing, and their role as clearing members of domestic and foreign stock exchanges (Basel Committee 2010; EC 2008a; Reuters 2009a). 
+
+On September 26, 2008, the Fortis board of directors concluded that that it could not raise sufficient funds in private markets to cover a EUR 30 billion liquidity deficit when markets reopened on Monday, September 29, 2008. At the time, Fortis had an estimated core equity of EUR 30 billion and Tier 1 equity ratio of 9%. After crisis talks took place involving representatives from the three governments and the ECB, authorities announced the simultaneous injection of capital into the three national banking units of the Fortis Group in the evening on September 29, 2008. The plan stated that each country would acquire a 49% 
+
+
+stake in their respective bank subsidiaries, amounting to a EUR 11.2 billion bailout package, while leaving the structure of the company unchanged. That said, the bailout package included a requirement to sell ABN AMRO at a price below the acquisition price (EC 2008a; Fortis 2008a; White 2008). 
+
+However, between September 29 and October 3, 2008, deposit withdrawals continued, and Fortis remained frozen out of interbank markets. This continued lack of market confidence led Dutch authorities to negotiate with the leadership of Fortis Group. Dutch authorities announced the full nationalization of FBN, the legal body encompassing the Dutch operations of Fortis Group, on October 3, 2008. The Dutch purchase totaled EUR 16.8 billion, a price that valued ABN AMRO and Fortis Insurance at EUR 9 billion, compared to the EUR 12 billion valuation that investors expected. The Dutch action resulted in the uncoupling of FBN from FBB and FBL, and Belgian authorities responded by seeking out a large bank to take over the Belgian arm of the company (NBB 2009, 30). The Dutch prime minister stated that, “Most problems lay in the Belgian part of Fortis. We wanted to make sure the Dutch activities wouldn't get into problems” (Van de Pol 2008). The only bank that indicated interest was BNP Paribas. On October 5, 2008, the Belgian government announced that it would temporarily nationalize FBB by purchasing the remaining 50% stake from Fortis Group for EUR 4.7 billion. In their announcement on October 5, 2008, Belgian authorities reiterated that the new plan represented their commitment to protect depositors and customers (EC 2008a; Kingdom of Belgium 2008; NBB 2009; Van de Pol 2008). 
+
+Having found BNP Paribas as the buyer for the majority of FBB, Belgian authorities and Fortis leadership worked to develop a restructuring plan that best fit the integration into BNP Paribas, under the assumption that the transaction would be completed in the weeks following the October announcement. However, the government and bank authorities faced legal pushback from shareholders in response to losses on the failed bank’s equity. As such, the approval of Fortis SA/NV shareholders was necessary to complete the sale (see Key Design Decision No. 3, Legal Authority), but shareholders rejected the proposed restructuring in February 2009. Authorities renegotiated the plan and shareholders granted their approval in April 2009 (EC 2008a; European Parliament 2018; Fortis Bank 2009; Reuters 2009b). The major changes of the revised plan are listed in Figure 2. 
+
+[FIGURE id=vol6_iss1_3_f2 type=figure page=9 label="Figure 2" file=figure_2.png caption="May 2009 Changes to Dec. 2008 Fortis SA/NV Restructuring Plan"]
+### **Figure 2: May 2009 Changes to Dec. 2008 Fortis SA/NV Restructuring Plan**
+
+|**Measure**|**Description**|**Beneficiary**|
+|---|---|---|
+|Belgian state RPI share capital<br>stake|Increase in state’s percentage of RPI<br>equity from 24% to 44%|Fortis SA/NV|
+|State guarantee on senior<br>tranche of RPI funding|State guaranteed all RPI senior<br>financing contributed by FBB|FBB/BNP Paribas Fortis|
+|RPI purchase of additional<br>impaired assets|RPI purchase of a further EUR 2 billion<br>of impaired structured credits|FBB/BNP Paribas Fortis|
+|State guarantee on FBB “in”<br>portfolio|After the first EUR 3.5 billion of losses,<br>the state covered the next EUR 1.5<br>billion of losses for the “in” portfolio|FBB/BNP Paribas Fortis|
+
+
+
+
+|State promise to maintain Tier 1<br>ratio|Belgian state promised to purchase up<br>to EUR 2 billion of Tier 1 instruments<br>in order to support FBB Tier 1 ratio of<br>9.2%|FBB/BNP Paribas Fortis|
+|---|---|---|
+|State guarantee of loan from<br>Holding to FBB|Belgian guarantee of EUR 1 billion loan<br>from Fortis Holding to FBB|N/A|
+|CASHES funding scheme<br>guarantee|State guarantee on the interest<br>payable as part of the CASHES funding<br>scheme|Fortis SA/NV|
+|Shareholder call option on BNP<br>Paribas shares|The right of Fortis Holding to any gains<br>associated with the Belgian state’s<br>shares in BNP Paribas|Fortis SA/NV|
+|FBL capital increase|Luxembourg subscription to EUR 100<br>million of FBL bonds, held against FBL<br>shares|FBL|
+
+
+
+_Source: EC 2009._ 
+
+## **2. Part of a Package: The restructuring plan followed an emergency liquidity facility and multiple capital injections, and the Belgian state also provided financing guarantees for Fortis and the “bad bank” special purpose vehicle.** 
+
+On September 29, 2008, the Belgian Central Bank provided emergency liquidity for FBB in the form of overnight advances amounting to around EUR 50 billion. Depositor runs continued, and in October 2008, the Belgian state bought new shares of FBB for EUR 4.7 billion, recapitalizing Fortis’s banking subsidiary, and then purchased the remainder of FBB from Fortis for an additional EUR 4.7 billion, alongside similar measures by Luxembourg for FBL (EC 2008a; Vistesen 2012). These capital injections are discussed in further detail in the corresponding ad hoc capital injections case (George, forthcoming). 
+
+To secure the approval of shareholders, the final restructuring plan included several new measures. Alongside the state guarantee provided to the commercial paper funding program for the SPV (see Key Design Decision No. 7, Source and Size of Funding), Belgian authorities also provided a guarantee on the structured credit portfolio retained by FBB (“in” portfolio). At year-end 2009, the nominal value of the portfolio was EUR 21 billion, and the state agreed to a framework in which FBB bore first losses up to EUR 3.5 billion and the Belgian state would compensate FBB for any losses beyond this point, up to EUR 1.5 billion (EC 2009). 
+
+The state guaranteed a EUR 1 billion loan from FBB to Fortis SA/NV at a cost of 70 basis points. The state also guaranteed the payment of interest on the relative performance note used to repay convertible and subordinated hybrid equity-linked securities (CASHES), which were obligations on the FBB balance sheet. The program prevented Fortis SA/NV from having to pay FBB up to EUR 2.4 billion on the CASHES securities in the short term (EC 2009). 
+
+The Belgian state agreed to purchase up to EUR 2 billion of Tier 1 capital in any form issued by FBB, with the goal of ensuring a Tier 1 ratio of 9.2%. Authorities committed to this guarantee for a period of three years. The Belgian state also provided a call option such that 
+
+
+Fortis SA/NV held the right to gains if the government sold the BNP Paribas shares received for the sale of 75% of FBB. The call option had a duration of six years and had an exercise price of EUR 68, later revised to EUR 66.67 (EC 2009; Fortis 2010a). 
+
+## **3. Legal Authority: The Law of 2 April 1962 established the Federal Participation and Investment Company as the agency responsible for state participation in financial institutions.** 
+
+The Law of 2 April 1962 established the Federal Participation and Investment Company (SFPI) in Belgium. Article 3 of the law empowered the agency to hold some or all of the shares of a public limited company. However, the law required that SFPI purchase at least 75% of the capital when intervening in a financial institution (Belgium 1962). 
+
+The pivotal piece of the restructuring plan, the sale of FBB to BNP Paribas, was significantly delayed by legal issues. An FBB competitor submitted complaints alleging a distortion of competition in the Belgian market caused by the state intervention into Fortis. On November 20, 2008, a group of shareholders filed a complaint on the basis that the Belgian state sold the assets of FBB at too low a price. On December 12, 2008, the Brussels Court of Appeal ruled that the Fortis SA/NV board of directors required approval from Fortis SA/NV shareholders for the sale of FBB to BNP Paribas. Specifically, the vote was to be taken among shareholders who had held shares prior to October 14, 2008 (Agence France-Presse 2008; Blenkinsop 2008; EC 2008a; EC 2009). 
+
+The restructuring of Fortis required final approval from the European Commission (EC) (EC 2009). 
+
+## **4. Administration: Belgian authorities collaborated with the leadership of Fortis and BNP Paribas to negotiate the restructuring plan.** 
+
+The Belgian government injected capital into Fortis through the SFPI. SFPI was an independent legal entity created to undertake investment transactions that did not meet economic criteria but held societal value (SFPI 2009). As such, SFPI had four major mandates: 
+
+- Stimulate the development and establishment of private enterprises 
+
+- Promote economic public initiative 
+
+- Contribute to the execution of the economic strategy of the state 
+
+- Give opinions at the request of the federal government 
+
+## **5. Governance: SFPI was accountable to the minister of finance and the minister of economic affairs.** 
+
+The law of April 2, 1962, outlined the governance structure for SFPI. SFPI received its assignments from royal decrees or special laws enacted by the Belgian Council of Ministers. 
+
+
+SFPI itself fell under the purview of the minister of finance and the minister of economic affairs. These two ministers jointly proposed a commissioner for the king to appoint as a liaison between the government and the board of directors responsible for the daily operations of SFPI (Belgium 1962). 
+
+The board of directors consisted of at least 12 members and two independent directors, and government officials at all levels were prohibited from being part of it. The Council of Ministers appointed the members of the board of directors by royal decree, while the king created a jury to propose the independent directors (SFPI 2014a; SFPI 2014b; Belgium 1962). 
+
+## **6. Communication and Disclosure: Belgian authorities and Fortis leadership aimed to project calm by ensuring that all depositors and creditors would be protected, but shareholders objected to the resolution plan proposed on October 5, 2008.** 
+
+Authorities from Belgium, the Netherlands, and Luxembourg announced a multilateral EUR 11.2 billion capital injection into Fortis on the evening of September 28, 2008.  Regarding the bailout, the Belgian prime minister stated that it showed savers and investors that Fortis would not be allowed to fall victim to the GFC. The Dutch finance minister stated that the lack of market confidence was unjustified, and that the bank was sound (EC 2008a; White 2008). 
+
+After continued depositor runs, the Dutch government nationalized FBN on October 3, 2008. Regarding this unilateral move, the Dutch prime minister stated most of the group’s problems were in FBB, and that the Dutch move was intended to insulate Fortis’s Dutch activities. During intervention talks with Luxembourgish authorities, the Belgian prime minister stated his intention to keep Fortis’s Belgian and Luxembourgish operations together. He emphasized that authorities were in conversation with several private groups, and that the goal was to send a strong signal to markets prior to opening (ENP Newswire 2008; Macmahon 2008; Van de Pol 2008). 
+
+Belgian authorities issued a press release on October 5, 2008, announcing that the government would purchase the remaining shares of Fortis Bank Belgium from Fortis SA/NV for EUR 4.7 billion and that it had agreed to sell 75% of the bank to BNP Paribas. The press release stated that the additional measures aimed to ensure the “lasting solvability” of Fortis Bank Belgium and reiterated the government’s commitment to protecting depositors and customers (Kingdom of Belgium 2008).  Fortis SA/NV issued a press release on October 14, 2008, announcing all of the measures and the new structure of the group in terms of its Dutch and Belgian operations (Fortis 2008b; Kingdom of Belgium 2008). 
+
+The Belgian prime minister resigned in December 2008 after being accused of trying to influence the court’s decision to delay the restructuring measures (AP 2008). 
+
+## **7. Source and Size of Funding: FBB received multiple capital injections before being purchased by BNP Paribas, and public-private sources funded the SPV.** 
+
+Before the BNP Paribas restructuring, Belgium’s SFPI injected EUR 4.7 billion of capital into FBB in the form of new ordinary shares. In October 2008, it purchased the remaining, 
+
+
+existing shares of FBB from Fortis SA/NV for EUR 4.7 billion, bringing its stake to 99.9%. In both the September 29 and October 5 transactions, authorities purchased the shares at the market price of September 26, 2008, which was EUR 5.20 per share. SFPI funded itself through issuing bonds with a minimum duration of five years. In the event that SFPI was not able to repay its obligations, the Belgian state provided the necessary funding to make up the difference (EC 2008a; Belgium 1962; NBB 2009). 
+
+The Belgian state, Fortis SA/NV, and BNP Paribas jointly funded RPI, the SPV that assumed the structured credit portfolio. RPI acquired the portfolio for approximately EUR 11.7 billion, resulting in a significant write-down for Fortis SA/NV. The parties funded RPI with EUR 1.7 billion of equity and EUR 9.7 billion of debt. The Belgian state took an equity stake of EUR 740 million, and BNP Paribas increased its previously agreed upon equity stake to EUR 200 million. The remaining capital was held by Fortis SA/NV, which changed its name to Ageas in 2010 (see Key Design Decision No. 15, Duration) (EC 2009; Fortis 2010b; Fortis Bank 2010; Market News Publishing 2009). 
+
+Alongside the EUR 1.7 billion equity layer, RPI funded itself through issuing two tranches of debt, each amounting to EUR 4.8 billion for a total of EUR 9.7 billion. FBB subscribed to the super-senior tranche, which consisted of a revolving loan that carried an interest rate of the Inter Bank Offered Rate plus 20 basis points. The senior tranche consisted of a EUR 485 million loan from BNP Paribas and a EUR 4.4 billion commercial paper program issued by FBB to institutional investors with a guarantee from the Belgian state. The Belgian state charged RPI a 70-basis-point fee for guaranteeing the commercial paper program and provided a bridge loan during the three-to-four-month period in which the program was being set up. The state guarantee of the commercial paper program was a major change from the October 2008 agreement, raising the Belgian state’s exposure to RPI’s senior financing from 24% to 90% (EC 2008a; Market News Publishing 2009). 
+
+## **8. Approach to Resolution and Restructuring: The Belgian government transferred the majority of FBB to BNP Paribas and created an SPV to assume the riskiest portfolio of assets.** 
+
+The original plans developed by Belgium, the Netherlands, and Luxembourg to multilaterally recapitalize each of the national banking subsidiaries of Fortis Group changed when the announcement of the EUR 11.2 billion capital injection failed to slow the run on the bank. The Dutch minister of finance stated that the continued lack of confidence had “evaporated the joint capital injection” (Van de Pol 2008). In response, Dutch authorities unilaterally nationalized FBN at a cost of EUR 12.8 billion. Additionally, the Dutch repaid FBN’s debts at a cost of EUR 16 billion and acquired Fortis Insurance Nederland for EUR 4 billion. The Dutch acquisition notably also included the Dutch state taking over Fortis’s stake in ABN AMRO.[5] The Dutch chose this method of intervention due to the belief that the majority of Fortis’s issues were in its Belgian activities (EC 2008a; Van de Pol 2008). 
+
+> 5 The September 29, 2008, bailout package included a requirement to sell ABN AMRO at a price below the acquisition price (Fortis 2008a). 
+
+
+By splitting Fortis Group, the measures taken by Dutch authorities forced Belgium and Luxembourg to amend their approach as well. On October 5, 2008, Belgian authorities announced that the state had purchased the remaining existing shares of FBB from Fortis SA/NV, effectively nationalizing the bank. Following the acquisition of shares, Belgian authorities developed a restructuring plan in which it would sell 75% of its stake in FBB to BNP Paribas and transfer the worst performing assets to an SPV called Royal Park Investments. Luxembourg authorities also announced that they would sell 16% of the Luxembourg stake in subsidiary FBL to BNP Paribas as part of the restructuring (EC 2008a; Macmahon 2008). 
+
+Completion of the sale to BNP Paribas was subject to several conditions imposed following shareholder legal complaints. On November 4, 2008, a Fortis competitor filed a complaint stating that the state’s capital injections distorted the market. On November 6, 2008, a Belgian court ruled that a vote by the shareholders of Fortis SA/NV was required in order to complete the sale to BNP Paribas, resulting in the scheduling of December shareholder meetings. A large institutional shareholder submitted a complaint to a Belgian court on November 20, 2008, alleging that the price paid by BNP Paribas—121 million new shares for an 11.6% stake, which would have been worth EUR 8.2 billion based on a EUR 68 share price, a 17% premium to the then-market price—was significantly below the real value of FBB at the time of the transaction. The Fortis SA/NV board of directors approved the measures in the December 1 shareholder meeting, but the Belgian court of appeals suspended the implementation on December 12, 2008. The court ruled that the measures required approval from Fortis SA/NV’s shareholders, resulting in authorities scheduling a shareholder meeting for February 11, 2009 (Agence France-Presse 2008; Dow Jones Newswires 2008; EC 2008a; Fortis Bank 2009). 
+
+At the February 11, 2009, meeting, shareholders voted against the restructuring measures, forcing the management of Fortis and BNP Paribas, as well as public authorities, to renegotiate a new deal. Authorities reached a new agreement on March 6, 2009; however, a Belgian court again intervened on March 31, 2009, ruling that only shareholders who owned Fortis shares prior to October 14, 2008, could vote on the restructuring plan. As a result, the Fortis SA/NV board of directors chose to postpone the vote until the meetings of April 28– 29. Shareholders approved the restructuring plan on April 28, 2009. Authorities included several measures to secure the approval of shareholders (see Figure 2 in Key Design Decision No. 2, Part of a Package) (Blenkinsop 2008; EC 2009; Fortis Bank 2009; Reuters 2009b). 
+
+On May 12, 2009, the EC submitted its approval of the new restructuring plan, and on the same day BNP Paribas acquired 75% of FBB from the Belgian state. In return, Belgium received an 11.7% stake in BNP Paribas, which was managed by SFPI. The Belgian state created RPI to assume the riskiest structured credits of Fortis Bank. Pursuant to the restructuring plan, RPI assumed the structured credit portfolio at a cost of EUR 11.7 billion. RPI sold its portfolio of assets to Lone Star Funds on April 26, 2013 for EUR 6.7 billion. Following the sale, the state recognized a capital gain of EUR 260 million on its initial investment (EC 2008a; EC 2009; SFPI 2010; SFPI 2014b; Royal Park Investments n.d.). Balance sheets for Fortis Group, the split entities between the Netherlands and Belgium, and the SPV are shown in Figure 3. 
+
+
+[FIGURE id=vol6_iss1_3_f3 type=chart page=15 label="Figure 3" file=figure_3.png caption="Balance Sheets of Fortis Group and Deconsolidated Entities, 2007–2009 (EUR billions)"]
+### **Figure 3: Balance Sheets of Fortis Group and Deconsolidated Entities, 2007–2009 (EUR billions)**
+![Figure 3](assets/vol6_iss1_3/figure_3.png)
+
+
+_Sources: Fortis 2010a; Fortis Bank 2009; Fortis Bank 2010._ 
+
+## **9. Treatment of Creditors and Equity Holders: Creditors did not take any losses and equity holders received a call option on BNP Paribas shares after extensive negotiations.** 
+
+Following the breakdown in the September 2008 bailout, Belgium purchased a further 50.1% of FBB for EUR 4.7 billion in cash, nationalizing the bank. The basis of the shareholder dispute that delayed the implementation of the restructuring (see Key Design Decision No. 8, Approach to Resolution and Restructuring) was that the public communication by Fortis had misrepresented the state of affairs. Shareholders argued that the sale to BNP Paribas for EUR 8.2 billion did not reflect the true value of Fortis at the time. The EC noted that the price paid by BNP Paribas was 0.7 times the book value of FBB (and FBL), consistent with the purchase prices of other distressed banks at the time (EC 2008a; European Parliament 2018; Fortis Bank 2009). 
+
+In the revised restructuring plan approved in April 2009, authorities granted Fortis SA/NV a call option on the 121 million BNP Paribas shares that the state received as payment for 
+
+
+75% of FBB. In 2013, the Belgian government repurchased the call option from Fortis SA/NV, which by then had rebranded as Ageas SA/NV, for EUR 144 million. The shares have only briefly traded above the strike price since 2009 and the two sales the government has made of portions of its stake in BNP Paribas were below that level (Ageas 2014; EC 2009).[6] 
+
+A Fortis press release on October 14, 2008, stated that the bank expected to be able to service all debt obligations as a result of the restructuring plan. In the interim between the suspension of the deal and its final approval in April 2009, depositors continued to run and the bank struggled to maintain relationships with creditors (EC 2009; Fortis Bank 2009). Research did not reveal any evidence of creditor losses as a result of the final restructuring plan implemented in May 2009. 
+
+## **10. Treatment of Clients: Clients remaining in FBB became clients of BNP Paribas Fortis.** 
+
+After purchasing a 75% stake from the Belgian government, BNP Paribas took on the clients of FBB. The new BNP Paribas Fortis organized itself around four business lines; Retail & Private Banking, Corporate & Public Bank Belgium, Corporate & Investment Banking, and Investment Solutions (Fortis Bank 2010). 
+
+After announcing its rebranding in 2010, Ageas leadership continued to use the Fortis name in its dealings with clients for whom they deemed it to be beneficial (Fortis 2010b). 
+
+## **11. Treatment of Assets: Royal Park Investments took on the riskiest structured credits from Fortis.** 
+
+The restructuring plan called for the sale of Fortis’s structured credit portfolio to RPI, a “bad bank” SPV formed on November 20, 2008. The risky assets in the portfolio included assetbacked securities, mortgage-backed securities, and collateralized debt obligations, and it had a face value of EUR 20.2 billion. RPI officially purchased the portfolio on May 12, 2009, for EUR 11.7 billion. The sale lowered the risk-weighted assets of FBB by 27%, positively impacting the Tier 1 ratio (Fortis Bank 2009; Fortis Bank 2010). 
+
+Part of the structured credit portfolio remained on the balance sheet of BNP Paribas Fortis, amounting to EUR 14.6 billion of exposure as of year-end 2009 (Fortis Bank 2010, 170). The Belgian state guaranteed the losses in this portfolio up to EUR 1.5 billion (Fortis Bank 2010, 170). This guarantee would only be activated following the first EUR 3.5 billion of losses, which was far higher than the losses expected by authorities (EC 2009; Fortis Bank 2010). 
+
+## **12. Treatment of Board and Management: The CEO and chairman of the board resigned in connection with the restructuring.** 
+
+The sitting chairman of the board resigned following the announcement of the Fortis capital injection (Reuters 2009a). Following the capital injections, displeased minority shareholders of Fortis rejected the proposed new chairman, Étienne Davignon, on December 2, 2008 
+
+> 6 Stock data found using Yahoo Finance. 
+
+
+(Reuters 2009a). Absent a sitting chairman,  the board of directors penned the statement in the 2008 annual report, and a new chair of the board named Herman Daems had been seated by 2009 (Fortis Bank 2009; Fortis Bank 2010; Reuters 2009a). 
+
+Belgian authorities also placed restrictions on the severance packages offered to outgoing executives (see Key Design Decision No. 14, Other Conditions) (Reuters 2008). 
+
+## **13. Cross-border Cooperation: The catalyst for the restructuring approach was the ring fencing of FBN from FBB and FBL.** 
+
+The nationalization path taken by the Netherlands in lieu of the September 2008 bailout necessitated the restructuring plan negotiated between Belgian authorities and BNP Paribas. Belgian and Luxembourgish authorities worked together to find a solution for FBB and FBL. Alongside the Belgian transactions, BNP Paribas purchased a 17% stake in FBL from the Luxembourg state in exchange for BNP Paribas shares. FBB itself was a 50% shareholder of FBL, so BNP Paribas effectively owned 65% of FBL’s share capital. In exchange, Luxembourg became a 1% shareholder in BNP Paribas (BNP Paribas 2009; EC 2008a; Macmahon 2008). 
+
+## **14. Other Conditions: Belgian authorities set limitations on severance compensation for outgoing executives.** 
+
+Belgian authorities limited the compensation packages that outgoing executives received upon their resignation. According to the provisional measures, departing executives were entitled to a maximum of 12 months’ salary, with potential for 18 months’ salary for executives who had served for extended periods (defined as about 25 years). Belgium also required that Fortis set up independent remuneration committees and present reports detailing executive compensation at shareholder meetings (Reuters 2008). 
+
+As part of the restructuring deal, the EC required that BNP Paribas divest 100% of its Personal Finance business in Belgium. The EC concluded that this condition would eliminate concerns of distortions of competition in the markets of Belgium and Luxembourg (EC 2008b). 
+
+## **15. Duration: FBB now operates under the name BNP Paribas Fortis; Fortis SA/NV continues to operate as Ageas SA/NV; and RPI exists as a plaintiff in various legal proceedings.** 
+
+Belgian authorities and the leadership of BNP Paribas and Fortis agreed on a restructuring plan on October 5, 2008 (EC 2008a, 6). A Belgian court suspended the implementation of this restructuring plan, resulting in extended negotiations. Shareholders approved an amended restructuring plan on April 28, 2009. Following the implementation on May 12, 2009, FBB continued operations under the brand name BNP Paribas Fortis (EC 2008a; Fortis Bank 2010). 
+
+RPI sold its portfolio to Lone Star on April 26, 2013 for EUR 6.7 billion. The sale allowed the Belgian state to realize a capital gain of EUR 260 million from its initial EUR 740 million capital provision. This transaction resulted in a EUR 260 million capital gain for the Belgian 
+
+
+state. On behalf of the Belgian state, SFPI also purchased from Fortis SA/NV the call option that Fortis SA/NV had received as part of the restructuring plan for EUR 144 million and executed it, receiving 3.6 million shares in BNP Paribas. As the legal successor to several Fortis Holding entities, RPI remains in operation as the plaintiff in financial proceedings brought against various financial institutions (Duprey 2017; SFPI 2014b; Royal Park Investments n.d.). 
+
+On November 13, 2013, the Belgian state sold its 25% stake in BNP Paribas Fortis for EUR 3.2 billion. This transaction resulted in a EUR 900 million capital gain for the Belgian state. The Belgian government also progressively sold off parts of its stake in BNP Paribas. In 2017, the SFPI sold a 2.5% stake at EUR 62.40 per share, totaling EUR 2 billion and generating a capital gain for the Belgian state. In 2023, SFPI sold another 2.7% stake at EUR 64.96 per share, totaling EUR 2.2 billion. As of 2023, SFPI owns 5.1% of BNP Paribas (SFPI 2014b; SFPI 2017; Retail Banker International 2023). 
+
+In April 2010, Fortis Holding announced shareholder approval of its rebranding as Ageas. The rebrand took place gradually, completing in May 2011. Ageas remains in operation as a standalone insurance business as of the writing of this case study (Ageas 2023; Fortis 2010b). 
+
+
+## **References and Key Program Documents** 
+
+## **Summary of Program** 
+
+(Royal Park Investments n.d.) Royal Park Investments. n.d. “On the Subject of RPI.” _Web page detailing the origins and activities of Royal Park Investments_ . http://elischolar.library.yale.edu/ypfs-documents2/2599 
+
+## **Implementation Documents** 
+
+(EC 2008a) European Commission (EC). 2008a. “Restructuring Aid to Fortis Bank and Fortis Bank Luxembourg,” December 3, 2008. 
+
+_European Commission letter describing the capital injection measures for Fortis Bank_ . http://elischolar.library.yale.edu/ypfs-documents2/2597 
+
+(EC 2009) European Commission (EC). 2009. “Additional Aid for Fortis Banque, Fortis Banque Luxembourg and Fortis Holding,” May 12, 2009. 
+
+_European commission letter describing measures for the sale of Fortis Bank_ . http://elischolar.library.yale.edu/ypfs-documents2/2618 
+
+## **Legal/Regulatory Guidance** 
+
+(Belgium 1962) Kingdom of Belgium. 1962. Law of 2 April 1962. _Law establishing SFPI and detailing its goals and governance (in French)_ . http://elischolar.library.yale.edu/ypfs-documents2/2600 
+
+(EC 2008b) European Commission (EC). 2008b. Case No COMP/M.5384–BNP Paribas/Fortis. 
+
+_EC decision describing the merger of BNP Paribas and Fortis Bank and dictating conditions_ . https://ypfs.som.yale.edu/node/24423 
+
+(SFPI 2014a) Federal Participations and Investment Company (SFPI). 2014a. Governance Charter. 
+
+_Charter outlining the governance principles of SFPI (in French)_ . http://elischolar.library.yale.edu/ypfs-documents2/2603 
+
+## **Media Stories** 
+
+(Agence France-Presse 2008) Agence France-Presse. 2008. “Belgian Prosecutor Says Fortis Sale to BNP ‘Irregular’: Report,” November 6, 2008. 
+
+_News article reporting scrutiny from a public prosecutor regarding the Fortis sale to BNP Paribas_ . 
+
+https://ypfs.som.yale.edu/node/24443 
+
+
+(AP 2008) Associated Press (AP). 2008. “Fortis Bank Says Aborted Takeover Deal Cost It Euro295 Million in Currency Transactions,” December 24, 2008. 
+
+_News article reporting Fortis losses as a result of the court-ordered delay of its sale to BNP Paribas_ . 
+
+https://ypfs.som.yale.edu/node/24444 
+
+(Blenkinsop 2008) Blenkinsop, Philip. 2008. “Belgian Court Suspends Fortis Carve-Up - Lawyer.” _Reuters_ , December 12, 2008. 
+
+_News article reporting on the suspension of the Fortis sale to BNP Paribas pending shareholder approval_ . https://ypfs.som.yale.edu/node/24445 
+
+(Dow Jones Newswires 2008) Dow Jones Newswires. 2008. “Fortis: Ping An Owns 4.81% of Co on September 1, 2008,” November 6, 2008. 
+
+_News article reporting Ping An’s ownership percentage of Fortis_ . https://ypfs.som.yale.edu/node/24446 
+
+(Macmahon 2008) Macmahon, Peter. 2008. “Eleventh-Hour Push to Find Buyer for Fortis.” _The Scotsman_ , October 6, 2008. 
+
+_News article reporting the efforts by Belgian and Luxembourgish authorities to find a buyer for Fortis_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/2609 
+
+(Market News Publishing 2009) Market News Publishing. 2009. “Fortis Holding, BNP Paribas, Fortis Bank and the Belgian State Agree on Funding Arrangements for Special Purpose Vehicle Royal Park Investments,” April 26, 2009. _News article detailing the funding arrangement for RPI_ . https://ypfs.som.yale.edu/node/24449 
+
+(Retail Banker International 2023) Retail Banker International. 2023. “Belgium Sells Stake Worth €2.17bn in French Lender BNP Paribas,” March 2, 2023. _News article reporting on the Belgian sale of some of its stake in BNP Paribas_ . https://ypfs.som.yale.edu/node/24519 
+
+(Reuters 2008) Reuters. 2008. “Belgium Sets Caps on Executive Golden Parachutes,” November 7, 2008. 
+
+_News article announcing Belgian restrictions on exit compensation for outgoing executives_ . https://ypfs.som.yale.edu/node/24450 
+
+(Reuters 2009a) Reuters. 2009a. “Timeline-Fortis: From Riches to Rags,” February 11, 2009. 
+
+_News article discussing the timeline of the government intervention into Fortis_ . http://elischolar.library.yale.edu/ypfs-documents2/2595 
+
+
+(Reuters 2009b) Reuters. 2009b. “Resolutions of the General Meeting of Shareholders of Fortis SA/NV Held on 28 April 2009 in Ghent,” April 28, 2009. 
+
+_News article featuring the press release of the results of the Fortis shareholder meeting held in April 2009_ . 
+
+https://ypfs.som.yale.edu/node/24452 
+
+(Van de Pol 2008) Van de Pol, Jurjen. 2008. “Netherlands Buys Fortis Operations for EU16.8 Billion.” _Bloomberg_ , October 3, 2008. 
+
+_News article reporting on the Dutch acquisition of FBN_ . https://ypfs.som.yale.edu/node/24453 
+
+(Vistesen 2012) Vistesen, Claus. 2012. “Emergency Liquidity Assistance in the Eurozone – Draghi’s Irreversible Euro Put Explained.” _Credit Writedowns_ , August 9, 2012. _News article discussing ELA in the Eurozone_ . https://ypfs.som.yale.edu/node/24454 
+
+(White 2008) White, Aoife. 2008. “Benelux Nations Partially Nationalize Fortis Bank.” _Associated Press_ , September 28, 2008. 
+
+_News article discussing the capital injection for Fortis_ . http://elischolar.library.yale.edu/ypfs-documents2/2612 
+
+## **Press Releases/Announcements** 
+
+(Ageas 2023) Ageas. 2023. “Ageas Reports First Half-Year Results 2023.” Press release, August 30, 2023. 
+
+_Press release of Ageas financial results for the first half of 2023_ . https://ypfs.som.yale.edu/node/24442 
+
+(BNP Paribas 2009) BNP Paribas. 2009. “BNP Paribas Completes the Acquisition of Fortis Bank and Forms a Strategic Partnership in Insurance with Fortis.” Press release, May 12, 2009. 
+
+_Press release announcing the completion of the sale of Fortis Bank Belgium to BNP Paribas_ . https://ypfs.som.yale.edu/node/24441 
+
+(BNP Paribas 2013) BNP Paribas. 2013. “Communiqué de Presse Conjoint Du Gouvernement Belge et de BNP Paribas.” Press release, November 13, 2013. 
+
+_Joint press release by BNP Paribas and the Belgian government announcing sale of the state’s stake in BNP Paribas Fortis (in French)_ . 
+
+https://ypfs.som.yale.edu/node/24520 
+
+(ENP Newswire 2008) ENP Newswire. 2008. “DnB - The Dutch Ministry of Finance Has Published the Following Press Release.” Press release, October 6, 2008. 
+
+_Press release by Dutch authorities on their change of strategy towards intervening in Fortis_ . http://elischolar.library.yale.edu/ypfs-documents2/2610 
+
+
+(Fortis 2008a) Fortis. 2008a. “Governments of Belgium, Luxembourg and the Netherlands Invest EUR 11.2 Billion in Fortis.” Press release, September 29, 2008. 
+
+_Press release announcing a capital injection into Fortis Group by Belgium, the Netherlands, and Luxembourg_ . 
+
+https://ypfs.som.yale.edu/node/24440 
+
+(Fortis 2008b) Fortis. 2008b. “Information on the New Structure of Fortis SA/NV and Fortis N.V.” Press release, October 14, 2008. 
+
+_Press release announcing further intervention measures for Fortis and detailing next steps_ . http://elischolar.library.yale.edu/ypfs-documents2/2601 
+
+(Fortis 2010a) Fortis. 2010a. “Full Year Results 2009.” Press release, March 10, 2010. _Press release announcing Fortis’s full year results for the year 2009_ . https://ypfs.som.yale.edu/node/24438 
+
+(Fortis 2010b) Fortis. 2010b. “Fortis Becomes Ageas with Support of Shareholders.” Press release, April 29, 2010. 
+
+_Press release announcing the rebranding of Fortis Holding as Ageas_ . https://ypfs.som.yale.edu/node/24437 
+
+(Kingdom of Belgium 2008) Kingdom of Belgium. 2008. “Fortis: Additional Measures.” Press release, October 5, 2008. 
+
+_Press release announcing additional intervention measures for Fortis_ . http://elischolar.library.yale.edu/ypfs-documents2/2604 
+
+## **Reports/Assessments** 
+
+(Ageas 2014) Ageas. 2014. Annual Report 2013. _Ageas annual report for the year 2013_ . https://ypfs.som.yale.edu/node/24435 
+
+(Basel Committee 2010) Basel Committee on Banking Supervision. 2010. “Report and Recommendations of the Cross-Border Bank Resolution Group,” March 2010. _Set of resolution recommendations published by the Basel committee_ . http://elischolar.library.yale.edu/ypfs-documents2/2598 
+
+(Dutch Parliament 2012) Dutch Parliament. 2012. “Parliamentary Inquiry into the Financial System: Chapter 1 Conclusions and Recommendations,” 2012. _Chapter 1 of report detailing conclusions and recommendations regarding the 2008 Dutch intervention into Fortis_ . 
+
+https://ypfs.som.yale.edu/node/24434 
+
+(Fortis Bank 2009) Fortis Bank. 2009. Annual Report 2008. _Fortis Bank Annual report for year 2008_ . http://elischolar.library.yale.edu/ypfs-documents2/2616 
+
+
+(Fortis Bank 2010) Fortis Bank. 2010. Annual Report 2009. _Fortis Bank annual report 2009_ . http://elischolar.library.yale.edu/ypfs-documents2/2614 
+
+(NBB 2009) National Bank Belgium (NBB). 2009. “Financial Stability Review 2009,” 2009. _Belgian central bank review of the year’s events related to domestic financial stability_ . https://ypfs.som.yale.edu/node/14344/ 
+
+(SFPI 2009) Federal Participations and Investment Company (SFPI). 2009. Annual Report 2008. 
+
+_Unofficial translation of the SFPI annual report for year 2008 (in French)_ . http://elischolar.library.yale.edu/ypfs-documents2/2617 
+
+(SFPI 2010) Federal Participations and Investment Company (SFPI). 2010. Annual Report 2009. 
+
+_SFPI annual report for year the 2009 (in French)_ . http://elischolar.library.yale.edu/ypfs-documents2/2615 
+
+(SFPI 2014b) Federal Participations and Investment Company (SFPI). 2014b. Annual Report 2013. _SFPI annual report for the year 2013 (in French)_ . https://ypfs.som.yale.edu/node/24429 
+
+(SFPI 2017) Federal Participations and Investment Company (SFPI). 2017. “Annual Report 2016,” 2017. _SFPI annual report for the year 2016 (in French)_ . https://ypfs.som.yale.edu/node/24521 
+
+## **Key Academic Papers** 
+
+(Duprey 2017) Duprey, Jean-Sébastien. 2017. “State Aid to Banks in Belgium.” In _Research Handbook on State Aid in the Banking Sector_ , 307–55. Edited by François-Charles Laprévote, Joanna Gray, and Francesco De Cecco. Cheltenham: Elgar Publishing. _Book chapter detailing the Belgian response to the GFC_ . https://ypfs.som.yale.edu/node/24483/ 
+
+(European Parliament 2018) European Parliament. 2018. “Compensation of Investors in Belgium,” June 2018. 
+
+_Report discussing instances of mis-selling of investment products to retail clients_ . https://ypfs.som.yale.edu/node/24428 
+
+(FSB 2015) Financial Stability Board (FSB). 2015. “Historical Losses and Recapitalisation Needs,” November 9, 2015. 
+
+_FSB report discussing instances of recapitalization_ . http://elischolar.library.yale.edu/ypfs-documents2/2602 
+
+
+(George, forthcoming) George, Ayodeji. Forthcoming. “Belgium: Fortis Capital Injection, 2008.” _Journal of Financial Crises_ . 
+
+_YPFS case study examining the ad hoc capital injection provided to Fortis Group in 2008_ . 
+
+(McNamara et al. 2024) McNamara, Christian M., Carey K. Mott, Salil Gupta, Greg Feldberg, and Andrew Metrick. 2024. “Survey of Resolution and Restructuring in Europe, Pre- and Post- BRRD.” _Journal of Financial Crises_ 6, no.1. 
+
+_Survey of YPFS case studies examining 21st-century bank resolutions and restructuring in Europe before and after the existence of the Bank Recovery and Resolution Directive_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/1 
+
+(Wiggins, Tente, and Metrick 2019) Wiggins, Rosalind Z., Natalia Tente, and Andrew Metrick. 2019. “European Banking Union C: Cross-Border Resolution–Fortis Group.” _Journal of Financial Crises_ 1, no. 3: 150–71. 
+
+_YPFS case study describing the resolution of Fortis Group_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss3/9 
+
+(Wiggins, Wedow, and Metrick 2019) Wiggins, Rosalind, Michael Wedow, and Andrew Metrick. 2019. “European Banking Union A: The Single Supervisory Mechanism.” _Journal of Financial Crises_ 1, no. 3: 113–29. 
+
+_YPFS case study describing the Single Supervisory Mechanism (SSM)_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss3/7 
+
+
+## **Appendix** 
+
+[FIGURE id=vol6_iss1_3_f4 type=diagram page=25 label="Figure 4" file=figure_4.png caption="Structure of Fortis, FBN, and FBB as of October 10, 2008"]
+### **Figure 4: Structure of Fortis, FBN, and FBB as of October 10, 2008**
+![Figure 4](assets/vol6_iss1_3/figure_4.png)
+
+
+_Source: European Parliament 2018._ 
+
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

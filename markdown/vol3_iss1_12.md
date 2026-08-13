@@ -1,0 +1,420 @@
+## The Rescue of Fannie Mae and Freddie Mac – Module D: Treasury’s GSE MBS Purchase Program[1] 
+
+_Michael Zanger-Tishler[2] and Rosalind Z. Wiggins[3, 4]_ 
+
+Yale Program on Financial Stability Case Study April 15, 2021 
+
+## **Abstract** 
+
+As the housing crisis escalated during the second half of 2007, two government-sponsored enterprises (GSEs), the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac), occupied an increasingly central role in the secondary mortgage market, purchasing a greater percentage of new mortgages as private securitization rapidly contracted. As their importance in this market grew, the two GSEs also began to suffer billion-dollar losses, inciting concerns that they might not be able to stay solvent throughout the remainder of the crisis. On September 6, 2008, fearing the systemic consequences of the two  firms’ failures, the GSEs’ new regulator, the Federal Housing Finance Agency (FHFA), took both entities into indefinite conservatorship as one step of a four-part rescue of the GSEs, which included the US Treasury’s establishment of a GSE mortgage-backed securities (MBS) purchase program (GSE MBS Program). This case examines the GSE MBS Program, pursuant to which Treasury purchased $225 billion in GSE MBS in the open market, and finds it difficult to quantify the program’s exact impact given the simultaneous implementation of other measures for the GSEs as well as the Federal Reserve’s later adoption of its own MBS purchase program. 
+
+> 1 This case study is one of seven 2021 Yale Program on Financial Stability (YPFS) case studies that examine in detail the various elements of the government’s rescue of the GSEs: 
+
+- “The Rescue of Fannie Mae and Freddie Mac – Module A:  The Conservatorships” by Daniel Thompson and Rosalind Z. Wiggins. 
+
+- “The Rescue of Fannie Mae and Freddie Mac – Module B: The Senior Preferred Stock Purchase Agreements (SPSPAs)” by Daniel Thompson. 
+
+- “The Rescue of Fannie Mae and Freddie Mac – Module C: GSE Credit Facility” by Emily Vergara. 
+
+- “The Rescue of Fannie Mae and Freddie Mac – Module D: Treasury’s GSE MBS Purchase Program” by Michael Zanger-Tishler and Rosalind Z. Wiggins. 
+
+- “The Rescue of Fannie Mae and Freddie Mac – Module E: The Housing and Economic Recovery Act of 2008” by Daniel Thompson. 
+
+- “The Rescue of Fannie Mae and Freddie Mac – Module F: The Federal Reserve’s Large-Scale Asset Purchase (LSAP) Program” by Daniel Thompson and Adam Kulam. 
+
+- “The Rescue of Fannie Mae and Freddie Mac – Module Z: Overview” by Rosalind Z. Wiggins, Benjamin Henken, Adam Kuman, Daniel Thompson, and Andrew Metrick. 
+
+Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-offinancial-crises/. 
+
+> 2 Michael Zanger-Tishler - Research Assistant, YPFS, Yale School of Management. 
+
+> 3 Rosalind Z. Wiggins - Director, the Global Financial Crisis Project, and Senior Editor, YPFS, Yale School of Management. 
+
+> 4 The authors thank Corey Runkel for contributing to this case. 
+
+
+**Keywords** : GSEs, Fannie Mae, Freddie Mac, FHFA, Treasury, MBS, secondary mortgage market, housing crisis 
+
+
+## US Treasury’s GSE MBS Purchase Program 
+
+## **At a Glance** 
+
+During the summer of 2008, the US housing and mortgage markets experienced severe distress because of the subprime mortgage crisis. The Federal National Mortgage market by purch Association (Fannie Mae) and the Federal Announcement D Home Loan Mortgage Corporation (Freddie Operational Date Mac), publicly traded governmentsponsored enterprises (GSEs), by the end of Purchases) Announcement of 2007 guaranteed or owned approximately Program Wind-D 50% of outstanding US mortgages. The Final MBS Sale D firms, which had increased their exposure Legal Authority to subprime and Alt-A mortgages, funding Peak Utilization their growth by dramatically increasing Sponsor their leverage, began posting increasing Financial Agents losses. The Federal Reserve agreed to provide liquidity to the companies—if needed—in an attempt to reassure their investors and counterparties. However, problems persisted. 
+
+## **Summary of Key Terms** 
+
+|Purpose: To support the distressed housing finance<br>market by purchasing GSE MBS onthe open market.<br>AnnouncementDate<br>September6,2008|Purpose: To support the distressed housing finance<br>market by purchasing GSE MBS onthe open market.<br>AnnouncementDate<br>September6,2008|
+|---|---|
+|Operational Date|End ofSeptember 2008|
+|Expiration Date (New|December 31, 2009|
+|Purchases) <br>Announcement of<br>ProgramWind-Down<br>Final MBS SaleDate|March 11, 2011<br>March 19,2012|
+|Legal Authority|HERA§1117|
+|PeakUtilization|$225 billion|
+|Sponsor|USTreasury|
+|Financial Agents|State Street, Barclays,<br>Smith Graham<br>Investment Advisors,<br>JPMorgan Chase|
+
+
+
+As a result, on September 6, 2008, with both firms barely solvent, Treasury placed both GSEs into conservatorship pursuant to a four-part rescue plan that included Treasury’s creation of a facility to purchase mortgage-backed securities (MBS) issued by the GSEs (the GSE MBS Program). The amount and timing of the purchases were open-ended and at the discretion of Treasury Secretary. The program was implemented quickly using third-party financial agents.  Purchases of GSE MBS in the open market began in September 2008 and continued through December 31, 2009, when Treasury’s authority to purchase these securities ended. In total, Treasury purchased $105.9 billion of Freddie Mac MBS and $114.8 of Fannie Mae MBS, for a total of $220.8 billion (face value), investing $225 billion. 
+
+On March 21, 2011, Treasury announced that it would sell off its remaining GSE MBS Program portfolio (face value of $142 billion) at a rate of no more than $10 billion per month, to avoid disrupting the markets. Sales were concluded in March 2012 and Treasury reported that it had received total revenue of $250 billion for a profit to taxpayers of $25 billion. 
+
+## **Summary Evaluation** 
+
+It is difficult to isolate the effect of Treasury’s GSE MBS Program. It was one component of the government’s four-part GSE rescue plan, and shortly after Treasury began its rescue operations, the Federal Reserve also began purchasing GSE MBS in volumes that dwarfed 
+
+
+Treasury’s program (ultimately buying $1.2 trillion). There is some evidence that the GSE MBS Program may have been too small to have any impact. The mortgage market did begin to recover in late 2008. However, authorities disagree whether and how much of this shift was due to the GSE MBS Program and credited most of the impact to the Federal Reserve program. 
+
+
+|**Treasury’s GSE MBS Purchase Program:  United States Context**|**Treasury’s GSE MBS Purchase Program:  United States Context**|
+|---|---|
+|**GDP**<br>**(SAAR, Nominal GDP in LCU**<br>**converted to USD)**|$14,681.5 billion in 2007<br>$14,559.5 billion in 2008<br>$14,628.02 billion in 2009|
+|**GDP per capita**<br>**(SAAR, Nominal GDP in LCU**<br>**converted to USD)**|$47,976 in 2007<br>$48,383 in 2008<br>$47,100.00 in 2009|
+|**Sovereign credit rating (5-year**<br>**senior debt)**|As of Q4 2007/2008/2009:<br>Fitch: AAA<br>Moody’s: Aaa<br>S&P: AAA|
+|**Size of banking system**|$9,231.7 billion in total assets in 2007<br>$9,938.3 billion in total assets in 2008<br>$9789.07 in total assets in 2009|
+|**Size of banking system as a**<br>**percentage of GDP**|62.9% in 2007<br>68.3% in 2008<br>66.92% in 2009|
+|**Size of banking system assets as a**<br>**percentage of financial system**<br>**assets**|29.0% in 2007<br>30.5% in 2008<br>30.25% in 2009|
+|**5-bank concentration of banking**<br>**system**|43.9% of total banking assets in 2007<br>44.9% of total banking assets in 2008<br>44.27% of total banking assets in 2009|
+|**Foreign involvement in banking**<br>**system**|22% of total banking assets in 2007<br>18% of total banking assets in 2008<br>19% of total banking assets in 2009|
+|**Government ownership of banking**<br>**system**|0% of banks owned by the state in 2008<br>0% of banks owned by the state in 2009|
+|**Existence of deposit insurance**|100% insurance on deposits up to $100,000 in<br>2007<br>100% insurance on deposits up to $250,000 in<br>2008<br>100% insurance on deposits up to $250,000 in<br>2009|
+|_Sources: Bloomberg, World Bank Global Financial Development Database, Federal Deposit_<br>_Insurance Corporation._||
+
+
+
+
+## **I. Overview** 
+
+## **Background** 
+
+In 2007 and 2008, the United States (US) mortgage market experienced severe distress as the exuberant housing market began to slow (FCIC 2011b, 309). In particular, rates of default on subprime and Alt-A (collectively, nonprime) mortgages increased dramatically and housing prices fell (FCIC 2011b, 309). Mortgage lending and private mortgage securitization contracted severely, which in turn fueled additional defaults and devaluations of mortgage-related assets held by a wide range of domestic and foreign banks and financial institutions (FCIC 2011b, 309–312). 
+
+The Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac) are publicly traded government-sponsored enterprises (GSEs) authorized by congressional charter to support the residential mortgage market by creating a secondary market and advancing affordable housing policy (FCIC 2011a, 38–39). At the end of 2007, Fannie Mae and Freddie Mac collectively held or guaranteed $5.3 trillion in mortgage debt, approximately half of all outstanding mortgages in the US (FCIC 2011b, 309). Because private securitization of mortgages had contracted, it was critical for the GSEs to continue to support the market during this period, which they did even though the new mortgages that the firms guaranteed and bought included higher percentages of nonprime mortgages (FCIC 2011b, 309–312). 
+
+As defaults on the mortgages that the GSEs had guaranteed increased, so too did their liabilities (FCIC 2011b, 314).[5] The firms’ investment portfolios also suffered because of devaluations and in June 2008, the GSEs posted a combined $14.2 billion in losses for the first half of 2008 highlighting the severity of the situation (Frame et al. 2015, 10). Additionally, during the years leading up to mid- 2008, the firms had increased their leverage and reliance on short-term financing while their capital remained at less than 2%, as was permitted by law (FCIC 2011b, 309). Investors pulled back from funding the firms as they struggled (FCIC 2011b, 313–316). 
+
+Treasury and the Federal Reserve moved quickly to make additional liquidity available to the firms (FCIC 2011b, 316–318). However, such measures were not enough, and it soon became clear to policymakers and market participants that the GSEs would not be able to weather the correction on their own (FCIC 2011b, 317–321). Regulators believed it was almost certain that if the GSEs failed, the US housing market would fail with them (FCIC 2011b, 314). Therefore, on September 6, 2008, the firms’ new regulator, the Federal Housing Finance Agency (FHFA),[6] placed them under conservatorship as one component of 
+
+> 5 Most of the cumulative losses (73%) experienced by the firms during 2008 occurred in the single-family mortgages that they guaranteed, including Alt-A mortgages (FCIC 2011c, 123). 
+
+> 6 The FHFA was created by the Housing and Economic Recovery Act of 2008 (HERA 2008). For more information on HERA, see Thompson 2021. 
+
+
+a four-part rescue plan (US Treasury 2008a).[7] The next day Treasury Department announced three additional components of the rescue plan: (1) to enter into senior preferred stock purchase agreements with both Fannie Mae and Freddie Mac; (2) to establish a credit facility; and (3) to establish an MBS purchasing facility to purchase MBS issued by the GSEs (US Treasury 2008a). 
+
+## **Program Description** 
+
+The GSE MBS Program was established pursuant to the Housing and Economic Recovery Act of 2008 (HERA 2008),[8] which had been adopted in July 2008 at the urging of Secretary Paulson and others as the housing crisis, and its effects on Fannie Mae and Freddie Mac, worsened (HERA; FCIC 2011b, 309). The program was intended to “support the availability of mortgage financing for millions of Americans” and “promote the stability of the mortgage market” (US Treasury 2008a; US Treasury 2008b). The dilemma facing the government in September 2008 was that Fannie Mae and Freddie Mac were key to the recovery of the mortgage market, which was reeling from the housing crisis, particularly since private securitization had contracted severely (FCIC 2011b, 311–312). Yet, the more mortgages the GSEs purchased and guaranteed, the more risk the weakened firms absorbed against a capital base that was by all accounts insufficient (FCIC 2011b, 315–318). This was especially true since a greater proportion of new mortgages were nonprime, Alt-A, and subprime mortgages, which were at the greatest risk of default (FCIC 2011b, 311–312). And stabilizing the GSEs might not be enough to prevent the collapse of the housing market if they could not continue to purchase and guarantee loans at least at traditional rates (FCIC 2011b, 309–310). As a result, the government established the GSE MBS Program to purchase new GSE MBS directly in the open market to support the secondary market for housing finance (US Treasury 2008a). 
+
+When announced, the size and timing of the GSE MBS Program were not stated definitively but were characterized as being at the discretion of Treasury Secretary, and purchases were limited to MBS issued by the two GSEs only (US Treasury 2008a). The scale of the program was to be based on developments in the capital markets and housing markets (US Treasury 2008b). No dollar limits were stated, so in theory the upper limit was subject to the statutory debt limit (which the passage of HERA increased by $800 billion to accommodate the possible rescue of the firms) (FCIC 2011b, 316–317). 
+
+> 7 Conservatorship is closer to a bankruptcy reorganization procedure than an orderly liquidation process. The conservatorship of Fannie Mae and Freddie Mac was permitted by the Housing and Economic Recovery Act (HERA), which was enacted on July 30, 2008. A resolution process was needed because the GSEs were exempt from the Bankruptcy Code (Frame et al. 2015, 18–21). HERA also gave Treasury the ability to make unlimited debt and equity investments in Fannie Mae, Freddie Mac, and the Federal Home Loan Banks and increased the federal debt ceiling by $800 billion, to $1.6 trillion, to provide funds for such endeavors, if needed (FCIC 2011b, 316–317). 
+
+> 8 Pub. L. 110-289, 122 Stat. 2654, approved July 30, 2008. HERA authorized the Secretary of Treasury to support Fannie Mae, Freddie Mac, and the Federal Home Loan Banks by purchasing obligations and other securities from these GSEs (HERA 2008). It also created a new regulator for Fannie Mae and Freddie Mac, the FHFA (HERA 2008). 
+
+
+## _Utilization of Financial Agents_ 
+
+Trading in GSE MBS is a sophisticated business requiring specialized knowledge and resources (US Treasury 2011b). It is a business that Treasury does not regularly engage in. Therefore, Treasury hired independent asset managers specializing in such trading as financial agents to administer the GSE MBS Program for it and manage the portfolio (US Treasury 2011b). Using financial agents enabled Treasury to quickly access the expertise needed to speedily implement the program and to maximize the taxpayers’ return on purchases  (US Treasury 2011b). 
+
+The financial agents were selected by Treasury in a multi-step review process. In late August 2008, Treasury reviewed a list of the 20 largest fixed-income asset managers in the United States that had been provided by Morgan Stanley, which Treasury had hired to advise it in evaluating the GSEs and the housing finance market (OIG 2012, 3). Within a week, Treasury had narrowed this list to 10 firms with expertise in MBS (OIG 2012, 3–4). The 10 firms signed non-disclosure agreements, and Treasury requested detailed proposals from all 10 (OIG 2012, 4). Seven companies provided proposals; Treasury held interviews with five of them and selected two (OIG 2012, 4). Agreements, including a fee structure lower than any that the seven firms had proposed, were offered by Treasury and accepted by the two firms that were appointed: State Street Global Advisors (State Street) and the New York branch of Barclays Bank PLC (Barclays) (OIG 2012, 4). 
+
+State Street and Barclays each signed a Financial Agency Agreement (FAA) that outlined the responsibilities of the parties and certain other operating requirements such as confidentiality (OIG 2012, 4–5).[9] Treasury chose two agents because it believed that it was important that no single market participant was fully aware of Treasury’s market involvement, and that Treasury could acquire more market information through multiple agents (OIG 2012, 4). 
+
+While an audit report from Treasury’s Office of Inspector General (OIG) found the selection process Treasury followed to be reasonable, especially considering the exigent circumstances at the time, it nonetheless criticized the department for not having a policy for selection of financial agents and for not maintaining a record to support its evaluation and selection (OIG 2012, 1–3). It recommended that such a policy be adopted and that in the future, some form of written notes of the process be maintained to be consistent with government rules (OIG 2012, 1–3).[10] 
+
+State Street and Barclays were both active while Treasury was purchasing MBS under the program. After Treasury’s purchasing power expired on December 31, 2009, Treasury terminated its FAA contract with Barclays and transferred the remaining portfolio to State 
+
+> 9 State Street signed on September 15, 2008, and Barclays signed on September 18, 2008, the same day that JPMorgan Chase signed an FAA limited to custodial and accounting services (OIG 2012, 4). 
+
+> 10 Treasury agreed with the OIG’s recommendations and concurred that it had consciously failed to comply with documentation standards because of the exigent circumstances, staffing limitations, and the need for confidentiality (OIG 2012, 18–19). 
+
+
+Street because Treasury decided that it needed only one agent to manage the portfolio (OIG 2012, 5). 
+
+Treasury also hired JPMorgan Chase Bank N.A. (JPMChase) to serve as custodian for the portfolio through a non-competitive process because of its prior custodian experience and familiarity with Treasury operations (OIG 2012, 4–5). 
+
+## _Guidelines and Instructions_ 
+
+Both financial agents were subject to guidelines developed by Treasury, which relied on the financial agents to assist Treasury in accomplishing its own objectives: to promote market stability, ensure mortgage availability, and protect the taxpayer, including managing risk and avoiding losses (OIG 2012, 10; US Treasury 2011b, 5). Specific guidelines addressed strategic parameters for Treasury trading, safeguarding confidential information, and ongoing monitoring by Treasury to ensure that programmatic goals were achieved (OIG 2013, 3). Treasury had discretion to hold the purchased MBS to maturity, or based on market conditions, to sell parts of it or otherwise adjust the portfolio to better achieve Treasury’s objectives (US Treasury 2008b). The latter was accomplished by Treasury through ongoing communication with agents’ senior management, daily monitoring of trades, and site visits to the agents’ trading floors (OIG 2013, 3).[11] 
+
+Treasury terminated its FAA with Barclays in December 2009 at the expiration of its authority to purchase agency MBS (OIG 2013, 5). At that time, the remainder of the GSE MBS portfolio held by Barclays was transferred to State Street, which managed the combined portfolio for Treasury until it was sold (OIG 2013, 5). 
+
+## **Outcomes** 
+
+Noting that the market for GSE MBSs had significantly improved, Treasury announced on March 21, 2011 that it would begin to sell off its remaining MBS portfolio, which then had a face value of $142 billion, and wind down the GSE MBS Program (US Treasury 2011a). Treasury intended to sell the portfolio at a rate of no more than $10 billion (face value) per month in an effort to prevent market disruption (US Treasury 2011a). The sales were managed by State Street with the assistance of Smith Graham Investment Advisors, which Treasury hired as a contractor (OIG 2013, 5, 13). 
+
+Sales of Treasury’s GSE MBS portfolio were concluded on March 19, 2012, and the department reported that it had received total revenues of $250 billion for a profit to taxpayers of $25 billion (US Treasury 2012). 
+
+> 11 A second Treasury audit report describes in detail Treasury’s monitoring of the agents and found that Treasury administered the program consistent with its authority under HERA (OIG 2013, 2). However, the report criticized the department on two points. First, the department failed to document its monitoring actions, and secondly, it failed to properly assess the strict need for both a physical and ethical wall to preserve confidentiality (OIG 2013, 2–3, 5). Treasury accepted both recommendations and both should be considered in undertaking any future similar program (OIG 2013, 4). 
+
+
+[FIGURE id=vol3_iss1_12_f1 type=chart label="Figure 1" file=figure_1.png caption="Treasury Purchases of Fannie Mae and Freddie Mac MBS (in billions of USD)"]
+### **Figure 1: Treasury Purchases of Fannie Mae and Freddie Mac MBS (in billions of USD)**
+![Figure 1](assets/vol3_iss1_12/figure_1.png)
+
+
+_Notes: Figures are in billions of dollars. Treasury’s GSE MBS purchase program was set to expire on December 31, 2009 (HERA 2008). Columns may not sum due to rounding._ 
+
+_Source: FHFA 2014._ 
+
+## **II. Key Design Decisions** 
+
+## **1. The GSE MBS Program was authorized under HERA.** 
+
+The GSE MBS Program was authorized under HERA, which was adopted in July 2008 (HERA 2008). Treasury officials recognized the systemic importance of Fannie Mae and Freddie Mac, which, as of the end of 2007, financed or guaranteed 50% of outstanding residential mortgages; officials further anticipated that the firms might not be able to survive the housing correction on their own (FCIC 2010, 17). By the end of 2007, the entities were purchasing 75% of new mortgages, two times the level of a year earlier, a strong indication of how the private securitization market had dried up (FCIC 2011b, 312). 
+
+HERA provided several broad authorities to the Treasury Secretary, the newly created FHFA, and Federal Reserve, which led to creation of a four-part rescue plan in September 2008, and included the GSE MBS Program (US Treasury 2008a). The Secretary’s use of the granted authority was conditioned on a finding that an emergency existed, in other words, that such actions were necessary to: 
+
+
+- “provide stability to the financial markets; 
+
+- “prevent disruptions in the availability of mortgage finance; and 
+
+- “protect the taxpayer” (HERA 2008, Sec. 1117[a]). 
+
+Treasury’s September 7, 2008, press release affirmed these objectives as support for the rescue plan (US Treasury 2008a). 
+
+The fate of Fannie Mae and Freddie Mac differed from that of other large companies that came under severe financial duress during the fall of 2008 (FCIC 2011b, 319–321). The government was proactive in evaluating the decline of the companies, sought expanded remedial authority, and proactively crafted a solution before the companies faced imminent failure (FCIC 2011b, 319–321). This is most likely due to their status as GSEs, the recognized fact that the companies’ concentration in the housing finance market was systemic, and that there existed an implied governmental guarantee that was known to have been relied upon by investors (US Treasury 2008a). 
+
+## **2. The GSE MBS Program was one component of a four-part rescue plan designed to save the two GSEs from insolvency and to prevent the parallel collapse of the housing market.** 
+
+The GSE MBS Program was announced in conjunction with the conservatorship of Fannie Mae and Freddie Mac and was part of the four-part rescue plan designed to prevent the GSEs’ collective insolvency and the concomitant collapse of the housing market (US Treasury 2008a). The primary goal of Treasury’s GSE MBS Program was to maintain the secondary housing finance market, which in conjunction with the other emergency actions was meant to achieve the overall objectives of the rescue plan. (US Treasury 2008a). 
+
+By the fall of 2007, private MBS securitization had been severely constricted as investors shied away from real estate assets (FCIC 2011b, 311–312). Large lenders began holding loans that they had previously securitized (FCIC 2011b, 309). Some smaller lenders that could not sell their loans failed, and others told the GSEs that they too would fail if the GSEs did not continue to purchase their loans (FCIC 2011b, 310). In August 2007 the GSEs asked their regulators to expand their ability to purchase more loans, a request that was originally denied, but was later granted in mid-September, as the mortgage market became even more constricted (FCIC 2011b, 309–312). By the fourth quarter of 2007, the GSEs were purchasing 75% of new mortgages, twice the 2006 rate (FCIC 2011b, 312). 
+
+The companies’ weakened states would not allow them to continue purchasing mortgages at historic rates[12] (US Treasury 2008a). Yet, without a viable secondary market, the 
+
+> 12 It is worth noting that the Office of Federal Housing Enterprise Oversight (OFHEO), the GSEs’ regulator prior to FHFA, made several deregulatory efforts to shore up confidence for the GSEs by reducing their regulatory burdens during the worst of the market downturn. In mid-September 2007, OFHEO increased the firms’ allowable investment portfolios by about $7 billion address the contraction in the mortgage market— 
+
+
+mortgage market would have continued to contract, disabling not only housing but potentially the wider economy as well (US Treasury 2008a). By purchasing MBS issued by the firms, Treasury attempted to maintain the secondary market for mortgages, in effect stepping in to perform a role that the GSEs could no longer play for themselves and providing confidence to investors (US Treasury 2008a). However, it was critical that the GSE MBS Program be part of a comprehensive plan (US Treasury 2008a). Stabilizing the GSEs might not have been enough to prevent the collapse of the housing market if they could not continue to purchase and guarantee loans at least at traditional rates (FCIC 2011b, 309–310). Moreover, if Treasury merely backstopped the secondary market without the other elements (capital and liquidity), the firms still might have collapsed and sent shockwaves throughout the market and the economy (US Treasury 2008a). 
+
+## **3. The GSE MBS Program was limited to purchasing GSE MBS in the open market.** 
+
+Pursuant to the enactment of HERA, the Treasury Secretary was authorized to purchase any obligation or other security issued by the GSEs on such terms and conditions as he determined (HERA 2008). However, the GSE MBS Program, as established, was limited to purchasing only MBS issued by Fannie Mae and Freddie Mac (HERA; US Treasury 2008a). Treasury purchased $220.8 billion (face value) in GSE MBS pursuant to the program: $114.8 billion of Fannie Mae MBS, and $105.9 billion of Freddie Mac MBS, which was consistent with the stated aim of the rescue plan (FHFA 2014; US Treasury 2008b). The department purchased the GSE MBS in the open market rather than from the enterprises directly (OIG 2013, 13). 
+
+This had several benefits. First, it helped to maintain the flow of funding to mortgage originators and thus the availability of new mortgage financing, as the GSEs continued buying mortgages to bundle into its MBS, a critical need since private securitization had drastically contracted. (US Treasury 2008a). This, in turn, was intended to have a positive effect on mortgage affordability (US Treasury 2008a). Last, by purchasing in the open market rather than from the GSEs directly, the program supported the weakened market for new GSE MBS by stimulating the private market rather than by merely replacing it. Investors would be more likely to purchase new GSE MBS given the possibility that they could also sell the securities if need be. 
+
+## **4. Treasury could purchase an unspecified amount of securities under the GSE MBS Program.** 
+
+HERA granted Treasury temporary, but unlimited, authority to invest in the GSEs and their securities and obligations, terms that Secretary Paulson had pushed for (HERA; FCIC 
+
+> even though OFHEO officials recognized that the firms were in a weakened state at the time (FCIC 2011b, 311–312). OFHEO also loosened the GSEs’ capital requirements from 30% to 20% in March 2008, with the aim of helping the GSEs raise new capital from private investors (FCIC 2011b, 313–315). Though Fannie Mae kept up its end of the bargain and was permitted to lower its capital requirements by an additional 5%; Freddie Mac failed to raise new capital, and market confidence for both enterprises continued to plummet through June 2008 (FCIC 2011b, 315). 
+
+
+2011b, 316-317). HERA also granted discretion to the Treasury Secretary to determine when to exercise such purchasing authority and the scale of such exercise (US Treasury 2008b). 
+
+Pursuant to this authority, the GSE MBS Program was announced without any authorized amount or limit (other than limits related to Treasury debt limit) (US Treasury 2008a; FCIC 2011b, 317). This open-ended announcement was done primarily to signal to the markets and investors (1) Treasury’s willingness to purchase as much MBS as necessary, and (2) that the size of the problem was not known (Paulson 2010, Ch. 7). It also signaled that the Treasury Secretary and department would be closely monitoring developments in the capital and housing markets and stood ready and able to act accordingly (US Treasury 2008a). 
+
+Treasury began to make purchases of GSE MBS in September 2008 from the open market and continued to make purchases each month thereafter (FHFA 2014). Monthly amounts purchased from the GSEs varied widely from $0.9 billion to a high of $18.1 billion and amounts purchased from each GSE fluctuated (FHFA 2014). Purchases were conducted by the financial agents at the direction of Treasury, which continuously monitored the agents’ activities (OIG 2013, 4–6, 13). Ultimately, Treasury purchased a total of $225 billion of agency MBS prior to the expiration of its purchasing authority in December 2009 (OIG 2013, 13). 
+
+## **5. Treasury designated independent asset managers as financial agents, whose role was to purchase GSE MBS on behalf of Treasury and to manage the resulting portfolio.** 
+
+Trading in MBS is a complex and sophisticated skill that requires specialized knowledge, technology, and other resources (US Treasury 2011b). Treasury did not engage in such trading on an ongoing basis (US Treasury 2011b). Moreover, it would have demanded considerable resources for Treasury to hire appropriate staff into the Department at a time when they were already strained and would have diverted existing staff from other critical matters they were dealing with during the crisis (US Treasury 2011b; OIG 2013, 6). Such a project would also have taken time, potentially delaying the implementation of the program. 
+
+Instead, Treasury chose independent financial advisers with expertise in trading GSE MBS to administer the GSE MBS Program and used a multi-tiered selection process to find the advisers that would best assist with the program’s objectives (US Treasury 2008b; OIG 2012, 3–7). Treasury ultimately selected two advisers, State Street and Barclays, to build competition into the process, and so that no single agent would know Treasury’s entire trading strategy (OIG 2012, 4–5). Utilizing independent advisers enabled the department to tap the best experts in the area and to quickly operationalize the GSE MBS program (OIG 2012, 3–7). Financial advisers also promoted efficiency and the minimizing of operational and financial risks (OIG 2012, 5–6). 
+
+
+Treasury began evaluating potential advisers in late August, announced the rescue plan on September 7, signed FAA agreements on September 15, and made its first purchases on September 23, 2008 (US Treasury 2008a; OIG 2012, 16–17).  Treasury staff monitored the agents’ activities and trades and instructed them on the purchases (OIG 2013, 4–6). According to OIG, Treasury failed to adequately document its agency-selection process before the program began as well as the oversight processes after the program was up and running (OIG 2012, 3–7; OIG 2013, 4–6). In response, Treasury reported that it had intentionally deployed personnel to other critical crisis management efforts, rather than expend the resources to document the financial agent selection and oversight processes. They argued that the completion of normal administrative processes could have been counterproductive to Treasury’s overall crisis response (OIG 2012, 2–7; OIG 2013, 4–6). 
+
+## **6. Although it was authorized to hold the MBS portfolio to maturity, Treasury opted to unwind its positions as market conditions improved.** 
+
+Under HERA and the GSE MBS Program, it was within Treasury’s discretion to decide how long to hold the MBS that it purchased, including retaining the securities until their maturity (US Treasury 2008b). In March 2011, when Treasury announced that it would begin the sale and wind-down of its portfolio of MBS, it also stated that the market for the securities had greatly improved (US Treasury 2011a). Sales were to be conducted at a “gradual and orderly pace to maximize the recovery of taxpayer dollars and help protect the process of repair of the housing finance market” (US Treasury 2011a). Sales could occur daily but would not be conducted at pre-scheduled times or in pre-announced sizes of individual trades (US Treasury 2011b, 3). Sales would be in amounts up to $10 billion per month, subject to adjustment per market conditions (US Treasury 2011b, 3). 
+
+State Street managed MBS sales with the assistance of Smith Graham Investment Advisors, which Treasury hired as a contractor (OIG 2013, 13; US Treasury 2011b, 6). At the announced rate, Treasury expected to have disposed of the portfolio within a year and to return a profit to the taxpayers after fully winding down the portfolio (US Treasury 2011a; US Treasury 2011b, 1). 
+
+Treasury concluded its sales of MBS on March 19, 2012 (US Treasury 2012). In total, sale of Treasury’s GSE MBS portfolio, originally acquired at a cost of $225 billion, generated revenue of $250 billion, returning to taxpayers a profit of $25 billion from sales, principal, and interest (US Treasury 2012). 
+
+## **7. Treasury implemented the GSE MBS Program with deliberate transparency.** 
+
+Fannie Mae and Freddie Mac were systemically important to the residential finance market and their shares, debt, and MBS were widely held by many investors including financial institutions, pension funds, state and local governments and foreign central banks (US Treasury 2008a). Any failure or deterioration of the companies could have significant and far-reaching consequences (US Treasury 2008a). Moreover, given the expected size of the GSE MBS program, and the subsequent sales of purchased MBS securities, there would naturally be concern about the impact of such large trades (US Treasury 2011a). 
+
+
+Additionally, because of the implied government guarantee, any deterioration of the firms could reverberate negatively and affect the investors’ attitudes towards the US government’s debt (Paulson 2010, Ch. 1). 
+
+Mindful of these concerns, Treasury undertook to maintain transparency with respect to the GSE MBS Program and communicated frequently regarding its rationale and actions. The press releases and other public communications relating to the program shared the following characteristics: 
+
+- placed the GSE MBS Program within the context of the broader rescue plan for Fannie Mae and Freddie Mac, 
+
+- discussed the program’s implications for the housing finance market, and 
+
+- conveyed a message that Treasury was constantly monitoring the markets and could and would adjust its activities as market conditions warranted. 
+
+Press releases, and the Frequently Asked Questions (FAQs)[13] that accompanied them, provided additional program details and anticipated concerns (US Treasury 2008a; US Treasury 2008b; US Treasury 2011a; US Treasury 2011b). Data regarding the amount of GSE MBS purchases, and then sales (broken down by coupon and agency), were included in the Final Monthly Treasury Statement of Receipts and Outlays of the United States Government posted on the department’s website monthly where they were publicly available (FHFA 2014). 
+
+## **III. Evaluation** 
+
+For several reasons, it is difficult to isolate the effect of Treasury’s GSE MBS Program. First, it was one component of the government’s four-part GSE rescue plan. Second, shortly after it began operations, the Federal Reserve[14] began purchasing GSE MBS in volumes that dwarfed Treasury’s program. 
+
+Treasury purchased $3.4 billion, $15.9 billion, and $28.4 billion of GSE MBS in September, October, and November 2008, respectively, but there is some evidence that the impacts were lackluster (FHFA 2014). An article in _National Mortgage News_ on October 27, 2008, 
+
+> 13 For example, the FAQs accompanying the announcement of the sale of the portfolio discuss what information would be made available and when and explain the department’s rationale (US Treasury 2011b). Treasury also published a monthly report of broker-dealer market shares for MBS sales, which was intended to “both maximize taxpayer returns and provide additional transparency” (US Treasury 2011b). 
+
+> 14 Treasury’s GSE MBS program was separate from, but related to, the Federal Reserve Large-Scale Asset Purchase (LSAP) Program (also known as Quantitative Easing). The Federal LSAP program was announced on November 25, 2008; purchases began on January 5, 2009 and continued through March 31, 2010. Overall, the Federal Reserve GSE MBS Purchase Program bought $1.25 trillion of GSE MBS. For more information on the LSAP Program, see Thompson and Kulam 2021. 
+
+
+quoted one analyst who claimed that the effect of the program had been minimal and that government efforts needed “to be aggressive and more public to impact pricing in this part of the MBS market" (Collins 2008). 
+
+About two months after Treasury began its MBS purchases, in an effort to impact mortgage rates, which remained high, the Federal Reserve announced that it would purchase up to $500 billion in GSE MBS—later expanded to $1.25 trillion—as part of its Large-Scale Asset Purchasing Program (LSAP) (Federal Reserve 2008; Stroebel and Taylor 2012, 1–3). The reasons given for the Federal Reserve’s program also implied that Treasury’s GSE MBS Program had not yet achieved intended effects on the housing finance markets: 
+
+Spreads of rates on GSE debt and on GSE-guaranteed mortgages have widened appreciably of late. This action is being taken to reduce the cost and increase the availability of credit for the purchase of houses, which in turn should support housing markets and foster improved conditions in financial markets more generally (Federal Reserve 2008). 
+
+Secondary mortgage market spreads did begin to fall in late 2008 (Stroebel and Taylor 2012, 3). However, authorities disagree whether this shift was due to the government’s programs. Stroebel and Taylor (2012) considered the two MBS Purchase Programs together, and, after controlling for default risk and prepayment risk, the authors concluded that only a small amount of the narrowing of mortgage spreads was attributable to the programs (Stroebel and Taylor 2012, 38-40). However, it is important to note that the Federal Reserve first LSAP was nearly eight times larger than the Treasury’s MBS Purchase Program, and involved multiple asset classes (Stroebel and Taylor 2012, 1-3). 
+
+Hancock and Passmore (2011) also considered the Federal Reserve’s MBS purchase program and concluded that its announcement “substantially improved market functioning and provided a strong statement of government support for US mortgage markets” (Hancock and Passmore 2011, 513). Specifically, the authors found that the announcement period of the Federal Reserve’s program coincided with an 82-basis-point drop in mortgage rates (Hancock and Passmore 2011, 513). 
+
+Overall, the authors concluded that the Federal Reserve’s MBS purchase program had a positive effect, reestablished normal market pricing in the MBS market, and resulted in mortgage rates of roughly 100 basis points lower (Hancock and Passmore 2011, 499). 
+
+## **IV. References** 
+
+Collins, Brian. 2008. “Treasury, Fannie and Freddie Buying MBS but is it Helping?” _National Mortgage News_ , October 27, 2008. 
+
+https://ypfs.som.yale.edu/library/treasury-fannie-and-freddie-buying-mbs-it-helping. 
+
+
+Federal Housing Finance Agency (FHFA). 2014. Treasury and Federal Reserve Purchase Programs for GSE and Mortgage-Related Securities. August 8, 2014. 
+
+https://ypfs.som.yale.edu/library/fhfa-treasury-and-federal-reserve-purchase-programsgse-and-mortgage-related-securities. 
+
+Federal Reserve. 2008. “Federal Reserve announces it will initiate a program to purchase the direct obligations of housing-related government-sponsored enterprises and mortgagebacked securities backed by Fannie Mae, Freddie Mac, and Ginnie Mae.” Press release, November 25, 2008. 
+
+https://ypfs.som.yale.edu/library/federal-reserve-announces-it-will-initiate-programpurchase-direct-obligations-housing. 
+
+Financial Crisis Inquiry Commission (FCIC). 2010. Preliminary Staff Report: Governmental Rescues of “Too-Big-to-Fail” Financial Institutions. August 31, 2010. https://ypfs.som.yale.edu/node/2671. 
+
+———. 2011a. Final Report, Chapter 3: Securitization and Derivatives. January 27, 2011. https://ypfs.som.yale.edu/node/3488. 
+
+———. 2011b. Final Report, Chapter 7: The Mortgage Machine. January 27, 2011. https://ypfs.som.yale.edu/node/3492. 
+
+———. 2011c. Final Report, Chapter 17: September 2008: The Takeover of Fannie Mae and Freddie Mac. January 27, 2011. https://ypfs.som.yale.edu/node/3340. 
+
+.Frame, W. Scott, Andreas Fuster, Joseph Tracy, and James Vickery. 2015. “The Rescue of Fannie Mae and Freddie Mac.” _Federal Reserve Bank of New York Staff Reports_ , 719. https://ypfs.som.yale.edu/library/rescue-fannie-mae-and-freddie-mac. 
+
+Hancock, Diana, and Wayne Passmore. 2011. “Did the Federal Reserve’s MBS purchase program lower mortgage rates?,” _Journal of Monetary Economics_ 58, 498–514. https://ypfs.som.yale.edu/node/2764. 
+
+Housing and Economic Recovery Act (HERA). 2008. https://ypfs.som.yale.edu/library/housing-and-economic-recovery-act-2008 
+
+Office of Inspector General, US Treasury (OIG). 2012. Audit Report OIG-12-0161. July 31, 2012. 
+
+https://ypfs.som.yale.edu/library/treasurys-financial-agent-selection-process-agencymortgage-backed-securities-purchase. 
+
+———. 2013. Audit Report OIG-13-303. January 3, 2013. https://ypfs.som.yale.edu/node/3017. 
+
+
+Paulson, Henry M, Jr. 2010. _On the Brink: Inside the Race to Stop the Collapse of the Global Financial System_ . New York: Business Plus, Hachette Book Group. 
+
+https://ypfs.som.yale.edu/library/brink-inside-race-stop-collapse-global-financial-system. 
+
+Stroebel, Johannes, and John B. Taylor. 2012. “Estimated Impact of the Federal Reserve’s Mortgage-Backed Securities Purchase Program,” _International Journal of Central Banking_ 8, 1–42. 
+
+https://ypfs.som.yale.edu/library/estimated-impact-federal-reserves-mortgage-backedsecurities-purchase-program. 
+
+Thompson, Daniel. 2021. “The Rescue of Fannie Mae and Freddie Mac – Module E: The Housing and Economic Recovery Act of 2008.” _Journal of Financial Crises_ , 3 (1). 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+Thompson, Daniel and Adam Kulam. 2021. “The Rescue of Fannie Mae and Freddie Mac – Module F: The Federal Reserve’s Large-Scale Asset Purchase Program.” _Journal of Financial Crises_ , 3 (1). 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+US Treasury. 2008a. Statement by Secretary Henry M. Paulson, Jr., on Treasury and Federal Housing Finance Agency Action to Protect Financial Markets and Taxpayers. Press release, September 7, 2008. 
+
+https://ypfs.som.yale.edu/library/statement-secretary-henry-m-paulson-jr-treasury-andfederal-housing-finance-agency-action-0. 
+
+———. 2008b. Fact Sheet: GSE Mortgage-Backed Securities Purchase Program. September 
+
+7, 2008. https://ypfs.som.yale.edu/node/3000. 
+
+———. 2009. Treasury Issues Update on Status of Support for Housing Programs. Press release, December 24, 2009. 
+
+https://ypfs.som.yale.edu/node/3027. 
+
+———. 2011a. Treasury to Begin Orderly Wind-Down of Its $142 Billion Mortgage-Backed Securities Portfolio. Press release, March 21, 2011. 
+
+https://ypfs.som.yale.edu/library/treasury-begin-orderly-wind-down-its-142-billionmortgage-backed-securities-portfolio. 
+
+———. 2011b. Frequently Asked Questions on Treasury’s Program to Sell MBS. May 2, 2011. 
+
+https://ypfs.som.yale.edu/library/frequently-asked-questions-treasurys-program-sellmbs. 
+
+
+———. 2012. Treasury Completes Wind-Down of Mortgage-Backed Securities Investment, Generates $25 Billion Positive Return for Taxpayers. Press release, March 19, 2012. https://ypfs.som.yale.edu/library/treasury-completes-wind-down-mortgage-backedsecurities-investment-generates-25-billion. 
+
+## **V. Key Program Documents** 
+
+## **Summary of Program** 
+
+Fact Sheet: GSE Mortgage-Backed Securities Purchase Program (US Treasury 2008b) – _Document outlining the terms and set up of the GSE MBS Program._ https://ypfs.som.yale.edu/node/3000. 
+
+’ Frequently Asked Questions on Treasury s Program to Sell MBS (US Treasury 2011b) – _Document explaining Treasury’s plan to sell its GSE MBS portfolio_ . 
+
+https://ypfs.som.yale.edu/library/frequently-asked-questions-treasurys-program-sellmbs. 
+
+## **Legal/Regulatory Guidance** 
+
+Housing and Economic Recovery Act of 2008 (HERA 2008) – _Law authorizing Treasury to establish the GSE MBS Program._ 
+
+https://ypfs.som.yale.edu/library/housing-and-economic-recovery-act-2008. 
+
+## **Press Releases/Announcements** 
+
+State Street Global Advisors Selects Smith Graham to Assist with Management of the US ’ Treasury s MBS Portfolio – _State Street Global Advisors announces its retention of Smith Graham to assist with portfolio management._ https://ypfs.som.yale.edu/node/2978. 
+
+Statement by Secretary Henry M. Paulson, Jr., on Treasury and Federal Housing Finance Agency Action to Protect Financial Markets and Taxpayers (US Treasury 2008a) – _Treasury announces a four-part rescue plan for the GSEs, including the GSE MBS purchase program._ https://ypfs.som.yale.edu/library/statement-secretary-henry-m-paulson-jr-treasury-andfederal-housing-finance-agency-action-0. 
+
+Remarks by Treasury Secretary Henry M. Paulson, Jr. – _Secretary Paulson’s remarks on the role of the GSEs and recent government interventions to support the housing market_ . https://ypfs.som.yale.edu/library/remarks-secretary-henry-m-paulson-role-gsessupporting-housing-recovery-economic-club. 
+
+Treasury Issues Update on Status of Support for Housing Programs (US Treasury 2009) – _Treasury provides an update on housing programs including the GSE MBS Program ._ https://ypfs.som.yale.edu/node/3027. 
+
+
+Treasury to Begin Orderly Wind-Down of Its $142 Billion Mortgage-Backed Securities Portfolio (US Treasury 2011a) – _Treasury announces its plans to sell and wind down its GSE MBS portfolio._ https://ypfs.som.yale.edu/library/treasury-begin-orderly-wind-down-its142-billion-mortgage-backed-securities-portfolio. 
+
+- - Treasury Completes Wind Down of Mortgage Backed Securities Investment, Generates $25 Billion Positive Return for Taxpayers (US Treasury 2012) – _Treasury announces the GSE MBS Program has been wound down completely, generating a positive return of $25 billion for taxpayers._ 
+
+https://ypfs.som.yale.edu/library/treasury-completes-wind-down-mortgage-backedsecurities-investment-generates-25-billion. 
+
+## **Media Stories** 
+
+Treasury, Fannie and Freddie Buying MBS but is it Helping? (Collins 2008) – National Mortgage News _article questioning the effectiveness of the GSE MBS Program._ https://ypfs.som.yale.edu/library/treasury-fannie-and-freddie-buying-mbs-it-helping. 
+
+US Completes Sale of Mortgage-Backed Securities, Earning $25 Billion – New York Times _article discussing the announcement of the end of the GSE MBS Program._ https://ypfs.som.yale.edu/library/us-completes-sale-mortgage-backed-securities-earning25-billion. 
+
+## **Reports/Assessments** 
+
+Audit Report OIG-012-061 (OIG 2012) – _Audit of GSE MBS Program that focuses on Treasury’s selection of financial agents._ https://ypfs.som.yale.edu/library/treasurys-financial-agent-selection-process-agencymortgage-backed-securities-purchase. 
+
+Audit Report OIG-013-030 (OIG 2013) – _Audit of GSE MBS Program that focuses on Treasury’s implementation of the program and monitoring of the financial agents ._ https://ypfs.som.yale.edu/node/3017 _._ 
+
+Budget in Brief FY 2010 – _Report discussing impact of GSE program on Treasury’s budget._ http://som.yale.edu/sites/default/files/Department%20of%20the%20Treasury%20%20Budget%20in%20Brief%20FY%202010.pdf. 
+
+Housing Government-Sponsored Enterprise Programs FY 2010 – _Report discussing the status of the Treasury Department’s several GSE programs._ https://ypfs.som.yale.edu/node/3019. 
+
+Housing Government-Sponsored Enterprise Programs FY 2011 – _Report discussing the status of the Treasury Department’s several GSE programs._ https://ypfs.som.yale.edu/node/3020. 
+
+
+Housing Government-Sponsored Enterprise Programs FY 2012 – _Report discussing the status of the Treasury Department’s several GSE programs._ https://ypfs.som.yale.edu/node/3021. 
+
+Treasury and Federal Reserve Purchase Programs for GSE and Mortgage-Related Securities 
+
+_– 2014 report providing data on the support for the GSEs._ 
+
+https://ypfs.som.yale.edu/library/fhfa-treasury-and-federal-reserve-purchase-programsgse-and-mortgage-related-securities. 
+
+Mortgage Market Note 09-1 US Treasury Support for Fannie Mae and Freddie Mac _– 2009 report by FHFA describing elements of the GSE rescue plan and discussing their current status._ 
+
+https://ypfs.som.yale.edu/library/fhfa-mortgage-market-note-09-01. 
+
+Mortgage Market Note 09-1A US Treasury Support for Fannie Mae and Freddie Mac _– 2009 report by FHFA describing elements of the GSE rescue plan and discussing their current status._ 
+
+https://ypfs.som.yale.edu/library/mortgage-market-note-09-1a-update-mortgage-marketnote-09-1. 
+
+Mortgage Market Note 10-1 US Treasury Support for Fannie Mae and Freddie Mac – _2010 report by FHFA describing elements of the GSE rescue plan and discussing their current status._ 
+
+https://ypfs.som.yale.edu/library/fhfa-mortgage-market-note-10-1-us-treasury-supportfannie-mae-and-freddie-mac. 
+
+Development of this case has been supported by a generous grant from the Alfred P. Sloan Foundation to the Yale Program on Financial Stability. 
+
+Copyright 2015, 2016, 2018, 2020, 2021 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu.

@@ -1,0 +1,1097 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 5 Issue 1 
+2023 
+India: SAARC Swap Framework, 2012 India: SAARC Swap Framework, 2012 
+Salil Gupta 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Gupta, Salil (2023) "India: SAARC Swap Framework, 2012," Journal of Financial Crises: Vol. 5 : Iss. 1, 
+402-429. 
+DOI: https://doi.org/10.17132/2693-3179.1494 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/16 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol5/iss1/16
+
+--- Page 3 ---
+India: SAARC Swap Framework, 20121 
+Salil Gupta2 
+Yale Program on Financial Stability Case Study 
+July 21, 2023 
+Abstract 
+In response to the Global Financial Crisis  (GFC), finance ministers of member countries of 
+the South Asian Associat ion for Regional Cooperation (SAARC) agreed in 2009 on the need 
+for bilateral arrangements to tackle short -term credit contractions and financial market 
+disruptions. In 2012, the Reserve Bank of India (RBI) responded by launching a self-funded 
+USD 2 billion swap framework for all SAARC member nations  to provide a backstop line of 
+credit to fight liquidity crises . The framework defined the terms under which a borrowing 
+central bank could enter into a bilateral agreement with the RBI.  Bhutan, Maldives, and Sri 
+Lanka used the RBI’s SAARC swap framework to sign and activate bilateral swaps at various 
+points between 2012 and 2022 , including during the COVID-19 pandemic , to meet dollar 
+liquidity needs. These countries may have preferred SAARC to other multilateral liquidity 
+facilities because of its lack of conditionality and quick disbursal of funds. The SAARC 
+framework helped borrowing central banks maintain exchange rate stability, provide short-
+term foreign exchange liquidity, and facilitate downstream lending programs. It was set to 
+expire in November 2022 but is likely valid for another three years , given Bhutan’s latest 
+swap agreement in December 2022.  
+Keywords: framework, liquidity, RBI, SAARC, swap 
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering central bank swap line programs. Cases are available from the Journal of Financial Crises 
+at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+402
+
+--- Page 4 ---
+Overview 
+This case covers a framework that the 
+Reserve Bank of India (RBI) created in 2012, 
+under which it agreed to sign bilateral swap 
+agreements with other South Asian 
+countries to promote market functioning 
+and stability . Countries could use these 
+guidelines to access foreign exchange 
+liquidity quickly  by entering into bilateral 
+agreements with the RBI  during times of 
+crises. 
+The South Asian Association for Regional 
+Cooperation ( SAARC) was formed on 
+December 8, 1985 , by eight member states : 
+Afghanistan, Bangladesh, Bhutan,  India, 
+Maldives, Nepal, Pakistan, and Sri Lanka 
+(SAARC 2020a) . The association had the 
+primary objectives of: (1) improving welfare 
+and quality of life; (2) accelerating economic 
+growth and social and cultural development; 
+and (3) improving mutual trust  and 
+assistance and strengthening cooperation in 
+various fields for the people of South Asia , 
+“which are bound by tie s of history and 
+culture” (SAARC 2020a; SAARC 2020b). 
+In February 2009, Sri Lankan President 
+Gotabaya Rajapaksa in a speech mentioned 
+that both financial meltdown and terrorism 
+posed a similar collective threat to the 
+societies of South Asia, and regional 
+cooperation was required to sustain peace 
+and stability in the region. President 
+Rajapaksa used his speech to highlight the 
+successful formation of bilateral swap lines 
+and reserve funds for liquidity problems in 
+East Asia after the financial crisis of 199 7. 
+The formation of the SAARC Development 
+Fund and the South Asia Free Trade 
+Agreement (SAFTA) were signs of greater 
+integration of South Asian economies 
+(BBCSAP 2009) . The further economic 
+integration of SAARC member nations was 
+expected to help withstand future economic 
+Key Terms 
+Purpose: for “strengthening regional financial and 
+economic cooperation”; to provide a “backstop line 
+of funding . . . to meet any balance of payments and 
+liquidity crises”; and to increase intraregional 
+trade and enhance collective welfare (RBI 2012) 
+Participating 
+Parties 
+Central banks of Afghanistan, 
+Bangladesh, Bhutan, 
+Maldives, Nepal, Pakistan, 
+and Sri Lanka could access 
+the swap framework; 
+Bhutan, Maldives, and Sri 
+Lanka used the framework to 
+sign agreements with India   
+Type of Swap Multilateral framework to 
+facilitate unidirectional, 
+bilateral swaps 
+Currencies 
+Involved 
+Lending currency: US dollar, 
+euro, or Indian rupee 
+Borrowing currency: 
+Bhutanese ngultrum, Sri 
+Lankan rupee, or Maldivian 
+rupee 
+Launch Date May 16, 2012 
+End Date Nov. 17, 2022 (another swap 
+signed in Dec. 2022)  
+Date of First Usage Bhutan 2013 
+Interest Rate and 
+Fees 
+USD, EUR: LIBOR plus 200 
+bps 
+INR: RBI Repo Rate minus 
+200 bps; plus 50 bps for 
+second rollover 
+Amount 
+Authorized 
+USD 2 billion for full facility; 
+USD 100 million–400 million 
+per party 
+Peak Usage 
+Amount and Date 
+USD 1.05 billion (2020) 
+Downstream 
+Use/Application of 
+Swap Funds 
+Fight balance of payments 
+and liquidity crises; provide 
+downstream lending to 
+banks 
+(continued) 
+403
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 5 ---
+storms and present a collective front in 
+dealing with various multilateral 
+organizations future economic storms and 
+present a collective front in dealing with 
+various multilateral organizations (SUNOSL 
+2009).  
+On February 28, 2009, at a meeting of the  
+SAARC Finance Ministers on the Global 
+Financial Crisis, the ministers noted that:  
+A major cause of current concern in the region is the drying up of credit and the 
+contraction of financial markets. Mechanisms must, therefore, be developed aimed at 
+creating bilateral arrangements in the region to address short -term liquidity 
+difficulties and to supplement international financing arrangements (RBI 2012). 
+However, progress on the SAARC proposal was slow, partly owing to diplomatic deadlock in 
+India and Pakistan’s bilateral ties following the November 2008 terrorist attack in India 
+(Hindustan Times 2009; Jawaid 2010) . On September 25, 2011, the SAARCFINANCE 
+Governors’ Symposium, held in Washington, DC, provided th e financial concurrence to the 
+currency swap framework for SAARC countries (CBSL 2016). On May 16, 2012, as part of the 
+24th SAARCFINANCE3 Governors’ meeting, RBI Governor Duvvuri Subbarao announced the 
+offer of a swap framework of up to USD 2 billion in Indian rupees (INR), US dollars, and euros 
+to member countries of the SAARC  region (PTI 2012) . The facility was announced to 
+“[strengthen] regional financial and economic cooperation” and was approved by the Indian 
+Union Cabinet. The purpose of the facility was to provide a “backstop line of funding  . . . to 
+meet any balance of payments and liquidity crises” of the SAARC countries. The swap facility 
+was expected to improve economic cooperation in the region, increase intraregional trad e, 
+and enhance collective welfare (RBI 2012). 
+India had USD 257 billion of foreign exchange (FX) reserves at fiscal year end 2012 (RBI 
+2013b). Prior to launching the SAARC swap, the RBI was facing immense depreciation 
+pressures on the Indian rupee, with a 15% depreciation from February to May 2012 
+(Keohane 2012). Despite the RBI attempts, analysts stated then that the RBI had a limited 
+ability to control short -term pressures on the rupee (Keohane 2012) . A senior fellow at 
+Brookings stated that the rupee’s weakness highlighted the vulnerability of India’s economy 
+to external shocks (Crabtree 2012).  
+The SAARC swap framework is similar to other global liquidity initiatives, such as the Federal 
+Reserve’s dollar -providing facilities, the ECB’s euro -providing facilities, and regional 
+facilities like the Chiang Mai initiative. The aggregate maximum amount that India made 
+ 
+3  SAARCFINANCE comprises the central bank governors and finance secretaries of the SAARC member 
+countries (Statesman 2016). 
+Outcomes All amounts repaid with 
+interest; Framework 
+renewed in 2016 and 2019 
+Notable Features Standardized framework for 
+all countries; swap sizes 
+based on two-month import 
+cover; Concessions for draws 
+in Indian rupee versus US 
+dollar or euro 
+404
+India: SAARC Swap Framework Gupta
+
+--- Page 6 ---
+available under the SAARC swap framework to all countries at any time was USD 2 billion .4 
+Under the framework, member countries could enter into bilateral swap agreements with 
+India. The swap amount available to each country was broadly based on two months’ import 
+cover and limited to a minimum of USD 100 million and a maximum of USD 400 million. The 
+RBI’s swap framework was offering draws in US dollars, euros, or Indian rupees in exchange 
+for domestic currency or government securities denominated in domestic currency of the 
+borrowing country (RBI 2012).   
+The RBI signed bilateral agreements based on the framework with Bhutan in 2013, Sri Lanka 
+in 2015, and Maldives in 2019 (see Figure 1) (MMA 2021; RBI 2013a; RBI 2015a). 
+Figure 1: Usage of SAARC 2012 Swap Framework 
+ 
+Sources: RBI 2013b; RBI 2014; RBI 2015c; RBI 2016d; RBI 2017; RBI 2018; RBI 2019b; RBI 2020b; RBI 2021a; RBI 
+2022b. 
+On February 13, 2016, the RBI extended the SAARC 2012 framework until November 14, 
+2017 (RBI 2016a) . On December 20 , 2018, the RBI incorpora ted a Standby Swap 
+Arrangement (SSA) into the original swap framework. This allowed a SAARC member 
+country to draw up to USD 400 million beyond its maximum eligible swap amount, so long 
+as aggregate draws did not exceed the USD 2 billion total (RBI 2020b). 
+On November 26, 2019, the RBI revised the framework and extended it to 2022; the overall 
+corpus remained at USD 2 billion (RBI 2019a). The revised framework provided additional 
+concessions for swaps draws in Indian rupees in terms of waiting period and the second 
+rollover to incentivize draws (RBI 2020b).  
+The RBI again signed swap agreements with Bhutan in January 2020, Maldives in April 2020, 
+and Sri Lanka in July 2020 to help them meet dollar liquidity needs in the face of declining 
+tourism receipts and other COVID-19-related disruptions (RBI 2021a). From 2020 through 
+2022, total usage of the swaps by these three countries peaked at USD 1.1 billion (RBI 2021a; 
+RBI 2022b). 
+In 2023, analysts  have pointed out that tensions between India and Pakistan were a key 
+challenge to the growth of further SAARC cooperation. There has been some progress by 
+SAARC countries in furthering economic cooperation, such as the South Asian Free Trade 
+Agreement (SAFTA) (Pioneer 2023). It has also been reported that India is looki ng at other 
+ 
+4  This is in contrast with another regional swap line arrangements —such as the Chiang Mai Initiative 
+Multilaterization (CMIM) —within which multiple countries funded the scheme through a contribution pool. 
+For more details on Chiang Mai, see Hoffner 2023. 
+405
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 7 ---
+regional and subregional initiatives to further collective development goals, such as the Bay 
+of Bengal Initiative for Multi-Sector Technical and Economic Cooperation (BIMSTEC), which 
+include Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka , and Thailand (BIMSTEC 
+2022; Pattanaik 2023) . Such regional groups hope to continue the momentum of regional 
+cooperation, while SAARC cooperation takes time to revive (Pattanaik 2023) . India has 
+additionally invited Pakistan’s Foreign Minister Bilawal Bhutto Zardari to a regional Foreign 
+Ministers’ meeting in Goa, India, in May 2023, which would mark the first visit by a Pakistani 
+FM since July 2011 (Haidar 2023). 
+Summary Evaluation 
+Since the Global Financial Crisis in 2008, the re has been an increase in t he creation of 
+regional swap arrangements (see Hoffner 2023  and Mühlich, Fritz, and Kring 2022 ). 
+Research has concluded that such measures hav e contributed to improving liquidity and 
+financial stability in the region (Agnihotri 2020).  
+The RBI, as the single lender, defined the rules of SAARC swap facilities (Mühlich and Fritz 
+2021). An academic paper concluded that the  SAARC framework was different from other 
+regional lending initiatives in being able to provide significant lending capacity to borrowing 
+nations without major delays or the need for strict reform packages  (Mühlich, Fritz, and 
+Kring 2022). 
+The three borrowing central banks used USD 1.1 billion of foreign exchange support from 
+the RBI in 2020 -21 (RBI 2022b). Borrowers may have preferred the SAARC framework to 
+other facilities, such as those offered by the IMF, because of the timely disbursement of funds 
+and lack of conditionality (Mühlich and Fritz 2021). 
+  
+406
+India: SAARC Swap Framework Gupta
+
+--- Page 8 ---
+407
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 9 ---
+Key Design Decisions 
+1. Purpose and Type : The RBI offered to enter into bilateral , unidirectional swap 
+arrangements with SAARC member countries under the SAARC swap framework 
+to provide liquidity during market crises.  
+The RBI launched the SAARC swap framework to “ [strengthen] regional financial and 
+economic cooperation” and to provide to SAARC countries a “backstop line of funding . . . to 
+meet any balance of payments and liquidity crises” (RBI 2012) . The facility was made 
+available to all SAARC member countries: Afghanistan, Bangladesh, Bhutan, Maldives, Nepal, 
+Pakistan, and Sri Lanka (RBI 2012). 
+The member countries had to each approach  the RBI to use the swap facility and enter into 
+a bilateral swap agreement , which would incorporate the terms of the framework  (RBI 
+2012). Specific terms of the SAARC swap agreement, such as maturity, draws, and rates, were 
+stated in the 2012 framework an d did not have to be renegotiated by borrowing central 
+banks in each bilateral agreement. The main decision to be made with each agreement was 
+the maximum size of the swap facility. The original swap framework was established for a 
+three-year term, before receiving extensions in 2016 and 2019. 
+2. Part of a Package: The RBI and government of India provided additional financial 
+support (lines of credit, deferment of dues) to SAARC member countries. The 
+borrowing countries also had other bilateral and multilateral agreements to 
+access liquidity during a crisis.  
+The Indian government provided additional financial support to Bhutan and Sri Lanka that 
+was not part of the SAARC framework. These facilities were designed to provide Indian rupee 
+liquidity, meet balance of payments (BoP) needs, and strengthen food and energy security.  
+The RBI also extended special bilateral swap lines to Sri Lanka that exceeded the limits under 
+the SAARC framework. The CBSL had to supplement their SAARC swaps with special swap 
+lines for USD 700 million in 2015 and 2016 (see Figure 2) (RBI 2015b; RBI 2016c). In 2019, 
+the CBSL also requested an additional U SD 1 billion swap line from the RBI , which was 
+“under consideration” (CBSL 2019a). As of 2020, CBSL was continuing negotiations with the 
+RBI to secure a special bilateral swap line for an additional USD 1.0 billion  (CBSL 2020). 
+  
+408
+India: SAARC Swap Framework Gupta
+
+--- Page 10 ---
+Figure 2: Bhutan and Sri Lanka’s Non-SAARC Aid from India, 2014–2022   
+  
+Sources: GoI 2022c; RMA 2014; RMA 2022; GoI 2022a; RBI 2015b; CBSL 2015; RBI 2016c. 
+Both Sri Lanka and Maldives obtained aid from the IMF, while Bhutan did not. On September 
+1, 2022, the IMF reached an agreement with Sri Lanka to provide USD 2.9 billion via an 
+Extended Fund Facility (EFF) and to stabilize the country’s economy and create grounds for 
+a sustainable economic recovery through a 48 -month process (IMF 2022b) . Maldives 
+received USD 28.9 million on April 24, 2020, under the IMF’s Rapid Credit Facility. Maldives 
+also received SDR 20.3 million as part of the IMF’s general allocation for 2021 to help 
+countries deal with the COVID-19 pandemic (MMA 2022). 
+3. Legal Authority: The RBI functioned under the Reserve Bank of India Act, 1934 , 
+and India’s Union Cabinet approved the swap framework.   
+India’s central bank act ed under the Reserve Bank of India Act, 1934 , and we found no 
+evidence that the SAARC swap framework required further leg islation (GoI 1934; RBI 
+2021a). India’s Union Cabinet approved the RBI’s decision to offer the swap framework and 
+all subsequent extensions and amendments5 (RBI 2012).   
+The Royal Monetary Authority of Bhutan (RMA)  had the ability to set a fixed exchange rate 
+and manage the external reserves of the Royal Government of Bhutan as per the Royal 
+Monetary Authority Act of Bhutan, 2010 (GoB 2010). The CBSL is instituted by the Monetary 
+Law Act No. 58 (1949) of Sri Lanka (CBSL 2022; SL 1949). The MMA functions as the central 
+bank of Maldives as per Law no. 6/81 Maldives Monetary Authority Act 1981  (GoM 1981; 
+MMA 2022).   
+4. Governance: The RBI sign ed bilateral agreements with each member country ’s 
+central bank under the SAARC swap framework. 
+The “Framework on Currency Swap Arrangement for SAARC Member Countries” was 
+extended solely by the RBI, which is the sole lender under the framework. There was no 
+institutional governing body under the SAARC 2012 framework (Mühlich and Fritz 2021).  
+Under the framework, the RBI entered into bilateral agreements with any requesting SAARC 
+central bank, subject to final approval by the government of India. Each agreement is broadly 
+based on the original 2012 SAARC framework, but further modifications to tenures and size 
+ 
+5 Union Cabinet represents the council of ministers headed by the prime minister to aid India’s president in 
+exercising its duties (GoI 2022b). 
+409
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 11 ---
+limits have been agreed to in future renewals of bilateral agreements by the signing parties. 
+Extensions and amendments to the SAAR C framework and individual bilateral agreements 
+had to be approved by the government of India (RBI 2012). Our understanding is that the 
+RBI reserved the right to approve individual draws once the bilateral agreement had been 
+signed.  
+The RBI disclosed the use of each swap line in its annual report under the Foreign Exchange 
+Reserves section . S waps were disclos ed separately from official reserve estimates (see 
+Figure 1). 
+Sri Lanka’s 2020 swap agreement was recommended by the Monetary Board of the CBSL and 
+approved by Sri Lanka’s Cabinet of Ministers (CBSL 2020). The RBI and CBSL’s swap line 
+signed in July 2020 was disclosed by both central banks via press releases on their respective 
+websites (CBSL 2020; RBI 2020a). The CBSL’s Economic Research Department (ESD) is the 
+main contact for dealing with multilateral organizations like the SAARCFINANCE6 group and 
+the IMF (CBSL 2019b). 
+The RMA reported on the use of the swap line with the RBI under the SAARC framework in 
+its annual reports (RMA 2016). The RBI’s decision to provide an additional currency swap of 
+USD 200 million to Bhutan in November 2022 w as disclosed as a press release by the 
+Embassy of India, Thimphu (GoI 2022a).  
+The CBSL also used its annual report to disclose the initiation, use, and repayment of its swap 
+lines with the RBI (CBSL 2016; CBSL 2017a; CBSL 2021a) . The MMA reported in its a nnual 
+report on the details of its swap line with the RBI (MMA 2022).  
+Bhutan and Sri Lanka’s use of the 2012 SAARC framework to sign and use a bilateral swap 
+line with India in 2022 was disclosed by the RBI in its half -yearly report on FX reserve 
+management (RBI 2022c).  
+5. Administration: The borrowing central bank was responsible for initiating each 
+swap draw, and the RBI was most likely responsible for approving each draw.  
+It is not clear which body at the RBI made decisions on day -to-day operations of the swap. 
+The borrowing central bank was required to approach the RBI to access and activate the 
+facility (RBI 2012) . Each draw of the swap line has been presented as part of the RBI’s 
+balance sheet in foreign exchange reserve.  
+6. Communication: The RBI offered the SAARC swap framework initially to provide 
+a backstop line of funding to member nations. The framework was extended with 
+the intentions of strengthening bilateral ties and tackling dollar liquidity needs.  
+The RBI released the original swap framework from 2012, and the extensions in 2016 and 
+2019, via press releases on its website (RBI 2012; RBI 2016a; RBI 2019a). As per the original 
+framework in 2012, the RBI intended t o provide a backstop line of funding to all SAARC 
+ 
+6 Network of central bank governors of the SAARC region, instituted on September 9, 1998 (RBI 2021).  
+410
+India: SAARC Swap Framework Gupta
+
+--- Page 12 ---
+member nations to help meet balance of payments need and address liquidity crises (RBI 
+2012). In 2016, the RBI extended the tenure of the swap framework, while mentioning the 
+need to further financial stability and economic cooperation in the region (RBI 2016a). In 
+2019, the RBI’s revised swap framework referred to the need for swap facilities du ring 
+specific foreign exchange liquidity crises in member nations and as a broader step to help 
+financial stability in South Asia (RBI 2019a).  
+The RBI said that it s swap agreements with Sri Lanka in 2015 and 2016 were intended  to 
+strengthen economic coope ration and improve bilateral  ties (RBI 2015a; RBI 2015b; RBI 
+2016c). In 2016, RBI Governor Raghuram Rajan confirmed in his speech to the 
+SAARCCFINANCE group that the swap facility had helped member countries alleviate short-
+term foreign exchange requiremen ts (Statesman 2016). In 2020, the RBI said that it was 
+trying to provide a backstop line of funding to borrowing central banks to help meet dollar 
+liquidity needs in the face of declining tourism receipts and other COVID-19 related 
+disruptions to the economy (RBI 2021a).  
+7. Eligible Institutions: India made t he facility available to the central banks of the 
+other seven SAARC member countries. 
+The RBI made swaps under the 2012 SAARC framework available to all other SAARC member 
+countries—Afghanistan, Bangladesh, Bhutan, Maldives, Nepal, Pakistan, and Sri Lanka (RBI 
+2012). The member countries each had to approach the RBI to use the facility and enter into 
+bilateral swap agreements (RBI 2012). As of February 28, 2022, three countries —Bhutan, 
+Maldives, and Sri Lanka—had done so.  
+8. Size: Under the 2012 SAARC framework, each county was eligible for a swap line 
+between USD 100 million and USD 400 million, for an aggregate total not to exceed 
+USD 2 billion . Amendments to the framework adopted in 2018 permitted each 
+participating country to  draw an additional USD 400 million  via a  Standby 
+Arrangement while maintaining the aggregate USD 2 billion cap.  
+The maximum amount that India made available under the SAARC swap framework was USD 
+2 billion. The swap amount available to each participating country was predetermined by 
+the agreement. It was “broadly based” on two months of the country’s import cover and was 
+set to a minimum of USD 100 million and a maximum of USD 400 million per country (RBI 
+2012). The RBI did not disclose the amount it was willing to make available to each SAARC 
+member country. As of December 20 , 2018, the RBI incorporat ed a Standby Swap 
+Arrangement (SSA) into the original swap framework. This allowed individual SAARC 
+member countries to draw an additional USD 400 million beyond their originally specified 
+limit to take advantage of the unutilized balances of the facility (RBI 2020b).  
+On January 31, 2020, the RMA and RBI signed a n agreement for USD 200 million under the 
+SAARC framework (RBI 2020b; RMA 2020) . In November 2022, as per the request of the 
+Royal Government of Bhutan, the GoI provided an additional USD 200 million swap line and 
+extended the validity of the agreement to June 30, 2023 (GoI 2022a). As per Figure 1, the size 
+411
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 13 ---
+of Bhutan’s swap line with the RBI increase d from USD 100 million in 2016 to USD 400 
+million in 2022.  
+The MMA borrowed the maximum permissible amount of USD 400 million from the RBI 
+under the SAARC swap arrangement and repaid it fully by December 2021 (MMA 2022).   
+9. Process for Utilizing the Swap Agreement : The borrowing central bank had to 
+enter into a bilateral agreement with the RBI to utilize the facility ; it could then 
+request draws of funds.  
+An eligible central bank would have to approach the RBI to set  up a bilateral agreement, 
+which would need final approval from the Government of India. As per the 2012 framework, 
+each requesting member country could draw dollars, euros, or I ndian rupees in multiple 
+tranches. The foreign exchange liquidity would be provided to the borrowing central bank 
+against collateral of their domestic currency or  domestic currency -denominated 
+government securities (RBI 2012).  
+Each swap draw could be rolled over twice on the request of the borrowing member country 
+(RBI 2012) . The RBI provid ed concessions under the SAARC framework relating to  the 
+waiting period and the second rollover to incentivize draws in Indian rupees (RBI 2020b).   
+10. Downstream Use of Borrowed Funds:  The borrowing central banks used their 
+swap lines to provide liquidity to their markets (Bhutan, Sri Lanka) and conduct 
+foreign exchange interventions to maintain exchange rate stability (Maldives).  
+The RBI imposed no restrictions on the downstream use of funds by borrowing central 
+banks. The RMA entered into the 2013 and 2016 swaps to better manage its Indian rupee 
+reserves, to provide relief for short-term balance of payment transactions, and to help with 
+a backstop line of funding for liquidity mismatches (RMA 2014a; RMA 2016).  
+The RBI’s swap facility helped Sri Lanka stabilize its exchange rate and strengthen its 
+position in the financial markets (CBSL 2017a). The CBSL’s downstream swap programs with 
+commercial banks helped moderate the decline in market liquidity in 2016 (CBSL 2017b). 
+As a response to the COVID-19 crisis, the CBSL’s swap line with the RBI was intended to 
+“maintain sufficient short -term FX liquidity” without adversely affecting the country’s 
+foreign exchange reserves as a result of the COVID-19 pandemic (CBSL 2020). In 2020, the 
+CBSL also entered into foreign exchange swap agreements with licensed domestic banks to 
+address foreign exchange liquidity shortages in the market (CBSL 2021a). 
+The Maldives central bank has a mandate to keep its currency in a +/-20% band of MVR 
+12.85 per US dollar. The MMA continued to intervene in the foreign exchange market to 
+maintain exchange rate stability. The MMA was providing foreign exchange liquidity to the 
+markets in the first three quarters of 2021 to help with US doll ar shortages in the economy 
+(MMA 2022). In 2022, the MMA also used its swap line to provide a backstop line of funding 
+for meeting short-term foreign exchange liquidity requirements (RBI 2022a).  
+412
+India: SAARC Swap Framework Gupta
+
+--- Page 14 ---
+11. Duration of Swap Draws: Each swap draw had a tenure of three months.  
+Each swap draw was for a tenure of three months and could be rolled over twice  for a 
+maximum tenure of nine months (RBI 2012).  
+12. Rates and Fees: The 2012 SAARC framework provided for rates of three-month 
+LIBOR plus 200 basis points on US dollar and euro swaps, and RBI Repo minus 200 
+basis points on Indian rupee swaps.  
+The interest rate charged under the SAARC framework would be three-month LIBOR plus 
+200 basis points for dollar and euro swaps, and the RBI Repo rate minus 200 basis points for 
+Indian rupee swaps. The second rollover of any draw under a SAARC swap agreement would 
+incur a 50-basis-point premium to the previously charged interest rate (RBI 2012). 
+The RMA’s non-SAARC swap agreement with the RBI in March 2013 charged an interest rate 
+of 5.5% (RMA 2013).  There was no other disclosure of fees or exchange rates in the swap 
+agreements.  
+13. Balance Sheet Protection : The RBI had relatively short tenures of draws and 
+expirations of swap agreements, which were subject to regular review.  
+The RBI’s original swap framework did not specify an exact expir ation date but limited the 
+maximum maturity of each swap draw to three months with a limit of two rollovers. The 
+maturity of individual swap lines would be negotiated bilaterally between the RBI and 
+borrowing central bank (RBI 2012).  
+Each central bank’s borrowing limit was broadly based on two months’ import cover of their 
+respective countries and was limited to  a range of USD 100  million–USD 400 million (RBI 
+2012). The CBSL signed a special swap agreement with the RBI to borrow an additional USD 
+700 million beyond the SAARC facility (RBI 2015b; RBI 2016c).  
+14. Other Restrictions: The RBI did not impose any restrictions on borrowing central 
+banks.  
+There w ere no restrictions imposed by the RBI on the downstream use of funds by 
+borrowing central banks.  
+15. Other Options: Research did not identify any other options considered by the RBI 
+to fund the SAARC swap framework. The RBI and Indian government provided 
+other non -SAARC swap aid to member countries to address foreign exchange 
+shortages.  
+Research did not identify if the RBI considered any other types of support for its USD 2 billion 
+contribution to the SAARC swap framework. The RBI and Indian government provided other 
+non-SAARC swap aid to member countries to address foreign exchange shortages (Figures 4 
+and 7 in the Appendix). In December 2018, India also provided Maldives with an as sistance 
+413
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 15 ---
+package of USD 1 billion (USD 200 million in budget support and USD 800 million credit 
+facility by the India EXIM bank) (GoM 2018). 
+16. Exit Strategy: The SAARC swap framework was set to expire on November 13, 
+2022, but the RBI entered into new swap agreements in November and December 
+2022 that have three-year terms. 
+The RBI first offered the swap to SAARC nations on November 15, 2012. In 2016, RBI 
+extended to November 15, 2017 (RBI 2016a). In 2019, the framework was implemented for 
+a further three years to November 13, 2022 (RBI 2019a).  
+In April 2022, the RBI extended the duration of their swap line with the CBSL and converted 
+it into a standing agreement .7 In November 2022, in response to  the Royal Government of 
+Bhutan, the GoI extended their bilateral swap agreement to June 30, 2023 (GoI 2022a). India 
+also agreed to a swap line with Maldives in December 2022 based on the SAARC 2012 
+framework, which leads us to assume that the swap agreement is still active (RBI 2022a).  
+  
+ 
+7 On April 22, 2022, the official Twitter handle of the High Commission of India in Colombo, Sri Lnaka, confirmed 
+that India’s swap line for USD 400 million to the CBSL was set to expire in January 2022 and has been “extended 
+indefinitely” (GoI 2022d). 
+ 
+414
+India: SAARC Swap Framework Gupta
+
+--- Page 16 ---
+References and Key Program Documents 
+Implementation Documents 
+(RBI 2012) Reserve Bank of India (RBI). 2012. “Reserve Bank of India Announces SAARC 
+Swap Arrangement 2012,” May 16, 2012. 
+Document disclosing the framework for the SAARC swap agreement by the RBI. 
+https://ypfs.som.yale.edu/node/22818 
+(RBI 2016a) Reserve Bank of India (RBI). 2016a. “RBI Announces the Extension of SAARC 
+Swap Arrangement,” February 23, 2016. 
+Document disclosing the extension of the 2012 SAARC swap framework. 
+https://ypfs.som.yale.edu/node/22828 
+Legal/Regulatory Guidance 
+(GoB 2010) Government of Bhutan (GoB). 2010. “Royal Monetary Authority Act of Bhutan 
+2010,” 2010. 
+Law establishing the powers and authorities of the central bank of Bhutan. 
+https://ypfs.som.yale.edu/node/22710 
+(GoI 1934) Government of India (GoI). 1934. “Reserve Bank of India Act, 1934,” 1934. 
+Law establishing the powers of the central bank of India. 
+https://ypfs.som.yale.edu/node/22967 
+(GoM 1981) Government of Maldives (GoM). 1981. “Maldives Monetary Authority Act 
+1981,” 1981. 
+Law establishing the powers of the central bank of Maldives. 
+https://ypfs.som.yale.edu/node/22968/ 
+(SL 1949) Government of Sri Lanka (SL). 1949. “Monetary Law Act,” 1949. 
+Law establishing the powers of the central bank of Sri Lanka. 
+https://ypfs.som.yale.edu/node/22969 
+Media Stories 
+(BBCSAP 2009) BBC Monitoring South Asia (BBCSAP). 2009. “Terror, Financial Meltdown 
+Main Challenges for South Asia - Sri Lanka President,” February 27, 2009. 
+Article presenting the text of the Sri Lanka Prime Minister’s speech to the 31st session of the 
+SAARC. 
+https://ypfs.som.yale.edu/node/23022/ 
+(CB 2022) Central Banking Newsdesk (CB). 2022. “RBI Extends Sri Lanka Swap Line,” April 
+22, 2022. 
+Article describing the press release on the Sri Lankan central bank’s swap agreement with the 
+Reserve Bank of India. 
+https://ypfs.som.yale.edu/node/22970 
+415
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 17 ---
+(Crabtree 2012) Crabtree, James. 2012. “Battered Rupee Highlights India Woes.” Financial 
+Times, May 17, 2012. 
+Article presenting the state of the Indian rupee while the SAARC swap facility was being 
+launched in 2012. 
+https://ypfs.som.yale.edu/node/22971/ 
+(Haidar 2023) Haidar, Suhasini. 2023. “India’s Neighbourhood Outreach | What Lies Ahead 
+for South Asia in 2023?” The Hindu, January 23, 2023. 
+Article discussing the recent increasing geopolitical outreach by India to other South Asian 
+nations. 
+https://ypfs.som.yale.edu/node/23023/ 
+(Hindustan Times 2009) Hindustan Times. 2009. “Bring 26/11 Planners to Justice: India,” 
+February 27, 2009. 
+Story announcing a request by the Indian government to the Pakistani government regarding 
+a recent terror attack. 
+https://ypfs.som.yale.edu/node/23024/ 
+(Jawaid 2010) Jawaid, Arsla. 2010. “Time to Revisit.” South Asia, December 31, 2010. 
+Article discussing the success of SAARC. 
+https://ypfs.som.yale.edu/node/23027/ 
+(Keohane 2012) Keohane, David. 2012. “India: A Sliding Rupee in a Frozen System.” 
+Financial Times, May 23, 2012. 
+Article detailing the depreciation in the Indian rupee in the first half of 2012. 
+https://ypfs.som.yale.edu/node/22974 
+(Pattanaik 2023) Pattanaik, Smruti S. 2023. “Subregional over Regional Cooperation.” The 
+Kathmandu Post, March 30, 2023. 
+Article discussing the success of regional cooperation in South Asia. 
+https://ypfs.som.yale.edu/node/22977 
+(Pioneer 2023) Pioneer, The. 2023. “Need to Revive Saarc,” February 16, 2023. 
+Opinion describing the need to rejuvenate South Asian cooperation when faced with collective 
+challenges. 
+https://ypfs.som.yale.edu/node/22981 
+(PTI 2012) Press Trust of India (PTI). 2012. “RBI to Offer $2 Bn Swap Arrangement to 
+SAARC Countries,” May 16, 2012. 
+Story announcing the release of the RBI’s SAARC swap facility. 
+https://ypfs.som.yale.edu/node/23030 
+(PTI 2019) Press Trust of India (PTI). 2019. “Sri Lanka Banks on RBI Swaps to Boost Its 
+Reserves: PM,” January 10, 2019. 
+Article describing the support received by Sri Lanka from India and the RBI. 
+https://ypfs.som.yale.edu/node/22711 
+416
+India: SAARC Swap Framework Gupta
+
+--- Page 18 ---
+(Statesman 2016) Statesman, The. 2016. “Good Policy Essential to India’s Stability: Rajan,” 
+May 26, 2016. 
+Story quoting the RBI governor’s remarks on the SAARC swap framework. 
+https://ypfs.som.yale.edu/node/22982 
+(SUNOSL 2009) Sunday Observer Sri Lanka (SUNOSL). 2009. “SAARC and World Economic 
+Crisis,” March 1, 2009. 
+Article describing the responsibility of the SAARC group in the face of the global financial 
+crisis. 
+https://ypfs.som.yale.edu/node/23025/ 
+Press Releases/Announcements 
+(CBSL 2019a) Central Bank of Sri Lanka (CBSL). 2019a. “RBI Agrees to USD 400 Mn SWAP - 
+Boost to Reserves,” January 9, 2019. 
+Press release announcing the swap agreement under the SAARC framework to help boost 
+external reserves. 
+https://ypfs.som.yale.edu/node/22989/ 
+(CBSL 2020) Central Bank of Sri Lanka (CBSL). 2020. “The Central Bank Enters into a 
+Bilateral Currency Swap Agreement with the Reserve Bank of India,” July 27, 2020. 
+Press release stating Sri Lanka central bank’s swap agreement with the Reserve Bank of India. 
+https://ypfs.som.yale.edu/node/22816 
+(GoI 2022a) Government of India (GoI). 2022a. “Reserve Bank of India Provides Additional 
+Currency Swap of USD 200 Million (Equivalent in INR) to Royal Monetary Authority of 
+Bhutan,” November 16, 2022. 
+Press release disclosing the swap agreement between Bhutan and India. 
+https://ypfs.som.yale.edu/node/22784 
+(GoI 2022c) High Commission of India (GoI). 2022c. “Operational Details of USD 1 Billion 
+Credit,” May 7, 2022. 
+Press release disclosing the provision of credit line from India to Sri Lanka to help with food 
+and energy security. 
+https://ypfs.som.yale.edu/node/22991/ 
+(GoI 2022d) High Commission of India in Colombo, Sri Lanka (GoI). 2022. “Confirmation of 
+Swap Line Extension.” Twitter post, April 22, 2022. 
+Tweet disclosing that the swap line between the RBI and CBSL was extended indefinitely (in 
+Tamil). 
+https://ypfs.som.yale.edu/node/23084 
+(GoM 2018) Ministry of Finance, Republic of Maldives (GoM). 2018. “India Announces $1.4 
+Billion Assistance Package to Maldives,” December 19, 2018. 
+Press release disclosing the aid package received by Maldives from the government of India. 
+https://ypfs.som.yale.edu/node/22785 
+417
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 19 ---
+(IMF 2016) International Monetary Fund (IMF). 2016. “Staff Report for the 2016 Article IV 
+Consultation and Request for a Three-Year Extended Arrangement under the Extended 
+Fund Facility,” 2016. 
+Press release of the bilateral discussions between the IMF and Sri Lanka. 
+https://ypfs.som.yale.edu/node/22988/ 
+(IMF 2022a) International Monetary Fund (IMF). 2022a. “2021 Article IV Consultation—
+Press Release; Staff Report; and Statement by the Executive Director for Sri Lanka.” 
+Country Report No. 2022/091, March 25, 2022. 
+Press release of the bilateral discussions between the IMF and Sri Lanka. 
+https://ypfs.som.yale.edu/node/22786 
+(IMF 2022b) International Monetary Fund (IMF). 2022b. “IMF Staff Reaches Staff-Level 
+Agreement on an Extended Fund Facility Arrangement with Sri Lanka,” September 1, 2022. 
+Press release disclosing the IMF’s agreement with Sri Lanka for an extended facility. 
+https://ypfs.som.yale.edu/node/22787 
+(RBI 2013a) Reserve Bank of India (RBI). 2013a. “RBI Signs Currency Swap Agreement 
+with Royal Monetary Authority of Bhutan,” March 8, 2013. 
+Press release notifying the signing of a swap agreement between the central banks of India 
+and Bhutan. 
+https://ypfs.som.yale.edu/node/22819 
+(RBI 2015a) Reserve Bank of India (RBI). 2015a. “RBI Signs Currency Swap Agreement 
+with the Central Bank of Sri Lanka,” March 25, 2015. 
+Press release notifying the signing of a swap agreement between the central banks of India 
+and Sri Lanka. 
+https://ypfs.som.yale.edu/node/22978 
+(RBI 2015b) Reserve Bank of India (RBI). 2015b. “RBI Signs Special Currency Swap 
+Agreement with the Central Bank of Sri Lanka,” July 17, 2015. 
+Press release notifying the signing of a swap agreement between the central banks of India 
+and Sri Lanka. 
+https://ypfs.som.yale.edu/node/22822 
+(RBI 2016b) Reserve Bank of India (RBI). 2016b. “RBI Signs Currency Swap Agreement 
+with the Royal Monetary Authority of Bhutan,” March 17, 2016. 
+Press release notifying the signing of a swap agreement between the central banks of India 
+and Bhutan. 
+https://ypfs.som.yale.edu/node/22830 
+(RBI 2016c) Reserve Bank of India (RBI). 2016c. “RBI Signs Special Currency Swap 
+Agreement with the Central Bank of Sri Lanka,” March 29, 2016. 
+Press release notifying the signing of a swap agreement between the central banks of India 
+and Sri Lanka. 
+https://ypfs.som.yale.edu/node/22832 
+418
+India: SAARC Swap Framework Gupta
+
+--- Page 20 ---
+(RBI 2019a) Reserve Bank of India (RBI). 2019a. “RBI Announces the Framework on 
+Currency Swap Arrangement for SAARC Countries for the Period 2019 to 2022,” November 
+26, 2019. 
+Press release disclosing the extension of the 2012 SAARC swap framework. 
+https://ypfs.som.yale.edu/node/22833 
+(RBI 2020a) Reserve Bank of India (RBI). 2020a. “RBI Signs Currency Swap Agreement 
+with Central Bank of Sri Lanka,” July 27, 2020. 
+Press release notifying the signing of a swap agreement between the central banks of India 
+and Sri Lanka. 
+https://ypfs.som.yale.edu/node/22834 
+(RBI 2022a) Reserve Bank of India (RBI). 2022a. “Reserve Bank of India Signs Bilateral 
+Swap Agreement with Maldives Monetary Authority,” December 8, 2022. 
+Press release announcing the signing of  a swap agreement between the RBI and the 
+Monetary Maldives Authority. 
+https://ypfs.som.yale.edu/node/22979 
+Reports/Assessments 
+(BIMSTEC 2022) BIMSTEC. 2022. “About BIMSTEC,” 2022. 
+Page describing a South Asian regional cooperation group. 
+https://ypfs.som.yale.edu/node/22983/ 
+(CBSL 2015a) Central Bank of Sri Lanka (CBSL). 2015a. “CBSL Annual Report 2014.” Part II 
+Accounts&Operations 2014, 2015. 
+Sri Lanka central bank’s annual report for the full year 2014. 
+https://ypfs.som.yale.edu/node/22712 
+(CBSL 2015b) Central Bank of Sri Lanka (CBSL). 2015b. “CBSL Financial Stability 2015.” 
+Part 8 Financial Sector Performance and System Stability, September 2015. 
+Sri Lanka central bank’s report on financial stability for the full year 2015. 
+https://ypfs.som.yale.edu/node/23029/ 
+(CBSL 2016) Central Bank of Sri Lanka (CBSL). 2016. “CBSL Annual Report 2015.” Part II 
+Accounts&Operations 2015, 2016. 
+Sri Lanka central bank’s annual report for the full year 2015. 
+https://ypfs.som.yale.edu/node/22776 
+(CBSL 2017a) Central Bank of Sri Lanka (CBSL). 2017a. “CBSL Annual Report 2016.” Part II 
+Accounts&Operations 2016, 2017. 
+Sri Lanka central bank’s annual report for the full year 2016. 
+https://ypfs.som.yale.edu/node/22777 
+  
+419
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 21 ---
+(CBSL 2017b) Central Bank of Sri Lanka (CBSL). 2017b. “CBSL Monetary Policy 2016.” Part 
+7. Monetary Policy, Interest Rates, Money, and Credit 2016, 2017. 
+Sri Lanka central bank’s report on monetary policy for the full year 2016. 
+https://ypfs.som.yale.edu/node/22778 
+(CBSL 2018) Central Bank of Sri Lanka (CBSL). 2018. “CBSL Annual Report 2017.” Part II 
+Accounts&Operations 2017, 2018. 
+Sri Lanka central bank’s annual report for the full year 2017. 
+https://ypfs.som.yale.edu/node/22779 
+(CBSL 2019b) Central Bank of Sri Lanka (CBSL). 2019b. “CBSL Annual Report 2018.” Part II 
+Accounts&Operations 2018, 2019. 
+Sri Lanka central bank’s annual report for the full year 2018. 
+https://ypfs.som.yale.edu/node/22780 
+(CBSL 2021a) Central Bank of Sri Lanka (CBSL). 2021a. “CBSL Annual Report 2020.” Part II 
+Accounts&Operations 2020, 2021. 
+Sri Lanka central bank’s annual report for the full year 2020. 
+https://ypfs.som.yale.edu/node/22781 
+(CBSL 2021b) Central Bank of Sri Lanka (CBSL). 2021b. “CBSL Monetary Policy 2020.” Part 
+7. Monetary Policy, Interest Rates, Money and Credit 2020, 2021. 
+Sri Lanka central bank’s report on monetary policy for the full year 2020. 
+https://ypfs.som.yale.edu/node/22782 
+(CBSL 2022) Central Bank of Sri Lanka (CBSL). 2022. “CBSL Annual Report 2021.” Part II 
+Accounts&Operations 2021, 2022. 
+Sri Lanka central bank’s annual report for the full year 2021. 
+https://ypfs.som.yale.edu/node/22783 
+(GoI 2022b) Government of India (GoI). 2022b. “Executive-India,” 2022. 
+Webpage providing the details of India’s executive government. 
+https://ypfs.som.yale.edu/node/22990/ 
+(MMA 2021) Maldives Monetary Authority (MMA). 2021. “Maldives Monetary Authority 
+Annual Report 2020.” 2021. 
+Maldives central bank’s annual report for the full year 2021. 
+https://ypfs.som.yale.edu/node/22788/ 
+(MMA 2022) Maldives Monetary Authority (MMA). 2022. “Maldives Monetary Authority 
+Annual Report 2021.” 2022. 
+Maldives central bank’s annual report for the full year 2021. 
+https://ypfs.som.yale.edu/node/22788/ 
+  
+420
+India: SAARC Swap Framework Gupta
+
+--- Page 22 ---
+(RBI 2013b) Reserve Bank of India (RBI). 2013b. “Reserve Bank of India Annual Report 
+2012-13,” August 22, 2013. 
+India central bank’s report on monetary policy for the full year 2013. 
+https://ypfs.som.yale.edu/node/22789 
+(RBI 2014) Reserve Bank of India (RBI). 2014. “Reserve Bank of India Annual Report 2013-
+14,” August 21, 2014. 
+India central bank’s report on monetary policy for the full year 2014. 
+https://ypfs.som.yale.edu/node/22790 
+(RBI 2015c) Reserve Bank of India (RBI). 2015c. “Reserve Bank of India Annual Report 
+2014-15,” August 27, 2015. 
+India central bank’s report on monetary policy for the full year 2015. 
+https://ypfs.som.yale.edu/node/22791 
+(RBI 2016d) Reserve Bank of India (RBI). 2016d. “Reserve Bank of India Annual Report 
+2015-16,” 2016. 
+India central bank’s report on monetary policy for the full year 2016. 
+https://ypfs.som.yale.edu/node/22792 
+(RBI 2017) Reserve Bank of India (RBI). 2017. “Reserve Bank of India Annual Report 2016-
+17,” 2017. 
+India central bank’s report on monetary policy for the full year 2017. 
+https://ypfs.som.yale.edu/node/22803 
+(RBI 2018) Reserve Bank of India (RBI). 2018. “Reserve Bank of India Annual Report 2017-
+18,” 2018. 
+India central bank’s report on monetary policy for the full year 2018. 
+https://ypfs.som.yale.edu/node/22804 
+(RBI 2019b) Reserve Bank of India (RBI). 2019b. “Reserve Bank of India Annual Report 
+2018-19,” 2019. 
+India central bank’s report on monetary policy for the full year 2019. 
+https://ypfs.som.yale.edu/node/22805 
+(RBI 2020b) Reserve Bank of India (RBI). 2020b. “Reserve Bank of India Annual Report 
+2019-20,” 2020. 
+India central bank’s report on monetary policy for the full year 2020. 
+https://ypfs.som.yale.edu/node/22806 
+(RBI 2021a) Reserve Bank of India (RBI). 2021a. “Reserve Bank of India Annual Report 
+2020-21,” 2021. 
+India central bank’s report on monetary policy for the full year 2021. 
+https://ypfs.som.yale.edu/node/22808 
+  
+421
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 23 ---
+(RBI 2021b) Reserve Bank of India (RBI). 2021b. “What Is the Asian Clearing Union? RBI 
+FAQ,” March 2021. 
+Document describing a multilateral clearing union, started in December 1974,to facilitate 
+payments with member countries Bangladesh, Bhutan, India, Iran, Maldives, Myanmar, Nepal, 
+Pakistan, and Sri Lanka. 
+https://ypfs.som.yale.edu/node/22809 
+(RBI 2022b) Reserve Bank of India (RBI). 2022b. “Reserve Bank of India Annual Report 
+2021-22,” 2022. 
+India central bank’s report on monetary policy for the full year 2022. 
+https://ypfs.som.yale.edu/node/22810 
+(RBI 2022c) Reserve Bank of India (RBI). 2022c. “Half Yearly Report on Management of 
+Foreign Exchange Reserves,” September 2022. 
+Report presenting the details of the RBI’s foreign exchange assets. 
+https://ypfs.som.yale.edu/node/22811 
+(RMA 2014a) Royal Monetary Authority of Bhutan (RMA). 2014a. “Royal Monetary 
+Authority of Bhutan, Annual Report, 2014,” 2014. 
+Bhutan central bank’s annual report for the full year 2014. 
+https://ypfs.som.yale.edu/node/22813 
+(RMA 2014b) Royal Monetary Authority of Bhutan (RMA). 2014b. “Royal Monetary 
+Authority of Bhutan, Annual Report, 2013,” January 2014. 
+Bhutan central bank’s annual report for the full year 2013. 
+https://ypfs.som.yale.edu/node/22812 
+(RMA 2016) Royal Monetary Authority of Bhutan (RMA). 2016. “Royal Monetary Authority 
+of Bhutan, Annual Report, 2016,” 2016. 
+Bhutan central bank’s annual report for the full year 2016. 
+https://ypfs.som.yale.edu/node/22814/ 
+(RMA 2017) Royal Monetary Authority of Bhutan (RMA). 2017. “Royal Monetary Authority 
+of Bhutan, Annual Report, 2017,” 2017. 
+Bhutan central bank’s annual report for the full year 2017. 
+https://ypfs.som.yale.edu/node/22815 
+(RMA 2018) Royal Monetary Authority of Bhutan (RMA). 2018. “Royal Monetary Authority 
+of Bhutan, Annual Report, 2018,” 2018. 
+Bhutan central bank’s annual report for the full year 2018. 
+https://ypfs.som.yale.edu/node/22987/ 
+(RMA 2019) Royal Monetary Authority of Bhutan (RMA). 2019. “Royal Monetary Authority 
+of Bhutan, Annual Report, 2019,” 2019. 
+Bhutan central bank’s annual report for the full year 2019. 
+https://ypfs.som.yale.edu/node/22986/ 
+422
+India: SAARC Swap Framework Gupta
+
+--- Page 24 ---
+(RMA 2020) Royal Monetary Authority of Bhutan (RMA). 2020. “Royal Monetary Authority 
+of Bhutan, Annual Report, 2020,” 2020. 
+Bhutan central bank’s annual report for the full year 2020. 
+https://ypfs.som.yale.edu/node/22985/ 
+(RMA 2021) Royal Monetary Authority of Bhutan (RMA). 2021. “Royal Monetary Authority 
+of Bhutan, Annual Report, 2021,” 2021. 
+Bhutan central bank’s annual report for the full year 2021. 
+https://ypfs.som.yale.edu/node/22984/ 
+(RMA 2022) Royal Monetary Authority of Bhutan (RMA). 2022. “Royal Monetary Authority 
+of Bhutan, Annual Report, 2022,” 2022. 
+Bhutan central bank’s annual report for the full year 2022. 
+https://ypfs.som.yale.edu/node/22976/ 
+(SAARC 2020a) SAARC Secretariat (SAARC). 2020a. “About South Asian Association for 
+Regional Cooperation,” July 12, 2020. 
+Document describing the SAARC organization. 
+https://ypfs.som.yale.edu/node/22975/ 
+(SAARC 2020b) South Asian Association for Regional Cooperation (SAARC). 2020b. 
+“Charter of the South Asian Association for Regional Cooperation,” July 12, 2020. 
+Charter for regional cooperation signed by the heads of State or Government of the 8 South 
+Asian member states. 
+https://ypfs.som.yale.edu/node/23026/ 
+Key Academic Papers 
+(Agnihotri 2020) Agnihotri, Dr. Anurag. 2020. “Study of Financial Crises And Stability 
+Across Selected Asian Countries.” International Journal of Advanced Science and Technology 
+29, no. 10: 6136–45. 
+Study assessing the financial stability in selected Asian countries focusing on regulatory and 
+supervisory regimes. 
+https://ypfs.som.yale.edu/node/22707 
+(Hoffner 2023) Hoffner, Benjamin. 2023. “Association of Southeast Asian Nations Plus 
+Three: The Chiang Mai Initiative Multilateralization, 2010.” Journal of Financial Crises 5,  
+no. 1. 
+Case study tracing the development of the CMIM. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/4 
+(Mühlich and Fritz 2021) Mühlich, Laurissa, and Barbara Fritz. 2021. “Borrowing Patterns 
+in the Global Financial Safety Net: Does Governance Play a Role?,” Global Policy by Durham 
+University and John Wiley & Sons Ltd 12, no. 4: 47–68. 
+Article assessing the global safety net regime through regional financing agreements. 
+https://ypfs.som.yale.edu/node/22708 
+423
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 25 ---
+(Mühlich, Fritz, and Kring 2022) Mühlich, Laurissa, Barbara Fritz, and William N. Kring. 
+2022. “No One Left Behind? Assessing the Global Financial Safety Net Performance During 
+COVID-19.” Journal of Globalization and Development, JGD 2022 13, no. 1: 123–47. 
+Article assessing the performance of global liquidity safety nets as a response to the Covid-19 
+pandemic. 
+https://ypfs.som.yale.edu/node/22709 
+ 
+  
+424
+India: SAARC Swap Framework Gupta
+
+--- Page 26 ---
+Appendixes 
+Appendix 1: Bhutan 
+The Bhutanese ngultrum (BTN) is pegged at par to the Indian rupee. It was experiencing 
+depreciation pressure against the dollar in 2013 because of India’s volatile capital flows and 
+large current account deficit (RMA 2013). At the time, India accounted for  66% of Bhutan’s 
+overall external debt (RMA 2014a). 
+On March 8, 2013, the RBI signed a three-year bilateral agreement with the Royal Monetary 
+Authority of Bhutan (RMA) to swap dollars, euros, or Indian rupees in multiple tranches for 
+up to USD 100 million (RBI 2013a). The RMA used the swap to manage its Indian rupee 
+reserves and provide relief for short-term balance of payment transactions (RMA 2013). The 
+RMA and RBI signed similar bilateral agreements on March 17, 2016, for USD 100 million 
+and on January 31, 2020, for USD 200 million (RBI 2016b) (RBI 2020b). By drawing on the 
+RBI swap agreement, Bhutan raised INR 5.4 billion (USD 99.4 million8) on March 8, 2013, for 
+a duration of six months (three-month swap plus one rollover) and charging an interest rate 
+of 5.5% (RMA 2013). 
+On March 17, 2016, the RBI and RMA signed another bilateral swap agreement to be valid 
+for three years from signing for USD 100 million, based on the SAARC 2012 framework (RBI 
+2016b). The terms of the agreement were the sa me as those of the 2013 swap facility , 
+allowing for multiple tranches of borrowing in USD, EUR, or INR (RBI 2016b). The RMA paid 
+off the full principal of INR 6.7 billion and interest of INR 153.2 million to the RBI in 2017 
+(RMA 2017, 31). The RMA reported  borrowing INR 6.7 billion (USD 100 million) from the 
+RBI in 2017-18 (RMA 2018). The RMA reported an increase in its outstanding loan to the RBI 
+resulting from the swap in 2018-19 to INR 6.97 billion (USD 100 million) (RMA 2019, 108). 
+The RMA’s use of the swap line with the RBI in 2018 and 2019 seems like an activation of the 
+renewed swap agreement signed in March 2016. In 2020, the RMA reported borrowing INR 
+28.3 billion (USD 200 million) under the RBI swap agreement, of which INR 14.05 billion had 
+been repaid that year (RMA 2020). 
+In November 2022, as per the request of the Royal Government of Bhutan, the government 
+of India (GoI) provided an additional USD 200 million “INR equivalent” swap line to provide 
+new support to Bhutan and extended the agreement signed on January 31, 2020, to June 30, 
+2023. The disclosure confirmed the signing of swap agreements between the RBI and RMA 
+as “exemplary ties of friendship and close cooperation” in 2013, 2016, 2019, and 2020 (GoI 
+2022a). The RMA has an existing maximum swap limit with the RBI of USD 400 million as of 
+year-end 2022. See Figure 3 for a summary of Bhutan’s use of the RBI’s swap facility.   
+  
+ 
+8 Per Yahoo Finance, USD 1 = INR 54.4 as of March 1, 2013. 
+425
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 27 ---
+Figure 3: Bhutan’s Use of the RBI’s Swap Facility, 2013–2022 
+ 
+Sources: GoI 2022a; RBI 2016b; RBI 2020b; RMA 2013; RMA 2018; RMA 2019; RMA 2020; RMA 2021; RMA 2022.  
+Apart from the SAARC swap facility, India provided Bhutan with other forms of financial 
+support (as seen in Figure 4). The RMA had an INR 10 billion (USD 167 million) credit line 
+with the GoI an d an overdraft facility from State Bank of India (SBI) and Punjab National 
+Bank9 (PNB) to meet Bhutan’s developmental and balance of payments (BoP) needs (RMA 
+2014a). Bhutan also had a line of credit from the G overnment of India for INR 7.0 billion in 
+2016–17 (RMA 2017). This line of credit remained active every year and was active as of 
+2022 (RMA 2022).  
+India also provided Bhutan with two Standby Credit facilities of INR 3 billion and INR 4 
+billion to facility bilateral trade and help with Indian rupee payments from July 1, 2022 (GoI 
+2022a). Both facilities charged a reduced interest rate of 2.5% , with the settlement periods 
+extended to 60 months. These facilities were announced to promote bilateral trade and meet 
+Indian rupee payment requirements by Bhutan . This agreement was communicated as 
+another sign of close ties and cooperation between Bhutan and India (GoI 2022a). 
+Figure 4: Non-Swap Aid Provided by India to Bhutan, 2013–2022 
+ 
+Sources: GoI 2022a; GoI 2022c; RMA 2014; RMA 2022. 
+  
+ 
+9 SBI and PNB are two of India’s largest public-sector banks (with more than 50% government ownership). 
+426
+India: SAARC Swap Framework Gupta
+
+--- Page 28 ---
+Appendix 2: Sri Lanka 
+The Central Bank of Sri Lanka (CBSL) began to seek swap arrangements with other Asian 
+neighbors in 2014, as it marked the first full year of policy divergence among global central 
+banks since the GFC (CBSL 2015a). In 2015, the Sri Lankan rupee (LKR) was experiencing 
+strong depreciation pressures amidst reversing external capital flows, increased market 
+volatility, and tighter market conditions. The CBSL also highlighted financial stability risks 
+from excessive government borrowing from domestic sources and decline in liquidity in FX 
+and money markets (CBSL 2015b). Sri Lanka’s usage of the SAARC swap framework has been 
+summarized in Figure 5 and Figure 6. Sri Lanka also received significant foreign aid beyond 
+the SAARC swap framework, and this has been summarized in Figure 7.  
+On March 25, 2015, the RBI and CBSL signed an agreement enabling the CBSL to borrow up 
+to USD 400 million (in dollars and euros) for three months in multiple tranches in exchange 
+for Sri Lankan rupees (RBI 2015a). The CBSL also signed a special swap agreement with the 
+RBI increasing the size to USD 700 million in 2015 and 2016, bringing Sri Lanka’s total swap  
+limit to USD 1.1 billion (breakdown: SAARC swap for USD 400 million and special swap f or 
+USD 700 million) (RBI 2015b; RBI 2016c) . This allowed the CBSL to draw USD 1.5 billion 10 
+from the RBI in the full-year 2015 under this SAARC framework (CBSL 2017a).  
+Figure 5: Sri Lanka’s Exchange Rate and SAARC Swap Usage, 2014–2022 
+ 
+Sources: Bloomberg; CBSL 2016; CBSL 2017a; CBSL 2018; CBSL 2021a; RBI 2015a; RBI 2015b; RBI 2022c. 
+ 
+In 2016, deteriorating capital flows put further pressure on the Sri Lankan rupee, leading to 
+potential BoP and external sustainability concerns (IMF 2016). The SAARC swap line helped 
+the CBSL to stabilize its exchange rate and strengthen its position in the financial markets 
+(CBSL 2017a) . The CBSL’s dow nstream swap programs with commercial banks helped 
+moderate the decline in market liquidity in 2016 (CBSL 2017b) . In June 2016, the IMF 
+approved a 1.1 billion Special Drawing Rights (SDR) (USD 1.5 billion) support package under 
+the Extended Fund Facility (EFF) to help Sri Lanka’s economic reform agenda (IMF 2016). 
+  
+ 
+10 Draw of USD 700 million under the July 2015 special facility and two rollovers of the USD 400  million swap 
+facility by the CBSL. 
+427
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 29 ---
+Figure 6: Sri Lanka’s SAARC Swap Usage, 2014–2022 
+ 
+Sources: CBSL 2016; CBSL 2017a; CBSL 2018; CBSL 2021a; RBI 2015a; RBI 2015b; RBI 2022c. 
+ 
+In January 2019, Sri Lanka Prime Minister Ranil Wickremesinghe noted that a political crisis 
+had adversely affected the Sri Lankan economy , leading to Sri Lankan rupee depreciation 
+and capital outflows (PTI 2019). On July 27, 2020, the RBI and CBSL signed a swap agreement 
+under the SAARC framework (RBI 2020a). The CBSL intended to “maintain sufficient short -
+term FX liquidity” without adversely affecting the country’s FX reserves as a result of the 
+COVID-19 pandemic (CBSL 2020).  
+In March 2022, as part of its Article IV consultation for Sri Lanka, the IMF  highlighted a new 
+USD 1.4 billion bilateral support package by India that included a swap line, a credit line for 
+fuel imports, and deferment of dues at the Asian Clearing Union11 (IMF 2022a). In April 2022, 
+the RBI extended the USD 400 million swap granted to the CBSL, likely as an extension of the 
+2020 agreement under the SAARC framework (CB 2022) . In May 2022, the Indian High 
+Commission (Embassy of India) in Colombo announced a concessional  loan of USD 1 billion 
+for 12 months through the State Bank of India (SBI) to Sri Lanka to help with food, health , 
+and energy security (GoI 2022c).  
+On September 1, 2022, the IMF reached an agreement with Sri Lanka to provide USD 2.9 
+billion via an Extended Fund Facility (EFF) and to stabilize the country’s economy and create 
+grounds for a sustainable economic recovery through a 48-month process. The IMF indicated 
+its willingness to assist Sri Lanka in debt relief negotiations and to secure financing 
+assurances through collaborative agreements with private creditors (IMF 2022b).  
+Figure 7: Sri Lanka’s Non-SAARC Aid, 2014–2022 
+ 
+Sources: CBSL 2014; CBSL 2015; CBSL 2020a; CBSL 2021; GoI 2022c; IMF 2016; IMF 2022a; RBI 2015b; RBI 2016c. 
+  
+ 
+11 The Asian Clearing Union (ACU) was established on December 8, 1974 , by the United Nations Economic and 
+Social Commission for Asia and Pacific (ESCAP) to provide a centralized clearing union for payments among 
+member countries on a multilateral basis. The ACU members are Bangladesh, Bhutan, India, Iran, Maldives, 
+Myanmar, Nepal, Pakistan, and Sri Lanka (RBI 2021b). 
+428
+India: SAARC Swap Framework Gupta
+
+--- Page 30 ---
+Appendix 3: Maldives 
+Keeping within its mandate of price stability, the Maldives Monetary Authority (MMA) aims 
+to keep the Maldivian rufiyaa (MVR) pegged to the dollar in a 20% current band to the US 
+dollar (MMA 2022).  
+In July 2020, the MMA and RBI signed a swap agreement based on the SAARC framework for 
+USD 400 million (RBI 2021a). The MMA borrowed the maximum permissible amount of USD 
+400 million from the RBI, with USD 150 million repaid in January 2021 and USD 250 million 
+repaid in December 2021. The MMA paid MVR 88 million  (USD 5.8 million 12) in 2021 and 
+MVR 43.6 million (USD 2.9 million13) in 2020 as interest expense on foreign exchange swap 
+charges (MMA 2022). 
+The MMA was providing FX liquidity to the markets in the first three quarters of 2021 to help 
+with US dollar shortages in the economy. In 2021, Maldives’s current account deficit (CAD) 
+was largely funded by government borrowings, with the CAD exceeding the overall financial 
+account position at a deficit of USD 178 million and international reserves of USD 806 million 
+(MMA 2022).  
+On December 8, 2022, the MMA and the RBI signed a swap agreement under the SAARC 
+framework for a maximum of USD 200 million. The swap line was signed to provide a 
+backstop line of funding for meeting short-term FX liquidity requirements (RBI 2022a). 
+ 
+ 
+ 
+ 
+Copyright 2023 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+ 
+12 Per Yahoo Finance, USD 1 = MVR 15.2 as of December 31, 2021.  
+13 Per Yahoo Finance, USD 1 = MVR 15.2 as of December 31, 2020. 
+429
+Journal of Financial Crises Vol. 5 Iss. 1

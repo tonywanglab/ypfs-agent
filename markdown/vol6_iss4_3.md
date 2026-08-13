@@ -1,0 +1,734 @@
+## International Monetary Fund: Short-Term Liquidity Line, 2020[1] 
+
+_Carey K. Mott[2] and Léo Brougher[3]_ 
+
+Yale Program on Financial Stability Case Study December 17, 2024 
+
+## **Abstract** 
+
+As the COVID-19 pandemic spread in March 2020, global financial conditions tightened considerably. In response, global reserve currency-issuing countries extended bilateral swap lines to select countries. Strong demand for US dollar liquidity among emerging markets led the International Monetary Fund (IMF) to introduce the Short-Term Liquidity Line (SLL) on April 15, 2020. The SLL functioned as a swap lending facility. Unlike other IMF liquidity tools, the SLL was a revolving credit line that allowed countries to repeatedly draw funds and make repayments, with each repayment restoring access up to the approved limit across SLL arrangements. Its purpose was to enable countries with relatively strong fundamentals facing moderate, short-term balance-of-payments needs to access short-term credit without the conditionality or stigma of other IMF liquidity programs. Qualified IMF members could access Special Drawing Rights (SDR) (up to 145% of their quota) through the SLL with a 12month repurchase period. Chile was the sole IMF member to enter an SLL arrangement, in May 2022. The IMF offered the Banco Central de Chile USD 3.5 billion (145% of Chile’s IMF quota), which it never drew upon. Only three months after entering the SLL, Chile exited and returned to the Flexible Credit Line (FCL), a larger IMF credit facility to which it had access in the two years immediately preceding its SLL arrangement, citing rapidly deteriorating macroeconomic conditions. In 2023, the IMF reviewed its precautionary toolkit—including the SLL, the FCL and the Precautionary and Liquidity line— and found that the SLL remained attractive for countries needing revolving credit lines but had been underused because of its relatively low access limit, the rise of tail risks associated with large balance of payment needs connected to the pandemic, and the lack of awareness among qualifying countries. To address these issues, the IMF proposed raising the SLL’s access limit to 200% of SDR quota and allowing simultaneous use with the FCL, enabling countries to respond more flexibly to diverse external risks. 
+
+**Keywords:** currency swap lines, International Monetary Fund, liquidity, Special Drawing Rights 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering International Monetary Fund programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss4/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+> 3 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+Global financial conditions tightened considerably in March 2020 as the COVID19 pandemic spread across the globe, leaving many emerging market economies without sufficient liquidity amid increased demand for US dollars and other global reserve currencies. On April 15, 2020, the International Monetary Fund (IMF) introduced the Short-Term Liquidity Line (SLL) to help member countries that were in a strong fiscal condition and had a track record of meeting liquidity needs effectively to meet moderate, short-term balance-of-payments needs without the conditionality or stigma of other IMF liquidity programs (IMF n.d.b; IMF 2020a). The SLL offered a renewable 12-month credit line up to 145% (adjusted to 200% in 2023) of an IMF member’s quota. Unlike other IMF programs, it was a revolving facility, meaning that countries could repeatedly draw funds and make repayments, with each repayment restoring access up to the approved limit across SLL arrangements (IMF n.d.c). (Member quotas represent the capital each member country contributes to the IMF and are the IMF’s main source of funding. They are denominated in Special Drawing Rights (SDR), an international reserve asset that the IMF created to supplement member countries’ reserves [IMF 2022e]). 
+
+As with other IMF facilities, the Fund acted as an intermediary between creditors (usually, IMF member countries that issue reserve currencies) and borrowers in a swap arrangement. SLL borrowers could use the SLL to swap their currency for an equivalent amount of SDRs or another member’s currency, then repurchase their currency at a later date. The creditor received a liquid claim on the IMF; the borrower paid the SDR interest rate via the 
+
+## **Key Terms** 
+
+Purpose: To enable countries with relatively strong fundamentals facing moderate, short-term balanceof-payments needs to access revolving, short-term credit without the conditionality or stigma of other IMF liquidity programs 
+
+||Participating<br>Parties<br>Type of Program|IMF, Chile<br>Other|
+|---|---|---|
+||Currencies|IMF members purchased SDRs|
+||Involved|or another member’s currency|
+|||in exchange for an equivalent<br>amount (in SDR terms) of its<br>own currency|
+||Launch Date|April 15, 2020|
+||End Date|Each arrangement would end<br>12 months after initiation and|
+|||successor arrangements can|
+|||be approved if the member|
+|||country continues to qualify|
+||Date of First Usage|and has balance of payment<br>needs<br>The SLL was unused|
+||Interest Rate and|The SDR rate was 25 basis|
+||Fees|points (bps) on April 15, 2020;<br>there were various origination<br>fees (> 29 bps)|
+||Amount|Chile: USD 3.5 billion (145% of|
+||Authorized|quota)|
+||Peak Usage|Chile: unused|
+||Amount and Date<br>Downstream Use,<br>Application of<br>Funds|Not applicable|
+||Outcomes|No IMF members drew on an|
+|||SLL arrangement|
+||Notable Features|Unique among IMF programs,<br>the SLL was a revolving facility<br>targeting countries with<br>relatively strong fiscal<br>positions|
+
+
+
+
+IMF. The claim would be settled at the time of repurchase. Any local currency the borrower provided to the IMF as part of the SLL transaction would be in addition to the borrower’s quota (IMF 2018d, 23). Typically, a borrower tapped an IMF lending facility to access global reserve currencies: the US dollar, euro, Japanese yen, Chinese renminbi, and British pound sterling. The borrower can use its SDRs as part of its foreign exchange reserves or exchange them for freely usable currencies. This can be done through voluntary agreements with other members or, in some cases, through a mandatory plan for countries with strong external positions. Additionally, SDRs can be used for authorized operations, such as loans, paying obligations, and IMF-related transactions, including loan repayments and quota increases (IMF 2021e). 
+
+The IMF was able to swiftly implement the SLL because it copied design features from its existing Flexible Credit Line (FCL) and a proposed but not executed program that was to be called the Short-Term Liquidity Swap (SLS) that IMF staff had proposed in 2017. The SLS, was to be a revolving credit line that would fill a post-Global Financial Crisis (GFC) funding gap between so-called “systemic” and “gatekeeper” economies (IMF 2020a). These are countries that the IMF identified as either substantial contributors to global markets through trade or finance (systemic), or countries especially conducive to shock transmission and crisis spillover (gatekeepers) respectively (IMF 2016). The SLS proposal failed to get the necessary support from IMF directors and was never implemented (IMF 2020a). 
+
+Meanwhile, the qualification criteria for countries under the SLL were the same as the IMF’s FCL. Both the SLL and FCL were available to members demonstrating strong economic fundamentals and policies, sufficient to give the IMF “confidence that the member will respond appropriately to the special balance-of-payments difficulties that it could encounter” (IMF 2020a, 16). However, the SLL provided smaller amounts of liquidity than the FCL, with credit initially made available to eligible countries only up to 145% of quota on a revolving basis. For a list of countries meeting these conditions, see Key Design Decision No. 7, Eligible Institutions. Established in March 2009, the FCL extended credit tranches for one-to-two-year arrangements with a three-to-five-year repurchase period (IMF 2020a; IMF 2022c). 
+
+The SLL was intended to enable the “more efficient allocation” of IMF resources. The lower access of this facility, its role as a vehicle to allow countries to exit the higher-access FCL, and the strategic benefits of additional precautionary support to IMF members were intended to offset the credit and reputational risks to the IMF that could result from a deterioration of a member’s fundamentals or policies during an arrangement (IMF 2020a). Moreover, IMF officials cited opposition to the issuance of SDRs from prominent member countries, including the United States, as a motivation for the creation of the SLL. As a lower access program initially estimated to serve 10 to 20 countries with up to USD 50 billion in demand, the SLL provided lower balance sheet exposure for the IMF than the issuance of additional SDRs which, with one exception, were allocated to all members relative to each country’s IMF member quota (Shalal 2020). 
+
+Chile had entered the COVID-19 crisis in a strong fiscal position. However, given the large stock of domestic securities held by nonresidents, the country was exposed to significant 
+
+
+risks in the event of a prolonged flight to safety (IMF 2020b; IMF 2021c). To improve its liquidity position, the Banco Central de Chile (BCC) purchased USD 7.4 billion in international reserves. Chile also had backup liquidity available through swaps, including USD 8 billion that was available through a pre-existing[4] Chinese renminbi-Chilean peso swap line with the People’s Bank of China (BCC 2020; IMF 2022b; BCC 2022b); beginning on March 31, 2020, it could access US dollar liquidity through the Federal Reserve’s temporary Foreign and International Monetary Authorities (FIMA) repo facility.[5] The BCC also signed a twoyear, USD 23.9 billion FCL arrangement[6] (1,000% of quota) with the IMF in May 2020 to bolster its liquidity position (BCC 2022b; IMF 2022b). This line was never drawn upon (IMF 2022f). 
+
+Supported by the availability of this additional liquidity, Chile’s fiscal and monetary authorities undertook a sizeable domestic response to the COVID-19 pandemic, including a USD 34 billion (13% of GDP) fiscal package (IMF 2021c). By 2021, the BCC had stood up a suite of lending facilities that enabled commercial banks to channel funds to small businesses affected by the pandemic. That year, Chile also received SDRs equal to USD 2.3 billion in the IMF’s general SDR allocation,[7] leading to a 424% increase in its SDR holdings (IMF 2022g). In February 2022, the BCC agreed to join a regional financing arrangement, the Fondo Latinoamericano de Reservas, which granted it access to USD 1.3 billion (BCC 2022b; IMF 2022b). 
+
+On May 20, 2022, as its FCL arrangement was set to expire, Chile became the first and only member to enter into an SLL arrangement, which the IMF viewed as an offramp from the larger FCL arrangement. Chile’s SLL arrangement was for USD 3.5 billion (145% of its quota) (IMF 2022a). While Chile emerged from the worst of the COVID-19 crisis with its external position bolstered (see Figure 1 for a graph of Chile’s economic recovery compared with its peers), in late 2022, Chile faced a major balance-of-payments shock as the price of copper, its main export, dropped sharply (IMF 2023b). This, combined with inflation, increased commodity market volatility, and a stronger US dollar, caused significant economic uncertainty and foreign exchange volatility. The SLL was insufficient to address Chile’s evolving risks (see Figure 2 for a graph illustrating the increase in Chile’s government bond yield). On August 24, 2022, Chile requested a cancellation of its SLL, in favor of a new two- 
+
+4 The BCC and People’s Bank of China originally signed a three-year swap line in 2015, which they renewed for another three-year term in 2018. In July 2020, the two central banks agreed to increase the swap line from USD 3.1 billion to USD 7.1 billion (Perks, et al. 2021; Reuters 2020). 
+
+5 The BCC’s functional limit at the FIMA facility was the total amount of US Treasury securities it held at the Federal Reserve Bank of New York. The BCC could increase its US dollar reserves by selling US Treasury securities to the Federal Reserve System Open Market Account and agreeing to repurchase them at the maturity of the repo agreement at a premium to the market rate. For more information on the FIMA repo facility, see Kelly (2023). 
+
+6 This marked the first time that Chile had approached the IMF in 30 years; its last Standby Arrangement was in 1989–1990 (IMF 2022f). 
+
+7 Announced on August 2, 2021, to address the effects of the COVID-19 pandemic, the SDR 456 billion (USD 650 billion) allocation was the fourth-ever general allocation and the largest, almost trebling the next largest that had been made during the GFC. SDRs are a form of unconditional (or “concessional”) liquidity to IMF member nations, similar to a capital injection or grant that among other uses, may be exchanged for reserve currencies. For more information on the IMF’s COVID-19 SDR allocation, see Arnold (2024). 
+
+
+year, USD 18.5 billion (800% of quota) FCL arrangement—about USD 5.5 billion smaller than its 2020 FCL[8] (IMF 2022c). The IMF swiftly approved this switch (see Figure 3 for a summary of Chile’s IMF programs). At the time, Chile was also engaged in foreign exchange intervention that it anticipated could use up to USD 10 billion of its international reserves (BCC 2022c). 
+
+[FIGURE id=vol6_iss4_3_f1 type=figure page=7 label="Figure 1" file=figure_1.png caption="Chile’s Economic Recovery from COVID-19 Was Superior to its Peers, Allowing it to Unwind its FCL in May 2022"]
+### **Figure 1: Chile’s Economic Recovery from COVID-19 Was Superior to its Peers, Allowing it to Unwind its FCL in May 2022**
+![Figure 1](assets/vol6_iss4_3/figure_1.png)
+
+
+_Source: IMF 2022b._ 
+
+[FIGURE id=vol6_iss4_3_f2 type=chart page=7 label="Figure 2" file=figure_2.png caption="Chilean Economic Conditions Deteriorated in May 2022"]
+### **Figure 2: Chilean Economic Conditions Deteriorated in May 2022**
+![Figure 2](assets/vol6_iss4_3/figure_2.png)
+
+
+_Source: IMF 2022c._ 
+
+> 8 On June 25, 2022, Chile entered into a RMB 15 billion liquidity agreement with the Bank for International Settlements (BIS), which allowed the BCC to access US dollars against its holdings of Chinese renminbi (BIS 2022). The BCC’s renminbi holdings equated to USD 2.1 billion in 2020; it is not clear whether the BCC has drawn under this BIS arrangement (BCC 2020). 
+
+
+[FIGURE id=vol6_iss4_3_f3 type=figure page=8 label="Figure 3" file=figure_3.png caption="Chile’s IMF Arrangements, 2020–2022"]
+### **Figure 3: Chile’s IMF Arrangements, 2020–2022**
+
+|Commitment|Date of<br>Arrangement|Expiration Date|Amounts (SDR<br>_Approved_|millions)<br>_Drawn_||
+|---|---|---|---|---|---|
+|FCL|Aug. 29 2022|Aug. 28, 2024|13,954||0|
+|SLL|May 20, 2022|Aug. 28 2022|2,529||0|
+|FCL|May 29, 2020|May 19, 2022|17,443||0|
+
+
+
+Note: Chile cancelled its SLL after only three months, observing greater market uncertainty and nascent inflationary pressures that motivated it to enter into another FCL arrangement, which offered more credit. _Source: IMF 2023a._ 
+
+Despite only one brief arrangement with Chile, the IMF claimed the SLL had several benefits, particularly for countries unable to access US dollar liquidity through the New York Federal Reserve’s FIMA repo facility. From an IMF member’s perspective, the SLL was cheaper than the FCL if the member tapped it once and on a precautionary basis (the surcharges of a renewed SLL arrangement put it on par with the FCL). Following the GFC, the IMF created several credit facilities that drew on its General Resources Account (GRA), an emergency lending account for IMF members with strong fundamentals.[9] These were the FCL, Rapid Credit Facility (RCF), and Precautionary and Liquidity Line (PLL) (see Figure 4). Like the other post-GFC GRA facilities, the SLL also made SDRs available to the member immediately, rather than through scheduled disbursements (common in one of the IMF’s oldest credit arrangements, the Stand-by Arrangement, or SBA). From the IMF’s perspective, the SLL was a lower-access, shorter-term alternative to its other lending facilities, with higher eligibility standards; therefore, it was less risky in some respects. For more information on the risks posed by the SLL, see Key Design Decision No.13, Balance Sheet Protection. 
+
+Despite these benefits, countries chose to tap IMF facilities other than the SLL throughout the COVID-19 crisis. Countries with strong fundamentals preferred the other GRA facilities. Countries that were not eligible for the SLL drew on facilities funded through the Poverty Reduction and Growth Trust (PRGT), including the Extended Credit Facility (ECF) and SBAs[10 ] (see Figure 4) (IMF n.d.b). The RCF and PLL, low-medium access facilities with less restrictive conditions established in 2011, also remained available to countries ineligible for or disincentivized from using the SLL. Throughout the crisis, the IMF reiterated its fundamental role as global lender of last resort, noting its resources were only to be used as necessary (IMF 2021f). 
+
+> 9 The PRGT is the IMF’s other major account belongs to the on-lending program for low-income members. In 2022, the IMF introduced the Resilience and Sustainability Trust (RST), a third major account to help its members meet balance of payments needs. 
+
+> 10 The facilities discussed draw from the IMF’s GRA. A slew of similar facilities was available to low-income countries through the PRGT and the RST. For more information on the IMF’s funding distinction, see Key Design Decision No. 13, Balance Sheet Protection. 
+
+
+[FIGURE id=vol6_iss4_3_f4 type=figure page=9 label="Figure 4" file=figure_4.png caption="Lending from the IMF’s General Resources Account during COVID-19"]
+### **Figure 4: Lending from the IMF’s General Resources Account during COVID-19**
+
+||||_Post-GFC GRA Facilities_|_Post-GFC GRA Facilities_||
+|---|---|---|---|---|---|
+||**Credit Facility**||Short-Term Liquidity|Precautionary &|Rapid Financing|
+|||Flexible Credit Line||||
+||||Line|LiquidityLine|Instrument|
+|||||||
+||**Abbr.**|FCL|SLL|PLL|RFI|
+||**Est.**|2009|2020|2011(b)|2011|
+||**Term**|Short to medium|Short|Short to medium|Short to medium|
+||**Purpose**|Credit tranches to address all balance-of-payments needs, potential o|||r actual|
+|||||||
+||**Conditions**|Very strong ex ante macroeconomic||Sound policy|Efforts to solve|
+|||fundamentals, economic policy framework,||frameworks, external|balance-of-payments|
+|||and track record||position, and market|difficulties (may|
+|||||access, including|include prior actions)|
+|||||financial sector||
+|||||soundness||
+||**Phasing and**<br>**Monitoring**|Approved access available up-front||Large front-loaded|Outright purchases|
+|||throughout the arrangement period(c)||access, subject to|without full-fledged|
+|||||semiannual reviews|program or reviews|
+||**Access**|Ad hoc|Medium|Medium|Low|
+|_Access Limits_<br>_(% of Quota)_|**Annual**|N/A|145%(f)|250%|37.5%|
+||**Cumulative**|N/A|N/A|500%|75%|
+|_Amount_<br>_Committed_<br>_(Outstanding)_<br>_USD Billion(a)_|**2019**|84.7(N/A)|0|3.0(N/A)|N/A(1.3)|
+||**#**|2|0|1|-|
+||**2020**|71.4(N/A)|0|0(2.9)|N/A(2.7)|
+||**#**|2|0|0|-|
+||**2021**|118.2(5.4)|0|2.7(2.2)|N/A(22.3)|
+||**#**|4|0|1|-|
+||**2022**|91.8 (5.0)|3.5 (0.0)(d)|2.5 (2.0)|N/A (22.2)|
+||**#**|4|1|1|-|
+|_Charges_|**Charges**|Rate of Charge(e)|Rate of Charge|Rate of Charge|Rate of Charge|
+||**Use Surcharge**<br>**> 187.5%**|||||
+|||<br>200 bps|200 bps|200 bps|200 bps|
+|||||||
+||**Duration**<br>**Surcharge **|100 bps for > 36||100 bps for > 36|100 bps for > 36|
+||||N/A|||
+|||months||months|months|
+|||||||
+||**Repayment**<br>**Schedule**|||||
+|||3.25–5|3–5|3.25–5|3.25–5|
+|||||||
+||**Installments**|Quarterly|N/A|Quarterly|Quarterly|
+
+
+
+(a) The statistics presented are cumulative and include the total amount of committed (outstanding) funds as of the reporting of these statistics. All dates as of last week in April. 
+
+(b) The PLL replaced a similar facility, the Precautionary Credit Line, in November 2011. The IMF executive board supported the elimination of the PLL in 2017; nevertheless, it continued operating through 2022. 
+
+(c) Two-year FCLs are subject to a midterm review after one year. 
+
+(d) The SLL arrangement with Chile is included here for illustrative purposes; it lasted only three months and had been converted to the FCL by the date the IMF reported these statistics. 
+
+(e) According to the IMF, the “normal rate of charge” is equivalent to the SDR rate plus a fixed margin of 100 bps. 
+
+(f) In 2023, the IMF increased the SLL access limit to 200%. 
+
+Note: Figure 4 summarizes facilities that draw on the GRA and excludes low-income financing arrangements that draw from the PRGT. 
+
+_Sources: IMF 2018d; IMF 2019; IMF 2020d; IMF 2021d; IMF 2022d; IMF n.d.b._ 
+
+
+## **Summary Evaluation** 
+
+The SLL had only one participant, Chile, which exited its arrangement just three months after requesting it, given that its greater credit needs were more appropriate for the higher-access FCL arrangement. The FCL had no prescribed access limit, and access was tailored to the members’ needs (IMF 2022a; IMF 2022c; IMF 2023b). 
+
+The SLL was based on a rejected IMF staff proposal for an SLS in 2017 (IMF 2020a). The SLS failed at that time to get the necessary support due to reservations among some members of the IMF’s executive board of directors. Directors expressed concerns about the possibility that a member’s central bank could be the sole signatory for the SLS, the absence of clear expectations around exiting an SLS agreement, and the possible stigma of rejected applications (IMF 2017a; IMF 2020a). Ultimately, aside from keeping all applications confidential, the SLL’s design was nearly identical to the SLS proposal (BCC 2022c; IMF n.d.b). As adopted, the SLL did not require both parties to sign the agreement, but Chile’s central bank and finance ministry both signed the SLL agreement (BCC 2022a). 
+
+In justifying the SLL, the IMF stated that the “persistent failure to fill [the] well-recognized gap in the toolkit would continue to undermine the Fund’s crisis-prevention objectives and risk damaging the reputation of the Fund” (IMF 2020a, 13). The Fund hoped that countries with strong fundamentals, but facing potential, moderate, short-term balance of payment needs would find the SLL attractive due to the lack of conditionality and stigma (IMF n.d.c; IMF 2020e). 
+
+Chile’s decision to exit its SLL arrangement in August, just three months after initiating it, and switch to the higher-access FCL resulted in an SDR 11.5 billion (450%) increase in the IMF’s commitment to Chile, deemed a “significant but manageable impact” on the Fund’s liquidity position (IMF 2022c). Per _CE Noticias Financieras_ , a Latin American financial news agency, this increase in the FCL arrangement for Chile, relative to the size of Chile’s economy, was proportional to the IMF’s 2018 SBA of SDR 35.4 million (USD 50 billion) to Argentina which made the country the IMF’s top debtor (CE Noticias Financieras 2022; IMF 2018c). 
+
+In 2023, the IMF conducted a review of its precautionary toolkit, including the SLL, FCL, and PLL. According to this review, IMF member countries said in a survey that they found the SLL to be an attractive instrument, particularly due to its revolving nature. Member countries also valued the feature that the SLL was based on the extension of an offer from the IMF, rather than a country requesting it—a factor that minimized stigma from its use. The review concluded that the limited use of the SLL was due to factors such as its relatively low access limit of 145% of quota, which is less than that of typical bilateral swap lines (BSL) available to emerging markets, and the COVID-19 pandemic, which created significant balance-ofpayments risks better suited to the FCL. Additionally, the SLL’s novelty meant that some qualifying countries may not have been fully aware of its benefits. To address these issues, the IMF proposed raising the SLL’s access limit to 200% of quota, aligning it more closely with the scale of BSLs, and enhancing its ability to meet evolving member needs, while still targeting moderate, short-term balance-of-payments issues. Another significant change is the proposal to allow concurrent use of the SLL and FCL, enabling countries to access both 
+
+
+instruments simultaneously if they meet the criteria and face external risks warranting both moderate and tail-risk coverage. This concurrent usage option would help countries respond to a broader range of shocks by combining the shorter-term liquidity support of the SLL with the FCL’s extended access and terms. Together, these two reforms aim to enhance the effectiveness and attractiveness of the SLL and FCL by increasing flexibility, ensuring robust qualification criteria, and enabling smoother augmentation procedures. (IMF 2023b; IMF n.d.c). Following the review, the IMF made changes to the SLL, increasing the access limit to 200% of a country’s quota and permitting its concurrent use with the FCL provided that external risks and potential balance-of-payments needs justify such measures (IMF n.d.c). 
+
+
+## **Key Design Decisions** 
+
+**1. Purpose and Type: Through bilateral swaps with the IMF, the SLL offered liquidity on a revolving basis for member countries with strong fundamentals that were experiencing moderate, short-term balance-of-payments pressures from external developments and capital account pressures without conditionality and stigma.** 
+
+The COVID-19 pandemic severely disrupted global financial markets. Many countries suffered significant capital outflows and short-term liquidity pressures. The IMF created the SLL to fill a gap in its liquidity toolkit. Unlike the IMF’s other programs, the SLL targeted countries with strong fundamentals that wanted to avoid the stigma or conditionality associated with IMF programs. The IMF designed the SLL as a precautionary revolving and renewable backstop for IMF members with “very strong fundamentals and policy track records” facing moderate, short-term balance-of-payments needs (IMF 2020a; IMF 2022a). By offering a revolving purchase-repurchase agreement, the IMF provided liquidity to members expecting short-term capital account and reserves pressures owing to volatility in international markets. The IMF said it did not intend the program to assist countries whose balance-of-payments needs had been caused by their own domestic policy decisions. The SLL was available to members who could reasonably expect these balance-of-payments issues to be limited in scale and impact and required nothing more of the member than finetuning its monetary and exchange rate policies. The SLL aimed to reduce the impact of disruptive liquidity events and minimize the risk of shocks evolving into deeper crises and spilling over to other IMF members. It also served as a complement to the FCL, which offered larger loans (IMF 2020a). 
+
+**2. Part of a Package: The SLL in 2020 complemented the IMF’s existing emergency lending toolkit and was followed by a USD 650 billion allocation of SDRs in 2021.** 
+
+The IMF entered the pandemic with USD 1 trillion of lending capacity, some of which it deployed to 86 of its 190 members either through the emergency lending account for members with strong fundamentals (the GRA) or the on-lending program for low-income members (the PRGT) (see Figure 5). Often, an IMF lending arrangement can reassure private and official creditors about the soundness of a member country’s medium-term viability (IMF 2021f). 
+
+
+[FIGURE id=vol6_iss4_3_f5 type=figure page=13 label="Figure 5" file=figure_5.png caption="Total IMF Lending Commitments"]
+### **Figure 5: Total IMF Lending Commitments**
+![Figure 5](assets/vol6_iss4_3/figure_5.png)
+
+
+Note: Dotted line indicates approximate launch date of the SLL, April 15, 2020. 
+
+_Source: IMF 2022d._ 
+
+The IMF expanded its GRA lending toolkit following the GFC with three new tools: the FCL, the PLL, and the Rapid Financing Instrument (RFI) (IMF 2018d; IMF 2022h).[11] 
+
+The SLL, the latest GRA tool, was a low-access precautionary liquidity line, available to countries facing potential, moderate, short-term balance-of-payments needs, whereas most of the IMF’s other facilities served immediate and significant balance-of-payments pressures (IMF 2022a). The SLL also complemented the FCL, a precautionary high-access[12 ] revolving credit facility, by serving as an offramp for members exiting an FCL arrangement (IMF 2020a). Since the FCL’s creation in March 2009, it has extended arrangements to Chile, Colombia, Mexico, Peru, and Poland (BCC 2022b). 
+
+Those members whose balance-of-payments needs and policy records met the criteria of the FCL but who lacked the strong fundamentals required for FCL access could tap the PLL, a credit line (delivered in tranches) introduced in 2011 that offered up to 250% of the member’s quota annually and 500% of quota cumulatively (although actual caps depended on the program’s duration and the IMF’s evaluation of its success) (IMF 2018b). Immediate balance-of-payments needs could be met by purchasing foreign currency from the RFI,[13] a low-access (37.5% of quota annually and 75% of quota cumulatively) facility without ex ante 
+
+> 11 The facilities discussed draw from the IMF’s GRA. A slew of similar facilities was available to low-income countries through the PRGT and the RST. For more information on the IMF’s funding distinction, see Key Design Decision No. 13, Balance Sheet Protection. 
+
+> 12 Access levels refer to the amount of funds available for commitment; conditionality tends to increase with access level. The suite of GRA lending tools, as well as the PRGT toolkit, fall under “exceptional access” (i.e., above and beyond the reserves tranche), the conditions of which were defined in the 2002 Exceptional Access Framework as: (1) balance-of-payments pressures that cannot be met within normal financing limits; (2) a high probability that debt is sustainable in the medium term; (3) prospects for gaining (or regaining) private capital market access within a timeframe and on a scale sufficient to meet its obligations falling due to the IMF; and (4) a reasonably strong capacity and plan to implement adjustments (IMF 2018d). Prior to its access limit increase in 2023, the SLL is capped at 145% of a members SDR quota while the FCL had no cap, but interest increases as credit increases (IMF n.d.a; IMF n.d.b;). 
+
+> 13 The RFI replaced the IMF’s pre-existing emergency assistance policy, which encompassed Emergency Natural Disaster Assistance and Emergency Post-Conflict Assistance (IMF 2018d). 
+
+
+or ex post conditionality, but with an implicit requirement to cooperate with the IMF (IMF 2018d). 
+
+SBA, the IMF’s legacy credit tool, offers credit tranches to countries with ex post and ex ante commitments, normally over 12 to 18 months and up to 3 years. Countries with existing SBAs drew on them during the COVID-19 pandemic, but the IMF did not enter into many new SBAs (IMF 2018d; IMF 2020d; IMF 2022h). The Extended Fund Facility (EFF), a fund established in 1974 for longer-term assistance to support members’ structural reforms and balance of payment needs, had 13 outstanding counterparties by April 2020; on March 25, 2020, Jordan became the only member to initiate a new EFF arrangement during the COVID-19 crisis (IMF 2020d). (The PLL could also be used for immediate funding needs, despite the precautionary use implied by its name.) 
+
+Chile was the only IMF member to enter an SLL arrangement. In addition to the USD 3.5 billion committed through the SLL, the Chilean central bank had access to USD 1.3 million through a regional financing arrangement—the Fondo Latinoamericano de Reservas—as well as access to US dollar liquidity through the Federal Reserve’s FIMA repo facility and a USD 8 billion renminbi swap line with the People’s Bank of China (BCC 2022b; IMF 2022b). The BCC never drew upon any of these liquidity arrangements. 
+
+## **3. Legal Authority: The IMF’s Articles of Agreement authorize swap arrangements with IMF members and specify counterparty eligibility and conditionality.** 
+
+The SLL was authorized under the IMF’s Articles of Agreement (Articles), which allowed for its swap-like structure, established the conditionality and surveillance attached to the facility, the demonstrated need for the facility, and defined the nature of a balance-ofpayments problem. 
+
+The Articles grant the IMF broad power for overseeing the international monetary system (IMF 2010; IMF 2021a). According to the IMF, ensuring a stable international monetary order requires, inter alia, monitoring the arrangements under which international reserves are held.[14] This includes any arrangement by which IMF members access liquidity through the IMF or through other official currency swap arrangements (IMF 2010).[15] 
+
+The IMF’s Articles require that the Fund use its resources on a conditional basis but grants the IMF flexibility in designing and implementing this conditionality (IMF 2010). 
+
+In contrast with long-standing IMF tools such as the SBA (launched in June 1952), which include phased purchases and ex post monitoring, many of the IMF’s post-GFC tools—the 
+
+> 14 The three other constitutive elements under this relatively broad objective on international monetary stability are: rules governing international exchange arrangements between countries and foreign exchange rates; rules governing payments and transfers for international transactions between countries; and rules governing the regulation of international capital movements (IMF 2010). 
+
+> 15 The IMF is forbidden from transacting in gold unless authorized by an 85% vote (IMF 2018d). 
+
+
+SLL, FCL, and PLL, among them—require only ex ante conditionality (IMF 2009; IMF 2010).[16] In ex ante conditionality, IMF staff could determine a participant’s eligibility based on policies implemented in the period preceding the arrangement and use this precedence to infer the reliability of the participant’s future policy commitments, and occasionally check in to confirm policy commitments (IMF 2010). 
+
+This conditionality is authorized by Article V, Section 3(a), which requires the IMF to adopt policies that will both assist members to resolve their balance-of-payments issues while also safeguarding the Fund’s general resources (IMF 2009; IMF 2021a). A primary purpose of conditionality and the usual performance criteria included in arrangements is to meet the IMF’s requirement that its facilities (and its conditionality terms) assist IMF members in solving their problems without impairing national or international prosperity (IMF 2009). 
+
+Recipients of an SLL arrangement agreed to enter into (or retain, if already entered into) the IMF’s regular Article IV surveillance process (IMF 2021a Art. VIII, Sec. 7). The Articles generally recommend a repurchase period of three to five years for IMF facilities, but the IMF’s executive board of directors may authorize longer or shorter adjustment periods to address special balance-of-payments problems. The SLL offered a renewable 12-month repurchase period (IMF n.d.b). Repurchase periods could be changed with an 85% vote of the IMF’s executive board of directors (IMF 2001). 
+
+Unique among the IMF’s facilities, the SLL arrangement could be signed independently by a central bank, without the co-signature of the finance ministry, provided that IMF staff could separately secure policy commitments from the recipient’s finance ministry (IMF 2020a). 
+
+**4. Governance: The IMF’s executive board of directors was empowered to initiate and cancel SLL arrangements; drawings under an approved SLL were not subject to additional approval by the executive board.** 
+
+The IMF’s board of governors has the power to approve and cancel SLL arrangements, however, the board of governors has functionally delegated this power to the board of executive directors. The board of governors is composed of one representative from every IMF member country (normally, this representative is the central bank governor or finance minister); thus, it is a large body and has delegated most of its powers to the executive board, which conducts most of the IMF’s business under the supervision and oversight of the board of governors. In 2020 the executive board consisted of 24 executive directors (see Figure 6 for a summary of the IMF’s governance structure) (IMF 2021a, Art. XII, Sec. 3; Lamdany and Martinez-Diaz 2009).[17] The executive board’s voting powers are determined by members’ quotas. 
+
+> 16 Ex ante conditionality was used in short-duration programs during the IMF’s early years, but the SBA tool, one of the IMF’s oldest, is known for its ex post conditionality (IMF 2009; IMF 2010). 
+
+> 17 The board of governors meets once a year for a few hours (Lamdany and Martinez-Diaz 2009). 
+
+
+The International Monetary and Financial Committee (IMFC), which is composed of 24 governors, meets twice a year and advises the board of governors on changes to the Articles or supervision of the international financial system (Lamdany and Martinez-Diaz 2009). 
+
+[FIGURE id=vol6_iss4_3_f6 type=figure page=16 label="Figure 6" file=figure_6.png caption="Stylized View of IMF Governance"]
+### **Figure 6: Stylized View of IMF Governance**
+![Figure 6](assets/vol6_iss4_3/figure_6.png)
+
+
+_Source: Lamdany and Martinez-Diaz 2009 ._ 
+
+As with any other facility, the executive board could decide at any time to terminate the SLL by a simple majority of the votes cast, if, for example, the board determined the facility was not serving its purpose or adversely affecting the Fund’s resources (IMF 2020a). 
+
+Article XII, Section 7(a) requires the IMF to publish quarterly financial statements, including from its lending facilities, as well as an annual report containing an audited statement of its accounts and the bylaws, rules, and regulations, which set out procedures for the conduct and oversight of its audit function. Following the annual audit, the report is passed by the external audit firm through the managing director and the executive board to the board of governors for approval (IMF 2018d, 155; IMF 2021a). 
+
+## **5. Administration: The IMF administered the SLL following confidential negotiations with the member country.** 
+
+The IMF’s executive board made the final decisions on a member’s qualification and access to the SLL (IMF 2020a). IMF members elect the executive board, which consists of 24 
+
+
+executive directors who represent all 190 members,[18] with the managing director acting as chairman (IMF 2021a, Art. XII, Sec. 3). 
+
+The IMF staff administered the SLL, first extending an offer of an SLL arrangement to member countries that may qualify. The country would then engage in confidential negotiations with the IMF to request an SLL arrangement, submitting a letter of intent that included a proposed policy response to meet its balance-of-payments need (IMF 2020a; IMF 2022a). Once the IMF executive board granted its conditional approval and offer, the member had two weeks to accept the offer and confirm its participation in the arrangement. The IMF stated that this period of consideration was designed to protect the IMF against a significant change in the economic conditions within the recipient country (IMF 2020a).[19] Once the SLL arrangement had been accepted, the member could draw on the committed credit line at any time. Drawings under the SLL were not subject to additional approval by the IMF’s executive board because they had already received board approval. 
+
+For any financial dealing with the IMF, a member must designate two parties: a fiscal agent for all financial negotiations (normally a finance ministry, central bank, official monetary agency, stabilization fund, or similar agency) and a depository for GRA currencies and reserve assets (this can only be the central bank or, if the member has no central bank, an IMF-approved commercial bank). This designated depository maintains two separate accounts: IMF No. 1 Account, for financial transactions, and IMF No. 2 Account, for IMFrelated administrative expenses. The member guarantees all IMF assets held at the depository from losses (IMF 2018d). The party ultimately responsible for repaying the IMF was the recipient member, not an individual agency associated with the member (IMF 2020a). 
+
+Most IMF arrangements include some form of conditionality. For GRA facilities, this took the form of commitments to enact or maintain policies to resolve the balance-of-payments crisis, which the member outlined in its letter of intent to engage in the SLL. The letter of intent was required to be signed by parties 
+
+- Affiliated with the agency endowed with the domestic legal authority to engage in fiscal and monetary policy commitments; and 
+
+- Responsible for the subsequent implementation of these policies (see Key Design Decision No. 14, Other Restrictions for more details). 
+
+Typically, a member’s ministry of finance and central bank both would sign under this standard. However, cognizant that a finance ministry’s signature might be stigmatized, the 
+
+> 18 The seven countries entitled to a sole representative (or one executive director each) are: the United States, China, Japan, Germany, the United Kingdom, France, and Saudi Arabia. At the time Chile engaged the IMF, it was represented by Director Sergio Chodos, who also represented Argentina, Bolivia, Paraguay, Peru, and Uruguay (IMF 2020f). Director Chodos’s vote constituted 1.6% of the total voting power of the executive board, with Chile’s individual voting power representing 23.6% of his vote (IMF 2024b). 
+
+> 19 This timeline was slightly faster than the FCL, but generally followed the process for “exceptional access” facilities, which were arranged in under a month (IMF 2018a). 
+
+
+IMF permitted central banks to be the sole signatory, so long as they met these criteria and have the requisite legal authorities. However, in such a case the central bank would need to confirm that it could liaise with fiscal authorities to achieve the policy commitments. IMF staff would also communicate bilaterally with the finance ministry to confirm these commitments (IMF 2020a). Chile’s central bank and finance ministry both signed the SLL agreement in May 2022. 
+
+The SLL was structured as a special revolving credit facility drawing from the GRA (IMF 2020a).[20] The GRA is a pool of currencies and reserve assets comprised of IMF members’ quotas (i.e., size-indexed capital subscriptions). Facilities that draw on the GRA functionally extend loans, but the IMF does not consider this activity to be “lending” technically or legally; rather, GRA facilities involve the purchase and repurchase of currencies from the IMF, similar to a swap arrangement, with interest charged on outstanding purchases. Indeed, the IMF does not characterize itself as a lending institution, but as a repository for its members’ currencies and a portion of their foreign exchange reserves (IMF 2018d). 
+
+The IMF extended financing under the SLL in a process resembling a central bank swap arrangement, selling its currency holdings and SDRs to borrowers in exchange for their domestic currency (IMF 2018d). A member could draw on an approved SLL at any time, and multiple times, during the facility’s 12-month period, subject to the approved access level (IMF 2022a) by purchasing either SDRs or the currency of another member[21] in exchange for an equivalent amount (in SDR terms) of its currency. At the end of the draw period, the member would reverse the transaction by repurchasing its currency held by the IMF by exchanging SDRs or another currency. Not all currencies could be used: only those members included on the IMF’s Financial Transaction Plan (FTP), a select list of countries with strong external positions, had currencies the IMF deemed “usable” and widely traded in major markets. Since 2016, borrowers had to finance IMF transactions with SDRs, the US dollar, euro, Japanese yen, Chinese renminbi, and British pound sterling (IMF 2018d). 
+
+## **6. Communication and Disclosure: The IMF would announce SLL arrangements after executive board approval and upon receipt of a signed letter of intent from the borrowing member.** 
+
+In addition to the initial IMF policy paper explaining the design and terms of the SLL, in April 2020, then-Deputy Managing Director Geoffrey Okamoto published an op-ed in support of the SLL as a tool to address short-term liquidity shortages in emerging markets stemming from the COVID-19 crisis (Okamoto 2020). 
+
+Following a participant’s written acceptance of the offer for an SLL arrangement, the IMF will publish a press release on the date the SLL arrangement goes into effect. In addition, the participant could request that the IMF issue a press release stating the IMF executive board’s conditional approval of the arrangement. A member might elect to do this if they were 
+
+> 20 Besides the GRA, the IMF’s General Department holds resources in the Special Disbursement Account (SDA) and the Investment Account (IMF 2018d). 
+
+> 21 In this case, the purchase could exceed the member’s quota (IMF 2018d). 
+
+
+concerned about market-sensitive leaks or misinformation regarding the offer. The IMF stated that such a press release would not prejudge the recipient’s decision whether to purchase any of the funds the IMF committed to under the SLL arrangement (IMF 2020a). 
+
+A staff report assessing the country’s eligibility, including the borrowing authorities’ written communication, is published shortly thereafter. Qualification assessments for countries the IMF turned down for SLL access were confidential (IMF 2020a). On May 20, 2022, the IMF published both a press release announcing Chile’s SLL arrangement and an interview with BCC Governor Rosanna Costa detailing Chile’s fundamentals and eligibility for the SLL (IMF 2022a; IMF 2022b). 
+
+The IMF also published the IMF directors’ deliberations about the SLS, the predecessor to the SLL that ultimately failed to gain approval in 2017. These deliberations resulted from a long-running discussion about the adequacy of the “global financial safety net,” a report the IMF published in 2016. The IMF characterized the SLL as a tool designed to enhance the global financial safety net, which it defined as the world’s aggregate stock of available funds from FX reserves, bilateral swap arrangements, regional financing arrangements, the IMF, and market-based instruments (IMF 2016; IMF 2020a). 
+
+Chile issued press releases upon its exit from the FCL and enrollment in the SLL and, three months later, its subsequent return to the FCL, as well as an FAQ document explaining its decisions (BCC 2022a; BCC 2022b; BCC 2022c).  Chile exited the SLL in 2022 and transitioned to the FCL, citing the FCL’s higher access limits and broader coverage of balance-of-payments risks as better suited to address the significant external vulnerabilities it faced, particularly in the aftermath of the COVID-19 pandemic (IMF 2023b). 
+
+**7. Eligible Institutions: As with other IMF facilities, SLL eligibility was based on a member’s policy history and commitments.** 
+
+The IMF intended the SLL for emerging market economies experiencing balance-ofpayments pressures and demonstrating a strong record of effective policy responses to those pressures in the past (IMF 2020a). Eligibility for any of the IMF’s GRA operations is limited to members the IMF considers to be in a strong balance-of-payments and reserves position (IMF 2018d).[22] 
+
+Qualification criteria for the SLL resembled that of other IMF facilities and was identical to the FCL, which facilitated members’ transition between these two facilities (IMF 2022a). To qualify for either facility, a member had to demonstrate “very strong policies” capable of addressing potential short-term, moderate capital account pressures arising from external developments (IMF 2020a). To determine eligibility for the SLL, FCL, and PLL, the IMF evaluated members’ policies based on nine criteria (see Figure 7). 
+
+> 22 The IMF maintains a list of such members, the FTP, which is reviewed on a quarterly basis (IMF 2018d). 
+
+
+[FIGURE id=vol6_iss4_3_f7 type=figure page=20 label="Figure 7" file=figure_7.png caption="Qualification Criteria for the Short-Term Liquidity Line"]
+### **Figure 7: Qualification Criteria for the Short-Term Liquidity Line**
+
+||**CRITERION**|**INDICATOR**|
+|---|---|---|
+|**Eternal**<br>**position and**<br>**market access**|(1) A sustainable external position|_Gross and net (short-term) external debt/GDP, and share of_<br>_bank, nonbank and public sector; including debt sustainability_<br>_analysis (DSA) assessment; debt-stabilizing noninterest current_<br>_account deficit_|
+||(2) A capital account position<br>dominated by private flows|_Foreign direct investment (FDI) plus portfolio inflows as % of_<br>_total capital inflows; ratio of private holdings of external_<br>_debt/gross external debt; and private foreign holdings of_<br>_domestic debt/total domestic debt_|
+||(3) A track record of steady sovereign<br>access to capital markets at favorable<br>terms.|_Emerging Market Bond index (EMBI) spread; spread between_<br>_country EMBI and EMBI overall index (latest observation and_<br>_averages over previous five years); current yield on benchmark_<br>_bonds; credit ratings; and last external issuance (details on_<br>_amount issued/original yield/maturity)_|
+||(4) Comfortable current reserve<br>position, notwithstanding potential<br>balance-of-payments pressure|_Ratio of reserves to: ARA metric, short-term debt (remaining_<br>_maturity basis); short- term debt (remaining maturity basis) plus_<br>_current account deficit; imports; and broad money_|
+|**Fiscal policy**|(5) Sound public finances, including a<br>sustainable public debt position|_Public sector debt/GDP, and debt sustainability assessment;_<br>_primary and overall fiscal balance (average for the last 3–5_<br>_years); structural fiscal balances and debt-stabilizing primary_<br>_balance. Assessment of medium term plans anchoring fiscal_<br>_policy outcomes; and overall sound institutional budgetary_<br>_framework as informed by recent fiscal Reports on the_<br>_Observance of Standards and Codes(ROSCs), where available_|
+|**Monetary**<br>**policy**|(6) Low and stable inflation in the<br>context of a sound monetary and<br>exchange rate policy framework|_Recent evolution of core and headline inflation and inflation_<br>_expectations. Past and announced policy responses to_<br>_inflationary shocks. Adequacy of monetary policy instruments to_<br>_conduct monetary policy. Accountability, transparency, and_<br>_communication regarding policy objectives/responses_|
+|**Financial**<br>**sector**<br>**soundness and**<br>**supervision**|(7) Sound financial system and the<br>absence of solvency problems that may<br>threaten systemic stability|_Capital adequacy and profitability: capital adequacy ratio (CAR)_<br>_(overall banking system and individual banks); and return on_<br>_equity (overall banking system and individual banks). Liquidity_<br>_and funding risks: liquid assets to total liabilities; liquid assets to_<br>_short-term liabilities; loan-to-deposit ratio; and share of external_<br>_funding in total liabilities. Asset quality: credit to the private_<br>_sector (real growth rate and share of GDP); and nonperforming_<br>_loan ratios (overall banking system and individual banks)_|
+||(8) Effective financial sector supervision|_Assessment of supervisory standards and practices based on_<br>_Financial_<br>_Sector_<br>_Assessment_<br>_Program_<br>_(FSAP)_<br>_findings._<br>_Assessment of legal and institutional framework and_<br>_operational capacity for prompt corrective actions and_<br>_emergency liquidity assistance_|
+|**Data adequacy**|(9) Data transparency and integrity|_Subscription to the Special Data Dissemination System (SDDS) or_<br>_a judgment that satisfactory progress is being made toward_<br>_meeting its requirements. Routine assessments (Article IV_<br>_consultations) of data quality and integrity, informed by data_<br>_ROSCs, where available_|
+
+
+
+_Source: Recreated from IMF 2018a._ 
+
+The IMF did not require members to meet all nine criteria to qualify for one of these facilities, but it also did not define a qualifying threshold. IMF staff may have also considered fiscal and monetary policy cyclicality (in other words, the correlation between government spending or short-term policy rates and cyclically adjusted GDP) and a history of effective responses 
+
+
+to policy shocks, as indicated by third-party measurements of government effectiveness and control of corruption. Because a track record of such policies was a prerequisite for access, the IMF evaluated a member on the above criteria over the preceding five years (IMF 2018a). 
+
+The SLL was based in part on a 2017 proposal for a swap-like revolving credit line called Short-Term Liquidity Swap. The SLS, along with the FCL and PLL, were born of an IMF study into global funding conditions among “systemic” and “gatekeeper” economies (IMF 2016; IMF 2020a).[23] The IMF defines systemic economies as those with significant contributions to global markets via finance or trade. Gatekeeper economies are those with a propensity to transmit trade or financial shocks to other countries and precipitate crisis spillovers.[24 ] The IMF determined that both types of economies may exhibit 
+
+- Inadequate predictability and reliability around central bank swap arrangements and regional financing arrangements; and 
+
+- High financial costs (or reserve accumulation) or political costs (or stigma associated with IMF financing) (IMF 2016). 
+
+Chile did not appear in the IMF’s classification of systemic and gatekeeper economies.[25 ] Nevertheless, the IMF offered the SLL to Chile based on its strong policy response to the COVID-19 pandemic, noting the country’s improved liquidity condition from international reserves purchases, macroeconomic stability, fiscal sustainability, and strong policy reputation (IMF 2022a). Chile had already qualified for the FCL, which it initially entered into on May 29, 2020, and to which it returned on August 29, 2022, two months after entering into the SLL arrangement (BCC 2022b; IMF 2020c). 
+
+For the purposes of determining the scope of the SLL’s impact on the Fund’s resources, the IMF considered all countries with strong policy records, excepting reserve currency issuers (or eurozone countries with access to reserve currency-issuing central banks) and countries with standing swap agreements with the Federal Reserve as potential SLL borrowers (IMF 2020a). (Chile’s access to the Federal Reserve’s FIMA facility was not considered a “standing” arrangement since it carried an expiration date at the time. The Fed has since converted it to a standing facility.) 
+
+## **Governance of the Borrower** 
+
+The IMF has attached conditionality to its lending since its inception, a legacy adopted from the other international nonstate lending organizations that preceded it (Martin 2022). For the Fund’s GRA facilities, this conditionality takes two forms: ex ante (before an arrangement was approved), usually in the form of an evaluation of the member’s policy track record, and ex post (after a member activated the facility), which normally involved monitoring and 
+
+> 23 The IMF studied the “global financial safety net,” comprising international reserves, central bank bilateral swap arrangements, regional financing arrangements, IMF resources, and market-based instruments (IMF 2016). 
+
+> 24 As of 2016, gatekeeper emerging market countries included: Brazil, China, Panama, South Africa, and Turkey (IMF 2016). 
+
+> 25 Chile joined the IMF on December 31, 1945 (IMF 2023a). 
+
+
+surveillance of the policy response for example through the Article IV review process. The SLL was only available to members with strong fundamentals—in other words, the member state had passed an ex ante evaluation—so were not subject to ex post conditionality.[26] The member had the primary responsibility for designing and implementing this policy response, which it was required to detail in its SLL letter of intent before access to the facility was approved (IMF 2018d, 32). 
+
+## **8. Size: Participants could draw up to 145% of their IMF quota under an SLL arrangement.** 
+
+Once the SLL arrangement took effect, the recipient country could draw up to 145% (upgraded to 200% in 2023) of their IMF quota during the 12-month SLL arrangement (IMF 2020a). The IMF assigns each member a maximum financial commitment, or quota, based on the member’s relative position in the world economy. The member pays a capital subscription to the IMF equal to this quota—25% in SDR, or currencies of other strong IMF members, and 75% in the member’s own currency. Quotas are the primary source of the IMF’s financial base, enabling the IMF to engage in GRA lending. They also determine the distribution of voting power among IMF members, a country’s representation on the IMF executive board, its access to IMF resources, and its share in SDR allocation, with the IMF typically reviewing quotas every five years (IMF 2023c; Ramlogan and Fritz-Krockow 2007). 
+
+This limit applies to all members borrowing under GRA programs, and any member’s total GRA borrowing cannot exceed 435% of quota cumulatively, net of scheduled repurchase obligations. Access to the GRA above these limits is subject to the IMF’s exceptional access policy—a framework that permits countries facing exceptional balance-of-payments needs to borrow beyond standard limits if they meet certain criteria for debt sustainability, economic reform, and prospects for market access (IMF 2024a). 
+
+Chile accepted the offer for the SLL in May 2022 for the full 145% of its quota, amounting to USD 3.5 billion (IMF 2022a). Chile did not draw any amounts under the SLL arrangement before terminating it. 
+
+In 2020, Chile’s quota, paid in Chilean pesos, was equivalent to SDR 1.7 billion, of which the IMF held SDR 1.3 billion (or 74.8%) in Chilean pesos (IMF n.d.d; IMF 2021c). 
+
+## **9. Process for Utilizing the Funds or Allocation: IMF members confidentially requested SLL access, which was subject to board approval. Once approved, the member could purchase committed funds without further board approval.** 
+
+Potential participants confidentially consulted with the IMF, which assessed the participant’s qualification, the appropriate level of SLL access, and whether another IMF facility would be more appropriate; if the candidate qualified; the IMF summarized these deliberations in a staff report. On the basis of the report’s contents, the IMF executive board approved the extension of the offer, contingent upon the participant’s written acceptance of the offer 
+
+> 26 However, SLL participants were retained or placed on the annual cycle of Article IV consultations (IMF 2020a). 
+
+
+within two weeks of notification. This offer required the participant’s response (a letter of intent) to commit to maintaining “very strong economic policies” and to respond to shocks that arise. The arrangement took effect once the IMF confirmed receipt of the signed written acceptance of the conditional offer. The IMF published a press release announcing the details of the SLL arrangement and the staff report (IMF 2020a). 
+
+A member could purchase funds under an SLL arrangement without further approval by the IMF staff (except for administrative processing approvals) but the executive board would be informed of all such purchases. The executive board and staff would not challenge an SLL participant’s characterization of their need for SLL funds, but the IMF expected the member’s drawings would be commensurate with its actual balance-of-payments need at the time of the member’s purchase (see the Key Design Decision No. 3, Legal Authority, for details) (IMF 2020a). 
+
+The process for participating in an SLL arrangement mostly resembled the process for accessing the FCL, except the informal IMF board meetings required for FCL arrangements were not required for SLL arrangements (IMF 2020a). 
+
+**10. Downstream Use of Borrowed Funds: The IMF preauthorized its precautionary facilities, which participants could use only to meet actual balance-of-payments needs; this took the form of monetary intervention because the IMF forbids borrowers from using SLL funds for fiscal measures.** 
+
+The IMF offers several “precautionary” facilities, including the SLL, FCL, and PLL. Although members may enter any of these three arrangements by communicating the _potential_ for a balance-of-payments need, Article V, Section 3(b) states that a member can only make a purchase from the committed funds if the country represents that it is experiencing an _actual_ balance-of-payments need, and only up to the amount it represents as necessary to meet that need. The IMF could not challenge this “need” ex ante, but if the arrangement was drawn upon and the Fund found in an ex post evaluation that the conditions were not met, it could take “remedial action.”[27] The IMF intends such a need to mean one affecting the balance-ofpayments position of the member, its foreign reserve position, and developments in those reserves, though the IMF’s determination of “need” could be met by any one of these conditions (IMF 2018d; IMF 2021a, Art. V, Sec. 3[b]). 
+
+In assigning the country’s central bank as the sole depository for SLL funds, the IMF expected that funds drawn from the facility would be used as international reserves—that is, in support of fiscal policies, but not directly used for fiscal measures (BCC 2022c). Chile remains the only country to sign an SLL agreement, but never drew upon the line (IMF 2023b). 
+
+## **11. Duration: The SLL’s repurchase period is set at 12 months to provide short-term balance-of-payments needs.** 
+
+Both the SLL and FCL are designed for countries with strong policy frameworks and fundamentals but serve different purposes, reflected in their repurchase periods. The SLL, 
+
+> 27 This conditionality is also true of reserve tranche purchases (IMF 2018d). 
+
+
+intended to address moderate, short-term balance-of-payments needs, requires repurchases within 12 months (IMF n.d.b). In contrast, the FCL, which provides a safety net for sustained financing needs, allows for a longer repurchase period of three to five years, accommodating medium-term external vulnerabilities (IMF n.d.a). 
+
+**12. Rates and Fees: The IMF charged various origination fees for SLL arrangements, and outstanding SLL purchases would be charged the SDR interest rate.** 
+
+The IMF charged a nonrefundable commitment fee at the beginning of the arrangement (8 bps), a service charge (21 bps), a “normal rate of charge” (SDR rate + a fixed margin of 100 bps), and a “normal schedule” for level-based surcharges (in other words, surcharges based on access and duration; see Figure 4 for examples and Figure 8 for a time series of the SDR interest rate). Funds accessed through the SLL did not count towards time-based surcharges (IMF 2020a). 
+
+[FIGURE id=vol6_iss4_3_f8 type=chart page=24 label="Figure 8" file=figure_8.png caption="SDR Interest Rate"]
+### **Figure 8: SDR Interest Rate**
+![Figure 8](assets/vol6_iss4_3/figure_8.png)
+
+
+Note: Dotted line indicates approximate launch date of the SLL. 
+
+_Source: IMF 2022d._ 
+
+The IMF noted that single use of the SLL would be a cost-effective solution to liquidity strains relative to drawing down or purchasing more reserves, and countries seeking IMF assistance would likely benefit from lower yields on public debt. However, given the nature of the SLL and the types of crises it was designed to relieve, the IMF anticipated that countries participating in a 12-month SLL arrangement would seek a second arrangement (IMF n.d.b). 
+
+The SLL was predicted to be cheaper than the FCL if used once and on a precautionary basis. However, although the SLL had terms and qualifications similar to the FCL, the FCL had no access limit and could be tapped for any balance-of-payments need. By comparison to the SLL, the FCL charged more onerous fees: a normal schedule for commitment fees that are refundable on drawings (15 bps, up to 115% of quota; 30 bps from 115% to 575%; and 60 bps for more than 575%), a normal service charge (50 bps), and a normal rate of charge and surcharge schedule (IMF n.d.b; IMF 2020a). 
+
+**13. Balance Sheet Protection: The IMF transacts in SDRs at the SDR interest rate, which limits its exchange rate and interest rate risk, but its countercyclical** 
+
+
+## **lending activity exposes it to exceptionally high credit risk, which it manages with access limits and program monitoring.** 
+
+IMF members maintained a reserve tranche position in the IMF—the “facility of first resort"—and SLL purchases did not affect this balance; rather, a member’s purchases through the SLL “floated” against that member’s reserve tranche (IMF 2018d, 42; IMF 2020a).[28] Approval of an SLL arrangement did not mean the recipient had to draw on the swap line, and Chile did not draw on its arrangement. A recipient central bank would only be required to record a liability against the IMF once it drew under the SLL arrangement (BCC 2022c). This liability would be denominated in SDR (IMF 2018d). 
+
+Likewise, IMF borrowing has generally been denominated in SDRs (or the currencies that make up the SDR basket in proportion to their weight in that basket) to avoid exchange risks (IMF 2018d). The swap-like approach to the IMF’s lending activity may alter the composition of the IMF’s resources but does not affect its overall size. An increase in loans outstanding reduces the IMF’s holdings of usable currencies and increases the IMF’s holdings of the currencies of the borrowing members. 
+
+At the time the SLL was announced, the IMF’s one-year forward commitment capacity (or FCC, the amount of resources available for new lending through the GRA over the next 12 months) stood at USD 265 billion (of a total USD 471 billion of total resources available to the IMF across all accounts) (IMF 2018d; IMF 2020d). This consisted entirely of quota resources from most members; the Fund did not have to supplement these resources with borrowing (IMF 2020a).[29] 
+
+The SLL exposed the IMF to risks similar to the FCL and PLL. Unlike other IMF nonconcessional lending arrangements that define access on a flow basis (e.g., credit tranches through an SBA), access to the SLL was defined as a limit on the stock of IMF credit committed (or outstanding), up to a maximum of 145% of the country’s quota (IMF 2020a). 
+
+The IMF’s risk management framework centers on the credit risk of its lending activity. As global lender of last resort, the IMF’s lending is countercyclical—it often lends into a crisis as market-based funding sources pull back. Thus, the Fund is exposed not only to the risk that its borrowers will not make the repurchases they have committed to, but also risks owing to the concentration and correlation of its lending activity.[30] To mitigate these credit 
+
+> 28 The IMF directed members to their reserve tranches first because these reserves were convertible into SDRs (or other freely usable currencies) on demand and were considered part of the country’s own foreign exchange reserves. 
+
+> 29 Quota resources were contributed by members included on the IMF’s FTP, a select list of countries with strong external positions, which had currencies the IMF deemed “usable” (IMF 2018d). The IMF borrows through New Arrangements to Borrow (NAB) or bilateral borrowings. Although it had uncommitted resources under the NAB—for example, Chile had committed USD 31.1 million to the NAB in the fiscal year ending December 31, 2020—it did not use them (BCC 2020). 
+
+> 30 The IMF is limited in its ability to use its Investment Account to diversify away the credit risk inherent in the activity of GRA and PRGT accounts, which are held separately in the General Department (IMF 2018d; IMF 2021a Art. XII, Sec. 6(f)). The Investment Account is comprised of two accounts whose purposes are to (1) 
+
+
+risks, the IMF places limits on facility access—level of access, as well as duration and frequency—and imposes conditionality, including pre-program evaluation of macroeconomic fundamentals (ex ante conditionality) and post-program monitoring and surveillance (ex post conditionality) (IMF 2018d).[31] 
+
+The IMF is not exposed to significant interest rate risk because the same floating interest rate charged to borrowers at the IMF is equal to the rate of remuneration paid by the IMF to its creditors. This rate is directly linked to the SDR interest rate. The IMF also does not face exchange rate risks on its GRA lending. Pursuant to its Articles of Agreement, IMF members hold the borrowed funds in SDRs, and any variance in the member’s currency against the SDR must be settled at the end of the financial year (or upon request by the IMF or the member) (IMF 2018d; IMF 2021a, Art. XX). 
+
+The IMF enjoys preferred creditor status owing to its role as global lender of last resort and its inability to legally restructure the claims of its members. The practical implication of this status is that creditors exclude the IMF from any sovereign debt restructurings and voluntarily exercise forbearance, while unsecured creditors do not subordinate their claims to those of the IMF (IMF 2018d). 
+
+The SLL drew on the IMF’s GRA, which is funded by members’ quotas and supplemented on a temporary basis with New Arrangements to Borrow (NAB)—a set of credit arrangements among member countries designed to provide additional funds to the IMF—when needed (IMF 2018d; IMF 2020a).[32] GRA currencies and reserve assets are held at members’ depositories (IMF 2018d). Only the BCC could transfer resources through the FCL and SLL, and it was responsible for managing them as part of its international reserves; the IMF forbade borrowers from using the committed funds for direct fiscal spending (BCC 2022c). 
+
+## **14. Other Restrictions: The IMF required SLL participants to commit to “very strong economic policies” and respond to shocks as they arose.** 
+
+Members were restricted from engaging multiple IMF facilities at once. Requesting an SLL arrangement would require cancelling any existing FCL arrangement, and vice versa (IMF 2020a). Likewise, a country whose external position was strong enough to qualify it for the SLL was likely also eligible to be included in the FTP—a framework that governs a country’s financial transactions with the IMF, including borrowing and repurchasing. 
+
+> generate returns in excess of the SDR interest rate and (2) generate a long-term real return of 3% (IMF 2018d, 170). 
+
+> 31 The IMF executive board gives additional scrutiny to those members whose proposed access exceeds 145% of their quota annually or 435% cumulatively (net of scheduled repurchases)—in other words, for the PLL and FCL. The IMF also maintains a prudential balance of 20% of the quotas of members who are engaged in IMF arrangements (IMF 2018d). 
+
+> 32 NAB had regularly exceeded 100% of quota resources between 2011 and 2016, when quotas were recalculated to appropriately fund the FCC without NAB. For example, see (IMF 2021d). 
+
+
+## **15. Other Options: The SLL was the IMF’s only liquidity tool designed specifically to address short-term balance-of-payments pressures on emerging market countries with strong external positions.** 
+
+The SLL was designed to fill a gap in the IMF’s lending toolkit: The SLL was available for those members whose economies were strong enough to qualify them for the FCL, but who only needed the amount of credit offered by the PLL (which served countries with weaker economic fundamentals). Chile switched from the SLL to the FCL (with its larger credit allotments and longer maturity) in response to persistent inflationary pressures in 2022 (IMF 2022c). 
+
+When the SLL’s predecessor, the SLS, was proposed in 2017, some IMF directors considered making it higher access to better serve members with large liquidity needs. During these deliberations, IMF directors contemplated eliminating the PLL given its low use; between 2020 and 2022, Panama was the only member to engage in a PLL arrangement (100% of quota) but never drew upon it (IMF 2017b; IMF 2020d; IMF 2021d). 
+
+On August 23, 2021, the IMF also allocated USD 650 billion worth of SDRs, the largest allotment in the Fund’s history by a treble factor (IMF 2021b).[33] In addition to supplementing foreign reserves and paying IMF debts, SDRs can be exchanged for IMF member nations’ freely usable currencies. Thus, the SDR serves as an indirect means of obtaining any SDR basket currency from an IMF member nation. There are currently five SDR basket currencies, all global reserve currencies—the US dollar, euro, Japanese yen, Chinese renminbi, and British pound sterling (IMF 2022e). 
+
+## **16. Exit Strategy: The SLL was established for an initial seven-year period, with IMF reviewing the SLL in 2023 and a planned second review in 2025.** 
+
+The SLL was established for a seven-year period, with a formal review planned for 2025, at which point the executive board of the IMF would determine whether a renewal was necessary (IMF 2020a). As of November 2024, the SLL is still in operation. 
+
+A 2023 IMF review of its precautionary toolkit found that the SLL is an effective tool for quick credit access but its limited use stemmed from factors like a low access limit (145% of quota) and some qualifying countries may not have been fully aware of its benefits. To improve its effectiveness, the IMF proposed raising the SLL’s access limit to 200% of quota and allowing concurrent use with the FCL, enabling countries to address both moderate and tail risks. These changes aim to enhance the SLL’s flexibility and effectiveness while increasing combined access to up to 400% of quota (IMF 2023b). 
+
+> 33 For more information on the 2021 SDR allocation, see Arnold (2024). 
+
+
+## **References and Key Program Documents** 
+
+## **Summary of Program** 
+
+(IMF 2020a) International Monetary Fund (IMF). 2020a. “IMF COVID-19 Response—A New Short-Term Liquidity Line to Enhance the Adequacy of the Global Financial Safety Net,” April 21, 2020. 
+
+_IMF policy paper summarizing the design details and circumstances around the SLL_ . https://elischolar.library.yale.edu/ypfs-documents2/736 
+
+(IMF n.d.a) International Monetary Fund (IMF). n.d.a. “The Flexible Credit Line (FCL).” _Summary of the FCL and its design features_ . http://elischolar.library.yale.edu/ypfs-documents2/5136 
+
+(IMF n.d.b) International Monetary Fund (IMF). n.d.b. “The Short-term Liquidity Line (SLL).” _Summary of the SLL and its design features_ . https://elischolar.library.yale.edu/ypfs-documents2/5148 
+
+(IMF n.d.c) International Monetary Fund (IMF). n.d.c. “The Short-term Liquidity Line (SLL).” _Updated summary of the SLL and its design features_ . https://elischolar.library.yale.edu/ypfs-documents2/675 
+
+## **Implementation Documents** 
+
+(BCC 2022a) Banco Central de Chile (BCC). 2022a. “Acuerdo adoptado por el consejo del Banco Central de Chile en su sesión ordinaria no 2473e,” May 20, 2022. _The SLL agreement between the IMF and the Banco Central de Chile (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/738 
+
+(IMF 2018a) International Monetary Fund (IMF). 2018a. “Flexible Credit Line — Operational Guidance Note,” July 11, 2018. 
+
+_The IMF’s operational guidance note on the FCL_ . https://elischolar.library.yale.edu/ypfs-documents2/753 
+
+(IMF 2018b) International Monetary Fund (IMF). 2018b. “Precautionary and Liquidity Line — Operational Guidance Note,” July 11, 2018. 
+
+_The IMF’s operational guidance note on the PLL_ . https://elischolar.library.yale.edu/ypfs-documents2/752 
+
+## **Legal/Regulatory Guidance** 
+
+(IMF 2009) International Monetary Fund (IMF). 2009. “Conditionality in Fund-Supported Programs-Purposes, Modalities, and Options for Reform,” January 29, 2009. _An evaluation of the IMF’s policies surrounding lending conditionality_ . https://elischolar.library.yale.edu/ypfs-documents2/764 
+
+
+(IMF 2010) International Monetary Fund (IMF). 2010. “The Fund’s Mandate—The Legal Framework,” February 22, 2010. 
+
+_Overview of the IMF’s legal framework_ . https://elischolar.library.yale.edu/ypfs-documents2/766 
+
+(IMF 2021a) International Monetary Fund (IMF). 2021a. “Articles of Agreement of the International Monetary Fund,” December 15, 2021. 
+
+_The IMF’s Articles of Agreement_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/655 
+
+## **Media Stories** 
+
+(Okamoto 2020) Okamoto, Geoffrey W.S. 2020. “The Short-Term Liquidity Line: A New IMF Tool to Help in the Crisis,” April 22, 2020. 
+
+_Blog post from the deputy managing director of the IMF detailing the purpose of the SLL_ . http://elischolar.library.yale.edu/ypfs-documents2/5140 
+
+(Reuters 2020) Reuters. 2020. “Chilean Central Bank Strikes Deal with China to Expand Currency Swap to $7.1 Bln,” July 24, 2020. 
+
+_Reuters article describing the BCC-PBOC swap line increase in 2020_ . https://elischolar.library.yale.edu/ypfs-documents2/771 
+
+(Shalal 2020) Shalal, Andrea. 2020. “Update 1-IMF Sees $50 Billion in Current Demand for New Short-Term Liquidity Line.” _Reuters News_ , April 22, 2020. _Reuters News article on the IMF’s projected demand for the SLL_ . http://elischolar.library.yale.edu/ypfs-documents2/5142 
+
+(CE Noticias Financieras 2022) CE Noticias Financieras. 2022. “IMF Announces US$ 18.5 Billion Loan Agreement with Chile,” September 12, 2022. 
+
+_News agency article on Chile’s new FCL agreement following the termination of the SLL_ . http://elischolar.library.yale.edu/ypfs-documents2/5143 
+
+## **Press Releases/Announcements** 
+
+(BCC 2020) Banco Central de Chile (BCC). 2020. “Estados Financieros,” December 31, 2020. _The Chilean central bank’s financial statements for the fiscal year ending December 31, 2020 (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/739 
+
+
+(BCC 2022b) Banco Central de Chile (BCC). 2022b. “Banco Central de Chile suscribe línea de crédito flexible con el Fondo Monetario Internacional por US$18.500 millones.” Press release, August 29, 2022. 
+
+_Press release from the Chilean central bank upon re-entering into the IMF’s FCL in 2022 (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/740 
+
+(BCC 2022c) Banco Central de Chile (BCC). 2022c. “Documento Preguntas y Respuestas Línea de Crédito Flexible del FMI – Agosto 2022,” August 29, 2022. _Q&A document issued by the Chilean central bank in response to the August 2022 announcement to initiate a new IMF FCL arrangement (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/741 
+
+(BIS 2022) Bank for International Settlements (BIS). 2022. “BIS Announces Renminbi Liquidity Arrangement.” Press release, June 25, 2022. 
+
+_BIS announcement of the Renminbi Liquidity Arrangement (RMBLA), developed with the People’s Bank of China to provide liquidity to Indonesia, Hong Kong, Singapore, and Chile_ . https://elischolar.library.yale.edu/ypfs-documents2/742 
+
+(IMF 2017a) International Monetary Fund (IMF). 2017a. “IMF Executive Board Discusses Proposals for Toolkit Reform, Concludes Review of the Flexible Credit Line and Precautionary and Liquidity Line.” Press release, December 19, 2017. 
+
+_IMF summary of executive board discussions on the SLS proposal_ . https://elischolar.library.yale.edu/ypfs-documents2/661 
+
+(IMF 2018c) International Monetary Fund (IMF). 2018c. “IMF Executive Board Approves US$50 Billion Stand-by Arrangement for Argentina.” Press release, June 20, 2018. _IMF announcement of the 2018 Stand-By Arrangement for Argentina_ . http://elischolar.library.yale.edu/ypfs-documents2/5139 
+
+(IMF 2020b) International Monetary Fund (IMF). 2020b. “Chile: Request for an Arrangement Under the Flexible Credit Line.” IMF Country Report No. 20/183, May 2020. _IMF announcement of Chile’s original FCL arrangement_ . https://elischolar.library.yale.edu/ypfs-documents2/769 
+
+(IMF 2020c) International Monetary Fund (IMF). 2020c. “IMF Executive Board Approves Two-Year US$23.93 Billion Flexible Credit Line Arrangement for Chile.” Press release, May 29, 2020. 
+
+_IMF announcement of Chile’s May 2020 FCL arrangement_ . https://elischolar.library.yale.edu/ypfs-documents2/744 
+
+(IMF 2021b) International Monetary Fund (IMF). 2021b. “IMF Governors Approve a Historic US$650 Billion SDR Allocation of Special Drawing Rights.” Press release, August 2, 2021. 
+
+_IMF press release announcing 2021 SDR allocation_ . https://elischolar.library.yale.edu/ypfs-documents2/663 
+
+
+(IMF 2022a) International Monetary Fund (IMF). 2022a. “Chile Receives IMF’s First ShortTerm Liquidity Line.” Press release, May 20, 2022. 
+
+_Announcement of Chile’s participation in the SLL_ . https://elischolar.library.yale.edu/ypfs-documents2/745 
+
+(IMF 2022b) International Monetary Fund (IMF). 2022b. “Chile’s New Short-Term Liquidity Line to Support Resilience and Recovery,” May 20, 2022. 
+
+_IMF interview with Rosanna Costa, governor of the Central Bank of Chile, and Ana Corbacho, IMF mission chief, on the day of the IMF’s announcement of Chile’s SLL arrangement_ . https://elischolar.library.yale.edu/ypfs-documents2/746 
+
+(IMF 2022c) International Monetary Fund (IMF). 2022c. “Chile: Request for an Arrangement Under the Flexible Credit Line and Cancellation of the Arrangement Under the Short-Term Liquidity Line.” IMF Country Report No 22/283, August 2022. 
+
+_IMF announcement of Chile’s request to cancel the SLL arrangement and resume the FCL arrangement in light of deteriorating economic conditions_ . https://elischolar.library.yale.edu/ypfs-documents2/747 
+
+## **Reports/Assessments** 
+
+(IMF 2001) International Monetary Fund (IMF). 2001. “General Department.” In _Financial Organization and Operations of the IMF_ , 6th ed. Pamphlet Series 45. 
+
+_A description of the three separate accounts that hold IMF resources: the General Resources Account, the Special Disbursement Account, and the Investment Account_ . https://elischolar.library.yale.edu/ypfs-documents2/748 
+
+(IMF 2016) International Monetary Fund (IMF). 2016. “Adequacy of the Global Financial Safety Net,” March 2016. 
+
+_An IMF report measuring the adequacy of global central bank reserves, IMF reserves, bilateral swap networks, regional financing arrangements, and market-based instruments_ . https://elischolar.library.yale.edu/ypfs-documents2/750 
+
+(IMF 2017b) International Monetary Fund (IMF). 2017b. “The Acting Chair’s Summing Up - Adequacy of the Global Financial Safety Net.” Executive Board Meeting 17/56, June 30, 2017. 
+
+_A review of the Flexible Credit Line and Precautionary and Liquidity Line, and proposals for toolkit reform_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/751 
+
+(IMF 2019) International Monetary Fund (IMF). 2019. “Weekly Report on Key Financial Statistics,” April 25, 2019. 
+
+_IMF’s forward commitment capacity for the week of April 25, 2019_ . https://elischolar.library.yale.edu/ypfs-documents2/754 
+
+
+(IMF 2020d) International Monetary Fund (IMF). 2020d. “Weekly Report on Key Financial Statistics,” April 17, 2020. 
+
+_IMF’s forward commitment capacity for the week of April 17, 2020_ . https://elischolar.library.yale.edu/ypfs-documents2/755 
+
+(IMF 2020e) International Monetary Fund (IMF). 2020e. “Transcript of the Background Briefing on the Short-Term Liquidity Line,” May 8, 2020. _Transcript of a  panel discussion moderated by Maria Candia, from the IMF communications team, between two IMF officials discussing the new SLL_ . https://elischolar.library.yale.edu/ypfs-documents2/5145 
+
+(IMF 2020f) International Monetary Fund (IMF). 2020f. Annual Report 2020. _The IMF’s 2020 annual report_ . https://elischolar.library.yale.edu/ypfs-documents2/756 
+
+(IMF 2021c) International Monetary Fund (IMF). 2021c. “Chile: 2021 Article IV Consultation.” IMF Country Report No 21/83, April 2021. _IMF Article IV Consultation report for 2021_ . https://elischolar.library.yale.edu/ypfs-documents2/758 
+
+(IMF 2021d) International Monetary Fund (IMF). 2021d. “Weekly Report on Key Financial Statistics,” April 30, 2021. 
+
+_IMF’s forward commitment capacity for the week of April 30, 2021_ . https://elischolar.library.yale.edu/ypfs-documents2/759 
+
+(IMF 2021e) International Monetary Fund (IMF). 2021e. “Questions and Answers on Special Drawing Rights,” August 23, 2021. _Q&A covering questions about an SDR allocation_ . https://elischolar.library.yale.edu/ypfs-documents2/667/ 
+
+(IMF 2022d) International Monetary Fund (IMF). 2022d. “Weekly Report on Key Financial Statistics,” April 29, 2022. 
+
+_IMF’s forward commitment capacity for the week of April 29, 2022_ . https://elischolar.library.yale.edu/ypfs-documents2/760 
+
+(IMF 2022f) International Monetary Fund (IMF). 2022f. “Chile: History of Lending Commitments,” November 30, 2022. 
+
+_Data on Chile’s IMF arrangements since 1956_ . https://elischolar.library.yale.edu/ypfs-documents2/762 
+
+(IMF 2023a) International Monetary Fund (IMF). 2023a. “Financial Position in the Fund for Chile,” January 31, 2023. 
+
+_Summary of Chile’s financial position at the IMF in 2022_ . https://elischolar.library.yale.edu/ypfs-documents2/824 
+
+
+(IMF 2023b) International Monetary Fund (IMF). 2023b. “Review of the Flexible Credit Line, the Short-Term Liquidity Line and the Precautionary and Liquidity Line, and Proposals for Reform.” IMF Policy Paper, October 2023. _IMF review of the FCL, SLL, and PLL_ . http://elischolar.library.yale.edu/ypfs-documents2/5137 
+
+(IMF 2024a) International Monetary Fund (IMF) (IMF). 2024a. “Extension of Temporary Increase in Normal Access Limits Under the General Resources Account.” IMF Policy Paper, March 2024. 
+
+_Policy paper mapping out the IMF executive board’s extension of a temporary increase in access limits under the general resources account_ . https://elischolar.library.yale.edu/ypfs-documents2/5146 
+
+(IMF n.d.d) International Monetary Fund (IMF). n.d.d. “Chile.” Accessed December 10, 2022. _IMF webpage with a summary of Chile’s position at the IMF in 2020_ . https://elischolar.library.yale.edu/ypfs-documents2/763 
+
+## **Key Academic Papers** 
+
+(Arnold 2024) Arnold, Vincient. 2024. “International Monetary Fund: Foreign Exchange Liquidity through the Special Drawing Rights Allocation, 2021.” _Journal of Financial Crises_ 6 _,_ no. 4 _._ 
+
+_YPFS case study discussing the IMF’s COVID-19 SDR allocation_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss4/2/ 
+
+(IMF 2018d) International Monetary Fund (IMF). 2018d. _IMF Financial Operations 2018_ . Washington, D.C.: International Monetary Fund. 
+
+_Book describing the IMF’s SDR Department and uses of SDRs among IMF members_ . https://elischolar.library.yale.edu/ypfs-documents2/662 
+
+(Kelly 2023) Kelly, Steven. 2023. “United States: FIMA Repo Facility, 2020.” _Journal of Financial Crises_ 5, no. 1. 
+
+_YPFS case study discussing the US Federal Reserve’s Foreign and International Monetary Authorities liquidity facility_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/23 
+
+(Lamdany and Martinez-Diaz 2009) Lamdany, Ruben, and Leonardo Martinez-Diaz. 2009. “Evaluating the Governance of the IMF.” _Studies of IMF Governance: A Compendium_ . Washington, D.C.: International Monetary Fund. 
+
+_A compendium of studies on the governance of the IMF_ . https://elischolar.library.yale.edu/ypfs-documents2/774 
+
+(Martin 2022) Martin, Jamie. 2022. _The Meddlers: Sovereignty, Empire, and the Birth of Global Economic Governance_ . Cambridge, MA: Harvard University Press. 
+
+_The Meddlers examines how sovereignty and empire shaped the origins of global economic governance_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/773 
+
+
+(Perks et al. 2021) Perks, Michael, Yudong Rao, Jongsoon Shin, and Kiichi Tokuoka.  2021. “Evolution of Bilateral Swap Lines.” IMF Working Paper WP/21/210, August 2021. _Study documenting existence of and roles of international swap lines_ . https://elischolar.library.yale.edu/ypfs-documents/14801 
+
+## **Other** 
+
+(IMF 2021f) International Monetary Fund (IMF). 2021f. “The IMF’s Response to COVID-19,” April 8, 2021. 
+
+_Webpage with FAQs on the IMF’s COVID-19 response_ . https://elischolar.library.yale.edu/ypfs-documents2/757 
+
+(IMF 2022e) International Monetary Fund (IMF). 2022e. “Special Drawing Rights (SDR),” July 29, 2022. 
+
+_Factsheet explaining the history and function of SDRs_ . https://elischolar.library.yale.edu/ypfs-documents2/657 
+
+(IMF 2022g) International Monetary Fund (IMF) (IMF). 2022g. “Chile: IMF SDR Allocations and Holdings,” November 30, 2022. 
+
+_Table listing the SDR holdings of Chile as of November 30, 2022_ . https://elischolar.library.yale.edu/ypfs-documents2/761 
+
+(IMF 2022h) International Monetary Fund (IMF). 2022h. “IMF Lending,” December 2022. _Webpage summarizing the IMF’s lending toolkit and each tool’s purpose_ . https://elischolar.library.yale.edu/ypfs-documents2/825 
+
+(IMF 2023c) International Monetary Fund (IMF). 2023c. “IMF Quotas,” December 2023. _Fact sheet explaining IMF quotas_ . https://elischolar.library.yale.edu/ypfs-documents2/5141 
+
+(IMF 2024b) International Monetary Fund (IMF). 2024b. “IMF Executive Directors and Voting Power,” November 18, 2024. 
+
+_List of IMF members, quotas, governors, and voting power, as of 2024_ . https://elischolar.library.yale.edu/ypfs-documents2/4856 
+
+(Ramlogan and Fritz-Krockow 2007) Ramlogan, Parmeshwar, and Bernhard FritzKrockow. 2007. “Overview of the IMF.” In _International Monetary Fund Handbook_ . Washington, D.C.: International Monetary Fund. 
+
+_Book chapter outlining the IMF mandate, functions, strategy, origins, and membership_ . https://elischolar.library.yale.edu/ypfs-documents2/5134 
+
+
+## **Appendix** 
+
+[FIGURE id=vol6_iss4_3_f9 type=figure page=35 label="Figure 9" file=figure_9.png caption="Detailed Comparison of the Key Features of the SLL and FCL"]
+### **Figure 9: Detailed Comparison of the Key Features of the SLL and FCL**
+![Figure 9](assets/vol6_iss4_3/figure_9.png)
+
+
+_Source: IMF 2020a._ 
+
+
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

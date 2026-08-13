@@ -1,0 +1,151 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 3 
+2022 
+Lessons Learned: Frederic Mishkin Lessons Learned: Frederic Mishkin 
+Matthew A. Lieber 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy History, Theory, and Methods Commons, and the Public 
+Administration Commons 
+Recommended Citation Recommended Citation 
+Lieber, Matthew A. (2022) "Lessons Learned: Frederic Mishkin," Journal of Financial Crises: Vol. 4 : Iss. 3, 
+209-211. 
+DOI: https://doi.org/10.17132/2693-3179.1429 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/11 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss3/11
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+Frederic Mishkin  
+By Matthew A. Lieber 
+Rick Mishkin served as a member of the Board of  Governors of the Federal Reserve System 
+from 2006 to 2008 and as director of research at the Federal Reserve Bank of New York from 
+1994 to 1997. A leading expert on monetary economics and financial markets and a professor 
+at Columbia University’s School of Business since 1983, Mishkin has written 20 books, 
+including the textbook The Economics of Money, Banking , and Financial Markets . This 
+Lessons Lea rned is based on an interview with Mishkin conducted on October 20 , 2020; the 
+full transcript may be accessed here. 
+In r esponding to  a crisis, the most effec tive solutions may not be obvious , so 
+organizations need to be flexible and innovative.  
+The Federa l Reserve’s actio ns during the crisis, Mishki n said , show the quality of the 
+organization. Mishkin  assessed the  Fed’s 2007 –08 crisis response as relatively e ffective: 
+“Things were done in a systematic way, on the one hand, but in a completely non -
+systematic way on the oth er,” he said. He commended the Fed o n its flexibility and 
+innovation.  
+According to Mis hkin, the Fed  tried one thing , and if that did not wor k, it said, “we need 
+something else.”  
+The Fed kept on bringing one program up after another. Some worked, and so me 
+didn’t work. And the ones that worke d, the ones you threw against the wall that 
+stuck, you kept them there. And then the ones that didn ’t, you let go by the board. 
+But it was educated ; it wasn’t that they were just throwing stupid stuff against the 
+wall. They were throwing good work against the wall.  
+Crucially, shared Mis hkin, the Fed was able to  learn, develop new methods, and continue 
+innovating until something worked. For example, h e continued, in August 2007, interbank 
+lending markets came under serious strain after the first  disclosure of massive losses in 
+subprime securities at BNP Paribas. At Mishkin’s urging, the Fed lowered the discount rate. 
+But it didn’t work. Banks feared that borrowing at the discount window might trigger a run 
+on deposits. Bank funding markets remained seized up. In December 2007, the Fed 
+launched the Term Auction Facility (TAF) , which  inspired more confidence amo ng banks 
+and enabled the Fed to support a broader range of counterparties without the stigma of the 
+discount window. 
+Another example of the Fed’s flexibility and innovation Mishkin cited is with respect to 
+quantitative easing. According to Mishkin, Fed Chair Ben Bernanke established that we had 
+to “try to keep credit markets functioning and  keep credit s preads from gettin g out of 
+control. But the methods of doing it were not clear.” 
+209
+
+--- Page 4 ---
+With short-term interest rates near zero, the Fed’s main monetary policy to ol was spent.  
+However, the central bank can push long-term rates down by buying financial assets, which 
+it did in a massive way with effective r esults. There was much deba te about the explosion 
+in the size of the Fed ’s balance sheet. But, Mishkin explained, the Fed’s emphasis was 
+always on the credi t markets and the spreads between sho rt- and long -term rates. The 
+expansion of the balance sheet follow ed as a consequence ; it was not the objec tive. 
+“Quantitative easing” suggests a balance -sheet expansion witho ut a focus on credit 
+conditions, Mishkin said. F or that reason, he recalled, Bernanke would have preferred 
+people to call it “credit easing.” 
+Past crisis experience can be used to pr epare for future crises: The Global Financial 
+Crisis provided a war games experience for the Fed’s COVID-19 response. 
+Mishkin noted that the contrasts between the Fed’s 2007 and 2020 interve ntions are 
+consistent with findings from his academic research on central bank effectiveness as lender 
+of last resort: “The faster you [ease credit], the less you ha ve to do. It is on e of the key 
+lessons of financial crises.”  Mishkin pointed to the Black M onday market cras h in  1987: 
+“[Former Fed chair Alan ] Greenspan got up and announced that they were going to have a 
+program of opening up the discount window to whoever needed it. And, as a result, nobody 
+needed to borrow.” In 2007–2008, Mishkin said, the Fed  
+was pretty good during the financial crisis, but not nearly as fast. And I thought they 
+were a little bit behind the curve, but still re latively very good. But they really were 
+ahead of the cur ve with the COVID crisis. And that’s one of the reasons why  we’re 
+doing as well as we are. 
+We’re fortunate to have had the Global Financial Crisis before the C OVID-19 pandemic, 
+Mishkin said; it acted as sort of a war game for a future crisis.  In 2020, the Fed understood 
+its lender of last resort role much better than it did in 2007, Mishkin continued. The agency 
+had on the shelf a game plan  for fighting a crisis, including emergency programs. The Fed 
+announced the Primary Dealer Credit Facility (PDCF) and the Commercial Paper Funding 
+Facility (CPFF) four days after the March 13 national emergency order. By contrast, it took 
+the Fed seven months to deploy the same  facilities following similar credit market tremors 
+in August 2007.   
+He described how the Fed applied its learning to the COVID response in March 2020:  
+The Fed took all these programs that t hey had developed during the financial crisis 
+and restarted them again, with some additions that were clear because of the COVID 
+issue. It wasn ’t j ust Wall Street that was a problem. There were a lot of small 
+businesses that were running into problems. Remarkably, the federal government 
+response was incredibly rapid. I t was done  within two weeks, rather than  over a 
+year.  
+210
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 5 ---
+The results were effective, said Mishkin. First, the Fed delivered a remarkably rapid 
+response. And second, it was a highly effective intervention amounting to a case of crisis 
+prevention. Overall, said Mishkin, the Fed “performed brilliantly in March of 2020.” 
+Intervention assessment and crisis preparation shou ld continue after the cris is has 
+calmed, because the land scape will have changed  and the next crisis may r equire 
+different modalities.  
+Assessing post-crisis reforms, Mishkin said t he most important change is that banks are 
+much better capitalized than  they were before. Also improv ed is the capitaliza tion and 
+monitoring of large nonbanks, with investment banks transformed or subsumed into bank 
+holding companies. Shadow banking, which “b lew us up” in 2007, is less of a vulnerability 
+today. 
+Mishkin worried, however, about the Federal Reserve’s capacity in a future crisis to serve 
+as lender of last resort. Under the Dodd-Frank Act, use of the Federal Reserve Act’s Section 
+13(3) emergency lending authority is conditioned upon the Treasury secretary’s approval. 
+He noted: 
+So, the good news is that we had a sensible Treasury during the COVID crisis. All of 
+these things that the Fed is doing could not have been done without the support of 
+the Treasury. But what if you have somebody political, or the person who was the 
+head of the Treasury didn’t know what the hell he or she was doing? Then you could 
+be in real trouble. So, it turned out that’s actually a very bad feature of Dodd-Frank. 
+More g enerally, Mishkin is concerned about political pressures on the Fed. Mishkin fears 
+that the current Fed  under Chair Jerome Powell is acting like more of a fiscal agent of the 
+Treasury than an independent central bank. Congressional failure to legislate on issues like 
+income distribution and racial discrepancies, Mishkin said, has politicized the Fed at the 
+expense of its fo cus on a limited set of monetar y a nd financial objectives: “The Fed has 
+moved from being a pure monetary policy institution, now to actually having quasi -fiscal 
+policy elements. And that’s not a good thing for the institution.”  
+ 
+Dated: September 2022 
+YPFS Lessons Learned No. 2020-04 
+Copyright © Yale University. 
+ 
+211
+Lessons Learned: Frederic Mishkin Lieber

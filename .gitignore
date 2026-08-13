@@ -1,0 +1,25 @@
+.env
+.DS_Store
+venv/
+.venv/
+__pycache__/
+metadata/raw/
+text_marked/
+chunks/
+pipeline_full.log
+benchmarking/
+enriched_chunks/
+.claude/
+embeddings/
+agent/responses/
+responses/
+
+# Harness generated artifacts (seed cases/rubrics/prompts/registry are committed)
+evals/runs/
+evals/experiments/
+evals/jobs/
+evals/reviews/
+evals/promotions/
+evals/rubrics/proposals/
+evals/prompts/candidates/
+evals/prompts/archive/

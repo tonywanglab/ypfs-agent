@@ -1,0 +1,688 @@
+## **What Policy Combinations Worked?: The Effect of Policy Packages on Bank Lending during COVID-19[1]** 
+
+_Divya Kirti,_[2] _Maria Soledad Martinez Peria,_[3] _Prachi Mishra,_[4] _and Jan Strasky_[5] 
+
+## **Abstract** 
+
+In response to COVID-19, countries frequently adopted multiple types of policies to address the economic and financial effects of the pandemic. This paper analyzes the impact on bank lending of combinations or packages of policies (fiscal, monetary, and prudential) adopted across a broad sample of countries. Using a comprehensive policy announcement–level dataset together with bank-level information, we find that lending grew faster at banks in countries that announced large packages combining fiscal, monetary, and prudential measures (“all-out” packages), especially when uncertainty was high. Both the scope and size of policy packages were important: packages combining all three types of policies, but where only some were large, were relatively less effective in enhancing credit. The impact was stronger among more constrained banks with low equity levels. “all-out” packages also increased liquidity for bank-dependent firms but did not disproportionately benefit unviable firms. 
+
+**Keywords:** bank lending, COVID-19, policy effectiveness, policy packages 
+
+**JEL Classifications:** E52, E58, E62, G21, G28 
+
+> 1 The views expressed in this paper are those of the authors and do not necessarily represent those of the International Monetary Fund (IMF), its management and executive board, or IMF policy and should not be reported as representing the official views of the Organisation for Economic Co-operation and Development (OECD) or of its member countries. 
+
+See Kirti et al. (2025) for additional details and figures not included in this paper. 
+
+> 2 Divya Kirti, Economist, International Monetary Fund, dkirti@imf.org. 
+
+> 3 Maria Soledad Martinez Peria, Assistant Director, International Monetary Fund, mmartinezperia@imf.org. 
+
+> 4 Prachi Mishra, Professor of Economics, and Head and Director, Isaac Center for Public Policy, Ashoka University, prachi.mishra@ashoka.edu.in. 
+
+> 5 Jan Strasky, Senior Economist, Organisation for Economic Cooperation and Development, jan.strasky@oecd.org. 
+
+
+## **I. Introduction** 
+
+The onset of the COVID-19 pandemic triggered a dramatic—and somewhat peculiar—global economic downturn. Countries faced rapid and sharp negative supply and demand shocks simultaneously. Deep uncertainty was a defining feature of the shock. Throughout 2020, countries responded to the large shock by adopting different combinations of fiscal, monetary, and prudential policies. Crucially, very different types of policies were often introduced simultaneously. Take a prominent example: At the same time that various governments throughout Europe announced guarantee schemes and tax deferrals (for example, Italy and Germany), the European Central Bank (ECB) also announced long-term refinancing operations and the Pandemic Emergency Purchase Programme, and asked banks not to distribute dividends. Many of these policies either directly targeted the banking sector or had the potential to affect it.[6] 
+
+This paper evaluates the effectiveness of combinations of economic and prudential policies in supporting bank lending during the pandemic, across a large sample of advanced and emerging economies. Earlier work on the impact of separate policies adopted during COVID19 (Altavilla, Barbiero, et al. 2023; Beck and Keil 2022; Chodorow-Reich et al. 2022; Granja et al. 2022—see Section II for a comprehensive discussion) delivers well-identified granular results on the role of specific policies (for example, lending operations, guarantees, government lending programs to firms, etc.). While work taking this approach is helpful, it necessarily holds other policies fixed and hence cannot speak to the role of policy combinations. 
+
+Our paper is the first to examine the effect of different combinations of policies on bank lending for a large sample of countries. Exploring policy combinations is important as standalone policies were rare during 2020. More than 80% of policy configurations in our sample included combinations of more than one of fiscal, monetary, or prudential policies that we refer to as “packages.”[7] Moreover, by presenting evidence from both bank-level and firmlevel estimations, our paper speaks to not only how different policy combinations affected bank lending but also how packages influenced firms’ ability to continue to operate thanks to the impact of policies on bank financing. Firm-level estimations also allow us to consider whether bank lending supported ex ante weak firms. 
+
+We rely on a new granular dataset that measures policy actions taken by countries to respond to COVID-19 (Kirti et al. 2023). The dataset includes detailed information on 27 policies, which are classified into three categories: fiscal, monetary, and prudential. The dataset also contains announcement dates and wherever possible measures of size of policies and programs. We combine this policy announcement dataset with quarterly bank- 
+
+> 6 Given the regulatory reforms implemented after the Global Financial Crisis of 2007–09, banks generally entered the crisis seemingly in good shape. There are exceptions, of course, as in the case of some countries dealing with legacy asset quality concerns (for example, Ukraine) or rising nonperforming loans even before the pandemic (India and China to some extent). 
+
+> 7 Even with more granular policy classifications and at higher frequencies, policies were introduced in packages (Kirti et al. 2023). 
+
+
+level information across 49 countries to examine the behavior of bank lending in response to different policy combinations or packages. To support our analysis at the bank level, we also collect quarterly firm-level data across 39 countries and examine whether countries’ COVID-19 policy packages translated into additional liquidity support for nonfinancial firms during the pandemic. 
+
+Different policies could have affected bank lending through diverse channels. First, certain policies could have changed banks’ incentives to lend at the margin. Such policies include those with the potential to lower the probability of borrower default (for example, direct transfers and tax relief or deferrals to firms and households), reduce expected losses in the case of defaults (for example, credit guarantees), or lower the cost of funding (for example, conventional and unconventional monetary policies). Second, some policies may have changed the tightness of constraints faced by banks, for example, by increasing balance sheet capacity to lend (such as temporary relaxations of capital, provisioning, or liquidity requirements) or by affecting bank balance sheets more generally (such as restrictions on dividend distributions). Third, several macro policies could have shifted the demand for credit (for example, relaxations of monetary or fiscal tools). As the pandemic unfolded, there was significant uncertainty about whether only some or all of these channels were relevant. 
+
+Whether and which channels were more important to address, and therefore which combinations of policies were effective in influencing overall bank lending, is not obvious. For example, fiscal policies or monetary policies could have independently supported demand and changed banks’ incentives to lend at the margin. Similarly, prudential policies alone could have significantly expanded banks’ capacity to lend without the need for other policies. At the same time, given that the shock was unprecedented and uncertainty so large—both surrounding the effects of policies and the channels through which lending could be stimulated—a combination of policies with the potential to work through different channels may have been the most effective. Ultimately, understanding how different policy combinations affect bank lending is an empirical question. So too is assessing the degree to which the size of policies mattered. While in principle larger-sized policies could have increased lending more, it is also plausible that nonlinearities were important (for example, larger policies above a certain size could have been ineffective in further supporting lending). 
+
+We find that both the scope and size of policy packages were critical: packages combining all three categories of policies, but where only some were large, were relatively less effective. In fact, statistical tests reveal that “all-out” packages—combining large fiscal and monetary along with prudential policies—were economically and statistically more effective in raising bank credit compared to any other policy package observed in the data and relative to a nopolicy counterfactual. “All-out” packages were associated with 600-basis-point (bp) higher loan growth compared to small packages, where neither monetary or fiscal policies were large, or when only one of them was of large size. Our main findings are consistent with the interpretation that “all-out” packages were able to target shifts across several key channels—incentives, capacity to lend, and credit demand—and therefore, were more effective in increasing bank lending. Importantly, we find evidence that the effects were 
+
+
+larger in the presence of more uncertainty, as measured by greater disagreement among forecasters on the impact of the pandemic and the future path of economic output. 
+
+Furthermore, because the impact of policies likely varied depending on banks’ capacity to lend at the start of the pandemic, it is important to consider the interaction of countries’ policies with precrisis bank characteristics, and in particular capitalization levels. Across banks within the same country, we find that the impact of policies was larger for banks that were a priori more constrained to lend owing to low equity levels. The empirical specifications attempt to control for credit demand by including various proxies for the health, financial, and economic shock associated with the pandemic. In some estimations, we are also able to include country-quarter fixed effects. These findings suggest that binding constraints that affected banks’ marginal incentives to lend, and supply of loans, were important in holding back credit growth. 
+
+Our baseline methodology and key robustness exercises confirm that our results can indeed be attributed to the scope and size of policy packages. Potential sources of bias could, in principle, apply in either direction. For example, countries may have incorporated expectations about future outcomes in credit markets in designing their policy responses. Importantly, as we relate lagged policies to subsequent outcomes, such concerns about reverse causality would push against our ability to find meaningful effects. Equally, large reductions in credit at the depth of the pandemic could set the stage for strong mean reversion, biasing our results upwards. Our results remain similar if we control for lagged credit growth, suggesting that such dynamics do not drive our results. 
+
+Additional robustness exercises show that our bank-level results are not driven by our specific approach to defining large policies. In our baseline estimations, we define large policies as those in the top decile of the distribution across countries. In additional estimations, we confirm that the results are qualitatively similar if we define as large packages those with policies in the top quartile, tercile, and median of the distribution. 
+
+We combine bank-level evidence with findings at the firm level, which allows us to understand whether policy packages increased firms’ ability to meet precrisis expenses, as well as to consider whether bank lending supported ex ante weak firms. Consistent with our results at the bank level, we find that packages combining large fiscal, monetary, and prudential measures helped provide bank-dependent firms with additional liquidity to allow them to stay afloat and pay their expenses while pandemic-linked health measures constrained their ability to generate revenue. Within bank-dependent firms, we do not find differential effects in the extent to which liquidity was available to firms displaying poor prepandemic performance. While economic and financial policy packages during COVID-19 were generally not narrowly targeted, this latter evidence suggests that policy support at least did not disproportionately benefit unviable firms. 
+
+The findings of this paper are relevant beyond understanding how policy combinations affected bank lending during COVID-19. In an uncertain world with growing fragmentation, potentially more frequent large shocks, along with lack of clarity on the direction and 
+
+
+magnitude of domestic and global policies, drawing lessons on crisis management from the COVID-19 crisis remains highly pertinent. 
+
+The rest of the paper is organized as follows. Section II reviews the relevant literature and this paper’s contribution to it. Section III describes the data we use, while section IV presents the empirical methodology. Section V summarizes our main results. Section VI concludes. 
+
+## **II. Literature Review** 
+
+Our paper is related to three strands of the literature on the impact of COVID-19 on firms and banks. First, several papers explore the effects of the pandemic and of individual policies on bank credit. This literature includes studies on the impact of the Paycheck Protection Program (Bartik et al. 2023; Beck and Keil 2022; Berger et al. 2025; Granja et al. 2022) and of the pandemic on bank lending in the United States. Dursun-de Neef and Schandlbauer (2022) documents that US banks with higher exposure to COVID-19 decreased their lending less when their deposits increased owing to a reduction in household spending. Other studies, focused on other individual countries, examine the impact of guarantees on bank lending (Acosta-Henao et al. 2023 for Chile; Cascarino et al. 2022 for Italy; Jiménez et al. 2024 for Spain; Altavilla, Ellul, et al. 2023 for several euro area economies) or countercyclical capital buffer releases (BCBS 2021; Couaillier et al. 2022) on bank lending. More closely related to our paper, Ҫolak and Öztekin (2021) analyzes loan growth at the bank level during the pandemic, comparing it to the pre-pandemic period. Although the authors focus on the effect of the pandemic itself, they also find a role for fiscal and monetary stimulus in supporting demand for bank lending. Concentrating on European banks, Dursun-de Neef and Schandlbauer (2021) shows that higher exposure to COVID-19 led to a relative increase in worse-capitalized banks’ loans, whereas their better-capitalized peers decreased their lending more. Casanova, Hardy, and Onen (2021) empirically examines how changes in banks’ lending capacity—which they attribute to (but do not directly link with) policy measures—affected loan growth during the pandemic. The authors also examine the response of bank lending to the size of loan guarantee programs and find a positive association. Altavilla, Barbiero et al. (2023) employs proprietary data from ECB’s monetary policy operations and banking supervision to achieve a strong identification of the effects on bank lending of targeted long-term refinancing operations and selected prudential supervisory policies. They find strong effects on lending as well as complementarity among the measures, echoing our result that policy packages combining many levers are the most effective. At the same time, the geographic scope is limited to the euro area, and they do not consider fiscal policies or interactions between broader policy categories. 
+
+Second, several papers examine the impact of the COVID-19 shock but focus on outcome variables other than bank lending such as corporate stock returns (Alfaro et al. 2020; Capelle-Blancard and Desroziers 2020; Cox, Greenwald, and Ludvigson 2020; ElFayoumi and Hengge 2021), corporate insolvencies (Demmou et al. 2021; Gourinchas et al. 2022; Guerini et al. 2020), listed firms’ performance (Igan, Mirzaei, and Moore 2023), employment (Autor et al. 2022; Granja et al. 2022; Hubbard and Strain 2020), and bank equity prices (DemirgüçKunt, Pedraza, and Ruiz-Ortega 2021; Valencia et al. 2021). 
+
+
+Finally, there is work on related policy issues in the context of the pandemic. Several papers analyze patterns in the use of preexisting credit lines at the start of the pandemic and find increasing importance of government interventions, such as the Federal Reserve’s corporate bond buying program (Acharya and Steffen 2020; Chodorow-Reich et al. 2022; Greenwald, Krainer, and Paul 2023; Li, Strahan, and Zhang 2020). Augustin et al. (2022) uses the heterogeneity in the COVID-19 lockdown measures to identify fiscal space as the main driver of the sovereign risk premia in advanced economies and among US states during COVID-19. Benmelech and Tzur-Ilan (2020) links policy responses to COVID-19 to pre-pandemic policies (for example, the level of interest rates for monetary policy and sovereign credit ratings for fiscal policy). Similarly, Bergant and Forbes (2023) examines the determinants of the policy mix adopted in the wake of the pandemic and finds that existing policy space is the main driver affecting the choice of policies, albeit less so for fiscal policies in advanced economies. 
+
+Our paper contributes to all three strands of literature by analyzing the effects of policy combinations or packages on bank lending using the most comprehensive dataset to date across a large sample of countries. Analyzing policy packages is crucial because policies were rarely adopted in isolation but were frequently introduced in tandem. 
+
+Another contribution comes from our firm-level analysis, which allows us to examine the impact of policy packages on firms’ ability to meet pre-pandemic expenses with bank financing and to ascertain whether packages were more likely to support unviable firms. 
+
+## **III. Data** 
+
+We assemble and use three main datasets. We obtain bank balance sheet and income statement data at a quarterly frequency from S&P Capital IQ Pro. The bank-level dataset includes roughly 1,500 banks operating in 49 countries: 18 advanced economies (AEs) and 31 emerging market and developing countries (EMDEs).[8] The main variable of interest from this dataset is net customer loans. Figure 1 shows the distribution of quarterly growth of net customer loans across countries for Q4 2019–Q1 2021. There is a marked decline in quarterly loan growth across all countries at the start of the pandemic, followed by a steady recovery. 
+
+> 8 The following countries are included in our sample. AEs: Austria, Canada, Czech Republic, Denmark, Estonia, Finland, France, Israel, Italy, Japan, South Korea, Latvia, Norway, Portugal, Spain, Sweden, United Kingdom, United States; and EMDEs: Argentina, Brazil, Chile, Colombia, Costa Rica, El Salvador, Ghana, India, Indonesia, Kuwait, Kyrgyzstan, Malaysia, Mauritius, Mexico, Morocco, Nepal, Nigeria, Oman, Pakistan, Panama, Philippines, Poland, Qatar, Russia, Saudi Arabia, Sri Lanka, Thailand, Turkey, Ukraine, United Arab Emirates, Vietnam. The countries that are not included (for example, Germany or Spain) are those for which S&P does not have quarterly bank-level financial statements. 
+
+
+[FIGURE id=vol7_iss3_3_f1 type=figure label="Figure 1" file=figure_1.png caption="Credit Growth, Q4 2019–Q1 2021"]
+### **Figure 1: Credit Growth, Q4 2019–Q1 2021**
+
+Notes: This figure shows the distribution of quarterly growth in net customer loans at the country level for our sample of 49 countries. For countries included in the sample, data are available for at least five banks covering either 60% of assets reported in annual data or $100 billion in assets. Loan growth for each country-quarter is an average of growth at the bank level winsorized at the fifth and 95th percentiles within the quarter. Percentiles may represent different countries in different quarters. IQR is the interquartile range. 
+
+_Sources: S&P Capital IQ Pro; authors’ estimates._ 
+
+Figure 2 compares the level of lending during 2020 to pre-pandemic levels (indexed to the last quarter of 2019). The figure shows a significant decline in lending during Q1 2020 for countries in the bottom quartile of the sample, a very small drop for the median country, and practically no change for countries in the top quartile of the sample. For countries above the median of the distribution, lending recovered quickly and exceeded pre-pandemic levels, while for countries below the 25th percentile, credit had barely recovered to precrisis levels even by the end of 2020. This suggests significant heterogeneity across countries and banks in terms of lending behavior and potentially their response to policies. The goal of this paper is to evaluate whether how policies were combined played a role in explaining the variation in credit across countries, banks, and over time. 
+
+
+[FIGURE id=vol7_iss3_3_f2 type=chart label="Figure 2" file=figure_2.png caption="Credit Index to Pre-COVID-19 Levels , Q4 2019–Q1 2021"]
+### **Figure 2: Credit Index to Pre-COVID-19 Levels , Q4 2019–Q1 2021**
+
+Notes: This figure shows the distribution of net customer loans indexed to Q4 2019 (pre-COVID-19) at the country level using the same sample as in Figure 1. Indexed loan levels for each country-quarter are averages of bank-level data winsorized at the fifth and 95th percentiles within the quarter. Percentiles may represent different countries in different quarters. 
+
+_Sources: S&P Capital IQ Pro; authors’ estimates._ 
+
+To understand the role of policies in explaining developments in bank credit, we use a new comprehensive announcement-level panel dataset tracking fiscal, monetary, and prudential policy responses to COVID-19 at a daily frequency and granular level. The database provides detailed information for 27 granular policies (including information on their sizes where available), adopted by 74 countries during 2020 (Kirti et al. 2023). It is built starting from the International Monetary Fund’s (IMF’s) Policy Tracker—which draws on the institution’s regular global surveillance activities and provides an account and summary of the main policies that countries adopted in response to COVID-19—and combined with information from several additional sources including other existing trackers, government websites, news reports, and various reports from government agencies and the private sector. Overall, merging information and cross-checking facts from a series of alternative sources helps to provide a more comprehensive and accurate description of the policy announcements in response to COVID-19. In the analysis that follows, the focus is on the 49 countries for which we have quarterly bank-level data as well as information on the policies adopted in response to COVID-19. 
+
+The policies are categorized into three broad groups: fiscal, monetary, and prudential. Fiscal policies include direct support to households and firms (for example, grants, tax relief, tax deferral, and equity participation) as well as public guarantees and loans. We also include moratoria provided by the government. Monetary policies encompass both conventional (changes in interest rates and reserve requirements) and unconventional measures (asset purchases) along with lending operations. Prudential policies refer to measures targeted at relaxing capital constraints of banks (for example, macroprudential buffers), and noncapital 
+
+
+measures such as those related to liquidity, lending standards, and supervisory expectations. Overall, we consider 27 policy measures: seven fiscal, nine monetary, and 11 prudential.[9] 
+
+Figure 3 shows the frequency of different combinations of policies announced by the 49 countries in our data during 2020. A key stylized fact in the data is that announcements were highly correlated across the three groups of policies: fiscal, monetary, and prudential. About 90% and 70% of countries used all three policies simultaneously in the first and second quarters, respectively.[10] In later quarters, we find more variation, with only about 25% of countries using all three types of policies in the fourth quarter of 2020. 
+
+[FIGURE id=vol7_iss3_3_f3 type=figure label="Figure 3" file=figure_3.png caption="Policy Package Distribution , Q1 2020–Q4 2020"]
+### **Figure 3: Policy Package Distribution , Q1 2020–Q4 2020**
+
+Notes: This figure shows how country policy announcements were distributed into packages comprising fiscal, monetary, and prudential policies at a quarterly frequency throughout 2020. 
+
+_Sources: Kirti et al. (2023); authors’ estimates._ 
+
+To assess whether large policies were more effective, we construct dummies for large policy announcements for policy types where we have consistent information on sizes.[11] Figure 4 illustrates the distributions of sizes for these policies and the threshold we use to delineate large policies. For both fiscal policy (above the line measures, and loans and contingent liabilities) and monetary policy (asset purchases and rate cuts) measures, we define large policies as those with sizes above the 90th percentile of announced measures observed in 
+
+> 9 Figure 15 in Kirti et al. (2025) defines each policy used, drawing on Kirti et al. (2023). Relative to Kirti et al. (2023), we separate credit facilities and market liquidity measures, and do not include measures related to nonbank financial institutions or market-based measures. 
+
+> 10 The strong correlation of announcements across policies was also present at higher frequencies: packages spanning more than one policy category represented the majority of announcements in the weeks of March and April 2020; see Figure 16 in the Kirti et al. (2025). 
+
+> 11 For some types of policies—particularly prudential policies—it is challenging to assign sizes. Restrictions on dividend payments, for example, are difficult to quantify in terms of size. In these cases, we include robustness using the count of prudential policies as a proxy for sizes. 
+
+
+our data at the country-quarter level.[12] Sizes for fiscal policies and unconventional monetary policy are measured relative to 2019 GDP. For conventional monetary policy, we focus on the size of policy rate changes relative to the level of rates at the end of 2019.[13] 
+
+[FIGURE id=vol7_iss3_3_f4 type=chart label="Figure 4" file=figure_4.png caption="Size Distribution of Policies and Thresholds for Large Policies as a Percent of 2019 GDP"]
+### **Figure 4: Size Distribution of Policies and Thresholds for Large Policies as a Percent of 2019 GDP**
+
+Notes: This figure shows the distribution of policies for which sizes are available and indicates the top 10th percentile threshold that we use as a cutoff to define large policies. While sizes for fiscal policy measures, credit guarantees, and asset purchase programs are measured relative to 2019 GDP, cuts in monetary policy interest rate are measured as a fraction of their level at the end of 2019. We cumulate sizes within policy to the countryquarter level before identifying large policies. 
+
+_Sources: Kirti et al. (2023); authors’ estimates._ 
+
+To analyze the impact of policy combinations on firm financing, we obtain quarterly firmlevel data for about 6,200 firms operating in 39 countries (16 advanced and 23 emerging and developing countries) from S&P Capital IQ.[14] Importantly, in addition to standard balance sheet variables like assets and debt and income statement variables like revenues, expenses, and net income, we also observe the quantity of debt from banks. 
+
+> 12 In robustness tests, we vary the cutoff we use to define large policies. 
+
+> 13 We treat one rate cut smaller than 50 basis points that would be classified as large relative to the level at the end of 2019 as small. 
+
+> 14 Relative to the bank-level estimations, there are 10 fewer countries because quarterly-level firm financial statements are not available or the coverage of firms is very limited. 
+
+
+## **IV. Empirical Methodology** 
+
+## **Bank-Level Analysis** 
+
+As we observed in Figure 3, countries tended to introduce different policies simultaneously. Stand-alone policy announcements are rarely observed in the data. This makes it challenging to isolate the impact of specific policies on outcomes, and more appropriate to analyze the effect of combinations or packages. To examine the association between combinations of policy measures and credit at the bank level, we begin by estimating Equation (1): 
+
+∆ln(L)b,c,q = αPc,q−1 + δCountry controls c,q + γXb,q+ βb + εb,c,q (1) 
+
+Where ∆ln(𝐿)𝑏,𝑐,𝑞 is the quarter-on-quarter log change in lending by bank b in country 𝑐 during quarter 𝑞. 𝑃𝑐,𝑞−1 is a vector of policy packages, lagged by a quarter. We term a combination of policies observed in the data as a “policy package.” Policy packages might include only fiscal, only monetary, or only prudential policies or a combination of two or three policy types. Each policy package is defined by a matrix of dummies equal to one for countries and periods where that package is announced. Using information where sizes are available, we also estimate a variant of Equation (1) to separately assess the effect of packages with large policies across all types relative to packages with only one large type of policy or small policies or packages in which not all types of policies are implemented. 
+
+𝐶𝑜𝑢𝑛𝑡𝑟𝑦 𝑐𝑜𝑛𝑡𝑟𝑜𝑙𝑠𝑐,𝑞 includes indicators of health-related developments (measured by the prevalence of COVID-19 cases), financial stress (captured by sovereign bond spreads), the intensity of the economic shock (measured by quarterly revisions in IMF forecasts of GDP growth for the duration of the crisis), and measures of de facto mobility (based on data from Google).[15] 𝛽𝑏 represents bank-level fixed effects, and 𝑋𝑏,𝑞 are lagged bank-level characteristics that can affect bank lending (for example, bank size, capitalization, asset and liability composition).[16] As we work with short time series, we cluster standard errors by country. 
+
+15 Data for COVID-19 cases by country is from Our World in Data. Our measure of financial stress relies on spreads of sovereign bond yields to US Treasuries, using the level of yields for the US, and yields on regional JPMorgan bond indices where country-specific yields are not available. Data on individual bond yields is from Bloomberg. Within each quarter, we calculate an average of the absolute and percent change in the yield spread from the start of the quarter to the peak. To measure the (expected) intensity of economic shock, we calculate the quarterly change in the forecasted sum of GDP in 2020 and 2021 relative to 2019, relying on confidential IMF forecasts. The measure of mobility is an average of the percent change in transit and workplace mobility indexes from Google. 
+
+16 The inclusion of bank-fixed effects also helps control for time-invariant or sticky country characteristics because bank fixed effects absorb country fixed effects in our sample. Equation (1) does not include time fixed effects because as shown in Figures 1-2, credit recovered for most countries in Q2, following the widespread adoption of packages combining all three types of policies (Figure 3), suggesting that a quarter fixed effect would completely absorb this effect. In other words, the synchronized nature of the pandemic and the policy response makes it difficult to identify quarter effects separately from the effect of policies. 
+
+
+Notably, our empirical methodology incorporates the following features: (a) specifications are estimated at the bank level while policies are adopted at the country-time level; (b) policy combinations are lagged; and (c) bank fixed effects and extensive country-time varying controls are included. Lagging the policy packages helps mitigate potential concerns about reverse causality. Moreover, if countries introduced policy packages in anticipation of poor subsequent outcomes, this would bias against finding a positive effect of policy packages in the subsequent quarter. As COVID-19 was a global shock that presented countries with highly multidimensional policy choices, alternative approaches such as reliance on other countries’ choices as proxies (including Bartik-like strategies) or attempts to construct “synthetic control” countries are difficult to justify and implement. Similarly, using the differential exposure to (or intensity of) the pandemic would not help identify the impact of policy packages, because the choice of package was likely driven not only by the pandemic but also by the space countries had for policies, and this varied significantly across countries. Moreover, space for policies to respond to the pandemic is unfortunately difficult to measure across the combinations of policies we consider. However, accounting for potential differences across countries in policy space would not change the sign of the bias: countries with space would still have chosen to use it only if they expected poor subsequent outcomes. 
+
+We also examine differences in effectiveness of policy packages across banks with different characteristics (𝜔𝑏) by estimating Equation (2). Equation (2) allows us to include country x quarter fixed effects (𝜃𝑐,𝑞) to capture the impact of policies and macro variables as in (1), as well as to account for any potentially omitted country-time level variables that could influence both the policy response and the lending behavior of banks. 
+
+∆ln(L)b,c,q = λPc,q−1 × ωb + ϕCountry controlsc,q × ωb +  θc,q + πb + μXb,q + νb,c,q (2) 
+
+In estimating Equation (2), we examine the differential response to policies for banks with high and low equity (based on whether banks’ equity-to-asset ratios were above or below within-country median levels before the pandemic). Less-well-capitalized banks are relatively more constrained in their ability to lend, so we would expect policies that support banks’ ability to lend to have a larger impact on banks with lower levels of equity. Including 𝐶𝑜𝑢𝑛𝑡𝑟𝑦 𝑐𝑜𝑛𝑡𝑟𝑜𝑙𝑠𝑐,𝑞 × 𝜔𝑏 allows for the possibility that the effect of country controls on bank lending can also vary depending on banks’ equity levels. 𝜋𝑏 denotes bank fixed effects. 
+
+## **Firm-Level Analysis** 
+
+Next, we conduct firm-level estimations to examine the extent to which policy packages helped firms stay afloat (and pay for their expenses) via a higher level of bank borrowing during the pandemic, reflecting the broad objective of economic and financial policies early in the crisis. In particular, we employ firm-level data to examine the association between 𝐷 combinations of policy measures and , the quarter-on-quarter change in bank ∆(𝐶𝑜𝑠𝑡𝑠2019 ~~)~~ 𝑓,𝑐,𝑞 debt for firm 𝑓 in country 𝑐 during quarter 𝑞, as a fraction of the firm’s pre-pandemic expenses, measured in 2019, in months. Expenses are calculated as total revenue minus net 𝐷 income of the firm. essentially captures the extent to which firms possessed ∆(𝐶𝑜𝑠𝑡𝑠2019) 𝑓,𝑐,𝑞 
+
+
+sufficient liquidity in the form of bank loans to cover their expenses during the pandemic, even if their expenses remained unchanged at pre-pandemic levels. 
+
+We examine differences in effectiveness of policy packages across bank-dependent firms (𝜔𝑓) by estimating Equation (3): 
+
+
+
+
+Bank-dependent firm (𝜔𝑓) is defined by an indicator that takes the value of 1 if the firm is in the top quartile of the fraction of bank debt to total debt within country before the pandemic. 𝑃𝑐,𝑞−1 is the vector of policy packages, lagged by a quarter, defined as before. 𝜌 captures the relative effectiveness for bank-dependent firms of policy package 𝑃 in terms of the number of months the firm could survive with the additional liquidity provided by the policy package, if its expenses remained at pre-pandemic levels. The regressions include countryquarter (𝜏𝑐,𝑞), firm fixed effects (ψ𝑓), and time-varying firm-level controls (𝑍𝑓,𝑞). 
+
+Finally, the firm-level analysis also allows us to trace differential effects of policy packages depending on firm quality. In particular, we ask whether policy packages _misallocated_ resources to ex ante low-quality firms. We estimate Equation (4) to answer this question: 
+
+
+
+
+Where 𝑞𝑓 is defined by an indicator that takes the value of 1 if the firm is of low quality preCOVID-19. Low quality is defined by the bottom quartile within country, based on four proxies measured by averages over 2017–19. The four proxies include: interest coverage ratio, return on assets, book equity scaled by assets, and a distance to insolvency measure (Checo and Chen 2022). 𝜅 captures the relative effectiveness of policy package 𝑃 for lowquality bank-dependent firms compared with that for high-quality firms. 𝜉𝑐,𝑞 are countryquarter fixed effects, and 𝜛𝑓 are firm fixed effects. 
+
+## **V. Results** 
+
+## **Bank-Level Results** 
+
+Figure 5 shows the results from estimating Equation (1). We begin by assessing the impact of packages defined by broad policy categories: fiscal, monetary, and prudential, without accounting for the size of policies. The dependent variable is the quarterly growth in bank credit. The explanatory variables include dummies for all packages (or combination of types of policies) observed in the data—fiscal only; fiscal, monetary, and no prudential; fiscal, prudential, and no monetary; and fiscal, monetary, and prudential (which we also refer to as the “all-three” package). The omitted category consists of packages with no fiscal policies (those where monetary and/or prudential policies were adopted), covering only about 5% of country-quarters, and country-quarters with no policies, covering an additional 4% of the 
+
+
+sample. We do not explicitly study packages that we observe in very few instances (specifically packages without fiscal policy, for example in Japan, Mexico, and Costa Rica in Q3 2020; covering only 10 of the country-quarters) and include these in the omitted category. In the Robustness section that follows, we discuss specifications where the omitted category is restricted only to country-quarters with no policies. 
+
+All specifications include bank fixed effects. Column 1 controls for bank characteristics that could affect loan growth: bank size (measured by the log of assets), deposit-to-liability ratios, equity-to-asset ratios, and net customer loan–to-asset ratios. Column 2 adds health (standard deviations of log change in COVID-19 cases per thousand) and mobility (de facto measures from Google) as controls. Column 3 also includes measures of economic and financial stress constructed based on revisions in IMF forecasts and sovereign spreads, respectively. Summary statistics for the controls are included in Figure 17 in Kirti et al. (2025). 
+
+
+[FIGURE id=vol7_iss3_3_f5 type=figure label="Figure 5" file=figure_5.png caption="Policy Packages and Bank Credit , Q1 2020–Q1 2021"]
+### **Figure 5: Policy Packages and Bank Credit , Q1 2020–Q1 2021**
+
+||Log ChangeinCredit (bps)|
+|---|---|
+||(1)<br>(2)<br>(3)|
+|Fiscal Only<br>Fiscal & Monetary Only<br>Fiscal & Prudential Only<br>Fiscal & Monetary &<br>Prudential|423.7***<br>(125.5)<br>403.3**<br>(172.8)<br>212.1<br>(224.0)<br>317.8<br>(212.6)<br>271.1<br>(257.0)<br>137.2<br>(289.7)<br>555.0***<br>(114.8)<br>496.8***<br>(152.3)<br>335.7<br>(239.1)<br>487.8***<br>(84.7)<br>417.5***<br>(140.9)<br>299.3<br>(185.5)|
+|Bank FEs<br>Bank Controls<br>Health Controls<br>De Facto Mobility Controls<br>Macro Controls<br>Financial Stress Controls<br>R2<br>Bank-Quarters<br>Banks<br>Countries|Y<br>Y<br>Y<br>Y<br>Y<br>Y<br>N<br>Y<br>Y<br>N<br>Y<br>Y<br>N<br>N<br>Y<br>N<br>N<br>Y<br>0.45<br>0.45<br>0.46<br>7,480<br>7,480<br>7,480<br>1,496<br>1,496<br>1,496<br>49<br>49<br>49|
+
+
+
+Notes: This table shows regressions at the bank-quarter level where the dependent variable is the log change in net customer loans in basis points (quarter-over-quarter log change x 10,000), winsorized at the fifth and 95th percentiles by quarter. Regressions use data for Q1 2020—Q1 2021 for a sample of 49 countries for which data are available for at least five banks covering either 60% of assets reported in annual data or $100 billion in assets and control variables are available. The main independent variables are lagged dummies identifying combinations of policies into mutually exclusive packages (fiscal policy announcements without announcements of monetary or prudential policies, fiscal and monetary policy announcements without announcements of prudential policies, fiscal and prudential policy announcements without announcements of monetary policies, and announcements of all three types of policies together). The omitted category of policy packages includes cases of no policy interventions along with cases where either monetary or prudential policies were adopted independently or jointly. The omitted category captures 9% of the policy packages in the sample. All specifications include the following lagged bank characteristic as controls: log of assets, deposit-toliability ratio, equity-to-asset ratio, and net customer loan–to-asset ratio, winsorized at the fifth and 95th percentiles by quarter. The second column also controls for cumulative COVID-19 cases per million and mobility (using an average of workplace and public transit indices from Google). The third column also controls for quarterly revisions in IMF GDP forecasts and a sovereign spread–based proxy for financial stress. All specifications include bank fixed effects (FEs). Standard errors clustered by country are shown in parentheses. The symbols *, **, and *** denote statistical significance at the 10%, 5%, and 1% level, respectively. 
+
+_Sources: Bloomberg; Google; IMF; Kirti et al. (2023); S&P Capital IQ Pro; Our World in Data; authors’ estimates._ 
+
+We find that announcements of packages that included fiscal, monetary, and prudential policies had a positive impact on bank lending (Figure 5). The degree of statistical significance for the estimated coefficient on the all-three package, however, is reduced when we include economic and financial controls. Based on Column 3, in the quarter following announcements of these policies, loan growth was approximately 300 bps higher per quarter, but the effect is statistically indistinguishable from zero. 
+
+
+[FIGURE id=vol7_iss3_3_f6 type=figure label="Figure 6" file=figure_6.png caption="Size of Policy Packages and Bank Credit, Q1 2020–Q1 2021"]
+### **Figure 6: Size of Policy Packages and Bank Credit, Q1 2020–Q1 2021**
+
+||Log ChangeinCredit (bps)|
+|---|---|
+||(1)<br>(2)<br>(3)|
+|Fiscal Only–Other<br>Fiscal & Monetary Only–Other<br>Fiscal & Prudential Only–<br>Other<br>Fiscal & Monetary &<br>Prudential–Other<br>Fiscal & Monetary &<br>Prudential–Large|<br> <br> <br>339.8***<br>(122.1)<br>339.6*<br>(180.0)<br>28.3<br>(173.7)<br>280.5<br>(205.3)<br>270.2<br>(266.6)<br>24.3<br>(247.5)<br>487.1***<br>(110.2)<br>474.2***<br>(169.2)<br>160.7<br>(181.2)<br>371.0***<br>(105.5)<br>355.1**<br>(169.6)<br>121.2<br>(161.4)<br>888.0***<br>(125.8)<br>865.2***<br>(225.5)<br>724.2***<br>(226.5)|
+|<br>Bank FEs<br>Bank Controls<br>Health Controls<br>De Facto Mobility Controls<br>Macro Controls<br>Financial Stress Controls<br>R2<br>Bank-Quarters<br>Banks<br>Countries|Y<br>Y<br>Y<br>Y<br>Y<br>Y<br>N<br>Y<br>Y<br>N<br>Y<br>Y<br>N<br>N<br>Y<br>N<br>N<br>Y<br>0.49<br>0.49<br>0.51<br>7,480<br>7,480<br>7,480<br>1,496<br>1,496<br>1,496<br>49<br>49<br>49|
+
+
+
+Notes: This table shows regressions at the bank-quarter level where the main independent variables are lagged dummies for mutually exclusive packages where each package is separated into packages that do contain at least one large element on all dimensions where sizes can be measured well (that is, fiscal and monetary policies) and those that do not. Large elements of packages are defined as those in the top decile. Packages that are not included in the estimations as regressors (for example, packages with large fiscal policies only, those with large fiscal and monetary only, and those with large fiscal and prudential only) are not observed among the combinations adopted by countries in our sample. The omitted category includes packages with no policy interventions along with cases with no fiscal policies (where either monetary or prudential policies are adopted independently or jointly). The omitted category captures 9% of the policy packages in the sample. All specifications include the following lagged bank characteristic as controls: log of assets, deposit-to-liability ratio, equity-to-asset ratio, and net customer loan–to-asset ratio, winsorized at the fifth and 95th percentiles by quarter. The second column also controls for cumulative COVID-19 cases per million and mobility (using an average of workplace and public transit indices from Google). The third column adds controls for quarterly revisions in IMF GDP forecasts and a sovereign spread–based proxy for financial stress. All specifications include bank fixed effects (FEs). Standard errors clustered by country are shown in parentheses. The symbols *, **, and *** denote statistical significance at the 10%, 5%, and 1% level, respectively. 
+
+_Sources: Bloomberg; Google; IMF; Kirti et al. (2023); S&P Capital IQ Pro; Our World in Data; authors’ estimates._ 
+
+In Figure 6, we examine nonlinearities in the effectiveness of packages in enhancing bank credit, based on whether the packages were large in size (a large package is defined as one where _at least_ one granular policy within each subgroup of fiscal and monetary policies is 
+
+
+large). As discussed in Section III, in the baseline, a granular policy is defined as large if its size lies in the top decile in the sample.[17] 
+
+We find that large-size packages with combinations of all three measures—fiscal, monetary, and prudential—were effective in enhancing bank credit. Based on Column 3, the estimated magnitude on all-three-large, or the “all-out” package, is statistically significant at the 1% level. Loan growth was about 700 bps higher in the quarter following announcements of a large package that included fiscal, monetary, and prudential policies. To put the result in context, note that in 2019, average quarterly loan growth in our sample was 200 bps per quarter, with a standard deviation of 400 bps. The “all-out” policy package, therefore, lifted loan growth by more than their pre-pandemic average and standard deviation. 
+
+[FIGURE id=vol7_iss3_3_f7 type=figure label="Figure 7" file=figure_7.png caption="Size Difference in Effects between “All-Out” Packages and Other Packages, Q1 2020–Q1 2021"]
+### **Figure 7: Size Difference in Effects between “All-Out” Packages and Other Packages, Q1 2020–Q1 2021**
+
+Notes: This figure shows the estimated difference between the effect of credit growth from the final package in the third column of Figure 6 (the “all-out” package) relative to all other packages included in the specification. 
+
+_Sources: Kirti et al. 2023; S&P Capital IQ Pro; authors’ estimates._ 
+
+Was the “all-three-large” package _more_ effective than other packages? To answer this question, Figure 7 reports results from statistical tests of differences between the “all-out” and other packages.[18] It turns out that the “all-out” package is indeed statistically different from all the other packages; the differences are economically significant too. For example, 
+
+> 17 Size is defined as a percent of GDP wherever applicable. Large interest rate changes are calculated by taking the top quartile of changes relative to the initial level for the country. Though information on the size of prudential policies is not available, the number of policies is used as a proxy in some estimations (see Figure 18 in Kirti et al. (2025)). 
+
+> 18 We obtain similar results from estimations that do not include any controls. See Figure 19 in Kirti et al. (2025). In unreported results, we also explore and find no statistically distinguishable differences in the effects for advanced economies and developing countries. 
+
+
+the “all-out” package is associated with 600-bp higher loan growth than small packages— when neither monetary or fiscal was large, or when only one of them was of large size. 
+
+Figure 8 further unpacks the “Fiscal & Monetary & Prudential–Other” category in Figure 6 into two more granular buckets: first, where either fiscal or monetary was large in size (“Fiscal & Monetary & Prudential–Fiscal or Monetary Large”), and second, where neither was large (Fiscal & Monetary & Prudential–Other”). Here, we can isolate the impact of small packages, where neither policy is of large size. We find small-size packages to have had a statistically insignificant effect in raising credit, while packages where either monetary or fiscal was large to be relatively more effective, though the effect was only one-third that of the “all-out” package. Importantly, the “all-out” package continued to be most effective— both statistically and economically—in raising bank credit. 
+
+
+[FIGURE id=vol7_iss3_3_f8 type=figure label="Figure 8" file=figure_8.png caption="Size and Scope of Policy Packages and Bank Credit, Q1 2020–Q1 2021"]
+### **Figure 8: Size and Scope of Policy Packages and Bank Credit, Q1 2020–Q1 2021**
+
+||(1)|(2)|(3)|
+|---|---|---|---|
+|Fiscal Only–Other|340.7***|342.9*|30.6|
+||(121.4)|(179.3)|(172.1)|
+|Fiscal & Monetary Only–Other|280.1|272.0|24.0|
+||(206.1)|(267.3)|(247.2)|
+|Fiscal & Prudential Only–|497.4***|487.2***|171.1|
+|Other|(108.4)|(169.7)|(181.2)|
+|Fiscal & Monetary &|361.6***|348.4**|111.8|
+|Prudential–Other|(108.0)|(170.3)|(160.2)|
+|Fiscal & Monetary &|517.8***|505.2***|277.0|
+|Prudential–Fiscal or Monetary|(83.1)|(170.3)|(176.0)|
+|Large||||
+|Fiscal & Monetary &|884.8***|864.9***|723.0***|
+|Prudential–Fiscal & Monetary|(125.7)|(224.9)|(225.6)|
+|Large||||
+|Bank FEs|Y|Y|Y|
+|Bank Controls|Y|Y|Y|
+|Health Controls|N|Y|Y|
+|De Facto Mobility Controls|N|Y|Y|
+|Macro Controls|N|N|Y|
+|Financial Stress Controls|N|N|Y|
+|R2|0.49|0.49|0.52|
+|Bank- Quarters|7,480|7,480|7,480|
+|Banks|1,496|1,496|1,496|
+|Countries|49|49|49|
+
+
+
+Notes: This table shows regressions at the bank-quarter level where the main independent variables are lagged dummies for mutually exclusive packages of policies where each package is separated into packages that contain at least one large element on all dimensions where sizes can be measured well (that is, fiscal and monetary policies), packages that contain one large element on only one dimension, and packages with no large elements. Packages that are not included in the estimations as regressors (for example, packages with large fiscal policies only, those with large fiscal and monetary only, and those with large fiscal and prudential only) are not observed among the combinations adopted by countries in our sample. The omitted category includes packages with no policy interventions along with cases with no fiscal policy (where either monetary or prudential policies were adopted independently or jointly). All specifications include the following lagged bank characteristic as controls: log of assets, deposit-to-liability ratio, equity-to-asset ratio, and net customer loan– to-asset ratio, winsorized at the fifth and 95th percentiles by quarter. The second column also controls for cumulative COVID-19 cases per million and mobility (using an average of workplace and public transit indices from Google). The third column adds controls for quarterly revisions in IMF GDP forecasts and a sovereign spread–based proxy for financial stress. All specifications include bank fixed effects. Standard errors clustered by country are shown in parentheses. The symbols *, **, and *** denote statistical significance at the 10%, 5%, and 1% level, respectively. 
+
+_Sources: Bloomberg; Google; IMF; Kirti et al. (2023); S&P Capital IQ Pro; Our World in Data; authors’ estimates._ 
+
+While Figures 6 and 8 establish the importance of the “all-out” packages in enhancing credit, they do not isolate the effects of several other large packages (for example, a package with only large-size fiscal policies), which are rarely observed in the data. Figure 9 relaxes the definition of a “large” package, and considers it large if its size lies in the top quartile, tercile, 
+
+
+and median in the sample (columns 2, 3, and 4 respectively), rather than using the decile as the cutoff as in Figures 6 and 8. This allows us to distinguish the effects of the ”all-out” package from other combinations of large-size policies.[19] The findings suggest that the combination of large monetary policies and large fiscal relaxations with prudential measures was the most successful package in boosting credit by banks. Loan growth was at least 450 bps higher in the quarter following announcements of a large package that included large changes in monetary policies combined with large fiscal and prudential policies. The estimated effectiveness of the “all-out” package in enhancing credit is statistically and economically higher than the effect of other large packages (that is, four times the effect of a large fiscal-only package).[20] Overall, the results further support our main finding that countries that introduced “all-out” packages—both in terms of breadth and intensity of policies—saw the biggest increases in credit growth following the COVID-19 shock. 
+
+> 19 Figure 20 in Kirti et al. (2025) reports the number of country-quarters in each of the granular buckets for different thresholds used in defining a large-size package. 
+
+> 20 Figure 21 in Kirti et al. (2025) reports results from tests of statistical differences between “all-out” and other packages. 
+
+
+[FIGURE id=vol7_iss3_3_f9 type=figure label="Figure 9" file=figure_9.png caption="Size of Policy Packages (Varying Definitions across Columns) and Bank Credit, Q1 2020–Q1 2021"]
+### **Figure 9: Size of Policy Packages (Varying Definitions across Columns) and Bank Credit, Q1 2020–Q1 2021**
+
+||Decile|Quartile|Tercile|Median|
+|---|---|---|---|---|
+||(1)|(2)|(3)|(4)|
+|Fiscal Only–Other|28.3|70.7|86.1|186.2|
+||(173.7)|(174.0)|(178.3)|(211.4)|
+|Fiscal Only–Large||–139.1|48.6|211.1|
+|||(179.3)|(202.7)|(226.8)|
+|Fiscal & Monetary Only–Other|24.3|43.1|67.7|123.0|
+||(247.5)|(252.6)|(269.9)|(316.3)|
+|Fiscal & Monetary Only–Large|||39.8|257.7|
+||||(157.3)|(249.2)|
+|Fiscal & Prudential Only–|160.7|214.6|266.0|338.1|
+|Other|(181.2)|(191.1)|(194.0)|(250.0)|
+|Fiscal & Prudential Only–||61.9|140.7|375.3|
+|Large||(383.3)|(304.9)|(267.2)|
+|Fiscal & Monetary &|121.2|121.6|130.2|210.3|
+|Prudential–Other|(161.4)|(160.5)|(162.4)|(173.4)|
+|Fiscal & Monetary &|724.2***|696.4***|667.0***|444.6**|
+|Prudential–Fiscal & Monetary|(226.5)|(229.3)|(233.8)|(219.7)|
+|Large|||||
+|Bank FEs|Y|Y|Y|Y|
+|Bank Controls|Y|Y|Y|Y|
+|Health Controls|Y|Y|Y|Y|
+|De Facto Mobility Controls|Y|Y|Y|Y|
+|Macro Controls|Y|Y|Y|Y|
+|Financial Stress Controls|Y|Y|Y|Y|
+|R2|0.51|0.51|0.51|0.48|
+|Bank Quarters|7,480|7,480|7,480|7,480|
+|Banks|1,496|1,496|1,496|1,496|
+|Countries|49|49|49|49|
+
+
+
+Notes: This table shows regressions at the bank-quarter level where the main independent variables are dummies for mutually exclusive packages of policies separated into packages that contain at least one large element on all dimensions where sizes can be measured well (that is, fiscal and monetary policies) and those that do not. Large elements of packages are those respectively in the top decile, quartile, tercile, or half of the distribution in columns 1–4. Packages that are not included in the estimations as regressors (for example, packages with large fiscal policies only, those with large fiscal and monetary only, and those with large fiscal and prudential only) are not observed among the combinations adopted by countries in our sample. The omitted category includes packages with no policy interventions along with cases with no fiscal policy (where either monetary or prudential policies were adopted independently or jointly). All specifications include the following lagged bank characteristic as controls: log of assets, deposit-to-liability ratio, equity-to-asset ratio, and net customer loan–to-asset ratio, winsorized at the fifth and 95th percentiles by quarter. Moreover, controls for cumulative COVID-19 cases per million, mobility (using an average of workplace and public transit indices from Google), quarterly revisions in IMF GDP forecasts, and a sovereign spread–based proxy for financial stress, along with bank fixed effects (FEs), are also included. Standard errors clustered by country are shown in parentheses. The symbols *, **, and *** denote statistical significance at the 10%, 5%, and 1% level, respectively. 
+
+_Sources: Bloomberg; Google; IMF; Kirti et al. (2023); S&P Capital IQ Pro; Our World in Data; authors’ estimates._ 
+
+
+The next natural question to ask is which granular policy measures were more prevalent in “all-out” packages. We find that the all-three-large combinations were mostly unique; for example, among all 39 country-quarters with above median size of large fiscal and monetary policies, each granular combination of 27 policies occurred only once. That said, we do find that some granular policies were used more frequently than others (Figure 10). For example, grants were the most common fiscal measure, used in _all_ successful packages, compared with only 60% of the time in other packages. In contrast, equity injections were the least prevalent. Within monetary policies, credit facilities, asset purchases, and policy rates were frequently used, whereas foreign exchange interventions and reserve requirements were less common. Finally, among prudential policies, relaxation of capital requirements, supervisory expectations, and reporting requirements were pervasive, whereas changes to guidance on underwriting were used less. Importantly, each of the 27 granular policy tools was more prevalent in successful packages, compared to their frequency in other packages (Figure 10), confirming our main finding of the effectiveness of “all-out” combinations at the most granular level. 
+
+
+[FIGURE id=vol7_iss3_3_f10 type=figure label="Figure 10" file=figure_10.png caption="Granular Composition of Large and Other Packages, Q1 2020–Q4 2020"]
+### **Figure 10: Granular Composition of Large and Other Packages, Q1 2020–Q4 2020**
+
+Panel A: Fiscal Policies 
+
+Panel B: Monetary Policies 
+
+Panel C: Prudential Policies 
+
+Notes: This figure shows the prevalence of the individual granular policies across policy packages separated into two groups: (a) large packages with components with above median sizes (as in column 4 of Figure 9) that contained at least one large element on all dimensions where sizes can be measured well (that is, fiscal and monetary policies) including all three types of policies and (b) all other packages. Reserve requirements (LCU) apply to local currency liabilities. Reserve requirements (FX) apply to liabilities in other currencies. 
+
+_Source: Kirti et al. (2023)._ 
+
+## **Robustness** 
+
+The baseline results presented in Figures 6–9 are robust to (a) dropping country-bankquarters with packages that do not contain any fiscal policies (Figure 22), (b) adding lagged credit growth as an explanatory variable to control for base effects (Figure 23), (c) using an alternative definition of large monetary policies (Figure 24), (d) including large prudential policies using counts to define “large” (Figure 18), (e) using fewer controls than those 
+
+
+included in the baseline Figure 6 (Figure 25), and (f) controlling for forecast dispersion as a measure of uncertainty (unreported results). 
+
+We report robustness results in Kirti et al. (2025). Specifically, Figure 22 shows that when the same policy packages as those in Figure 6 are compared to a counterfactual of no policies (instead of including the infrequently employed policy combinations not shown in Figure 6 in the counterfactual), the main finding that large packages, combining fiscal, monetary, and prudential policies, were the most significant in driving bank loan growth remains. Similarly, Figure 23 confirms that our results survive once we control for base effects related to past credit growth. In Figure 24, instead of defining large monetary policy actions relative to their 2019 levels, we present results considering the absolute change in interest rates and confirm that our main finding prevails. Because it is difficult to measure the size of prudential policies, in Figure 18, we consider as a proxy the number of prudential policy actions. Our main results do not change in this case either. Neither do they change if we include fewer controls as in Figure 25. 
+
+## **Bank Heterogeneity** 
+
+The impact of policies adopted in response to COVID-19 on bank lending could vary depending on bank characteristics. In particular, low capitalization could constrain banks’ ability to lend and hence could affect their response to policies. We explore bank heterogeneity by estimating Equation (2). The inclusion of bank- and country-quarter fixed effects also allows us to better isolate the impact of policies on bank lending. Moreover, country-quarter fixed effects enable us to control for demand factors to some extent and interpret our results as driven by supply-side factors such banks’ capitalization. Figure 11 reports the results. Large-size packages that combined all three types of policies drove stronger credit growth at less-well-capitalized banks. In column 3, we find that “all-out” packages were relatively more effective for low-capital banks, with estimated loan growth approximately 100 bps larger for less-well-capitalized banks. Overall, these findings support the interpretation that packages that included fiscal, monetary, and prudential policies—and in particular all-three-large packages—were most effective in raising lending by banks that were more constrained in their ability to lend due to lower levels of equity. 
+
+
+[FIGURE id=vol7_iss3_3_f11 type=figure label="Figure 11" file=figure_11.png caption="Differential Effects of Policy Packages across Banks with Varying Capital Levels, Q1 2020–Q1 2021"]
+### **Figure 11: Differential Effects of Policy Packages across Banks with Varying Capital Levels, Q1 2020–Q1 2021**
+
+||(1)|(2)|(3)|
+|---|---|---|---|
+|Fiscal Only–Other x Low E/A|0.1|26.9|9.4|
+||(49.6)|(55.8)|(71.4)|
+|Fiscal & Monetary only–Other x|55.4|77.6|72.9|
+|Low E/A|(47.5)|(64.3)|(47.9)|
+|Fiscal & Prudential only–Other x|17.2|44.6|42.7|
+|Low E/A|(63.1)|(78.0)|(76.2)|
+|Fiscal & Monetary & Prudential–|56.4*|84.3|82.2*|
+|Other x Low E/A|(33.5)|(55.2)|(45.2)|
+|Fiscal & Monetary & Prudential–|81.4***|105.3*|98.1**|
+|Largex Low E/A|(22.2)|(54.3)|(46.9)|
+|Country x Quarter FEs|Y|Y|Y|
+|Bank FEs|Y|Y|Y|
+|Bank Controls|Y|Y|Y|
+|Health Controls|N|Y|Y|
+|De Facto Mobility Controls|N|Y|Y|
+|Macro Controls|N|N|Y|
+|Financial Stress Controls|N|N|Y|
+|R2|0.71|0.71|0.71|
+|Bank-Quarters|7,480|7,480|7,480|
+|Banks|1,496|1,496|1,496|
+|Countries|49|49|49|
+
+
+
+Notes: This table shows regressions at the bank-quarter level where the main independent variables are package dummies accounting for sizes (as in Figure 6) interacted with dummies identifying capital-constrained banks (banks with 2019 equity-to-asset [E/A] ratios below within-country median). Specifications control for interactions of the low-capital dummy with cumulative COVID-19 cases per million, mobility (using an average of workplace and public transit indices from Google), quarterly revisions in IMF GDP forecasts, and a sovereign spread–based proxy for financial stress. Specifications include lagged controls for log of assets, deposit-toliability ratio, E/A ratio, and net customer loan–to-asset ratio, winsorized at the fifth and 95th percentiles by quarter and bank and country x quarter fixed effects (FEs). Standard errors clustered by country are in parentheses. The symbols *, **, and *** denote statistical significance at the 10%, 5%, and 1% level, respectively. 
+
+_Sources: Bloomberg; Google; IMF; Kirti et al. (2023); S&P Capital IQ Pro; Our World in Data; authors’ estimates._ 
+
+## **Policymaking in the Context of Uncertainty** 
+
+Deep uncertainty was a key feature of the shock. Because the shock was exceptional and uncertainty large—both on the effects of policies and the channels through which lending could be stimulated—a mix of policies with the potential to work through different channels could be expected to be the most effective. We provide some suggestive evidence on this by exploring the interaction between all-out packages with uncertainty, accounting for the interaction between uncertainty and all other policy packages. 
+
+We measure uncertainty by disagreement among consensus forecasters on the impact of the pandemic and the path of future economic output. The sample is smaller based on 
+
+
+availability of consensus forecasts, yet their use helps provide some evidence on the role of uncertainty in shaping the effectiveness of packages. The results are reported in Figure 12. Indeed, we find suggestive evidence for the effects of the all-out package on bank lending to be higher when forecast uncertainty is high. The interaction between forecast uncertainty and the all-out package is positive and statistically distinguishable at the 10% level. The estimated magnitudes imply that bank lending was 750 bps higher for percentage point increase in the standard deviation of output forecasts compared to the average. 
+
+[FIGURE id=vol7_iss3_3_f12 type=figure label="Figure 12" file=figure_12.png caption="Differential Effects of Policy Packages across Economies with Varying Forecast Dispersion, Q1 2020–Q1 2021"]
+### **Figure 12: Differential Effects of Policy Packages across Economies with Varying Forecast Dispersion, Q1 2020–Q1 2021**
+
+||No|||||
+|---|---|---|---|---|---|
+||Interaction|||||
+||(Decile)|Decile|Quartile|Tercile|Median|
+||(1)|(2)|(3)|(4)|(5)|
+|Fiscal Only–Other|308.7|50.1|166.6|167.9|99.7|
+||(264.2)|(223.9)|(226.6)|(223.4)|(221.6)|
+|Fiscal Only–Large|336.5||949.1|966.2|243.5|
+||(303.3)||(1,116.8)|(1,127.3)|(239.3)|
+|Fiscal & Monetary Only–|167.7|123.5|155.0|173.3|160.4|
+|Other|(385.2)|(292.3)|(306.8)|(318.7)|(314.8)|
+|Fiscal & Monetary Only–|406.2|||–151.1|272.4|
+|Large|(293.2)|||(199.5)|(225.8)|
+|Fiscal & Prudential Only–|404.8|228.6|247.5|261.7|184.2|
+|Other|(298.1)|(209.6)|(211.7)|(212.9)|(223.5)|
+|Fiscal & Prudential Only–|398.6||218.3|128.9|175.5|
+|Large|(308.3)||(218.7)|(238.8)|(247.5)|
+|Fiscal & Monetary &|252.1|225.5|240.7|241.8|275.8|
+|Prudential–Other|(223.3)|(184.7)|(194.4)|(195.4)|(190.1)|
+|Fiscal & Monetary &|473.9*|266.1|314.3|343.1|249.3|
+|Prudential–Large|(259.8)|(165.6)|(197.8)|(219.9)|(197.1)|
+|Fiscal Only–Other x||345.0|540.7|541.8|532.0|
+|Interaction||(392.9)|(526.3)|(528.7)|(513.4)|
+|Fiscal Only–Large x|||||263.0|
+|Interaction|||||(321.2)|
+|Fiscal & Monetary Only–||467.2|543.0|543.1|663.7|
+|Other x Interaction||(351.8)|(385.2)|(387.2)|(396.2)|
+|Fiscal & Monetary Only–|||||333.9|
+|Large x Interaction|||||(395.7)|
+|Fiscal & Prudential Only–||346.7|355.2|355.5|425.5|
+|Other x Interaction||(333.9)|(325.8)|(331.4)|(321.4)|
+|Fiscal & Prudential Only–|||–662.1|–351.3|–103.4|
+|Large x Interaction|||(431.1)|(433.9)|(450.2)|
+|Fiscal & Monetary &||516.0|589.2|599.1|620.8|
+
+
+
+
+|Prudential–Other x||(379.1)|(419.3)|(422.7)|(417.4)|
+|---|---|---|---|---|---|
+|Interaction||||||
+|Fiscal & Monetary &||676.7*|719.0*|697.9*|744.6*|
+|Prudential–Large x||(377.2)|(412.8)|(411.1)|(398.3)|
+|Interaction||||||
+|Forecast Dispersion||–392.0|–468.1|–470.6|–492.1|
+|||(378.6)|(415.4)|(418.8)|(409.2)|
+|Bank FEs|Y|Y|Y|Y|Y|
+|Bank Controls|Y|Y|Y|Y|Y|
+|Health Controls|Y|Y|Y|Y|Y|
+|De Facto Mobility Controls|Y|Y|Y|Y|Y|
+|Macro Controls|Y|Y|Y|Y|Y|
+|Financial Stress Control|Y|Y|Y|Y|Y|
+|Forecast Dispersion|N|Y|Y|Y|Y|
+|Controls||||||
+|R2|0.49|0.56|0.56|0.55|0.55|
+|Bank-Quarters|6,960|6,960|6,960|6,960|6,960|
+|Banks|1,392|1,392|1,392|1,392|1,392|
+|Countries|40|40|40|40|40|
+
+
+
+Notes: This table shows regressions at the bank-quarter level where the main independent variables are package dummies for mutually exclusive packages of policies separated into packages that do contain at least one large element on all dimensions where sizes can be measured well (that is, fiscal and monetary policies) and those that do not, interacted with forecast dispersion (quarterly change in the sum of the standard deviations of GDP forecasts for one- and two-year horizons). Large elements of packages are defined as those respectively in the top decile, quartile, tercile, or half of the distribution in columns 2–5. Packages that are not included in the estimations (for example, with large fiscal policies only, with large fiscal and monetary only, and with large fiscal and prudential only) are not observed in our sample. The omitted category includes packages with no policy interventions and cases with no fiscal policy (that is, either monetary or prudential policies were adopted independently or jointly). All specifications include as controls: log of assets, deposit-toliability ratio, equity-to-asset ratio, and net customer loan–to-asset ratio, winsorized at the fifth and 95th percentiles by quarter. Controls for cumulative COVID-19 cases per million, mobility (from Google), quarterly revisions in IMF GDP forecasts, a sovereign spread–based proxy for financial stress, and forecast dispersion, along with bank fixed effects (FEs) are also included. Standard errors clustered by country are shown in parentheses. The symbols *, **, and *** denote statistical significance at the 10%, 5%, and 1% level, respectively. 
+
+_Sources: Bloomberg; Google; IMF; Kirti et al. (2023); S&P Capital IQ Pro; Our World in Data; authors’ estimates._ 
+
+## **Firm-Level Results** 
+
+The objectives of the firm-level analysis are to examine (a) which policy packages allowed firms to maintain sufficient liquidity (by raising bank credit) to meet their expenses and (b) the extent to which the impact of policies on liquidity was larger for low-quality firms, and hence suggestive of misallocation. Figure 13 reports firm-level results from estimating Equation (3). Column 3 reports the results for relative effectiveness of large-size packages for bank-dependent firms with controls corresponding to our most granular specifications at the bank level—but all interacted with a dummy identifying bank-dependent firms. The results suggest that announcements of “all-out” packages were relatively more effective for bank-dependent firms. The magnitude of the estimated coefficient on “Fiscal & Monetary & Prudential–Large x Bank Dependent” in column 3 suggests that the “all-out” package 
+
+
+provided enough extra liquidity for a firm to survive two additional months relative to nonbank-dependent firms, assuming its expenses did not change from pre-pandemic levels. 
+
+[FIGURE id=vol7_iss3_3_f13 type=figure label="Figure 13" file=figure_13.png caption="Differential Effects of Policy Packages on Liquidity for Bank-Dependent Firms, Q1 2020–Q1 2021"]
+### **Figure 13: Differential Effects of Policy Packages on Liquidity for Bank-Dependent Firms, Q1 2020–Q1 2021**
+
+||(1)|(2)|(3)|
+|---|---|---|---|
+|Fiscal Only—Other x Bank|2.2*|2.0|1.4|
+|Dependent|(1.3)|(1.3)|(1.4)|
+|Fiscal & Monetary Only–Other|1.2**|0.8|0.3|
+|x Bank Dependent|(0.5)|(0.9)|(0.6)|
+|Fiscal & Prudential Only–|2.1***|1.7|1.1|
+|Other x Bank Dependent|(0.6)|(1.1)|(1.0)|
+|Fiscal & Monetary &|1.9***|1.4|1.0|
+|Prudential–Other x Bank|(0.5)|(0.9)|(0.7)|
+|Dependent||||
+|Fiscal & Monetary &|2.8***|2.4*|2.1*|
+|Prudential–Large x Bank|(0.9)|(1.2)|(1.1)|
+|Dependent||||
+|Firm FEs|Y|Y|Y|
+|Country x Quarter FEs|Y|Y|Y|
+|Health Controls|N|Y|Y|
+|De Facto Mobility Controls|N|N|Y|
+|Macro Controls|N|N|Y|
+|Financial Stress Controls|N|N|Y|
+|Firm Controls|Y|Y|Y|
+|R2|0.21|0.21|0.21|
+|Firm-Quarters|31,035|31,035|31,035|
+|Firm|6,207|6,207|6,207|
+|Countries|39|39|39|
+
+
+
+Notes: This table shows regressions at the firm-quarter level where the dependent variable is additional liquidity (the quarter-over-quarter change in bank debt scaled by 2019 expenses in months). The main independent variables are package dummies accounting for sizes (as in Figure 6), interacted with dummies identifying bank-dependent firms (firms with the fraction of bank debt as of end 2019 in the top quartile within country). Specifications control for interactions of the bank-dependent dummy with cumulative COVID-19 cases per million, mobility (average of workplace and public transit indices from Google), quarterly revisions in IMF GDP forecasts, and a sovereign spread–based proxy for financial stress. All specifications control for lagged log firm-level revenue growth and include firm and country x quarter fixed effects (FEs). Standard errors clustered by country are shown in parentheses. The symbols *, **, and *** denote statistical significance at the 10%, 5%, and 1% level, respectively. 
+
+_Sources: Bloomberg; Google; IMF; Kirti et al. (2023); S&P Capital IQ Pro; Our World in Data; authors’ estimates._ 
+
+Last, we explore whether “all-out” policy packages misallocated resources to ex ante lowquality firms. Figure 14 reports the results for estimating Equation (4). The dependent variable is the quarter-on-quarter change in bank debt, as a fraction of the firm’s prepandemic expenses. Columns 1–4 report the results with the four proxies for firm quality— interest coverage ratio, return on assets, book equity scaled by assets, and distance to insolvency—respectively. Strikingly, in all four specifications, with distinct proxies for quality, the estimated coefficients on the triple interaction among “Fiscal & Monetary & 
+
+
+Prudential–Large x Bank Dependent x Low Firm Quality” are statistically indistinguishable from zero. In other words, there is little evidence that, on average, the additional liquidity from the “all-out” policy packages differentially affected low- and high-quality firms.[21] 
+
+[FIGURE id=vol7_iss3_3_f14 type=figure label="Figure 14" file=figure_14.png caption="Differential Effects of Policy Packages on Liquidity for Poor-Quality BankDependent Firms, Q1 2020–Q1 2021"]
+### **Figure 14: Differential Effects of Policy Packages on Liquidity for Poor-Quality BankDependent Firms, Q1 2020–Q1 2021**
+
+||ICR|ROA|E/A|DI|
+|---|---|---|---|---|
+||(1)|(2)|(3)|(4)|
+|Fiscal & Monetary & Prudential|2.1*|2.2*|2.3*|1.3|
+|– Large x Bank Dependent|(1.2)|(1.1)|(1.2)|(0.9)|
+|Fiscal & Monetary & Prudential|–0.3|0.3|0.6|–0.4|
+|– Large x Low Firm Quality|(1.0)|(1.0)|(0.7)|(0.4)|
+|Fiscal & Monetary & Prudential|–0.2|–0.5|–1.0|0.2|
+|– Large x Bank Dependent x|(0.7)|(0.7)|(0.9)|(0.5)|
+|Low FirmQuality|||||
+|Firm FEs|Y|Y|Y|Y|
+|Country x Quarter FEs|Y|Y|Y|Y|
+|Health Controls|Y|Y|Y|Y|
+|De facto Mobility Controls|Y|Y|Y|Y|
+|Macro Controls|Y|Y|Y|Y|
+|Financial Stress Controls|Y|Y|Y|Y|
+|Firm Controls|Y|Y|Y|Y|
+|Other Packages and|Y|Y|Y|Y|
+|Interactions|||||
+|R2|0.22|0.21|0.21|0.21|
+|Firm-Quarters|30,675|31,035|31,030|29,715|
+|Firm|6,135|6,207|6,206|5,943|
+|Countries|39|39|39|39|
+
+
+
+Notes: This table shows regressions at the firm-quarter level where specifications replicate the third column of Figure 13 introducing an additional dimension of firm-level heterogeneity: a proxy for pre-COVID-19 firm quality. For each proxy for firm quality, we include all interactions between packages and bank dependence shown in the third column of Figure 13, interactions between packages and the proxy for firm quality, and triple interactions between packages, bank dependence, and firm quality. The proxies for pre-Covid-19 quality are (a) interest coverage ratio (ICFR), (b) return on assets (ROA), (c) book equity scaled by assets (equity-to assets ratio (E/A), and (d) a distance to insolvency (DI) measure. For each proxy, we use a dummy for firms in the bottom quartile within country based on the average indicator for 2017–19. Standard errors clustered by country are shown in parentheses. The symbols *, **, and *** denote statistical significance at the 10%, 5%, and 1% level, respectively. 
+
+_Sources: Bloomberg; Google; IMF; Kirti et al. (2023); S&P Capital IQ Pro; Our World in Data; authors’ estimates._ 
+
+21 A caveat is that the sample of firms included in our analysis likely excludes small firms, which may have been disproportionately affected. The results, moreover, cannot rule out any misallocation stemming from the extensive margin, or access to new programs (Granja et al. 2022; Huneeus et al. 2022). 
+
+
+## **VI. Conclusions** 
+
+We analyze the impact on bank lending of different combinations of policies enacted during the COVID-19 pandemic. Whether and how the composition and size of policy packages matter for the impact on bank lending in the context of deep uncertainty is not clear. To examine this empirically, we assemble a granular dataset of fiscal, monetary, and prudential policy announcements for a wide sample of advanced and emerging and developing economies. We examine the impact of both the announcement of different policy packages as well as their sizes. In addition, we explore heterogeneity across banks in the impact of policy combinations as well as the impact on liquidity for nonfinancial firms. 
+
+Our analysis shows that loan growth was faster for banks in countries that announced largesize packages combining fiscal, monetary, and prudential measures (“all-out” packages) relative to those that relied on some, but not all, of these three types of policies or where packages were not large. Across banks, the impact of policies was larger among banks that were a priori more constrained because of low capital levels. 
+
+Consistent with our evidence at the bank level, large packages combining fiscal, monetary, and prudential measures helped channel additional liquidity to bank-dependent firms. Within bank-dependent firms, we do not find that policy packages disproportionately benefited firms with poor pre-COVID-19 performance. 
+
+The results suggest that decisive action in terms of breadth and intensity of policies following the COVID-19 shock may have been important in the recovery of bank lending, particularly given that the shock was unprecedented and uncertainty so large. Indeed, we find suggestive evidence for the effects of the “all-out” package on bank lending to be relatively larger when forecast uncertainty is higher. 
+
+In future crises combining negative supply and demand shocks with significant uncertainty, a similarly concerted, coordinated, “all-out” approach may have an important role to play in supporting the economy. Although COVID-19 was an unusual shock in many ways, further global shocks—including wars and other geopolitical shifts—are not hard to conceive. 
+
+While this paper highlights the benefits of an “all-out” approach in response to a global shock such as COVID-19, not all countries could or will be able to respond in such an aggressive fashion. Bergant and Forbes (2023) shows that the size of countries’ response to COVID-19 was largely driven by the policy space before the pandemic. Hence, emerging and developing countries have been and will likely be more constrained. It is also important to recognize that there are costs and unintended consequences from an “all-out” approach. Large fiscal and monetary packages may also lead to inflationary pressures and concerns about debt sustainability. How to calibrate the appropriate “all-out” response to minimize the costs and unintended consequences is beyond the scope of this paper and merits further research. 
+
+
+## **VII. References** 
+
+Acharya, Viral V., and Sascha Steffen. 2020. “The Risk of Being a Fallen Angel and the Corporate Dash for Cash in the Midst of COVID.” _Review of Corporate Finance Studies_ 9, no. 3): 430–71. 
+
+https://doi.org/10.1093/rcfs/cfaa013 
+
+Acosta-Henao, Miguel, Andrés Fernández, Patricia Gomez-Gonzales, and Şebnem KalemliÖzcan. 2023. “The COVID-19 Shock and Firm Financing: Government or Market? Or Both?” Fordham University Department of Economics Discussion Paper No. 2023/03, June 2023. https://archive.fordham.edu/ECONOMICS_RESEARCH/PAPERS/dp2023_03_gomezgonzale z.pdf 
+
+Alfaro, Laura, Anusha Chari, Andrew N. Greenland, and Peter K. Schott. 2020. “Aggregate and Firm-Level Stock Returns during Pandemics, in Real Time.” NBER Working Paper No. 26950, May 2020. http://www.nber.org/papers/w26950 
+
+Altavilla, Carlo, Francesca Barbiero, Miguel Boucinha, and Lorenzo Burlon. 2023. “The Great Lockdown: Pandemic Response Policies and Bank Lending Conditions.” _European Economic Review_ 156 (July): 104478. 
+
+https://doi.org/10.1016/j.euroecorev.2023.104478 
+
+Altavilla, Carlo, Andrew Ellul, Marco Pagano, Andrea Polo, and Thomas Vlassopoulos. 2023. “Loan Guarantees, Bank Lending and Credit Risk Reallocation.” ECGI Finance Working Paper No. 944/2023, December 2023. https://ssrn.com/abstract=3963246 
+
+Augustin, Patrick, Valeri Sokolovski, Marti G. Subrahmanyam, and Davide Tomio. 2022. “In Sickness and in Debt: The COVID-19 Impact on Sovereign Credit Risk.” _Journal of Financial Economics_ 143, no. 3: 1251–74. https://doi.org/10.1016/j.jfineco.2021.05.009 
+
+Autor, David, David Cho, Leland D. Crane, Mita Goldar, Byron Lutz, Joshua Montes, William B. Peterman, David Ratner, Daniel Villar, and Ahu Yildirmaz. 2022. “An Evaluation of the Paycheck Protection Program Using Administrative Payroll Microdata.” _Journal of Public Economics_ 211 (July): 104664. https://doi.org/10.1016/j.jpubeco.2022.104664 
+
+Bartik, Alexander W., Zoe B. Cullen, Edward L. Glaeser, Michael Luca, Christopher T. Stanton, and Adi Sunderam. 2023. “When Should Programs be Privately Administered? Theory and Evidence from the Paycheck Protection Program.” NBER Working Paper No. 27623, July 2023. 
+
+http://www.nber.org/papers/w27623 
+
+
+Basel Committee on Banking Supervision (BCBS). 2021. “Early Lessons from the COVID-19 Pandemic on the Basel Reforms.” Bank for International Settlements, July 2021. https://www.bis.org/bcbs/publ/d521.pdf 
+
+Beck, Thorsten, and Jan Keil. 2022. “Have Banks Caught Corona? Effects of COVID on Lending in the U.S.” _Journal of Corporate Finance_ 72 (February): 102160. https://doi.org/10.1016/j.jcorpfin.2022.102160 
+
+Benmelech, Efraim, and Nitzan Tzur-Ilan. 2020. “The Determinants of Fiscal and Monetary Policies during the COVID-19 Crisis.” NBER Working Paper No. 27461, July 2020. http://www.nber.org/papers/w27461 
+
+Bergant, Katharina, and Kristin Forbes. 2023. “Policy Packages and Policy Space: Lessons from COVID-19.” _European Economic Review_ 158 (September): 104499. https://doi.org/10.1016/j.euroecorev.2023.104499 
+
+Berger, Allen N., Paul G. Freed, Jonathan A. Scott, and Siwen Zhang. 2025. “The Paycheck Protection Program (PPP) from the Small Business Perspective: Did the PPP Help Alleviate Financial and Economic Constraints?” Mimeo, May 30, 2025. https://ssrn.com/abstract=3908707 
+
+Capelle-Blancard, Gunther, and Adrien Desroziers. 2020. “The Stock Market Is Not the Economy? Insights from the COVID-19 Crisis.” _CEPR Covid Economics: Vetted and Real-Time Papers_ 28 (June): 29–69. https://ssrn.com/abstract=3638208 
+
+Casanova, Catherine, Bryan Hardy, and Mert Onen. 2021. “COVID-19 Policy Measures to Support Bank Lending.” _BIS Quarterly Review_ (September): 45–59. https://www.bis.org/publ/qtrpdf/r_qt2109d.pdf 
+
+Cascarino, Giuseppe, Raffaele Gallo, Francesco Palazzo, and Enrico Sette. 2022. “Public Guarantees and Credit Additionality during the COVID-19 Pandemic.” Bank of Italy Working Paper No. 1369, April 2022. 
+
+https://ideas.repec.org/p/anc/wmofir/172.html 
+
+Checo, Ariadne, and Sophia Chen. 2022. “Distance to Insolvency: A New Cross-Country Dataset of Corporate Vulnerability.” Mimeo, August 2022 
+
+Chodorow-Reich, Gabriel, Olivier Darmouni, Stephan Luck, and Matthew Plosser. 2022. “Bank Liquidity Provision across the Firm Size Distribution.” _Journal of Financial Economics_ 144, no. 3: 908–32. 
+
+https://doi.org/10.1016/j.jfineco.2021.06.035 
+
+Ҫolak, Gönül, and Özde Öztekin. 2021. “The Impact of COVID-19 Pandemic on Bank Lending around the World.” _Journal of Banking & Finance_ 133 (December): 106207. https://doi.org/10.1016/j.jbankfin.2021.106207 
+
+
+Couaillier, Cyril, Alessio Reghezza, Costanza Rodriguez d’Acri, and Alessandro Scopelliti. 2022. “How to Release Capital Requirements during a Pandemic? Evidence from Euro Area Banks.” ECB Working Paper No. 2720, September 2022. https://ssrn.com/abstract=4220377 
+
+Cox, Josue, Daniel L. Greenwald, and Sydney C. Ludvigson. 2020. “What Explains the COVID19 Stock Market?” NBER Working Paper No. 27784, September 2020. http://www.nber.org/papers/w27784 
+
+Demirgüç-Kunt, Asli, Alvaro Pedraza, and Claudia Ruiz-Ortega. 2021. “Banking Sector Performance during the COVID-19 Crisis.” _Journal of Banking & Finance_ 133 (December): 106305. 
+
+https://doi.org/10.1016/j.jbankfin.2021.106305 
+
+Demmou, Lilas, Sara Calligaris, Guido Franco, Dennis Dlugosch, Müge Adalet McGowan, and Sahra Sakha. 2021. “Insolvency and Debt Overhang Following the COVID-19 Outbreak: Assessment of Risks and Policy Responses.” OECD Economics Department Working Papers, No. 1651, January 2021. 
+
+https://doi.org/10.1787/747a8226-en 
+
+Dursun-de Neef, H. Özlem, and Alexander Schandlbauer. 2021. “COVID-19 and Lending Responses of European Banks.” _Journal of Banking & Finance_ 133 (December): 106236. https://doi.org/10.1016/j.jbankfin.2021.106236 
+
+———. 2022. “COVID-19, Bank Deposits, and Lending.” _Journal of Empirical Finance_ 68 (September): 20–33. https://doi.org/10.1016/j.jempfin.2022.05.003 
+
+ElFayoumi, Khalid, and Martina Hengge. 2021. “Capital Markets, COVID-19 and Policy Measures.” IMF Working Paper No. 2021/033, February 2021. https://ssrn.com/abstract=4257306 
+
+Gourinchas, Pierre-Ölivier, Şebnem Kalemli-Özcan, Veronika Penciakova, and Nick Sander. 2022. “Estimating SME Failures in Real Time: An Application to the COVID-19 Crisis.” CEPR Discussion Paper No. DP15323, January 2022. https://ssrn.com/abstract=3723512 
+
+Granja, João, Christopher Makridis, Constantine Yannelis, and Eric Zwick. 2022. “Did the Paycheck Protection Program Hit the Target?” _Journal of Financial Economics_ 145, no. 3: 725–61. 
+
+https://doi.org/10.1016/j.jfineco.2022.05.006 
+
+Greenwald, Daniel L., John Krainer, and Pascal Paul. 2023. “The Credit Line Channel.” Federal Reserve Bank of San Francisco Working Paper No. 2020-26, August 2023. https://www.frbsf.org/wp-content/uploads/wp2020-26.pdf 
+
+
+Guerini, Mattia, Lionel Nesta, Xavier Ragot, and Stefano Schiavo. 2020. “Firm Liquidity and Solvency under the Covid-19 Lockdown in France.” OFCE Policy Brief No. 76, July 2020. https://sciencespo.hal.science/hal-03403022 
+
+Hubbard, R. Glenn, and Michael R. Strain. 2020. “Has the Paycheck Protection Program Succeeded?” NBER Working Paper No. 28032, October 2020. http://www.nber.org/papers/w28032 
+
+Huneeus, Federico, Joseph P. Kaboski, Mauricio Larrain, Sergio L. Schmukler, and Mario Vera. 2022. “The Distribution of Crisis Credit: Effects on Firm Indebtedness and Aggregate Risk.” NBER Working Paper No. 29774, March 2023. http://www.nber.org/papers/w29774 
+
+Igan, Deniz, Ali Mirzaei, and Tomoe Moore. 2023. “A Shot in the Arm: Economic Support Packages and Firm Performance during COVID-19.” _Journal of Corporate Finance_ 78 (February): 102340. 
+
+https://doi.org/10.1016/j.jcorpfin.2022.102340 
+
+Jiménez, Gabriel, Luc Laeven, David Martinez-Miera, and José-Luis Peydró. 2024. “Public Guarantees, Relationship Lending and Bank Credit: Evidence from the COVID-19 Crisis.” ECB Working Paper Series No. 2913, March 2024. https://ssrn.com/abstract=4057530 
+
+Kirti, Divya, Yang Liu, Maria Soledad Martínez Peria, Prachi Mishra, and Jan Strasky. 2023. “Tracking Economic and Financial Policies during COVID-19: An Announcement-Level Database.” CEPR Discussion Paper No. DP17879, February 2023. https://cepr.org/publications/dp17879 
+
+Kirti, Divya, Maria Soledad Martinez Peria, Prachi Mishra, and Jan Strasky. 2025. “Appendix to ‘What Policy Combinations Worked? The Effect of Policy Packages on Bank Lending during COVID-19.’” Unpublished supplement, September 2025. https://elischolar.library.yale.edu/ypfs-documents2/5533 
+
+Li, Lei, Philip E. Strahan, and Song Zhang. 2020. “Banks as Lenders of First Resort: Evidence from the COVID-19 Crisis.” _Review of Corporate Finance Studies_ 9, no. 3: 472–500. https://doi.org/10.1093/rcfs/cfaa009 
+
+Valencia, Fabián, Richard Varghese, Weijia Yao, and Juan F. Yépez. 2021. “Handle with Care: Regulatory Easing in Times of COVID-19.” _B.E. Journal of Macroeconomics_ 22, no. 1: 363–96. https://www.imf.org/en/Publications/WP/Issues/2021/02/26/Handle-with-CareRegulatory-Easing-in-Times-of-COVID-19-50126 
+
+This open access article is distributed under the terms of the CC-BY-NC-ND 4.0 license, which allows sharing of this work provided the original author and source are cited. The work may not be changed or used commercially.

@@ -1,0 +1,415 @@
+## United Kingdom: Financial Services Compensation Scheme[1] 
+
+_Ezekiel Vergara[2]_ 
+
+Yale Program on Financial Stability Case Study July 15, 2022 
+
+## **Abstract** 
+
+In mid-September 2007, as credit markets froze, Northern Rock, the United Kingdom’s fifthlargest mortgage bank, struggled to secure short-term funding and sought emergency liquidity assistance from the Bank of England (BoE). As word of that support leaked to the public, the bank suffered a run by its retail depositors. On September 17, Her Majesty’s Treasury (HMT) announced it would guarantee all of Northern Rock’s deposits. On October 1, 2007, the Financial Services Authority (FSA), then the UK’s lead financial regulator, announced that the UK’s deposit insurer would abolish co-insurance and cover 100% of eligible accounts, up to GBP 35,000 (USD 71,000). The insurance scheme, called the Financial Services Compensation Scheme (FSCS), had previously insured 90% of amounts above GBP 2,000, up to GBP 35,000. In October 2008, as the Global Financial Crisis (GFC) worsened, the FSA increased the deposit insurance cap to GBP 50,000. The FSCS ultimately paid GBP 23.6 billion to depositors at five banks that failed in 2008 and 2009. The FSCS borrowed from the BoE and HMT to fund these payouts. In December 2010, UK authorities further increased the deposit insurance cap to GBP 85,000 to match their European counterparts, as required by Directive 2009/14/EC. 
+
+**Keywords:** Account guarantees, co-insurance, Financial Services Compensation Scheme, Global Financial Crisis, Northern Rock, United Kingdom 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering account guarantee programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+In the summer of 2007, conditions in global financial markets became turbulent as concerns grew about banks’ exposures to US subprime mortgages (EC 2008). This uncertainty prompted a freezing of credit markets, as banks reduced their exposure to subprime assets and retained cash to meet their liquidity requirements (EC 2008). 
+
+Northern Rock, the UK’s fifth-largest mortgage bank, informed UK authorities in August that it was having difficulty meeting its short-term funding needs (EC 2007). As news that the Bank of England (BoE) would support the bank leaked to the public, Northern Rock experienced a run by its retail depositors in midSeptember (House of Commons: Public Account Committee 2009). To arrest this run, Her Majesty’s Treasury (HMT) announced that it would guarantee all retail deposits at Northern Rock as of September 19, 2007 (HMT 2007). 
+
+On October 1, 2007, the Financial Services Authority (FSA), then the UK’s lead financial regulator, announced that the UK’s deposit insurer would abolish coinsurance, insuring 100% of eligible accounts, up to GBP 35,000 (USD 71,000),[3] for all banks that it covered. The insurance scheme, called the Financial Services Compensation Scheme (FSCS), had previously insured 90% of amounts above GBP 2,000, up to GBP 35,000 (FSA 2007c). Total deposit amounts were netted against depositor liabilities owed to a failed bank (FSB 2012; FSA 2009). In October 
+
+## **Key Terms** 
+
+Purpose: “At a time of market uncertainty it is important for consumers to know their deposits are properly protected. The action we have taken is designed to help reassure depositors with accounts up to £35,000 that they are 100% covered” (FSA 2007c) 
+
+||Launch Dates|_Co-insurance abolished_|
+|---|---|---|
+|||Announcement: Oct. 1, 2007|
+|||Authorization: Oct. 1, 2007|
+|||Operation: Oct. 1, 2007|
+|||_Limit increased_|
+|||Announcement: Oct. 3, 2008|
+|||Authorization: Oct. 2, 2008|
+|||Operational: Oct. 7, 2008|
+||End Dates|Adopted as permanent|
+||Eligible|Deposit-taking firms|
+||Institutions||
+||Eligible Account(s)|Various deposit types|
+||Fees|Varied according to the FSCS’s|
+|||expected annual expenses and|
+|||on an institution’s subclass|
+||Size of Guarantee|GBP 35,000. Later raised to|
+|||GBP 50,000 and GBP 85,000|
+||Coverage|FSCS does not collect a|
+|||protected deposits figure|
+||Outcomes|GBP 23.6 billion in claims paid|
+|||to depositors in banks that|
+|||failed in 2008 and 2009|
+||Notable Features|Historically, the FSCS was not|
+|||allowed to maintain a standing|
+|||deposit insurance fund|
+|||The FSCS required loans to|
+|||finance its payouts and|
+|||charged an additional fee to|
+|||cover the interest|
+|||The FSCS netted liabilities|
+|||owed to the failed bank against|
+|||depositor payouts|
+
+
+
+> 3 GBP 1 = USD 2.04 on October 1, 2007, per Yahoo Finance. 
+
+
+2008, as the Global Financial Crisis (GFC) worsened, the FSA increased the deposit insurance cap to GBP 50,000 (FSA 2008c). 
+
+The UK Parliament established the FSCS in December 2001 with the Financial Services and Markets Act of 2000. It replaced five previous compensation schemes (Edmonds 2010; United Kingdom Parliament 2000, pt. XV). The financial services industry funded the FSCS through their fees; the FSA determined the deposit compensation limit and eligibility criteria (FSA 2008b). The FSCS covered depositors who held deposits—including those in foreign currencies—in authorized firms, including banks, building societies, and credit unions (FSCS 2008b). 
+
+The GFC worsened after the collapse of Lehman Brothers, a US investment bank, on September 15, 2008. On September 29, 2008, Iceland, whose banks had raised billions of pounds in deposits in the UK, took a 75% stake in its third-largest bank, due to short-term funding difficulties (House of Commons: Treasury Committee 2009b). This takeover led UK depositors to withdraw their deposits from Icelandic banks (FME 2009). On the same day, HMT announced that it was taking over a major UK mortgage bank, Bradford & Bingley (B&B), while transferring its depositors to another bank (BoE 2008a). 
+
+On October 3, 2008, the FSA increased the FSCS deposit insurance cap to GBP 50,000, effective October 7, 2008 (FSA 2008b). On October 6, 2008, Icelandic Prime Minister Geir Haarde announced that the Icelandic government would protect the deposits of all Icelanders, though he did not mention whether it would protect depositors in UK branches of Icelandic banks (Haarde 2008). Heritable Bank, a UK subsidiary of the Icelandic Landsbanki, failed on October 7, 2008 (FSCS 2009). On October 8, 2008, the UK’s Chancellor of the Exchequer Alistair Darling said that he did not expect Icelandic authorities to compensate UK depositors (House of Commons: Treasury Committee 2009b). That same day, UK authorities utilized an anti-terrorism statute to freeze Landsbanki’s UK assets and placed the UK subsidiary of another Icelandic bank, Kaupthing, into administration, selling the rest of its business to the Dutch bank ING (House of Commons: Treasury Committee 2009b). London Scottish Bank Plc failed on November 30, 2008 (FSCS 2009). 
+
+These institutions, along with B&B, made up the majority of FSCS payouts in 2008 and 2009, which would ultimately total GBP 23.6 billion (FSCS 2010). The FSCS’s total payouts went to more than four million depositors (FSCS 2010). The failure of the Icelandic banks cost the FSCS GBP 7.39 billion, or 31% of its total payouts. Figure 1 illustrates the amount of each failure. 
+
+
+[FIGURE id=vol4_iss2_29_f1 type=figure label="Figure 1" file=figure_1.png caption="FSCS Payouts by Year and Institution"]
+### **Figure 1: FSCS Payouts by Year and Institution**
+![Figure 1](assets/vol4_iss2_29/figure_1.png)
+
+
+_Source: FSCS 2010._ 
+
+Historically, UK law did not allow the FSCS to maintain a standing deposit insurance fund (FSCS 2009). Instead, the FSCS estimated its expected obligations for each fiscal year and then charged authorized institutions accordingly (FSCS 2009). Institutions were divided into five subclasses, determined by the products they offered. Those subclasses determined the fees they paid (FSCS 2010).[4] The FSCS would repay any surplus to authorized institutions (Edmonds 2010). 
+
+The FSCS had to borrow money from the BoE and HMT to meet its extraordinary obligations arising from the five bank failures (FSCS 2009). For instance, to cover depositors at B&B, the BoE provided the FSCS with a loan, which was later refinanced by HMT (FSCS 2008a). In July 2009, the FSCS announced an additional levy on the deposit-taking subclass of institutions to cover the interest on these loans (FSCS 2010). 
+
+In December 2010, UK officials announced a deposit insurance increase from GBP 50,000 to GBP 85,000, effective December 31, 2010 (FSA 2010). Officials adopted this increase to be roughly in line with the European Economic Area (EEA) Member States’ limit of EUR 100,000, which took effect on December 31, 2010 (FSA 2010; Directive 2009/14/EC 2009). As of 2022, the deposit insurance limit remains at GBP 85,000 (FSCS n.d.). 
+
+The UK government pursued legal action against Iceland for not compensating foreign depositors, in what became known as the Icesave dispute (J&S 2016). In 2013, the European Free Trade Association Court ruled that Iceland did not have to repay foreign governments, 
+
+> 4 The five subclasses were deposit, general insurance, life and pension, investment, and home finance (FSCS 2010). The FSCS’s insurance caps also varied by institution type. 
+
+
+but that foreign governments had first priority to Landsbanki’s estate (J&S 2016). The estate made its final payment in 2016 (J&S 2016). 
+
+Following the failure of Northern Rock and the GFC, the UK government passed the Banking Act of 2009, which gave the FSCS power to contribute to the costs of resolution, as well as to request funds from the National Loans Fund, which HMT ran (United Kingdom Parliament 2009, pt. 2[123]). 
+
+## **Summary Evaluation** 
+
+The Treasury Select Committee of Parliament praised the FSCS for its response to the GFC, spotlighting how it innovatively handled depositor claims arising from the default of five banks in a short period (House of Commons: Treasury Committee 2009c). 
+
+Critics argued that inadequacies in the UK’s pre-crisis deposit insurance scheme allowed Northern Rock’s troubles to trigger a “fear of contagion with systemic implications” (Schich 2008). A briefing paper by House of Commons staff argued that the scale of the crisis “overwhelmed” the FSCS and noted that the FSCS would have been unable to fund its payout without HMT’s loans (Edmonds 2010). This, the report argued, suggested the need for changes in how fees were levied and against whom (Edmonds 2010). Small competitors, such as building societies, opposed how their resources were being used to benefit their larger, riskier competitors (Edmonds 2010). 
+
+Several international organizations also criticized the UK’s policy of netting, wherein deposits were first used to pay off a depositor’s liabilities to the failed bank (IADI 2013). The Financial Stability Board (FSB) noted that focusing on gross deposits could improve payout times and help depositors understand the deposit insurance system (FSB 2012). The International Association of Deposit Insurers (IADI) echoed the FSB’s critique, arguing that netting obscured the true amount of depositor coverage and made payouts slower (IADI 2013). The IADI asserted that such netting partly contributed to the run on Northern Rock (IADI 2013). 
+
+FSCS officials noted that public awareness of the scheme was low (FSCS 2009). They acknowledged that the payout process had been delayed in some cases (FSCS 2009). The FSCS said it would put in place a quicker payout process, with a “target of seven days and in no more than 20 working days” (FSCS 2009). The FSCS’s Independent Investigator also noted a lack of clarity in the scheme’s communications with depositors about ongoing claims and claim decisions (FSCS 2009). 
+
+
+|**Context: United Kingdom 2007–2010**|**Context: United Kingdom 2007–2010**|
+|---|---|
+|**GDP**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$3.108 trillion in 2007<br>$2.963 trillion in 2008<br>$2.437 trillion in 2009<br>$2.491 trillion in 2010|
+|**GDP per capita**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$50,445 in 2007<br>$47,267 in 2008<br>$38,737 in 2009<br>$39,537 in 2010|
+|**Sovereign credit rating**<br>**(five-year senior debt)**|Data for 2007–2010:<br>Moody’s: Aaa<br>S&P: AAA<br>Fitch: AAA|
+|**Size of banking system**|$4.903 trillion in 2007<br>$5.327 trillion in 2008<br>$4.756 trillion in 2009<br>$4.652 trillion in 2010|
+|**Size of banking system**<br>**as a percentage of GDP**|157.77% in 2007<br>179.77% in 2008<br>195.15% in 2009<br>186.72% in 2010|
+|**Size of banking system**<br>**as a percentage of financial system**|100% in 2007–2010|
+|**Five-bank concentration of banking system**|76.76% in 2007<br>79.08% in 2008<br>75.06% in 2009<br>75.66% in 2010|
+|**Foreign involvement in banking system**|14% in 2007<br>19% in 2008<br>15% in 2009<br>15%in 2010|
+|**Government ownership of banking system**|Data not available for 2007–2010|
+|**Existence of deposit insurance**|Yes, in 2007–2010|
+|_Sources: Bloomberg, World Bank Global Financial Development Database, World_<br>_Bank Deposit Insurance Dataset. _||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: The UK increased the coverage of FSCS deposit insurance and abolished co-insurance to reassure depositors.** 
+
+During the GFC, the UK altered its deposit insurance to reassure depositors (FSA 2007c). These changes included the abolition of partial deposit insurance coverage, known as coinsurance, and an increased deposit insurance cap (FSA 2007c; FSA 2008b). The FSCS did not change its coverage of other types of financial institution claims. Claims against insurance companies and investment businesses continued to have a co-insurance element (Edmonds 2010; FSA 2007a; FSCS n.d.). 
+
+**2. Part of a Package: No additional changes accompanied the abolition of coinsurance in 2007. Following the increase to GBP 50,000 in October 2008, UK authorities adopted a suite of measures, including liquidity measures, recapitalizations, and credit guarantees.** 
+
+The UK government took no additional measures following the full guarantee of deposits at Northern Rock in September 2007 and the abolition of co-insurance in October 2007. However, the government planned to pursue further changes to bolster consumer confidence (FSA 2007c). This ultimately led the FSA to review the FSCS’s limits and ultimately increase the guaranteed amount to GBP 50,000 in October 2008 (FSA 2008c). 
+
+In October 2008, when UK authorities increased the deposit insurance cap to GBP 50,000, the UK government adopted several additional measures. On October 8, 2008, HMT announced that the UK government would expand its liquidity facilities, making at least GBP 200 million available through the Special Liquidity Scheme (HMT 2008). The government also established a recapitalization facility through which it provided Tier-1 capital to eligible institutions (HMT 2008). Additionally, UK policymakers adopted a credit guarantee of shortand medium-term debt (HMT 2008). For more information on some of these programs, see Lawson (2021), Buchholtz (2021), and McNamara (2020). 
+
+**3. Legal Authority: The Financial Services and Markets Act of 2000 established the FSCS. The FSA, as the UK’s regulator, determined the deposit insurance rules, including the deposit insurance limit and eligibility criteria. The FSA used rule changes to alter the deposit insurance system.** 
+
+The FSCS was established in December 2001, pursuant to the Financial Services and Markets Act of 2000, and replaced five previous compensation schemes (Edmonds 2010; United Kingdom Parliament 2000, pt. XV). As the UK’s regulator, the FSA set the rules for the deposit insurance system (FSA 2008b). 
+
+Under the Financial Services and Markets Act, in an emergency, the FSA could change its rules without going through the normal consultation process that the Act required (Edmonds 2010; United Kingdom Parliament 2000, sec. 155[7]). The law specifically said 
+
+
+that the FSA may skip its normal procedures “if the Authority considers that the delay involved in complying with them would be prejudicial to the interests of consumers” (United Kingdom Parliament 2000, sec. 155[7]). 
+
+As such, on October 1, 2007, the FSA issued a rule to guarantee 100% of deposits up to GBP 35,000, effectively abolishing co-insurance (FSA 2007a). The FSA also issued a rule in October 2008 to increase the deposit insurance limit to GBP 50,000 (FSA 2008a). 
+
+## **4. Administration: The FSCS administered the UK’s deposit guarantee. HMT, along with the BoE, provided funding to the FSCS.** 
+
+The FSCS was responsible for administering the deposit insurance scheme (FSCS 2008b). It was an independent non-profit organization established under the Financial Services and Markets Act 2000 (FSCS 2008b). 
+
+## **5. Governance: The FSA, as the UK’s primary regulator, was responsible for setting the terms of the FSCS. The FSCS was also subject to parliamentary scrutiny.** 
+
+A Board of Directors, appointed by the FSA, oversaw the FSCS (FSCS 2008b). Members had overlapping terms to “secure their independence from the FSA in the operation of the Scheme.” The Board had eight non-executive members with broad experience in banking, finance, and accounting; and two executive members: the organization’s chief executive and director of claims. The Chairman of the Board was also subject to HMT’s approval (FSCS 2008b). The FSCS was described as “independent from the FSA, although accountable to it” (FSCS 2008b). 
+
+As the UK’s primary regulator, the FSA determined the eligibility criteria and limits of the deposit insurance scheme (FSA 2008b). The FSCS also included an Audit Committee, which was responsible for the organization’s internal controls (FSCS 2008b). 
+
+The Tripartite Authorities cooperated with the FSCS to review the UK’s deposit insurance limit (FSA 2008c). 
+
+The FSCS was also subject to the UK Parliament, notably the House of Commons Treasury Committee (House of Commons: Treasury Committee 2009c). In its review of the FSCS, the Treasury Committee praised the FSCS for its creativity handling claims, especially in the face of unprecedented depositor claims (House of Commons: Treasury Committee 2009c). 
+
+## **6. Communication: Authorities stressed that, in spite of economic turbulence, banks were solvent and that deposit guarantees were meant to reassure depositors.** 
+
+On September 14, 2007, as Northern Rock faced funding difficulties, the UK government issued a public statement saying that it believed that Northern Rock was still solvent (FSA 2007b). FSA officials said it believed that the banking industry would be able “to withstand current market pressures” (FSA 2007b). 
+
+
+Given market uncertainty, the FSA abolished co-insurance, or partial deposit insurance, in the UK (FSA 2007c). This decision was meant to reassure depositors at a time when the banks were facing stress (FSA 2007c). 
+
+As financial market distress continued into 2008, the FSCS and the UK government communicated that their interventions appeared to be successful (BoE 2008b). Following the buyout of B&B in 2008, the FSCS and the BoE stressed that the banking system remained robust and that depositors were adequately protected (BoE 2008a). The FSCS emphasized that, following B&B’s failure, it was “business as usual for depositors and other customers of Bradford & Bingley, who need have no concerns about the safety of their money” (FSCS 2008a). 
+
+FSCS officials conceded that public awareness of the scheme was low during the crisis, and its independent investigator noted a lack of clarity in its communication with depositors about ongoing claims and claim decisions (FSCS 2009). 
+
+**7. Size of Guarantees: During the GFC, the FSCS’s deposit guarantee increased from GBP 35,000 (with 90% coverage for amounts over GBP 2,000) to 100% coverage for amounts up to GPB 50,000. Deposits were netted against liabilities to the failed bank.** 
+
+Prior to October 1, 2007, the FSCS guaranteed depositors GBP 2,000 in full and 90% of amounts up to GBP 35,000 (FSA 2007c). In total, this guaranteed depositors up to GBP 31,700 (FSA 2007c). This amount would be netted against a depositor’s liabilities to a bank, which led to uncertainties following Northern Rock, as depositors were unaware of their true level of coverage (IADI 2013). As a result of market uncertainty, on October 1, 2007, the FSA eliminated the partial coverage of deposits above GBP 2,000, instead fully guaranteeing deposits up to GBP 35,000 (FSA 2007c). 
+
+On October 3, 2008, due to continued financial stress, the FSA increased the deposit insurance cap from GBP 35,000 to GBP 50,000 per depositor (FSA 2008b). This increase took effect on October 7, 2008 (FSA 2008b). 
+
+In July 2009, the FSA passed a rule requiring that payouts be made on gross deposits, as opposed to being netted against a depositors’ liabilities (FSA 2009). This change came into effect on December 31, 2010. 
+
+On December 17, 2010, the FSCS further increased the deposit insurance cap to GBP 85,000 (FSA 2010). This was in line with other European countries’ EUR 100,000 limit (FSA 2010). The GBP 85,000 cap went into effect on December 31, 2010, and remained in place as of 2022 (FSA 2010; FSCS n.d.). 
+
+The FSCS's insurance limits applied to the aggregate amount of claims in each subclass of protected claims, not to each account. For example, an individual with multiple deposit accounts would only be insured up to GBP 35,000 (as of October 1, 2007) for all of their deposits at a bank. But an individual with money in both a deposit account and an investment account at the same bank would receive protection from different schemes. The deposit 
+
+
+account would be covered by the GBP 35,000 guarantee on bank deposits; the investment account would be covered by 100% of the first GBP 30,000 and 90% of the next GBP 20,000, the limits that applied to investment accounts (Edmonds 2010). 
+
+**8. Source(s) and Size of Funding: The FSCS was funded through fees paid by participating institutions. The FSCS also received loans from the BoE and HMT. The FSCS charged an additional ex-post fee on deposit-taking institutions to cover the costs of these loans.** 
+
+The financial services industry funded the FSCS through fees (FSA 2008b). Historically, UK law did not allow the FSCS to maintain a standing deposit insurance fund (FSCS 2009). Rather, the FSCS was required to estimate its expected obligations for the fiscal year and then charge authorized institutions accordingly (FSCS 2009). Financial institutions were divided into subclasses, upon which fees were levied (FSCS 2010). If the FSCS ran a surplus, repayments would be made to authorized institutions (Edmonds 2010). 
+
+Given the magnitude of the failures during the GFC, the FSCS required loans from the BoE and HMT (FSCS 2009). The BoE provided the FSCS with a short-term loan in response to the failures of B&B, Heritable, KSF, Icesave, and London Scottish (FSCS 2010; House of Commons: Treasury Committee 2009a). The principal owed to the BoE totaled GBP 20.46 billion (FSCS 2010). When HMT refinanced the loan, the principal was reduced to GBP 19.99 billion (FSCS 2010). The loans were made on an interest-only basis for the first three years, with the interest calculated at the 12-month LIBOR plus 30 basis points (FSCS 2010). To repay these loans, the FSCS levied additional fees on the deposit-taking subclass of institutions (FSCS 2010). In 2009, the FSCS levied a fee of GBP 406 million to cover the loan interest from 2008 to 2010 (FSCS 2010). 
+
+The FSCS expected to repay the principal of the loan by 2012 (FSCS 2010). By March 2016, after the FSCS’s loans were refinanced, all loans had been repaid, except those associated with the failure of B&B (FSCS 2016). The remaining balance was paid off by 2018 (FSCS 2018). 
+
+Since Iceland only protected Icelanders’ deposits in the GFC, the FSCS paid out UK depositors at Icelandic bank subsidiaries in the UK (FSCS 2010; Haarde 2008). The UK later pursued legal action to reimburse the government, in what became known as the Icesave dispute (J&S 2016). The European Free Trade Association Court ruled that Iceland did not have to repay foreign governments, but that foreign governments had first priority to Landsbanki’s estate in January 2013 (J&S 2016). The estate made its final payment in 2016 (J&S 2016). 
+
+**9. Eligible Institutions: The FSCS insured deposits held in UK-authorized institutions, including banks, building societies, and credit unions.** 
+
+The FSCS covered depositors who held deposits in authorized firms, including banks, building societies, and credit unions (FSCS 2008b). As the UK’s regulator, the FSA was responsible for determining the eligibility criteria for the FSCS’s scheme (FSA 2008b). The October 2007 rule change did not apply to depositors whose institution was in default before October 1, 2007 (FSA 2007a). 
+
+
+## **10. Eligible Accounts: The guarantee covered deposit accounts.** 
+
+The FSCS guaranteed deposits held with eligible institutions, including foreign currency deposits (FSCS 2010; FSCS 2008b). The coverage did not include electronic money (FSA 2008c).[5] Years later, the FSCS’s coverage was extended to all businesses, apart from a few exceptions, including the deposits held by financial institutions and governments, following another EU Directive (Directive 2014/49/EC 2014). 
+
+## **11. Fees (A): FSCS charged annual fees to member institutions, depending on the institution’s subclass.** 
+
+The FSCS was not allowed to have a standing deposit insurance fund (FSCS 2009). Rather, the FSCS estimated its obligations for a 12-month period and then charged a levy on eligible institutions (FSCS 2009). If the FSCS ran a surplus, repayments would be made to authorized institutions (Edmonds 2010). 
+
+These annual fees were based on the type of institutions, which were divided into five subclasses: deposit, general insurance, life and pension, investment, and home finance (FSCS 2010). Institutions were placed into their relevant subclass depending on the type of service that the FSA had authorized them to conduct (FSCS 2010). Institutions could fall into more than one subclass (FSCS 2010). 
+
+All subclasses contributed to the FSCS’s base costs, which were proportional to the fees these institutions paid to the FSA (FSCS 2010). Costs associated with assessing claims and making payments were charged to a relevant subclass, as opposed to all institutions covered by the FSCS (FSCS 2010). There was an annual limit for these subclass-specific fees, after which the FSCS noted it was unfeasible for a single subclass to bear the compensation costs (FSCS 2010). When this limit was reached, the fees were shared more generally by the pool of FSCSinsured institutions (FSCS 2010). This model supposed that a subclass’s levies would meet the compensation required from that subclass’s defaults, up to a certain threshold (FSCS 2010). 
+
+## **Fees (B): To defray costs from loans, the FSCS charged an additional levy on the deposit-taking subclass.** 
+
+To fulfill its obligations during the GFC, the FSCS borrowed money from the BoE and HMT (FSCS 2009). In July 2009, the FSCS announced an additional levy on the deposit-taking subclass of institutions to cover the interest on these loans (FSCS 2010). The annual levy totaled GBP 406 million, which covered the interest accrued from 2008 to 2010 (FSCS 2010). The FSCS expected to repay the principal of the loan by 2012 (FSCS 2010). By March 2016, after the FSCS’s loans were refinanced, all loans had been repaid, except those associated with the failure of B&B (FSCS 2016). In 2017, HMT authorized a GBP 11.8 billion sale of B&B 
+
+> 5 “Electronic money” included “monetary value, as represented by a claim on the issuer, which is: (a) stored on an electronic device; (b) issued on receipt of funds; and (c) accepted as a means of payment by persons other than the issuer” (FSA 2008c). 
+
+
+loans, which generated a GBP 11 billion repayment for the FSCS (FSCS 2017). The remaining balance was paid off by 2018 (FSCS 2018). 
+
+**12. Process for Exercising Guarantee: If an authorized institution was unable to repay depositors or if the FSA believed that an institution would be unable to pay depositors, the FSCS guarantee would be activated.** 
+
+The FSCS guarantee would be activated if an institution was unable to fulfill its depositor redemptions or if the FSA believed that an institution would be unable to meet its obligations (FSCS 2008b). The FSCS would then pay depositors up to the given deposit insurance cap (FSCS 2008b). The FSCS would then liquidate the failed institution’s assets, with its proceeds repaying the FSCS (FSCS 2008b). House of Commons staff said that the “sheer scale of payments required overwhelmed” the FSCS during the GFC (Edmonds 2010). In its 2008– 2009 annual report, the FSCS also noted that some depositors experienced delays during the payout process (FSCS 2009). The FSCS attributed such difficulties to challenges obtaining comprehensive depositor information (FSCS 2009). The FSCS’s Independent Investigator further highlighted these delays and the lack of clear correspondence with depositors about the progress of a claim or specific decisions about a claim (FSCS 2009). The FSCS addressed these challenges in its 2009-2010 annual report, saying that it would target payouts within “seven days and in no more than 20 working days” beginning in January 2011 (FSCS 2010). 
+
+**13. Other Restrictions on Eligible Institutions/Accounts: There were no additional conditions associated with the FSCS’s guarantee.** 
+
+Other than fees, there were no additional conditions associated with the FSCS’s guarantee. 
+
+## **14. Duration: The changes to the deposit insurance system were adopted as permanent changes.** 
+
+The deposit insurance increase to GBP 50,000 was meant to be permanent (FSA 2008b). However, in 2010, UK authorities increased the deposit insurance cap again to GBP 85,000 to match the guarantee provided by countries in the European Economic Area (EEA) (FSA 2010). As of 2022, the deposit insurance limit in the UK stood at GBP 85,000 (FSCS n.d.). 
+
+
+## **References and Key Program Documents** 
+
+Documents cited in the text are introduced with a parenthetical author-date citation. Documents that are relevant to this case but have not been cited in text do not include this parenthetical reference. 
+
+## **Program Summaries** 
+
+(FSCS n.d.) Financial Services Compensation Scheme (FSCS). n.d. “What We Cover.” Financial Services Compensation Scheme Ltd. Accessed December 2, 2021. 
+
+_Website detailing the instruments covered by the FSCS and the coverage limits of those instruments_ . 
+
+https://ypfs.som.yale.edu/library/document/what-we-cover 
+
+## **Implementation Documents** 
+
+(Haarde 2008) Haarde, Geir. 2008. “Address to the Nation by H.E. Geir H. Haarde, Prime Minister of Iceland.” 
+
+_Announces the full guarantee, which covered all insured deposits within Iceland. The guarantee did not specify the Icelandic state’s treatment of deposits located in foreign branches_ . 
+
+https://ypfs.som.yale.edu/library/document/address-nation-he-geir-h-haarde-primeminister-iceland 
+
+## **Legal/Regulatory Guidance** 
+
+(Directive 2009/14/EC 2009) European Council and European Parliament (Directive 2009/14/EC). 2009. Directive 2009/14/EC of the European Parliament and of the Council of 11 March 2009 Amending Directive 94/19/EC on Deposit-Guarantee Schemes as Regards the Coverage Level and the Payout Delay. EU Directive. 
+
+_Requires EU Member States to update their deposit-guarantee systems, in accordance with principles established by the Ministers of Finance_ . 
+
+https://ypfs.som.yale.edu/library/document/directive-200914ec-european-parliamentand-council-11-march-2009-amending 
+
+(Directive 2014/49/EC 2014) European Parliament and European Council (Directive 2014/49/EC). 2014. Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on Deposit Guarantee Schemes. 
+
+_EU Directive on deposit insurance schemes_ . 
+
+https://ypfs.som.yale.edu/library/document/directive-201449eu-european-parliamentand-council-16-april-2014-deposit-guarantee 
+
+(FSA 2007a) Financial Services Authority (FSA). 2007a. “Compensation Sourcebook (Protected Deposits Limit) Instrument 2007.” Financial Services Authority. _Sourcebook changing the UK’s deposit insurance coverage_ . 
+
+https://ypfs.som.yale.edu/library/document/compensation-sourcebook-protecteddeposits-limit-instrument-2007 
+
+
+(FSA 2008a) Financial Services Authority (FSA). 2008a. “Compensation Sourcebook (Amendment No. 8) Instrument 2008.” Financial Services Authority. _Sourcebook increasing the UK’s deposit insurance coverage_ . https://ypfs.som.yale.edu/library/document/compensation-sourcebook-amendment-no8-instrument-2008 
+
+(FSA 2009) Financial Services Authority (FSA). 2009. “2009/47: Financial Services Compensation Scheme (Banking Compensation Reform) Instrument 2009.” _Rule requiring payouts to be made on the basis of gross deposits_ . https://ypfs.som.yale.edu/library/200947-financial-services-compensation-schemebanking-compensation-reform-instrument-2009 
+
+(United Kingdom Parliament 2000) United Kingdom Parliament. 2000. Financial Services and Markets Act 2000. 
+
+_UK law about the regulation of financial services and markets_ . 
+
+https://ypfs.som.yale.edu/library/document/financial-services-and-markets-act-2000 
+
+(United Kingdom Parliament 2009) United Kingdom Parliament. 2009. Banking Act 2009. _Law granting the FSCS more authority in resolution_ . https://ypfs.som.yale.edu/library/document/banking-act-2009 
+
+## **Press Releases/Announcements** 
+
+(BoE 2008a) Bank of England (BoE). 2008a. “Bradford and Bingley Plc Statement by the Chancellor.” Bank of England. 
+
+_Statement about Bradford and Bingley’s transfer to Abbey National_ . 
+
+https://ypfs.som.yale.edu/library/document/bradford-and-bingley-plc-statementchancellor 
+
+(FSA 2007b) Financial Services Authority (FSA). 2007b. “FSA Statement on Northern Rock PLC and Market Conditions.” Financial Service Authority. 
+
+_Statement on market conditions and the status of Northern Rock_ . https://ypfs.som.yale.edu/library/document/fsa-statement-northern-rock-plc-andmarket-conditions 
+
+(FSA 2007c) Financial Services Authority (FSA). 2007c. “Compensation Scheme to Cover 100% of Depositors’ Claims Up to £35,000.” 
+
+_Release announcing increase of the UK’s deposit insurance coverage_ . https://ypfs.som.yale.edu/library/document/compensation-scheme-cover-100depositors-claims-ps35000 
+
+(FSA 2008b) Financial Services Authority (FSA). 2008b. “Compensation Scheme to Cover Savers’ Claims Up to £50,000.” Financial Services Authority. 
+
+_Release announcing an increase to the UK’s deposit insurance limit_ . https://ypfs.som.yale.edu/library/document/compensation-scheme-cover-savers-claimsps50000 
+
+
+(FSA 2010) Financial Services Authority (FSA). 2010. “New Deposit Guarantee Limit to Be £85,000.” Financial Services Authority. 
+
+_Release announcing a further increase to the UK’s deposit insurance coverage in light of an EU Directive_ . 
+
+https://ypfs.som.yale.edu/library/document/new-deposit-guarantee-limit-be-ps85000 
+
+(FSCS 2008a) Financial Services Compensation Scheme (FSCS). 2008a. “Your Money Is Safe, FSCS Tells Bradford and Bingley Depositors.” 
+
+_FSCS statement regarding the failure of Bradford and Bingley_ . https://ypfs.som.yale.edu/library/document/your-money-safe-fscs-tells-bradford-andbingley-depositors 
+
+(HMT 2007) Her Majesty’s Treasury (HMT). 2007. “Statement by the Chancellor of the Exchequer on Financial Markets.” 
+
+_Statement discussing global financial markets_ . 
+
+https://ypfs.som.yale.edu/library/document/statement-chancellor-exchequer-financialmarkets 
+
+(HMT 2008) Her Majesty’s Treasury (HMT). 2008. “Financial Support to the Banking Industry.” _Release discussing the UK’s programs to assist the banking system_ . https://ypfs.som.yale.edu/library/financial-support-banking-industry 
+
+## **Key Academic Papers** 
+
+(Buchholtz 2021) Buchholtz, Alec. 2021. “UK Bank Recapitalisation Scheme.” _Journal of Financial Crises_ 3, no. 3: 720–37. 
+
+_Case study examining the UK’s Recapitalisation Scheme_ . 
+
+https://ypfs.som.yale.edu/library/united-kingdom-bank-recapitalisation-scheme 
+
+(FSB 2012) Financial Stability Board (FSB). 2012. “Thematic Review on Deposit Insurance Systems.” February 8, 2012. 
+
+_Paper describing key features and recommendations for deposit insurance systems following the GFC_ . 
+
+https://ypfs.som.yale.edu/library/document/thematic-review-deposit-insurance-systems 
+
+(IADI 2013) International Association of Deposit Insurers, Research and Guidance Committee (IADI). 2013. “Enhanced Guidance for Effective Deposit Insurance Systems - Deposit Insurance Coverage.” 
+
+_Paper providing recommendations for effective deposit insurance systems_ . https://ypfs.som.yale.edu/library/enhanced-guidance-effective-deposit-insurancesystems-deposit-insurance-coverage 
+
+
+(J&S 2016) Jónsson, Ásgeir, and Hersir Sigurgeirsson (J&S). 2016. _The Icelandic Financial Crisis: A Study into the World’s Smallest Currency Area and Its Recovery from Total Banking Collapse_ . Palgrave Macmillan Studies in Banking and Financial Institutions. Palgrave Macmillan, London. 
+
+_Study describing the Icelandic Financial Crisis in chronological and thematic detail, from the causes and early warning signs of instability to the crisis aftermath and recovery_ . https://ypfs.som.yale.edu/library/icelandic-financial-crisis-study-worlds-smallestcurrency-area-and-its-recovery-total 
+
+(Lawson 2021) Lawson, Aidan. 2021. “United Kingdom Asset Resolution Limited (UKAR).” _Journal of Financial Crises_ 3, no. 2: 641–64. 
+
+_Case study examining the UK’s asset-resolution program_ . https://ypfs.som.yale.edu/library/uk-asset-resolution-ukar 
+
+(McNamara 2020) McNamara, Christian. 2020. “The United Kingdom’s Credit Guarantee Scheme (U.K. GFC).” _Journal of Financial Crises_ 2, no. 3: 927–47. 
+
+_Case study focusing on the UK’s bank debt guarantee_ . 
+
+https://ypfs.som.yale.edu/library/document/united-kingdoms-credit-guarantee-schemeuk-gfc 
+
+(Schich 2008) Schich, Sebastian. 2008. “Financial Crisis: Deposit Insurance and Related Financial Safety Net Aspects.” _OECD Journal: Financial Market Trends_ 2008, no. 2: 1–39. _Paper examining deposit insurance in relation to topics in economics_ . 
+
+https://ypfs.som.yale.edu/library/document/financial-crisis-deposit-insurance-andrelated-financial-safety-net-aspects 
+
+## **Reports/Assessments** 
+
+(BoE 2008b) Bank of England (BoE). 2008b. Financial Stability Report Summary. Bank of England. 
+
+_Summary of the United Kingdom’s financial system in light of the GFC_ . https://ypfs.som.yale.edu/library/financial-stability-report-summary 
+
+(EC 2007) European Commission (EC). 2007. Rescue Aid to Northern Rock. _European Commission examination of aid to Northern Rock_ . https://ypfs.som.yale.edu/library/rescue-aid-northern-rock 
+
+(EC 2008) European Commission (EC). 2008. Restructuring Aid to Northern Rock. _European Commission examination of the UK’s restructuring of Northern Rock_ . https://ypfs.som.yale.edu/library/restructuring-aid-northern-rock 
+
+(Edmonds 2010) Edmonds, Tim. 2010. “Financial Services Compensation Scheme.” 04466. United Kingdom: House of Commons. 
+
+_Report outlining the background and scope of the FSCS_ . https://ypfs.som.yale.edu/library/document/financial-services-compensation-scheme 
+
+
+(FME 2009) Financial Supervisory Authority (FME). 2009. Annual Report 2009. _Describes the financial and macroeconomic contexts in the run-up to the Icelandic Financial Crisis_ . 
+
+https://ypfs.som.yale.edu/library/document/iceland-financial-supervisory-authorityannual-report-2009 
+
+(FSA 2008c) Financial Services Authority (FSA). 2008c. Financial Services Compensation Scheme: Review of Limits. Financial Services Authority. 
+
+_Review of the UK’s deposit insurance limit_ . https://ypfs.som.yale.edu/library/document/financial-services-compensation-schemereview-limits 
+
+(FSCS 2008b) Financial Services Compensation Scheme (FSCS). 2008b. Annual Report and Accounts: 2007/2008. Financial Services Compensation Scheme. _Annual report discussing the FSCS’s activities in 2007-2008_ . https://ypfs.som.yale.edu/library/document/annual-report-and-accounts-20072008 
+
+(FSCS 2009) Financial Services Compensation Scheme (FSCS). 2009. Annual Report and Accounts: 2008/2009. Financial Services Compensation Scheme. _Annual report discussing the FSCS’s activities in 2008-2009_ . https://ypfs.som.yale.edu/library/document/annual-report-and-accounts-20082009 
+
+(FSCS 2010) Financial Services Compensation Scheme (FSCS). 2010. Annual Report and Accounts: 2009/2010. Financial Services Compensation Scheme. _Annual report discussing the FSCS’s activities in 2009-2010_ . https://ypfs.som.yale.edu/library/document/annual-report-and-accounts-20092010 
+
+(FSCS 2016) Financial Services Compensation Scheme (FSCS). 2016. Annual Report and Accounts 2015/16. Financial Services Compensation Scheme. _Annual report discussing the FSCS’s activities in 2015-2016_ . https://ypfs.som.yale.edu/library/document/annual-report-and-accounts-201516 
+
+(FSCS 2017) Financial Services Compensation Scheme (FSCS). 2017. Annual Report and Accounts 2016/17. Financial Services Compensation Scheme. _Annual report discussing the FSCS’s activities in 2016-2017_ . https://ypfs.som.yale.edu/library/document/annual-report-and-accounts-201617 
+
+(FSCS 2018) Financial Services Compensation Scheme (FSCS). 2018. Annual Report and Accounts 2017/18. Financial Services Compensation Scheme. _Annual report discussing the FSCS’s activities in 2017-2018_ . https://ypfs.som.yale.edu/library/document/annual-report-and-accounts-201718 
+
+(House of Commons: Public Account Committee 2009) House of Commons: Public Account Committee. 2009. The Nationalisation of Northern Rock. 31. House of Commons: United Kingdom Parliament. 
+
+_Report examining the nationalization of Northern Rock_ . https://ypfs.som.yale.edu/library/nationalization-northern-rock 
+
+
+(House of Commons: Treasury Committee 2009a) House of Commons: Treasury Committee. 2009a. Administration and Expenditure of the Chancellor’s Departments, 2007–08. _Report examining HMT’s activities in 2007 and 2008_ . https://ypfs.som.yale.edu/library/document/administration-and-expenditurechancellors-departments-2007-08 
+
+(House of Commons: Treasury Committee 2009b) House of Commons: Treasury Committee. 2009b. Banking Crisis: The Impact of the Failure of the Icelandic Banks. _Report discussing the impact of Icelandic bank failures on the UK_ . https://ypfs.som.yale.edu/library/document/banking-crisis-impact-failure-icelandicbanks 
+
+(House of Commons: Treasury Committee 2009c) House of Commons: Treasury Committee. 2009c. Banking Crisis: Dealing with the Failure of the UK Banks. _Report focusing on the failure of UK banks_ . https://ypfs.som.yale.edu/node/3944 
+
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

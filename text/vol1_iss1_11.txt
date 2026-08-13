@@ -1,0 +1,138 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 1 Issue 1 
+2019 
+Lessons Learned: Thomas C. Baxter, Jr., Esq. Lessons Learned: Thomas C. Baxter, Jr., Esq. 
+Alec Buchholtz 
+Yale School of Management 
+Rosalind Z. Wiggins 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Administrative Law Commons, Banking and Finance Law Commons, Corporate Finance 
+Commons, Economic Policy Commons, Oral History Commons, Policy History, Theory, and Methods 
+Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Buchholtz, Alec and Wiggins, Rosalind Z. (2019) "Lessons Learned: Thomas C. Baxter, Jr., Esq.," Journal of 
+Financial Crises: Vol. 1 : Iss. 1, 202-204. 
+DOI: https://doi.org/10.17132/2693-3179.1009 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/11 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol1/iss1/11
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+Thomas C. Baxter , Jr ., Esq. 
+ 
+By Alec Buchholtz and Rosalind Z. Wiggins 
+Baxter, who was General Counsel of the Federal Reserve Bank of New York during the 
+financial crisis of 2007-2009, gives us his take on how best to prepare for future crises.1 
+During a crisis, it is important to have the right people working within an agency or 
+department, especially those with crisis experience.  
+One of the most important aspects o f how to fight a financial crisis is ensuring you have the 
+right people installed in leadership positions across an institution. The Federal Reserve was 
+lucky to have had in employ professionals who had lived through the Savings & Loans Crisis 
+of the 1980s, the rescue of Long -Term Capital Management in 1998, and the market 
+turbulence following the September 11 th terrorist attacks.  Throughout the crisis, the Fed 
+was able to draw upon the knowledge of these experienced professionals to help guide the 
+Federal Reserve and its banks through the Global Financial Crisis. They helped prepare 
+others who may not have had similar first -hand knowledge for how to handle the 
+organizational challenges and time pressures encountered during a crisis.  
+No matter what you call it, having prior knowledge of the tools and scenarios that 
+would be available in a crisis and some preparation is a valuable resource. 
+Whether you call it a “doomsday book” or just a  crisis playbook, knowing what types of 
+interventions have been used, and could be used, in a crisis before the crisis happens is a very 
+useful resource. Before the 2007 crisis, we at the Fed had thought through how we would 
+respond to various scenarios and had defined disciplines for implementing such responses. 
+We drew from our experiences after the 1987 mark et crash, then the Long -Term Capital 
+Management in 1998 near -failure, and the September 11 th turmoil, when the stock market 
+was closed for days. We memorialized the actions we took and then we went through a series 
+of “war games” to simulate what we would do in certain situations. I think this type of 
+exercise is a really useful thing for people in central banking who are charged with the 
+responsibility for maintaining financial stability. It’s important to think through the what-ifs, 
+put them down on paper , and try them out, before you get yourself into a situation where 
+you have to respond.  
+In a crisis, time is of the essence. Adapting or redeploying existing programs can save 
+valuable time.  
+In normal conditions, it usually takes weeks or months to perform the drafting, planning and 
+logistical work necessary to create a new lending program. In the midst of a crisis, however, 
+                                                           
+1 Lessons Learned are distilled from interview(s) with the principal conducted by YPFS. 
+202
+
+--- Page 4 ---
+2 
+ 
+that time frame is compressed into days or even hours as panic spreads and companies and 
+markets near collapse. The ability to adapt  a previously used facility or  operating program 
+to new uses could save valuable time. A crisis is not the time to “reinvent the wheel.”  
+The $85 Billion Revolving Credit Facility that the Federal Reserve Bank of New York (FRBNY) 
+entered into with American  International Group (AIG) was modeled on the term sheet that 
+a private consortium had been working on before the Lehman bankruptcy constrained them 
+to abandon their efforts. This term sheet provided the Fed with a template constructed by 
+one of the country’s leading experts in syndicated lending and enabled it to more expediently 
+craft an unprecedented loan that avoided collapse of the insurance giant and protect the 
+taxpayers’ interests. Another e xample occurred when the FRBNY sought to address AIG’s 
+securities lending program (one source of the rapid consumption of the $85 Billion loan) by 
+purchasing the mortgage-backed securities held by the program. AIG could not use the Term-
+Securities Lending Facility (TSLF), which the Fed had previously created to purchase similar 
+assets from banks and primary dealers. However, r elying on the TSLF, t he Fed created a 
+separate securities lending program for AIG, implementing in a much shorter timeframe, a  
+project that could have taken months.   
+In working with large, complex organizations government agencies need to be aware 
+that such organizations may operate across multiple jurisdictions and be subject to 
+many regulators.  
+The businesses of many large institutions operate subject to different regulating authorities 
+and across different jurisdictions  at the state and foreign level. Federal agencies helping 
+these complex institutions must consider the regulators of these entities in the various 
+jurisdictions, all who will have an interest in the entity and how the Fed’s role impacts it. It 
+is important to note also that these r egulators will have varying range s of influence, 
+sophistication, and capabilities that they will deploy to enforce their laws, and protect their 
+reputations and their taxpayers.  
+In the case of AIG, the Federal Reserve had to work with a variety of state i nsurance 
+commissioners since many of the assets that AIG owned, posted as collateral  with the Fed, 
+or were bought by the Fed , were held across different state s. Additionally, there was 
+disagreement between the Fed and the state insurance commissioners about jurisdiction 
+over the AIG Credit Facility Trust (AIG Trust). Through the AIG Trust the government held a 
+controlling interest of AIG equity.  We were able to come to agreements that enabled the Fed 
+to provide the support needed by AIG while protecting itself and the taxpayers in an 
+acceptable manner. The AIG Trust was formed as a separate trust managed by independent 
+trustees. 
+Maintaining stability and protecting the taxpayers’ interest s should guide decisions 
+about when to sell assets the government owns. 
+While it might seem beneficial for the government to exit an investment quickly, the decision 
+is more nuanced than that.  The trustees of the AIG trust originally thought that they would 
+plan to sell the AIG stock soon and be done. But it became clear that to do so would engender 
+a significant loss. Therefore, the trustees had to focus on ensuring good governance and 
+203
+Journal of Financial Crises Vol. 1 Iss. 1
+
+--- Page 5 ---
+3 
+ 
+strengthening the Board of Directors to monitor the investment until it could be sold. Exiting 
+a government investment should be done in a manner that is safe for the company and for 
+financial markets, and the process requires patience, not only on the part of the government 
+and the company, but also from the taxpayers. 
+_____________________________________ 
+Dated: January 2019 
+YPFS Lessons Learned No: 2019-03 
+ 
+204
+Thomas C. Baxter, Jr., Esq. Buchholtz and Wiggins

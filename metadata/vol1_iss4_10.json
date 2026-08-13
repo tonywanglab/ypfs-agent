@@ -1,0 +1,37 @@
+{
+  "doc_id": "vol1_iss4_10",
+  "document_type": "lesson_learned",
+  "title": "Lessons Learned: Ray Dalio",
+  "authors": [
+    "Andrew Metrick",
+    "Rosalind Z. Wiggins",
+    "Kaleb B. Nygaard"
+  ],
+  "abstract": null,
+  "keywords": [],
+  "publication_date": "2020-01-23T19:26:12Z",
+  "doi": null,
+  "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/10",
+  "volume": 1,
+  "issue": 4,
+  "document_number": 10,
+  "bepress_id": null,
+  "raw": {
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/10",
+    "parent_key": "16295863",
+    "context_key": "16309365",
+    "title": "Lessons Learned: Ray Dalio",
+    "publication_date": "2020-01-23T19:26:12Z",
+    "download_format": "pdf",
+    "download_link": "https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1046&context=journal-of-financial-crises",
+    "document_type": [
+      "lessons_learned",
+      "Lessons Learned"
+    ],
+    "author": [
+      "Andrew Metrick",
+      "Rosalind Z. Wiggins",
+      "Kaleb B. Nygaard"
+    ]
+  }
+}

@@ -1,0 +1,595 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 3 
+2020 
+New Zealand’s Wholesale Funding Guarantee (NZ GFC) New Zealand’s Wholesale Funding Guarantee (NZ GFC) 
+Everest Fang 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Finance and Financial Management Commons 
+Recommended Citation Recommended Citation 
+Fang, Everest (2020) "New Zealand’s Wholesale Funding Guarantee (NZ GFC)," Journal of Financial Crises: 
+Vol. 2 : Iss. 3, 826-839. 
+DOI: https://doi.org/10.17132/2693-3179.1110 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/43 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol2/iss3/43
+
+--- Page 3 ---
+New Zealand’s Wholesale Funding Guarantee 1 
+ 
+Everest Fang2 
+Yale Program on Financial Stability Case Study 
+January 16, 2019, Revised Date: October 10, 2020 
+ 
+Abstract 
+In 2008, the United States subprime mortgage crisis sparked international financial 
+turmoil, with effects becoming particularly severe after the collapse of Lehman Brothers on 
+September 15. Due to their banks’ dependence on foreign funding, New Zealand’s money 
+market experienced significant friction spilling over f rom the United States and Eu rope. 
+Liquidity premiums rose , and interbank lending became increasingly restricted. Although 
+the crisis was not as severe in New Zealand as it was in many other countries, the problems 
+in the money market caused some level of f inancial strain. To combat the crisis, the 
+Minister of Finance announced on  November 1, 2008 , that the government  would offer a 
+wholesale funding guarantee to investment-grade financial institutions with substantial 
+borrowing and lending in New Zealand. The program was intended to facilitate access to 
+international financial markets for New Zealand financial institutions in a time of risk 
+aversion for international investors. The program was administe red as an opt -in system , 
+with eligible banks applying for a guarantee for each security for which they desired the 
+government backing. Participants were charged a fee for the guarantee, with the amount 
+determined by the riskiness of the issuer, the currency of issuance, and the maturity of the 
+loan. A total of five institutions made 24 guaranteed issuances  worth $ 10.3 billion  NZD 
+before the issuance window closed  on April 30, 2010. There we re no defaults, and $290 
+million NZD was collected from the program. 
+Keywords: Wholesale funding guarantee, credit guarantee, New Zealand
+ 
+1 This case study is part of  the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering the responses to the global financi al crisis that pertain to bank debt  guarantee 
+programs. 
+Cases are available from the Journal of Financial Crises  at https://elischolar.library.yale.edu/journal -of-
+financial-crises/. 
+2 Everest Fang – Research Intern, YPFS, Yale School of Management. 
+826
+
+--- Page 4 ---
+At a Glance  
+The 2008 U.S. financial crisis caused 
+worldwide financial distress. The 
+dependence of New Zealand banks on 
+foreign funding made them vulnerable to 
+this turmoil. Liquidity in the international 
+capital market s tightened significantly, 
+causing the New Zealand money market to 
+experience increased frictions. I nterbank 
+lending became more and more rare as t he 
+spread between interbank interest rates 
+and expectations of official rates gradually 
+rose.  
+To facilitate access to international financial 
+markets for New Zealand financial 
+institutions, the Minister of Finance 
+announced on  November 1, 2008 , that the 
+government would offer a wholesale 
+funding guarantee to investment-grade 
+financial institutions with substantial 
+borrowing and lending in New Zealand. The 
+program allowed eligible institutions  to 
+apply for guara ntees for individual 
+securities. Participants were charged relatively high fees for the guarantees with the 
+intention of encouraging withdrawal from the program as s oon as market conditions 
+returned to normal. The fee schedule (which was amended several times) depended on the 
+creditworthiness of the issuer and the maturity and currency of the issuance. Securities 
+could be guaranteed for up to five years , and participa nts were expected to commit to 
+lengthening the average maturity of their funding whenever possible. 
+The first eligibility certificate for the program was i ssued on February 19, 2009. A total of 
+five banks participated in the program with 24 guaranteed issuances worth a total of $10.3 
+billion NZD ($7.5 billion) being made. The government collected a net total of $290 million  
+NZD in fees from the program. The last guarantee was issued on February 12, 2010, and the 
+issuance window of the facility formally ended on April 30, 2010. 
+Summary Evaluation 
+While there has not been much evaluation done on the program itself, it saw significant use 
+by participating financial institutions and managed to generate hundreds of millions of 
+dollars in net revenue for the government.  
+Summary of Key Terms 
+Purpose: To facilitate access to international 
+financial markets for New Zealand financial 
+institutions in a time of risk aversion for 
+international investors. 
+Announcement Date  November 1, 2008 
+Operational Date November 1, 2008 
+Date of First Guaranteed 
+Loan Issuance 
+February 19, 2009 
+Issuance Window 
+Expiration Date 
+Closed to new issuances 
+April 30, 2010 
+Program Size Opt-in; Unspecified 
+Usage  $10.3 billion NZD  
+($7.5 billion) 
+Outcomes $290 million NZD in fees 
+collected. No defaults 
+Notable Features Fees lowered twice to 
+better reflect market 
+conditions and promote 
+usage 
+New Zealand’s Wholesale Funding 
+Guarantee 
+827
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 5 ---
+Wholesale Funding Guarantee:  New Zealand Context 
+ 
+GDP 
+(SAAR, Nominal GDP 
+in LCU converted to 
+USD) 
+$135.1 billion in 2007 
+$135.5 billion in 2008 
+ 
+Source: Bloomberg 
+ 
+GDP per capita 
+(SAAR, Nominal GDP 
+in LCU converted to 
+USD) 
+$32,511 in 2007 
+$31,290 in 2008 
+ 
+Source: Bloomberg 
+ 
+Sovereign credit 
+rating (5-year senior 
+debt) 
+ 
+As of Q4, 2007: 
+ 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+As of Q4, 2008: 
+ 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+Source: Bloomberg 
+ 
+Size of banking 
+system 
+ 
+$189.7 billion in total assets in 2007 
+$195.9 billion in total assets in 2008 
+ 
+Source: Bloomberg 
+ 
+Size of banking 
+system as a 
+percentage of GDP 
+ 
+140.5% in 2007 
+144.6% in 2008 
+ 
+Source: Bloomberg 
+ 
+Size of banking 
+system as a 
+percentage of 
+financial system 
+ 
+Data not available. 
+ 
+ 
+Source: World Bank Global Financial 
+Development Database 
+ 
+5-bank concentration 
+of banking system 
+ 
+94.5% of total banking assets in 2007 
+94.8% of total banking assets in 2008 
+ 
+Source: World Bank Global Financial 
+Development Database 
+828
+New Zealand’s Wholesale Funding Guarantee Fang
+
+--- Page 6 ---
+Foreign involvement 
+in banking system 
+97.0% of total banking assets in 2007 
+96.0% of total banking assets in 2008 
+ 
+Source: World Bank Global Financial 
+Development Database 
+ 
+Government 
+ownership of banking 
+system 
+ 
+2% of banks owned by the state in 2008 
+ 
+Source: World Bank, Bank Regulation and 
+Supervision Survey 
+ 
+Existence of deposit 
+insurance 
+Limits on full coverage:  
+ 
+None by mid-September 2008 
+$710,120 by early December 2008 
+ 
+Source: OECD 
+ 
+829
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 7 ---
+I. Overview 
+Background 
+In 2008, the Unites States subprime  mortgage crisis destabilized the global financial 
+system, with effects becoming particularly severe after the collapse of Lehman Brothers in 
+mid-September. Due to the interconnectedness of the global financial system, New 
+Zealand’s money market experienced significant friction from spillovers from the United 
+States and Europe. At the time of the crisis, New Zealand banks were heavi ly dependent on 
+foreign funding.  About 45  percent of their funding came from overseas capital markets 
+(New Zealand Investment Guide  2015). In New Zealan d, liquidity premiums rose , and as a 
+result, interbank lending became more and more restricted. The spread between short -
+term interbank interest rates and expectations of official rates crept up  (Bollard 2009) . 
+When these effects began to be felt , s ome finance companies outside the traditional 
+banking sector were already under pressure owing to credit weaknesses  stemming from 
+their more aggressive lending practices. The failure rate among these institutions increased 
+as funding became more difficult to obtain. In the years before the introduction of New 
+Zealand’s guarantee schemes, 45 finance companies failed (Commerce Committee 2011).  
+In spite of these difficulties, New Zealand was not hit as hard by the crisis as many other 
+countries. The core of New Zealand’s financial system remained solid , notwithstanding the 
+failures that occurred outside the traditional banking sector . Money continued to flow 
+through New Zealand’s economy without the devastation of a liquidity freeze  (Bollard 
+2009). Two guarantee programs were introduced to ensure deposit ors and investors  
+remained confident in a time of turmoil and uncertainty: the Wholesale Funding Guarantee, 
+which is the focus of this case, and the Retail Deposit Guarantee Scheme, which was 
+announced prior to the Wholesale Funding Guarantee on October 12, 2008. 
+Program Description 
+On November 1, 2008, the New Zealand Minister of Finance announced that the 
+government would offer the Wholesale Funding Guarantee to investment -grade financial 
+institutions in New Zealand. The program was intended to facilitate access to international 
+financial markets for New Zealand financial institutions in a time of risk aversion for 
+international investors. The Ministry also state d that the facility would be designed to 
+encourage withdrawal from the program as soon as markets return to normal. Sections 
+65ZD and 65ZG of the Public Finance Act of 1989  were cited as the  legal basis for th e 
+program.  
+The guarantee was meant to assure  international investors that they would receive timely 
+repayment through the facility. The program was available to financial institutions with an 
+investment-grade credit rating of BBB - or better and that had substantial New Zealand 
+borrowing and lending operations  (including branches of foreign banks) . All newly issued 
+senior unsecured negotiable or transferable debt securities were eligible for a guarantee. 
+830
+New Zealand’s Wholesale Funding Guarantee Fang
+
+--- Page 8 ---
+The facility was offered on an opt -in basis by instit ution and instrument. Institutions that 
+sought to cover a security needed to apply for a guarantee eligibility certificate for a 
+proposed debt security liability.  
+ 
+The scheme covered the  New Zealand dollar, Australian dollar, US dollar, euro, pound  
+sterling, Swiss franc, Japanese yen, Hong Kong dollar, and Singaporean dollar . Other 
+currencies were considered by application on a case  by case basis. A guarantee fee was 
+charged for each issu e with the level of the fee determined by the riskiness of the issuer, 
+the currency of the security, and the term of the security. The fee schedule  was lowered  
+twice during the program , with  the final version  including fees ranging from 70 basis 
+points ( bps) for short -term issuances by highly rated issuers to 200 bps longer -term 
+issuances by lower-rated issuers. 
+Guarantees covered securities to maturity or for up to five years from the time they were 
+issued, whichever came first. The government does not appear to have established 
+minimum maturity requirements for eligible debt.  Participants in the program were not 
+allowed to have guarantees for debt large r than 125 percent of the total stock of eligible 
+types of debt on issue before the intensification of the crisis. This rule was the only limit 
+imposed on the amount of debt the government was willing to guarantee.  
+Participating institutions were required  to commit to lengthening the average maturity of 
+their funding whenever possible. To ensure compliance, the government asserted an 
+intention to monitor the issuing activities of participants. Institutions were also required to 
+maintain a capital buffer to ensure  that the capital position of the issuer would not be 
+depleted during the coverage period. The specified buffer was an additional 2 percent Tier 
+1 capital buffer, above the 4 percent regulatory minimum.  
+Outcomes 
+The first eligibility certificate for the program was issued on February 19, 2009, to the Bank 
+of New Zealand. In total, five institutions participated in the program: ANZ National Bank 
+Ltd, Bank of New Zealand, Westpac New Zealand Ltd, Kiwibank Ltd, and ASB Bank Ltd, 
+which were the five largest banks in New Zealand.   
+831
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 9 ---
+Figure 1: Certificates issued to participating banks 
+ 
+Bank Eligibility Certificates Issued 
+Bank of New Zealand 9 
+ANZ National Bank Ltd 8 
+Westpac New Zealand Ltd 6 
+Kiwibank Ltd 1 
+ASB Bank Ltd1 0 
+1 ASB Bank Ltd received a guarantee deed to participate but did not use any guarantees. 
+ 
+Source: New Zealand Treasury. 
+ 
+A total of 24 instruments were covered by the program (see Figure 1), worth about $10.3 
+billion NZD3. There were no defaults under the Wholesale Guarantee Scheme, and the New 
+Zealand government’s net gain was worth about $290 million NZD in fees (Reserve Bank of 
+NZ 2010).  The last eligibility certificate was issued on February 11, 2010, to Westpac New 
+Zealand Limited Ltd, and the program formally ended on April 30, 2010. 
+II. Key Design Decisions 
+1. The program was part of a package of measures introduced in late 2008 to help 
+stabilize the financial system and was linked with a guarantee on retail deposits. 
+In addition to the Wholesale Funding Guarantee Scheme, which was announced on 
+November 1, 2008, the government of New Zealand also announced the Retail Deposit 
+Guarantee scheme on October 12, 2008, which  covered “all retail deposits of participating 
+New Zealand–registered banks as well as retail deposits by eligible depositors in nonbank 
+deposit-taking entities, including building societies, credit unions , and finance companies.”  
+Institutions seeking to participate in the Wholesale Funding Guarantee were expected to 
+have applied for a guarantee under the Retail Deposit Guarantee Scheme. 
+2. Legal authority for the scheme was derived from sections 65ZD and 65ZG of the 
+Public Finance Act of 1989. 
+New Zealand authorities were able to establish the scheme based on standing legal 
+authority provided in the Public Finance Act of 1989. 
+ 
+3 $7.5 billion ($1 USD = $1.36 NZD as of April 30, 2010). 
+832
+New Zealand’s Wholesale Funding Guarantee Fang
+
+--- Page 10 ---
+3. There was no explicit cap on the  amount the government of New Zealand could 
+guarantee. 
+Program documents contained no cap on  the amount of guaranteed debt that could be 
+issued pursuant to the scheme. 
+4. Financial institutions with “substantial New Zealand borrowing and lending 
+operations” (including branches of foreign banks) that possessed an investment -
+grade credit rating (BBB– or higher) were eligible to participate in the scheme.  
+The purpose of the Wholesale Funding Guarantee Scheme was to re -establish access to 
+international funding markets, and New Zealand authorities expressed a belief that th ese 
+eligibility requirements would capture all institutions reliant on such markets in the years 
+leading up to the crisis. Authorities further noted that a small number of nonbank financial 
+companies would likely be eligible as well, but none participated. 
+Branches of foreign banks were eligible to participate in the Wholesale Funding Guarantee 
+Scheme given their significant role in New Zealand’s domestic bank bill market, but to help 
+ensure that the scheme wasn’t used to fund a branch’s wider group, foreign  branches could 
+make guaranteed issuances only in New Zealand dollars. 
+There was also a requirement of an additional capital buffer, which was intended to protect 
+the government as guarantor. The buffer defend ed against the risk that the capital position 
+of financial institutions was depleted during the period of the guarantee.  Guaranteed 
+“locally incorporated, registered” banks were required to maintain a Tier 1 capital buffer at 
+2 percent over the required minimum. If a bank failed to maintain the additional buffer, the 
+government would not issue any additional guarantees to that institution. Any non -bank 
+issuers would have their buffers assessed on a case by case basis (Reserve Bank of New 
+Zealand 2008). 
+5. All newly issued senior unsecured negotiable or transferable debt securities were 
+eligible for the guarantee scheme. 
+Any new issues of these instruments by eligible financial institutions were eligible for 
+coverage under the wholesale scheme. Ones targeted partly or wholly at retail investors 
+were also included. 
+6. Guaranteed securities could have any maturity, but the guarantee would last only  
+to maturity or up to five years, whichever came earliest. 
+New Zealand authorities had initially contemplated a three-year maximum guarantee term. 
+However, authorities became concerned that this would concentrate maturities and 
+preclude New Zealand institutions from accessing a substantial pool of investors i nterested 
+in longer maturities.  
+The government does not appear to have established minimum maturity requirements for 
+eligible debt. 
+833
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 11 ---
+7. Currencies that were eligible were the New Zealand dollar, Australian dollar, US  
+dollar, euro, pound sterling, the Swiss Franc, Japanese yen, Hong Kong dollar, and 
+the Singaporean dollar. 
+Other currencies could be included but had to be applied for and were considered on a case  
+by case basis.  
+8. Participants in the program were not allowed to have guarantees for deb t larger 
+than 125 percent of the total stock of eligible types of debt on issue prior to the 
+intensification of the crisis. 
+This figure was the stated limit on guarantee coverage for New Zealand financial 
+institutions. The limit was intended to protect the government against the risk that banks 
+attempt to increase their funding solely on the basis of the guarantee. The constrai nt was 
+also designed to protect against the risk that NZD issuance by N ew Zealand branches of 
+foreign banks under the guarantee might be used to fund  the activities of the broader 
+groups.  
+9. Guarantee fees were based on issuer creditworthiness, maturity , and currency, 
+and were lowered twice in response to market conditions. 
+New Zealand authorities  intended the guarantee fees to facilitate access to the scheme as 
+long as market conditions remained difficult, while encouraging  a return to non -
+guaranteed issuance as soon as market conditions improved. Fees were lower for securities 
+with shorter terms reflecting the lower market prices for credit risk on loans of shorter 
+maturity. Riskier loans warranted significantly higher fees than more secure ones, to cover 
+the risk of default. Guarantees for loans in NZD were more expensive than ones in other 
+currencies, reflecting the stated purpose of the facility to increase New Zealand institutions’ 
+access to international capital markets. 
+Authorities concluded that the in itial fee schedule associated with the Wholesale Funding 
+Guarantee Scheme resulted in fees that were too high. Shortly before the program launched, 
+an initial modification to the schedule reduced the fees associated with short -term 
+issuances by 15 bps to b etter reflect normal market pricing and to more closely match the 
+fees charged by other countries (particularly Australia). Then , in January 2009 , with no 
+guaranteed issuances having yet been made, New Zealand reduced the fee for s hort-term 
+issuances a further 15 bps and cut the fee for longer -term issuances by 50 bps. The stated 
+rationale for these cuts was the high cost of issuing even guaranteed debt. Authorities also 
+noted the fact that the fees as reduced were more in line with other countries’ fees.  
+The final fee schedule associated with the program is shown in Figure 2. 
+ 
+ 
+ 
+834
+New Zealand’s Wholesale Funding Guarantee Fang
+
+--- Page 12 ---
+Figure 2: Fee Schedule 
+ 
+ 
+10. Participating institutions were required to commit to lengthening the average 
+maturity of their funding whenever possible. 
+This commitment was intended to protect against  the risk that banks might attempt to 
+concentrate issuances in short -term maturities, for whi ch the guarantee fee was lower. To 
+enforce the rule, the government stated an intent to closely monitor the issuing  activity of 
+participants. Furthermore, the government  retained the power to adjus t the pricing 
+structure of the guarantee to potentially counteract any maturity concentration.  
+11.  No deadline for issuing guaranteed debt was established at the outset of the 
+program; authorities ultimately closed the issuance window on April 30, 2010.  
+New Zealand viewed its fee structure as precluding the need for a pre -established deadline 
+on guaranteed issuance, with its emphasis on imposing costs that would make guaranteed 
+issuance prohibitively expensive once conditions impr oved. In response to such 
+improvements and based on the observation that institutions were again able to access 
+funding without resort to the guarantee, authorities announced on April 30, 2010 , that no 
+new guarantees issuances could be made. 
+IV. Evaluation 
+There has been  little evaluation of the Wholesale Funding Guarantee. However, with 24 
+guarantees issued, the program seems to have aided New Zealand financial institutions in 
+accessing international capital markets. The fee schedu le was adjusted several ti mes in 
+response to the government’s belief that high fees may be discouraging usage . Usage 
+increased after fee schedule adjustments, particularly after the first adjustment, suggesting 
+these decisions accomplished their goal (Wanganui Chronicle 2010). A total of $10.3 billion 
+NZD in loans were guaranteed, reflecting significant usage of and benefit from the program.  
+Credit Rating of issuer 
+One Year or less 
+(bps per annum) 
+More than one year 
+(bps per annum) 
+    NZD non-NZD 
+AA- and above   70   90   70 
+A- to A+ 130 150 130 
+BBB- to BBB+ 180 200 180 
+835
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 13 ---
+V. References 
+Bollard, Alan  and Tim Ng . 2009. “Coping with Global Financial and Economic Stresses .” 
+January 30, 2009. Governor of the Reserve Bank of New Zealand ’s Address to the 
+Canterbury Employees’ Chamber of Commerce . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Coping%20with%20Global
+%20Financial%20and%20Economic%20Stresses%20(RBNZ%202009).pdf. 
+Commerce Committee, New Zealand House of Representatives.  2011. “Inquiry into Finance 
+Company Failures —Report of Commerce Committee .” October 2011. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Inquiry%20into%20Financ
+e%20Company%20Failures%E2%80%94Report%20of%20Commerce%20Committee%2
+0(2011).pdf. 
+New Zealand Investment and Business Guide. 2015. Vol. 1. Washington DC: IBP. 
+ 
+Reserve Bank of  New Zealand. 2008. “Joint Report: Update on the Design Features of a 
+Wholesale Guarantee Facility and Other Issues.” Report No. T2008/2109. October 30, 2008.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Joint%20Report%20Update
+%20on%20the%20Design%20Features%20of%20a%20Wholesale%20Guarantee%20Fac
+ility%20and%20Other%20Issues%20(RBNZ%202011).pdf. 
+ 
+———. 2010. Financial Stability Report . November 2010.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Financial%20Stability%20R
+eport%20(RBNZ%202010).pdf. 
+ 
+Wanganui Chronicle.  2010. “NZ May End Wholesale Funding Guarantees. ”, February 9, 
+2010.  
+VI. Key Program Documents 
+Program Summary 
+Wholesale Guarantee Facility: Cabinet Paper  – Joint Report of the Treasury and Reserve 
+Bank detailing the key characteristics of New Zealand’s Wholesale Funding Guarantee.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Wholesale%20Guarantee%
+20Facility%20Cabinet%20Paper%20(Treasury%202008).pdf. 
+A Wholesale Guarantee Facility: Detailed Design Issues and an Overall Assessment – Report 
+of the Treasury summarizing important issues with regard to New Zealand’s Wholesale 
+Funding Guarantee. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/A%20Wholesale%20Guara
+ntee%20Facility%20Detailed%20Design%20Issues%20and%20an%20Overall%20Assess
+ment%20(NZ%20Treasury%202008).pdf. 
+836
+New Zealand’s Wholesale Funding Guarantee Fang
+
+--- Page 14 ---
+Update on the Design Features of a Wholesale Guarantee Facility and Other Issues – Joint 
+Report of the Treasury and Reserve Bank explaining key features of New Zealand’s Wholesale 
+Funding Guarantee.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Joint%20Report%20Update
+%20on%20the%20Design%20Features%20of%20a%20Wholesale%20Guarantee%20Fac
+ility%20and%20Other%20Issues%20(RBNZ%202011).pdf. 
+Implementation Documents 
+Form of Application for a Crown Wholesale Funding Guarantee Facility Deed  – List of 
+required materials for institutions applying to the Wholesale Funding Guarantee program. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Form%20of%20Application
+%20for%20a%20Crown%20Wholesale%20Funding%20Guarantee%20Facility%20Deed
+%20(Treasury%202008).pdf. 
+Crown Wholesale Funding Guarantee Facility Deed  – Draft document released by the 
+Treasury detailing the terms of participation in the guarantee program . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Crown%20Wholesale%20F
+unding%20Guarantee%20Facility%20Deed.pdf. 
+Crown Wholesale Funding Guarantee Facility Deed  – Final Specimen  – Final document 
+released by the Treasury detailing the terms of participation in the guarantee program . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Crown%20Wholesale%20F
+unding%20Guarantee%20Facility%20Deed%20%E2%80%93%20Final%20Specimen.pdf. 
+Crown Wholesale Funding Guarantee Scheme – Policy Guidelines  – Document released by 
+the Treasury descr ibing terms and guidelines for implementing the program . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Crown%20Wholesale%20F
+unding%20Guarantee%20Scheme%20%E2%80%93%20Policy%20Guidelines%20(NZ%2
+0Treasury%202008).pdf. 
+Operational Guidelines: Ne w Zealand Wholesale Funding Guarantee Facility  – Document 
+released by the Treasury answering key questions about implementation of the program .  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Wholesale%20Guarantee%
+20Facility%20-%20Detail%20(NZ%20Treasury%202009).pdf. 
+Media Stories   
+Last Day of Government Guarantee on Wholesale Funding (Radio New Zealand - 05/01/10) 
+– Story announcing the conclusion of the Wholesale Funding Guarante e.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Last%20Day%20of%20Gov
+ernment%20Guarantee%20on%20Wholesale%20Funding%20(Radio%20New%20Zealan
+d%202010).pdf. 
+Press Releases/Announcements 
+837
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 15 ---
+Coping with Global Financial and Economic Stresses  (2009) – Address by A lan Bollard, 
+Governor of the Reserve Bank of New Zealand, to Canterbury Employees’ Chamber of 
+Commerce. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Coping%20with%20Global
+%20Financial%20and%20Economic%20Stresses%20(RBNZ%202009).pdf. 
+Crown Retail Deposit Guarantee Scheme and Wholesale Funding Guarantee Facility  
+(09/25/09) – Information release from the Treasury and Reserve Bank of New Zealand 
+detailing more information on the guarantee programs . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Crown%20Retail%20Depos
+it%20Guarantee%20Scheme%20and%20Wholesale%20Funding%20Guarantee%20Facilit
+y%20Information%20Release%20(Treasury%202009).pdf. 
+Wholesale Guarantee Scheme fees Reduced (01/27/09) – Media statement by the Treasury 
+announcing reduction in guarantee fees. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Wholesale%20Guarantee%
+20Scheme%20fees%20reduced%20(Treasury%202009).pdf. 
+Retail Deposit Guarantee Scheme Continues as Wholesale Guarantee Facility Closes 
+(04/30/10) – Media statement by the Treasury announcing the end of the wholesale facility. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Retail%20Deposit%20Guar
+antee%20Scheme%20continues%20as%20Wholesale%20Guarantee%20Facility%20close
+s%20(Treasury%202010).pdf. 
+Reports/Assessments 
+Inquiry into Finance Company Failures  (Commerce Committee 2011) – Report presented to 
+House of Representatives  and New Zealand Parliament  on failure of finance companies . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Inquiry%20into%20Financ
+e%20Company%20Failures%E2%80%94Report%20of%20Commerce%20Committee%2
+0(2011).pdf. 
+Financial Stability Report (Reserve Bank of New Zealand 2010) – Assessment of the financial 
+stability of the country in November 2010 . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Financial%20Stability%20R
+eport%20(RBNZ%202010).pdf. 
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu.   
+ 
+ 
+838
+New Zealand’s Wholesale Funding Guarantee Fang

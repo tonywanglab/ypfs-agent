@@ -1,0 +1,1050 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 4 
+2024 
+International Monetary Fund: Special Drawing Rights Allocations, International Monetary Fund: Special Drawing Rights Allocations, 
+2009 2009 
+Ikbal S. Ahluwalia 
+Yale College 
+Owen Heaphy 
+YPFS, Yale School of Management 
+Rosalind Z. Wiggins 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance and Financial 
+Management Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, and 
+Methods Commons, Public Administration Commons, and the Public Economics Commons 
+Recommended Citation Recommended Citation 
+Ahluwalia, Ikbal S.; Heaphy, Owen; and Wiggins, Rosalind Z. (2024) "International Monetary Fund: Special 
+Drawing Rights Allocations, 2009," Journal of Financial Crises: Vol. 6 : Iss. 4, 116-140. 
+DOI: https://doi.org/10.17132/2693-3179.1602 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss4/4 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol6/iss4/4
+
+--- Page 3 ---
+International Monetary Fund: Special Drawing Rights 
+Allocations, 20091 
+Ikbal S. Ahluwalia,2 Owen Heaphy,3 and Rosalind Z. Wiggins4 
+Yale Program on Financial Stability Case Study 
+December 17, 2024 
+ Abstract  
+Despite efforts by the world’s major economies to address stresses in the global financial 
+system, by early 2009, the Global Financial Crisis caused developing and lower -income 
+countries to experience shortages of the major reserve currencies. In August 20 09, the 
+International Monetary Fund (IMF) distributed a general allocation of Special Drawing 
+Rights (SDR)  of unprecedented size —totaling USD 250 billion (SDR 161.3 billion)—to all 
+member countries in an effort to address these issues and provide liquidity to the world’s 
+economies. In September 2009, it also distributed a special “catch -up” allocation of USD 33 
+billion in SDRs (SDR 21.5 billion) to eligible members that had joined the fund after 1981. 
+SDRs are a reserve currency unit created by the IMF in 1969 to serve as international reserve 
+assets to facilitate the exchange of currencies of IMF members. Although subject to some 
+constraints, member countries can hold SDRs as reserves, use them to settle IMF or member 
+accounts, or exchange them for hard currencies, particularly the US dollar, euro, yen, pound, 
+or renminbi, which are the largest reserve currencies and are used to set the value of SDRs .  
+In the first four months after the allocations, 16 countries sold SDR 2.9 billion  for other 
+reserve currencies. While utilization was relatively low, the IMF reported continued sales  
+and downstream use of SDRs, with some developing countries selling more than 80% of their 
+SDRs within a few years. 
+Keywords: emergency liquidity, International Monetary Fund, SDR allocation, Special 
+Drawing Rights  
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering central bank swap line programs. Cases are available from the Journal of Financial Crises 
+at https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss4/. 
+2 Yale College, Class of 2022, Economics. 
+3 Research Associate, YPFS, Yale School of Management. 
+4 Director, the Global Financial Crisis Project, YPFS, and Lecturer, Yale School of Management. 
+116
+
+--- Page 4 ---
+Overview 
+By early 2009 , amid the Global Financial 
+Crisis (GFC) , smaller and  developing 
+economies experienc ed shortages of the 
+major reserve currencies. As deep 
+vulnerabilities in financial institutions 
+worldwide became increasingly apparent, 
+Edwin Truman, then counselor to US 
+Treasury Secretary Timothy Geithner and a  
+longtime Federal Reserve and Treasury 
+official, proposed that the International 
+Monetary Fund (I MF) make an allocation to 
+member countries of USD 250 billion in  
+Special Drawing Right s (SDR) ( SDR 161.3 
+billion) to help fight the crisis  in emerging 
+and developing nations  (Taylor 2009; 
+Truman 2019). 
+Truman’s 2009 proposal was more than 10 
+times larger than either of the two previous 
+allocations of SDRs  made in 1970 –72 and 
+1979–81 (see Figure 1). The Group of 20 (G-
+20) took up the proposal at its April 2009 
+meeting and adopted it as part of a larger 
+multifaceted plan to enhance the IMF’s 
+resources by USD 750 billion to fight the GFC. 
+The proposal for a general allocation of SDRs 
+was subsequently endorsed by the IMF 
+board of g overnors on August 7, 2009 , and 
+implemented on August 28, 2009.  Every IMF 
+member participat ed in the distribution  in 
+accordance with their IMF quota (G-20 2009; 
+IMF 2009d; IMF 2019; Truman 2019). 
+The G -20 also supported approval of the 
+fourth amendment to the  IMF’s Articles of 
+Agreement, which would allow  a special 
+“catch-up” allocation of SDRs to those 
+members that had joined the Fund after 
+1981 and thus had not participated in the 
+two previous allocations  (G-20 2009, 5) . A 
+number of these countries were emerging 
+markets and low-income countries. The  
+Key Terms 
+Purpose: To provide freely usable unconditional 
+reserve currency units to IMF member countries to 
+address GFC impacts  
+Participating 
+Parties 
+All IMF member countries 
+received the general 
+allocation; only those who 
+joined after 1981 received 
+the special allocation 
+Type of Program SDR allocations 
+Currencies 
+Involved 
+Special Drawing Rights 
+(SDR) 
+Launch Dates  General allocation:  
+August 7, 2009; 
+Special allocation:  
+August 9, 2009 
+End Date Not applicable  
+Dates of 
+Distribution 
+General allocation:  
+August 28, 2009; 
+Special allocation:  
+September 9, 2009 
+Interest Rate and 
+Fees 
+The IMF pays interest on SDR 
+balances over net allocation 
+and receives interest on SDR 
+balances that are less than 
+net allocation  
+Amount 
+Authorized 
+General allocation:  
+SDR 161.3 billion  
+(USD 250 billion); 
+Special allocation:  
+SDR 21.5 billion  
+(USD 34 billion) 
+Downstream Use, 
+Application of 
+Funds 
+In the four months following 
+both allocations, 16 countries 
+swapped SDR 2.9 billion for 
+hard currencies, with several 
+low-income countries using 
+more than 80% of their 2009 
+SDR allocations 
+Outcomes The general and special 
+allocations were one-time 
+allocations, each completed 
+on one day 
+ 
+(continued) 
+117
+Journal of Financial Crises Vol. 6 Iss. 4
+
+--- Page 5 ---
+fourth amendment, originally proposed in 
+1997, had not received the required 
+approval of three-fifths or 85% of the voting 
+power of the  membership. The US vote to 
+ratify the amendment on August 10, 2009, 
+took the measure across the threshold . A 
+special allocation of SDR 21.5 billion (USD 33 billion) was distributed on September 9, 2009, 
+to eligible members (G-20 2009; IMF 2016; IMF 2019; Soros 2002). 
+Combined, the two 2009 allocations totaled SDR 182. 7 billion (USD 284 billion). Before the 
+2021 special allocation , the three general allocations and 2009 special allocation of SDRs 
+totaled SDR 204.2 billion ($291 billion) (IMF 2016). For the size of the IMF’s SDR allocations 
+as of the writing of this case, see Figure 1. For more information regarding the 2021 special 
+allocation, see Arnold (2024). 
+Figure 1: IMF SDR Allocations through 2024 
+ 
+ 
+*Note: Per the IMF, SDR 1 = USD 1.34 as of October 10, 2024. 
+Sources: IMF 2024; Weiss and Nelson 2021, 1. 
+For a more detailed description of how SDRs function, see the Appendix. 
+Summary Evaluation 
+During the first four months after the 2009 allocations, 16 countries sold SDR 2.9 billion. The 
+IMF also reported continued sales with some countries selling more than 80% of their SDRs 
+in a few years . Consequently, some economists argue that the 2009 SDR allocations 
+ultimately met their goal of providing liquidity to global financial markets during the 
+financial crisis, even though  the percentage of global reserves r epresented by SDRs was 
+Notable Features The general allocation was 
+more than 10 times larger 
+than either of the two 
+previous allocations and part 
+of USD 750 billion in IMF 
+funding to address the GFC 
+118
+International Monetary Fund: Special Drawing Rights Allocations, 2009 Ahluwalia et al.
+
+--- Page 6 ---
+relatively small—less than 4% of total following both 2009 allocations . In an opinion piece  
+for Financial Times , Li Gang, governor of the People’s Bank of China, said the allocation 
+“played an important role in mitigating the [2008] crisis, building confidence and economic 
+recovery” (Erten 2012; Gang 2020; IMF 2016; Williamson 2009). 
+However, despite the then-unprecedented size of the GFC SDR allocations, scholars generally 
+agree that the SDR’s position in the international economy is “still not that relevant” and the 
+SDR remains far from becoming a reliable reserve asset owing to numerous shortcomings 
+(Martins 2017, 413–14). Since SDRs are allocated based on the quota system, most SDRs go 
+to advanced countries. As a result, the headline number for any SDR allocation is many times 
+larger than the portion likely to be utilized, a characteristic which the IMF says “complicates 
+political decision making” regarding size (IMF 2011b, 10). Other economists note that SDRs 
+cannot be used for commercial or trade transactions  as private parties cannot hold SDRs . 
+Still others raise concerns that, as SDRs are unconditional assets, countries may use them 
+instead of developing “sound po licies” within their financial systems (Gallagher, Ocampo, 
+and Volz 2020; Martins 2017).  
+The G-20 statement of March 2009 requested that the IMF review its quotas by January 2011. 
+The Fund’s review from 2011 concluded that, to strengthen the SDR, its current scope would 
+need to be enhanced considerably from its “current insignificant level”  (IMF 2011b, 1). The 
+review also noted that the quota system resulted in a majority proportion of SDR allocations 
+going to countries that did not need additional reserve s and that were not likely to 
+participate in SDR transactions (G-20 2009; IMF 2011b, 10).  
+Despite these shortcomings, on August 2, 2021, in response to the COVID-19 pandemic, the 
+IMF approved a general allocation that was almost three times the size of the GFC allocations, 
+totaling SDR 456 billion (USD 650 billion) (IMF 2021b). Critics again argued that, as the 2021 
+allocation would be made per IMF quotas, only a fraction of new SDRs would go to countries 
+with developing and emerging economies . Some economists reviewed the allocation 
+favorably as a solution to short -term liquidity issues, while others questioned its efficacy 
+(Nordquist and Katz 2021; Zafar, Muench, and Ordu 2021). See Arnold (2024) for a detailed 
+analysis of the 2021 allocation.  
+ 
+  
+119
+Journal of Financial Crises Vol. 6 Iss. 4
+
+--- Page 7 ---
+Key Design Decisions 
+1. Purpose and Type: In response to the GFC, the IMF allocated the equivalent of USD 
+283 billion in SDRs to provide liquidity to the global economic system by boosting 
+member countries’ reserves. 
+On August 7, 2009, the IMF board of governors approved a general allocation of SDR 161.2 
+billion (USD 250 billion), to “provide liquidity to the global economic system by 
+supplementing Funds’ member countries’  foreign exchange reserves.”  (IMF 2009d) . The 
+allocations were part of a larger effort, spearheaded by the G -20, “to tackle the global 
+financial and economic crisis by restoring credit, growth and jobs in the world economy ” 
+(IMF 2009b; IMF 2019).  
+Any allo cation of SDRs must take into consideration the principles included in the IMF’s 
+Articles of Agreements: 
+In all its decisions with respect to the allocation and cancellation of special drawing 
+rights the Fund shall seek to meet the long -term global need, as and when it arises, to 
+supplement existing reserve assets in such manner as will promote the attainment of its 
+purposes and will avoid economic stagnation and deflation as well as excess demand 
+and inflation in the world (IMF 2020a, 42). 
+SDRs are allocated unconditionally, and members can use them to obtain freely usable 
+currencies to meet a balance of payments need without undertaking economic policy 
+measures or repayment obligations. During the general 2009 allocation, all then-current 186 
+IMF members received an allocation in proportion to their quotas in the IMF, based broadly 
+on the size of each country’s economy (IMF 2009d). 
+The press release announcing the general allocation noted that USD 100 billion of the 
+allocation would  go to emerging markets and developing countries, with low -income 
+countries receiving over USD 18 billion. For these countries, the release stated, SDRs would 
+provide enhanced options for reserve management and function as “a low -cost liquidity 
+buffer and reduce the need for excessive self-insurance” (IMF 2009b).  
+A separate one -time special allocation of SDR 21.5 billion ( USD 33 billion) was also 
+authorized pursuant to the recently approved fourth amendment to the IMF Articles of 
+Agreement. This allocation, implemented on September 9, 2009, was intended to “make the 
+allocation of SDRs more equitable and correct for the fact that countries that had joined the 
+Fund after 1981—more than one fifth of the current IMF membership —had never received 
+an SDR allocation” (IMF 2009d).  
+120
+International Monetary Fund: Special Drawing Rights Allocations, 2009 Ahluwalia et al.
+
+--- Page 8 ---
+2. Part of a Package: During the GFC, with enhanced support from the G-20 countries, 
+the IMF deployed numerous other funding tools to assist its members and created 
+a new Flexible Credit Line. 
+The SDR allocation was supplemented by other actions of the IMF to assist member countries 
+in responding to the crisis. These included:  
+• Assisting member countries, particularly low-income countries, in dealing with the 
+effects of the food and fuel price shocks; 
+• Activating the IMF emergency fin ancing mechanism to assist seven countries with 
+expedited financing;  
+• Loans amounting to SDR 65.8 billion to 15 member countries through its 
+nonconcessional facilities; 
+• Loans or augmentations to existing arrangements for 26 countries totaling SDR 1.1 
+billion through its concessional lending facilities; 
+• A major overhaul of the Fund’s lending toolkit to make sure the Fund had adequate 
+resources to meet the crisis (IMF 2009f).  
+The IMF also introduced in March 2009 a new Flexible Credit Line (FCL)  to member 
+countries who met certain criteria: The purpose of the FCL was to  provide short -term 
+lending to help countries address crises  in a more timely manner, ease lending and address 
+countries’ balance of payments financing needs; however, as of the writing of this case, usage 
+has been minimal, with Colombia becoming the first country to draw from the facility in 2020 
+for USD 5.4 billion (IMF 2011a; IMF 2020b).  
+For all IMF lending programs, the IMF does not create new SDRs as it does in an SDR 
+allocation. Rather, in lending programs, the IMF provides existing SDRs or reserve currencies 
+to the borrow ing country by drawing on the reserve asset subscriptions of other member 
+countries or by calling on countries that are considered financially strong to exchange their 
+currencies for reserve assets (IMF 2001). 
+The SDR allocations were proposed by the G-20 countries as part of a  USD 1.1 trillion plan  
+agreed to at their  London Summit in April 2009 to address the impacts of the GFC. Other 
+elements of the plan included: 
+121
+Journal of Financial Crises Vol. 6 Iss. 4
+
+--- Page 9 ---
+• USD 100 billion of lending by the World Bank and other m ultilateral development 
+banks to include low-income countries; 
+• An immediate USD 250 billion increase , through contributions , in the resources 
+available under the IMF lending programs, with another USD 250 billion possible 
+later; 
+• An additional USD 6 billion from IMF gold sales for concessional finance for the 
+poorest countries. The G -20’s plan was meant to, among other things , “restore 
+credit, growth and jobs in the wor ld econom y . . . repair the financial system to 
+restore lending  . . . [and] promote global trade and investment and reject 
+protectionism.” (G-20 2009, 1; IMF 2019). 
+The central banks of G -20 countries also individually undertook measures to address the 
+crisis: lowering policy rates, expanding liquidity, and using a range of conventional and 
+unconventional tools. Additionally, in 2010–12, the so-called “Troika”—including the IMF, 
+European Commission, and European Central Bank—used euros and SDRs to compose large 
+financial assistance packages for Greece, Ireland, and Portugal. Those packages included SDR 
+commitments from the IMF totaling USD 62 billion for Greece, USD 29 billion for Ireland, and 
+USD 34 billion for Portugal, as of 2012 (Nelson et al. 2012). 
+3. Legal Authority: The general allocation of SDRs required approval of 85% of the 
+voting power of the IMF board of governors. Ratification of the fourth amendment, 
+which enabled the special allocation, required approval by at least three -fifths of 
+the IMF membership with 85% of the total votes.  
+Article XVIII of the IMF Articles of Agreements provides for  the allocation and cancellation 
+of SDRs in accordance with its stated principles and procedures. The 2009 general allocation 
+of 161.2 billion SDRs ($250 billion)  required approval of 85% of the voting power of the 
+Fund’s board of governors, which consists of one governor and one alternate appointed by 
+each member country , which at the time numbered 186 . General allocations  (allocations 
+based on each country ’s IMF quota) are typically considered in five-year cycles , with the 
+option for early review (IMF 2009c; IMF 2020a) . For more information regarding the 
+procedure for off-cycle allocations, see also Key Design Decision No. 4, Governance. 
+The proposal for the 2009 general allocation  was raised at the summit of G-20 countries in 
+April 2009, after which it was endorsed by the IMF executive board. The proposal was then 
+considered by the IMF managing director and then submitted to the board of governors. 
+Before recommending an allocation, the IMF managing director determine s if an SDR 
+allocation would meet certain broad standards set forth in the  IMF’s Articles of Agreement 
+and that there is broad s upport among the members for the proposal (G-20 2009; IMF 
+2009b; IMF 2020a).  
+The special allocation of SDR 21.5 billion required the approval of the fourth amendment to 
+the IMF’s Articles of Agreement. Once adopted, the amendment allowed for a special 
+allocation to grant SDRs only to those members that had joined after the previous two 
+122
+International Monetary Fund: Special Drawing Rights Allocations, 2009 Ahluwalia et al.
+
+--- Page 10 ---
+general allocations (42 countries), to raise the ratios of members’ cumulative SDR allocations 
+relative to quota to a common benchmark ratio as described in the amendment (IMF 2021c). 
+The amendment had originally been proposed in 1997 but required ratification by at least 
+three-fifths of the IMF membership (112 of 189 members) with 85% of the total votes. This 
+voting threshold was achieved on August 9, 2009, after the Unite d States joined 133 other 
+countries in supporting the amendment. The special allocation was implemented on 
+September 9, 2009 (IMF 2009a; IMF 2021c).  
+4. Governance: The 2009 allocations were proposed by the managing director of the 
+IMF and ratified by the executive board before being sent to the board of 
+governors, which also approved the measures. The IMF d oes not exercise 
+governance authority over the use of SDRs by member countries. 
+Article XVIII of the IMF Articles of Agreements provides that the IMF may allocate SDRs to 
+SDR members during “basic periods” of roughly five years, with allocations and cancelations 
+taking place at yearly intervals (IMF 2020a, 42) . The managing director must propose an 
+allocation at least six months before the end of a basic p eriod. The 2009 general allocation 
+was made well in advance of the end of the then -current basic period which was to end in 
+June 2011. The possibility existed that the managing director could have determined to 
+recommend an additional general allocation during this period (IMF 2009g).   
+The IMF managing director generally proposes SDR allocations to the IMF’s executive board5 
+which, if it approves the proposal, submits it to the IMF's board of governors, which approves 
+or rejects the allocation by a vote of 85% of the voting power of the member countries in the 
+SDR Department. The board of governors supported the 2009 general allocation following a 
+proposal by the G -20 heads of state and the IMF’s International Monetary and Financial 
+Committee (IMFC), a ministerial level advisory committee that advises the board6 (IMF 
+2021c; IMF 2021d).  
+The IMF may change terms with respect to the remainder of a basic period, change the length 
+of a basic period, or start a new basic period “if at any time the Fund finds it desirable to do 
+so because of unexpected major developments” (IMF 2020a, 43). The board of governors can 
+propose a cancellation of SDRs follo wing the same process for proposing and allocation, 
+however, it has not exercised this authority as of the writing of this case (IMF 2016).  
+The IMF reports changes in SDR holdings by transaction type on an aggregate basis monthly 
+on the IMF Finance webpag e. The IMF periodic financial operations reports provide 
+information about the SDR trading market and participants’ SDR allocations and holdings to 
+the public. These reports are available in the Fund’s annual and quarterly  financial reports 
+(IMF 2021c). 
+ 
+5 The IMF executive board is the senior staff committee that manages the day -to-day work of the Fund. It is 
+composed of 24 positions, represents the entire membership, and is supported by IMF staff  (IMF n.d.b). 
+6 The size and composition of the IMFC mirrors that of the executive board. It has 24 members who are central 
+bank governors, ministers, or others of comparable rank , and who are usually drawn from the governors of 
+member countries (IMF n.d.d). 
+123
+Journal of Financial Crises Vol. 6 Iss. 4
+
+--- Page 11 ---
+5. Administration: The IMF’s SDR Department administered the 2009 allocations. 
+Unlike previous allocations, the  2009 allocations were credited to member 
+countries in one day. 
+All 186 IMF member nations were eligible for the general allocation in proportion to  their 
+IMF quota since all were also participants in the SDR Department.  On the announced 
+settlement day, the department distributed the general allocation by crediting the members’ 
+accounts at the Fund. The allotment was in proportion to each member’s exi sting quota in 
+the Fund7 (IMF 2009e). 
+The special allocation was distributed only to those members that had joined the Fund after 
+1981. On the announced settlement day, eligible members received their distribution except 
+for participants with overdue obligations to the IMF: For these countries, the allocated SDRs 
+were placed in an escrow account by the IMF, to be released upon settlement of all overdue 
+obligations. Standard a llocations are generally distributed over several y ears. However, 
+despite their size, the 2009 general and special allocations were implemented in total on 
+individual dates, rather than over the span of several years as had been the case with the two 
+previous allocations.  We found no stated explanation for  this change in practice, but it is 
+likely that the existence of the GFC may have influenced this decision as it was part of an 
+overall effort “to tackle the global financial and economic crisis by restoring credit, growth 
+and jobs in the world economy" (IMF 2009b; IMF 2016; IMF 2021c).8  
+The SDR Department manages operations and transactions involving SDRs through the 
+special drawing account in the IMF  and facilitates transactions involving SDRs  through 
+voluntary trading agreements (VTA) (see Key Design Decision No. 9, Process for Utilizing the 
+SDRs). When the IMF allocates SDRs, members receive unconditional liquidity represented 
+by an interest-bearing reserve asset (SDR holding) and a corresponding long -term liability 
+to the SDR Department (SDR allocation). The SDR Department maintains records of the SDR 
+allocations a s well as  any changes in holdings by members . The SDR Department pays 
+interest to each member on their SDR holdings at the SDR interest rate (SDRi) which is 
+determined weekly on each Friday based on a weighted average of representative interest 
+rates on three-month debt in the money markets of the five SDR basket currencies (i.e., the 
+US dollar, the Japanese yen, the euro, the British pound sterling, and the Chinese renminbi9) 
+(IMF 2016; IMF 2021c). 
+The SDR department also facilitates transactions involving SDRs. Members can: 
+ 
+7 The IMF cannot allocate SDRs to itself or to prescribed holders. The Articles of Agreement also allow for 
+cancellation of SDRs, although, as of the writing of this case, there have been no cancellations (IMF 2016). 
+8 Of note, the 2021 general allocation, which was approved in response to the COVID-19 pandemic and was 
+much larger than the 2009 allocations, was also distributed in one day (IMF 2021a). 
+9 The IMF added the renminbi to the SDR basket in 2015. 
+124
+International Monetary Fund: Special Drawing Rights Allocations, 2009 Ahluwalia et al.
+
+--- Page 12 ---
+• Hold SDRs as part of their foreign currency reserves; 
+• Sell part of their holdings; 
+• Use SDRs in a range of authorized operations with the IMF or its members such as 
+paying interest on and repaying loans, or paying quota increases; or   
+• Exchange their SDRs fo r one of the currencies in the SDR currency basket (IMF 
+2021c; Martins 2017).  
+Figure 2 illustrates the use and circulation of SDRs. 
+Figure 2: Circulation of SDRs 
+ 
+Source: IMF 2016, 90. 
+Usually, the SDR Department facilitates voluntary exchange transactions between SDR 
+Department members and prescribed holders that want to buy or sell SDRs through a VTA. 
+Prescribed holders are organizations which are not members of the SDR Department whom 
+the IMF has authorized to hold SDRs, including central banks, monetary institutions and 
+development banks (see Key Design Decision No. 7, Eligible Institutions ). If there are not 
+enough voluntary participants, as a backstop measure, the Fund can designate  a member 
+with a strong external position to provide currency in exchange for the SDRs ; however, the 
+Fund has not used this “designation mechanism” since 1987 (IMF 2021c).  
+Advanced economies have also historically used some of their SDRs to assist countri es in 
+need by donating SDRs to be used to scale up the IMF’s concessional lending funds (IMF 
+2021c). For more information regarding the recycling of SDRs for concessional lending, see 
+Arnold (2024). 
+125
+Journal of Financial Crises Vol. 6 Iss. 4
+
+--- Page 13 ---
+6. Communication and Disclosure : The IMF c haracterized the allocations as a 
+response to the exceptional nature of the GFC, highlighting the assistance going to 
+lower-income countries and the multinational, cooperative nature of the action.  
+Following its London Summit, the G -20 countries issued a statement on April 2, 2009 , 
+acknowledging the seriousness and widespread nature of the GFC and commi tting to 
+enhancing the IMF’s ability to address the problems. The statement outlined various facilities 
+that the group proposed to fight the crisis, including the general and special SDR allocations. 
+(G-20 2009).  
+The IMF’s executive board contemporaneously communicated a favorable position 
+regarding the G-20 proposal for the allocations and characterized the SDRs as “a key part of 
+the Fund’s response to the global crisis, offering significant support to its members in these 
+difficult times.” (IMF 2009b) . During and after the approval process , the IMF ’s 
+communications highlighted two points:  
+First, that the proposed general allocation would particularly impact lower income nations: 
+Approximately USD 100 billion of the general allocation would go to emerging markets and 
+developing countries, of which low-income countries would receive over USD 18 billion:  
+And for that group of countries, just to illustrate, this represents a 20 percent increase 
+on average in their international reserves. So, it is a very significant injection of liquidity 
+that will allow them to smooth the need for adjustment, in some cases it would give room 
+for expansionary policies, and in general it will help alleviate foreign exchange pressures 
+where they had materialized (IMF 2009a). 
+Second, the IMF emphasized that the allocations were “a key example of a cooperative 
+multilateral response to the global crisis, offering significant support to the Fund’s members 
+in this challenging period” (IMF 2009a). The IMF also recognized that the general allocation 
+was an unusual step, calling SDRs, “a very seldom-used tool . . . in the financial crisis-fighting 
+arsenal” (IMF 2009a). 
+As of the end of July 2009, the Fund report ed that significant progress had been made 
+towards operationalizing the G -20’s promised goal of providing an additional USD 250 
+billion in lending resources (IMF 2009f; IMF 2019). 
+In terms of transparency, the IMF maintains an account of SDR balances and transactions for 
+each member and reports in its quarterly and annual financial reports changes in individual 
+members’ SDR holdings . As of the writing of this case,  this information was available on a 
+monthly basis on the IMF ’s webpage. In 2021, the Fund committed to expanding 
+transparency with respect to SDRs by providing additional details regarding the functioning 
+of the voluntary SDR trading market. In October 2022, the IMF published the Annual Update 
+on SDR Trading Operations , a paper  previously prepared for its b oard but not disclosed  
+publicly. This report provides  additional analysis on the use of VTAs and trends in SDR 
+exchanges, such as experience with sales after the SDR allocation, and aggregate VTA trading 
+information including trading ranges.  The Fund also committed to publish ing, two years 
+126
+International Monetary Fund: Special Drawing Rights Allocations, 2009 Ahluwalia et al.
+
+--- Page 14 ---
+after the 2021 allocation, an ex -post report on the use of SDRs , which discussed both 2009 
+allocations (IMF 2021c; IMF 2022, 7).   
+7. Eligible Institutions : All IMF member nations were eligible for the GFC general 
+allocation. Those IMF members that had joined after 1981 were eligible for the 
+special allocation. 
+IMF members that were participants in the SDR Department (which at the time was all 186 
+members) were eligible for the general allocation; they did not have to meet any specific 
+requirements to receive their proportional share of the allocation. Member countries ranged 
+from the G-20 nations to small low-income and emerging market countries. Members could 
+use their allocated SDRs immediately once the allocation  was distributed . Uses included 
+balance of payments need s, adjust ing their reserves, or obtain ing currency from other 
+members (IMF 2009d; IMF 2016). 
+Member countries eligible for the special SDR allocation were those that had joined the IMF 
+after 1981 and therefore had not participated in either of the two SDR allocations in the  
+1970s. This was approximately one fifth of th e 186 member countries and included many 
+from Central and Eastern Europe and Central Asia.  The fourth amendment that made the 
+special allocation possible was intended to increase the equit y of SDR disbursal by raising 
+the SDR allocation for these members to a preapproved benchmark of 29.32% of quota. The 
+fourth amendment was adopted by the IMF executive board in 1997 and required approval 
+by three-fifths of the membership  with 85% of the total voting power, to become effective. 
+The affirmative vote of the United States on August 9, 2009, pushed the amendment over the 
+threshold (Bretton Woods 2009; IMF 1997; IMF 2009d; IMF 2009e).  
+Differing from the general allocation, members eligible to participate in the special allocation 
+that had overdue obligations to the IMF had their allocation placed in an escrow account in 
+the SDR Department. The IMF would release such funds to the member once it settled all 
+overdue obligations (IMF 2016). 
+“Prescribed holders ,” entities eligible to acquire, hold , and use SD Rs in transactions with 
+other prescribed holders and members , did not participate in allocations and  could not 
+request an exchange of SDRs by the designated mechanism (IMF 2023a). These entities are 
+a limited group of official organizations which have been approved by the IMF.10 As of August 
+2009, there were fifteen prescribed holders, including the B ank for International 
+Settlements, the E uropean Central Bank, a nd other regional monetary institu tions and 
+development banks and funds. As of February 2023, there were twenty such prescribed 
+holders. Holdings of SDRs and transactions in  SDRs by prescribed holders are also 
+administered by the SDR Department. Although there is no general provision for prescribed 
+holders to initiate transactions in SDRs with the department , they generally participate in 
+VTAs or bilateral arrangements (IMF 2009g; IMF 2016; IMF 2021e; IMF 2023a). 
+ 
+10 The Fund is authorized to prescribe as holders of SDRs (i) non -members, (ii) members that are not 
+participants in the SDR Department, (iii) institutions that perform functions of a central bank for one or more 
+IMF member countries, and (iv) other official entities (IMF 2023a). 
+127
+Journal of Financial Crises Vol. 6 Iss. 4
+
+--- Page 15 ---
+8. Size: The general allocation was for  SDR 161.3 billion (USD 250 billion), and the 
+special allocation was for SDR 21.5 billion (USD 33 billion), for a total that was 
+significantly larger than the previous allocations.  
+The 2009 general allocation was for SDR 161.3 billion (USD 250 billion) , which originated 
+with a proposal by US economist Ted Truman and  was taken up by the G -20 at its April 
+Summit. This amount was the largest amount that US Secretary of the Treasury Timothy 
+Geithner could approve without congressional action and dwarfed the two previous multi-
+year general allocations. The 1970–72 allocation had totaled SDR 9.3 billion, and the 1979 –
+1981 allocation had totaled SDR 12.1 billion. The G-20 statement said the general allocation 
+was part of an aggressive package of commitments designed to treble the IMF’s resources to 
+USD 750 billion and, along with other commitments , constituted an additional “ USD 1.1 
+trillion program of support to restore credit, growth and jobs in the world economy” 
+(Bretton Woods 2009; G-20 2009, 1; IMF 2021c; Truman 2019). 
+The 2009 general allocation was distributed to all IMF members in proportion to the 
+member country’s share (quota) in the IMF,  broadly based on the relative size of their 
+economies. Each country would receive SDRs equal to approximately 74 % of its quota, and 
+countries with higher quotas would generally receive more SDRs than smaller or emerging 
+market countries. However, in its announcements  regarding the 2009 allocations , the IMF 
+noted that USD 100 billion would go to developing and emerging market economies and USD 
+18 billion to low-income countries representing for this group a 20% increase on average in 
+their international reserves (IMF 2009c). 
+The special allocation was SDR 21.5 billion (USD 33 billion). It was intended to increase the 
+equitable participation in SDRs by all members by raising the SDR allocation for those 
+members that had joined the fund after 1981 and thus had not participated in earlier 
+allocations. The special allocation was distributed to eligible members so as to raise their 
+SDR allocation to a preapproved benchmark of 29.32% of quota (IMF 1997; IMF 2009d). 
+The SDRs have no fixed maturity and member countries are under no obligation to maintain 
+any particular level of SDRs, although they will be charged interest if their account is below 
+their net accumulated allocation of SDRs (IMF 2016). For more information on SDR interest, 
+see Key Design Decision No. 9, Rates and Fees.  
+9. Process for Utilizing the Allocation or Facility : Most member countr ies’ uses of 
+SDRs were administered through the SDR Department.  
+As soon as allocated, members could use their SDRs in several ways—to settle obligations 
+with the IMF, to address a balance of payments issue, or maintain as reserves. They could 
+also exchange SDRs for hard currency : When members wished to exchange SDRs , they 
+typically made a request to the SDR Department which matche d each seller with a 
+counterparty through a VTA managed by the Department. Under these arrangements, 
+members and prescribed holders volunteer to buy or sell SDRs . When an SDR is exchanged 
+for a member’s currency, the SDR account is reduced and the reserve account is increased  
+(IMF 2016). 
+128
+International Monetary Fund: Special Drawing Rights Allocations, 2009 Ahluwalia et al.
+
+--- Page 16 ---
+The SDR market has evolved into an active market with several standing bila teral orders 
+through VTAs, which absorb most of the activity. Should there be insufficient liquidity and a 
+lack of VTAs for the desired exchange, the IMF may invoke its designation mechanism to 
+require that a member with a strong balance of payments and re serves position purchase 
+SDRs from a member with weak positions . Due to the active internal SDR market, however, 
+the IMF has never had to invoke its designation mechanism to compel a member to buy SDRs 
+from a member country wanting to sell (Gallagher, Ocampo, and Volz 2020; IMF 2016).   
+SDRs do not have expiration dates nor a set time frame in which they must be used. Because 
+they are potential claims and exchanged on a voluntary market, there is no predetermined 
+fixed maturity date (IMF 2024). 
+10. Downstream Use of Funds: IMF member nations determine how to use their SDRs 
+within a range of purposes, including maintaining SDRs as reserves, using them to 
+settle payments with the IMF or members, or exchanging them for hard currency.  
+As soon as allocated, SDRs count  towards members’ reserves and can be used  in several 
+ways: to settle obligations with the IMF, to address a balance of payments issue , or to 
+enhance their reserves. Members can also choose to exchange part or all of their SDR 
+allocations to other members for hard currency  through VTAs, provided they find a willing 
+counterparty for the transaction. For credit constrained, low-income, or indebted countries, 
+swapping SDRs for hard currencies enabled them to meet various balance of payment needs 
+with the IMF. Other members agreed to buy more SDRs to shift their reserves to this asset 
+(IMF 2009d). 
+In 2016, the IMF reported that in the first four months following the general allocation in 
+August 2009 and the special allocation in September 2009, there was an increase in SDR 
+sales; 16 countries sold SDR 2.9 billion. After this period, SDR sales continued with most 
+countries engaging in multiple SDR sales transactions.  A few countries, most of which were 
+low-income, sold more than 80% of their 2009 SDR allocations (IMF 2016). 
+11. Rates and Fees: While the allocation itself was free of charge, IMF members paid 
+interest if their SDR holdings fell below their allocation and received interest if 
+they held more SDRs than their allocation. The SDR interest rate is based on the 
+interest rates of the currencies in the SDR basket. 
+The SDR Department maintains records of the SDR allocations and any changes in holdings 
+by members. If the member’s SDR holdings rise above its net cumulative allocation, the SDR 
+Department pays to the member interest on SDR holdings. If the member holds fewer SDRs 
+than its net cumulative allocation, it pays interest on the shortfall (IMF 2016). 
+Interest is at the SDRi, which is determined each Friday and is based on a weighted average 
+of representative interest rates on three-month debt in the money markets of the five SDR 
+basket currencies (i.e., the US dollar, Japanese yen, euro, and pound sterling, and the Chinese 
+renminbi). The calculation takes into consideration the currency amounts in the valuation 
+basket as weights , except if the weighted average falls below the floor of the SDR interest 
+rate of 0.05% (5 basis points), in which case the floor rate will apply (IMF 2016).  
+129
+Journal of Financial Crises Vol. 6 Iss. 4
+
+--- Page 17 ---
+12. Other Restrictions: The 2009 general and special allocations were unconditional. 
+SDRs are subject to only limited constraints on usage and transfer.  
+SDRs may not be held by private or commercial entities so they may not be used for trade or 
+commercial transactions (IMF 2016). 
+Because SDR-to-hard currency exchanges are done on a voluntary basis, some members may 
+have trouble attracting willing counterparties due to external reasons such as US sanctions. 
+IMF members that are subject to US sanctions may receive an SDR allocation, but be unable 
+to find a willing counterparty  should they wish to exchange their SDRs for hard currencies  
+due to the stigma associated with sanctions  and the threat of secondary sanctions from the 
+US.11 In the year following the 2021 general allocation, eight governments12 were unable to 
+exchange their SDRs for hard currency as a result of either US sanctions or a lack of voluntary 
+counterparties (Cashman, Arauz, and Merling 2022).  
+Furthermore, in cases of regime change, the IMF managing director may suspend recognition 
+of a country’s government. In such cases, the executive board’s voting threshold for restoring 
+recognition often requires support from the US and European countries that  may have  
+imposed sanctions upon such nations (Cashman, Arauz, and Merling 2022). 
+The asset side of the Fund’s balance sheet shows the position of members (debtors) that have 
+exchanged some of their SDRs for freely usable currency and whose holdings of SDRs are less 
+than their net cumulative allocations. The accrued interest receivable from such members 
+mirrors the accrued interest payable to members whose balances exceed their net 
+accumulated allocations (creditors) on the liability side. SDRs thus do not present a risk to 
+the IMF’s balance sheet so no actions are needed to protect its balance sheet (IMF 2016).  
+13. Other Options: The IMF did not consider alternatives to the GFC SDR allocations. 
+It later considered different allocation methodologies , but ultimately also 
+distributed the 2021 COVID -19 general alloca tion of SDRs based on members’ 
+quotas. 
+Our research did not uncover specific alternative options that the IMF considered instead of 
+issuing SDRs. However, both the 2009 general and special SDR allocations were only two of 
+numerous policies implemented by the G-20 and IMF to address the member countries’ 
+needs for reserve currency and liquidity during the GFC (See Key Design Decision No. 2, Part 
+of a Package ). In addition to the lending programs to developing countries, the IMF 
+committed USD 250 billion to support trade finance as well as USD 150 billion for 
+discretionary IMF gold sales to help the poorest countries (G-20 2009).  
+ 
+11 In the case of Yemen, the stigma associated with voluntary SDR exchange transactions prevented countries 
+from exchanging SDRs with Yemen, even though it is an internationally recognized and nonsanctioned 
+government (Cashman, Arauz, and Merling 2022). 
+12 These nations were: Afghanist an, Belarus, Iran, Myanmar, Russia, Sudan, Syria, and Venezuela (Cashman, 
+Arauz, and Merling 2022). 
+130
+International Monetary Fund: Special Drawing Rights Allocations, 2009 Ahluwalia et al.
+
+--- Page 18 ---
+Concerns about the limitations in benefits of SDR allocations to the poorest countries was 
+discussed in  a 2011 paper prepared by IMF staff, which noted that because SDRs are 
+allocated in step with a member’s quota, advanced economy nations tend to receive a far 
+greater proportion of such allocations. The paper propo ses that alternative methods of 
+allocating SDRs would result in more being allocated to the neediest. Proposals include: 
+allocation not connected to quotas, requiring members to hold a specific amount of SDRs 
+over a specified time period, holding a portion of allocations in escrow to be released at the 
+time of a systemic shock, targeting SDR allocations to those countries considered to have low 
+levels of precautionary reserves compared to broadly accepted reserve adequacy 
+benchmarks, or to countries affecte d by a systemic shock , or making SDR allocations 
+conditional on adhering to certain policies aimed at supporting reserve maintenance against 
+certain benchmarks. Notwithstanding these proposals, the Fund allocated the 2021 COVID 
+general allocation of SDRs according to the traditional method based on members’ quotas 
+(IMF 2011b; IMF 2021a) . For more information on the 2021 SDRs allocation, see Arnold 
+(2024). 
+14. Exit Strategy: The 2009 general and special allocations were one-time allocations 
+of funds. SDRs have no fixed maturity. 
+As a reserve asset, SDRs have no fixed maturity and are not timebound as to when they must 
+be used. SDRs may be cancelled by the IMF, however, to date, the fund has never exercised 
+this option. Should SDRs be cancelled, members with negative SDR balances (cumulative SDR 
+allocations greater than holdings) would need to repay this balance “promptly” (IMF 2023b, 
+27).  
+131
+Journal of Financial Crises Vol. 6 Iss. 4
+
+--- Page 19 ---
+References and Key Program Documents 
+Legal/Regulatory Guidance 
+(IMF 2020a) International Monetary Fund (IMF). 2020a. “Articles of Agreement,” March 
+2020. 
+Articles of Agreement for the IMF. 
+https://elischolar.library.yale.edu/ypfs-documents2/4841 
+Media Stories 
+(Gang 2020) Gang, Yi. 2020. “The IMF Should Turn to Special Drawing Rights in Its Covid-
+19 Response.” The Financial Times, July 16, 2020. 
+Opinion column by the governor of the People’s Bank of China advocating for the use of SDRs 
+in response to the COVID-19 financial crisis. 
+https://elischolar.library.yale.edu/ypfs-documents2/4830 
+(Nordquist and Katz 2021) Nordquist, DJ, and Dan Katz. 2021. “Where Did That IMF Covid 
+Money Go?” Wall Street Journal, November 29, 2021. 
+Opinion piece from the US executive director of the World Bank and a senior advisor at the 
+Treasury Department arguing that the COVID-19 SDR allocation was ill-conceived. 
+https://elischolar.library.yale.edu/ypfs-documents2/4846 
+(Soros 2002) Soros, George. 2002. “Special Drawing Rights for the Provision of Public 
+Goods on a Global Scale,” February 20, 2002. 
+Transcript of remarks made by George Soros at the roundtable on “New Proposals on 
+Financing for Development.” 
+https://elischolar.library.yale.edu/ypfs-documents2/4847 
+(Taylor 2009) Taylor, Paul. 2009. “‘Truman Doctrine’ Could Boost IMF Firepower: Paul 
+Taylor.” Reuters News, March 17, 2009. 
+Opinion piece by Paul Taylor, a Reuters columnist, on the merits of Edwin Truman’s SDR 
+proposal. 
+https://elischolar.library.yale.edu/ypfs-documents2/4848 
+Press Releases/Announcements 
+(G-20 2009) Group of Twenty (G-20). 2009. “London Summit – Leaders’ Statement,” April 
+2, 2009. 
+Statement by the leaders of the G-20 London Summit on the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents2/4829 
+(IMF 1997) International Monetary Fund (IMF). 1997. “IMF Board of Governors Approves 
+SDR Amendment.” Press release, September 23, 1997. 
+Press release announcing that the IMF board of governors had approved a one-time SDR 
+allocation by amending the IMF Articles of Agreement. 
+https://elischolar.library.yale.edu/ypfs-documents2/4831 
+132
+International Monetary Fund: Special Drawing Rights Allocations, 2009 Ahluwalia et al.
+
+--- Page 20 ---
+(IMF 2009a) International Monetary Fund (IMF). 2009a. “Transcript of a Press Briefing by 
+Caroline Atkinson, Director, External Relations Department, International Monetary Fund,” 
+April 9, 2009. 
+Transcript of a press briefing given by Caroline Atkinson, director of the IMF’s External 
+Relations Department, responding to questions concerning SDR allocation. 
+https://elischolar.library.yale.edu/ypfs-documents2/4838 
+(IMF 2009b) International Monetary Fund (IMF). 2009b. “IMF Executive Board Backs 
+US$250 Billion SDR Allocation to Boost Global Liquidity.” Press release, July 20, 2009. 
+Press release announcing that the IMF Executive Board has backed an SDR allocation 
+equivalent to USD 250 billion to provide liquidity to the global economic system. 
+https://elischolar.library.yale.edu/ypfs-documents2/4835 
+(IMF 2009c) International Monetary Fund (IMF). 2009c. “Transcript of a Media Conference 
+Call on Proposed SDR Allocation,” July 21, 2009. 
+Transcript of a call in which Deputy Director of the IMF Finance Department Thomas Krueger 
+and Isabelle Mateos y Lago, adviser to the IMF Strategy, Policy and Review Department, 
+discussed the SDR allocation proposal. 
+https://elischolar.library.yale.edu/ypfs-documents2/4837 
+(IMF 2009d) International Monetary Fund (IMF). 2009d. “IMF Governors Formally 
+Approve US$250 Billion General SDR Allocation.” Press release, August 13, 2009. 
+Announcement that the IMF board of governors has approved a general allocation of SDRs 
+equivalent to USD 250 billion to provide liquidity to the global economic system. 
+https://elischolar.library.yale.edu/ypfs-documents2/664 
+(IMF 2009e) International Monetary Fund (IMF). 2009e. “IMF to Make $250 Billion SDR 
+Allocation on August 28,” August 13, 2009. 
+Press release announcing further details on the breakdown of the IMF’s SDR allocation. 
+https://elischolar.library.yale.edu/ypfs-documents2/4836 
+(IMF 2019) International Monetary Fund (IMF). 2019. “IMF Resources and the G-20 
+Summit.” Press release, March 18, 2019. 
+Press release announcing the G-20 pledge to support growth in emerging markets through 
+several programs including an SDR allocation. 
+https://elischolar.library.yale.edu/ypfs-documents2/4840 
+(IMF 2020b) International Monetary Fund (IMF). 2020b. “Colombia Draws on IMF Flexible 
+Credit Line to Address the COVID-19 Pandemic,” December 3, 2020. 
+Press release on Columbia’s use of the FCL during the COVID-19 pandemic. 
+https://elischolar.library.yale.edu/ypfs-documents2/4842 
+(IMF 2021a) International Monetary Fund (IMF). 2021a. “IMF Governors Approve a 
+Historic US$650 Billion SDR Allocation of Special Drawing Rights.” Press release, August 2, 
+2021. 
+IMF press release announcing 2021 SDR allocation. 
+https://elischolar.library.yale.edu/ypfs-documents2/663 
+133
+Journal of Financial Crises Vol. 6 Iss. 4
+
+--- Page 21 ---
+(IMF 2021b) International Monetary Fund (IMF). 2021b. “2021 General SDR Allocation,” 
+August 3, 2021. 
+IMF webpage describing the 2021 general allocation. 
+https://elischolar.library.yale.edu/ypfs-documents2/630 
+(IMF 2021c) International Monetary Fund (IMF). 2021c. “Questions and Answers on 
+Special Drawing Rights,” August 23, 2021. 
+Webpage providing basic information on IMF SDRs, answering frequently asked questions. 
+https://elischolar.library.yale.edu/ypfs-documents2/4843 
+(IMF 2023a) International Monetary Fund (IMF). 2023a. “IMF Executive Board Approves 
+the Applications of Five Institutions to Become Holders of Special Drawing Rights.” Press 
+release, February 21, 2023. 
+Statement from the IMF executive board approving five institutions to become prescribed 
+holders of SDRs. 
+https://elischolar.library.yale.edu/ypfs-documents2/4858 
+Reports/Assessments. 
+(Bretton Woods 2009) The Bretton Woods Project (Bretton Woods). 2009. “The IMF’s 
+Special Drawing Rights (SDRs).” The Bretton Woods Update, no. 65, April 1, 2009. 
+Report on the IMF’s 2009 SDR proposal as well the potential for SDRs to replace the dollar as 
+the global reserve currency. 
+https://elischolar.library.yale.edu/ypfs-documents2/4849 
+(Cashman, Arauz, and Merling 2022) Cashman, Kevin, Andrés Arauz, and Lara Merling. 
+2022. “Special Drawing Rights: The Right Tool to Use to Respond to the Pandemic and 
+Other Challenges,” April 20, 2022. 
+Report detailing the use of SDRs for hard currency exchanges during the COVID-19 crisis. 
+https://elischolar.library.yale.edu/ypfs-documents2/678 
+(Gallagher, Ocampo, and Volz 2020) Gallagher, Kevin P, José Antonio Ocampo, and Ulrich 
+Volz. 2020. “IMF Special Drawing Rights: A Key Tool for Attacking a COVID-19 Financial 
+Fallout in Developing Countries,” March 26, 2020. 
+Article arguing in support of a special SDR allocation during the COVID-19 crisis. 
+https://elischolar.library.yale.edu/ypfs-documents2/665 
+(IMF 2001) International Monetary Fund (IMF). 2001. “Financial Organization and 
+Operations of the IMF,” 2001. 
+Report detailing the IMF’s financial statements, organization and operations. 
+https://elischolar.library.yale.edu/ypfs-documents2/4832 
+(IMF 2009f) International Monetary Fund (IMF). 2009f. “Annual Report 2009: Fighting the 
+Global Crisis,” July 31, 2009. 
+Annual report of the executive board of the IMF addressing the IMF’s response to the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents2/4833 
+134
+International Monetary Fund: Special Drawing Rights Allocations, 2009 Ahluwalia et al.
+
+--- Page 22 ---
+(IMF 2009g) International Monetary Fund (IMF). 2009g. “Guidance Note for Fund Staff on 
+the Treatment and Use of SDR Allocations,” August 2009. 
+IMF guidance note concerning the 2009 allocation of SDRs. 
+https://elischolar.library.yale.edu/ypfs-documents2/4834 
+(IMF 2011a) International Monetary Fund (IMF). 2011a. “Review of the Flexible Credit Line 
+and Precautionary Credit Line,” November 1, 2011. 
+IMF working paper on the effectiveness of the Flexible Credit Line and Precautionary Credit 
+Line. 
+https://elischolar.library.yale.edu/ypfs-documents2/4852 
+(IMF 2021d) International Monetary Fund (IMF). 2021d. “Report of the Managing Director 
+to the Board of Governors and to the Executive Board Pursuant to Article XVIII, Section 
+4(c),” June 30, 2021. 
+Report from the IMF managing director to the board of governors explaining forthcoming 
+SDR allocation proposal. 
+https://elischolar.library.yale.edu/ypfs-documents2/671 
+(IMF 2021e) International Monetary Fund (IMF). 2021e. “Guidance Note for Fund Staff on 
+the Treatment and Use of SDR Allocations.” IMF Guidance Note, July 28, 2021. 
+IMF Guidance Note describing the treatment and use of SDR allocations. 
+https://elischolar.library.yale.edu/ypfs-documents2/660 
+(IMF 2021f) International Monetary Fund (IMF). 2021f. “Guidance Note for Fund Staff on 
+the Treatment and Use of SDR Allocations,” July 28, 2021. 
+IMF guidance note describing the treatment and use of SDR allocations. 
+https://elischolar.library.yale.edu/ypfs-documents2/660 
+(IMF 2021g) International Monetary Fund (IMF). 2021g. “Annual Update on SDR Trading 
+Operations,” October 4, 2021. 
+IMF policy paper describing updates to SDR trading in 2021. 
+https://elischolar.library.yale.edu/ypfs-documents2/653 
+(IMF 2022) International Monetary Fund (IMF). 2022. “Annual Update on SDR Trading 
+Operations,” September 21, 2022. 
+IMF policy paper describing updates to SDR trading from September 2021 to August 2022. 
+https://elischolar.library.yale.edu/ypfs-documents2/654 
+(IMF 2023b) International Monetary Fund (IMF). 2023b. “2021 Special Drawing Rights 
+Allocation: Ex-Post Assessment Report,” August 2023. 
+IMF report assessing the impacts of the 2021 SDR allocation. 
+https://elischolar.library.yale.edu/ypfs-documents/15047 
+(IMF 2024) International Monetary Fund (IMF). 2024. “Factsheet: Special Drawing Rights,” 
+2024. 
+Webpage providing overview, usage and current currency weights of SDRs. 
+https://elischolar.library.yale.edu/ypfs-documents2/4844 
+135
+Journal of Financial Crises Vol. 6 Iss. 4
+
+--- Page 23 ---
+(IMF n.d.a) International Monetary Fund (IMF). n.d.a. “7 Things You Need to Know About 
+SDR Allocations.” 
+IMF webpage with frequently asked questions related to SDRs. 
+https://elischolar.library.yale.edu/ypfs-documents2/632 
+(IMF n.d.b) International Monetary Fund (IMF). n.d.b. “IMF Executive Directors and Voting 
+Power.” Accessed December 10, 2022. 
+List of IMF members, quotas, governors, and voting power, as of 2022. 
+https://elischolar.library.yale.edu/ypfs-documents2/4856 
+(IMF n.d.c) International Monetary Fund (IMF). n.d.c. “Special Drawing Rights.” Accessed 
+October 10, 2024. 
+Factsheet explaining the history and function of SDRs. 
+https://elischolar.library.yale.edu/ypfs-documents2/657 
+(Nelson et al. 2012) Nelson, Rebecca M, Paul Belkin, Derek E. Mix, and Martin A Weiss. 
+2012. “The Eurozone Crisis: Overview and Issues for Congress.” Congressional Research 
+Service Report, September 26, 2012. 
+Report analyzing the 2009 economic and political crisis within the EU. 
+https://elischolar.library.yale.edu/ypfs-documents2/4845 
+(UN 2022) United Nations Economic Commission for Latin America and the Caribbean, and 
+United Nations Economic Commission for Africa (UN). 2022. “Special Drawing Rights 
+(SDRs) and the COVID-19 Crisis,” April 2022. 
+Report assessing the impact of the 2021 SDR allocation in the IMF’s response to the COVID-19 
+crisis. 
+https://elischolar.library.yale.edu/ypfs-documents2/677 
+(Weiss and Nelson 2021) Weiss, Martin A, and Rebecca M Nelson. 2021. “International 
+Monetary Fund: Special Drawing Rights Allocation.” Congressional Research Service 
+Report, May 19, 2021. 
+CRS report on the history of SDR allocations by the IMF and the proposal to use SDRs to 
+respond to the COVID-19 financial crisis. 
+https://elischolar.library.yale.edu/ypfs-documents2/4850 
+(Williamson 2009) Williamson, John. 2009. “Understanding Special Drawing Rights 
+(SDRs).” Peterson Institute for International Economics, Policy Brief, June 2009. 
+PIIE report on the history of SDRs, potential reforms to decrease the debt burden on the US, 
+and the G-20 SDRs allocation proposal. 
+https://elischolar.library.yale.edu/ypfs-documents2/4851 
+  
+136
+International Monetary Fund: Special Drawing Rights Allocations, 2009 Ahluwalia et al.
+
+--- Page 24 ---
+Key Academic Papers 
+(Arnold 2024) Arnold, Vincient. 2024. "International Monetary Fund: Foreign Exchange 
+Liquidity through the Special Drawing Rights Allocation, 2021." Journal of Financial Crisis 6, 
+no. 4. 
+YPFS case study on the IMF's 2021 COVID-19 allocation of SDRs. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss4/2 
+(Erten 2012) Erten, Bilge. 2012. “Overcoming the Technical and Political Difficulties of 
+Using SDRs for Development Purposes.” United Nations Department of Economic and 
+Social Affairs, August 1, 2012. 
+United Nations working paper arguing for the adoption of an SDR-based reserve system and a 
+fully SDR-funded IMF. 
+https://elischolar.library.yale.edu/ypfs-documents2/4828 
+(IMF 2011b) International Monetary Fund (IMF). 2011b. “Enhancing International 
+Monetary Stability: A Role for the SDR?” Policy Papers 2011, no. 47, July 1, 2011. 
+Working paper on the various financial stability functions and purposes of SDRs, 
+retrospectively analyzing the success of the SDR allocation during the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents2/4839 
+(IMF 2016) International Monetary Fund Finance Dept. (IMF). 2016. “Special Drawing 
+Rights.” In IMF Financial Operations 2016. Washington, D.C.: International Monetary Fund. 
+Book chapter explaining the history, functions, and use of SDRs. 
+https://elischolar.library.yale.edu/ypfs-documents2/676/ 
+(IMF 2018) International Monetary Fund Finance Department (IMF). 2018. IMF Financial 
+Operations 2018. Washington, D.C.: International Monetary Fund. 
+Book describing the IMF’s SDR Department and uses of SDRs among IMF members. 
+https://elischolar.library.yale.edu/ypfs-documents2/662 
+(IMF n.d.d) International Monetary Fund (IMF). n.d.d. “A Guide To Committees, Groups, 
+And Clubs.” Accessed October 31, 2022. 
+Web page listing the G-10 central banks. 
+https://elischolar.library.yale.edu/ypfs-documents2/481/ 
+(Martins 2017) Martins, Aline Regina Alves. 2017. “The Special Drawing Right: A Formal 
+Critic to the Dollar Dominance in the International Monetary System.” Brazilian Journal of 
+Political Economy 37, no. 2, 2017. 
+Article arguing that the origins of the SDR were in part the convergence of higher political 
+interests against the United States and dollar dominance. 
+https://elischolar.library.yale.edu/ypfs-documents2/4861 
+  
+137
+Journal of Financial Crises Vol. 6 Iss. 4
+
+--- Page 25 ---
+(Truman 2019) Truman, Edwin (Ted). 2019. “Lessons Learned Interview.” Interview by 
+Yasemin Sim Esmen. Yale Program on Financial Stability Lessons Learned Oral History 
+Project. September 17, 2019. Transcript.  
+Interview by Yasemin Sim Esmen with Ted Truman, special counselor to the secretary at the 
+US Treasury during the run up to the G-20 summit in London. 
+https://elischolar.library.yale.edu/ypfs-documents/9247/ 
+(Zafar, Muench, and Ordu 2021) Zafar, Ali, Jan Muench, and Aloysius Uche Ordu. 2021. 
+“SDRs for COVID-19 Relief: The Good, the Challenging, and the Uncertain,” October 21, 
+2021. 
+Report on the use of SDRs across emerging markets. 
+https://elischolar.library.yale.edu/ypfs-documents2/674/ 
+  
+138
+International Monetary Fund: Special Drawing Rights Allocations, 2009 Ahluwalia et al.
+
+--- Page 26 ---
+Appendix  
+Background on Special Drawing Rights13 
+The SDR is an international reserve asset whose value is determined against a basket of five 
+global reserve currencies (IMF n.d.c). The IMF creates SDRs and allocates them to members 
+in proportion to the size of the member’s capital subscription in the Fund, or “ quota” (UN 
+2022, 5 –6). Private institutions do not accept SDRs, and members primarily use them to 
+increase foreign reserves and to pay down debts to the IMF, freeing up other, non -SDR 
+denominated reserves (UN 2022). Members can also exchange SDRs for any o f the reserve 
+currencies in the SDR basket (UN 2022). When a member nation has a larger SDR balance 
+than its quota, it earns interest on the difference between its holding and quota; when its 
+SDR balance is smaller than its quota, the member pays interest (UN 2022, n. 17).  
+The SDR is neither a currency itself nor a claim on the IMF; it is the IMF’s unit of account and 
+represents a claim on the “freely usable” currencies of IMF member nations (UN 2022, 5). An 
+SDR allocation is a form of unconditional (or “c oncessional”) liquidity—similar to a capital 
+injection or grant —to IMF member nations and is meant to supplement existing reserves 
+(IMF 2021f, 11; IMF n.d. c; UN 2022, 2) . The IMF allocates SDRs in proportion to member 
+nations’ share (quota) in the IMF (UN 2022, 6).14 Member nations can also acquire SDRs by 
+buying them from prescribed holders, international organizations, or the IMF itself (IMF 
+2016). 
+The SDR’s value is defined against a basket of global reserve currencies—the US dollar, euro, 
+Japanese yen, Chinese renminbi, and British pound sterling (IMF n.d.c). The interest rate for 
+non-concessional SDR holdings is the SDRi, which is a weighted average of interest rates on 
+short-term debt issued by the governments of SDR currency basket nations, and is updated 
+weekly by the IMF (IMF n.d.c). 
+In addition to supplementing foreign reserves, SDRs can be exchanged for IMF member 
+nations’ “freely usable currencies” (IMF n.d.c). Thus, the SDR serves as an indirect means of 
+obtaining any SDR basket currency from any IMF member  nation. Any member nation in a 
+relatively strong financial position agrees, on a voluntary basis, to purchase SDRs from a 
+member nation in a relatively weak financial position 15 in exchange for hard currency (IMF 
+n.d.a).  
+The majority of SDR transactions are IMF -intermediated spot purchase -and-sale 
+transactions of freely usable currencies through VTAs (IMF 2018, n. 15; IMF 2021g, sec. Exec. 
+ 
+13 YPFS Research Associate Vincient Arnold  contributed this appendix . For more information regarding the 
+2021 SDR allocation, see Arnold (2024). 
+14 The 2009 special allocation is a notable exception to this rule as it  was meant to make SDR holdings more 
+equitable by boosting SDR holdings for member nations that joined after  1981 and thus missed previous 
+general allocations (IMF 2009d). 
+15 While in the case of VTAs there are no requirements to be a (voluntary) buyer or seller, in the case of 
+designation mechanism activation (which would force nations to buy SDRs to provide suf ficient liquidity), the 
+designated buyer nations are selected by the executive board (IMF 2016, 103).  
+139
+Journal of Financial Crises Vol. 6 Iss. 4
+
+--- Page 27 ---
+Summ.). VTAs are bilateral arrangements between the IMF on the one hand and IMF 
+members or a designated market -maker (so-called “prescribed holders”) 16 on the other 
+hand, in which the parties to a VTA agree to buy and sell SDRs subject to some limitations 17 
+(IMF 2022). Besides VTAs, a small percentage of SDR transactions occur directly between 
+members and/or prescribed holders (IMF 2022).  
+ 
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+ 
+16 Prescribed holders are nonsovereign, nonmember organizations that the IMF has given authority to hold 
+SDRs (though not to receive an allocation of SDRs) (IMF 2018, 91). There were 15 such organization at the time 
+of the COVID -19 allocation, including four central banks representing monetary unions, three 
+intergovernmental monetary institutions, and eight development banks (IMF 2018, 91).  
+17 One of those limits is that all transactions must be at the prevailing SDR exchange rate for the currency being 
+bought/sold (IMF 2018, sec. 4.5.4). The IMF Articles of Agreement include a mechanism for the IMF to provide 
+hard currency liquidity in exchang e for SDRs in the event voluntary transactions fail to provide sufficient 
+foreign currency liquidity (IMF 2022, 4). As of publication, this mechanism has never been used (IMF 2022, 4). 
+140
+International Monetary Fund: Special Drawing Rights Allocations, 2009 Ahluwalia et al.

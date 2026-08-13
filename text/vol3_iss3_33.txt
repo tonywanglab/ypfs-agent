@@ -1,0 +1,1968 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 3 
+2021 
+US Reconstruction Finance Corporation: Preferred Stock US Reconstruction Finance Corporation: Preferred Stock 
+Purchase Program Purchase Program 
+Aidan Lawson 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance and Financial 
+Management Commons, Policy Design, Analysis, and Evaluation Commons, and the Public Policy 
+Commons 
+Recommended Citation Recommended Citation 
+Lawson, Aidan (2021) "US Reconstruction Finance Corporation: Preferred Stock Purchase Program," 
+Journal of Financial Crises: Vol. 3 : Iss. 3, 738-785. 
+DOI: https://doi.org/10.17132/2693-3179.1235 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/33 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss3/33
+
+--- Page 3 ---
+fUS Reconstruction Finance Corporation:  
+Preferred Stock Purchase Program1 
+Aidan Lawson2 
+Yale Program on Financial Stability Case Study 
+November 8, 2019; Revised: November 12, 2021 
+Abstract 
+By March 1933, the early collateralized lending programs of the Reconstruction Finance 
+Corporation (RFC) had failed to prevent the recurrence of bank  runs and panic in US 
+financial markets. These conditions forced newly elected President Franklin Delano 
+Roosevelt to call for a nationwide bank holiday from March 6 to March 9. On the final day of 
+the holiday, a special session of Congress passed  the Emergency Banking Act (EBA), which 
+gave the RFC the power to make investments via preferred equity of distressed institutions. 
+Under the EBA, the RFC could subscribe to and make loans on cumulative non -assessable 
+preferred stock issued by state and national banks and trust companies. Preferred shares 
+(senior to common shares ) protected the government’s investment  and were non-
+assessable, meaning the RFC would have no further liability if the companies experienced 
+losses. Subsequent amendments and additions to the EBA in March and June expand ed this 
+authority to insurance companies and to other types of securities to enable state banks and 
+trusts to participate . Any institution could file an application to one of the RFC’s field 
+offices. T he RFC required relatively impaired institutions to raise additional capital or 
+impose haircuts on existing creditors. Aid offices sought to maximize profits and had a fair 
+bit of autonomy. Larger requests had to be approved by the main office in Washington , DC, 
+and by the Secretary of the Treasury. Dividends were normally just below market rates and 
+were lowered throughout the life of the program. Widespread participation in the program 
+did not occur until Chairman Jesse Jones aggressively communicated the necessity of the 
+program to bankers in September 1933 and Roosevelt explained in October that federal 
+deposit insurance would be eligible only to solvent institutions when it began on January 1, 
+1934. The RFC ultimately injected about $1.17 billion of capital into nearly 7,400 
+institutions, representing nearly one -third of total bank capital in the system at its peak. 
+Unlike the earlier loan assistance, the program was seen as a resounding success and was 
+widely credited with stabilizing the financial system. 
+Keywords: Capital injections, collateralized loans, Great Depression, Jesse Jones, preferred 
+stock, Reconstruction Finance Corporation, RFC, United States  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering broad-based capital injection programs. Cases are available from the Journal of Financial 
+Crises at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, New Bagehot Project, Yale Program on Financial Stability 
+738
+
+--- Page 4 ---
+At a Glance  
+The RFC’s initial response to the Great 
+Depression was one of large-scale, 
+collateralized lending to a variety of firms, 
+including state and national banks. By 
+March 1933, conditions had worsened 
+enough for President Franklin Delano 
+Roosevelt to call for a nationwide bank 
+holiday just after his inauguration , from 
+March 6 to March 9.  
+On the final day of the holiday , a special 
+session of Congress passed the 
+Emergency Banking Act (EBA), which 
+gave the RFC the power to invest in the 
+preferred shares of distressed 
+institutions, among other things.  
+Under the EBA, the RFC could subscribe to 
+and make loans on cumulative non -
+assessable preferred stock issued by state 
+and national banks and trust companies. 
+Until that time, banks and trust 
+companies issued equity in the form of 
+common stock that bore double liability: 
+shareholders could be called on to provide capital in the case of a shortfall. The preferred 
+shares authorized by the EBA were senior to common shares, protecting the government’s 
+investment; they were also non-assessable, meaning there was no double liability.  
+However, most states did not allow state -chartered banks and trusts to issue preferred 
+shares at the time. An amendment to the EBA, passed on March 24, 1933 , gave the RFC the 
+authority to purchase debt -like capital notes and debentures from state banks and trusts. 
+On June 10, Congress gave the RFC the authority to assist insurance companies, subject to a 
+$50 million limit. While the RFC required relatively impaired institutions to raise additional 
+capital or haircut their own investors to protect the governm ent’s investment, any 
+institution was able to apply for aid. The RFC solicited bids from urban and rural, large and 
+small banks alike to destigmatize usage of the program. Additional protections  included 
+restrictions on common stock dividends and executive  compensation, seniority to all other 
+equity, and mandating that recipients set aside a portion of their net profits for the 
+retirement of preferred stock.  
+Summary of Key Terms 
+Purpose: To stem bank runs and promote confidence 
+by providing capital to state and national banks , trusts, 
+and insurance companies. 
+Announcement date March 9, 1933 
+Operational date March 9, 1933 
+Sunset date  Not defined 
+Program size Unlimited; not defined 
+Usage $1.17 billion for 7,389 state 
+and national banks and trusts 
+Outcomes 
+At peak, owned capital in half 
+of the banks in the U.S., and 
+one-third of total bank capital 
+in system  
+Key features 
+Restrictions on executive 
+compensation and common 
+stock dividends, mandatory 
+pref. stock retirement fund 
+US Reconstruction Finance Corporation:  
+Preferred Stock Purchase Program 
+739
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 5 ---
+The RFC had a network of about 30 field offices located in major cities throughout the US, 
+with loan officers typically making the bulk of aid decisions. The RFC ran these offices with 
+profit maximization as the primary goal , and the offices had a fair bit of autonomy to 
+achieve it. Despite this, the main office in Washington, DC, and the Secr etary of the 
+Treasury had to approve larger requests. Dividends were normally just below market rates, 
+but still greater than those on short-term business loans, and were lowered throughout the 
+life of the program.  
+Participation in the program was slow fo r the first six months. Participation increased in 
+the fall of 1933 after Chairman Jesse Jones aggressively communicated the necessity of the 
+program to private bankers and the FDIC introduced federal deposit insurance at the 
+beginning of 1934. The RFC ult imately injected about $1.17 billion of capital into nearly 
+7,400 institutions, representing nearly one -third of total bank capital in the system at its 
+peak.  
+Summary Evaluation 
+While analysis of the RFC’s lending activities prior to the EBA was largely n egative, the 
+preferred stock purchase program  saw very positive evaluation . though some argued that 
+the Corporation’s assistance was too extensive . However, banks that received preferred 
+stock assistance were significantly less likely to fail compared to t hose that did not . 
+Distribution of the RFC’s assistance was criticized as uneven, as the states represented by 
+legislators on key Congressional committees generally received more aid. Scholars credit 
+the RFC’s preferred stock assistance, in conjunction wit h the banking holiday preceding it, 
+with the immediate stabilization of the financial sector and slight increases in lending 
+activity. Jesse Jones, especially, received mostly positive feedback both in his role as 
+administrator and as a powerful bureaucrat who guided the RFC to a profit every year that 
+he was the chairman. 
+  
+740
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 6 ---
+US Context 1933 
+GDP 
+(SAAR, nominal GDP in LCU converted to USD) 
+Data not available  
+GDP per capita 
+(SAAR, nominal GDP in LCU converted to USD) 
+Data not available  
+Sovereign credit rating (five-year senior debt) Data not available  
+Size of banking system Data not available  
+Size of banking system as a percentage of GDP Data not available  
+Size of banking system as a percentage of financial 
+system 
+Data not available  
+Five-bank concentration of banking system Data not available  
+Foreign involvement in banking system Data not available  
+Government ownership of banking system Data not available  
+Existence of deposit insurance Data not available  
+  
+741
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 7 ---
+I. Overview 
+Background 
+The Great Depression began in the fall of 1929, precipitated by a severe stock market crash 
+in October and a series of bank ing crises, first localized throughout various regions of the 
+United States before spreading nationally (Richardson 2013 ; Engemann 2013). By the fall 
+of 1931, a serious financial crisis was already in full swing (Engemann 2013) and President 
+Herbert Hoover believed that “cooperative action by the financial community might 
+stabilize the chaotic economic conditions, calm the public, relieve the deflationary 
+pressures on the banks, and eventually initiate an economic expansion ”. The discussions he 
+had with Federal Reserve Board Governor Eugene Meyer and the chairmen of the Fede ral 
+Reserve Banks eventually grew into Hoover’s plan for the National Credit Corporation 
+(NCC), a privately backed collateralized lending vehicle by which Hoover hoped to re-
+stimulate the frozen financial system  (Olson 1972).  Meyer was generally opposed t o the 
+NCC and actually advocated for outright reviving the War Finance Corporation, citing that 
+the plan for the NCC was “inadequate” (Meyer 02/24/1954). In addition, Hoover attempted 
+to persuade the Federal Reserve System to lower the standards for the co llateral it would 
+accept for loans (Kroszner 1994). By November 7, the NCC began lending, with the ability 
+to issue up to $1 billion in debt, of which the government expected private banks to 
+purchase up to $500 million (Olson 1972).  
+The initial impact that both the announcement and establishment of the NCC had on the 
+economy appeared to be very promising, as bank failures and suspensions declined, while 
+stock and bond markets rallied  (Kroszner 1994). In spite of these developments,  the NCC 
+was very slow at actually disbursing funds when an applicant was approved , and further 
+delayed making commitments in the wake of the upsurge  (Olson 1972) . This rally was 
+short-lived, with equities and bond prices cratering again in November  (Kroszner 1994). 
+By the end of 1931 , the NCC had issued less than $10 million in loans, despite depositors ’ 
+continuing to run (Olson 1972 ; Banking and Monetary Statistics). At this point , it was clear 
+that the NCC had failed, and that more involved government interv ention was necessary  
+(Olson 1972). 
+Hoover pushed for the creation of a Reconstruction Finance Corporation (RFC) in a speech 
+on December 7, 1931, outlining it as an agency similar in nature to the War Finance 
+Corporation. Congress passed the RFC  Act on Janu ary 22, 1932, and the RFC began 
+operations 11 days later . Initially the RFC was established as a large -scale collateralized 
+lending agency , and it lent extensively to financial institutions  (Final Report of the RFC 
+1959). Some have argued that banks were reluctant to participate in the lending program 
+because RFC loans tended to have short durations (less than six months), and the RFC often 
+imposed both high -quality collateral requirements and higher interest rates than the 
+Federal Reserve (Calomiris et al. 2013). However, scholars have argued more recently that 
+the RFC was lenient about the collateral it accepted in practice and that it allowed banks to 
+roll over six -month loans easily. Instead, the lack of participation can be explained by the 
+742
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 8 ---
+fact that the RFC’s loans did not guarantee banks’ confidentiality, unlike its later preferred 
+stock program (Anbil and Vossmeyer 2020).  
+One of Franklin Delano Roosevelt’s first actions as president was to declare a four-day bank 
+holiday, starting on March 6. A t the end of the holiday, Congress would hold a special 
+session to pass any legislation needed to fight the Depression  (Jabaily 2013). What came 
+out of this special session, on March 9, was the Emergency Banking Act (EBA). The EBA 
+gave the RFC th e authority to subscribe to the preferred stock of financial institutions and 
+issue loans secured by such preferred stock  (Final Report of the RFC 1959 ). The passing of 
+the EBA signaled a significant change in how the RFC assisted the financial system and  
+marked the end of its reliance on large-scale loan programs.  
+Program Description 
+The RFC was a massive, ever -expanding organization. The RFC had an initial capital stock 
+of $500 million, subscribed by the US Treasury rather than private banks . However, th e 
+RFC could have obligations (debts, notes, bonds, et cetera) up to three times this amount 
+outstanding, later increased to 6.6 times  (Final Report of the RFC 1959 ).3 Section 9 of the 
+Reconstruction Finance Corporation Act (The RFC Act) specified that these obligations 
+were fully guaranteed by the Treasury, which could also sell any obligations issued by the 
+Corporation. Treasury was authorized to market these obligatio ns to the public just as they 
+would if they were marketing government bonds or other obligations (P.L. 72-2). 
+A seven -member board, led by the Secretary of the Treasury, managed the corporation, 
+though any decisions about subscribing to, loaning on, or dir ectly purchasing preferred 
+stock, capital notes, or debentures had to be approved by the President  (P.L. 72-2; P.L. 73-
+1). Both the Federal Reserve and Treasury played significant roles in the operation of the 
+RFC. The Reserve Banks were “authorized to act  as depositories, custodians, and fiscal 
+agents for the Corporation,” and the Corporation kept all of its funds on deposit at Treasury 
+(P.L. 72-2).  
+The preferred stock purchase program really began during the nationwide bank holiday. 
+Bank supervisors classified banks as Class A, B, or C banks based on their level of 
+impairment. Banks that were members of the Federal Reserve System submitted 
+applications to their local reserve bank  to reopen ; those with national banking charters 
+also required the approv al of the Office of the Comptroller of the Currency; and 
+nonmember banks applied through their state banking authorities  (Conti-Brown and 
+Vanatta 2021 ; Jones 1951) . Class A banks were considered sound  and could reopen 
+immediately; Class B banks could still pay off their depositors, but needed fresh capital; and 
+Class C banks were insolvent  and needed to be put into conservatorship or receivership 
+(Jones 1951 ). The directions to examiners emphasized lenience. T he Treasury Secretary 
+directed examiners to evaluate soundness based on “fair” appraisals of banks’ asset quality , 
+taking into account depressed market conditions,  rather than on a “liquidating” basis  
+(Conti-Brown and Vanatta 2021).  The Reserve Banks initially objected to this approach, as 
+ 
+3 This amount was later increased to six and three -fifths via Section 205(a) of the Emergency Relief and 
+Construction Act of 1932, increasing the amount authorized from $1.5 billion to $3.3 billion. 
+743
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 9 ---
+they were wor ried that they would be forced to indefinitely support unhealthy banks. In 
+response, Roosevelt told the board that he would persuade Congress to indemnify any  
+losses incurred by the Reserve Banks for emergency loans made , and urged them to use 
+“honest, and, under the circumstances, fairly liberal judgment” in evaluating the distressed 
+banks (Fed Minutes 1933). 
+In the first of his famed “Fireside Chats ,” on Sunday, March 12, Roosevelt reiterated that 
+only “sound” banks would be allowed to re -open after the holiday (Jones 1951). Roosevelt 
+specified that banks located in the 12 cities that were home to Federal Reserve Banks 
+would open on Monday, followed by banks located in cities where there was a “recognized 
+clearinghouse” on Tuesday  and all other sound banks in the country on Wednesday 
+(Roosevelt 1933a). While more than 4,500 banks opened in the first three days following 
+the bank holiday, hundreds more were taken into conservat orship at the end of that week, 
+and thousands more would need to be given sub stantial assistance before they could re -
+open (Jones 1951). Jesse Jones, chairman of the corporation, estimated in his memoirs that 
+even after the holiday ended, approximately 5,000 reopened banks still “required 
+considerable added capital to make them sound.” 
+To obtain RFC investment, financial institutions (and later insurance companies and 
+mortgage associations ) were required to apply to regional RFC offices  for assistance 
+(Circular No. 6) . Even after being approved, however, banks were not obligated to issue 
+preferred stock to the RFC. According to Jones, “ we authorized the investment of many 
+millions more in approximately 1,000 other banks; but, as conditions improved, they were 
+able to proceed without our proffered help” (Jones 1951).  
+All banks, including those that were newly formed or closed , were eligible for support. 
+Applicants had to include copies of their charters, authorizations from the bank’s board of 
+directors for issuing preferred stock, bank examiners ’ reports, detailed financial 
+information, and other  documents (see K ey Design Decision No. 7 for more detail). 
+Additionally, applicants had to prove that they would be able to pay dividends of 6 percent 
+on the preferred equity, which was the maximum allowed under the Emergency Banking 
+Act (Circular No. 6; Jones 1951) . Payment for these  dividends would be deposited to the 
+RFC’s account at each of the Federal Reserve Banks (Jones 1951). 
+The RFC described its procedures i n a public circular  issued on March 9, the same day 
+Congress passed the EBA. T he RFC anticipated its involvement in cases where : (1) an 
+applicant’s capital was partially impaired by losses; (2) its capital was entirely eliminated 
+by losses ; or (3) its capital was eliminated and depositors also faced losses . If the 
+applicant’s capital was partially impaired , the RFC assessed whether its remaining capital 
+offered “a reasonable margin of protection” for the Corporation’s investment  (Circular  No. 
+6).  
+The RFC did not identify th e level at which it would determine that a bank’s capital offered 
+this “reasonable margin of protection.” In addition to examining the materials a particular 
+applicant submitted, the RFC also developed a policy of injecting capital only into 
+institutions whose sound asset value equaled that of their liabilities (Circular  No. 6). In his 
+memoirs, however, Jesse Jones wrote that the RFC banks were required to have sound 
+744
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 10 ---
+assets equal to just 90 percent of liabilities  to be eligible for RFC funding  (Jones 1951). (He 
+later attempt ed to persuade the Senate Banking and Currency Committee to lower the 
+threshold to 75 percent, but was unsuccessful). 
+If the applicant’s capital was entirely eliminated , applicants would be taken into the RFC’s 
+bank “hospital” so they could be rehabilitated without having to go into receivership (Jones 
+1951). These banks could either raise capital by issuing common or subordinated preferred 
+equity, or encourage existing shareholders to reduce or subordinate their claims against 
+the appl icant. If the applicant’s capital was eliminated and depositors also faced losses , 
+stakeholders (depositors and other creditors) would be expected to accept a reduction in 
+the value of their investments, on a pro-rata basis, and would do so until the appli cant met 
+the threshold to receive RFC assistance (Circular  No. 6).  
+In addition to these financial protections, the stock also required several miscellaneous 
+conditions, as well. These were: 
+(1) “Substantial voting rights” for any matters concerning the applicant. 
+(2) Limitations on common stock dividends. 
+(3) Setting aside a  portion of net profits for the applicant to use to buy back its 
+preferred stock from the RFC.4 
+(4) “Understandings from time to time between the bank and [the RFC] with respect to 
+general policies.” 
+(5) Requiring the applicant to provide the RFC with operational reports when 
+requested (Circular  No. 6). 
+Congress set the terms of the preferred stock in Section 302 of the Emergency Banking Act. 
+Under those terms, the preferred stock would: pay cumulative dividends that could be at or 
+below 6 percent, carry significant voting rights, and be non-assessable (P.L. 72 -2). 
+Assessable stock was a type of equity that was normally offered at a discounted price, but 
+with the caveat that the company who so ld the stock could require shareholders to pay up 
+to the difference between the discounted purchase price and initial face value of the stock , 
+thereby adding another layer of potential liability for shareholders  (Hill and Painter 2010). 
+The use of assessab le stock was still quite popular in the years leading up to the initial 
+financial panic. In the crisis, however, use of assessable stock, similar to the widespread use 
+of double liability prior to the crisis, would quickly taper off  (Miller and Macey 1992). 
+Double liability enabled shareholders to be called on to provide capital in the case of a 
+shortfall.   
+RFC preferred stock was senior to common stock and cumulative, meaning that institutions 
+that received it could not pay dividends on common stock until the par value and all 
+ 
+4 The money set aside in the retirement fund was to be used when the  issuing bank was ready to retire, and 
+thus buy back, its RFC preferred stock. 
+745
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 11 ---
+dividends had been paid. The Emergency Banking Act didn’t specify the term length of the 
+stock, nor did it contain anything like step-up or mandatory conversion clauses (P.L. 72-2).  
+The RFC was authorized to write loans secured by this preferred stock, and banks applied 
+for these loans in the same way they  applied for preferred stock. Loan applicants also 
+needed to provide statements of the terms of the loan, their financial condition, and the 
+additional collateral they could offer in addition to the preferred stock. Unlike its preferred 
+stock subscriptions and direct purchases of capital notes and debentures, these loans could 
+be secured by assessable stock  (Circular No. 6 ). The RFC would also often buy preferred 
+stock and issue a bank a loan at the same time (Jones 1951). 
+Two-thirds of the institutions that received RFC assistance were state banks . However , 
+most states prohibited state-chartered banks and trusts from issuing preferred stock at the 
+time (Circular No. 6) . Through an amendment to the Emergency Banking Act on March 24, 
+1933, state banks and trusts that were not allowed to issue non-assessable preferred stock 
+could instead issue debt-like but potentially loss -bearing instruments —capital notes and 
+debentures—that would be purchased directly by the RFC. Similar to the preferred stock, 
+these instruments ranked higher than common equity in a bank’s capital structure. They 
+could also be sold on the open market by the RFC (P.L. 73-4).  
+Insurance companies would be eligible for preferred stock assistance through an act 
+passed on June 10, 1933 (P.L. 73-35). Insurance companies faced not only a total cap of $50 
+million in RFC aid, but strict executive co mpensation and capital retirement limits when 
+receiving RFC assistance (Circular  No. 8). (See Key Design Decision No. 13 for more 
+information.) 
+At the end of  January 1935, Congress extended the scope of the RFC’s authority to include 
+national mortgage associations, mortgage loan companies, trust companies, savings and 
+loan associations, and similar institutions whose primary focus was dealing in real estate. 
+For these, the RFC was allowed to subscribe to or issue a loan secured by non -assessable 
+stock of any class, not just preferred stock ; the RFC could also purchase capital notes or 
+debentures from companies that could not issue non -assessable stock, with an outstand ing 
+limit of $100 million ( P.L. 74-2). While the total amount of preferred stock assistance that 
+was authorized to insurance companies  and real estate lenders was capped , the RFC was 
+allowed essentially unlimited authority  with respect to financial institu tions, to an amount 
+that was “sufficient to carry out the provisions of [Section 304]” (P.L. 73–1).  
+Participation was voluntary but became widespread after banks overcame their initial 
+reluctance. Jones recalled : “We in the RFC concluded that fewer than t wenty of the more 
+than six thousand banks into which we put cap ital actually had no need of it ”. Stronger 
+banks were slower to participate, and the RFC encouraged these institutions to participate 
+even if they didn’t need very much, if any capital. Jones specified that this was principally to 
+reduce stigma, or “to take the curse off the many weaker banks which did need new 
+capital” (Jones 1951).  
+746
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 12 ---
+Outcomes 
+From 1933 to 1945, the RFC disbursed $1.17 billion in aid to 7,389 state and national banks 
+and trust companies  (see Figure 1), an amount that represented about one -third of total 
+capital in the U.S., as of 1933 5 (Final Report of the RFC 1959; Friedman and Schwartz). New 
+issuances from the RFC ended by 1947, but t he vas t majority of the Corporation’s 
+applications came between 1933 and 1935 (Final Report of the RFC  1959). The scope of 
+assistance was so wide that, “almost all large banks, in addition to the 5,000 
+conservatorships, receiverships, and assisted mergers, fu nded themselves through the 
+RFC” (Todd 1992). 
+The records of the RFC do not provide a state -by-state breakdown of loans on and 
+subscriptions for preferred stock and outright purchases of capital notes and debentures. 
+All three types of authorization were ofte n made in a single state, and some institutions 
+were granted more than one type of authorization. Subscriptions of and loans secured by 
+preferred stock were used for national banks and those state banks that could issue 
+preferred stock. Purchases of capita l notes and debentures were used almost exclusively 
+for state banks that could not issue preferred stock due to state banking regulations (Final 
+Report of the RFC 1959). 
+Figure 1: Summary of RFC Preferred Stock and Other Capital Assistance to Banks and 
+Trust Companies 
+Measure No. of borrowers Authorized Disbursed 
+Subscriptions of 
+preferred stock 
+4,202 $859.6 million $782.2 million 
+Loans secured by 
+preferred stock 
+274 $52.7 million $45.1 million 
+Purchases of capital 
+notes, debentures 
+2,913 $433.92 million $343.3 million 
+Total 7,389 $1.35 billion $1.17 billion 
+Source: Final Report of the RFC 1959. 
+ 
+5 Applicants were not limited to receiving one ty pe of aid ( in other words,  just subscriptions on preferred 
+stock), and could even apply multiple times to the same program. This number reflects the total number of 
+institutions that applied to every part of the program, including those that applied multiple times. As of 
+12/31/1940, the RFC reported that 6,868 institutions received aid, netting out those that received aid from 
+multiple sources (Final Report of the RFC 1959).  
+747
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 13 ---
+Despite the desperate need for capital, Jones found that getting the banks to participate 
+was quite difficult, and throughout the summer of 1933, the program moved along 
+sluggishly. After a pair of speeches given by Jones at the American Bankers Association 
+meeting in September  of that year , the RFC saw a sharp uptick in applications, processing 
+as many as 100 a day throughout the rest of 1933  (Jones 1951). The RFC authorized nearly 
+2,300 applications in the fourth quarter of 1933 (Final Report of the RFC 1959).6  
+While the fourth quarter of 1933 saw a dramatic increase in participation, most of the 
+RFC’s bank assistance efforts occurred in 1934. In this year alone, the RFC authorized 5,386 
+applications for loans, subscriptions, and outright purchases, more than doubling its efforts 
+in 1933 (Final Report of the RFC 1959). This was not a coincidence, as “widespread 
+participation in the preferred  stock program occurred only when the FDIC began backing 
+some of the deposits in solvent banks in 1934” (Calomiris et al. 2013).   
+Despite the initial  extraordinary efforts by the RFC, several changes were made after the 
+Emergency Banking Act of 1933. Less than two weeks after Congress passed the legislation, 
+it revised the law to allow the RFC to purchase debt -like instruments in state banks and 
+trusts that were not legally allowed to issue non -assessable preferred shares  (P.L. 73 -4; 
+P.L. 73 -35). Congress added insurance companies in June 1933 and r eal estate lenders, 
+including national mortgage associations, in January 1935 (P.L. 74 -2). Dividends were 
+originally set at 5 percent, but were subsequently lowered to 4 percent, then 3.5 percent. 
+Jesse Jones remarked that bankers wanted the RFC to lower them a further 50 basis points 
+(bps), but the Corporation refused, offering 3 percent only if beneficiaries agreed to pay 
+dividends promptly, as they were often 10 to 60 days late.  While bankers initially felt that 
+the RFC would not follow through, they quickly paid on time  after the RFC refused to offer 
+them lower rates due to tardiness (Jones 1951). 
+Subscriptions to preferred stock were the most widely used method of support, while loans 
+secured by preferred  stock tended to be used far less  (Final Report of the RFC 1959). 
+Institutions in New Y ork, Wisconsin, Pennsylvania, Te xas, and Ohio used the most RFC 
+assistance (Final Report of the RFC 1959 ). New York state banks, in particular, made  up 
+half of the amounts disbursed for the outright purchase of capital notes and debentures  
+(Final Report of the RFC 1959). The existing data don’t show what types of aid went to each 
+state. 
+One of the most crucial developments during the turbulent early y ears of the Depression 
+was the advent of deposit insurance. Deposit insurance was seen by many as a more 
+effective tool at preventing bank runs than double liability had been  (Miller and Macey 
+1992). President Roosevelt initially opposed federal deposit in surance, citing several state 
+deposit insurance policies that failed due to weak banks “draining” the stronger ones 
+(Jones 1951). Roosevelt ultimately approved the Glass-Steagall Act on June 16, 1933, which 
+created the Federal Deposit Insurance Corporation  (FDIC) (Jones 1951). Both member and 
+non-member banks of the Federal Reserve system that applied for deposit insurance were 
+ 
+6 The Corporation authorized 923 subscriptions for preferred stock, 98 loans secured by preferred stock, and 
+1,275 purchases of capital notes and debentures. 
+748
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 14 ---
+required to buy capital stock in the FDIC equal to 0.5  percent of their total deposit 
+liabilities. Increases and decreases in their  deposit bases were met with corresponding 
+increases and decreases in their holdings of FDIC capital stock.  The FDIC officially began its 
+operations on January 1, 1934. After this date, FDIC membership was required of all banks 
+in the Federal Reserve System. National banks in the system that didn’t obtain deposit 
+insurance by July 1, 1934 , would be placed into conservatorship or receivership, and state 
+member banks would be removed from the system if they did not become FDIC members 
+(P.L. 73-66).  
+This act put an implicit time limit on the RFC’s efforts to rehabilitate struggling banks. The 
+implementation of deposit insurance on January 1, 1934, meant that it was possible that 
+the 2,000 banks that remained in the RFC’s bank “hospital” group would not qualify for 
+deposit insurance unless they recapitalized . To prevent this, Treasury Secretary Henry 
+Morgenthau, at the behest of Jones, agreed to certify the banks in the hospit al group as 
+solvent so long as the Corporation could make them solvent within 6 months  (Jones 1951). 
+FDIC membership was required to obtain and maintain membership in the Federal Reserve 
+System. I f a bank was a national bank and already a member of the System it would be 
+placed into conservatorship or receivership if it didn’t obtain deposit insurance (P.L. 73 -
+66).  
+Many institutions were still struggling to lend profitably by 1936 and would retire their  
+RFC capital without first replacing it with private c apital. To remedy this, the RFC said that 
+they would accept US government bonds that banks bought at par when they were ready to 
+retire their capital. In this way, banks could “earmark” the RFC capital against lower 
+interest rate Treasuries and pay a lower  effective rate (Jones 1951). This process worked 
+similarly to a modern day repurchase agreement. Instead of retiring its capital,  a bank 
+would purchase Treasuries with its cash and refinance the purchase through the RFC. The 
+RFC would buy the Treasuries from the bank - essentially extending a secured , repo loan – 
+and the bank pays a repo rate, set at the Treasury rate. The bank would repurchase the 
+Treasuries when it really does retire the RFC capital.  
+At the time, t he widespread use of double  liability in the US banking system  had come 
+under attack. A system of double liability, formally established by Section 12 of the National 
+Banking Act of 1863, allowed shareholders to be assessed an additional amount up to the 
+par value of their shares  (12 Stat. 665. 37th Congress) .7 The tremendous stress placed on 
+the financial system, illustrated by a massive number of bank failures at the onset of the 
+Depression, made people question the viability of the double liability infrastructure. 
+Shareholders, many of whom had recently bought stock in the wake of the economic boom 
+and were already in serious trouble, were assessed en masse and were struggling to pay  
+(Miller and Macey 1992 ). The system, despite being designed to insulate depositors from 
+the risk of a bank run by ensuring they would get repaid via shareholder assessments, was 
+seen as “inadequate as a means of p rotecting the depositing public ” (Statutory Liability 
+1936). As a result, Congress quickly acted and passed laws in 19 33 and 1935 that  de facto 
+ 
+7 Double liability structures had been established in several states or via individual banking charter 
+agreements prior to this Act, but this was the first piece of legislation that did so for national banks.  
+749
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 15 ---
+removed double liability from most of the banking system, before formally abolishing it on 
+May 18, 1953 (P.L. 83-28).8  
+The RFC envisioned an approximately 20-year horizon in which banks would retire their 
+preferred stock (Jones 1951). As a condition of RFC assistance, banks were required to set 
+aside a portion of their net earnings every year into a preferred stock retirement fund  so 
+that the money used to retire the RFC investment would already be available and allocated  
+(Jones 1951; Circular  No. 6). By the end of September 1953, the RFCs holdings of financial 
+institution securities had dwindled to about $45.5 million, representing interest in 35 
+institutions. For these remaining banks, the RFC assisted them in either obtaining private 
+capital or creating plans that would enable them to retire their government obligations. By 
+June 30, 1957, only two banks had any RFC obligations outstanding, representing just $4.8 
+million (Final Report of the RFC 1959).  
+II. Key Design Decisions 
+1. Part of a Package: The preferred stock purchase program  was part of a package 
+of measures that included the establishment of a conservatorship authority , 
+broadening of the Fed’s emergency lending capabilities , and the promise of 
+federal deposit insurance. 
+The RFC’s size and scope grew as the Depression went on. Initially it was primarily used as 
+a collateralized lending vehicle to provide liquidity to national and state banks, trusts,  and 
+insurance companies in the early months of the Depression , in effect acting as a lender of 
+last resort (Final Report of the RFC 1959). However, these loans  were generally very short  
+term, strictly collateralized, and given at penalty rates . In particular, encumbering their 
+higher quality assets as collateral for borrowings may have impaired the banks’ ability to 
+access other sources of funding.  For these reasons , these loans  could not address the 
+growing insolvency of the nation’s banks. Banks that received such assistance often became 
+more indebted and in effect subordinated their depositors, resulting in an even greater risk 
+of a run (Calomiris et al. 2013).  
+As a result, Title III of the Emergency Banking Act  (EBA), which was passed on March 9, 
+1933, enabled the RFC to directly invest in, or subscribe to, the preferred equity of state 
+and national financial institutions (P.L. 73-1).  
+Title II of the EBA, also called the Bank Conservation Act, authorized the Comptroller of the 
+Currency to appoint a conservator if a bank was struggling. The conservator essentially had 
+the same powers that a receiver of an insolvent bank would  have, including liquidation 
+authority (P.L. 73-1).  
+ 
+8 Section 22 of Glass -Steagall abolished double  liability with respect to any shares issued after its enactment, 
+and the Banking Act of 1935 amended Section 22 to apply all shares, so long as the issuer gave its 
+shareholders at least a 6 -month “notice of such prospective termination of liability” that could be published 
+either in a local or national paper (P.L.  73-66 – p. 31).  
+750
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 16 ---
+Title IV  of the EBA amended Section 10(b) of the Federal Reserve Act to allow  the Fed, 
+under “exceptional and exigent circumstances ,” to lend at a penalty rate of at least 1 
+percent above the “established rate” to member banks that were unable to find credit 
+elsewhere (P.L. 73-1). It also significantly broadened the Reserve Banks’ lending authority, 
+allowing them to lend to any “individual, partnership or corporation” if “secured by direct 
+obligations of the United States.” This language remains in Section 13(13) of the Federal 
+Reserve Act. 
+2. Legal Authority: The RFC was granted autho rity to subscribe to, directly 
+purchase, and make loans secured by preferred stock via Section 304 of the 
+Emergency Banking Act of 1933. 
+Section 304 of the Emergency Banking Act , passed on March 9, 1933, stated that any 
+national bank, state bank, or trust company could “request the Reconstruction Finance 
+Corporation to subscribe for preferred stock in such association, state bank, or trust 
+company, or to make loans secu red by such stock as collateral ”. Section 304 also permitted 
+the RFC to sell any or all o f the preferred stock obtained via these methods in the open 
+market (P.L. 73-1).  
+On March 24, 1933, an amendment to Section 304 was passed,  allowing the RFC to directly 
+purchase capital notes and debentures of state banks that could not issue preferred st ock 
+that was exempt from double liability (P.L. 73-4). In June 1933 and January 1935, the RFC’s 
+authority to purchase preferred stock was extended to both insurance companies and 
+national mortgage associations (P.L. 73-35; P.L. 74-2).  
+3. Communications: The Corporation was required to submit quarterly reports to 
+Congress, as well as create a final report prior to its dissolution. President 
+Roosevelt and Jesse Jones were very active in persuading banks to participate in 
+the preferred stock program.  
+Sections 14 and 15 of the Reconstruction Finance Corporation Act laid out the reporting 
+obligations for the RFC. Section 14, which set a 10 -year su nset date for the Corporation, 
+also mandated that a final report be submitted to Congress before the dissolution of the 
+Corporation. Section 15 required the Corporation to make mandatory quarterly reports to 
+Congress that contained: 1) the aggregate loans made to each class of borrower, 2) the 
+balance sheet of the corporation, and 3)  the names and exact compensation of any 
+employees of the RFC making more than $400 a month (P.L. 72-2).  
+On March 6, President Roosevelt issued Proclamation 2039, which declared a four -day 
+bank holiday so that the US government could better address the collapsing financial 
+system (Proclamation 2039) . While several states had already declared their own bank 
+holidays, Proclamation 2039 “turned a maze of state restrictions into a uniform national 
+policy” (Silber 2009). The American people largely seemed to respond to the closings “with 
+good nature,” and “many thought it a great joke that they were unable to get into the banks 
+for the purpose of making deposits” (FRB Boston 1996).  
+On March 9, a special session of Congress convene d to draft emergency legislation in the 
+wake of the crisis  (Jabaily 2013). What emerged was the Emergency Banking Act , and with 
+751
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 17 ---
+it, the RFC’s preferred stock purchase program.  Roosevelt did not immediately reopen the 
+banks following the Emergency Banking Ac t and instead extended the holiday for three 
+additional days until March 13 (Silber 2009). President Roosevelt and Chairman Jesse Jones 
+were also active in emphasizing the importance of rescuing “sound” banks while still  
+soliciting as many applicants for the RFC as possible.  
+In his inaugural address on March 4, 1933, FDR expressed the need for “a strict supervision 
+of all banking and credits and investments; there must be an end to speculation with other 
+people’s money, and there must be provision for an a dequate but sound currency” 
+(Roosevelt 1933b). 
+Additionally, FDR asked Congress for, if circumstances demanded it, “the one remaining 
+instrument to meet the crisis —broad executive power to wage a war against the 
+emergency, as great as the power that would be given to me if we were in fact invaded by a 
+foreign foe” (Roosevelt 1933b) . This was a broad, immediate declaration that the 
+government would do whatever it took to resolve the banking crisis. 
+On Sunday, March 12, Roosevelt delivered the first of many “ Fireside Chats,” in which he 
+addressed the American people directly about the bank runs that had been plaguing the 
+country. Roosevelt explained that only sound banks would be allowed to re -open, and that 
+a bank’s location, as well as its status as a member (or non-member) of the Federal Reserve 
+System, would determine when it would open. Banks that were in the 12 cities where there 
+were Federal Reserve Banks would open that Monday, followed by banks that were located 
+in cities that had recognized clearinghouses on Tuesday, and all other banks on Wednesday 
+and succeeding days . President Roosevelt reiterated the point, however, that “ a bank that 
+opens on one of the subsequent days is in exactly the same status as the ba nk that opens 
+[Monday]”. To stoke confidence, Roosevelt said, “I can assure you that it is safer to keep 
+your money in a reopened bank than under the mattress” (Roosevelt 1933a).  
+Title IV of the EBA , which broadened the lending authority of Federal Reserve Banks and 
+allowed them to issue emergency currency not backed by gold, was another important 
+component to the government’s response. At the time, some bankers  interpreted the 
+Emergency Banking Act as a moral guarantee by the government on the deposits in the 
+banks that it permitted to reopen after deciding them to be sound. Bankers believed that, 
+since Roosevelt communicated that re -opened banks would be “100 percent sound and 
+assured of sufficient currency to meet all obligations ,” they would be safe (Silber 2009). As 
+such, Title IV, in conjunction with the Fireside Chat and banking holiday, was seen as an 
+implicit deposit guarantee for banks that would re-open (P.L. 73-1; Silber 2009).  
+When much of the banking system re -opened on March 13, depositors all across the 
+country waited outside of banks to return their money. More than half of the deposits taken 
+out in the bank run had been redeposited within two weeks of the end of the bank holiday. 
+Stock exchanges, which had been voluntarily closed along with the banks, re -opened to the 
+“largest o ne-day percentage increase ever ,” with the Dow Jones Industrial Average rising 
+by 15.34 percent.  These efforts by the new president illustrated the importance of concise 
+communication in a crisis and helped end the bank runs that marked the early part  of the 
+Depression (Silber 2009).  
+752
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 18 ---
+Even after the Emergency Banking Act, the banking holiday, and the reassurance of FDR’s 
+Fireside Chat in March 1933, the RFC was still having trouble soliciting applicants for its 
+capital assistance programs  (Jones 1951). Jones made two nationwide radio addresses on 
+August 1 and November 1 , 1933 (Jones 1933). In the first, he was stern with bankers, 
+telling them to quit stockpiling excess reserves and reverse the outflow of credit that was 
+occurring at this time (Olson 1988).  
+After the first radio address, Jones gave a speech  at the American Bankers Association 
+convention on September 5 where he “advised the bankers to ‘be smart, for once’ ,” which 
+did not play well among the members. Jones spoke again that ni ght, addressing the 
+negative reception his first speech garnered and saying that, “more than half the banks 
+represented at the gathering in front of me were insolvent, and no one knew it as well as 
+the men in our b anqueting room. I then sat down ” (Jones 19 51). FDR briefly discussed 
+eligibility for deposit insurance, which was scheduled to go into effect at the beginning of 
+1934, in a national radio address  in October 1933 , stating that “…on or before [January 1, 
+1934] the banking capital structure will be b uilt up by the government to the point that the 
+banks will be in sound condition when the insurance goes into effect” (Roosevelt 1933c). 
+This, in conjunction with  Section 12B(i) of the Glass-Steagall Act, which specified that 
+insolvent institutions would n ot be eligible for deposit insurance, illustrated the 
+importance of receiving RFC aid sooner rather than later (P.L. 73-66).  
+With the establishment of Glass -Steagall, contentious speeches by Jones,  FDR’s radio 
+address, as well as Jones’ successful push to involve the larger banks in New York and Wall 
+Street (see Key Design Decision No. 9 for more details), the RFC saw a dramatic increase in 
+applications for its preferred stock program . T he organization processed as many as 100 
+applications a day until the end of 1933 (Final Report of the RFC 1959). By the end of 1933, 
+the RFC had disbursed about $264 million in preferred stock aid, compared to $63 million 
+at the end of the third quarter. 
+4. Administration: The RFC worked closely with regional  Federal Reserve Banks 
+and the Treasury to operationalize its aid and had a funding structure and 
+evaluation procedures that allowed it considerable independence.  
+Originally, a governor of the Federal Reserve Board and the Farm Loan Commissioner were 
+also members of the RFC’s board of directors  (P.L. 72 -2); Federal Reserve Board Chair  
+Eugene Meyer was the first chairman . This was done in part because of  the “urgent 
+requirements of the moment ,” and because the RFC would need “great help from the 
+Federal Reserve System,” according to Meyer. After six months, Meyer felt that the RFC had 
+developed enough for him to request to be removed ( Meyer 1954). This was done via the 
+Emergency Relief and Construction Act on July 21, 1932, which replaced Meyer an d the 
+Farm Loan Commissioner with two more political appointees (P.L. 72-302). Of the six other 
+members of the RFC’ s board, no more than four could be of the same p olitical party, and 
+only one member per Federal Reserve district was permitted. Each board m ember had  a 
+two-year term and earned $10,000 a year for their service (P.L. 72-2).  
+Both the Federal Reserve and Treasury played significant roles in the operation of the RFC.  
+The Reserve Banks were “authorized to act as depositories, custodians, and fiscal agents for 
+753
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 19 ---
+the Corporation ”. Proceeds from loans were generally disbursed through the Reserve 
+Banks and their branches. Additionally, these banks held the primary obligations of 
+borrowers, and any collateral pledged to the RFC for loans (Circular No. 4). 
+The RFC kept all of its funds on deposit at Treasury, and the Secretary of the Treasury had 
+to request any subscriptions to, loans secured by, or outright purchases of preferred stock 
+issued by banks, trust companies, or insurance companies. After the re quest was made, the 
+president could approve or disapprove the aid (Circular No. 4). 
+Early on, the RFC approved two separate loans totaling about $90 million for the Central 
+Republic Bank of Chicago, headed by former U.S. Vice President Charles Dawes, who h ad 
+briefly served as RFC Chairman. This rescue was quite controversial, as many believed that 
+Dawes used his political clout to get the assistance. This rescue led Congress to pass the 
+Emergency Relief and Construction Act of 1932, which required the  RFC t o publish the 
+name of any RFC beneficiaries  in its monthly reports to Congres s (Mason 2003 ; P.L. 72-
+302).  
+The decision to publicize the names of borrowers generated considerable controversy both 
+in Congress and in “almost every community where there was a  bank”. Senator Henry 
+Steagall and Speaker of the House John Garner, specifically , were consistent proponents of 
+publicizing the names of applicants even retroactively, while critics voiced that publication 
+had, and would continue to, “[crush] the life out  of numerous institutions”. A bill was 
+passed that retroactively published the names of borrowers despite Congressional 
+opposition (Jones 1951).   
+However, the RFC was set up in such a way that made it more insul ated from political 
+probing and manipulation. First, any loans (and other investments) had to be “fully and 
+adequately secured” (P.L. 72-2). However, the collateral requirements were not specified, 
+and only RFC staff were allowed to evaluate institutions. Last, while the R FC was initially 
+funded by a  $500 million dollar appropriation, any additional funding came by way of 
+issuing government -guaranteed bonds, which would usually be sold to Treasury  (Mason 
+2001b). This design allowed the RFC to exercise more flexibility and independence without 
+fear of having to return to Congress for additional funds.  
+5. Administration: The RFC set up a system of field offices that could independently 
+process and approve applications in major cities across the United States. 
+The RFC had around 30 field offices across the US and one in Puerto Rico that were given a 
+large amount of autonomy over which institutions would receive aid (Circular No. 4; Mason 
+2001b). Similar to the private sector, the R FC would “…pick a man to be completely 
+responsible for the operations of an office and let him succeed or fail on the basis of 
+whether or not his office showed a profit” (Mason 2003). These loan managers could 
+approve direct business l oans of up to $100,000. Anything greater than this amount , 
+required the manager to defer to the central office in Washington to make the decision. By 
+decentralizing control and profit -constraining its local offices, the RFC largely prevented 
+“inefficient c redit or capital allocation that may have arisen from ineptitude or local 
+political influence (Mason 2001b).”  
+754
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 20 ---
+At a minimum, there would be at least one RFC office in every Federal Reserve district. If 
+aid decisions made by the more local offices had an ad verse effect on overall RFC earnings, 
+however, they were held accountable to the central office (Mason 2003). 
+6. Size: Congress authorized the RFC to issue up to $500 million in capital stock and 
+leverage up to three times, later increased to 6.6 times. 
+The RFC was allowed to subscribe to preferred stock, make loans secured by preferred 
+stock, and directly purchase capital notes and debts . Although there was an overall cap on 
+how much the RFC could borrow to finance its operations, this did not affect how much it 
+could borrow to finance its preferred stock assistance ( Circular  No. 4). (See Key Design 
+Decision No. 9 for more details.)  
+While the Corporation had no direct limit on how large its bank assistance programs could 
+be, the RFC originally could not have more than three times its capital stock outstanding in 
+any obligations, including notes, bonds, debentures, or any other obligation (P.L. 72 -2). 
+However, this amount would be increased to 6.6 times its capital stock after the Emergency 
+Relief and Construction Act was passed (P.L. 72 -302). With a capital stock of $500  million 
+subscribed to from the Treasury, this meant that the maximum amount th e RFC could lever 
+itself started at $1.5 billion and ended at $3.3 billion (P.L. 72-2). 
+7. Sources of Funding: The RFC financed its operations primarily by issuing 
+government-guaranteed debt  and via a n initial subscription by Treasury to its  
+capital stock of $500 million.  
+While the $500 million was a sizable amount for the time, most of the RFC’s operations 
+were financed through borrowings  (Final Report of the RFC 1959). Initially, the RFC was 
+“authorized and empowered, with the approval of the Secretary of the Treasury, to have 
+outstanding at any one time in an amount aggregating not more than three times its 
+subscribed capital, its notes, debentures, bonds, or other such obligations ” (P.L. 72-2). This 
+amount would later be increased  with the passing of the Emergency Relief and 
+Construction Act of 1932  to 6.6 times its subscribed capital, representing an increase from 
+$1.5 billion outstanding to $3.3 billion outstanding in borrowing authority (P.L. 72-302).  
+Throughout its lifespan, the RFC borrowed a total of approximately $54.4 billion, with 
+about $51.3 billion and $3.1 billion of these issued to the Treasury and the public, 
+respectively. Banks and other institutions that the RFC had inves ted in bought the public 
+securities. These were typically for terms of one to three years and carried interest rates 
+that ranged from 0.875 to 3 percent (Final Report of the RFC 1959 ). Borrowings from 
+Treasury were a bit more varied. The maturities ranged from demand (overnight) to three  
+and a half years, with interest rates fluctuating from 0.125 to 3.5 percent.  
+8. Eligible Institutions: Initially, all state and national banks and trusts were 
+eligible to apply for RFC preferred stock aid and were categorized  based on bank 
+examiners’ evaluation of their soundness during the March 1933 bank holiday. 
+Much of the work done to determine which institutions were likely to receive RFC 
+assistance came over the bank holiday that FDR announced on March 4, 1933 . During the 
+755
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 21 ---
+initial evaluation of the banking system, all national banks were classified as Class A, B, or C 
+banks. Class A banks were considered sound and were reopened immediately after the 
+bank holiday ended. Class B banks were undercapitalized but stil l had enough franchise 
+value and were reopened “as quickly as they could be got into shape ”. Class C banks were 
+insolvent, and there was already a clear loss to depositors. These banks were placed into 
+conservatorship so that they could be either rehabilit ated or liquidated, depending on the 
+severity of their impairment (Jones 1951). 
+Subsequent to the EBA , the RFC sent teams of examiners to determine if applicants were 
+sound enough to lend to (Olson 1988). Despite FDR’s assertion in his first Fireside Chat that 
+only sound banks would reopen, “it developed that probably no fewer than 5,000 of these 
+banks [required] considerable added capital to make them sound” (Jones 1951) This 
+caused the RFC to establish a standard in which they would provide assistance to an 
+institution only if the “ sound value” of its assets was greater than or equal to its liabilities 
+(Circular No. 6).  In Jesse Jones’ recounting of the program, he specified that these banks 
+required only a 90 percent ratio of sound asset value to liabili ties (Jones 1951). In other 
+words, corporations whose assets equaled 90 percent of their liabilities, according to Jones, 
+were eligible for RFC assistance. While it could be argued that these valuations, in many 
+cases, were quite generous, Jones stated tha t, “I told [President Roosevelt] we should try to 
+interest people in the various communities in reestablishing the banks by putting some of 
+their own money in the stock” (Jones 1951). 
+Banks that did not measure up to these requirements were placed in conservatorship, 
+which Jones called the “hospital ,” and by mid -December of 1933, there were more than 
+2,000 banks in this condition. In an attempt to reduce this number, Jones went to the 
+Senate Banking and Currency Committee to ask them if they could help him in reducing the 
+threshold of assets to liabilities to 75 percent. However, Jones’ efforts were unsuccessful 
+(Jones 1951). 
+Though application was voluntary, the RFC heavily encouraged some of the largest banks 
+to get involved, even if they only took modest amounts of capital. Jones encouraged these 
+larger banks to take capital “to take the curse off the many weaker banks which did need 
+new capital” (Jones 1951).  
+Ultimately, two -thirds of the banks that applied and received RFC assistance were state 
+banks, while the rest were national banks (Jones 1951).  
+Institutions in New York and on Wall Street were also reluctant to join the program. Jones 
+believed that, “if the big banks of New York would cooperate with our program by selling 
+us preferred stock or capital notes, the banks in the country would follow” . Later in 1933, 
+after a $25 million capital injection to the Manufacturer’s Trust Company on October 28, as 
+well a s candid meetings with Jones and Roosevelt, both New York State and Wall Street 
+banks began to apply in droves. National City Bank and Chase National each obtained $50 
+756
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 22 ---
+million in preferred stock and reduced the amount of common equity in their capital 
+structures (Jones 1951).9  
+9. Eligible Institutions: The RFC received authority to in vest in the preferred stock 
+of insurance companies on June 10, 1933.  
+An Act  passed on June 10, 1933 allowed insurance companies to request that the RFC 
+subscribe to or make a l oan secured by preferred stock that was exempt from double 
+liability to shareholders. Just as in the case with financial institutions, insurance companies 
+that couldn’t issue preferred stock could issue capital notes to the RFC for purchase for the 
+same effect. This authority had a limit of $50 million outstanding (P.L. 73-35).  
+Similarly to banks and trusts, insurance companies would receive aid “on the basis of the 
+sound net worth of the company ,” which was calculated by obtaining the market value for 
+all assets, which were usually mortgages and securities, that had a market value. Where 
+market value couldn’t be obtained , the sound value of the assets would be used ( Circular 
+No. 8). 
+According to page 3 of the Circular No. 8, w hen applying for aid, insurance companies had 
+to submit:  
+(1) A copy of the charter under which the preferred stock subscription was to be 
+issued. 
+(2) A copy of the statutes that gives the applicant the auth ority to issue preferred stock 
+or capital notes if they were not able to issue preferred stock. 
+(3) A copy of resolutions adopted, or proposed to be adopted, by the board of the 
+insurance company that authorized the sale of preferred stock or capital notes. 
+(4)  A copy of the applicant’s latest examination report. 
+(5) Copies of the applicant’s convention reports as filed with the superintendents of 
+insurance of the various States for the last preceding five full years, and a complete 
+copy of the annual financial statement on the regulation convention forms as of the 
+most recent date available, but in no event more than four months prior to the date 
+of application.10 
+(6) Statements of the applicant’s cash receipts and disbursements for the last five full 
+years, as well as the period of time between the application date and the dat e that 
+the company filed the above mentioned convention reports. 
+ 
+9 National City Bank reduced the total value of its shares of common stock from $124 million to $77.5 million 
+while issuing $50 m illion in new preferred equity to the RFC. Chase National similarly reduced its common 
+stock value from $148 million to $100 million. 
+10 Applicants were required to use market values of securities in these convention reports, although the 
+supporting documen ts that applicants were to submit (such as balance sheets and annual financial 
+statements) would not use these. 
+757
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 23 ---
+(7) If not fully reflected in the convention reports, supporting schedules [showing] in 
+detail all assets pledged to secure borrowed money, together with schedules of 
+assets deposited with the various state departments of insurance. 
+(8) A complete statement of any reorganization plan that the applicant plans on putting 
+into operation. The applicant was also required to provide a statement of approval 
+of the plan by their respective state insurance s upervisory authority, as well as any 
+additional conditions that said authority attached to the plan, and, 
+(9) A complete statement of the sources where other funds are planning to be raised. 
+This includes the names of the subscribers to any class of capital st ock or 
+purchasers of capital notes, as well as those offering preferred stock as collateral 
+for RFC loans. 
+Insurance companies were subject to even more stringent requirements than banks and 
+trusts. The RFC would not purchase, subscribe to, or issue a loan  secured by preferred 
+stock, if either any “officer, director, or employee” of the insurance company made $17,500 
+or more a year. Additionally, the applicant had to pledge not to increase compensation for 
+any employee nor retire any stock, notes, or obliga tions while the RFC had capital in it.  
+Insurance companies also had to submit a list consisting of the names and amount of equity 
+held by any shareholders who owned 10 percent or more of their capital stock to the RFC.  
+Unlike banks and trusts, who had to show that their earning capacity was sufficient enough 
+to support annual dividend payments of up to 6 percent, insurers were required to 
+demonstrate only ability to pay up to 5 percent dividends for the first five years  (Circular 
+No. 6; Circular No. 8). However, after this point, this threshold was bumped up to 6 percent 
+(Circular No. 8).  
+10. Eligible Institutions: The RFC received authority to invest in the preferred stock  
+of mortgage loan companies  and national mortgage associations  on January 31, 
+1935. 
+The Reconstruction Finance Act was amended on January 31, 1935, “to assist in the 
+reestablishment of a normal mortgage market” . This amendment added Section 5c to the 
+RFC Act, which authorized the RFC to subscribe to or make loans upon non -assessable 
+stock of any class of any mortgage loan company or national mortgage association,  or other 
+real-estate lender, up to a maximum amount of $100 million outstanding at any one time 
+(P.L. 74 -2). The RFC’s original enabling Act in 1932 authorized the RFC to make loa ns to 
+these organizations, but not to inject capital (P.L. 72-2).  
+The RFC used this authority to create two subsidiaries that dealt in real estate mortgages. 
+They were the RFC Mortgage Company and the Federal National Mortgage Association, 
+later known as Fannie Mae. The capital stock of each company was subscribed to by the 
+RFC. The former was eventually re -integrated back into the RFC, while Fannie Mae is still 
+around to this day. The RFC ultimately subscribed about $4 6 million in the capital stock of 
+the two mortgage lenders and  disbursed more than $1.7 billion in loans. This funding was 
+used to purchase hundreds of thousands of mortgages, including those insured by the 
+758
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 24 ---
+Veterans Administration and the Federal Housing Authority (Final Report of the RFC 
+1959). 
+11. Eligible institutions: Injections were based on need, and institutions had to apply 
+and be approved by the RFC to issue preferred stock. 
+Applicants could be banks that were either currently operating or closed but contemplating 
+reorganization. Even newer banks and thrifts were allowed to apply (Ci rcular No. 6). The 
+process required institutions to submit the following: 
+1) A copy of the charter under which the preferred stock subscription was to be issued 
+2) If the applicant is not a national bank, copies of the statutes that allow the applicant 
+to issue preferred stock 
+3) A copy of a resolution adopted or proposed to be adopted by the board of directors 
+of the applicant authorizing the sale of such stock 
+4) A copy of the latest report of examination of the applicant 
+5) A statement by the applicant on their conditi on at the close of business on the day 
+the application was forwarded 
+6) Schedules in adequate detail showing assets pledged to secure borrowed money, 
+public funds, or other liabilities (Circular No. 6). 
+If the applicant was requesting a loan secured by prefer red stock, there were additional 
+requirements. Applicants had to include statements of: 
+1) The proposed terms of the loan 
+2) The applicant’s financial condition 
+3) Any additional collateral offered for the loan in addition to the preferred stock 
+(Circular No. 6  ). 
+Even though there was a clear application process and obvious need for assistance across 
+the financial sector, many banks did not immediately apply to the RFC. In fact, prior to the 
+advent of the FDIC at the beginning of 1934, many banks conserved their l iquidity in case a 
+run occurred. “A few [banks] even solicited deposits with the boast that they were 75 
+percent liquid. One bank, which had amassed an uncommonly large surplus, bragged of 
+being 110 percent liquid”. Many of these banks, despite already hav ing excessive amounts 
+of liquidity, continued to hoard more by calling in loans and thus forcing liquidation from 
+their borrowers, often destroying their net worth (Jones 1951).  
+12. There were no individual participation limits for applicants.  
+No further detail has been found for limits on individual participation amounts.  
+13. Capital Characteristics: Initially, the RFC could subscribe to or issue loans 
+secured by cumulative non -assessable preferred stock ; Congress later expanded 
+759
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 25 ---
+eligible capital to allow the RF C to recapitalize state banks, trusts, and other 
+types of financial companies. 
+The initial Emergency Banking Act allowed national banks to issue cumulative , non -
+assessable preferred stock, as well as allowing such stock to secur e loans made by the RFC 
+(P.L. 73-1). On March 24, 1933, an amendment to the EBA was passed, clarifying that, for 
+state banks and trust companies,  the RFC could subscribe only to preferred stock that was 
+non-assessable (P.L. 73-4).11 However, the RFC could still make loans secured by assessable 
+preferred stock (Circular No. 6). Unlike the federal regulations that governed national 
+banks, some state regulations prevented state banks and trust companies from issuing non-
+assessable preferred stock (Kroszner 1994). For these banks and trus ts, the amendment 
+also authorized the RFC to purchase capital notes of debentures in place of preferred stock 
+to give them relief (P.L. 73-4).  
+RFC preferred stock was also senior to other types of equity, with dividends being paid out 
+annually and usually at less than 1 percent below market rates, but greater than those on 
+short-term business loans ( Mason 2001b ; Calomiris et al.  2005). While the original 
+Emergency Banking Act stipulated that applicants needed to be able to pay out dividends of 
+up to 6 percent, dividends were quickly started at 5 percent and were subsequently 
+reduced to 4 and then 3.5 percent (Mason 2001b). Banks wanted the RFC to lower them to 
+3 percent, but the Corporation was having difficulty getting banks to pay them on time and 
+had to more firmly demand prompt repayment from applicants, who were often delaying 
+repayment anywhere from 10 to 60 days. Only instit utions that repaid on time were given 
+the lower rate (Jones 1951).  
+Interest rates on loans secured by preferred stock of trust companies, which were heavily 
+involved in the mortgage market, were set at 4 percent until March 31, 1939, at which 
+point they w ould increase to 5 percent. In the case of preferred stock subscriptions or 
+direct purchases of capital notes and debentures, the dividends (or interest rates) would be 
+set at 4 percent through January 31, 1935, before falling to 3.5 percent through January 31, 
+1940, and subsequently returning to 4 percent after that date (Circular No. 18).  
+Despite a massive infusion of RFC capital, bank  lending was still lacking  by 1936 ( Circular 
+No. 18 ). Banks often retire d RFC capital without replacing it with private c apital. As a 
+result, a bank’s overall capital would fall when it retired its RFC capital. To counter this  
+trend, the RFC decided to “accept interest -bearing US government bonds at par and 
+[accrue] interest from banks in retirement of their RFC capital whenever the retirement 
+would take place.” This would allow banks to earmark liquid Treasuries against RFC capital 
+and thus obtain even cheaper funding. Essentially, this arrangement worked similarly to a 
+modern-day repurchase agreement. Using the cash received by the RFC from its preferred 
+stock investment, the bank would buy Treasuries and sell them to the RFC – effectively 
+extending a secured loan to the bank. The rate on this “repo” loan would be set at the 
+ 
+11 Assessable stock was a type of equity whereupon a company would sell stock at a discount to investors 
+with a guarantee that these investors wo uld later participate in a secondary offering. The amount that the 
+company could ask of these shareholders was generally equal to the difference between the face value and 
+the original (discounted) purchase price. 
+760
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 26 ---
+Treasury rate, and the bank would repay the loan when it retired the RFC capital, thereby 
+decreasing its overall funding costs.  
+14. Other Conditions : The RFC requir ed additional protections based on how 
+impaired an institution was, such as raising  additional capital, voluntarily 
+creditor subordination or reduction of claims, or forcing actions  if a bank was 
+significantly impaired.  
+The RFC required there to be “a rea sonable margin of protection for the preferred stock to 
+be taken by the Corporation, represented by common stock, or by a class of preferred stock 
+subordinated to that to be taken over by the Corporation, or otherwise” (Circular No. 6). 
+The RFC anticipated involvement in cases where capital was: 
+(1)  Partially impaired. 
+(2)  Entirely eliminated by losses. 
+(3)  Entirely eliminated and have caused deposits to become impaired (Circular No. 6). 
+For the first case, the RFC analyzed the remaining capital structure to see if its investment 
+would be sufficiently protected. For the second, protection for the RFC investment was to 
+be provided by either: (1) the purchase by stockholders, depositors, or others of additional 
+common or subordina ted preferred stock, or (2) voluntary subordination or reduction by 
+creditors or depositors of their claims against the applicant. For banks that had impaired 
+deposits and no capital, claims against the bank would be reduced on a pro rata basis until 
+the total of deposits and other liabilities equaled the value of the assets. These banks would 
+then solicit additional common and/or subordinated preferred stock in the same way that 
+institutions did in the second category (Circular No. 6). 
+15. Other Conditions: For all preferred stock assistance, t he RFC required 
+substantial voting rights, limitations on common stock dividends, and portions of 
+net profits to be set aside for preferred stock retirement.  
+There were further stipulations that applicants had to meet to  receive RFC aid. As stated in 
+Circular No. 6, t he Corporation specified that preferred stock issued to it was to be 
+protected by:  
+(1) Substantial voting rights in all matters concerning the issuing institutions. 
+(2)  Limitations on common stock dividends.12 
+(3) Compulsory regular application of a substantial part of net profits of the issuing 
+institution to the retirement of preferred stock. 
+(4) Understandings from time to time between the bank and this Corporation with 
+respect to general policies. 
+ 
+12 For trust companies, there was no maximum on common stock dividends set (Circular No. 18).  
+761
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 27 ---
+(5)  An agreement to furni sh the Corporation from time to time such reports of the 
+bank’s operations and policies as the Corporation may require. 
+In addition to the above requirements, any institution requesting aid had to show that “its 
+earning capacity [would] be sufficient at least to enable it to pay dividends on the preferred 
+stock at the rate of [6 percent] per annum” (Circular No. 6).  
+16. Exit strategy: There was no explicit exit strategy for the preferred stock purchase 
+program, though Jesse Jones anticipated a 20-year horizon. However, the RFC 
+itself initially had a 10-year sunset date. 
+For the preferred stock program specifically, the RFC never defined an exit strategy, though 
+many institutions repaid the government investment  rapidly. In particular, most of the 
+institutions in New York, where the most powerful bank s were located , repaid their 
+preferred stock by July 1934, less than a year after they had received it. However, Jesse 
+Jones did specify that “we [at the RFC] held t o the conviction that, given a stable banking 
+system in which public confidence had been restored, the banks would earn the money to 
+pay for and retire their preferred stock within 20 years without, meantime, depriving their 
+common stockholders o f dividends”. Participating banks ultimately repaid their preferred 
+stock issued to RFC  at a much faster rate. All but 392 of the more than 6,000 participating 
+banks retired their RFC capital by 1951 (Jones 1951). 
+The authority from Section 304 of the Emergency Banking Act that allowed the RFC to 
+directly invest in financial institutions was repealed through an act passed on June 30, 
+1947. However, the previous authorities that allowed the RFC to make loans to finan cial 
+institutions were extended on that same date ( P.L. 80-132). Despite this continued ability, 
+the RFC did not issue any new loans to any banks or trusts because the power was seen as 
+an emergency one only (Final Report of the RFC 1959).  
+As for the RFC itself, Section 4 of the Reconstruction Finance Corporation Act specified that 
+“the corporation shall have a succession period of 10 years from the date of the enactment 
+hereof, unless it is sooner dissolved by an Act of Congress ” (P.L. 72-2). The initial 10-year 
+horizon would be revised and extended as the RFC’s powers grew with new developments 
+in the Depression and the advent of World War II.13  
+After a series of legislation s that further extended its succession date, the Reconstruction 
+Finance Corporati on Liquidation Act was passed  on July 30, 1953 , giving it a final sunset 
+date of June 30, 1954  (P.L. 83-163). Any further liquidation was done by the Secretary of 
+the Treasury, who continued liquidation of the RFC until it was abolished on June 30, 1957  
+(Reorganization Plan No. 1 of 1957).   
+ 
+13 Section 6 of an Act passed on June 25, 1940 , extended the succession date to January 22, 1947. An Act 
+passed on August 7, 1946 , further extended this to June 30, 1947 ( P.L. 79–656). This was extended another 
+year by an Act passed on June 30, 1947 (P.L. 80 -132). Last, an Act passed on May 25, 1948 , further extended 
+the Corporation’s lifespan through June 30, 1956 (P.L. 80-548).  
+762
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 28 ---
+17. Relevant regulatory changes: Following the Emergency Banking Act, the system 
+of double liability for newly issued shares  and depositors was removed, and the 
+Federal Deposit Insurance Corporation was created. 
+Prior to the Depression, most of the US banking system operated under a standard of 
+double liability, which meant that in the event of insolvency, a bank’s shareholders could be 
+responsible for some of the debts of the bank in addition to their own investments . A large 
+number of people had bought bank stock in the boom prior to the Depression and, when 
+those investors became seriously financially impaired, the system of double liability served 
+to only further strain them. This problem, coupled with the advent of deposit insurance and 
+the fact that the volume of failed banks enforced widespread belief that double liability was 
+not an effective mechanism of preventing bank failures, forced governmental action  (Miller 
+and Macey 1992).  
+Section 22 of the Glass-Steagall Act of 1933  repealed double lia bility for any newly issued 
+national bank shares following the passing of the law (P.L. 73-66). The Banking Act of 1935 
+amended Glass-Steagall by giving national banks the option to remove double liability from 
+their stock so long as they gave a public, six-month notice (Miller and Macey 1992). 
+The creation of the FDIC via Section 12(b) of Glass-Steagall was another pivotal moment in 
+the government’s effo rts to fight the Depression (P.L. 73 -66). Deposit insurance was 
+scheduled to go into effect on January 1, 1934 and was seen as “a necessary prelude to a full 
+restoration of public confidence in the banks” ( Jones 1951 ; P.L. 73 -66). However, there 
+were still thousands of banks in December  1933 that were still in the “hospital” and would 
+not qualify for deposit insurance. President Roosevelt, by stating that any banks that were 
+given deposit insurance must be sound, had emphasized the need for all banks to be 
+insured by the start of 1934. There was fear among some administration officials that 
+“another bank debacle would occur if, suddenly, it had to be made known to the public that 
+some 2,000 banks could no t qualify for deposit insurance ”. In late December, Jesse Jones 
+and Treasury Secretary Henry Morgenthau quickly hammered out an agr eement for these 
+hospital banks. Treasury certified them as solvent and the RFC pledged to make them so 
+within six months, which the Corporation did by broad solicitation of subor dinated private 
+capital and injecting some of its own (Jones 1951). 
+III. Evaluation 
+Some have argued that because RFC’s pre -Emergency Banking Act lending programs 
+tended to have short durations (under six months), and the RFC often imposed both high -
+quality collateral requirements and higher interest rates than the Fed charged, banks were 
+reluctant to par ticipate (Calomiris and Mason 2013). More recently, scholars have argued 
+that the RFC was lenient with actual collateral accepted and allowed banks to roll over six -
+month loans easily (Anbil and Vossmeyer 2020). They suggest that the RFC ’s loans, in 
+comparison with its later preferred stock program, did not have a guarantee of 
+confidentiality for the borrowing banks and this significantly reduced participation at the 
+RFC.  
+763
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 29 ---
+The double liability system that was commonplace throughout the United States prior t o 
+the crisis saw its fair share of scrutiny, as well. One of the reasons why double liability 
+systems (and similar, non -limited liability structures) began to fail  at the onset of the 
+Depression was that, due to the thousands of bank failures that occurred , the public 
+believed at the time that the system did not fulfill its intended purpose of discouraging risk-
+taking and insulating depositors . Ultimately, however, most observers had concluded that 
+the double liability system was effective prior to the Grea t Depression (Miller and Macey 
+1992). However, Grossman (2001) suggested that, prior to the crisis, the double liability 
+structure’s benefits were seen through “lower failure rates, higher capital ratios, and higher 
+liquidity ratios among state banks in mu ltiple-liability states”. These results ultimately did 
+not hold for the 1930s, as the volume of failures that overwhelmed the economy may have 
+contributed to banks failing sooner to reduce the losses that their shareholders would pay. 
+Regarding the bank holiday in March 1933, Ben Bernanke (1983) explained that, “although 
+the government’s actions set the financial system on its way back to health, recovery was 
+neither rapid nor complete”. To illustrate this point, Bernanke cites the massive number of 
+banks that either did not re -open or did so on a restricted basis, as well as the substantial 
+efforts (through loans and other assistance) made by the RFC and other New Deal –era 
+organizations to keep these institutions afloat.  Additionally, he cite s multiple studies that 
+find that the supply of credit to smaller firms, even after the bank holiday and preferred 
+stock purchases, was still restricted, even to firms that were solvent.  
+However, most of the analysis on the preferred stock purchase program sugges ted that it 
+was an overwhelming success. While Mason (2001a) found negative results with respect to 
+pre–Emergency Banking Act lending, the opposite was found with the preferred stock 
+assistance, concluding that  unlike the loan programs, which subordinated depositors,  
+“effective bank policy requires the lender to assume substantial default risk” ( Mason 
+2001a). The risk profile of applicants who were accepted suggest s that they were “of 
+middling risk ,” and that the RFC did not try to save com pletely insolven t institutions, 
+though they did lend to clos ed banks undergoing liquidation (Calomiris et al. 2013; Final 
+Report of the RFC 1959). Despite the potential for the RFC to be swayed by political 
+influence, the organization’s aid decisions did not appear to be thusly affected  (Mason 
+2001b). Mason (2001b) argues that was due to three factors: 
+(1) RFC aid was required to be “fully and adequately secured ,” and this determination 
+could be made only by members of the Corporation, who often were formerly in the 
+private sector. As a result, they tended to be liberal with their collateral valuations. 
+(2) The RFC’s funding structure insul ated it from political influence, as well. While 
+Congress appropriated the initial $500 million , the RFC could issue government-
+guaranteed obligations up to three  times (later six  and a half times) its capital 
+stock. These obligations could be bought and either held onto or subsequently sold 
+to the public by Treasury.  
+(3) Decision-making, generally, was “devolved to the regional level where ver possible.” 
+While there was a main loan office in Washington, DC, the regional offices could 
+approve loans up to $100,000 without approval from Washington. Field offices 
+764
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 30 ---
+were expected to turn a profit and, if they didn’t , someone from the main office 
+would visit them to correct the issue.  
+Mason (2001b) also mentions that the RFC’s heavy -handedness with its voting rights, high 
+dividend, and borrower publication requirements contributed to an initial lack of 
+participation in the program. However, he agrees that Jesse Jones’ continued 
+encouragement, particularly after his speech at the American Bankers As sociation 
+conference, was a large reason that banks felt more inclined to participate.  
+Calomiris et al.  (2013) examine the effectiveness of RFC loans and preferred stock 
+assistance on a sample of 209 Federal Reserve member banks in Michigan during the 
+1930s. The authors determine that banks that received RFC preferred stock assistance 
+were 17 to 20 percent less likely to fail, whereas those that just receiv ed loans were no 
+better off. In addition to addressing the likelihood of bank failure, they also find that 
+lending volume increased because of RFC aid, stating that, “an increase in the probability of 
+RFC assistance by one percentage point raised loan growth by one percent”. 
+Politicization of the RFC’s activities  was also a topic that was explored further in -depth, as 
+many New Deal –era programs had been found to be susceptible to such pressures  
+(Kroszner 1994) . In general, evidence of political influenc e for RFC preferred stock 
+investments appeared to be mixed . Kroszner (1994) finds that s tates that had 
+representatives o n the House Banking and Currency Committee obtained significantly 
+more RFC assistance than state s without. Conversely, no such relations hip was found for 
+states that had only senators on the Senate Banking Committee. Mason (2003), on the other 
+hand, adds additional parameters to the earlier models, and finds that no such relationship 
+existed and that “political variables appear to be poor predictors of the dist ribution of RFC 
+loan assistance”. 
+Walker F. Todd, former assistant general counsel at the Federal Reserve Bank of Cleveland  
+(1992), presents a more critical view of the RFC, citing that  the preferred stock program 
+was “one step short of n ationalizing the banking system ”. Conversely, he offers praise to 
+Jesse Jones, saying that modern circumstances would “make it difficult to appoint  anyone 
+comparable to him today ”. Last, Todd remarks that, since the preferred stock purchase 
+began in an era of both an “externally constrained” Federal Reserve and without deposit 
+insurance, the RFC should have been used to (1) compensate for weaknesses that deposit 
+insurance had and (2) lend in situations that the Fed wouldn’t lend in. 
+The overall evaluation of the preferred stock program suggests that it was broadly 
+successful in both stabilizing a sev erely shocked financial system and modestly growing 
+lending. However, broad adoption of the program took several months and required 
+multiple attempts by Jesse Jones and Roosevelt to persuade troubled institutions to apply. 
+IV. References 
+12 Stat. 665. 37th Congress, 3d Session, Ch. 58 . 37th Congress of the United States. 
+“National Banking Act of 1863.” United St ates Congress. Signed into law on February 25, 
+765
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 31 ---
+1863.   
+https://ypfs.som.yale.edu/library/national-banking-act-1863. 
+Anbil and Vossmeyer 2020 . Anbil, Sriya, and Angela Vossmeyer, “Liquidity from two 
+lending facilities.” Journal of Financial Intermediation, 2020. 
+https://ypfs.som.yale.edu/library/liquidity-two-lending-facilities.  
+Bernanke 1983 . Bernanke, Ben S. “Non -monetary effects of the financial crisis in the 
+propagation of the Great Depression.” National Bureau of Economic Research. January 
+1983. https://ypfs.som.yale.edu/library/non-monetary-effects-financial-crisis-
+propagation-great-depression. 
+Calomiris et al. 2005 . Calomiris, Charles W ., Daniela Klingebiel, and Luc Laeven. “Financial 
+Crisis Policies and Resolution Mechanisms.” Systemic financial Crises: Containment and 
+Resolution. Cambridge University Press. 2005. https://ypfs.som.yale.edu/library/financial-
+crisis-policies-and-resolution-mechanisms. 
+Calomiris et al. 2013. Calomiris, Charles W., Joseph R. Mason, March Weidenmier, Katherine 
+Bobroff. “The Effects of Reconstruction Finance Corporation Assistance on Michigan’s 
+Banks’ Survival i n the 1930s.” Explorations in Economic History, Vol. 50 No. 4, October 
+2013.  https://ypfs.som.yale.edu/library/effects-reconstruction-finance-corporation-
+assistance-michigans-banks-survival-1930s. 
+Circular No. 4. “Circular No. 4 of the Reconstruction Fina nce Corporation – Its Powers and 
+Functions.” Reconstruction Finance Corporation. August 1933. 
+https://ypfs.som.yale.edu/library/circular-reconstruction-finance-corporation. 
+Circular No. 6. “Circular No. 6 of the Reconstruction Finance Corporation – Information 
+Regarding Subscriptions for Preferred Stock, or loans upon preferred stock by the 
+Reconstruction Finance Corporation as authorized in the Act of Congress, approved March 
+9, 1933.” Reconstruction Finance Corporation. 1933.  
+https://ypfs.som.yale.edu/library/circular-reconstruction-finance-corporation. 
+Circular No. 8. “Circular No. 8 of the Reconstruction Finance Corporation – Information 
+regarding applications to the Reconstruction Finance Corporation for subscription for 
+preferred stock and purchase of  capital notes of insurance companies, and loans on such 
+preferred stock or other capital notes as collateral security, as authorized by Act of 
+Congress, approved June 10, 1993.” Reconstruction Finance Corporation. July 1933. 
+https://ypfs.som.yale.edu/library/circular-reconstruction-finance-corporation. 
+Circular No. 18. “Circular No. 18 of the Reconstruction Finance Corporation – Information 
+regarding subscriptions for preferred stock and purchases of capital notes or debentures of 
+trust companies and loans to trust companies and mortgage loan companies engaged in the 
+business of lending upon real estate.” Reconstruction Finance Corporation. October 1934.  
+https://ypfs.som.yale.edu/library/circular-reconstruction-finance-corporation. 
+Conti-Brown, Peter, and Sean H. Vanatta  2021. “The Logic and Legitimacy  of Bank 
+Supervision: The Case of the Bank Holiday of 1933.” March 16, 2021. 
+766
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 32 ---
+https://ypfs.som.yale.edu/library/logic-and-legitimacy-bank-supervision-case-bank-
+holiday-1933. 
+Engemann 2013. Engemann, Kristie M. “Banking Panics of 1931 -33.” Federal Reserve 
+History. November 22, 2013.   
+https://ypfs.som.yale.edu/library/banking-panics-1931-33. 
+FRB Boston 1996. Federal Reserve Bank of Boston. “Closed for the Holiday: The Bank 
+Holiday of 1933.” 1 996. https://ypfs.som.yale.edu/library/closed-holiday-bank-holiday-
+1933. 
+Final Report of the RFC 1959. “Final Report of the Reconstruction Finance Corporation.” 
+Reconstruction Finance Corporation. May 6, 1959.   
+https://ypfs.som.yale.edu/library/final-report-reconstruction-finance-corporation. 
+Friedman and Schwarz 1963. Friedman, Milton, and Anna Jacobson Schwartz. “A Monetary 
+History of the United States, 1867 – 1960.” Princeton University Press. 1963.  
+https://ypfs.som.yale.edu/library/monetary-history-united-states-1867-1960. 
+Hill and Painter 2010. Hill, Claire, and Richard W. Painter. “Berle’s  Vision Beyond 
+Shareholder Interests: Why Investment Bankers Should Have (Some) Personal Liability.” 
+University of Minnesota Law School. 2010.  
+https://ypfs.som.yale.edu/library/berles-vision-be-s-vision-beyond-shar-ond-
+shareholder-inter-eholder-interests-why-inv-ests. 
+Jabaily 2013. Jabaily, Robert. “Bank Holiday of 1933.” Federal Reserve History. November 
+22, 2013. https://ypfs.som.yale.edu/library/bank-holiday-1933. 
+Jones 1933. Jones, Jesse H. “Bankers’ Part in Recovery,” “What the R.F.C. Is Doing.” A Guide 
+to the Jesse Holman Jones Papers, 1880 -1965: Box 3M500. University of Texas at Austin, 
+Briscoe Center for American History. August and November 1933.  
+https://ypfs.som.yale.edu/library/guide-jesse-holman-jones-papers-1880-1965-box-
+3m500. 
+Jones 1951. Jones, Jesse H. “Fifty billion dollars; my thirteen years with the RFC, 1932 – 
+1945.” The Macmillan Company. 1951. https://ypfs.som.yale.edu/library/fifty-billion-
+dollars-my-thirteen-years-rfc-1932-1945. 
+Krozner 1994. Kroszner, Randall S. “The Political Econo my of the Reconstruction Finance 
+Corporation’s Bail-out of the U.S. Banking System During the Great Depression.” University 
+of Chicago. May 1994. https://ypfs.som.yale.edu/library/political-economy-
+reconstruction-finance-corporations-bail-out-us-banking-system-during. 
+Mason 2001a. Mason, Joseph R. “Do Lender of Last Resort Policies Matter? The Effects of 
+Reconstruction Finance Corporation Assistance to Banks During the Great Depression.” 
+Journal of Financial Services Research. Vol. 20, No. 1. 2001a.   
+https://ypfs.som.yale.edu/library/do-lender-last-resort-policies-matter-effects-
+reconstruction-finance-corporation-assistance. 
+767
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 33 ---
+Mason 2001b. Mason, Joseph R. “Reconstruction Finance Corporation Assistance to 
+Financial Intermediaries and Commercial & Industrial E nterprise in the Y.S., 1932 – 1937.” 
+World Bank Group. 2001b.   
+https://ypfs.som.yale.edu/library/reconstruction-finance-corporation-assistance-
+financial-intermediaries-and-commercial. 
+Mason 2003. Mason, Joseph R. “The Political Economy of Reconstruction Finance 
+Corporation Assistance During the Great Depression. ” Explorations in Economic History, 
+Vol. 40 No. 2, April 2003. https://ypfs.som.yale.edu/node/20497. 
+Meyer 1954. Meyer, Eugene. 1954. "From Laissez Faire with William Graham Sumner to the 
+RFC." Harvard University Littauer Lecture, February 1954.  
+https://ypfs.som.yale.edu/library/laissez-faire-william-graham-sumner-rfc. 
+Miller and Macey 1992. Miller, Geoffrey P, and Jonathan R. Macey. “Double Liability of Bank 
+Shareholders: History and Implications.” Yale Law School. 1992.  
+https://ypfs.som.yale.edu/library/double-liability-bank-shareholders-history-and-
+implications. 
+Olson 1972. Olson, James S. “The End of Voluntarism: Herbert Hoover and the National 
+Credit Corporation.” The Annals of Iowa, Vol. 41 No. 6, 1972.  
+https://ypfs.som.yale.edu/library/end-voluntarism-herbert-hoover-and-national-credit-
+corporation. 
+Olson 1988. Olson, James S. “Saving Capitalism: The Reconstruction Finance Corporation 
+and the New Deal, 1933-1940.” Princeton University Press. 1988.  
+https://ypfs.som.yale.edu/library/saving-capitalism-reconstruction-finance-corporation-
+and-new-deal-1933-1940. 
+P.L. 72 -2. 72nd Congress of the United States. “Reconstruction Finance Corporation Act.” 
+United States Congress. Signed into law on January 22, 1932.  
+https://ypfs.som.yale.edu/library/reconstruction-finance-corporation-act.  
+P.L. 72-302. 72nd Congress of the United  States. “Emergency Relief and Construction Act of 
+1932.” United States Congress. Signed into law on July 21, 1932.  
+https://ypfs.som.yale.edu/library/emergency-relief-and-construction-act-1932. 
+P.L. 73 -1. 73rd Congress of the United States. “Emergency Ban king Act.” United States 
+Congress. Signed into law on March 9, 1933.  
+https://ypfs.som.yale.edu/library/emergency-banking-act. 
+P.L. 73-4. 73rd Congress of the United States. “An Act to Provide for direct loans by Federal 
+Reserve banks to State banks and trust companies in certain cases, and for other purposes.” 
+United States Congress. Signed into law on March 24, 1933.  
+https://ypfs.som.yale.edu/library/act-provide-direct-loans-federal-reserve-banks-state-
+banks-and-trust-companies-certain. 
+768
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 34 ---
+P.L. 73 -35. 73rd Congress of the United States. “An Act To Authorize the Reconstruction 
+Finance Corporation to subscribe for preferred stock and purchase the capital notes of 
+insurance companies, and for other purposes.” United States Congress. Signed into law on 
+June 10, 1933.  
+https://ypfs.som.yale.edu/library/act-authorize-reconstruction-finance-corporation-
+subscribe-preferred-stock-and-purchase. 
+P.L. 73 -66. 73rd Congress of the United States. “Banking Act of 1933.” United States 
+Congress. Signed into law on June 16, 1933.   
+https://ypfs.som.yale.edu/library/banking-act-1933. 
+P.L. 74 -2. 74th Congress of the United States. “An Act to Extend the functions of the 
+Reconstruction Finance Corporation for two years, and for other purposes.” United States 
+Congress. Signed into law on January 31, 1935.  
+https://ypfs.som.yale.edu/library/act-extend-functions-reconstruction-finance-
+corporation-two-years-and-other-purposes. 
+P.L. 79-656. 79th Congress of the United States. “Joint Resolution to extend the succession, 
+lending power s, and the functions of the Reconstruction Finance Corporation.” United 
+States Congress. Signed into law on August 7, 1946.  
+https://ypfs.som.yale.edu/library/joint-resolution-extend-succession-lending-powers-
+and-functions-reconstruction-finance-0. 
+P.L. 80-132. 80th Congress of the United States. “Joint Resolution to extend the succession, 
+lending powers, and the functions of the Reconstruction Finance Corporation.” United 
+States Congress. Signed into law on June 30, 1947.  https://ypfs.som.yale.edu/library/joint-
+resolution-extend-succession-lending-powers-and-functions-reconstruction-finance. 
+P.L. 80 -548. 80th Congress of the United States. “An Act to Amend the Reconstruction 
+Finance Corporation Act, as amended, and for other purposes.” United States Congress . 
+Signed into law on May 25, 1948.  https://ypfs.som.yale.edu/library/act-amend-
+reconstruction-finance-corporation-act-amended-and-other-purposes. 
+P.L. 83 -28. 83rd Congress of the United States. “An Act to Amend section 5210 of the 
+Revised Statutes.” United States Congress.  
+https://ypfs.som.yale.edu/library/act-amend-section-5210-revised-statutes. 
+P.L. 83 -163. 83rd Congress of the United States. “An Act to dis solve the Reconstruction 
+Finance Corporation, to establish the Small Business Administration, and for other 
+purpose.” United States Congress. https://ypfs.som.yale.edu/library/act-dissolve-
+reconstruction-finance-corporation-establish-small-business-administration-and. 
+Reorganization Plan No. 1 of 1957 . “Reorganization Plan No. 1 of 1957.” US Department of 
+the Treasury. April 29, 1957.    
+https://ypfs.som.yale.edu/library/reorganization-plan-no-1-1957. 
+769
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 35 ---
+Richardson 2013. Richardson, Gary. “Banking Panics of 1930 -31.” Federal Reserve History. 
+November 22, 2013.   
+https://ypfs.som.yale.edu/library/banking-panics-1930-31. 
+Roosevelt 1933a. Roosevelt, Franklin D. “Fireside Chat 1: On the Banking Crisis” University 
+of Virginia Miller Center. March 12, 1933.   
+https://ypfs.som.yale.edu/library/fireside-chat-1-banking-crisis. 
+Roosevelt 1933b. Roosevelt, Franklin D. “First Inaugural Address of Franklin D. Roosevelt.” 
+Yale Lillian Goldman Law Library. March 4, 1933.  https://ypfs.som.yale.edu/library/first-
+inaugural-address-franklin-d-roosevelt. 
+Roosevelt 1933c. Franklin D. “Fireside Chat .” October 22, 1933. 
+https://ypfs.som.yale.edu/library/fireside-chat. 
+Silber 2009. Silber , William L. “Why did FDR’s Bank holiday Suc ceed?” Federal Reserve 
+Bank of New York: Economic Policy Review, Vol. 15 No. 1, July 2009.  
+https://ypfs.som.yale.edu/library/why-did-fdrs-bank-holiday-succeed. 
+Statutory Liability 1936. "Statutory Liability of Bank Stockholders in Iowa," Iowa Law 
+Review 2 1, no. 3 (March 1936): 611 -629. https://ypfs.som.yale.edu/library/statutory-
+liability-bank-stockholders-iowa. 
+Todd 1992. Todd, Walker F. “History of and Rationales for the Reconstruction Finance 
+Corporation.” Federal Reserve Bank of Cleveland, Economic Rev iew, vol. 28 no. 4, 
+December 1, 1992. https://ypfs.som.yale.edu/library/history-and-rationales-
+reconstruction-finance-corporation. 
+  
+770
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 36 ---
+V. Key Program Documents 
+Summary of Program 
+“Circular No. 4 of the Reconstruction Finance Corporation – Its Powers and Functio ns.” 
+Reconstruction Finance Corporation. August 1933.  
+https://ypfs.som.yale.edu/library/circular-reconstruction-finance-corporation. 
+“Final Report of the Reconstruction Finance Corporation.” Reconstruction Finance 
+Corporation. May 6, 1959. https://ypfs.som.yale.edu/library/final-report-reconstruction-
+finance-corporation. 
+Friedman, Milton, and Anna Jacobson Schwartz. “A Monetary History of the United States, 
+1867 – 1960.” Princeton University Press. 1963.  
+https://ypfs.som.yale.edu/library/monetary-history-united-states-1867-1960. 
+Jones, Jesse H. “Fifty billion dollars; my thirteen years with the RFC, 1932 – 1945.” 
+The Macmillan Company. 1951.   
+https://ypfs.som.yale.edu/library/fifty-billion-dollars-my-thirteen-years-rfc-1932-1945. 
+Olson, James Stuart. “Saving Capitalism: The Reconstruction Finance Corporation and the 
+New Deal, 1933-1940.” Princeton University Press. 1988.   
+https://ypfs.som.yale.edu/library/saving-capitalism-reconstruction-finance-corporation-
+and-new-deal-1933-1940. 
+Implementation Documents 
+72nd Congress of the United States. “Reconstruction Finance Corporation Act.” United 
+States Congress. Signed into law on January 22, 1932.  
+https://ypfs.som.yale.edu/library/reconstruction-finance-corporation-act. 
+72nd Congress of the United States. “Emergency Relief and Construction Act of 1932.” 
+United States Congress. Signed into law on July 21, 1932.   
+https://ypfs.som.yale.edu/library/emergency-relief-and-construction-act-1932. 
+73rd Congress of the United States. “Emergency Banking Act.” United States Congress. 
+Signed into law on March 9, 1933.  https://ypfs.som.yale.edu/library/emergency-banking-
+act. 
+73rd Congress of the United Stat es. “An Act To authorize the Reconstruction Finance 
+Corporation to subscribe for preferred stock and purchase the capital notes of insurance 
+companies, and for other purposes.” United States Congress. Signed into law on June 10, 
+1933. 
+https://ypfs.som.yale.edu/library/act-authorize-reconstruction-finance-corporation-
+subscribe-preferred-stock-and-purchase.  
+73rd Congress of the United States. “An Act to Provide for direct loans by Federal Reserve 
+banks to State banks and trust companies in certain cases, and for other purposes.” United 
+771
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 37 ---
+States Congress. Signed into law on March 24, 1933. https://ypfs.som.yale.edu/library/act-
+provide-direct-loans-federal-reserve-banks-state-banks-and-trust-companies-certain. 
+73rd Congress of the United Stat es. “Banking Act of 1933.” United States Congress. Signed 
+into law on June 16, 1933. https://ypfs.som.yale.edu/library/banking-act-1933.   
+74th Congress of the United States. “An Act to extend the functions of the Reconstruction 
+Finance Corporation for two years, and for other purposes.” United States Congress. Signed 
+into law on January 31, 1935.  https://ypfs.som.yale.edu/library/act-extend-functions-
+reconstruction-finance-corporation-two-years-and-other-purposes.  
+79th Congress of the United States. “Join t Resolution to extend the succession, lending 
+powers, and the functions of the Reconstruction Finance Corporation.” United States 
+Congress. Signed into law on August 7, 1946.  https://ypfs.som.yale.edu/library/joint-
+resolution-extend-succession-lending-powers-and-functions-reconstruction-finance-0.   
+80th Congress of the United States. “Joint Resolution to extend the succession, lending 
+powers, and the functions of the Reconstruction Finance Corporation.” United States 
+Congress. Signed into law on June 30, 1947. https://ypfs.som.yale.edu/library/joint-
+resolution-extend-succession-lending-powers-and-functions-reconstruction-finance.   
+80th Congress of the United States. “An Act to amend the Reconstruction Finance 
+Corporation Act, as amended, and for other pur poses.” United States Congress. Signed into 
+law on May 25, 1948.  https://ypfs.som.yale.edu/library/act-amend-reconstruction-
+finance-corporation-act-amended-and-other-purposes  
+83rd Congress of the United States. “An Act to amend section 5210 of the Revised Statutes.” 
+United States Congress.  https://ypfs.som.yale.edu/library/act-amend-section-5210-
+revised-statutes. 
+“Reorganization Plan No. 1 of 1957.” United states Department of the Treasury. April 29, 
+1957. 
+https://ypfs.som.yale.edu/library/reorganization-plan-no-1-1957. 
+Legal/Regulatory Guidance 
+37th Congress of the United States. “National Banking Act of 1863.” United States Congress. 
+Signed into law on February 25, 1863. https://ypfs.som.yale.edu/library/national-banking-
+act-1863. 
+“Circular No. 6 of the Reconstruction Finance Corporation – Information Regarding 
+Subscriptions for Preferred Stock, or loans upon preferred stock by the Reconstruction 
+Finance Corporation as authorized in the Act of Congress, approved March 9, 1933.” 
+Reconstruction Finance Corporation. 1933. https://ypfs.som.yale.edu/library/circular-
+reconstruction-finance-corporation. 
+“Circular No. 8 of the Reconstruction Finance Corporation – Information regarding 
+applications to the Reconstruction Finance Corporation for subscription for preferred stock 
+and purchase of capital notes of insurance companies, and loans on such preferred stock or 
+772
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 38 ---
+other capital notes as collateral security, as authorized by Act of Congress, approved June 
+10, 1993.” Reconstruction Finance Corporation. July 1933.  
+https://ypfs.som.yale.edu/library/circular-reconstruction-finance-corporation. 
+“Circular No. 18 of the Reconstruction Finance Corporation – Information regarding 
+subscriptions for preferred stock and purchases of capital notes or debentures of trust 
+companies and loans to trust companies and mortgag e loan companies engaged in the 
+business of lending upon real estate.” Reconstruction Finance Corporation. October 1934.  
+https://ypfs.som.yale.edu/library/circular-reconstruction-finance-corporation. 
+Federal Reserve Bank of St. Louis. “Documents and Statem ents Pertaining to the Banking 
+Emergency, Presidential Proclamations, Federal Legislation, Executive Orders, Regulations, 
+and Other Documents and Official Statements, Part 1, February 25 – March 31, 1933.” 1933.   
+https://ypfs.som.yale.edu/library/documents-and-statements-pertaining-banking-
+emergency-presidential-proclamations-federal. 
+Roosevelt, Franklin D. “First Inaugural Address of Franklin D. Roosevelt.” Yale Lillian 
+Goldman Law Library. March 4, 1933.  
+ https://ypfs.som.yale.edu/library/first-inaugural-address-franklin-d-roosevelt. 
+Press Releases/Announcements 
+Roosevelt, Franklin D. “Fireside Chat 1: On the Banking Crisis” University of Virginia Miller 
+Center. March 12, 1933.   
+https://ypfs.som.yale.edu/library/fireside-chat-1-banking-crisis. 
+Roosevelt, Franklin D. “Proclamation 2039 – Declaring Bank Holiday.” UC Santa Barbara: 
+The American Presidency Project. March 6, 1933.  
+https://ypfs.som.yale.edu/library/proclamation-2039-declaring-bank-holiday. 
+Media Stories 
+Engemann, Kristie M. “Banking Panics of  1931-33.” Federal Reserve History. November 22, 
+2013. 
+https://ypfs.som.yale.edu/library/banking-panics-1931-33. 
+Jabaily, Robert. “Bank Holiday of 1933.” Federal Reserve History. November 22, 2013. 
+https://ypfs.som.yale.edu/library/bank-holiday-1933 
+Richardson, Gary. “Banking Panics of 1930 -31.” Federal Reserve History. November 22, 
+2013 https://ypfs.som.yale.edu/library/banking-panics-1930-31. 
+Key Academic Papers 
+Bernanke, Ben S. “Non -monetary effects of the financial crisis in the propagation of the 
+Great Depression.” National Bureau of Economic Research. January 1983.   
+https://ypfs.som.yale.edu/library/non-monetary-effects-financial-crisis-propagation-
+great-depression. 
+773
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 39 ---
+Calomiris, Charles W., Joseph R. Mason, March Weidenmier, Katherine Bobroff. “The  Effects 
+of Reconstruction Finance Corporation Assistance on Michigan’s Banks’ Survival in the 
+1930s.” Explorations in Economic History, Vol. 50 No. 4, October 2013. 
+https://ypfs.som.yale.edu/library/effects-reconstruction-finance-corporation-assistance-
+michigans-banks-survival-1930s. 
+Hill, Claire, and Richard W. Painter. “Berle’s Vision Beyond Shareholder Interests: Why 
+Investment Bankers Should Have (Some) Personal Liability.” University of Minnesota Law 
+School. 2010.  https://ypfs.som.yale.edu/library/berles-vision-be-s-vision-beyond-shar-
+ond-shareholder-inter-eholder-interests-why-inv-ests. 
+Kroszner, Randall S. “The Political Economy of the Reconstruction Finance Corporation’s 
+Bail-out of the U.S. Banking System During the Great Depression.” University o f Chicago. 
+May 1994. 
+https://ypfs.som.yale.edu/library/political-economy-reconstruction-finance-corporations-
+bail-out-us-banking-system-during. 
+Mason, Joseph R. “Reconstruction Finance Corporation Assistance to Financial 
+Intermediaries and Commercial & Ind ustrial Enterprise in the Y.S., 1932 – 1937.” World 
+Bank Group. 2001b.  
+https://ypfs.som.yale.edu/library/reconstruction-finance-corporation-assistance-
+financial-intermediaries-and-commercial. 
+Mason, Joseph R. 2001a. “Do Lender of Last Resort Policies Matt er? The Effects of 
+Reconstruction Finance Corporation Assistance to Banks During the Great Depression.” 
+Journal of Financial Services Research. Vol. 20, No. 1. 2001a.   
+https://ypfs.som.yale.edu/library/do-lender-last-resort-policies-matter-effects-
+reconstruction-finance-corporation-assistance. 
+Mason, Joseph R. “The Political Economy of Reconstruction Finance Corporation Assistance 
+During the Great Depression.” Explorations in Economic History, Vol. 40 No. 2, April 2003.  
+https://ypfs.som.yale.edu/node/20497 
+Miller, Geoffrey P ., and Jonathan R. Macey. “Double Liability of Bank Shareholders: History 
+and Implications.” Yale Law School. 1992.  
+https://ypfs.som.yale.edu/library/double-liability-bank-shareholders-history-and-
+implications. 
+Silber, William L. “Why did FDR’s Bank holiday Succeed?” Federal Reserve Bank of New 
+York: Economic Policy Review, Vol. 15 No. 1, July 2009.  
+ https://ypfs.som.yale.edu/library/why-did-fdrs-bank-holiday-succeed. 
+Todd, Walker F. “History of and Rationales for the Reconstruction Finance Corporation.” 
+Federal Reserve Bank of Cleveland, Economic Review, vol. 28 no. 4, December 1, 1992.   
+https://ypfs.som.yale.edu/library/history-and-rationales-reconstruction-finance-
+corporation. 
+774
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 40 ---
+Reports/Assessments 
+“Circular No. 6 of the Reconstruction Finance Corporation – Information Regarding 
+Subscriptions for Preferred Stock, or loans upon preferred stock by the Reconstruction 
+Finance Corporation as authorized in the Act of Congress, approved March 9, 1933.” 
+Reconstruction Finance Corporation. 1933. https://ypfs.som.yale.edu/library/circular-
+reconstruction-finance-corporation. 
+“Final Report of the Reconstruction Finance Corporation.” Reconstruction Finance 
+Corporation. May 6, 1959. https://ypfs.som.yale.edu/library/final-report-reconstruction-
+finance-corporation. 
+  
+775
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 41 ---
+Borrower transfers $1,000 of 
+preferred stock with to the RFC. 
+Borrower then gives the cash to the 
+Treasury. 
+The borrower pays a rate set at the 
+Treasury rate for the additional 
+RFC funding. When the original RFC 
+capital is retired the secured loan is 
+then paid back. 
+1 
+VI. Appendixes 
+Appendix A: RFC–Treasury dividend earmarking process 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Borrower 
+ RFC 
+RFC transfers $1,000 of cash to the 
+borrower. 
+Borrower 
+ Treasury 
+Treasury gives $1,000 of 
+Treasuries to the borrower. 
+Borrower 
+ RFC 
+Borrower sells $1,000 of 
+Treasuries to the RFC. 
+The RFC buys the Treasuries at 
+par, effectively extending a 
+secured loan to the borrower. 
+Borrower 
+ RFC 
+2 
+3 
+4 
+776
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 42 ---
+Appendix B: Timeline of RFC assistance and relevant regulation 
+November 7, 1931: The National Credit Corporation, a $500 million private sector -
+led collateralized lending vehicle, formally opens its doors to lend 
+to distressed financial institutions. 
+January 22, 1932: The Reconstruction Finance Corporation Act is passed. It 
+authorizes the creation of the Reconstruction Finance 
+Corporation, a large, collateralized lending vehicle that will 
+provide funds to banks, railroad compan ies, mortgage lenders, 
+and others. 
+July 21 1932: The Emergency Relief and Construction Act is passed. It 
+mandates the RFC to publish monthly reports on the amount and 
+identity of beneficiaries of RFC assistance and increases the RFC’s 
+borrowing threshold from $1.5 billion to $3.3 billion.   
+March 4, 1933: Franklin Delano Roosevelt is inaugurated.  
+March 6, 1933:  FDR signs Proclamation 2039, declaring a national bank holiday 
+until March 9, 1933, following which a special session of 
+Congress will be called. 
+March 9, 1933: The Emergency Banking Act is passed. It g ives the RFC the 
+authority to subscribe to and make loans secured by preferred 
+stock to financial institutions and trusts. It authorizes the use of 
+conservatorship for failing financial institutions  and broadened 
+the ways in which regional Federal Reserve Banks can lend.  
+FDR extends the bank holiday until Monday, March 13. 
+March 12, 1933: FDR’s delivers his first Fireside Chat, “On the Banking Crisis.” He 
+discusses the schedule on which banks will re-open and 
+announces that only “sound” banks will be allowed to re-open. 
+March 24, 1933:  The Emergency Banking Act is amended to (1) require the RFC to 
+purchase  only non-assessable preferred stock, and (2) allow the 
+RFC to purchase capital notes and debentures  of state banks and 
+trusts that are not allowed to issu e non -assessable preferred 
+stock. 
+  
+777
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 43 ---
+June 10, 1933: The Reconstruction Finance Corporation is authorized to 
+subscribe to and make loans secured by non-assessable preferred 
+stock of insurance companies , as well as capital notes and 
+debentures for those institutions that are not able to issue 
+preferred stock, up to a maximum of $50 million. 
+June 16, 1933: Banking Act of 1933, t he Glass-Steagall Act , is passed, which 
+creates the Federal Deposit Insurance  Corporation (FDIC), 
+separates commercial banking from investment banking, and 
+creates the Federal Reserve’s Federal Open Market Committee 
+(FOMC). It also reveals double liability for newly issued national 
+bank shares. 
+January 31, 1935. The Reconstruction Finance Corporation is authorized to 
+subscribe to and make loans secured by non -assessable stock of 
+any class  of national mortgage associations or other companies 
+that are involved in real estate lending. In the case of companies 
+that cannot issue non -assessable stock, the RFC is also able to 
+buy capital notes and debentures, up to a limit of $100 million. 
+August 23, 1935: The Banking Act of 1935 is passed, which reorganizes the 
+structure of the Federal Reserve by giving more power to the 
+Federal Reserve Board, and effectively eliminates the double 
+liability system.  
+June 30, 1947:  The preferred stock authority given to the Reconstruction 
+Finance Corporation is repealed.  
+July 30, 1953: The Reconstruction Finance Corporation Liquidation Act is 
+passed, giving the RFC a final sunset date of June 30, 1954, after 
+which point the Secretary of the Treasury will take over any 
+remaining liquidation duties. 
+April 29, 1957: Reorganization Plan No. 1 i s passed, formally disbanding the 
+Reconstruction Finance Corporation. 
+778
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 44 ---
+Appendix C: Relevant charts and tables 
+Figure 2: RFC Preferred Stock for Banks and Trust Companies Outstanding ($ 
+millions)  
+ 
+Source: Final Report of the RFC 1959. 
+  
+779
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 45 ---
+Figure 3: RFC Preferred Stock for Insurance Companies Outstanding ($ millions) 
+ 
+Source: Final Report of the RFC 1959. 
+  
+780
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 46 ---
+Figure 4: RFC Preferred Stock Assistance to Banks and Trust Companies (March 1933 
+- December 1935, $ millions) 
+ 
+Source: Quarterly Report of the RFC, December 1935.  
+  
+781
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 47 ---
+Figure 5 : RFC Preferred Stock Assistance to National Banks Outstanding as of 
+12/31/1935 
+ 
+Source: Quarterly Report of the Reconstruction Finance Corporation, December 1935  
+State Number of banks and trust companies Amount outstanding
+Alabama 22 8,103,126.27$              
+Alaska 1 37,500.00$                    
+Arizona 2 1,340,000.00$              
+Arkansas 22 1,425,000.00$              
+California 58 19,719,638.96$           
+Colorado 32 4,101,000.00$              
+Connecticut 16 3,703,426.00$              
+Delaware 4 137,300.00$                 
+Washington, D.C. 2 1,100,000.00$              
+Florida 13 1,302,500.00$              
+Georgia 16 1,514,500.00$              
+Idaho 9 635,279.79$                 
+Illinois 119 72,810,114.17$           
+Indiana 50 6,887,980.00$              
+Iowa 45 6,298,400.00$              
+Kansas 46 2,265,500.00$              
+Kentucky 28 3,182,350.00$              
+Louisiana 14 4,340,000.00$              
+Maine 12 2,455,600.00$              
+Maryland 13 2,636,955.26$              
+Massachusetts 38 9,495,615.40$              
+Michigan 50 18,112,810.00$           
+Minnesota 91 12,499,891.61$           
+Mississippi 15 2,647,363.29$              
+Missouri 29 4,142,125.00$              
+Montana 16 1,069,200.00$              
+Nebraska 48 5,098,334.76$              
+Nevada 3 175,000.00$                 
+New Hampshire 8 501,635.00$                 
+New Jersey 135 29,190,011.91$           
+New Mexico 6 401,000.00$                 
+New York 236 128,125,465.57$         
+North Carolina 18 1,767,500.00$              
+North Dakota 29 2,022,000.00$              
+Ohio 81 22,840,473.00$           
+Oklahoma 40 9,039,428.96$              
+Oregon 18 702,500.00$                 
+Pennsylvania 192 19,544,886.50$           
+Puerto Rico 0 -$                                
+Rhode Island 3 648,500.00$                 
+South Carolina 6 1,505,000.00$              
+South Dakota 30 2,753,660.35$              
+Tennessee 27 8,040,000.00$              
+Texas 140 22,021,022.53$           
+Utah 8 1,250,000.00$              
+Vermont 9 497,500.00$                 
+Virginia 34 3,054,740.21$              
+Virgin Islands 1 125,000.00$                 
+Washington 23 2,608,732.88$              
+West Virginia 32 2,604,079.03$              
+Wisconsin 55 14,655,731.61$           
+Wyoming 9 648,358.59$                 
+Total 1954 471,783,736.65$         
+National Banks
+782
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 48 ---
+Figure 6: RFC Preferred Stock  Assistance to State Member Banks outstanding as of 
+12/31/1935 
+ 
+Source: Quarterly Report of the Reconstruction Finance Corporation, December 1935 .  
+ 
+State Number of banks and trust companies Amount outstanding
+Alabama 4 1,839,105.50$              
+Alaska 0 -$                                
+Arizona 0 -$                                
+Arkansas 5 715,000.00$                 
+California 5 15,446,400.00$           
+Colorado 1 200,000.00$                 
+Connecticut 0 -$                                
+Delaware 0 -$                                
+Washington, D.C. 0 -$                                
+Florida 1 100,000.00$                 
+Georgia 6 1,135,000.00$              
+Idaho 4 775,000.00$                 
+Illinois 13 2,350,000.00$              
+Indiana 4 1,230,000.00$              
+Iowa 4 1,070,000.00$              
+Kansas 6 172,500.00$                 
+Kentucky 2 1,500,000.00$              
+Louisiana 3 1,775,000.00$              
+Maine 2 2,150,000.00$              
+Maryland 4 2,300,000.00$              
+Massachusetts 7 3,166,000.00$              
+Michigan 30 10,071,421.00$           
+Minnesota 4 53,000.00$                    
+Mississippi 0 -$                                
+Missouri 19 3,171,000.00$              
+Montana 8 1,252,500.00$              
+Nebraska 1 66,486.00$                    
+Nevada 0 -$                                
+New Hampshire 0 -$                                
+New Jersey 25 18,963,941.64$           
+New Mexico 2 32,500.00$                    
+New York 56 65,800,000.00$           
+North Carolina 3 1,700,000.00$              
+North Dakota 0 -$                                
+Ohio 26 28,197,500.00$           
+Oklahoma 0 -$                                
+Oregon 2 38,000.00$                    
+Pennsylvania 15 9,550,402.67$              
+Puerto Rico 0 -$                                
+Rhode Island 0 -$                                
+South Carolina 0 -$                                
+South Dakota 3 55,000.00$                    
+Tennessee 2 225,000.00$                 
+Texas 17 445,000.00$                 
+Utah 11 1,340,000.00$              
+Vermont 0 -$                                
+Virginia 4 2,150,000.00$              
+Virgin Islands 0 -$                                
+Washington 15 1,712,500.00$              
+West Virginia 4 615,625.00$                 
+Wisconsin 7 2,342,500.00$              
+Wyoming 2 55,000.00$                    
+Total 327 183,761,381.81$         
+State member banks
+783
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 49 ---
+Figure 7: RFC Preferred Stock Assistance to Nonmember Banks outstanding as of 
+12/31/1935 
+ 
+Source: Quarterly Report of the Reconstruction Finance Corporation, December 1935.  
+State Number of banks and trust companies Amount outstanding
+Alabama 38 1,136,310.80$              
+Alaska 0 -$                                
+Arizona 1 24,995.39$                    
+Arkansas 83 2,090,215.43$              
+California 49 12,772,000.00$           
+Colorado 23 575,000.00$                 
+Connecticut 23 3,410,500.00$              
+Delaware 7 223,000.00$                 
+Washington, D.C. 6 11,800,000.00$           
+Florida 25 588,413.26$                 
+Georgia 58 1,775,500.00$              
+Idaho 11 215,000.00$                 
+Illinois 74 4,308,500.00$              
+Indiana 216 7,841,000.00$              
+Iowa 85 2,505,350.00$              
+Kansas 140 2,665,000.00$              
+Kentucky 80 3,724,000.00$              
+Louisiana 85 4,583,500.00$              
+Maine 16 4,365,078.08$              
+Maryland 48 4,050,000.00$              
+Massachusetts 16 2,575,000.00$              
+Michigan 97 8,795,580.00$              
+Minnesota 138 3,260,500.00$              
+Mississippi 127 5,922,500.00$              
+Missouri 158 3,778,500.00$              
+Montana 26 664,500.00$                 
+Nebraska 94 1,728,619.48$              
+Nevada 1 30,000.00$                    
+New Hampshire 1 100,000.00$                 
+New Jersey 45 20,890,928.50$           
+New Mexico 10 232,500.00$                 
+New York 147 33,365,000.00$           
+North Carolina 104 3,741,640.42$              
+North Dakota 95 1,549,000.00$              
+Ohio 240 21,958,000.00$           
+Oklahoma 6 60,000.00$                    
+Oregon 30 957,594.57$                 
+Pennsylvania 67 14,958,644.11$           
+Puerto Rico 3 1,150,000.00$              
+Rhode Island 1 250,000.00$                 
+South Carolina 27 688,300.00$                 
+South Dakota 82 1,079,500.00$              
+Tennessee 89 3,141,600.00$              
+Texas 220 6,632,500.00$              
+Utah 18 500,000.00$                 
+Vermont 51 15,235,000.00$           
+Virginia 91 4,392,250.00$              
+Virgin Islands 0 -$                                
+Washington 51 1,156,000.00$              
+West Virginia 46 2,161,000.00$              
+Wisconsin 321 13,743,000.00$           
+Wyoming 10 590,000.00$                 
+Total 3480 243,941,020.04$         
+Nonmember Banks
+784
+US Reconstruction Finance Corporation:  Preferred Stock Purchase Program Lawson
+
+--- Page 50 ---
+Copyright 2019, 2021 © Yale University. All rights reserved. To order copies of this material or to 
+receive permission to reprint any or all of this document, please contact the Yale Program on 
+Financial Stability at ypfs@yale.edu.  
+ 
+785
+Journal of Financial Crises Vol. 3 Iss. 3

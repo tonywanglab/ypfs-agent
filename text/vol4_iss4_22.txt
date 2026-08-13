@@ -1,0 +1,944 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 4 
+2022 
+India: Reserve Requirements, GFC India: Reserve Requirements, GFC 
+Sharon Nunn 
+Yale School of Management 
+Carey K. Mott 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, Finance and 
+Financial Management Commons, Growth and Development Commons, Policy Design, Analysis, and 
+Evaluation Commons, Public Administration Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Nunn, Sharon and Mott, Carey K. (2022) "India: Reserve Requirements, GFC," Journal of Financial Crises: 
+Vol. 4 : Iss. 4, 456-478. 
+DOI: https://doi.org/10.17132/2693-3179.1458 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/22 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss4/22
+
+--- Page 3 ---
+India: Reserve Requirements, GFC1 
+Sharon Nunn2 and Carey K. Mott3 
+Yale Program on Financial Stability Case Study 
+December 22, 2022 
+Abstract 
+As international funding sources dried up  during the Global Financial Crisis of 2007–2009 
+(GFC), businesses in India sought funds from domestic financial institutions, straining banks 
+and lifting short-term lending rate s. The liquidity pressure, coupled with sharp asset price 
+corrections and rupee depreciation, restricted credit expansion in India . The Reserve Bank 
+of India (RBI) responded with a suite of liquidity measures, including cuts to its two reserve 
+requirement ratios, the cash reserve ratio (CRR) and the statutory liquidity ratio (SLR). The 
+RBI cut the CRR over the course of four months from October 2008 to January 2009, lowering 
+the ratio from 9% to 5%. It cut the SLR once, from 25% to 24%, in November 2008. The RBI’s 
+CRR and SLR cuts applied to most commercial banks and certain cooperatives and regional 
+banks. The RBI did not remunerate CRR reserves , and it did not apply different ratios to 
+different liabilities. The cuts released USD 32.7 billion into India’s financial system. The RBI 
+raised the SLR to its pre -crisis levels in October 2009 and began raising the CRR again in 
+March 2010. The International Monetary Fund said the cuts were “quick,” “fully warranted,” 
+and led to looser credit conditions in India, in combination with other liquidity measures. 
+Keywords: capital requirements, cash reserve ratio, India, macroprudential policy, Reserve 
+Bank of India, reserve ratio, reserve requirements, statutory liquidity ratio 
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering the adjustment of reserve requirements. Cases are available from the Journal of Financial 
+Crises at   
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+3 Research Associate, YPFS, Yale School of Management. 
+456
+
+--- Page 4 ---
+Overview 
+The Global Financial Crisis of 2007 –2009 
+(GFC) affected the Indian banking sector 
+indirectly (Kumar and Vashisht 2012; RBI 
+2009g). The country’s financial institutions 
+were not significantly exposed to US 
+subprime lending, and the Reserve Bank of 
+India (RBI) banned complex securitization 
+structures and imposed higher regulatory 
+requirements on commercial bank lending to 
+the housing in dustry. But as international 
+funding sources dried up, businesses in India 
+sought funds from domestic financial 
+institutions. This strained banks , and short-
+term lending rates rose sharply, with the 
+interbank call money rate spiking to 20% in 
+October 2008 and remaining high for weeks 
+(Kumar and Vashisht 2012) . The liquidity 
+pressure, coupled with sharp asset price 
+corrections and rupee (INR) depreciation, 
+restricted credit expansion in India (Kumar 
+and Vashisht 2012; RBI 2009g). 
+The RBI  responded to the wor sening 
+liquidity situation with regular open market 
+operations (OMOs) involving government 
+security purchases ; the acquisition of 
+securities through the Liquidity Adjustment 
+Facility (LAF); various special refinancing 
+facilities and schemes ; and the reduction of 
+key rates, including the repurchase 
+agreement (repo) rate and the reverse repo 
+rate (Kumar and Vashisht 2012; RBI 2009g). 
+The RBI also reduced the cash reserve ratio  
+(CRR), which dictates how much cash banks 
+must maintain with the RBI , from 9% to 5% 
+of liabilities over the course of four months, 
+from October 2008 to January 2009 . Before 
+September 2008, the RBI had gradually 
+raised the CRR to slow credit growth (RBI 2009g, 4; 46). After the cuts in late 2008 and early 
+2009, the RBI began raising the CRR again in 2010 (see Figure 1).  
+Key Terms 
+Purpose of Adjusting Reserve Requirement (RR): To 
+“alleviate the pressures brought on by the 
+deterioration in the global financial environment ” 
+(RBI 2008v) 
+Range of RR Ratio 
+(RRR) Peak-to-
+Trough 
+Cash reserve ratio: 9%–5% 
+ 
+Statutory reserve ratio: 
+25%–24% 
+RRR Increase 
+Period 
+Cash reserve ratio:  
+September 2004–July 2008 
+ 
+Statutory reserve ratio: N/A 
+RRR Decrease 
+Period 
+Cash reserve ratio:  
+October 2008–January 2009 
+ 
+Statutory reserve ratio: 
+November 2008 
+Legal Authority  Reserve Bank of India Act, 
+Section 42; Banking 
+Regulation Act, Section 18 
+Interest/ 
+Remuneration on 
+Reserves 
+Unremunerated 
+Notable Features No rate difference for various 
+liabilities or currency 
+denominations 
+ 
+Banks had to hold reserves 
+against some types of 
+borrowings in addition to 
+deposits 
+Outcomes CRR cuts released USD 32.7 
+billion; SLR cuts released 
+USD 8.2 billion 
+457
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 5 ---
+Figure 1: Cash Reserve Ratio Before, During, and After the Global Financial Crisis 
+Source: Reserve Bank of India data via Bloomberg. 
+The RBI applied the same CRR to liabilities denominated in domestic and foreign currencies 
+and to different categories of liabilities. The RBI applied the CRR to a bank’s net demand and 
+time liabilities (NDTL) (RBI 2006b; RBI 2008a). The RBI did not pay interest on CRR balances 
+(RBI Act 1934, Sec. 42, 1A, n. 3). 
+In addition to a specific level of cash reserves, all banks had to meet a Statutory liquidity ratio 
+(SLR). The SLR prescribed the portion of NDTL that banks had to hold in other reservable 
+assets, which were government-approved securities. On September 16, 2008, the RBI 
+announced that scheduled banks could pledge up to 1.0% of their SLR -eligible NDTL to the 
+Liquidity Adjustment Facility  without penalty on a te mporary basis. This de facto SLR cut 
+was formalized on November 3, when the RBI announced a “permanent” 100 -basis-point 
+(bp) SLR cut, from 25% to 24%, for all scheduled banks (RBI 2008t).  
+All scheduled banks in India are required to maintain CRR reserves with the RBI, and both 
+scheduled and unscheduled banks are required to meet a minimum level of SLR assets (RBI 
+Act 1934, Sec. 42). The RBI deems banks “scheduled” if they meet certain regulatory 
+requirements, chief among them that paid-up capital and reserves are equal to or more than 
+INR 500,000 (USD 10,647) 4 and that the bank does not act in ways that are detrimental to 
+its depositors (RBI Act 1934, Sec. 42[6][a]). Scheduled commercial banks held approximately 
+90% of the banking system’s assets in 2009. The CRR cuts also applied to specific scheduled 
+cooperative banks and regional rural banks ; the RBI did not issue circulars cutting the  SLR 
+for nonscheduled banks (RBI 2008c; RBI 2008t; RBI 2009e). 
+ 
+4 Per the International Monetary Fund, USD 1 = INR 46.96 on October 1, 2008. 
+458
+India Nunn and Mott
+
+--- Page 6 ---
+The RBI held the CRR stead y from January 2009 to March 2010, when it began raising the 
+ratio to normalize policy after the GFC recovery and to cool rising inflation (RBI 2010a). 
+Summary Evaluation 
+The CRR cuts released USD 32.7 billion into the Indian financial system (Kumar and Vashisht 
+2012). The RBI also lowered the SLR, releasing USD 8.2 billion . In total, the RBI’s 
+interventions, which are enumerated in Key Design Decision No. 2, Part of a Package,  
+released USD 87.5 billion.  
+Researchers have done little analysis of the RBI’s four CRR cuts in late 2008 and early 2009. 
+International Monetary Fund (IMF) analysts said in 2009 that the RBI’s cuts in interest rates, 
+the CRR, and the SLR were “quick,” “fully warranted,” and led to looser credit conditions (IMF 
+2009). 
+Various Indian industry officials stated publicly in early 2009 that the RBI’s policy rate cuts, 
+including the CRR, had not le d to adequate credit expansion.  Commerce and Industry 
+Minister Kamal Nath told reporters that fresh liquidity had not reached “cash-starved 
+industry and consumers” (Dhasmana 2009; Roy and Bhoir 2009). Some journalists and RBI 
+officials argued at the time that the perceived riskiness of businesses in India was the source 
+of constrained credit growth, rather than ineffective liquid ity policy (RBI 2009g; Tarapore 
+2009). Indian dealers told Reuters News staff that banks “were more comfortable lending 
+overnight to each other or parking with the central bank via the reverse repo window ” 
+(Reuters News Staff 2009). 
+  
+459
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 7 ---
+460
+India Nunn and Mott
+
+--- Page 8 ---
+Key Design Decisions 
+1. Purpose: The Reserve Bank of India  cut its cash reserve ratio and statutory 
+liquidity ratio to alleviate a sharp  liquidity contraction that the Global Financial 
+Crisis triggered. 
+In response to a sharp contraction in liquidity, the Reserve Bank of India cut its cash reserve 
+ratio four times between October 2008 and January 2009  (RBI 2009g). In announcing the 
+first adjustment in October, an RBI press release said the CRR cut intended to “alleviate the 
+pressures brought on by the deterioration in the global financial environment” (RBI 2008v).  
+The RBI also reduced its statutory liquidity ratio from 25% to 24% on November 8, 2008.5  
+The RBI later said that the combination of the lower reserve ratios and lower interest rates 
+would “[support] demand expansion  with a view to arresting the moderation in growth ” 
+(RBI 2009g). 
+2. Part of a Package : The RBI responded to tightening liquidity conditions by 
+conducting regular open market operations, introducing special refinancing 
+facilities, and cutting key rates, including repo rates and the two reserve 
+requirement ratios. 
+The RBI responded to deteriorating liquidity conditions in 2008 and 2009 with a package of 
+credit-easing measures. It revised its Liquidity Adjustment Facility —cutting the LAF’s repo 
+and reverse repo rates, adding an additional LAF (the so-called Second Liquidity Adjustment 
+Facility, or SLAF), and raising the maximum amount of funds banks could tap through the 
+LAF (RBI 2009g). Banks could also exclude LAF loans that they used to support nonbank 
+financial institutions and mutual funds from the calculation of their SLR s. 6 In its initial 
+announcement on October 15, 2008, the RBI limited the a mount eligible for exclusion to 
+0.5% of the bank’s net demand and time liabilities , and on November 1 , raised this to 1.5% 
+(RBI 2008o; RBI 2009g).  
+In its OMOs, the RBI began purchasing  government securities through auction s, as a 
+complement to its order-matching process (RBI 2009g). The RBI also repurchased securities 
+that the government  created and issued under its Market Stabilization Scheme (MSS) , a 
+program that policymakers enacted in 2004 to sterilize capital inflows (RBI 2009g; Thorat 
+2009).  
+ 
+5  Commercial banks held SLR securities —liquid assets including cash, gold, and specific unencumbered 
+securities—at 27.8% of their net demand and time liabilities at end-March 2008 and 28.1% at end-March 2009 
+(RBI 2009g). Banks could pledge their excess SLR assets as c ollateral to borrow from the RBI.  
+6 Excess SLR securities served as the only collateral for the LAF (RBI 2014). The RBI marshaled support for 
+mutual funds and nonbank financial institutions after these firms, which were heavily exposed to commercial 
+paper and asset-backed securities, experienced withdrawals, and the firms that depended on this market-based 
+funding turned to banks for liquidity (Bandyopadhyay 2008).  
+461
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 9 ---
+In total, the RBI’s interventions released USD 87.5 billion (see Figure 2).  
+Figure 2: Liquidity Released by RBI Interventions 
+Intervention Amount  
+(USD billions) 
+Cash reserve ratio reduction 32.7 
+Statutory liquidity ratio reduction 8.2 
+Increase in export credit refinance 5.2 
+Liquidity facility for nonbank financial 
+companies via special purpose vehicle 5.1 
+MSS unwinding 12.9 
+Refinance facility for Small Industries 
+Development Bank of India/National 
+Housing Bank/Export Import Bank 
+3.3 
+Special refinance facility for scheduled 
+commercial banks (non-regional rural banks) 7.9 
+Term repo facility 12.2 
+Total 87.5 
+ 
+Source: RBI 2009g. 
+3. Legal Authority: The Reserve Bank of India Act gives the central bank power to set 
+the required level of reserves for financial institutions  that meet certain 
+regulatory requirements. 
+All scheduled banks in India are required to maintain cash reserves with the RBI pursuant 
+to Section 42 of the Reserve Bank of India Act (RBI Act 1934, Sec. 42). The Indian government 
+in 2006 amended the RBI Act to eliminate constraints on the level of the CRR that the RBI 
+could set. Previously, the central bank was required to set the rate between 3% and 20% 
+(RBI Act 1934, Sec. 42, n. 5). 
+In 2008, nonscheduled, licensed financial institutions were required to hold a cash reserve 
+of 3% of NDTL, which was not subject to revision by the RBI (Banking Regulation Act 1949, 
+Sec. 18; RBI 2008a). In 2012, Parliament changed the law to give the RBI the authority to set 
+the level of the CRR for nonscheduled financial institutions as well (Dhasmana 2009).  
+According to the Banking Regulation Act, the RBI could prescribe a statutory liquidity ratio , 
+requiring both scheduled and unscheduled banks to maintain a certain percentage of NDTL 
+in assets it would specify through notifications published in India’s official gazette (Banking 
+462
+India Nunn and Mott
+
+--- Page 10 ---
+Regulation Act 1949, Sec. 24; Banking Regulation Act Amendment 2007) . This act (as 
+amended in 2007) also capped the SLR at 40% of NDTL.  
+The RBI deemed banks “scheduled” if they met certain regulatory requirements, chief among 
+them that paid-up capital and reserves are equal to or more than INR 500,000 and that the 
+bank does not act in ways that are detrimental to its depositors (RBI Act 1934, Sec. 
+42[6][a]).7 When officials granted a bank scheduled status, the institution could borrow from 
+the RBI and had access to the country’s major clearinghouses (RBI 2007, 9; RBI Act 1934, 
+Sec. 17). Scheduled banks are a segment of a larger pool of financial institutions that are 
+licensed to operate in India (Sanghvi, Patnaik, and MG 2021) . Scheduled commercial banks 
+held approximately 90% of the banking system’s assets in 2009 (RBI 2009h; RBI 2010b).  
+The RBI also had the power to impose marginal reserve requirements on scheduled 
+institutions, but the central bank did not have such marginal requirements in place during 
+the GFC (RBI Act 1934, Sec. 42(1A)). 
+4. Administration: The RBI governor was responsible for monetary and liquidity 
+policy decisions, after consulting with deputy governors and a technical 
+committee. 
+During 2008 and 2009, when the RBI made cuts to its reserve ratios, the RBI governor was 
+responsible for the central bank’s monetary and liquidity policy choices , which included 
+setting the CRR.8 The RBI governor was assisted in decision -making by a deputy governor 
+specifically responsible for monetary policy.  
+The RBI also consulted various external stakeholders. A group called the Technical Advisory 
+Committee on Monetary Policy (TACMP ), made up of extern al experts in central banking, 
+finance, and economics, reviewed macroeconomic and monetary developments  quarterly 
+and gave the RBI governor advice.  Before making monetary policy decisions, t he RBI also 
+consulted with banking system representatives, such as  trade and industry bodies and 
+financial market participants (RBI 2014). 
+5. Governance: Though the Reserve Bank of India Act did not prescribe formal 
+oversight mechanisms, the RBI did employ some accountability practices, such as 
+publicizing its policy rationale and answering Indian legislators’ questions about 
+RBI policy. 
+The Central Board of Directors committee, which met weekly to review financial and 
+economic conditions, supported the RBI governor’s decision -making (RBI 2014, 25) . The 
+Central Board governed the RBI ’s regular affairs (RBI Act 1934, Sec. 7). The Indian 
+ 
+7 These institutions are called “scheduled” because they are included in the Reserve Bank of India Act’s second 
+schedule, which is regularly updated as new banks are added and removed (RBI 2021; Sanghvi, Patnaik, and 
+MG 2021). 
+8 In 2016, the Indian government modified the RBI’s administration rules and created a formal Monetary Policy 
+Committee (MPC) that would make monetary policy decisions thereafter, limiting the RBI governor’s power 
+over policy decision-making (RBI 2017). 
+463
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 11 ---
+government appointed the Central Board’s members, which consisted of the RBI governor, 
+up to four deputy governors, four directors from local RBI boards (RBI offices in different 
+parts of India), 10 directors from various fields, and two government officials (RBI Act 1934, 
+Sec. 8). The Appointments Committee of the Cabinet had to approve the governor and deputy 
+governor positions (Cabinet Secretariat 1961) . It is unclear from available documents 
+exactly what entity nominated the governors and other directors. 
+The RBI employed certain practices  to make its policy decision -making transparent , 
+including the publication of the RBI’s policy rationale and potential or expected outcomes, 
+as well as regular press conferences by the RBI governor after every RBI quarterly policy 
+review.  
+The central bank helped the Finance minister answer Indian legislators’ questions about the 
+country’s monetary, fiscal, and economic policies . Typically three to four times a year,  the 
+RBI governor was summoned to appear before th e Parliament’s Standing Committee on 
+Finance (RBI 2014).  
+6. Communication: The RBI announced CRR and SLR requirement changes in 
+circulars and in press releases. 
+The RBI updated its website with circulars and press releases announcing the CRR changes. 
+In one of the press releases, RBI officials said the CRR policy changes would “ alleviate the 
+pressures brought on by the deterioration in the global financial environment” (RBI 2008v). 
+The RBI announced the first cut to the CRR on October 6, 2008, then announced the second 
+cut on October 10, 2008, one day before the first cut was slated to take effect 
+(Bandyopadhyay 2008; RBI 2008c; RBI 2008h) . 9  On October 14, then–Bank of India 
+Chairman and Managing Director TS Narayanasamy stated that the first two CRR cuts, which 
+both took effect on October 11, eased liquidity constraints, “but it is not comfortable,” noting 
+that “[m]ore steps are required and more steps may come from RBI” (Sahu 2008). 
+At a conference in January 2009, Commerce and Industry Minister Kamal Nath  noted that 
+the RBI had “ injected liquidity into the banking system, but the liquidity is still not credit ,” 
+adding that “the challenge is to make banks lend” (Dhasmana 2009).  
+In October 2008, roughly one month before the SLR cut was formalized, an RBI official stated 
+that an SLR cut and further cuts to the CRR could be used to ease liquidity constraints in the 
+domestic money market (Reuters News 2008) . In its 2008 –2009 annual report, the RBI 
+stated that it would consider relaxing SLR requirements for the purpose of helping scheduled 
+banks manage their short-term funding requirements at their overseas offices (RBI 2009g).10  
+ 
+9 Both cuts would take effect the following day, on October 11. The only precedents for a cut to the CRR of this 
+size was a 175-bp cut in November 2001 and a 200-bp cut in 1974 (Bandyopadhyay 2008). 
+10 It did so despite concerns about SLR reduction identified in its 2007 –08 report—namely, that a lower SLR 
+would shrink the amount of government securities sitting in banks’ held-to-maturity portfolios while a greater 
+amount would be considered available for trading. Contemporaneous reports posited that the appearance of 
+an increased supply of government notes could lower market demand for them at a time when the government 
+was trying to fund a fiscal response to GFC-related disruptions (Hindu Business Line 2008; RBI 2008w). 
+464
+India Nunn and Mott
+
+--- Page 12 ---
+7. Assets Qualifying as Reserves: The RBI required financial institutions to hold CRR 
+reserves in cash  with the central bank; it allowed financial institutions to hold 
+cash and unencumbered government securities for the SLR. 
+The RBI required scheduled financial institutions to hold cash reserves in accounts with the 
+central bank (RBI Act 1934, Sec. 42) . Nonscheduled financial institutions could hold their 
+cash reserves in cash, current accounts, or accounts with the central bank (Banking 
+Regulation Act 1949, sec. 18 [1]).  
+The RBI allowed cash, gold, and unencumbered government securities to qualify for the SLR.  
+On August 10, 2009, the RBI announced the issuance of cash management bills, a new short-
+term (less than 91-day maturity) instrument akin to treasury bills to meet the government’s 
+cash flow mismatches, and these would be considered government secur ities for the 
+purposes of the SLR (RBI 2009f). 
+8. Reservable Liabilities: The CRR and SLR covered demand and time deposits, as 
+well as “borrowings or other miscellaneous items of liabilities.” 
+The RBI calculated both reserve requirements using the institution ’s net demand and time 
+liabilities (RBI 2006b; RBI 2008a; RBI 2020) . NDTL is a broad calculation of a bank’s 
+liabilities that includes “demand or time deposits or borrowings or other miscellaneous 
+items of liabilities” (RBI 2008a).  
+The RBI included banks’  borrowings from abroad in the definition of NDTL. The definition 
+also included interest accrued on deposits and other balances due to banks or the public (RBI 
+2006b). The definition excluded shareholders’ funds (capital) and borrowings from 
+government-owned financial lenders identified in the law (RBI Act 1934, sec. 42 [1][c]).  
+The definition of NDTL was slightly different for the SLR calculation. The  RBI required that 
+banks net  their interbank liabilities (interbank  deposits and term borrowing), excludin g 
+interbank assets,  with maturities greater than 15 days and up to one year in their SLR 
+calculations; these were excluded from the CRR per Section 42 of the RBI Act  (RBI 2006b; 
+RBI Act 1934, cl. [d]).  
+The RBI did not apply different reserve ratios to different liabilities. The RBI applied uniform 
+CRRs and SLRs for different kinds of liabilities denominated in both domestic and foreign 
+currencies (RBI 2006b; RBI 2008a). 
+465
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 13 ---
+9. Computation: The RBI calculated the amount of cash reserves and liquid assets an 
+institution must hold based on a broad calculation of the institution’s liabilities on 
+an average daily basis over a two-week span. 
+Scheduled banks were required to hold cash reserves with the RBI directly (RBI Act 1934, 
+Sec. 42).11 The institutions maintained cash reserves over a two-week span, from Saturday 
+to the second reporting Friday, on an average daily basis (RBI Act 1934, Sec. 42; Banking 
+Regulation Act 1949, Sec. 18; RBI 2020, 15). 
+The RBI calculated the SLR according to the same timeline as the CRR . The SLR also  used 
+NDTL for the denominator of the ratio, but the RBI required scheduled banks to include net 
+interbank liabilities, excluding interbank assets, with maturities greater than 15 days and up 
+to one year in their SLR calculations (RBI 2006b). For more details, see Key Design Decision 
+No. 8, Reservable Liabilities.  
+NDTL were calculated as the sum of: liabilities to the banking system (demand liabilities, 
+time liabilities, and other de mand and time liabilities) and liabilities to others in India, less 
+assets within the banking system.  
+10. Eligible Institutions: The CRR and SLR, and the RBI’s reduction of the two ratios 
+during the GFC, applied to all Indian banks in India. 
+Section 42 of the Reserve Bank of India Act requires all scheduled banks to maintain cash 
+reserves with the RBI (RBI Act 1934, Sec. 42). The RBI deems banks “scheduled” if they meet 
+certain regulatory requirements, chief among them that paid-up capital and reserves are 
+equal to or more than INR 500,000  and that the bank does not act in ways that are 
+detrimental to its depositors  (RBI Act 1934, Sec. 42[6][a]). These institutions are c alled 
+“scheduled” because they are included in the Reserve Bank of India Act’s second schedule, 
+which is regularly updated as new banks are added and removed (RBI 2021; Sanghvi, 
+Patnaik, and MG 2021). 
+Scheduled banks are a segment of the larger pool of financial institutions that are licensed to 
+operate in India (Sanghvi, Patnaik, and MG 2021). 
+The RBI and market participants split scheduled b anks into two main categories  when 
+discussing RBI policy:  commercial banks and cooperative banks.  Commercial banks a re 
+further split into  foreign, private, public, and regional rural banks.  Cooperative banks are 
+split into urban and rural banks (Sanghvi, Patnaik, and MG 2021). 
+Each time the RBI announced a CRR cut during the GFC, RBI officials released four separate 
+circulars addressed to  different schedule d banking groups : scheduled commercial banks, 
+ 
+11 Nonscheduled licensed banks could hold their required CRR reserves with the RBI or with themselves 
+(Banking Regulation Act 1949, Sec. 18). As noted in Key Design Decision No. 10, Eligible Institutions, the GFC -
+era CRR cuts did not apply to these banks. 
+466
+India Nunn and Mott
+
+--- Page 14 ---
+regional rural banks, rural (or state) cooperative banks, and  urban cooperative banks. The 
+RBI also released four separate circulars upon announcing the single cut to the SLR.  
+Scheduled commercial banks held approximately 90% of the banking system’s assets in 
+2009 (see Figure 3). 
+Figure 3: Makeup of Indian Banking System by Institution Type, 2009 
+Institution type Proportion 
+Scheduled commercial banks 89.07% 
+Urban cooperative banks 7.59% 
+Rural cooperative banks 3.34% 
+Total 100.00% 
+ 
+Note: Total does not include the four unscheduled banks operating in India in 2009.  
+Source: RBI 2009h; RBI 2010b; author’s calculations. 
+The RBI did not issue circulars cutting the CRR for nonscheduled banks. Their CRR was fixed 
+by statute at 3% of NDTL during the crisis period (Banking Regulation Act 1949, Sec. 18; RBI 
+2008a). 
+11. Timing: The RBI began cutting the CRR in October 2008 in response to tightening 
+credit conditions and the SLR in November 2008 . It subsequently cut other key 
+policy rates and activated various liquidity programs. 
+The RBI began raising the CRR in fall 2004 to sterilize liquidity impacts of large foreign 
+exchange purchases and to contain domestic inflationary pressures (RBI 2008w; RBI 2009g).  
+The central bank cut the CRR four times between October 2008 and January 2009 to alleviate 
+the sharp liquidity contraction that the GFC triggered.12 The cuts ultimately brought the rate 
+down 400 bps, from 9% to 5% (RBI 2009g).  
+On September 16, 2008, the RBI announced that banks in need of liquidity could temporarily 
+pledge up to 1.0% of their SLR-eligible NDTL to the LAF (RBI 2008b).13 On November 3, the 
+RBI formally reduced the SLR by 100 bps, from 25% to 24% (RBI 2008t). 
+The RBI began cutting its repo rate days after its first CRR cut.  The central bank eventually 
+reduced the repo rate 425 bps, from 9% to 4.75%. To keep banks from leaving funds with 
+ 
+12 October 6 –7, 2008, CRR cut circulars: RBI 2008c; RBI 2008d; RBI 2008e; RBI 2008f . October 10 CRR cut 
+circulars: RBI 2008h; RBI 2008i; RBI 2008g; RBI 2008j. October 15–16 CRR cut circulars: RBI 2008k; RBI 2008l; 
+RBI 2008m; RBI 2008n. November 3 CRR cut circulars: RBI 2008p; RBI 2008q; RBI 2008r; RBI 2008s . January 
+2 and 5, 2009 , CRR cut circulars: RBI 2009a; RBI 2009b; RBI 2009c; RBI 2009d . Note: The October 10, 2008 , 
+circulars revised the initial October 6–7 CRR cuts to 150-bp cuts from 50-bp cuts. 
+13 Banks could also seek a waiver for the penal interest rate that normally applied, but it is unclear how many 
+banks, if any, sought or received this waiver (RBI 2008b).  
+467
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 15 ---
+the RBI overnight, the central bank  started cutting its reverse repo rate in December 2008, 
+eventually bringing the rate to 3.25% from 6%.  
+While the RBI brought down its key policy rates, it also implemented a host of liquidity 
+programs, as discussed in Key Design Decision No. 2, Part of Package (RBI 2009g). The RBI’s 
+measures collectively released USD 87.5 billion into its financial system  in the 2008 –2009 
+fiscal year. See Figure 2. 
+12. Changes in Reserve Requirement s: The RBI cut the CRR four times between 
+October 2008 and January 2009, bringing the rate from 9% to 5%, and cut the SLR 
+once in November 2008.  
+The RBI ultimately reduced the CRR by 400 bps over the course of five successive rate cuts, 
+bringing the measure from 9% to 5%. The RBI cut the SLR once, from 25% to 24%.  
+The RBI announced the first CRR cut of 50 bps, from 9.0% to 8.5%, on October 6, 2008 . On 
+October 10, it announced this cut would be increased to 150 bps, effective the following day 
+(RBI 2008c; RBI 2008h) . On October 15, the RBI announced an additional 100 -bp cut, 
+effective retroactively to the fortnight beginning October 11, bringing the CRR down to 6.5% 
+(RBI 2008k). On November 3, the RBI announced two further reductions to the CRR, the first, 
+of 50 bps, effective retroactively to the fortnight beginning October 25, and the second, also 
+50 bps, effective November 8 (RBI 2008p). Also on November 3, the RBI announced the 100-
+bp cut to the SLR to 24%, effect ive November 8 (RBI 2008t). See Figure 4 for a summary of 
+GFC-era cuts to both reserve requirements. 
+Figure 4: Summary of Changes to Reserve Requirements 
+Cash Reserve Ratio (CRR)  Statutory Liquidity Ratio (SLR) 
+Date 
+announced 
+Date 
+effective Change Level  Date 
+announced 
+Date 
+effective Change Level 
+Oct. 6, 2008 Oct. 11, 2008 – 50 bps 8.5%      
+Oct. 10, 2008 Oct. 11, 2008 – 100 bps 7.5%      
+Oct. 15, 2008 Oct. 11, 2008 – 100 bps 6.5%      
+Nov. 3, 2008 Oct. 25, 2008 – 50 bps 6.0%  Nov. 3, 2008 Nov. 8, 2008 – 100 bps 24% 
+Nov. 8, 2008 – 50 bps 5.5%      
+Jan. 5, 2009 Jan. 17, 2009 – 50 bps 5.0%      
+Note: The CRR cut announced on November 3, 2008, included two cuts: one effective retroactively to the fortnight 
+beginning October 25 and one prospectively to the fortnight beginning November 8.  
+Sources: RBI 2008c; RBI 2008h; RBI 2008p; RBI 2008t; RBI 2009a . 
+Marginal Requirement 
+Although Section 42(1A) of the Reserve Bank of India Act gives the RBI the power to 
+implement marginal RRs, the central bank did not do so during the GFC (RBI Act 1934, Sec. 
+42[1A]; RBI 2006b; RBI 2008a). 
+468
+India Nunn and Mott
+
+--- Page 16 ---
+13. Changes in Interest/Remuneration: The RBI did not remunerate cash reserves for 
+the CRR, but banks could hold interest -bearing assets to meet their SLR 
+requirement.  
+The RBI stopped paying interest on cash reserves in 2006 after the Indian government 
+amended the Reserve Bank of India Act to remove the practice (RBI Act 1934, Sec. 42(1A), n. 
+3).14 
+As noted in Key Design Decision No. 7, Assets Qualifying as Reserves, scheduled banks could 
+meet their SLR requirements with unencumbered government securities . However, real 
+yields on short-term Indian government bonds were negative for the duration of the SLR cut.  
+14. Other Restrictions: The RBI imposed fines if banks fell short of their CRR or SLR 
+requirements.  
+If an institution failed to maintain at least 70% of its CRR requirement on a given day or failed 
+to maintain its CRR or SLR average over the course of the RBI’s two-week calculation period, 
+the central bank charged the institution a “penal interest” rate of 300 bps per annum above 
+the prevailing bank rate on the amount by which the institution fell short on that day or two-
+week calculation period. If the shortfall continued for either the CRR or the SLR on the next 
+succeeding day(s) or two -week period, the RBI charged a 500 -bp penal interest rate above 
+the bank rate (Banking Regulation Act 1949, Sec. 18; RBI 2006b; RBI 2008a; RBI Act 1934, 
+Sec. 42). 
+If a bank continued to fail to meet the RBI’s CRR requirements (and was therefore subject to 
+the penal interest rate of 500 bps per annum above the bank rate), the institution’s directors, 
+managers, or secretaries who “knowingly” and “willfully” contributed to the breach  were 
+subject to fines  (RBI 2008a, sec. 3.15 [b]). The RBI could also prohibit the institution from 
+accepting any new deposits (RBI 2008a; RBI Act 1934, Sec. 42). 
+15. Impact on Monetary Policy Transmission:  The RBI said active liquidity 
+management, through policy changes such as CRR reductions, was a key element 
+of its GFC monetary policy response. 
+In its press release announcing the first round of CRR cuts, RBI officials stated that “active 
+liquidity management” was a key part of its monetary policy strategy (RBI 2008u). The CRR 
+itself was the RBI’s key monetary policy tool (RBI 2014). By adjusting the CRR, the RBI could 
+change both reserve money and the money multiplier (RBI 2009g). 
+In its 2008–2009 annual report, RBI officials said that at the beginning of the fiscal year, risk 
+premiums, among other factors, had offset policy rate cuts and constrained monetary policy 
+transmission. However, by the last quarter of the year, deposit and lending rates had started 
+ 
+14 Previously, the RBI paid banks 3.5% on “eligible cash balances,” which were CRR balances above the previous 
+statutory minimum of 3% and up to 5% (RBI 2006a). 
+469
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 17 ---
+to moderate in response to the RBI’s rate cuts and liquidity  policies, such as the CRR 
+reductions (RBI 2009g). 
+By requiring banks  to invest a portion of their liabilities in government securities , the RBI 
+intended for the SLR to artificially suppress the cost of borrowing for the Indian government, 
+thereby dampening  the transmission of the RBI’s interest rate changes across the term 
+structure (RBI 2014). 
+16. Duration: The RBI did not preannounce an end date to its CRR adjustments and 
+raised the CRR again in March 2010 ; the RBI initially announced a “temporary” 
+SLR cut but made this change effective for roughly one year, until October 2009, 
+when the RBI reverted the SLR to its pre-crisis level. 
+The RBI did not announce plans to begin raising the  CRR when it made cuts to the ratio in 
+late 2008 and early 2009.  RBI officials describe d the cuts as temporary, noting t hat the 
+central bank would review the ratio on an ongoing basis (RBI 2008u). 
+The RBI maintained the CRR at 5% from January 2009 to March 2010, when it hiked the CRR 
+75 bps to contain inflation and normalize policy following the GFC (RBI 2010a). 
+Initially, the RBI announced that the SLR would  be relaxed temporarily, by allowing 
+scheduled banks to pledge a portion of their SLR-eligible assets to the LAF, but a month and 
+a half later, the RBI announced that the 100-bp reduction was effective until further notice. 
+The SLR reverted to its pre -crisis level on October 28, 2009, roughly one year after the RBI 
+cut it to 24% (RBI 2008b; RBI 2009e; RBI 2009g).  
+ 
+  
+470
+India Nunn and Mott
+
+--- Page 18 ---
+References and Key Program Documents 
+Documents cited in the text are introduced with a parenthetical author -date c itation. 
+Documents that are relevant to this case but have not been cited in text do not include this 
+parenthetical reference. 
+Summary of Program 
+(Thorat 2009) Thorat, Usha. 2009. “Impact of Global Financial Crisis on Reserve Bank of 
+India (RBI) as a National Regulator.” Presentation delivered at the 56th EXCOM Meeting 
+and FinPower CEO Forum organized by APRACA. Seoul, South Korea. 
+Presentation by former Deputy Governor of the Reserve Bank of India Usha Thorat detailing 
+the Global Financial Crisis’ impact on the central bank and its various roles. 
+https://ypfs.som.yale.edu/node/20087/ 
+Implementation Documents 
+(RBI 2006a) Reserve Bank of India (RBI). 2006a. “Amendments to the Reserve Bank of 
+India Act and Cash Reserve Ratio.” Press release No. 2005-2006/1668. 
+Reserve Bank of India press release announcing changes to cash reserve ratio policy. 
+https://ypfs.som.yale.edu/node/20322/ 
+(RBI 2006b) Reserve Bank of India (RBI). 2006b. “Master Circular - Cash Reserve Ratio 
+(CRR) and Statutory Liquidity Ratio (SLR), Chief Executives of All Scheduled Commercial 
+Banks (Excluding Regional Rural Banks), RBI/2006-07/145.” Master Circular No. 
+RBI/2006-07/ 145 | DBOD.No. Ret.BC. 34 /12.01.001/2006-07. 
+Reserve Bank of India October 2006 master circular outlining its instructions for adhearing to 
+the RBI’s cash reserve ratio and statutory liquidity ratio rules. 
+https://ypfs.som.yale.edu/node/20061/ 
+(RBI 2008a) Reserve Bank of India (RBI). 2008a. “Master Circular Maintenance of Statutory 
+Reserves Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR), Chief Executive 
+Officers of All Primary (Urban) Co-Operative Banks, RBI/2008-09/60.” Master Circular No. 
+RBI/2008-09/60 | UBD CO Ret /MC No/ 15/12.03.000/2008-09. 
+Reserve Bank of India July 2008 master circular outlining its instructions for adhearing to the 
+RBI’s cash reserve ratio and statutory liquidity ratio rules. 
+https://ypfs.som.yale.edu/node/20062/ 
+(RBI 2008b) Reserve Bank of India (RBI). 2008b. “RBI Announces Market Measures, 2008-
+2009/338.” Circular. 
+Initial announcement of RBI’s response to the GFC. 
+https://ypfs.som.yale.edu/node/21935/ 
+(RBI 2008c) Reserve Bank of India (RBI). 2008c. “CRR Reduced, All Scheduled Commercial 
+Banks (Excluding Regional Rural Banks), RBI/2008-2009/203.” Circular No. RBI/2008-
+2009/203 | Ref: DBOD.No.Ret.BC. 52/12.01.001/2008-09. 
+Reserve Bank of India October 2008 circular announcing the first in a series of four cash 
+471
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 19 ---
+reserve ratio cuts for certain scheduled commercial banks. 
+https://ypfs.som.yale.edu/node/20040 
+(RBI 2008d) Reserve Bank of India (RBI). 2008d. “RRBs – CRR Reduced, All Regional Rural 
+Banks, RBI/2008-2009/205.” Circular No. RBI/2008-2009/205 | RPCD.CO.RRB. No. BC.40/ 
+03.05.28(B)/2008-09. 
+Reserve Bank of India October 2008 circular announcing the first in a series of four cash 
+reserve ratio cuts for regional rural banks. 
+https://ypfs.som.yale.edu/node/20042/ 
+(RBI 2008e) Reserve Bank of India (RBI). 2008e. “Scheduled Primary (Urban) Co-Operative 
+Banks - CRR Reduced, The Chief Executive Officers of All Scheduled Primary (Urban) Co-
+Operative Banks, RBI/2008-2009/206.” Circular No. RBI/2008-2009/206 | Ref: UBD 
+(PCB).No./4/12.03.000/2008-09. Mumbai: Reserve Bank of India. 
+Reserve Bank of India October 2008 circular announcing the first in a series of four cash 
+reserve ratio cuts for scheduled urban cooperative banks. 
+https://ypfs.som.yale.edu/node/20043/ 
+(RBI 2008f) Reserve Bank of India (RBI). 2008f. “Scheduled State Co-Operative Banks – 
+CRR Reduced, All Scheduled State Co-Operative Banks, RBI/2008-2009/204.” Circular No. 
+RBI/2008-2009/204 | RPCD.CO.RF.BC.No. 39/07.02.01/2008-09. 
+Reserve Bank of India October 2008 circular announcing the first in a series of four cash 
+reserve ratio cuts for scheduled state cooperative banks. 
+https://ypfs.som.yale.edu/node/20041/ 
+(RBI 2008g) Reserve Bank of India (RBI). 2008g. “All Scheduled State Co-Operative Banks – 
+CRR Reduced, All Scheduled State Co-Operative Banks, RBI/2008-2009/212.” Circular No. 
+RBI/2008-2009/212 RPCD.CO.RF.BC.No. 43/07.02.01/2008-09. 
+Reserve Bank of India October 2008 circular revising a previously announced cash reserve 
+ratio cuts for scheduled state cooperative banks. 
+https://ypfs.som.yale.edu/node/20044/ 
+(RBI 2008h) Reserve Bank of India (RBI). 2008h. “CRR Reduced, All Scheduled Commercial 
+Banks (Excluding Regional Rural Banks), RBI/2008-2009/214.” Circular No. RBI/2008-
+2009/214 | Ref: DBOD.No.Ret.BC.55/12.01.001/2008-09. 
+Reserve Bank of India October 2008 circular revising a previously announced cash reserve 
+ratio cuts for certain scheduled commercial banks. 
+https://ypfs.som.yale.edu/node/20046 
+(RBI 2008i) Reserve Bank of India (RBI). 2008i. “RRBs – CRR Reduced, All Regional Rural 
+Banks, RBI/2008-2009/213.” Circular No. RBI/2008-2009/213 | RPCD.CO.RRB. No. BC.44/ 
+03.05.28(B)/2008-09. 
+Reserve Bank of India October 2008 circular revising a previously announced cash reserve 
+ratio cuts for regional rural banks. 
+https://ypfs.som.yale.edu/node/20045 
+472
+India Nunn and Mott
+
+--- Page 20 ---
+(RBI 2008j) Reserve Bank of India (RBI). 2008j. “Scheduled Primary (Urban) Co-Operative 
+Banks – CRR Reduced, The Chief Executive Officers of All Scheduled Primary (Urban) Co-
+Operative Banks, RBI/2008-2009/216.” Circular No. RBI/2008-2009/216 | Ref: UBD 
+(PCB).No./5 /12.03.000/2008-09. 
+Reserve Bank of India October 2008 circular revising a previously announced cash reserve 
+ratio cuts for scheduled urban cooperative banks. 
+https://ypfs.som.yale.edu/node/20047 
+(RBI 2008k) Reserve Bank of India (RBI). 2008k. “CRR Reduced - Scheduled Commercial 
+Banks, All Scheduled Commercial Banks (Excluding Regional Rural Banks), RBI/2008-
+2009/228.” Circular No. RBI/2008-2009/228 | Ref: DBOD.No.Ret.BC.61/12.01.001/2008-
+09. 
+Reserve Bank of India October 2008 circular announcing the second in a series of four cash 
+reserve ratio cuts for certain scheduled commercial banks. 
+https://ypfs.som.yale.edu/node/20048/ 
+(RBI 2008l) Reserve Bank of India (RBI). 2008l. “RRBs – Reduction in CRR, All Regional 
+Rural Banks, RBI/2008-2009/234.” Circular No. RBI/2008-2009/234 | RPCD.CO.RRB. No. 
+BC.46/ 03.05.28(B)/2008-09. 
+Reserve Bank of India October 2008 circular announcing the second in a series of four cash 
+reserve ratio cuts for regional rural banks. 
+https://ypfs.som.yale.edu/node/20050 
+(RBI 2008m) Reserve Bank of India (RBI). 2008m. “Scheduled StCBs – Reduction in CRR, All 
+Scheduled State Co-Operative Banks, RBI/2008-2009/231.” Circular No. RBI/2008-
+2009/231 | RPCD.CO.RF.BC.No. 48/07.02.01/2008-09. 
+Reserve Bank of India October 2008 circular announcing the second in a series of four cash 
+reserve ratio cuts for scheduled state cooperative banks. 
+https://ypfs.som.yale.edu/node/20049 
+(RBI 2008n) Reserve Bank of India (RBI). 2008n. “Maintenance of Cash Reserve Ratio - 
+Urban Co-Operative Banks, The Chief Executive Officers of All Scheduled Primary (Urban) 
+Co-Operative Banks, RBI/2008-2009/239.” Circular No. RBI/2008-2009/239 | Ref: UBD 
+(PCB).No./7 /12.03.000/2008-09. 
+Reserve Bank of India October 2008 circular announcing the second in a series of four cash 
+reserve ratio cuts for scheduled urban cooperative banks. 
+https://ypfs.som.yale.edu/node/20051/ 
+(RBI 2008o) Reserve Bank of India (RBI). 2008o. “RBI Announces Further Measures for 
+Monetary and Liquidity Management.” Circular. 
+RBI announcement of additional RR cuts. 
+https://ypfs.som.yale.edu/node/21936/ 
+(RBI 2008p) Reserve Bank of India (RBI). 2008p. “CRR Reduced, All Scheduled Commercial 
+Banks (Excluding Regional Rural Banks), RBI/2008-2009/254.” Circular No. RBI/2008-
+2009/254 | Ref: DBOD.No.Ret.BC.71/12.01.001/2008-09. 
+473
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 21 ---
+Reserve Bank of India November 2008 circular announcing the third in a series of four cash 
+reserve ratio cuts for certain scheduled commercial banks. 
+https://ypfs.som.yale.edu/node/20052 
+(RBI 2008q) Reserve Bank of India (RBI). 2008q. “RRBs – CRR Reduced, RBI/2008-
+2009/264.” Circular No. RBI/2008-2009/264 | RPCD.CO.RRB.BC.No.59/ 
+03.05.28(B)/2008-09. 
+Reserve Bank of India November 2008 circular announcing the third in a series of four cash 
+reserve ratio cuts for regional rural banks. 
+https://ypfs.som.yale.edu/node/20054 
+(RBI 2008r) Reserve Bank of India (RBI). 2008r. “Scheduled StCBs – CRR Reduced, All 
+Scheduled State Co-Operative Banks, RBI/2008-2009/259.” Circular No. RBI/2008-
+2009/259 | RPCD.CO.RF.BC.No. 57/07.02.01/2008-09. 
+Reserve Bank of India November 2008 circular announcing the third in a series of four cash 
+reserve ratio cuts for scheduled state cooperative banks. 
+https://ypfs.som.yale.edu/node/20053/ 
+(RBI 2008s) Reserve Bank of India (RBI). 2008s. “Scheduled UCBs – CRR Reduced, The 
+Chief Executive Officers of All Scheduled Primary (Urban) Co-Operative Banks, RBI/2008-
+2009/265.” Circular No. RBI/2008-2009/265 | Ref: UBD (PCB).No./8 /12.03.000/2008-09. 
+Reserve Bank of India November 2008 circular announcing the third in a series of four cash 
+reserve ratio cuts for scheduled urban cooperative banks. 
+https://ypfs.som.yale.edu/node/20055/ 
+(RBI 2008t) Reserve Bank of India (RBI). 2008t. “SLR Reduced, 2008–2009/ 255.” Circular. 
+RBI announcement of 100bps SLR reduction. 
+https://ypfs.som.yale.edu/node/21937/ 
+(RBI 2009a) Reserve Bank of India (RBI). 2009a. “CRR Reduced, All Scheduled Commercial 
+Banks (Excluding Regional Rural Banks), RBI/2008-2009/339.” Circular No. RBI/2008-
+2009/339 | Ref: DBOD.No.Ret.BC.103 /12.01.001/2008-09. 
+Reserve Bank of India January 2009 circular announcing the final cut in a series of four cash 
+reserve ratio cuts for certain scheduled commercial banks. 
+https://ypfs.som.yale.edu/node/20056 
+(RBI 2009b) Reserve Bank of India (RBI). 2009b. “RRBs – CRR Reduced, All Regional Rural 
+Banks, RBI/2008-2009/345.” Circular No. RBI/2008-2009/345 | RPCD.CO.RRB.BC.No.82/ 
+03.05.28(B)/2008-09. 
+Reserve Bank of India January 2009 circular announcing the final cut in a series of four cash 
+reserve ratio cuts for regional rural banks. 
+https://ypfs.som.yale.edu/node/20058/ 
+(RBI 2009c) Reserve Bank of India (RBI). 2009c. “StCBs – CRR Reduced, All Scheduled State 
+Co-Operative Banks, RBI/2008-2009/344.” Circular No. RBI/2008-2009/344 | 
+RPCD.CO.RF.BC.No.81/07.02.01/2008-09. 
+Reserve Bank of India January 2009 circular announcing the final cut in a series of four cash 
+474
+India Nunn and Mott
+
+--- Page 22 ---
+reserve ratio cuts for scheduled state cooperative banks. 
+https://ypfs.som.yale.edu/node/20057 
+(RBI 2009d) Reserve Bank of India (RBI). 2009d. “UCBs – CRR Reduced, The Chief 
+Executive Officers of All Scheduled Primary (Urban) Co-Operative Banks, RBI/2008-
+2009/346.” Circular No. RBI/2008-2009/346 | Ref: UBD (PCB).No./9 /12.03.000/2008-09. 
+Reserve Bank of India January 2009 circular announcing the final cut in a series of four cash 
+reserve ratio cuts for scheduled urban cooperative banks. 
+https://ypfs.som.yale.edu/node/20059 
+(RBI 2009e) Reserve Bank of India (RBI). 2009e. “SLR Increased, 2009-2010/195.” 
+Circular. 
+RBI announcement of SLR hike back to pre-crisis levels, roughly one year after the 100 bps 
+cut. 
+https://ypfs.som.yale.edu/node/21938 
+Legal/Regulatory Guidance 
+(Banking Regulation Act 1949) Parliament of India (Banking Regulation Act). 1949. “The 
+Banking Regulation Act of 1949, Amended as of 2021.” Act, Amended as of 2021. 
+Indian act creating the country’s regulatory framework. 
+https://ypfs.som.yale.edu/node/20082/ 
+(Banking Regulation Act Amendment 2007) Parliament of India (Banking Regulation Act 
+Amendment). 2007. “Banking Regulation (Amendment) Act, 2007.” Act, Amended as of 
+2007. 
+Indian act amending the Banking Regulation Act governing the use of the SLR. 
+https://ypfs.som.yale.edu/node/21939/ 
+(Cabinet Secretariat 1961) Cabinet Secretariat. 1961. “The Government of India 
+(Transaction of Business Rules) Rules, 1961, Amended as of 2020.” Rules. 
+Cabinet Secretariat rules detailing the cabinet’s policies. 
+https://ypfs.som.yale.edu/node/20090 
+(RBI Act 1934) Parliament of India (RBI Act). 1934. “Reserve Bank of India Act of 1934, 
+Amended as of 2019.” Act, Amended as of 2019. 
+Indian act establishing the Reserve Bank of India and outlining its powers. 
+https://ypfs.som.yale.edu/node/20060/ 
+Media Stories 
+(Bandyopadhyay 2008) Bandyopadhyay, Tamal. 2008. “Liquidity Crisis: Where Has All the 
+Money Gone?” Mint, October 13, 2008, sec. BP. 
+News article discussing CRR cuts. 
+https://ypfs.som.yale.edu/node/21940/ 
+475
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 23 ---
+(Dhasmana 2009) Dhasmana, Indivjal. 2009. “Bank Funds Not Reaching Industry, 
+Consumers: Nath.” News Article. Press Trust of India. 
+Press Trust of India article detailing former Commerce and Industry Minister Kamal Nath’s 
+comments about inadequate lending in the broader Indian economy. 
+https://ypfs.som.yale.edu/node/20091 
+(Hindu Business Line 2008) Hindu Business Line. 2008. “RBI in a Dilemma over SLR.” 
+News article describing the complications in reducing the SLR. 
+https://ypfs.som.yale.edu/node/21944 
+(Reuters News 2008) Reuters News. 2008. “Indian Bond Yields Rise, More Policy Measures 
+Eyed.” Reuters News, October 13, 2008. 
+Reuters report on the potential for CRR and SLR cuts. 
+https://ypfs.som.yale.edu/node/21941/ 
+(Sahu 2008) Sahu, Prashant K. 2008. “Govt, RBI Set to Ease Liquidity.” Business Standard, 
+October 14, 2008. 
+Article citing the RBI Chairman’s statements on the first two CRR cuts. 
+https://ypfs.som.yale.edu/node/21942 
+(Reuters News Staff 2009) Reuters News Staff. 2009. “Indian Cash Rates Ease on Ample 
+Funds with Banks.” News Article. 
+Reuters article detailing cash rates moves in late January 2009. 
+https://ypfs.som.yale.edu/node/20094 
+(Roy and Bhoir 2009) Roy, Anup, and Anita Bhoir. 2009. “Firms Say Banks Not Disbursing 
+Loans; Lenders Claim Poor Demand.” News Article. Mint. 
+Mint article detailing Indian business concerns about lending. 
+https://ypfs.som.yale.edu/node/20092 
+(Tarapore 2009) Tarapore, S. S. 2009. “Well-Modulated Monetary Policy.” News Article. The 
+Hindu Business Line. 
+The Hindu Business line opinion article detailing the Reserve Bank of India’s decision to slow 
+its monetary policy loosening. 
+https://ypfs.som.yale.edu/node/20093 
+Press Releases/Announcements 
+(RBI 2008u) Reserve Bank of India (RBI). 2008u. “RBI Reduces CRR for Liquidity 
+Management.” Press release No. 2008-2009/447. 
+Reserve Bank of India October 2008 press release announcing the first in a series of four cash 
+reserve ratio cuts. 
+https://ypfs.som.yale.edu/node/20086/ 
+(RBI 2008v) Reserve Bank of India (RBI). 2008v. “RBI Announces Reduction in CRR for 
+Liquidity Management.” Press release No. 2008-2009/467. Mumbai. 
+Reserve Bank of India October 2008 press release announcing the first in a series of four cash 
+476
+India Nunn and Mott
+
+--- Page 24 ---
+reserve ratio cuts. 
+https://ypfs.som.yale.edu/node/20081/ 
+(RBI 2009f) Reserve Bank of India (RBI). 2009f. “Issuance of Government of India Cash 
+Management Bills.” Press release No. 2009–2010/227. 
+RBI document on the issuance of cash management bills by the Indian government. 
+https://ypfs.som.yale.edu/node/21946/ 
+(RBI 2021) Reserve Bank of India (RBI). 2021. “Inclusion in/Exclusion from the Second 
+Schedule to the Reserve Bank of India Act, 1934 - Regional Rural Banks (RRBs), RBI/2021-
+22/133.” Circular No. RBI/2021-22/133 | DOR.Rur.REC.70/31.04.002/2021-22. 
+Reserve Bank of India November 2021 circular announcing the inclusion and removal of 
+certain banks from its Second Schedule. 
+https://ypfs.som.yale.edu/node/20318 
+Reports/Assessments 
+(IMF 2009) International Monetary Fund (IMF). 2009. “India: 2008 Article IV 
+Consultation—Staff Report; Staff Statement; Public Information Notice on the Executive 
+Board Discussion; and Statement by the Executive Director for India.” IMF Country Report 
+No. 09/187. Washington, D.C.: International Monetary Fund. 
+IMF report examining India’s economy. 
+https://ypfs.som.yale.edu/node/20063 
+(Kumar and Vashisht 2012) Kumar, Rajiv, and Pankaj Vashisht. 2012. “The Global Economic 
+Crisis: Impact on India and Policy Responses.” Chapter in The Global Financial Crisis and 
+Asia: Implications and Challenges, Edited by Masahiro Kawai, Mario B. Lamberte, and Yung 
+Chul Park. Oxford: Oxford University Press. 
+Book chapter analyzing the GFC’s impact on India and how policymakers responded to the 
+crisis. 
+https://ypfs.som.yale.edu/node/19997/ 
+(RBI 2007) Reserve Bank of India (RBI). 2007. “Report of The Working Group on Preparing 
+Guidelines for Access to Payment Systems.” Reserve Bank of India Central Office. 
+Reserve Bank of India paper proposing guidelines for minimum eligibility criteria to become 
+members of the clearing houses/payment systems. 
+https://ypfs.som.yale.edu/node/20319 
+(RBI 2008w) Reserve Bank of India (RBI). 2008w. “Reserve Bank of India Annual Report, 
+2007-2008.” Annual Report. 
+Reserve Bank of India annual report for the year ended June 30, 2008. 
+https://ypfs.som.yale.edu/node/20085/ 
+(RBI 2009g) Reserve Bank of India (RBI). 2009g. “Reserve Bank of India Annual Report, 
+2008-2009.” Annual Report. 
+Reserve Bank of India annual report for the year ended June 30, 2009. 
+https://ypfs.som.yale.edu/node/20039/ 
+477
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 25 ---
+(RBI 2009h) Reserve Bank of India (RBI). 2009h. “Report on Trend and Progress of 
+Banking in India 2008-09.” 
+Reserve Bank of India report documenting banking trends in 2008-2009. 
+https://ypfs.som.yale.edu/node/20320 
+(RBI 2010a) Reserve Bank of India (RBI). 2010a. “Reserve Bank of India Annual Report, 
+2009-2010.” Annual Report. 
+Reserve Bank of India annual report for the year ended June 30, 2010. 
+https://ypfs.som.yale.edu/node/20064/ 
+(RBI 2010b) Reserve Bank of India (RBI). 2010b. “Report on Trend and Progress of 
+Banking in India 2009-10.” 
+Reserve Bank of India report documenting banking trends in 2009-2010. 
+https://ypfs.som.yale.edu/node/20321/ 
+(RBI 2014) Reserve Bank of India (RBI). 2014. “Report of the Expert Committee to Revise 
+and Strengthen the Monetary Policy Framework.” Expert Committee Report. 
+Reserve Bank of India report detailing efforts to revise the central bank’s operating 
+framework. 
+https://ypfs.som.yale.edu/node/20083 
+(RBI 2017) Reserve Bank of India (RBI). 2017. “Reserve Bank of India Annual Report, 2016-
+2017.” Annual Report. 
+Reserve Bank of India annual report for the year ended June 30, 2017. 
+https://ypfs.som.yale.edu/node/20089 
+(RBI 2020) Reserve Bank of India (RBI). 2020. “Functions and Working of RBI.” 
+Reserve Bank of India report detailing how and why the central bank works. 
+https://ypfs.som.yale.edu/node/20084 
+Key Academic Papers 
+(Sanghvi, Patnaik, and MG 2021) Sanghvi, Khyati, Pratik Patnaik, and Vineetha MG. 2021. “A 
+General Introduction to the Banking Regulatory Regime in India.” Article. Lexology. 
+Lexology article detailing the Indian bank regulatory regime. 
+https://ypfs.som.yale.edu/node/20088 
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to 
+receive permission to reprint any or all of this document, please contact the Yale Program on 
+Financial Stability at ypfs@yale.edu. 
+478
+India Nunn and Mott

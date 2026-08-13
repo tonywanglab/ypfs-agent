@@ -1,0 +1,155 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 5 Issue 3 
+2023 
+Lessons Learned: Sandra Braunstein Lessons Learned: Sandra Braunstein 
+Mary Anne Chute Lynch 
+Rosalind Z. Wiggins 
+Yale University 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Chute Lynch, Mary Anne and Wiggins, Rosalind Z. (2023) "Lessons Learned: Sandra Braunstein," Journal 
+of Financial Crises: Vol. 5 : Iss. 3, 27-29. 
+DOI: https://doi.org/10.17132/2693-3179.1515 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss3/3 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol5/iss3/3
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned  
+Sandra Braunstein 
+By Mary Anne Chute Lynch and Rosalind Z. Wiggins 
+Sandra Braunstein served as the director of the Division of Consumer and Community Affairs 
+(DCCA) at the Federal Reserve Board of Governors from 2004 to 2014. Braunstein’s leadership 
+resulted in regulatory reforms in the mortgage market and the Truth in Lending Act and Home 
+Ownership and Equity Protection Act. She helped assure the smooth transition of consumer pro-
+tection responsibilities and appropriate staff from the Federal Reserve System to the new Con-
+sumer Financial Protection Bureau (CFPB). After 27 years of service dedicated to consumer 
+protection, Braunstein retired in 2014. This “Lesson s Learned” is based on an interview with 
+Braunstein in October 2021; the full transcript may be accessed here. 
+Regulatory agencies need to break down departmental silos and coordinate across all 
+sectors to ensure that the best information is circulated and considered in designing 
+effective policy. 
+When Sandra Braunstein became director of the Division of Consumer and Community Af-
+fairs (DCCA) in 2004, the Fed was focused on financial institutions and banks, she said. But 
+her division was very c lose to what was happening in the mortgage markets. They heard 
+consumer advocates repeatedly raise alarms about the possibility of systemic risks brewing, 
+but because of the structure of the Fed, she found it difficult to get the Fed officers and direc-
+tors to pay attention —they didn’t see consumer affairs as a “primary mission” for the Fed. 
+As a result, according to Braunstein, “there was not sufficient communication between safety 
+and soundness and consumer protection. There was not a recognition of the im pact that 
+shoddy consumer protection could have on safety and soundness and the markets as a 
+whole.” Braunstein provided the following example:  
+When we were writing the new HOEPA [Home Ownership and Equity Protection Act] 
+regulations [in 2007], there was a huge internal struggle on coverage. It was part of 
+our responsibility to define which loans would be covered by HOEPA regulations. We 
+in the consumer area were fighting for very broad coverage. We were being fought by 
+economists and safety  and soundness people saying that the coverage we wanted 
+would be too broad, and that we should only cover a narrow portion of the mortgage 
+market. This is related to what Diane [Thompson , a prominent consumer advocate] 
+said about the Fed not thinking that this was a systemic problem; she’s not wrong. At 
+that time, the economists and safety  and soundness staff still saw the problems as 
+being contained within the subprime markets, and we in DCCA thought a wider swath 
+of the mortgage market,  certainly including Alt -A loans, needed to be covered with 
+these protections. We would have liked the lower end of the prime market, too.  
+Braunstein credits Fed Chair Ben Bernanke with ultimately resolving the struggle in favor of 
+DCCA’s point of view.  
+27
+
+--- Page 4 ---
+It’s hard to know what tangible benefits better interagency coordination might have brought 
+to the crisis fight, but Braunstein considers it “vitally important that both sides of regulations 
+coordinate and respect each other’s perspectives.” Apparently, others at the Fed agreed with 
+her, since changes were implemented after the crisis to promote more communication and 
+integration across departments and functions. Some of those changes were made at the 
+DCCA, which, among other things, “got much more involved  in looking at the holding com-
+pany responsibilities for consumer protection ” and making the officers and boards at the 
+holding company level more accountable for “their institutions’ consumer protection pro-
+grams, like they take responsibility for the safet y and soundness of their institutions.” An-
+other change illustrates the benefits of departmental cross-fertilization to Braunstein:  
+The other thing is we moved much more to a risk-focused examination for consumer 
+protection. Rather than just going through a checklist of compliance—have they met; 
+did they give out the right disclosures; did they do this, do that ?—there’s more of a 
+risk focus on the exams in terms of what are the risks here. They are identifying risks 
+and looking at those through that consumer protection lens, as opposed to checklists 
+about legal and technical compliance.  
+Greater diversity of viewpoints and backgrounds among policymakers can fuel more 
+effective policy approaches and solutions. 
+While very respectful of her former colleagues, Braunstein pointed out that some of the silo-
+ing that she encountered could be the result of past practices at the Fed , which generally 
+hired a narrow set of economists: 
+I felt that the economists at the Fed at that time were all of one mind. Th ey had very 
+strict protocols and criteria for hiring an economist, and most of them came from a 
+handful of schools that were identified as providing the “right” education for someone 
+to work at the Federal Reserve. That ’s problematic , because you need dive rsity of 
+viewpoints. Maybe somebody who didn’t have the right education but had a different 
+education and a different viewpoint might have identified something different than 
+what your 2007 economists from the same school did. My feeling was that they 
+needed more diversity, a lot more diversity among the economic part of the Fed in 
+order to try to identify issues.  
+Among the benefits that Braunstein thinks greater diversity of viewpoints could have 
+brought are more engagement with issues in less traditional  ways and considering infor-
+mation in more holistic ways.  
+It’s very much a data-based organization. They like to make decisions based on what 
+they’re seeing in data, and the data comes after stuff happens. That was one of the 
+problems with the crisis. When we were fighting the economists about how serious 
+this was, it wasn ’t showing up in the data yet. It was anecdotal. It was the Diane 
+Thompsons and the consumer people telling us these problems. But, in traditional 
+sources of data that the safe ty and soundness people and the economists were look-
+ing at, it wasn’t showing up yet. By the time it showed up, it was a major problem.  
+28
+Journal of Financial Crises Vol. 5 Iss. 3
+
+--- Page 5 ---
+Having a greater variety of viewpoints at the table and being heard can help with getting 
+ahead of major problems, which is the key to effective crisis-fighting.  
+Braunstein also pointed to another factor, of particular importance to the work of the DCCA, 
+that diversity of viewpoints might have helped, and on which the government did not score 
+highly during the GFC—the interest of the taxpayer. The crisis had several components, and 
+Braunstein gives the Fed and government high marks for preventing the collapse of the fi-
+nancial system, but she also pointed out that the accompanying housing and foreclosure cri-
+ses were not as successfully addressed. Consumers do not have the same voice as banks, she 
+said: 
+The way our country is currently set up, the banks [corporations] always have the 
+edge, and i t’s very difficult to get people in the government to focus sufficiently on 
+real people and consumers. We see that not just with financial stuff; we see that with 
+childcare, education, health care.  
+More diversity of opinions and backgrounds and a willingness to rethink traditional norms 
+might result in greater creativity in a ssessing problems and designing more effective solu-
+tions. As an example, she pointed to one success of the DCCA, a total rewrite of the mortgage 
+and credit card disclosure language:  
+The other big thing we did was modifying the disclosures , because the old mortgage 
+disclosures were like Greek, and people with advanced degrees couldn’t figure out 
+the documents. One of the things that I am most proud of that we did—and the bureau 
+is doing it now, but we did it before the bureau existed—is instead of having a bunch 
+of lawyers sit in a room and develop financial disclosures, which is how they had al-
+ways done it, we started using focus groups. This was not only for mortgage disclo-
+sures. We used them for credit cards disclosures, for all financial disclosures. We 
+hired professionals who ran focus groups. We drafted options and ran them through 
+to see if people understood what they were looking at, and through that method we 
+figured out the best way to present information in the mandated disclosures.  I think 
+it helped with more transparency for financial markets. 
+This in only one example, but Braunstein sa id it embodies an important lesson—regulators 
+“need to get out of their little narrow scopes and look holistically at what ’s happening on a 
+much broader level, and still keep in mind the impact of [their] decisions and [their] actions 
+on real people.” 
+Dated: November 2023 
+YPFS Lessons Learned No. 2021-39 
+29
+Lessons Learned: Sandra Braunstein Chute Lynch and Wiggins

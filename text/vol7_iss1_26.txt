@@ -1,0 +1,327 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 7 Issue 1 
+2025 
+Liquidity Facilities Provided to Banks during the Dominican Liquidity Facilities Provided to Banks during the Dominican 
+Republic Financial Crisis of 2003 Republic Financial Crisis of 2003 
+Marco Porfirio Martínez 
+Financial Stability Subdirectorate, CBDR 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Finance and Financial Management Commons, Law and Economics Commons, Policy Design, Analysis, 
+and Evaluation Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Porfirio Martínez, Marco (2025) "Liquidity Facilities Provided to Banks during the Dominican Republic 
+Financial Crisis of 2003," Journal of Financial Crises: Vol. 7 : Iss. 1, 683-689. 
+DOI: https://doi.org/10.17132/2693-3179.1636 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/26 
+This Note is brought to you for free and open access by the Journal of Financial Crises and EliScholar – A Digital 
+Platform for Scholarly Publishing at Yale. For more information, please contact journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This note is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/
+iss1/26
+
+--- Page 3 ---
+ARCHIVE NOTE 
+ 
+ 
+Liquidity Facilities Provided to Banks during the 
+Dominican Republic Financial Crisis of 20031 
+Marco Porfirio Martínez2 
+April 15, 2025 
+Abstract 
+As part of an agreement with the International Monetary Fund (IMF), the Central Bank of the 
+Dominican Republic (CBDR) released a comprehensive document providing an overview of 
+the origins and handling of the 2003 financial crisis. This Archive Note builds on the 
+highlights of that document by discussing primary factors that led to problems within Banco 
+Intercontinental (Baninter), the bank that triggered the crisis; detailing measures the CBDR 
+implemented to mitigate the situation; and addressing the consequences for two other major 
+banks, Banco Mercantil and Bancrédito. 
+ 
+Keywords: Baninter, CBDR, Dominican Republic 
+  
+ 
+1 This archive note is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project case 
+studies considering ad hoc emergency liquidity programs. The cases are available from the Journal of Financial 
+Crises at https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1. 
+2 Technical Coordinator, Financial Stability Subdirectorate, CBDR . 
+683
+
+--- Page 4 ---
+ARCHIVE NOTE 
+ 
+ 
+Overview 
+Starting in mid-2002, Banco Intercontinental (Baninter), the third-largest bank by asset size 
+in the Dominican Republic at the time, faced a liquidity shortage owing to significant deposit 
+withdrawals related to  ongoing administrative mismanagement and fraudulent practices. 
+The bank sought assistance from the Central Bank of the Dominican Republic (CBDR), which 
+began providing liquidity in September 2002 through ad hoc liquidity advances and discount 
+window loans (Guzmán et al. 2005; World Bank 2004).  
+Despite liquidity provision from the authorities, Baninter’s shortage s persisted because of 
+severe accounting errors that induced the CBDR to undertake “successive extension s” of its 
+facilities (Guzmán et al. 2005, 28). In mid-January 2003, the CBDR discovered irregularities 
+in the registration of the assistance the bank received: Baninter management had recorded 
+the official liquidity assistance as deposits, thus severely underrepresenting to the public the 
+decline in deposits (Guzmán et al. 2005).  
+In March 2003, the Monetary Board 3 arranged for a much smaller  private bank, Banco 
+Dominicano del Progreso (Progreso), to acquire 90 % of the shares of Baninter and take 
+control of its operations. However, t he due diligence process revealed that  Baninter was 
+engaged in parallel accounting to hide illegal activities , which were deliberately omitted 
+from the bank’s official books. Baninter kept a separate set of books to record payments for 
+personal expenses of top executives and shareholders, financing of businesses connected to 
+related parties, donations, and other fraudulent disbursements. By hiding these expenses 
+while understating its deposit obligations, Baninter effectively evad ed regulatory reserve 
+requirements (CBDR 2003b; Guzmán et al. 2005). 
+The bank’s unreported assets and liabilities in its parallel accounting system had doubled as 
+a result of  the continuation of these bad pract ices over the course of a decade . Baninter’s 
+reported assets amounted to 26 billion Dominican pesos (DOP; USD 1.1 billion).4 The parallel 
+accounting showed additional assets worth DOP 55 billion, which was more than two-thirds 
+of the Dominican Republic’s national budget at the time. The combined size of the bank, 
+approximately DOP 81 billion, made Baninter the largest bank in the country. Given these 
+revelations of widespread accounting fraud  and the guarantees that Progreso demanded 
+against the potential liabilities, merger negotiations broke down within a month (Guzmán et 
+al. 2005). 
+On April 8, 2003, the CBDR announced the takeover of Baninter due to the bank’s failure to 
+comply with the liquidity regularization and shareholder recapitalization plans proposed by 
+the Monetary Board following the failed merger with Progreso. The CBDR emphasized in its 
+statement that it would ensure the public’s deposits remained secure and that the bank’s 
+operations would continue under the supervision of an administrative commission.  It was 
+ 
+3 The Monetary Board is the highest monetary authority responsible for determining monetary, exchange rate, 
+and financial policies. This body is made up of the governor of the Central Bank, the minister of finance, and the 
+superintendent of banks, in addition to six members appointed by the Executive Branch  (CBDR n.d.). 
+4 Per the CBDR, USD 1 = DOP 22.7 in March 2003. 
+684
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 5 ---
+ARCHIVE NOTE 
+ 
+ 
+not until May that the CBDR revealed to the general public the situation of Baninter and 
+initiated legal proceedings against the bank’s main executives (CBDR 2003b; World Bank 
+2004).  
+The CBDR p rovided a substantial financial package totaling DOP 79.4 billion during the 
+liquidation process, which included liquidity facilities, depositor payments, and the 
+acquisition of loan portfolios. About 70% of the deposits were paid in cash, while the 
+remainder was paid with securities  issued by the CBDR to sterilize the remainder and 
+prevent further inflationary pressures. Additionally, Baninter’s certificates of deposit were 
+exchanged for investment certificates issued by the CBDR, with maturities ranging f rom 90 
+days to three years and at an interest rate of 14%. These investment certificates accumulated 
+a total value of DOP 29 billion (Guzmán et al. 2005; World Bank 2004). 
+Despite the CBDR’s attempts to contain Baninter’s liquidity issues, the contagion spread to 
+two medium-sized banks, Bancrédito and Banco Mercantil, that had also been facing 
+“management deficiencies” (IMF 2003, 1) . Bancrédito held assets and contingencies 
+equivalent to 14.6% of the total market, while Mercantil held 6.2%. At the time, the CBDR 
+had adopted a restrictive monetary stance to stabilize the foreign exchange market and 
+moderate inflationary pressures. New measures included increasing the reserve 
+requirement on new deposits from 10% to 15% for noncommercial bank f inancial entities 
+and a plan to reduce the legal reserve ratio for commercial banks from 20% to 17%, although 
+this idea was eventually abandoned, and the earlier 20% ratio was maintained. These stricter 
+reserve requirements, along with continued deposit withdrawals  and further reports of 
+fraud, exacerbated the liquidity shortages in the market. As a result, Bancrédito and 
+Mercantil resorted to using the facilities that had been made avail able to Baninter  (CBDR 
+2003c; Guzmán et al. 2005). 
+Bancrédito’s resolution involved the transfer of assets and liabilities to Banco Profesional, 
+another private banking institution, with assistance from the CBDR. This assistance 
+amounted to approximately DOP 23.2 billion, primarily consisting of the acquisition of loans 
+from related parties and other assets owned by Bancrédito’s owner (Guzmán et al. 2005). 
+Similarly, Mercantil’s resolution involved the transfer of assets and liabilities to Republic 
+Bank of Trinidad and Tobago (RBTT), another commercial bank, facilitated by the CBDR  in 
+November 2003. As part of the negotiation for the transfer, RBTT committed to recapitalizing 
+Mercantil and the CBDR agreed to providing for potential losses arising from impaired assets 
+amounting to DOP 6.5 billion. In addition, the CBDR managed several assets of Mercantil, 
+including commercial loans, promissory notes, and letters of guarantee, with a total value of 
+DOP 4 billion. However, a report published by the Financial Department of the CBDR  at the 
+time cautioned that only DOP 1 billion (approximately 17% of the total) would be recovered 
+through emergency assistance programs  and that even that figure was deemed to be 
+optimistic (Guzmán et al. 2005).  
+As predicted, the overall disbursement associated with the measures provided by the CBDR 
+to Baninter, Bancrédito, and Mercantil amounted to more than DOP 1 00 billion, which 
+equaled approximately 2 0–25% of the Dominican Republic’s GDP in 2003. This figure 
+685
+Liquidity Facilities during the Dominican Republic Financial Crisis of 2003 Porfirio Martínez
+
+--- Page 6 ---
+ARCHIVE NOTE 
+ 
+ 
+included payments to depositors, the acquisition of loan portfolios and other assets, and the 
+liquidity facilities provided to the three banks. The majority (73 %) of  resources w ere 
+allocated to Baninter. In response to the significant costs incurred during the crisis, Congress 
+passed a law outlining a plan to recapitalize the CBDR. The package of measures involved the 
+issuance of bonds by the state and the direct transfer of funds and contributions from the 
+state to the CBDR (DR 2007; Guzmán et al. 2005).  
+Liquidity Facilities 
+The CBDR, as lender of last resort, structured the facilities to provide liquidity to commercial 
+banks that were e xperiencing a decline in deposits and unable to meet their resource 
+demands in the interbank market. To access this facility, banks were required to undergo an 
+evaluation conducted by CBDR officials. This evaluation was based on the latest consolidated 
+balance sheets of all entities related to the ba nk. Recipient banks also had to  meet the 
+domestic solvency requirement, which mandated a capital adequacy ratio of at least 10% of 
+risk-weighted assets. Additionally, they were expected to maintain the solvency condition 
+throughout the duration of the facility. Furthermore, banks were prohibited from expanding 
+their loan portfolios and participating in currency-related treasury operations related to the 
+currency market. Finally, facility use required authorization from the CBDR’s Open Market 
+Committee (Guzmán et al. 2005).  
+The amount of liquidity advances and the loans provided through the discount window 
+facilities depended on the bank’s capital and tot al deposits. Initially capped at 1 % of total 
+deposits per bank , the CBDR temporarily raised the limit for these facilities as market 
+conditions worsened. In September 2002, when the CBDR’s liquidity assistance to Baninter 
+began, the limit of the facilities increased to 3%. In October, the CBDR temporarily increased 
+the limit to 5 % in accordance with the resolution requirements ; it then provisioned for a 
+final limit increase of up to 8% in December 2002 (Guzmán et al. 2005). 
+Initially, the overall assistance received by a bank  from the CBDR could not exceed 30 % of 
+its capital. This limit aimed to objectively restrict the commitment of public resources to the 
+inefficient management of private banks. However, in October 2002, the CBDR increased the 
+limit so that it could grant liquidity facilities up to 60% of an institution’s paid-in capital and 
+reserves (and up to 100 %, if necessary). In November 2003, the government increased the 
+upper limit again such that the CBDR could lend up to 1.5 times the Tier 1 capital if necessary. 
+The amount of aid given to Baninter reached nearly four times the bank’s capital and 
+reserves at the end of 2002, well in excess of the legal limit  of 1.5 times the bank’s capital 
+and reserves (Guzmán et al. 2005). 
+The rates for accessing these facilities, particularly loans from the discount window, were 
+calculated based on the current average loan rate in the market, adding a penalty charge. 
+Specifically, these rates were equivalent to the weighted average of the active interest rates 
+of multiple banks plus a margin of 3 percentage points . Moreover, banks had the option to 
+renew the loans up to three times, with each renewal incurring an additional 2 percentage 
+686
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 7 ---
+ARCHIVE NOTE 
+ 
+ 
+points to the rate. However, once this limit was reached, banks were unable to reuse the 
+facility for the following six months (CBDR 2003a; Guzmán et al. 2005). 
+Banks were required to submit collateral  (in the form of promissory notes)  equivalent to 
+125% of the required loan amount. Loans could be collateralized by the following assets: (a) 
+central bank deposits, other than required reserves; (b) securities issued by the CBDR and 
+the Ministry of Finance;  (c) titles issued by the government, duly approved by the National 
+Congress; and (d) loans rated A and B by the superintendent of banks, tied to a mortgage 
+guarantee (CBDR 2003a; Guzmán et al. 2005). 
+Impact on Monetary Policy Transmission 
+The failure of these banks in the Dominican Republic during the 2003  financial crisis had a 
+profound impact on the country’s economy and led to significant imbalances and a shift in 
+the trajectory of economic growth. The primary objective of monetary policy was to tackle 
+the imbalances that the crisis  caused. In the short term, the CBDR focused on increasing 
+interest rates to moderate exchange rate pressures and collect the excess liquidity generated 
+by liquidity advances and other facilities granted (IMF 2003). 
+However, despite the CCBDR’s efforts to sterilize liquidity fr om the rescue operations, 
+monetary issuance increased by 101.6% to DOP 77.5 million by the end of 2003. The overall 
+economic slowdown and  sharp depreciation of the peso contributed to inflationary 
+pressures. Inflation reached 42.7% by the end of 2003 (CBDR 2004; IMF 2003).  
+In December 2003, the CBDR issued securities amounting to DOP 60 billion—placed through 
+over-the-counter transactions, competitive auctions among institutional investors, and the 
+exchange of Baninter deposits for CBDR investment certificates. These measures effectively 
+demonetized approximately DOP 30 billion (CBDR 2003b; CBDR 2004). 
+The CBDR also adopted a measure to exclude cash on hand when computing the 20 % legal 
+reserve calculation, allowing for an increase in reserve deposits at commercial banks. This 
+amounted to a  proportional increase in reserve requirements, which resulted in 26.5% of 
+total liabilities being subject to reserve requirements by the end of 2003 . Additionally, due 
+to the transparency of deposits and associated cleanup of banks’ credit portfolios,  the 
+loan/deposit ratio fell from 97.5 % at the end of 20 02 to 78.7 % by the end of 2003  (CBDR 
+2004).  
+The banking crisis resulted in significant pressures on the Dominican peso, high inflation, 
+and a substantial flight of capital to foreign markets. Economic activity deteriorated as 
+consumer spending and investment declined. However, the crisis also prompted authorities 
+to develop a comprehensive program aimed at strengthening the financial system. This 
+package of measures focused on implementing stringent prudential regulation and 
+instituting risk-based s upervision practices. Such structural changes were intended to 
+strengthen the regulatory framework of the banking sector, ensuring financial stability and 
+mitigating systemic risk (IMF 2003). 
+687
+Liquidity Facilities during the Dominican Republic Financial Crisis of 2003 Porfirio Martínez
+
+--- Page 8 ---
+ARCHIVE NOTE 
+ 
+ 
+ 
+References and Key Program Documents 
+Legal/Regulatory Guidance. 
+(CBDR 2003a) Central Bank of the Dominican Republic (CBDR). 2003a. “Last Resort Lender 
+Regulation.” December 18, 2003. 
+Regulation explaining under what circumstances the Central Bank of the Dominican Republic 
+will grant last resort loans (in Spanish). 
+https://elischolar.library.yale.edu/ypfs-documents2/4242 
+(DR 2007) Government of the Dominican Republic (DR). 2007. Law No. 167-07 for the 
+Recapitalization of the Central Bank of the Dominican Republic. July 13, 2007. 
+Law establishing legal and financial mechanisms for the recapitalization of the Central Bank 
+of the Dominican Republic (in Spanish). 
+https://elischolar.library.yale.edu/ypfs-documents2/4247 
+Press Releases/Announcements. 
+(IMF 2003) International Monetary Fund (IMF). 2003. “Public Information Notice: IMF 
+Concludes 2003 Article IV Consultation with the Dominican Republic.” Public Information 
+Notice No. 03/123, October 14, 2003. 
+Public information notice announcing the end of the IMF executive board’s Article IV 
+consultation with the Dominican Republic. 
+https://elischolar.library.yale.edu/ypfs-documents2/4249 
+Reports/Assessments. 
+(CBDR 2003b) Central Bank of the Dominican Republic (CBDR). 2003b. “First Resolution 
+Dated July 7, 2003, Which Revokes and Dissolves the Operations of Banco Intercontinental, 
+SA.” April 9, 2003. 
+Resolution issued by the Monetary Board revoking and dissolving Baninter’s operations (in 
+Spanish). 
+https://elischolar.library.yale.edu/ypfs-documents2/4241 
+(CBDR 2003c) Central Bank of the Dominican Republic (CBDR). 2003c. “Report on the 
+Dominican Economy, January–March 2003.” June 2003. 
+Report describing the Dominican Republic economy in March 2003 (in Spanish). 
+https://elischolar.library.yale.edu/ypfs-documents2/4244 
+(CBDR 2004) Central Bank of the Dominican Republic (CBDR). 2004. “Supplement - Report 
+on the Dominican Economy, January–December 2003.” March 2004. 
+Annexed tables of a March 2004 report describing the Dominican Republic economy as of 
+December 2003 (in Spanish). 
+https://elischolar.library.yale.edu/ypfs-documents2/4245 
+688
+Journal of Financial Crises Vol. 7 Iss. 1
+
+--- Page 9 ---
+ARCHIVE NOTE 
+ 
+ 
+  
+689
+Liquidity Facilities during the Dominican Republic Financial Crisis of 2003 Porfirio Martínez
+
+--- Page 10 ---
+ARCHIVE NOTE 
+ 
+ 
+(Guzmán et al. 2005) Guzmán, Jose Florencio, Ernesto Livacic, Claudio Mauch, and Miguel A. 
+Ortiz. 2005. “Report of the International Expert Panel: Crisis Dominican Banking, Revised 
+Version.” March 2005. 
+Report proposing measures to strengthen and modernize the financial system of the 
+Dominican Republic (in Spanish). 
+https://elischolar.library.yale.edu/ypfs-documents2/4246 
+(CBDR n.d.) Central Bank of the Dominican Republic (CBDR). n.d. “Monetary Board of the 
+Central Bank of the Dominican Republic.” Accessed November 2, 2023. 
+Webpage describing the role of the Monetary Board of the Central Bank of the Dominican 
+Republic (in Spanish). 
+https://elischolar.library.yale.edu/ypfs-documents2/4248 
+(World Bank 2004) World Bank. 2004. “Progress Report of the Country Assistance Strategy 
+from the World Bank Group for the Dominican Republic,” Memorandum to the President of 
+the International Bank for Reconstruction and Development and the Executive Directors of 
+the International Finance Corporation, February 3, 2004. 
+Report from the World Bank for the Dominican Republic addressing the deterioration in its 
+economic performance (in Spanish). 
+https://elischolar.library.yale.edu/ypfs-documents2/4250 
+ 
+Copyright 2025 © Yale University. All rights reserved. To order copies of this material or to 
+receive permission to reprint any or all of this document, please contact the Yale Program on 
+Financial Stability at ypfs@yale.edu. 
+ 
+690
+Journal of Financial Crises Vol. 7 Iss. 1
